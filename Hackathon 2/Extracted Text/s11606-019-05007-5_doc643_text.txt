@@ -1,0 +1,33 @@
+# ABSTRACTS JGIM
+
+# IMPROVING PPI PRESCRIBING PRACTICES IN AN ACADEMIC SAFETY-NET PRIMARY CARE CLINIC: QUALITY IMPROVEMENT PROJECT
+
+Naren S. Nallapeta1; Smita Y. Bakhai2. 1University at Buffalo, Buffalo, NY; 2SUNY at Buffalo, Williamsville, NY. (Control ID #3173031)
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Baseline enrollment data for the cohort of patients being followed by participating residents was obtained via electronic health record query for the period of January 2017 to September 2017; subsequent enrollment data was obtained at the conclusion of each of the three intervention phases. During phase-1 (from October 2017 to December 2017), participating residents incorporated a discussion of the portal with patients and provided an instructional handout during clinic visits. During phase-2 (from January 2018 to March 2018), a volunteer was introduced into routine clinic visits to provide portal education and assistance with portal enrollment to patients. During phase-3, e-mail invitations with instructions on how to enroll in the portal were automatically sent to patients at the time of their registration for their visits.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The primary metric to evaluate success was the overall percentage of patients signed up for access to the online patient portal. A secondary metric was the sign-up success rate for each of the 3 separate approaches.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From January 2017 to September 2017—the period before our intervention—a total of 535 patients were seen by the participating internal medicine clinic residents, of which 99 (18.5%) were already enrolled in the portal. After phase-1 of the intervention, 58 of 303 (19.1%) patients seen by participating residents were enrolled in the patient portal. At the conclusion of phase-2, 54 of 228 (23.7%) patients seen by participating residents were enrolled in the patient portal. Furthermore, 47 patients of 228 patients completed their visit with the volunteer, and of these 47 patients, 21 patients enrolled into the portal, giving a yield of 44.6% from the volunteer intervention alone. At the end of phase-3, 22 of 100 (22%) patients seen by participating residents were enrolled in the patient portal.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+While our study demonstrated modest overall success rates for combining the various methods of improving patient portal sign up rates, a more important outcome was the much greater success rate of the volunteer-based method. In the setting of an at-risk patient population, efforts to dramatically increase patient portal enrollment may need to consider having a staff member or members devoted to assisting with the sign-up process and usage of online patient portals.
+
+# IMPROVING REFERRALS FOR PENICILLIN ALLERGY TESTING: A PRIMARY CARE STRATEGY FOR PENICILLIN ALLERGY DELABELING
+
+Dustin Fowler; Samuel O. Schumann. Medical University of South Carolina, Charleston, SC. (Control ID #3186231)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite approximately 90% of patients who report a penicillin allergy having penicillin tolerance, less than 0.1% of penicillin allergy reporters undergo appropriate confirmatory testing, lending to increases in unnecessary broad-spectrum antibiotics use, the rates of certain drug-resistant infections and medication costs.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify patients who report a penicillin allergy and are candidates for penicillin allergy testing, through a

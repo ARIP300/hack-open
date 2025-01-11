@@ -1,0 +1,47 @@
+# ABSTRACTS JGIM
+
+# 2% or 5% in the metric at the targeted sites would result in system-wide improvements of 0.8% or 2.1%, respectively, which would surpass the eligibility threshold for a VBP of $20,000,000. In another example, if we achieved the goal metric for just 222 more patients, the system would be eligible for a VBP of $817,950.
+
+# CONCLUSIONS:
+
+Implementing a diabetes QI program in a value-based era could be associated with a significant increase in revenue in a safety net system - an increase that can be used to support the hiring of additional providers for these programs. Thus, when considering whether or not to implement QI programs, health systems should account for VBP revenue, often tied to small changes in performance, to fully capture the financial impact.
+
+# REACH AND EFFECTIVENESS OF VIRTUAL DIABETES PREVENTION PROGRAMS IMPLEMENTED AT NATIONAL SCALE
+
+Ilya Golovaty 1; Sandeep Wadhwa 2, 3; Ronli Levi 1; Hilary Seligman 1. 1 University of California San Francisco, San Francisco, CA; 2 University of Colorado School of Medicine, Aurora, CO; 3 Solera Health, Phoenix, AZ. (Control ID #3180379)
+
+# BACKGROUND:
+
+Nearly a third of US adults have prediabetes, 5-10% of whom will develop diabetes annually. Sustained weight loss via intensive lifestyle programs based on the Diabetes Prevention Program (DPP) may reduce this risk by half. Virtual DPP, as an alternative to in-person DPP, offers the promise of more rapid scaling but has not been rigorously evaluated. We examined the reach and impact of virtual DPP implemented at national scale.
+
+# METHODS:
+
+This longitudinal analysis includes data from 20,709 adults referred to 9 virtual DPP providers through a private platform that manages performance-based claims among multiple payers. We included adults age >18 at high risk for diabetes by CDC criteria who were referred to DPP from 2015-2017. The table defines our implementation outcomes (all binary) by categories of Reach, Engagement, and Effectiveness. Multivariable logistic models adjust outcomes for participant (age, gender, race/ethnicity) and setting (state, household income and rurality) characteristics.
+
+# RESULTS:
+
+Participants had a mean age of 49 and were 74% women and 60% white. The mean BMI was 34 kg/m2. Reach: In multivariable models, there was an incremental decrease in odds of enrollment by increasing age group (18-44 yo referent, 45-64yo AOR 0.77, [95% CI] 0.73-0.82, >65yo AOR 0.50, 0.45-0.55). Rural participants were slightly more likely than urban participants to enroll (AOR 1.10, 1.00-1.22). Engagement: 61% of participants interacted with the program at week 24 among those enrolled. There was an incremental increase in odds of 24-week engagement by increasing age group (18-44 yo referent, 45-64 yo AOR 1.39, 1.28-1.51, >65yo AOR 2.07, 1.76-2.44). Effectiveness: 28% of participants achieved >5% weight loss between week 24 and 52 among those who enrolled. Odds of achieving 52-week >5% weight loss increased as age group increased.
+
+# CONCLUSIONS:
+
+Maintained weight loss with virtual DPP was modest compared to national in-person DPP, but the high reach suggests broad population impact is possible, particularly among younger and more rural participants. As CMS expands reimbursement to performance-based DPP, rigorous examination of virtual platforms will be critical to inform national policy regarding acceptability of virtual DPP as an alternative to in-person DPP.
+
+# REASONS FOR NON-VISIT-BASED ANTIBIOTIC PRESCRIBING
+
+Adriana Guzman 3; Tiffany Brown 3; Ji Young Lee 3; Michael A. Fischer 1; Mark W. Friedberg 2, 4; Jeffrey A. Linder 3. 1 Brigham & Women's Hospital, Boston, MA; 2 RAND, Boston, MA; 3 Northwestern University Feinberg School of Medicine, Chicago, IL; 4 Brigham and Women's Hospital, Boston, MA. (Control ID #3184238)
+
+# BACKGROUND:
+
+Non-visit-based antibiotic prescriptions (those that occur outside of an in-office encounter) account for over 20% of all ambulatory antibiotic prescriptions. Little is known about the reasons for non-visit-based antibiotic prescriptions, but the information in electronic health records (EHR) may offer insights. We conducted a retrospective cohort study in a large academic health system to understand reasons for non-visit-based antibiotic prescribing.
+
+# METHODS:
+
+We queried the EHR of a large, integrated health system to identify all oral, antibacterial antibiotics prescribed from November to December 2018. We excluded antibiotic prescriptions that occurred within 7 days after an in-person office encounter at the prescriber's clinic; to patients with a recently completed or scheduled procedure; to patients with a recent abnormal urine test result; and if there was an infection-related ICD-10 code associated with the antibiotic order. For the remaining non-visit-based antibiotic prescriptions, we randomly sampled a subset and manually reviewed the EHR to identify reasons for the prescription. If no EHR justification could be identified, we contacted clinicians, primarily via email, to complete a survey asking why they prescribed the antibiotic.
+
+# RESULTS:
+
+During the study, there were 13,686 antibiotic prescriptions, 12,100 (88.4%) were associated with in-person visits at the prescriber's clinic. Of the 1,586 non-visit-based antibiotic prescriptions, 598 (38%) were excluded because of a procedure or abnormal urine result and 159 (10%) had a documented infection-related diagnosis associated with the antibiotic order. After exclusions, 829 (52%) of non-visit-based prescriptions remained unexplained and 741 of these prescriptions were randomly sampled for review. Chart reviewers found an explanation in the EHR for 683 (92%) prescriptions. The most common reasons - not mutually exclusive - were patient reported symptoms (460; 67%), continuation of a previous clinical problem (124; 18%), resulted labs or imaging studies (117; 17%), or upcoming international travel (103; 15%). The most common symptoms documented were cough (170; 37%), sinus symptoms (160; 35%), and urinary symptoms (94; 20%). Continuation of a previous clinical problem was often related to an in-person encounter with a different clinician (88; 71%) and often a response to persistent symptoms, such as cough and sinus symptoms. To date, we have received survey responses from 17 of 45 clinicians. Clinicians' stated reasons include poor documentation (e.g., antibiotic was for a symptom or an infection diagnosis not entered into the EHR), patient travel, or the antibiotic was for a prescriber's family member.
+
+# CONCLUSIONS:
+
+Non-visit based antibiotic prescribing is generally a response to patient-reported symptoms though it may also occur for a variety of other reasons. A high proportion of non-visit-based antibiotic prescriptions remain unexplained.

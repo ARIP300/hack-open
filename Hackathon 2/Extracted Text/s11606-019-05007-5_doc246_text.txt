@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+have higher TCM scores and are more likely to be readmitted, even after adjusting for intensity of primary care and medical comorbidities. We hypothesize that we were unable to control for confounding by indication, i.e., that PCPs provide (or at least document) more intensive transitional care for patients whom they believe are at higher risk for readmission. A randomized controlled trial is likely necessary to demonstrate whether TCM activities are effective in improving outcomes after hospital discharge. In addition, other methods of measuring the activities which take place during post-discharge visits may be needed.
+
+# RELATIONSHIP BETWEEN MENTAL HEALTH AND OPIOID MISUSE IN PEOPLE LIVING WITH HIV AND CHRONIC PAIN
+
+Emma Richard 1; Ariana G. Pazmino 1; Ana Alicia De La Cruz 1; Chinazo Cunningham 1; Hector R. Perez 1; Chenshu Zhang 1; Yuting Deng 2, 1; Joanna L. Starrels 1. 1 Albert Einstein College of Medicine & Montefiore Medical Center, Bronx, NY; 2 Montefiore Health System, Bronx, NY. (Control ID #3185372)
+
+# BACKGROUND:
+
+People living with HIV (PLWH) have a high prevalence of chronic pain and prescription opioid use and misuse. Anxiety, depression, social isolation, and PTSD are common in PLWH and all patients with chronic pain. However, little is known about the relationship between these mental health conditions and prescription opioid misuse in PLWH who have chronic pain.
+
+# METHODS:
+
+This is a cross-sectional analysis of baseline data from 100 PLWH with chronic pain enrolled in a longitudinal observational study between May 2017 and December 2018. The primary outcome, opioid misuse, was assessed using the Current Opioid Misuse Measure (COMM, scored out of 68, 9 indicates misuse). The COMM assesses self-reported signs and symptoms of intoxication, emotional volatility, poor response to medications, addiction, healthcare use patterns, and problematic medication behavior. Four separate multivariate linear regression models were constructed to examine the relationship between each of 4 mental health variables with opioid misuse: anxiety (Brief Symptom Inventory anxiety subscale, scored out of 24), depression (Center for Epidemiologic Studies Depression Scale, scored out of 30), social isolation (PROMIS measure, scored out of 32), and PTSD (PTSD Checklist-Civilian Version, scored out of 25). Age, race, gender, and whether patients had 3 opioid prescriptions 21 days apart in 6 months (chronic opioid therapy [COT]) were covariates. A fifth model included all mental health variables.
+
+# RESULTS:
+
+Of 100 PLWH and chronic pain, 44 were currently prescribed opioids. Of the 44, the mean age was 55, 47.7% were male, 52.3% were African American and 34.1% were Hispanic, and 52.3% were on COT. The mean COMM score was 13 and 65.9% of participants met the threshold for misuse. In separate multivariate linear regression models, anxiety, depression, social isolation, and PTSD were each positively associated with opioid misuse (Table). When all mental health variables were included in the same model, only anxiety remained significantly associated with opioid misuse (adjusted beta=1.08, CI: 0.14-2.03, R²=0.51, p<0.05).
+
+# CONCLUSIONS:
+
+Among PLWH with chronic pain who are prescribed opioids, anxiety, depression, social isolation, and PTSD were positively associated with opioid misuse using the self-reported COMM, and anxiety appears to be the most robust predictor of opioid misuse as measured by the COMM. However, future investigation is needed to validate which of these conditions are most strongly associated with misuse using objective measures of misuse. These findings suggest that each of these conditions should be evaluated when considering risks of opioids in PLWH with chronic pain.
+
+# RELATIONSHIP BETWEEN PHYSICIAN STRESS AND WORK SATISFACTION AFTER IMPLEMENTING TEAM-BASED PRIMARY CARE FOR COMPLEX PATIENTS: A LONGITUDINAL SURVEY ANALYSIS
+
+Jonathan Weiner; Jodi McCloskey; Connie S. Uratsu; Richard W. Grant. Kaiser Permanente Northern California, Oakland, CA. (Control ID #3178460)
+
+# BACKGROUND:
+
+Chronic stress from challenging work experiences may contribute to physician burnout. Caring for patients with complex medical and social issues may be one such stressor. We examined changes in self-reported physician stress and work satisfaction after implementing a team-based care management program for complex patients.
+
+# METHODS:
+
+Primary care physicians (PCPs) from a large integrated care system in Northern California completed surveys just prior to and one year after the implementation of a team-based (PCP, nurse, pharmacist, social worker, coordinator) program designed to support primary care for complex patients. The surveys prompted PCPs to consider their 10-15 most challenging patients and to report levels of stress and overall work satisfaction. The follow-up survey also asked PCPs to rate the helpfulness of eight different program services (e.g. medication management, care coordination, social services, support for elderly issues, and mental health). We compared changes in self-reported stress (decrease, no change, or increase) and changes in work satisfaction (increase vs. decrease or no change) from baseline to follow-up. We also compared changes in stress level and work satisfaction according to higher vs. lower PCP ratings of the helpfulness of care management services. We used logistic regression to control for gender, age, work experience, and baseline PCP panel complexity.
+
+# RESULTS:
+
+We examined 100 survey pairs for this analysis. Baseline and follow-up surveys were collected 11.9 ± 1.6 months apart (response rate 88%). Two-thirds (65%) of PCPs were women; mean age was 47.8 (± 8.2) years, and mean years' clinical experience was 20 (± 8.6) years. At baseline, 84% of PCPs reported moderate or extreme stress, and 22% were moderately or extremely satisfied with their work experience. After one year, half (49%) of PCPs reported unchanged stress levels, one third (33%) had increased stress levels, and only 18% reported decreased stress. However, over this period, half of PCPs (51%) reported improved work satisfaction. PCPs reporting decreased stress levels were more likely to highly rate help with medication management (aOR 2.44; 95% CI 1.10-5.40) and identifying additional patient resources (2.61; 1.15-5.90) as important benefits of the care management program. PCPs reporting increased satisfaction were more likely to highly rate help with all eight care management services (aORs ranging from 3.14 to 5.75, p<0.01).
+
+# CONCLUSIONS:
+
+Implementation of a team-based coordinated care program to support primary care of complex patients was associated with increased PCP-reported work satisfaction. However, these changes were insufficient to significantly improve overall PCP work-related stress. These results underscore the challenge of addressing the multi-factorial problem of stress-related PCP burnout.
+
+# RELATIONSHIP OF HOME HEALTH CARE AFTER DISCHARGE FROM SKILLED NURSING FACILITIES WITH READMISSION AFTER HEART FAILURE HOSPITALIZATION
+
+Himali Weerahandi1; Haikun Bao; Jeph Herrin2; Kumar Dharmarajan; Joseph S. Ross4; Simon Jones5; Leora I. Horwitz6. 1NYU Langone, New York, NY; 2Yale University School of Medicine, Charlottesville, VA; 3Clover Health, Jersey City, NJ; 4Yale University School of Medicine, Woodbridge, CT; 5NYU, NY, NY; 6NYU School of Medicine, New York, NY; 7Yale University, New Haven, CT. (Control ID #3160011)
+
+# BACKGROUND:
+
+Discharge to skilled nursing facilities (SNF) is common in patients with heart failure (HF). The goal of a SNF stay is to improve functional status to allow patients to return home safely. However, the second transition from SNF to home may also be risky. Here, we examine the association between receipt of home health care (HHC) and readmission risk among patients discharged from SNF to home following HF hospitalization.

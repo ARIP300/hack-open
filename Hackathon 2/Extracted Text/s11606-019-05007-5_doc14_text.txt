@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# BACKGROUND
+
+We know little about how to best communicate with older adults about optimal dietary behaviors for the self-management of multiple chronic conditions (MCC). In MCC self-management, photos can promote efficient information exchange and activate patients to more effectively communicate their complex lived experiences. Based on this premise, we conducted a pilot study to assess the feasibility and acceptability of a photo-based communication intervention to promote dietary discussions among older adults with MCC in primary care.
+
+# METHODS
+
+We recruited older adults age 60+ with at least 2+ concurrent chronic conditions and their primary care providers (PCPs) from an urban academic primary care practice. We recruited patient participants from clinic waiting rooms, PCP referrals, and from a telephone survey focused on food insecurity and MCC. Ten days before the study clinic visit, patients received a 25-minute in-person training on photo-taking with a smartphone and then took photos in response to the prompt, "What aspects of your everyday life affect what you eat and how much you have to eat?" Patients received reminder calls or text messages to take 1-2 photos/day. One week before the visit, providers received a 5 minute in-person training about what to do when patients shared photos. Patients shared photos and their narrative to their PCP during the study clinic visit. Study clinic visits were audio-recorded. We also conducted separate audio-recorded patient and provider post-visit interviews to assess perspectives on the intervention. We used an iterative, grounded theory approach to analyze transcripts.
+
+# RESULTS
+
+Nine patient-PCP dyads have completed the study to date. Patient participants were 44% female, 78% Latino or African American, and 67% completed high school education with mean age of 69 years old. PCPs on average had been in practice for 11 years since medical school (range 3-22 years) and saw on average 27 patients each week (range 7-60). 89% of patient-PCP dyads completed the intervention as trained. Patients shared 6 photos (range 5-8) on average. Visits lasted 22-39 minutes with 14-47% (average 23%) of the visit spent looking and discussing photos. 100% of patients definitely would like to share photos about health with their PCP again. 100% of PCP definitely [67%] or probably [33%] would like patients to share photos at future visits including photos related to medication use and home safety. Patient and PCP quotes illustrated the added value of the intervention (Table).
+
+# CONCLUSIONS
+
+A pilot patient-centered photo-based intervention to promote diet-related discussions between older adults with MCC and their PCPs has shown high feasibility and acceptability. Future work will assess how a photo-based intervention can enhance patient-PCP communication about other contextual factors important in chronic disease management.
+
+# METHODS
+
+The study is being conducted within an academic primary care network in the United States that uses a single electronic health record (EHR). Randomization is at the practice-level with 8 practices randomized to AF screening and 8 to usual care. Patients 65 years and older attending an outpatient visit in a participating site with a physician or nurse practitioner are eligible. Screening is performed by medical assistants, not research personnel. All eligible patients are approached while checking vital signs and those who agree are screened using a single-lead ECG device (AliveCor, US). Screening results are documented in the EHR and clinicians are notified about patients with possible AF. Clinicians can discuss screening results with patients and manage AF at their discretion. All single-lead ECGs are reviewed by a cardiologist. The primary study endpoint is incident AF during a 1-year enrollment period which began July 31, 2018. Secondary outcomes include new oral anticoagulation prescriptions, ischemic stroke and major hemorrhage. Outcomes are based on EHR documentation. With a sample size of 16,212 patients per group, a baseline AF incidence of 1.6% and an 85% screening rate, the study will have 80% power to detect a 0.42% difference in AF incidence.
+
+# RESULTS
+
+As of November 30, 2018, 11089 eligible encounters have occurred in intervention practices, with 9621 (86.8%) approached for screening by a medical assistant, and 8629 (77.8%) completing screening. Encounter data across intervention sites show high rates with modest variation (see table). Encounters where screening was declined average 8.7% (range 3.6-13.0% by site). Among 8716 eligible patients with encounters, 7141 (81.9%) have completed screening. Since patients are offered screening at all visits, 220 (62.2%) not initially screened were screened at a subsequent visit.
+
+# CONCLUSIONS
+
+VITAL-AF is the first randomized clinical trial to embed AF screening into routine primary care in the US. Initial enrollment data show that adding automated AF rhythm assessment as a new vital sign among older, at-risk adults at primary care visits is feasible and accepted by patients. Outcome assessment will determine whether it is an effective new standard of care.
+
+# A PRE-IMPLEMENTATION STUDY OF HOSPITAL-BASED HEALTH PROFESSIONAL PERSPECTIVES ON PRESCRIBING OF MEDICATIONS FOR ALCOHOL USE DISORDER
+
+Paul Joudrey 1 ; Benjamin Oldfield 1 ; Kimberly A. Yonkers 2 ; Patrick O'Connor 1 ; E. Jennifer Edelman 1 . 1 Yale School of Medicine, New Haven, CT; 2 Yale School of Public Health, New Haven, CT. (Control ID #3186284)
+
+# A PRAGMATIC TRIAL INTEGRATING ROUTINE SCREENING FOR ATRIAL FIBRILLATION IN OLDER PATIENTS DURING PRIMARY CARE VISITS: INITIAL ENROLLMENT DATA FROM THE VITAL-AF TRIAL
+
+Steven J. Atlas 1 ; Jeffrey M. Ashburner 1 ; Steven A. Lubitz 1 ; Yuchiao Chang 1 ; Ana T. Trisini Lipsanopoulos 1 ; Leila H. Borowsky 1 ; Wyliena Guan 1 ; Wei He 1 ; Patrick T. Ellinor 1 ; David D. McManus 2 ; Daniel E. Singer 1 . 1 Massachusetts General Hospital, Boston, MA; 2 University of Massachusetts Medical School, Worcester, MA. (Control ID #3185016)
+
+# BACKGROUND
+
+Atrial fibrillation (AF) is often asymptomatic and sometimes diagnosed only at the time of a stroke. Efficient and scalable screening for AF may prompt appropriate initiation of oral anticoagulation to prevent strokes. A new pragmatic trial, VITAL-AF (ClinicalTrials.gov NCT03515057), will evaluate whether adding automated AF rhythm assessment as a vital sign among older adults.
+
+# BACKGROUND
+
+Medications for Alcohol use disorder (MAUD) (acamprosate, naltrexone, and disulfiram along with off label gabapentin and topiramate) remain underutilized despite guideline recommendations and rising alcohol-related morbidity and mortality. Alcohol use disorder (AUD)-related hospitalizations are opportunities to initiate MAUD, but optimal implementation strategies are unclear. Using an implementation science framework, we assessed a multidisciplinary group of hospital-based health professional perspectives on prescribing MAUD among patients with AUD within the inpatient general medicine setting.
+
+# METHODS
+
+We completed a pre-implementation mixed method study at Yale New Haven Hospital. We administered the first two scales (evidence and context) of the Organizational Readiness for Change Assessment (ORCA) survey. We evaluated median scores (five-point Likert scale, 1 = lowest readiness, 5 = highest readiness) across ten subscales to determine the highest and lowest subscale within the evidence and context scales. We conducted profession-specific focus groups among general medicine inpatient teams.

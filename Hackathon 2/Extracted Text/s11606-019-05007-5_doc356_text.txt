@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of atypical HUS
+
+# LEARNING OBJECTIVE #2:
+
+Treat atypical HUS in a timely fashion
+
+# CASE:
+
+A 63 year-old Asian woman with a past medical history of end stage renal disease secondary to adult-onset polycystic kidney disease underwent deceased donor kidney transplant. She was initiated on tacrolimus, mycophenolate, and prednisone for immunosuppression. Post-transplant course was complicated by delayed graft function requiring dialysis, anemia, and thrombocytopenia. Laboratory studies were notable for elevated LDH, undetectable haptoglobin, and negative DAT. Peripheral smear revealed the presence of schistocytes, but ADAMTS13 was within normal limits and infectious work up was negative. Tacrolimus was discontinued without clinical improvement, so the patient was empirically started on eculizumab. The patient's renal function, anemia, and thrombocytopenia improved within 48 hours of initiation. Kidney biopsy later showed evidence of acute thrombotic microangiopathy (TMA) without rejection, and atypical HUS genetic panel was equivocal. The patient's graft function eventually recovered and she no longer needed dialysis.
+
+# IMPACT/DISCUSSION:
+
+This is a case of atypical Hemolytic Uremic Syndrome (HUS) in a post-renal transplant patient. Atypical HUS may be distinguished from classic HUS by the presence of renal failure, hemolytic anemia, and thrombocytopenia in the absence of an infectious source. TMA post-renal transplant is a complication that only occurs in approximately 0.5% patients annually, however it is associated with a 50% graft failure rate at two years and a 50% mortality rate at three years after diagnosis. Although calcineurin inhibitors have classically been implicated in the pathogenesis of atypical HUS post-transplant, calcineurin inhibitors are used commonly without incident. It has been postulated that calcineurin inhibitors, or even organ transplantation itself, act as triggers for acquired defects of the alternative complement pathway, which constitute the basis of genetic testing in suspected cases of atypical HUS. Genetic testing, however, remains neither sensitive nor specific in the diagnosis of atypical HUS. Given the risk of graft failure, it is imperative to recognize TMA syndromes early in the post-transplant course and withdraw all offending agents. If no clinical improvement is observed, and clinical suspicion of thrombotic thrombocytopenic purpura is low, empiric treatment for atypical HUS should be initiated. Eculizumab, an anti-C5 monoclonal antibody, is the treatment of choice for atypical HUS, and should be continued lifelong given the risk of graft failure and TMA syndrome recurrence.
+
+# CONCLUSION:
+
+Atypical HUS is a rare cause of post-transplant associated-TMA. Early recognition of atypical HUS is crucial to preserve donor graft function. First-line therapy for atypical HUS is the use of the monoclonal antibody eculizumab.
+
+# A RARE PRESENTATION OF CUSHING'S SYNDROME (CS): ECTOPIC ACTH SECRETION SECONDARY TO AN OLFACTORY NEUROBLASTOMA
+
+Sumedha Chablani; Andrea Carter. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185431)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize typical physical exam and laboratory findings of hypercortisolism secondary to CS
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and treat CS secondary to an ectopic ACTH secreting tumor
+
+# CASE:
+
+A 43 year-old man with a newly diagnosed olfactory neuroblastoma was admitted from home after he was noted to have hypokalemia (serum potassium level 2.1 mEq/L) on pre-operative laboratory evaluation. Admission physical examination revealed hypertension (blood pressure 162/94 mmHg), facial plethora, fat deposition in the dorsocervical area, and anasarca. Initial laboratory testing revealed significant metabolic alkalosis (blood gas pH 7.55, PaCO2 53 mmHg, HCO3 46 mEq/L) and hyperglycemia (serum glucose level 229 mg/dL). Given these findings, CS was suspected, and further testing showed an elevated random cortisol level of 112 ug/dL and serum ACTH level of 565 pg/mL. A confirmation of CS was pursued with dexamethasone suppression testing, which failed to suppress the serum cortisol levels. Given our high suspicion of ectopic ACTH secretion, a pituitary MRI and CT of the chest, abdomen, and pelvis were performed to identify possible sources but these imaging tests failed to reveal additional masses beyond his olfactory neuroblastoma. As such, a presumptive diagnosis of CS secondary to an ACTH secreting olfactory neuroblastoma was made. Prior to tumor resection, patient's hypercortisolism was initially managed with ketoconazole and spironolactone, but he ultimately required an etomidate drip to decrease his serum cortisol levels. Patient underwent tumor resection with normalization of plasma cortisol and ACTH levels. Immunohistochemical testing is currently being performed to confirm whether the patient's olfactory neuroblastoma is positive for ACTH, and therefore the etiology of his CS.
+
+# IMPACT/DISCUSSION:
+
+CS is a rare condition of hypercortisolism, which affects approximately two to three persons per million per year. CS can result from ACTH dependent or independent causes. The most common etiology of ACTH dependent CS is pituitary hypersecretion of ACTH, followed by ectopic secretion of ACTH by non-pituitary tumors. CS secondary to an olfactory neuroblastoma is very uncommon, with less than ten cases discussed in the literature. The diagnosis of CS secondary to an olfactory neuroblastoma includes immunohistochemical staining of the tumor, as well as clinical and laboratory improvement subsequent to tumor resection. While the mainstay of treatment is tumor resection, hypercortisolism in the preoperative period may be treated with ketoconazole, spironolactone, and if not adequately controlled, an etomidate drip, as was required for our patient.
+
+# CONCLUSION:
+
+This case highlights distinguishing physical exam and laboratory features of hypercortisolism secondary to CS. This case also demonstrates the presentation, diagnosis, and treatment of a rare form of CS secondary to ACTH secretion from an olfactory neuroblastoma, while underscoring the importance of pursuing a thorough work-up of CS to evaluate for alternative etiologies.
+
+# A RARE RASH WITH A COMMON CAUSE: A CASE OF DRUG-INDUCED LINEAR IGA BULLOUS DERMATOSIS
+
+Malik Darwish; Joseph M. Rocco; Ayako W. Fujita. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3172636)
+
+# LEARNING OBJECTIVE #1:
+
+Identify Linear IgA bullous dermatosis (LABD) as a rare blistering disease that requires direct immunofluorescence to confirm the diagnosis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the most common offending agents of drug-induced LABD
+
+# CASE:
+
+A 73-year old woman with recent history of an intraabdominal infection on antibiotics presented with a blistering rash. Two months prior, she was admitted for acute pancreatitis complicated by polymicrobial peripancreatic abscesses, requiring drain placement and meropenem and vancomycin. After approximately one week of antibiotics, she developed an erythematous rash on her abdomen and legs with rapidly enlarging blisters. She was afebrile. Exam was notable for multiple tense bullae of various sizes filled with serous fluid on a base of tender, erythematous papules, with oral involvement. Nikolsky sign was negative. Total body surface involved was less than 20%. Skin biopsy revealed neutrophilic subepidermal blisters with linear deposits of IgA along the basement membrane zone consistent with linear IgA bullous dermatosis. Vancomycin was suspected as the most likely precipitating factor, so it was stopped. She was also started on a high-potency topical steroid. She initially continued to form new bullae and erythema, but three days after withdrawing the vancomycin, she had rapid improvement in her rash with shrinking borders, reduced erythema, and cessation of new bullae formation.
+
+# IMPACT/DISCUSSION:
+
+Linear IgA bullous dermatosis (LABD) is a rare disease, with an incidence of less than 0.5 to 2.3 cases per million.

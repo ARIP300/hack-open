@@ -1,0 +1,25 @@
+# Abstracts from the 2019 Annual Meeting of the Society of General Internal Medicine
+
+# ABSTRACTS OF SUBMISSIONS ACCEPTED FOR PRESENTATION
+
+# SGIM 2019 Abstracts
+
+# 'REACH-IN': USING THE INPATIENT ENCOUNTER TO EXPAND ACCESS TO PRIMARY CARE-BASED TREATMENT FOR OPIOID USE DISORDER
+
+Trevor G. Lee; Michael Herscher; Reema Navalurkar; Leeza Hirt; Matthew Fine; Dillan Villavisanis; Benjamin Shuham; Jeffrey Weiss; Stacey Rubin; Linda Wang. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3186383)
+
+# BACKGROUND:
+
+Maintenance opioid agonist therapy (OAT) with buprenorphine reduces mortality and is a well-established treatment for opioid use disorder (OUD). Despite the availability of effective therapy, approximately 80% of persons with OUD do not receive it. Patients with OUD represent an estimated 4-11% of hospitalized patients and are increasingly admitted for opioid-related complications. The inpatient encounter represents an opportunity to begin OAT and coordinate continued treatment in the primary care (PC) setting. Prior research has demonstrated that in-hospital buprenorphine initiation with linkage to outpatient care is associated with increased engagement in care and decreased opioid use.
+
+# METHODS:
+
+REACH-IN is a quality-improvement program to expand access to OAT by identifying hospitalized adult patients with OUD, initiating buprenorphine, and facilitating the transition to outpatient care at REACH, a PC-based program that offers buprenorphine. Based at a large, urban hospital, REACH-IN identifies eligible patients in two ways: 1) a daily electronic report of inpatient or emergency department encounters that documented opioid use, and 2) direct referrals from providers. Eligible patients were evaluated, started on buprenorphine if appropriate, and titrated to a stable dose. All evaluated patients were offered a facilitated transition of care to REACH post-discharge. This involved meeting with REACH staff for a "warm" hand-off prior to discharge, receiving care coordination from a patient navigator, and being scheduled for a buprenorphine intake appointment within one week.
+
+# RESULTS:
+
+From April 23, 2018 to January 10, 2019 we screened 1589 encounters, 1559 (98.1%) of which were identified via the report, 30 (1.9%) via direct referrals. Of these, 855 had been discharged by time of screening. Of the remaining 734, 43 (5.9%) patients were evaluated, 11 (25.6%) of whom were started on buprenorphine in the hospital. Of the 32 who were not started, 16 (50.0%) were referred to REACH, 4 of whom eventually started buprenorphine. Four (12.5%) were referred to another OAT program. Of those started on buprenorphine in the hospital, 5 (45.5%) attended an initial outpatient visit at REACH, 5 (45.5%) were referred elsewhere for ongoing OAT, and 1 remains hospitalized, with 8 (72.7%), 5 (45.5%), and 4 (36.4%) engaged in treatment at 30, 60, and 90 days, respectively.
+
+# CONCLUSIONS:
+
+Inpatient hospitalizations represent a ‘reachable moment' to identify patients with OUD, initiate buprenorphine, and facilitate the transition to continued PC-based treatment. As hospitals see increasing numbers of opioid-related admissions, a structured partnership and facilitated transition between inpatient and outpatient providers may help expand access to OAT and increase engagement in care. These data provide preliminary evidence for the feasibility and efficacy of this collaborative model.

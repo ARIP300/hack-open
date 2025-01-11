@@ -1,0 +1,25 @@
+# International Journal for Educational and Vocational Guidance
+
+Rothwell, A., Herbert, I., & Rothwell, F. (2008). Self-Perceived Employability: Construction and initial validation of a scale for university students. Journal of Vocational Behavior, 73(1), 1–12. https://doi.org/10.1016/j.jvb.2007.12.001
+
+Rothwell, A., Jewell, S., & Hardie, M. (2009). Self-Perceived Employability: Investigating the responses of post-graduate students. Journal of Vocational Behavior, 75(2), 152–161. https://doi.org/10.1016/j.jvb.2009.05.002
+
+Schreiber, J. B., Nora, A., Stage, F. K., Barlow, E. A., & King, J. (2006). Reporting structural equation modeling and confirmatory factor analysis results: A review. The Journal of Educational Research, 99(6), 323–338. https://doi.org/10.3200/JOER.99.6.323-338
+
+Sherman, R. A. (2015). Multicon: An R package for the analysis of multivariate constructs, R package Version 1.6. Retrieved from https://cran.r-project.org/web/packages/multicon/multicon.pdf
+
+Super, D. E. (1990). A life-span, life-space, approach to career development. In D. Brown & L. Brooks (Eds.), Career choice and development. Jossey-Bass.
+
+Taveira, M. C., Cardoso, B., & Marques, C. (2017). Sociocognitive factors and results of career self-management in unemployed adults. Revista de Estudios e Investigación en Psicología y Educación, 113–117. https://doi.org/10.17979/reipe.2017.0.07.2978
+
+Van Dam, K. (2004). Antecedents and consequences of employability orientation. European Journal of Work and Organizational Psychology, 13(1), 29–51. https://doi.org/10.1080/1359432044000237
+
+Van der Heijden, B. I. J. M., Notelaers, G., Peters, P., Stoffers, J. M. M., De Lange, A. H., Froehlich, D. E., & Van der Heijde, C. M. (2018). Development and validation of the Short-Form Employability Five-Factor Instrument. Journal of Vocational Behavior, 106, 236–248. https://doi.org/10.1016/j.jvb.2018.02.003
+
+Ward, V. G., & Riddle, D. I. (2003). Measuring Employment Readiness. [Paper presentation]. NATCON Papers 2003 Les actes du CONAT. Retrieved from https://ersscale.com
+
+Wujema, B. K., Mohd Rasdi, R., Zaremohzzabieh, Z., & Ahrari, S. (2022). The role of self-efficacy as a Mediating Variable in CareerEDGE employability model: The context of undergraduate employability in The north-East region of Nigeria. Sustainability, 14, 4660. https://doi.org/10.3390/su14084660
+
+Zhu, S., & Tse, S. (2016). Possible selves, strategies and perceived likelihood among adolescents in Hong Kong: Desire and concern. International Journal of Adolescence and Youth, 21(2), 135–149. https://doi.org/10.1080/02673843.2015.1031683
+
+Publisher’s Note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

@@ -1,0 +1,53 @@
+# JGIM ABSTRACTS
+
+# 12-month follow-up was completed on November 8, 2018
+
+and the 18-month follow-up will be completed on May 8, 2019. Because follow-up is still ongoing, preliminary results are presented across the three groups, rather than separately by group.
+
+# RESULTS:
+
+A total of 840 participants were enrolled between July 2016 and August 2017 (326 usual care, 216 online program alone, and 298 combined intervention.) At enrollment, participants' mean age was 59.3 years, their mean weight was 203.1 pounds, and their mean BMI was 32.5 kg/m2; 60% of participants were female, 76% were white, 96.4% had hypertension, and 24.4% had type 2 diabetes. On average, participants lost weight, with a mean decrease of 4.7 pounds over 12 months. There were increases in weight-related quality of life (mean increase of 5.3 points on a 100-point scale), physical activity (mean increase of 5.4 minutes per week), and in excellent or very good health status (14% increase) over 12 months, with small changes in cardiovascular risk factors and dietary factors.
+
+# CONCLUSIONS:
+
+It is feasible to integrate an online weight management program with population health management support in primary care. Preliminary results indicate that participants lost weight and had improvements in weight-related quality of life, health status, and physical activity over 12 months. Analyses comparing the effectiveness of the three strategies are forthcoming.
+
+# INTEGRATING FINANCIAL COACHING AND SMOKING CESSATION COACHING TO REDUCE HEALTH AND ECONOMIC DISPARITIES IN LOW-INCOME SMOKERS
+
+Erin S. Rogers1; Elizabeth Vargas; Marc I. Rosen2; Miguel Barrios1; Mittal Rana1; John Rezkalla1; Reynalry Rozon1; Christina Wysota1; Scott E. Sherman1, 3. 1NYU Langone Health, New York, NY; 2Yale University School of Medicine, New Haven, CT; 3VA New York Harbor Healthcare System, New York, NY. (Control ID #3185072)
+
+# BACKGROUND:
+
+Smoking rates are two times higher among people living in poverty. Low-income smokers face unique barriers to cessation, including high levels of financial distress. Reducing financial distress may improve cessation rates in this vulnerable population. Moreover, cessation of tobacco spending may further alleviate financial distress by freeing-up funds that could go toward essentials (e.g., food). We examined the efficacy of a program that integrates financial management coaching into smoking cessation coaching for low-income smokers.
+
+# METHODS:
+
+We recruited 359 smokers living below 200% of the federal poverty level in New York City and randomized them 1:1 to receive up to 9 sessions of integrated financial management-smoking cessation coaching or usual care. The financial coaching aimed to help participants move from spending on cigarettes to spending on household essentials, and to help participants access financial resources. Participants completed surveys at baseline, 2 and 6 months to assess smoking and financial outcomes and treatment satisfaction.
+
+# RESULTS:
+
+Intervention patients were more likely to have made a quit attempt by 6 months than Control participants (81% vs. 66%, p=.03). Abstinence was significantly higher for the Intervention group at 2 months (23% vs 9%, p=.01) and 6 months (30% vs. 10%, p<.005). At 6 months, Intervention participants were less likely to report high levels of stress about their general finances (44% vs. 66% Control, p=.01), high levels of worry about meeting monthly expenses (56% vs 73% Control, p=.01), or high dissatisfaction with their present financial situation (63% vs 75% Control, p<.05). Intervention participants were also less likely to report frequently living paycheck to paycheck (71% vs 88% Control, p=.01) or frequently being unable to afford leisure activities (51% vs 70% Control, p<.05). There was no group difference in the level of confidence in being able to pay for a $1,000 financial emergency (71% low confidence for both). Among the 71% of Intervention participants who began counseling, 85% reported being very satisfied with the integrated counseling. Fifty-one percent reported that the number of counseling sessions they received was "just right," while 36% reported that the number was "too few." Out of the participants who quit smoking, 100% reported that quitting smoking helped them financially and 58% described achieving one or more of their post-quit financial goals.
+
+# CONCLUSIONS:
+
+Integrating financial coaching into our smoking cessation program was feasible and produced significantly higher abstinence rates and reductions in financial distress than usual care. Participants were highly satisfied with the integrated program and felt it helped them financially. Our integrated program can serve as a model for addressing the unique needs of low-income smokers.
+
+# INTENSIFICATION OF OLDER ADULTS ANTIHYPERTENSIVES AT HOSPITAL DISCHARGE LEADS TO SERIOUS ADVERSE EVENTS WITHOUT LONG TERM BENEFIT
+
+Timothy Anderson1; Bocheng Jing2; Charlie M. Wray3; Sarah Ngo2; Kathy Fung2; Molly Silvestrini2; Michael A. Steinman4, 2. 1University of California, San Francisco, San Francisco, CA; 2UCSF, San Francisco, CA; 3University of Chicago, Mill Valley, CA; 4SF VA Medical Center, San Francisco, CA. (Control ID #3165998)
+
+# BACKGROUND:
+
+Transient elevations of blood pressure (BP) are common in hospitalized older adults and often lead clinicians to discharge patients on intensified antihypertensive medication regimens, even when patients are hospitalized for non-cardiac conditions. This practice may expose patients to overtreatment, particularly those whose BP was previously at goal, however the clinical outcomes are unknown.
+
+# METHODS:
+
+We used national VA and Medicare data to examine veterans age >=65 years with hypertension who were hospitalized in a VA in 2011-2013 for common non-cardiac conditions. Using propensity score matching based on 120 demographic and clinical variables, patients discharged on intensified antihypertensives were compared to those who were not. Competing risk regressions were used to assess all-cause readmissions and serious adverse events (SAE) at 30 days and cardiovascular events at 1 year, accounting for the competing risk of death. The SAE outcome was a composite of emergency department (ED) visits and hospitalizations for injurious falls, syncope, hypotension, electrolyte abnormalities and acute kidney injury. The cardiovascular event outcome was a composite of ED visits and hospitalizations for acute coronary syndrome, stroke, heart failure, and hypertension. The secondary outcome of change in systolic BP was assessed within 1 year of discharge. Matching and analyses were repeated in the subgroup of patients with a pre-hospitalization SBP < 140 mmHg.
+
+# RESULTS:
+
+The matched cohort included 4056 patients, evenly divided among those who did vs did not receive antihypertensive intensifications, with excellent covariate balance (standardized mean differences for all covariates <0.1). Mean age was 77 years and 3% were female. At 30 days, patients receiving intensifications had a higher risk of SAE events [hazard ratio (HR) 1.41 (95% CI, 1.06 to 1.88); number needed to harm (NNH) 63 (35-368)] and all-cause readmissions [HR 1.23 (95% CI, 1.07 to 1.42); NNH 27 (16-76)]. At 1 year, there was no difference in cardiovascular events [(HR 1.18 (95% CI, 0.99 to 1.40)] and no difference in change in SBP among those who did vs did not receive intensifications [mean BP 134.7 vs 134.4, difference-in-differences 0.6 mmHg (-2.4 to 3.7)]. Among the 2244 matched patients with SBP<140 prior to hospitalization, patients receiving intensifications had a higher risk of SAE events and readmissions at 30 days and cardiovascular events at 1 year (all P<0.05).
+
+# CONCLUSIONS:
+
+Among older veterans hospitalized for non-cardiac conditions, those discharged on intensified antihypertensives had no difference in BP control or cardiac events at 1 year but had a substantially increased risk of serious adverse events and readmission at 30 days, with a number needed to harm of up to 27. Our findings indicate that the common practice of intensifying antihypertensive regimens during hospitalization poses greater risks than benefits and should be reserved for patients whose reason for hospitalization is related to BP control.

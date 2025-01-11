@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Chronic Opioid Use and Tapering
+
+therapy for vulnerable patients. However, little evidence exists regarding trends in tapering or discontinuation of chronic opioid use or patient characteristics associated with de-escalation of therapy.
+
+# METHODS:
+
+We examined claims from a 20% sample of Medicare beneficiaries with 24 months of continuous enrollment who initiated chronic opioid therapy from 2011-2016. We defined incident chronic opioid use for any beneficiary as >60 days of opioids supplied in each of 2 consecutive quarters. Exposures included "tapering": two consecutive quarters with >25% decrease in average daily morphine equivalent dose from the prior quarter, and "discontinuation": two consecutive quarters with no opioid prescriptions filled. We examined the characteristics of beneficiaries associated with continuous chronic opioid use vs. those with tapering or discontinuation comparing them with ANOVA tests and Cox proportional hazard models to estimate changes in the risk of tapering or discontinuation by year of chronic opioid initiation controlling for beneficiary characteristics and state fixed effects.
+
+# RESULTS:
+
+Out of 4.8 million beneficiaries from 2011-2016, 268,940 (5.5%) initiated an episode of chronic opioid use for a median of 1.5 (IQR 1.0-2.5) years. Among chronic opioid users, 72,877 (27.1%) tapered and 11,365 (4.2%) discontinued therapy. Compared to those with continued opioid use, beneficiaries with tapering or discontinuation were more likely to be eligible for Medicare through disability (58.7% vs. 64.3% and 61.7%, respectively, p<0.001), and more likely to have a prior diagnosis of drug or alcohol use disorder (1.6% vs. 2.4% and 2.2%, p<0.001). However, compared to those with continued opioid use, those with tapering or discontinuation had similar or lower average chronic illness burden (0.93 vs. 0.94 and 0.87 mean number of Elixhauser comorbidities, p=0.009). Tapering became slightly less common for chronic opioid episodes beginning later in the study period (adjusted hazard ratio for tapering 0.97 per year of initiation, 95% CI 0.96-0.97) while the likelihood of discontinuation was stable (hazard ratio 0.99, 95% CI 0.97-1.00).
+
+# CONCLUSIONS:
+
+From 2011-2016, a substantial proportion of Medicare beneficiaries used opioids for over 1½ years and close to 1/3rd tapered or discontinued therapy. Discontinuation and tapering of chronic opioid therapy was stable or decreasing for beneficiaries initiating chronic opioid therapy over this period. There was no strongly consistent bias toward vulnerable populations: patients with discontinuation or tapering had more vulnerable features in some ways (e.g. disability, substance use) while in other ways they appeared similar or lower risk (e.g. chronic illness burden).
+
+# IS THE PATIENT EXPERIENCE AT ODDS WITH TEACHING IN THE HOSPITAL? AN ANALYSIS OF PATIENT EXPERIENCE RATINGS OF TEACHING AND NON-TEACHING SERVICES
+
+Bradley H. Crotty1; Rebekah J. Walker1; Sneha Nagavally2; Jennifer A. Campbell1; Jennifer Good1; Navdeep Gupta2; Mandy Kastner1; Douglas Levine1; Joan Neuner1; Kurt J. Pfeifer1; Leonard E. Egede1. 1Medical College of Wisconsin, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, Brookfield, WI. (Control ID #3186359)
+
+# BACKGROUND:
+
+The experience of care is increasingly under scrutiny at academic medical centers (AMCs) with direct and indirect financial implications. A prior single-site study showed that hospitalist-only services had higher patient ratings of communication than teaching services. We sought to assess for differences in patient experience between teaching and non-teaching general medicine services using the standard patient experience survey (Hospital Consumer Assessment of Healthcare Providers and Systems or HCAHPS) given its use as a benchmark instrument.
+
+# METHODS:
+
+We retrospectively reviewed data from HCAHPS for general medicine discharges between August 2016 and May 2018 at Froedtert Hospital, a 604-bed academic tertiary care center. The sample data is drawn from 845 HCAHP survey responses for discharges during the year 2017. We assessed differences in individual HCAHPS questions focused on communication, physicians, and discharge information between teaching and non-teaching teams by chi square. We dichotomized the overall rating as satisfied (score of 9) or unsatisfied (<9). Prior to this, we compared illness severity using Charlson comorbidity counts and length of stay (LOS) between teaching and non-teaching services. Patients admitted to teaching and non-teaching services are admitted to the same medical floors.
+
+# RESULTS:
+
+During this period, there were 216 responses from individuals discharged from the teaching service and 561 responses from those discharged from the non-teaching service. The mean LOS was 4.61 and 4.2 respectively (p=0.3) and comorbidity counts were statistically similar (data not shown). For most questions, we did not observe significant differences according to teaching status. We saw no differences across responses for the overall hospital rating or personnel describing side effects, describing medication indications, explaining things in understandable terms, listening carefully, being treated with courtesy and respect, or getting information in writing, about symptoms or problems after discharge. Patients admitted to teaching teams were more likely to report discussions related to meeting needs upon hospital discharge (teaching services 90% vs non-teaching 82% p=0.02).
+
+# CONCLUSIONS:
+
+We identified that teaching services had similar patient experience scores on the standardized HCAHPS instrument as non-teaching services while having statistically equivalent comorbidity and lengths of stay. Teaching teams were rated higher in one communication domain. As hospitals seek to improve their patient experiences, ensuring that the teaching experience does not detract from the patient experience is critical.
+
+# JOY IS NOT THE ABSENCE OF BURNOUT
+
+Kavya Sreevalsan1; Maura J. McGuire1, 2; Colleen Christmas1, 2. 1Johns Hopkins Bayview Medical Campus, Baltimore, MD; 2Johns Hopkins School of Medicine, Baltimore, MD. (Control ID #3140202)
+
+# BACKGROUND:
+
+Recently, the growing issue of professional burnout has received much attention. An understanding of the drivers of joy in medicine are only beginning to be elucidated. We aimed to understand the factors that promote joy in medicine in a group of teachers of medical students in primary care settings.
+
+# METHODS:
+
+We added an optional survey to an existing faculty survey for the primary care clerkship consisting of multiple choice and free responses related to the joy of teaching in the primary care setting. Burnout was assessed using the Mini Z Burnout survey, and results were dichotomized (burned out = rating of 3 or higher on this scale). Respondents rated on a scale from 1 (Always) to 5 (Never) how often they felt joyful during teaching. This item was dichotomized as 2 (joyful when teaching medical students) vs. 3 (not joyful when teaching medical students). We further asked respondents to describe examples of when they felt joyful during teaching encounters and elucidated themes using standard qualitative analyses. Finally, correlation between joy and burnout was analyzed using a chi-squared analysis. The study was approved through the Johns Hopkins Institutional Review Board.
+
+# RESULTS:
+
+Of the 118 faculty that were included, 43 (36%) opted to respond to our additional survey. Of these respondents, 20/43 providers experienced burnout (47%). 32/43 respondents stated they felt joyful while teaching medical students in their practice. In describing a time the respondent felt joyful while teaching, 7 themes emerged: 1. Bearing witness to student growth; 2. Professional Development; 3. Student Motivation; 4. Teacher-Student Relationship; 5. Joyful for Patient's Role in teaching; 6. Sharing Love for What You Do; and 7. Using Personal Expertise. There was no correlation between joy in teaching and burnout (X2=0.0066, p=0.935).
+
+# CONCLUSIONS:
+
+Levels of burnout (47%) were consistent with other studies. The themes related to joy we identified in this study suggest that joy may stem from a fulfilling sense of purpose and identity. Relationships

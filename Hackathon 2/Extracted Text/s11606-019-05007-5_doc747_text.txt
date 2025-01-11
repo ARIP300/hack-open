@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# STEMMING THE RED TIDE: DESIGN OF AN INEXPENSIVE MANNEQUIN TO TEACH TEAMS TO MANAGE MASSIVE VARICEAL BLEEDING.
+
+Jorge Lara-Gutierrez; Erika L. Hoffman; Mary Ellen Elias. VA Pittsburgh, Pittsburgh, PA. (Control ID #3182929)
+
+# NEEDS AND OBJECTIVES:
+
+Variceal hemorrhage is an example of the type of medical emergency that requires efficient care provided by a rapid response team. Teams must simultaneously ensure hemodynamic stability, airway protection, prevention and treatment of complications, and management of the bleeding. Balloon tamponade is an option for temporarily stopping bleeding from esophageal or gastric bleed while definitive treatment is being arranged. Simulation can be used to teach nursing staff to gather the appropriate equipment, to maintain the device after insertion, and to set up the traction and weights needed. It can also be used to help teach clinicians how to insert the tube and to inflate the balloons in the correct order to decrease potential complications. This type of simulation was felt to be essential for employee development to increase comfort with the equipment. We were not able to find a mannequin that possessed the desired capabilities. Our objective was to create a mannequin to facilitate team-based training and to provide the opportunity to practice responding to this scenario in a safe learning environment.
+
+# SETTING AND PARTICIPANTS:
+
+Training will take place in a simulated emergency department at the VA Pittsburgh Healthcare System. A scenario was created in which a patient with cirrhosis presents with massive hematemesis. Participants will be attending physicians, fellows, residents, and nurses from the emergency department and the intensive care unit.
+
+# DESCRIPTION:
+
+To address the need for a specialized mannequin a multidisciplinary planning team was formed. Participants included critical care & ER attending, a simulation fellow, dentists, speech pathologists, and a biomedical engineer. The team identified that the simulator needed to allow faculty to teach teams to intubate the patient & to insert and inflate tamponade tubes in the correct order during active bleeding. An old Laerdal mannequin was modified.
+
+# EVALUATION:
+
+A checklist has been created for each type of learner. Physicians will be assessed on treatment priorities in this clinical scenario including airway management, and balloon tamponade insertion. Nurses will be assessed on the ability to gather the correct supplies needed for insertion and to secure and maintain the balloon tamponade tube. They will learn safe set up of the over the bed traction and how to use the massive transfusion pump.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+To create the level of fidelity deemed important by a multidisciplinary team, a full body mannequin was built utilizing an old Laerdal mannequin, a rebuilt upper airway and GI tract, a water pump, and a soda bottle. We can simulate massive upper GI bleeding. The mannequin can be intubated, and a balloon tamponade tube can be inserted & inflated. The trainer can be replicated and at the cost of less than 200.00 USD. A team-based employee development curriculum has been created to help improve comfort with handling massive upper GI bleeding which is a low-frequency high-risk event. We are training our initial team and collecting data.
+
+# STICKING TO THE SCRIPT: USING ILLNESS SCRIPT GRIDS TO SCAFFOLD LEARNING FOR PRE-CLERKSHIP MEDICAL STUDENTS
+
+McKinsey M. Pillsbury1; Sirisha Narayana1; Susannah Cornes1; Denise M. Connor1, 2. 1University of California, San Francisco, San Francisco, CA; 2University of California, San Francisco and San Francisco VA Medical Center, San Francisco, CA. (Control ID #3181351)
+
+# NEEDS AND OBJECTIVES:
+
+Pre-clerkship medical students lack the clinical insights needed to structure their growing knowledge in ways that will optimize clinical reasoning. We sought to: ● Establish the feasibility of using illness script grids to reinforce and structure early medical students' clinical knowledge ● Determine pre-clerkship students' acceptance of illness script grids as a way to crystallize small group learning ● Explore the feasibility of using freely available mobile software to create illness script libraries to encourage use in clerkships.
+
+# SETTING AND PARTICIPANTS:
+
+All pre-clerkship UCSF medical students participate in a longitudinal diagnostic reasoning curriculum. In first year, reasoning workshops introduce illness scripts and compare/contrast (vertical) learning. In second year, students take a deep dive into clinical reasoning through a capstone course, the Diagnostic Reasoning (DR) Block.
+
+# DESCRIPTION:
+
+Students review an online module describing the illness script grid format and create grids for clinical syndromes discussed in reasoning workshops as wrap-up work. Key and differentiating features of diagnoses relevant to a clinical syndrome (e.g. acute chest pain) are entered in an illness script format (predisposing factors, clinical features, time course, pathophysiology). Model grids are released to students, who also receive personalized feedback on one grid. Students use free, mobile-based software (e.g. GoogleDocs) to construct grids with an illness script template. This system (ScriptSmart) enables students to construct an illness script library organized around core clinical problems. Students can access, modify, and share this library in multiple settings, and can enrich scripts during clerkships.
+
+# EVALUATION:
+
+Students complete a survey after the DR Block, including questions evaluating their impression of illness script grids. We will analyze responses to determine acceptability and feasibility of using grids to structure learning. An IRB proposal is underway to enable us to disseminate this data, and we anticipate including this analysis if accepted at SGIM. Future work will include study of clerkship students to assess the impact of early exposure to illness script grids, and optimization of ScriptSmart using human-centered design.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+In medical schools across the United States, students are entering clinical settings earlier in training, requiring new approaches to support early integration of clinical and classroom-based knowledge. Solidifying learning using compare/contrast illness script grids has the potential to help students build mental frameworks that support their clinical reasoning. ScriptSmart is a practical way to scaffold clinical knowledge and reinforce clinical reasoning concepts. The use of freely available software to create a personalized, searchable, and modifiable mobile illness script library represents a novel way to model knowledge acquisition and encourage integration during clerkships.

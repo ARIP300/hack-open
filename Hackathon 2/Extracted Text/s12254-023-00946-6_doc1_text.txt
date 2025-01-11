@@ -1,0 +1,33 @@
+# iwCLL 2023
+
+# Preface
+
+Dear Colleagues,
+
+The 20th International Workshop on chronic lymphocytic leukemia (iwCLL) was held in Boston, USA, and virtually from 6th–9th October 2023. This conference featured 11 sessions committed to discussing the management of patients with CLL world-wide and to creating progress regarding patient outcomes.
+
+In the treatment of CLL, targeted drugs are continuously gaining ground. Continuous use of Bruton tyrosine kinase inhibitors (BTKi) including ibrutinib, acalabrutinib, and zanubrutinib has significantly improved treatment standards. While these drugs are highly effective, especially in high-risk CLL, they usually do not eliminate leukemia entirely.
+
+Thus, in the first chapter of this memo in Haematology special issue, the pros and cons of various first-line treatment options are outlined. Differences in toxicity profiles among BTK inhibitors allow for the tailoring of treatment and switching in case of intolerance. Recent studies have also been investigating the combination of BTK and BCL-2 inhibitors; this approach offers potential benefits regarding the emergence of resistance and tolerability. Additionally, the merits of time-limited doublet and triplet therapies in CLL are elaborated.
+
+In chapter 2, long-term follow-up data on fixed-duration venetoclax plus rituximab (MURANO trial) and obinutuzumab plus acalabrutinib and venetoclax (CLL2-BAAG trial) in the relapsed/refractory setting are summarized, as well as study results on zanubrutinib plus obinutuzumab and venetoclax in previously untreated CLL patients (BOVen trial) and first-line zanubrutinib monotherapy in CLL patients unsuitable for chemoimmunotherapy (SEQUOIA trial). Health-related quality-of-life data from the ALPINE study and pooled safety data on zanubrutinib vs. ibrutinib are discussed. As a remarkable example, the achievements of the iwCLL capacity-building program in Tanzania are highlighted.
+
+Last but not least, survey findings identifying gaps regarding unmet needs between low-/middle-income countries and high-income countries are discussed. The iwCLL 2023 once again provided an outstanding platform to display the dynamic advancements in global CLL care. In accordance with the iwCLL vision of a world where every CLL patient can be cured, I hope you enjoy reading this special issue!
+
+Kiyomi Mashima MD, PhD
+
+Medical Oncology, CLL Center,
+
+Dana-Farber Cancer Institute,
+
+Boston, MA, USA
+
+Department of Medicine, Harvard Medical School,
+
+Boston, MA, USA
+
+# Continuous BTK inhibition and combination regimens: present and future
+
+Agents of outstanding efficacy therefore the standard approach, with these being highly effective therapies, the covalent BTK inhibitors ibrutinib, acalabrutinib and zanubrutinib being in widespread use as front-line single agents. Also, responses to BTK inhibition tend to deepen over time.
+
+Kerry A. Rogers, MD, James Cancer Hospital and Solove Research Institute, Columbus, Ohio, USA, pointed out that the outstanding efficacy of BTK inhibitors is demonstrated by trials.

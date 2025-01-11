@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# BACKGROUND
+
+The World Health Organization (WHO) recommends lowering the cutoff for overweight body mass index (BMI) for Asians from 25 to 23 due to disproportionately higher risks of having diabetes among Asians with BMI 23. Self-awareness of being overweight or obese correlates positively with healthy weight management. This study aims to examine the factors associated with lack of awareness of unhealthy weight among Chinese American and Vietnamese American immigrants.
+
+# METHODS
+
+This study analyzed pre-intervention survey data from 680 participants enrolled in a randomized trial to promote smoking cessation and healthy eating. Participants were male daily smokers accompanied by a non-smoking family member to form a smoker-family dyad. All participants were asked "Do you think your current weight is at a healthy range?" BMI was computed from self-reported height and weight. Participants whose BMI 23 but self-perceived their weight to be in a healthy range were considered as unaware of their unhealthy weight. For the subset of participants with BMI 23, bivariate and multivariable logistic regression models using generalized estimating equation to account for within-dyad clusters were conducted to identify correlates of being unaware of one's unhealthy weight.
+
+# RESULTS
+
+Participants included 346 Chinese Americans and 334 Vietnamese Americans: 53.5% male, 99.3% foreign born, 95.8% limited English proficiency, and 41.9% had less than a high school education. About half of participants had BMI 23 (50.2%, n=319). Among those with BMI 23, 46.7% had BMI between 23 and 24.9, which would have been categorized as healthy weight by the standard BMI cutoff of 25. Of those with BMI 23, 58.9% were unaware of their unhealthy weight, and only 22.3% reported discussing weight with their doctor within the last year. Among those who discussed weight with their doctor, 36.6% remained unaware of being overweight or obese. In multivariable analysis, factors associated with lack of awareness of being overweight or obese included being male (OR=2.96, 95% CI: 1.58-5.53), perceiving good/excellent general health (OR= 2.95, 95% CI: 1.66-5.23), having BMI between 23 and 25 (OR=4.37, 95% CI: 2.62-7.27), and not discussing weight with their doctor (OR= 3.13, 95% CI: 1.69-5.82).
+
+# CONCLUSIONS
+
+A majority of Chinese American and Vietnamese American immigrants with BMI 23 lacked awareness about being overweight. Those who did not discuss weight with their doctors were at increased odds of overweight unawareness, but some remained unaware even after discussion with their doctor. These findings underscore the need for targeted interventions to help patients understand healthy weight range and weight management to prevent and improve health outcomes for diseases associated with being overweight or obese. Interventions should also engage healthcare professionals to increase weight discussions with their Asian patients utilizing recommended BMI cutoff of 23.
+
+# EXAMINING THE REPLETION REFLEX: THE ASSOCIATION BETWEEN SERUM POTASSIUM AND OUTCOMES IN HOSPITALIZED PATIENTS WITH HF
+
+Kevin F. O'Sullivan3, 2; Mohammad A. Kashef1, 3; Alexander B. Knee3, 3; Alexander S. Roseman3; Penelope S. Pekow3; Mihaela S. Stefan3, 3; Meng-Shiou Shieh3; Quinn R. Pack3, 4; Peter K. Lindenauer3, 3; Tara Lagu3, 3. 1Hamden and Franklin Cardiovascular Associates, Springfield, MA; 2University of Massachusetts Medical School, Worcester, MA; 3University of Massachusetts Medical School-Baystate Medical Center, Springfield, MA; 4Baystate Medical Center, Springfield, MA. (Control ID #3184657)
+
+# BACKGROUND
+
+Many physicians monitor their hospitalized patients' potassium levels daily and replete as needed to maintain serum potassium 4.0 mEq/L. The evidence basis for this practice is relatively weak. We aimed to evaluate the association between serum potassium levels and outcomes in patients admitted with heart failure (HF).
+
+# METHODS
+
+We identified patients with acute HF exacerbations admitted to hospitals that contributed to an electronic health record (EHR)-derived dataset in the years 2010-2012. In a subset of patients with normal serum potassium (3.5-5.0 mEq/L) at the time of admission, we averaged serum potassium values within a 72-hour exposure window during and just after admission. We categorized average serum potassium during this window as less than 4.0 mEq/L (low normal), 4.0-4.5 mEq/L (medium normal), or greater than 4.5 mEq/L (high normal). We created multivariable models examining the association between these categories and outcomes (inpatient mortality, length of stay, and admission to ICU after the "exposure window"), adjusting for patient demographics, comorbid conditions, and presenting severity (using the Laboratory-based Acute Physiology Score (LAPS-2), which includes admission blood urea nitrogen and creatinine levels as well as anion gap).
+
+# RESULTS
+
+We included 4,995 patients, of which 2,080 (41.6%), 2,326 (46.6%), and 589 (11.8%) were in the low, medium, and high cohorts, respectively. The <4.0 mEq/L and 4.0-4.5 mEq/L groups were relatively similar in terms of age, sex, illness severity (LAPS-2), and comorbidity score. Compared to these groups, the group with mean potassium >4.5 mEq/L group had higher admission creatinine, more chronic kidney disease, more deficiency anemias, and more chronic obstructive pulmonary disorder. Overall, 3.7% (n=187) of patients died during the hospitalization, 2.4% (n=98) were admitted to ICU after the exposure window and median length of stay was 5.6 days. After adjustment, we observed a trend towards higher risk of mortality (OR = 1.51; 95% CI = 0.97 to 2.36) and ICU transfer (OR = 1.78; 95% CI = 0.98 to 3.26) and a statistically significant longer length of stay (median of 0.57 days; 95% CI = 0.21 to 0.93) in patients with a potassium level of >4.5 mEq/L.
+
+# CONCLUSIONS
+
+In this large observational study of patients hospitalized with an acute HF exacerbation, we found no association between low normal serum potassium and negative outcomes. Compared to those with mean potassium values <4.0 mEq/L, potassium values of >4.5 mEq/L were associated with worse outcomes, but this was attenuated after adjustment. This suggested that factors beyond potassium values influenced the observed relationship. Because daily potassium repletion represents a huge cost in time, money, and effort, to physicians, nurses, hospitals, laboratories, and healthcare payers, future pragmatic trials could attempt to disentangle the associated risks and benefits of potassium repletion and identify the best treatment methods going forward.
+
+# EXECUTIVE PHYSICALS IN THE VALUE ERA: ARE TOP MEDICAL CENTERS LEADING THE WAY?
+
+Deborah R. Korenstein; Maha Mamoor; Peter Bach. Memorial Sloan Kettering Cancer Center, New York, NY. (Control ID #3182494)
+
+# BACKGROUND
+
+Executive physical programs are one to two-day comprehensive evaluations offering "preventive" testing/screening. Program fees cover all included testing; subsequent services in response to findings are billed to insurers. Amidst widespread efforts to improve healthcare value, executive physicals have been criticized as wasteful and non-evidence-based, but no studies have described their offerings. As top-ranked academic hospitals may be viewed as role-models in appropriate care, we set out to describe the prevalence of executive physical programs in top US academic hospitals and to characterize included non-laboratory testing.
+
+# METHODS
+
+We searched websites of the 20 hospitals included in the US News & World Report 2018-2019 hospital "honor roll" for information about executive physical programs and recorded prices and services offered. When information was incomplete, we performed Google searches and telephoned representatives to inquire about programs. When hospitals provided different packaged services based on age or price, we recorded information for each package separately. We divided services into 7 domains: cardiovascular risk review, cardiac screening, ENT/Ophthalmology, cancer screening, lung disease screening, bone health, and total body CT. We assessed the appropriateness of each service based on US Preventive Services Task Force (USPSTF) guidelines as:

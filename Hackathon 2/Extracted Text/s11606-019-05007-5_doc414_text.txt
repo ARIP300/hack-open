@@ -1,0 +1,67 @@
+# ABSTRACTS
+
+# HYPERCALCEMIA DUE TO VITAMIN D TOXICITY
+
+to thiazides and calcium and vit D supplements. Miscellaneous causes of hyperCa include immobilization and dehydration. The tolerable upper intake level of vit D as defined by the Institute of Medicine is 4000 IU daily. Published cases of hypervitaminosis D have involved intake of >40,000 IU daily. The serum concentration of 25(OH)D that results in hyperCa is undefined, though experts have estimated vit D intoxication as >150 ng/ml. Cases of toxicity have been reported in those taking mega-doses of vit D as part of a fad diet or as replacement therapy in conditions such as malabsorption, renal osteodystrophy, osteoporosis, or psoriasis. In our case, the patient was taking 1000 IU of D3 daily. Though her dose and serum levels were not expected to cause toxicity and hyperCa, multiple other factors likely increased her serum Ca, including Ca supplementation, thiazide use, dehydration, and immobility.
+
+# CONCLUSION:
+
+The etiology of hyperCa can be quickly determined with history, medicine reconciliation, and a limited set of laboratory tests. Vit D toxicity has been reported with intake of >40,000 IU per day and 25(OH)D levels >150, but hyperCa can occur at lower levels with multiple seemingly benign contributing factors.
+
+# DEVELOPMENT OF SEVERE RED RASH DUE TO VITAMIN DEFICIENCY YEARS FOLLOWING GASTRIC BYPASS SURGERY
+
+Robert Case1; Jared Freitas2; Sean P. Bliven. 1University of Florida, Gainesville, FL; 2University of Florida School of Medicine, Gainesville, FL. (Control ID #3183336)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize vitamin deficiencies of zinc and B6 as causes of red rash after gastric bypass surgery.
+
+# CASE:
+
+A 39-year-old female presented with red, painful rash, confusion and severe dehydration. Her past medical history included alcohol abuse, CHF, and untreated hep B and hep C infections. Her surgical history included gastric bypass surgery (Roux en-Y) 6 years prior to admission and both mitral and aortic valve replacement due to endocarditis. Her rash was bright red, blanchable and exquisitely tender with areas of blisters and active wheeping of fluid. The rash involved the lower half of the trunk, sacrum and upper thighs. She also had angular chelitis, glossitis and pain within her mouth. She denied recent initiation of new prescription medications or supplements. Her labs revealed multi organ system dysfunction as exhibited by acute on chronic liver injury, acute kidney injury and early signs of DIC. She became increasingly confused with worsening hypotension leading to transfer to the ICU. Her rash was biopsied and returned suggestive of a vitamin deficiency. Her labs further supported this result with critical deficiencies in vitamin B6 and zinc. After repletion of these vitamins, the rash progressively improved over the course of several weeks.
+
+# IMPACT/DISCUSSION:
+
+This case represents an unusual presentation of vitamin deficiency after gastric bypass surgery. Both dermatology and infectious disease consultants felt her presentation was concerning for toxic shock syndrome on initial evaluation. Staphylococcal toxic shock syndrome was supported as a possibility based on the presence of the erythematous rash, hypotension and multiple organ damage. However, biopsy definitively ruled this condition out. Both zinc and vitamin B6 deficiencies are common after bariatric surgery. One paper found 75% of women to have zinc deficiency after this surgery. Notably, alcohol abuse is known to exacerbate zinc deficiency by increasing bodily losses. The distribution of her rash resembled that of a diaper rash of an infant spreading to the trunk is notably consistent with a distribution due to these mineral deficiencies. The presence of angular chelitis and glossitis is also consistent with low zinc and B6 levels. While her rash may be well-explained by the vitamin deficiency, her acute presentation and sudden onset of the rash were surprising and left this diagnosis in doubt initially. This case demonstrates the variability with which these vitamin deficiencies may present clinically. Clinicians who encounter similar cases should have a low threshold to test for vitamin deficiencies and initiate treatment promptly if levels are low.
+
+# CONCLUSION:
+
+- Patients who previously underwent bariatric surgery presenting with a diffuse, red rash should be tested for vitamin deficiencies, especially vitamin B6 and zinc.
+- The rash associated with zinc and B6 deficiency may resemble toxic shock syndrome.
+- Onset of a systemic rash may occur years after bariatric surgery and progress rapidly without clear provoking cause.
+
+# DEVIC'S DISEASE AND TRANSVERSE MYELITIS: AN IMPORTANT PRESENTATION OF AN UNCOMMON DISEASE
+
+Samuel Shapiro; Benjamin Hayes. Gwinnett Medical Center, Lawrenceville, GA. (Control ID #3162774)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate a patient with transverse myelitis.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose neuromyelitis optica (NMO) in a patient with transverse myelitis.
+
+# CASE:
+
+A 55-year-old African American female with a past medical history of polymyositis presented to the emergency room with progressive ascending paresthesia of the lower extremities to the mid abdomen for 3 days. Review of systems was positive for bowel incontinence and negative for bladder incontinence, motor weakness, dysphagia, dyspnea, fever or chills. Her only medication was prednisone 5mg daily. Otherwise she did not have a significant family, surgical or social history. On physical exam, her vitals and major organ systems were normal except for the neurologic exam. She had loss of sensation to light touch and temperature distal to T5 and decreased vibratory sense of the feet. Otherwise motor, cognitive and cerebellar functions were intact. MRI of the brain and spine were significant for signal abnormality of the central gray matter from T4 to T8. The patient was diagnosed with transverse myelitis and started on high dose steroids. Serologic work up was positive for aquaporin-4 (AQP4) antibody specific for NMO or Devic's disease. Her symptoms improved and follow up MRI 3 months later showed significant improvement in the lesion.
+
+# IMPACT/DISCUSSION:
+
+Acute TM is a rare inflammatory disorder that can affect any portion of the spinal cord and cause major morbidity. It is considered a neurologic emergency and can present with motor, sensory and/or autonomic dysfunction. The differential is broad and includes spinal artery infarcts, metabolic abnormalities (vitamin B12, copper), infection, neoplasm, neurodegenerative (multiple sclerosis (MS), neuromyelitis optica), and autoimmune (SLE, sarcoidosis, Sjogren's) disorders. The location of lesion(s) is an important early indicator of the possible etiologies. For instance, our patient had a central thoracic lesion more commonly seen with NMO or autoimmune disease as opposed to an anterior lesion from an anterior spinal artery infarct. MRI of the entire spinal cord is essential to evaluate extent of disease as multiple lesions can be seen with either MS or NMO. High dose steroids are the mainstay of treatment for neurodegenerative and autoimmune etiologies and should be started promptly. Our patient improved but for those with refractory diseases plasma exchange is another option. Previously thought to be a form of MS, NMO differentiates itself by its necrosis and cavitations of both white and gray matter. Optic nerve involvement is also common but was absent in our patient. Anti-AQP4 antibody is pivotal in the diagnosis of NMO attributed to its high sensitivity and specificity.
+
+# CONCLUSION:
+
+TM has a broad differential that internists should be able to recognize early to initiate the appropriate treatment as it is paramount in reversing the neurologic deficits.
+
+# DIABETIC AMYOTROPHY: A DISTINCT AND DISABLING NEUROPATHY
+
+Cindy Fang; David Rhee. NYU, Flushing, NY. (Control ID #3139144)
+
+# LEARNING OBJECTIVE #1:
+
+Understand diabetic neuropathy does not only include distal polyneuropathy.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the clinical features of diabetic amyotrophy.

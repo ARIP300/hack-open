@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+Methemoglobin is formed when the ferrous iron in hemoglobin becomes oxidized to ferric iron, which is unable to bind or deliver oxygen. Methemoglobinemia can be congenital or acquired. Clinically, patients present with dyspnea, cyanosis, fatigue, lethargy, and lightheadedness. The "saturation gap" is classic, where pulse oximeter reads 87-88%, and ABG reveals a normal or increased pO2. Symptoms typically are present with methemoglobin levels of >10%. At methemoglobin levels >30%, patients may experience respiratory depression, coma, seizures, and death. Dapsone is the most commonly implicated agent in drug-induced methemoglobinemia, although the true incidence of dapsone-induced methemoglobinemia is not well documented. In one study of renal transplant patients at a tertiary care center, over 20% developed symptomatic methemoglobinemia with a mean of 66 days on dapsone. The incidence can be expected to increase as the number of organ transplant recipients increases. The renal transplant population may be especially vulnerable as dapsone and its metabolites are renally excreted. Patients with methemoglobin levels >20%, or who are symptomatic at lower levels, should be treated with IV methylene blue. The causative agent should be discontinued. For patients with reduced renal function on dapsone, clinicians may consider periodic monitoring of methemoglobinemia levels, or preemptively using alternative agents for PJP prophylaxis.
+
+# CONCLUSION:
+
+Dapsone is the most common cause of drug-induced methemoglobinemia. Methemoglobinemia should be suspected in patients with unexplained hypoxia and a saturation gap. Patients with symptomatic methemoglobinemia or methemoglobin levels exceeding 30% should be treated with the administration of methylene blue.
+
+# MIND THE GAP: DIABETIC KETOACIDOSIS MASKED BY HEMODIALYSIS
+
+David Staudt1; Deepa R. Nandiwada2. 1Hospital of the University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania, Ardmore, PA. (Control ID #3181591)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize the confounding impact of hemodialysis (HD) on the metabolic parameters used for diagnosis of diabetic ketoacidosis (DKA).
+
+# LEARNING OBJECTIVE #2:
+
+Critically analyze a differential when there is a discordance between a suspected illness script and diagnostic labs.
+
+# CASE:
+
+A 66 year old woman with a history of type 1 diabetes mellitus (T1DM) complicated by end-stage renal disease presented via ambulance from her dialysis center after 3.5 hours of HD with somnolence. Prior to treatment she had endorsed two days of fatigue and abdominal discomfort. On presentation she was able to confirm that she had missed her insulin for 2 days due to feeling unwell. Vital signs at presentation were unremarkable and her exam was notable for confusion, an ability to answer only simple questions, paradoxical lip smacking, and mild abdominal tenderness. Initial laboratory studies were notable for a glucose of 180, venous pH of 7.43, bicarbonate of 25 mmol/L, anion gap of 24 (from a baseline of 14), a normal lactate, and a urinalysis with 2+ ketones. Serum beta-hydroxybutyrate was elevated to 5.66 mmol/L (normal < 0.27). The patient was admitted to the medicine service for altered mental status of unclear etiology. Given her history of missed insulin, abdominal pain, and altered mental status with presentation immediately following dialysis, masked DKA was suspected. With administration of insulin and fluids her abdominal pain, mental status, paradoxical movements, and anion gap improved to her baseline.
+
+# IMPACT/DISCUSSION:
+
+In this case, our patient presented with clinical symptoms matching the illness script for DKA- missed insulin, abdominal pain, and neuroglycopenic symptoms. However the diagnosis was initially not considered because her laboratory studies did not meet technical criteria for DKA despite her significantly elevated beta-hydroxybutyrate and anion gap. Given her presentation this was likely an effect of dialysis treatment which can normalize glucose levels and mask the metabolic acidosis of DKA by creation of a secondary metabolic alkalosis from bicarbonate-containing dialysate. This phenomenon has been noted in the past.1 In fact, dialysis has been used to treat refractory cases of DKA, as it can effectively correct acidosis and improve glycemia.2,3 This case is an example of a discrepancy between an illness script (DKA) and laboratory studies likely created by dialysis. In patients with end stage renal disease, clinicians should scrutinize seemingly normal laboratory studies and consider dialysis' modifying effect on diagnostics prior to excluding a diagnosis.
+
+# CONCLUSION:
+
+When a discrepancy exists between a clinical presentation and laboratory testing, clinicians need to consider the confounding effect of other factors including dialysis. Clinicians should critically assess their differential of seemingly normal labs in patients who recently received dialysis.
+
+# MISUNDERSTOOD AND MISDIAGNOSED: A CASE OF CATATONIA IN A WOMAN WITH UNKNOWN MEDICAL HISTORY
+
+Kathryn Leyens2; Jill Allenbaugh1. 1Temple University, Philadelphia, PA; 2University of Pittsburgh, PITTSBURGH, PA. (Control ID #3182482)
+
+# LEARNING OBJECTIVE #1:
+
+Define the prevalence of catatonia.
+
+# LEARNING OBJECTIVE #2:
+
+Identify the presenting symptoms and treatment of catatonia.
+
+# CASE:
+
+A 35-year-old female with a history of bipolar disorder, depression, and mild mental retardation presented as a transfer from an outside hospital with altered mental status. The patient was minimally interactive, perseverative, and anxious. Limited past medical history was obtained by family members over the phone. Additional medical records were not available as the patient had been living out of state. Her family reported she had returned home after the recent death of her father, and she had been restricting her diet and seemed increasingly depressed. On admission she was hemodynamically stable, with labs remarkable for hypokalemia and UA with ketones. Urine drug screen, chest x-ray, and non-contrasted CT of her head were unremarkable. After ruling out common toxic, metabolic, and infectious causes for her altered mental status, the focus shifted to her refusal to eat and repetitive hand movements. Catatonia was discussed as a potential cause based on these presenting symptoms and she was given 1mg of lorazepam. Within ten minutes, she became more alert, interactive, and resumed oral intake. She was subsequently started on lorazepam 1mg BID and was transferred to the psychiatric hospital for further management.
+
+# IMPACT/DISCUSSION:
+
+This case presented the challenge of managing a patient with unclear past medical history, and inability to participate in her care. The inclusion of catatonia in our differential helped to quickly make an accurate diagnosis and administer the appropriate treatment. Although not commonly included as a differential diagnosis, catatonia is an important consideration. The prevalence of catatonia is reported as high as 38 percent in psychiatric patients. Many of the symptoms of catatonia are non-specific and may be mistaken for other conditions; however, there are certain findings that should prompt the clinician to consider catatonia as a diagnosis. These signs and symptoms include: verbigeration, echolalia/echopraxia, mutism, posturing, perseveration, excitement, and impulsivity. Recognition of these psychomotor symptoms and administration of the appropriate treatment improves the outcome for patients with catatonia. There are various rating scales that can be used to help aid in the identification of catatonia which include and are not limited to the Bush-Francis Catatonia Rating Scale and the Bräunig-Catatonia Rating Scale. If there is suspicion for catatonia, treatment should be considered. Prognosis is good, and lorazepam can induce remission up to 79% of the time. In the setting of catatonia that is refractory to lorazepam, there are other treatments including amantadine, zolpidem, and electroconvulsive therapy.
+
+# CONCLUSION:
+
+Catatonia is prevalent and can be present in more than 1/3 of psychiatric patients. Therefore, it should be included in the differential, particularly when a patient has characteristic psychomotor symptoms.

@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+# Opioid Prescribing Patterns in Primary Care
+
+Hypothesized that as the workday progresses and appointments run behind schedule, physicians may be more likely to prescribe opioids to simply "move on," which would be mitigated by scheduled breaks.
+
+# METHODS:
+
+Using data from athenahealth, a national electronic health record provider, we identified all previously scheduled primary care physician (PCP) appointments from 2013-14 for adult patients with no opioid prescriptions in prior 12 months. Our main outcome was opioid prescribing with secondary outcomes of physical therapy orders and nonsteroidal anti-inflammatory drug (NSAID) prescriptions. We examined average within-physician changes in each outcome by the order of the appointment in the day (groups of 3 appointments from 1st to 21st) and by appointment "lateness" (0-60 minutes late in 10-minute increments). We also examined prescribing rates for visits immediately before and after scheduled breaks of 15 minutes or more. We used multivariable linear probability models adjusting for patient and visit characteristics and included physician fixed effects to control for time-invariant differences across physicians.
+
+# RESULTS:
+
+Our sample included 408,579 primary care appointments with 2,653 PCPs. Several patient characteristics had statistically significant, but small differences by appointment order (e.g. patients seen in the first 6 appointments vs. the last 6 appointments of the day were less likely to have Medicaid insurance 4.8% vs. 5.3%, P<0.001). The rate of opioid prescribing increased as the workday progressed (1st-3rd appointment: 4.2% [95% CI 4.1-4.3] vs. 19th-21st appointment: 5.1% [95% CI 4.9-5.4], P<0.001), a 22.5% relative increase. Opioid prescribing also increased as appointments ran behind, holding the time of the day constant (4.3% vs. 5.6% for 0-9 vs. 60+ minutes late, P<0.001). Conversely, opioid prescribing fell after a scheduled break of more than 15 minutes, controlling for time of day (5.0% vs. 4.7% before vs. after a break, P=0.006). None of these relationships were present for physical therapy or NSAID prescribing.
+
+# CONCLUSIONS:
+
+In a large, national sample of primary care appointments, we found that within-provider opioid prescribing increased during the work day and with appointment lateness. Scheduled breaks mitigated this effect to a small degree. These results are consistent with the concept that time pressure, through multiple possible mechanisms, can influence physician decision-making. If similar patterns exist in other clinical scenarios, this phenomenon could have widespread relevance for public health and quality improvement efforts.
+
+# APPROPRIATE DIAGNOSIS AND MANAGEMENT OF ACUTE CORONARY SYNDROME BY INTERNAL MEDICINE INTERNS: A NEEDS ASSESSMENT
+
+Akshai Subramanian; Patricia O'Sullivan; Lucas Zier. University of California, San Francisco, San Francisco, CA. (Control ID #3181731)
+
+# BACKGROUND:
+
+Acute coronary syndrome (ACS) is common and associated with significant morbidity and mortality. We performed a needs assessment to determine the ability of internal medicine interns to accurately diagnose and manage ACS.
+
+# METHODS:
+
+We conducted a needs assessment using a test with open-ended questions that we administered to internal medicine interns at a large urban medical center four months into their training. We collected demographic data including completion of a cardiology rotation during residency. Using two cases (one demonstrating demand ischemia due to sepsis and one demonstrating ACS) we assessed interns' ability to diagnose ACS, differentiate ACS from other types of myocardial infarction (MI), manage these conditions with guideline-based therapies, and provide a pathophysiologic basis for each therapy. Ideal responses were determined by a consensus of two cardiologists resulting in a rubric with point values for correct responses. Three individuals scored a sample of responses to determine interrater reliability of the rubric. We descriptively analyzed the number of correct and incorrect responses. We used student's t-test and Fisher's exact test to determine differences between respondents who had completed cardiology rotations and those who had not. Incomplete assessments were excluded.
+
+# RESULTS:
+
+81% (52/64) of learners completed the assessment. Interrater reliability for the scoring rubric was excellent (Cohen's for the 17 responses ranged from 0.74 to 1.0). The mean score was 49% ± 19%. In the demand ischemia case, 44% properly managed demand ischemia due to sepsis, 69% of respondents inappropriately treated ACS, and 10% inappropriately managed both sepsis and ACS. In the ACS case, 15% of respondents provided complete guideline-directed medical therapy for ACS and 4% also provided accurate pathophysiologic basis for each therapy. Comparing respondents who had completed a prior cardiology rotation and those who had not, there were no significant differences between mean scores (53% vs. 46%, p>0.20), number of respondents properly managing demand ischemia (p>0.9), and number providing complete guideline-directed medical therapy for ACS (p>0.9).
+
+# CONCLUSIONS:
+
+In our study, internal medicine interns performed poorly in appropriately diagnosing and managing ACS. Completion of a cardiology rotation was not associated with differences in these abilities. This suggests the need for improved educational methods to promote knowledge acquisition and retention when teaching ACS diagnosis and management.
+
+# ARE RESIDENTS' TEST UTILIZATION PATTERNS ASSOCIATED WITH THEIR COMMUNICATION SKILLS AND PATIENT CENTEREDNESS?
+
+Colleen Gillespie 1; Eli Cahan 3; Kathleen Hanley 3; Andrew B. Wallach 2; Barbara Porter 3; Sondra Zabar 3. 1 NYU School of Medicine, Brooklyn, NY; 2 Bellevue Hospital, New York, NY; 3 NYU School of Medicine, New York, NY. (Control ID #3185214)
+
+# BACKGROUND:
+
+It is well documented that few ordered tests are "high value" a significant percentage of those ordered are "low-value." Residency offers an opportunity to teach high-value care and educational interventions to do so have been effective. However, the relationship between high-value care and residents' ability to communicate effectively with patients has not been explored. Ability to establish rapport, gather information effectively, and be patient-centered may impact residents' use of tests. We hypothesize that residents with poor skills in these areas may order tests less efficiently.
+
+# METHODS:
+
+Unannounced Standardized Patients (USPs) were introduced into residents' primary care clinics in a large urban, safety net hospital to portray 3 clinical scenarios: a well visit, a chief complaint of fatigue, and a diagnosis of asthma. Orders were extracted via chart review. Appropriateness of orders was determined by reference to United States Preventive Services Task Force (USPSTF) and clinical practice guidelines. Excessive tests were defined as not explicitly indicated for the scenario—indicated tests were the converse. Number of excessive and % of indicated tests were calculated across the 3 visits for 48 residents. Communication skills in information gathering (5 items) and developing a relationship (6 items) and a patient-centeredness score (4 items: took a personal interest, answered all my questions) were computed as % of behaviorally anchored items rated as "well done" and included in regression models predicting test utilization.

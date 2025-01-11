@@ -1,0 +1,71 @@
+# ABSTRACTS JGIM
+
+# ALTERED MENTAL STATUS: THE PARTY IS OVER
+
+Thomas John; Marjorie E. Bateman. Tulane University School of Medicine, Mandeville, LA. (Control ID #3184074)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical presentation of sedative-hypnotic withdrawal
+
+# LEARNING OBJECTIVE #2:
+
+Identify barriers in uncovering substance abuse
+
+# CASE:
+
+A 32-year-old man presented after a 30 second tonic-clonic seizure. He was somnolent with normal vitals and no obvious neurologic deficits. The patient's family and friends provided his initial history. He had no recent infectious symptoms and was behaving normally until the seizure. Past medical history included narcolepsy and HIV for which he was on antiretroviral therapy. A recent CD4 count was 513. He had been drinking more alcohol than usual over the past several days but did not use illicit drugs. CSF showed elevated protein and WBC count with negative gram stain and culture. Urine drug screen was negative. CT and MRI brain were unremarkable. As the patient's mental status improved, he developed tachycardia and hypertension. On private interview, he reported taking gamma-hydroxybutyrate (GHB) daily for his narcolepsy and had been trying to wean himself off of it. He was treated with benzodiazepines for GHB withdrawal. After several days, he decided to leave against medical advice. He was counseled to follow up with a neurologist and discharged with diazepam and levetiracetam.
+
+# IMPACT/DISCUSSION:
+
+This patient's risk factors for substance abuse included HIV positive status, male gender, and young age. As GHB is the active ingredient in sodium oxybate, those who develop dependence also often have sleeping conditions such as narcolepsy. This patient's presentation of seizures, tachycardia, and hypertension is classic for sedative-hypnotic withdrawal. There are few cases of GHB withdrawal reported in the United States, where GHB is a Schedule I drug. Standard toxicology screens do not detect GHB, making abuse difficult to diagnose. This patient's GHB dependence was diagnosed after the patient revealed he has abused the drug to treat his narcolepsy. Fewer than half of patients with HIV have discussed their substance use with their providers. A recent study revealed that current illicit drug use reduced patient comfort in discussing substance use. Patients with high self-efficacy had higher comfort in discussing substance use. Providers should ask patients about substance use and help them to develop the knowledge and skills for self-efficacy. Such skills may have enabled our patient to discuss his GHB dependence with a provider prior to presentation, potentially preventing his seizure.
+
+# CONCLUSION:
+
+Young age, male gender, and diagnosis of HIV have been associated with increased risk of substance abuse. GHB abuse results in high morbidity and mortality and cannot be diagnosed by urine drug screen. It is important to empower patients to make them comfortable with discussions about illicit substance use.
+
+# References:
+
+1. Busardo FP, Jones AW. GHB Pharmacology and Toxicology. Curr Neuropharmacol. 2015; 13(1): 47-70.
+
+2. Ray MK et al. Patient and Provider Comfort Discussing Substance Use. Fam Med. 2013; 45(2): 109-117.
+
+# AMIODARONE: AN UNUSUAL CAUSE OF HEMOLYTIC ANEMIA
+
+Joel Thomas; Maniraj Neupane; Anita B. Leon-Jhong. UPMC, Pittsburgh, PA. (Control ID #3163408)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that amiodarone is a rare cause of drug-induced hemolytic anemia.
+
+# LEARNING OBJECTIVE #2:
+
+Describe findings of hemolytic anemia on peripheral smear.
+
+# CASE:
+
+Ms. Z is a 75 year old woman with mechanical mitral valve replacement on warfarin, atrial fibrillation on amiodarone, and achalasia who was admitted to the medicine service for esophageal dilation and peri-procedural heparin bridging. After the procedure her hemoglobin dropped from 11.8 to 6.9 d/L over 11 days. Blood loss was initially attributed to a PICC-related upper extremity hematoma, but hemoglobin continued to fall even after the hematoma had stabilized. CT abdomen/pelvis was negative for retroperitoneal bleed and stool hemoccult was negative. Hemolytic work-up was pursued and demonstrated elevated LDH, undetectable haptoglobin, and peripheral blood smear with spherocytosis and reticulocytes. Her Coombs test was negative. Her medication list was reviewed and amiodarone was identified as the only agent with reported cases of hemolysis. Amiodarone was discontinued and she received 2 units of packed red blood cells for Hb. 6.9 d/L. She was discharged to rehabilitation in stable condition and her hemoglobin stabilized around 10 d/L over the next month.
+
+# IMPACT/DISCUSSION:
+
+Laboratory results suggestive of hemolysis include increased serum LDH and decreased haptoglobin levels. A peripheral blood smear should be obtained to confirm the diagnosis and identify possible etiologies. Reticulocytes are present in response to either hemolysis or acute blood loss. Heinz bodies and bite cells are suggestive of G6PD deficiency, and spherocytes are seen in hereditary spherocytosis or autoimmune hemolytic anemia. Other causes of hemolysis include sickle cell anemia, acute lead poisoning (basophilic stippling), diffuse intravascular coagulopathy (schistocytes). Drugs which are commonly associated with autoimmune hemolytic anemia include cephalosporins, penicillins, NSAIDs, levodopa, nitrofurantoin, dapsone, and quinine/quinidine. In this patient, the negative Coombs test in conjunction with the spherocytes and LDH + haptoglobin suggestive of hemolysis was a peculiar finding, as the vast majority of drug-induced hemolysis is Coombs-positive. Postulated mechanisms for Coombs-negative drug-induced hemolysis include antibody-free hemolysis by natural killer cells, low-affinity antibodies, and IgA-mediated hemolysis. Fortunately, the treatment of drug-induced anemia is straightforward: discontinuation of the drug and packed red blood cell transfusion as necessary.
+
+# CONCLUSION:
+
+Impact: This case broadens the differential for an unexplained drop in hemoglobin. The patient had red herrings of hematoma and a recent invasive procedure on anticoagulation. However, the undetectable haptoglobin and spherocytes suggested drug-induced hemolysis, and amiodarone was identified as the likely culprit.
+
+# AN ATYPICAL CASE OF MILLER-FISHER SYNDROME PRESENTING WITH SEVERE DYSPHAGIA AND WEIGHT LOSS
+
+Kishan Patel1; Arjun Dhawan1; Eliezer Z. Nussbaum1; Jason Sico2, 3; Naseema B. Merchant1, 3. 1Yale School of Medicine, Middlefield, CT; 2Yale School of Medicine, New Haven, CT; 3VA Connecticut Health Care, West Haven, CT. (Control ID #3183461)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose atypical presentation of Miller-Fisher Syndrome (MFS)
+
+# LEARNING OBJECTIVE #2:
+
+Recognize dysphagia as an initial presentation of MFS
+
+# CASE:
+
+A 71-year-old male with smoking history was sent to the emergency department (ED) from the speech clinic after a failed outpatient swallow evaluation performed due to a 3-week history of dysphagia, soft voice and a ~30lb weight loss. Initial physical exam was notable for hypophonia but follow up exam over the next 24-48 hours showed, dysarthria, diplopia, bilateral horizontal ophthalmoparesis, unilateral ptosis, bilateral weakness with hip flexion, ataxia and hyporeflexia, with normal upper extremity strength. CT head was normal and MRI brain showed periventricular and subcortical white matter T2 hyperintensity. Nerve conduction study of the facial nerve and lower extremities showed

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEUKOCYTOSIS
+
+Femoral venous catheter was placed for pressor support. Chest X-ray (CXR) was done as a part of sepsis work-up which surprisingly revealed pneumothorax with no mediastinal shift. Given the small pneumothorax reported on CXR, the hypotension was linked to underlying sepsis. Mean arterial pressure did not improve despite multiple pressors and IVF. Follow-up exam of the chest revealed decreased breath sounds on the right side and increased respiratory distress. Immediate needle thoracostomy was performed followed by chest tube placement with gush of air released from the chest cavity. Patient was weaned off of pressors instantly. During her course, she was briefly intubated for worsening AMS. She was successfully treated with broad spectrum antibiotics for UTI and pneumonia and was discharged in stable condition.
+
+# IMPACT/DISCUSSION
+
+Tension pneumothorax (TPT) is a clinical diagnosis. Spontaneous tension pneumothorax is not well recognized in spontaneously breathing patients. In these patients, it’s always the valve mechanism that causes the air to accumulate in pleural cavity. The developing pressure with every breath causes kinking of the great vessels, decreasing cardiac output. All classical signs of TPT are not always present. Mediastinal shift cannot differentiate TPT from simple pneumothorax. Pneumothorax is considered under tension if it results in reversal of respiratory or hemodynamic compromise. Sepsis contributing to hypotension in our case delayed the appropriate management of TPT. Multiple studies of ventilated patients showed increased mortality in undiagnosed or delayed diagnosis of TPT.
+
+# CONCLUSION
+
+To our knowledge, none of the previously reported cases of spontaneous tension pneumothorax presented with background sepsis. According to the literature, in a retrospective analysis of 176 ED presentations of pneumothorax, 30 patients deteriorated awaiting chest tube placement with no evidence of mediastinal shift on CXR. Therefore, in patients with developing respiratory distress accompanied with hypotension, tachycardia and pneumothorax, immediate needle thoracostomy and chest tube placement is warranted.
+
+# OCULAR SYPHILIS: A DIAGNOSTIC CHALLENGE IN AN IMMUNOCOMPETENT PATIENT
+
+Pakhadi H. Buddhadev; Nisreen Mobayed. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185115)
+
+# LEARNING OBJECTIVE #1
+
+- Recognizing, diagnosing, and managing ocular syphilis in immunocompetent patients
+
+# LEARNING OBJECTIVE #2
+
+- Distinguishing isolated ocular syphilis from ocular syphilis with concomitant neurosyphilis
+
+# CASE
+
+A 75-year-old woman with history significant for stroke presented with 7-months of recurrent uveitis of the right eye. The patient reported right eye photophobia, blurry vision, and throbbing pain refractory to several courses of steroid drops. Social history revealed that patient has not been sexually active for 12 years and has no history of STIs. Exam was only notable for right eye erythema and pain as well as chronic neurological findings secondary to prior stroke. Ophthalmology was consulted and performed optical coherence tomography that revealed cystoid macular edema (CME) in the right eye and normal foveal contour in the left eye. Fluorescein angiography of the right eye confirmed presence of CME without peripheral vasculitis. Slit lamp exam of the right eye demonstrated deep, trace flare with 1+ cells in the anterior chamber, anterior vitreous cells and haze, and 2+ injection with limbal flush. Visual acuity was 20/40 bilaterally. Further work-up to evaluate for sarcoidosis and infectious etiologies were performed. Work-up revealed a positive treponema pallidum antibody as well as a RPR quantification of 1:16. The remainder of the work-up was negative, including TB and HIV. Evaluation for neurosyphilis, including a MRI of the brain and a LP for VDRL CSF screen, was negative. Patient was admitted for treatment of uveitis syphilitic chorioretinitis, initiating a 14-day course of IV penicillin-G.
+
+# IMPACT/DISCUSSION
+
+The CDC has reported increasing prevalence of ocular syphilis; however, few publications document rates of ocular syphilis in immunocompetent patients. Despite the paucity of research evidence, clinicians should consider ocular syphilis as a differential for recurrent uveitis, especially when refractory to standard therapy. This case demonstrates the importance of recognizing and appropriately managing syphilis in an immunocompetent patient. Given the risk of significant complications, including blindness, thorough evaluation and a high degree of clinical suspicion is necessary for the prompt diagnosis and treatment of ocular syphilis. Although the diagnostic criteria of ocular syphilis and neurosyphilis are different, there is a large amount of overlap in presentation. Up to 70% of patients with ocular syphilis also demonstrate evidence of neurosyphilis on LP. While ocular syphilis and neurosyphilis are treated with the same regimen, it is necessary to evaluate patients for neurosyphilis to mitigate any further neurological complications.
+
+# CONCLUSION
+
+- Ocular syphilis may be the only clinical manifestation of syphilis - Clinicians should have a low threshold for performing serologic analysis in patients with uveitis refractory to corticosteroids - It is necessary to evaluate for neurosyphilis in patients with ocular syphilis
+
+# ODD, BLACK LESIONS - A FATAL CASE OF A GRAVE ILLNESS IN CHRONIC KIDNEY DISEASE
+
+Varun Shah1; Elizabeth Sullivan1; Steven G. McKee2. 1University of Arkansas for Medical Sciences, Little Rock, AR; 2University of Arkansas, Little Rock, AR. (Control ID #3185168)
+
+# LEARNING OBJECTIVE #1
+
+Contrast early versus delayed timing of skin biopsy in patients with end-stage renal disease (ESRD) and necrotic lesions
+
+# LEARNING OBJECTIVE #2
+
+Contemplate the frequency of enteric ulcers in patients with this rare disease
+
+# CASE
+
+A 58-year-old with ESRD secondary to diabetes mellitus, on peritoneal dialysis for one year, presented with fever and painful skin lesions. The initial ulcer appeared behind her left knee six months prior to presentation. Later, similar lesions appeared on both legs culminating in multiple, tender ulcers covered by hard, affixed eschar. The lesions progressed despite five months of standard wound care, antibiotics, and sodium thiosulfate. She did not receive surgical debridement. On admission, she noted fissuring of the eschars with purulent drainage, anorexia, and difficulty with ambulation. She was ill appearing, had wounds as described, and was hypotensive to 95/30 mmHg. White blood cell count was 15K/uL, corrected calcium 9 mg/dL, ionized calcium 1.1 mmol/L, phosphorus 4.8 mg/dL, and parathyroid hormone 78.5 pg/mL. Peritoneal dialysate and blood cultures were negative. Skin biopsy of the wound confirmed calciphylaxis. Wound cultures grew multi-drug resistant Pseudomonas aeruginosa and Achromobacter. She was transitioned to hemodialysis and intravenous sodium thiosulfate. However, she developed severe sepsis and was put on vasopressors nine days after the biopsy resulted. Subsequently, she developed large volume melena from duodenal ulcers that proved recalcitrant to intra-luminal cautery and image-guided arterial embolization. She died 20 days after diagnosis.
+
+# IMPACT/DISCUSSION
+
+We argue for early biopsy in patients with ESRD and suspicious lesions. Gastrointestinal (GI) hemorrhage in patients with calciphylaxis is rarely reported and this may be an underappreciated manifestation. Calciphylaxis confers 50% mortality at one year mainly due to wound infections, and this patient's diagnosis was delayed by six months. Timely diagnosis requires high clinical suspicion and often skin biopsy. Yet prompt recognition is critical since recent evidence suggests early surgical management or hyperbaric oxygen therapy can improve cure rates and survival. Neither treatment was available to our patient due to delay in definitive diagnosis. Calciphylaxis is known to cause cutaneous ulcers but visceral ulcers may be under reported. Literature review uncovered only two other cases of gastrointestinal ulcer and hemorrhage in patients with calciphylaxis, and the sites of these ulcerations were rectal and esophageal, respectively.

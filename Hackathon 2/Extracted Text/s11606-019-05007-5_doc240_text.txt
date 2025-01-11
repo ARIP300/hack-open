@@ -1,0 +1,36 @@
+# JGIM
+
+# ABSTRACTS
+
+# RACIAL DISPARITIES IN LOWER EXTREMITY AMPUTATION AMONG PATIENTS WITH PERIPHERAL ARTERIAL DISEASE OR DIABETES: A SYSTEMATIC REVIEW AND META-ANALYSIS OF PUBLISHED STUDIES
+
+Yvette Portilla 1 ; Binhuan Wang 2 ; Sundar Natarajan 3 . 1 New York University Langone Medical Center, New York, NY; 2 New York University, New York, NY; 3 VA New York Harbor Healthcare System, New York City, NY. (Control ID #3162692)
+
+BACKGROUND: Amputation dramatically lowers quality of life and increases risk of mortality in peripheral arterial disease (PAD) or diabetes. Some studies report an increased lower extremity amputation (LEA) risk for black patients compared to white patients, though others report no disparity, particularly in persons with diabetes. We conducted a meta-analysis using PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analysis) guidelines to examine the risk of LEA in black and white adults with PAD and/or diabetes.
+
+METHODS: We systematically searched PubMed and EMBASE databases for cohort or case-cohort studies that included blacks and whites with PAD and/or diabetes and reported risks for LEA. A quality assessment was conducted using the Newcastle-Ottawa Scale (NOS). In addition to presenting the overall risks for amputation attributed to blacks, we conducted a meta-analysis of patients who had a previous amputation and examined the odds that the amputation was primary, defined as an amputation without any previous attempt at revascularization. A Jackknife sensitivity analysis evaluated the effect of individual articles on the estimate.
+
+RESULTS: After the database search, we identified 570 articles. 13 articles met the inclusion criteria, 9 of which were pooled in the meta-analysis. Among diabetic patients, the unadjusted odds ratio (OR) for black patients (n= 6 studies) receiving a LEA was 1.35 (95%CI, 1.05-1.75) compared to white patients. The Goldberg and Helmer articles had the greatest effect on the pooled estimate. The adjusted risks among black diabetic patients also suggested an increased risk but the large heterogeneity prevented pooling. Similarly, while the risk for LEA among PAD patients could not be quantified, the forest plot indicated an increased risk among blacks. The pooled unadjusted risk for primary amputation (n = 3 studies) among black patients was high (OR, 1.86; 95% CI, 1.35-2.56). Even when using the adjusted OR, the risk was attenuated but remained significant (OR 1.17; 95% CI, 1.09-1.26).
+
+CONCLUSIONS: Black patients with PAD or diabetes are at an increased risk for a LEA as well as for primary amputation. Future studies should evaluate mediators of this disparity and examine ways to eliminate it.
+
+| |Study|Amputations|Total| |Odds Ratio|OR|95%-Cl|Weight| |
+|---|---|---|---|---|---|---|---|---|---|
+|African Americans| | |Total|Caucasian|Total| | | | |
+| |Goldberg; 2012|6013|633890|16317|3970582|2.32|[2.25,2.39]|[1.76; 1.98]|18.4%|
+| |Helmer; 2011|1398|32381|4884|206890|0.94|[0.74; 1.19]| |18.29|
+| |Karter, 2002|82|8378|413|39574| | | |15.9%|
+|Selby, 1995| |55|172|79|210|0.78|[0.51;1.19]| |12.39|
+| |Young; 2003|804|65181|2126|239422|1.39|[1.28; 1.51]| |18.19|
+| |Zhao, 2013|336|19808|242|15560|1.09|[0.92, 1.29]| |17.1%|
+|Random effects model|759810| |4472238| |1.35|[1.05; 1.75]|100.0%| | |
+
+# RANDOMIZED CONTROLLED TRIAL OF A RELATIONAL AGENT TO REDUCE RISKY ALCOHOL USE
+
+Steven R. Simon ; Nicholas Livingston 1 ; Molly Sawdy 1 ; Catherine Yeksigian 1; Timothy Bickmore 2; Shuo Zhou 2; Richard Saitz 3; Nancy R. Kressin 1; Amy Rubin 1. 1 VA Boston Healthcare System, Boston, MA; 2 Northeastern University, Boston, MA; 3 Boston University and Boston Medical Center, Boston, MA. (Control ID #3186360)
+
+BACKGROUND: Risky drinking and alcohol use disorders are present among 20% to 40% of Veterans. Although the efficacy of brief intervention and referral to specialty care for risky drinking is well established, implementation of these approaches often falls short, owing to multiple competing demands on primary care providers (PCPs) and other barriers. A health-information technology (HIT)-based intervention that mimics a live human interaction may offload PCPs and may be more palatable to patients than direct interaction with their provider. We therefore conducted a randomized controlled trial (RCT) of a Relational Agent, a human character on a computer screen that talks with the patient, to reduce risky drinking and promote referral to specialty care.
+
+METHODS: We conducted usability testing to tailor a previously pilot-tested Relational Agent to Veterans' preferences. We enrolled 179 Veterans who screened positive on the Alcohol Use Disorders Identification Test (AUDIT-C) and randomly allocated them to receive the Relational Agent Intervention (RAI) plus Treatment as Usual (TAU) vs. TAU. The RAI consisted of two 15-minute interactive sessions with the Relational Agent, the first occurring at the time of study enrollment, which coincided with a previously scheduled primary care office visit, and the second arranged for one month later. The intervention incorporated Motivational Interviewing, responsibility, empathy, and support of self-efficacy. Telephone follow-up three months after enrollment measured average weekly drinks (primary outcome measure), calculated from the Quick Drink Screen (QDS). We also ascertained referral to specialty care for treatment (secondary outcome measure), which we validated through chart review.
+
+RESULTS: Veterans in the RAI group (N=90) and in the TAU group (N=89) were similarly distributed with respect to age, sex, race/ethnicity, employment, and presence of VA-recognized disability. At baseline, mean

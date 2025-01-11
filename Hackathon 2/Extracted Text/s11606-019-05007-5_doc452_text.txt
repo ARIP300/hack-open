@@ -1,0 +1,69 @@
+# JGIM
+
+# ABSTRACTS
+
+normal B12, folate, Iron panel. TSH of 90.422 with free thyroxine &lt;0.03. EMG was consistent with hypothyroid myopathy. Diagnosis was hypothyroidism and initiated on levothyroxine. High intensity statin for hypercholesterolemia. Work-up for chronic kidney disease, anemia and HTN was started but patient did not return to clinic and was not completed.
+
+# CONCLUSION:
+
+This case, largely suspenseful secondary to the labyrinthine outpatient workup, highlights challenges faced by internists embarking on ambulatory evaluations of weakness in medically complex patients. After CT excluded lung malignancy, and his EMG results and lab analysis were available, hypothyroidism was finally diagnosed. While thyroid myopathy is not rare, the multisystem physical and laboratory manifestations of hypothyroidism are perfectly showcased in this presentation. His weight loss remains puzzling but could be attributed to severe COPD (lung cachexia) or other malignancy.
+
+# HOST BY AN ACCIDENT!
+
+Rani Bhatia; Brett Styskel; Nautam Ganatra. Baylor College of Medicine, Houston, TX. (Control ID #3185998)
+
+# LEARNING OBJECTIVE #1:
+
+Assess exposure history and recognize potential endemic disease in a patient presenting with atypical infectious symptoms.
+
+# CASE:
+
+A 41-year-old male with non-alcoholic steatohepatitis presented with a week of high fevers to 105 F, myalgias, abdominal pain, diarrhea, and 2 days severe headache associated with visual hallucinations. Vitals on presentation were T 102 F, BP 93/55 mmHg, HR 120 bpm, and SaO2 96%. Physical exam was remarkable for nuchal rigidity, jaundice, diffuse abdominal tenderness without peritoneal signs, and hepatosplenomegaly. Lab results showed leukocytosis 10,300/mm3 with 91% PMNs, new thrombocytopenia 75,000/mm3, creatinine 1.6 (baseline 0.8) mg/dL, AST 139 IU/L, ALT 178 IU/L, ALP 236 IU/L, total bilirubin 7.9 mg/dL, direct bilirubin 5.3 mg/dL, lipase 88 U/L, and lactate 1.8 U/L. Influenza, RSV, C. difficile, HIV, hepatitis panel, acetaminophen level, hemolysis and disseminated intravascular coagulation labs were negative. CT scan of the head was unremarkable. Abdominal ultrasound showed no acute hepatobiliary pathology. Lumbar puncture showed white blood cell count 6 (neutrophil 80%), protein 22 mg/dL, and glucose 46 mg/dL. Detailed history revealed that he spent an hour picking fleas off his pet dog eight days prior to the onset of fever. He also lived in a wooded area with opossums in his neighborhood. He was started on empiric doxycycline for presumed murine typhus with rapid improvement in his symptoms. Labs showed Rickettsia typhi IgG and IgM immunofluorescence assays &gt;1:256. All cultures as well as Leptospirosis, EBV, CMV antibodies and syphilis titer were negative.
+
+# IMPACT/DISCUSSION:
+
+In the US, the classic rat-flea-rat cycle as a reservoir for Rickettsia typhi was targeted by aggressive rat control in the 1940s. These efforts led to a decrease in annual cases of murine typhus from 5,000 to less than 100 by the 1980s. The infection is now seen mainly in suburban areas of Texas and California, and instead perpetuated by cat fleas (Ctenocephalides felis) that reside on opossums, dogs, and cats, with humans as the "accidental" host. Incidence of disease in Texas has been increasing over the last 15 years, with 519 cases in 2017 alone (40% increase from the year prior). Although murine typhus is generally a self-limited illness, the risk of complications and mortality may be up to 4% if treatment with doxycycline is delayed. Typhus presents a diagnostic challenge for clinicians, as symptoms are often nonspecific. In fact, the classic triad of fever, rash, and headache may only be seen in 33% of adults. Thus, awareness of murine typhus is important to ensure a timely diagnosis and reduce the risk of serious complications e.g. respiratory failure, aseptic meningitis, seizures, acute renal failure and septic shock.
+
+# CONCLUSION:
+
+-Murine typhus has increased in incidence in the US recently, with cat fleas as the new vector for R. typhi. -Awareness of murine typhus is important to ensure a timely diagnosis and reduce the risk of serious complications including mortality.
+
+# HOW LOW CAN YOU GO? AN INTERESTING CASE OF HYPOGLYCEMIA
+
+Christopher Vercammen-Grandjean. St. Jude Heritage Medical Group, Orange, CA. (Control ID #3162765)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the problem of rebound hypoglycemia in diabetic patients with CKD or ESRD
+
+# LEARNING OBJECTIVE #2:
+
+Learn how best to manage this problem with dietary changes
+
+# CASE:
+
+A 75 year old man with a history type 2 diabetes managed with insulin and sulfonylurea, end-stage renal disease recently started on hemodialysis, and obesity presented to a community hospital after a witnessed syncopal event at home. Prior to his loss of consciousness he had started to feel light headed and dizzy, but he quickly regained full consciousness after. His family checked his serum glucose and it was 37, they had him drink orange juice and his symptoms resolved. He was then brought to the hospital. Later that evening a re-check of his glucose revealed a low of 67 and he was given orange juice, resulting in a rise in his blood sugar and resolution of symptoms of hypoglycemia. He was placed on a diabetic diet. In spite of this he continued to have frequent low blood sugars in the hospital ultimately requiring an infusion of dextrose containing normal saline. On further history, his family discussed how this had been an ongoing problem at home and that he was constantly eating candy bars throughout the day to avoid hypoglycemia, even after his insulin and sulfonylurea medications were discontinued. An endocrine consultation was then placed and he was started on a strict low carbohydrate diet without concentrated sugar, with higher protein and fat content. Low blood sugars were treated with combinations of complex carbohydrates and protein containing foods. Ultimately he was weaned off the dextrose infusion and his blood sugar stabilized. He continued the diet after discharge, at three month follow-up he had lost 40 pounds and had had no low blood sugars at home. His diet was liberalized without subsequent hypoglycemia.
+
+# IMPACT/DISCUSSION:
+
+Hypoglycemia in diabetic patients with chronic kidney disease is a well-recognized problem. (Rhee, 2018) As renal function worsens, insulin half-life lengthens, in combination with reduced renal gluconeogenesis and impaired metabolism of hypoglycemic medications. Hospitalizations for hypoglycemia can increase in the years leading up to initiation of renal replacement therapy. (Rhee, 2018) Thus it is important for the internist to recognized rebound hypoglycemia as described above, and intervene early to avoid unnecessary hospitalizations or prolonged hospital stays. Early consultation with endocrinology, a diabetes educator, and dietitian can help though further research is needed. In our case, a diet that limited concentrated sugars to almost none, and ensuring co-ingestion of protein and/or fat with carbohydrate helped avoid hypoglycemia.
+
+# CONCLUSION:
+
+Early recognition of normalizing blood glucose and the increasing risk of hypoglycemia in patients with CKD and diabetes is important to prevent adverse events for patients.
+
+# HYDROXYCHLOROQUINE TOXICITY LEADING TO CARDIAC ARREST IN A 23-YEAR-OLD
+
+Michael Grzeskowiak2; Daniel Pu1. 1Montefiore Medical Center, San Antonio, TX; 2University of Texas Health Science Center at San Antonio, San Antonio, TX. (Control ID #3185812)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that hydroxychloroquine (HCQ) can cause atrioventricular block, bundle branch block, and QT prolongation which can occur over weeks to years of treatment.
+
+# LEARNING OBJECTIVE #2:
+
+Treat HCQ toxicity by discontinuing the medication and follow for the resolution of the toxicity, which does not always occur.
+
+# CASE:
+
+A 23-year-old woman with systemic lupus erythematosus (SLE) and end-stage renal disease (ESRD) presented to the hospital with

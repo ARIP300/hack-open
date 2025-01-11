@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 47-year-old woman with history of asthma and eczema and no cardiovascular risk factors is admitted for acute STEMI. She reported no home medications including hormonal therapy and denies smoking or illicit drug use. The night prior to her arrival, she had an emotionally intense argument with her boyfriend which she described as very stressful. The following morning, she was awoken by a severe substernal chest pain which radiated to the left chest and had 2 episodes of non-bloody emesis. EKG showed ST elevation in V1, V2, and V3 with no reciprocal changes and echocardiogram showed EF 50% with apical hypokinesis. Immediate angiography then revealed SCAD of the proximal left anterior descending artery with TIMI 3 flow of the coronary tree. There was complete resolution of ST-segment elevation without intervention. The patient was treated with dual antiplatelet therapy and discharged with follow-up CT-angiography in 3 months.
+
+# IMPACT/DISCUSSION:
+
+This case is a unique example of non-atherosclerotic SCAD presenting in a patient without predisposing risk factors, solely precipitated by emotional stress. Once believed to be a very rare condition, SCAD, has become an important identifiable cause of MI in women ages 43-52. The underlying etiology of SCAD is multifactorial, yet, up to 20% of cases are considered idiopathic. Typically, patients have an identifiable predisposing arteriopathy; fibromuscular dysplasia (FMD) being the most common. Others include postpartum status, multiparity, connective tissue disorders, systemic inflammatory conditions, and hormonal therapy. Most patients do not have conventional risk factors for CAD but often do have specific precipitating stressors which compound the underlying arteriopathy. Physical activity, heavy lifting, severe coughing or vomiting can cause cardio-circulatory stress through increased intrathoracic pressures and potential SCAD. Intense emotional stress can manifest differently through catecholamines acting on myocardial contractility or vasospasm and increased arterial shear stress leading to dissection. Interestingly, the patient presented in this case had no such arteriopathies. She was a null-parous non-smoker with no cardiac risk factors or significant family history. She used no medications, including hormonal therapy and denied illicit drug use. This patient lacked any history or evidence of other contributing causes.
+
+# CONCLUSION:
+
+A very emotional argument was the only indefinable precipitating stressor leading to SCAD in an otherwise healthy woman with no distinguishable arteriopathy.
+
+# EOSINOPHILIA IN PULMONARY ADENOCARCINOMA AS AN EXTREMELY RARE PARANEOPLASTIC MANIFESTATION
+
+Muath Alsharif; Mohammad Islam; Mais Abdou; Thien Vo. Texas Tech University Health Science Center, Amarillo, TX. (Control ID #3184731)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize eosinophilia as a rare finding with solid tumors. Diagnose lung cancer when eosinophilia is the main paraneoplastic feature.
+
+# CASE:
+
+A 67-year-old female with history of severe chronic obstructive pulmonary disease (COPD) presented with generalized weakness, malaise and dizziness for 1 month. She denied any history of hemoptysis, anorexia or weight loss. On physical examination, vitals were normal and respiratory system was notable for diminished breath sounds bilaterally with no overt crackles or rhonchi. No clubbing, cyanosis, or organomegaly appreciated. Laboratory investigations revealed white cell count of 17,200/μL with 34% eosinophils, hemoglobin 11.5 g/dl, blood urea nitrogen 33 mg/dl, creatinine 2 mg/dl. Computed tomography of thorax revealed 2 cm nodular like density along with the medial aspect of the right upper lobe abutting the mediastinum with multiple enlarged mediastinal and axillary lymph nodes. Metastatic lung carcinoma and lymphoma with paraneoplastic eosinophilia were the initial differentials. Fine needle aspiration of axillary lymph node was inconclusive for malignancy. Later, Mediastinoscopy with excisional biopsy was done and showed poorly differentiated pulmonary adenocarcinoma with metastatic carcinoma to lymph nodes. Acid fast, fungal smear and culture were all negative. Her eosinophilia was thought to be secondary to the lung malignancy as no other overt cause was found including allergic, parasitic infection, vasculitis, drug reaction and hematological malignancy.
+
+# IMPACT/DISCUSSION:
+
+Paraneoplastic eosinophilia is an unusual manifestation that usually remains asymptomatic but it can be life threatening because of the multi organ involvement. It is found in less than 1% of all cancer population. The pathogenesis of tumor-associated eosinophilia is not well understood. Interleukin-5 (IL-5) is a cytokine that has been implicated in the development of eosinophilia in humans. However, there is little data associating IL-5 production with eosinophilia in the presence of tumor. In some case series, it was reported that removal of primary cancer, if possible, or combination of steroid and hydroxyurea are currently available options to address paraneoplastic eosinophilia.
+
+# CONCLUSION:
+
+Our case reminds physician about the rare association of eosinophilia and pulmonary adenocarcinoma; a relationship which is not frequently reported in medical literature. Early recognition may play a crucial role in management plan and treatment outcome.
+
+# EOSINOPHILS AT WORK: CAVITARY LUNG LESIONS IN A YOUNG NURSE
+
+Kajali Mishra; Shivani Sharma; Sarah Gorgis; Marcus Zervos. Henry Ford Hospital, Detroit, MI. (Control ID #3185976)
+
+# LEARNING OBJECTIVE #1:
+
+Develop a differential diagnosis for cavitary lung lesions
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and treat chronic eosinophilic pneumonia
+
+# CASE:
+
+A 35 year-old woman with recurrent sinusitis and development of asthma-like symptoms presented with two months of progressively worsening shortness of breath, wheezing and productive cough. She is an avid runner and noticed a significant decrease in her exercise capacity. She works as a CRNA in the bronchoscopy suite and her last PPD six months ago was negative. Vital signs were stable. Physical examination revealed bilateral wheezes. She had a leukocytosis of 13.3 K/uL with eosinophilia (absolute eosinophils 2.30 K/uL). Computed tomography (CT) thorax revealed pulmonary nodular densities with cavitations. A workup for infectious (tuberculosis, aspergillus, histoplasma, blastomycosis, coccidioides), vasculitis (p-ANCA, c-ANCA), and autoimmune (ANA, dsDNA, Anti-Smith, Anti-RNP) disease was negative. Pulmonary function tests (PFTs) showed FEV1 of 103% with FEV1/FVC ratio of 73%. The patient made symptomatic improvement on scheduled bronchodilators. Bronchoscopy revealed normal airways. Biopsy showed alveolar lung tissue with minimal inflammatory infiltrate, clusters of pigment-laden macrophages and minimally thickened alveolar septa. Bronchoalveolar lavage (BAL) was positive for 49% eosinophils and negative for infection. She was diagnosed with chronic eosinophilic pneumonia (CEP). The patient received inhaled corticosteroids and short acting beta agonists with symptomatic improvement. Repeat PFTs two weeks later showed improvement. CT thorax after 3 months showed improved ground glass opacities with stable pulmonary nodules. The patient endorsed complete resolution of symptoms at follow up and returned to her normal exercise capacity.
+
+# IMPACT/DISCUSSION:
+
+Chronic eosinophilic pneumonia is a rare disease which accounts for 2.5% of interstitial lung disease. It is an idiopathic disorder described by abnormal accumulation of eosinophils in the interstitium and alveolar spaces of the lung. Patients typically have a history of atopy, prolonged asthma-like symptoms, and exercise intolerance. IgE levels, peripheral eosinophilia, and elevation in inflammatory markers are nonspecific, but common. Bronchoalveolar lavage is essential to the diagnosis, as it can rule out infection and reveal alveolar eosinophilia. The BAL eosinophil count is almost always > 25%, with more than 80% of patients having a BAL eosinophil count > 40%. Glucocorticoids are the mainstay of management and patients often require long term systemic steroids. However, our patient made significant symptomatic improvement on inhaled steroids.

@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# PROVIDER DECISION-MAKING FOR PROSTATE CANCER SCREENING: A QUALITATIVE STUDY
+
+Julian Brunner1, 2; Emmeline Chuang2; Elizabeth M. Yano1, 2; Narissa J. Nonzee2, 4; Jeremy Shelton3. 1VA Greater Los Angeles Healthcare System, Sepulveda, CA; 2UCLA, Los Angeles, CA; 3VA Greater Los Angeles Healthcare System, Los Angeles, CA; 4UCLA Fielding School of Public Health and Jonsson Comprehensive Cancer Center, Los Angeles, CA. (Control ID #3185310)
+
+# BACKGROUND:
+
+Prostate-specific antigen (PSA) screening remains controversial, and harms resulting from over-diagnosis are common. In the optimal age group (50-69 years) the benefits are contested, and among men over 70, benefits are even less clear. Yet screening persists among men who are unlikely to benefit, and the factors motivating primary care providers' (PCPs') screening decisions remain poorly understood. Our objective was to examine PCP decision-making about prostate cancer screening and explore reasons for potentially inappropriate screening.
+
+# METHODS:
+
+We conducted semi-structured interviews with 25 PCPs from hospital-based and community-based VA clinics around the greater Los Angeles area. We conducted thematic analysis of interviews with deductive and inductive techniques, using the interview guide as a starting point for coding.
+
+# RESULTS:
+
+Most PCPs identified age as the primary factor informing their screening decisions. Several consider life expectancy (at any age), and some use an age cutoff but make exceptions for men in exceptional health. Other prominent factors were family history and race. Less-common factors included previous PSA levels, previous PSA trajectories, agent orange exposure, and testosterone supplementation. Many PCPs reported that they discontinue PSA screening at age 70, but this practice was not universal. The most common reason for potentially inappropriate screening was difficulty applying guidelines precisely, despite general familiarity with guideline recommendations - for example, over-relying on age as a proxy for life expectancy, or overestimating the magnitude of a given risk factor in comparison to potential harms. Several PCPs reported ordering screening for patients who demand it, but reported that such demands are rare ("maybe less than 5% does that ever happen"). A small minority of PCPs were distrustful of relevant guidelines, for example, questioning the generalizability of extant research, ("the department of urology here has a fairly conservative approach, so the likelihood that they are going to get unnecessary morbidity is lower than previous studies"). Complete lack of awareness of relevant guidelines was extremely rare. PCPs voiced the most support for guidelines from the United States Preventive Services Task Force, citing its credibility as an unbiased source. A smaller group preferred specialty society guidelines, citing urologists' expertise in prostate cancer.
+
+# CONCLUSIONS:
+
+Our findings help explain the reasons that PSA screening persists among patients unlikely to benefit. This information is an important precondition for designing interventions to reduce overuse and improve screening decisions. Interventions that help providers weigh competing risk factors may be more effective than interventions that presume a lack of awareness among PCPs, or presume overwhelming patient demand.
+
+# PROVIDER FACTOR IMPACTING THE SCREENING FOR HEPATITIS C INFECTION: A QUALITY IMPROVEMENT INITIATIVE
+
+Kavya Kelagere Mayigegowda 1; Rinad Tabbalat 1; Kathryn Jobbins 2. 1 Baystate Medical Center, Springfield, MA; 2 Baystate Health, Springfield, MA. (Control ID #3184406)
+
+# BACKGROUND:
+
+Chronic hepatitis C virus (HCV) is a major cause of liver-related deaths in the United States. The CDC estimates that about 50% of Americans with HCV infection are unaware of their infection status. Therefore a need exists for increased screening to identify people with unrecognized infections. There is a recent consensus that patients of advanced practitioners and those of female providers receive better preventative care. The aim of our retrospective cohort study was to determine how these factors impact screening for HCV at a community level.
+
+# METHODS:
+
+Data were extracted from our institution's electronic charts between October 2016 and October 2018. Patients born between 1945-1965 and had at least two visits to our primary care clinic were included. 3200 eligible visits were identified and patients who were already screened for HCV prior to the study period were excluded. A total of 1265 visits met our criteria. Visits were then categorized into resident group, advanced practitioner group and attending group. There were 800 patients in the resident group, 91 in the advanced practitioner group, and 374 in the attending group. These groups were further categorized into male and female providers. Screening for HCV was measured by laboratory testing for HCV antibody.
+
+# RESULTS:
+
+HCV screening rate for all providers in our clinic is 54%. The screening rate in the advanced practitioner group is higher than the resident group (64% v/s 52% p=0.03). The screening rate in the advanced practitioner group is similar to the attending group (64% v/s 58% p=NS). The screening rate in the overall female provider group is higher than the male provider group (52% v/s 57% p=0.04). See table 1 for screening rates in different groups further categorized into male and female providers.
+
+# CONCLUSIONS:
+
+Based on our data, we conclude that female providers and advanced practitioners are more likely to provide screening for HCV infection. These results could be skewed by the fact that most of our advanced practitioners are females. These findings have prompted us to further gather data from our advanced practitioners and female providers on strategies that could be adopted to improve HCV screening throughout our community practice. Furthermore, need exists for identifying physician and patient related barriers to testing for HCV, as the overall HCV screening rate in our clinic is suboptimal.
+
+# PROVIDER KNOWLEDGE, ATTITUDES, AND PRACTICE REGARDING CANNABIS: RESULTS FROM A NATIONAL VETERANS HEALTH ADMINISTRATION SURVEY
+
+Devan Kansagara4, 1; Megan O. Iacocca4; William Becker2; Matthew J. Bair3; Benjamin J. Morasco4. 1Oregon Health and Science University, Portland, OR; 2VA Connecticut Healthcare System, West Haven, CT; 3Center for Health Information and Communication, Indianapolis, IN; 4VA Portland Health Care System, Portland, OR. (Control ID #3170354)
+
+# BACKGROUND:
+
+Cannabis is increasingly available and used for medical and recreational purposes due to legal changes and broader cultural acceptance. The Veterans Health Administration (VHA) recommends that clinicians be prepared to discuss cannabis with their patients, though they cannot certify medical marijuana use due its classification as a schedule I substance. Clinicians are allowed to make individualized decisions regarding opioid therapy in those also using cannabis. Few studies have assessed provider knowledge, attitudes and practice regarding cannabis.
+
+# METHODS:
+
+We developed a 47-item survey to assess VHA primary care providers (PCPs)' knowledge, attitudes, and practice regarding patients' use of cannabis. Survey items were derived from: 1) systematic review data, 2) multidisciplinary expert group discussion, and 3) interviews with clinicians and cannabis dispensary staff. We pilot tested draft surveys with clinicians and made modifications. We conducted age- and

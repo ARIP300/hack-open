@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# NEEDS AND OBJECTIVES:
+
+Addressing the SDOH for patients is critical to providing high-quality care. SDOH are usually taught as immutable realities rather than actionable circumstances that should be addressed with specific tools. As a result, medical students are underprepared to address the SDOH. To address this gap, we developed a quality improvement initiative for third-year medical students (MS3s) at Boston University School of Medicine with the goal of improving their behaviors and skills towards addressing SDOH.
+
+# SETTING AND PARTICIPANTS:
+
+MS3s rotating through Internal Medicine 8 week inpatient clerkships at Boston Medical Center (BMC). An SDOH screening and referral model called THRIVE, adapted from the WECARE model, has been implemented at BMC primary care clinics. THRIVE is unfamiliar to emerging medical students and has not previously been used in inpatient settings.
+
+# DESCRIPTION:
+
+Starting in July 2018 MS3s screened and referred patients for eight SDOH domains and then followed-up with their progress through phone calls. During orientation, MS3s learned how to use the THRIVE screening tool and the THRIVE Directory (BMC's web-based repository of resources to help patients with social needs). MS3s followed-up by phone 1-2 weeks after each patients' hospital stay to determine if they were able to receive support for identified SDOH needs.
+
+# EVALUATION:
+
+We held huddles with MS3s at the end of their rotation to explore feasibility and acceptability of the experience. Additionally, we used a pre and post survey to examine the impact of this activity on MS3's behavior and skills towards addressing SDOH. During huddles, the majority of MS3s mentioned having no trouble with the screening and referral process. Barriers included difficulty documenting responses in the Electronic Health Record, lack of formal training on calling patients to follow up about connecting to resources, and lack of experience collaborating with social workers. We performed a series of sign tests to compare students' behavior and perception of skills before and after participating in THRIVE. Twenty-four MS3s completed the pre and post survey. Overall, THRIVE had a significant positive impact on enabling MS3s to ask patients about social needs (p<.001). THRIVE also significantly impacted students' confidence in providing resources to help patients with their social needs (p<.001). Although it was not statistically significant, there is a trend showing that participation in THRIVE improved students' confidence in asking patients about their social needs (p<.1). There was no statistically significant change in MS3s perceptions regarding the importance and their role in addressing SDOH.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The initiative significantly improved students' asking patients about their social needs and confidence providing resources to help mitigate these needs. We learned that students need further education in understanding how to discuss addressing patients' social needs. These skills should be learned and simulated prior to starting their clerkship rotations.
+
+# IMPROVING RESIDENT POPULATION HEALTH EDUCATION AND CARE THROUGH TEAM-BASED QUALITY IMPROVEMENT
+
+John P. Shoup1; Azalea Kim2; Benjamin L. Ranard3; Jonathan Wilson3; Jane Pendergast3; Joel C. Boggan4. 1Duke University School of Medicine, Durham, NC; 2Duke Health, Durham, NC; 3Duke University, Durham, NC; 4Duke University Health System, Durham, NC. (Control ID #3186388)
+
+# NEEDS AND OBJECTIVES:
+
+There is an urgent need to equip physicians with the knowledge and skills to manage population health to succeed in a landscape shifting to value-based-care contracts. We sought to improve the preparedness of residents to provide high-value, population-focused care through a combination of didactic and practice-based learning.
+
+# SETTING AND PARTICIPANTS:
+
+Internal Medicine residents at a large, quaternary-care academic medical center and an associated resident continuity clinic.
+
+# DESCRIPTION:
+
+We surveyed Internal Medicine, Med-Peds, and Med-Psych residents to assess confidence in providing population-based healthcare. Specifically, residents were asked to assess their confidence in defining population health, identifying gaps in patient care, creating a strategy to address gaps without in-person visits, managing a shared patient panel, leading an interdisciplinary team, and utilizing population health strategies following training. We developed and incorporated 5 hours of population-health didactics into the academic curriculum to address these topics. Practice-based learning will be facilitated through a shared patient panel of a "practice partnerships" (PP) of an intern, second, and third year resident. We created an EPIC-based dashboard to report PP performance on population health metrics and identify patients with gaps in care. Each partnership selected one of three metrics to target: colorectal cancer (CRC) screening, statin prescription in diabetics, or patients with A1C > 9. Participants had one administrative half-day session exclusively focused on improving their target metric. All PPs received quarterly control-charts of longitudinal performance.
+
+# EVALUATION:
+
+75% (n = 133) of residents completed the initial survey. Less than 25% of surveyed residents reported confidence on most population health topics. Residents reported most confidence in identifying patients who were not up-to-date on routine care (40.6%, n = 54), but only 13.5% (n = 18) reported confidence in creating a plan to address gaps in care. Only a reported race of "Other" was associated with higher odds of confidence in creating a care plan as compared to white respondents (OR 3.44, 95% CI 1.03-11.46) after adjusting for measured characteristics. There was no significant impact of sex, PGY year, anticipated future practice, or having an additional advanced degree. Among PPs, 9 selected statin prescription in diabetics, 10 CRC screening, and 1 uncontrolled diabetes. PP's received quarterly updates in the form of p-charts. Follow-up surveys together with metric performance at one year will be collected.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Surveyed internal medicine residents reported a lack of confidence in all population health related topics, and are not confident creating a care plan to address gaps in care.
+
+# IMPROVING WEIGHT MANAGEMENT SKILLS IN TRAINEES
+
+Noor Khan. UPMC Mercy, Moon Township, PA. (Control ID #3184901)
+
+# NEEDS AND OBJECTIVES:
+
+Overweight and Obesity affect 69 % of the US adult population and contribute greatly to many other conditions. Obesity is a disease that often goes unaddressed in primary care visits. Barely a quarter of physicians report feeling adequately trained in weight management and fewer than 30% of medical schools meet the minimum hours of nutrition education recommended by the National Research Council. We developed a curriculum that introduces trainees to principles and practice of weight management and improves their confidence in addressing this condition.
+
+# SETTING AND PARTICIPANTS:
+
+Participants were third year (PGY3) Internal Medicine Residents at an outpatient clinic. We implemented a curriculum emphasizing didactics, small group discussions and patient care during the 4-week ambulatory rotation. A total of 22 residents have participated in this curriculum from November 2017-December 2018.
+
+# DESCRIPTION:
+
+Patients with Obesity were scheduled for weight

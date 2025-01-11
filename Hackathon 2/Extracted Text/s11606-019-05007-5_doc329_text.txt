@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Mycosis Fungoides Bullosa: A Rare Variant of Cutaneous T-Cell Lymphoma
+
+of immunobullous disease or recent insect bites. The patient was afebrile with stable vital signs. Small flaccid, non-tender bullae with positive Nikolsky sign were present on the trunk, thighs, and intergluteal folds, covering less than 10% of the skin, sparing mucosa and eyes. CBC showed persistent lymphocytosis to 36x109/L. Histopathology revealed intraepidermal deposits of atypical CD4+ lymphocytes forming Pautrier microabscesses. Direct immunofluorescence (IF) studies were negative. Peripheral blood flow cytometry revealed clonal T-cell receptor gamma gene rearrangement with corresponding bone marrow involvement on biopsy. CT abdomen/pelvis demonstrated widespread lymphadenopathy. The patient was diagnosed with Stage IVA2 cutaneous T-cell lymphoma (CTCL) and started on low dose oral methotrexate and topical hydrocortisone cream for symptomatic relief.
+
+# IMPACT/DISCUSSION:
+
+Mycosis fungoides bullosa (MFB) is a rare but aggressive variant of CTCL with a poor prognosis. It presents as a rapidly progressive desquamating vesiculobullous eruption, which can be mistaken for Stevens-Johnson Syndrome (SJS) especially in the setting of common pharmacologic culprits such as allopurinol. This case adds to the sparse literature on MFB and the differential diagnosis of acute vesiculobullous eruptions. Four criteria are recommended for diagnosis of MFB: 1) vesiculobullous lesions with or without typical MF lesions, 2) typical histologic features of MF (atypical lymphoid cells, epidermotropism, Pautrier's microabscesses) with intraepidermal blisters, 3) negative IF to rule out concomitant autoimmune bullous diseases, and 4) negative workup for other etiologies of vesiculobullous lesions (e.g., medications, infections). In our case, all diagnostic criteria were met with corresponding clinical and histologic findings. In cases of acute vesiculobullous eruption, SJS is an important, rapidly fatal diagnosis to rule out. Our patient did not have ocular or mucosal involvement (present in >90% of SJS patients), nor systemic symptoms associated with SJS. Histopathologic findings specific to MFB such as CD4+-predominant lymphocytes forming Pautrier's microabscesses can facilitate diagnosis.
+
+# CONCLUSION:
+
+MFB is a rare variant of CTCL with a poor prognosis and should be on the differential workup for vesiculobullous eruptions to ensure prompt diagnosis and treatment.
+
+# A CASE OF NONBACTERIAL THROMBOTIC ENDOCARDITIS IN A YOUNG PATIENT WITH ACUTE MYELOGENOUS LEUKEMIA
+
+Rami Atallah2; Nicholas Ojile2; Kamal Chamoun3; Mohinder Vindhyal1. 1KU - Wichita, Wichita, KS; 2University of Kansas Wichita, Wichita, KS; 3 Case Western Reserve University, Cleveland, OH. (Control ID #3185270)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the causes and clinical features of nonbacterial thrombotic endocarditis.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that nonbacterial thrombotic endocarditis is potentially underdiagnosed.
+
+# CASE:
+
+A 29 year-old female with a history of recurrent pancreatitis presented to her primary care physician complaining of severe dyspnea on exertion and fatigue. Outpatient laboratory work revealed severe anemia and the patient was sent to the emergency department for further evaluation. She denied any symptoms of bleeding at the time. Family history was remarkable for maternal grandfather with history of leukemia. Her physical examination was significant for skin pallor and tachycardia. Complete Blood Count (CBC) on presentation showed hemoglobin of 4 g/dl, platelets of 56x109/L, and white blood cells (WBC) of 14x109/L with 40% peripheral blasts. A bone marrow biopsy confirmed the diagnosis of AML with complex karyotype, and negative NPM1 and CEBPA mutations. An initial echocardiogram revealed an ejection fraction of 55% with no valvular abnormalities. Blood cultures were obtained and she was started on broad spectrum antibiotics. The DIC panel was negative. Induction chemotherapy was then started using cytarabine and daunorubicin. After initiating chemotherapy, she developed bilateral infiltrates on chest X-ray and her respiratory status rapidly deteriorated requiring mechanical ventilation. Bronchoscopy was consistent with diffuse alveolar hemorrhage (DAH). Multiple sets of blood cultures in the setting of persistent neutropenic fever were repeatedly negative. Patient was on vancomycin, meropenem, acyclovir, and voriconazole. Suddenly, a week later, she developed neurological deterioration including absent brainstem reflexes, renal failure and left leg ischemia caused by an arterial clot in the deep femoral artery. Family discussion led to comfort care. Autopsy revealed fibrin vegetation on the aortic valve and tricuspid valve with massive ischemic infarct involving the left frontal, parietal and occipital lobes of the brain in addition to bilateral kidney and spleen infarcts. Bilateral pulmonary hemorrhage was also noted.
+
+# IMPACT/DISCUSSION:
+
+Nonbacterial thrombotic endocarditis (NBTE), formerly known as marantic endocarditis, is a rare condition characterized by deposition of sterile thrombi on heart valves with the absence of bacterial growth on blood cultures. NBTE increases the risk of systemic embolic events including stroke. Microscopically, NBTE results from agglutinated platelets mixed with strands of fibrin. NBTE is most commonly associated with advanced malignancy and systemic lupus erythematosus. In this case, NBTE has led to significant multi-organ failure including kidney failure, massive stroke and leg ischemia.
+
+# CONCLUSION:
+
+NBTE is uncommon but associated with poor outcomes. It is uncommonly reported in patients with AML and is often a postmortem diagnosis. NBTE is potentially underdiagnosed and should be considered in any cancer patient with an episode of arterial thromboembolism.
+
+# A CASE OF OXALOSIS FOLLOWING ROUX-EN-Y BYPASS SURGERY
+
+John Paul Mikhaiel; Ryan M. Commins; Margot Wheeler. Georgetown University, Washington, DC. (Control ID #3168633)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation and risk factors for hyperoxalemia.
+
+# CASE:
+
+A 61-year-old male with history of acute renal failure on hemodialysis and obesity, four years status post Roux-en-Y bypass, presented with episodic skin changes and paresthesia in his fingers and toes as well as hemoptysis. Six months prior to presentation, he was admitted for acute renal failure with renal biopsy revealing ethylene glycol crystals. In the preceding months, he also complained of sporadic day-long episodes of burning and paresthesia in his fingers and toes and three episodes of small volume hemoptysis. His skin exam revealed distal fingertips with necrotic ulcerations and slight purpura, and distal toes with necrotic ulcerations extending into the fat pads. Lung exam was clear to auscultation with diminished sounds at bases. While initial labs revealed an elevated CRP, follow-up infectious and immunologic studies were unremarkable. CT scan of the chest demonstrated diffuse ground-glass airspace opacities and confluent consolidation in the right upper lobe. Punch biopsy, taken during a stage of healing, of the skin ulcers was suggestive of thrombogenic vasculopathy. Finally, his plasma oxalate level was found to be 28.5 umol/L, greater than 15x the normal limit, indicating hyperoxalemia. He was treated with dietary modification and initiation of cholestyramine.
+
+# IMPACT/DISCUSSION:
+
+An estimated 100 million American adults are obese, and over 200,000 bariatric surgery procedures were performed in 2017 alone. While Roux-en-Y bypass has been supplanted by the gastric sleeve as the most common bariatric surgery performed, Roux-en-Y was still performed over 40,000 times in 2017. This case highlights the post-operative complication of hyperoxaluria in malabsorptive gastric bypass procedures. Hyperoxaluria following Roux-en-Y gastric bypass is estimated at 20%. While not completely understood, it has been suggested that the enteric hyperoxalemia that follows bariatric surgery is secondary to free fatty acid malabsorption. The excess free fatty acids and bile salts in the intestinal lumen bind to and saponify calcium, inhibiting the formation of calcium oxalate, and increasing absorption of soluble free oxalate. Hyperoxalemia may lead to nephrocalcinosis, often manifesting as nephrolithiasis or progressive renal insufficiency. Hyperoxalemia can also...

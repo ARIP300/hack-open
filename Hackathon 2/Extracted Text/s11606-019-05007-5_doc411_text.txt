@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Diagnosis and treatment of rare presentation of congenital hernia
+
+# LEARNING OBJECTIVE #2:
+
+Assessing the complications of Morgagni hernia
+
+# CASE:
+
+53 year old healthy Caucasian male transferred from outside facility with hypoxic respiratory failure. He was complaining of progressive shortness of breath over 8 months before admission. Admission vitals were temperature of 98.2 f, blood pressure of 122/79 mm of Hg, heart rate of 79 beats per minute, respiratory rate of 27 per minute, 96% oxygen saturation on BiPAP 14/8. Physical examination revealed mild to moderate acute distress, with decreased breath sounds on right side. Rest of the exam is within normal. Laboratory results revealed pH of 7.173, pCO2 is 108, pO2 is 98.7 and bicarbonate of 39, serum sodium of 139, potassium of 5.0, bicarbonate 34. Rest of laboratory results were acceptable range. CT scan of chest demonstrated diaphragmatic hernia suggestive of foramen of Morgagni hernia and right hemithorax is filled with abdominal contents including small, large bowel and omentum, pushing the heart into left side of chest, pneumonia vs pneumonitis. Empiric antibiotics was started (Azithromycin and piperacillin/tazobactum) after drawing blood cultures. Patient got intubated for severe respiratory acidosis. Patient underwent emergent explorative laparotomy and repaired diaphragm with prolene mesh patch. Fiberoptic bronchoscopy showed thick white mucus in right bronchus intermedius which was aspirated. Chest tube was placed in right 6th intercoastal space. Patient underwent thoracotomy and decortication of right lower and middle lobes. Blood and sputum cultures were inconclusive. Subsequently patient was hemodynamically improved after finishing the antibiotics (both piperacillin/tazobactum and azithromycin). He got extubated and chest tube was removed once drainage was minimal.
+
+# IMPACT/DISCUSSION:
+
+Our case illustrates the rare presentation of congenital hernia. Patient was asymptomatic since birth and presented to the hospital with respiratory failure. Morgagni hernia is an anatomical defect in the anterior diaphragm that allows herniation of abdominal organs into the thorax. These hernias were the rarest of the congenital diaphragmatic defects with a reported frequency of 1% to 5.1%. Chest radiograph can show homogenous masses in the thorax with air fluid levels suggestive of hernia. CT scan is the investigation of choice for diagnosis of Morgagni's hernia. This case illustrates the need to act quickly when a potential diagnosis of a Morgagni's hernia is made. A missed diagnosis can lead to complications such as hemorrhage, obstruction, or strangulation. Assessing the hernia in a timely manner and acting appropriately will minimize the complications of Morgagni hernia and by doing so, we were able to save the patient.
+
+# CONCLUSION:
+
+All health care professionals not limited to internists should be aware of this rare presentation and can prevent devastating complications by suspecting diagnosis by clinical, physical examination and imaging studies.
+
+# CONGESTIVE HEART FAILURE OR COULD IT BE SOMETHING ELSE?
+
+Saketh Parsi1; Lakshmi Priyanka Mahali2. 1Montefiore Medical centre, Bronx, NY; 2 Montefiore Medical Center, Bronx, NY. (Control ID #3185224)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnosis of Right Atrial myxoma should be suspected in patients with symptoms mimicking congestive heart failure associated with weight loss.
+
+# LEARNING OBJECTIVE #2:
+
+Right atrial myxoma can create pro-thrombogenic environment and lead to clot formation causing pulmonary embolism.
+
+# CASE:
+
+A 71 year-old woman with hypertension presented with progressive ascending bilateral leg swelling for one week. She also reported chronic dry cough, wheeze and dyspnea on exertion since over one month and unintentional weight loss of 40 pounds since over a year. She was hemodynamically stable. Physical exam revealed a diastolic murmur on the left sternal border. Diagnosis of heart failure was suspected and Transthoracic Echocardiography (TTE) was done, which surprisingly revealed severe right atrial dilatation and a pedunculated, mobile mass with multiple stalks (3.1 x 1.9 cm in longest dimensions) attached to interatrial septum, consistent with an atrial myxoma. Computed tomography (CT) of chest revealed bilateral extensive pulmonary embolisms (PE), with right heart strain, pulmonary arterial hypertension, and irregular filling defect within the right atrium (RA) corresponding with the myxoma. Anti-coagulation (AC) was started with lovenox and patient was discharged on apixaban with cardiothoracic clinic follow up.
+
+# IMPACT/DISCUSSION:
+
+Approximately 80 percent of myxomas are found in the left atrium; the remainders are in the RA. RA myxomas grow into the lumen and obstruct flow, producing hemodynamic changes that are similar to tricuspid stenosis. RA myxomas typically present with signs and symptoms of right heart failure (peripheral edema, hepatomegaly, and ascites) and cause diastolic murmurs. Constitutional symptoms like malaise, anorexia, fever, arthralgia, weight loss are more common in cases of cardiac myxomas due to the release of cytokine interleukin-6 (IL-6). In addition, tumor fragments may be released into the pulmonary circulation causing symptoms consistent with pulmonary embolism, as seen in our patient. Presence of an atrial septal defect results in shunting of venous blood into the systemic circulation causing hypoxemia or systemic emboli. Provoked PE is temporarily managed with AC and permanently managed by treating the cause. RA myxomas require prompt resection to prevent further embolization or cardiovascular complications, including sudden death.
+
+# CONCLUSION:
+
+In patient with heart failure symptoms, PE and associated significant weight loss other diagnoses like right heart myxoma, malignant pericardial effusion should be considered. Patients with right atrial myxomas should be managed with AC, if no medical contraindications. However ultimate management is tumor resection.
+
+# CORONARY ARTERY DISSECTION IN MULTIPAROUS POST-PARTUM PATIENT
+
+Kuroush Nezafati. Methodist Dallas Hospital, Arlington, TX. (Control ID #3185805)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize spontaneous coronary artery dissection (SCAD) as an important and rare etiology of chest pain, especially in younger women with a history of recent emotional or physical stressor such as in peripartum/postpartum women.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the range of management for SCAD depending on the severity of dissection and associated mortality with SCAD.
+
+# CASE:
+
+A 29-year-old G5P5 female with past medical history of pre-eclampsia during her 3rd pregnancy presented to the Emergency Department (ED) with substernal chest pain 18 days postpartum. Pain was pressure like, non exertional and radiated into bilateral upper extremities; she initially attributed her symptoms to anxiety, but with a 3rd episode of pain and her measured systolic blood pressure of 180 mmHg at home, she sought medical attention. Evaluation in the ED showed normal chest radiograph, electrocardiogram (ECG) with ST segment depression in precordial leads concerning for subendocardial ischemia. Initial troponin was 0.739 ng/mL. Troponin was 4.27 ng/mL six hours later for which patient had an angiogram which showed multiple dissections in left anterior descending (LAD) & left circumflex with anteroapical hypokinesis but preserved ejection fraction. The most significant of these dissections was within the left anterior descending coronary which had extensive anterograde and retrograde involvement. Two long stents were placed in the LAD, one proximally extending up to left main coronary and one distally up to the distal third of the left anterior descending coronary. The left circumflex dissection showed no intimal flap and good wall integrity. Vessel branches off of the marginal branch also showed area of dissection with no wall compromise. The patient was placed on dual antiplatelet therapy along with a statin and beta blocker and recovered well.

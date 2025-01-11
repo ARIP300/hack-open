@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# DIFFERENCES IN NARRATIVE LANGUAGE IN EVALUATIONS OF MEDICAL STUDENTS BY THE GENDER AND UNDER-REPRESENTED MINORITY STATUS OF MEDICAL EDUCATORS
+
+Alexandra E. Rojek 1; Joanne W. Yim 1; Sarah Lisker 1; Rebekah Gardner 2; Raman Khanna 1; Karen E. Hauer 1; Catherine R. Lucey 1; Urmimala Sarkar 1. 1 University of California, San Francisco, San Francisco, CA; 2 Brown University, Providence, RI. (Control ID #3186008)
+
+# BACKGROUND:
+
+Prior studies have shown significant differences in narrative evaluations associated with the gender and under-represented minority (URM) status of medical students, even among students receiving the same grade. Limited qualitative studies in other educational settings suggest that male and female evaluators may assess students differently based on the student's gender. It remains poorly described, however, whether in medicine the gender and URM status of the evaluator influences the narrative text of evaluations.
+
+# METHODS:
+
+We set out to identify and enumerate text descriptors in medical student evaluations, particularly the differences in language depending on evaluator gender and URM status, and whether these differences persisted after adjustment for student gender and URM status. We collected clerkship evaluations from core clinical rotations at two medical schools, parsed the de-identified text of evaluations with a neural network algorithm, and employed natural language processing to quantify differences in the narrative text.
+
+# RESULTS:
+
+There were 86,655 evaluations, 41,629 (48%) by male evaluators and 45,026 (52%) by female evaluators; 10,049 (12%) were by URM evaluators, and 70,799 (82%) were by non-URM evaluators. We found significant differences in how students were described depending on the gender and URM status of their evaluator, and a subset of these differences remained significant after adjustment for students' gender and URM status. Of 1,312 descriptors identified in all evaluations, the usage frequency of descriptors was significantly different by evaluator gender for 152 (11.5%) words, and by evaluator URM status the usage frequency differed significantly for 76 (5.7%) words. Of the 100 most commonly used descriptors, 64 were used significantly differently by evaluator gender, and 45 were used significantly differently by evaluator URM status. For example, female evaluators used "wonderful" more than men (p<0.001), while men used the term "superb" more often (p<0.001). URM evaluators used the term "mature" (p<0.001) more often, and non-URM evaluators the term "impressive" (p<0.001). When adjusting for student URM status, there were minimal differences among URM students, although non-URM students were described differently depending on URM status of their evaluator.
+
+# CONCLUSIONS:
+
+While many of the descriptors used are shared, we find that there were preferred vocabularies used by male and female evaluators tied to evaluators' genders regardless of students' gender, and subsets of preferred vocabularies when segmenting by students' gender. When interrogating evaluators' and students' URM statuses together, we find few differences in how evaluators describe URM students, but preferred sets of descriptors for how evaluators describe non-URM students. These findings raise concern for an additional set of biases in narrative evaluation of students that is not directly related to students' clinical performance and may have implications in their career paths.
+
+# DIFFERENCES IN PRIMARY CARE ACCESS, PROVIDER TRUST, AND DISCLOSURE OF SAME-SEX BEHAVIORS TO PRIMARY CARE PROVIDERS AMONG MEN WHO HAVE SEX WITH MEN IN THE UNITED STATES
+
+Christopher B. Stults 3; Christian Grov 2; Kathryn Anastos 1; Elizabeth A. Kelvin 2; Viraj V. Patel 1. 1 Montefiore Medical Center/Albert Einstein College of Medicine, New York, NY; 2 City University of New York, New York, NY; 3 Baruch College, New York, NY. (Control ID #3186080)
+
+# BACKGROUND:
+
+Engaging in primary care is important to ensure appropriate healthcare. Men who have sex with men (MSM) may be less likely to access primary care and engage fully, but little is known about factors associated with primary care engagement in MSM. Therefore, we assessed characteristics associated with having a primary care provider (PCP), and among MSM with a PCP, trust in and disclosure of same-sex behaviors to a PCP.
+
+# METHODS:
+
+In 2016, 4,239 MSM (aged 18+, reporting 1 sex act with a man in past 5 years) from across the US, recruited via diverse social media sites and in-person, completed an online survey including demographic/behavioral characteristics, health literacy and (1) having a PCP, and among those with a PCP, (2) trust in their PCP (using Wake Forest Physician Trust Scale, dichotomized at the mean), and (3) disclosure of same-sex behaviors to their PCP. We used multivariable logistic regression with GEE to identify characteristics associated with each of the 3 outcomes. All results adjusted for age, race/ethnicity, HIV status, state, urbanicity, and recruitment source and shown as (Adj Odds Ratio, 95% CI).
+
+# RESULTS:
+
+Participants were from all 50 US states and distribution was roughly equivalent across age groups. Over half identified as white (59.8%), 19.1% as Latino, 10.6% as black, and 3.4% as Asian. Most identified as gay (79.7%) or bisexual (17.6%). 18.2% reported being HIV-positive, 62.8% HIV-negative-not on pre-exposure prophylaxis (PrEP), 11.5% HIV-negative-on PrEP and 7.6% unsure of their HIV status. Most (86.3%) had a PCP. The odds of having a PCP was lower (p<0.01) among those who were younger (0.09, 0.03-0.3; ref: 65+), HIV-negative (0.08, 0.04-0.15; ref: HIV+) or -unknown (0.05, 0.03-0.1), single (0.7, 0.5-0.8), or with low medical literacy (0.7, 0.5, 0.9). Of those with a PCP (n=3,658), 45.3% had low trust in their provider, which was associated with (p<0.01) being younger (0.6, 0.4-0.9), Asian (0.67, 0.45-1; ref: white), bisexual (0.7, 0.6-0.8; ref: gay), HIV-negative-not on PrEP (0.5, 0.4-0.6; ref: HIV+), HIV-unsure (0.3, 0.2-0.4), or with low medical literacy (0.4, 0.3-0.5). Finally, among those with a PCP (n=3,658), 24.5% had not disclosed same-sex behaviors to their provider. Non-disclosure was associated with (p<0.01) being Asian (0.5, 0.3-0.8), bisexual (0.2, 0.2-0.3) or straight (0.05, 0.02-0.1), HIV-negative or -unknown (0.09, 0.06-0.14), having no sex partners in past 3 months (0.6, 0.5-0.8; ref: >1 partner), recruited from hookup sites, low medical literacy (0.7, 0.5, 0.9), and having low trust in their PCP (0.6, 0.5-0.7).
+
+# CONCLUSIONS:
+
+We found a number of factors associated with having a PCP and, among those with a PCP, we identified a number of predictors of primary care engagement, indicated by trust in a PCP and disclosure of same-sex behaviors. Research is needed to evaluate if increasing patient-provider trust and creating an enabling environment for disclosing same-sex behaviors can improve primary care engagement among diverse MSM populations.
+
+# DIFFERENCES IN RISK FACTORS BETWEEN GENDERS FOR PATIENTS READMITTED WITH ACUTE PANCREATITIS A RETROSPECTIVE COHORT STUDY
+
+Neal Mehta; Gilbert-Roy B. Kamoga 2; Khaled Khasawneh 1; Ron T. Varghese 2. 1 White River Health System, Batesville, AR; 2 White River Medical Center, Batesville, AR. (Control ID #3184581)

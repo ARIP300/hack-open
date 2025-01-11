@@ -1,0 +1,49 @@
+# Chatbot breakthrough in the 2020s? An ethical reflection on the trend of automated consultations…
+
+limited expertise. To be more efficient, chatbots need to be up to date on medical regulations, ethical codes and research data. Their limits must be understood and explicitly communicated to patients.
+
+# (4) Patients’ responsibility of self-care can increase alongside chatbot development
+
+There are risks involved when patients are expected to self-diagnose, such as a misdiagnosis provided by the chatbot or patients potentially lacking an understanding of the diagnosis. One of the downsides is patients’ overconfidence in the ability of chatbots. If experts lean on the false ideals of chatbot capability, this can also lead to patient overconfidence and, furthermore, ethical problems.
+
+# (5) Trust decay
+
+As computerised chatbots are characterised by a lack of human presence, which is the reverse of traditional face-to-face interactions with HCPs, they may increase distrust in healthcare services. HCPs and patients lack trust in the ability of chatbots, which may lead to concerns about their clinical care risks, accountability and an increase in the clinical workload rather than a reduction.
+
+# (6) Increased tendency of conflict
+
+As a result of patient self-diagnoses, physicians may have difficulty convincing patients of their potential preliminary misjudgement. This persuasion and negotiation may increase the workload of professionals and create new tensions between patients and physicians.
+
+# (7) Chatbots can form unexpected new gateways or bottlenecks in health care
+
+New technologies may form new gatekeepers of access to specialty care or entirely usurp human doctors in many patient cases.
+
+# (8) Chatbots can increase workload and costs
+
+Sophisticated AI-based chatbots require a great deal of human resources, for instance, experts of data analytics, whose work also needs to be publicly funded. More simple solutions can lead to new costs and workload when the usage of new technology creates unexpected problems in practice. Thus, new technologies require system-level assessment of their effects in the design and implementation phase.
+
+# (9) Negative impact on employee well-being and motivation at work
+
+The implementation of chatbots without the consent of HCPs may reduce HCP motivation and capabilities to control their own work. In the long run, clinical practices can become monotonous: the shift from operator to supervisor, which also decreases the embodied and emotional relationship between HCPs and patients.
+
+# (10) The possibility of pushing health care into a domino effect
+
+Like falling dominoes, the large-scale deployment of chatbots can push HCPs and patients into novel forms of healthcare delivery, which can affect patients’ access to care and drive some to new provider options. Due to partly automated systems, patient frustration can reach boiling point when patients feel that they must first communicate with chatbots before they can schedule an appointment. The dominos fall when chatbots push patients from traditional clinical face-to-face practice to more complicated automated systems.
+
+We acknowledge the difficulty in identifying the nature of systemic change and looking at its complex network-like structure in the functioning of health organisations. Nonetheless, we consider it important to raise this point when talking about chatbots and their potential breakthrough in health care. We suggest that new ethico-political approaches are required in professional ethics because chatbots can become entangled with clinical practices in complex ways. It is difficult to assess the legitimacy of particular applications and their underlying business interests using concepts drawn from universal AI ethics or traditional professional ethics inherited from bioethics. Ethical issues within chatbots in health professional work do not simply fall in the domain of individual or organisational challenges; they require policy decisions on how the new tools can be implemented in order to automate decisions based on human assessment. Insufficient consideration regarding the implementation of chatbots in health care can lead to poor professional practices, creating long-term side effects and harm for professionals and their patients. While we acknowledge that the benefits of chatbots can be broad, whether they outweigh the potential risks to both patients and physicians has yet to be seen.
+
+# Acknowledgements
+
+We thank the Ella and Georg Ehrnrooth Foundation for funding, along with the research project “Struggling with ignorance: Negative expertise and the erosion of the Finnish information society at the turn of 2020” (NEGATE), funded by Academy of Finland.
+
+# Funding
+
+This work is supported by Ella ja Georg Ehrnroothin Säätiö.
+
+# Data availability
+
+Not applicable.
+
+# Code availability
+
+Not applicable.

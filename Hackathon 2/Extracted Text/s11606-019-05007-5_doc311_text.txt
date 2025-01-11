@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Factors Impacting Patients' Perceptions of Primary Care Access
+
+Measures are correlated with administrative measures, improvement efforts such as "open access" that target administrative measures may not result in improved patient perceptions. To inform improvement efforts, our objective was to understand what factors impact patients' perceptions of primary care access.
+
+# METHODS:
+
+We used a two-stage sampling approach, randomly sampling within 1 VHA region from among clinics with better than the regional average administrative access and worse than average patient survey ratings of access, stratified by clinic panel size (2 small, 1 medium, 2 large). We used quota sampling targeting 10 patients per clinic within 6 gender-by-age strata. We conducted 15-minute semi-structured telephone interviews (June-Sept. 2018) with 47 patients who had sought access to primary care for an urgent medical concern within the past 6-12 months. We analyzed qualitative data using a rapid qualitative analysis approach.
+
+# RESULTS:
+
+The response rate was 64%. Overall, Veterans were satisfied with care received and most did not describe access as problematic. To obtain access, most reported first attempting to contact the primary care clinic by telephone. A few described strategies that involved multiple modes of contact (e.g., call first, then walk in if clinic doesn't call back). Of those who reported calling, a few reached the clinic directly, but most called an administrative call center. About half reported being seen in primary care or specialty within 1 week, but a few were unable to get needed care and sought care outside VHA. The most important aspect of access for most was getting a response back to messages or a timely appointment (urgent and routine). Several mentioned communication quality or ability to contact the clinic directly as important aspects of access, and several expressed concerns about provider/staff turnover.
+
+# CONCLUSIONS:
+
+Besides appointment availability, Veterans' perceptions may be shaped by many factors, including difficulty scheduling appointments (e.g., a multi-stage triage process involving the call center, care team, and/or nurse advice line), lack of timely response to requests/questions, and staffing turnover. While most Veterans had positive experiences using VHA, our results suggest that the cumulative "hassle factor" and the steps involved in getting care may affect Veterans' responses to survey questions about access. Improving Veterans' perceptions may require a multi-faceted, multi-level intervention, including improving response/resolution time, Veteran education about the multiple modes of accessing care, and provider and staff training in patient-centered communication.
+
+# WHAT IF IT'S NOT SCREENING? HEPATITIS C ANTIBODY PERFORMANCE AND ABNORMAL LIVER TESTS
+
+Andrew Schreiner1; Jingwen Zhang2; Patrick D. Mauldin1; William P. Moran1. 1Medical University of South Carolina, Charleston, SC; 2MUSC, Charleston, SC. (Control ID #3186057)
+
+# BACKGROUND:
+
+Hepatitis C virus (HCV) antibody (Ab) serologies are the tests of choice for HCV birth cohort screening given their high sensitivity and relatively low cost. However, how these tests perform in diagnosing HCV in patients with clinical signals of possible liver abnormality is less well known. We studied the performance characteristics of HCV Ab testing in patients with abnormal liver chemistries.
+
+# METHODS:
+
+This retrospective study of administrative data investigates diagnostic testing for HCV in primary care patients with abnormal liver tests between 2007 and 2016 in an academic patient-centered medical home (PCMH). Patients seen in the PCMH at least once and possessing at least one abnormal liver test result in the electronic health record were included in the study. Abnormal liver tests included any elevation in bilirubin, aminotransferases, or alkaline phosphatase. Patients were evaluated for the first appearing HCV serologic testing results, including both Ab (ARCHITECT) and RNA tests, during the study period. The institution's laboratory incorporated reflex HCV RNA testing in response to positive Ab tests in 2015. The sensitivity and specificity of HCV Ab testing was analyzed in comparison to the gold standard of RNA testing results, when available. We conducted this analysis on patients with at least one abnormal liver test, and again on patients with at least 2 consecutive liver test abnormalities.
+
+# RESULTS:
+
+In total, 9,545 unique patients were studied, (Table 1). The 2,812 patients tested for HCV Ab yielded 335 (11.9%) positive results. Unfortunately, 80 (23.9%) of the HCV Ab positive patients did not have HCV RNA testing documented. Of those with RNA follow-up, 205 of 255 (80.4%) were positive. Only 54 patients with negative HCV Ab tests had RNA testing, yielding 0 (0.0%) positive RNA results. From the 309 patients with HCV Ab and RNA test results, the HCV Ab tests had a sensitivity of 100% and specificity of 51.9%. We also looked at HCV Ab performance in the 5,364 patients with consecutive liver test abnormalities. Of these patients, 2,125 had HCV Ab testing and 301 (14.2%) had positive results. From the 278 patients with consecutive liver test abnormalities and HCV Ab and RNA results, the sensitivity of HCV Ab testing was 100% and the specificity was 53.3%.
+
+# CONCLUSIONS:
+
+HCV Ab testing is highly sensitive but poorly specific in primary care patients with abnormal liver tests. While such performance suits birth cohort screening, HCV Ab testing (vs. RNA) in response to potential signals of liver abnormality may contribute to diagnostic error (i.e. false positives with patient worry and missing follow-up) and added costs. Future investigation with a cost-effectiveness analysis in similar patient populations is warranted.
+
+# WHAT IS MISUSE? CLINICIAN CONSENSUS ON SECURE MESSAGING WITH PATIENTS
+
+Joy L. Lee1, 3; Marianne S. Matthias2, 3; Michael Weiner4, 3. 1Indiana University School of Medicine, Indianapolis, IN; 2Roudebush VAMC, Indianapolis, IN; 3Regenstrief Institute, Indianapolis, IN; 4Indiana University, Indianapolis, IN. (Control ID #3185246)
+
+# BACKGROUND:
+
+Secure messaging provides patients access to clinicians, care, and health information. Yet misuse of secure messaging by both patients and clinicians can lead to miscommunications and errors. We sought to uncover variations in provider approaches and responses to messaging, particularly their perceptions of appropriateness, and preferences for when to use secure messaging, to understand the potential to improve care via this mode of communication.
+
+# METHODS:
+
+This qualitative study targeted primary care clinicians from a Midwestern Veterans Affairs medical center and a tax-supported safety-net medical center. Participants were presented with five clinical vignettes and corresponding secure messages from hypothetical patients, asked to compose responses, and then interviewed about the messaging process, their preferences for how to respond, as well as their understanding of appropriateness. Recruitment is still ongoing and will continue until the findings reach saturation.
+
+# RESULTS:
+
+We uncovered key differences in clinicians' (13 physicians, 2 nurse practitioners, and 4 registered nurses) experiences with, and perceptions of, secure messaging. Clinicians disagreed about the circumstances for which responding to a secure message from patients by secure messaging was preferred over telephone calls with patients. Their rationales revealed differences in understandings of appropriate uses of secure messaging. There was most, but not complete, agreement that secure messaging should not be used to respond to a message from a patient with an urgent health issue (95% preferred to call) or symptoms of depression (89%). Clinicians disagreed regarding their use of secure messaging to discuss medication adjustments and laboratory results, and to respond to a dissatisfied patient. Although the 19 clinicians represented diversity in their approaches and secure messaging workload—half received 10 or fewer messages a week, and half received more—all indicated that the workload was manageable.
+
+# CONCLUSIONS:
+
+Among physicians, nurse practitioners, and nurses, this study revealed variations in approaches to secure messaging, particularly a lack of consensus about preferences and perceptions of appropriateness of secure messaging. Clinicians' perspectives about secure messaging can influence their patients' adoption and use of the technology.

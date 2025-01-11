@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# PROGRAM EVALUATION OF A SIMULATION CURRICULUM FOR RAPID RESPONSE TRAINING
+
+Resident evaluation of the retreat indicated that further training in rapid responses was needed, and over one-third of respondents requested hands-on simulation training. The new curriculum will take place toward the end of intern year at our simulation center; each intern will have the opportunity to lead a simulated rapid, followed by feedback and debriefing.
+
+# DESCRIPTION:
+
+- Pre-simulation: Didactic teaching on clinical parameters for calling a rapid and the personnel who arrive. Emphasis will be placed on leadership and communication skills.
+- Simulation: Each intern will lead one scenario and participate in one scenario as a nurse. Both scenarios will use the same chief complaint with two different underlying causes and clinical trajectories.
+- Post-simulation: We will conclude with a debriefing guided by checklists outlining key leadership skills.
+
+# EVALUATION:
+
+Program evaluation will include:
+
+1. A questionnaire to assess residents' self-reported confidence in running rapids before, immediately after and six months after simulation training. Results will be compared to data from the 2018 Transition Curriculum, where interns received didactic teaching only.
+2. Achievement of specific leadership and communication endpoints during each scenario. This information will guide debriefing and identify areas for future curricular revisions.
+3. Audio-recording of debriefing sessions and thematic analysis to identify areas for future training.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The planning team learned the following key lessons: needs assessment is key to successful planning of educational content and strategies and curriculum implementation; scholarly approach to curriculum design is important; and getting buy-in from key stakeholders, such as chief residents and the program director, is critical to success.
+
+# POLICY AND ADVOCACY FOR CLINICIANS: TEACHING SYSTEMS THINKING TO INTERNAL MEDICINE RESIDENTS
+
+Jennifer B. Cowart1; Michael Maniaci2; Jaimie Grega2; Michele D. Lewis2. 1Mayo Clinic, Jacksonville, FL; 2Mayo Clinic in Florida, Jacksonville, FL. (Control ID #3153766)
+
+# NEEDS AND OBJECTIVES:
+
+1. Increase practical knowledge of the US healthcare system and the impact of healthcare policy on the daily work of internists.
+2. Improve awareness of and comfort with physician advocacy.
+3. Provide education in the ACGME Core Competency of Systems-Based Practice.
+
+# SETTING AND PARTICIPANTS:
+
+Year-long, monthly morning report series for residents in an academic internal medicine program.
+
+# DESCRIPTION:
+
+We created a curriculum in healthcare policy and physician advocacy for internal medicine residents, delivered in half-hour lectures during morning report. The course began in the 2018-2019 academic year. A pre-course survey was administered to all internal medicine residents in our program prior to the first lecture, and a post-course survey will be administered in June 2019.
+
+# EVALUATION:
+
+The pre-course survey identified gaps in self-reported knowledge of the healthcare system: low levels of ability to describe process of federal healthcare policy making, staying up to date on current healthcare policy news, familiarity with US healthcare payers, or comfort contacting elected officials about issues. Residents agreed that advocacy was important to the work of physicians, but most reported having never participated in an advocacy effort. Most residents agreed that voting was important and 90% reported having voted before.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Discussion: With current events showing continued changes in healthcare delivery and medical education, we identified a growing need for physicians to enter the policy and advocacy space. This course was designed to address gaps in knowledge and awareness in these domains. Pre-course survey data confirmed these information gaps, while showing that residents agree that advocacy is an important part of their role as physicians. The curriculum is being administered currently as a series of monthly lectures, and will also include encouraging residents to participate in physician advocacy activities at the state or federal level with internal medicine professional societies, including "Hill Day". This type of curriculum can be implemented in a variety of settings, not exclusive to internal medicine or to postgraduate medical education. Reflections/Lessons learned: During the first year of curriculum development, a traditional lecture model is being used. The time constraints of the 30-minute morning report model limit the time for meaningful discussion around the topics, which are often new to the learners. Future iterations may employ other modalities, to potentially include a "flipped classroom". Written or video materials could be delivered to the learners in advance, so that lecture time may be spent discussing and interacting with the content. This material shares some commonality with patient safety and quality improvement, in terms of the systems-based practice focus, and some policy material could be incorporated into a quality-focused morbidity and mortality conference or into other lectures on purely clinical topics.
+
+# PREPARING FUTURE PHYSICIANS TO CARE FOR PATIENTS WITH OPIOID USE DISORDER - BUPRENORPHINE WAIVER TRAINING COURSE DURING MEDICAL SCHOOL
+
+Irvin Lien1; Jody S. Chou4; Diane L. Levine2; Eva Waineo3. 1Wayne State University School of Medicine, Detroit, MI; 2Wayne State University, Detroit, MI; 3Wayne State University school of medicine, Detroit, MI; 4Wayne State University, Okemos, MI. (Control ID #3184545)
+
+# NEEDS AND OBJECTIVES:
+
+The opioid epidemic in the US has become a major issue in healthcare and is destructive to individuals, families, and communities. Despite the decrease in opioid prescriptions, an unintended consequence is increased use of illicit or dangerous opioids such as heroin and fentanyl. In 2017, there was an estimated 72,306 drug overdose related deaths and the Emergency Departments (ED) nationally saw a 30% increase in opioid related overdoses. Innovative programs can help ensure patients are offered optimal treatment options. Most primary care physicians self-report they lack the skills to identify and appropriately treat substance abuse disorders (SUDs). Studies have suggested that the best solution is to improve medical school curricula, which translates to better educated future physicians. Unfortunately, most curricula do not provide adequate education to identify and treat SUDs in the medical practice. Buprenorphine is a partial μ-receptor agonist that is utilized to treat opioid addiction. To prescribe buprenorphine, an 8-hour Medication Assisted Treatment (MAT) training must be completed. Only 808 of the 28,206 active physicians (<3%) in the state of Michigan are registered to prescribe buprenorphine. We developed an innovative approach to provide students with the skills to understand how to prescribe buprenorphine and build confidence to medically manage opioid use disorders in the future. By completing the training and obtaining their permanent license, students will have completed all requirements to prescribe buprenorphine as a physician.
+
+# SETTING AND PARTICIPANTS:
+
+Third year medical students on their internal medicine clerkship are offered the MAT training during their 8-week rotation.
+
+# DESCRIPTION:
+
+The MAT training is offered online by the American Osteopathic Academy of Addiction Medicine twice a month and is free of charge. Training consists of a 4.25-hr webinar and 3.75-hr online module. Students who complete the training can choose to take one day off their clerkship. A pre- and post-experience survey is completed to assess how the training has impacted perspectives on patients with SUDs.

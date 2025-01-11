@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+Spontaneous coronary artery dissection (SCAD) is epicardial coronary artery dissection that is not associated with atherosclerosis, trauma, or iatrogenic causes. The primary mechanism that leads to myocardial injury is coronary artery obstruction secondary to a spontaneous formation of an intramural hematoma following disruption of the vessel wall or spontaneous hemorrhage arising from the vasa vasorum within the vessel wall. Middle aged women account for up to 95% of SCAD cases. For young women presenting with acute coronary syndrome, including those with pregnancy-related myocardial infarction, the prevalence of SCAD is 24%-35%. Additional risk factors for SCAD include fibromuscular dysplasia (FMD), connective tissue disorders, systemic inflammatory disorders, pregnancy, hormonal therapy, intense valsalva, and intracranial aneurysms. Presentation of SCAD mimics ACS with chest pain that radiates to the arms or neck, nausea, vomiting, and troponin elevation. Patients with SCAD are at risk of being incorrectly diagnosed due to their young age or lack of atherosclerotic risk factors. If SCAD is suspected, then coronary angiography should be performed to evaluate atherosclerotic lesions that could require intervention. There is a high rate of technical failure with PCI and lack of protective effect against future dissection events. Beta-blockers should be considered for patients who have LV dysfunction, arrhythmias, or hypertension. ACE inhibitors and ARBs are recommended. However, statins are not recommended unless the patient has guideline-based indications for primary prevention of atherosclerosis. Experts are divided about the use of anti-platelet and anti-coagulants.
+
+# CONCLUSION:
+
+SCAD should be considered in the differential diagnosis of acute chest pain, especially in a young female patient who lacks traditional atherosclerosis risk factors. It is important to distinguish SCAD from ACS as clinical management differs.
+
+# DISSECTING THE CAUSE OF ATRIAL FIBRILLATION: AN ATYPICAL PRESENTATION OF SPONTANEOUS CORONARY ARTERY DISSECTION
+
+Pedro Covas 1; Talal S. Alzahrani 2. 1 George Washington University, Washington, DC; 2The George Washington University, Arlington, VA. (Control ID #3159762)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing atrial fibrillation as an uncommon presenting symptom of a spontaneous coronary artery dissection.
+
+# CASE:
+
+A 46-year-old woman with a history of hypertension presented with acute substernal chest pain and an episode of emesis. EKG done by paramedics demonstrated atrial fibrillation with a rapid ventricular response and aberrancy (EKG difficult to interpret as limb lead reversal is possible), which spontaneously resolved. Troponin upon arrival was 0.10 ng/ml, which was presumed to be secondary to her atrial fibrillation. However, her repeated troponin was peaked at 10.5 ng/ml. Serial EKGs showed normal sinus rhythm with prolonged QTc and few fusion beats without ST-segment changes. Echocardiogram showed anterolateral and apical wall motion abnormalities, and cardiac catheterization revealed spontaneous coronary artery dissection (SCAD). Renal ultrasound showed normal kidneys without any evidence of renal artery stenosis, a sign of fibromuscular dysplasia. The patient was discharged with optimal medical therapy.
+
+# IMPACT/DISCUSSION:
+
+SCAD is a form of non-atherosclerotic myocardial infarction, that commonly affects young women. Chest pain, sudden cardiac death (SCD), STEMI, NSTEMI with or without EKG changes are common presentations of SCAD, but arrhythmias are relatively uncommon and sparsely noted in the literature. Although ACS can cause arrhythmias leading to SCD, atrial fibrillation has never been reported in young women with SCAD. Treatment involves optimized medical therapy, but PCI has been performed for persistent symptoms. SCAD is highly associated with fibromuscular dysplasia and connective tissue disorders, and proper screening should be performed.
+
+# CONCLUSION:
+
+This case highlights the importance of early recognition of atypical presentations of SCAD, especially atrial fibrillation, as this can lead to immediate medical therapy and interventions.
+
+# DISSEMINATED BLASTOMYCOSIS IN AN IMMUNOCOMPETENT PATIENT
+
+Anjeanette Mendez1; Kristen Corrao1; Joyce Okendo1; Mirza Baig1; Pinky Jha2; Sanjay Bhandari1. 1Medical College of Wisconsin, Milwaukee, WI; 2medical college of wisconsin, Milwaukee, WI. (Control ID #3186117)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize an interesting and unusual case of disseminated blastomycosis in an immunocompetent male patient.
+
+# LEARNING OBJECTIVE #2:
+
+Review the diagnosis and management of disseminated blastomycosis.
+
+# CASE:
+
+A 27 year-old incarcerated male presented with a 2-month duration of hemoptysis and cough. He denied any symptoms of weight loss, night sweats or fatigue. He denied any sick contact and any travel prior to incarceration. He also complained of bilateral headache and neck pain along with light sensitivity. Physical examination was significant for cutaneous lesions on his forehead, left ear, bilateral cheeks and right forearm. He was initially started on intravenous vancomycin and ceftriaxone for possible pneumonia. Due to concern for pulmonary tuberculosis (TB), patient was placed in isolation until further work-up could be done. Infectious disease and Dermatology were consulted. Computed tomography (CT) of the chest was obtained along with lumbar puncture, sputum cultures and skin biopsy. CT chest revealed a right lower lobe consolidative opacity with areas of cavitation as well as bilateral diffuse centrilobular nodules. TB was ruled out with negative sputum cultures x 3 and QuantiFERON-TB Gold test. HIV test was negative. Urine was positive for presence of Blastomyces antigen and sputum cultures were positive for Blastomyces. CSF studies showed high protein (170 mg/dl), low glucose (21 mg/dl), and elevated leucocyte count (371/microL) consistent with central nervous system (CNS) involvement. Skin sample under direct microscopy revealed broad based budding yeast. Tissue punch biopsy from left ear lesion was positive for round yeast forms consistent with Blastomyces dermatitidis. Antibiotics were discontinued, and he was started on Amphotericin B intravenously to complete a 4-week course followed by a 12-month course of voriconazole.
+
+# IMPACT/DISCUSSION:
+
+Blastomycosis is treated with an oral azole in mild to moderate disease or Amphotericin B in more severe presentations. In our patient who not only had pulmonary and cutaneous but also possible CNS involvement, the treatment of choice is Amphotericin B. He was initially on antibiotics which were discontinued once the appropriate diagnosis was made and was started on Amphotericin B. This case describes a rare presentation of disseminated blastomycosis in an immunocompetent patient and can help increase its awareness among clinicians.
+
+# CONCLUSION:
+
+Disseminated blastomycosis is an uncommon fungal infection especially in immunocompetent hosts. Our case highlights the need for a high index of suspicion for the diagnosis of blastomycosis regardless of the immunological status of a patient, and the importance of prompt diagnosis and treatment with the appropriate antifungal.
+
+# DISSEMINATED CRYPTOCOCCUS IN MYASTHENIA GRAVIS
+
+Neil Evans; Amitabh Singh; Soumya Chatterjee. Saint Louis University, Saint Louis, MO. (Control ID #3186140)
+
+# LEARNING OBJECTIVE #1:
+
+Delineate risk factors for Cryptococcus neoformans
+
+# LEARNING OBJECTIVE #2:
+
+Diagnosis Cryptococcus neoformans
+
+# CASE:
+
+70 year old male farmer from Illinois with a past medical history of myasthenia gravis treated with 15 milligrams of prednisone daily and Cellcept 500 milligrams twice daily. He was transferred to the hospital

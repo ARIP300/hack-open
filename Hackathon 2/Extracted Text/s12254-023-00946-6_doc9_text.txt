@@ -1,0 +1,36 @@
+# iwCLL 2023
+
+The researchers applied single-cell rapid capture hybridization sequencing (scRaCH-seq), a novel multi-omics approach that allows for the assessment of transcriptomes and genotypes of single cells. According to this, CLL cells at progression have different transcriptome profiles, with various mechanisms of resistance in the same patient sample [9]. Intrinsic resistance was found to be driven by high MCL-1 and NF-κB activation with ongoing venetoclax therapy. Most of the relapse samples showed an increased expression of MCL-1, which was strongly correlated with that of REL, RELB and NFKB2 (Figure 2). Moreover, a universal activation of NF-kB and increased MCL-1 expression were observed in circulating resistant tumor cells. These characteristics dissipated after venetoclax treatment had been discontinued, and according to the ex vivo sensitivity assay, the cells were again sensitive to the BCL-2 inhibitor.
+
+Regarding extrinsic resistance mechanisms, a shift was seen in the expression of BCL-2 family members. CLL cells in lymph nodes had different transcriptome profiles than CLL cells in the peripheral blood. Overall, the researchers observed a high degree of interpatient and intrapatient heterogeneity at venetoclax relapse, both intrinsically and extrinsically. The significance of MCL-1 and NF-κB activation with ongoing venetoclax therapy underscores the importance of time-limited treatment. Considering the findings regarding extrinsic resistance, combinations of venetoclax with agents preventing microenvironment support appear warranted. The question of whether fixed-duration treatment with venetoclax plus BTK inhibition prevents drug resistance remains to be answered.
+
+# Mutation patterns in the real world
+
+Real-world information is required on the patterns of mutations during BTK inhibitor treatment, especially with non-covalent agents. Kiyomi Mashima, MD, PhD, Dana-Farber Cancer Institute and Harvard Medical School, Boston, USA, presented the results of a retrospective cohort analysis of CLL patients treated with ibrutinib, acalabrutinib or pirtobrutinib at the Dana-Farber Cancer Institute between 2014 and 2022.
+
+|150|BTK-WT|BTK-C481S|BTK-C481R|BTK-V416L|BTK-T474I|BTK-L528W|
+|---|---|---|---|---|---|---|
+|100|Viability (%)|Viability (%)|Viability (%)|Viability (%)|Viability (%)|Viability (%)|
+|50| | | | | | |
+|0| | | | | | |
+|0.01| | | | | | |
+|0.1| | | | | | |
+|1| | | | | | |
+|10| | | | | | |
+|100| | | | | | |
+|1,000| | | | | | |
+|10,000| | | | | | |
+
+Figure 3: Activity of NX-2127 against BTK inhibitor resistance mutations
+
+The scientists included 118 clinical sequencing reports from 85 patients who were divided into two groups, one undergoing NGS at the time of disease progression (PD; n = 36) and another without progression (non-progressors, NP) in whom NGS was performed during response (n = 49). Sixty and 58 of the sequencing reports were obtained from the PD and NP groups, respectively. Mutations that were new or had increased VAF were significantly more common among PD vs. NP patients (p < 0.001). Significant differences were found for TP53, BTK, SF3B1, PLCG2 and NOTCH2. Only patients from the NP group did not develop any mutations. The analysis revealed six different types of C481 mutations. Interestingly, L528W mutations arose on both ibrutinib (2/7) and pirtobrutinib (1/6) treatment. Four of six patients progressing on pirtobrutinib had T474 mutations.
+
+Paired sequencing results before and during BTK inhibitor therapy were obtained. All of the patients in the PD group exhibited at least one new or increased BTK, PLCG2 or TP53 mutation. In contrast, in the NP group, none of these mutations newly appeared or increased. Four pre-existing TP53 mutations and six pre-existing NOTCH1 mutations decreased or completely disappeared during BTK inhibitor treatment in the NP group. Overall, the enrichment of RAS/RAF/MAPK pathway mutations in the PD group suggests that these may be related to BTK inhibitor resistance beyond BTK, PLCG2 and TP53 mutations.
+
+# What can be achieved with BTK degraders?
+
+Kinase inhibition might not suffice to overcome resistance to BTK inhibitors as some BTK mutations carry a scaffold function that cannot be surmounted by tyrosine kinase inhibitors [11]. Therefore, targeted protein degradation has emerged as a strategy to circumvent acquired resistance to BTK inhibitors. Proteolysis-targeted chimeras (PROTAC) are a novel class of agents that enable catalytic ubiquitination and proteasomal degradation of different targets. Alexey V. Danilov, MD, PhD, Lymphoma Center, City of Hope, Irwindale, USA, explained that kinases such as BTK, BRAF or KRAS can be targeted, although this basically applies to any type of protein. Multiple covalent and non-covalent BTK degraders are currently in preclinical development. An example is NRX-0492 that degrades BTK, IL2-inducible T-cell kinase (ITK) and IKAROS family zinc finger (IKZF), thus inhibiting B-cell receptor signaling [12]. Importantly, BTK degradation overcomes BTK resistance mutations. In a preclinical resistance model, NX-2127 reduced proliferation and induced apoptosis (Figure 3) while ibrutinib failed to do so [13-15]. NX-2127 and NX-5948 induce BTK degradation by recruiting cereblon that was originally recognized for its modulation of the immune system. However, only NX-2127 was shown to downregulate the transcription factors Aiolos and Ikaros, which indicates an immunomodulatory function of this compound [16]. NX-2127, but not NX-5948, enhanced synapse formation to levels comparable to those of lenalidomide. Whether this is clinically important in terms of efficacy and toxicity remains to be determined.
+
+The BTK degraders NX-2127, NX-5948, BGB-16673, AC0676 and ABBV-101 are being tested in clinical trials. Early data from the phase I NX-2127-001 study investigating NX-2127 in patients.
+
+S172 Vol. 16 ∙ Suppl 10/2023 © Springer-Verlag GmbH Austria, part of Springer Nature memo

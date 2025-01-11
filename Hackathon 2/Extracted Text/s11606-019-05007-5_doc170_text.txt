@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# LATERAL FEEDBACK IN ACCOUNTABLE CARE UNITS: RESIDENT AND ATTENDING PERCEPTIONS OF INTERPROFESSIONAL FEEDBACK
+
+Katarzyna Mastalerz1, 2; Nikki Townsley2; Sarah Jordan2. 1Rocky Mountain Veterans Administration, Aurora, CO; 2University of Colorado, Aurora, CO. (Control ID #3184115)
+
+# BACKGROUND:
+
+Feedback is an important driver of learner improvement. Physicians are expected to become effective members of interprofessional teams, but little is known about the quality of feedback exchanged between medical trainees and other healthcare professions. In order to understand inpatient team feedback interactions, we interviewed physicians on team based inpatient units called Accountable Care Units (ACU) about their perspectives on interprofessional feedback.
+
+# METHODS:
+
+We conducted in-person in-depth semi-structured interviews and focus groups with medicine residents and hospitalist attendings in a community teaching hospital between July 2017 and April 2018. The interview guide explored perceptions of interprofessional feedback. Residents that rotated on the ACU and supervising hospitalist attendings were eligible for inclusion. Interviews were audio-recorded, transcribed, and entered into qualitative software for organization (Atlas-ti.v8). During regular group meetings, we systematically analyzed interview transcripts and identified emerging themes using inductive thematic analysis. Saturation was reached.
+
+# RESULTS:
+
+We interviewed 41 medical residents and 10 hospitalist attendings (n=51). Residents were predominantly male (65%) and Caucasian (65%). Attendings were 50% female with an average of 9.5 years in practice. Three key themes emerged about feedback in interprofessional teams: 1) hierarchies and positionality inhibit resident feedback to interdisciplinary staff, 2) feedback from interprofessional staff is highly desired, 3) conditions that enable interprofessional feedback. Residents were reluctant to give feedback to members of other professions given the lack of familiarity with their roles or their workflow. One resident said: "I think there's this idea of separation of roles, like residents get feedback from their attendings and other residents, nurses get feedback from their charges." Hierarchies also constrained interprofessional staff from giving feedback to physicians, unless specifically asked. Feedback from hospital staff, especially from nurses, was highly desired by residents. An intern stated: "The feedback that's more important and will always be more important, is the direct feedback you get from nursing staff." Study participants recognized conditions on the ACU that enabled interprofessional feedback: a culture of knowing staff names due to common workflow, a clear expectation of interdisciplinary communication, and opportunities for "lateral" talk.
+
+# CONCLUSIONS:
+
+As we strive to integrate physicians into interprofessional teams, feedback from other healthcare professions is essential. Our study identified that interprofessional feedback is desired by physicians but constrained by professional siloes and hierarchies. Strategies that facilitate the exchange of interprofessional feedback, such as creating intentional integrated workflow and setting clear expectations around interprofessional communication, should be considered in future curricular design.
+
+# LAW ENFORCEMENT AND IMMIGRANT HEALTH
+
+Amanda Bertram2; Derek W. Braverman2; Dana Goplerud2; Jaime M. La Charite2; Alexandra Norton2; Zackary Berger1. 1Johns Hopkins School of Medicine, Baltimore, MD; 2Johns Hopkins University, Baltimore, MD. (Control ID #3183642)
+
+# BACKGROUND:
+
+US immigration policies and enforcement may make undocumented immigrants fearful of accessing healthcare. Although current immigration policies restrict enforcement in "sensitive locations" including health care facilities, there are reports of enforcement actions in such settings. It is unclear if healthcare professionals know how to respond to immigration enforcement at their facilities. We attempted to evaluate the experience of health professionals with workplace immigration enforcement, their knowledge and training regarding relevant policies, and their beliefs regarding which policies institutions should follow.
+
+# METHODS:
+
+We conducted a cross-sectional survey of providers via the member portal of the Society for General Internal Medicine. Providers were encouraged to forward this survey to other interested healthcare professionals.
+
+# RESULTS:
+
+Most survey respondents were attending physicians (69.1%, n=29), with a further 21.4% listing additional administrative roles. A vast majority worked at academic medical centers (90.5%, n=38) and in outpatient settings (83.3%, n=38). Most lived in the Northeast (40%, n=17) and listed the majority language spoken by their patients as English (85.7%, n=36). 82.5% of respondents were not aware of specific workplace policies regarding immigration-related law enforcement. Few respondents had received training regarding either immigration-related law enforcement (4.76%, n=2) or law enforcement activity in general (9.5%, n=4). Nearly 1 in 5 respondents reported that they were aware of immigration enforcement activities in or near their workplace (19.1%, n=18), and no staff members involved had received training beforehand. Only 24.3% of respondents considered their facility prepared to respond to immigration enforcement. Cited reasons include lack of training (35.5%), lack of known policies (35.5%), deference to immigration law enforcement (9.5%), lack of awareness (6.5%), or complete lack of preparedness (19.4%). Responses to survey questions about policy awareness or training did not vary significantly by region, job description, practice setting or patient language. Awareness of enforcement activity differed significantly by practice setting, with 57% of inpatient providers and 11% of outpatient providers reporting enforcement activity at or near their place of work.
+
+# CONCLUSIONS:
+
+Surveyed clinicians were largely unaware of workplace policies at their institution regarding responses to immigration enforcement. Few received relevant training in how to respond to immigration enforcement and most did not feel that their facility would be prepared to do so. Institutions should develop appropriate policies and procedures, educate and train staff, and engage with stakeholders to coordinate appropriate and ethical response to immigration enforcement in clinical settings.
+
+# LET'S STEP UP THE WAR ON SUPERBUGS IN OUR HOSPITALS: EVALUATING METHODS TO REDUCE STETHOSCOPE CONTAMINATION
+
+Marwa Moussa1; Morris Jrada2; Amy Otuonye1; Jesica Hayon2; Michael Phillips2. 1NYU Langone, Staten Island, NY; 2NYU Langone Health, Brooklyn, NY. (Control ID #3167970)
+
+# BACKGROUND:
+
+Stethoscopes are recognized as a culprit of microbes that has been conclusively demonstrated to transmit microbes from one patient to another and from health care worker to patient. To curb infections, hospitals need to set more rigorous hygiene standards, identify methods to interrupt transmission and develop strategies on sterilizing the diaphragms of the stethoscopes. Furthermore, studies have shown that providers infrequently clean their stethoscopes. In one study, only 48% of providers cleaned their stethoscopes daily or weekly, 37% monthly and 7% reported that they had never cleaned their stethoscope. The objective of this study was to conduct a pilot study comparing efficacy of disposable diaphragm covers to no intervention, defined as their ability to reduce colony count of Methicillin Resistant.

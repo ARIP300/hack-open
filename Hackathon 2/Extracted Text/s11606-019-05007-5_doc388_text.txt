@@ -1,0 +1,54 @@
+# ABSTRACTS
+
+# CASE REPORT
+
+Afebrile in the ED. He was diagnosed with a viral upper respiratory infection. Two weeks later, he presented again for ongoing fevers with a new 12lb weight loss. He denied cough, diarrhea, abdominal pain, or rash. He was afebrile with a normal CBC and BMP. He was discharged with plans for further outpatient work up. The next day he was called back for positive blood cultures. At this presentation, he was tachycardic and febrile to 39.4C. He was admitted and given one dose of piperacillin-tazobactam 4.5g IV. On Hospital Day 2, cultures grew Salmonella enterica serotype Typhi (S. Typhi). The California Department of Public Health was notified and he was narrowed to ceftriaxone 2g IV QD x 4 days. He was discharged on Hospital Day 4 on ciprofloxacin 500mg PO BID x 10 days. One month later, the patient presented to his primary care physician with three days of fevers and fatigue. A blood culture was positive for S. Typhi. He was restarted on ciprofloxacin, and an e-consult was sent to infectious disease. Per infectious disease, susceptibility testing showed a ciprofloxacin minimum inhibitory concentration (MIC) of 0.5 μg/mL. This was reported as susceptible; however, a review of antimicrobial break points set by the US Food and Drug Administration revealed a recent change. Previously, S. Typhi was under Enterobacteriaceae (< 1 μg/mL = Susceptible), but increasing ciprofloxacin resistance resulted in new break points for extra-intestinal S. Typhi infections (< 0.06 μg/mL = Susceptible, 0.12 - 0.5 μg/mL = Intermediate, > 1 μg/mL = Resistant). The report for ciprofloxacin was amended to intermediate. A comment on intermediate results stated that ciprofloxacin-treated patients may have delayed response or clinical failure. After reviewing this, the patient was started on ceftriaxone 2g IV QD x 14 days. He had a resolution of symptoms and negative cultures.
+
+# IMPACT/DISCUSSION
+
+S. Typhi is a gram-negative enteric rod that causes extra-intestinal infection, often referred to as typhoid fever. In the United States, 200 to 300 cases are reported each year with 80 percent in returning travelers. The infrequency with which providers encounter this disease creates a diagnostic challenge when patients present atypically. This is compounded by increasing ciprofloxacin resistance. Both early diagnosis and appropriate break point interpretation are critical to effective treatment of this communicable disease.
+
+# CONCLUSION
+
+- Typhoid fever should be on the differential for an acute/subacute fever in a returning traveler.
+- Clinicians and laboratory workers need to be aware of increasing antibiotic resistance and resulting changes in susceptibility guidelines.
+
+# AT A STUDENT-RUN FREE CLINIC, MULTIDISCIPLINARY ADVOCACY LEADS TO IMPROVED CANCER CARE
+
+Lisle Winston2; Ilana S. Lavina2; Sonia Iosim2; Pamela Charney1. 1Weill Cornell Medical College, New York City, NY; 2Weill Cornell Medicine, New York, NY. (Control ID #3185925)
+
+# LEARNING OBJECTIVE #1
+
+Student's advocacy efforts are often multi-disciplinary and time intensive, but can assure high quality patient care.
+
+# CASE
+
+A 57-year-old G4P1031 woman with no past medical history presented to a student-run free clinic for her annual well-woman exam. She had menarche at age 14, menopause at age 49, and never used HRT. Family history included a sister diagnosed with stage III breast cancer three years prior. Of note, the patient had a BIRADS-2 mammogram 2 years prior, but had been unwilling to schedule interval screening breast imaging. The patient's physical exam, including breast and axillary lymph node exam, was unremarkable. Routine screening mammogram and ultrasound were scheduled. Mammography demonstrated a spiculated mass in the upper outer quadrant of the left breast, corresponding to an irregular vascular mass seen on ultrasound. Ultrasound-guided needle biopsy revealed invasive ductal carcinoma and DCIS, and the patient was scheduled for the next available appointment at the free clinic. During the interval 4 days, team members representing multiple disciplines collaborated to coordinate care for this patient. Medical student Clinical Directors arranged breast surgery appointments at two public hospitals and obtained discs of the breast imaging studies and pathology slides for the accepting breast surgeon. Simultaneously, team members worked with the affiliate hospital's social work and finance departments to re-enroll the patient in health insurance because the patient desired to seek care from the same breast surgeon who had operated on her sister, who was in private practice. With effort, an internist who spoke her language was identified who would accept her limited insurance as well. When the patient arrived to her follow-up appointment, medical students used the SPIKES protocol to communicate the diagnosis. The patient's primary language was not English, but she had been paired with a volunteer first-year medical student who spoke her primary language through our program aimed to maximize culturally competent care. This student played a key role in communication about the myriad of logistical arrangements. The patient was ultimately re-enrolled in health insurance. The same surgeon who operated on the patient's sister operated on the patient. She completed radiation therapy and is now taking hormone therapy. She now follows with a primary care physician near her home that speaks her language. Her prognosis is excellent.
+
+# IMPACT/DISCUSSION
+
+Team members from several disciplines and levels of training, including medical students, attending physicians, social workers, and finance administrators, worked together to care for a vulnerable patient. After this case, our clinic implemented a "triage" system, which can be used when routine screening in a primary care setting detects life-threatening time-sensitive disease.
+
+# CONCLUSION
+
+Effective advocacy for underserved patients often requires multi-disciplinary collaboration.
+
+# ATELZOLIZUMAB INDUCED MYOCARDITIS ON A BACKGROUND OF CARDIAC AMYLOIDOSIS
+
+Rahul Gupta1; Syed Zaid1; Amer Sayed1; Purva Ranchal2; Leonardo L. Zelaya Castillo1; Elliot Levine1; Julio Panza 1. 1Westchester Medical Center, Valhalla, NY; 2Westchester Medical Center, Valhalla, NY. (Control ID #3174840)
+
+# LEARNING OBJECTIVE #1
+
+Diagnose cardiovascular complications related to immunotherapy
+
+# LEARNING OBJECTIVE #2
+
+Assess patients with myocarditis on background of amyloidosis
+
+# CASE
+
+81 year old man with history of stage 2B lung adenocarcinoma, treated with lobectomy, adjuvant chemotherapy with cisplatin followed by immunotherapy with Atelzolizumab presented to the hospital two weeks after his last infusion of Atelzolizumab with nausea, lightheadedness, diaphoresis and syncope. Vitals and physical exam were unremarkable. EKG demonstrated normal sinus rhythm with first degree AV block, right bundle branch block and left anterior fascicular block. Lab work was notable for troponin level of 19. Transthoracic echocardiogram revealed normal left ventricular systolic function, increased left ventricular wall thickness with an abnormal speckled myocardial appearance. Cardiac catheterization revealed one small vessel coronary artery disease which was not amenable for stenting. The patient subsequently developed slow sustained hemodynamically stable monomorphic ventricular tachycardia refractory to amiodarone and lidocaine. Cardiac MRI showed diffusely elevated T1 signal with apical wall motion abnormalities. Endomyocardial biopsy of the right ventricular septum revealed changes consistent with acute myocarditis, on a background of transthyretin-type cardiac amyloidosis. Patient was started on high dose intravenous methylprednisolone along with beta blocker therapy with resolution of the ventricular tachycardia. However, the patient subsequently developed complete heart block requiring temporary pacemaker. Unfortunately, six days later, the patient developed sudden pulseless electrical activity with cardiac arrest, and despite aggressive resuscitative efforts, the patient expired.
+
+# IMPACT/DISCUSSION
+
+Atezolizumab is a monoclonal antibody against programmed death ligand-1 that has shown efficacy against multiple malignancies. Suppression of immune system with immune checkpoints.

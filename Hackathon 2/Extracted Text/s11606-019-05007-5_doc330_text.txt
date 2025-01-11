@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# A CASE OF POTENTIALLY FATAL EPISTAXIS
+
+PRIYANKA BHUGRA1; Abhishek Maiti2. 1University of Texas Health Science Center at San Antonio, San Antonio, TX; 2University of Texas Health Science Center at Houston, Houston, TX. (Control ID #3187054)
+
+# LEARNING OBJECTIVE #1:
+
+Pseudoaneurysms of the internal carotid artery are uncommon but potentially life-threatening cause of epistaxis.
+
+# LEARNING OBJECTIVE #2:
+
+History of prior trauma, surgery or radiation are important clues to diagnosis. Early recognition and endovascular intervention can help improve morbidity and mortality.
+
+# CASE:
+
+A 42-year-old previously healthy man presented to the emergency room after having epistaxis and syncope. Patient reported having recurrent episodes of right epistaxis over past 2 weeks. Earlier in the day, he had 4-6 cupfuls of bleeding from his nose leading to lightheadedness and eventually passing out. He had a remote history of trauma with facial fractures after a motor vehicle accident 8 years ago for which he underwent surgery. On arrival, patient was hypotensive with blood pressure of 80/50 mm Hg and tachycardic with a heart rate of 110 beats/minute. Examination showed crusted blood in anterior nasal cavity. Laboratory studies showed hemoglobin of 6.4 g/dL. There was minimal improvement in blood pressure and hemoglobin with intravenous fluid resuscitation and blood transfusion. Furthermore, flexible nasopharyngoscopy revealed bleeding originating from the right sphenoid traveling down the posterior nasal cavity to choana and posterior oropharynx. Shortly after the scope was withdrawn, patient sneezed and started bleeding profusely from the right nare. At this point, anterior and posterior nasal tamponade were applied and patient was intubated for airway protection. An emergent angiogram identified a right cavernous internal carotid artery (ICA) pseudoaneurysm as the source of bleeding. Endovascular coil embolization of pseudoaneurysm was performed followed by placement of pipeline embolization device. Subsequently, patient became hemodynamically stable and was successfully extubated. The patient remained asymptomatic at 3-month follow up.
+
+# IMPACT/DISCUSSION:
+
+Majority cases of epistaxis are self-resolving. However, red flag signs like recurrent or intractable bleeding, heavy blood loss, hemodynamic instability, vision loss or accompanying neurologic deficits should raise concern for more sinister etiology. Pseudoaneurysms of ICA are uncommon but potentially life-threatening cause of epistaxis. These can occur as a result of blunt trauma, surgery or after radiation therapy to the head and neck region. Epistaxis due to post-traumatic pseudoaneurysms usually occurs within weeks of injury, but it may be delayed by years. This poses a significant diagnostic challenge to clinicians. Prompt control of bleeding and airway protection are crucial as rupture of ICA pseudoaneurysms can lead to catastrophic bleeding. Early recognition of this life-threatening condition is important as majority of cases are amenable to endovascular intervention.
+
+# CONCLUSION:
+
+Pseudoaneurysms of ICA can cause serious epistaxis with significant morbidity and mortality. Timely recognition and endovascular intervention can be life-saving.
+
+# A CASE OF PROSTHETIC VALVE DYSFUNCTION PRESENTING WITH DYSPHAGIA AND ACUTE TUBULAR NECROSIS
+
+Yael Tarshish; Vidya Gopinath. Brown Medicine, Pawtucket, RI. (Control ID #3185670)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize dysphagia as a side effect of mitral valve dysfunction and identify possible mechanisms.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose acute tubular necrosis (ATN) in the setting of hemolysis with minimal serum creatinine (Cr) elevation.
+
+# CASE:
+
+A 76 year old female with history of five mitral valve replacements (last surgery: 12 years ago for hemolysis) presented with dark urine and intermittent difficulty swallowing for one month. She had been hospitalized two weeks prior for the same symptoms, but had negative esophagogastroduodenoscopy (EGD) and normal swallow evaluation and no valve abnormality on transthoracic echocardiogram. She was discharged home, yet continued to endorse worsening swallowing function and "coca cola" colored urine. Vitals: unremarkable. Pertinent exam findings: scleral icterus; crisp mitral sound. Significant labs: UA positive for 3 RBCs, Hgb 8.5, Cr 0.88, TBili 2, LDH 1961. Cardiology, hematology, nephrology and gastroenterology were consulted. Transesophageal echocardiogram demonstrated a small paravalvular leak with severe mitral regurgitation and left atrium (LA) dilatation. Barium swallow demonstrated severe esophageal dysmotility without barium passage to the lower esophageal sphincter. Hematology found no underlying erythrocyte abnormality. Spun urine revealed muddy brown casts and evidence of ATN despite normal Cr. ATN was attributed to hemoglobinuria from hemolysis and was treated with fluids. Hgb dropped to 6.6, requiring transfusions. She underwent a perivalvular leak repair with valvular plugs. Hemolysis resolved and dysphagia gradually improved.
+
+# IMPACT/DISCUSSION:
+
+Mitral valve dysfunction causes dysphagia through various potential mechanisms. LA enlargement can cause hoarseness through compression of the recurrent laryngeal nerve, and can impact esophageal functioning through compression of the vagus nerve. A study demonstrated association between LA size and esophageal transit with barium swallows demonstrating cardiac indentation of esophagus. Research in paroxysmal nocturnal hemoglobinuria (PNH) proposes a mechanism by which hemolysis causes dysphagia: increased free hgb binds free nitrous oxide (NO), a modulator of smooth muscle function. Decrease in NO effects esophageal tone. Two case studies describe dysphagia associated with hemolysis caused by left ventricular assist device, providing possible explanations for the mechanism behind our patient's dysphagia. Hemolysis can cause an increase in free hgb resulting in urine dipstick positive for blood and sediment negative for RBCs. Free hgb degradation in the urinary space with release of heme pigment damages the kidneys, leading to ATN. ATN can cause minimal increase in serum Cr with evidence of kidney injury on urine microscopy. Management involves aggressive hydration.
+
+# CONCLUSION:
+
+Mitral valve dysfunction can manifest pathologically in disparate organ systems. Knowledge of uncommon sequelae can prompt more rapid diagnosis.
+
+# A CASE OF PSEUDOHYPONATREMIA FROM SEVERE SECONDARY HYPERCHOLESTEROLEMIA
+
+Leah Bettner; Carleigh L. Benton2, Amy Yu1. 1University of Colorado Denver, Denver, CO; 2University of Colorado, Denver, CO. (Control ID #3176728)
+
+# LEARNING OBJECTIVE #1:
+
+Identify severe hypercholesterolemia from cholestasis as a cause of pseudohyponatremia.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose pseudohyponatremia by measuring osmolar gap and whole serum sodium levels.
+
+# CASE:
+
+A 59 year-old man with diabetes and chronic pancreatitis was admitted with weight loss, poor oral intake, abdominal pain, and jaundice. Imaging detected a pancreatic mass and biliary ductal dilation concerning for malignancy. Labs were notable for a total bilirubin.

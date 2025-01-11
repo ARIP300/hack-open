@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# STI screening in the year prior to 3 months post LMP was low
+
+as was documentation of prenatal folic acid use; 95% of pregnancies appeared free from exposure in the year prior to LMP to medications under the Workgroup's six classes of teratogenic medications.
+
+# CONCLUSIONS:
+
+Despite the limitations of existing administrative data, monitoring standard measures of preconception wellness can provide benchmarks for improving women's health across systems and communities. Areas for intervention to improve women Veterans' preconception wellness were identified, including weight reduction, optimizing control of diabetes prior to pregnancy, and improved use and documentation of routine health screenings.
+
+# MEDICAID EXPANSION AND PERFORMANCE ON ED THROUGHPUT MEASURES
+
+Anjali Bhatla; Jaya Aysola. University of Pennsylvania, Philadelphia, PA. (Control ID #3183592)
+
+# BACKGROUND:
+
+Emergency department (ED) throughput is a key measure of hospital performance with public reporting of ED wait times metrics since 2012. Mounting evidence reveals the effects of ED wait times on inpatient length of stay, care quality, and hospital costs. However, we lack knowledge of the effect of Medicaid expansion on ED throughput measures. This study aims to determine if there is an association between state Medicaid expansion status and statewide ED throughput measures.
+
+# METHODS:
+
+First, we determined if the number of insured significantly increased over time in Medicaid expansion states versus non-expansion states. Then, using CMS Hospital Compare data, we examined two ED throughput measures for patients admitted to the hospital: 1) the overall length of stay in the ED (ED1) as measured by the median time in minutes patients spent in the ED from their arrival to departure to inpatient floor; and 2) the boarding time (ED2), as measured by the median time in minutes patients spent in the ED from the time a provider requests a bed to departure to inpatient floor. For each metric, we used hospital-wide quarterly data, aggregated by state from 2012 to the first quarter of 2017. We conducted an interrupted time series analysis to evaluate the relationship between implementation of Medicaid expansion and ED performance metrics, as measured by quarterly average median ED wait times for Medicaid expansion states (n=31) and non-expansion states (n=19).
+
+# RESULTS:
+
+The percentage of insured individuals increased significantly (p=0.031) in states that expanded Medicaid. In 2012, the mean difference in ED1 between non-expansion states (241.6) and states that later adopted Medicaid expansion (281.2) was significantly different (p<0.001). In the first quarter of expansion, the average median total length of stay in the ED increased by 4.27 minutes in the non-expansion states, as compared to a significantly greater increase of 10.14 minutes in average median wait times among the expansion states (p=0.01). The average median boarding time (ED2) between non-expansion states (79.4) versus expansion states (103.7) differed significantly (p<0.001) in 2012. In the first quarter of Medicaid expansion, ED2 increased by 1.97 minutes (p=0.009) in non-expansion states, and 3.2 minutes in expansion states (p=0.22).
+
+# CONCLUSIONS:
+
+Since 2012, the total time spent in the ED (ED1) and boarding time (ED2) for patients admitted to the hospital have been significantly longer in Medicaid expansion states versus non-expansion states. Our findings suggest that the influx of newly insured individuals through Medicaid expansion may have increased overall length of stay in ED for patients eventually admitted to the hospital in states that expanded Medicaid but had no significant impact on their average median boarding times. Future efforts should focus on delivering low-acuity care in settings outside of the ED to improve timeliness of care for patients requiring hospital admission from the ED.
+
+# MEDICAL ASSISTANT (MA)-FACILITATED CHRONIC DISEASE AND CANCER SCREENING IN A SAFETY NET CLINIC: TWO-YEAR IMPACT OF A QUALITY IMPROVEMENT PROJECT
+
+Kala Ghooray1, 2; Jenny K. Cohen3. 1Highland Hospital, Berkeley, CA; 2UC Irvine School of Medicine, Irvine, CA; 3Highland, Oakland, CA. (Control ID #3176883)
+
+# BACKGROUND:
+
+Although screening can reduce morbidity and mortality from cancer and chronic disease, screening rates in minority and low-income populations continue to be low. Within primary care, medical assistants (MAs) play an integral role in patient education, advocacy, and routine health maintenance. We designed an intervention aimed to increase MAs knowledge and self-efficacy regarding screening through education and empowerment, with a goal of improving chronic disease and cancer screening rates.
+
+# METHODS:
+
+As part of a 2016-2018 initiative to improve screening for chronic disease and cancer at an urban county outpatient Internal Medicine clinic, MAs were given more resources and time to conduct patient outreach. We created monthly education sessions to give MAs concrete tools for teaching and patient education. Topics included vaccines, hepatitis C, diabetes, hypertension, colorectal, cervical, and breast cancer screening. Changes in MA knowledge were measured through pre- and post-surveys, and one cumulative end-of-year survey. We tracked screening order rates over the past 2 years to assess the interventions' impacts on patient care. MA knowledge and job satisfaction were assessed using surveys and a focus group.
+
+# RESULTS:
+
+83% (15/18) MAs participated in the pre- and post-surveys. Post-test scores improved following the sessions on cervical cancer screening (pre=31%, post=55%, p=0.06), diabetes (pre=49%, post=72%, p=0.10), and CRC screening (pre=69%, post=85%, p=0.10), reflecting increased knowledge about who should receive cervical cancer, diabetes, and CRC screening. Between 9/16 and 11/18, there was an increase in order rates for cervical cancer screening (65.81% to 70.48%), order rates for mammograms (52.04% to 85.5%), completion rates for diabetic microalbumin/creatinine ratios (58.05% to 83.26%), and order and completion rates for FIT tests (74.98% and 60.95% to 75.54% and 62.31%). The percentage of patients with diabetes and hypertension who had their blood pressure or HbA1c well controlled also improved during this time period (59.45% and 64.41% to 77.51% and 68.35%). We solicited free-response feedback from the MAs who enjoyed the sessions and appreciated feeling a sense of professional investment. While MAs felt they had the training necessary to take on an expanded role, the added time-pressure was a challenge.
+
+# CONCLUSIONS:
+
+Our primary care redesign model focusing on MA education and empowerment improved MAs knowledge about screening and was associated with modest improvements in order rates. In addition to education, the clinic's investment in their professional skills, team role, and time was critical. Although there have been improvements in order and completion rates for all screenings being tracked, those improvements have recently plateaued. This may be due to MA turnover and changes in staffing resulting in the loss of dedicated patient-outreach time, highlighting the need for continued education and the importance of protected time for patient-outreach.
+
+# MEDICAL STUDENT EXPERIENCE WITH DIFFICULT CONVERSATIONS DURING THE ACTING INTERNSHIP
+
+David Staudt; Corrie A. Stankiewicz2; Laura Dingfield. 1Hospital of the University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania SOM, Narberth, PA; 3University of Pennsylvania, Philadelphia, PA. (Control ID #3181403)
+
+# BACKGROUND:
+
+Internal medicine residency program directors have identified communication skills as an important competency for incoming interns. Acting internships (AIs) are an opportunity for senior medical students to gain experience with higher-level communication skills prior to starting residency training. Little is known about students' experiences with difficult conversations during AIs. We surveyed students about their experience with several types of difficult conversations during their AI.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DID YOU POLST TODAY? ADVANCING THE DIRECTIVES ON ADVANCE CARE PLANNING DISCUSSIONS IN RESIDENT CONTINUITY CLINICS.
+
+Karen Jong1; Amalia Aldredge1; Michael A. Yu2; Sarah Koumtouzoua1.
+
+1Emory University, Atlanta, GA; 2Emory University School of Medicine, Atlanta, GA. (Control ID #3184983)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Residents and attendings do not routinely have ACP discussions in primary care clinic with patients > 65, and most of those patients have never had a documented ACP discussion in the chart.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify barriers that prevent provider engagement, accurate documentation and appropriate billing of ACP discussions.
+2. Educate providers on engagement in outpatient ACP discussions.
+3. Increase the percentage of patients who have had ACP discussions in the outpatient setting.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+ACP is not only a key component to resident education and training, but also a critical topic that must routinely be addressed with patients > 65 years old in order to best respect and advocate for patients wishes when they are not able to speak for themselves. We evaluated resident and attending effectiveness in completion of ACP in the Grady Green Pod Primary Care Clinic, an urban clinic serving a high risk, low resource population. Our intervention will occur in February and March during clinic "lunch-and-learn" sessions. Absent providers will complete an interactive presentation for independent, remote learning. Additional interventions include: creation of patient/provider reminder cards containing ACP information given at patient triage, printing POLST/AD packets to stock clinic drawers, and distribution of ACP billing guide to attendings.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We will measure success qualitatively through a post-intervention survey of providers evaluating their comfort with ACP discussions and knowledge of proper code status ordering, documentation of AD/POLST, and ACP billing. A retrospective chart review in April will measure the change in the percentage of patients > 65 who have had ACP discussions, along with analysis of appropriate documentation, billing and code status ordering.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A retrospective chart review of 233 established patients >65 years of age showed that only 19 (8.2%) of patients had had ACP discussions documented in our clinic; an additional 13 patients (5.6%) had discussions inpatient or in other clinics. Over half of these discussions were in patients above the age of 75. Of the 19 primary care clinic encounters, 8 were with attendings and 11 with residents. Only 2 were billed correctly and only 1 had code status ordered. Fifteen were given AD and/or POLST, but only 2 were uploaded into the chart.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Increasing incidence of engagement and accurate completion of ACP discussions requires a multifactorial approach; including, but not limited to addressing provider knowledge gaps, making documents accessible, and using tools that remind providers and patients to address ACP. Our generalizable interventions provide a model for resident continuity clinics facing similar patient populations and barriers. Correct documentation, particularly of code status, and billing for ACP directly benefits our patients and financially supports the healthcare system providing their care.
+
+# DIRECT REFERRAL INCREASES PULMONARY FUNCTION TEST (PFT) COMPLETION RATES IN A PATIENT CENTERED MEDICAL HOME AND FINDS ALTERNATIVE DIAGNOSIS IN A THIRD OF PATIENTS WITH PREVIOUS DIAGNOSIS OF ASTHMA.
+
+Camellia Banerjee1; Dimple Shah1; Christina Mai1; Travis Halbert1; Timothy Wigand1; He Qiu1; Rebecca Shafer1; Sara Tariq1; Jacquline Moore1; Huei-Wen Lim1; Ankita Sagar2. 1Zucker School of Medicine at Northwell/Hofstra, Manhasset, NY; 2Hofstra North Shore LIJ, East Meadow, NY. (Control ID #3184685)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Because asthma is often overdiagnosed in primary care, we investigated whether asking patients with a previous diagnosis of asthma to obtain a pulmonary function test via written letter and referral may help our outpatient practice better identify patients with true asthma (or other) diagnosis.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. This intervention aimed to increase the amount of pulmonary function testing in our clinic in those diagnosed with asthma, to identify respiratory diseases and confirm asthma based on pulmonary function testing, and to tailor treatment based on new data.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our outpatient residency practice patients encompass an array of underserved patients with limited English proficiency, undocumented immigration status, and limited health literacy / ability to navigate the healthcare system, something that was a challenge in our intervention. Patients were drawn from our residency practice based on a diagnosis of asthma in their chart. Patients who had previously undergone pulmonary function testing were excluded. The intervention was a letter to patients explaining the importance of pulmonary function testing (PFT), basis of recommendation for such testing, and referral with directions to make an appointment for PFTs. The letter was sent in both English and Spanish.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We evaluated this intervention based on increase in testing after letter was sent. The completed pulmonary function tests were evaluated to confirm the diagnosis and treatments were changed accordingly.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+330 patients with a diagnosis of asthma were identified. Of those, 32 patients had undergone PFTs prior to the intervention. After the letter was sent, patients were followed for 6 months. In the next 6 months, 34 additional patients had undergone testing. The intervention doubled the number of patients with PFTs in our clinic. Moreover, many of the new PFTs suggested an alternative diagnosis to asthma in 32% of our patients, which allowed for our providers to discontinue unnecessary medications such as inhalers and prescribe more appropriate treatment.

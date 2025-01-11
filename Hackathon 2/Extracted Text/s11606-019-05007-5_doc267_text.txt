@@ -1,0 +1,60 @@
+# ABSTRACTS JGIM
+
+BP measurement appears to minimize this bias.
+
+|Number of observations:|59218|
+|---|---|
+|Controlled SBP before correction:|72.2588|
+|% Controlled SBP after correction:|70.43%|
+
+Alter Correction
+
+70 80 90 C 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 SBP
+
+# TEST ORDERING AND RESULT ACKNOWLEDGEMENT PRACTICES AT TWO CANADIAN ACADEMIC HEALTH CENTRES
+
+Keith M. Lee1; Peter Cram2, 1. 1University of Toronto, Toronto, ON, Canada; 2 University of Iowa, Toronto, ON, Canada. (Control ID #3184584)
+
+# BACKGROUND:
+
+Physician test ordering practices have been shown to differ according to physician demographics characteristics and practice setting. Few studies have compared inpatient test ordering intensity between physicians from different specialties. Similarly, there is a paucity of data examining the utilization of electronic test result acknowledgment systems despite strong evidence that these systems can reduce "missed" test results. Moreover, the vast majority of studies come from the US. We examined physician test ordering and result acknowledgment practices at two large Canadian academic hospitals.
+
+# METHODS:
+
+Using electronic health record (EHR) data, we identified all patients hospitalized on 5 different clinical services (Critical Care, General Surgery, General Internal Medicine, Nephrology, and Orthopedics) at Toronto General Hospital and Toronto Western Hospital between February 1, 2017 and February 28, 2017. We obtained data including patient demographics, hospital length of stay, hematology and biochemistry test orders and associated results, and result urgency level (categorized as normal, abnormal, or critical). We reviewed EHR data regarding whether tests were acknowledged by the ordering physician in his/her electronic "in-box" at any time after the results were finalized. We compared testing intensity (tests ordered per-patient per-admission and per-day), result urgency, and acknowledgement status between clinical services using two-sided Chi-squared tests.
+
+# RESULTS:
+
+Our 5 clinical services had a total census of 1571 patients over our study window. Mean length of stay was 15.0 days. The mean number of hematology-plus-biochemistry tests per-patient per-admission was lowest for Orthopedics (106.9) and highest for Critical Care (537.1). In contrast, the mean number of hematology-plus-biochemistry tests per-patient per-day was lowest for Critical Care (6.7) and highest for General Internal Medicine (23.4). 7.4% of all tests were reported as critical, ranging from 2.6% in Nephrology to 8.8% in General Internal Medicine. 27.2% of all test results were reviewed by a physician using the EHR "in-box" acknowledgement function. 38.5% of tests for patients admitted to General Internal Medicine were reviewed using the "in-box" function, as compared to 9.9% in General Surgery, 13.3% in Orthopedics, 15.5% in Nephrology, and 28.9% in Critical Care.
+
+# CONCLUSIONS:
+
+Test ordering intensity varies markedly across specialty. In our health system, a significant proportion of tests are flagged as critical, raising concern of alert fatigue particularly for General Internal Medicine where critical results are most common. Physician utilization of our result acknowledgement system was low, which is concerning given evidence of the substantial problem of overlooked (or "missed") test results.
+
+# THE "KIND CARE BUNDLE" - A TRANSITION TOWARD COMPASSIONATE CARE
+
+Cynthia M. Cooper1, 2; Galina Gheihman2. 1Massachusetts General Hospital, Boston, MA; 2Harvard Medical School, Boston, MA. (Control ID #3180251)
+
+# BACKGROUND:
+
+Negative behaviors in practicing clinicians are often learned during medical training through observation and mimicry - the so-called "hidden curriculum." Compassion and empathy are inconsistently reinforced in exchange for efficiency. This devaluing of kindness and connection may contribute to clinician burnout and result in suboptimal patient care. To counteract this trend, we developed a curriculum emphasizing self-reflection and teaching concrete verbal and non-verbal behaviors for showing attention, consideration, and compassion in patient interactions. The "Kind Care Bundle" was taught to medical students immediately prior to the start of their core clinical rotations.
+
+# METHODS:
+
+The Kind Care session was taught at Massachusetts General Hospital in Aug-Sept 2018 over 5 weeks. Groups consisted of 7-8 students. In each 3-hr. session, students first recalled a time when they felt cared for or witnessed compassionate care. These experiences were discussed to identify verbal and non-verbal demonstrations of care. The "Kind Care Bundle" was introduced with the Three Es: Entry, Encounter and Exit. The Three Es outline concrete behaviors for showing attention, consideration and compassion in patient interactions. Using question prompts, pairs of students interviewed inpatients to practice the Three Es and solicit patients' perspectives on compassionate care. Finally, students debriefed after the interviews and completed a post-session feedback survey. Mixed-methods analysis was used to evaluate Likert scale statements and free-text responses.
+
+# RESULTS:
+
+37 (92.5%) of 40 students completed the feedback form. The session organization was evaluated as ‘Excellent' by 73% of students and ‘Very Good' by 27%. The session relevance was evaluated as ‘Excellent' by 81% of students and ‘Very Good' by 16%. Students reported the bundle filled an educational gap. Major themes in the qualitative analysis included: (1) appreciation of the sessions' emphasis on Concrete Behaviors: ‘It's hard to teach ‘being kind'…but these concrete actions can be useful and important to put into action,' (2) the Importance of Empathy: ‘Getting the patient's perspective on Kind Care is clutch' and (3) the Opportunity to Reflect on one's own experience of compassion: ‘A light bulb went off! I was like ‘duh' that's how we need to treat patients.' Motivations for using the bundle in the future included Impact on Patient Experience, Clinical Success, Professional Ideals and Self-Care.
+
+# CONCLUSIONS:
+
+The Kind Care curriculum is an educational activity that prompts students to reflect on their own experiences of compassionate care and practice a bundle of concrete behaviors to improve student/patient interactions. The pilot session was highly rated by pre-clinical students at Massachusetts General Hospital. A next step is expansion to all pre-clinical students at Harvard Medical School. It may have use in other student and clinician populations and at other institutions.
+
+# THE ART OF PRECEPTING: INNOVATIVE STRATEGIES TO PREPARE SENIOR RESIDENTS FOR CLINIC PRECEPTING
+
+Rebecca Davis3; Ehren K. Dancy2; Emily Sandberg4; Deepa R. Nandiwada1. 1University of Pennsylvania, Ardmore, PA; 2Hospital of the University of Pennsylvania, Philadelphia, PA; 3Thomas Jefferson University, Philadelphia, PA; 4University of Pennsylvania, Philadelphia, PA. (Control ID #3185994)
+
+# BACKGROUND:
+
+Our aim was to improve senior resident confidence regarding the transition to attending through a reverse direct observation preceptor curriculum. The curriculum is two pronged first with a direct observation component where residents observe attendings with guided facilitation sheets followed by attending observation of senior residents.

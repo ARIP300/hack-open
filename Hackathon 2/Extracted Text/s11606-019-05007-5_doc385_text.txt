@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 64 year-old man presented with new onset abdominal swelling. He has alcoholic cirrhosis and heart failure with preserved ejection fraction, and takes furosemide and spironolactone. Four liters of ascites was drained by paracentesis, and there was no spontaneous bacterial peritonitis. Creatinine was elevated to more than double his baseline, urine sodium was low. Hepatic duplex ruled out any venous thromboses. Diuretics were held due to concern for hepatorenal syndrome, and he was given large volumes of 25% albumin infusions. His creatinine continued to worsen, and he was started on midodrine and octreotide. Echo-cardiogram showed he was not a candidate for transjugular intrahepatic portosystemic shunt (TIPS) due to elevated right heart pressures. Given his thoracic aortic aneurysm, he was not a candidate for liver transplant. He was not interested in hemodialysis. In light of him being a candidate for neither TIPS nor liver transplant, he was given a terminal diagnosis of hepatorenal syndrome. Palliative Care was consulted, and the plan was for the patient to go home on hospice. We were consulted as the Nephrology service to help prognosticate regarding hepatorenal syndrome. We noticed he never received diuretics during his hospital stay. Given lack of diuretic trial and elevated right heart pressures, we did not feel that cardiorenal syndrome was fully ruled out. We recommended a trial of aggressive diuresis. Over the next three days his net output was several liters more than his net intake, and his creatinine markedly improved. After reaching euvolemia, echocardiogram was repeated and right heart pressures were remarkably lower. His creatinine returned to his baseline, and cardiorenal syndrome was determined to be the actual diagnosis. He was discharged home on higher doses of diuretics, and continues to do well with no further kidney issues.
+
+# IMPACT/DISCUSSION:
+
+Anchoring and confirmation bias occur when a clinician relies too heavily on an initial diagnosis and does not reevaluate the thought process as more clinical information becomes available. They are among the more common of the cognitive biases frequently encountered in medicine. These closely related biases can be incredibly detrimental to patient care, often leading to misdiagnosis. Since incorrectly diagnosing a terminal condition can lead to premature withdrawal of care and subsequent loss of potential time and health, it behooves us to constantly analyze our clinical data.
+
+# CONCLUSION:
+
+Cognitive biases can be difficult to avoid, and can cause patient harm if not corrected. Constantly reassessing the available clinical information from different angles helps prevent it. Any patient being given a terminal diagnosis requires a thorough re-evaluation of the clinical data, given the life-altering and potentially life-limiting impact of this news.
+
+# ANCHORS AWAY: DIAGNOSING ACUTE HEPATITIS C IN A PATIENT WITH RECENT NONREACTIVE HEP C ANTIBODY AND HISTORY OF ACETAMINOPHEN INGESTION
+
+Raj Dalsania; Jill Allenbaugh. Temple University, Philadelphia, PA. (Control ID #3160165)
+
+# LEARNING OBJECTIVE #1:
+
+Cite the importance of the time course of an acute Hepatitis C infection
+
+# LEARNING OBJECTIVE #2:
+
+Name consequences of anchoring bias in clinical reasoning
+
+# CASE:
+
+A 29 year old Spanish-speaking male with a past medical history of intravenous drug use (last use 3 months ago), depression, and chronic back pain presented to the ED complaining 4 days of dark urine, abdominal pain, nausea, and vomiting. Pertinent labs included an elevated total bilirubin of 5.2, ALT 927 and AST 564 with normal alkaline phosphatase and PT, INR, PTT. The patient reported taking about 8-10 acetaminophen tablets a day along with 2-3 oxycodone/acetaminophen pills over the past 3 weeks in order to better control his back pain. A chart review showed a negative Hepatitis C antibody from 16 days prior. An acetaminophen level was <10 ug/mL, but there was high suspicion for acetaminophen overdose so the patient was admitted and started on NAC. Despite NAC treatment, the patient's LFTs rose, peaking at ALT 1143 and AST 679. Further work up included an infectious work up which was negative for CMV, HSV, EBV, Hep A, and Hep B, and an autoimmune work up which revealed a positive smooth muscle antibody. A repeat Hep C antibody was positive with RNA of 752,428. Based on these new findings, NAC was stopped, he was managed conservatively with symptom improvement, and he was discharged to follow up with Hepatology.
+
+# IMPACT/DISCUSSION:
+
+This case represents the importance of avoiding anchoring bias in medicine. The patient's presentation seemed like a "slam dunk" diagnosis with elevated liver enzymes, abdominal pain, excess acetaminophen use, and a recent negative Hep C antibody screen. However, the negative acetaminophen level, and lack of improvement on NAC forced a reevaluation of the patient that ultimately led to a conclusive diagnosis. Although the majority of patients acutely infected with Hepatitis C are asymptomatic, some experience jaundice, nausea, vomiting, and abdominal pain. These symptoms manifest anywhere from 2 and 26 weeks after Hepatitis C exposure with RNA being detectable by PCR within a few days, but anti-HCV antibodies needing weeks to become detectable. This patient had a negative HCV antibody just 16 days prior. At that time, the patient's immune system had not mounted a sufficient enough antibody response for detection and thus the diagnosis was almost missed. Had this diagnosis been missed again the patient would have had above 50% chance of developing chronic Hepatitis C and the sequela that comes with that diagnosis.
+
+# CONCLUSION:
+
+Anchoring bias is one of the most common clinical reasoning biases. This reinforces the importance of investigating all causes of a disease manifestation especially when clinical data does not support the suspected diagnosis. In this case, the negative acetaminophen level and continued worsening LFTs despite treatment led us to reevaluate the diagnosis and we were able to successfully diagnose this patient with acute Hepatitis C which reduced chances of transmission to others and allowed for treatment.
+
+# ANCHORS AWAY: DRIFTING ON A SEA OF ASSUMPTIONS
+
+Tiffany L. Brazile2; Briana P. Patton1; Tanya Nikiforova2. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2University Of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3180789)
+
+# LEARNING OBJECTIVE #1:
+
+Identify three essential tests to evaluate a patient with new-onset dyspnea
+
+# LEARNING OBJECTIVE #2:
+
+Define framing, anchoring, and availability biases and identify how they can contribute to diagnostic error
+
+# CASE:
+
+MG is a 60 y.o. female nurse who presented with one year of dyspnea. Over the last 3 months, her symptoms evolved to dyspnea, chest pressure, and fatigue with activity at 4 METS, as well as abdominal cramping and non-bloody emesis. Her history included subtotal colectomy, GI bleed, HTN, and left ventricular hypertrophy. MG initially presented to her cardiologist. On exam she was afebrile, had normal S1, S2 without murmurs or gallops, no JVD, and lungs were clear to auscultation. Her EKG showed a chronic left bundle branch block (LBBB). A stress cardiac MRI showed normal EF and absence of ischemic or infiltrative disease. MG was then referred to a pulmonologist. PFTs and CXR were negative. An ABG showed normal oxygenation and incidentally revealed a hemoglobin of 5. She was subsequently hospitalized. Her labs were consistent with profound iron deficiency anemia (IDA). Upon further questioning, MG reported taking ibuprofen daily for the past 8 months and recent dark stools. EGD and flexible sigmoidoscopy were concerning for an occult GI bleed from her ileosigmoid anastomosis.
+
+# IMPACT/DISCUSSION:
+
+Blood loss is the most common cause of IDA worldwide and can be difficult to recognize if the source is not obvious. MG's presentation of exertional dyspnea, exercise intolerance, and angina are common symptoms of anemia, however, the biases of the patient and her physicians delayed diagnosis and treatment by 3 months. The workup for dyspnea depends on the history and physical exam, and almost always begins with a CBC, SpO2, and EKG. Despite an unremarkable physical exam, the patient's symptoms and lab findings necessitated further investigation.

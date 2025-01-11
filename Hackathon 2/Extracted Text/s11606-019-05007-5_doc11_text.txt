@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# METHODS:
+
+We examined non-trauma patients admitted to the hospital that went through the ED from November 2017 to May 2018 (n=1531) and compared all time-stamped points along the patient's path from ED arrival to their departure to an inpatient floor, by race/ethnicity. We estimated with linear regression models the relationships between ED wait times, and the following patient- and ED-level characteristics: race/ethnicity, age, gender, comorbid conditions, insurance status, primary language, having a primary care provider, a prior ED visit within the past 30 days, assigned triage score (ESI), same day outpatient visit, call-in referral, admitting service and unit, degree of ED overcrowding, and the presence of provider in triage. Guided from our findings, we then collected and analyzed data from: 1) semi-structured interviews with patients (n=12); 2) general 2-hour observations of the ED (n=8); and 3) provider observations and semi-structured interviews (n=9). Providers were assigned groups based on their wait-time disparities and we selected at least two providers from each group to participate in the study. Team members were blind to provider groupings until the analysis was complete. A minimum of 25% of the sampled from each data source was double- or triple-coded to ensure interrater reliability.
+
+# RESULTS:
+
+We isolated the disparity to between when the ED provider sees the patient and requests a bed. After adjusting for the patient- and ED-level characteristics noted above, racial/ethnic ED wait time disparity attenuated but remained significant. We found a consistent pattern of communication between providers (physician or nurse) and patients, depending on whether they were of similar race/ethnicity (concordant pair) or not (discordant pair). Among discordant pairs, providers were more likely to interrupt patients, ignore patient requests, and have less eye contact. Among concordant pairings, providers exhibited a greater level of advocacy, such as tracking down labs or a consultant. Providers without significant ED wait time disparities articulated objective criteria, such as triage scores (ESI), for prioritizing which patients they see first. In contrast, only one provider from the groups with significant wait time disparities mentioned ESI, only to question its validity in prioritizing patients.
+
+# CONCLUSIONS:
+
+Our findings suggest that both provider-patient interactions and the provider's approach to prioritizing care play a significant role in ED wait time disparities. This study yields actionable provider-specific contributors to the wait time disparities that may apply to broader set of quality metrics.
+
+# A MULTICENTER STUDY OF THE FORMAT AND CONTENT OF INTERNAL MEDICINE MORNING REPORT
+
+Dan Heppe 1 ; Albertine Beard 2 ; Brian Kwan 3 ; Michael Ong 4 ; Azadeh Lankarani-Fard 4 ; Paul B. Cornia 5 ; Matthew Tuck 6 ; Craig G. Gunderson 7 . 1 Eastern Colorado Veterans Health Administration, Denver, CO; 2 Minneapolis VA, Minneapolis, MN; 3 University of California, San Diego, San Diego, CA; 4 UCLA, Los Angeles, CA; 5 Seattle VA, Seattle, WA; 6 Department of Veterans Affairs Medical Center, Washington, DC; 7 Yale Medical School, West Haven, CT. (Control ID #3185273)
+
+# BACKGROUND:
+
+Morning report has long been considered a core component of internal medicine residency training. There are multiple potential formats and topics for morning report and few prior studies have described the content and structure of contemporary morning reports.
+
+# METHODS:
+
+We conducted a prospective observational study of morning report at seven different Veterans Affairs academic medical centers. Each participating site observed a series of morning reports and collected data on the number and type of learners, the number and background of attendings, and the format of report. For case based reports the amount of time on different aspects of the case was recorded as well as the ultimate diagnosis when known. We also recorded other content areas such as medical literature, ethics, quality and safety, and high-value care.
+
+# RESULTS:
+
+We observed 136 morning reports from 7 different academic medical centers across the country. Reports included a mix of residents, interns and medical students, while 26.5% included non-physician learners. The most common attending was a hospitalist (93.3%) followed by internal medicine sub-specialist (43.3%) and general internist (31.6%). Most were led by a chief resident (83.8%). The most common format was case-based (84.6%) with the remaining being a mix of EBM, journal club, and game based. Most case based reports were prepared (86.1%) as opposed to "live" reports. On average, the most time was spent on differential diagnosis and testing (12.0min), didactics (9.5min) and history (7.3min). Most reports used PowerPoint (85.6%) and 70.4% had more than 15 slides. Medical literature was only referenced in 35.3% of reports, most commonly as narrative reviews or professional guidelines. Original research was only discussed in 18.4% of reports and systematic reviews in 5.9%. Psychosocial issues were discussed in 8.0% of reports, quality and safety in 7.3%, and high value care in 7.3%. Ethics was rarely discussed. No report went to the bedside. Of the 115 case based reports, 102 had known diagnosis and 13 were unknown. Of the known diagnoses, the most common categories were infectious disease (17), cardiology (15), nephrology (12) and rheumatology (8) which together accounted for more than half of the cases. Individual diagnoses were highly varied, with 92 diagnoses that occurred only once and 10 that occurred multiple times. 50% of diagnoses were rated as rare.
+
+# CONCLUSIONS:
+
+In our series, the primary format for report continues to be case based, which are primarily prepared prior to report by the chief resident and employ Power Point. One fourth of reports include non-physician learners. For case based reports, history, differential diagnosis, testing and didactics are the most emphasized areas. Few reports discussed ethics and none involved bedside teaching. The most common attending present was a hospitalist. Individual diagnoses were highly varied and favor rare diagnoses.
+
+# A NATIONAL EVALUATION OF PATIENT PORTAL USE AS REPORTED BY PRIMARY CARE PROVIDERS TO THE CENTERS FOR MEDICARE AND MEDICAID SERVICE
+
+Jorge A. Rodriguez 1 ; Stuart R. Lipsitz 2 ; Courtney R. Lyles 3 ; Lipika Samal 2 . 1 Lawrence General Hospital, Somerville, MA; 2 Brigham and Women's Hospital, Boston, MA; 3 University of California San Francisco, San Francisco, CA. (Control ID #3184455)
+
+# BACKGROUND:
+
+Patient portals expanded under the Meaningful Use (MU) Program, which provided over $35 billion for them and led to provision of portals by 90% of providers. Yet this has not led to high uptake by patients, which has been attributed to sociodemographic factors in studies conducted at single institutions. The goal of our study was to correlate national data on broadband access with patient portal use, defined as number of patients who have used the portal to either view, download or transmit (VDT) information, after controlling for sociodemographic characteristics.
+
+# METHODS:
+
+We performed a retrospective study combining National Provider Identifier (NPI) data from 2016 MU public use files with NPI database to identify provider's address. By linking these addresses with Google Maps Application Programming Interface, the American Community Survey, US Department of Agriculture, and Federal Communications Commission Form 477 we attributed the level of broadband access to each provider's census.

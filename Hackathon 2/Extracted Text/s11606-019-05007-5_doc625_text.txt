@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Hospital Provider Awareness of High Risk Candidates and Providing Access to Intranasal Naloxone at Discharge for These Individuals
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The pharmacist driven protocol on an internal medicine and oncology inpatient unit involved the daily screening of patients meeting criteria for high risk of opioid overdose. Criteria included patients taking 50 mg or greater per day of morphine equivalents, or patients with active or a history of opioid use disorder and those on opioid withdrawal agents. Responding clinicians would then be alerted by the pharmacist of their high-risk patients and naloxone would then be recommended upon discharge. Upon agreement with the responding clinician, the patient would then be seen by the pharmacist, who would counsel them on the signs and symptoms, and risks of opioid overdose. They would then be asked if they would like a prescription for intranasal naloxone upon discharge. If the patient agreed, the pharmacist would write the order and deliver the medication to the patient while still inpatient, to ensure that they left with the medication in hand at discharge. This initiative took place from December 15, 2017 until February 15, 2018.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The percentage of eligible patients discharged with intranasal naloxone from this inpatient unit were measured before and after the initiative took place.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The percentage of eligible patients discharged on intranasal naloxone increased from an average of 13% to 28% from December 15, 2017 to January 15, 2018.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This pilot was successful in increasing access to intranasal naloxone to high risk patients upon discharge. The modest percentage increase may be due to limited outpatient pharmacy hours, evening or weekend discharges, and the availability of a pharmacist to counsel patients on naloxone before patients are discharged. Areas for improvement and expansion included a collaborative practice agreement for trained pharmacists in opioid use disorder to prescribe intranasal naloxone upon discharge.
+
+# Feasibility of Implementing a 24-Hour Ambulatory Blood Pressure Monitoring (ABPM) Testing Service into Primary Care
+
+Nadia Liyanage-Don1; Nathalie Moise1; Kristal Quispe2; Jennifer Mizhquiri Barbecho2; Hye Gi Shim1; Ian M. Kronish1. 1Columbia University Medical Center, New York, NY; 2Columbia University Medical Center, Brooklyn, NY. (Control ID #3181226)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+In 2015 the USPSTF updated their hypertension screening guidelines to recommend that patients with elevated office BP undergo ABPM to confirm the diagnosis of hypertension and exclude white coat hypertension (WCH) (grade A). However, ABPM is infrequently used in primary care due to lack of accessibility, concerns about patients' ability to complete testing, and inadequate reimbursement. We aimed to assess the feasibility and economic viability of an ABPM testing service offered within a primary care network.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To increase the use of 24-hour ABPM as part of hypertension screening and diagnosis in a primary care network serving a vulnerable patient population.
+2. To increase the identification of WCH in primary care.
+3. To determine the financial sustainability of a 24-hour ABPM testing service with a predominantly publicly insured payor mix.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+ActiveBP is a 24-hour ABPM testing service launched in 2015 at Columbia University Irving Medical Center. Previously, ABPM was only available on campus through referrals to nephrology for patients with kidney disease. ActiveBP offers ABPM testing to patients within the primary care network who have elevated office BP but no diagnosis of hypertension, the only Medicaid/Medicare reimbursable condition. Key features of ActiveBP include an order set within the electronic health record, patient- and provider-friendly ABPM reports, bilingual coordinators for scheduling and device placement, and provider education about ABPM testing availability through presentations and newsletters.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+BP values from ActiveBP were compared to office BP values from the electronic health record to classify patients as having sustained hypertension (office BP 140/90 mmHg, mean awake BP 135/85 mmHg) or WCH (office BP 140/90 mmHg, mean awake BP <135/85 mmHg). Success metrics included the volume of patients referred for ABPM, rates of ABPM completion (defined as 10 awake BP readings), patient and provider satisfaction, and economic viability (revenue versus costs).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Between September 2015 and June 2018, 436 primary care patients were referred for ABPM, of which 256 initiated testing and 246 (95%) completed testing with sufficient readings. Of patients with sufficient readings, 123 (50%) were found to have WCH. Patient surveys showed high satisfaction with the testing service. Focus groups to assess provider satisfaction are currently being planned. Economic analysis showed that, including staff time and overhead, cost per test was $200 whereas Medicaid/Medicare reimbursement per test was $62.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+An ABPM testing service can successfully conduct ABPM in primary care patients and can identify WCH in about half of patients referred. However, with a payor mix comprised of primarily Medicaid/Medicare recipients, reimbursement is insufficient to cover costs. Conducting ABPM testing within the primary care clinic or offering the service to a broader mix of publicly and commercially insured patients may be needed for such testing to be economically viable.
+
+# Financial Incentives for Medical Assistants as Panel Managers to Improve Colorectal Cancer Screening Rates in a Large, Urban, Academic Primary Care Medical Group
+
+Laura J. Zimmermann1; Michael Hanak1; Tim Reiff2; Aaron Shultz1; Daniel Dunham1. 1Rush University Medical Center, Chicago, IL; 2Rush University Medical Center, Oak Park, IL. (Control ID #3173540)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Cancer screening is becoming increasingly important for financial viability of primary care practices as health systems transition into performance-based payer contracts. As of October 28th, 2018, only 65.93% of eligible primary care patients were screened for colorectal cancer (CRC) in this large, urban, academic medical group (eCQM CMS-130v5).

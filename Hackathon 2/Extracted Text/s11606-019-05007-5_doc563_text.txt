@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the common presenting signs and symptoms of amyloid B-related angiitis
+
+# CASE:
+
+A 72-year-old Caucasian female presented with visual hallucinations, memory loss, lethargy, and intermittent headaches of one month duration. The patient was alert, afebrile, and hypertensive with garbled speech and difficulty following commands, but was able to move all extremities equally; otherwise her physical exam was benign. Labs revealed WBC 8, Na 144, ammonia 14, CRP 5, and ESR 71. CT head showed no intracerebral hemorrhage. MRI brain with contrast showed vasogenic edema in the left temporal lobe with minimal associated enhancement and mild mass effect on the temporal horn of the left lateral ventricle. The patient was started on acyclovir for potential HSV encephalitis. A lumbar puncture revealed normal levels of glucose and protein, and was negative for fungi, AFB, neurosyphilis, Cryptococcus, and HSV-1. Acyclovir was stopped. It was suspected that the patient had a glioma, so the temporal lesion was biopsied and stained positively for amyloid B-related angiitis (ABRA). She was started on 1g of methylprednisolone for 7 days then was decreased to 60mg oral prednisone. Her symptoms improved significantly and she was discharged to inpatient rehab where she continued to improve mentally and physically.
+
+# IMPACT/DISCUSSION:
+
+ABRA is an autoimmune response to naturally occurring beta-amyloid deposition in the cortical and leptomeningeal vessels of the brain that typically occurs in the 7th decade of life with no gender predilection. Patients most commonly present with cognitive and/or behavioral changes ranging from confusion to hallucinations to coma, but can also present with focal neurological deficits, seizures, and/or headaches. ESR and CRP levels are often elevated, but are nonspecific. LP is non-diagnostic, but aids in ruling out other causes of encephalopathy. MRI distinctively shows leptomeningeal enhancement on T2-weighted images often with microbleeds at cortico-subcortical junctions on susceptibility-weighted images, but tissue biopsy is the gold standard of diagnosis. Initial treatment is high-dose corticosteroids followed by a longer duration of low-dose steroids in addition to immunosuppressive drugs. Mortality of ABRA has been reported to be between 7 and 44%, and a number of patients have neurological deficits after treatment. Therefore, timely diagnosis and aggressive, appropriate treatment are the keys to a successful recovery.
+
+# CONCLUSION:
+
+ABRA is a relatively rare diagnosis with a mortality of 7-44% and with a large number of patients having neurological deficits even after treatment. Therefore, timely diagnosis and aggressive, appropriate treatment are the keys to a successful recovery.
+
+# THE WRATH OF HYDROXYCHLOROQUINE: A RECALCITRANT CASE OF ACUTE GENERALIZED EXANTHEMATOUS PUSTULOSIS
+
+Chay Bae; Navya Kuchipudi; Santhanam Lakshminarayanan. University of Connecticut, Farmington, CT. (Control ID #3183952)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish acute generalized exanthemous pustulosis (AGEP) from other rashes.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the role of cyclosporine in recalcitrant cases of AGEP.
+
+# CASE:
+
+A 47 year old female with a history of sjogren's syndrome was started on hydroxychloroquine (HCQ) at 5 mg/kg by her rheumatologist. 4 weeks into HCQ, she developed a rash along her axilla and upper extremity with neutrophilia of 9k/uL. Despite prednisone and withdrawal of HCQ, her rash spread over 6 days. Ultimately, she was referred to us for a second opinion. On exam, she had mild erosions along her tongue and pin-sized, nonfollicular pustules on an erythematous and edematous base along intertriginous regions, trunk, and extremities. She had neither a Nikolsky sign nor a history of psoriasis. Labs revealed neutrophils of 13 k/uL, ESR of 21 mm, and CRP of 11 mg/L. Although biopsy was histopathologically indeterminant, her findings and the long half-life of HCQ was concerning for a delayed onset of AGEP. She was trialed outpatient on methylprednisolone 1g IV (MIV) for 3 days. This halted new lesions and she transitioned to a prednisone taper. She; however, sought an alternate opinion from dermatology. A concern for pustular psoriasis was raised and her prednisone was aggressively tapered. Regrettably, over 48 hours: she manifested new lesions, had an episode of orthostatic syncope, and presented for admission with neutrophils of 18k/uL, ESR of 58 mm, and CRP of 100 mg/L. Inpatient, she was re-trialed on MIV for 5 days. Despite MIV, she showered lesions in new regions and previous areas of post-pustular desquamation. In this setting, she was re-biopsied, which supported AGEP (corneal pustule and superficial lymphocytic and neutrophilic inflammation). Given the recalcitrance of AGEP, cyclosporine (CSA) was introduced at 4 mg/kg. Within 6 days of CSA, the lesions quiesced and she was discharged. Upon follow up, her CSA was tapered to 1 mg/kg, with concomitant prednisone taper over the next 2 months. At follow up, her rashes had nearly resolved.
+
+# IMPACT/DISCUSSION:
+
+Despite the use of HCQ in rheumatology, AGEP is a rare side effect. AGEP results from a T-cell mediated type IV hypersensitivity reaction. This manifests as a severe pustular reaction typically within days. Due to HCQ's long half-life; however, it often takes weeks to manifest. This makes it difficult to correlate HCQ to AGEP. This is further muddied by differentials, such as pustular psoriasis. In our patient, AGEP was favored by the nature of polymorphous lesions, no prior history of psoriasis, and biopsy findings. Treatment is discontinuation of medication, supportive care, and systemic steroids in refractory cases. Moreover, this case adds to the sparse literature that CSA may have a role in recalcitrant cases due to its T cell inhibitory effect.
+
+# CONCLUSION:
+
+This case captures the difficulties of diagnosing HCQ induced AGEP. It also highlights the role of CSA in recalcitrant cases.
+
+# THE WRATH OF THE CATH: CARDIAC CATHETERIZATION COMPLICATED BY ACUTE STROKE
+
+Manan Dhingra 1; Michael Hagan 1; Abhishek Thandra 2; Maryam Gbadamosi 2. 1 Creighton University Medical Center, Omaha, NE; 2 Creighton university, Omaha, NE. (Control ID #3184705)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that embolic strokes are a known but rare complication of cardiac catheterization.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that preoperative workups are sometimes unnecessary and can have harmful downstream effects.
+
+# CASE:
+
+An 84-year-old male with history of hypertension, hyperlipidemia, type II diabetes mellitus, coronary artery disease, 7.3 cm abdominal aortic aneurysm, and cholecystostomy tube in situ underwent coronary catheterization as part of a preoperative evaluation for elective cholecystectomy after a probable single reversible defect in the posterior basilar segment was discovered on a Lexiscan earlier in his preoperative workup. During the procedure, a balloon angioplasty was performed on a stenosis in an existing stent in the distal LAD. Shortly after the procedure, the patient developed diplopia, slurred speech, and left hand and left lower facial numbness. On examination he was found to have internuclear ophthalmoplegia (INO) upon leftward gaze, decreased sensation in the left hand and left lower face, dysmetria on the left, but no focal weakness. He was found to have a NIH stroke scale score of 4. CT head and CTA head/neck showed occlusion in the posterior cerebellar circulation. The patient was deemed a poor candidate for TPA therapy because of the risk of bleeding from his AAA.

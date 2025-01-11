@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# A QUANDARY OF UNRESOLVING ORBITAL CELLULITIS
+
+PRIYANKA BHUGRA; Abhishek Maiti. 1University of Texas Health Science Center at San Antonio, San Antonio, TX; 2University of Texas Health Science Center at Houston, Houston, TX. (Control ID #3187157)
+
+# LEARNING OBJECTIVE #1:
+
+IgG4-related disease is an immune-mediated condition which can mimic infectious, malignant and inflammatory disorders.
+
+# LEARNING OBJECTIVE #2:
+
+Histopathology is the key to diagnosis and timely diagnosis can prevent severe end-organ damage, disabling tissue fibrosis, and even death.
+
+# CASE:
+
+A 50-year-old woman with history of asthma presented to emergency room with progressive swelling of her left upper and lower eyelids for 4 weeks. Examination showed severe edema and redness of left eyelids. Pupils were normal. Visual acuity was 20/20 in both eyes. Fundus examination was normal. Laboratory studies were unremarkable. Computed tomogram of the orbits and sinus showed left preseptal and orbital cellulitis, chronic pansinusitis and left ethmoid osteomyelitis. Swab and tissue culture from nasal and sinus endoscopy grew methicillin-sensitive Staphylococcus aureus. No improvement was noted after 2 weeks of IV antibiotics. Repeat imaging showed further progression of the inflammatory changes in left orbit and ethmoid. At this point, a left caruncular orbitotomy with biopsy showed dense lympho-plasmacytic infiltrate and fibrosis. Immunohistochemistry showed diffuse IgG positivity with >100 IgG4 cells/HPF and polyclonal kappa and lambda light chains. Diagnosis of IgG4-related disease (IgG4-RD) was established and patient was started on IV methylprednisolone. Dramatic improvement was noted over next few days and she was discharged on an oral steroid taper. At 6-month follow-up, she remained asymptomatic.
+
+# IMPACT/DISCUSSION:
+
+IgG4-RD is a recently-recognized, immune-mediated condition that is characterized by fibro-inflammatory lesions rich in IgG4-positive plasma cells. It can affect one or more organs with tumefactive lesions, synchronously or metachronously. It can masquerade as a neoplastic or inflammatory condition. The pathogenesis is poorly understood but involves multiple immune-mediated mechanisms with autoimmune as well as allergic components. Tissue diagnosis is the gold standard for diagnosis. The chief pathologic features include lymphoplasmacytic infiltration and storiform pattern of fibrosis. High number of IgG4 positive plasma cells on immunostaining is the hallmark for diagnosis. This may or may not be accompanied by elevation of serum IgG4 levels. All patients with symptomatic and active IgG4-RD require treatment. Majority cases are responsive to glucocorticoids which are the first line of treatment. Disease recurrence is common. Glucocorticoid sparing agents may be used in cases of contraindication to steroids, failure of steroids, or for remission maintenance but their efficacy has not been studied.
+
+# CONCLUSION:
+
+IgG-RD has a wide spectrum of presentation with single or multi-organ involvement. Early diagnosis can help prevent serious organ damage and death as most of the cases are responsive to steroids.
+
+# A QUINKE COMPLICATION OF TRANSJUGULAR LIVER BIOPSY
+
+Grant Pickett; Nathan C. Nowalk. Baylor College of Medicine, Houston, TX. (Control ID #3186241)
+
+# LEARNING OBJECTIVE #1:
+
+Identify hemobilia as a potential complication of trans-jugular liver biopsy.
+
+# LEARNING OBJECTIVE #2:
+
+Formulate the appropriate management of hemobilia.
+
+# CASE:
+
+A 56 year-old female with adult polycystic kidney disease and recurrent ascites underwent transjugular liver biopsy to evaluate for cirrhosis. Pre-procedural imaging was significant for multiple hepatic cysts, largest at 8 cm in diameter. Four core biopsies were collected with no immediate complications recognized. Following the procedure, the patient had several episodes of large volume hematemesis. Emergent esophagogastroduodenoscopy demonstrated a large amount of blood in the stomach and duodenum without a recognized source of bleeding. Despite blood transfusions, her hemoglobin continued to fall prompting further investigation. Endoscopic retrograde cholangiopancreatography showed active bleeding from the ampulla. Interventional Radiology performed angiography with embolization of a 1cm pseudoaneurysm arising from the pancreaticoduodenal vessels. Following embolization, she demonstrated no further evidence of hemorrhage.
+
+# IMPACT/DISCUSSION:
+
+In patients undergoing liver biopsy, percutaneous liver biopsy is considered the gold standard. Contraindications to percutaneous biopsy include morbid obesity and ascites, such as seen in our patient. In these cases, a transjugular approach is considered, which some literature has reported to have comparable outcomes both for specimens and patient safety relative to a percutaneous approach. Hemobilia is a rare complication of transjugular liver biopsy with an incidence of 0.04%. Quinke's triad of hemobilia is acute gastrointestinal bleed, jaundice, and right upper quadrant pain, although the full triad is uncommon. Definitive diagnosis of hemobilia is made by visualization of bleeding from the ampulla. As seen in our patient, acute hemobilia is most commonly iatrogenic from direct injury to intrahepatic blood vessels or bile ducts during instrumentation. Angiographic intervention is the preferred method of managing active hemobilia. In one study, success rates with angiography were greater than 95%. However, this same study acknowledged that successful embolization will be dependent on the skill of the interventional radiologist.
+
+# CONCLUSION:
+
+Transjugular liver biopsy is the preferred method for patients with morbid obesity or ascites. It is important for physicians to be able to recognize post-procedural complications such as hemobilia and initiate early and appropriate management. In patients with hemobilia, first-line treatment is transcatheter arterial embolization, which has shown high rates of success.
+
+# A RARE AUTO-IMMUNE-LIKE SYNDROME ASSOCIATED WITH NIVOLUMAB THERAPY
+
+Eugene N. Quaye. University of Oklahoma School of Community Medicine, Tulsa, OK. (Control ID #3183619)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize autoimmune related adverse effects of check-point inhibitors.
+
+# LEARNING OBJECTIVE #2:
+
+Treat autoimmune related adverse effects of check-point inhibitors.
+
+# CASE:
+
+A 63 yo male with medical history of atrial fibrillation, hypertension, and stage III metastatic melanoma on immunotherapy with nivolumab presented for evaluation of a five day history of dyspnea with onset shortly after his second chemotherapy treatment. He also endorsed orthopnea, paroxysmal nocturnal dyspnea, diplopia which resolved upon closing the right eye, and right eye lid droop at the time of presentation. Examination was significant for tachypnea, and tachycardia with an irregular rhythm. There were no neurological deficits. Laboratory work revealed AST of 818 and ALT of 358, troponin of 13.1 and CPK of 16,493. EKG showed atrial fibrillation with rapid ventricular rate. Treatment initiated with heparin drip, aspirin and ticagrelor. Hepatic thrombus was ruled out with testing. ECHO ruled out cardiac wall abnormalities. Acute intervention for possible ACS was decided against due to possible myocarditis associated with his immunotherapy. He had positive acetylcholine binding antibody, but anti-MUSK antibody returned negative. His troponin, CPK and transaminase levels improved after initiation of immune suppressive therapy with steroids and plasmapheresis. However, he had a decline in respiratory function necessitating intubation. He later developed GI bleeding due to biopsy proven duodenitis. His case was further complicated by varying degrees of heart block, bradycardia and ultimately hemodynamic instability. He failed to improve despite aggressive measures, ventilator support and continued steroid therapy.

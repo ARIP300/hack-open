@@ -1,0 +1,54 @@
+# ABSTRACTS
+
+# Cancer
+
+Of patients with palliative care consultation the median time from first referral to death was eight days. Patients without palliative care referral had an average of 1.8 hospitalizations, 1.6 emergency room visits and 28 face-to-face clinic encounters in their last year of life. Specialty palliative care was positively associated with age less than 65 years old, white race, cancer, frailty, depression, chronic pain and having primary care visits in the last 12 months of life.
+
+# CONCLUSIONS
+
+In spite of the general preference to avoid hospital deaths, patients who die in the hospital or shortly after discharge have a high degree of missed opportunities for specialty palliative care. This is a medical error that warrants greater attention. Using the rate of missed opportunities for specialty palliative care in this population as a quality metric will improve end-of-life care for patients, their caregivers and the entire healthcare system.
+
+# Histogram of patients per duration of palliative care
+
+70605040302010
+Days between first palliative care consult and death
+
+# MITRAL LEAFLET CLIP PROCEDURE OUTCOMES: ANALYSIS FROM THE NATIONAL CARDIOVASCULAR DATA REGISTRY
+
+Pedro Covas1; Talal S. Alzahrani2; James McCaffrey2; Joseph Krepp2; Ramesh Mazhari2; Christian Nagy2; Jonathan Reiner2. 1George Washington University, Washington, DC; 2The George Washington University, Arlington, VA. (Control ID #3159437)
+
+# BACKGROUND
+
+Mitral regurgitation is one of the most common valvular diseases worldwide. Treatment for severe mitral regurgitation (MR) commonly involves surgical replacement of the mitral valve, but for those who are poor surgical candidates, another option has become mitral valve repair with a mitral leaflet clip procedure (MLCP). In this study, we conducted a descriptive analysis for all patients who underwent MLCP in the United States to investigate preoperative, intraoperative, and postoperative characteristics, techniques, complications, and clinical outcomes.
+
+# METHODS
+
+The National Cardiovascular Data Registry (NCDR) was used to summarize the baseline demographics and procedural quality measures of all patients who underwent MLCP between 2014 and 2017. The change in the demographics, mortality, complications, and clinical outcomes were summarized and visualized in graphs.
+
+# RESULTS
+
+The number of subjects who underwent mitral valve repair increased from 1,023 subjects in 2014 to 5,075 in 2017. The overall mortality rates are relatively unchanged (2.6% to 2.4%). However, there was an improvement in 30-day mortality (4.5% to 4.0%). The rate of patients with low STS scores increased (34% to 50%). Overall, the rate of patients with functional MR who received mitral clips are low (&lt;10%). Of note, there has been a decrease in the number of patients who are 80 years old and older (62% to 56%). Intra-operatively, there were fewer complications (14.6% to 12.2%) including fewer clips not deployed (5.3% to 3.5%) related to a decrease in leaflets not being able to be grasped. Interestingly, there was an increase in the percentage of patients with mitral valve pressure gradient <= 5 mmHg (71.5% to 72.5%). Regarding 30-day follow-ups, our results have shown that residual mitral valve regurgitation (moderate or greater) has decreased from 39% to 5%, with a decrease in the number of clips attempted per patient. NYHA class IV symptoms at 30 days decreased from 4.2% to 3.1%. Finally, follow up echocardiograms changed in approach, with an increase in trans-thoracic (TTE) and a decrease in trans-esophageal (TEE) (86% TEE in 2014 vs. 86% TTE in 2017).
+
+# CONCLUSIONS
+
+Our interpretation shows a trend that MLCP continues to be a viable option for MR. The rate of procedures is expected to increase especially among younger patients with low STS scores and functional MR as results of the COAPT trial. We expect a continued decrease in complications and continued intra-operative success shown by improvement in mitral regurgitation.
+
+# MORAL DISTRESS IN INTERNAL MEDICINE RESIDENTS
+
+Stephanie E. McLaughlin; Harriet Fisher; Colleen Farrell; Kathleen Hanley. New York University School of Medicine, New York, NY. (Control ID #3184637)
+
+# BACKGROUND
+
+Moral distress occurs when the ethically correct action cannot be taken because of internal or external constraints. High levels of moral distress are associated with burnout in medical providers. A better understanding of factors associated with high moral distress during post-graduate training is crucial to executing interventions to lower rates of burnout during residency.
+
+# METHODS
+
+This is a mixed methods prospective observational cohort study that aims to enroll 90 internal medicine (IM) residents on a rolling basis from one IM residency program (12/2018-12/2019). Data is being collected by a series of 3 surveys over 1 year, using the previously validated Moral Distress Scale, to evaluate frequency and intensity of distress associated with specific situations experienced or witnessed by residents during training. This initial analysis, bivariate and multivariate regression of quantitative data from the first time point (survey #1), investigated associations between moral distress scores and demographic, training-specific, and intrinsic personal factors of participants. Analysis of qualitative open-ended questions further explored causes of moral distress and as well as coping mechanisms employed by residents.
+
+# RESULTS
+
+32 IM residents (44% PGY-1, 28% PGY-2 and 28% PGY-3) have been enrolled thus far. 53% of resident participants identify as male, 43% as female (and 3% as other). 66% were "Categorical" residents, 25% "Primary Care (PC)," and 9.4% "Preliminary Year" PGY-1 Interns. Mean and median moral distress scores were: 66.8 (SD 31.0) and 61 (range 16-132). In multivariate linear regression "PC" residents had scores 31 pt. higher compared to "Categorical" residents (p=0.009). Male residents had scores 25pt lower than female residents (p=0.008), and PGY year conferred an incremental score increase of 11 pt. per year (p=0.057). The model was adjusted for covariates: PGY-year, gender, age, and/or program type. Themes regarding causes of moral distress included: lack of resources, situations when patient care is dictated by cost-saving measures, and aggressive futile care. Coping mechanisms included: debriefing with team members or others outside of work, active individual reflection, exercise/yoga/meditation, participating in activities and social events outside of medicine, reflective writing/journaling, and suppression and/or distraction.
+
+# CONCLUSIONS
+
+In this preliminary analysis, residents in the PC track have higher average moral distress scores. It is unclear whether residents prone to more moral distress self select into this track or whether distress is related to differences in training between PC and categorical tracks. Additionally, more senior residents had average higher scores. This supports the theory of residual moral distress; an increasing amount of moral distress is experienced as a provider witnesses/experiences distressing events over time. Most coping strategies involve social connection and reflection.

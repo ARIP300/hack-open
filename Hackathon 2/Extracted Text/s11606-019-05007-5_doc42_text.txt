@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Declined to 47.8% at 5pm
+
+(Adjusted Odds Ratio [aOR] for linear trend: 0.94, 95% CI: 0.93-0.96, P < .0001). Trends in screening test completion rates were similar beginning at 33.2% at 8am and declining to 17.8% at 5pm (aOR: 0.95, 95% CI: 0.94-0.97, P < .0001). Among the 33,468 patients eligible for colorectal cancer screening, the mean age was 59.6 years, 55.8% were female, 66.2% were white, and 21.8% were black. Screening test order rates were 36.5% at 8am, declined to 31.3% by 11am, increased at 12pm to 34.4%, and then declined to 23.4% at 5pm (aOR: 0.94, 95% CI: 0.93-0.95, P < .0001). Trends in screening test completion rates were similar beginning at 28.0% at 8am and declining to 17.8% at 5pm (aOR: 0.97, 95% CI: 0.96-0.98, P < .0001).
+
+# CONCLUSIONS
+
+Clinician ordering of cancer screening tests significantly declined as the clinic day progressed. Patient completion of cancer screening tests within 1 year of the visit was also significantly lower as the primary care appointment time was later in the day. Future interventions targeting improvements in cancer screening should consider how time of day influences these behaviors.
+
+# ASSOCIATION OF RESIDENT PERFORMANCE METRIC FEEDBACK FOR DIABETIC CARE IN PRIMARY CARE CLINICS AND ACHIEVEMENT OF PERFORMANCE METRICS
+
+Timothy J. Brown1; Salahuddin Kazi1; Tyler Miller2; Hyemi Chong2. 1UTSW, Dallas, TX; 2VA North Texas Healthcare System, Dallas, TX. (Control ID #3185806)
+
+# BACKGROUND
+
+Performance feedback during residency is a critical aspect of training. In the primary care clinics, feedback on chronic disease management is important but may not be readily available. Our residency program is divided into 5 "firms" sharing a clinic week in a "4+1" format in which the residents do 4 weeks of inpatient rotations followed by 1 week of clinic. Approximately half of the program has primary care clinic at the VA. The VA has developed guideline-based targets to improve the care of diabetic patients consisting of an annual hemoglobin A1c, achieving A1c<9%, targeting blood pressure to <140/90 mmHg, targeting LDL <100 mg/dL or prescription of a moderate-intensity statin, annual retinopathy referral, and annual nephropathy screening. However feedback related to progress towards these metrics is not readily available to the residents. We sought to improve rates of achievement of these metrics by providing residents with their performance data.
+
+# METHODS
+
+Data were obtained prospectively from a continuously-updated EMR-based database. A natural experiment was designed to determine the effect of feedback on achievement of performance metrics. One of the five firms was blinded to this project (no feedback) and the other four firms received weekly email feedback with their performance metrics and an average composite score. All residents in the feedback group were provided data, however only senior residents PGY2 and higher were included in the analysis to account for patient "rollover" from the previous graduating class. After four completed clinic weeks spanning 20 weeks in the academic calendar, data were analyzed. Comparisons were made using two-tailed paired t-tests with alpha of 0.05 to determine if feedback of performance metrics improved achievement of the performance metrics.
+
+# RESULTS
+
+Forty-one senior residents were included in the feedback group and ten senior residents were in the no feedback group. Feedback was associated with a mean decrease in composite score for diabetes care of 3.3% [95% confidence interval (CI) 1.38-5.26% decrease, p=0.009] compared to no feedback. Similarly, feedback was associated with a 3.75% increase in the number of diabetic patients with hemoglobin A1c >9 [95% CI 2.26-5.23% increase, p=0.002] and with an 8.2% decrease in diabetic patients with LDL<100 mg/dL or on moderate intensity statin [95% CI 4.7-11.8% decrease, p=0.03) compared to no feedback. No difference was noted in rates of annual hemoglobin A1c screening, retinopathy screening, nephropathy screening, or achievement of blood pressure <140/90 mmHg.
+
+# CONCLUSIONS
+
+In this analysis, providing residents with feedback on their diabetic patients did not improve whole-panel achievement of institutional performance metrics. These results could be affected by potential crossover of patients within the primary care clinic, relatively short follow-up and unknown uptake of feedback by the residents. Further attempts at improvement are ongoing.
+
+# ASSOCIATION OF SOCIAL VULNERABILITY WITH TREATMENT BURDEN AND MEDICATION ADHERENCE AMONG PATIENTS WITH HYPERTENSION
+
+Hani A. Abi1; David Eton2; Mark Linzer3; Elizabeth A. Rogers1. 1University of Minnesota, Minneapolis, MN; 2Mayo Clinic, Rochester, MN; 3Hennepin County Medical Center, Minneapolis, MN. (Control ID #3186055)
+
+# BACKGROUND
+
+Hypertension is a condition that more than 100 million Americans-nearly ¹³ of adults-suffer from. New hypertension guidelines in the United States increase the number of patients who require treatment and the number of medications taken. This contributes to treatment burden, or the work of self-management and its impact on function and well-being, which may lead to decreased medication adherence. This study examined the associations between treatment burden, medication adherence, and social vulnerability measures among patients with hypertension.
+
+# METHODS
+
+We conducted a cross sectional survey of patients within two Minnesota medical systems who had at least two chronic medical conditions. The mailed survey battery consisted of the Patient Experience with Treatment and Self-management measure (PETS), an 11-domain measure of patient-reported treatment burden; four validated measures of social vulnerability (disease management self-efficacy, healthcare provider relational quality, health literacy, and healthcare financial difficulties); and a single-item measure of medication adherence. For those respondents with hypertension, we calculated the correlation between PETS domains, social vulnerability measures, and medication adherence using Spearman's Rho.
+
+# RESULTS
+
+The study population (n=254) was on average 67 years old, 54% female, 27% non-white, 67% having some college education, and 26% employed. Sixty-six percent reported taking 5 or more prescription medications and 13% reported low medication adherence. We found that higher treatment burden was correlated with lower patient perceived self-efficacy, healthcare provider relational quality, and health literacy, and with higher financial difficulty (p<0.05 on all 11 PETS domains). Higher treatment burden was also correlated with lower medication adherence (p<0.05 on 6 of 11 PETS domains). Lower medication adherence was correlated with lower healthcare provider relational quality, patient perceived self-efficacy, and health literacy; and with higher financial difficulty.
+
+# CONCLUSIONS
+
+Patient-reported treatment burden is associated with lower medication adherence and greater social vulnerability among patients with hypertension. Lower medication adherence is associated with greater social vulnerability. Adding medications to follow the new hypertension guidelines may increase treatment burden, decrease medication adherence, and disproportionally affect socially vulnerable populations. Clinicians and future researchers should consider this in efforts to curb disparities in hypertension outcomes.
+
+# ASSOCIATION OF STATE LAWS MANDATING PRESCRIPTION DRUG MONITORING PROGRAM USE BY PRESCRIBERS ON DISCONTINUATION OF CHRONIC OPIOID THERAPY IN VETERANS
+
+Jonathan Arnold4; Xinhua Zhao1; Florentina Sileanu2; Maria K. Mor2; John P. Cashy2; Patience Moyo3; Carolyn T. Thorpe2; Chester Good2; Thomas R. Radomski4; Michael J. Fine2; Walid F. Gellad2. 1VA Pittsburgh HealthCare System, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA; 3Brown University School of Public Health, Providence, RI; 4University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3168221)
+
+# BACKGROUND
+
+Several states have mandated that prescribers check prescription drug monitoring programs (PDMPs) prior to opioid

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Medically-Tailored Meals and Healthcare Utilization
+
+Chronically ill and at nutritional risk (inability to afford the foods needed to manage their condition). Among those with 360+ days of APCD data, we matched MTM recipients with non-recipients based on demographic, clinical, and neighborhood characteristics. The MTM intervention comprised weekly delivery of ready-to-consume meals tailored to individual medical needs as determined by a registered dietician nutritionist. Distance from the MTM program was the instrumental variable. The primary outcome was inpatient admissions. Secondary outcomes were admission to a skilled nursing facility and healthcare costs (from medical and pharmaceutical claims).
+
+# RESULTS:
+
+There were 807 eligible MTM recipients. The instrumental variable passed standard tests of instruments (first stage F-statistic: 219; improved covariate balance with standardized mean difference < 0.2 for all covariates). Prior to matching, and compared with non-recipients in the same area, healthcare utilization, healthcare cost, and comorbidity were all significantly higher in recipients. For example, pre-intervention mean inpatient admissions were 1.6 (SD: 6.5) in MTM recipients versus 0.2 (SD: 0.8) in non-recipients (p<.0001), and mean healthcare costs were $80,616.80 (SD: $312,336.56) versus $16,138.42 (SD: $68,737.55) (p< .0001). Recipients were also significantly more likely to have HIV (21.9% vs. 0.7%, p<.0001), cancer (37.9% vs. 11.3%, p<.0001), and diabetes mellitus (33.7% vs. 7.0%, p<.0001), compared with non-recipients. In ‘near/far' matching analyses, MTM receipt was associated with significantly fewer inpatient admissions, skilled nursing facility admissions, and healthcare costs (Table).
+
+# CONCLUSIONS:
+
+Participation in a medically-tailored meals program was associated with fewer hospital and skilled nursing admissions, and less overall medical spending.
+
+# EVALUATING THE CASCADE OF CARE FOR LATENT TUBERCULOSIS INFECTION AT AN URBAN PRIMARY CARE CLINIC
+
+Amy M. Beeson3, 1; Jonathan S. Schultz3, 1; Joshua M. Gannon2, 1; Anne Frank3, 1; Kaylynn Aiona4; Michelle Haas4, 5; Julie Venci3, 1; Timothy P. Newton 6 . 1 Federico Peña Southwest Family Health Center, Denver Health, Denver, CO; 2Denver Health, Denver, CO; 3University of Colorado, Denver, CO; 4Denver Metro Tuberculosis Program, Denver, CO; 5University of Colorado School of Medicine, Aurora, CO; 6University of Colorado School of Medicine, Englewood, CO. (Control ID #3186203)
+
+# BACKGROUND:
+
+Screening and treatment of latent tuberculosis infection (LTBI) is a key strategy for elimination of TB in the United States. Screening and treatment based in primary care clinics may be beneficial for patients and allow for a broader reach than centralized TB clinics alone; however, the optimal strategy for scaling up testing and treatment in this setting is uncertain. From 2016-2018, providers at Denver Health's Federico Peña Clinic developed a new protocol for clinic-based LTBI treatment. We report on the current status of the LTBI treatment cascade at our clinic.
+
+# METHODS:
+
+A retrospective chart review was performed from April 11, 2016 to Dec 18, 2018 to identify patients at risk of LTBI based on birth in a high incidence country, defined as active TB incidence of >20/100,000. Among these, patients with an interferon-gamma release assay (IGRA) test result were identified. Charts of patients with positive IGRA results were then reviewed in depth to characterize the treatment cascade, including evaluation for active TB, clinical decision to treat or not, treatment initiation (defined as an initial prescription for one of three LTBI treatment regimens) and treatment completion (defined as documentation of the final monthly monitoring visit). When patients did not start treatment or discontinued treatment without documentation of clinical rationale (such as pregnancy or low risk of progression to active TB), they were considered lost to follow up.
+
+# RESULTS:
+
+There were 94,859 patient visits during the evaluation period, including 23,102 individual patients from 120 different countries. Of these, 6,566 (28%) were identified as at-risk for TB. 1,523 (23%) of these were screened for LTBI with an IGRA, of which 172 tests were positive (11%). Among patients with positive IGRA, 153 (88.9%) were evaluated with a chest x-ray, of which 145 (94.7%) did not show evidence of active TB, while 7 were indeterminate and one identified active TB. Of those with negative x-rays, 97 (66.9%) initiated treatment, 53 (36.5%) completed treatment and 25 (17.2%) are currently on treatment. Among those with positive IGRA who did not initiate treatment (N=75, 43.6%), a clinical decision not to treat was documented in 43 cases (57.3%) while 25 (33.3%) were lost to follow-up. Of 21 women with positive IGRA during pregnancy, only one had a plan to initiate treatment, while 6 remained pregnant, precluding treatment initiation, and a majority (14) were lost to follow up post-partum.
+
+# CONCLUSIONS:
+
+While urban primary care clinics may contribute meaningfully to large-scale LTBI testing and treatment efforts, these interventions are complex. We noted significant gaps in both testing and treatment at the Peña clinic, with the largest gap in testing individuals at risk. Forthcoming improvement efforts may include standardized screening, strengthening of the clinic-wide protocol to increase treatment initiation when indicated after a positive IGRA result, and targeted efforts to improve post-partum follow-up.
+
+# EVALUATING THE EFFECT OF REPORTING PAIN ON CARE FOR ELEVATED BLOOD PRESSURE
+
+Elizabeth Pfoh; Alexander Chaitoff; Kathryn A. Martinez; Kaitlin Keenan; Michael B. Rothberg. Cleveland Clinic, Cleveland, OH. (Control ID #3185204)
+
+# BACKGROUND:
+
+Physicians may consider elevated systolic blood pressure (SBP) in the presence of pain to be physiologic and put off medication intensification. Our objective was to identify whether reporting pain was associated with SBP and delaying medication intensification.
+
+# METHODS:
+
+We included adult primary care patients seen in an integrated health system in 2015. Pain was identified by asking "Are you having pain associated with your visit today?". We defined acute pain as lasting 7 days and severe pain as a rating 7/10. We defined elevated SBP as 140mmHg. Medication intensification was defined as a dosage increase or additional antihypertensive medication 1 day of the visit. We performed mixed-effect regression models adjusted for age, sex, race, marriage, insurance status and repeated visits. For patients with elevated SBP, a linear regression was used to identify the association between pain and SBP. Logistic regression was used to identify the association between pain and medication intensification after also adjusting for SBP. We used linear regressions to identify the association between pain at the 1st visit and change in SBP between the 1st and 2nd visit, after further adjustment for initial SBP and medication intensification.
+
+# RESULTS:
+
+In total, 17,357 people had 1 elevated SBP and a pain score on the same day. Patients had a mean age of 65, were majority women (60%), white (77%) and married (59%). Patients reported pain at 26% of visits, acute pain at 5% and severe pain at 12%. There was no significant difference in SBP when comparing patients who did vs. did not report pain, nor was there a difference in SBP in patients reporting acute vs. chronic pain (p>0.05). Patients reporting severe pain had slightly higher SBP than those reporting moderate pain ( =1.2 mmHg; 95%CI: 0.7, 1.7). Compared to patients without pain, the adjusted odds ratio (AOR) of medication intensification with pain was 0.61 (95%CI: 0.57-0.66). The odds of medication intensification was lower for patients with acute pain vs. chronic pain (AOR: 0.53; 95%CI: 0.45-0.64), but similar for severe vs. moderate pain (AOR: 0.90; 95%CI: 0.79-1.03). Adjusted change in SBP at the 2nd visit was slightly greater for patients who initially reported pain vs patients who reported no pain ( =-1.0mmHg; 95%CI: -1.80, -0.19). Change in SBP was not different for patients who reported acute vs chronic pain, severe vs. moderate pain, or pain that resolved vs. persisted (p>0.05 for all comparisons).
+
+# CONCLUSIONS:
+
+In primary care, severe pain is minimally associated with uncontrolled hypertension, but physicians were less likely to intensify anti-hypertensive therapy in the presence of any pain. Reduction in SBP at the

@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# IMPACT/DISCUSSION
+
+The patient continued methylprednisolone for three days and switched to oral prednisone 40 mg for an additional five days with good clinical recovery.
+
+Durvalumab is an immune checkpoint inhibitor that targets programmed death ligand 1 (PD-L1) and has recently been approved for use in unresectable NSCLC. Pneumonitis is a well-known side effect with an incidence of 6.3% after initiation. Radiographically, the most commonly observed pattern is cryptogenic organizing pneumonia (COP) characterized by multifocal ground glass opacities (65% of cases) followed by nonspecific interstitial pneumonia (15% of cases). The median time to onset of pneumonitis is 2.6 months with a range of 9 days to 19.2 months. Treatment of PD-L1 associated pneumonitis is based on common terminology criteria for adverse events (CTCAE) guidelines. Treatment of grade 1 (mild) pneumonitis consists of holding immunotherapy and careful clinical observation. Grade 2 (moderate) pneumonitis warrants treatment with oral prednisone and grade 3 or 4 (severe or life-threatening) pneumonitis requires hospitalization and IV methylprednisolone for 5 to 7 days. Prior to initiation of therapy, all patients should undergo high resolution chest CT and be made aware of the symptoms of pneumonitis, especially those with low respiratory reserve, such as our patient. Providers should exercise caution when re-challenging patients after pneumonitis given nearly 25% may experience recurrence. Patients with confirmed pneumonitis should receive regular CT imaging of the chest, at least every 1 to 2 weeks in severe cases, until symptoms improve to grade 1 pneumonitis or resolve.
+
+# CONCLUSION
+
+Recognizing pneumonitis early with PD-L1 inhibitor therapy can significantly improve mortality. Steroids are first-line therapy for symptomatic PD-L1-induced pneumonitis.
+
+# WHY DO I HAVE CHEST PRESSURE AND LEG PAIN, AGAIN?
+
+# AN UNUSUAL CASE OF VENOUS THROMBOEMBOLISM
+
+Elise M. Pearson2; Joshua H. Jun1; Ricardo C. Couso1; Rachel Vanderberg1.
+
+1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3184464)
+
+# LEARNING OBJECTIVE #1
+
+Assess for anatomic risk factors contributing to venous thromboembolism (VTE)
+
+# CASE
+
+A 43 year-old female with obesity, unprovoked submassive pulmonary embolism (PE) and extensive deep vein thrombosis (DVT) 23 months prior, now on warfarin, presented to the emergency room with one day of non-radiating substernal chest pain and transient posterior left knee pain. The patient was hemodynamically stable with no oxygen requirement. Her international normalized ratio on presentation was 3.2. On exam of the left lower extremity there was tenderness to palpation of the posterior fossa of the knee, 1+ pitting edema, no calf tenderness, and negative Homan sign. Chest computed tomography (CT) demonstrated a new subsegmental PE in the right lower lobe. Lower extremity duplex ultrasound (US) demonstrated a chronic recanalized DVT of the left femoral and external iliac veins with no evidence of new DVT. Extensive hypercoagulable workup was negative. CT of the abdomen and pelvis with venous phase contrast was obtained to evaluate for May-Thurner syndrome (MTS). CT instead revealed a duplicated left-sided inferior vena cava (IVC) joining the left renal vein, traveling retro-aortically to the right-sided IVC. Given her warfarin failure, the patient was transitioned to enoxaparin and discharged home with hematology, pulmonology, and vascular surgery follow up.
+
+# IMPACT/DISCUSSION
+
+Risk for VTE is highest with the presence of one or more elements of Virchow's triad: venous stasis, endothelial injury, and hypercoagulability. Often overlooked in the assessment of VTE are anatomic venous stasis risk factors like varicose veins, MTS and anomalous IVC. Varicose veins affect roughly 23% of American adults. A recent study demonstrated that patients with varicose veins had higher incidence rates for DVT (hazard ratio (HR) 5.3, [95% confidence interval (CI), 5.05-5.56]), and PE (HR 1.73, [95% CI, 1.54-1.94]) compared with the control group. MTS presents with symptoms of pain, swelling, and/or DVTs caused by compression of the common iliac vein by the overlying common iliac artery. Compression occurs most often on the left side, in the 2nd-4th decade of life with a 2:1 female predominance. It is typically diagnosed by duplex US, though CT, magnetic resonance venography or endovascular US may be more sensitive. If DVT is present, therapy involves catheter-directed thrombolysis, stenting, and anticoagulation. Multiple variations of the IVC can occur, related to abnormal persistence or regression of embryonic veins that become the IVC and renal veins. IVC anomalies are typically asymptomatic and found incidentally, however they may be a clinically significant finding in patients with VTE. While data is limited for IVC duplication, definitive treatment for other compressive etiologies of VTE is surgical, thus evaluation by a vascular surgeon should be considered.
+
+# CONCLUSION
+
+It is important to consider anatomic risk factors like varicose veins, MTS and anomalous IVCs in patients with VTE as these may impact therapy.
+
+# WHY IT IS ESSENTIAL TO THINK TWO MOVES DOWN THE CHESS GAME.
+
+Chenchen Feng; Alexander Katz; Aimee Sutherland; Jeffrey Wiese.
+
+Tulane University School of Medicine, New Orleans, LA. (Control ID #3184449)
+
+# LEARNING OBJECTIVE #1
+
+Diagnose methemoglobinemia in the setting of acute decompensated heart failure
+
+# LEARNING OBJECTIVE #2
+
+Recognize the association between rasburicase, methemoglobinemia, and G6PD deficiency
+
+# CASE
+
+A 64-year-old woman with a history of essential thrombocytosis presented with dyspnea secondary to acute congestive heart failure. She responded well to diuresis and her dyspnea resolved. A peripheral smear revealed thrombocytosis with blasts, raising the concern for acute myeloid leukemia with a blast crisis. A bone marrow biopsy was performed and given the risk for hyper-uricemia secondary to tumor lysis, rasburicase was prescribed. On the second hospital day, she developed refractory hypoxia initially thought to be due to worsening heart failure. This diagnosis was refuted by an arterial blood gas that revealed a PaO2 of 300 mmHg despite an arterial saturation of 80% which suggested an abnormal hemoglobin. Methemoglobinemia was suspected based upon recent rasburicase exposure. This was confirmed, methylene blue and ascorbic acid were administered. On the following day, there was an acute drop in hemoglobin which was attributed to hemolytic anemia. G6PD deficiency was confirmed as the cause, likely precipitated by the administration of the methylene blue. Attempts were made to establish an exchange transfusion, but her condition deteriorated resulting in a cardiac arrest and death.
+
+# IMPACT/DISCUSSION
+
+Patients with myeloproliferative disorders are commonly encountered by the general internist. While oncologists are primarily responsible for the administration of chemotherapy, it is the general interest who is tasked with the vigilance for and management of common side-effects related to this therapy. Tumor lysis is one of the more common complications, especially for patients with a very high tumor burden. Given the frequency with which these patients are admitted to the

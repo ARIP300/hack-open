@@ -1,0 +1,84 @@
+# Acknowledgements
+
+The authors like to acknowledge Marie Hammer, Sandra Pettersson, Anja Beno and Karin Pokorny for their invaluable contributions to the study.
+
+# Funding
+
+This study was funded by the Swedish Research Council for Health, Working Life and Welfare, grant no. 2015-00703.
+
+# Availability of data and materials
+
+Data from this study are not publicly available for ethical reasons, but are available from the first author on reasonable request. A list of study sites, a description of data management procedures and details of data analysis can likewise be obtained on request. All data is stored safely, in fire and theft-proof space, and on encrypted server or separate media. The key linking participants to data is stored separately. All data will be stored for 10 years to enable review.
+
+# Authors’ contributions
+
+LB is the project leader and principal investigator of the project. KG is the responsible physician. LB, KG, AP, MB and KH were all involved in research design. LB collected the data and LB, KG, AP, MB and KH will all be involved in the analytical work. LB prepared the first draft of this manuscript and all other authors contributed. All authors have reviewed and approved the final version.
+
+# Ethics approval and consent to participate
+
+The study has obtained ethical approval from the Regional Ethical Review Board at the University of Gothenburg, Sweden, with the reference number 234-16. Informed written consent was obtained from all participant PHCC managers, participants in the focus group interviews, and participant patients. Written and oral information stressed that participation was voluntary and could be stopped without consequences. Data are kept and handled according to safety standards. Analyses are done at the group level, and results are presented so that individuals cannot be recognized.
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1The Institute of Stress Medicine at the Västra Götaland region, Gothenburg, Sweden.
+
+2The Department of Work Science and Sociology, University of Gothenburg, Gothenburg, Sweden.
+
+3The Department of Psychology, University of Gothenburg, Gothenburg, Sweden.
+
+4The Department of Environmental and Occupational Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+
+5The Section for Epidemiology and Social Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+
+6The Department of Health and Rehabilitation, Institute of Neuroscience and Physiology, The Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden.
+
+# Received
+
+19 February 2018
+
+# Accepted
+
+14 June 2018
+
+# Published online
+
+06 July 2018
+
+# References
+
+1. European Agency for Safety and Health at Work: Psychosocial risks in Europe: Prevalence and strategies for prevention. 2015.
+2. European Agency for Safety and Health at Work: Calculating the cost of work-related stress and psychosocial risks. 2014.
+3. Hassard J, Teoh KRH, Visockaite G, Dewe P, Cox T. The cost of work-related stress to society: A systematic review. Journal of occupational health psychology. 2018;23(1):1–17.
+4. Försäkringskassan [The Swedish Social Insurance Agency]. Sjukskrivning för reaktioner på svår stress ökar mest. Korta analyser. 2016;2016:2.
+5. Försäkringskassan [The Swedish Social Insurance Agency]. Sjukpenning- Sjukfrånvaro per bransch och sektor 2010- https://www.forsakringskassan.se/statistik/sjuk/sjuk-och-rehabiliteringspenning. Accessed 10 Feb 2018.
+6. Försäkringskassan [The Swedish Social Insurance Agency]. Lång väg tillbaka till arbete vid sjukskrivning. Korta analyser. 2017;2017:1.
+7. de Vries H, Fishta A, Weikert B, Rodriguez Sanchez A, Wegewitz U. Determinants of Sickness Absence and Return to Work Among Employees with Common Mental Disorders: A Scoping Review. J Occup Rehabil. 2017. p. 1–25.
+8. Aronsson G, Theorell T, Grape T, Hammarstrom A, Hogstedt C, Marteinsdottir I, Skoog I, Traskman-Bendz L, Hall C. A systematic review including meta-analysis of work environment and burnout symptoms. BMC Public Health. 2017;17(1):264.
+9. Gragnano A, Negrini A, Miglioretti M, Corbiere M. Common Psychosocial Factors Predicting Return to Work After Common Mental Disorders, Cardiovascular Diseases, and Cancers: A Review of Reviews Supporting a Cross-Disease Approach. J Occup Rehabil. 2017. p. 1–17.
+10. Nigatu YT, Liu Y, Uppal M, McKinney S, Gillis K, Rao S, Wang J. Prognostic factors for return to work of employees with common mental disorders: a meta-analysis of cohort studies. Soc Psychiatry Psychiatr Epidemiol. 2017;52(10):1205–15.
+11. Arends I, Bruinvels DJ, Rebergen DS, Nieuwenhuijsen K, Madan I, Neumeyer-Gromen A, Bultmann U, Verbeek JH: Interventions to facilitate return to work in adults with adjustment disorders. The Cochrane database of systematic reviews. 2012;(12):1–15.
+12. Nieuwenhuijsen K, Faber B, Verbeek JH, Neumeyer-Gromen A, Hees HL, Verhoeven AC, van der Feltz-Cornelis CM, Bültmann U: Interventions to improve return to work in depressed people. Cochrane Database Syst Rev. 2014;(12):1–40.
+13. Bhui KS, Dinos S, Stansfeld SA, White PD: A synthesis of the evidence for managing stress at work: a review of the reviews reporting on anxiety, depression, and absenteeism. J Environ Public Health. 2012.
+14. Joyce S, Modini M, Christensen H, Mykletun A, Bryant R, Mitchell PB, Harvey SB. Workplace interventions for common mental disorders: a systematic meta-review. Psychol Med. 2016;46(4):683–97.
+15. Perski O, Grossi G, Perski A, Niemi M. A systematic review and meta-analysis of tertiary interventions in clinical burnout. Scand J Psychol. 2017;58(6):551–61.
+16. Durand MJ, Corbiere M, Coutu MF, Reinharz D, Albert V. A review of best work-absence management and return-to-work practices for workers with musculoskeletal or common mental disorders. Work. 2014;48(4):579–89.
+17. Cullen KL, Irvin E, Collie A, Clay F, Gensby U, Jennings PA, Hogg-Johnson S, Kristman V, Laberge M, McKenzie D, et al. Effectiveness of Workplace Interventions in Return-to-Work for Musculoskeletal, Pain-Related and Mental Health Conditions. An Update of the Evidence and Messages for Practitioners. J Occup Rehabil. 2017. p. 1–15.
+18. van Vilsteren M, van Oostrom SH, de Vet HCW, Franche R-L, Boot CRL, Anema JR: Workplace interventions to prevent work disability in workers on sick leave. Cochrane Database Syst Rev. 2015;(10):1–91.
+19. Nigatu YT, Liu Y, Uppal M, McKinney S, Rao S, Gillis K, Wang J. Interventions for enhancing return to work in individuals with a common mental illness: systematic review and meta-analysis of randomized controlled trials. Psychol Med. 2016;46(16):3263–74.
+20. Vogel N, Schandelmaier S, Zumbrunn T, Ebrahim S, de Boer WEL, Busse JW, Kunz R. Return-to-work coordination programmes for improving return to work in workers on sick leave. Cochrane Database Syst Rev. 2017;(3):1–102.
+21. Karlson B, Jonsson P, Palsson B, Abjornsson G, Malmberg B, Larsson B, Osterberg K. Return to work after a workplace-oriented intervention for patients on sick-leave for burnout–a prospective controlled study. BMC Public Health. 2010;10:301.
+22. Eklund M, Erlandsson LK. Return to work outcomes of the Redesigning Daily Occupations (ReDO) program for women with stress-related disorders–a comparative study. Women Health. 2011;51(7):676–92.
+23. Karlson B, Jonsson P, Osterberg K. Long-term stability of return to work after a workplace-oriented intervention for patients on sick leave for burnout. BMC Public Health. 2014;14:821.
+24. Salomonsson S, Santoft F, Lindsäter E, Ejeby K, Ljótsson B, Öst L-G, Ingvar I, Lekander M, Hedman-Lagerlöf E. Cognitive–behavioural therapy

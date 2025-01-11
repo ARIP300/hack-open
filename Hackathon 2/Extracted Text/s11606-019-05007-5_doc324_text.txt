@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# A CASE OF ACUTE PERICARDITIS
+
+Christine Chan 1; Natalie Kappus 2; Stefanie Reiff 3. 1 NYU Langone Health, Brooklyn, NY; 2 NYU Langone Brooklyn, Brooklyn, NY; 3 NYU Langone Hospital - Brooklyn, Brooklyn, NY. (Control ID #3147048)
+
+# LEARNING OBJECTIVE #1:
+
+Explain how the hemodynamics of pericarditis can produce the clinical manifestations (signs and symptoms) seen in pericarditis.
+
+# LEARNING OBJECTIVE #2:
+
+Categorize the progressive electrocardiogram stages consistent with pericarditis.
+
+# CASE:
+
+A 70 year-old female with hypertension and diabetes presented to the hospital with a one-day history of non-positional, left-sided chest pain associated with shortness of breath and subjective fevers. Physical exam and vitals were unremarkable. Work up included three negative troponins, EKG in normal sinus rhythm (Figure 1), and D-Dimer of 1100 ng/mL. CTA chest revealed a right subsegmental middle lobe filling defect consistent with pulmonary embolism for which patient was initiated on anticoagulation with resolution of chest pain. Approximately 24 hours after initial presentation the patient reported a new chest pain described as sharp, pleuritic, worse with lying flat and improved with sitting forward. Vitals revealed fever to 100.5 F. Repeat EKG demonstrated diffuse ST elevations (Figure 2). Labs showed a negative troponin and ESR and CRP at 63 mm/hr and >190 mg/L, respectively. Echo showed a trace pericardial effusion, normal ejection fraction, and no evidence of right heart strain. The patient was diagnosed with acute pericarditis and initiated on colchicine and NSAIDs with resolution of symptoms. Common causes for pericarditis including viral URI, TB, connective tissue disorders, and malignancy were ruled out with a negative review of symptoms, subsequent laboratory analysis and additional history from the patient's primary care provider. Given the unlikeliness of other etiologies, her acute pericarditis was felt to be secondary to her pulmonary embolism.
+
+# IMPACT/DISCUSSION:
+
+Between 80-90% of pericarditis cases are idiopathic or presumed to be of viral etiology. Given the relatively benign course of the majority of causes of pericarditis a definitive work up is often not performed. However, this case highlights an additional "can't miss" cause of pericarditis - pulmonary embolism. Although rare, post-pulmonary embolism pericarditis is a well-documented phenomenon associated with elevated ESR, CRP, and low-grade fevers as in this patient's presentation. Proposed mechanisms include increased friction of an enlarged pulmonary artery and right ventricle against the pericardium and an immunologic response, similar to Dressler syndrome.
+
+# CONCLUSION:
+
+Despite being a known cause of pericarditis, pulmonary embolism is frequently overlooked or completely excluded from clinicians' differentials. Although the exact cause of pericarditis is often unknown, in patients with idiopathic pericarditis with no infectious signs, pulmonary embolism should always be considered based on history and physical exam findings to avoid missing a "can't miss" diagnosis.
+
+# A CASE OF AMIODARONE-INDUCED SWEET SYNDROME
+
+Aditya Singh; Junior Uduman. Henry Ford Hospital, Detroit, MI. (Control ID #3183653)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and differentiate Sweet syndrome (acute febrile neutrophilic dermatosis) from an infectious process.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize amiodarone as a potential cause of drug-induced Sweet syndrome.
+
+# CASE:
+
+Our patient was a 41-year-old Caucasian male, with a past medical history of atrial fibrillation (Afib), non-ischemic cardiomyopathy (Ejection Fraction 9 %), and diabetes mellitus presented to the hospital with signs and symptoms of decompensated heart failure and skin lesions. He was febrile and had innumerable tender, pruritic, violaceous, annular plaques with central ulceration which had a contiguous centripetal spread from extremities extending to abdomen and chest over a period of 2 weeks. Careful medication review suggested recent re-initiation of amiodarone for Afib. Additional history revealed similar rashes in the past which were temporally related to amiodarone use. Interestingly each subsequent exposure resulted in increased severity and rapidity of skin lesions. Thought to be infectious in origin the patient had been treated with antibiotics each time, however, the patient identified improvement after stopping the offending drug. Differential diagnosis included amiodarone-induced adverse drug reaction, leukocytoclastic vasculitis, Sweet syndrome, IgA dermatosis, atypical infection or septic thrombi. Autoimmune serology was unyielding and empiric antibiotics failed to improve skin lesions. Confirmatory punch biopsy of the lesions revealed perivascular neutrophilic dermal infiltrate consistent with Sweet syndrome. Due to the severity of the disease and systemic involvement intravenous methylprednisolone was initiated, resulting in rapid clinical remission of symptoms, cutaneous lesions, and leukocytosis.
+
+# IMPACT/DISCUSSION:
+
+Sweet syndrome is characterized by a constellation of fever, neutrophilia, tender erythematous skin lesions with diffuse perivascular neutrophilic dermal infiltrate. It has been correlated with inflammatory bowel disease, antecedent respiratory/gastrointestinal infection, active malignancy, autoimmune disease, vaccines, and medications. Pathophysiologically hypersensitivity reaction is thought to play a role, given recurrence of the dermatosis with re-exposure of the offending agent and prompt response to corticosteroid therapy, as demonstrated in our patient. Amiodarone has been associated with various dermatological reactions, including photosensitivity, blue/grey hyperpigmentation and rarely vasculitis. The temporal association with amiodarone in our patient highlights amiodarone as a potential cause of drug-induced Sweet syndrome, which to the best of our knowledge has not been previously described in the literature.
+
+# CONCLUSION:
+
+Sweet syndrome can resemble an infectious process, usually, patients receive antibiotic treatments before glucocorticoid therapy, delaying definitive treatment. Hence clinicians should maintain a high suspicion of drug-induced Sweet syndrome in such patients, in order to improve patient-related outcomes.
+
+# A CASE OF CLANDESTINE CANCER: INCREASING AWARENESS OF NON-HEMATOLOGIC CANCERS IN PATIENTS WITH ATAXIA TELANGIECTASIA
+
+Britney N. Bell1; Naomi Habib1; Mital Patel2. 1Creighton University Residency, Phoenix, AZ; 2University of Arizona/Dignity Health Cancer Center, Phoenix, AZ. (Control ID #3186533)
+
+# LEARNING OBJECTIVE #1:
+
+To discuss ataxia-telangiectasia and oncologic sequelae to better equip providers in the diagnosis of carcinomas in these patients.
+
+# LEARNING OBJECTIVE #2:
+
+To discuss the occurrence and severity of gastric adenocarcinoma in patients with ataxia-telangiectasia.
+
+# CASE:
+
+A 25-year-old female with ataxia-telangiectasia (A-T), diagnosed at age 7, who presented with a 2-month history of progressive nausea and mid-

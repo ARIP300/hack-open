@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# BACTEREMIA AND RENAL/PERINEPHRIC ABSCESSES WITH LACTOBACILLUS JENSENII AND PREVOTELLA BIVIA IN A YOUNG WOMAN FOLLOWING URETERAL STENTING
+
+Abhinav Mohan1; Jacob Rubin; Priyank Chauhan1; German E. Giese2; Juan C. Lemos Ramirez1. 1 Memorial Healthcare System, Pembroke Pines, FL; 2 Florida Atlantic University, Fort Lauderdale, FL. (Control ID #3182159)
+
+# LEARNING OBJECTIVE #1:
+
+To describe predisposing factors leading to renal and perinephric abscesses caused by L. jensenii and P. bivia in a young immunocompetent individual.
+
+# LEARNING OBJECTIVE #2:
+
+To present a successful antibiotic treatment regimen against L. jensenii and P. bivia.
+
+# CASE:
+
+We report a 26-year-old woman with history of renal cyst, recent nephrolithiasis with lithotripsy and ureteral stenting, hematuria with stent, and recent antibiotic use who presented to ED with right flank pain, fever, tachycardia, and leukocytosis. CT abdomen/pelvis showed right-sided renal and perinephric abscesses. Empiric meropenem was started. Renal abscess was percutaneously drained, and cultures grew Lactobacillus, Streptococcus anginosus and mixed anaerobes. Blood cultures grew Lactobacillus jensenii. Patient was switched to ceftriaxone and metronidazole and repeat blood cultures taken three days later were negative. One week later, repeat CT scan showed growing right perinephric abscesses. The largest was percutaneously drained and culture grew Prevotella bivia. CT urogram revealed no abnormal fistulous tracts. Patient clinically improved and was discharged on ceftriaxone and metronidazole with percutaneous drains in place. After 2 weeks, repeat CT scan showed near-complete resolution of all abscesses. Drains were removed and antibiotics discontinued. Patient was clinically asymptomatic until two months later, when she developed Gardnerella-positive bacterial vaginosis with undetectable Lactobacillus levels in the vaginal flora.
+
+# IMPACT/DISCUSSION:
+
+Lactobacillus jensenii and Prevotella bivia are normally protective, commensal organisms in the female genital tract. Clinical disease caused by these organisms is rare in young and/or immunocompetent persons; in fact, Lactobacillus infection is associated with high mortality due to frequent co-presentation with severe comorbid illness. In our patient, nephrolithiasis-induced urinary stasis, elimination of competing microflora with prior antibiotics, recent ureteral stenting, and history of renal cyst all created a favorable environment for L. jensenii abscess development. Subsequent clearance of L. jensenii, which normally inhibits P. bivia, then allowed for P. bivia abscess growth. Clinical resolution with ceftriaxone and metronidazole (along with interventional drainage) confirmed data from in vitro antibiotic susceptibility testing studies. Overtreatment of Lactobacillus may increase risk of bacterial vaginosis.
+
+# CONCLUSION:
+
+To our knowledge, there are no existing reports of a single patient with multiple, simultaneous abscesses in the renal system caused by L. jensenii and P. bivia, two normally commensal microorganisms. However, in our case, a series of factors led to a favorable environment for these organisms to produce clinical kidney infection in an immunocompetent patient. Resolution required targeted interventional drainage and appropriate antibiotic therapy.
+
+# BACTERIAL MENINGITIS MASQUERADING AS ACUTE ST ELEVATION MI
+
+Eric W. Leland1; Rahul Dasgupta2. 1 Summa Akron City Hospital, University Heights, OH; 2 Summa Health, New Albany, OH. (Control ID #3186440)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose and treat CNS infections despite disparate symptomatology.
+
+# LEARNING OBJECTIVE #2:
+
+Quickly and effectively amend your treatment approach when presented with new information.
+
+# CASE:
+
+50 year old male with hypertension and moderate alcohol and tobacco use presents to the ER complaining of "pain all over" including headache which woke him from sleep, right sided chest, back, and leg pain. Upon arrival to the ER, he was hypertensive with a blood pressure of 178/128 and bradycardic with a heart rate in the 40s. EKG showed ST elevation in leads II, III and aVF, and troponin was 13. He was sent to the cath lab where a 100 percent right coronary artery occlusion was noted. Multiple attempts were made to cross the RCA lesion without success and therefore this was thought to be a chronic total occlusion. He was then sent to the ICU for post-procedure monitoring at which time his mental status precipitously deteriorated. He was intubated for airway protection and a team stroke was initiated. CT head showed no acute hemorrhage or cortical infarction and no other significant pathology. During this time, he became febrile and his level of consciousness continued to decline. Later on day hospital day two, his blood cultures showed positive streptococcus pneumoniae, and he was started on broad spectrum antibiotics with ampicillin, ceftriaxone and vancomycin. MRI showed cerebral edema concerning for meningitis which was confirmed with positive LP on hospital day 5. His antibiotic regimen was deescalated to ceftriaxone after sensitivities resulted, and was prescribed six weeks of antibiotic therapy. His hospital course was further complicated by a GI bleed caused by duodenal ulcers which resulted in bi-hemispheric cortical ischemic stroke on MRI which resulted from acute anemia. A tracheostomy and PEG tube was placed 13 days into his hospitalization. He also developed C diff colitis and a re-bleed of his duodenal ulcers on hospital day 20. He was discharged 25 days after initial presentation to a rehab facility for further antibiotics and therapy.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the importance of having a broad differential diagnosis for every patient, no matter how vague the complaint. This patient presented with non-focal complaints other than a headache that woke him up from sleep. The care team then was forced to pursue a cardiac pathology as the cause of his complaints due to EKG changes and elevated troponins. However, the true culprit of his illness was quickly identified less than 24 hours after presentation due to his declining mental status and worsening encephalopathy. The care team did well to swiftly and empirically treat his bacterial meningitis.
+
+# CONCLUSION:
+
+Although his hospital course was complicated by downstream effects of a long ICU, his prognosis very well could have been much graver had the care team not quickly identified a central nervous system infection. This case presentation reiterates the importance of having the ability to quickly amend one's diagnosis and resultant management.
+
+# BACTRIM INDUCED HYPERKALEMIA: A WIDELY USED ANTIBIOTIC WITH A SERIOUS ADVERSE EFFECT
+
+Shahrzad Shidfar. umassmemorial, Worcester, MA. (Control ID #3184337)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hyperkalemia as a less common but clinically important adverse effect of hyperkalemia.
+
+# LEARNING OBJECTIVE #2:
+
+Assess need for antibiotic treatment even if it is a generally well tolerated antibiotic.
+
+# CASE:
+
+A 53-year-old man with seizure disorder, hypertension controlled with lisinopril and enucleated right eye due to neurofibromatosis type 2 and chronic osteomyelitis of frontal bone presented with two-day history of worsening left-sided muscle twitching and pain. Pain was severe and aching from the left side of his face down to his leg. He described the aching as a "twitching" but without visible rhythmic motions. This was in conjunction with left lip numbness and associated dysarthria and worsening left-sided weakness. He had these symptoms before though they happened infrequently and lasted no more than five minutes. Now, the

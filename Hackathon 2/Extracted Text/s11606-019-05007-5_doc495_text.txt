@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+was also started on NAC protocol for possible tylenol toxicity. Ultrasound abdomen showed mild splenomegaly and normal examination of the liver. Urine drug screen was negative. Blood cultures and tests for tick borne disease remained negative. The patient later confessed to taking her "horse's bute" i.e. phenylbutazone which was her horse's painkiller for back pain after she sprained her back and was most likely the cause of her presentation. Antibiotics were discontinued. Her blood counts, creatinine and LFTs improved with hydration.
+
+# IMPACT/DISCUSSION:
+
+Impact: This case illustrates the adverse effects of taking phenylbutazone, including pancytopenia, elevated liver enzymes and kidney injury. It also demonstrates that taking a good history and performing a thorough medication reconciliation can guide the diagnosis. Phenylbutazone, commonly known as "bute", is an NSAID which was originally introduced in the early 1950s as one of the "wonder drugs" to treat rheumatoid arthritis and gout. Eventually in the early 1980s, it was banned from human use due to its severe side effects. However, it continues to be used in veterinary medicine as a pain killer. The most serious adverse effects are related to bone-marrow resulting in pancytopenia and aplastic anemia. Other serious reactions include gastric ulceration with bleeding, hepatitis, renal failure, heart failure, respiratory and/or metabolic acidosis, coma and death. The mainstay of treatment is aggressive supportive care.
+
+# CONCLUSION:
+
+Commonly called as "Bute", while it is not currently available for human consumption, it is still available for use in livestock. It is important for clinicians to recognize the side effects and also realize the abuse potential in patients with access to livestock.
+
+# NOT JUST FOR KIDS: MECKEL'S DIVERTICULUM CAUSING ACUTE LOWER GASTROINTESTINAL BLEEDING IN AN ADULT
+
+Iris Huang. University of California, San Francisco, San Francisco, CA. (Control ID #3183679)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Meckel's diverticulum as a cause of acute lower gastrointestinal (GI) bleeding in adults
+
+# LEARNING OBJECTIVE #2:
+
+Recognize early predictors of severity in acute lower GI bleeding
+
+# CASE:
+
+33 year-old Asian male with medical history of hemorrhoids presented to urgent care with 8 episodes of bloody diarrhea, diffuse abdominal pain and dizziness for one day. He denied fever, vomiting, rectal pain, medication, alcohol or drug use, travel or sick contacts. Physical exam showed an anxious appearance, diffuse abdominal tenderness and blood on rectal exam. He did not have fever, jaundice or hemorrhoids. Sitting blood pressure (BP) was 130/70 and heart rate (HR) was 100; standing BP 86/64 and HR 140. Initial hemoglobin was 13 g/dL. After referral to the emergency department (ED), he had more bloody diarrhea and hemoglobin decreased to 10 g/dL in 6 hours. In the next 12 hours, he was transferred to the Intensive Care Unit and started on massive transfusion protocol and pressors for hypovolemic shock. Upper endoscopy (EGD), colonoscopy and Interventional Radiology angiogram did not reveal a bleeding source. Retrograde double-balloon enteroscopy revealed a diverticulum at the terminal ileum with ulceration consistent with a Meckel's diverticulum (MD). After surgical resection of the MD, his GI bleeding finally stopped. He was discharged home 1 week later.
+
+# IMPACT/DISCUSSION:
+
+MD is typically associated with GI bleeding in children. About 25-50% of symptomatic MD cases present under 10 years of age (Park, 2005). Certain clinical features increase the probability of MD in adults: younger age, male sex, lack of risk factors for alternative causes of GI bleeding and no source identified on EGD and colonoscopy. The patient presented to urgent care with several important clinical features: tachycardia, orthostatic hypotension, gross blood on rectal exam and bleeding during the first 4 hours of evaluation. Strate (2003) identified these features along with non-tender abdomen, aspirin use and multiple co-morbidities as early predictors of severity in acute lower GI bleeding. Multiple features correlated with more severe bleeding. The initial outpatient evaluation of acute GI bleeding assesses hemodynamic stability. His sitting blood pressure of 130/70 appeared misleadingly stable. Measurement of standing vital signs revealed severe orthostatic hypotension (BP 86/64 and HR 140). These high-risk features prompted urgent referral to the ED where severe hypovolemic shock developed within hours.
+
+# CONCLUSION:
+
+MD is an uncommon cause of acute GI bleeding in adults that should be considered in younger adults who lack risk factors for alternative causes and have normal EGD and colonoscopy. Early predictors of severity in acute lower GI bleeding include tachycardia, orthostatic hypotension, gross blood on rectal exam and bleeding during the first 4 hours of evaluation. Patients with acute GI bleeding may present with normal blood pressure while sitting. Orthostatic blood pressure should also be used to assess hemodynamic stability.
+
+# NOT JUST HYPERALGESIA: DIFFUSE PAIN DUE TO MULTI-FOCAL OSTEONECROSIS IN A LUPUS PATIENT
+
+Callie Plafkin; Tiffany Lin. University of Wisconsin Hospital and Clinics, Madison, WI. (Control ID #3138587)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize osteonecrosis as a common cause of bone pain in lupus patients
+
+# LEARNING OBJECTIVE #2:
+
+Recognize systemic lupus erythematosus and corticosteroid use as risk factors for avascular necrosis
+
+# CASE:
+
+We present a case of a 22-year-old female patient with a history of systemic lupus erythematosus (SLE), complicated by lupus nephritis, antiphospholipid syndrome, Libman-Sacks endocarditis, multifocal cerebral infarcts, pericardial effusion, arthralgias, cytopenias (leukopenia, thrombocytopenia), hypocomplementemia, and positive serologic markers (double-stranded DNA, anti-Smith, and antinuclear antibodies), on chronic corticosteroids and immunosuppressants, who presented with diffuse bone pain. Her primary team was initially concerned for lupus flare versus hyperalgesia or diffuse pain syndrome. The pain was described as affecting ‘all of her bones,' more prominent in the lower extremities, and different in character and location (more diffuse) compared to her prior lupus flares. She noted mild knee swelling, but no other swollen joints. Aside from one oral ulcer, she lacked other symptoms suggestive of lupus flare, including rashes, nasal ulcers, alopecia, or hematuria. Her exam was notable for diffuse tenderness, most prominent over the bilateral shins and calves. She had mild bilateral knee effusions without other evidence of synovitis. Labs showed stable blood counts, normal inflammatory markers, normal complement levels that were higher than her prior baseline, normal anti-double-stranded DNA antibody titer, and normal creatine kinase. A diagnosis of tacrolimus pain syndrome was considered, though deemed unlikely when tacrolimus level returned undetectable. Bilateral knee and ankle radiographs were unremarkable. MRI revealed multifocal osteonecrosis involving the left femoral condyles, left patella, left proximal tibial metaphysis, right distal femur and proximal tibia, and bilateral femoral heads, and avascular necrosis was determined to be the cause of the patient's widespread bone pain.
+
+# IMPACT/DISCUSSION:
+
+Avascular necrosis (AVN) is a common complication affecting SLE patients. Among the most important risk factors for AVN is corticosteroid (CS) use—both duration and total cumulative dose. Some studies suggest concomitant use of immunosuppressants may amplify this risk. Notably, SLE seems to be an independent risk factor for AVN, as AVN occurs more frequently in patients with lupus than in those receiving comparable CS doses for alternate diagnoses. MRI is the diagnostic test of choice. Multifocal AVN should be considered on the differential in lupus patients presenting with widespread bone pain without clear alternate etiology.
+
+# CONCLUSION:
+
+This case illustrates the importance of maintaining a broad differential for diffuse pain in a lupus patient, beyond merely lupus flare and hyperalgesia, and to further investigate alternate diagnoses when labs and symptomatology are not consistent with a lupus flare. Avascular necrosis should be considered as an etiology of bone pain in the SLE patient.

@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# HCT Utilization in ON and NY Stratified by Patient Age
+
+Utilization of HCT was 25.2 per million population per year in NY and 16.4 per million per year in ON (p<0.001). The magnitude of the NY-ON difference in utilization was larger for older patients.
+
+# CONCLUSIONS:
+
+We found significantly lower utilization of HCT in ON compared to NY. HCT recipients in NY also were significantly older and more likely to reside in high-income neighborhoods compared to ON HCT recipients. These differences should inform HCT policy in both jurisdictions.
+
+# Utilization Patterns, Expenditures, and Estimated Savings Associated with Analog or Human Insulin Products in the Medicare Part D Program
+
+Jing Luo; Aaron Kesselheim. Brigham and Women, Boston, MA. (Control ID #3185059)
+
+# BACKGROUND:
+
+High cost insulin analogs (e.g. glargine) are frequently used to treat patients with type 2 diabetes in the US. Recent evidence shows that switching older adults with type 2 diabetes from analog to lower cost human insulin (e.g. NPH or human premixed 70/30) is not associated with worsened glycemic control or increased risk of hypoglycemia and may result in cost savings for payors and patients. We sought to describe utilization patterns and expenditures for analog and human insulins separately in the Medicare drug benefit program and to estimate potential savings under 3 counterfactual scenarios between 2012 and 2016.
+
+# METHODS:
+
+We used the Medicare Part D Spending Dashboard, which summarizes data available the Part D Prescription Drug Event (PDE) data to tabulate volume (where 1 dosage unit = 1 ml = 100 IU insulin) and expenditures for human or analog insulin products from 2012 to 2016. We included all standard strength insulin formulations except inhaled insulin. To estimate potential savings and informed by literature, we considered 3 counterfactual scenarios: 1) optimistic, where utilization in Part D was 70% human and 30% analog, 2) moderate, where utilization was 50% human and 50% analog and 3) pessimistic, where the overall proportion represented by analogs was 10% less than observed each calendar year. We report gross and net expenditures for the observed and counterfactual scenarios, after accounting for a class-specific 25% rebate. We inflated all dollars to 2016 using the CPI-U.
+
+# RESULTS:
+
+Our sample included 8 human and 19 analog insulin products. The number of beneficiaries increased from 4.1 million in 2012 to 5.2 million in 2016. Similarly, the volume of insulin dispensed increased from 389 million units to 486 million units. The mean units dispensed/beneficiary was 94.8 (range 92.8 to 96.1). The proportion of insulin dispensed as analogs increased from 78% in 2012 to 83.6% in 2016. Gross expenditures for all insulin products increased from $4.9 billion in 2012 to $11.9 billion in 2016, a cumulative total of $43.7 billion. The estimated 5-year savings under optimistic, moderate, and pessimistic counterfactual scenarios, inclusive of rebates, would have been $11.6 billion, $7.2 billion and $2.2 billion, respectively.
+
+# CONCLUSIONS:
+
+Most insulins dispensed in the US Medicare drug benefit program were for analog products. Where it may be clinically appropriate, increased utilization of comparable human insulin products may result in substantial savings for Medicare.
+
+# Utilizing a Novel Adaptive E-Learning Product Within a Large Internal Medicine Residency Training Program
+
+Michael Healy1, 2; Emil R. Petrusa1; Craig Noronha3; Carl Gustaf Stefan Axelsson 1; Ole-Petter R. Hamnvik 4, 2; Melissa Elmore 2; Leokadia Marchwinski2; Matthew O'Rourke2; Roy Phitayakorn1, 2. 1Massachusetts General Hospital, Harvard Medical School, Boston, MA; 2NEJM Group, Waltham, MA; 3Boston Medical Center, Boston University School of Medicine, Boston, MA; 4Brigham and Women's Hospital, Harvard Medical School, Boston, MA. (Control ID #3176864)
+
+# BACKGROUND:
+
+There is limited research about the impact of test preparation tools on subsequent resident performance on formal assessments. Question banks are a popular and widely used form of test preparation, and some studies suggest that question banks help learners reinforce knowledge and assess their individual learning needs. However, it is unclear how learners should use question banks to best maximize their knowledge retention. The objective of this pilot study was to examine how internal medicine residents utilized the NEJM Knowledge+ Internal Medicine Board Review (NEJM Knowledge+) product as an examination preparation tool and to measure their resulting performance on subsequent quizzes and exams.
+
+# METHODS:
+
+Participants were 69 residents (29 interns, 29 second-year residents, 10 third-year residents, and 1 chief resident) from a single internal medicine residency program. As compensation for participation, these residents were provided access to NEJM Knowledge+ starting in the beginning of the 2018 academic year to use independently for one year. Resident demographics, performance on a locally developed 60 question pre-test, and performance on the 300 question 2018 ACP Internal Medicine In-Training Examination were collected. Usage of NEJM Knowledge+ was monitored based upon the percent of progress made within the product. A correlation was computed between scores on the local test and the in-training exam. Finally, differences in the percent of progress made within NEJM Knowledge+ were calculated.
+
+# RESULTS:
+
+The correlation between performance on the local pre-test and the in-training exam was 0.53 (p=<0.0001), indicating a moderately positive relationship. Collectively, 48 residents (69.6%) made progress within NEJM Knowledge+. Question sets in each of the 18 topics were completed, with the highest number of residents answering question sets correctly in cardiology (n=43, 62.3%), while the topic with the fewest was otolaryngology (n=4, 5.8%). There were no significant differences in progress within NEJM Knowledge+ between training years via the total number of question sets or the number of topic-specific question sets answered correctly.
+
+# CONCLUSIONS:
+
+The NEJM Knowledge+ product was used by a majority of the residents in this pilot study. Pre-test performance correlated with in-training examination scores, which opens the possibility of using the pre-test results to coach residents on effectively using the NEJM Knowledge+ product to address their existing knowledge gaps.
+
+# Utilizing Geospatial Models for Identification of Patients at Risk for Hepatitis C Infection
+
+Thomas Ludden1; Lindsay Shade1; Jeremy Thomas1; Brisa Hernandez1; Sveta Mohanan1; Michael Leonard1; Mark Russo2; Jewell Carr1; Philippe Zamor2; Hazel Tapp1. 1Atrium Health, Charlotte, NC; 2CHS, Charlotte, NC. (Control ID #3161058)

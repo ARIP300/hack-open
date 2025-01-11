@@ -1,0 +1,66 @@
+# JGIM
+
+# ABSTRACTS
+
+# Further guidance on the appropriateness and effectiveness of the delivery of various facets of care through secure messaging may aid both clinicians and patients. Future work will explore patient understandings of appropriateness and misuse.
+
+# WHAT MAKES A MEDICAL STUDENT LEADER? AN EXPLORATORY STUDY OF STUDENTS' PERSPECTIVES ON LEADERSHIP
+
+Alison M. Holliday1; Galina Gheihman1; Erin E. Sullivan1; Amy M. Sullivan1; Rebecca Karp Leaf2, 1. 1Harvard Medical School, Boston, MA; 2 Massachusetts General Hospital, Boston, MA. (Control ID #3184898)
+
+# BACKGROUND:
+
+Physicians hold leadership roles within healthcare and within spheres of education, business, and government. Yet few medical students receive formal leadership training. While medical schools are beginning to recognize the need for a leadership curriculum, there is a gap in understanding of how students view themselves as leaders. We conducted an exploratory study to characterize medical students' perception of leadership and identify areas of improvement in leadership training at a top medical school.
+
+# METHODS:
+
+Two open-ended questions related to leadership were included as part of a larger cross-sectional survey between June and August 2018 at Harvard Medical School. We invited 753 students by email to complete a web-based survey with five follow-up reminders. We asked students to describe via free text responses: 1) characteristics and behaviors of successful medical students, and 2) what being a leader as a medical student means. We analyzed results in aggregate but separate from primary survey responses and used qualitative content analysis to identify major themes.
+
+# RESULTS:
+
+The primary survey response rate was 64% (n=485); 467 (96%) of those participants completed the free-text responses. The scope and frequency of successful medical student characteristics and behaviors identified by respondents is shown in a word cloud. Qualitative content analysis to analyze what being a leader means to students revealed three major themes: 1) domains in which students could demonstrate leadership: classroom, clinical domain, and wider society; 2) leadership qualities: adaptable, emotionally intelligent, diligent; and 3) leadership practices: supporting others, taking initiative, staying true to one's values, demonstrating resilience and vulnerability, maintaining a healthy lifestyle, and showing humility, among others.
+
+# CONCLUSIONS:
+
+Medical students see an important role for student leaders in the classroom, the clinical setting, and within society at large. Curricula should be developed to build leadership skills and practices aligned with themes identified by students—fostering courage, resilience, vulnerability, self-care, integrity, and commitment to serving others. Practicing these qualities and behaviors may help individuals demonstrate student leadership, becoming effective team members, providing excellent clinical care, and maintaining their own sense of wellbeing.
+
+# Figure 1. Student responses to the open-ended query; "In your opinion, a successful medical student has the following characteristics and behaviors:"
+
+Humble, Ability, Ethical, Curious, Stay dedicated, Situations, Works, Know, Hardworking, Social, Eager, Being, Patience, Earn, Think, Patient, Open, Teamwork, Always, Curiosity, Very, Empathy, Will, Drive, Kind, Caring, Learning, Motivated, Knows, Intelligent, Criticism.
+
+# WHAT STUMPS PRIMARY CARE CLINICIANS? FIRST PHASE ANALYSIS OF DIAGNOSTIC UNCERTAINTY CASES
+
+Lucia S. Sommers1; Viralkumar Vaghani2, 3; Traber Giardina2, 3; Hardeep Singh4. 1University of California, San Francisco, San Francisco, CA; 2Baylor College of Medicine, Houston, TX; 3Center for Innovations in Quality..., Houston, TX; 4Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, TX. (Control ID #3148418)
+
+# BACKGROUND:
+
+Diagnostic difficulty is frequent in primary care, yet we know little about situations that present uncertainty to primary care practitioners (PCPs). We explored how PCPs discuss diagnostic conundrums with colleagues, frame dilemmas, and seek/receive support. These findings could advance understanding of knowledge/cognitive problems contributing to diagnostic error.
+
+# METHODS:
+
+We analyzed data from 459 uncertainty cases compiled by the first author while PCPs presented cases to peers in "Practice Inquiry Colleague Groups" conducted at 17 San Francisco-Bay Area PCP practices from 10/2002 to 9/2015. Clinicians discussed patients where they encountered uncertainty of any type (e.g., diagnostic, ethical) for ideas and support. Meeting notes on each case included: 1) PCP presenter's uncertainty statement; 2) patient's medical history; and 3) Colleague Group's discussion summary. We assessed meeting notes for diagnostic uncertainty building on criteria developed in prior work on measuring uncertainty from EMR review. Specific data collected for analysis: presenters' uncertainty statement, abnormal physical exam, abnormal test/imaging findings; diagnoses/conditions under consideration by presenter; and patients' prior diagnoses/known conditions. Two authors analyzed data using a consensus approach to reconcile differences.
+
+# RESULTS:
+
+Of 459 cases discussed, 258 (56%) involved diagnostic uncertainty. Most cases involved women (61%); median age decade 50-59 years. Most (93%) had one or more physical complaints and/or abnormal findings. (See Table.) Colleagues speculated about specific diagnoses/conditions contributing to uncertainty in 129 cases (50%); of these, 27% were mental/behavioral/neurodevelopmental conditions. They discussed patients' prior diseases/known conditions related to the uncertainty in 183 (71%) cases; of these, 17% were mental/behavioral/neurodevelopmental conditions. Adverse events were reported in 14% of cases including 6 deaths.
+
+# CONCLUSIONS:
+
+Practice inquiry-based techniques illustrate unique diagnostic uncertainties faced by PCPs. Certain situations, such as patients with mental, behavioral or neurodevelopmental conditions, might pose particular diagnostic challenges. This small-group process also facilitated discussions of diagnostic error and patient harm. We now plan to analyze colleagues' responses to these cases.
+
+# First Phase Findings: What Stumps PCPs?
+
+|PCP Presenters' Data Category|#/% Cases|
+|---|---|
+|Types of Diagnostic Uncertainties (N = 258 cases)| |
+|Non-pain, physical symptom|182 (71%)|
+|Abnormal lab/imaging finding|87 (34%)|
+|Pain symptom|72 (28%)|
+|Possible Diseases/Conditions (ICD-11) (N = 171 diseases/conditions)| |
+|Mental, behavioral or neurodevelopmental disorders|46 (27%)|
+|Diseases of the nervous system|14 (8%)|
+|Diseases of the circulatory system|14 (8%)|
+|Past, Known Diseases/Conditions (ICD-11) (N= 402 diseases/conditions)| |
+|Mental, behavioral or neurodevelopmental disorders|70 (17%)|
+|Endocrine, nutritional or metabolic diseases|50 (12%)|
+|Diseases of the circulatory system|42 (10%)|

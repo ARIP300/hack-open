@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# DEVELOPMENT AND PILOT TESTING OF A TOOL TO IMPROVE GENERIC ORAL CONTRACEPTIVE PILL PRESCRIBING
+
+Gena Lenti1; Hannah Wilson3; Jen Rusiecki1; Vineet M. Arora2. 1University of Chicago, Chicago, IL; 2University of Chicago Medical Center, Chicago, IL; 3University of Chicago Pritzker School of Medicine, Chicago, IL. (Control ID #3185697)
+
+# NEEDS AND OBJECTIVES:
+
+Brand and generic oral contraceptives (OCPs) are therapeutically equivalent, but generics still tend to be under-prescribed. In order to assess barriers to generic OCP prescription, a needs assessment was conducted using focus groups and surveys completed by Primary Care Providers and Nurse Practitioners at American College of Physicians Internal Medicine and American Association of Nurse Practitioners Annual Meetings. Focus groups identified confusion about generic naming as a barrier to prescription. One participant stated, "If you're going to generically prescribe an oral contraceptive…you're going to have to go in there and be savvy enough to be able to ask for that drug based on the generic drug equivalents that are in it." Based on focus group and survey findings, our objective was to develop and test a clinical tool to facilitate generic OCP prescription.
+
+# SETTING AND PARTICIPANTS:
+
+Following development, our tool was disseminated among residents, attendings, and APN's in the University of Chicago Primary Care Group (PCG), and focus groups and surveys were used to explore usefulness and gather feedback on the tool.
+
+# DESCRIPTION:
+
+Our tool consisted of a pocket card designed to clarify OCP nomenclature. The front of the card included benefits of generic medications to be communicated to patients as well as a description of how to use the card. The back of the card comprised of a table of specific types of branded OCPs and their generic equivalents, matched based on estrogen (dose) and progesterone (type and dose) components. The medication types listed in the table were drawn from the University of Chicago PCG most frequently prescribed OCPs, and the card was reviewed by University of Chicago pharmacists and primary care leaders.
+
+# EVALUATION:
+
+Surveys completed before dissemination of the pocket card indicated 63% (n= 38) of participants found the naming of OCPs to be confusing, 74% reported they do not discuss switching to generic OCPs, and 58% were not confident prescribing OCPs without a tool. Provider knowledge of generic OCPs was low, indicated by the fact that 85% and 50% were able to correctly identify Yaz and Ortho-cyclen as brand OCPs, yet only 45% and 29% were able to identify Sprintec and TriNessa as generic. Following dissemination, 100% agreed that the pocket card was understandable, and 89% said the pocket card would be useful in clinical practice. Feedback for improvement of the tool included presence of drug prices, identification of common "go-to" varieties, development of an OCP algorithm, and creation of an online version.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Nomenclature of generic OCPs is confusing and this creates a barrier to generic prescription. An educational tool such as ours may help to fill this knowledge gap among OCP prescribers. In the future, we would like to develop a post-survey for participants to complete after integrating the card into their clinical workflow and to conduct a similar assessment with other physicians who prescribe OCPs, such as obstetrician-gynecologists.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://bit.ly/2VZWZ4P
+
+# DEVELOPMENT AND TESTING OF A WEB MODULE TO IMPROVE GENERIC PRESCRIBING OF ORAL CONTRACEPTIVES AMONG INTERNAL MEDICINE PHYSICIANS
+
+Gena Lenti1; Jeanne M. Farnan1; Arlene Weissman3; Michelle L. Cook4; Marilyn Stebbins8; Christopher Moriates5; Shalini S. Lynch8; Anita Samarth9; James X. Zhang6; September Wallingford7; Neel Shah10; Samantha Ngooi1; David Meltzer1; Vineet M. Arora2. 1University of Chicago, Chicago, IL; 2University of Chicago Medical Center, Chicago, IL; 3 American College of Physicians, Philadelphia, PA; 4 American Association of Nurse Practitioners, Austin, TX; 5Dell Medical School at The University of Texas, Austin, Austin, TX; 6The University of Chicago, Chicago, IL; 7Costs of Care, Quincy, MA; 8University of California San Francisco, San Francisco, CA; 9Clinovations Government and Health, Washington D.C., DC; 10Harvard Medical School, Boston, MA. (Control ID #3185575)
+
+# NEEDS AND OBJECTIVES:
+
+Use of generic oral contraceptives (OCPs) can improve medication adherence and reduce healthcare costs for patients, yet skepticism of generic drugs remains a barrier to generic OCP prescription. Generic skepticism, defined as lack of agreement that generic drugs are as effective as, as safe as, or do not cause more adverse events than brand counterparts, persists among clinicians in many fields and is associated with less willingness to discuss and prescribe generic drugs. While several strategies to reduce generic skepticism and increase generic prescribing have been attempted, none have targeted use of OCPs specifically. An educational web module was developed to reduce generic skepticism related to OCPs, improve knowledge of generic drugs, and increase willingness to discuss and prescribe generic OCPs among physicians.
+
+# SETTING AND PARTICIPANTS:
+
+A baseline survey assessing generic skepticism and prescription of generic drugs was disseminated via email to an ACP research panel. Eligibility criteria selected for physicians specializing in internal medicine and those who spend greater than 50% of time in patient care. The module was sent to physicians who completed this baseline survey.
+
+# DESCRIPTION:
+
+Kern's six step approach to curriculum development was used to develop a generic OCP web-module. A primary needs assessment was completed using focus groups at American College of Physicians (ACP) Annual meetings and a survey targeting baseline generic skepticism. Insights gained from needs assessments were used to build an educational web module discussing benefits to generic OCP prescription. Post-module evaluation assessed learner reaction, knowledge, intention to discuss and prescribe generic OCPs, and changes in generic skepticism.
+
+# EVALUATION:
+
+The module had a response rate of 56% (n=208/369). Individuals defined as generic skeptics at baseline were significantly less likely to complete our module compared to non-skeptics (responders 9.6% vs. non-responders 16.8%, p=0.04). The majority (85%, n=17/20) of baseline skeptics were converted to non-skeptics (p<0.01) following completion of the module. Compared to non-skeptics, post-module generic skeptics reported less willingness to discuss (skeptic 33.3% vs. non-skeptic 71.5%, p<0.01), but not less willingness to prescribe generic OCPs (skeptic 53.3% vs. non-skeptic 67.9%, p=0.25). Non-white physicians and international medical graduates (IMG) were more likely to be generic skeptics at baseline (non-white 86.9% vs. white 69.9%, p=0.01).

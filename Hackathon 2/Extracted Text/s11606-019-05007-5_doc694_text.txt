@@ -1,0 +1,37 @@
+# JGIM
+
+# ABSTRACTS
+
+clinic. (2) To propose and enact improvements to the panel transfer process. (3) To assess the improvement in the panel transfer process following interventions.
+
+# SETTING AND PARTICIPANTS:
+
+A fully-integrated resident primary care practice within an academic primary care center at a tertiary care hospital. Approximately 30 residents graduate each year and transfer their panels to new interns.
+
+# DESCRIPTION:
+
+Empanelment refers to patients being linked with individual primary care providers and care teams in a way that is recognized by the patient, providers, and practice. This is essential to functional primary care, and in particular - as part of the continued shift towards Accountable Care Organizations - practices need to be able to identify a given physician's panel. Resident practices have frequent, predictable turnover, as every year outgoing residents pass along a panel of patients to new interns. Unfortunately, there are no "best practices" for panel transfer. This is a high-risk period for patients, especially those with multiple co-morbidities. We assessed the existing panel transfer process between residents who graduated in 2016 and incoming interns that year. We reviewed a 50% random sample, 15 resident panels with a total of 1439 patients who were transferred. A chart review identified whether the patients were seen over 18 months following transfer and by whom. We selected 18 months to provide a generous margin of error to capture annual visits in addition to chronic disease follow-up. Based on our findings, we enacted several changes of various scale to address gaps in the panel transfer process and to improve empanelment.
+
+# EVALUATION:
+
+We found that 41.6% of patients were not seen by our institution's primary care providers over this period time. On further assessment, the majority were under 40 years old and did not have chronic diseases. However, we found that one third of patients (248) were due for preventative health screening, and that 59 patients with a chronic disease were lost to follow up. There was no apparent difference in attrition based on gender, race/ethnicity, or language.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We enacted multiple changes to improve the panel transfer process. We initiated a personalized letter written by the outgoing physician informing patients of their new provider. We provided dedicated time for graduating senior residents and incoming interns to discuss their patients. We also created a "return to care" order in our electronic medical records that allows for outgoing residents to indicate when patients should return for care, helping the practice to provide outreach for scheduling and better track patients who are lost to follow up. These changes have been in place for six months and we are just beginning to collect data on the utility and efficacy of the changes.
+
+# CHOOSE YOUR OWN ADVENTURE IN INTERPROFESSIONAL EDUCATION
+
+Madelyn Alvarez; Christine J. Kolehmainen; Jessica M. Baier1; Gladys1 2 Roman-Rosado1; Ronda Tippie1; Jo Ellen Uptegraw1; Heather O'Hearn1; Alishea Serwe-Behnke1; Bennett Vogelman3; Molly Carnes4; Robert Holland1. 1William S Middleton Memorial VA Hospital, Madison, WI; 2University of Wisconsin, Madison, WI; 3University of Wisconsin, Madison, Madison, WI; 4University of Wisconsin-Madison, Madison, WI. (Control ID #3184223)
+
+# NEEDS AND OBJECTIVES:
+
+The ACGME requires training in interprofessional (IP) models of care. The University of Wisconsin Internal Medicine (IM) Residency Program developed an interprofessional education (IPE) curriculum using gaming to help learners advance their IPE.
+
+# CLINICALREASONING.ORG: IMPROVING ACCESS AND ENGAGEMENT WITH CLINICAL REASONING TEACHING MATERIALS THROUGH WEBSITE REDESIGN
+
+Gregory M. Ow1; Gabrielle Berger2; Juan N. Lessing3; Denise M. Connor4; Rabih Geha4; reza manesh5; Jeff Kohlwes4; Geoffrey V. Stetson4. 1University of California, San Francisco, San Francisco, CA; 2University of Washington, Seattle, WA; 3University of Colorado, Denver, CO; 4University of California, San Francisco and San Francisco VA Medical Center, San Francisco, CA; 5Johns Hopkins University, Baltimore, MD. (Control ID #3143133)
+
+# NEEDS AND OBJECTIVES:
+
+The Exercises in Clinical Reasoning (ECR) series in the Journal of General Internal Medicine (JGIM) is a unique and growing series of 30 case-based problem-solving manuscripts, designed.

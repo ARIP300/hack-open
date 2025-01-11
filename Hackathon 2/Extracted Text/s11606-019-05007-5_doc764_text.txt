@@ -1,0 +1,63 @@
+# ABSTRACTS
+
+# NEEDS AND OBJECTIVES:
+
+The structure and content of POCUS curricula in outpatient internal medicine (IM) have not been standardized and are understudied. We conducted a novel hands-on model for an introduction to ambulatory POCUS education during IM residency training. Ultrasound (US) evaluation of the median nerve to diagnose carpal tunnel syndrome may be a promising alternative to nerve conduction studies (LR 5.87). The educational objectives for the session were 1/ to successfully locate and measure the median nerve at the wrist 2/ demonstrate principles of US knobology.
+
+# SETTING AND PARTICIPANTS:
+
+18 Internal Medicine residents (PG1-3) at Wake Forest Baptist Medical Center in Winston-Salem, NC participated in an introductory POCUS workshop in a classroom environment during noon conference.
+
+# DESCRIPTION:
+
+A 30-minute hands-on POCUS workshop was conducted. Overview of basic US concepts and the median nerve anatomy at the wrist was reviewed in a brief introductory PowerPoint presentation. Residents were then divided into 4 small groups (4-5 participants) with 1 facilitator and 1 POCUS machine in each group. Only the main instructor was proficient in identifying the median nerve. Residents took turns finding the median nerve on each other, while adjusting the gain and depth to obtain an ideal image for measurement.
+
+# EVALUATION:
+
+The facilitator in each group observed residents using the US and assessed their ability to identify the median nerve, acquire an adequate image, and perform measurements. Residents also completed a survey at the end of the session. By the end of the workshop, 18/18 residents were able to visualize and measure the median nerve. All 18 residents were able to successfully choose the correct transducer, and adjust focus, depth, and gain. All residents either agreed or strongly agreed that this workshop was effective in acquiring basic US principles and gain a better understanding of knobology.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Using the median nerve at the wrist is an easy and effective hands-on model to teach basic US principles. Following the recommendations from the Consensus on a Canadian Internal Medicine US Curriculum (2014), examination of the median nerve 1/ was selected on basis of clinical or educational need, 2/was feasible (both cognitive and technical components of the curriculum could be reasonably taught and learned in a competency-based manner while minimizing potential risks to patients); 3/was evidence-based. The exam is quick and eliminates the need for standardized patients or simulation models. Instructors do not need prior training in neuro-US.
+
+from July 2018 through January 2019. The survey included 11 specific questions about the following areas of intern performance: efficiency, organization, communication, professionalism, and mental health. Evaluees consist of 45 interns, (33 categorical, 12 preliminary). Non-IM interns were excluded. Evaluators consist of senior IM residents who answered "yes" or "no" to each question in the survey where "yes" always indicated a concern.
+
+# DESCRIPTION:
+
+SR accessed the survey on Google Forms by using their smartphones to scan a QR code brought to the workroom by the CR weekly. The SR spent ~5 minute per intern on the following tasks: 1) complete tool, 2) explain concerns, 3) receive feedback on how to coach. The CR followed up on each intern's progress next week with the same survey. If an intern had 2 or more concerns for 2 or more consecutive weeks, they were identified as struggling, and the CR began coaching that intern.
+
+# EVALUATION:
+
+13 of 45 interns were evaluated each week via the QR-FT yielding a total of 194 responses. 41 interns were evaluated total, with a mean of 4 evaluations each. Concerns were raised on 63.4% of interns (n=26). Feedback was not provided in 28 of 66 responses (44%) when a concern was identified. The most common concern related to efficiency: "Has the intern stayed past 6 pm to finish notes?" (46.3%, n=19 interns), and concern was resolved with a mean time of 2.29 weeks. 9 interns were identified as struggling learners via implementation of this tool, as compared to 0 interns identified by the formal evaluations.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The QR-FT identified struggling interns, and showed that SR provided feedback half of the time when a concern was identified. These findings indicate that the tool is feasible, timely, and effective in identifying early concerns and represents a platform to improve coaching of struggling interns. Future directions include measuring SR and intern attitudes toward this tool and ensuring SR follow-through on suggested coaching.
+
+# VALUE-ADDED MEDICAL EDUCATION THROUGH STUDENT DOCUMENTATION: ADOPTING THE CMS RULE CHANGE IN THE MEDICINE SUB-INTERNSHIP
+
+Avni Bavishi3; Jennifer Bierman3; Kathryn Hufmeyer1; Celia O'Brien3; Michael Angarone2; Heather Heiman3. 1Northwestern, Chicago, IL; 2Northwestern university Feinberg School of Medicine, Chicago, IL; 3Northwestern University Feinberg School of Medicine, Chicago, IL. (Control ID #3183130)
+
+# UTILIZATION OF QUICK RESPONSE FEEDBACK TOOL TO IDENTIFY EARLY STRUGGLING INTERNS AND PROMOTE SUPERVISING RESIDENT COACHING
+
+Rita Poon; Adam R. Schertz; Jessica Hollingsworth; George Waits; Andrew Dothard; Hal H. Atkinson; Donna Williams. Wake Forest School of Medicine, Winston-Salem, NC. (Control ID #3179018)
+
+# NEEDS AND OBJECTIVES:
+
+Early identification of struggling interns during internal medicine (IM) residency training is difficult, yet critical. Late identification limits opportunities for early intervention and remediation. Formal evaluations are limited by the length and relative rarity of administration. Supervising residents (SR) are an untapped resource for identifying and assisting struggling interns in real time. Here, we describe the implementation of a tool administered weekly utilizing Quick Response (QR) codes for SR evaluation of interns. This tool was adapted from Loyola University IM Residency Program. We aimed to identify struggling interns, and promote SR coaching in areas of concern.
+
+# SETTING AND PARTICIPANTS:
+
+The QR feedback tool (QR-FT) was administered weekly by chief residents (CR) to SRs rotating on ward services.
+
+# NEEDS AND OBJECTIVES:
+
+Medical students desire meaningful clinical roles, and educators have advocated "value-added" medical education, in which health systems benefit from the presence of learners. In 2018, The Center for Medicare and Medicaid Services (CMS) revised rules to allow students, with appropriate supervision, to document billable notes for patient encounters. We aimed to determine whether students' perception of their notes' value and of their supervisors' engagement and feedback would change after implementation of the rules.
+
+# SETTING AND PARTICIPANTS:
+
+Our primary teaching hospital adopted the revised CMS rules in July 2018. In December 2018, we surveyed 48 fourth-year students who completed their medicine sub-internship during the two months before (group 1) and two months after (group 2) the rules were adopted.
+
+# DESCRIPTION:
+
+Leaders from education, compliance, legal, and information systems developed a hospital-wide policy and workflow permitting billable student documentation of supervised encounters. Students were advised about the change and the intended workflow. Faculty and residents were asked to apply the new policy to medicine sub-intern notes and were provided language for addending student notes.

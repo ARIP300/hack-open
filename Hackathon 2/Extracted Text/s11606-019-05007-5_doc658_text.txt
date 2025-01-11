@@ -1,0 +1,62 @@
+# PAVING A ROAD TO RECOVERY: THREE-PILLARED APPROACH TO IMPROVING DISCHARGE REFERRAL PARTNERSHIPS FOR PATIENTS WITH SUBSTANCE USE DISORDER AND HOUSING INSTABILITY
+
+Nicholas Iverson; Nancy Choi; James Hardy; Meher Singh; Jermaine Blakley; Sarah Imershein; Catherine Lau. UCSF, San Francisco, CA. (Control ID #3177486)
+
+the entire MDT are key to improving referrals and MDT satisfaction. 2) Safe discharges of more complex patients with homelessness and SUD can be coordinated by leadership establishing a direct line of provider-CBO communication. 3) Calculating value to the health system of investment in outpatient services for inpatients with homelessness and SUD demonstrated that these services can be cost-beneficial and improve patient outcomes.
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+In caring for patients with homelessness and substance use disorder (SUD), how can a health system optimize new discharge referral partnerships with community-based organizations (CBO)?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Improve provider education of CBO partner services.
+2. Improve multidisciplinary team (MDT) workflow and satisfaction around discharge of complex patients to CBO partners.
+3. Measure the return on investment (ROI) for a health system paying for extended outpatient services for hospitalized patients with SUD and homelessness.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We describe three components of a partnership between an urban academic hospital's inpatient medicine service and a discharge referral partner Salvation Army Harbor Light (SAHL), a CBO that provides acute detoxification services and opportunity for long term residential treatment. One component is a needs assessment to examine provider understanding of the CBO, followed by targeted education and visits with former patients. A second component improves direct communication between inpatient providers and CBO managers for safe transition of care and examines social worker (SW) satisfaction around discharges. A final component calculates the value equation for the health system to pay for a patient's stay at SAHL up to 30 days, while analyzing pre- and post- referral ED visits, length of stay, and 30-day readmission rates.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Provider knowledge of services at the CBO.
+2. SW satisfaction with providers regarding communication during referrals.
+3. ROI to the health system by decreased ED visits, LOS, and 30-day readmissions.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Component 1: Provider survey (n=33) demonstrated that 54% of providers were not sure or were incorrect about key features of SAHL, and 67% did not feel confident discussing the benefits of SAHL with their patients. Component 2: SW satisfaction survey (n=3) revealed that having providers talk with patients about the CBO prior to referral often made it more difficult to later discuss disposition with patients and requested a change in workflow. An open line of communication between providers and the CBO was established for complex patients, facilitated by SW discussion with the CBO. Component 3: From July 2017 to July 2018, 101 patients have been discharged to the SAHL. Readmission rates decreased from 38% to 19% and number of inpatient days decreased by 1.9, resulting in a direct cost savings of $5,400 per patient.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. Many inpatient providers do not understand the intricacies of CBO partner services to help patients make informed discharge decisions.
+2. Education and improvement of discharge workflow for PEP IT UP: CATALYZING PRACTICE IMPROVEMENT
+
+# PEP IT UP: CATALYZING PRACTICE IMPROVEMENT
+
+Anuradha Phadke1; Jake Mickelsen2; Megan Mahoney3. 1Stanford University School of Medicine, Palo Alto, CA; 2Stanford Healthcare, Palo Alto, CA; 3Stanford University, Palo Alto, CA. (Control ID #3185190)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How do we create an environment that supports front line teams' engagement in continuous quality improvement?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Support front line individuals and teams in conducting rapid-cycle quality improvement projects.
+2. Grow improvement capability by educating participants in quality improvement fundamentals.
+3. Align improvement efforts with division strategic objectives while also addressing front line needs.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Primary Care Performance Enhancement Program (PC-PEP) is a structured quality improvement program within the primary care division at our academic medical center. Its aim is to provide accountability and support for an individual or small team working in one of 13 academic medical center primary care clinics to perform a quality improvement project. Projects are scoped to be completed in less than 8 weeks. Key elements of program structure are as follows: 1) A project is identified in one of two ways: a) a participant with an improvement idea seeks approval to participate from clinic leadership or b) clinic leadership identifies an area of strategic importance for which they solicit a volunteer to lead a project. 2) Participants receive a problem-solving guide and coach to assist them with their project. 3) Participants present their projects in progress at a thirty-minute weekly teleconference check-in. Check-ins serve as an opportunity for participants to ask questions and engage in brief teaching about quality improvement. 4) At the close of projects, participants submit completed project materials, including benefits capture information, to the program team. 5) Program and clinic leadership celebrate participants at a quarterly graduation.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Quantitative measures of program success include: benefits such as annualized time savings, financial saving, and care-delivery improvement.
+2. Percentage of primary care staff and faculty engaged in a PC-PEP project.
+3. Enhanced participant comfort with quality improvement as demonstrated by a pre-post survey.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over the 11 months since this program's inception, PC-PEP has incubated 24 projects across 12 primary care clinics. Over 30 medical assistants and 10 physicians have participated. Project topics have ranged from operations topics such as improving the process of fax management to population health topics such as improving tobacco screening and counseling. Annualized improvements include 6,600 hours in time savings for staff and physicians, approximately $72,000 in annualized.

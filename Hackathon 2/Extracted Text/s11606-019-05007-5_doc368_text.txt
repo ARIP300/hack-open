@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# ACUTE RENAL INFARCTION SECONDARY TO RENAL ARTERY DISSECTION PRESENTING AS ACUTE ABDOMINAL PAIN
+
+Shiva Shankar Vangimalla; Zehra Dhanani; Hannie Batal; Jason Wexler. Medstar Washington Hospital Center, Washington, DC. (Control ID #3186060)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation of acute renal infarction (ARI) given its rarity and non-specific clinical presentation.
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish between various etiologies of ARI to initiate prompt treatment.
+
+# CASE:
+
+A 62 year female with past medical history of atrial fibrillation/flutter status post ablation, complete heart block status post permanent pacemaker insertion, Stanford type A aortic dissection status post endovascular repair, hypertension presented with severe right flank pain, nausea and emesis since 1 day. Vital at admission were - blood pressure (BP) 230/106, heart rate 73 beats per minute, temperature 36.3 C. Initial lab work was notable for elevated white blood cell count (WBC) 11.5 k/uL, serum creatinine 0.64 mg/dl, lipase 93 units/L and lactic acid 1.3 mmol/L. Urine analysis revealed specific gravity 1.013, red blood cells 3, WBC <1, negative leukocyte esterase, and no bacteuria. Computed tomography angiography (CTA) of abdomen/pelvis with IV contrast was concerning for occluded right renal artery with a large infarct and contrast enhancement of only a small portion of upper pole of right kidney. She was started on nicardipine and heparin drip for blood pressure control and anticoagulation immediately. Pain was controlled with fentanyl PCA. Vascular surgery did not recommend any acute surgical intervention as the kidney was unlikely to be salvageable due to the time of onset symptoms. Nephrology recommended continuing observation. Review of the CTA images showed occlusion of the right renal artery 2 cm from its origin and its supply from the false lumen suggestive of renal artery dissection. As her pain and renal function continued to improve over the next few days. She was transitioned to oral anti-hypertensive medications to keep her BP < 130/70. Hospital course was complicated by acute urinary retention and acute urinary tract infection secondary to her PCA use that resolved with insertion of foley catheter and antibiotic coverage. Her serum creatinine peaked at 1.80 mg/dl and improved to 0.63 mg/dl at the time of discharge. She was resumed on oral eliquis for her other anticoagulation needs. At the time of discharge, her presenting symptoms resolved and had a good renal function.
+
+# IMPACT/DISCUSSION:
+
+ARI can be missed easily as there is a lack of awareness among the physicians including the radiologists given its rarity. Prompt identification of etiology may help guide treatment. Conservative management may be reasonable in patients with two functioning kidney and unilateral disease. Optimal treatment is uncertain given limited case reports and the absence of comparative studies.
+
+# CONCLUSION:
+
+High index of clinical suspicion is needed to diagnose ARI. An initial evaluation must include CBC, serum creatinine and lactate dehydrogenase, urine analysis with culture and EKG. CT scan with contrast can help assess renal infarction. Reported treatment approaches include anticoagulation, endovascular therapy, open surgery, and observation depending on the etiology. Prognosis remains unknown.
+
+# ACUTE RETROVIRAL SYNDROME PRESENTING WITH ACUTE LIVER INJURY
+
+Rinad Tabbalat; Kavya Kelagere Mayigegowda; Shazia Samanani. Baystate Medical Center, Springfield, MA. (Control ID #3186878)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that acute antiretroviral syndrome can present with acute liver injury.
+
+# CASE:
+
+A 23-year-old previously healthy male presented with 5 days of nausea, vomiting and diarrhea preceded by one day of flu-like symptoms. He denied any recent travel, exposure to sick contacts or consumption of possibly contaminated food or water. He reports being sexually active with one male partner and recent negative HIV test. On presentation he was febrile to 102.9F. Labs showed white blood cells of 3.1 k/mm3 with 38.4% neutrophils, platelet count 127 k/mm3, AST 1,075 units/L, ALT 1,012 units/L, alkaline phosphatase 71 units/L, and total bilirubin 0.3 mg/dL. Initially there was concern for a possible tick born illness or acute viral hepatitis. Workup included Northeastern tick panel, viral panel for hepatitis A, B and C, infectious mononucleosis antibody, influenza A and B, and RPR for syphilis which were all negative. Additional work up for acute liver injury included acetaminophen level, EBV and CMV serologies which were also negative. Given his high risk profile he was also tested for HIV 4th generation Ab-Ag which came back positive. Absolute CD4 count was 246 and HIV viral load was greater than 10 million, confirming a diagnosis of acute retroviral syndrome. As the patient's viral load began to decrease, so did his transaminitis and shortly after he was started on antiretroviral therapy.
+
+# IMPACT/DISCUSSION:
+
+Signs and symptoms of acute HIV infection are nonspecific, making diagnosis difficult at times. Liver function test abnormalities are not uncommon in HIV patients but these are usually secondary to hepatotoxicity in those taking antiretroviral therapy (ART) or due to co-infection with viral hepatitis. Most clinical studies with severe elevation in liver enzymes (>5X the upper limit of normal) were seen in those taking ART. A review of the literature from the last 13 years found 31 cases of autoimmune hepatitis presenting in patients with different stages of HIV. Most of these were also in the setting of viral hepatitis and only one of these patients improved without use of steroids or immunotherapy making autoimmune hepatitis much less likely in our patient.

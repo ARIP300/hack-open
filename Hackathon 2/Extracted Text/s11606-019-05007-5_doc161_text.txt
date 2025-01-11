@@ -1,0 +1,37 @@
+# ABSTRACTS JGIM
+
+# INFLUENCE OF INDIVIDUAL-LEVEL NEIGHBORHOOD FACTORS ON HEALTH PROMOTING AND RISK BEHAVIORS IN THE HISPANIC COMMUNITY HEALTH STUDY/STUDY OF LATINOS (HCHS/SOL)
+
+Asmi Panigrahi2, 1; Jennifer Bayly2, 3; Erik J. Rodriquez2; Eliseo J. Perez-Stable4. 1Rutgers New Jersey Medical School, Newark, NJ; 2National Heart, Lung, and Blood Institute, Bethesda, MD; 3Rutgers Robert Wood Johnson Medical School, Piscataway, NJ; 4National Institutes of Health, Bethesda, MD. (Control ID #3185661)
+
+# INDIVIDUAL BURDEN OF SOCIAL DETERMINANTS OF HEALTH (SDOH): A NEW RISK FACTOR FOR FATAL CORONARY HEART DISEASE
+
+Monika M. Safford1; Evgeniya Reshetnyak1; Madeline R. Sterling1; Joshua Richman2; Paul Muntner2; Raegan Durant2; John Booth2; Laura C. Pinheiro3. 1Weill Cornell Medical College, New York, NY; 2University of Alabama at Birmingham, Birmingham, AL; 3Weill Cornell Medicine, New York, NY. (Control ID #3184861)
+
+# BACKGROUND:
+
+SDOH are associated with poor health outcomes. One of these is death within 28 days of first presentation with coronary heart disease (CHD), also known as incident fatal CHD, which continues to be twice as common in blacks as whites. While much is known about risks associated with individual SDOH, less is known about the burden of SDOH within individuals. We determined the association between the burden of within-person SDOH and risk for incident fatal CHD.
+
+# METHODS:
+
+This prospective longitudinal study used data from the Reasons for Geographic And Racial Differences in Stroke cohort. This population-based national sample of 30,239 community-dwelling black and white adults age >45 years was recruited from 2003-7. Baseline data came from telephone interviews and in-home visits. Telephone follow-ups were conducted every 6 months with retrieval of medical records and expert adjudication of suspected study endpoints including fatal CHD. The primary exposure was SDOH, guided by the Healthy People 2020 framework that includes five domains: social context (black race, social isolation [not seeing friends/family in the past month]), education (<High School), economic stability (annual household income <$35,000), neighborhood and built environment (>25% residents in a zip code living below the Federal poverty line), and health/healthcare (lacking health insurance, living in a state with little public health infrastructure). Cox models estimated crude and adjusted associations between the number of within-individual SDOH and incident fatal CHD.
+
+# RESULTS:
+
+Of 22,152 participants free of CHD at baseline, 58.8% were women and 42.0% were blacks. Over a median 9.2 years of follow-up, the incidence rate of fatal CHD events per 1000 person-years (and number of events) for the 4016 participants with 0 SDOH was 1.18 (45); for the 5944 with 1 SDOH was 1.25 (76); for the 4464 with 2 SDOH was 1.97 (89); and for the 5024 with >3 SDOH was 2.85 (140). Compared to participants with 0 SDOH, the crude hazard ratio (HR) for fatal CHD among those with 1 SDOH was 1.18 (95% CI 0.82, 1.69), with 2 SDOH was 2.02 (95% CI 1.43, 2.84), and with >3 SDOH was 3.00 (95% CI 2.17, 4.15). Following adjustment for medical conditions and treatments, functional status, physiologic variables, and health behaviors, compared to participants with 0 SDOH, the adjusted HR among those with 1 SDOH was 0.95 (95% CI 0.66, 1.38), for those with 2 SDOH was 1.31 (95% CI 0.92, 1.87), and for those with >3 SDOH was 1.67 (95% CI 1.18, 2.37). These findings were consistent for both men and women and older and younger participants.
+
+# CONCLUSIONS:
+
+An individual's burden of SDOH may be a new marker for risk of death at presentation with CHD. Many of the SDOH studied here are already part of the social history in a standard medical interview, allowing clinicians to quickly and easily identify patients who may benefit from the most aggressive CVD risk factor management until we gain better understanding of the mechanisms leading to these findings.
+
+# BACKGROUND:
+
+Though people's place of residence is often tied to socioeconomic status, race, and ethnicity, the role of neighborhood environment as a determinant of health remains less clear. Neighborhood environment may be an especially important determinant that influences immigrant and minority health behaviors, particularly among US Hispanics/Latinos. We sought to understand the relationships between individual-level neighborhood factors and health promoting and risk behaviors in the most comprehensive study of Hispanics/Latinos in the US to date.
+
+# METHODS:
+
+We analyzed data from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL) Sociocultural Ancillary Study which included 5313 men and women, 18-74 years old, recruited from San Diego, Chicago, Miami and New York City, and from Mexican, Puerto Rican, Cuban, Central American, Dominican and South American background. All participants underwent a baseline clinical exam and sociocultural survey including validated measures of neighborhood social cohesion and neighborhood problems. We used multivariable logistic regression to assess cross-sectional and longitudinal relationships between participants' neighborhood factors and health behaviors, adjusting for age, gender, educational attainment and health insurance.
+
+# RESULTS:
+
+Participants had a mean age of 42.5 years (SD 0.38), 54.8% were women, and 72.8% were foreign born. Mean perceived neighborhood problems were greater in US-born vs foreign-born participants [Mean (SE)=12.9(0.16) vs 11.6(0.14), p<0.001]. Mean perceived neighborhood problems differed by site, and were highest in the Bronx, followed by Chicago, Miami and lowest in San Diego (13.5(0.21), 12.5(0.19).

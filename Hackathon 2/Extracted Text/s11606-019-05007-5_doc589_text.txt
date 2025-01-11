@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# SCABIES IN HOMELESS PATIENTS
+
+Seen about ten days later, the lesions were scabbed and her severe pruritis had resolved.
+
+# IMPACT/DISCUSSION:
+
+Homelessness not only increases one's risk of acquiring scabies infection but also poses important barriers to treatment. This patient presented to medical care four times before achieving resolution of scabies. Consideration of housing status should inform scabies treatment decisions and counseling. Topical permethrin 5% cream, applied from neck to toe, is typically considered the first-line treatment for scabies. However, applying the cream correctly and washing off 24 hours later may be untenable for patients who have inconsistent access to showers. If feasible, application of permethrin by clinical staff may facilitate correct use. An alternative treatment is systemic ivermectin, dosed 200ug/kg, using 1-2 doses spaced at least one week apart. Ivermectin treatment has been found to have similar clearance rates to permethrin after two weeks (approximately 67%) with similar rates of adverse events (Rosumeck et al, 2018). In both cases, environmental measures, such as laundry washing and prophylaxis for close contacts, also affect treatment success.
+
+# CONCLUSION:
+
+Scabies treatment for homeless patients who do not have regular access to showers and laundry can be complicated. Systemic ivermectin should be considered as a first line option for patients who are unable to complete permethrin treatment.
+
+# WHEN POLYARTHRITIS TURNS DANGEROUS, DISABLING, AND EVEN DEADLY
+
+Megan Winkelman; Jessica Fuller; Nancy Choi. University of California, San Francisco, San Francisco, CA. (Control ID #3186644)
+
+# LEARNING OBJECTIVE #1:
+
+Identify Pancreatitis, Panniculitis, and Polyarthritis (PPP) Syndrome from dermatologic, rheumatologic, orthopedic, and radiologic findings.
+
+# CASE:
+
+A 46 year old woman with a history of fibromyalgia, psychiatric disease, remote alcohol abuse, and chronic relapsing pancreatitis status post sphincterotomy and pancreatic duct stenting was admitted for acute on chronic pain most severe in her ankles. On hospital day two, multiple erythematous, tender nodules appeared on her legs. Her lipase level on admission was 400, which soon normalized. Due to ongoing abdominal pain, the GI team performed an ERCP (consistent with chronic pancreatitis), stent removal, and pancreatic sphincteroplasty. During week two, she developed additional skin nodules and worsened pain and swelling in her ankles, wrists, knees, and feet. Rheumatologic work-up was significant only for a mildly elevated ESR/CRP. Pathology from her wrist nodule showed necrosis and saponification of fatty lobules with surrounding neutrophil-rich infiltrates. An ankle and wrist MRI showed early osteonecrosis and joint effusions. Due to concern for joint infection, Orthopedic Surgery performed an ankle synovial biopsy and aspiration, revealing a large amount of yellow-gray fluid with negative cultures. Ultimately, given biopsy and imaging results in the context of her clinical history, she was diagnosed with PPP Syndrome.
+
+# IMPACT/DISCUSSION:
+
+PPP Syndrome is an uncommon disease (only 2% to 3% of patients with pancreatic disease develop cutaneous lesions; those that do rarely go on to have arthritic symptoms) but has a high mortality rate of 24%. Tender, inflammatory lobular nodules are often seen on lower limbs, and may drain oily brown fluid which builds up from the necrosis of adipocytes. The polyarthritis (also described as periarthritis with bone necrosis) is likely caused by systemic activity of pancreatic enzymes leading to microcirculatory disturbances and fat necrosis. Like others with PPP, our patient remains significantly disabled by pain and weight-bearing difficulty, but will continue to receive supportive measures.
+
+# CONCLUSION:
+
+Early recognition of PPP Syndrome is critical for the hospitalist, who may be the provider best equipped to identify key findings from different consultants and create an integrated diagnosis with a management plan for underlying pancreatic disease as well as the sequelae syndromes.
+
+1. García-Romero, Diana, and Francisco Vanaclocha. "Pancreatic Panniculitis." Dermatologic Clinics, vol. 26, no. 4, Oct. 2008, pp. 465-470., doi:https://doi.org/10.1016/j.det.2008.05.009.
+
+2. Langenhan, Ronny, et al. "Osteomyelitis: A Rare Complication of Pancreatitis and PPP-Syndrome." Joint Bone Spine, vol. 83, no. 2, Mar. 2016, pp. 221-224., doi:https://doi.org/10.1016/j.jbspin.2015.05.005.
+
+3. Graham, Paul M, et al. "Panniculitis, Pancreatitis, and Polyarthritis: A Rare Clinical Syndrome." Cutis, vol. 101, no. 1, Jan. 2018, pp. 34-37., doi:https://www.ncbi.nlm.nih.gov/pubmed/29529121.
+
+# WHEN STATINS ATTACK: A CASE OF NECROTIZING AUTO-IMMUNE MYOPATHY
+
+Puja Jadav1; Stephanie C. Shieh1, 2. 1Saint Louis University School of Medicine, St. Louis, MO; 2VA St. Louis Healthcare System, St. Louis, MO. (Control ID #3145194)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that SINAM is a rare, but potential side effect of statin use.
+
+# LEARNING OBJECTIVE #2:
+
+Identify the main constellation of findings that characterize SINAM.
+
+# CASE:
+
+Statins are commonly prescribed medications that reduce cardiovascular disease. We present a case of statin-induced necrotizing autoimmune myopathy (SINAM), a recently characterized entity within the well known spectrum of statin myotoxicity. A 58-year-old African American man with a history of cervical spondylosis, diabetes, hyperlipidemia presented with lower extremity swelling and progressive leg weakness following a fall one month prior whereby his legs "gave out". He had been restarted on atorvastatin 1 year prior, which had initially been discontinued for muscle spasms then deemed unrelated. Physical exam was significant for 3+ edema of lower extremities bilaterally to thighs and proximal muscle weakness with strengths of 4/5 in biceps/triceps but 3/5 in hip flexors/extensors. Pertinent workup for his weakness revealed a benign endocrine workup, normal inflammatory markers (ESR 12, CRP 0.26), negative myositis panel, but a positive ANA, greatly elevated muscle markers (Aldolase 66, CK 11,635), and a high titer positivity for Anti-HMG CoA Reductase (>200). MRI femur showed increased signal within proximal posterior and medial muscle groups indicative of compartmental myositis and skeletal muscle biopsies revealed a necrotizing myopathy with a paucity of chronic inflammation. The patient was started on prednisone 50mg daily, all statins added as allergies, and was discharged with close rheumatology follow up. Given his continued falls despite intense physical therapy, mycophenolate and IVIG were added, with improvement in strength and edema, a downtrend of his CK to 400, and the ability to taper off prednisone.
+
+# IMPACT/DISCUSSION:
+
+The pathogenesis of SINAM is via the marked up-regulation of the hydroxy-3-methyglutaryl-coenzyme A reductase receptor protein (HMGCR) in regenerating muscle cells of susceptible persons when exposed to statins, which then act as autoantigens to induce antibody production. The anti-HMGCR antibody then triggers necrosis and regeneration of muscle fibers, resulting in severe muscle damage that persists even after the discontinuation of the statin. SINAM is characterized by significant proximal muscle weakness, CK levels over 6000 U/L, evidence of muscle-cell necrosis on biopsy with minimal inflammatory infiltrates, and the presence of autoantibodies against HMG- CoA reductase as demonstrated in our patient case. Treatment includes discontinuing the statin, with half of the patients experiencing improvement.

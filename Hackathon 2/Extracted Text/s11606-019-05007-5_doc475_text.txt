@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# LIMITATIONS OF BISAP SCORE IN PREDICTING SEVERE ACUTE PANCREATITIS (SAP)
+
+Eshandeep S. Boparai; Nishant J. Trivedi. Kaiser Permanente Medical Center - San Francisco, San Francisco, CA. (Control ID #3183756)
+
+# LEARNING OBJECTIVE #1:
+
+Predict Severe Acute Pancreatitis when BISAP Score (Bedside Index for Severity in Acute Pancreatitis) is reassuring, less than or equal to 2
+
+# LEARNING OBJECTIVE #2:
+
+Recognize utility of imaging in diagnosis of necrotizing pancreatitis
+
+# CASE:
+
+A 43-year-old male with a history of chronic alcohol use presented to the clinic for acute, severe nausea and epigastric pain. Labs showed transaminitis: with aspartate aminotransferase (AST) 226 U/L, alanine aminotransferase (ALT) 514 U/L and total bilirubin at 1.7 mg/dl. Lipase was within normal limits at 58 U/L and a gallbladder ultrasound was unremarkable. Two days later, the patient presented to the Emergency Department after an episode of non-bloody, non-bilious emesis at work and severe abdominal pain. The patient reported waves of crippling epigastric pain radiating posteriorly, that were worsened by oral intake. Physical exam was notable for severe distress, sinus tachycardia to 110, and an abdominal exam significant for guarding and diffuse tenderness. Lab values were notable for White Blood Cell count elevation to 33,200 and a Hemoglobin of 16.5 g/dl, suggestive of hemoconcentration. Elevation in AST to 318 U/L, ALT to 644 U/L, alkaline phosphatase to 278 U/L, and total bilirubin to 2.4 mg/dl was noted, with lipase now elevated to 20,297 U/L. The abdominal ultrasound remained unremarkable. However, a CT scan of the abdomen and pelvis with IV and PO contrast revealed large amounts of peripancreatic fat stranding, enlarged edematous pancreas with poor enhancement of majority of parenchyma consistent with necrotizing pancreatitis. Despite significantly abnormal lab and CT scan findings, the BISAP score was 2, indicating a lower rate of complications and mortality. However, the patient went on to develop septic shock requiring antibiotics and vasopressors for blood pressure support, with a prolonged ICU hospitalization complicated by pancreatic fluid collections and abscesses needing multiple surgical drainage procedures and necrosectomies.
+
+# IMPACT/DISCUSSION:
+
+In the past decade, the BISAP score has offered internists prognostic insight for predicting severe acute pancreatitis, particularly in the first 24 hours. A score of 2 or lower is associated with a lower rate of mortality (2% and lower) and complications whereas a BISAP score of 3 and greater has been associated with a steep rise in mortality (5-20%), organ failure, and necrosis. Despite BISAP's clinical utility, a patient who presents with acute, necrotizing pancreatitis in its earliest stages may have a reassuring BISAP score and be subsequently mismanaged.
+
+# CONCLUSION:
+
+Though the BISAP score has very good predictive performance for SAP, this case reiterates the potential danger of overreliance on a single predictive scoring system. A thorough clinical assessment - history, physical exam, lab-work and imaging modalities, especially a CT scan - should be utilized for appropriate triage and management of a patient with acute pancreatitis.
+
+# LINEZOLID INDUCED INTERSTITIAL LUNG DISEASE
+
+Tanaz Salimnia1; Daymon Peterson1; Neeharika Ralh1; Leonard Johnson 2. 1Wayne State University, Rochester, MI; 2Ascension St. John, Detroit, MI. (Control ID #3185839)
+
+# LEARNING OBJECTIVE #1:
+
+Linezolid is a newer class of medication with this being the first reported case of it causing interstitial lung disease as a side effect.
+
+# LEARNING OBJECTIVE #2:
+
+The mechanism of linezolid induced lung injury is believed to be due to the reduction in antioxidation ability and the subsequent formation of free radicals.
+
+# CASE:
+
+A 34-year-old male with a prior history of injection drug use, hepatitis C, chronic tobacco use and seizures presented to the emergency department for a syncopal episode with associated urinary incontinence thought to be due to seizure. The patient reported that he had developed a nonproductive cough and dyspnea two weeks prior with no associated fever, chills or sick contacts. He had been taking linezolid for three weeks for a right lower extremity infection. At presentation, he was tachypneic, tachycardic and hypoxic. Upon examination, he appeared dyspneic, his lungs were clear and his right lower extremity demonstrated excoriations without active soft tissue infection. His WBC was 13.9 with predominant neutrophils and chest X-ray demonstrated diffuse interstitial changes bilaterally. His linezolid was held and two days later, the patient's cough, hypoxia and dyspnea had resolved, WBC had normalized and repeat CXR showed significant improvement. The patient was readmitted 2 months later for an acute exacerbation of chronic lung disease and his CXR continued to be clear.
+
+# IMPACT/DISCUSSION:
+
+Linezolid has a wide side effect profile but has not been reported as a cause of DILD. The proposed etiology of DILD is based on free radical damage which is the same mechanism as bleomycin induced pneumonitis. Linezolid induces a reduction in antioxidation ability and the subsequent formation of free radicals. Levels of superoxide dismutase (SOD) and catalase (CAT) in the plasma were decreased after linezolid treatment, which provided the first clinical evidence that linezolid can regulate antioxidant enzyme release. This would in turn cause alveolar cell destruction resulting in pulmonary inflammation. The diagnosis of DILD is made clinically and is mainly based on excluding other causes. Eosinophilia may or may not be present. Treatment involves discontinuation of the offending agent and in acute cases, symptoms tend to resolve within 24 to 48 hours. Patients should also be cautioned to avoid repeat exposure to the offending agent.
+
+# CONCLUSION:
+
+Linezolid is a newer class of antibiotic in the oxazolidinone class with advantageous pharmacokinetics making it quite potent for numerous infections. However, as a newer drug class, unrecognized side effects are being discovered. This is the first reported case of linezolid causing DILD and clinicians should be aware of this potential side effect.
+
+# LITHIUM INDUCED ENCEPHLOPATHY
+
+ejaz shah1; Saliha Saleem 2. 1montefiore medical center, Bronx, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3186431)
+
+# LEARNING OBJECTIVE #1:
+
+Assess lithium induced encephalopathy in elderly
+
+# LEARNING OBJECTIVE #2:
+
+Recognizing lithium as a controlled substance.
+
+# CASE:
+
+65 year old man with Bipolar Disorder (on lithium and valproate) presented with altered mental status (AMS). As reported by family he was progressively lethargic and somnolent since 2 months. At baseline he was well oriented. His last office visit was 2 months back with his Primary care provider (PCP) with blood work showing normal kidney function and was started on lithium. On presentation to hospital he was oriented to self only and rest of neurological examination was non-focal. Pertinent labs were: Creatinine of 1.50 mg/dl (Normal level - 0.5 to 1.1 mg/dl) and Lithium level 2.8 mmol/lit (Normal level 0.6 to 1.2 mmol/lit). On admission CT head was unremarkable. Electroencephalography (EEG) was consistent with diffuse cerebral dysfunction, worse in the left fronto-temporal region. presence of triphasic waves raising the possibility of a metabolic encephalopathy and is a reported finding in lithium toxicity. Lithium was held.

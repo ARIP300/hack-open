@@ -1,0 +1,31 @@
+# International Journal for Educational and Vocational Guidance
+
+and even other countries. Lastly, the scale’s instructions asked participants to think of previous or potential future jobs, which may have affected the data collection due to memory or expectation biases. Future studies still need to test the measurement invariance of the MME across different employment situations.
+
+# Conclusions
+
+This study describes validity and reliability evidence of the MME in a sample of unemployed persons in Algarve, Portugal. CFA corroborated the original factor structure, with the four subscales meeting good-to-excellent reliability. The social capital and networking subscale’s AVE was low, which might be related to the ambiguity of item 12. Associations with career self-efficacy, life projects, future time orientation, and life satisfaction provided validity evidence based on the associations with related measures. Therefore, in addition to describing validity and reliability evidence of the MME among unemployed persons, the study contributes to the literature by introducing empirical models on the relations between employability resources, and motivational and emotional features.
+
+# Funding
+
+Open access funding provided by FCT|FCCN (b-on). This study was conducted at the Psychology Research Centre (CIPsi/UM) School of Psychology, University of Minho, supported by the Foundation for Science and Technology (FCT) through the Portuguese State Budget (UIDB/01662/2020).
+
+# Declarations
+
+# Competing interests
+
+The authors declare that they have no conflict of interest.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+# References
+
+Instituto do Emprego e da Formação Profissional. (2021). Informação Mensal do Mercado de Emprego. Retrieved from https://www.iefp.pt/estatisticas
+
+Asparouhov, T., & Muthén, B. (2010). Weighted least squares estimation with missing data. Mplus Technical Appendix, 2010, 1–10.
+
+Barros, A. (2020). Inventário de Crenças de Carreira e Empregabilidade [Employability and Career Beliefs Inventory]. Avaliação Psicológica, 19(1), 78–86. https://doi.org/10.15689/ap.2020.1901.16140.09
+
+Berntson, E., Näswall, K., & Sverke, M. (2008). Investigating the relationship between employability and self-efficacy: A cross-lagged analysis. European Journal of Work and Organizational Psychology, 17(4), 413–425. https://doi.org/10.1080/13594320801969699

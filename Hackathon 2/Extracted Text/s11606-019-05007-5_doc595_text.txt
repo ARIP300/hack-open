@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Chondrodermatitis Nodularis Helicis
+
+stabilized, but soon resumed its growth. Consultation with Surgery was undertaken. By this point, the soft but tense collection spanned the superior aspect of the upper auricle, obliterating the antihelix. Needle aspiration did not resolve the process. Rapid reaccumulation led to operative evacuation of the mass. Pathology of the excised material demonstrated helical cartilage damage and surrounding exuberant vascularized granulation tissue with histiocytic infiltration, suggestive of chondrodermatitis nodularis helicis.
+
+# IMPACT/DISCUSSION:
+
+Often the presenting lesion is first regarded as nothing more than a generic cyst in an awkward location. When it grows aggressively, however, it can obliterate underlying tissue and can additionally represent a first sign of an underlying systemic condition. Cartilaginous inflammation is central to the disease process, at times resulting in cartilage necrosis. The etiology may include trauma, frostbite, or repetitive pressure which compromises the local circulation. The pathophysiology may relate to arteriolar narrowing in the perichondrium of the pinna at sites furthest removed from arterial blood supply - the antihelix and the helix - as reported by Upile in 2009. Criber in 2006 found neural hyperplasia present in the lesions, perhaps explaining the notable pain produced even upon light pressure. Two-thirds of patients with the disorder are men, and most commonly it arises in the sixth decade of life, as in our patient. The condition may also be associated, however, with collagen vascular disease, particularly systemic sclerosis, as first identified by Bottomley and Goodfield in 1994, and explored further by Magro in subsequent years. Any case emerging from a patient outside the most typical demographic should be further investigated for links with possible autoimmune disease. Treatment may be undertaken with pressure-relief strategies, intralesional corticosteroids, laser ablation, or surgery. Recurrence may still approach 30%.
+
+# CONCLUSION:
+
+Chondrodermatitis nodularis helicis is a condition which internists would do well to identify, as its course may be aggressive just as well as it may be indolent. Connecting a patient expeditiously with treatment may reduce the risk of disfigurement. Its association with autoimmune disorders must be recognized, as this benign-appearing cystic mass may lead to discovery of an active systemic condition.
+
+# Zolpidem Induced Syndrome of Inappropriate Antidiuretic Hormone
+
+Ayah A. Megahed1; Lenar Latypov2; Sami Rabah1; Nour Boulad1. 1Lincoln Medical and Mental Health care Centre, New York, NY; 2Lincoln Medical and Mental Health Center, New York, NY. (Control ID #3165623)
+
+# LEARNING OBJECTIVE #1:
+
+To diagnose hyponatremia secondary to Zolpidem intake, especially in elderly population.
+
+# CASE:
+
+The patient is a 70 year old male with PMH of HTN, DM, CAD s/p CABG, CVA secondary to left vertebral artery dissection, BPH and seizure disorder. He presented with abdominal pain of 3 weeks duration, increasing over the last 3 days. He took 30 pills of Zolpidem over 3 days in an attempt to treat the pain. CT of the abdomen was performed showing calcular gall bladder with chronic atherosclerosis of the coeliac and superior mesenteric trunks. During further evaluation, the patient was found to be severely hyponatremic (Na 116) but asymptomatic. Serum glucose and creatinine were normal. Laboratory work up showed: (Na 116, serum osmolality 242; urine osmolality 400; urine Na 64) with normal TSH and cortisol level, consistent with SIADH. The patient has a past medical history of seizure disorder that has been managed with Carbamazepine for many years. Carbamazepine is known to cause SIADH as a side effect, yet he did not have any sodium abnormalities in the past. Therefore, we assumed that this recent hyponatremia was due to ingestion of high dose of Zolpidem. He was initially given NS at a rate of 75 cc/hr then 150 cc/hr with a breakthrough seizure in between. The patient was managed with strict fluid restriction and administered Na tablets with eventual elevation of the Na from 116 to 130. On final assessment, the patient was asymptomatic without any new complaints.
+
+# IMPACT/DISCUSSION:
+
+Hyponatremia is common among the elderly, and may be caused by physiological changes, pathologic processes or drugs. About half of elderly patients with hyponatremia have features typical of the syndrome of inappropriate antidiuretic hormone secretion (SIADH). The symptoms depend on the degree of hyponatremia and the rapidity with which the syndrome develops and may include anorexia, nausea, vomiting, headache, diarrhea, weakness, lethargy, confusion, convulsions and coma. The number of medications that have been reported to cause SIADH is increasing and currently include vasopressin and its analogues, thiazide diuretics, chlorpropamide, carbamazepine, antipsychotics, antidepressants and nonsteroidal anti-inflammatory drugs. Also, few cases of Zolpidem induced SIADH were reported in the literature. Drug-induced SIADH usually is treated by withdrawing the suspect drug and restricting fluid intake.
+
+# CONCLUSION:
+
+It is important to carefully monitor serum sodium in patients receiving Zolpidem. It should be avoided in the elderly population who are more prone to hyponatremia.
+
+# Innovation in Healthcare Delivery (IHD)
+
+"THREE STEPS FORWARD, TWO STEPS BACK": A QUEST FOR JOY IN RESIDENT PRACTICE THROUGH AMBULATORY INTERPROFESSIONAL TRANSFORMATION
+
+Jennifer Verbsky1; Daniel J. Coletti; Frank Cacace2; Nancy A. LaVine;1 3 Jason Ehrlich4; Nissa Mazzola5; Joseph Conigliaro6. 1Northwell Health, Plainview, NY; 2northwell health, Great Neck, NY; 3Northwell Health, New Hyde Park, NY; 4Northwell, Great Neck, NY; 5St. John, Queens, NY; 6North Shore LIJ Health System, New Hyde Park, NY. (Control ID #3185705)
+
+# STATEMENT OF PROBLEM OR QUESTION:
+
+Can transformation of a large internal medicine resident ambulatory practice into an interprofessional, teamlet-based structure enhance resident ambulatory experiences and thus promote retention in primary care careers?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION:
+
+1. Increase frequency of interprofessional interactions in a large resident practice through use of team huddles.
+2. Improve satisfaction with resident ambulatory training by providing residents with enhanced interprofessional support.
+3. Augment resident interest in primary care careers.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION:
+
+Our internal medicine residency program has 108 categorical residents rotating through one of 2 ambulatory sites in a 4+1 block schedule. In one ambulatory site (housing 2 clinics), 10 residents work in the HRSA grant-funded IMPACcT (Improving Patient Access, Care, and Cost through Training) clinic, along with pharmacy, psychology, physician assistant, and medical students in a cohesive interprofessional (IP) team. The IMPACcT clinic has served as our innovation lab for IP practice, where workflows are tested prior to implementation in our other clinics. Based on experiences of the IMPACcT clinic with huddles and co-located staff, we transformed the larger 60 resident clinic to 1) dedicate and co-locate 3 medical assistants (MOAs) alongside residents in the same conference room, 2) group residents, faculty, pharmacy students, and MOAs into smaller "teamlets", and 3) introduce huddles prior to each patient care session.
+
+# MEASURES OF SUCCESS:
+
+DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO

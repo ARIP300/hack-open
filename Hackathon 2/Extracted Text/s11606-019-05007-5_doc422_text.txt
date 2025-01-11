@@ -1,0 +1,60 @@
+# ABSTRACTS
+
+# CASE 1
+
+Electrocardiogram revealed normal sinus rhythm with low voltages on the limb leads and chest x-ray showed cardiomegaly without evidence of pulmonary edema. Transthoracic echocardiogram showed a large circumferential pericardial effusion measuring 3.3 cm with early tamponade physiology. Right heart catheterization revealed elevated right and left-sided pressures (right atrial mean 17, right ventricular pressure 43/13, right ventricular end-diastolic pressure 17, pulmonary artery pressure 42/23, pulmonary capillary wedge pressure 22) with a pericardial pressure of 13 mmHg. Pericardiocentesis was performed with removal of 700 cc of serous fluid, resulting in improvement of filling pressures. Fluid analysis showed an exudative effusion with 2,035 nucleated cells with a 58% lymphocytic predominance and adenosine deaminase elevated to 118.1 U/L (normal less than 9.2 U/L). He was empirically treated with a four-drug anti-tuberculous regimen and subsequent pericardial fluid and induced-sputum cultures grew Mycobacterium tuberculosis. He was continued on anti-tuberculous antibiotics but unfortunately, eventually succumbed to his disease 9 months later.
+
+# IMPACT/DISCUSSION
+
+Although a more common diagnosis in developing countries, tuberculous pericardial effusions are rare in developed countries and are usually limited to immunocompromised individuals. Treatment involves anti-tuberculous antibiotic therapy with possible adjunctive glucocorticoid use. Pericardiocentesis may also be performed. Studies regarding adjunctive glucocorticoid use have yielded mixed results but data from meta-analyses have shown that corticosteroids may reduce death from all causes in HIV-negative patients, which usually result from complications of pericardial constriction. However regardless of treatment, mortality rates remain high.
+
+# CONCLUSION
+
+This case demonstrates the importance of having a broad differential when working up pericardial effusions. Although tuberculosis is a rare etiology of pericardial effusions, rapid recognition and intervention with antibiotics and corticosteroids are important in management.
+
+# CASE 2
+
+Yuliana Noah1; Justine Phifer2; Sarah W. Baron2. 1Albert Einstein College of Medicine, Bronx, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3159904)
+
+# LEARNING OBJECTIVE #1
+
+Recognize various etiologies of an elevated globulin gap.
+
+# LEARNING OBJECTIVE #2
+
+Assess appropriateness of SPEP (serum protein electrophoresis) and avoid unnecessary testing.
+
+# CASE
+
+A 56-year-old woman with type 1 diabetes presented with altered mental status in diabetic ketoacidosis. On admission, her total protein was 12.1 g/dL with an elevated globulin gap of 8 g/dL (albumin level 4.1 g/dL), hemoglobin 13.5 g/dL and calcium 9.8 mg/dL. HIV and HCV tests were negative. Serum protein electrophoresis (SPEP) revealed an elevated M-Spike of 2.7 g/dL, IgG of 5860 mg/dL, and free light chain ratio of 232. Skeletal survey was negative for bony lesions. Subsequent labs demonstrated protein gap closure after DKA resolution. She was followed for a presumptive diagnosis of monoclonal gammopathy of undetermined significance.
+
+# IMPACT/DISCUSSION
+
+The globulin gap is the calculated difference between total protein and albumin level. It accounts for serum proteins besides albumin, notably immunoglobulins. Etiologies of an elevated globulin gap include polyclonal gammopathies from liver disease, connective tissue disease, and chronic infection, and monoclonal gammopathies from plasma cell dyscrasias, like monoclonal gammopathy of undetermined significance (MGUS) and multiple myeloma. There are many etiologies of a globulin gap, not just malignancy, as evidenced by the closure of our patient's gap after resolution of her DKA. Ordering SPEP following any elevation of globulin gap is inefficient and expensive. At one institution, only 3% and 1% of 7,090 SPEP ordered resulted in diagnoses of MGUS and malignancies, respectively. A clinical decision rule was developed to increase the abnormal SPEP yield: 5 points for globulin gap >4.1 g/dL, 3 points for age 60, 2 points each for hemoglobin <12 g/dL and male sex, and 1 point for eGFR <60 mL/min/1.73m2. A score of 11+ corresponds to a specificity of >90% for abnormal SPEP, while a score of 0-5 had a negative predictive value of ~97%. Using this tool, our patient scored 6, making her borderline for whether SPEP was warranted. Monoclonal Gammopathy of Undetermined Significance (MGUS) is a premalignant condition with ~1% potential for progression. The clinical significance of MGUS diagnosis has come into question as disease progression is rarely recognized prior to serious complications despite close monitoring. One study found that a majority of malignant transformation identified were a result of symptomatic presentations outside of regularly scheduled follow-up. Thus, overtesting is not only expensive but also may lead to ineffective management.
+
+# CONCLUSION
+
+- Clinical decision rules should be utilized to determine appropriateness of SPEP testing.
+- Overtesting leads to unnecessary diagnosis and follow-up of MGUS.
+
+# CASE 3
+
+DOUBLE TROUBLE: SIMULTANEOUS CUTANEOUS LYMPHOMAS IN AN AIDS PATIENT
+
+Albert Jang; Lucy Huo; Mahmoud Gaballa; Martha Mims. Baylor College of Medicine, Houston, TX. (Control ID #3139823)
+
+# LEARNING OBJECTIVE #1
+
+Understand that patients with HIV may develop more than one type of lymphoma.
+
+# LEARNING OBJECTIVE #2
+
+Recognize the need to biopsy a new or worsening cutaneous lesion in the setting of a diagnosed cutaneous malignancy.
+
+# CASE
+
+A 41-year-old woman with AIDS (on HAART, CD4 count 154/mm3 with an undetectable viral load) and plasmablastic lymphoma (on EPOCH chemotherapy) presented following syncope. Two weeks ago, she noticed a new annular lesion with an ulcerating, necrotic center and an erythematous-violaceous border on her right thigh, similar to other lymphoma lesions on her legs. On admission, she reported four days of fever and increasing right thigh pain. Physical exam was notable for an overall cachectic and tearful appearance, with no hepatosplenomegaly and no palpable lymphadenopathy, and skin exam was significant for several scattered large patches of cutaneous lesions with granulation tissue and thick yellow exudate but no purulent drainage along the legs bilaterally. A CT scan showed an abscess underlying her new right thigh lesion. The patient underwent bilateral thigh wound incision and drainage, irrigation, and debridement, with biopsies taken. While waiting on pathology, the patient's chemotherapy regimen was changed to bortezomib followed by ICE regimen, presuming progression of the original plasmablastic lymphoma. Biopsy results revealed the new lesion was an extranodal NK/T-cell lymphoma, nasal type. Comparison to the original biopsy demonstrated a completely different immunohistochemical profile.
+
+# IMPACT/DISCUSSION
+
+Patients with HIV have more than a 60-fold risk of developing non-Hodgkin's lymphoma. The increased risk is related to transforming properties of the retrovirus, immunosuppression, cytokine dysregulation, and opportunistic infections from lymphotrophic herpesviruses. Plasmablastic lymphoma, a rare and aggressive subtype of diffuse large B-cell lymphoma, comprises 2% of all HIV-related lymphomas. NK/T-cell lymphoma is a destructive and necrotic lymphoma, most commonly presenting in the nasal cavity but can manifest on the skin. Epstein-Barr virus plays a role in the pathogenesis of both lymphomas. No standard chemotherapy regimens exist for either lymphoma, and outcomes are often poor for both. In this case, bortezomib with ICE to treat the progressing plasmablastic lymphoma coincidentally became an option to treat the NK/T cell lymphoma, which is sensitive to platinum agents. When an HIV patient with lymphoma develops new lesions during treatment, it is important to biopsy the new lesion. Not only does an immunocompromised state place a patient with HIV at increased risk of infection and malignancy, chemotherapy may induce a new malignancy or transformation of the original malignancy.

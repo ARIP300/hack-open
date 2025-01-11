@@ -1,0 +1,35 @@
+# ABSTRACTS
+
+# Statin Risk Communication Tool
+
+# COMMUNITY PHARMACY MEDICATION REVIEW, DEATH AND READMISSIONS AFTER HOSPITAL DISCHARGE
+
+Lauren Lapointe-Shaw1, Chaim M. Bell1, 2, Peter C. Austin3, 1, Petros Pechlivanoglou1, 6, Lusine Abrahamyan1, 4, Ping Li3, Noah M. Ivers1, 5, Donald Redelmeier1, 7, Lisa Dolovich1.
+
+1University of Toronto, Toronto, ON, Canada; 2Sinai Health System, Toronto, ON, Canada; 3ICES, Toronto, ON, Canada; 4Toronto Health Economics and Technology Assessment (THETA) Collaborative, Toronto, ON, Canada; 5Women's College Hospital, Toronto, ON, Canada; 6SickKids Research Institute, Toronto, ON, Canada; 7Sunnybrook Health Sciences Centre, Toronto, ON, Canada. (Control ID #3180233)
+
+# METHODS
+
+The statin risk communication tool was adapted from a previously validated tool. Participants were recruited from Memorial Sloan Kettering Cancer Center into two arms: control CVD risk discussion vs. tool-facilitated discussion. All patients were at increased risk for CVD due to history of chest RT. The post-visit survey used Likert-like scales to explore patient perceptions of statins and included knowledge questions and a decisional conflict scale. This feasibility and acceptability study used descriptive statistics and was not powered for significance. Semi-structured interviews with intervention arm participants explored the shared decision-making process.
+
+# RESULTS
+
+Median participant (n= 46) age was 45. Most intervention patients (22/24, 92%) and 50% (11/22) of controls found statin information acceptable while 31% (7/22) of the control arm selected "not applicable" regarding information acceptability. Most participants were unaware of their CVD risk or statin side effects. In semi-structured interviews participants found the tool helpful to visualize risk and aid physician conversations; they expressed apprehension at starting a statin and comfort in decision-making.
+
+# CONCLUSIONS
+
+This risk communication tool was acceptable. Many receiving usual care often not recall a conversation, suggesting an absent or forgettable discussion. Knowledge of CVD and statins was poor. Qualitative data suggested the tool improved decisional clarity and comfort.
+
+# COMPARING MEDICAID AND MARKETPLACE COVERAGE: EFFECTS ON HEALTH CARE UTILIZATION, OUT-OF-POCKET SPENDING, AND COSTS
+
+Heidi Allen1; Sarah Gordon4; Dennis Lee5; Benjamin D. Sommers1, 2, 3.
+
+1Harvard School of Public Health, Brookline, MA; 2Brigham & Women's Hospital, Boston, MA; 3Columbia University, New York, NY; 4Brown University, Providence, RI; 5Harvard University, Jamaica Plain, MA. (Control ID #3185045)
+
+# BACKGROUND
+
+After the 2018 election, several states appear poised to expand Medicaid under the Affordable Care Act. The Trump administration is encouraging states to prioritize expanding private insurance instead, and some states have proposed moving Medicaid beneficiaries to private coverage. In this context, understanding the tradeoffs between these coverage types is critical. We leverage a unique dataset from Colorado's Medicaid and Marketplace agencies to compare the effects of insurance type on coverage duration, utilization, and health care costs.
+
+# METHODS
+
+Using income data provided at the time of application for Medicaid or Marketplace coverage, merged with Colorado's All Payer Claims Database from 2014, we examined utilization, out-of-pocket spending, and total costs using a regression discontinuity (RD) approach. Our sample contained non-pregnant individuals ages 19-64, with incomes between 75% and 400% of the Federal Poverty Level (FPL), enrolled in Medicaid or Marketplace coverage in 2014 (N=206,810). Comparing individuals just below versus just above the eligibility threshold of 138% of FPL, we assessed the impact of coverage type on these health-care related outcomes.

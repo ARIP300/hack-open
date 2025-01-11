@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# HEALTH SYSTEMS SCIENCE IN THE CLERKSHIP: APPLICATION TO PATIENT CARE
+
+Ana M. Yepes-Rios1; Mark Mayer1; Neil Mehta1; Aaron Hamilton2; Colleen Colbert2; Beth Bierer2. 1Cleveland Clinic Lerner College of Medicine, Cleveland, OH; 2Cleveland Clinic, Cleveland, OH. (Control ID #3178315)
+
+# NEEDS AND OBJECTIVES:
+
+Education in Health Systems Science (HSS) has emerged as the third pillar of medical education to complement basic and clinical sciences and address the demands of evolving healthcare environments. In the Cleveland Clinic Longitudinal Clerkship (CCLC), an innovative HSS curriculum challenges medical students to reflect on the care of patients in the context of the healthcare system and the populations they serve. The objectives are to 1. Demonstrate an awareness of their roles in an interprofessional, collaborative healthcare team to improve healthcare outcomes; 2. Demonstrate the application of core didactic objectives to the care of patients via a blog reflection.
+
+# SETTING AND PARTICIPANTS:
+
+Participants are a cohort of 75 third-year medical students in the CCLC. Students come from Case Western Reserve University's School of Medicine, including university and college (Cleveland Clinic Lerner College of Medicine) programs. Internal Medicine residents review the blogs.
+
+# DESCRIPTION:
+
+Building upon a foundation implemented in the pre-clerkship, the HSS curriculum spans the academic year with eight, 1-2-hour, interactive learning sessions on the topics of Patient Safety, Quality Improvement, Transitions of Care, Social Determinants of Health, Inter-professional Education, Population Health and High Value Care. After each session, objectives and guiding questions prompt students to blog a reflection on the application of the session to patient care in the clerkship. Blogs are posted in a Google + private community that is further subdivided into 8 small groups to facilitate interactive discussions. Each group is actively monitored by 2 Internal Medicine residents who offer near-peer teaching and feedback, and by the course director.
+
+# EVALUATION:
+
+Students are assessed on their ability to transfer learning from the classroom session to their clinical experiences (experiential learning). To date students consistently reflect on their role in the healthcare team, and residents have offered feedback and support with near-peer experiences. Each session is systematically evaluated by students. To date, students report the sessions meet course objectives and engages them at an appropriate level of training.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The HSS thread in the clerkship and associated blogs meets the objectives of incorporating HSS education into the curriculum, with an associated authentic learning experience. Resident reviews of student blogs have created a safe, invaluable near-peer learning experience for both residents and students, offering a continuum of education in HSS.
+
+# HERPES, HYPERTENSION, AND HEALTH SYSTEMS: DEVELOPING AND DELIVERING A HEALTH EDUCATION PROGRAM AT A COUNTY JAIL
+
+Daniel Cole1; Cameron Bright2; Wendy Miller; Saida Yassin1; Jessica1 Sjoholm1; Rachel S. Silva1. 1Hennepin Healthcare, Minneapolis, MN; 2University of Minnesota, Minneapolis, MN. (Control ID #3182862)
+
+# NEEDS AND OBJECTIVES:
+
+Provide health education to justice-involved individuals Increase resident exposure to health disparities in justice-involved populations. Foster teaching and curriculum development skills for residents.
+
+# SETTING AND PARTICIPANTS:
+
+Four internal medicine residents and one Masters of Public Health student developed a curriculum and led health education classes at the Hennepin County Adult Detention Center (ADC) in Minneapolis, Minnesota. Bimonthly meetings were held in a classrooms in the ADC, typically facilitated by 1 to 2 participants and attended by 10 to 18 male attendees per session.
+
+# DESCRIPTION:
+
+Participants contributed to the development of a health education curriculum which included topics such as diabetes and sexually transmitted diseases. Hour-long programming was lecture-based with an emphasis on class participation and group discussions related to the chosen topics. Participants and class attendees completed post-participation surveys which were used to evaluate the pilot program.
+
+# EVALUATION:
+
+Participants were surveyed regarding their experiences teaching in the program. They strongly agreed that teaching improved their community education skills and impacted their perspective on incarceration with average ratings of 91 and 89 out of 100, respectively. Major themes learned included communication skills for a classroom, knowledge base and misconceptions about health topics among individuals currently incarcerated, and appreciation for the daily life of incarcerated individuals. Class attendees were also given a survey regarding the classes with 238 surveys collected over the first 6 months of the program. Attendees overwhelmingly marked that they found the class helpful. On a 5-point Likert Scale measuring how much attendees felt they knew before and after the class regarding the topic, there was a mean increase of 1.12 points (p=<.01).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Research has shown that justice-involved individuals have higher rates of chronic health conditions, substance use disorders, and mental illness than the general population. Yet very few residency programs offer opportunities for trainees to gain intentional exposure to justice-involved populations. The ADC health education program provided an opportunity for a team of trainees to gain experience working with the local jail population while simultaneously providing a valuable service to the justice-involved individuals. Feedback from trainees indicates that the experience not only improved their understanding of the health needs and behaviors of the justice-involved individuals, but that they improved their ability to provide general health education. In addition, justice-involved participant feedback suggests that the material presented was not only informative but impactful with many indicating they would make a behavioral change as a result of what they learned. Based on the overall positive feedback from both groups, plans are underway to expand the ADC health education program to cover additional topics and to include medical students as learner/educators.
+
+# HIGH VALUE CARE AT YOUR FINGERTIPS: DEVELOPMENT OF AN IPHONE APP
+
+Jessica Donato1; Courtney A. Covert2. 1Cleveland Clinic, Beachwood, OH; 2Cleveland Clinic, Cleveland, OH. (Control ID #3184023)
+
+# NEEDS AND OBJECTIVES:
+
+A monthly high value care (HVC) conference was implemented at our large internal medicine training program. Each conference includes a review of evidence and guidelines related to the clinical topic for the given conference and a 1-page handout with key take-home points related to high value management strategies and key evidence. Trainees within our program sought an electronic resource for easy access to curricular materials from each HVC conference. We sought to develop a high value care iPhone application to make high value care curricular materials and other.

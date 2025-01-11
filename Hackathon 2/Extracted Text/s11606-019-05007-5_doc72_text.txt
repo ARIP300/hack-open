@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# RESULTS:
+
+Our preliminary findings are threefold. First, income just below the Medicaid eligibility threshold led to 6.9 months of additional Medicaid coverage per year, while those just above the threshold experienced 6.3 months more of Marketplace coverage. Second, utilization patterns differed significantly. Those eligible for Medicaid were 3.4 percentage-points more likely to visit the Emergency Department (ED) each year (sample mean 24%) than those eligible for Marketplace coverage, but were 6.3 percentage-points less likely to have an outpatient visit (sample mean 60%). Medicaid also led to a 4 percentage-point decrease in the likelihood of a prescription fill (sample mean 58%). We found no statistically significant differences in hospitalization rates. Third, costs were significantly higher in Marketplace coverage, despite the slight reduction in months covered. Annual spending per person was $707 higher in Marketplace coverage than Medicaid, representing a 35% increase compared to the sample mean ($2034). After standardizing prices to Medicaid rates, costs were similar in the two groups, indicating that different prices (not volume) were responsible for the cost difference between the two coverage types. Out-of-pocket spending (not including premiums) was even more disparate. Marketplace beneficiaries spent $105 more per person than Medicaid enrollees, more than a fourfold increase compared to the Medicaid average ($25.50).
+
+# CONCLUSIONS:
+
+Medicaid results in higher coverage rates than Marketplace insurance, but less outpatient care and more ED care. However, Medicaid coverage is substantially less costly both to enrollees and to society. These results have important implications for policymakers considering alternative approaches to coverage expansion.
+
+# COMPARING THE NATIONAL COST-EFFECTIVENESS OF ALTERNATIVE DIABETES SCREENING STRATEGIES
+
+Rahul Dadwani1; Mohammed Reza Skandari3; Lawrence Phillips2; Mary Rhee2; Neda Laiteerapong1. 1University of Chicago, Chicago, IL; 2Emory University School of Medicine, Atlanta, GA; 3Imperial College of London, London, United Kingdom. (Control ID #3168022)
+
+# BACKGROUND:
+
+With the high costs of diabetes in the United States, it is important to identify cost-effective strategies for Diabetes Mellitus screening. Currently, the American Diabetes Association (ADA) recommends the use of two of the following four tests to screen for diabetes: fasting plasma glucose (FPG), glycated hemoglobin (HbA1c), oral glucose tolerance test (OGTT) or random plasma glucose (RPG) if symptoms of hyperglycemia are present. However, recent studies have suggested that RPG values at lower screening thresholds than recommended by the ADA, and the glucose challenge (GCT) that is currently utilized for gestational diabetes screening, can be used for Type 2 diabetes screening. To assess the utility of these tests, this study models a one-time universal diabetes screening of the U.S population using alternative screening strategies.
+
+# METHODS:
+
+Using a lifetime Markov Monte Carlo simulation model (US Type 2 Diabetes Policy Model), this study examined the cost-effectiveness of all 16 combinations of two of five possible tests [FPG (>125 mg/dl), HbA1c (>6.4%), OGTT (>199 mg/dl), GCT (>160 mg/dl) and RPG (>120 mg/dl) values collected for clinical purposes besides diabetes screening (opportunistic screening)]. We estimated lifetime costs and quality adjusted life years (QALYs) for each combination of screening tests for a nationally-representative sample of U.S adults (National Health and Nutrition Examination Survey 2013-2014) at high risk of developing diabetes according to United States Preventative Services Task Force criteria.
+
+# RESULTS:
+
+There was no statistically significant difference in either lifetime costs or QALYs between any of the 16 screening strategies. Lifetime costs ranged from $78,333 (FPG followed by HbA1c) to $82,059 (RPG followed by GCT) per person screened. QALYs ranged from 19.6274 (OGTT followed by GCT) to 19.6287 (HbA1c followed by OGTT or FPG).
+
+# CONCLUSIONS:
+
+This study suggests that diabetes screening strategies that utilize opportunistic RPG values at a lower threshold (>120 mg/dl) than currently recommended by the ADA (>200 mg/dl and symptoms of hyperglycemia) or the GCT may be comparable in effectiveness to current screening modalities. This is important because RPG values may already be clinically available for certain patients and, thus, a more convenient initial diabetes screening tool compared to tests that require the provider to make a conscious decision to screen his or her patient. Future studies that model the effect of diabetes screening should examine the impact of early intensive glycemic control and the subsequent "legacy effect" of early diabetes diagnoses.
+
+# COMPARING THE PERFORMANCE OF SELF-REPORT MEDICATION ADHERENCE MEASURES AMONG PATIENTS WITH LIMITED LITERACY AND ENGLISH PROFICIENCY
+
+Lauren Opsasnick; Scott Hur; Laura M. Curtis; Stephanie Batio; Guisselle Wismer; Michael S. Wolf. Northwestern University, Chicago, IL. (Control ID #3185776)
+
+# BACKGROUND:
+
+Recent debates have ensued with regard to the use of certain self-report measures of medication adherence. Despite valid criticisms concerning social desirability of patient self-report, concerns around the validity of such assessments among lower literate, and more limited English proficient adults have also been raised by health services researchers. We sought to examine the concordance of different types of available self-report, medication adherence tools, and compare their construct validity within a sample of these more vulnerable, at-risk patient populations.
+
+# METHODS:
+
+314 English and Spanish-speaking patients with type 2 diabetes, ages 32-80 at baseline, were recruited from 11 primary care clinics across Chicago. The study population was 92% low health literate (measured by the Newest Vital Sign), and 54% of patients had limited English proficiency. At baseline, patients underwent a structured interview where they were administered a measure intentionally designed for lower literate audiences (Patient Medication Adherence Questionnaire, PMAQ), as well as the Morisky Scale, and a demonstrated proper use task based on the prescription sigs. At a 6 month follow-up interview, an objective assessment of adherence was performed via pill count for each of the patients' diabetes and hypertension medicines. Additionally, the proportion of days covered (PDC) was obtained for a subset of patients who used a partnering national retail pharmacy (Walgreens). For this analysis, agreement and Kappa statistics were calculated between the three self-report adherence measures. Logistic regressions were conducted to assess if the baseline self-report measures predicted PDC or pill count. Additionally, a generalized linear model was performed to measure the impact of self-report adherence on glycemic control (HbA1c).
+
+# RESULTS:
+
+Agreement between PMAQ and proper use was measured at 56% (Kappa=0.10), whereas agreement between PMAQ and Morisky was 17% and agreement between proper use and Morisky was 23% (Kappa= -0.15 & -0.03, respectively). In multivariable analyses modeling pill count adherence and controlling for relevant covariates, PMAQ was associated with significantly higher odds of pill count adherence (OR=2.8; 95% CI: 1.4, 5.7; p<0.01). Proper use and Morisky had no significant associations with pill count. Additionally, multivariable analyses examining HbA1c as the outcome showed that PMAQ was significantly associated with a decline in HbA1c ( = -0.68; 95% CI: -1.09, -0.24; p<0.01). Again, proper use and Morisky had no significant associations with HbA1c. Further multivariate modeling of PDC adherence was conducted on the Walgreens sub-sample, but results were insignificant due to the small sample size.
+
+# CONCLUSIONS:
+
+In a primarily low literate patient population, the PMAQ performed well as a means to predict pill count adherence, as well as clinical outcomes such as HbA1c. Conversely, the Morisky scale and demonstrated proper use task were found to lack construct and predictive validity.

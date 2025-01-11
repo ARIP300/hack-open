@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+977 TKA/THA hospitalizations (977 patients, 708 TKAs, 269 THAs) were identified with pre- and post-HRS survey data. Overall, patients post-procedure reported 0.19 fewer mobility limitations (p=0.12), 0.02 more ADL limitations (p=0.77), and fewer reported pain (55% pre- versus 44% post-procedure, p<0.001). 851 (87%) had Medicare PAC claims. Patients without PAC claims were younger, more likely married, had single procedure, but otherwise no different from those with PAC claims. The 276 discharged to HH were younger, more likely married, men, with children, fewer comorbidities, with single procedures compared to the 262 discharged to SNFInptRehab. Those discharged to HH were younger, more likely married, with fewer comorbidities compared to the 313 discharged to OutptRehab. PAC was not associated with pre-procedure pain, ADL or mobility limitations, wealth or race. Rates of readmission within 30 days were significantly higher for SNFInptRehab (7.6%), compared to HH (2.9%), but not significant compared to OutptRehab (5.4%). Full mixed effects models found no significant differences between HH, OutptRehab, and SNFInptRehab cohorts by pre-post changes in mobility, ADLs, or pain, though pre-post procedure pain improved significantly within each cohort; there was small but statistically significant mobility improvement for SNFIntptRehab.
+
+# CONCLUSIONS:
+
+PAC after TKA/THA differed by patient age, gender, comorbidities, and having spouse or children, but unexpectedly not by pre-procedure pain, mobility, and ADLs. Failure to address social determinants of health in policies aiming reduce PAC costs may reduce effectiveness or risk adverse outcomes.
+
+# ELIMINATING LOW-VALUE PRE-OPERATIVE CARE IN VIRGINIA: A STATE'S CALL TO ACTION
+
+John N. Mafi1, 2; Beth A. Bortz3; Kyle Russell4; Sitaram Vangala5; Chi-Hong Tseng5; Joshua M. Liao6; Bruce E. Landon7; Catherine Sarkisian8; A. M. Fendrick9. 1David Geffen School of Medicine at UCLA, Los Angeles, CA; 2RAND Corporation, Santa Monica, CA; 3Virginia Center for Health Innovation, Henrico, VA; 4Virginia Health Information, Richmond, VA; 5University of California, Los Angeles, Los Angeles, CA; 6University of Washington, Seattle, WA; 7Harvard Medical School, Boston, MA; 8UCLA and Greater Los Angeles VA, Los Angeles, CA; 9University of Michigan Health Systems, Ann Arbor, MI. (Control ID #3182816)
+
+# BACKGROUND:
+
+For decades, randomized-controlled trials have repeatedly proven that routine pre-operative care for patients undergoing low-risk surgery offers little value; yet, low-value pre-operative care still occurs far too frequently. Using Virginia's All Payer Claims Database (APCD), we examine the prevalence and costs of low-value pre-operative care in order to inform a state-sponsored, randomized intervention to reduce low-value care.
+
+# METHODS:
+
+Using the 2017 Virginia APCD, we evaluated the use and costs of (1) low-value pre-operative laboratory testing, (2) low-value EKGs, chest x-rays, and pulmonary function testing (PFT), and (3) low-value cardiac imaging and cardiac stress testing among asymptomatic, low-risk patients undergoing low-risk surgery (e.g., cataract surgery). The Virginia APCD includes administrative claims data on state residents insured under traditional Medicare, Medicare Advantage, Medicaid, and commercial insurers, and it also divides the state into 5 major regions: Northern, Northwest, Central, Eastern, and Southwest. We defined low-value pre-operative care using the Milliman Health Waste Calculator, which applies Choosing Wisely® campaign recommendations and evidenced-based clinical guidelines to administrative claims data. For instance, a screening EKG in an asymptomatic, low-risk patient undergoing cataract surgery would be deemed low-value; in contrast, if the patient has chest pain or a recent myocardial infarction, then an EKG would be considered appropriate. We estimated costs by calculating the average amount of money per service paid to a health care provider across all payers (including patients' out-of-pocket spending).
+
+# RESULTS:
+
+Among 5.4 million Virginia beneficiaries, 613,242 (11%) received 1,017,104 pre-operative services in 2017. Of these services, 487,561 (48%) were determined to be low-value, which cost the state $227 million in unnecessary spending on pre-operative care (an estimated 0.8% of total health care spending in Virginia). Northern Virginians received the highest proportion of low-value pre-operative services: 53% of the pre-operative services were low-value (compared to 45-49% across the other four regions). Low-value pre-operative laboratory testing, low-value EKGs/chest x-rays/PFTs, and low-value cardiac imaging/cardiac stress testing comprised approximately 94%, 0.2%, and 6% of the volume and approximately 96%, 0.2%, and 4% of the spending on low-value pre-operative care respectively.
+
+# CONCLUSIONS:
+
+Low-value pre-operative care—particularly pre-operative laboratory testing—is highly common and costly in Virginia. As state governments face mounting pressure to lower health care spending, low-value pre-operative care represents an important target for local interventions to improve quality and safely lower the costs of care.
+
+# EMERGENCY DEPARTMENT VISITS AND HOSPITAL ADMISSIONS FOR OVERDOSE IN A STATE WITHOUT MEDICAID EXPANSION 2016-2017
+
+Kathleen Fairfield 1, 1; Kimberly Murray 1; Timothy B. Plante2; Eric Maughan1; Susan Richardson3; Valerie S. Harder3. 1Maine Medical Center, Portland, ME; 2University of Vermont Larner College of Medicine, Burlington, VT; 3University of Vermont, Burlington, VT. (Control ID #3185302)
+
+# BACKGROUND:
+
+Opioid use disorder increased to epidemic proportions in the past decade, and Maine has one of the worst overdose rates in the US. State legislation was passed in 2016 to reduce provider opioid prescribing through mandated checking of a Prescription Drug Monitoring Program, increased provider education, and limits on amount of opioids that could be prescribed. Simultaneously, medication assisted therapy (MAT) and illicit drug use were rising in the state. This study aims to identify the effect of these policies and changes on patterns of overdose in 2016 and 2017.
+
+# METHODS:
+
+We used Maine's all-payer claims database to identify 1,299,537 people aged 15+ with insurance eligibility between 2016 and 2017. We examined the extent and timing of emergency department (ED) visits and inpatient hospital admissions for overdose from opioids and unspecified drugs in Maine, and variations across age groups (15-24, 25-44, 45-64, 64+). We used descriptive statistics to examine differences between groups.
+
+# RESULTS:
+
+We observed a total 5,498 overdose events resulting in an ED visit or hospital admission in 2016 and 2017. These episodes decreased slightly, from 2859 (0.026%) in 2016 to 2639 (0.024%) in 2017. We observed significant differences in the rates of overdose by age category. Of the 5,498 overdose events, more events occurred in those aged 45 to 64 (38%), followed by those aged 25-44 (29%), aged 65-84 (21%), and the least in the group aged 15 to 24 (12%). Only the youngest age group (15 to 24 year olds) experienced increases in overdose from 2016 to 2017. A higher proportion of events occurred in patients with Medicaid or dual Medicare/Medicaid coverage (54%) compared to those with Medicare only (27%) or commercial insurance (19%).
+
+# CONCLUSIONS:
+
+ED visits and hospital admissions for drug overdose decreased during 2016 to 2017 in Maine, in all age groups except the youngest. Overdoses disproportionally affected the Medicaid population. As Maine now begins Medicaid expansion and MAT programs expand, overdose may further decrease in the Medicaid population. Continued efforts to describe the groups most at risk of overdose may inform outreach, prevention, and policy efforts.

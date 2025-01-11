@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Independent and Joint Effects of NH Physician Specialization and Concentration
+
+on three outcomes: 30-day rehospitalization, 60-day episode Medicare payments (both derived from claims), and successful discharge to community (derived from the NH Minimum Data Set). To measure 60-day episode of care payments we summed all facility and professional payments by Medicare Parts A and B (including hospital, NH, physician and other provider payments). Successful discharge to community was identified when a patient was discharged to the community within 100 days of admission to NH and remained alive and not readmitted to a hospital or NH for at least 30 days. All outcomes were adjusted for demographics (age, sex, race) and 72 clinical variables used by CMS for clinical measure risk-adjustment. To account for heterogeneity across facilities, we included NH fixed effects. Outcomes were modeled using linear regression. Confidence intervals were adjusted for clustering within NHs.
+
+# RESULTS:
+
+The median HHI across U.S. nursing homes was 0.29 (IQR 0.19-0.44). Controlling for the degree of patient concentration among few vs. many physicians, patients under the care of physicians who specialized in NH care were less likely to be rehospitalized after 30-days (14.54% vs. 15.92%; adjusted difference, -1.38%, 95% CI -1.77 to -1.00), more likely to be successfully discharged to the community (59.95% vs. 59.09%; adjusted difference, 0.86%, 95% CI 0.40 to 1.33), but had higher 60-day Medicare costs ($31,150 vs. $30,875; adjusted difference, $275; 95% CI $113 to $437). These differences were consistent across different levels of patient-physician concentration.
+
+# CONCLUSIONS:
+
+NHs whose patients are treated by generalist physicians who specialize in NH practice may achieve marginally better patient outcomes at slightly higher costs.
+
+# PATIENT DECISION-MAKING ABOUT USE OF HEALTH SAVINGS ACCOUNTS
+
+Jeffrey T. Kullgren1, 2; Elizabeth Q. Cliff2; Christopher Krenz2; Helen Levy2, 2; Brady T. West2; A. M. Fendrick2, 2; Angie Fagerlin3, 4. 1VA Ann Arbor Healthcare System, Ann Arbor, MI; 2University of Michigan, Ann Arbor, MI; 3University of Utah, Salt Lake City, UT; 4Salt Lake City VA Medical Center, Salt Lake City, UT. (Control ID #3184967)
+
+# BACKGROUND:
+
+Expansion of health savings accounts (HSAs) has been a centerpiece of recent federal health reform proposals. These accounts can be used by patients who are enrolled in a high-deductible health plan (HDHP) to save tax-free for health care expenses, with the policy goals of lessening patients' health care cost burdens and helping them be more discerning health care consumers. Despite the popularity of HSAs among many policymakers, little is known about which HDHP enrollees are more likely to have an HSA, what factors are associated with higher levels of saving in HSAs, and why patients with HSAs forego opportunities to contribute to their accounts.
+
+# METHODS:
+
+We surveyed 1,637 GfK KnowledgePanel participants who were 18 years of age and older and had been enrolled in an HDHP for at least a year (response rate 55%). Respondents indicated whether they had an HSA and, if so, how much they had saved for health care in the past year. Individuals who had not saved for health care were asked why not. We used multivariable logistic regression to identify factors associated with having an HSA. Among individuals with an HSA, we identified the most frequent levels of saving for health care expenses and used multivariable ordered logistic regression to identify factors associated with higher levels of saving. Among individuals who had an HSA but had not contributed to their account, we identified the most frequent reasons why. All analyses used survey weights to generate nationally representative estimates.
+
+# RESULTS:
+
+Most individuals (58%) reported having an HSA. Factors associated with having an HSA included having a graduate degree, no chronic conditions, and higher levels of financial literacy and health insurance literacy. Among individuals with an HSA, the most frequent levels of saving for health care expenses were $0 (44%), $2,000 or more (22%), and $500 to $999 (10%). Factors associated with higher levels of saving in HSAs included older age, more education, and higher health insurance literacy. Among individuals who had an HSA but had not contributed to their account, the most common reasons were not needing health care services (45%), already having enough savings to pay for health care (40%), and not having considered saving for health care (36%).
+
+# CONCLUSIONS:
+
+While most Americans enrolled in an HDHP have an HSA, nearly half of those with an HSA have not used their account to save for any health care expenses. Individuals with less education and lower health insurance literacy are less likely to have an HSA and, even when they do, to contribute to it. Federal efforts to expand HSAs may not achieve their policy goals of lessening patients' health care cost burdens and helping them be more discerning health care consumers without concurrent efforts to increase health insurance literacy and facilitate use of HSAs among individuals who are less likely to take up and contribute to these accounts.
+
+# PATIENT EXPERIENCE IN A CLINIC-LEVEL BEHAVIORAL ECONOMIC INTERVENTION TO REDUCE OVERUSE OF LOW-VALUE TREATMENTS FOR CHRONIC CONDITIONS AMONG OLDER ADULTS
+
+Jeffrey T. Kullgren1, 2; Megan Slowey3; Hyungjin M. Kim2, 1; Joseph T. Colbert2; Kerry A. Ryan2; Angie Fagerlin4, 5; Barbara Soyster2; Stuart Winston6; Jane Forman1; Eve A. Kerr1, 2. 1VA Ann Arbor Healthcare System, Ann Arbor, MI; 2University of Michigan, Ann Arbor, MI; 3Center for Health and Research Transformation, Ann Arbor, MI; 4University of Utah, Salt Lake City, UT; 5Salt Lake City VA Medical Center, Salt Lake City, UT; 6IHA, Ann Arbor, MI. (Control ID #3184996)
+
+# BACKGROUND:
+
+The Choosing Wisely® campaign recommends that older patients avoid use of low-value care such as hypoglycemic diabetes medications to achieve a hemoglobin A1c < 7.5% and use of benzodiazepines and sedative-hypnotics for insomnia or anxiety. Yet, use of these low-value treatments is common, and it is unclear how to engage older patients and their providers to avoid such overuse while maintaining strong patient-provider relationships.
+
+# METHODS:
+
+We conducted an 8-month intervention in 8 primary care clinics from 2 health systems. Intervention clinic primary care providers (PCPs) were shown Choosing Wisely recommendations to avoid overtreatment of diabetes, insomnia, and anxiety among adults age 65 and older, and invited to commit their future selves (i.e., precommit) to following these recommendations by signing a commitment document. To provide a social incentive, precommitted PCPs had their photos displayed on clinic posters. Precommitted PCPs also received weekly emails with resources to help them and their patients avoid low-value treatments, and had access to point-of-care patient education handouts about overuse that were mailed to applicable patients prior to scheduled primary care visits. After primary care visits, we surveyed 354 older patients with diabetes, insomnia, or anxiety: 167 from the 8 intervention clinics and 187 from 7 control primary care clinics. Surveys asked patients whether at their visit they talked with their PCP about medications for their condition and, if so, changed their medications, and about their rating of and trust in their PCP. We used multilevel modeling to estimate differences in these outcomes between intervention and control clinic patients while accounting for PCP-level correlation.
+
+# RESULTS:
+
+Intervention clinic patients with diabetes were no more likely than control clinic patients with diabetes to have discussed their diabetes medications with their PCP, but conditional on discussing diabetes medications were more likely to report taking less diabetes medication after their PCP visit (13.5% vs. 1.0%; P = 0.01). Intervention clinic patients with insomnia or anxiety were no more likely to report discussing or changing their medications for these conditions. There were no differences between intervention and control clinic patients in ratings of, or trust in, their PCPs.
+
+# CONCLUSIONS:
+
+A behavioral economic intervention that sought to engage PCPs and older patients to avoid use of low-value treatments for chronic conditions may have reduced use of medications for diabetes, but not for insomnia or anxiety, and did not adversely affect patients' ratings of, or trust in, their PCPs. These results suggest behavioral economic interventions can reduce overuse of low-value treatments for chronic conditions like diabetes.

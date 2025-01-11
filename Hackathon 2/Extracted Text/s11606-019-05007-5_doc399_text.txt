@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Brodifacoum Coagulopathy
+
+Bleeding. She was empirically treated for Brodifacoum exposure with high dose vitamin K for one month, and was transfused 1 unit of fresh frozen plasma. Laboratory analysis returned positive for Brodifacoum.
+
+# IMPACT/DISCUSSION:
+
+Brodifacoum is a long-acting and potent Vitamin K antagonist commonly used as a rodenticide. Since it was discovered in 1978, there have been reports of human exposure—predominantly via unintentional ingestion among children and intentional ingestion among adults causing significant coagulopathy and death. Recently there has been a dramatic increase in Brodifacoum coagulopathy related to contaminated synthetic cannabinoids. Per the CDC, as of 11/23/2018, at least 320 people nationwide have presented to healthcare facilities with coagulopathy attributed to Vitamin-K antagonist coagulopathy from synthetic cannabinoid use. Brodifacoum coagulopathy presents a diagnostic challenge for clinicians in part because of the delay between exposure and symptom onset; the half-life of Brodifacoum is 16-24 days relative to 17-37 hours for Warfarin. The most common presenting symptoms are spontaneous ecchymoses, mucocutaneous bleeding, and intramuscular hemorrhage. The most common cause of death associated with Brodifacoum coagulopathy is intracranial hemorrhage. The mainstay of treatment for Brodifacoum coagulopathy is high dose vitamin K, often with treatment courses that last months. Red-cell transfusion, 4-factor prothrombin complex concentrate (Kcentra), and fresh-frozen plasma can be used to reverse coagulopathy and treat bleeding depending on the severity of presentation. Brodifacoum is teratogenic and poses an additional risk to women of childbearing age. It crosses the placenta and increases the risk of bleeding for both mother and fetus.
+
+# CONCLUSION:
+
+Brodifacoum coagulopathy should be on the differential for any patient that presents with unexplained bleeding and coagulation abnormalities. Synthetic cannabinoid use should be part of history taking and risk factor analysis for all patients. The mainstay of treatment for Brodifacoum coagulopathy is high dose vitamin K, with typical treatment length of several months.
+
+# Brugada Unmasking in the Setting of Citalopram Overdose: A Novel Association
+
+Nicholas J. Beccarino; Rishi K. Pandya. NYU Langone Medical Center, Greenlawn, NY; NYU, New York, NY. (Control ID #3164405)
+
+# LEARNING OBJECTIVE #1:
+
+Review the Brugada phenotype and its classic pharmacologic triggers.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the potential impact of citalopram in unmasking the Brugada phenotype.
+
+# CASE:
+
+A 25 year old man with depression was brought to our institution within thirty minutes of intentionally ingesting 125mg of citalopram. The patient was initially asymptomatic without significant abnormalities on EKG. An EKG the following morning showed ST elevations in V1-2 consistent with a type 1 Brugada pattern. The patient denied a personal or family history of syncope, palpitations, or sudden cardiac death. ICD placement was deferred considering the lack of high risk features. The patient's EKG normalized over the next few days and he was ultimately discharged on aripiprazole.
+
+# IMPACT/DISCUSSION:
+
+Brugada syndrome is an autosomal dominant condition associated with malignant ventricular arrhythmia and sudden cardiac death, most often caused by mutations in the alpha subunit of the cardiac sodium channel. Diagnosis requires characteristic EKG findings in the setting of unexplained syncope, ventricular tachycardia or fibrillation, or a family history of sudden cardiac death. While sodium channel blocking anti-arrhythmics such as procainamide are classically associated with the Brugada phenotype, tricyclic antidepressants, analgesics, and illicit drugs have also been implicated. Data regarding selective serotonin reuptake inhibitors (SSRIs) in Brugada syndrome are limited. Paroxetine, fluoxetine, and fluvoxamine have been shown to have sodium channel blocking properties with rare reports of worsening the Brugada phenotype although it is not clear how this correlates to cardiac risk. While it is recommended to avoid these agents in Brugada syndrome, no similar recommendations exist for Citalopram. Furthermore, there are no previous reports of an association between Citalopram and Brugada syndrome to our knowledge. In fact, very little data exists regarding the cardiac effects of Citalopram. One study of the impact of Citalopram on rodent myocardium noted a shortening of action potential duration, depression of plateau, and reduction of depolarization velocity consistent with sodium channel inhibition, although these findings have not been replicated in humans. Nevertheless, these data suggest citalopram may share the sodium channel blocking effects and impact on the Brugada pattern seen with other SSRIs.
+
+# CONCLUSION:
+
+Our case represents a young man who developed a Brugada phenotype after a relatively mild citalopram overdose highlighting the possible implication of citalopram in the exacerbation of the syndrome, presumably through an interaction with cardiac sodium channels. Further research on Citalopram's effect on the cardiac action potential and its association with Brugada syndrome is necessary to determine its safety profile within this high risk patient population.
+
+# Bullous Erysipelas with Fat Herniation
+
+Layla Al bizri; Yusuf Alalwan; Kutayba Alsafadi; Eric Scher. Henry Ford Hospital, Detroit, MI. (Control ID #3181788)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that fat herniation is a possible complication of erysipelas.
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish bullous erysipelas from cellulitis or skin abscesses.
+
+# CASE:
+
+A 68 year old female presented with acute onset left leg skin erythema and tenderness of two days duration. She attributed her symptoms following a sting to her left leg which woke her up from her sleep. She also reported mild systemic symptoms including fever and chills. Upon presentation she was found to be febrile and tachycardic. Inspection of the left leg showed a raised, well demarcated area of erythema and mild swelling. A presumptive diagnosis of erysipelas was made and the patient was started on a first-generation cephalosporin. Over the next two days her pain and erythema worsened. She began to form very large bullae which were filled with yellow, gelatinous material. She was initially treated with Cefazolin but was escalated to Vancomycin because of her worsening course. A soft tissue ultrasound ruled out any underlying collection of fluid. Dermatology was consulted on day two of admission and made a diagnosis of erysipelas with fat herniation secondary to elevated subcutaneous pressures from the inflammation. She was started on Prednisone to help reduce the inflammation and her antibiotics were switched back from Vancomycin to cefazolin. The Infectious disease service recommended treating for 14 days. During outpatient follow up in dermatology clinic, patient was noted to have resolution of leg pain and improvement of skin lesions after completion of antibiotic treatment.
+
+# IMPACT/DISCUSSION:
+
+Initially, the acute onset of symptoms: fever, pain, erythema and swelling with the appearance of a raised well demarcated skin lesion, made erysipelas the most likely diagnosis. However, the sudden appearance of bullae containing gelatinous-like material while on an appropriate antibiotic regimen forced the primary service to reconsider this diagnosis. Necrosis, abscess formation, deep thrombophlebitis and hemorrhagic purpura are known complications of erysipelas that have been reported previously in the literature. Therefore, our reported case of fat herniation resembles a unique complication of erysipelas. According to the literature, fat herniation has been described in piezogenic papules which are benign mostly painless skin-colored papules made of fat associated with exercise, repetitive pressure forces, and connective tissue diseases. To our knowledge, cases of soft tissue infections with described fat herniation have not been reported before. The appearance of bullae on the epidermal surface with subcutaneous fat may have dissipated the pressure within the skin and prevented the formation of compartment syndrome within the patient's lower extremity.

@@ -1,0 +1,32 @@
+# iwCLL 2023
+
+# special issue
+
+and venetoclax. In the MRD cohort, this was followed by MRD-guided randomization. According to the most recent update, the fixed-duration cohort experienced a 4-year PFS rate of 79 % [11]. The phase III GLOW study led to the approval of ibrutinib plus venetoclax in many countries. Older patients and/or patients with comorbidities were randomized to either ibrutinib/venetoclax or chlorambucil/obinutuzumab. With respect to PFS, ibrutinib/venetoclax gave rise to a 78 % risk reduction (HR, 0.216; p < 0.001; Figure) [12].
+
+# First-line triplets
+
+Dr. Jain emphasized the time-limited nature of doublet and triplet therapies. This has some advantages such as decreased risk of resistance mutations and improved cost-effectiveness. Also, if patients progress after first-line combination regimens, unpublished data indicate that retreatment works.
+
+In the first-line setting, several studies have investigated ibrutinib, acalabrutinib or zanubrutinib in addition to a backbone consisting of venetoclax and obinutuzumab (Ven + G). The CLL2-GIVe trial focused on ibrutinib plus Ven + G in patients with del(17p)/TP53-mutated CLL. In this population, the results were encouraging, with a 3-year PFS rate of 79.9 %, although the PFS curve suggested some late relapses [13]. Notable differences were observed regarding the type of aberration: while patients with TP53 mutation alone did not develop any relapses for more than three years, those with del(17p) with or without TP53 mutation fared considerably worse. Another study conducted in the high-risk setting tested the combination of acalabrutinib plus Ven + G. At cycle 16, high uMRD rates resulted across the total population and the patients with TP53 aberrations [14]. Similarly, the long-term follow-up of a phase II study has shown uMRD rates of 96 % and 92 % in the peripheral blood and bone marrow with zanubrutinib plus Ven + G [15].
+
+As Dr. Jain pointed out, uMRD rates are numerically higher with second-generation BTK inhibitors than with ibrutinib, although this observation needs to be confirmed in a larger context. Ongoing phase III studies that are currently evaluating doublet and triplet regimens in the first-line setting will be reported over the next few years. Combination data for acalabrutinib plus venetoclax ± obinutuzumab and zanubrutinib plus venetoclax are awaited. Also, new BCL-2 inhibitors such as sonrotoclax and lisaftoclax are under development and will be assessed as part of combination strategies.
+
+Source: Session “Optimizing initial therapy of CLL”, iwCLL 2023, 8th October 2023, Boston, USA
+
+# REFERENCES
+
+1. Barr BM et al., Up to 8-year follow-up from RESONATE-2: first-line ibrutinib treatment for patients with chronic lymphocytic leukemia. Blood Adv 2022; 6(11): 3440-3450
+2. NCCN Guidelines Chronic Lymphocytic leukemia/Small Lymphocytic Lymphoma, version 3.2023
+3. Shanafelt TD et al., Long-term outcomes for ibrutinib-rituximab and chemoimmunotherapy in CLL: updated results of the E1912 trial. Blood 2022; 140(2): 112-120
+4. Woyach J et al., Long-term results of Alliance A041202 show continued advantage of ibrutinib-based regimens compared with bendamustine plus rituximab (BR) chemoimmunotherapy. ASH 2021, abstract 639
+5. Al-Sawaf O et al., Minimal residual disease dynamics after venetoclax-obinutuzumab treatment: Extended off-treatment follow-up from the randomized CLL14 study. J Clin Oncol 2021; 39(36): 4049-4060
+6. Mato AR et al., A clinical practice comparison of patients with chronic lymphocytic leukemia with and without deletion 17p receiving first-line treatment with ibrutinib. Haematologica 2022; 107(11): 2630-2640
+7. Sharman JP et al., Efficacy and safety in a 4-year follow-up of the ELEVATE-TN study comparing acalabrutinib with or without obinutuzumab versus obinutuzumab plus chlorambucil in treatment-naïve chronic lymphocytic leukemia. Leukemia 2022; 36(4): 1171-1175
+8. Byrd JC et al., Acalabrutinib versus ibrutinib in previously treated chronic lymphocytic leukemia: Results of the first randomized phase III trial. J Clin Oncol 2021; 39(31): 3441-3452
+9. Brown JR et al., Zanubrutinib or ibrutinib in relapsed or refractory chronic lymphocytic leukemia. N Engl J Med 2022; 388(4): 319-332
+10. Jain N et al., Combined ibrutinib and venetoclax for first-line treatment of patients with chronic lymphocytic leukemia: 4-year follow-up data. ASH 2022, abstract 95
+11. Barr PM et al., Fixed-duration ibrutinib + venetoclax for first-line treatment of chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL): 4-y follow-up from the FD cohort of the phase 2 CAPTIVATE study. J Clin Oncol 41, 2023 (suppl 16; abstr 7535)
+12. Huber H et al., Final analysis of the CLL2-GIVe trial: obinutuzumab, ibrutinib, and venetoclax for untreated CLL with del(17p)/TP53 mut. Blood 2023; 142(11): 961-972
+13. Ryan CE et al., Updated results from a multicenter, phase 2 study of acalabrutinib, venetoclax, obinutuzumab (AVO) in a population of previously untreated patients with CLL enriched for high-risk disease. Blood 2022; 140(Suppl 1): 837-838
+14. Soumerai JD et al., Long-term follow-up of multicenter phase II trial of zanubrutinib, obinutuzumab, and venetoclax (BOVen) in previously untreated patients with CLL/SLL. Hematol Oncol 2023; 41(S2): 233-235

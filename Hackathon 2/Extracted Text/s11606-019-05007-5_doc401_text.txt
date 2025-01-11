@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+There are 3 FDA-approved medications for OUD (BUP/NX, Naltrexone, Methadone), but in patients with moderate or severe hepatic impairment BUP/NX initiation is not recommended. Our patient faced transportation and cost barriers for methadone maintenance, prompting a shared decision-making conversation about the risks and merits of BUP/NX in the setting of acute HAV. The team explained the risks of BUP/NX in patients with impaired liver function: worsened liver function, increased sedation with impaired BUP/NX clearance, and risk of withdrawal with increased exposure to naloxone component. The patient reported reduced overdose risk, prior success with BUP/NX, and low cost as benefits. She tolerated BUP/NX without complications. 3 other cases of BUP/NX induction in the setting of acute HAV from our addiction consult team show similar tolerability of BUP/NX and stable LFTs at time of discharge—findings not previously described in the literature. Some OUD patients hospitalized with acute HAV can and should be offered BUP/NX.
+
+# CONCLUSION:
+
+The risks of BUP/NX initiation in patients with acute hepatitis A may be significant—including worsened liver injury. The benefits of BUP/NX initiation may outweigh those risks for patients with stable LFTs and no altered mental status, especially when they lack other viable options for medication treatment.
+
+# CALCIUM CONFUSION: HYPERCALCEMIA AND MENTAL STATUS CHANGES AS A HARBINGER OF METASTATIC MALIGNANCY
+
+Robert N. Stuver1; Dillon Schafer1; Alicia Clark2. 1Beth Israel Deaconess Medical Center, Boston, MA; 2Beth Israel Deaconess Medical Center, Wellesley, MA. (Control ID #3176643)
+
+# LEARNING OBJECTIVE #1:
+
+Initiate emergent management and workup for hypercalcemia.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize severe hypercalcemia of unknown etiology as a possible presentation of undiagnosed malignancy.
+
+# CASE:
+
+A 54-year-old male was found wandering the street. On initial examination, the patient was cachectic and disoriented. Laboratory testing showed total calcium of 14.8 mg per deciliter (mg/dL). He was volume fluid resuscitated with subsequent normalization of his calcium within 48 hours. Additional laboratory studies showed low 25-hydroxyvitamin D, normal parathyroid hormone (PTH), and elevated PTH-related peptide (PTHrP). With normalization of calcium, the patient became fully oriented. He had no medical history but reported heavy alcohol use and one month of unintentional weight loss and nausea. Computed tomography of the chest showed an enhancing 2.8 centimeter gastroesophageal mass. Subsequent imaging showed additional lesions in the bones, liver, and brain. Biopsy revealed squamous cell carcinoma of the esophagus.
+
+# IMPACT/DISCUSSION:
+
+In this case, we present a man with confusion and hypercalcemia ultimately found to have metastatic cancer. The initial management and workup of hypercalcemia were critical in normalizing his neurological status and obtaining a diagnosis, and this case allows for a review of these fundamental principles. Severe hypercalcemia is a medical emergency. Initial treatment is aimed at correction via volume expansion with isotonic saline at rates of at least 200 mL/hour, titrated to maintain urine output of at least 100 mL/hour. Calcium should be monitored at least every 6 hours during this initial correction period. In symptomatic patients with initial calcium greater than 14 mg/dL, calcitonin can be given. Hypercalcemia is never a normal physiological occurrence. The most common causes are parathyroid-related disease or malignancy, though rarer causes include vitamin D intoxication and granulomatous disease. Diagnosis is initiated by measuring PTH. If elevated, hyperparathyroidism is confirmed. If normal or low, levels of PTHrP, 1,25- and 1-hydroxyvitamin D should be obtained. Elevated vitamin D levels point towards granulomatous diseases or hypervitaminosis, whereas elevated PTHrP suggests humoral hypercalcemia of malignancy, such as in our case. Humoral hypercalcemia of malignancy is secondary to elevations in PTHrP, which acts via physiologic PTH pathways to increase bone resorption and calcium reabsorption in the distal tubule. In these cases, a thorough review of systems, along with age-appropriate cancer screening, should be completed in order to clue in on an underlying cancer. In summary, we present a case of "calcium confusion"—hypercalcemia and altered mental status—a clinical presentation that should always force the clinician to think of malignancy.
+
+# CONCLUSION:
+
+1. Hypercalcemia is a medical emergency and should be treated with immediate, aggressive fluid resuscitation. 2. Severe hypercalcemia of unknown etiology should prompt an evaluation for underlying malignancy.
+
+# CANAGLIFLOZIN-INDUCED EUGLYCEMIC DIABETIC KETOACIDOSIS IN A TYPE 2 DIABETIC
+
+Nour Chams. Emory, Atlanta, GA. (Control ID #3185713)
+
+# LEARNING OBJECTIVE #1:
+
+Defining and understanding euglycemic DKA and potential risk factors.
+
+# LEARNING OBJECTIVE #2:
+
+Timely diagnosis of euglycemic DKA.
+
+# CASE:
+
+A 47-year-old man with a past medical history significant for diabetes mellitus type 2 presented to the emergency department for diffuse abdominal pain, nausea and vomiting of 2-day duration. He was recently started on canagliflozin 100 mg daily for tighter glycemic control. On exam, the patient was hemodynamically stable with a benign physical examination except for lack of skin turgor and mild diffuse abdominal tenderness on deep palpation. Laboratory workup showed normal blood glucose, high anion gap metabolic acidosis, low bicarbonate, and high beta-hydroxybuterate. Further blood tests revealed hemoconcentration and normal kidney function, with no evidence of pancreatitis or liver disease. He was diagnosed with euglycemic DKA and treated following the DKA protocol and he was advised to discontinue canagliflozin.
+
+# IMPACT/DISCUSSION:
+
+Our case presents a patient with non-insulin dependent T2D who recently started canagliflozin and later developed euglycemic DKA, with canagliflozin as the most likely culprit after excluding all other causes of eDKA. SGLT2 inhibitors are a class of oral hypoglycemic drugs that block the reabsorption of glucose in the proximal renal tubules of the kidney leading to excretion of glucose in urine and thus decreasing blood glucose levels. The mechanism behind SGLT2 inhibitor-induced eDKA is not yet well studied. One of the proposed theories is that SGLT2 inhibitors reduce insulin secretion from pancreatic beta cells through its hypoglycemic effect thus stimulating lipolysis and the production of free fatty acids, which are then converted to ketones. Decreased insulin production also promotes the production of ketone bodies through the activation of carnitine palmitoyltransferase-I (CPT-I). Another mechanism through which SGLT2 inhibitors could cause eDKA is through stimulating the secretion of glucagon, either as a direct effect of SGLT2 inhibitors on pancreatic alpha cells or the secondary effect of decreased insulin secretion; glucagon contributes to the overproduction of ketones through increased CPT-I activity. Euglycemic DKA in the setting of SGLT2 inhibitor use develops mostly in individuals with type 1 diabetes and rarely occurs in type 2 diabetes. It is especially rare in those who still have insulin reserves. Our patient was a type 2 diabetic with negative GAD65 antibodies and normal C-peptide levels. These findings indicate that he might still have functioning pancreatic beta cells. Nevertheless, he still developed eDKA while using canagliflozin without having any known precipitating factors.
+
+# CONCLUSION:
+
+Given that SGLT2 inhibitors, which are widely used for tighter glycemic control, are associated with the development of eDKA in...

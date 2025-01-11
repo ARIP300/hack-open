@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# UTILIZATION OF HIGH DOSE INSULIN EUGLYCEMIC THERAPY IN INTENTIONAL SOTALOL OVERDOSE
+
+Bryan F. Stringer1; Anantha Sriharsha Madgula1; Anand Muthu Krishnan1; Simrina Sabharwal2.  1University of Connecticut, Farmington, CT; 2University of Connecticut School of Medicine, Hartford, CT. (Control ID #3185738)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical and electrocardiographic findings in sotalol toxicity
+
+# LEARNING OBJECTIVE #2:
+
+Manage poison-induced cardiogenic shock with high dose insulin
+
+# CASE:
+
+Patient is an 83-year old male with past medical history of atrial fibrillation, hypertension, coronary artery disease, anxiety and depression presenting from home after being found unresponsive by family with multiple pill bottles nearby including lorazepam and sotalol. His last seen normal was the previous night. When paramedics arrived, patient was bradycardic to 20 bpm, atropine was given and he was transcutaneously paced. Norepinephrine was initiated and upon arrival to the emergency department he was intubated and a transvenous pacer was placed. On admission, vitals included pulse 80 bpm (paced), blood pressure 100/60, respiratory rate 14. Physical exam revealed an unresponsive male, but no other significant abnormalities. Labs were significant for urine toxicology positive for benzodiazepine, otherwise within normal limits. Computed tomography scan of the brain was negative for acute pathology. Initial electrocardiogram showed junctional bradycardia competing with sinus bradycardia at 30 bpm and QT/QTC of 707/498. Patient was transvenously paced and started on epinephrine and high dose insulin (HDI) for poison-induced cardiogenic shock. He was evaluated by toxicology and nephrology and transferred to intensive care unit where was started on continuous veno-venous hemofiltration. Due to profound hypoglycemia, patient was started on dextrose 25% infusion. After approximately 48 hours, the patient was able to be weaned off vasopressor support and HDI was discontinued. His transvenous pacer was turned off and he had an intrinsic rate of 50 bmp.
+
+# IMPACT/DISCUSSION:
+
+Beta blockers (BB) are one of the most common causes of poison-induced cardiogenic shock (PCIS). Toxicity typically presents with altered mental status, hypotension and bradycardia. PCIS can be difficult to manage and conventional therapies such as atropine, glucagon, cardiac pacing and vasopressors often offer only a transient response. High dose insulin therapy is an effective therapy in the management of PICS. Its benefit is contributed to its inotropic properties, increased myocardial uptake of carbohydrates and vasodilation improving local microcirculation. To date, there is no randomized clinical trial, however numerous case reports and prospective observational studies have demonstrated benefit of initiating HDI early in patients with PCIS. Electrolyte abnormalities and hypoglycemia are frequently reported adverse effects and require vigilant monitoring. Our patient on HDI required a dextrose (D25) drip to maintain euglycemia.
+
+# CONCLUSION:
+
+Sotalol toxicity presents like other BB toxicities, with additional EKG changes such as QT prolongation. In patients with PCIS, early HDI can improve hemodynamics. HDI can have adverse effects including hypokalemia and hypoglycemia which require close monitoring. There is a need for randomized clinical trials to attest efficacy of HDI in PCIS.
+
+# VAGINAL BLEEDING IN A POST-MENOPAUSAL FEMALE: A CASE REPORT
+
+Laith Numan; Nedaa Husainat; Omar Abughanimeh. University of Missouri-Kansas City, Kansas City, MO. (Control ID #3165199)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the rare presentation(s) of sarcoidosis, including vaginal bleeding/uterine mass.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose uterine sarcoidosis after excluding other etiologies with similar histopathology's.
+
+# CASE:
+
+A 63-year-old African American female with a history of iron deficiency anemia and uterine fibroids, presented to the gynecology clinic complaining of worsening vaginal bleeding. Computed tomography (CT) scan of the abdomen and pelvis showed a large uterus with multiple calcified masses and a dominant calcified mass communicating with the sigmoid colon, and severe bilateral hydroureteronephrosis; which raised concerns of fibroid transformation to leiomyosarcoma. The patient declined uterine biopsy and underwent sigmoidoscopy, which detected a large malignant appearing mass. The mass was obstructing and had necrosis and hard tissue. Biopsy results showed benign colonic mucosa and microcalcification but no evidence of malignancy. Chest CT scan showed bilateral pulmonary nodules, with no evidence of hilar lymph nodes enlargement. Due to concerns of malignancy, a total abdominal hysterectomy, bilateral salpingo-oophorectomy and sigmoid resection with end colostomy were done. The patient tolerated the procedure well. Histological examination of the specimen demonstrated multiple noncaseating granulomas with no evidence of malignancy. Pathology stains to rule out tuberculosis and fungal infection were negative. Angiotensin-converting enzyme level was elevated. After a multi-team evaluation by Oncology, Pulmonology, and Rheumatology, the patient was believed to have isolated uterine sarcoidosis with invasion to the colon. This is a very unusual way for sarcoidosis to present with only a few documented cases in the literature.
+
+# IMPACT/DISCUSSION:
+
+Extrapulmonary sarcoidosis is common, however uterine sarcoidosis is extremely rare. Typically, patients presenting with extrapulmonary sarcoidosis will have pulmonary involvement. Isolated extrapulmonary sarcoidosis is very rare. Uterine sarcoidosis is an unusual way for sarcoidosis to present and is challenging to diagnose due to other common etiologies presenting with uterine bleeding. In terms of uterine histopathology: in sarcoidosis, noncaseating granulomas can be found in all the layers of the uterus. Meanwhile, tuberculosis usually spares the myometrium.
+
+# CONCLUSION:
+
+Uterine sarcoidosis is extremely rare, and the diagnosis can be a challenge. The presentation can be nonspecific, and without pulmonary symptoms, other etiologies of vaginal bleeding should be excluded before confirming the diagnosis. Identification of noncaseating granulomas is the key for the diagnosis, after ruling out other etiology that can present with the same histopathology. Invasion of adjacent organs is possible and will require surgery.
+
+# VANISHING BILE DUCTS FROM HODGKIN'S LYMPHOMA
+
+Neil Evans; Amitabh Singh; Jennifer Schmidt; Kenn Vattathara. Saint Louis University, Saint Louis, MO. (Control ID #3186108)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize vanishing bile duct syndrome (VBDS)
+
+# LEARNING OBJECTIVE #2:
+
+Categorize Hodgkin's lymphoma as a cause of VBDS
+
+# CASE:
+
+A 40-year-old woman with a history of asthma and a cholecystectomy presented with fevers, weight loss, dyspnea, lymphadenopathy, and fatigue. She was prescribed acetaminophen, azithromycin, prednisone, and oseltamivir for presumed flu-induced asthma exacerbation. Four days later, she presented with continued fevers, chills, epigastric pain, and jaundice. Labs showed: aspartate aminotransferase (AST) 225 Units U/L, alanine amino-transferase (ALT) 201 U/L, total bilirubin 11.3 mg/dL, and alkaline.

@@ -1,0 +1,19 @@
+# International Journal for Educational and Vocational Guidance
+
+met reasonable to good results, α = 0.84, Ω = 0.80, and AVE = 0.52, and α = 0.70, Ω = 0.69, and AVE = 0.49, respectively.
+
+# Satisfaction with life scale
+
+The SWLS was originally created in the USA (Diener et al., 1985) and has already been adapted to Portugal (Lent et al., 2014). The scale contains five items (e.g., “I am satisfied with my life”) answered in a seven-point Likert scale varying from “strongly disagree” to “strongly agree.” In the sample of this study, the scale’s reliability met good results, α = 0.89, Ω = 0.88, and AVE = 0.64.
+
+# Data analysis
+
+The MME’s internal structure was assessed via confirmatory factor analyses (CFA) using the software R 4.1.2 (R Core Team, 2022) and the package lavaan 0.6-9 (Rosseel, 2012). Variables were considered ordinal and thus the polychoric correlations matrix was used. As Mardia’s test suggested violation of multivariate normality (M skewness = 7239.6, p < 0.001, and M kurtosis = 28.8, p < 0.001), the weighted least squares mean and variance adjusted (WLSMV) estimation method (Asparouhov & Muthen, 2010) was selected. The WLSMV has been acknowledged as an appropriate method for the assessment of ordinal data (Li, 2016). The following fit indices assessed the goodness of fit of the tested models: comparative fit index (CFI), Tucker–Lewis index (TLI), root mean square error approximation (RMSEA), and standardized root mean residual (SRMR). The following cutoffs indicate good fit: CFI ≥ 0.95, TLI ≥ 0.95, RMSEA < 0.08, and SRMR ≤ 0.08 (Schreiber et al., 2006). Alternatively, the following cutoffs are considered acceptable: 0.90 ≤ CFI < 0.95, 0.90 ≤ TFI < 0.95, 0.080 ≥ RMSEA > 0.100, and 0.080 > SRMR ≥ 0.100 (Brown, 2006).
+
+Three internal consistency coefficients tested the factors’ reliability, i.e., Cronbach’s ordinal alpha (α), McDonald’s omega (Ω), and Spearman–Brown coefficient (r kk). The following values informed the reliability level: results below 0.50 are unacceptable; between 0.51 and 0.60 are poor; between 0.61 and 0.70 are questionable; between 0.71 and 0.80 are moderate; between 0.81 and 0.90 are good; and above that, excellent (Gliem & Gliem, 2003). Average variance extracted (AVE) was tested and values above 0.50 was expected (Fornell & Larcker, 1981). Reliability was assessed in R (R Core Team, 2022) using the packages semTools 0.5-5 (Jorgensen et al., 2021) and multicon 1.6 (Sherman, 2015).
+
+The associations with additional measures were firstly tested by Pearson correlations using the software R (R Core Team, 2022) and the package psych 2.3.3 (Revelle & Revelle, 2015). The factor scores were computed by the maximum a posteriori method (Bock & Aitkin, 1981) considering the factor loadings resulting from CFA with WLSMV estimation.
+
+1. Correlation coefficients were interpreted.
+
+1 In the case of the LPS and the FTOS, the two first response categories were merged because two items had no answers in the first response category.

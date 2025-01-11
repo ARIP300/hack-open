@@ -1,0 +1,37 @@
+# JGIM
+
+# ABSTRACTS
+
+These survey data suggest that PC providers for homeless-experienced persons may have a powerful opportunity to mitigate overdose risk in their patients by addressing polydrug, alcohol and prescription exposure, and to explore protection of others at risk in the patient's environment.
+
+# CONCLUSIONS:
+
+In the first description of overlap between ACOs and bundled payments, one in every ten MSSP patients received care - and in particular procedural care - under BPCI by the end of our study period, while over one in every four patients receiving care under BPCI was also attributed to MSSP.
+
+# OVERLAP BETWEEN MEDICARE'S ACCOUNTABLE CARE ORGANIZATIONS AND BUNDLED PAYMENTS
+
+Joshua M. Liao 4, 1; Sarah Dykstra 3; Rachel M. Werner 1, 2; Amol S. Navathe 1, 2. 1 University of Pennsylvania, Philadelphia, PA; 2 CMC VA Medical Center, Philadelphia, PA; 3 The Wharton School, University of Pennsylvania, Philadelphia, PA; 4 Jefferson University, Philadelphia, PA; 2 Mayo Clinic, Phoenix, AZ; 3 Teva Pharmaceuticals, Frazer, PA. (Control ID #3179510) (Control ID #3185629)
+
+# BACKGROUND:
+
+Accountable care organizations (ACOs) and bundled payments represent cornerstone payment models of Medicare's strategy to improve the value of care. As both models grow in prominence and scale, participating organizations in each may increasingly provide care to the same beneficiaries, posing important clinical and policy implications. However, no data about the magnitude and trend in overlap between ACOs and bundled payments exist.
+
+# METHODS:
+
+Using 100% 2013-2016 institutional Medicare claims, Medicare Shared Savings Program (MSSP) ACO beneficiary attribution, and hospital participation data for the Bundled Payments for Care Improvement (BPCI) initiative, we identified care episodes for beneficiaries attributed to MSSP ACOs receiving care at BPCI hospitals for its 48 (25 condition-focused, 23 procedure-focused) episodes. For each episode, we defined 3 beneficiary groups: those attributed to MSSP who were hospitalized for an episode at BPCI hospitals participating in that episode (Overlap); those attributed to MSSP who were hospitalized for that episode at non-BPCI hospitals (MSSP-only); and those hospitalized at BPCI hospitals for a BPCI episode but who were not attributed to MSSP (BPCI-only). Medicare and US Census Bureau data were used to compare 246,392 Overlap, 2,824,898 MSSP-only, and 702,864 BPCI-only episodes with respect to sociodemographic, clinical and utilization characteristics. Categorical and continuous variables were compared using 2 tests and t tests, respectively. Statistical tests were 2-tailed and significant at =0.05.
+
+# RESULTS:
+
+The number of MSSP ACOs increased from 220 in 2013 to 432 in 2016. The number of BPCI hospitals increased from 9 to 389 over this period, peaking at 413 in 2015. Across episodes, Overlap patients were generally lower severity, though differences were small. The overlap as a share of ACO patients increased from 2.7% at the start of the study period to 10% at the end of 2016 across all clinical episodes, while overlap as a share of all bundled payment patients increased from 19% to 27%. Overlap as a share of ACO patients varied by episode, ranging by the end of 2016 from 3% for acute myocardial infarction and chronic obstructive pulmonary disease to 18% for automatic implantable cardiac defibrillator, and was greater for procedure-focused (13%) than condition-focused (9%) episodes. Similarly, the overlap as a share of bundled payment patients was greater for procedure-focused (29%) versus condition-focused (26%) episodes, varying overall from 21% for spinal fusion episodes to 32% for lower extremity joint replacement and automatic implantable cardiac defibrillator episodes.
+
+# BACKGROUND:
+
+Migraine is a highly prevalent neurological disorder and one of the leading causes of years lived with disability worldwide. Chronic migraine (CM) is defined by having 15 or more headache days per month, at least 8 of which are migraine days. Patients with episodic migraine (EM) have fewer than 15 headache days per month. Preventive migraine treatment is recommended in patients with 4 or more headache days per month with some impairment. Fremanezumab is a fully humanized monoclonal antibody (IgG2 a) that selectively targets calcitonin gene-related peptide (CGRP), a neuropeptide involved in the pathophysiology of migraine. Fremanezumab is approved for the preventive treatment of migraine in adults. The HALO trials assessed the efficacy and safety of fremanezumab for the preventive treatment of CM and EM.
+
+# METHODS:
+
+HALO CM and HALO EM were concurrent, multi-center, randomized, double-blind, placebo-controlled, parallel-group Phase 3 studies evaluating the efficacy and safety of fremanezumab for the preventive treatment of CM and EM. Adults with CM or EM, confirmed during a 28-day pre-treatment period, were randomized to receive subcutaneous fremanezumab quarterly (675 mg at baseline and placebo at Weeks 4 and 8), fremanezumab monthly (CM: 675 mg at baseline, and 225 mg at Weeks 4 and 8; EM: 225 mg at baseline and Weeks 4 and 8), or matching placebo over a 12-week period. The primary endpoint for HALO CM was the mean change in the average number of headache days of at least moderate severity: a day in which headache pain lasted 4 consecutive hours and had a peak severity of at least a moderate level, or an acute migraine-specific medication (triptans or ergots) was used to treat a headache of any severity or duration. The HALO EM primary endpoint was the mean change from baseline in the monthly average number of migraine days: a day with 2 consecutive hours of a headache meeting criteria for migraine, probable migraine, or when acute migraine-specific medication (triptans or ergots) was used to treat a headache.
+
+# RESULTS:
+
+In HALO CM, 1130 patients were randomized to fremanezumab quarterly (n=376), fremanezumab monthly (n=379), or placebo (n=375), and 1034 patients (92%) completed the study. In HALO EM, 875 patients were randomized to fremanezumab quarterly (n=291), fremanezumab monthly (n=290), or placebo (n=294), and 791 patients (90%) completed the study. On average, CM and EM patients were approximately 41 years of age, with 20 years since migraine diagnosis. Both CM and EM patients were highly disabled based on six-item Headache.

@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Tech Allies: A Community-Based Digital Literacy Program for Older Adults
+
+control. LBFE volunteers visited participants weekly and provided 8 weekly lessons on iPad use. Surveys assessed loneliness, using the 3-item UCLA loneliness scale, and self-reported computer use and skills at baseline and follow-up. McNemar's tests were used to assess change over time in loneliness and technology use. A subgroup also completed in-home interviews discussing motivations for internet use and perceptions about technology and health.
+
+# RESULTS:
+
+44 participants were randomized into immediate training and 39 into the waitlist. The sample was 51% female, mean age 75, 73% income <$20K, and 46% nonwhite. Of the training group with complete data in Dec 2018 (n=24), 91% reported loneliness at baseline and 87% at follow-up (p=1.0), and 33% reported no technology use at baseline and 0% at follow-up (p=0.01). Of the waitlist group with complete data in Dec 2018 (n=28), 64% reported loneliness at baseline and 63% at follow up (p=1.0), and 57% reported no technology use at baseline and 64% at follow-up (p=0.63). The qualitative interviews showed isolation was a key driver of program participation, with high self-awareness about how technology may impact isolation. Participants expressed unmet needs regarding technology and health such as, "Sometimes I can't even make it [to the doctor]…I only have a caretaker. I can't drive myself. I don't even have a relative."
+
+# CONCLUSIONS:
+
+Though participation in Tech Allies did not result in change in loneliness, it did result in an increase in technology use. While other studies have evaluated small-scale digital training for older adults focused on health, this work is the first effort to our knowledge focused specifically on dissemination and implementation of digital training among this high-needs population. Our findings demonstrate that embedding training within existing community-based programs holds promise as a longitudinal and potentially sustainable mechanism to provide digital literacy training to older adults.
+
+# INADEQUATE REPORTING OF CO-INTERVENTIONS IN RECENT CARDIOVASCULAR CLINICAL TRIALS: A SYSTEMATIC REVIEW
+
+Elisavet Moutzouri 1, 2 ; Luise Adam 2 ; Martin Feller 1, 2 ; Lamprini Syrogiannouli1; Bruno R. da Costa3, 1; Cinzia Del Giovane1; Douglas Bauer4; Drahomir Aujesky2; Arnaud Chiolero1; Nicolas Rodondi1, 2. 1University of Bern, Bern, Switzerland; 2Inselspital, Bern University Hospital, Bern, Switzerland; 3University of Toronto, Bern, Switzerland; 4University of California, San Francisco, CA. (Control ID #3185147)
+
+# BACKGROUND:
+
+Co-interventions in a randomized controlled trial (RCT) is medical care given in addition to the tested intervention. If co-interventions are unbalanced across trial arms, the results may be biased. Co-interventions have to be adequately reported, particularly in RCTs at risk of bias or without full blinding. The aim of the present study was to describe the reporting of co-interventions, and to evaluate factors associated with the quality of their reporting in recent cardiovascular trials.
+
+# METHODS:
+
+We performed a systematic review of RCTs evaluating pharmacological interventions on cardiovascular outcomes, published in five high impact journals (New England Journal of Medicine, Lancet, Journal of the American Medical Association, British Medical Journal and Annals of Internal Medicine) from 1 January 2011 through 31 December 2016 (PROSPERO: CRD42018106771). Quality of reporting of co-interventions was evaluated independently by two reviewers, and was considered "inadequately reported" unless the authors reported 1) a list of co-interventions of interest across trial arms, or 2) explicitly stated the absence of potential co-interventions, in which cases it was considered "adequately reported". Furthermore, we assessed the association between quality of reporting and the blinding of participants and/or personnel, the risk of bias due to deviation of intended interventions, the adherence to study treatment, and the duration of follow-up.
+
+# RESULTS:
+
+Co-interventions were inadequately reported in 65 of 91 RCTs (71.4%), with 38 (41.8%) providing no information on co-interventions and 27 (29.7%) only partial information. Adequate reporting was associated with adherence to study treatment (odds ratio (OR) 2.86; 95% confidence interval (CI) 1.01 to 8.04), a follow-up duration of less than 6 months (OR 4.25; 95%CI 1.57 to 11.47), but was not associated with blinding (OR 0.88, 95%CI 0.35 to 2.20) or risk of bias due to deviation of intended interventions (OR 2.34, 95%CI 0.91 to 6.02), even though better reporting would have been expected in these RCTs.
+
+# CONCLUSIONS:
+
+Among recent major cardiovascular trials, over two thirds do not adequately report co-interventions, including among trials that are not fully blinded or judged to be at risk for bias. Co-interventions should be systematically reported, as they may be a source of bias, with a potential risk of marketing drugs that are less effective than what they appear in these trials.
+
+# INAPPROPRIATE STATIN THERAPY ACCORDING TO ATHEROSCLEROTIC CARDIOVASCULAR DISEASE (ASCVD) RISK; CAN WE DO BETTER?
+
+Raef A. Fadel; Guneet Ahluwalia; Courtnay Hughes; Shivani Sharma; Ahmad O. Aljamal; Jasmine Omar. Henry Ford Hospital, Rochester Hills, MI. (Control ID #3178659)
+
+# BACKGROUND:
+
+Statin therapy targeted at reducing 10-year risk of stroke and heart attack has become a cornerstone for preventative health in the outpatient setting. Appropriate statin intensity prescription based on 10-year ASCVD risk calculation can lead to improved morbidity and mortality as outlined by current American College of Cardiology/American Heart Association (ACC/AHA) guidelines.
+
+# METHODS:
+
+We conducted an empiric observational study in August 2018 based on lab results of patients visiting the Henry Ford Hospital Academic Internal Medicine Clinic between January 2017 and December 2017. We calculated the 10-year ASCVD risk for the patients based on this data, and compared the ACC/AHA guideline recommended statin therapy with the one currently prescribed. The primary outcome was appropriateness of statin therapy based on ASVCD risk calculation. Our aim was to assess whether patients in the clinic setting are being adequately managed for ASCVD risk according to ACC/AHA guidelines.
+
+# RESULTS:
+
+Of the 2994 patients assessed, approximately 1548 patients were prescribed an inappropriate intensity of statin based on 10-year ASCVD risk calculation (p < 0.001). For female patients, the odds of appropriate statin dose prescription increased by approximately 81.9% (odds ratio 1-1.819) when compared to male patients (95% CI 1.559-2.124). For black patients, the odds of appropriate statin dose prescription decreased by 32.2% (odds ratio 1-0.678) when compared to white patients (95% CI 0.532-0.864). Asian patients were more likely to be on an appropriate statin dose as compared to non-Asians (p = 0.022), and Hispanic patients were more likely to be on an appropriate statin dose as compared to non-Hispanics (p = 0.005). Approximately 1245 patients currently taking high-intensity statin did not qualify for one based on 10-year ASCVD risk calculation as compared to 484 patients (p < 0.001).
+
+# CONCLUSIONS:
+
+There is marked discrepancy in the guideline recommended statin therapy (based on 10-year ASCVD risk calculation) and currently prescribed statin, with gender and race serving as major variables. This data demonstrates a major opportunity for intervention on the part of primary care internists to improve patient outcomes in the outpatient setting.
+
+# INCORPORATING WALKING SPEED, THE FUNCTIONAL VITAL SIGN IN AN OUTPATIENT INTERNAL MEDICINE RESIDENT CLINIC. A PILOT STUDY
+
+Sara E. Atwater1; Claudia L. Campos2; Elizabeth L. Tysinger1; Maria Cranston1. 1Wake Forest Baptist Health, Winston Salem, NC; 2Wake Forest University, Winston-Salem, NC. (Control ID #3185565)
+
+# BACKGROUND:
+
+With rising healthcare costs, more pressure is being placed on primary care providers to provide efficient, yet accurate, thorough,

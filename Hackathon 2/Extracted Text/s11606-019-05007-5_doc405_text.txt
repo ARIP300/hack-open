@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# Parkinsonism-hyperpyrexia Syndrome (PHS)
+
+and metoprolol. On day 2, she required intubation for airway protection. Repeat x'ray chest revealed new left lower lobe opacity compatible with aspiration pneumonia. On day 3, she had sustained episodes of high grade fever (107.9 F) while on appropriate antibiotics for her wound and aspiration pneumonia. Neuroleptic malignant syndrome was less likely as she had normal muscle tone and normal creatinine kinase. She was given intravenous levodopa as she had missed 2 days of medication, and was given dantrolene following which she became afebrile within 2 hours.
+
+# IMPACT/DISCUSSION:
+
+Parkinsonism-hyperpyrexia Syndrome (PHS) was first described in 1981, initially termed dopamine withdrawal syndrome. It occurs following the sudden withdrawal of levodopa/carbidopa or reduction in dose. It resembles neuroleptic malignant syndrome with rigidity, pyrexia and altered consciousness. Rare causes include deep brain stimulation. Symptoms usually present 24 hours to 7 days after missed doses. Clinical features include hyperpyrexia, altered sensorium and leukocytosis. Rhabdomyolysis may occur. Complications include acute renal failure, aspiration pneumonia, pulmonary embolism and DIC. Pathophysiology may involve sudden depletion of dopamine. Mortality may be 4% mortality if recognized early, 16% if untreated. Treatment involves intravenous hydration, supplementation of dopamine orally or intravenously and close monitoring. Physical measures such as cooling therapy are helpful.
+
+# CONCLUSION:
+
+Hyperpyrexia(>106.7F) should prompt evaluation for central causes of fever. The case illustrates the importance of home medication reconciliation upon hospitalization; not taking medications contributed to fever in this case.
+
+# CEPHALOSPORIN-INDUCED HYPOPROTHOMBINEMIA VIA A WARFARIN-LIKE EFFECT
+
+Vikas Gampa1; Ariel Majidi1; Jason Moran2. 1Cambridge Health Alliance, Somerville, MA; 2Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3183005)
+
+# LEARNING OBJECTIVE #1:
+
+Cephalosporins can lead to coagulopathy from inhibition of the enzyme inhibited by warfarin.
+
+# LEARNING OBJECTIVE #2:
+
+Management of cephalosporin-induced coagulopathy is identical to that of warfarin toxicity.
+
+# CASE:
+
+Ms. J is an 82 year-old woman who was diagnosed with a T2N0M0 squamous cell carcinoma of the tongue and was admitted to the hospital for planned surgical intervention including tracheostomy, right hemi-glossectomy, neck dissection, and skin graft. History was notable for decreased po intake. She received standard pre-operative antibiotic prophylaxis with cefazolin. Pre-operative labs were unremarkable. There were no intra-operative complications. She received cefazolin as per protocol after her surgery. On post-op day 3, she had excessive oozing at the incision sites. Labs were notable for decreased Hgb 11.1 –> 8.1, platelets 125, an elevated PT (40.8) with INR 3.8, baseline normal PT 11.7 and INR 1.1. PTT was normal. Thrombin time was normal at 15.3 and fibrinogen was elevated to 432. Amidst bleeding and coagulopathy, 10mg IV vitamin K was urgently administered. On a subsequent lab draw, levels of Factors II, VII, IX, and X were 45, 26, 111, and 47, respectively, and a mixing study was inconclusive for presence of an inhibitor - these modestly reduced Factor levels and inconclusive mixing study were likely the result of administration of vitamin K with partial correction of her coagulopathy by the time they were drawn. She was treated with additional IV vitamin K, discontinuation of cefazolin, and avoidance of other cephalosporin antibiotics, with normalization of PT/INR and resolution of bleeding.
+
+# IMPACT/DISCUSSION:
+
+Antibiotics are often implicated as a cause of coagulopathy with prolongation of PT/INR and the mechanism is attributed to elimination of gut flora. Cephalosporins may pose a unique mechanism of inducing a coagulopathy via a warfarinoid effect. Certain cephalosporins contain side-chains that, released upon drug degradation, can directly inhibit Vitamin K epoxide reductase, impairing gamma-carboxylation and the ability to activate the vitamin-K dependent factors II, VII, IX, and X. This particular case illustrates that patients with a prolonged duration of decreased PO intake with reduction of vitamin K stores are prone to the hypoprothrominemic effect of certain cephalosporins. This case should raise caution in the use of cephalosporins in patients with poor nutritional status, or close monitoring of coagulation parameters.
+
+# CONCLUSION:
+
+Our patient underwent an uncomplicated surgical resection for SCC of the tongue, though she developed significant bleeding, likely in part due to a coagulopathy from cefazolin administration. Cephalosporins can cause hypoprothrombinemia and bleeding via a warfarin-like mechanism and may be more likely in patients who have decreased dietary intake of vitamin K. Treatment is vitamin K repletion and cessation of the offending antibiotic; if bleeding is severe, more urgent normalization of PT can be achieved with administration of vitamin-K dependent factors.
+
+# CERVICAL MYELOPATHY SECONDARY TO B12 DEFICIENCY FOLLOWING SLEEVE GASTRECTOMY SURGERY
+
+Murali K. Duggirala. Mayo Clinic, Rochester, MN. (Control ID #3181431)
+
+# LEARNING OBJECTIVE #1:
+
+B 12 deficiency is common following a bariatric surgery; although rare, this deficiency can result in serious complications such as cervical myelopathy.
+
+# LEARNING OBJECTIVE #2:
+
+Patient education is crucial in preventing serious complications of bariatric surgery.
+
+# CASE:
+
+Patient is a 33-year-old woman presented for a 2nd opinion regarding an outside diagnosis of multiple sclerosis. She underwent a sleeve gastrectomy surgery approximately 3 years ago. She weighed 115 kg prior to surgery and was able to lose 50 kg. She was recommended B 12 injections monthly but she took only one after surgery. Later, she switched to oral B 12 supplementation. Two years after the surgery she had developed subacute onset of numbness affecting her fingertips bilaterally. Over the next several weeks her numbness had extended to both wrists and also experienced difficulty with walking. MRI imaging showed T2 hyperintensity restricted to the C3-4 region and CSF analysis was negative. Her B 12 levels were borderline at 153. She was started on glucocorticoids for suspected multiple sclerosis or clinically isolated syndrome. Her symptoms did not improve and a followup MRI scan demonstrated a longitudinally extensive T2 hyperintense lesion now extending from C1-C7. Her copper levels, NMO antibodies, paraneoplastic panel were negative. She was diagnosed with cervical myelopathy from B 12 deficiency and was started on vitamin B 12 injections. She received 1000 mcg of vitamin-B 12 intramuscularly once a day for 7 days then, once weekly for 4 weeks and then once monthly. At three month followup, her symptoms have completely resolved.
+
+# IMPACT/DISCUSSION:
+
+B 12 deficiency is very common following bariatric surgery and can occur in up to 64% of the patients. So, following the surgery replacement of B 12 is very important. Oral B 12 is not absorbed well in patients with bariatric surgery. Parenteral B 12 supplementation is commonly recommended. If sublingual B 12 is supplementation is chosen then periodic monitoring of blood B 12 level is recommended.
+
+# CONCLUSION:
+
+Cervical myelopathy can be a complication following a bariatric surgery. It is important to counsel patients about postoperative B 12 supplementation. With adequate supplementation of B 12 this serious complication can be prevented.
+
+# CHALLENGING THERAPEUTIC APPROACH FOR CENTRAL DIABETES INSIPIDUS
+
+Maria del Mar Morales Hernandez1; Marie A. Landicho1; Ivan A. Serrano2, 1; Kent Wehmeier1. 1University of Florida COM, Jacksonville, FL; 2University of Florida, Jacksonville, FL. (Control ID #3186355)

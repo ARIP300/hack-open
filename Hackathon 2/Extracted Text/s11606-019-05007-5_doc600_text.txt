@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# A PHARMACIST-DRIVEN POPULATION HEALTH INITIATIVE TO IMPROVE THE QUALITY OF HYPERTENSION MANAGEMENT IN A GENERAL INTERNAL MEDICINE CLINIC
+
+Jennifer Sabatino; Shengyi Mao. The Ohio State University, Columbus, OH. (Control ID #3186608)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Globally, hypertension is the number one cause of death and disability which underscores the importance of controlling this modifiable risk factor to reduce cardiovascular mortality in primary care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To assess utility of pharmacist co-management of hypertension in improving blood pressure control (defined as blood pressure <140/90) for patients with a diagnosis of hypertension in a primary care clinic.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A pharmacist flagged charts of patients on the daily clinic schedule with a diagnosis of hypertension whose last office blood pressure was 140/90. Front desk staff notified the pharmacist when flagged patients arrived and clinical staff notified the pharmacist if the flagged patients had a blood pressure that was still 140/90 on rooming. The pharmacist met with these patients real-time to recheck blood pressures, review medications, and assess adherence. If the pharmacist was not able to meet with the patient during their visit, they contacted the physician after the visit to request referral for co-management if appropriate. Alternatively, the physician could contact the pharmacist to initiate referral for co-management.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The proportion of adult patients with a diagnosis of hypertension with last office blood pressure <140/90. We also tracked as a secondary measure, the proportion of patients with uncontrolled hypertension with a defined plan for management following their visit.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From February 2018 through December 2018, a total of 293 patient visits met the criteria for the new workflow. Of these, 87 patients (26.7%) had a blood pressure 140/90 on rooming or were not checked. The pharmacist was in the office for 49 of the uncontrolled visits (56.3%). Of these, the pharmacist was notified by clinic staff for seven patients and completed co-management visits for nine patients. Of the 87 uncontrolled patient visits, 70 (80.5%) had hypertension follow-up documented after the visit. Types of follow-up included pharmacist co-management initiated by the pharmacist (15/87, 17.2%), pharmacist co-management initiated by the physician (31/87, 35.6%), management by the physician alone (18/87, 20.7%), monitoring by nursing staff (4/87, 4.6%), or managed by specialist (2/87, 0.23%). During the study period, 42 patients with uncontrolled hypertension at their initial visit had a subsequent visit. Of these, 33 patients (78.6%) achieved blood pressures <140/90. Overall, the percentage of patients with controlled hypertension increased from 58.4% (380/651) prior to implementation of the new workflow to 70% (480/681) at the end of the study period.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Establishing a workflow to promote referral for pharmacist co-management of hypertension improved blood pressure control rates compared to usual care.
+
+# A PROCESS TO IMPROVE CARDIAC TELEMETRY USE IN A COMMUNITY HOSPITAL
+
+sana chams3; jasmeet bal1; Ankita Aggarwal1; Manishkumar Patel1; Gloria J. Hong1; Vesna Tegeltija1; Sarwan Kumar2. 1Wayne State University, Auburn Hills, MI; 2Crittenton Hospital/Wayne state university, Rochester, MI; 3wayne state university school of medicine, Auburn Hills, MI. (Control ID #3184688)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Inpatient telemetry monitoring is commonly used to identify arrhythmias, QT prolongation, and ischemia. However, it has been noticed that telemetry is being utilized inappropriately which leads to increased health care cost for the patient in addition to alarm fatigue for the health care professionals.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. The primary aim of our project was to explore the reasons for unnecessary telemetry use during hospitalization 2. The secondary aim was to decrease inappropriate telemetry use.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A project team was formed to assess whether telemetry is utilized appropriately amongst patients admitted to our community hospital. The fishbone diagram was used to explore the reasons for inappropriate telemetry use.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We used the Institute of Healthcare Improvement [IHI] model to guide this study. PDSA(plan, do, study, act) cycles were used to assess the intervention by comparing pre and post-intervention data.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+PDSA 1: During root cause analysis, a fishbone diagram was utilized to uncover the culprits of inappropriate telemetry use. It was discovered that an order for telemetry can be placed without selecting an indication. We targeted this system problem by creating a list of class I, II and III indications, in line with ACC/AHA guidelines, and integrated it into the EMR(electronic medical records). A post-implementation review revealed no improvement in adherence due to the physician's ability to bypass this checklist. PDSA 2: In the second cycle, a lack of knowledge about indications for telemetry was found as another culprit contributing to unnecessary use. An educational session about indications of telemetry was conducted for internal medicine residents and they were instructed to document it in their note. Post-intervention data revealed that in 30% of cases, the residents documented an indication for telemetry. Furthermore, chart review revealed that none of the residents discontinued telemetry during the hospitalization despite negative alarms. PDSA 3: A review of 50 charts of patients admitted to the medical floor with telemetry revealed that 60% of patients had no appropriate indication for telemetry continuation after 72 hours. A pop-up was integrated into the EMR that appears 72 hours after initiation of telemetry guiding physician to either renew telemetry by choosing an indication or to discontinue telemetry if not indicated. A post-implementation review revealed that 34% of telemetry use was addressed by either renewing telemetry order or by discontinuing it. Only 10% telemetry was discontinued through the pop-up as physicians were able to bypass it.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our project has been successful in bringing attention to overuse of telemetry and physicians are now required to select indications for telemetry when placing an order. However, once an indication is selected,

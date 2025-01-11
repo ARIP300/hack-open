@@ -1,0 +1,65 @@
+# JGIM
+
+# ABSTRACTS
+
+solutions, medical devices, and intravenous solutions. There have even been reports documenting the growth of B. cepacia in water systems and colonizing bottled water. B. cepacia pseudobacteremia is also noted in numerous reports, but true bacteremia caused by B. cepacia is rare. In our case, the patient was not hospitalized in the ICU, did not have cystic fibrosis, did not have an indwelling line, and had not had invasive procedures. Instead, this was a unique case of B. cepacia isolation caused by probable environmental contamination after improper use of a Neti Pot with non-sterile water. It is important to note B. cepacia is often resistant to many common antibiotics and therefore treatment plans can be complicated. Management primarily focuses on prevention of the infection.
+
+# CONCLUSION:
+
+Burkholderia cepacian has recently been identified as an important opportunistic pathogen in hospitalized and immunocompromised patients. It is important to educate immunocompromised patients about the dangers of common home remedies, which may increase their risk of infections.
+
+# BILATERAL ADRENAL HEMORRHAGE PRESENTING WITH ACUTE ADRENAL INSUFFICIENCY IN A PATIENT WITH SUBDURAL HEMATOMA ON RIVAROXABAN
+
+Zachary S. Bugos; Fnu Abhishek. UPMC Mercy, Etna, PA. (Control ID #3185728)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize ADRs associated with rivaroxaban
+
+# LEARNING OBJECTIVE #2:
+
+Identify adrenal insufficiency in difficult clinical scenarios
+
+# CASE:
+
+70yo morbidly obese F with PMHx of HTN, DM2, hypothyroidism and h/o spontaneous DVT now on rivaroxaban was admitted from OSH for SDH. Pt had been experiencing nocturnal HA and nausea x2d, then while taking a shower the night before admission, suddenly felt weak, sat on bathtub, denies LOC or trauma. Later presented to ED, CT head revealed left tentorial SDH. Pt was transferred to our hospital for further management. Upon arrival to our ICU, factor complex was weight-based dosed for rivaroxaban reversal. Of note, pt has been on rivaroxaban for a year in setting of chronic LLE DVT, but was held on admission and no further AC was given for the duration of hospital course. Pt remained A&O w/o focal deficits, transferred to the floors on HD3 for further monitoring of comorbidities. However, the AM of HD10, during routine nursing check, a rapid response was called for unresponsiveness. BP 51/38, agonal breathing and pulse ox 62%. Initial concern for worsening SDH, pt was intubated and underwent CT head, which was unremarkable. Pt was transferred to ICU and started on norepinephrine plus vasopressin due to persistent hypotension refractory to IVF resuscitation. Initial workup focused on questionable infectious etiology causing septic shock, as pt had leukocytosis to 17K but was afebrile. Due to unknown etiology, a CT abdomen/pelvis was performed which revealed b/l adrenal mass vs hemorrhage. Endocrine consulted, initiated stress-dose hydrocortisone 50mg q8h plus fludrocortisone 0.05mg daily. Repeat CT abdomen/pelvis on HD12 confirmed the diagnosis of adrenal insufficiency caused by b/l adrenal hemorrhage.
+
+# IMPACT/DISCUSSION:
+
+Rivaroxaban is part of a class of agents known as direct oral anticoagulants (DOACs). Rivaroxaban inhibits both free and bound Factor Xa, ultimately leading to interruption of both intrinsic and extrinsic pathways of the coagulation cascade. Common ADRs include prolonged bleeding from wounds or surgical sites, hematuria, epistaxis and melanotic stool. Notably, cerebrovascular or gastrointestinal sites are considered major bleed events, are acute and easily recognized by providers. However, rare delayed-onset complications, such as b/l adrenal hemorrhage leading to adrenal insufficiency, must be considered in patients presenting with worsening mentation, non-specific systemic symptoms and worsening lab findings. To the best of our knowledge, this is the first case report in which rivaroxaban was the implicated factor for both a cerebrovascular hemorrhage and a delayed b/l adrenal hemorrhage in the same patient.
+
+# CONCLUSION:
+
+Adrenal hemorrhage should be considered in anticoagulated patients with refractory hypotension including new direct anticoagulants. Diagnostic measures should never delay the treatment in the case of strong clinical suspicion of acute adrenal insufficiency. Acute adrenal hemorrhage should be managed as an acute adrenal crisis with IV hydrocortisone.
+
+# BILE IS VILE: CARDIAC COMPLICATIONS OF CHOLESTASIS
+
+Archana Sridhar; Sophie Barbant. Highland Hospital, Alameda Health System, Oakland, CA. (Control ID #3184295)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize cardiac complications of elevated bile acid levels
+
+# LEARNING OBJECTIVE #2:
+
+Treat arrhythmias caused by cholestatic liver disease
+
+# CASE:
+
+A 32-year-old woman at 38 weeks gestation was admitted to the obstetrics service for intrahepatic cholestasis of pregnancy (ICP). Prior to admission, the patient was seen in clinic reporting pruritis. Serum bile acid levels were ordered and returned elevated at 67umol/L, prompting admission for induction of labor (IOL). The patient's past medical history included an uncomplicated vaginal delivery 3 years prior. She took prenatal vitamins and had no allergies. On hospital day 2, after receiving misoprostol and oxytocin, internal medicine consultation was requested to evaluate her for sustained bradycardia. On examination, the patient appeared well with a heart rate of 35 beats per minute (bpm) and blood pressure of 95/60. Prior to IOL her heart rate was 56 bpm, and her outpatient baseline was 76-88 bpm. Cardiac examination revealed marked bradycardia; the remainder of her exam was unremarkable. Fetal monitoring was reassuring. An electrocardiogram showed sinus bradycardia and ultrasonography revealed normal cardiac structure and function. The differential diagnosis included a paradoxical vagal reaction from pain or positioning, medication side-effect, or thyroid dysfunction. These were considered unlikely given that her heart rate did not change significantly with positioning or contractions, she had received no anesthesia or medications known to cause bradycardia, and thyroid testing was normal. Elevated bile acid levels were ultimately felt to be driving her arrhythmia, and ursodeoxycholic acid (UDCA) therapy was started. Her heart rate improved to 58 bpm one day after UDCA initiation and fetal delivery. In outpatient follow-up, her heart rate was 75 bpm.
+
+# IMPACT/DISCUSSION:
+
+ICP is known to cause stillbirth through placental transfer of bile acids leading to fetal bradycardia and cardiac arrest. The role of circulating bile acids on maternal cardiovascular health is less well-described, with few reported cases in the literature. Recent animal studies have shown an association between elevated bile acid levels and arrhythmias. Interruption of the cardiac cell membrane by hydrophobic bile acids may alter transcellular calcium exchange, one of the many proposed mechanisms of arrhythmogenesis. Treatment with UDCA, a water-soluble bile acid that decreases levels of hydrophobic bile acids, mitigates cardiotoxicity. Despite newer research examining the role of bile acids in inducing bradyarrhythmias, this relationship remains underrecognized by clinicians. Prompt identification is vital, as treatment with UDCA can prevent morbidity. Further study should explore whether UDCA may ameliorate cardiovascular dysfunction seen in liver cirrhosis, where bile acid secretion is impaired.
+
+# CONCLUSION:
+
+Elevated bile acid levels in cholestatic liver disease may cause bradycardia. UDCA treats arrhythmias associated with cholestasis.
+
+# BILE, THOU SHALT NOT PASS! A CASE OF SYMPTOMATIC HEPATIC SARCOIDOSIS.
+
+Kamesh Gupta; Ali Shami; Vellayat Ali. Baystate Medical Center, Springfield, MA. (Control ID #3179967)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the presentation of symptomatic hepatic sarcoidosis

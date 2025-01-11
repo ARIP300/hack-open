@@ -1,0 +1,43 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+Among academic medical centers' online publicly available information for lung cancer screening, a balanced message of both benefits and harms was often not provided, and harms were commonly ignored. Many centers do not guide patients toward a discussion of harms and benefits with a patients' primary provider. Continued study and refinement of published information in this area is needed to optimize value concordant patient decision making for lung cancer screening.
+
+# BACKGROUND:
+
+Studies have found that empathy in medicine (clinical empathy) can improve patient outcomes. These outcomes include reducing metabolic complications in diabetic patients, increasing their treatment compliance, and improving patient outcomes for the common cold. Despite empathy's beneficial value in medicine, other studies indicate that empathy significantly declines during the third year of medical school and attribute this decrease to many facets of students' lives: fear of making mistakes, training distress, demanding curriculum, conflicting time commitments, sleep loss, and a hostile work environment. Seeking to better understand student experiences with clinical empathy at the Medical College of Wisconsin (MCW), we surveyed third and fourth-year medical students (M3 and M4) using a self-report measure. Our goals were to determine the student's perception of empathy's role in medicine, the quality of teaching on empathy and the best way to teach empathy. We compared the results between M3 and M4 students and between genders.
+
+# HOW DO RESIDENTS RESPOND TO UNANNOUNCED STANDARDIZED PATIENTS PRESENTING SOCIAL DETERMINANTS OF HEALTH?
+
+Fariha Ansari1; Harriet Fisher; Jeffrey Wilhite2; Kathleen Hanley; Colleen C.1; Gillespie1; Sondra Zabar1; Lisa Altshuler1. 1NYU School of Medicine, New York, NY; 2New York University School of Medicine, New York, NY. (Control ID #3186372)
+
+# BACKGROUND:
+
+There is an increased awareness among healthcare professionals to discuss social determinant of health (SDOH) information with patients. However, the awareness does not necessarily translate into effective response to the situation. In order to better understand the nuances in such conversations between patients and providers, we reviewed qualitative responses from Unannounced Standardized Patient (USP) portraying patients with SDOH concerns who were seen as part of a study to investigate healthcare teams' management of SDOH information.
+
+# METHODS:
+
+USPs, representing six different clinical cases, were seen by residents at an urban safety-net hospital. Each case had SDOH issues (financial and housing insecurity, social isolation), and USPs were trained to provide such information in a systematic fashion in response to provider questioning. After the encounter, USPs completed a behaviorally-anchored, standardized checklist, and also entered their impressions of the encounter in free text. The focus of this study was to evaluate these comments using a qualitative approach, focusing only on those that addressed SDOH. 258 visits occurred from 2017-present, and 209 relevant comments were analyzed.
+
+# RESULTS:
+
+Three general themes emerged: residents' openness to discussion of SDOH, their understanding of how these issues related to presenting concerns, and how they responded to those concerns. Some providers did not explore SDOH prompts, e.g. "I don't think she cut me off, but she quickly moved on to her next question without further delving deeper", while others were more responsive and supportive e.g., the provider "is very open to hearing my situation, I was able to fully explain my situation clearly." Such provider behavior impacted trust and connection, e.g., "Doctor X had good communication skills, but I felt like he didn't really hear my full story." There were variations in how well providers related SDOH to medical symptoms, e.g. "he completely ignored my concerns about mold at home" [asthma case] vs. "His questions centered around possible anxiety this (housing issue) might be causing me." After acknowledgement, fewer providers provided specific information or referrals to address the problem. This lack of follow-up seemed to leave USPs feeling uncomfortable. Both empathic comments and suggestions for actions influenced their sense of activation to manage their health post-visit.
+
+# CONCLUSIONS:
+
+Data from the USP visits indicate that there is a range of attention to and follow up on patient presentation of SDOH needs by trainees in clinical settings. Issues of both general communication skills, awareness of connection between SDOH and health, and awareness of local resources impacted provider behavior, which then had an effect on relationship with patients. The complex issues involved in addressing SDOH highlight the diverse training needs for learners.
+
+# HOW LONG SHOULD IT TAKE TO PROVIDE HIGH QUALITY PRIMARY AND SECONDARY PREVENTIVE CARE IN THE ERA OF TEAM-BASED MEDICINE AND POPULATION HEALTH?
+
+Justin Porter1; Cynthia M. Boyd2; Mohammed Reza Skandari1; Neda Laiteerapong1. 1University of Chicago, Chicago, IL; 2JHU, Baltimore, MD. (Control ID #3183683)
+
+# BACKGROUND:
+
+Primary care providers (PCPs) have always been expected to provide quality preventive and chronic care for each of their patients, but studies have shown that many preventive and chronic care gaps exist. To address these care gaps, new strategies have emerged including, population-level approaches for completing preventive care gaps and increasing numbers of non-physician providers in primary care. To understand their implications, we updated previous calculations of the total amount of time a PCP would need to provide preventive and chronic disease care for a panel of 2500 patients on their own, as well as with team-based and population level strategies.
+
+# METHODS:
+
+We calculated the amount of time per day a PCP would have to spend to complete preventive and chronic care, if the PCP 1) alone, 2) with team-based, 3) with population-level, and 4) with team-based and population-level strategies were used to complete care.

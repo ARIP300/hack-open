@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSION:
+
+Encephalitis is a devastating central nervous system infection that requires early antiviral therapy to optimize management for improved outcomes, however is dependent upon clinician detection of focal parenchymal dysfunction in the setting of CNS infection. Traditional encephalopathic features are well recognized, however concern should extend to atypical signs and symptoms that could represent brain tissue dysfunction. The above case describes bradycardia as the presenting manifestation of encephalitis. HSV encephalitis shares the target insult location with the established Temporal-Lobe Epilepsy induced Ictal Bradycardia Syndrome, and suggest bradyarrhythmia as both a temporal lobe neuronal insult, and previously unrecognized encephalitis defining syndrome.
+
+# BREATHING NOT PROPERLY? IT IS MORE THAN JUST HEART FAILURE
+
+Kendall Downer. UPMC, Pittsburgh, PA. (Control ID #3185997)
+
+# LEARNING OBJECTIVE #1:
+
+Illustrate the value of the negative likelihood ratio of BNP in patients with undifferentiated dyspnea
+
+# LEARNING OBJECTIVE #2:
+
+Define anchoring bias and recognize the importance of cognitive forcing strategies
+
+# CASE:
+
+A 71 y/o man with a history of heart failure and COPD on chronic prednisone presented with two months of progressive dyspnea on exertion in addition to weight gain, lower extremity edema and nonproductive cough. He was recently hospitalized for a CHF exacerbation and did not restrict salt or fluid after discharge. He denied paroxysmal nocturnal dyspnea or orthopnea. Physical exam was notable for oxygen saturation 83% on room air. Crackles were present in all lung fields. No gallops or jugular venous distension was appreciated. Marked pitting edema was present in his lower extremities. Labs were notable for BNP 22. Chest x-ray showed patchy, bilateral lung opacities. He was treated for a CHF exacerbation with two rounds of diuresis without improvement in symptoms. At that time, the diagnosis was reconsidered, and a chest CT showed pulmonary fibrosis in a usual interstitial pneumonia pattern. His clinical trajectory was most consistent with an IPF flare as he progressed to respiratory failure and passed away a few days after presentation.
+
+# IMPACT/DISCUSSION:
+
+Dyspnea is a common complaint faced by internists in all clinical settings and has a large differential. That differential can be narrowed with clinical tools such as The Rational Clinical Exam that allow quick access to and comparison of likelihood ratios (LRs). The negative likelihood ratio of BNP for heart failure in patients with dyspnea in the ED is 0.11. With a pre-test probability of 50%, this patient's post-test probability of heart failure is 9.9%. Other signs and symptoms with high predictive value include an S3 gallop, pulmonary venous congestion, and absence of cardiomegaly with LRs of 11, 12, and 0.33, respectively. In contrast, PND, orthopnea and lack of JVD are of less predictive value, with LRs of only 2.6, 2.2 and 0.66 respectively. Failing to modify the initial clinical impression when discordant information arises - such as adjusting the post-test probability based on the BNP value - is termed anchoring bias. When contradictory data emerges, an appropriate next step is deliberate, systematic reconsideration of the diagnosis, called a cognitive forcing strategy. When these steps do not occur, there is an increased risk of diagnostic error and potential patient harm.
+
+# CONCLUSION:
+
+Physicians should be aware of the signs, symptoms and tests with the greatest predictive values in common conditions, including the powerful negative predictive value of BNP for heart failure in patients with dyspnea. When a highly predictive test is discordant with the initial clinical impression, physicians should deliberately consider potential biases and alternative diagnoses.
+
+# BROADENING YOUR DIFFERENTIAL FOR ABDOMINAL PAIN TO EXTRA-ABDOMINAL CAUSES
+
+Nida Waheed; Kelsey Pan; James Smith; Zareen Zaidi. University of Florida, Gainesville, FL. (Control ID #3185435)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize not all generalized abdominal pain stems from an intra-abdominal source
+
+# CASE:
+
+A 47-year-old triathlon runner presented to his primary care clinic due to abdominal pain that was initially epigastric and then generalized and associated with nausea, poor oral intake, and a 15-20 pound unintended weight loss over two months. Physical examination revealed generalized abdominal pain with no organomegaly, point tenderness, guarding, or rebound on palpation. The pain was not associated with referred pain, exercise, or gait abnormalities. Initial work up revealed a negative upper endoscopy and normal lipase. Due to persistent symptoms, a CT abdomen and pelvis was ordered and revealed a soft tissue mass in the right anterior quadriceps femoris muscle measuring 7.3x8.3cm with mass effect upon the vastus lateralis, vastus medialis, and rectus femoris muscles. A biopsy revealed high-grade synovial sarcoma, spindle cell type. He is currently being treated with radiation therapy and neoadjuvant ifosfamide and mesna.
+
+# IMPACT/DISCUSSION:
+
+The differential diagnosis for generalized abdominal pain is extensive, including IBD, IBS, viral gastroenteritis, constipation, malignancy, chronic mesenteric ischemia and more. Given the clinical presentation of unintentional weight loss, GI malignancy was high on the differential. Although the CT abdomen was unrevealing for intra-abdominal etiologies, it serendipitously led to the discovery of the synovial sarcoma of the right thigh. This case highlights the importance of understanding abdominal and quadriceps muscle anatomy, specifically their origin, insertion, and action. It is also important to pursue further imaging in the setting of "red-flag" symptoms, such as unintentional weight loss. There are no prior cases found in the literature of thigh masses presenting with abdominal pain. Both mass effect on the abdominal and quadriceps muscles and nerve irritation leading to referred pain along the abdominal sheath were considered to be the culprit for this patient's abdominal pain. Synovial sarcoma is a high-grade soft tissue sarcoma with a high mortality rate, making up 5 to 10 percent of all soft-tissue sarcomas. It commonly occurs in children and young adults. Synovial sarcomas often present as a chronic pain at the local tumor site prior to the appearance of a noticeable tumor bulge. Diagnosis is made by biopsy and mainstay treatment for non-metastatic sarcoma consists of surgical resection, followed by radiation and possible adjuvant chemotherapy. Large tumor size (>5 cm), along with high histologic grade, increased age, and invasion of bone or vessels are often associated with poor prognosis. Delay in diagnosis is common, and early recognition has significant prognostic impact.
+
+# CONCLUSION:
+
+Abdominal pain does not always stem from an intraabdominal source, and it is crucial to pursue further workup for suspected sources of malignancy, despite negative workup of the most likely source.
+
+# BRODIFACOUM COAGULOPATHY IN A 23 YEAR-OLD WOMAN AFTER SYNTHETIC CANNABINOID USE
+
+Evans Brown. Johns Hopkins Bayview, Baltimore, MD. (Control ID #3185542)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize signs, symptoms, and historical details of Brodifacoum toxicity
+
+# LEARNING OBJECTIVE #2:
+
+Understand basic treatment of Brodifacoum toxicity
+
+# CASE:
+
+A 23 year-old woman presented with a several day history of unexplained extremity bruising, bleeding from inside of her mouth/lips, epistaxis, and progressive menorrhagia. Review of systems was notable for headache and abdominal discomfort. She had no personal or family history of bleeding or clotting disorders. She reported smoking synthetic marijuana with friends two weeks prior to presentation. Her physical exam revealed scattered ecchymosis on all extremities, varying in size and color, and petechiae on her legs. There was a large amount of blood in the vaginal vault. Laboratory results were most notable for INR >9.6, and PTT 94.1. Cat scan of the head, abdomen, and pelvis revealed no acute internal.

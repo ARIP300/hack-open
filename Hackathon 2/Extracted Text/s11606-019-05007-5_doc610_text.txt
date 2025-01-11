@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+the class alleviated their physical and/or emotional pain. 100% reported they would sign up for another class.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our immigrant community experiences deep suffering, which encompasses physical and emotional pain from the traumas they endured in their home country, the loss of their homeland, and the many struggles of adapting to a foreign country and culture. Unlike traditional referral-based models, a community-based model offers much more than relief from physical pain. Most participants found a sense of community and improvement in social isolation. In addition, elimination of barriers such as childcare and transportation issues increased participation and enjoyment of the class. This is an opportunity to recognize the benefits of community-based programming in treating patients of significant trauma.
+
+value <0.001 for all). 18.3% NPs perceive poor control over workload compared to 8.8% among PAs (p-value 0.03). Statistically significant more inpatient APPs feels work atmosphere is hectic and they also spent excessive time in electronic health record (EHR) at home compared to outpatient APP.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Healthcare has been evolving into a more team-based system in order to help share the burden of a growing patient population which at the same time, demands high quality and timely care. Advanced Practice Providers (APPs) stand at the nucleus of this model and face many of the same obstacles and stress levels as their physician colleagues. However, there is very little research to date on APP burnout. Our survey showed that the prevalence of work place burnout is high among APPs.
+
+# BURNOUT AMONG APPS
+
+Brianna C. Pearson; Tareq Islam; Ana Everwine. Wake Forest Baptist Health, Winston Salem, NC. (Control ID #3184549)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Are APPs (advanced practice provider) burning out and if so, why?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Evaluating the prevalence of APP burnout and how stress, job satisfaction, and workplace factors contribute to burnout.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+AMA's validated 10 question Mini-Z survey was adapted to RedCap and distributed via email to approximately 550 APPs (NP, PA, CRNA, and CNM) at Wake Forest Baptist Health (inpatient and outpatient). Information collected include self-reported data on demographic variables (sex, title, setting, specialty, and years in role), subjective feeling of burn out at work and nine work place factors (stress, job satisfaction, work control, environment, teamwork, value alignment with leadership, documentation time, home EMR use, and EMR proficiency) on a Likert scale of 5 (strongly disagree to strongly agree, poor to optimal).
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Person correlation coefficient was calculated between burnout category and work related factors. Prevalence of different subjective feeling of burnt out at work and work related factors were calculated among overall and stratified by demographic variables. Likelihood ratio was calculated to measure significance of difference.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Total 229 surveys were returned and analyzed. 38.9% APP feels burnt out at work. This prevalence is higher among NP (44.4%) compared to PA (33.3%), but not statistically significant (p-value 0.09). No difference exists by gender, clinical setting (inpatient vs. outpatient). Interestingly APP with >5 years of experience (48.5%) felt more burnt out than others (0-2 and 3-5 years, 27.1% and 35.7% respectively, p-value 0.01) and also felt that the care team works poorly together. Self reported work place burn out is highest among APP working in internal medicine (48.2%) and lowest among Surgery APP (19.4%) (p-value 0.04). Job satisfaction, stress, control of workload, efficient documentation, hectic work atmosphere, professional values, team work, and EHR efficiency were significantly associated with burn out at work (Pearson co-efficient value of -0.53, +0.52, -0.53, -0.37, +0.43, -0.40, -0.45, +0.25 respectively with p-
+
+# CALL ME MAYBE? IMPROVING UTILIZATION OF TELEMEDICINE IN A VA RESIDENT CLINIC
+
+Kaleb Keyserling1; Jared Huber1; Carol Sprague2, 1. 1Oregon Health & Science University, Portland, OR; 2Portland VAMC, Portland, OR. (Control ID #3149915)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Residents have limited exposure to telemedicine, an important tool in providing care for physically and geographically isolated patients.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Increase resident exposure to telemedicine, a valuable health care tool. 2. Improve access to care for the veteran population we serve at the Portland VA.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+With rapid improvements in technology, telemedicine is becoming common place in modern medical practice, allowing patients quicker and more convenient access to health care and closer follow-up with providers. Residents have little training on utilizing telemedicine. The Portland VA Resident and Faculty Practice offers a unique opportunity for residents to schedule follow-up telephone appointments with patients. Residents were first offered the opportunity to schedule phone appointment at our clinic in 2013. Appointments were originally scheduled in half day blocks, once every three months. A review of the phone clinic data showed that only 18% of available resident phone appointments were utilized. A resident survey showed opportunity to improve general knowledge on conducting phone visits as well as multiple scheduling issues hindering utilization. Based on these results, we designed and conducted a phone clinic orientation addressing the practical and clinical aspects of the phone visit, including how to schedule and encounter the visit as well as which patients and issues are appropriate for a phone visit. Residents were given a 30 minute protected time slot for phone visits each clinic week and a template was created to facilitate documentation.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The number of phone appointments completed per month will be tracked on a run chart as a process measure. Repeat surveys we will be used to assess resident understanding of phone clinic and the scheduling process as our main outcome measures. We will track residents' enthusiasm to keep using phone clinic as a balancing measure.

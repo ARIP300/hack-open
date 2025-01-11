@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This is the first prospective randomized study of Internal Medicine residents evaluating the role of a standardized chest radiograph curriculum on education, knowledge, and clinical competency. While there is demonstrated interest in the curriculum, we have encountered limitations in content delivery. As established in other small studies, we saw that the voluntary aspect of this intervention resulted in relatively few responses that continued to decrease over time. It seems that there are limitations in deploying a voluntary intervention via email, including internal motivation, email fatigue, and prioritization. Because of the relatively few responses at present, it may be difficult to assess for efficacy by the end of the 12-month study.
+
+Students, this project integrates the humanities into a clinical learning environment for learners at all levels. Linking the respective frameworks of medical and humanities education is feasible and productive despite the time constraints within a busy residency program.
+
+# EVALUATION OF THE EFFECT OF INTRODUCTION OF A CLINICAL REASONING CURRICULUM IN A CLINICAL SKILLS COURSE FOR NOVICE MEDICAL STUDENTS.
+
+Arati Kelekar1; Nelia Afonso2. 1Oakland University William Beaumont School of Medicine, Huntington Woods, MI; 2Oakland University William Beaumont School of Medicine, Sterling Heights, MI. (Control ID #3167094)
+
+# EVALUATION OF A HUMANITIES CURRICULUM TO PROMOTE HIGHER LEVEL CLINICAL REASONING AT INTERNAL MEDICINE MORNING REPORT: RESULTS OF A QUALITATIVE ANALYSIS
+
+Grace Prince; Rimma Osipov; Anthony Mazzella; Paul Chelminski. University of North Carolina, Chapel Hill, NC. (Control ID #3177717)
+
+# NEEDS AND OBJECTIVES:
+
+1. Develop a humanities-based curriculum using art media (visual, music, and literature) to promote higher level clinical reasoning at Internal Medicine morning report.
+2. Solicit interactive, structured observation and analysis of art media using Visual Thinking Strategy (VTS) [Katz, Khoshbin, 2014].
+3. Apply techniques of qualitative analysis to session recordings to demonstrate how participants apply and develop clinical reasoning skills through engagement with humanities media.
+
+# SETTING AND PARTICIPANTS:
+
+In medical education, the humanities are used to teach communication, promote wellness, and elucidate the social context of care. We piloted a curriculum to expand these roles, using the humanities to catalyze higher level clinical reasoning. Drawing on accepted theories of clinical reasoning, this project adapts the case-based morning report format to analysis of a "case" from the humanities. The pilot spanned four sessions and included medical students, residents and faculty.
+
+# DESCRIPTION:
+
+With a facilitator, the audience engaged collaboratively in observation and interpretation of a work of art, music, or literature using VTS.
+
+# EVALUATION:
+
+Each session was recorded and transcribed. Transcripts were analyzed using ATLAS.ti. Six codes, derived from the work of Judith Bowen, were assigned to responses: data acquisition, problem representation, contextualization, hypothesis generation, pattern recognition, and illness scripts. Coding was validated for reliability. Analysis to date reveals that clinicians apply analytic techniques used in the clinical setting to art. Within a single session, we saw progression from rudimentary data acquisition (15 occ) to higher level hypothesis generation (16 occ), contextualization (16 occ), and application of illness scripts (9 occ). Of 43 coded responses, we found 16 instances in which codes co-occurred within a statement, indicating that participants' clinical reasoning was not compartmentalized. Rather, clinicians iteratively blended and refined the processes of clinical reasoning, thus evincing Dual Processing Theory. This analysis suggests that clinical reasoning is more analogous to the epistemology of the humanities than often perceived and demonstrates a role for humanistic media in developing clinical reasoning.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The humanities offer a dynamic platform for cultivating observation and contextualization. Though humanities courses are well established for medical.
+
+# NEEDS AND OBJECTIVES:
+
+Clinical reasoning (CR) is often not explicitly taught to novice medical students. A significant proportion of students graduate with suboptimal diagnostic reasoning abilities. Preclerkship clinical skills (CS) courses are an ideal venue to teach the CR process as they encourage students to integrate their basic science knowledge with patient-centered communication skills. The goal of our study was to evaluate the impact of a clinical reasoning curriculum on the accuracy of relevant symptom query and generation of appropriate differential diagnoses by second year (M2) medical students assessed through an end of semester objective structured clinical examination (OSCE).
+
+# SETTING AND PARTICIPANTS:
+
+The study was approved by the institutional IRB. M2 students participating in the clinical skills course of winter 2018 formed the study group. These students received 3 new clinical reasoning sessions (total 6 hours). Whole case approach, serial cue approach, self-explanation of pathophysiological mechanisms and comparison of closely related diagnoses were strategies used to teach clinical reasoning. Students from the previous year who had not received the curricular intervention formed the comparison group.
+
+# DESCRIPTION:
+
+The students interviewed a standardized patient (SP) presenting with a chief complaint of palpitations and dizziness and were asked to document a comprehensive history. They were also asked to list their top 3 differential diagnoses. In order to generate the items and value for scoring the case, 16 experienced faculty clinicians were asked to determine the importance of symptoms and historical elements in the presentation and required to generate a prioritized differential diagnosis. Students who consented (101 in CR group and 107 in non CR group) had their OSCE writeups graded. They were given 1 point for each significant symptom queried and 1 point for identifying each high priority differential diagnosis.
+
+# EVALUATION:
+
+Students in the CR group were more likely to query relevant symptoms than those in the non CR group but the results were not statistically significant (3.74 vs 3.34). For the high priority differential diagnoses, out of a maximum score of 3, students in the CR group achieved 1.98 while students in the non CR group scored 1.64, a result that was statistically significant (p= 0.0002).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Students who underwent the curriculum were more likely to identify symptoms of organ systems not anatomically related to the organ system of the chief complaint. For the differential diagnosis, hyperthyroidism and anxiety (pathophysiologically distant from the chest) were more likely to be identified by the curricular group and diagnoses like pulmonary embolism and myocardial infarction were more often noted by the non-curricular group. The top 5 differential diagnoses generated by students who underwent the CR curriculum mirrored those entertained by the clinicians. It is our impression that our curriculum which emphasized multi-organ system based differential diagnosis contributed to this occurrence.

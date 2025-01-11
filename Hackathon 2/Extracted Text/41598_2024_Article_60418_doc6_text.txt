@@ -1,0 +1,55 @@
+# Constructs
+
+| |Items|Standardized factor load|AVE|CR|Cronbach’s alpha (α)|
+|---|---|---|---|---|---|
+|PEA 1|0.887| |0.7791|0.9461|0.859|
+| |PEA 2|0.811| | | |
+| |PEA 3|0.840| | | |
+| |PEA 4|0.876| | | |
+|PEI 1|0.927| |0.6565|0.8827|0.864|
+| |PEI 2|0.879| | | |
+| |PEI 3|0.709| | | |
+| |PEI 4|0.701| | | |
+|CHRP 1|0.775| |0.6122|0.8627|0.831|
+| |CHRP 2|0.745| | | |
+| |CHRP 3|0.731| | | |
+| |CHRP 4|0.871| | | |
+|PEB 1|0.773| |0.5867|0.8493|0.830|
+| |PEB 2|0.652| | | |
+| |PEB 3|0.797| | | |
+| |PEB 4|0.830| | | |
+
+Table 2. Convergent validity and reliability.
+
+and diagonal values higher than non-diagonal values indicate good discriminant validity. As shown in Table 3, all the values located on the diagonal exceed other values not on the diagonal, indicating the questionnaire has good discriminant validity.
+
+# Data analysis and hypothesis testing
+
+# Model fit test
+
+A satisfied model is the essential prerequisite of using structural equation model (SEM). According to our results from AMOS 26.0, the value of CMIN/DF (2.454) was less than 5, RMSEA (0.024) was less than 0.05, and GFI (0.901), AGFI (0.892), CFI (0.922), IFI (0.923), and TLI (0.919) approached or exceed 0.9. Thus, the model is a “good fitting” model, and can be used to carry out further research.
+
+# Collinearity diagnostic test
+
+Collinearity refers to the situation in which there is a high degree of correlation or linear relationship between independent variables in a regression model, which may cause the distortion of parameter estimation and the failure of the hypothesis test. To identify whether there was collinearity among variables, we conducted linear regression using SPSS 26.0. Variance inflation factor (VIF) and tolerance value were common statistics to denote collinearity. As shown in Table 4, all the value of VIF is less than 10, and tolerance values are less than 1, indicating that there is no multicollinearity among independent variables including PEA, PEB, and CHRP.
+
+# Structural results
+
+Figure 2 is the path diagram of the SEM, and Table 5 is the hypothesis test results. In brief, three hypotheses were supported, and two hypotheses were rejected in this study. Specifically, the standardized coefficient between
+
+| | |AVE|PEA|PEI|CHRP|PEB|
+|---|---|---|---|---|---|---|
+| |PEA|0.78|0.88| | | |
+| |PEI|0.66|0.38|0.81| | |
+| |CHRP|0.61|0.32|0.41|0.78| |
+|PEB|0.59|0.36|0.64|0.36|0.77| |
+
+Table 3. Discriminant validity.
+
+|Variable|VIF|Tolerance|Evidence of multicollinearity|
+|---|---|---|---|
+|PEA|6.024|0.166|No evidence|
+|PEI|6.963|0.144|No evidence|
+|CHRP|1.178|0.582|No evidence|
+
+Table 4. Results of collinearity.

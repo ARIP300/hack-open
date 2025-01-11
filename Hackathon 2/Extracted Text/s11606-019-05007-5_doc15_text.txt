@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# Guided by the Consolidated Framework for Implementation Research
+
+We analyzed focus group transcripts using directed content analysis in accordance with the CFIR framework. We used the constant comparative method to identify emerging themes across the entire sample.
+
+# RESULTS:
+
+We completed seven focus groups with all 57 participants completing an ORCA survey (eight nurses, six nurse practitioners, ten physicians, ten social workers, eight physician assistants, nine pharmacists, and eight psychiatrists). Among participants, the median age was 34, 43 (75%) were female, and had a median of four years of experience. ORCA evidence subscale results showed high research evidence (median 4.0) but low patient preference (median 3.5) for MAUD. Context subscale results showed staff culture (median 4.0) to be supportive of implementation but low availability of resources for implementation (median 3.0). We identified four emerging themes. Across disciplines, there was limited knowledge and experience regarding MAUD. There was concern about patient barriers to accessing care following discharge and perceived low patient engagement. Participants viewed long term abstinence as the goal of treatment rather than reducing harm by reducing use. Participants reported existing care support systems for other chronic diseases (i.e. tobacco use) could be adapted to support MAUD utilization.
+
+# CONCLUSIONS:
+
+Among hospital-based health professionals, a lack of knowledge, a lack of patient treatment access following discharge, perceived low patient engagement, and a focus on abstinence reduced inpatient utilization of MAUD. Implementation interventions should aim to adapt existing care support systems, increase provider understanding of these medications, and support harm reduction rather than abstinence as a treatment goal.
+
+# A PRELIMINARY QUALITATIVE ANALYSIS OF FIBROMYALGIA CARE IN VA THROUGH NARRATIVES OF WOMEN VETERANS
+
+Kristina M. Bogdan 1, 2 ; Erica R. Scioli 1, 2 ; Megan R. Gerber 3 . 1 VA Boston Healthcare System,, Boston, MA; 2 Boston University School of Medicine, Boston, MA; 3 Boston University, Jamaica Plain, MA. (Control ID #3186398)
+
+# BACKGROUND:
+
+Fibromyalgia (FM) is a chronic disorder more common in women. It is characterized by widespread bodily pain, fatigue, and poor sleep. Prior studies have concluded that participants often feel unheard, demoralized, and invalidated by healthcare providers. Women Veterans are a rapidly growing population in the Veterans Health Administration (VHA), and their rates of FM exceed that of the general population. A better understanding of women Veterans' perceptions of care will inform patient-centered approaches to FM. Thus, we conducted a mixed methods study to better understand women Veterans' experiences with and preferences for VA FM care. The qualitative portion of the study data are presented below.
+
+# METHODS:
+
+Six, in-person, focus groups of women Veterans, who used VA primary care and had medical record-confirmed FM, were conducted. A clinical psychologist conducted all 6 groups using a semi-structured interview guide. The focus groups were transcribed and analyzed using a hybrid thematic approach. Codes were identified and grouped into themes. A second investigator reviewed the identified codes for congruence and differences were resolved. Finally, a third researcher, who was present at all focus groups, reviewed the codes and themes to achieve final consensus.
+
+# RESULTS:
+
+22 women Veterans with FM participated in 6 focus groups. The mean age was 51.3 (range 30-76, SD= 11.6). Most of the patients were White (54.5%) and unemployed (77.3%). Most (72.7%) had a diagnosis of posttraumatic stress disorder (PTSD). The following 4 dominant themes emerged: 1) Challenge of living with FM (women expressed profound fatigue and isolation as a result of unpredictable pain), 2) Invalidation (both healthcare providers and family/friends were dismissive of FM symptoms), 3) Health Behaviors (women expressed self-efficacy approaches to FM symptom management as well as avoidance of known triggers), 4) Trust in VA care (patients valued primary care providers [PCP] who listened and validated FM symptoms; patients expressed concern that their gender had resulted in inadequate FM care by other providers. When referring to participant VA treatment experiences, one said "I won't come in unless I'm desperate" while another illustrated a memory by saying "…they sent me to the pain management and the doctor told me that, you know, fibromyalgia wasn't a disease, it was mental."
+
+# CONCLUSIONS:
+
+Women Veterans encounter many challenges in functioning with FM and accessing care, they often felt disbelieved and invalidated. Many have developed knowledge of what triggers a flare and what helps them feel better. Women across focus groups expressed greater satisfaction and trust in VA care when their PCP showed interest in their condition and listened well. These findings support the need for a patient-centered approach to FM care.
+
+# A PROACTIVE TEXT MESSAGING INTERVENTION WITH MEDICATION ADHERENCE SUPPORT TAILORED TO PRIMARY CARE POPULATIONS: A PILOT RANDOMIZED TRIAL OF GETREADY2QUIT
+
+Gina R. Kruse 2, 1 ; Elyse Park 2, 1 ; Yuchiao Chang 2, 1 ; Jessica Haberer 2, 1 ; Lorien Abroms 3 ; Naysha N. Shahid 2 ; Sydney Howard 2 ; Jennifer Haas 2,1 ; Nancy A. Rigotti 2, 1 . 1 Harvard Medical School, Boston, MA; 2 Massachusetts General Hospital, Boston, MA; 3 George Washington University, Washington, DC. (Control ID #3179241)
+
+# BACKGROUND:
+
+Text messaging is an effective aid to help with smoking cessation, but it is unclear how to integrate it effectively into primary care settings. We developed and tested an automated, proactive, text messaging program with 2 novel uses: 1) to enhance motivation for smokers not ready to quit and 2) to promote adherence to nicotine replacement therapy (NRT). We present feasibility and efficacy results for a 12-week pilot randomized controlled trial (RCT).
+
+# METHODS:
+
+We used proactive telephone calls to recruit adult daily smokers from 10/2017-10/2018 for a RCT. Randomization was stratified by clinic and smoker's plan to quit within 30 days. Enrollees were assigned to 1 of 4 groups: brief advice about treatment options and local services (BA), brief advice + text messages (TM), brief advice + 2-weeks of NRT by mail (NRT), or brief advice + TM + NRT (TM+NRT). Patients were surveyed by phone or email at 1-, 2-, 6- and 12-weeks.
+
+# RESULTS:
+
+We approached 1,544 potentially eligible patients, we reached 988 (64%). Of these, 527 (53%) declined, 32 (3%) dropped out before randomization, 276 (28%) were ineligible and 153 (15%) of those reached were randomized. Of these, 54% were women, mean age 53 years, 76% white, 12% African-American, 6% Hispanic, 5% other races, 54% on Medicaid, mean 15 cigarettes/day and 75% smoked <30 minutes from awakening. Overall, 31% screened positive for alcohol use disorder (single-item measure), 13% for substance use (single-item measure), 35% for depression (PHQ-2) and 55% for anxiety (GAD-2). Acceptance of treatments offered (BA, TM, and/or NRT) was 100%. Retention at the 12-week follow-up was 92% (n=140). A large majority of patients self-reported 1 quit attempt(s) (1 clinical outcome), with no differences by group compared to BA (71%), TM (89%, p=0.13), NRT (82%, p=0.40), TM+NRT (81%, p=0.41). Past 7-day abstinence at 12-weeks was reported twice as often in the NRT, TM, and TM+NRT.

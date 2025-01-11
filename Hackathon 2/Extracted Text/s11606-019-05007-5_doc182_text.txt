@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Administration
+
+We are profiling prescribing in the context of previously published principles of conservative prescribing. Here we present pilot data examining personal formularies of primary care physicians (PCPs) looking at the universe of drugs they initiate.
+
+# METHODS:
+
+We analyzed data from all PCPs at UIC (N=60) and a sample from PHS (N=23) totaling 226,176 prescriptions (Rx) for patients seen by those PCPs in 2016-2017. An Rx was defined as new if there was no prior Rx by any prescriber since 1/1/14. Formulary size was computed as the number of unique new drugs ordered by each physician in 2016-2017. Multivariate linear regression for UIC data were performed related to PCP panel characteristics: average age, % female, size, total visits, and PCP demographics: years since training, sex, general or family medicine.
+
+# RESULTS:
+
+PCPs started 46±18 new drugs per 100 visits. The average formulary size was 228±96 unique new drugs. Formulary size at PHS was 268±101 versus 201±92 at UIC (P=0.02). Half (49%±12%) of these drugs were only prescribed once during the two-year period. At UIC, predictors of formulary size were general medicine compared to family medicine (30.8 ±11.9 meds, P=0.01); average panel age (16.2±5.4 fewer meds for every 10 years, P=0.004), and visits (35.3±2.3 meds when visits increased from 1500 to 2000/year, P<0.0001). PCP sex, years since training and % women in panel were not statistically significant. Comparing the average formulary at PHS and UIC, we found examples of variations in medications used. For example, oxycodone was used in 29% of new opiate Rx at PHS, but only 2% at UIC, while hydrocodone was used in 33% at UIC, but only 4% at PHS.
+
+# CONCLUSIONS:
+
+There were differences in both the size and the medications that comprised the personal formularies of PCPs at the two institutions. Roughly half of the drugs initiated were ordered only once during the two-year study period, suggesting that many PCPs are prescribing drugs for which they have limited experience in initiating. Variations in specific medication use within a class were noted and some were not evidence-based. We conclude it is feasible to compute personal formulary size at an institution level and that variability in this quantity is likely to be an important index of prescribing quality. Once known confounders such as number of visits are controlled for, comparing personal formularies between both individuals and institutions is likely to reveal important differences in prescribing patterns that may reflect variations in prescribing practices.
+
+# MEASURING PHYSICIAN WORK
+
+Stephanie A. Eisenstat1, 1; Michael Hu2, 1; Walter J. O'Donnell1, 1; Retsef Levi2, 1. 1Harvard Medical School, Boston, MA; 2Massachusetts Institute of Technology, Cambridge, MA. (Control ID #3182417)
+
+# BACKGROUND:
+
+With the advent of electronic health records (EHRs), a substantial portion of Primary Care Provider (PCP) time is now spent on EHR tasks such as post-visit documentation, patient communication, staff messages, results management, etc. Although these tasks represent a significant portion of PCP time, time spent is generally not accounted for in physician compensation models such as fee-for-service or panel-based payment models. The goals of this study are to 1) establish a rigorous methodology for measuring physician time spent on EHR tasks and 2) investigate variability in how EHR work is distributed temporally and across physicians, patient type and medical conditions.
+
+# METHODS:
+
+All EHR click-level data were analyzed from a primary care practice within an AMC. The analyses were performed on the EHR data from October 2018 during which the physicians touched 5,062 patients in the EHR. Using click-level timestamps for all EHR activity, we developed an objective and easily replicable method to measure the amount of EHR time spent by a physician on any individual patient or task. We also used the practice's scheduling data to determine the amount of visit time physicians are spending with individual patients. Combining this information with panel attribution labels allows us to examine the distribution of PCP EHR time across different types of patients and across the time of day. In particular, we examine the time allocation of each PCP along three dimensions: 1) patient panel attribution, 2) tasks related to patients who did and did not have a PCP office visit and 3) whether the EHR work was performed after-hours (i.e., completed outside of the PCP's clinical scheduled bookable hours). The methods developed in this preliminary study are currently being expanded to additional primary care practices with click-level EHR data spanning 3 years.
+
+# RESULTS:
+
+Our analyses indicate that during one standard calendar month, the average PCP spent 290 hours completing EHR tasks. The average amount of time spent in office visits was 73 hours (both normalized to 1 full-time equivalent or FTE). On average, the division of total PCP EHR time spent between panel versus non-panel patients was 78% and 22%, respectively. Similarly, the division of total PCP EHR time spent on patients with and without office visits was 71% and 29%, respectively. Examining the temporal distribution of the EHR work, we observe that >40% of PCP EHR time occurred after-hours.
+
+# CONCLUSIONS:
+
+PCP work is rapidly expanding beyond traditional office visits as the prevalence and complexity of EHR tasks continues to grow. Our findings indicate that the vast majority of PCP time has shifted away from patient facing activities and instead is now focused on EHR tasks. Developing the methodology to measure and categorize this EHR work is foundational to establishing a better understanding of modern PCP work. This is particularly important as health systems explore compensation models and strategies for improving physician work and engagement.
+
+# MEASURING PRECONCEPTION WELLNESS WITHIN THE VETERANS HEALTH ADMINISTRATION (VHA)
+
+Deirdre A. Quinn1; Maria K. Mor1; Florentina Sileanu1; Xinhua Zhao1; Lisa S. Callegari2, 5; Laurie C. Zephyrin4; Sonya Borrero1, 3. 1VA Pittsburgh Healthcare System, Pittsburgh, PA; 2VA Puget Sound Healthcare System, Seattle, WA; 3University of Pittsburgh, Pittsburgh, PA; 4Department of Veterans Affairs, Washington, DC; 5University of Washington School of Medicine, Seattle, WA. (Control ID #3184035)
+
+# BACKGROUND:
+
+More women in the United States (U.S.) are dying in or around childbirth now than 25 years ago. Despite increased attention to preconception care, lack of consensus about implementing such care or assessing the success of preconception care has stymied progress. In 2016, the Clinical Workgroup of the National Preconception Health and Health Care Initiative proposed nine wellness measures to assess the quality of preconception care in healthcare systems. As the largest integrated health care system in the U.S., the VHA is uniquely positioned to lead the way in implementing and evaluating efforts, including preconception care, to improve birth outcomes. This study is the first comprehensive assessment of VHA's performance on measures of preconception wellness.
+
+# METHODS:
+
+We examined national administrative data, including inpatient, outpatient, and fee-basis visits (visits to non-VA providers that are paid for by VA); lab and pharmacy data; and health factors screening data for women Veterans ages 18-45 with at least one pregnancy outcome (ectopic pregnancy, spontaneous abortion, stillbirth, and/or live birth) during fiscal years 2010-2015. After identifying outcomes, we estimated last menstrual period (LMP) from gestational age at the time of the outcome and used LMP as a reference point to assess eight of the nine preconception indicators at various timepoints (e.g., 3 or 12 months prior to LMP); one indicator, pregnancy intention, was not captured in VA administrative data.
+
+# RESULTS:
+
+We identified 26,556 pregnancy outcomes from 21,234 women Veterans. Just over half (56.6%) were in non-Hispanic white women, 23.4% in non-Hispanic black women, and 10.9% in Hispanic women; the mean age at LMP was 29.8. The majority (77.1%) of pregnancies ended in live birth; 22.4% resulted in spontaneous abortion or ectopic pregnancy, and 0.5% in stillbirth. Nearly one quarter (23.7%) of pregnancies had no evidence of prenatal care; 44.4% of pregnancies had no documented tobacco use screening and 49% had no documented depression screening within 1 year prior to LMP; 29.5% of pregnancies occurred to obese women; and only 40.2% of pregnancies in women with pregestational diabetes had a documented optimal HbA1c measurement (<6.5) in the year prior to LMP. Evidence of any

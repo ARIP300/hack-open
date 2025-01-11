@@ -1,0 +1,29 @@
+# ABSTRACTS
+
+# RACE/ETHNICITY AND SEX-RELATED DIFFERENCES IN ANTICOAGULATION IN PATIENTS NEWLY DIAGNOSED WITH ATRIAL FIBRILLATION
+
+Utibe R. Essien1, 2; Jared W. Magnani3; Inmaculada Hernandez4; Michael J. Fine2; Walid F. Gellad5. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA; 3University of Pittsburgh Medical Center, Pittsburgh, PA; 4University of Pittsburgh, Pittsburgh, PA; 5VA Pittsburgh/University of Pittsburgh, Pittsburgh, PA. (Control ID #3183148)
+
+# BACKGROUND:
+
+Oral anticoagulation (OAC) is associated with stroke risk reduction in patients with atrial fibrillation (AF). Black individuals and women with AF have higher stroke rates, these disparities largely due to lower use and efficacy of traditional warfarin-based OAC in these groups. Less is known about race/ethnicity and sex-related differences in novel direct-acting oral anticoagulant (DOAC) use in patients with AF. Our aim was to compare OAC and DOAC initiation by sex, race, and ethnicity in a real-world, national cohort of patients with AF.
+
+# METHODS:
+
+We used claims data from a 5% sample of Medicare beneficiaries to identify patients with newly-diagnosed AF between 2013-2014. We excluded those without continuous Medicare enrollment. The primary outcome was the initiation of any OAC (warfarin and DOAC- apixaban, dabigatran, rivaroxaban) after AF diagnosis based on prescription fill data. Among OAC initiators, we compared DOAC vs. warfarin use. We used logistic regression to assess the association between sex, race/ethnicity (white, black, Hispanic) and OAC initiation, adjusting for sociodemographic factors, comorbidities, and stroke risk (CHA2DS2-VASc score).
+
+# RESULTS:
+
+The cohort of 47,952 patients with AF included 17,935 women, 3282 blacks, and 1958 Hispanics. Overall OAC initiation was low (49.2% whites, 48.1% blacks, and 47.5% Hispanics). After adjusting, blacks (odds ratio (OR) 0.84; 95% CI, 0.78-0.91) and Hispanics (OR 0.90; 95% CI, 0.82-0.99) were less likely than whites to initiate any OAC. Women were less likely than men to initiate any OAC, OR 0.59 (95% CI 0.55-0.64). Among OAC initiators, DOAC use was low (35.8% whites, 29.3% blacks, and 40.0% Hispanics). After adjusting, blacks were less likely to initiate DOACs than whites, OR 0.80 (95% CI 0.71-0.90); the odds of DOAC initiation did not differ for Hispanic and white patients; OR 1.10 (95% CI 0.95-1.27). There was no gender difference in DOAC use among OAC initiators, OR 0.98 (95% CI 0.88-1.10).
+
+# CONCLUSIONS:
+
+In a national cohort of Medicare beneficiaries with newly diagnosed AF, OAC initiation was lower in blacks, Hispanics, and women. Among OAC initiators, blacks were less likely to initiate DOACs, with no differences identified by Hispanic ethnicity or gender. These findings, in a real-world cohort of medically insured patients, show that blacks with AF were less likely to receive novel DOACs - easier to use, potentially safer, and more effective than warfarin in stroke prevention. Identifying modifiable causes of treatment disparities is needed to improve the quality of care for all patients with AF.
+
+# RACIAL DISPARITIES IN CLINICIAN RESPONSES TO PATIENTS' EMOTIONAL CONCERNS
+
+Jenny Park1; Mary Catherine Beach1; Dingfen Han1; Somnath Saha2. 1 Johns Hopkins University, Baltimore, MD; 2 Portland VA Medical Center, Portland, OR. (Control ID #3184737)
+
+# BACKGROUND:
+
+Prior studies have demonstrated racial differences in the quality of patient-provider communication, which may contribute to disparities in patient experience, treatment adherence, and clinical outcomes. Attending to patients' emotions (e.g., with empathic statements) is a particularly important aspect of communication, yet few studies have focused on potential disparities in how emotions are handled in clinical encounters.

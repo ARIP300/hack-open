@@ -1,0 +1,31 @@
+# COVΙD-19 and social wellbeing in Malaysia: A case study
+
+Siew Siew Yong1 & Joseph Kee-Ming Sia2
+
+Accepted: 2 September 2021 / Published online: 12 September 2021
+
+# The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021
+
+# Abstract
+
+The world has witnessed the largest single disruption to social wellbeing since the first known case of coronavirus disease 2019 (COVID-19) was reported in China in December 2019. In Malaysia, the government implemented the Movement Control Order (MCO) on 18 March 2020 in response to the COVID-19 pandemic. Thus, this paper highlights how the Malaysian government responded to COVID-19 in comparison with some Asian countries; and what has and has not worked for the MCO imposed by the government. The paper adopts a review approach that is supported by findings from both grey and academic literature. The findings reveal that the COVID-19 pandemic has significant impacts on the society’s wellbeing in Malaysia, the most severe of which are negative mental health and job unemployment. On the other hand, COVID-19 has sparked a surge of volunteering in society. This paper presumably and hopefully represents a frontier review with more empirical research to be conducted to investigate the extent of the social impact of COVID-19, the outcomes of which are a call for re-envisioning of social policies in Malaysia. To the best knowledge of the authors, little empirical research has been conducted to explore the social-wellbeing implications of COVID-19 in Malaysia. By reflecting on the various scenarios—both detrimental and beneficial in the context of the COVID-19 pandemic, the paper identifies potential avenues for relevant research in the social wellbeing realm.
+
+# Keywords
+
+COVID-19 . Mental health . PEST . Social wellbeing . Malaysia
+
+# Introduction
+
+On 25 January 2020, Malaysia announced its first COVID-19 case as an infected Chinese national who travelled to Malaysia from Singapore (Profdten & Ahmad, 2021). While going through the transformative constitutional phase, an exponential rise in cases occurred due to a mass Islamic missionary gathering in Sri Petaling on 27 February 2020, which was reported as the highest number of coronavirus cases in Southeast Asia on 15 March 2020 (Mat et al., 2020; Song & Ling, 2020). Consequently, the Malaysian government imposed the Movement Control Order (MCO) for the common good from 18 March 2020; it was replaced by the Conditional MCO (CMCO) on 4 May 2020, and that has been subsequently re-placed by the Recovery MCO (RMCO) since 10 June 2020. During the initial stage of MCO, it was difficult for the Malaysians to adhere to the drastic restrictions such as prohibited public gatherings and social distancing requirements; Malaysians are a sociable lot and social gathering is part and parcel of their everyday life (Aziz et al., 2020). The infodemic of unconfirmed and unreliable news spreading in the social media amplified the irrational fears among the Malaysians, leading to panic buying of essentials before the MCO (Azlan et al., 2020; Kaur et al., 2020). Qiu et al. (2020) indicated that information about COVID-19 in the social media caused tension and anxieties among young adults and women. Malaysia’s human resource minister pointed out that 99,696 Malaysians had lost their jobs since the implementation of the MCO (Surendran, 2021). Unemployment and uncertainty of the future resulting from the pandemic can take a serious toll on the people’s psychological wellbeing. The purpose of this paper is threefold: firstly, provide insights into the unprecedented Malaysian experience in responding to the COVID-19 pandemic in comparison with two Asian countries (Singapore and Taiwan); secondly, explore the implications of COVID-19 on social wellbeing; thirdly, conduct Political, Economic, Social, Technological (PEST) analysis with recommendations, and propose pertinent research questions for future investigations.
+
+# Authors' Affiliations
+
+1Faculty of Business, Curtin University Malaysia, CDT 250, Miri, Sarawak, Malaysia
+
+2Department of Management, Marketing and Digital Business, Faculty of Business, Curtin University Malaysia, CDT 250, Miri, Sarawak, Malaysia
+
+# Contact Information
+
+Siew Siew Yong: yongsiewsiew@postgrad.curtin.edu.my
+
+Joseph Kee-Ming Sia: joseph@curtin.edu.my

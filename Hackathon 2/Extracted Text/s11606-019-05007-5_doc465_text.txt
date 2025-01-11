@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# ARBs are renal-protective in IgA nephropathy
+
+ARBs are renal-protective in IgA nephropathy and have been shown to decrease proteinuria from this mechanism. Renal biopsy is difficult in this population due to the numerous clotting dysfunctions associated with cirrhosis leading to the elevated risk of complications such as perirenal hematoma. Transjugular biopsies are typically preferred over the traditional percutaneous route to mitigate some of these risks, even though adequate tissue is obtained only 78.6% of the time versus 90-95% for percutaneous route.
+
+# CONCLUSION:
+
+Given the risk of complications and the well-established relationship with IgA nephropathy, renal biopsy should be only obtained in cases of nephrotic-range proteinuria and hematuria if it may influence treatment such as evaluation for liver transplant or for rapidly progressive renal disease.
+
+# IS THE HIGH WORTH THE TORSADES? A CASE OF LOPERAMIDE-INDUCED TORSADES DE POINTES
+
+Jaime de la Fuente; Jared Bird; Korosh Sharain; Vasken Keleshian; Nandan Anavekar. Mayo Clinic, Rochester, MN. (Control ID #3161490)
+
+# LEARNING OBJECTIVE #1:
+
+Identify loperamide as an important over-the-counter medication with abuse potential that can cause prolonged QT interval
+
+# LEARNING OBJECTIVE #2:
+
+Recognize life threatening ventricular arrhythmias and their treatment
+
+# CASE:
+
+A 29-year-old female with a history of bile acid diarrhea and chronic abdominal pain presented for an outpatient esophagogastroduodenoscopy. Prior to the procedure, she developed severe nausea, vomiting, and dizziness, prompting direct admission to the general medicine service. Initial negative work up included: complete blood count, extended electrolytes, pregnancy test, urinalysis, urine drug screen, and serial troponins. ECG demonstrated a prolonged QTc interval of 549 msec. Upon further history, she revealed she had been consuming more than 200 mg (100 pills) of loperamide daily, for over a year, to relieve her abdominal pain and diarrhea. Her last dose of loperamide was 48 hours prior to presentation. During hospital day one she developed palpitations and had a pre-syncopal episode. Review of her cardiac monitor revealed polymorphic ventricular tachycardia (PVT). She was promptly started on IV magnesium and isoproterenol to decrease the QTc interval and reduce the probability of further PVT. This initially abated further PVTs. However, while weaning down the isoproterenol she had recurrence of runs of PVT. Thus, IV lidocaine was added to her regimen. Significant QT interval prolongation continued despite loperamide discontinuation, raising the teams suspicion for an underlying congenital long QT2 syndrome. Thus, she was transitioned to nadolol without further occurrence of PVT. Nine days later patient was discharged from the hospital with a QTc of 460 msec on nadolol. Further outpatient work up two months later, including electrocardiogram, stress test, and genetic testing, was negative for congenital long QT syndrome. QTc at that time was 430 msec. Patient's nadolol was discontinued.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates the importance of being familiar with over the counter QT interval prolonging agents, the possibility of loperamide being used as a drug of abuse, and the treatment of acquired PVT. It is believed that the mechanism of the prolonged QT by loperamide involves the inhibition of cardiac sodium and potassium channels. As demonstrated by this case, it is also critical to understand that the cardiac effects of loperamide, especially when abused and consumed for an extended period of time, will last much longer than the reported half-life of 11 hours. Additionally, congenital QT syndrome can potentially be unmasked when taking these agents, and as such should be maintained on the differential, and treated with beta blockade therapy in the outpatient setting.
+
+# CONCLUSION:
+
+Polymorphic ventricular tachycardia (PVT) is a life threatening arrhythmia resulting from a variety of mechanisms. For the general internist, it is important to recognize its initial management and over the counter medications with abuse potential, like loperamide, which can lead to this serious arrhythmia.
+
+# IS THERE A LAWYER IN THE HOUSE? THE PHYSICIAN ROLE IN LEGAL ADVOCACY
+
+Aliza Norwood; Alejandro Moreno. UT Dell Medical School, Austin, TX. (Control ID #3184396)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize symptoms of panic disorder in an immigrant patient
+
+# LEARNING OBJECTIVE #2:
+
+Apply the concept of the extended care team to legal services
+
+# CASE:
+
+A 27 year-old woman with a history of preeclampsia and depression presented with worsening paroxysmal left-sided chest pain for 3 years. Multiple prior visits that included CBC, CMP, TSH, and EKGs revealed no cause for her symptoms. She described the pain as sharp and non-radiating, usually lasting 15 minutes, and associated with lightheadedness and shortness of breath. She also reported occasional headaches, tremors, nausea, and cold sweats. Her vitals, including orthostatics, were stable. The exam was notable only for a heart rate of 50 beats/min, and EKG confirmed sinus bradycardia. Labs were normal as in prior visits. A Holter monitor showed sinus bradycardia with rare supraventricular ectopic beats. Her PHQ9 score was 9. Further questioning revealed a long history of persecution that included child and sexual abuse. She fled from her country to the US while pregnant to escape growing threats against her life and that of her unborn child. She began to have flashbacks and nightmares and became socially withdrawn. She was diagnosed with panic disorder and referred to behavioral health; over the next 2 months she noted improvement in symptoms with counseling and mindful breathing exercises. Multiple attempts were made to contact her immigration lawyer by phone and email, with no response. The patient returned to clinic with worsening symptoms 3 months later after receiving a final deportation order. With the patient's permission she was referred to a non-profit immigration advocacy firm and a pro-bono lawyer to explore possible avenues of relief. The immigration lawyer proposed a course of action which was limited to an extraordinary legal recourse given the time elapsed and the existing deportation order. The patient declined because immigration authorities would have detained her for several months until the trial proceedings were over.
+
+# IMPACT/DISCUSSION:
+
+Anti-immigration policies have been linked directly to negative mental health effects on immigrants including depression, anxiety, and PTSD. Evidence exists that threat of deportation increases the risk of mental illness. Physicians are increasingly relying on social workers and others in the extended care team to address the social determinants of health. There are already precedents to screen patients for abuse or domestic violence which can lead to social and legal referrals. While not a part of routine practice, we propose that doctors are under a similar obligation to ensure patients are referred to competent legal aid for immigration services if needed to protect physical and/or emotional health. If referred early, the negative consequences of inadequate legal counsel may be prevented.
+
+# CONCLUSION:
+
+Physicians should have a low threshold to screen for physical and mental effects of trauma in immigrant patients. Medicolegal partnerships can be a tool to aid patients who seek asylum.
+
+# IS THIS BECAUSE I'M PREGNANT OR DID I JUST CUT MY TOE?
+
+Camille R. Bourgeois; M. Matias Iberico. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184152)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the rising rate of invasive Group B streptococci (GBS) infections in non-pregnant adults
+
+# LEARNING OBJECTIVE #2:
+
+Identify appropriate antimicrobial coverage for GBS infection
+
+# CASE:
+
+A 74-year-old woman presented with exertional dyspnea, orthopnea, chills, and rigors worsening over the preceding 24 hours. No

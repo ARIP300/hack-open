@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# PERCEPTION VERSUS REALITY IN USE OF TEACH-BACK BEFORE AND AFTER A ONE-HOUR SKILLS TRAINING
+
+Kimberly C. Bates1; Michelle Ogrodnick2; Iris Feinberg2; Robert Hendrick2; Kevin Johnson1.  1Gwinnett Medical Center, Lawrenceville, GA; 2Georgia State University, Atlanta, GA. (Control ID #3163132)
+
+# NEEDS AND OBJECTIVES:
+
+Physicians ask patients if they understand their diagnosis or instructions during clinic visits; patients often say yes. However, many patients leave with little idea of their medication and discharge instructions. Teach-Back (TB) is a health-literate technique that allows physicians to confirm patient understanding during clinic visits. The purpose of this pilot study was to evaluate perception vs actual use of TB by medical residents in primary care clinics; if the observed rate of TB was discordant with perception, we examined if a TB skills training intervention had any impact on use of TB. We were also interested in language used during TB and its relationship to patient demographics or health literacy level.
+
+# SETTING AND PARTICIPANTS:
+
+Participants were Family Medicine and Internal Medicine residents who provide patient care in two clinics in suburban Atlanta, Georgia. Residents were recruited at a regularly scheduled graduate medical education meeting. Residents were told that we would audiotape ten of their patient clinic visits- 5 before and 5 after a skills training intervention. Patients were recruited in waiting areas of the clinics prior to their encounter. Patients were over 18 and spoke English.
+
+# DESCRIPTION:
+
+Residents completed the "Always Use Teach-Back Confidence and Conviction Scale". Clinic visits were audiotaped and scored for TB. A one-hour TB skills training took place after the first five audiotaped visits. A second round of visits were audiotaped after the training. Content analysis was performed on TB language. Demographics and health literacy level were collected on patients.
+
+# EVALUATION:
+
+n/a
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Despite high level of perception of TB (60%), TB was only used 2.5% of the time. Post-intervention, TB use increased to 53%. Findings may be critical to improving physician communication: a single one-hour intervention dramatically increased use of TB from 2 to 41 instances. Residents used more patient-centered and collaborative TB language after the training intervention. There is a range of how residents perform TB with no relationship to patient demographics or health literacy level.
+
+# PERFORMANCE AND CONFIDENCE OF MEDICAL RESIDENTS IN LEADING A RAPID RESPONSE TEAM: A QUALITY IMPROVEMENT PROJECT
+
+Maythawee Bintvihok1; Esilida Sula Karreci1; Bertrand Jaber1; Andrew Moraco2. 1St. Elizabeth's Medical Center, Brighton, MA; 2St. Elizabeth's Medical Center, Brighton, MA. (Control ID #3186993)
+
+# NEEDS AND OBJECTIVES:
+
+A rapid response team (RRT) is a team of providers that is summoned to the bedside to immediately assess and treat a patient demonstrating signs of imminent clinical deterioration, with the goal of preventing intensive care unit transfer, cardiac arrest, or death. RRT activation is associated with reduced in-hospital cardiopulmonary arrest and mortality. We reviewed the total number of RRTs activated at SEMC in 2016 and established a rate of 15.6 per 1,000 admissions, lower than rates of 20-40.
+
+# SETTING AND PARTICIPANTS:
+
+We conducted a survey of 54 medical residents (63% response rate) to examine the level of comfort with activating and leading a RRT. Amongst PGY-1 residents, 6% had previously activated a RRT, only 12.5% felt comfortable leading a RRT, 81% never had formal RRT practice, and 25% were reluctant to call a RRT due to concerns with ineptitude. Amongst PGY-2 residents, 58% had ever activated a RRT, 66% felt comfortable leading a RRT, 25% never had formal practice, and 60% felt the need for orientation on how to lead a RRT. The survey results demonstrated that the concerns with ineptitude amongst residents in conducting a RRT were secondary to lack of training in common urgent scenarios. The goal of this quality improvement project was to improve resident performance and confidence in leading a RRT through education and training.
+
+# DESCRIPTION:
+
+We provided a series of 9 didactic sessions, conducted mainly by a staff neurologist, a cardiology fellow, and a pulmonary and critical care fellow (in March and May 2018). Each session included simulation-based training in common urgent scenarios that lead to RRT activation. We also provided a pocket information card with a brief algorithm for each scenario and a pocket sized list of hospital phone extensions to aid in reaching certain services during a rapid response.
+
+# EVALUATION:
+
+To assess the impact of our intervention, we conducted a post-implementation resident survey. Amongst PGY-1 residents, 93% had activated a RRT, which improved from 6% in the pre-intervention period. 64% felt comfortable leading a RRT, which significantly improved from 12.5% in the pre-intervention period (P = 0.001). Amongst PGY-2 residents, 78% reported activating a RRT, which improved from 58%. 100% felt more comfortable leading a RRT, an improvement from 66% in the pre-intervention period but did not reach statistical significance (P = 0.157). The RRT activation rate increased from 15.6 to 16.7 per 1,000 admissions following our intervention.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Formal instruction on RRT through didactic sessions and simulation-based training can potentially improve knowledge and confidence of medical residents in leading RRTs. This can lead to increased awareness of RRT activation to prevent intensive care unit transfer, cardiac arrest, and death. Future efforts will focus on coordinating with the Code Committee to implement mock RRT scenarios.
+
+# PGY-1 TO PGY-2 TRANSITION: LEADING RAPID RESPONSES
+
+Emily Cetrone1; Hallie Rozansky1; Marina Zambrotta1; Subha Ramani2; Matt Difrancesco1; Tomas Cordova1. 1Brigham and Women's Hospital, Brookline, MA; 2Brigham and Women's Hospital, Harvard Medical School, Boston, MA. (Control ID #3178333)
+
+# NEEDS AND OBJECTIVES:
+
+When PGY-1 residents transition to PGY-2 year, they function as supervisors of junior trainees, teachers, and team leaders with scant training in these skills. One of their most challenging roles is leading management of clinically unstable patients in "rapid response" scenarios ("rapids"). In our new curriculum, PGY-1s will run simulated rapids and receive feedback on their performance. The curriculum will also help program leadership identify gaps for further training. Our curricular objectives are that residents will: 1) Demonstrate increased confidence in running rapids 2) Exhibit awareness of the roles of the various participating staff 3) Gain knowledge of criteria that trigger rapids 4) Be open to receiving feedback on performance 5) Demonstrate effective leadership and communication skills.
+
+# SETTING AND PARTICIPANTS:
+
+In 2018, residents in the Scholars in Medical Education pathway implemented the first "Intern to Junior Transition Retreat" at our institution. The retreat included a didactic session on running.

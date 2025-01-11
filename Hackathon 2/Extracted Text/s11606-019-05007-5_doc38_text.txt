@@ -1,0 +1,51 @@
+# ASSOCIATION BETWEEN NEOPLASTIC MENINGITIS AND BIOLOGIC FALSE-POSITIVE CSF-VDRL
+
+Terin Sytsma; Elitza Theel; Zelalem Temesgan; Michel Toledano. Mayo Clinic, Rochester, MN. (Control ID #3183048)
+
+# BACKGROUND:
+
+Neurosyphilis should be considered in patients with encephalopathy, chronic meningitis, and progressive cranial neuropathies. While there is no gold standard diagnostic test for neurosyphilis, the cerebrospinal fluid venereal disease research laboratory (CSF-VDRL) is considered highly specific for the disease. Neoplastic meningitis has been a rarely reported cause of false-positive CSF-VDRL, but the frequency is unknown. This study sought to quantify the rate and determine the cause(s) of CSF-VDRL false-positivity.
+
+# METHODS:
+
+This retrospective chart review of all CSF-VDRL testing in patients presenting to a tertiary care center between January 1, 1994 and February 28, 2018 assessed the rate of false-positive CSF-VDRL results and underlying condition(s) in patients with falsely reactive CSF-VDRL. Demographic and clinical information for all false-positive CSF-VDRL cases were summarized. Descriptive statistics were used to calculate rates of positive, true-positive and false-positive CSF-VDRL results.
+
+# RESULTS:
+
+Among 34,336 CSF-VDRL tests performed, 66 (0.19%) were positive. Of 66 positive CSF-VDRL tests, 50 (75.8%) were true-positives and 16 (24.2%) were false-positives. Fourteen individual patients had a false-positive CSF-VDRL result: nine males, five females, ranging in age from 14 to 82 years old. None had positive serologic syphilis testing. Nine of 14 patients with false-positive CSF-VDRL results (64.3%) had neoplastic meningitis: six (42.9%) from metastatic carcinoma (five primary lung cancers and one esophageal cancer), two (14.3%) from astrocytoma with meningeal involvement, and one (7.1%) from lymphomatosis. Four of the 14 patients with false-positive testing had a repeat CSF-VDRL; two were repeatedly positive, and both of these had meningeal carcinomatosis due to metastatic lung carcinoma. The two patients with negative repeat CSF-VDRL did not have neoplastic meningitis.
+
+# CONCLUSIONS:
+
+A majority of patients with false-positive CSF-VDRL testing in this study were ultimately diagnosed with neoplastic meningitis. Neoplastic meningitis is a frequent cause of false-positive CSF-VDRL results, and should be considered in patients with a positive CSF-VDRL but negative syphilis serology. The VDRL assay detects antibodies, including cardiolipin, and anticardiolipin antibodies have been reported in lung and central nervous system malignancies. Thus it is possible that the CSF-VDRL assay reacts with these antibodies. The two patients in this study with positive repeat CSF-VDRL testing had meningeal carcinomatosis, further suggesting that the false-positive CSF-VDRL test in patients with neoplastic meningitis represents a biologic false-positive. All patients with false-positive CSF-VDRL results in this study had negative serologic testing for syphilis, but serologic testing was not always available prior to CSF-VDRL results. This highlights the importance of considering pretest probability when ordering and interpreting CSF-VDRL testing.
+
+# ASSOCIATION BETWEEN OVERALL MATERNAL HEALTH STATUS AND FAMILY RESILIENCE: RESULTS FROM A NATIONAL SURVEY
+
+Sitara Soundararajan1; Shyla Jagannatha2; Jaya Aysola3. 1Drexel University College of Medicine, Philadelphia, PA; 2Janssen Research & Development, Raritan, NJ; 3University of Pennsylvania, Philadelphia, PA. (Control ID #3138305)
+
+# BACKGROUND:
+
+The relationship between maternal health and health outcome of offspring has been studied extensively. However, there is sparse data available regarding the association between overall maternal health and the health, functionality, and productivity of the family. More specifically, measures such as family resilience in the context of maternal health are not well understood. The objective of this study was to determine if overall maternal health status is associated with family resilience.
+
+# METHODS:
+
+We analyzed data from the 2016 National Survey of Children's Health (NSCH), the only national survey assessing the health of children ages 0-17 in the United States. The independent variable in this study was overall physical and mental maternal health status. The main outcome of interest was presence of family resilience. Other outcomes of interest for this study included parental aggravation and adverse childhood experiences. We estimated the association between maternal health status and family resilience with a multivariate logistic regression model, adjusting for the following covariates: current health insurance status, family structure of child's household, child race, highest education of adult in household, income level, and primary household language.
+
+# RESULTS:
+
+Compared to mothers whose physical and mental health are not excellent or very good, mothers who had excellent or very good physical and mental health statuses have families that showed significantly better adjusted rates for family resilience measures. Results suggest that mothers with excellent or very good physical and mental health have higher odds of having families that exhibit resilience [adjusted odds ratio (AOR) 2.790, CI [2.409, 3.231]], compared to mothers whose physical and mental health are not excellent or very good. Controlling for protective factors (e.g. supportive neighborhoods, emotional help with parenting) did not change the significance of the results [adjusted odds ratio (AOR) 2.617, CI [2.245, 3.051]]. Parental aggravation and adverse childhood experiences were also identified as possible mediators of the relationship between overall maternal health status and family resilience.
+
+# CONCLUSIONS:
+
+The study's results indicate that improved maternal health status is associated with higher odds of family resilience, even after adjusting for potential confounders. These findings suggest that overall maternal health may have a unique role in shaping the way families respond to adversity. Interventions addressing the health of our nation's mothers may have potential in improving the manner in which US families withstand and rebound from adversity.
+
+# ASSOCIATION BETWEEN PARTICIPATION IN BUNDLED PAYMENTS FOR MEDICAL CONDITIONS AND CHANGES IN SPENDING AND UTILIZATION: A 3-YEAR ANALYSIS OF THE BUNDLED PAYMENTS FOR CARE IMPROVEMENT INITIATIVE
+
+Joshua Rolnick2; Joshua M. Liao1, 2; Xinshuo Ma2; Ezekiel J. Emanuel2; Eric Z. Shan2; Jingsan Zhu2; Erkuan Wang2; Qian Huang2; Amol S. Navathe3, 2. 1University of Washington, Seattle, WA; 2University of Pennsylvania, Philadelphia, PA; 3CMC VA Medical Center, Philadelphia, PA. (Control ID #3182757)
+
+# BACKGROUND:
+
+Bundling payments for an episode of care have shown savings for lower joint replacement surgery, but are less well-studied for medical conditions. An early investigation of Medicare's Bundled Payments for Care Improvement (BPCI) initiative examined five medical conditions, finding no changes in spending or utilization after a mean seven months of follow up. We extend this work with longer-term data and different model specification to investigate BPCI participation for four high-volume conditions: congestive heart failure (CHF), pneumonia, acute myocardial infarction (AMI), and chronic obstructive pulmonary disorder (COPD).
+
+# METHODS:
+
+We performed a difference-in-differences analysis of episodes in 2011-2016 Medicare claims. Episodes attributed to BPCI physician groups were removed to avoid bias. BPCI participant hospitals were propensity-matched with up to 5 non-participants by condition. Outcomes included standardized total episode spending (primary) and spending by category, readmission rates, and mortality. Models were adjusted for patient and market characteristics, as well as hospital and quarter fixed effects. Ordinary least squares models were used for utilization and...

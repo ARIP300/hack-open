@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# The National Board of Medical Examiners (NBME) subject examinations
+
+The National Board of Medical Examiners (NBME) subject examinations remain a staple of undergraduate medical education (UME) core clerkships in North America due to their established standardized and objective assessment of medical knowledge. While there are widely accepted review materials such as NBME self-assessments, question banks, and Step up to Medicine and the Board Review Series texts, no standardized oral shelf exam reviews are recognized among medical students. At Baylor College of Medicine, feedback from students on the IM clerkship revealed a need for improved review content for the NBME exam. The following innovation was developed to address this need.
+
+# SETTING AND PARTICIPANTS:
+
+This innovation involved medical students on the IM clerkship at Baylor College of Medicine, and took place as an after-hours, voluntary session on campus.
+
+# DESCRIPTION:
+
+A voluntary, resident-led review was held during the middle of each IM clerkship for an 18-month period. The review was 2 hours in duration, led by a senior IM resident, and structured as a content-based PowerPoint (with intermittent audience participation questions) covering all major organ systems. Additionally, tools and strategies for studying were provided to the students.
+
+# EVALUATION:
+
+Anonymous surveys were distributed before and after the session to examine the effect on the students' perceived level of preparedness. The surveys consisted of qualitative questions with a 5-point Likert scale (with 5 being the most positive).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Six review sessions were held and over 80% of clerkship students attended the sessions. Results showed a statistically significant increase (using a t-test) in perceived knowledge of the content and structure of the exam (2.6 to 4.0), confidence studying for the exam (3.7 to 4.2), and overall preparedness for the exam (3.2 to 3.5). The overall rating for the session had a mean of 4.8. This innovation increased medical student confidence and perceived preparedness for the NBME IM exam. The high attendance rate and positive reviews likely indicate effectiveness and potential for continued success. Given the standardized content and structure of the NBME exam, this shelf review session is likely applicable to any clerkship at any medical school that administers the NBME exam.
+
+# RESIDENTS AS TEACHERS IN MEDICAL STUDENT CLINICAL SKILLS COURSE EFFECTS ON BEDSIDE TEACHING
+
+Hector H. Gonzalez1; Lisa C. Martinez2. 1FAU Charles E. Schmidt College of Medicine, Delray Beach, FL; 2Florida Atlantic University, Boca Raton, FL. (Control ID #3184633)
+
+# NEEDS AND OBJECTIVES:
+
+There has been a decrease in bedside teaching in both undergraduate and graduate medical education. Our objective was to implement a clinical skills curriculum where internal medicine residents served as teachers for first year medical students. We wish to explore the influence of faculty development in residents as teachers by analyzing bedside teaching following participation in clinical skills course sessions.
+
+# SETTING AND PARTICIPANTS:
+
+We implemented the curriculum during first semester clinical skills course at our medical school's simulation center. The study population consisted of 10 PGY-2 or PGY-3 residents randomly selected based on their clinic schedules. Sixty residents who did not participate in the teaching sessions were used as controls during the survey. The course consisted of bedside clinical skills teaching with first year students incorporating history taking, and whole organ system physical examination.
+
+# DESCRIPTION:
+
+Residents were assigned afternoon teaching sessions at the simulation center, participating on average in 3-4 sessions. On assigned days residents attended faculty development at 12:15 focusing on properly performing clinical skills and effectively teach them. Teaching followed this from 1:20-4pm with medical students. This course focused on teaching communication, physical exam techniques, professionalism, and clinical reasoning. Residents observed students, providing verbal coaching and feedback. To assure resident teaching was equivalent to using faculty, residents were assessed by student evaluation of residents and end of course OSCE of students.
+
+# EVALUATION:
+
+An anonymous survey link was sent via email to all residents for completion. This study was approved by the institutional IRB. The survey evaluated resident's previous teaching experience, interest in teaching and personal comfort with bedside teaching. Residents participating were asked about their perceived improvement in clinical skills teaching and comfort with bedside education following completion of the course.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This study sought to be more than just an adaptation to local needs. An important lesson was the important correlation between the symbiotic benefit of medical student and resident teaching. We sought to determine whether involvement in first year medical student clinical skills teaching increases resident comfort in teaching at bedside. We have created a formalized curriculum where the needs of satisfying course objectives can be accomplished by our residents, while providing the courage to lead their clinical teams at bedside.
+
+# RESTRUCTURING AMBULATORY CURRICULUM
+
+Jasmine Omar; Danielle L. Heidemann; Alexis C. Haftka. Henry Ford Health System, Detroit, MI. (Control ID #3186315)
+
+# NEEDS AND OBJECTIVES:
+
+During the 2017-2018 academic year, the curriculum for ambulatory medicine consisted mainly of discussion of clinical trials from scholarly journals. Results of both the mid-year and end of the year survey administered to residents showed dissatisfaction with the educational session, due to emphasis on clinical trials and lack of discussion regarding medical management of common outpatient pathology. This prompted restructuring of the curriculum with the goal of improving resident satisfaction, providing more management guidelines, and better preparing residents for board exams.
+
+# SETTING AND PARTICIPANTS:
+
+Ambulatory education in our institution takes place prior to our residents' traditional half-day continuity clinic. Small groups of up to 10 residents and 4 faculty participate in a "flipped classroom" format.
+
+# DESCRIPTION:
+
+In the 2018-2019 academic year, our ambulatory curriculum underwent several key changes. First, educational sessions were shifted to focus more on guidelines and medical management of outpatient conditions. Second, each month a subspecialty topic was assigned that paralleled our inpatient educational noon conference. In this format, the outpatient curriculum built on concepts and topics addressed in our inpatient curriculum. Third, we utilized our in-training results to help optimize topic selection to help residents focus on areas where scores tend to be lower. At the end of each month we had a resident-lead board review session to review key points and answer questions as a group.
+
+# EVALUATION:
+
+Mid-year surveys identical to the previous academic year were used to assess the resident and preceptor response to changes in the curriculum. 77% of residents rated the curriculum as good or excellent, a 30% increase from the year prior. 23% of residents rated it as fair/poor, a 30% decrease from the year prior. When asked about board review content, 56% of residents felt there were enough board review questions, a 38% increase from the year prior. Preceptors also felt their residents were more engaged during the sessions than they had been previously. Direct resident feedback has been

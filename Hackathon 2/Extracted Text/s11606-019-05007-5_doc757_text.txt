@@ -1,0 +1,66 @@
+# ABSTRACTS JGIM
+
+# THE INPATIENT ACADEMIC HALF DAY; THE WHYS AND HOWS IN A LARGE MULTI-SITE PROGRAM THAT USES AN X+Y SCHEDULING SYSTEM
+
+Jasmyn Miller1; Roberto O. Diaz Del Carpio2; Scott Gruarin3; Regina Makdissi4.
+1Jacobs School of Medicine and Biomedical Sciences at University at Buffalo, Niagara Falls, NY;
+2University at Buffalo, Buffalo, NY;
+3Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY;
+4State University of New York at Buffalo, Buffalo, NY. (Control ID #3185127)
+
+# THE MASTER CLINICIAN'S ELECTIVE: INTEGRATING EVIDENCE-BASED PHYSICAL EXAMINATION (EBPE) AND POINT OF CARE ULTRASONOGRAPHY (POCUS) IN MODERN CLINICAL MEDICINE
+
+Maria G. Frank1; Cason Pierce2; Noelle Northcutt3; joseph W. keach4; Gerard Salame1; Rebecca Allyn5.
+1Denver Health Hospital Authority, Denver, CO;
+2Denver Health, Denver, CO;
+3Denver Health, Aurora, CO;
+4Denver Health Medical Center, University of Colorado School of Medicine, Denver, CO;
+5Denver Health Medical Center, Denver, CO. (Control ID #3186385)
+
+# NEEDS AND OBJECTIVES:
+
+Delivering high quality conferences at 3 sites is challenging given the lack of standardization, difficulty finding speakers, and video broadcasted conferences felt impersonal and passive. Daily clinical work prevents active trainee participation with the lack of true protected time for meaningful education. Objectives: 1. To increase the quality of inpatient educational teaching sessions. 2. Provide the trainees with high quality, evidence-based content to use during their clinical rotations within a protected educational time. 3. To enhance camaraderie and teamwork amongst all trainees. 4. To increase trainee satisfaction with their educational activities. Create a venue where trainees are accountable for their active learning and can interact with their core faculty in an encouraging, judgment free environment.
+
+# SETTING AND PARTICIPANTS:
+
+A large multi-site (3 major teaching hospitals) with 4+1 scheduling.
+
+# DESCRIPTION:
+
+Sessions are topic guided: We based the objectives on the Society of Hospital Medicine Curriculum. One separate half day for the residents and interns: 1st Hour: Case discussion with questions to be researched and presented by the trainees next conference day 2nd Hour: Topic review with board-review questions at the end to test for retention. 3rd Hour: Evidence-based medicine presentation by trainees.
+
+# EVALUATION:
+
+We surveyed 23 Academic Hospitalists prior to implementation, 50% rated the noontime conferences as average or below average, 50% did not know. Trainee surveys by ACGME and our Wellness Committee showed overall poor satisfaction with their education and poor professional satisfaction with noontime conference. Focus group discussions identified the lack of protected time, constant interruptions for calls from the nursing staff, and the lack of active learning as major limitations to their education. This redesign is part of a trainee-led initiative supported by the Back to Bedside Grant awarded by the ACGME. After implementation, we administered ABIM style quizzes and brief evaluations of the conferences quarterly. We also administered a follow up wellness survey in June 2018. Thirty six trainees completed these questions with an overwhelmingly positive response to the new academic half day. Close to 90% of trainees looked forward to the academic half day with the remaining percent neutral. Over 85% agreed that the new half day was better than the previous noontime conferences. A high majority of trainees believed the topics were tailored to their education level/needs, were satisfied with the topics and length of presentation. A high majority also disagreed that having team members leave for the academic half day negatively affected patient care.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Major changes require anticipation, culture change and buy-in from all parties. It requires careful planning to find the balance between patient care and education where neither is compromised. Reaching out to other programs to learn from them was an important part of our planning.
+
+# NEEDS AND OBJECTIVES:
+
+The program aims to create a reproducible elective that combines physical exam and bedside ultrasound as a method of improving resident skills in these techniques. The objectives for learners include: understand the utility and evidence behind physical exam maneuvers, exhibit the ability to execute an EBPE, confirm or challenge clinical diagnosis by skillfully performing POCUS and utilize POCUS to increase the success and safety of medical bedside procedures.
+
+# SETTING AND PARTICIPANTS:
+
+Our program is offered as an elective rotation at an academic, safety-net hospital in Denver, CO. The course is open to up to six senior Internal Medicine residents per year. Since inception, 9 residents have participated and over 20 are currently on the waitlist for the elective this year.
+
+# DESCRIPTION:
+
+The two-week curriculum has been offered since 2016 and combines teaching EBPE skills and POCUS. Six faculty members (four for physical exam and two for POCUS) from the division of Hospital Medicine teach the course. Faculty rely upon published literature to determine the highest yield exam maneuvers and bedside ultrasound techniques for establishing commonly encountered diagnoses. Additionally the limited diagnostic value of certain commonly performed exam maneuvers is highlighted. Teaching is done in interactive, small group sessions. To ensure integration, each instructional day provides morning physical exam teaching and afternoon ultrasound training sessions which are focused on a common theme. Enrollment is capped to optimize the trainee to attending ratio.
+
+# EVALUATION:
+
+Residents perform a practical pre-test and a post-test under direct observation by course faculty. Each resident is measured on the ability to perform pre-determined EBPE maneuvers and POCUS skills. Thus far, in the pre-test, participants have correctly performed an average of 40% of expected physical exam maneuvers and 32% of expected POCUS skills. At the conclusion of the elective, all participants have been able to effectively demonstrate 100% of the highest yield physical exam and ultrasound maneuvers.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+In the era of high value care, we believe it is imperative for all practitioners to master EBPE and POCUS. Trained faculty and ultrasound resources are limited. While our elective is a collaboration of 4 exam-focused and 2 POCUS providers, it could be run with as few as 1 of each with enrollment limited to four participants. Challenges encountered include faculty availability due to competing clinical duties, accessibility of bedside ultrasound technology and faculty with a level of expertise to teach bedside ultrasound applications.
+
+# THE OTHER SBP - TEACHING RESIDENTS FUNDAMENTALS OF NAVIGATING COMPLEX CLINIC AND COMMUNITY SYSTEMS VIA A SYSTEMS BASED PRACTICE CURRICULUM
+
+Arash Nafisi; Sahar Soleymani. Olive View - UCLA Medical Center, Encino, CA. (Control ID #3184765)
+
+# NEEDS AND OBJECTIVES:
+
+Medical education in residency programs has often consisted of curriculum that primarily emphasizes traditional medical knowledge, such as the medical treatment of diabetes and obesity. However,

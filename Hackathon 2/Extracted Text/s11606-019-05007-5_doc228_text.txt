@@ -1,0 +1,76 @@
+# ABSTRACTS
+
+# METHODS:
+
+We performed a cross-sectional analysis of 100% Medicare claims data from January 1 to December 31, 2016. All patients with continuous Medicare fee-for-service insurance (Parts A, B, and D) throughout 2016 who were 65 years of age or older and who were prescribed at least one medication for at least 30 days during this time were included. Each patient was attributed to the primary care physician (PCP) who prescribed them the most medications. PCPs treating fewer than ten patients were excluded. We defined polypharmacy as the highest number of concurrent medications at any point during the year. We characterized the distribution of PCPs prescribing by these metrics. We used hierarchical linear regression to study patient- and physician-level characteristics associated with high prescribing rates.
+
+# RESULTS:
+
+We identified 25,747,560 patients attributed to 147,879 PCPs. The patient-level mean concurrent medication rate was 5.6 (standard deviation 3.3). The physician-level mean number of concurrent medications was 5.6 (range 1.3-14.8; sd 1.08). The cutoff for high outlier physician was 7.7 (=5.6 + 2 x 1.08) concurrent medications per patient, which identified 4.1% of all physicians as outliers (6,108 physicians). A number of patient-level factors were associated with an adjusted increase in concurrent medications greater than 1.00 including: an Elixhauser score of 5 or more (2.49; 95% confidence interval 2.49-2.50), history of solid organ transplant (1.32; 1.27-1.37), diabetes (1.39; 1.39-1.40), and HIV/AIDS (1.89; 1.84-1.94).
+
+# CONCLUSIONS:
+
+Patterns of high prescribing to older patients are common and measurable at the physician-level. Addressing high outlier prescribers may represent an opportunity to reduce avoidable harm and excessive costs.
+
+# Figure | National distribution of physician-level mean concurrent medications
+
+|Average number of concurrent medications per older patient|Number of Physicians|
+|---|---|
+|7.7|59470|
+|6.6|44579|
+|5.5|16633|
+|4.4|17286|
+|3.3|5614|
+|2.2|1954|
+|1.1|1601|
+|0.0|152|
+| |416|
+| |113|
+| |36|
+| |16|
+| |10|
+| |11|
+| |12|
+| |13|
+| |14|
+| |15|
+
+Note: Dashed red line indicated 2 standard deviations above mean number of concurrent medications (7.7 =5.6 +2x [1.08])
+
+# PRIMARY CARE HOME VISITS AND HEALTHCARE UTILIZATION: A COHORT STUDY
+
+Xin Zhang; Jennifer Manggaard; Ondler Hinson Heather; Paul Takahashi. Mayo Clinic, Rochester, MN. (Control ID #3181442)
+
+# BACKGROUND:
+
+While the outpatient office is the traditional care delivery model for primary care, primary care home visits are important to provide care for frail elderly patients. These patients have difficulty with functional limitations, socioeconomic reasons, and lack of transportation in coming into clinic. While some primary care providers and geriatric fellows perform home visits to provide care for those patients, but we do not know the healthcare utilization for this important group of patients. In this study, we aim to describe the patients who are served and describe emergency department (ED) visits and hospitalizations within 90 days of index home visit date.
+
+# METHODS:
+
+We evaluated all patients 65 years of age who had home visits and who were not enrolled in post-hospitalization transition, palliative or hospice programs from 2010-2017. Descriptive statistics were used to examine patient demographics and comorbidity health burden. ED visits and hospitalizations within 90 days post index home visit were collected.
+
+# RESULTS:
+
+A total of 609 patients, 181 males and 427 females, were included. Average age at time of home visit was 85 years (65-105 years). Majority of the subjects were Caucasians (561, 92%) and a minority were married (196, 32%). 43% of patients (260) were community dwelling, while the majority lived in assisted living. Most common medical conditions include hypertension (72%), dementia (51%), depression (34%), cancer (28%), osteoporosis (28%), coronary artery disease (25%), cardiac arrhythmia (25%), diabetes (21%), and congestive heart failure (18%). 189 (31%) patients had ED visits within 90 days; 68 % (129) had 1 visit and 32% (6) had 1 visit. Most common reasons for ED visit were fall (20%), dyspnea (8%), altered mental status (8%), and musculoskeletal pain (8%). 137 patients (22%) had hospitalizations within 90 days; 90 (66%) had 1 and 47 (34%) had 1 hospitalization. The main diagnosis for hospitalization includes infection (15%), fall and/or fracture (12%), behavioral disturbance (8%), and heart failure (5%).
+
+# CONCLUSIONS:
+
+In our patient population, 31% had ED visits and 22% had hospitalizations in 90 days after home visits. The 90 day hospitalization rate was 29.9% in a prior study on identified high risk patients who were involved in a post-hospitalization care transitions program at the Mayo Clinic. We found a similar 90 day hospitalization rate compared to that study, which suggests that our patients are similarly frail, medically complex, and prone to ED visits and hospitalizations. Further study is needed to improve care for this high risk population.
+
+1. Takahashi PY, Naessens JM, Peterson SM, et al. Short-term and long-term effectiveness of a post-hospital care transitions program in an older, medically complex population. Healthc (Amst). 2016;4(1):30-35.
+
+# PRIMARY CARE PHYSICIANS' KNOWLEDGE OF THE CARDIOVASCULAR EFFECTS OF DIABETES MEDICATIONS
+
+Jay H. Shubrook; Jonathan Pak; George E. Dailey. Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT; Touro University, Fairfield, CA; Scripps Health, La Jolla, CA. (Control ID #3176456)
+
+# BACKGROUND:
+
+Cardiovascular (CV) disease is a leading cause of death in patients with type 2 diabetes (T2D). Several CV outcomes trials (CVOTs) have shown that specific antidiabetes agents improve CV outcomes in patients with T2D and high CV risk or CV disease. This survey examined knowledge and beliefs about CVOTs among US internal medicine (IM) and family physicians (FP).
+
+# METHODS:
+
+A 23-item survey was administered by WebMD, LLC. from Sept 18-20, 2018. The survey was sent to 47,534 Medscape members who were randomly selected across US regions and specialties (quota, 250 per specialty). A z-test was used for statistical comparisons. The Touro University California IRB deemed that the study protocol met exemption criteria (TUC IRB #M-3118).
+
+# RESULTS:
+
+Overall, 702 physicians responded, 199 did not meet eligibility criteria and 503 completed the survey. Familiarity with CVOTs was low, with 8-42% of respondents indicating that they were moderately or extremely familiar with each of 14 CVOTs listed. Respondents reported that they were more familiar with TECOS, LEADER, EMPA-REG OUTCOME and CANVAS than other CVOTs (P<.05). Also, 38%, 33%, 28% and 11% correctly responded that EMPA-REG OUTCOME, LEADER, CANVAS and SUSTAIN-6, respectively, showed superiority vs placebo for the primary composite major adverse CV event [MACE] endpoint; 26% did not know. Similarly, 31% of respondents did not know which CVOTs showed superiority for CV mortality; 36% and 26% correctly chose EMPA-REG OUTCOME and LEADER. Nearly half did not know which CVOT showed superiority for heart failure hospitalization. More than half of respondents incorrectly thought that acute pancreatitis occurred significantly more frequently with DPP-4 inhibitors or GLP-1 RAs vs placebo. Only 8% knew that retinopathy occurred more frequently with semaglutide than placebo in SUSTAIN-6. CANVAS was not well recognized for its risk of lower limb amputations (36% selected CANVAS alone). However, 69% recognized the increased rate of genital infections with SGLT2 inhibitors in EMPA-REG OUTCOME, CANVAS, or both trials.

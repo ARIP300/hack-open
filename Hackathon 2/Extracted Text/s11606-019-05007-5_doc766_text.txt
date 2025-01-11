@@ -1,0 +1,63 @@
+# WHAT CAN PHYSICIANS DO?: BUILDING AN ADVOCACY CURRICULUM FOR FIRST-YEAR MEDICAL STUDENTS
+
+Elizabeth P. Griffiths1; Arianne Teherani1; Megha Garg2.  1UCSF, San Francisco, CA; 2San Francisco VA Medical Center, University of California San Francisco, San Francisco, CA. (Control ID #3181665)
+
+# NEEDS AND OBJECTIVES:
+
+The role of physicians as advocates is increasingly recognized. However, most medical students still receive little to no training on advocacy skills. Prior exit surveys of University of California, San Francisco (UCSF) medical students indicate that students feel unprepared to engage in advocacy activities. Our objective was to develop and evaluate a novel advocacy curriculum for first-year medical students.
+
+# SETTING AND PARTICIPANTS:
+
+In 2016, UCSF School of Medicine launched a course in which first-year students explore the social and behavioral sciences. Our new advocacy curriculum was delivered to all first-year medical students beginning in 2016-17, then modified for the 2017-18 year.
+
+# DESCRIPTION:
+
+The new small group session on physician advocacy in 2016-17 included an advocacy debate and opinion writing practice. Based on student feedback, in 2017-18 the session was revised to include a written reflection and discussion of physicians' roles as advocates rather than a debate, and a legislative advocacy role play was added. Discussion included a focus on the level at which students plan to be involved as advocates—on behalf of individual patients, to improve the health system in which they work, and/or for policy change at the county, state, or national level.
+
+# EVALUATION:
+
+In the 2017-18 year, quantitative data was collected via a matched pre- and post-curriculum survey. Forty-five students (32%) completed both surveys. We found no significant change in students' views on the importance of advocacy (4.36 vs 4.36 on a 5 point Likert scale, p = 1.00) or their likelihood of advocacy as future practicing physicians (4.22 vs 4.24, p = 0.74). We did find a significant increase in their likelihood of advocacy as medical students (4.00 vs 4.20, p = 0.02) and their confidence in their ability to advocate (3.58 vs 3.89, p = 0.01). We also found that 87% of students plan to be involved in advocacy beyond the individual patient level (i.e. health system level or beyond) and 58% plan to be involved in advocacy beyond the health system level (i.e. county, state, or national level).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A two-hour small group session on physician advocacy showed significant increases in students' likelihood of involvement in advocacy and their confidence in their ability to advocate. This data is limited by response rate and proximity to the session. We plan to complete qualitative analysis of students' reflections on physician advocacy and repeat surveys as students near completion of medical school to better understand students' views on advocacy, as well as how these views change over the course of training.
+
+# WITH HER: WOMEN'S HEALTH EDUCATION FOR INTERNAL MEDICINE RESIDENTS. FIRST YEAR RESULTS FOR AN INNOVATIVE 3-YEAR LONGITUDINAL CURRICULUM
+
+Patricia Ng1; Kimberly A. Kranz2. 1Stony Brook University School of Medicine, Port Jefferson Station, NY; 2Stony Brook University School of Medicine, Stony Brook, NY. (Control ID #3160590)
+
+# NEEDS AND OBJECTIVES:
+
+Recent studies surveying Internal Medicine Program Directors identified women's health to be an essential education topic, but there is limited data about structured women's health curricula for programs who use X+Y block schedules. Our program's needs assessment revealed that the majority of our residents were unsatisfied with our current women's health curricula and were not confident in managing core women's health topics. Our study aims to develop and assess a longitudinal women's health curriculum that includes interactive workshops using the "Jigsaw Method" (a cooperative learning strategy where peers are responsible for teaching specific content in teams) and a women's preventive health clinic (WPHC) to improve Internal Medicine residents' knowledge, confidence, and skills in addressing core women's health topics.
+
+# SETTING AND PARTICIPANTS:
+
+Our curriculum was delivered to 84 categorical residents at a university-based Internal Medicine program in Stony Brook, NY. We implemented only the workshop portion of our curriculum during the first year.
+
+# DESCRIPTION:
+
+We delivered a 2-hour weekly "jigsaw" workshop over 5 ambulatory blocks, which focused on menopause, osteoporosis, urinary incontinence, and abnormal uterine bleeding. In the Jigsaw Method, residents divide into teams of 4, their "home base group," and each member is assigned to become an "expert" in 1 of the 4 workshop topics. To become "experts," teams split up to join peers who were given the same assignment and these groups will review readings together. Eventually residents return to their home base group to peer teach their topic and apply their collective expertise to solve patient cases. To review answers, teams compete in a gameshow quiz which allowed facilitators to reinforce main teaching points.
+
+# EVALUATION:
+
+Participants completed a pre-test and post-test immediately before and after the workshop, and a follow-up survey at the end of the academic year. Surveys included knowledge and confidence questions, and feedback questions about the curriculum. Seventy-four residents (88.1%) completed the pre-test, 62 (73.8%) completed the post-test and 53 (63.1%) completed the follow-up survey. At post-test, mean knowledge scores increased from 51.3% to 69.2% (p<0.0001) and the majority (94.6%) were "very satisfied/satisfied" with the workshop. End of the year results showed less improvement in knowledge scores but there was significant improvement in the confidence of managing menopause, hormone replacement therapy, and urinary incontinence (p<0.05).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our preliminary results suggest that workshops using the Jigsaw Method may be an effective technique to increase Internal Medicine residents' knowledge and confidence in women's health, but repetition is needed to enhance retention. We plan to continue to develop and assess this longitudinal curriculum and implement the WPHC.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+www.jigsaw.org; www.kahoot.com
+
+# WOMEN IN MEDICINE MENTORING AND EMPOWERMENT TRAINING PROGRAM: A NEEDS ASSESSMENT AND INTERVENTION IN PROGRESS
+
+Amanda Simone1; Melissa Simone2; Lauren Block3; Nancy A. LaVine4. 1Northwell Health, Flushing, NY; 2University of Minnesota, Minneapolis, MN; 3Northwell Health, Lake Success, NY; 4Northwell Health, New Hyde Park, NY. (Control ID #3184965)
+
+# NEEDS AND OBJECTIVES:
+
+Women face unique challenges throughout their careers as physicians, including disparities in salary and leadership positions. Interventions to address these issues have been made at the faculty level, however little has been done to address the same challenges for female residents. This is concerning, as many decisions determining career trajectory take place during residency. Thus, we conducted a needs assessment on gender in the workplace to establish a mentoring and empowerment training program to support female residents.
+
+# SETTING AND PARTICIPANTS:
+
+A needs assessment survey was distributed amongst female internal medicine residents within the Northwell.

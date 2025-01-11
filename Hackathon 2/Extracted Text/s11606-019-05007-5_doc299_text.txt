@@ -1,0 +1,41 @@
+# ABSTRACTS JGIM
+
+# USER-CENTERED DESIGN AND USABILITY OF AN ELECTRONIC TOOL TO IMPROVE DEPRESSION TREATMENT IN PATIENTS WITH CORONARY HEART DISEASE
+
+Jennifer Mizhquiri Barbecho1; Rachel Monane1; Martin McElhiney3; Luis Blanco1; Fereshte N. Kharazmi1; Emily M. Callanan1; Monica Polanco2; Drew Rabidoux2; Ian Kronish1; Siqin Ye1; Nathalie Moise1. 1Columbia University Medical Center, Brooklyn, NY; 2New York Presbyterian, New York, NY; 3Columbia University Medical Center, New York, NY. (Control ID #3182556)
+
+# BACKGROUND
+
+Depressive symptoms in coronary heart disease (CHD) patients are common and associated with recurrent cardiovascular disease events and mortality. However, only 30% of depressed CHD patients are treated. Informed by behavior change theory and a user-centered design process, we explored treatment barriers and designed and conducted usability testing of a web-based tablet-delivered tool to enhance depression screening, referral and treatment initiation in CHD patients.
+
+# METHODS
+
+An implementation team of physicians, patients, nurses, and administrators identified system requirements based on a national survey of 1500 CHD patients and then designed and revised a patient-facing tablet interface of depression screening Patient Health Questionnaire-9 (PHQ-9), preference and barriers assessment, and video-assisted patient activation. We recruited 10 patients with documented CHD from hospital discharge and clinic codes to conduct usability testing. A research coordinator observed, recorded and guided participants through a usability protocol in which participants completed goal-oriented tasks and a think-aloud protocol that assessed depression treatment attitudes and barriers and satisfaction with the tool using retrospective interview probing techniques. We employed descriptive statistics for quantitative responses and content analysis to code qualitative responses for acceptability and themes while iteratively refining the tool.
+
+# RESULTS
+
+The average age of 10 participants was 62.7±7.5 years; 60% were male, 50% Hispanic/Latino, 30% Black/African American; 60% had at least mildly elevated depressive symptoms. All participants found the tool highly acceptable. Treatment barriers included stigma/privacy, gender/cultural norms, fear of medications, lack of knowledge, and opportunities (transportation, insurance, time). Half remarked that worry, fear of death and changes in lifestyle, all exacerbated by fear-laden patient-physician communication, contributed to depressive symptoms. Tool facilitators included provision of information on the link between depression and heart disease and non-pharmacologic treatment options (e.g., cardiac rehab), normalization, depression treatment success stories, personalization, as well as coupling the tool with pamphlets and physician-initiated discussion about stress. The think-aloud protocol informed iterative updates to the tool, including addition of percent completion indicators, voiceover functionality, iconography, tailoring, and decision support.
+
+# CONCLUSIONS
+
+We demonstrate how a multidisciplinary implementation team can use a theory-informed user-centered design process to yield a better understanding of participants' technology preferences. We contribute a novel interface to enhance CHD patient engagement in depression treatment. We will next test the effectiveness of this tool on depression screening and treatment in CHD patients in a stepped-wedge trial across 8 cardiology and primary care clinics.
+
+# USING BILLING DATA TO COMPARE MEDICAL NEEDS AND UTILIZATION COSTS OF HOMELESS VS. NON-HOMELESS PATIENTS
+
+Benjamin Bovell-Ammon 1; Allison Bovell-Ammon 1; David Ko 1; Christine A. Pace2, 1; Thea James3; Megan Sandel1. 1Boston Medical Center, Boston, MA; 2Boston University School of Medicine, Boston, MA; 3Boston Medical Center, Cambridge, MA. (Control ID #3185808)
+
+# BACKGROUND
+
+Homelessness is associated with adverse health outcomes across the life course and complicates effective delivery of medical and behavioral health services. The growing share of value-based payment models increasingly incentivizes and creates opportunities for hospitals & health systems to identify and intervene upon social determinants of health, including homelessness. The differences in healthcare utilization and costs between homeless patients vs. low-income non-homeless patients and the extent to which such differences might be impactable is understudied. This study aims to develop an easily replicable method for comparing prevalent health conditions and costs between homeless and non-homeless Medicaid-covered patients in a hospital's billing data.
+
+# METHODS
+
+Hospital billing data from Boston Medical Center (BMC), New England's largest safety-net hospital, were acquired for patients in the Boston Accountable Care Organization (BACO, a Medicaid ACO) for any ambulatory, emergency department, and inpatient care at BMC between September 1, 2017-August 31, 2018. Patients were identified as homeless if they met at least one of the following criteria: had the ICD-10 code for homelessness (Z.59.0) in their billing record, receive primary care at Boston Healthcare for the Homeless, listed their primary address as a known homeless shelter or BMC. Socio-demographic factors, diagnoses, and costs were characterized and compared between homeless and non-homeless patients.
+
+# RESULTS
+
+Among 20,640 patients enrolled in BACO who received health care services at BMC, 13.7% were homeless. Compared to non-homeless patients, homeless patients in the study did not differ in age (avg 41.6y, s.d. 13.3y), but they were significantly (p<0.01) more likely to be male (61.9% vs. 37.3%), white (38.1% vs 19.8%), and single/never married (80.9% vs 72.3%) and had significantly (p<=0.01) higher rates of vascular disease (30.9% vs 18%), CHF (4.7% vs 2%), diabetes (16.3% vs 14.6%), COPD (10.3% vs 3.6%), CKD (7.8% vs 5.9%), schizophrenia (13% vs 3.3%), bipolar disorder (19.5 vs 5.2%), and substance use disorder (65.8% vs 18.7%). Homeless patients had on average $28,657 of health care costs per patient in the 12 month period while non-homeless patients had $14,566 (p<0.01).
+
+# CONCLUSIONS
+
+Among patients in a Medicaid ACO that received services at a major urban safety-net hospital, homeless patients had higher rates of major medical and behavioral health conditions and greater utilization of high cost services. This study demonstrates an easily replicable method by which a health care organization can define the scope of homelessness in their patient population and begin to estimate the excess health care costs that might be attributable to homelessness. Research that may help identify opportunities for developing interventions to stabilize this population, decrease cost and improve clinical outcomes.

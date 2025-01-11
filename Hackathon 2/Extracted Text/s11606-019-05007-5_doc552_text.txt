@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# THE CASE OF THE GROWING SNAKE AND THUMPING HEART
+
+Iniya Rajendran; Thomas W. Barber. 1Boston Medical Center, Boston, MA; 2Boston University School of Medicine, South Boston, MA. (Control ID #3185845)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the manifestation of high-output heart failure and that an arteriovenous fistula is as a rare but reversible cause.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that patient word choices are an important aid in diagnosis.
+
+# CASE:
+
+Ms N is a 66-year old renal transplant recipient with a history of heart failure with preserved ejection fraction (HFpEF), atrial fibrillation and a patent arteriovenous fistula (AVF) for hemodialysis. She presented to primary care clinic with lower extremity and abdominal swelling despite increasing doses of furosemide. She also reported that her AVF, located in the left forearm, was a "growing snake". Imaging of the abdomen showed "a nodular contour to the liver consistent with cirrhosis" prompting a GI referral and several encounters for therapeutic paracentesis. Ascitic fluid was chylous appearing with a serum albumin/ascites ratio of 1.1. During her clinical course, she constantly reported a "thumping" heart sound which was worsening. New symptoms of fatigue and shortness of breath began to develop. An echocardiogram showed abnormal right ventricular function and morphology and right heart catheterization showed a pulmonary capillary wedge pressure <15. Finally, she was diagnosed with pulmonary hypertension and high output heart failure secondary to the large, high flow, AVF. Within three months of ligation of the fistula, she had complete resolution of all symptoms.
+
+# IMPACT/DISCUSSION:
+
+This is a case of an eloquent historian who developed an uncommon type of HF. Causes of high output HF are broadly categorized as follows (1) increased metabolism leading to an increase in demand for blood and (2) low systemic resistance leading to increased flow into venous circulation such as an AVF. A single center study described the etiologies of high output HF to be obesity (31%), liver disease (23%), arteriovenous shunts (23%). There is no current evidence for ligation of AVF and is generally maintained in case of return to dialysis and prevention of hemodynamic changes post-transplantation. Decisions should be case-based and in high flow AVFs, ligation is warranted. This case serves as a reminder that an answer to a diagnostic dilemma is often right in front of us i.e. patients initial report of a growing AFV should be confirmed by examination and Doppler ultrasound. While clinicians appropriately chased a clue (liver findings on the CT scan), it turned out to be the consequence (liver congestion secondary to heart failure) and not the cause. The onomatopoeic word "thump" she repeatedly used through the course is a testament to the patient's subconscious self-awareness of a hardworking heart.
+
+# CONCLUSION:
+
+An iatrogenic cause of high output heart failure which needs early recognition is the non-removal of enlarging AVFs created for hemodialysis. Active listening and addressing patient concerns may help solve diagnostic dilemmas quicker.
+
+# THE CLOT THICKENS: CEREBRAL VEIN THROMBOSIS IN A PATIENT WITH HIV/AIDS FOLLOWING MENINGITIS
+
+Dylan Atchley; John Hwang. New York University, New York, NY. (Control ID #3166582)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the risk factors and clinical features of cerebral vein thrombosis.
+
+# LEARNING OBJECTIVE #2:
+
+Manage cerebral vein thrombosis and its associated sequelae.
+
+# CASE:
+
+A 26-year-old woman with untreated HIV/AIDS and a CD4 count of 54 presented with three days of fever, confusion, and ear pain, and was found to have pneumococcal meningitis and bacteremia secondary to suppurative otomastoiditis. Myringotomy was performed, and vancomycin, ceftriaxone, and dexamethasone were administered. She improved rapidly and started antiretroviral therapy on hospital day five. However, ten days into her admission, she developed fluctuating sensory loss and weakness of her right side, with sparing of her face. A non-contrast head CT was initially read as normal, but MRI/MRV hours later revealed extensive cerebral vein thrombosis (CVT) involving the superior sagittal and lateral transverse sinuses extending to the internal jugular vein. Tonic-clonic seizures developed shortly after. Heparin, levetiracetam, and phenytoin were started, with resolution of her seizures and neurologic deficits. She was discharged home on enoxaparin and recovered fully.
+
+# IMPACT/DISCUSSION:
+
+We initially overlooked the possibility of CVT in this patient, exposing several deficits in our illness script for this entity. CVT has a highly variable clinical presentation, usually produces only subtle findings on early unenhanced CT, and can complicate bacterial meningitis even late in its course. Timely diagnosis requires recognition of its risk factors and characteristic findings.
+
+# CONCLUSION:
+
+A wide variety of underlying disorders predispose to CVT. A systemic prothrombotic state is often present, whether from a genetic thrombophilia or an acquired condition such as malignancy, rheumatologic disease, pregnancy, or oral contraceptive use. Mechanical insults from head trauma, local tumor, or intracranial infection are also common causes; for example, CVT reportedly complicates 7-9% of cases of pneumococcal meningitis. Perhaps owing to this myriad of causes, the clinical manifestations of CVT are highly variable: headache is most frequent, while seizures, focal neurologic syndromes, and encephalopathy are also commonly observed—but none of these are invariably present. A waxing-waning pattern of stroke-like symptoms that do not conform to a stroke distribution, as seen in this case, is a characteristic presentation. Initial treatment is preferably low-molecular weight heparin. In the absence of definitive studies, anticoagulation is typically continued for at least six months, but should be individualized based on the patient's thrombotic risk. Warfarin is an acceptable choice, though this patient's cobicistat-containing antiretroviral regimen precluded its use; direct oral anticoagulants, meanwhile, have been insufficiently studied. While we considered the possibility that immune reconstitution may have contributed to this patient's CVT, in the context of severe bacterial infection, early initiation of ART is currently standard of care.
+
+# THE CLUE IN THE CULTURE: FUSOBACTERIUM LUNG INFECTION LEADING TO DIAGNOSIS OF COLORECTAL ADENOCARCINOMA
+
+Rebecca Berger. Weill Cornell Medicine, New York, NY. (Control ID #3187040)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the association between fusobacterium nucleatum and colorectal cancer.
+
+# CASE:
+
+A 79 year old retired physician presented with 3 weeks of progressive fatigue, dry cough, dyspnea, and dark stools. He had a mass protruding from the right chest wall and decreased breath sounds in the R lung. Hemoglobin was 10.8 g/dL, ferritin 246 ng/mL, transferrin saturation 9%. Chest CT showed multiple large peripheral lung opacities, a right infrahilar mass, and a low density rim-enhancing collection invading the right chest wall, concerning for metastatic lung cancer. Fine needle aspiration and core biopsy of the chest wall mass revealed no malignant cells. Bronchoscopy with transbronchial biopsy of the right infrahilar mass also found no evidence of malignancy. The fluid aspirated from the chest wall mass subsequently grew fusobacterium nucleatum.

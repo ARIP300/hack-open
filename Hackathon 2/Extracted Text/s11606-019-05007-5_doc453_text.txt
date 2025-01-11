@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# HYPERKALIEMIA AFTER MISSING DIALYSIS AND HER HCQ FOR SEVERAL MONTHS
+
+Electrocardiograph (ECG) showed a normal QT interval and a transthoracic echocardiogram (TTE) revealed an ejection fraction of 55%. She was subsequently restarted on dialysis and her home hydroxychloroquine. Three weeks after her admission she suffered a cardiac arrest from ventricular fibrillation during dialysis. Both pre-arrest and post-arrest labs were within normal limits. ECG showed no ischemic changes but revealed a prolonged QT interval of 600 msec. Repeat TTE revealed new severe biventricular failure with an ejection fraction of 15%. HCQ was then discontinued and a cardiac biopsy revealed changes consistent with HCQ toxicity. Repeat TTE showed minimal improvement in ejection fraction and a subcutaneous implantable cardioverter defibrillator (ICD) was placed. Follow up TTE one month later showed continued severe left ventricular dilation with an ejection fraction of 25%. However, ECG showed resolution of QT prolongation. The patient's mental status improved and she was discharged to acute rehabilitation.
+
+# IMPACT/DISCUSSION:
+
+Hydroxychloroquine (HCQ) has been associated with conduction disease including atrioventricular block, bundle branch block, and QT prolongation. Though these changes often take years to develop, they may rapidly worsen in patients on dialysis. If screening is not initiated and these changes are left unnoticed, the cardiotoxicities can lead to death.
+
+# CONCLUSION:
+
+HCQ is known to cause cardiotoxicities such as cardiomyopathies and conduction disturbances. These cardiotoxicities usually develop after long-term use with literature reviews demonstrating a mean of 10 years. Furthermore, the prognosis of HCQ cardiotoxicity ranges from complete improvement in cardiac function, to requiring cardiac transplant, to death. In our case, the QT interval demonstrated normalization following discontinuation of HCQ, as has been reported in prior cases. However, her cardiomyopathy did not improve and she required an ICD placement. With HCQ undergoing renal and hepatic excretion, toxicities can often be rapidly exacerbated in patients with renal insufficiency and can develop more rapidly than the 10-year average. Caution should be taken when starting or continuing patients on HCQ in patients on or nearing dialysis. Moreover, clinical suspicion should be high for cardiotoxicity in patients who have been on HCQ for many years. If caught early, these patients could reverse their cardiotoxicities and avoid premature death.
+
+# HYPERAMMONEMIC ENCEPHALOPATHY IN ROUX-EN-Y GASTRIC BYPASS WITH AFFERENT LOOP SYNDROME
+
+Hanyuan Shi1; Kevin Lee 2; Erik Johnsen1. 1Tulane University, New Orleans, LA; 2Columbia University, New York City, NY. (Control ID #3162974)
+
+# LEARNING OBJECTIVE #1:
+
+Consider not only nutritional deficiencies in RNYGB patients but also encephalopathy and defects in the ammonia cycle.
+
+# CASE:
+
+A 33-year-old female with elective gastric bypass surgery 10 years prior (Roux-en-Y, complicated by afferent loop syndrome requiring subsequent small bowel resection), untreated Hepatitis C (but persistently negative RNA titers), bipolar disorder initially presented to the hospital with rash on thighs and forearms thought to be due to drug allergy from furosemide. The patient was found to be encephalopathic and malnourished. Labs on admission were significant for INR 1.2 (0.9-1.1), total bilirubin 3.1 (0.1 - 1.2 mg/dl), alkaline phosphatase 238 (44-147 IU/L), ammonia 168 (15-45 u/dl), lactate 2.4 (0.5-1.0 mmol/L). Abdominal CT showed diffuse fatty infiltration of the liver but no signs of bowel ischemia. Ammonia peaked at 180 but stayed elevated to 110-130 despite administration of optimal doses of rifaximin and lactulose. Found to have E. Coli UTI, treated with ceftriaxone. Stepwise decline in mental status along with worsening respiratory requirements led to intubation in the ICU. Imaging showed pulmonary edema and patient underwent diuresis with ethacrynic acid. She was extubated a few days later without complication and steadily improved in her mental status. Liver biopsy showed focal pericellular and perisinusoidal fibrosis on trichrome stain (stage 2/4), negative iron deposition, negative intracytoplasmic inclusion, and negative reticulin stain. She had >66% steatosis, some lobular inflammation, few ballooned hepatocytes for a non-alcoholic fatty liver disease activity score (NAS) of 5/8. Further work-up was significant for micronutrient deficiencies (Vitamin A, Vitamin D), low copper 38 (80-155 ug/dl), low zinc 24 (60-120 ug/dl).
+
+# IMPACT/DISCUSSION:
+
+A recent review noted a newly recognized, almost lethal syndrome related to hyperammonemia after Roux-en-Y gastric bypass (RYGB) surgery. 95% of these patients are women. Previous cases have involved urea cycle deficiencies (ornithine transcarbamylase deficiency, carbamoyl phosphate synthetase deficiency) leading to impaired ureagenesis and elevated serum glutamine levels. Physiologic stressors can then predispose these non-cirrhotic patients to encephalopathy. In this patient's case, the trigger may have been an infection (UTI), nutritional changes (given hypoalbuminemia). Treatment includes lactulose, neomycin, arginine infusions, phenylbutyrate, citrulline, zinc supplements; the latter therapies work to remove nitrogen via alternative pathways in the ammonia cycle.
+
+# CONCLUSION:
+
+In RYGB, significant weight loss after surgery creates a catabolic setting where increased breakdown and subsequently deposition of nitrogenous waste in the liver can lead to encephalopathy. Our particular anatomically challenging case demonstrates life-threatening hyperammonemia that was exacerbated by a combination of liver disease and abnormal nitrogen processing from nutrition deficits.
+
+# HYPERCALCEMIA AS THE ONLY MANIFESTATION OF COCCIDIOIDOMYCOSIS
+
+Mais Abdou1; Nooraldin Merza1; Asrar Abdou3; Kaylee J. Shepherd2. 1TTUHSC, Amarillo, Amarillo, TX; 2Texas Tech University Health Sciences Center, Amarillo, TX; 3St Joseph Mercy Oakland, Troy, MI. (Control ID #3181584)
+
+# LEARNING OBJECTIVE #1:
+
+Learn to include fungal infections such as coccidioidomycosis in your differential diagnosis of hypercalcemia. Recognize the diagnostic algorithm of hypercalcemia.
+
+# CASE:
+
+An 82 year-old male with medical history of hypertensive chronic kidney disease stage III presented to our hospital for near syncope during a routine outpatient laboratory draw. He reported generalized weakness, malaise, unintentional 30lbs weight loss, constipation, nausea and decreased appetite for several months. Vital signs stable and exam revealed palpable lymphadenopathy of the cervical chain. Laboratory workup showed normal white blood cell count and differentiation, hemoglobin 9.9 g/dl, calcium 12.1 mg/dl with ionized level 1.62 mg/dl, creatinine 2.03 mg/dl from a baseline of 1.3 mg/dl, intact parathyroid hormone (PTH) 45pg/ml, PTH related peptide 8 pg/ml, 25 hydroxyvitamin D 45pg/ml, but an elevated 1,25 dihydroxyvitamin D at 60 pg/ml. CT neck and chest showed cervical lymphadenopathy and thyroid nodule. Bone scan showed no lytic or destructive osseous lesion. Parathyroid sestamibi scan showed a focal abnormality, which correlated with the thyroid nodule detected on the CT scan. Fine needle aspiration pathology was consistent with benign follicular adenoma. Peripheral blood smear revealed moderate anemia with normal WBCs and no dysplastic features. Serum and urine protein electrophoresis were normal. Bilateral bone marrow biopsy showed normocellular marrow with no evidence of myeloma or malignancy. Cervical lymph node biopsy was consistent with granulomatous lymphadenitis with fungal spherules of Coccidioides immitis. There was no evidence of malignancy. On further history, he reported visiting rural Arizona frequently. The patient was placed on fluconazole 400 mg daily with 3 month follow up showing significant symptomatic relief with calcium level down to 9.7 mg/dl.
+
+# IMPACT/DISCUSSION:
+
+Hypercalcemia has been described in patients with granulomatous disorders, especially sarcoidosis and tuberculosis, but rarely with fungal granulomas like coccidioidomycosis. The mechanism of hypercalcemia in patients with coccidioidomycosis is unclear and there is

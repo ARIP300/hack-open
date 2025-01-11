@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# BUILDING A TOOLKIT FOR MEDICAL STUDENTS: ADDRESSING MICROAGGRESSIONS & DISCRIMINATION ON THE WARDS
+
+Raquel Sandoval3; Titilayo Afolabi3; Jordan Said3; Avik Chatterjee2; Daniele D. Olveczky1. 1Beth Israel Deaconess Medical Center, Boston, MA; 2Harvard Medical School, Cambridge, MA; 3Harvard Medical School, Boston, MA. (Control ID #3187230)
+
+# NEEDS AND OBJECTIVES:
+
+Multiple studies suggest that physicians' implicit biases can affect the care that they provide to their patients1, 2. This, in addition to inequalities in the distribution of social determinants of health in society, is thought to contribute to stubbornly persistent health disparities between minority and non-minority populations. These implicit biases often manifest as microaggressions. There has been a deepening understanding of the harmful impact of micro-aggressions on the clinical relationship between patients and health care professionals.
+
+# SETTING AND PARTICIPANTS:
+
+Setting: Harvard Medical. Participants: First year students prior to the start of clinical rotations.
+
+# DESCRIPTION:
+
+A two-hour workshop for rising first year medical and dental students who had completed their first fifteen months of undergraduate medical education and were going to transition to clinical responsibilities was developed. The workshop consisted of (1) a thirty-minute interactive large-group didactic session via PowerPoint presentation that introduced micro-aggressions, discrimination, and frameworks for addressing these issues in the clinical setting, and (2) a seventy-five-minute small-group session during which students worked through two cases by applying the presented frameworks and role-playing scenarios.
+
+# EVALUATION:
+
+121 and 105 respondents completed the pre and post workshop surveys respectively. An analysis of 81 pairs of pre- and post-workshop surveys was performed. Pre-workshop, 77.7% had encountered some form of a micro-aggression during a clinical experience at least once. Students were also asked to self-assess their challenges responding to micro-aggressions in the following competencies: "Fear of retribution," "Difficulty recognizing," "Not sure what to say or do," "Lack of allies," and "Lack of familiarity with institutional support." Self-assessment strength was checked against a micro-aggressions definition and identification task in the post-survey.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Discussion: Our results demonstrated that the workshop broadly improved self-assessed participant competencies for recognizing and combating micro-aggressions in a clinical setting. Post-workshop, perceived challenges to addressing micro-aggressions and episodes of discrimination on the wards decreased for all of the barriers and sub-groups except "Fear of retribution," which remained a barrier for all respondents post-workshop. Conclusion: The prevalence of micro-aggressions in the clinical environment remains significant. A two-hour workshop resulted in a significant decrease in perceived challenges in addressing micro-aggressions.
+
+# BUILDING CAMARADERIE, COMMUNITY AND MENTORSHIP: FOSTERING PROFESSIONAL DEVELOPMENT THROUGH RESIDENT-LED WOMEN IN INTERNAL MEDICINE PEER GROUP (WIIM)
+
+Anna Buteau1; Anupama M. Kapadia2; Meera Bhakta1; Liwayway R.
+
+# NEEDS AND OBJECTIVES:
+
+As women enter the field of medicine in increasing numbers, literature shows they have decreased quality of life and blunted career advancement. One solution is to amplify mentorship and sponsorship for women by women. Due to limited numbers of mentors and sponsors, it is difficult for female learners to receive individualized guidance. Objectives for WiIM: 1. Enhance opportunities for peer mentoring amongst female residents 2. Amplify mentorship and sponsorship by internal medicine female faculty.
+
+# SETTING AND PARTICIPANTS:
+
+This informal curriculum is for all female residents and faculty. Each event was hosted at a member's home.
+
+# DESCRIPTION:
+
+Eager for camaraderie, a group of female residents united to create an informal peer group focused on women in internal medicine, coined WiIM. Initially, only residents attended, but the group rapidly identified the added value of including faculty. The monthly gatherings provide an opportunity to socialize, network and to discuss relevant readings and topics, including advocacy, mentorship and resident-based concerns. Crowdsourcing topics from the group, we have discussed challenges unique to women, including preserving balance yet advancing in the hierarchical worlds of medicine and academia. Faculty shared their experiences negotiating contracts and salaries as well as ongoing challenges as women in medicine.
+
+# EVALUATION:
+
+Initially, feedback was informal and anecdotal. Attendance has been our strongest measure of success, as 64% percent of women residents and 64% of women faculty have attended at least 1 out of 5 meetings. While data on participation preferences, motivation for attendance, and benefits of attending is still being collected, we continue to collect comments that illustrate the level of interest: "after 2 hours at one of these sessions, it is the same high I get after going to a conference for a couple of days!", "loved the collaborative aspect and networking" and "I absolutely loved these events- I was able to get to know my attendings on a very personal level and identified with their continued struggles as women physicians in medicine."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Though research regarding career fulfillment among women in medicine is limited, there is an increasing demand to create an environment where women can thrive and to ensure that they are given opportunities for career advancement. Our WiIM group is unique in that a resident-driven solution to an unfulfilled need now amplifies mentorship and sponsorship by faculty. The growth of WiIM speaks for itself. Female residents from other programs within our institution and visiting medical students have enthusiastically asked to be included in our meetings. Next steps for the organization are to establish a framework to pass on management of the group year over year, to invite more women leaders to our group, and to explore expanding across all residencies. Maintaining an intimate environment will be a challenge.
+
+# CHALLENGES IN RESIDENT CLINIC EMPANELMENT: INVESTIGATING AND INTERVENING UPON THE PANEL TRANSFER PROCESS
+
+Lydia A. Flier; Sarah Knapp; Mariana Gonzalez; Rebecca Glassman. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3163550)
+
+# NEEDS AND OBJECTIVES:
+
+(1) To assess the annual panel transfer process between graduating residents and incoming interns at a primary care.

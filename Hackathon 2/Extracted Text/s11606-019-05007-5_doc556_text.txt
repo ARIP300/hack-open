@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Vulvar Lichen Sclerosis
+
+Minora with patchy scaly skin. There was an absence of vulvar discharge or tenderness. Speculum exam was unremarkable with a benign cervix and absence of tenderness with bimanual exam. She localized her itching to the hypo-pigmented area on exam. Repeat infectious testing returned negative. Patient was referred to gynecology and dermatology with subsequent pathology confirming lichen sclerosis. She was treated with topical clobetasol ointment.
+
+# IMPACT/DISCUSSION:
+
+Lichen sclerosis is a rare autoimmune vulvar dermatological pathology that often presents with vulvar pruritus in 90% of cases. Vulvar pruritus often is severe enough to induce significant scratching resulting in skin scarring, dyspareunia, apareunia, and burning in some women. It causes vulvar skin changes such as hypo-pigmentation, skin thinning and scarring. Vulvar lichen sclerosis prevalence is unknown however it commonly occurs between the ages of 40 to 60. Under diagnosis is common and are due to many reasons. First, the condition is rare and practitioners often focus on more prevalent vulvar pruritic conditions such as bacterial vaginosis, vulvovaginal candidiasis, and trichomonas especially in sexually active and pre-menopausal women. Second, the vulvar pruritus episodes can be transient in many women leading to inconsistent or delayed treatment with topical corticosteroids. However, recognition matters given 5% of vulvar lichen sclerosis cases progress to squamous cell carcinoma. Long term therapy with topical corticosteroids does reduce risk of primary vulvar cancer in recent literature. However, only 1 in 4 women with lichen sclerosis are consistently prescribed maintenance therapy. Primary care doctors should refer to vulvar specialists for close monitoring for progression to malignancy and for consistent treatment.
+
+# CONCLUSION:
+
+Vulvar lichen sclerosis is an under diagnosed and treatable cause of vulvar itching. Vulvar lichen sclerosis progresses to squamous cell carcinoma in 5% of cases.
+
+# THE HAART OF THE MATTER: LIFE THREATENING MEDICATION INTERACTIONS IN HIV PATIENTS
+
+Phillip S. Hamilton. UPMC, Pittsburgh, PA. (Control ID #3176929)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize potential for drug-drug interactions when a medication is discontinued
+
+# LEARNING OBJECTIVE #2:
+
+Manage inhaled corticosteroids in patients with HIV on Highly Active Antiretroviral Therapy (HAART)
+
+# CASE:
+
+A 55-year-old man with a history of HIV, hypertension, and COPD presented with acute onset of hypotension. He had been on the combination antiretroviral Elvitegravir-cobicistat-emtricitabine-tenofovir alafenamide (Genvoya®) for approximately one year but had discontinued it ten days prior to presentation. His last known CD4 count was 273 c/uL one month prior. He was compliant with his other medications including HCTZ/lisinopril, inhaled tiotropium and inhaled fluticasone/vilanterol. He presented with a blood pressure of 60/40 mmHg, a pulse of 130 bpm, lactate of 3.7 mmol/L and WBC of 9.8 K/cmm. Due to concern for sepsis he was given IV antibiotics, IV fluids, and IV methylprednisolone and transferred to a higher level of care. On arrival, he had only mild symptoms to report and his blood pressure was 139/87 mmHg. A basic infectious evaluation was unremarkable. Reviewing his medications, it was noted that the cobicistat contained in the Genvoya he had discontinued ten days prior inhibits the metabolism of fluticasone. For several months the patient had noted worsening central obesity and increased prominence of the dorsocervical fat pad consistent with a cushingoid appearance. The sudden removal of the cobicistat resulted in a drop in serum steroid levels in a patient with a suppressed adrenal axis. An ACTH stimulation test was obtained, 0800 cortisol was 1.5 ug/dL which increased to 16 ug/dL. Endocrine consultants agreed that the transient hypotension was likely related to adrenal suppression from the cobicistat/fluticasone combination. He was started on hydrocortisone and inhaler changes were made.
+
+# IMPACT/DISCUSSION:
+
+This is a unique case of a drug-drug interaction leading to a presentation of adrenal insufficiency. The combination of the cobicistat and inhaled fluticasone led to corticosteroid excess and adrenal suppression. The removal of the HAART effectively decreased the level of circulating corticosteroid which resulted in hypotension that improved with steroid administration. The cobicistat in the combination HAART drug is a potent CYP3A inhibitor, whose purpose is to increase or "boost" the levels of elvitegravir via CYP inhibition. In this case the drug-drug interaction became clinically evident with the removal of the HAART. The culprit interacting drug was an inhaler, which can be overlooked as a potential interacting medication.
+
+# CONCLUSION:
+
+Internists must have a heightened suspicion for drug-drug interactions with HIV medications, including inhaled medications which are often overlooked. Among the inhaled corticosteroids, fluticasone has a high likelihood of interaction and should be avoided in patients on a boosted HAART regimen such as Genvoya.
+
+# THE HEADACHE WITH A WORLD OF POSSIBILITIES
+
+Roberto Herrera; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186091)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the differential diagnosis of meningitis to include geographic risk factors.
+
+# LEARNING OBJECTIVE #2:
+
+Understand common incidental findings in immigrant populations can mask typical disease presentations.
+
+# CASE:
+
+A 27 year-old woman presented with one day history of worsening neck pain, stiffness, and headache. She also reported photosensitivity and vomiting. She denied ever being vaccinated for meningitis and immigrated to the United States from Guatemala 3 years ago. She appeared uncomfortable but was afebrile and oriented to person, place, and time. No focal neurologic deficits were observed. She did not have any evidence of rash or petechiae. The neck was stiff and flexion produced pain. A lumbar puncture revealed a CSF glucose of 32 mg/dL and a CSF protein of 91 mg/dL. CSF cell count with differential revealed 400/cm WBC and 16% neutrophils. Gram stain of the CSF was negative. A meningitis panel of CSF was negative as well as a West Nile virus IgG and IgM. A head CT showed multiple cysts with nodular mural irregularity and punctate calcifications in and along both cerebral hemispheres consistent with Neurocysticercosis. A Strongyloides antibody IgG was also positive.
+
+# IMPACT/DISCUSSION:
+
+Headache and neck stiffness are commonly encountered by the internist. As the immigrant population continues to grow in the United States, it is important to identify incidental findings that may mask a typical presentation. It is estimated that 50 million people worldwide have a cysticercosis infection. Cysticercosis is endemic in Central and South America. It is also endemic in India, Asia, and sub-Saharan Africa. Most cases of Neurocysticercosis are found incidentally via radiographic imaging in asymptomatic patients. The most common presentation of symptomatic neurocysticercosis is seizure. Another common presentation is with symptoms of elevated intracranial pressure associated with parenchymal disease. This has an important treatment consideration as any antiparasitic therapy should be held if there is untreated hydrocephalus, high cyst burden, or presence of calcified lesions only. Antiparasitic therapy carries the risk of worsening neurologic symptoms due inflammation around the degenerating cysts. Strongyloides is also endemic in tropical and subtropical regions. It is estimated that the prevalence in subtropical regions may be as high as 25 percent. Typical manifestations of the disease include gastrointestinal symptoms that.

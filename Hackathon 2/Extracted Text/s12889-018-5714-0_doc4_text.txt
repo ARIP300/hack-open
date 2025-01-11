@@ -1,0 +1,35 @@
+# Björk et al. BMC Public Health (2018) 18:838
+
+# Table 2 Content of the patient questionnaire
+
+|Item|Label|Questions & references|
+|---|---|---|
+|Q 1-8|Background characteristics|-|
+|Q 9-12|Exhaustion disorder|Questions from Glise et al. [32] on self-reported exhaustion (s-UMS)|
+|Q 13-50|Work stressors|Items from the Work Stress Questionnaire (WSQ) [33]; Job Control Questionnaire (JCQ) [34]; the General Nordic Questionnaire for Psychological and Social Factors at Work (QPS Nordic 34+) [35]; and the Copenhagen Psychosocial Questionnaire (COPSOQ II) [36]|
+|Q 51-53|Work ability|Items from the Work Ability Index (WAI) [37]|
+|Q 54|RTW- self efficacy|Questions from Lagerveld et al. 2010 [38] on return to work self-efficacy (RTW-SE)|
+|Q 55-57|Employer activities before sick-leave|Questions from the method Workplace Dialogue for Return to Work [21, 39]|
+|Q 58-60|RTW motivation|Item on RTW motivation in van Oostrom et al. 2010 [40]|
+|Q 61a-n|Life stressors|Questions from Hasselberg et al. 2014 [41]|
+|Q 62-75|Symptoms of anxiety and depression|Items from the Hospital Anxiety and Depression scale (HAD) [42]|
+|Q 76-93|Symptoms of burnout|Items from the Shirom-Melamed Burnout Questionnaire (SMBQ) [43]|
+|Q 94|General health|One item from the SF-36 scale [44]|
+
+out a form containing questions about the employer’s view on the situation before and after the patient’s sick-leave, and about the employer’s readiness for the patient’s RTW. This form was also scanned to the medical journal, and the GP was provided with a summary. The procedure ended with a meeting between the RC, the GP, the patient and the employer to set up a plan for RTW (step four). After this final step, the RC filled out a checklist about protocol adherence. All forms and questionnaires also served as research data, and were collected by the researchers.
+
+During the intervention, all participants in the intervention group were offered clinical advice by phone or e-mail from the specialist physicians at the Institute of Stress Medicine.
+
+The control group started inclusion at the same day as the first training day for the intervention group, in November 2016. After providing their informed consent, patients at the control centers received TAU, which can include for example medical treatment, and psychological therapy. At some of the control centers, TAU also included RC getting in contact with employers, but normally this is done long into the sick-leave period.
+
+Inclusion of patients lasted from November 2016 until the end of January 2018. The recruitment period was extended by six months compared to the original plan. During the intervention, the researchers revisited all centers for at least one occasion to encourage GPs and RCs to recruit patients. News letters from the project were regularly sent to all PHCC managers and RCs at both intervention and control centers. Also, research assistants contacted all RCs once a month by phone for follow-up.
+
+# Sample size
+
+In all 135 patients were recruited; 69 to the control group and 63 to the intervention group (see Fig. 1). Depending on the proportion of patients on sick-leave at three, six and twelve months after inclusion, power will vary between 41 % and 74 % (based on the assumption that the prevalence of sick-leave in the control group fluctuates between 20 % and 95 % and with an estimated difference between the groups of 15 % [45]; a two-sided test and a statistical significance of p < 0.05). There was a substantial variation in the number of recruited patients per PHCC.
+
+# Outcome measurements and statistical analyses
+
+The primary outcome of the RCT is RTW. We will analyze the difference between cases and controls in proportion of patients on full- or part-time sick leave at three, six and 12 months after inclusion. We will use data from the Swedish Social Insurance Agency’s Micro Database for Analyzing Social insurance (MiDAS) where all sick-leaves exceeding two weeks are registered. The intention to treat principle will be followed.
+
+The intervention is designed to facilitate for the caregiver to involve the employer in rehabilitation and strengthen the patient’s RTW-SE, but whether these mechanisms are triggered or not will depend on circumstances among patients, employers as well as the caregivers, i.e it will depend on contextual factors.

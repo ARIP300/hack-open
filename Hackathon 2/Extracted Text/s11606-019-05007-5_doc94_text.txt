@@ -1,0 +1,56 @@
+# JGIM
+
+# ABSTRACTS
+
+Participants were randomized to levothyroxine or matching placebo including mock titration. The main outcomes were the change in 1-year Hypothyroid Symptoms score and Tiredness score in the Thyroid-Related Quality-of-Life Questionnaire. Both scores were self-reported (range 0-100, higher scores indicate more symptoms) with a 9 point difference considered clinically significant. In this subgroup analysis, we focus on participants with a baseline Hypothyroid Symptoms score >30 or Tiredness score >30.
+
+# RESULTS:
+
+At baseline, 132 adults (20.7%) had Hypothyroid Symptoms scores >30 (mean age of 75 years, 64% women, mean±SD TSH 6.2mIU/L ±1.65 and mean Hypothyroid Symptoms score 45.2±14.6) and 209 (32.8%) had Tiredness scores >30 (mean age of 75 years, 63% women, mean TSH 6.2mIU/L±1.65 and mean Tiredness score 48.9±14.9). After 1 year, among those with a Hypothyroid Symptoms score >30 at baseline, the mean score was 34.9 in the placebo and 32.8 in the levothyroxine group; and in those with a baseline Tiredness score >30, 43.1 and 41.3 respectively. 1-year outcomes were similar between the levothyroxine and placebo groups (adjusted between-group difference -0.5, 95%CI: -6.8 to 5.8, p=0.9, Figure 1; and -0.7, 95% CI: -6.1 to 4.8, p=0.8, respectively). Among all TRUST participants (n=737), baseline scores of the two main outcomes (as continuous variables) did not modify the effects of levothyroxine vs. placebo on Hypothyroid Symptoms (interaction p value=0.85) or Tiredness (p=0.65).
+
+# CONCLUSIONS:
+
+In this secondary analysis of older adults with SCH and higher symptom burden at baseline, levothyroxine therapy did not improve hypothyroid symptoms or tiredness.
+
+# Figure 1. Effect of Levothyroxine vs Placebo on 1-Year Change in Hypothyroid Symptoms Scores in Older Adults with Subclinical Hypothyroidism and Baseline Scores >30 (N=132)
+
+| |Baseline|1-year Follow up|
+|---|---|---|
+|Placebo|70|34.9|
+|Levothyroxine|60|32.8|
+
+# DO QUALITY IMPROVEMENT PROJECTS AFFECT WORKFORCE BURNOUT?
+
+Robert G. Badgett; Brent A. Duran. KU School of Medicine - Wichita, Wichita, KS. (Control ID #3181672)
+
+# BACKGROUND:
+
+Burnout among healthcare professionals is a threat to both workforce and patient well-being. Based on Spreitzer's Integrative Model of Human Growth at Work, execution of quality improvement (QI) projects could be posited to reduce burnout if the workforce gains control over a dysfunctional worksite or to increase burnout if the workforce loses autonomy. This meta-analysis explores the link between workforce participation in the design of QI or practice redesign initiatives and impact on levels of burnout.
+
+# METHODS:
+
+We included studies published through January 2019 that executed QI projects, measured burnout, and had either concurrent or historical controls.
+
+# RESULTS:
+
+Six controlled studies with 6842 healthcare professionals were included. 66% of professionals were in the VA PACT study. One study, the Healthy Work Place (HWP) trial, was randomized. All interventions included components of workflow improvement. Two studies used a controlled before and after design to compare changes in burnout in intervention vs control clinics (Group Health Cooperative and Sutter Clinic). Meta-analysis showed no overall effect on burnout (odds ratio: 0.95; 95% CI 0.74 to 1.23); however, heterogeneity was substantial (I2=72%). Whether healthcare professionals had local control over project design significantly modulated the results: studies granting local control tended to reduce burnout (odds ratio 0.77; 95% CI 0.57 to 1.03; I2=44%) whereas studies not clearly granting local control tended to increase burnout (odds ratio 1.29; 95% CI 0.91 to 1.81; I2=80%). Additional findings include: 1) the Sutter clinic found that interventions did not affect burnout when the workforce had control over implementation, but the same interventions significantly increased burnout when the workforce did not have control, 2) the HWP found that workflow interventions significantly reduced burnout, 3) two studies found a significant association between the degree of practice redesign and freedom from burnout, and 4) Group Health reported a positive financial return on investment. A qualitative study by Parker advocated for a hybrid approach to QI that merges central and local control of implementation. Studies with patient outcomes reported either significant benefit (VA PACT, Group Health, Sutter Clinic) or mixed results (HWP).
+
+# CONCLUSIONS:
+
+Burnout can be avoided, and likely reduced by both workforce involvement in implementation decisions and also addressing workflow. The recommendation for a hybrid strategy is consistent with the High-Performance Work Practices of the Agency for Healthcare Research and Quality and is consistent with complexity leadership theory (CLT). In CLT, the role of management includes data gathering, sensemaking of the data, and dissemination of information. Limitations to this analysis include relying on mostly non-registered, observational studies. The benefit to patient outcomes tends to be positive.
+
+# DOES A FOCUSED TRAINING IMPROVE INTERNAL MEDICINE RESIDENTS' SYSTEM- AND PRACTICE-BASED CONFIDENCE IN INTEGRATED BEHAVIORAL HEALTH CARE?
+
+Christine A. Pace1; Lindsay B. Demers2; Carly Taylor5; Evonne Yang3; Cara Fuchs3; Robert Joseph3; Daniel P. Alford4. 1Boston University School of Medicine, Boston, MA; Medical Center, Boston, MA; 2Boston University, Boston, MA; 4Boston University School of Medicine3Boston and Boston Medical Center, Boston, MA; 5Tufts University School of Medicine, Boston, MA. (Control ID #3185720)
+
+# BACKGROUND:
+
+Successful implementation of integrated behavioral health (IBH) requires physicians to take on new system-based and clinical responsibilities that are not well covered in residency training. The Boston Medical Center General Internal Medicine practice, where almost 100 residents receive ambulatory training, began an IBH program in 2014. Due to the large number of educational priorities for the residency program, we had limited time with the residents and developed a focused training. We sought to evaluate its effectiveness in improving residents' IBH system- and practice-based confidence.
+
+# METHODS:
+
+The training was an hour-long lecture with case discussion, focused on screening and intervening for depression and unhealthy substance use, and best practices for co-management with behavioral health clinicians. For example, we discussed interpretation of screening results, brief interventions for risky alcohol use, and behavioral health tools in our electronic record, and we modeled warm hand-offs to IBH clinicians. We trained four groups of residents, with each session led by a primary care clinician, psychologist or psychiatrist, and an IBH social worker. The training evaluation included a pre- and immediate-post-survey of residents assessing confidence in IBH processes and clinical skills. Changes in confidence were assessed using a five-point scale ranging from "Not at all Confident"=1 to "Completely Confident"= 5. A series of non-parametric sign tests appropriate for Likert-type data was used.
+
+# RESULTS:
+
+31 residents completed the training with 27 (87%) completing the surveys. 17 were in their first year, 7 in their second, and 3 in their third. In order to assess changes in confidence from pre- to post-, a series of non-parametric sign tests, appropriate for Likert-type data, was used. We found statistically significant gains in confidence in all areas assessed.

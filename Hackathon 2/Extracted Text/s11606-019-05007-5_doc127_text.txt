@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+This cross-sectional survey adds to the literature by identifying high-yield ambulatory skills to help GME directors tailor their FD programs based on faculty types and engage ambulatory faculty to teach housestaff. Ambulatory FD programs should target teaching skills most useful in one-on-one precepting relationships (e.g. bedside teaching, feedback, and goal-setting/mentorship) and deliver such skills in small group interactive workshops. Survey data do not support FD skills esoteric to ambulatory educators such as concept mapping, research methods, or promotion for community-based faculty. Further work must focus on effective ambulatory FD models to teach these skills in low- and high-resource institutions.
+
+# FAMILY CAREGIVER PERSPECTIVES ON LONG TERM CARE PLANNING
+
+Steffi Shilly 1; Vanessa Chicas 1; Jillian Shotwell 1; Caren Steinway 1; Sophia Jan 2. 1 Cohen Children's Medical Center at Northwell Health, New Hyde Park, NY; 2 Northwell Health, New Hyde Park, NY. (Control ID #3175394)
+
+# BACKGROUND:
+
+Although many family caregivers of individuals with intellectual/developmental disabilities (IDD) worry about their relative's future, few develop solid long term care (LTC) plans. This lack of LTC planning may lead to crises and emotional trauma for concerned loved ones, unexpected dilemmas for siblings or extended families, and unwanted or inappropriate emergency placement.
+
+# METHODS:
+
+We conducted five focus groups in two states with parents and siblings of individuals with IDD. Before each focus group, participants were asked to complete a survey that included basic demographic information, the Waisman Activities of Daily Living Scale (W-ADL), and Scales of Independent Behavior-Revised, Problem Behavior Scale (SIB-R). Caregivers were asked about perceived barriers and facilitators of LTC planning and preferences for tools to promote LTC planning among families like theirs. Focus group recordings were transcribed verbatim and coded using the constant comparative method to identify major themes.
+
+# RESULTS:
+
+Twenty-seven family caregivers, 19-74 years old (mean age, 39.59), participated in focus groups. Family caregivers were predominantly female (56%) and White (81%). Caregivers resided in Delaware (44%), Pennsylvania (48%), and New Jersey (7%). Education level and yearly household income varied among family caregivers. The individuals with IDD, ages 14-40 years old (mean age, 23.24) lived in various states: Delaware (n=12, 44%), Pennsylvania (n=12, 44%), New Jersey (n=2, 7%), and Missouri (n=1, 4%). Of the individuals with IDD, 78% (n=21) identified as White, 15% (n=4) as Black, and 4% (n=1) as Asian. Almost half (48%) of the individuals with IDD had a Medicaid Waiver and 63% had 1 problem behavior. The mean W-ADL score was 1.209, meaning that most individuals need assistance with activities of daily living. Focus groups revealed that having an advocate (i.e., a support coordinator or government official), networking (such as with other caregivers), emotions (i.e., hope or fear), adverse events (i.e., eviction) and the experience or personal background of a caregiver (i.e., having a medical background) facilitated planning. Lack of information, lack of appropriate resources (i.e., medical providers inexperienced in caring for adults with IDD), emotions (i.e., uncertainty of the future), finances, and difficulty in systems navigation (i.e., difficulty obtaining Medicaid) were identified as barriers to planning. These barriers and facilitators are especially prominent when most services are lost during transition to adulthood. Family caregivers mentioned that a website would be a useful resource to help with LTC planning.
+
+# CONCLUSIONS:
+
+LTC planning is influenced by the coordination of many complex factors, including emotions, knowledge, and resources. Interventions for LTC planning may improve quality of life, independence, and personal choice of adults with IDD and their caregivers.
+
+# FASTING STATUS OF PATIENTS UNDERGOING AMBULATORY LABORATORY TESTING
+
+Eva Tseng 1; Jodi B. Segal 2; Nisa Maruthur 2. 1 Johns Hopkins University SOM, Baltimore, MD; 2 Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3185039)
+
+# BACKGROUND:
+
+Many population-level studies use glucose values from EMR data to identify patients with prediabetes and diabetes. Since diagnostic criteria are based on fasting glucose, investigators often assume patients are fasting, particularly if phlebotomy was in the morning. We sought to assess the validity of the assumption that outpatient, morning measurements are fasting measures.
+
+# METHODS:
+
+We surveyed adult patients (age 18 years) presenting for phlebotomy at the Johns Hopkins Outpatient Center during 7am-12pm over 2 weeks in November 2018. Patients self-administered a 4-question written survey, provided by the registration staff, about their fasting status, whether the ordering provider instructed them to fast, whether they were getting a glucose and/or cholesterol test, and what time they presented to the lab. We defined fasting status as "nothing to eat or drink 8 hours before the test except for water." We estimated a sample size of n=500 would provide a relatively tight confidence interval around the estimates (i.e., 95%CI within 5% on either side of the estimate).
+
+# RESULTS:
+
+Of 506 survey respondents, 49% reported they had fasted. Patients presenting earlier vs. later were more likely to be fasting (Figure) with 64% fasting between 7-8am compared to 31% fasting between 11am-12pm (p trend<0.001). Among those who had fasted, 49% reported their provider advised them to fast, and the remainder had not. Of those recommended by their provider to fast, the majority (91%) had fasted. Overall, more respondents who reported they were having a glucose and/or cholesterol measurement fasted (75%) than those having other testing (37%), p<0.001. The prevalence of fasting among those reporting a glucose or cholesterol measurement before 10am was 80.2% (95%CI, 71.9 to 86.9).
+
+# CONCLUSIONS:
+
+About half of patients presenting to a large, academically affiliated lab in the morning between 7am and 12pm had fasted. Glucose and cholesterol measures before 10am are more likely than not to be fasting. The reported range of fasting patients may help investigators explore the impact of misclassification of patient fasting status in population-level studies. Consideration of other variables may also enhance the accuracy of using ambulatory glucose data for population studies of diabetes and prediabetes.
+
+| |7-8am|8-9am|9-10am|10-11am|11am-12pm|
+|---|---|---|---|---|---|
+|All respondents|64%|?|?|?|31%|
+|Receiving Glucose Test|?|?|?|?|?|
+|Receiving Glucose & Cholesterol Test|?|?|?|?|?|

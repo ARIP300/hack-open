@@ -1,0 +1,25 @@
+# ABSTRACTS
+
+# EXAMINING FACTORS ASSOCIATED WITH NICOTINE REPLACEMENT THERAPY USE AMONG ASIAN AMERICAN MALE SMOKERS
+
+Fiona Ng 1, 4; Hallen Pham1, 4; Janet Chu2, 4; Ginny gildengorin1, 4; Susan Stewart5, 4; Alice Guan1, 4; Edgar Yu3, 4; Angela Sun6, 4; Joyce Cheng6, 4; Tung T. Nguyen2, 4; Janice Y. Tsoh3, 4. 1University of California, San Francisco, San Francisco, CA; 2UCSF, Livermore, CA; 3University of California San Francisco, San Francisco, CA; 4Asian American Research Center on Health, UCSF, San Francisco, CA; 5University of California, Davis, Davis, CA; 6Chinese Community Health Resource Center (CCHRC), San Francisco, CA. (Control ID #3185361)
+
+# BACKGROUND:
+
+The Veterans Health Affairs (VA) closely tracks 30-day readmission and mortality rates among patients hospitalized for congestive heart failure (CHF). While previous work has identified multiple factors that are predictive of readmission and death, social determinants of health (SDOH) are often not examined due to the difficulty in extracting this information from clinical databases. We previously extracted four SDOH (see Table) that are commonly associated with poor clinical outcomes. We examined whether SDOH were associated with 30-day readmission and mortality in the VA's integrated health care system.
+
+# METHODS:
+
+Participants consisted of dyads formed by a Chinese or Vietnamese daily smoker and a non-smoking family member. In this randomized controlled trial, dyads received a family-centered education intervention taught by lay health workers (LHW) on either smoking cessation (n=166) or nutrition and physical activity (n=159). Bivariate and multivariable regression analyses were used to identify factors associated with NRT-use reported at 3-months after enrollment. Treatment group, demographics, and the following baseline Information-Motivation-Behavioral Skills Model (IMB) constructs were examined: information (harms of tobacco use, effectiveness of NRT), motivation (family support, discussion with doctor, intention to quit), and behavioral skills (24-hour quit attempt, self-efficacy).
+
+# RESULTS:
+
+The sample consisted of 163 Vietnamese and 162 Chinese men who smoked daily at the time of enrollment (mean age=54.7). All but one participant were foreign born; 98% spoke limited English; 74% had high school or less education. On average, the participants have smoked for 28.3 years with a mean of 9.4 cigarettes smoked daily; 46% had no intent to quit in 6 months; and 49% smoked 30 minutes after waking (indicating high nicotine dependence). At 3 months post-enrollment, smoking cessation group yield higher NRT-use than the control group (12% versus 6.9%) [(AOR=3.28, p=.01)]. In multivariable analysis, independent of group assignment the following IMB constructs were associated with NRT-use: motivation (frequent encouragement from family member to use cessation resources [AOR=2.04, p<.01], discussion with doctor about smoking [AOR=5.24, p<.01], intention to quit 6 months [AOR=2.57, p=.049]) and behavioral skills (at least one 24-hour quit attempt in the year prior to study [AOR=3.69, p=.01]).
+
+# CONCLUSIONS:
+
+While LHW-led family-based smoking cessation intervention increased NRT-use among Chinese and Vietnamese male smokers, utilization remains low. Information on the harms of tobacco and efficacy of cessation resources alone were insufficient. Our findings underscore the importance of healthcare providers promoting NRT-use with an understanding of personal and cultural barriers. Efforts to improve NRT-use among this population should also involve empowering family members to discuss cessation resources with smokers.
+
+# EXAMINING THE AWARENESS OF UNHEALTHY WEIGHT AMONG CHINESE AMERICAN AND VIETNAMESE AMERICAN IMMIGRANTS
+
+Hallen Pham1; Fiona Ng1; Janet Chu1; Ginny gildengorin1; Susan Stewart2; Edgar Yu1; Alice Guan1; Angela Sun3; Joyce Cheng3; Tung T. Nguyen1; Janice Y. Tsoh1. 1University of California, San Francisco, San Francisco, CA; 2University of California, Davis, Sacramento, CA; 3Chinese Community Health Resource Center (CCHRC), San Francisco, CA. (Control ID #3147717)

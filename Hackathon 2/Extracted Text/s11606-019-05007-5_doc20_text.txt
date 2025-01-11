@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# RESULTS
+
+Our study sample included 421 clinicians working from 611 schedules. The mean first, second, third, and fourth next available appointment across all dates and clinician schedules was 20, 24, 26, and 27 respectively. The mean standard deviation for each variable beginning with first next available was 10.7, 9.4, 9.0, and 8.8 days. An analysis of variance showed that the effect of measuring days until sequential available appointments on standard deviation was significant, F(3,2440)=11.66, p<.01. Post hoc comparisons with the Tukey test showed that standard deviations of first next available appointments differed significantly from standard deviations of each of the other metrics (p<.01), but mean standard deviations from second, third, and fourth next available did not significantly differ from each other.
+
+# CONCLUSIONS
+
+Days until first next available appointment is a less consistent measure from week to week than days until second, third, or fourth next available appointment. This study is the first to add evidence that second next is a more reliable metric than first next, but we found no statistically significant difference between the reliability of second and third next. Health care systems may choose to use days until second next available appointment as a more practical access metric.
+
+# A SURVEY OF ATTITUDES AROUND OPIOID USE DISORDER AND PERCEIVED BARRIERS TO PROVIDING BUPRENORPHINE MAINTENANCE TREATMENT AMONG OUTPATIENT PRIMARY CARE PROVIDERS IN AN URBAN ACADEMIC MEDICAL SETTING
+
+Monique A. Tello 1; Sarah E. Wakeman 1; Stuart R. Lipsitz; Lipika Samal 2. 1 Massachusetts General Hospital, Charlestown, MA; 2 Harvard Medical School, Boston, MA. (Control ID #3184407)
+
+# BACKGROUND
+
+The US is experiencing an epidemic of opioid use disorder (OUD), which can be effectively treated with buprenorphine in the outpatient primary care setting. Primary care providers (PCPs) must complete 8 hours of training and apply for a waiver to prescribe buprenorphine, but only a fraction have done so, and not all prescribe. Our goal was to identify barriers that could be addressed through educational or logistical interventions.
+
+# METHODS
+
+A 41-item self-report survey was created after a review of the literature and administered anonymously through the online service SurveyMonkey (San Mateo, CA). PCPs were asked to self-identify as waivered or non-waivered. PCPs were then queried about the magnitude of the issue in their geographic area and their practice, personal impact of the opioid epidemic, perceived effectiveness of OUD treatment modalities, and potential logistical barriers to training and prescribing buprenorphine (depending on their waiver status). All PCPs (physicians, physician assistants, and nurse practitioners) at two academic medical centers were asked to complete the survey. Results were characterized using descriptive statistics and compared across non-waivered and waivered respondents using logistic regression.
+
+# RESULTS
+
+Responses were received from 100 PCPs who were predominantly MDs (93%) and female (72%); 69% had not completed buprenorphine waiver training; 31% had (and 67% of those were actively prescribing). 99% of PCPs said that OUD was an issue in their geographic area, 94% reported seeing patients with OUD, and 18% reported that they had been personally impacted by the opioid epidemic. 84% of PCPs rated buprenorphine maintenance as moderately or very effective, the highest ranked of six OUD treatment options (including 12-step programs, outpatient counseling, inpatient rehabilitation, methadone maintenance, and extended-release naltrexone). Non-waivered PCPs were significantly more likely than waivered PCPs to say that they did not see enough patients with OUD to change their practice (OR 0.267, p=0.005) and were also more likely to express concern about allowing patients with OUD into their practice (OR 0.348, p=0.020). There were no other significant differences between those two groups (safety, moral acceptability, or diversion risk of buprenorphine, time, financial support, peer mentoring, psychosocial support staff, potential legal issues).
+
+# CONCLUSIONS
+
+Surprisingly, non-waivered PCPs cite too few OUD patients to justify training, but the vast majority of them report having OUD patients, feel the opioid epidemic is an issue in their geographic area, and rate buprenorphine/naloxone maintenance as the most effective treatment option for OUD. Non-waivered PCPs were also significantly concerned about allowing patients with OUD into their practice. There were no other differences, which suggests attitudinal barriers (i.e. stigma) as the most appropriate target for intervention.
+
+# A SYSTEMATIC REVIEW OF THE CAUSES, IMPACT AND RESPONSE TO MORAL DISTRESS AMONG MEDICAL STUDENTS
+
+Susan B. Glick; Jacob Schulman; Max Harris; Daniel Pohlman. Rush Medical College, Chicago, IL. (Control ID #3186130)
+
+# BACKGROUND
+
+Moral distress occurs when one is aware of the moral and ethical course of action, yet is unable to perform it. Lack of resources and futile care are some of the many reported causes of moral distress among healthcare professionals, and may result in frustration, anger, a sense of powerlessness, job dissatisfaction and intent to leave the profession. These symptoms are strikingly similar to those of burnout and may be confused with it. Medical students may disproportionately experience moral distress, as they are well trained in the ideals to which the profession aspires, yet wield little power in the health care system. To prevent, diagnose and treat moral distress among medical students requires an understanding of the causes and impact of moral distress, as well as the response to it at the personal, professional and institutional levels.
+
+# METHODS
+
+With the assistance of a medical librarian, we conducted a systematic review of the English language literature to assess studies that described moral distress among medical students. We searched OVID, CINAHL, PsycINFO, and ERIC from their inception through October 2018. We searched the reference sections of relevant review articles as well as all included studies for additional manuscripts. Eligible studies had to represent an original study; present data about the causes, impact, or response to moral distress; measure and report outcomes in medical students; and report findings in English. Titles and abstracts were reviewed. Articles not recommended for exclusion were reviewed in full. Following full text review, those articles that did not meet all four inclusion criteria were excluded.
+
+# RESULTS
+
+The search yielded 63 articles. Following title, abstract and full text review, 6 studies were included. Five addressed situations that result in moral distress; two addressed its impact. No studies addressed the response to moral distress. Due to data heterogeneity, narrative synthesis was performed. Studies differed in their conclusions about which situations resulted in the greatest moral distress, including those with immediate potential to cause harm; covert, status-related and verbal abuse; communication issues, intra-team conflicts, resource allocation, and access to care; and experiences with geriatric patients. Role modeling was inversely correlated with student distress, as was action-taking. One study found repeated exposure to moral distress can result in either emotional desensitization or in worsening distress. Studies differed in their conclusions about whether moral distress disproportionately affected women or men.

@@ -1,0 +1,35 @@
+# JGIM
+
+# ABSTRACTS
+
+# IMPROVING HYPERTENSION IN AFRICAN AMERICANS: IMPLEMENTATION OF A QI CLERKSHIP ADDRESSING HEALTH EQUITY
+
+Christopher Bautista; Christopher Cai; Carmen Lee; Jordie Martin2; Isabel12; Noemi Plaza2; Ethan Zaccagnino2. 1University of California, San Francisco, San Francisco, CA; 2University of California, San Francisco School of Medicine, San Francisco, CA. (Control ID #3163556)
+
+# NEEDS AND OBJECTIVES:
+
+The most common method used by residents to round on hospitalized patients involves batched work-flow (i.e. reviewing all patients in the computer, then rounding on all patients, then placing orders, then doing notes). This creates redundancy, which can reduce residents' efficiency, and lead to duty hour violations, decreased resident satisfaction, and delayed completion of patient care activities. To address this we implemented a novel work-flow intervention aimed to improve resident efficiency.
+
+# SETTING AND PARTICIPANTS:
+
+The study took place on the inpatient general medicine teams at the University of Utah. These teams are comprised of an attending, a senior resident, and 2-3 interns. The work-flow intervention was implemented on 1 team for 3 months (13 interns), and 2 other teams were controls (21 interns).
+
+# DESCRIPTION:
+
+Residents on the intervention team were provided a recommended work flow (see URL), and their own laptop to allow them to round "in-flow" (i.e. doing all the work for one patient before moving on to the next). The interns pre-rounded with the laptops and then presented from them, which decreased the amount of written information. Orders and notes were then completed during rounds.
+
+# EVALUATION:
+
+There were 3 parts to the evaluation: a time in motion (TIM) study, subjective survey data, and EMR data (formal analysis underway) on progress note completion, order, and discharge times. The TIM study included 14 intern days, 7 each of the control and intervention work-flows. Once averaged, the interns on the intervention team (IT) spent 30 more minutes per day on direct patient care, 30 minutes less on computer time, and 15 more minutes on education, compared to those on a control team (CT). 38% (5/13) of interns on the IT and 48% (10/21) of interns on the CT responded to the post-intervention survey. Full analysis of this data is underway, but raw data shows the following differences: 80% vs 30% thought that orders discussed on rounds were always placed before 1230; 80% vs 40%, said that all, or most, of their progress notes were done before 1230; 60% vs 10%, said they were always able to leave the hospital by 7PM. Additionally, respondents from the IT compared to the CT felt better prepared on rounds, thought that they knew their patients better, and wrote less info down before rounds.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Since the implementation of the EMR, the majority of interns' work is now done on the computer, but the structure of rounding and pre-rounding has changed little. Our preliminary survey data show that increasing access to reliable, fast, and mobile workstations, in addition to encouraging a more in-flow style of rounding, led to decreased redundancy, improved resident efficiency with progress notes, order entry, and leaving the hospital in a timely manner. Our time-in-motion study suggests that the intervention may also have increased time for direct patient care, decreased overall time on the computer, and given more time for education, though this is likely not statistically significant.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://goo.gl/SDBWN1
+
+# IMPROVING MEDICAL STUDENT BEHAVIOR AND SKILLS TOWARDS ADDRESSING SOCIAL DETERMINANTS OF HEALTH (SDOH)
+
+Haeyeon Hong2; Daniel Sylvester2; Stephanie Losi3; Marna Stack4; Mara Eyllon2; Arvin Garg3; Nancy R. Kressin5; Priya S. Garg2; Jodi Abbott2; Lindsay B. Demers2; Thea James6; Pablo Buitron de la Vega1. 1 Boston Medical Center / Boston University, Dorchester, MA; 2 Boston University, Boston, MA; 3 Boston Medical Center, Boston, MA; 4 Boston University School of Medicine, Boston, MA; 5 Dept of Veterans Affairs and Boston University, West Roxbury, MA; 6 Boston Medical Center, Cambridge, MA. (Control ID #3172896)

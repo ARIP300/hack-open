@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# AN UNUSUAL CASE OF NEPHROGENIC DIABETES INSIPIDUS
+
+Michael Liu; Sandra Oza. Albert Einstein College of Medicine, Bronx, NY. (Control ID #3177877)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize chronic obstructive uropathy as an etiology of nephrogenic diabetes insipidus.
+
+# CASE:
+
+The patient is a 53-year-old man with a past medical history of neurofibromatosis type 1 status post cervical and lumbar spinal surgeries, which were complicated by neurogenic bladder managed with intermittent catheterization, with which the patient was inadequately adherent. He presented with nausea, vomiting, diarrhea, and weakness prior to elective colonoscopy; the procedure was canceled and the patient was admitted. Laboratory studies were notable for: sodium 153 mEq/L, creatinine 1.7 mg/dl, white blood cell count 15,500/mm3, and urinalysis revealing large leukocytes and >100 WBCs. The patient was started on 0.45% normal saline and 1g ceftriaxone. The patient's hypernatremia did not improve with intravenous hypotonic fluids. Renal ultrasound revealed bilateral hydroureteronephrosis. A Foley catheter was placed, and on the subsequent nine days, the patient's 24-hour urine output ranged from 4.395 L to 10.65 L. Urine osmolality was 107 mOsm/kg, serum osmolality was 308 mOsm/kg, and serum antidiuretic hormone (ADH) was 16.4 pg/ml. Administration of 4 mcg desmopressin subcutaneously resulted in an increase in urine osmolality of less than 40%, and the diagnosis of nephrogenic diabetes insipidus (NDI) was made. The patient was started on hydrochlorothiazide 25 mg once daily by mouth with a decrease in daily urine output to 3.7 L.
+
+# IMPACT/DISCUSSION:
+
+NDI may be caused by lithium, hypercalcemia, hypokalemia, and genetic defects, but NDI secondary to chronic urinary tract obstruction is rare. Case reports have described NDI in patients with mechanical bladder neck obstruction secondary to prostate cancer and hypertrophy, ileal leiomyosarcoma, and rectal cancer. There has been only one reported case of NDI secondary to neurogenic bladder. In that case, a 48-year-old woman presented with polyuria of 4-6 L/day, and bladder catheterization led to improvement in symptoms.
+
+# AN UNUSUAL CASE OF MENINGITIS CAUSED BY EPSTEIN-BARR VIRUS
+
+Parma Zahid1, 4; Timothy C. Edmonds2, 4; Sharon Rikin3, 1. 1Montefiore Medical Center, Bronx, NY; 2Montefiore Medical Center, New York, NY; 3Montefiore - Albert Einstein College of Medicine, Bronx, NY; 4Albert Einstein College of Medicine, Bronx, NY. (Control ID #3186338)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of Epstein-Barr virus (EBV) meningitis.
+
+# LEARNING OBJECTIVE #2:
+
+The role of antiviral therapy in treatment of EBV meningitis.
+
+# CASE:
+
+A 47 year old female with HIV (CD4 225) not currently on antiretroviral therapy presented with headaches, nausea, vomiting, and neck stiffness for four weeks. Associated symptoms included seventh nerve palsy, tinnitus and decreased hearing of the left ear. On exam, patient had a temperature of 100.8, heart rate of 120, papilledema, left ear hearing deficit, and neck stiffness. On admission, MRI brain was normal. A lumbar puncture showed opening pressure of 37 mm H2O, WBC of 15, and an elevated protein to 186. Differential diagnosis for presumed aseptic meningitis included: varicella zoster virus (VZV) reactivation at the geniculate ganglion manifesting as Ramsay Hunt Syndrome or Lyme given cranial nerve findings. The patient was empirically started on acyclovir pending cerebrospinal fluid (CSF) results. CSF VZV PCR and Lyme antibody were negative. Results however showed CSF EBV PCR 1,100; serum EBV viral capsid antigen and antibody were also positive. As the patient's fever, headache, and hearing improved after initiation of acyclovir, treatment was continued with acyclovir IV for ten days, then with valacyclovir to complete a total of three weeks of treatment.
+
+# IMPACT/DISCUSSION:
+
+EBV meningitis is a rare illness and may present with cranial nerve deficits such as decreased hearing and facial nerve palsy along with other meningeal irritation signs. This case also reveals an opportunity to review therapeutic options for EBV-related illness. EBV should be considered in both immunocompetent and immunocompromised patients with viral meningitis/encephalitis. Supportive care is generally recommended; there is the potential for debilitating sequelae including increased intracranial pressure and death. We are aware of only one other reported case of EBV meningitis with hearing loss in which the patient was treated with hydrocortisone sodium phosphate and noted improvement in hearing acuity. While antivirals such as acyclovir are thought not to work well in vivo for EBV and thus are not recommended, there are case reports of using antiviral therapy for EBV meningitis/encephalitis. In these cases, patients treated with antiviral therapy were shown to have decreasing viral DNA in CSF and a corresponding resolution of their symptoms. Given that the literature only shows case studies of EBV meningitis treatment with antivirals, there is an opportunity for further research in this area.
+
+# CONCLUSION:
+
+EBV meningitis should be considered in the differential in patients who present with cranial nerve deficits. Antiviral treatment may be considered in EBV meningitis given observational studies which have been associated with improvement of disease manifestations.
+
+# LEARNING OBJECTIVE #2:
+
+Neuroendocrine tumors (NETs) are epithelial tumors with predominant neuroendocrine differentiation. The terminal ileum is the most common location for NETs. The symptoms of small bowel NETs are represented mainly by intermittent intestinal obstruction and carcinoid syndrome; however, hematochezia is a very rare presentation.
+
+# CASE:
+
+We present a 57-year-old Caucasian female with a past medical history of coronary artery disease with stents and alcohol abuse who presented with hematochezia. She was admitted 4 years ago with melena and low hemoglobin, she was diagnosed with erosive gastritis on EGD. She presented this time with recurrent episodes of hematochezia without hematemesis, melena or abdominal pain. She was on aspirin. Physical exam was unremarkable. Hemoglobin was 12.5 gm/dl. EGD was normal and colonoscopy showed fresh blood through the colon but no active source of bleeding. Capsule endoscopy showed a mid-small bowel ulcer with fresh blood from mid to distal small bowel. Bleeding then appeared to have ceased spontaneously and hemoglobin stabilized. Anterograde double-balloon enteroscopy (DBE) was pursued for better visualization of the small bowel ulcer and was normal. A retrograde DBE revealed a 2.5 cm ulcerated mass in the terminal ileum. Biopsies showed focal nests of neuroendocrine tumor (NET). Surgical resection of 14 cm from the small bowel including the mass, wedge of mesentery and palpable lymph nodes was done. Pathology showed grade 1 of 3 well-differentiated NET invading the visceral peritoneum with lymph node metastasis. The patient recovered well and was discharged home to follow up with oncology.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the importance of direct visualization of small bowel ulcers with enteroscopy despite cessation of bleeding. In our case, the suspected small bowel ulcer noted on capsule endoscopy was, in fact, an ulcerated NET. NETs of the small intestine represent the most common small bowel tumor. Metastasis to lymph nodes and liver are common at diagnosis and can lead to carcinoid syndrome. The diagnosis is often difficult due to their rarity and the nonspecific presentation. In fact, more than 50% of patients require at least 2 years for a diagnosis of NET after symptom onset while visiting on average 4 healthcare professionals. Therefore, a high index of suspicion must be maintained and one must be aware of all variable presentations.
+
+# CONCLUSION:
+
+NETs represent a rare but important pathological condition of the gut. While capsule endoscopy was an important tool in the diagnostic work up, balloon enteroscopy was the key to making the correct diagnosis. Desmoplastic reactions involving mesenteric vessels may lead to nonspecific abdominal pain, gastrointestinal bleeding, intermittent ischemia, or bowel obstruction.

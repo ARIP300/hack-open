@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# Paraneoplastic Limbic Encephalitis
+
+Lymphocyte infiltration and ultimately neuronal cell loss causing these symptoms. Most frequent neoplasms associated with paraneoplastic limbic encephalitis are small cell cancer of the lung, testicular tumors, thymoma, breast cancer and Hodgkin lymphoma. The diagnosis of PLE is generally based on the following four criteria which includes clinical findings mentioned above, analyses of CSF, MRI or EEG, exclusion of other neuro oncologic complications and interval of &lt;4 years between onset of neurological symptoms and tumor diagnosis. Furthermore, metabolic encephalopathy, neurotoxic drugs, inflammatory disorders, central nervous system tumors, and neurodegenerative disorders must be excluded. PLE is mostly associated with anti-Hu antibodies and has a positive predictive value of approximately 90% for small cell cancer of lung. Anti-cancer therapy in combination with immunomodulation is more effective in improving neurological symptoms than immunosuppressive treatment alone.
+
+# CONCLUSION:
+
+This case illustrates an example where PLE should necessitate further evaluation to rule out malignancy.
+
+# SO SLOW, SO FAST
+
+Sawsan Abulaimoun; Kamelah Abushalha; Peter Silberstein. Creighton University, Omaha, NE. (Control ID #3185954)
+
+# LEARNING OBJECTIVE #1:
+
+Nivolumab is a monoclonal antibody targeted towards programmed cell death-1 protein (PD-1) and works by blocking the interaction between PD-1 and its ligands, PD-L1 and PD-L2, thereby unmasking the tumor cells expressing these ligands attempting to circumvent T-cell mediated cytotoxicity. By increasing the activity of the immune system, immune checkpoint blockade can have inflammatory side effects, which are often termed immune-related adverse events (irAE). Although any organ system can be affected, irAE most commonly involves the gastrointestinal tract, endocrine glands, skin, and liver.
+
+# CASE:
+
+A 59-year-old male with metastatic renal cell carcinoma (RCC) presents to the ED with anasarca, difficulty breathing (due to tongue swelling), muscle aches, and progressively worsening fatigue over the course of six weeks. He was being treated for RCC with nivolumab and had received a total of 11 doses every other week. Initial workup revealed an elevated creatinine (1.76, baseline 1.2) and thyroid stimulating hormone (TSH) level (149 mIU/L). Creatine kinase (CK) was then measured and found to be critically elevated at 2,029 U/L. He was treated with intravenous (IV) fluids for the rhabdomyolysis with a slow decline in CK levels. Endocrinology was consulted to assist in management, and he was given a loading dose of 200 μg IV levothyroxine followed by 100 μg the next day. TSH trended down to 71.6 mIU/L on the day of discharge two days later. Patient continues to receive nivolumab infusions along with levothyroxine. CK and TSH both normalized within two weeks after treatment for hypothyroidism was initiated.
+
+# IMPACT/DISCUSSION:
+
+Nivolumab is approved for patients with RCC who had received prior anti-angiogenic therapy after showing a statistically significant and clinically meaningful difference in overall survival. In nivolumab monotherapy studies, the median time to onset of immune-related hypothyroidism or thyroiditis resulting in hypothyroidism was 2.9 months (range: 1 day to 16.6 months). Given the normal baseline thyroid function test and the time frame within which the hypothyroidism developed, it is safe to extrapolate a correlation between this patient's hypothyroidism and nivolumab treatment. The normalization of the CK levels with levothyroxine alone (no glucocorticoids were used) makes it more likely that his rhabdomyolysis was a direct result of severe hypothyroidism, although the possibility of autoimmune-related myositis can't be completely excluded. To our knowledge, this is the first reported case of a PD-1 inhibitor causing hypothyroidism severe enough to induce rhabdomyolysis. A similar presentation was reported with ipilimumab (anti-cytotoxic T-lymphocyte-associated protein 4) and the condition improved with thyroxine therapy.
+
+# CONCLUSION:
+
+Patients on nivolumab and other PD-1 inhibitors should be monitored and screened regularly for irAE.
+
+# SPONTANEOUS CORONARY ARTERY DISSECTION IN A 47-YEAR OLD FEMALE, AN INFREQUENT PRESENTATION OF ACUTE CORONARY SYNDROME
+
+Michael Gurin. Beth Israel Deaconess, Boston, MA. (Control ID #3181565)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose acute coronary syndrome in patients without traditional risk factors.
+
+# LEARNING OBJECTIVE #2:
+
+Manage and treat spontaneous coronary artery dissection.
+
+# CASE:
+
+A 47-year old female with past medical history of Hashimoto's thyroiditis resulting in hypothyroidism and irritable bowel syndrome presented to urgent care with indigestion. The prior evening, she felt a lingering sensation of indigestion after preparing a bottle for her baby. She is G5P0 with 3 adopted children, "several" miscarriages, and 1 ectopic pregnancy. She is a former nurse, drinks alcohol occasionally, and does not use tobacco products or illicit drugs. There is no history of premature coronary artery disease or sudden death in her family. Her home medications include levothyroxine, hyoscyamine, and rifaximin. On further evaluation, physical exam did not reveal any abnormalities. ECG showed sinus rhythm with mild T wave flattening in III and aVF. A troponin level was incidentally checked and was 0.16. She was admitted to the hospital and treated with heparin, aspirin, atorvastatin, and metoprolol for a presumed NSTEMI. Troponins peaked at 0.22. Lipid panel revealed total cholesterol 165, triglycerides 78, HDL 95, and LDL 54. She had a coronary angiogram, which showed diffuse narrowing at a small distal left posterolateral branch, consistent with spontaneous coronary artery dissection (SCAD). No obstructive coronary disease was found. Clopidogrel was added to her medication regimen, and she was discharged with cardiology follow-up.
+
+# IMPACT/DISCUSSION:
+
+The patient was diagnosed with SCAD, a resultant tear within the artery wall that can lead to an intramural hematoma. This case poses the challenge of diagnosing acute coronary syndrome in the absence of obvious cardiac risk factors or significant ECG changes. Her indigestion could have been mistaken for recurrent gastrointestinal symptoms. SCAD is associated with pregnancy, miscarriage, or early postpartum status, as the hormonal effects during these periods lead to weakening of the arterial wall. A suspected recent miscarriage was thought to be the precipitating etiology. Intense Valsalva or weight lifting, hormonal therapy, and emotional stress are other inciting factors. Definitive diagnostic testing is coronary angiography. Many patients with SCAD have underlying connective tissue disorders and fibromuscular dysplasia. Management is typically conservative consisting of antiplatelet therapy, beta-blockers to reduce arterial shear stress, and statins in patients with dyslipidemia. Cardiac rehabilitation has also been shown to be beneficial.
+
+# CONCLUSION:
+
+1. Consider SCAD in both young females and males without traditional cardiac risk factors who present with acute coronary syndrome.
+2. Management is usually conservative and involves indefinite aspirin, beta-blockers, one year of clopidogrel, and referral to cardiac rehabilitation.
+3. Patients diagnosed with SCAD should be evaluated for connective tissue disorders and fibromuscular dysplasia.

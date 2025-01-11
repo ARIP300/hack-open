@@ -1,0 +1,37 @@
+# ABSTRACTS
+
+# A QUALITATIVE STUDY OF THE INFLUENCE OF LOSS AVERSION AND INCREASED SOCIAL PRESSURE IN PHYSICIAN PAY-FOR-PERFORMANCE
+
+John W. Urwin4; Shireen E. Matloubieh1; Judy A. Shea3; Kristen L. Caldarella1; Matt Walters1; Akriti Mishra3; Nichia McDowald5; Ezekiel J. Emanuel1; Kevin G. Volpp1, 2; Amol S. Navathe1, 2.
+
+1Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA; 2CMC VA Medical Center, Philadelphia, PA; 3University of Pennsylvania, Philadelphia, PA; 4Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA; 5Advocate Health Care, Chicago, IL. (Control ID #3184326)
+
+# BACKGROUND:
+
+Payers are increasingly using behavioral economic principles to design reimbursement programs, despite little evidence regarding the efficacy of these principles on influencing physicians' clinical behaviors. We conducted a qualitative follow-up study to a randomized controlled trial testing how loss aversion and increased social pressure in physician pay-for-performance (P4P) influenced the motivations and behaviors of participating physicians.
+
+# METHODS:
+
+Our resident clinic consists of 76 residents working in 8 different teams at Beaumont Hospital - Royal Oak. In November 2016, baseline data was obtained on 538 patients with diabetes, on core ADA measures (HbA1c, foot examinations, lipid panel, etc.). 5 teams developed a quality improvement intervention plan to improve their diabetes care in the clinic and the remaining 3 teams served as controls. Within the next year, PDSA sessions took place every 3 months where teams analyzed their core measure results up to that date and brainstormed strategies to better implement their plans. In November 2017, post-intervention data was collected on the same diabetes core measures.
+
+# RESULTS:
+
+With HbA1c as our primary outcome, there was paradoxically a slight increase in HbA1c levels in both intervention and control groups post-PDSA cycle (change in HbA1c was +0.09 in intervention, +0.32 in control groups, p = 0.174). With secondary outcomes, the change in outcome measures were as follows: eye examinations (+5% in intervention vs. -7% in control, p<0.01), foot examinations (+13% vs. +5%, p=0.09), lipid panel (+7% vs. -5%, p<0.01), microalbumin (+4% vs. +1%, p=0.03), and HbA1c (+8% vs. +5%, p=0.24).
+
+# CONCLUSIONS:
+
+While there was not an improvement in HbA1c values, there were significant improvements in the rates of ADA recommended examinations and laboratory tests performed by residents in the intervention groups. One resident team implemented an intervention involving protected half-day blocks for its residents to identify overdue examinations and consequently had the largest improvements in its quality indicators, thus serving as a potential intervention to replicate in future studies. Given our study results, we believe that quality improvement interventions improve preventative care for patients with diabetes in residency clinics.
+
+# A RANDOMIZED CONTROLLED TRIAL TO REDUCE JOB BURNOUT USING AN INTER-PROFESSIONAL FACILITATED DISCUSSION GROUP INTERVENTION
+
+Jonathan Ripp1; Ching See Lau1; Kyle W. Prochno2.
+
+1Icahn School of Medicine at Mount Sinai, New York, NY; 2Sidney Kimmel Medical College, Philadelphia, PA. (Control ID #3184939)
+
+# BACKGROUND:
+
+Job burnout is common in medical professionals and has been found to correlate with depression, medical errors, productivity, and unprofessional behavior. Based on previous studies which have demonstrated that facilitated discussion reflection sessions may decrease burnout, we chose to examine whether such an intervention might similarly improve measures of well-being using a novel inter-professional participant format.
+
+# METHODS:
+
+Resident physicians, early-career nurses and social workers from the Mount Sinai Health System in New York, NY were recruited and randomized to either a small-group reflection intervention or a control arm. Intervention participants were invited to participate 1-2 times monthly over 6 months in groups of 6-8 for discussions guided by a curriculum found to be effective in reducing.

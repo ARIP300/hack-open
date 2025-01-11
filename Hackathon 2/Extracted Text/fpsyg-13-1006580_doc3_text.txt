@@ -1,0 +1,37 @@
+Chen et al. study, we propose that servant leadership reduces the negative effects of work stress on mental health in SMEs. Servant leadership can reduce negative effects of work stress on mental health in the following ways: Servant leaders exhibit empathy and compassion (Lu et al., 2019), which help alleviate employees’ emotional pain caused by work stress. Song et al. (2020) highlighted that work stress can cause psychological pain among employees. However, servant leaders are willing to listen to their employees and become acquainted with them, which facilitates communication between the leader and the employee (Spears, 2010). Hence, servant leadership may reduce employees’ psychological pain through effective communication. Finally, servant leaders lend employees power, which makes the employees feel trusted. Employees—owing to their trust in the leaders—trust the enterprises as well, which reduces the insecurity caused by work stress (Phong et al., 2018). In conclusion, servant leadership serves as a coping resource that reduces the impact of losing social support and thus curbs negative employee emotions (Ahmed et al., 2021). Based on the aforementioned analysis, we find that servant leaders can reduce the mental health problems caused by work stress. Hence, we propose the following hypothesis:
+
+# H4. Servant leadership reduces the negative relationship between work stress and mental health in SMEs during the COVID-19 pandemic.
+
+# Methodology
+
+# Data collection and samples
+
+To assess our theoretical hypotheses, we collected data by administering a questionnaire survey. The questionnaire was administered anonymously, and the respondents were informed regarding the purpose of the study. Owing to the impact of the pandemic, we distributed and collected the questionnaires by email. Specifically, we utilized the network relationships of our research group with the corporate campus and group members to distribute the questionnaires. In addition, to ensure the quality of the questionnaires, typically senior employees who had worked for at least 2 years at their enterprises were chosen as the respondents.
+
+Before the formal survey, we conducted a pilot test. Thereafter, we revised the questionnaire based on the results of the trial investigation. Subsequently, we randomly administered the questionnaires to the target enterprises. Hence, 450 questionnaires were administered via email, and 196 valid questionnaires were returned—an effective rate of 43.6%. Table 1 presents the profiles of the samples.
+
+|Characteristics| |N|Percent (%)|
+|---|---|---|---|
+|Firm size|1–20|18|9.2|
+| |21–50|80|40.8|
+| |51–200|76|38.8|
+| |201–500|22|11.2|
+|Industry|High technology|71|36.2|
+| |Non-high technology|125|63.8|
+|Work age|3 years or less|63|32.1|
+| |3–10 years|64|32.7|
+| |More than 10 years|69|35.2|
+
+Table 1 shows the descriptive statistics of the sample. Based on the firm size, respondents who worked in a company with 51–200 employees accounted for 38.8%, and those in a company with 201–500 employees accounted for 11.2%. Regarding industry, the majority of the respondents (63.8%) worked for non-high-technology industry and 36.2% of the respondents worked for high-technology industry. Regarding work age, the participants with a work experience of 3 years or less accounted for 32.1%, those with work experience of 3–10 years accounted for 32.7%, and those with a work experience of more than 10 years accounted for 35.2%.
+
+# Measures
+
+Core variables in this study include English-version measures that have been well tested in prior studies; some modifications were implemented during the translation process. As the objective of our study is SMEs in China, we translated the English version to Chinese; this translation was carried out by two professionals to ensure accuracy. Thereafter, we administered the questionnaires to the respondents. Hence, as the measures of our variables were revised based on the trial investigation, we asked two professionals to translate the Chinese version of the responses to English to enable publishing this work in English. We evaluated all the items pertaining to the main variables using a seven-point Likert scale (7 = very high/strongly agree, 1 = very low/strongly disagree). The variable measures are presented subsequently.
+
+# Work stress (WS)
+
+Following the studies of Parker and DeCotiis (1983) and Shah et al. (2021), we used 12 items to measure work stress, such as “I get irritated or nervous because of work” and “Work takes a lot of my energy, but the reward is less than the effort.”
+
+# Mental health (MH)
+
+The GHQ-12 is a widely used tool developed to assess the mental health status (Liu et al., 2022). However, we revised the...

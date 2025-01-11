@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# A PILOT USAGE OF POSITIVE DEVIANCE TO ENHANCE TEACHING OF THE 3RD-YEAR-INTERNAL MEDICINE CLERKSHIP
+
+Ali S. Jahansooz. KUSM-W, Wichita, KS. (Control ID #3181522)
+
+# A PILOT OFFICE-BASED OPIOID TREATMENT CLINIC IN AN INTERNAL MEDICINE RESIDENT CONTINUITY PRACTICE: PROVIDER, STAFF, AND PATIENT OUTCOMES.
+
+Jarratt Pytell1; Michael Brady1; Megan Buresh1, 2; Ryan Graddy1. 1Johns Hopkins Bayview Medical Center, Baltimore, MD; 2Johns Hopkins Bloomberg School of Public Health, Baltimore, MD. (Control ID #3182464)
+
+# NEEDS AND OBJECTIVES:
+
+The integration of substance use disorder (SUD) care and competencies in graduate medical education training is needed. Previous research shows improvements in provider knowledge, attitudes, and practices after exposure to SUD care. Few studies report outcomes for patients with SUD in resident physician continuity practices. We describe a pilot integrating office-based opioid treatment (OBOT) with buprenorphine in an internal medicine resident continuity practice. We report survey results of resident and staff knowledge and attitudes of OBOT and patient outcomes.
+
+# SETTING AND PARTICIPANTS:
+
+We surveyed all internal medicine residents (N=48) and staff (N=22). A retrospective chart review was completed for all patients seen (N=12).
+
+# DESCRIPTION:
+
+The OBOT clinic operated within the GIM practice for 1.5 hours weekly during a clinic session and was staffed by 2 attendings and 3 residents with prior OBOT experience who alternated coverage. Two support staff coordinated appointments and collect urine toxicology screens. Patients with opioid use disorder (OUD) were identified by their primary care provider, referred to the OBOT clinic, and an individualized treatment plan was created. All care, including buprenorphine prescriptions and counseling, was provided by the residents and attendings. Surveys of provider and staff knowledge and attitudes of OBOT were administered at baseline and 4 months into the pilot. We analyzed survey results using Fisher's exact test. A retrospective chart review of the first 15-months obtained patient characteristics and treatment outcomes including retention and measured good clinical response. A good clinical response was defined as being illicit opioid negative and buprenorphine positive for >50% of time in treatment.
+
+# EVALUATION:
+
+Survey response rates were 83% for residents and 100% for staff. No statistically significant differences were observed for any survey item between baseline and 4 months. Most residents (87%) reported caring for patients with OUD, yet only 27% felt comfortable providing care and 30% believed OBOT was ineffective without on-site drug counseling. Among staff, 53% felt primary care practices were inappropriate places to treat OUD. Results from the retrospective chart review showed the average age was 55 years (range 30-78 years) and all patients were white. Most patients were male (75%) and referred from residents (75%). Seven patients (58%) were retained in care at the end of the study period (range of 9-15 months); 8 patients (75%) demonstrated a good clinical response. Of those not retained, 3 patients transferred, 1 self-tapered, and 1 was lost to follow up.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+OBOT can be successfully integrated into existing resident continuity practices utilizing existing staff and resources with positive patient outcomes. We did not observe changes towards acceptance in provider and staff attitudes of OBOT likely due to the small scope of the OBOT pilot clinic. It is possible that more direct and frequent exposure to OUD care would lead to increased acceptance.
+
+# NEEDS AND OBJECTIVES:
+
+To enhance the quality of teaching on our 3rd Year Internal Medicine clerkship, we designed a positive-deviance (PD) intervention to identify unique teaching tactics used by our most effective faculty teachers and disseminate their unique tactics to the remaining faculty.
+
+# SETTING AND PARTICIPANTS:
+
+Area hospitals Academic hospitalists
+
+# DESCRIPTION:
+
+Modeled after Google's Project Oxygen, we identified the hospitalist faculty rated the highest for "overall effectiveness" using the end-of-3rd-year faculty evaluations. We surveyed our hospitalist faculty to query the teaching tactics they perceive are effective or unique. We created a Table of Tactics with one row listing tactics reported by our positive deviance and the other row listing tactics by other faculty members. We created a faculty development session that used the Table of Tactics to prompt a discussion of the most effective teaching strategies identified by our positive deviants. The Faculty was given recommendations excerpted from Palmer and Blake on creating a safe learning environment for successful peer learning.
+
+# EVALUATION:
+
+80% (12/15) of hospitalist faculty responded to the survey of tactics and all positive deviants responded to the survey. Some of the responses, including from PDs, were general and did not offer specific tactics. 75% (3/4) positive deviants considered creating a safe learning environment most effective while 3 of 7 non-deviants considered safe learning environment most effective; thus, the development session focused on this discussing implementation of this tactic. We received 5 post-session surveys with four positive responses.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Most faculty members received the PD intervention positively. Lessons learned from this pilot are 1) use a plot of faculty assessments by students overlaying a binomial distribution to improve selecting the PDs 2) improve our survey of tactics by priming the faculty with a framework of teaching tactics from the literature, but not stating best practices within the framework in order to encourage honest reporting by the faculty, 3) improve our introduction of the session to reduce threat and perception of criticism of non-deviants, 4) expand comments in the discussion by creating ad hoc scenarios for role play.
+
+# A RESIDENT-CENTERED WELLNESS CURRICULUM
+
+Amanda Ray1; Yukiko Kunitomo1; Brita Roy2; Katherine A. Gielissen1. 1Yale-New Haven Hospital, New Haven, CT; 2Yale University School of Medicine, New Haven, CT. (Control ID #3186061)
+
+# NEEDS AND OBJECTIVES:
+
+Studies show high burnout rates among medical residents. Many US programs have developed interventions to minimize burnout but most only target interns despite evidence of high levels of burnout among upper-level residents. Nearly all curricula are led by faculty or Chief Residents, however, a preliminary survey of internal medicine (IM) residents at Yale New Haven Hospital (YNHH) revealed that many residents find the presence of faculty or chiefs detracts from effective and open exploration of burnout and wellness. We describe a resident-designed, resident-led wellness curriculum for IM trainees of all levels.
+
+# SETTING AND PARTICIPANTS:
+
+The curriculum was implemented in the 2018-2019 academic year's ambulatory didactics provided for YNHH's Traditional IM residents, occurring on a rotating basis throughout the year.

@@ -1,0 +1,57 @@
+# JGIM
+
+# ABSTRACTS
+
+# FINDINGS TO DATE
+
+We interviewed 21 clinicians (physicians, nurses, assistants, and pharmacists) and conducted 6 patient-user focus groups (n=26) to assess the adoption and use of the application. We used inductive and deductive qualitative analysis drawn from the Consolidated Framework for Implementation Science (CFIR).
+
+Over 8,000 patients used the application within the first two years at our pilot locations. Regarding facilitators to adoption, clinicians identified the unique information not otherwise captured; enhanced team-based involvement; and alignment of internal motivators to provide patient-centered care. Barriers were concerns with a potential widening of a digital divide and click fatigue of the EHR. The deductive results spanned four domains and seven constructs of CFIR, including Innovation Source and Compatibility, as critical areas that promoted the use of the application. Patients reported the platform was easy to navigate and provided a new avenue to share sensitive topics. Completion of their profile promoted reflection of their health goals, challenges, and priorities, which led to targeted conversations about issues important to them. Patient adoption was enhanced when clinicians endorsed the application and referenced the data during the visit. Regarding effectiveness, inviting patients, summarizing data in an accessible electronic location, aligning with organizational and personal drivers, and focusing attention beyond physicians can facilitate the adoption of patient-contextual data into care.
+
+# KEY LESSONS FOR DISSEMINATION
+
+We found the purposeful and integrated technology, perceived improvement in team-based efficiencies, and facilitation of patient-centered care were the primary drivers of clinician adoption. Patients identified creating a space for sensitive topics and driving the alignment of patient, and provider goals were important motivators that enhanced the use of the program.
+
+# CARE PLUS: FIVE YEARS OF PROVIDING TEAM BASED CARE TO HIGH NEED HIGH COST PATIENTS
+
+Melanie Martin1; Feben Girma2; Julia Rushing3. 1Wake Forest, Greensboro, NC; 2Wake Forest Baptist Medical Center, Winston-Salem, NC; 3Wake Forest, Winston Salem, NC. (Control ID #3184094)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Multidisciplinary team-based primary care and care coordination can lead to sustained decrease in hospital admissions and ED utilization for high need high cost patients at an academic safety net practice.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Share data of characteristics of high need high cost patients. Describe an effective multidisciplinary care model for these patients and provide data on decreased hospital utilization after enrollment in program. Share lessons learned.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+For the past five years, Care Plus has provided team-based primary care and care coordination for high need high cost patients from academic safety net practices. Patients with high admission or ED rates are enrolled in our care model that includes more frequent clinic visits, home visits, intensive outreach, and a focus on both social determinants of health and mental health.
+
+# MEASURES OF SUCCESS
+
+Describe characteristics of high need high cost patients. Outcome of program is measured in terms of rate of admissions and ED utilization of patients in year prior to enrollment as compared to years after enrollment.
+
+# FINDINGS TO DATE
+
+We have enrolled approximately 360 patients in the program. Characteristics of enrolled patients provide compelling evidence of why such a broad team is needed to optimally serve these patients. Our patients are medically complex with an average of five comorbid conditions and twelve medications at the time of enrollment. Additionally, 69% have mental health diagnoses, 38% have substance use issues, and 38% score less than or equal to 21 on the Montreal Cognitive Assessment, indicating moderate cognitive impairment. From a social determinants of health perspective, our patients have a high prevalence of poverty with related food insecurity, difficulty affording medications and safe housing, and transportation challenges. Through a care model that acknowledges and addresses social determinants of health, more frequent visits, and a focus on mental health, we have demonstrated a decrease in ED utilization and hospital admissions compared to pre-enrollment levels that has persisted over years of enrollment. A comprehensive analysis is underway, but preliminary results show that when we compare admissions the year prior to enrollment to the first year of enrollment, admissions decrease by 49.5%. If analysis is limited to patients that remain in our program for at least 12 months, the decrease in the first year in admissions is 39.5% and in ED visits is 30.2%, compared to patients' historical selves. We also have shown sustained benefit in enrolled patients, with evidence of ED utilization rates over our population decreasing from a median of 0.41 ED visits per month prior to enrollment to 0.22 ED visits per month after enrollment (47% reduction).
+
+# KEY LESSONS FOR DISSEMINATION
+
+The challenge of caring for high need high cost patients can be mitigated through multidisciplinary team-based primary care. Improving patient engagement by addressing social determinants of health and mental health are key to solving this challenge.
+
+# CHICAGO STREET MEDICINE
+
+Frederick T. Gibson; Karim G. Khan; Joshua Smith2; Melissa A. Socarras;1 Brian Borah2; Sarah Messmer2. 1University of Illinois College of Medicine, Chicago, IL; 2University of Illinois, Chicago, IL. (Control ID #3185971)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+In light of inequities in healthcare provision and outcomes for the unsheltered homeless, there is a need for holistic care that will provide seamless integration between outpatient, street-based, and inpatient hospital care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Create an academic model of street medicine which incorporates students and residents from multiple disciplines in leadership roles. Develop and implement a street medicine system to provide healthcare services and social support to unsheltered homelessness as they transition between traditional avenues of healthcare and street-based care.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+CSM was started by a group of medical students and residents with the goal of improving the well-being of those experiencing unsheltered homelessness in Chicago by performing weekly "street runs" - visiting homeless communities in Chicago to provide medical care, social support, health education, and hygiene essentials. CSM has since expanded to include physicians.

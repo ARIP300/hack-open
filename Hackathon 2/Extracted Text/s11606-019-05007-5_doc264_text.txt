@@ -1,0 +1,39 @@
+# JGIM
+
+# ABSTRACTS
+
+# STUDY HABITS AMONG RESIDENTS AND ATTENDINGS AT A SINGLE ACADEMIC MEDICAL CENTER
+
+Casey N. McQuade1; Michael G. Simonson1; Kristen A. Ehrenberger2; Amar Kohli. 3 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2UPMC, Pittsburgh, PA; 3UPMC, Mars, PA. (Control ID #3186176)
+
+# BACKGROUND:
+
+Modern physicians face increasing clinical demands, decreasing the time available to learn during and outside of work. We sought to characterize study patterns and the use of electronic study resources among residents and academic physician staff at an academic medical center. We hypothesized that residents would use electronic resources more frequently than attendings.
+
+# METHODS:
+
+Qualtrics surveys were emailed to 290 trainees and 165 faculty from the Departments of Medicine, Pediatrics, and Medicine-Pediatrics at UPMC. Survey participation was optional and not compensated. Questions covered demographic data, study time, resource usage, and time spent on social media. Means are reported ± standard deviation for continuous variables. Relationships between variables were tested using non-parametric testing and regression analysis.
+
+# RESULTS:
+
+Responses were obtained from 118 trainees (41% response rate), ranging from PGY-1 to PGY-6, and 110 attending physicians (67%). Respondents were 60% female (n=131). The median age range was 25-34 years (IQR, 25-34 years to 45-54 years). Social media use was reported by 162 (86%). On average, participants studied for 15 min-1 hour/day (IQR, 5-15 min to 15 min-1 hour) on 4.0±1.8 days/week. Increased participant seniority was correlated with more studying time/day (p=0.0274) and more positive views on how essential studying was to learning (p=0.0002). The most popular study resources were websites (n=196), journal articles (n=180), and textbooks (n=143). Increased seniority was also correlated with more frequent use of textbooks (p=0.046), quick references (p=0.022), and websites like Uptodate.com (p=0.0001) but was inversely correlated with journal article use (p=0.012). Social media use was associated with more frequent use of journal articles (OR 1.64, 95% CI 1.06-2.55).
+
+# CONCLUSIONS:
+
+Time spent studying between residents and faculty was not significantly different, although attendings more frequently used print or online reference materials for extracurricular studying while residents more frequently read journal articles. The correlation between journal articles and social media use may suggest that social media increases physician exposure to and uptake of primary literature. This cross-sectional analysis reveals previously undescribed trends in resident and faculty study habits including determinants of exposure to the primary literature. These results could be used to tailor future educational interventions to increase supplemental learning and use of evidence-based practices in academic practice settings.
+
+# SUBCLINICAL THYROID DYSFUNCTION AND DEPRESSIVE SYMPTOMS: AN INDIVIDUAL PARTICIPANT DATA ANALYSIS OF PROSPECTIVE COHORT STUDIES
+
+Lea Wildisen2; Martin Feller2, 1; Elisavet Moutzouri2, 1; Shanthi Beglinger2, 1; Cinzia Del Giovane2; Anne R. Cappola7; Bjørn O. Åsvold3; Stephan Bakker8; Graziano Ceresini12; Robin P. Dullaart8; Luigi Ferrucci9; Hans Grabe10; Matthias Nauck10; Stella Trompet5; Henry Völzke10; Rudi G. Westendorp 4; Jacobijn Gussekloo 5; Robin P. Peeters 11; Drahomir Aujesky1; Douglas Bauer6; Nicolas Rodondi2, 1. 1Inselspital, Bern University Hospital, Bern, Switzerland; 2University of Bern, Bern, Switzerland; 3Norwegian University of Science and Technology, Trondheim, Norway; 4University of Copenhagen, Copenhagen, Denmark; 5Leiden University Medical Center, Leiden, Netherlands; 6University of California, San Francisco, CA; 7University of Pennsylvania School of Medicine, Philadelphia, PA; 8University of Groningen, Groningen, Netherlands; 9National Institute on Aging, Baltimore, MD; 10University Medicine Greifswald, Greifswald, Germany; 11Erasmus Medical Center, Rotterdam, Netherlands; 12University Hospital of Parma, Parma, Italy. (Control ID #3182648)
+
+# BACKGROUND:
+
+Subclinical thyroid dysfunction may be associated with several negative health outcomes; including depressive symptoms. However, evidence for this association is conflicting across a large number of studies, in part due to inconsistencies in definitions and cut-offs. Analysis of individual participant data (IPD) is needed to understand the role of subclinical thyroid dysfunction in the development of depressive symptoms and to inform practice and guidelines.
+
+# METHODS:
+
+We conducted a systematic review of cohort studies to assess the association between subclinical hypothyroidism or subclinical hyperthyroidism and depressive symptoms. We requested individual participant data from cohorts identified through a search of EMBASE and MEDLINE databases (up to November 2018) and through the Thyroid Studies Collaboration (www.thyroid-studies.org). The outcome was depressive symptoms at first follow-up, measured on any validated depression scale. For better clinical interpretation we transformed all scores into the Beck Depression Inventory (BDI) scale (range: 0-63, higher numbers indicating more depressive symptoms, minimal clinically important difference: 5 points) by calculating conversion factors. Subclinical hypo- and hyperthyroidism were defined as elevated thyroid stimulating hormone (TSH) ( 4.5 mlU/L) and reduced TSH (<0.45 mlU/L) respectively, in combination with normal free thyroxine levels. We performed a two-stage IPD analysis. In each cohort, we estimated the mean difference (MD) in depressive symptoms scores between those with subclinical hypo- or hyperthyroidism and euthyroid controls adjusted for depressive symptoms at baseline. Further, we adjusted the multivariable linear regression analysis for age, sex and length of follow-up. We pooled the study effects estimates by using a random effects model. Heterogeneity was assessed by I2. The protocol is registered on PROSPERO (ID: CRD42018091627).
+
+# RESULTS:
+
+Among six cohorts, we analyzed data from 24,962 participants (65% female, mean age 61±13.3 years, subclinical hypothyroidism N=2,534, subclinical hyperthyroidism N=684, mean follow-up time 7.8±4.6 years). At baseline, there was no difference in BDI scores between subclinical hypothyroidism (10.67), subclinical hyperthyroidism (10.78) and controls (10.25). After a mean

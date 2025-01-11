@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# INTEGRATING GERIATRICS INTO INTERNAL MEDICINE CORE CURRICULUM: AGING THEME
+
+Alyson Michener; Jerry Johnson; Rachel K. Miller. University of Pennsylvania, Philadelphia, PA. (Control ID #3185706)
+
+# BACKGROUND:
+
+In 2014, our internal medicine (IM) residency program moved to a "6+2" block schedule and theme-based ambulatory curriculum. Geriatrics/Aging was designated a longitudinal theme to span all three years. We created an aging curriculum for IM residents that increased exposure to geriatric competencies and enhanced training in the care of older adults.
+
+# METHODS:
+
+We integrated an aging theme into the IM categorical and primary care outpatient curricula. In each year of training, we co-taught several didactics with other specialists to promote collaboration and sharpen the relevance of each topic. Those topics included PGY1 (categorical and primary care): Geriatric Assessment 1 (fall) & 2 (spring) and capstone of spring Renal block (co-taught with renal), Hypertension guidelines for Older Adults (incorporating multi-morbidity). We reinforced that knowledge in the (mandatory) PGY2 ACE unit rotation and PGY3 geriatric community-based, service-learning experience. PGY2/3 (categorical) topics included: Geriatric Polypharmacy (co-taught with pharmacist), Hot Topics in Dementia, Shared Decision Making in Cancer Screening for Older Adults (co-taught with oncology) and Healthy Aging. Each talk was given 4 times to reach all learners. Additionally, the primary care residents had 5 geriatrics didactics per year, as above, and toured local senior sites. Before and after implementing the curriculum, we compared annual ACGME evaluation responses regarding the adequacy of geriatric training. We also evaluated resident performance on geriatric questions on the annual in-training exam.
+
+# RESULTS:
+
+The ACGME evaluations showed a significant increase in residents who assessed themselves as possessing adequate experience in geriatrics (71% prior to implementation in 2013-14 year versus 87.5% in the 2016-17 academic year). In 2017, the residents mean percent correct score was 77% (62 residents) of the geriatrics questions on the in-training exam - a 6% increase from 2014. We also observed more residents choosing longitudinal rotations in geriatrics and geriatrics fellowships. On the in-training exam in 2014, residents mean percent correct scores in geriatric medicine was 70% compared to 77% correct in 2017.
+
+# CONCLUSIONS:
+
+An Aging curriculum is now standard in our IM curriculum. Given that other internal medicine programs have similar block schedules, this curriculum could be replicated and adapted. We will continue expanding the aging theme and evaluating the IM residents' care of older adults.
+
+# LIFESTYLE INTERVENTION PROGRAMS FOR ADULTS AT HIGH-RISK FOR TYPE 2 DIABETES: A PLATFORM TO REACH HIGH-RISK CHILDREN?
+
+Maya S. Venkataramani; Tina L. Cheng; Nisa Maruthur. 1 Johns Hopkins University School of Medicine, Baltimore, MD; 2 Johns Hopkins, Baltimore, MD. (Control ID #3175404)
+
+# BACKGROUND:
+
+Type 2 diabetes risk factors cluster in families, and family-oriented approaches to identify high-risk individuals and prevent disease can have a multi-generational public health impact. The National Diabetes Prevention Program (DPP) lifestyle intervention targets high-risk adults who meet body mass index (BMI) and other eligibility criteria. Eligible adults may have family members, including children, who are also at high-risk for type 2 diabetes. As such, the National DPP could provide a unique platform through which to identify, and intervene upon, diabetes risk across generations. To understand the potential multi-generational reach of family-oriented approaches to identifying and intervening upon high-risk adults and children, we explored the correlation between parental eligibility for the National DPP program and child weight status using nationally representative data.
+
+# METHODS:
+
+We analyzed nationally representative data from the National Health Interview Survey from 2016 and 2017, focusing upon sample children ages 12 through 17 years old for whom BMI data was available and who could be linked to a parent (selected as a sample adult in the survey). Child BMI was categorized as underweight/normoweight, overweight or obese, using CDC BMI-for-age criteria. Parental DPP eligibility was determined based upon National DPP eligibility criteria (being overweight/obese; and a self-reported diagnosis of prediabetes or gestational diabetes history). Using Pearson's chi-squared analyses, we explored the association between 1) parent and child BMI and 2) parental DPP eligibility and child BMI.
+
+# RESULTS:
+
+Our analytic sample consisted of 13,633,334 weighted (3905 unweighted) children, each linked to one parent. 50.1% of children and 61.6% of parents were females. 25.9% of children and 68.1% of parents were overweight or obese. Child and parent BMI were correlated (Chi-squared p <0.001): over one-fifth of obese parents had at least one obese child compared to only 5% of underweight/normoweight parents. 9.5% of parents were likely eligible to participate in the National DPP. Parental DPP eligibility was positively correlated with child overweight/obese status (Chi-squared p <0.001): nearly 1 in 5 (19.8%) of likely eligible parents had a child who was obese, compared to 11.0% of ineligible parents. Overall, more than one-third of likely eligible parents in the sample had at least one child who was overweight or obese.
+
+# CONCLUSIONS:
+
+In this nationally representative sample, parent and child BMI were positively correlated, as was parental eligibility for diabetes prevention programming and child BMI. This highlights the potential of leveraging the national platform for adult diabetes prevention to identify and reach high-risk children through family-oriented, multi-generational programming. Limitations include the use of self-reported weight and height (potentially leading to mis-categorization at extremes of BMI), and confirming these associations with measured BMI is an important next step.
+
+# MAJOR CAUSES OF DEATH AMONG TRIBAL COMMUNITIES IN SOUTH DAKOTA
+
+Stephanie Sun; Leila H. Borowsky; Matthew Tobey. Massachusetts General Hospital, Boston, MA. (Control ID #3186016)
+
+# BACKGROUND:
+
+In the Great Plains (ND, SD, NB, and IA), the American Indian/Alaska Native (AI/AN) life expectancy is 10 years less than the US total population. The health disparities facing AI/AN populations have been attributed to systemic discrimination, poverty, and remoteness, among other factors. Over the past 60 years, health disparities between AI/AN and white populations have decreased everywhere except the Great Plains, where they have increased. Efforts by tribal leaders, policymakers, and healthcare experts to address AI/AN health relies on data that reflects the needs of their tribal communities. Studies that have reported state and regional data may miss nuances between reservations. We collected mortality data of individual reservations in South Dakota (SD). By focusing on local data, we found both areas of similarity and uniqueness across SD reservation health profiles.
+
+# METHODS:
+
+We used CDC Wonder data to collect the top 15 leading causes of death from 1999-2017 by county for all 10 SD reservations. Crude death rates per 100,000 and number of deaths were obtained and compared to that of SD and the US. All ages, genders, and races were included. Crude death rates for all reservations were averaged and compared to the top 15 leading causes of death for SD, and for the USA.

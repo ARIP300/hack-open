@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We report the successful launch of a residency track to develop physician advocates with skills in immigration detention health. Residents gained an in-depth understanding of mass deportation as a public health issue, as well as the impact of immigration status on the mental and physical health of individuals.
+
+# TRAINING PROVIDERS FOR THE FUTURE: INTERDISCIPLINARY CARE OF CHRONIC PAIN AND OPIOID MANAGEMENT IN THE AGE OF TELEHEALTH
+
+Rachel Wong; Patricia Ng; Tracey Spinnato; Kimberly Noel; Erin Dainer; Mark Lerman; Amit Kaushal; Alice Fernan. Stony Brook University School of Medicine, Stony Brook, NY. (Control ID #3160786)
+
+# NEEDS AND OBJECTIVES:
+
+Patients with chronic pain, who have a high rate of anxiety and depression, are challenging to manage in primary care. Given the complex biopsychosocial nature of chronic pain, we need to train physicians to provide interdisciplinary care using tools such as telehealth to reduce barriers to care. Our aim is to create and implement an interdisciplinary, longitudinal simulation which integrates team-based telehealth care of complex patients with chronic pain. We will develop metrics for evaluation of residents in synchronous and asynchronous communication skills with patients and relevant specialties. We also aim to study the effect of this interdisciplinary telehealth simulation on the knowledge, attitudes and self-reported behaviors of residents in caring for patients with complex chronic pain.
+
+# SETTING AND PARTICIPANTS:
+
+The training will be offered to 56 PGY1 and PGY3 Internal Medicine residents at a university-based program in Stony Brook, NY during the 2018-19 academic year.
+
+# DESCRIPTION:
+
+We developed a longitudinal, 5-week simulation with 1) a virtual tele-visit Observed Standardized Clinical Evaluation (OSCE) with a patient with chronic pain, opioid use and comorbid psychiatric disease, 2) post-visit asynchronous care of the patient using electronic messaging between nursing, social work and subspecialty consultants to manage clinical deterioration and 3) a virtual, interdisciplinary tele-conference to discuss patient care and decision-making.
+
+# EVALUATION:
+
+Resident knowledge and attitudes regarding telehealth will be measured using pre- and post-simulation surveys. Resident skills will be evaluated through assessment of 1) standardized patient checklists during tele-visit patient encounters, 2) post-visit written electronic consultation and communication between residents with specialists and patients 3) a post tele-conference message from the resident to the patient that summarizes and conveys tele-conference recommendations for management.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The educational simulation will be implemented from February to April 2019, with plan for data analysis and reporting in May 2019.
+
+# TRAINING THE FUTURE GENERATION OF PRIMARY CARE
+
+Nautam Ganatra. Michael E DeBakey VA Medical Center, Houston, TX. (Control ID #3186099)
+
+# NEEDS AND OBJECTIVES:
+
+The estimated shortage of primary care physicians will be between 8,700 - 43,100 by 2030. Primary care residency positions are increasing less rapidly than other positions. Lower reimbursements are often cited as the reason for shortage of primary care physicians. ACGME requires 130 half days of continuity clinic during 3 years of residency, which is less than half a day a week. Majority of training during the residency is focused towards the hospital medicine, and subspecialties. Residents' continuity with their patients and preceptors is challenging concept. It can improve the educational experience in ambulatory care and may lead to more trainees to choose primary care as their career choices.
+
+# SETTING AND PARTICIPANTS:
+
+Presented here are the findings from the academic primary care practice at the New Orleans VA. The practice comprised of four academic internists, who supervised more than 80 residents across all PGY levels, from Tulane University School of Medicine. They were dedicated to the teaching and precepting 8 half days a week, and 2 half days a week they were provided with administrative time, with 3300 veterans assigned. Non-academic providers had combined 9400 veterans. They were scheduled for 9 half days of direct patient care, and one half a day of administrative time.
+
+# DESCRIPTION:
+
+Continuity rate for the residents with their patients in academic clinic were compared to the national average. Diabetes and Hypertension outcomes were compared to the non-academic veterans' panel at the New Orleans VA. This comparison was made during the first four months of the second half of the academic year.
+
+# EVALUATION:
+
+During the year 2017, from January to April, continuity with residents was between 56-59% at our site, while national average during the same time for residents' continuity was between 43-45%. HTN: BP > 150/90 mm of Hg; (goal < 15%) [Jan 2017- April 2017] - (Lower The Better) - EPRP review The % of patients who had inadequate BP control were higher in resident clinic at 19.4%, while non-academic teams had 17.5% of patients with poor BP control. Chi square = 0.0213, p value = 0.999 Diabetes: % A1c > 9 Or Not Done: [Jan 2017- April 2017] - (Lower The Better) - EPRP Review The % of poorly controlled DM were better in academic continuity team, 21.30%; compared to non-academic teams combined, at New Orleans VA were 23.30%. z score = 3.2944, p value = 0.001 Diabetes: % DM - BP <140/90, goal 75 % or more [aggregate: Jan 2017- April 2017] - EPRP Review BP control in patients with DM, academic continuity team were at 76.70%, compared to non-academic teams combined at New Orleans VA were 74.90%. z score = 6.9783, p value = 0.00001
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This observational data shows better performance of academic clinic in Diabetes care. Hypertension control were better in non-academic teams in diabetic patients. In non-diabetics, there were better trends in non-academic teams. Despite having better than average continuity experience for the residents, the quality metrics outcomes are inconsistent in academic primary care settings.
+
+# TRUST ME, I'M AN INTERNAL MEDICINE DOCTOR - A COLLABORATIVE PROCESS TO DEVELOP SPECIALTY-SPECIFIC EPAS
+
+Shanu Gupta1; Kevin E. O'Brien1; Kellee Oller1; Robert Ledford1; Cuc Mai2; Deborah DeWaay1. 1University of South Florida, St Petersburg, FL; 2USF, Tampa, FL. (Control ID #3184954)
+
+# NEEDS AND OBJECTIVES:
+
+Since the early 2000s, the medical education community has developed competency-based education to identify the professional roles of a physician in training. Measuring competency requires several steps: identification of tasks, implementation of curricular activities to teach these tasks, and development of measurement tools to determine competence. The AAMC has packaged tasks into generalizable EPAs. Little is known about what evidence GME programs would need to agree with a UME program's decision of entrustment. At our institution, we sought to foster a closer alliance between UME and GME in developing EPAs that deliver an entrusted professional ready to take on specialty-specific tasks at the start of Internal Medicine residency. Our objectives were to: 1. Identify Internal Medicine specific Entrustable Professional Activities (EPA) 2. Develop a process for implementing, assessing and evaluating an innovative EPA-based curriculum.

@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CASE: A 56- year old male presented with encephalopathy after being found unresponsive at home.
+
+On examination, patient's vitals were notable for blood pressure of 90/74mmHg, pulse of 43, and temperature of 97.6 degrees Fahrenheit. Physical exam revealed an obtunded, disheveled male with bilateral periorbital edema. Labs were notable for pancytopenia and elevated liver function tests. Further lab tests demonstrated TSH of 110mU/L with Free T4 of 0.25 mU/L. A subsequent urine drug screen was positive for amphetamines. Patient was admitted to the ICU and was treated for myxedema coma presumed to be triggered by recent amphetamine use. Patient was treated with warming blankets, IV hydrocortisone, and IV levothyroxine. He had improvement of his mentation and subsequent labs over the next few days showed resolution of pancytopenia and transaminitis. TSH also noted to downtrend appropriately. As patient became more alert, he was questioned and admitted to history of hypothyroidism with non-compliance to medication. He further reported recent use of amphetamine prior to hospitalization.
+
+# IMPACT/DISCUSSION:
+
+Myxedema coma is an extreme but rare manifestation of hypothyroidism, resulting in life-threatening secondary systemic decompensation. It is usually precipitated by an inciting event, such as infection, stroke, trauma, substance use, or cold exposure. In our case, the inciting event was noted to be secondary to recent amphetamine use. It is important for clinicians to develop broad differential diagnosis to prevent premature closure. Our patient's case was initially concerning for drug overdose but was found to be due to myxedema coma.
+
+# CONCLUSION:
+
+Myxedema coma is a medical emergency that necessitates immediate care. Management is necessary prior to confirming diagnosis as delay in treatment is associated with high mortality rates. It is important for clinicians to be aware of amphetamine use as a possible trigger for myxedema coma.
+
+# A DIAGNOSIS OF MGUS, A COMMON BUT COVERT DISEASE, IN A PATIENT WITH RECENT MYOCARDIAL INFARCTION
+
+Daniel Clement 1 ; Eun Ji Kim 2 . 1Northwell Health, Manhasset, NY; 2Northwell Hofstra School of Medicine, Lake Success, NY. (Control ID #3172918)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose MGUS and differentiate it from other plasma cell disorders
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the association between thrombotic disease, including myocardial infarction, and MGUS
+
+# CASE:
+
+76 year-old African American female with diabetes mellitus, hypertension, hyperlipidemia, and coronary artery disease presented for establishment of care after a recent hospitalization for NSTEMI. She was a lifelong non-smoker and denied family history of malignancy. Physical examination was within normal limits. Laboratory studies were relevant for a hemoglobin of 10.5g/dL (normal 11.5-15.5) with normal platelets and leukocytes. Total protein was elevated at 8.6g/dL (normal 6.0-8.3). The patient's liver function, creatinine, albumin, and calcium were within normal limits. Serum and urine protein electrophoresis were obtained because of her anemia and elevated protein level. These were relevant for an elevated level of Gamma-migrating paraprotein with M-spike in the serum with no evidence of a paraprotein in the urine. The patient was referred to hematology for further evaluation. Repeat serum protein electrophoresis confirmed the presence of a paraprotein. A skeletal survey showed no evidence of lytic lesions. Given these findings, the patient was diagnosed with Monoclonal Gammopathy of Unknown Significance (MGUS). She is currently scheduled for a bone marrow biopsy.
+
+# IMPACT/DISCUSSION:
+
+Diagnosis of MGUS is defined as the presence of an M-spike on serum protein electrophoresis less than 3g/dL, fewer than 10% plasma cells on bone marrow biopsy, and the absence of hypercalcemia, renal insufficiency, severe anemia, and bony lesions. MGUS is a common disease and affects higher percentages of elders (3.2% 50 years or older, 5.3% 70 years or older, and 7.5% 85 years or older). The prevalence of this disease is also higher in the African American population (in one study, 8.6% of the participants in this ethnic group had an M-spike). MGUS is important to diagnose because there is a 1% chance of progression to multiple myeloma, lymphoma, Waldenstrom's macroglobulinemia, or AL amyloidosis every year after diagnosis. Current guidelines do not recommend screening the general population for MGUS. However, patients who have elevated total protein or immunoglobulins, unexplained anemia, elevated ESR, hypercalcemia, or renal failure should be screened. Once a diagnosis is established, the patients should be monitored with regular laboratory studies. This should initially occur six months after diagnosis followed by every two to three years thereafter. In this case, having an NSTEMI increased our suspicion for hematologic disease as having MGUS is associated with a 2-fold increase in the risk of developing both arterial and venous thrombosis.
+
+# CONCLUSION:
+
+In elderly patients with anemia and elevated protein level, serum and urine protein electrophoresis should be performed to evaluate for plasma cell disorders such as MGUS. Subsequently, patients with MGUS should be monitored closely for progression to other hematologic diseases.
+
+# A DYSFUNCTIONAL DIAGNOSIS FOR ABDOMINAL PAIN
+
+Kevin Zheng; Jay J. Chudow; Darlene LeFrancois. Montefiore Medical Center, Bronx, NY. (Control ID #3186040)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize sphincter of Oddi dysfunction as a common cause of post-cholecystectomy pain syndrome
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose functional biliary sphincter disorder using the Rome IV criteria
+
+# CASE:
+
+A 31-year-old obese woman presented five months ago with recurrent epigastric pain. She underwent cholecystectomy with pathology showing chronic cholecystitis. Since then, she presented and was admitted multiple times for similar, near daily epigastric pain. The pain was worse after meals, lasted for hours at a time, and did not improve with antacids or ranitidine. She denied smoking and rarely drank alcohol. Exam revealed tachycardia as well as tenderness in the epigastrium and RUQ. Liver tests were elevated with AST 552 and ALT 612. Bilirubin, alkaline phosphatase, and pancreatic enzyme levels were within normal limits. EGD revealed mildly erythematous gastric mucosa and CT abdomen and pelvis was unremarkable. Abdominal ultrasound and MRCP did not reveal ductal dilatations or stones. She underwent ERCP and had biliary sphincterotomy without preceding manometry. Her symptoms improved and she was discharged. She has not returned since for a similar issue.
+
+# IMPACT/DISCUSSION:
+
+Sphincter of Oddi dysfunction (SOD) should be suspected in patients with recurrent biliary-type pain after cholecystectomy. The prevalence of SOD among these patients is 9-14%. After cholecystectomy, there is loss of a cholecystosphincteric reflex that is responsible for sphincter relaxation when the gallbladder is distended. This results in increased resistance to bile outflow and a subsequent rise in biliary pressure that is perceived as pain. Other theories include an increased sensitization of nociceptors to biliary pressure that remains after cholecystitis. The term functional biliary sphincter disorder (FBSD) is now used for patients with post-cholecystectomy biliary pain and some objective findings of sphincter dysfunction. According to the Rome IV criteria, a diagnosis of FBSD is established when either epigastric or RUQ pain satisfies all of the following: 1) lasts for 30 minutes or longer, 2) recurs at different intervals (not daily), 3) is severe enough to interrupt daily activities or lead to an emergency department visit, 4) is not significantly related to bowel movements, and 5) is not significantly relieved by postural change or acid suppression. In addition, patients must have elevated liver enzymes or a dilated bile duct, but not both, and have absence of bile duct stones or other structural abnormalities. Sphincter manometry is recommended to predict response to treatment with sphincterotomy but is often forgone in clinical practice due to the risk of pancreatitis associated with ERCP.

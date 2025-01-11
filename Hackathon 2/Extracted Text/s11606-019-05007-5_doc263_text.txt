@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# STRATIFICATION OF CHEST PAIN OBSERVATION PATIENTS USING THE HEART SCORE TO REDUCE UNNECESSARY CARDIAC TESTING
+
+Shelly L. McGurk1; Kevin Glenn; Ethan Kuperman2. 1University of Iowa Hospitals and Clinics, Iowa City, IA; 2University of Iowa Carver College of Medicine, Iowa City, IA. (Control ID #3185628)
+
+# BACKGROUND:
+
+Patients admitted to the observation unit with chest pain have a high utilization of cardiac diagnostic testing (e.g. stress testing). Current practice does not incorporate the consistent use of a risk-stratification tool. HEART score is a validated tool that accurately identified low-risk chest pain patients in the Emergency Room in past studies. The object of this study was to determine if the HEART score could identify patients on a medical observation unit who would not benefit from further cardiac testing.
+
+# METHODS:
+
+This was a retrospective, observational cohort study at a single academic medical center observation unit. Over a 12-month period, study data were collected and managed using REDCap. Data collection was done via manual chart review of patients with a chief complaint of chest pain. The HEART score was calculated using the history and physical, ED notes, EKG, and laboratory values. The endpoint was major adverse cardiac event (MACE), which was defined as acute myocardial infarction (AMI), percutaneous coronary intervention (PCI), surgical revascularization, or death within six weeks of the index visit. The type and results of cardiac diagnostic testing were also abstracted. Specificity, sensitivity, and frequency of cardiac testing were used for analysis.
+
+# RESULTS:
+
+There were 282 patients identified within the time period, 151 (54%) female and 131 (46%) male. The groups were dichotomized into low risk (HEART score 0-3) and elevated risk (HEART score >3). There were 115 (41%) patients in the low-risk group and 167 (59%) patients in the elevated-risk group. The MACE rate for the low-risk group was 2 (1.7%) and 17 (10.1%) for the elevated-risk group, (p=.005). The two MACE events in the low-risk group were PCI and 17 MACE events in the elevated-risk group included 6 AMI, 11 PCI, 1 CABG, and 1 death. The death in the elevated-risk group was non-cardiac due to sepsis related to peritonitis/appendicitis. The HEART score sensitivity was 89% (95%CI: 66-98%) and specificity 43% (95%CI: 37-49%). Stress testing was performed 70/115 (60.9%) for the low-risk group and 102/167 (61%) for the elevated-risk group (p=.89). The low-risk group had 58/68 (85.3%) normal stress test results and 10/68 (14.7%) abnormal, 2 were not completed. The elevated-risk group had 67/102 (65.7%) normal stress test results and 35/102 (34.3%) abnormal results. There was a significant difference in the stress test results by group, (p=.005).
+
+# CONCLUSIONS:
+
+The HEART score identified a patient population at low risk for adverse cardiac events who received diagnostic testing at a similar rate as the elevated risk group. Incorporation of the HEART score into the admission protocol will provide decision support for clinicians and help improve decision-making with regards to cardiac testing for chest pain. This could reduce unnecessary diagnostic testing and decrease wasteful spending.
+
+# STRENGTHENING THE FOUNDATION OF CLINICAL REASONING: A RESIDENT-LED INITIATIVE
+
+Stephen G. Philip; Bruno Alvarez Concejo; Melanie Holtrop; Sarah Collins; Stephanie Brinker; Reeni A. Abraham. University of Texas Southwestern, Dallas, TX. (Control ID #3175168)
+
+# BACKGROUND:
+
+Deficits in clinical reasoning skills have come into focus as a concern behind high rates of diagnostic medical errors in the United States. Since the foundation for a physician's diagnostic skill is laid in medical school, we sought to strengthen clinical reasoning by instituting a 4-week curriculum taught to medical students by internal medicine residents under faculty supervision. This study reports the initial effect of our curriculum on the students' subjective comfort with clinical reasoning.
+
+# METHODS:
+
+During the core internal medicine clinical rotation, students attended a 4-week course led voluntarily by a senior internal medicine resident. Each week, students analyzed a clinical case with guidance from the resident, and each session highlighted 1-2 concepts: illness scripts, problem representations, diagnostic schemas, likelihood ratios, semantic qualifiers, and awareness of bias. Cases became progressively more challenging to facilitate synthesis of earlier concepts. Simultaneously, the teaching skills of residents were observed and critiqued by internal medicine faculty using a rubric. Students completed a survey about their comfort level with and use of clinical reasoning both prior to and after the course.
+
+# RESULTS:
+
+160 survey responses were received - 105 pre- and 55 post-course. Students had a median 6 months of clinical rotations prior to the concurrent internal medicine clerkship, and their median age was 24 years. Before the course, 53% of students felt either comfortable or very comfortable altering their diagnosis based on new information, increasing to 80% after the course. Before the course, 60% reported having a clinical reasoning framework, increasing to 96% after the course, the majority using illness scripts (50% pre vs. 69% post). Before the course, 5% of students felt comfortable or very comfortable using likelihood ratios, increasing to 58% after the course.
+
+# CONCLUSIONS:
+
+Our outcomes evaluation reflects an increase in medical students' confidence using key components of clinical reasoning, and a large increase in students reporting the use of a framework - the majority adopting illness scripts. This is significant as failed reasoning and the lack of a standardized approach to clinical problems account for a large percentage of diagnostic error. Our goal is to reinforce a method of reasoning that will be used by students in the future; however, the question whether our curriculum has an objective impact on clinical reasoning has yet to be answered with script concordance testing data. Finally, this data provides evidence that residents can be effective teachers of clinical reasoning to medical students. Since residents provide a large proportion of a student's clinical training, formal instruction in the diagnostic process so residents can teach others might have exponential benefits in reducing diagnostic error for any healthcare system.
+
+# STRIVES: ENGAGING MINORITY URBAN TEENS TO LEAD SOCIAL MEDIA CAMPAIGNS TO PROMOTE CLINICAL RESEARCH CAREERS IN THEIR COMMUNITIES
+
+Christianah Ogunleye1; Jeanne M. Farnan2; Shannon K. Martin2; Audrey L. Tanksley3; Samantha Ngooi2; Laura Ruth Venable4; Samantha Anderson2; Jhonatan Marte1; David Meltzer2; Vineet M. Arora5. 1University of Chicago Pritzker School of Medicine, Chicago, IL; 2University of Chicago, Chicago, IL; 3Heartland Alliance Health, Chicago, IL; 4University of Chicago, Chicago, IL; 5University of Chicago Medical Center, Chicago, IL. (Control ID #3170345)
+
+# BACKGROUND:
+
+One driver of poor health equity is underrepresentation of certain minority groups as leaders of clinical research studies. A major problem is the lack of exposure minority communities have to clinical research careers. This study aimed to assess whether high achieving minority youth enrolled in a pipeline program could create a social media campaign to promote interest in clinical research in their communities.
+
+# METHODS:
+
+Spreading Teen Research Inspired Videos to Engage Schoolmates (STRIVES) aimed to engage teens in a pipeline program to develop a targeted social media marketing campaign to boost interest in clinical research careers. The pipeline students conducted focus groups of their communities to inform themes to best promote clinical research.

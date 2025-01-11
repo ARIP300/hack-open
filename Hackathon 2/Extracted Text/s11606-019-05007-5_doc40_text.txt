@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# Association Between Chronic Pain and Myocardial Infarction
+
+Relationship by analyzing the association between chronic pain and myocardial infarction using a national database.
+
+# METHODS:
+
+The National Health Interview Surveys of 2017 (n= 26,445) were used to examine the cross-sectional association between frequency of pain (never, some days, most days, every day) and myocardial infarction in a single logistic regression model that also included demographics [age, gender, Body Mass Index (BMI)] and health characteristics (smoking, hypertension, diabetes, hypercholesterolemia and exercise).
+
+# RESULTS:
+
+Participants who reported having pain every day were more likely to be female (60% vs. 52%) and older (61 vs. 49 years) than participants who reported never having pain. The rates of daily smoking (23% vs. 9.6%), diabetes (24.9% vs. 8%), hypertension (63.1% vs. 29.2%), hypercholesterolemia (50.4% vs. 27.4%), and myocardial infarction (10.9% vs. 2.6%) were significantly higher in participants who reported having pain every day compared to subjects who reported never having pain. The logistic regression model showed that reporting daily experience of pain was independently associated with increased odds of having had a myocardial infarction (OR=2.19, 95% CI 1.69, 2.83, p <0.001) as was experience of pain most days (OR = 2.08, 95% CI 1.49-2.91, p <0.001), and experience of pain some days (OR = 1.51, 95% CI = 1.24-1.83, p <0.001) compared to never having pain after adjusting for demographics and health characteristics.
+
+# CONCLUSIONS:
+
+The frequency of chronic pain is significantly associated with the rate of myocardial infarction after adjusted for cardiovascular risk factors including age, gender, BMI, hypertension, diabetes, hypercholesterolemia, and lack of exercise. Future studies are needed to evaluate the efficacy of managing pain in reducing myocardial infarction.
+
+# Association of E-Cig Use and Non-Prescribed Medication Use: Results from the PATH Survey
+
+Eric Mortensen; Nkiruka Atuegwu; Kathryn Bentivegna; Mario F. Perez; Cheryl Oncken. UConn Health, Farmington, CT. (Control ID #3177619)
+
+# BACKGROUND:
+
+Use of electronic cigarettes ("e-cigs") is increasing in the US, but little is known about their association with other high-risk behaviors. The purpose of this study was to examine the association between e-cig use and a participant's report of the use of pain killers, sedatives, or tranquillizers that were not prescribed to them, within a nationally representative sample of adults.
+
+# METHODS:
+
+We used the waves 1-3 of the Population Assessment of Tobacco and Health (PATH) survey adult data (N=23,670). We defined current e-cig use as daily or some days use of e-cigs by participants in wave 1. We then used logistic regression to examine the association between current e-cig use and the use of non-prescribed pain killers, sedatives, or tranquillizers in the last 30 days, or 12 months, after adjusting for the covariates including demographics (age, gender, marital status, income, prior education), use of combustible tobacco and other nicotine products, use of illicit drugs, and psychiatric symptoms. Replicate weights and balanced repeated replication methods were utilized to account for the complex survey design.
+
+# RESULTS:
+
+We compared the 2,639 current e-cig users to the 21,024 non-users. After adjusting for the potential confounders, the use of e-cigs is associated with significantly higher use of non-prescribed pain killers, sedatives, or tranquillizers in the last 30 days (odds ratio [OR] 1.30, 95% confidence interval [CI] 1.14-1.48) and last 12-months (OR 1.31, 95% CI 1.15-1.49).
+
+# CONCLUSIONS:
+
+Our findings demonstrate that e-cig users have significantly higher odds of non-prescription use of pain killers, sedatives, or tranquillizers in the future. Clinicians should be aware of this association and screen for the inappropriate use of prescription medications in their patients who regularly use e-cigs.
+
+# Association of Healthcare Trust and Discrimination with Screening for Violence and Gun Ownership in Clinical Settings
+
+Madison R. Wilson; Monica E. Peek; Nichole Smith; Tyrone A. Johnson; Elizabeth L. Tung. University of Chicago, Chicago, IL. (Control ID #3184488)
+
+# BACKGROUND:
+
+Growing political discord over gun violence in the U.S. has resulted in national conversations about the role of healthcare in screening for violence and gun ownership. While some states have enacted laws limiting physicians' ability to screen patients for gun ownership, multiple medical associations encourage physicians to implement routine screening practices. However, few studies have documented the extent to which healthcare providers are implementing screening practices; and fewer have examined the relationship between these types of screening practices and patient-oriented outcomes, such as healthcare trust and perceived healthcare discrimination.
+
+# METHODS:
+
+We recruited a sample of 506 adult patients, ages 35 years, from 2 medical clinics on the South and West Sides of Chicago. Surveys were administered using Computer-Assisted Personal Interviewing software on tablets. Healthcare relationship trust (HCR Trust Scale) and discrimination in medical settings (DMS Scale) were measured using validated items and normalized to 100-point scales. Healthcare screening for (1) community violence and (2) gun ownership/safety were measured using items adapted from national surveys ("Have you ever discussed [community violence / gun ownership or safety] with your physician or another health care professional?"). We used generalized linear regression models to independently assess HCR Trust and DMS scores as functions of healthcare screening items, adjusting for age, gender, race/ethnicity, education, insurance, and employment status.
+
+# RESULTS:
+
+The cooperation rate (COOP2) was 61%. The mean age of participants was 60 years (SD 13.0); the majority were female (71%) and black (75%). Although many (62%) had completed some college, almost two-thirds were unemployed (64%). Few patients (15%) had ever discussed community violence with a healthcare provider; even fewer (5%) had ever discussed gun ownership or safety. Mean HCR Trust was 78.1 ± 17.7 and mean DMS was 5.2 ± 1.2 (100-point scale). While screening for community violence was associated with a 5.1% higher HCR trust score (95% CI, 0.1 to 10.1), screening for gun ownership/safety was not associated with higher HCR trust. Conversely, while there was no association between screening for community violence and DMS scores, screening for gun ownership/safety was associated with a 6.8% higher DMS score (95% CI, 1.4 to 12.2), compared to those who had not been screened.
+
+# CONCLUSIONS:
+
+While screening patients for exposure to community violence was associated with higher healthcare trust, screening for gun ownership/safety was not, and may even be associated with perceptions of healthcare discrimination. As healthcare systems begin to consider screening for gun ownership/safety, implementation in low-income, minority settings should be cognizant of historically unfair targeting and profiling of residents.
+
+# Association of Medicare Skilled Nursing Facility Copayments with Higher Discharge Rates of Ethnic Minorities and Socioeconomically Vulnerable Patients
+
+Paula Chatterjee1; Mingyu Qi1; Norma B. Coe1; R Tamara Konetzka3; Rachel M. Werner2. 1University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania and Philadelphia VA, Philadelphia, PA; 3University of Chicago, Chicago, IL. (Control ID #3185721)

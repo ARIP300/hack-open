@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# INCREASING RESIDENT COMPETENCE AND CONFIDENCE IN RESUSCITATION LEADERSHIP
+
+Nathan T. Douthit1; Christine Mcbride2; Erin Townsley1. 1Brookwood Baptist Health, Birmingham, AL; 2Virginia College Of Medicine, Auburn, AL. (Control ID #3185223)
+
+# NEEDS AND OBJECTIVES:
+
+Internal Medicine (IM) residents are experiencing fewer cardiopulmonary resuscitations. Most are intimidated by leading a resuscitation. Many IM residents go to careers in hospital medicine, where competence and confidence in resuscitations are essential qualities.
+
+# SETTING AND PARTICIPANTS:
+
+This intervention took place in a community hospital residency training program. Included participants were all categorical internal medicine residents from the 2017/2018 and 2018/2019 academic years. (n=39)
+
+# DESCRIPTION:
+
+12 months of records were reviewed in order to determine the outcomes of resident-led resuscitations compared to other resuscitations led by hospitalist and intensivist. Variables measured were ROSC, survival to discharge (sDC), time of event, and location of event. Surveys assessing resident confidence were distributed before and after an intervention. The intervention consisted of a "Code Conference" which took place 8 times in the academic year. It featured a simulation led by an intern and a high-yield resuscitation topic lecture. Staff from the intensivist, nursing, and pharmacy services were all present and provided immediate feedback after the simulation. Outcome data was tracked during the intervention and compared to the pre-intervention data. Data was analyzed using SAS 9.4.
+
+# EVALUATION:
+
+On a 0-5 Likert scale, PGY-2 residents in 2018 compared to PGY-2 residents in 2017 did not show an improvement in confidence following orders during a resuscitation (averages of 4.75 pre and 4.375 post). In contrast they did show an increase in confidence in leading a resuscitation (2.5 pre and 4.125 post) and teaching others how to lead a resuscitation (2.5 pre and 3.125 post). In the post intervention survey, residents gave the intervention an importance rating of 4.5 on a 0-5 scale. Resident ROSC improved (63.27% compared to 79.17%; p=0.10) and sDC were stable (16.33% compared to 16.67% p=0.90) despite decreases in the hospital wide rates between the two years of ROSC (72.85% pre and 68.28% post) and sDC (21.19% pre and 17.24% post).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Limitations included the small sample size and inability to quantify resuscitation complexity. Despite these limitations, there was an improvement in resident competence with a positive trend. Despite the decrease in ROSC and sDC in the hospital, residents had more success in ROSC and stable rates of sDC. Residents confidence increased and they viewed the intervention as extremely important to their IM training. These code conferences are a low-cost multidisciplinary intervention that can be used to improve resident confidence and competence in leading resuscitations, an important part of internal medicine education.
+
+# INNOVATION IN INPATIENT HIV EDUCATION: A FLEXIBLE FLIPPED CURRICULUM
+
+Mollie B. Tucker; Merceditas Villanueva. Yale School of Medicine, New Haven, CT. (Control ID #3178593)
+
+# NEEDS AND OBJECTIVES:
+
+The Inpatient Infectious Disease (ID) Rotation provides an opportunity for residents to learn about HIV management. Previously, teaching on the rotation was not standardized, partly due to constraints placed by intensive inpatient clinical needs. In the flipped classroom (FC) model, learners build a knowledge foundation outside of the classroom, while classroom time is devoted to knowledge application. We adopted a modification of the FC model, a flexible flipped curriculum (FFC), to provide residents with a standardized HIV curriculum with additional flexible topics, geared towards adult learners.
+
+# SETTING AND PARTICIPANTS:
+
+This curriculum was implemented on the Inpatient ID Service at Yale New Haven Hospital. The service consists of two teams, each team with an attending, resident, intern, and medical students. Participants rotate in 2- or 4-week blocks. All team members participated in the curriculum, and residents and interns were surveyed about their educational experience.
+
+# DESCRIPTION:
+
+The web-based curriculum consisted of 3 core modules and 8 optional modules. Each module contained "out-of-classroom" (OC) and "in-classroom" (IC) materials. OC materials included videos made by core ID faculty and links to articles from the AIDS Education and Training Center (AETC) National HIV curriculum. IC materials included relevant questions from the AETC question bank and links to cases from the New England Journal of Medicine. Teams were asked to complete all core modules and to choose optional modules based on relevance to active cases. Residents reviewed OC materials on their own, then engaged in IC question-based and case-based sessions led by their attendings.
+
+# EVALUATION:
+
+Implementation began in July 2018. Residents received pre- and post-tests designed to assess utilization and perceived effectiveness of the curriculum. In the first 6 months, 39 residents participated. Of those, 66.7% completed the pre-test and 53.8% completed the post-test. There was variation in utilization of modules. Overall, 28.5% preferred the FFC model, 19% preferred the classic teaching model, and 52.3% had no preference.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Residents generally appreciated the availability of a standardized curriculum. However, there remained variability in its utilization. Those who used the curriculum enjoyed the opportunity to apply knowledge with expert guidance. More widespread utilization was hampered by the ongoing challenge of finding time when all team members were available to hold IC sessions. Improving implementation of the curriculum, with attention to variable schedules of team members, is still needed.
+
+# INNOVATIONS IN CLERKSHIP ASSESSMENT: THE EARLY EXPERIENCES AT DELL MEDICAL SCHOOL
+
+Sherine Salib1; Stephanie Corliss2; Kimberly Brown2; Valli Annamalai2; Beth Nelson2. 1Dell Medical School, University of Texas at Austin, Austin, TX; 2Dell Medical School, Austin, TX. (Control ID #3163280)
+
+# NEEDS AND OBJECTIVES:
+
+A fairly ubiquitous challenge in the core clerkships is that of observing and assessing specific desirable medical student behaviors and skills in the clinical setting. Clarity in how those behaviors and skills are observed and assessed is an important and yet often elusive task, particularly with some of the less traditionally assessed characteristics that we seek to cultivate in our students, such as Clinical Curiosity, Initiative, Problem-Solving and Safety and Value considerations.

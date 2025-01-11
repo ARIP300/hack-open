@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Tophaceous Gout in a Patient with HIV
+
+bacterial, fungal, and AFB cultures were all negative. Interestingly, the erythrocyte sedimentation rate (ESR) was only mildly elevated at 52 mm/hr and both serum uric acid, and white blood cell count (WBC) were within normal limits at that time. Soon after, he received an intralesional corticosteroid injection, which provided marked pain relief and significantly reduced the size, swelling, and tenderness of the SC joint.
+
+# IMPACT/DISCUSSION:
+
+While most episodes of gout occur in the lower extremities, gout may occur in nearly any joint in the body [1]. In this case, tophi formation occurred in the axial skeleton prior to onset of pain and the typical hallmarks of acute gout attacks were absent. Without these tell-tale clinical signs, the diagnosis of gouty arthritis was dependent on synovial fluid analysis, which is the gold standard [1]. While elevated serum uric acid, ESR, and WBC may help increase suspicion for gout, they are not necessary for diagnosis [1]. This case also highlights the association of HIV infection with hyperuricemia and gout [2]. This is thought to be due to a number of factors including increased T-cell turnover, HIV nephropathy, the creation of an inflammatory milieu, and, in some cases the effects from antiretroviral medication itself [2,3]. Didanosine, stavudine, zalcitabine, and ritonavir, for example, are all antiretrovirals associated with increased urate levels [2,4]. Interestingly, poorly controlled HIV and AIDS has been associated with hypouricemia due to malnutrition and increased renotubular losses; in patients started on cART may develop gout as part of an immune reconstitution inflammatory syndrome (IRIS) [2,3,5,6].
+
+# CONCLUSION:
+
+Tophaceous gout may involve axial joints and develop in the absence of acute gout flares. Our patient was one such case, presenting with slowly developing tophaceous gout in his SC joint prior to any acute episodes. HIV infection and the antiretroviral therapy used to treat it can produce elevated serum uric acid levels. Our patient was on a number of ART medications, including ritonavir, which has been associated with elevated uric acid levels and possibly contributed to his unique presentation.
+
+# Granulomatosis with Polyangiitis Manifesting as Symptomatic Sellar Mass in a Young Woman
+
+sachin gadani1; Fahid Alghanim1; rohini nadgir3; Annika Windon2; Lisa Rooper2; Karan Desai1. 1Johns Hopkins Bayview Medical Center, Baltimore, MD; 2Johns Hoskins Hospital, Baltimore, MD; 3Johns Hopkins Hospital, Baltimore, MD. (Control ID #3180086)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that pituitary mass is a complication of GPA
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose hypopituitarism based on review of systems, physical, and labs
+
+# CASE:
+
+A 25 y.o. Puerto Rican woman with granulomatosis with polyangiitis (GPA) and known sellar mass presented to the ED with headache and vomiting. The day prior she developed left sided headache and fever, followed by nausea and profuse vomiting, symptoms she had been experiencing weekly for the past several months. Detailed review of systems revealed 8 months of amenorrhea, fatigue, cold intolerance, 20lb weight gain, and constipation. Physical exam showed no meningismus, papilledema, or visual field deficit. Lab studies showed TSH 0.06 u/mL, free T4 0.4 ng/dL, LH 0.4 u/mL, and FSH 2.5 u/mL, consistent with hypopituitarism. These findings led to investigation of her known sellar mass. 10 months prior a cystic, nonenhancing sellar lesion was seen incidentally on MRI, thought to represent Rathke's cleft cyst. Repeat MRI showed notable enlargement, spread, and post-contrast enhancement, not consistent with Rathke's cyst. Diagnostic biopsy of the sellar mass demonstrated acute and chronic inflammation, reactive histiocytes, and necrobiosis, consistent with autoimmune inflammation related to GPA. She was treated with prednisone and cyclophosphamide. 2 months later the patient requested to be transitioned from cyclophosphamide to rituximab because of concerns about impaired fertility associated with cyclophosphamide.
+
+# IMPACT/DISCUSSION:
+
+Here we report the case of a woman who was found to have hypopituitarism due to a GPA-related sellar mass. A challenge in this case was the initial diagnosis of Rathke's cleft cyst based on the first MRI, which may have delayed accurate diagnosis of her pituitary lesion. This case sheds light on temporal imaging changes that such a lesion can undergo as it progresses, and underscores the non-specific nature of imaging findings. Previously reported cases of pituitary GPA have showed varied MRI findings, with T1 hypo- or hyperintensity, T2 hyperintensity, and heterogeneous enhancement typical. When approaching a pituitary lesion in a patient with GPA suspicion for autoinflammation should remain high, and, in lieu of biopsy, careful consideration of patient history and disease progression is needed. Previous reports suggest that pituitary GPA lesions are often amenable to treatment. In one case series of 8 GPA patients with pituitary lesion all achieved remission after therapy with corticosteroids (CT) combined with either cyclophosphamide (CYC) or rituximab. In another series of 9 patients, all but one achieved remission after CT combined with secondary immunosuppression. Notably, however, prior studies have reported chronic hypopituitarism in many patients.
+
+# CONCLUSION:
+
+- GPA can cause symptomatic pituitary lesions, which may be associated with significant morbidity - The diagnosis of pituitary GPA is difficult to make on imaging alone - Routinely employing a thorough review of systems is critical to ensure the accurate diagnosis be made.
+
+# Green Urine: Benign or Pathologic?
+
+Ermias Sori. UT Health San Antonio, San Antonio, TX. (Control ID #3186120)
+
+# LEARNING OBJECTIVE #1:
+
+Logical inexpensive evaluation of acute green urine color change.
+
+# CASE:
+
+A 55-year-old veteran presented to the hospital for worsening shortness of breath and severe hyponatremia found to have acute respiratory failure due to fluid overload treated with hemodialysis. His past medical history included alcoholic cirrhosis and hyperlipidemia. On exam, he was tachycardic (120 beats per minute), with reminder of exam unremarkable. On laboratory evaluation, he was noted to have a sodium level of 109 mEq/L that was suspected to be beer potomania. While on mechanical ventilation, he was sedated with a continuous propofol infusion. On day two, he developed green urine discoloration. Infectious work-up, especially for pseudomonas urinary tract infection, was negative. It was believed that the urine color change was suspected of propofol. The urine color changed back to normal after 12hr propofol discontinuation.
+
+# IMPACT/DISCUSSION:
+
+Urine discoloration is uncommon encounter in intensive care units. Many factors can cause green urine discoloration. The most common infectious etiology is Pseudomonas urinary tract infection. Other causes include Dyes such as Methylene blue, Biliverdin, Indigo blue and food colorings, and drugs including Propofol, amitriptyline, indomethacin, Cimetidine, metoclopramide, methocarbamol and promethazine. Clinicians must rule out infectious etiology on initial observation of green urine especially in intensive care setting. Propofol-induced urine discoloration is a rare occurrence. Blakey et al. reported incidence of less than 1%. Propofol is metabolized in liver. It is conjugated to glucuronides and sulphate and subsequently excreted by kidney. These metabolites are biologically inactive and do not affect kidney function. It is reported that overflow of the extrahepatic elimination plays a critical role in green discoloration of urine. It has been reported that propofol-related urine discoloration in a patient with fatal atypical intracerebral hemorrhage treated with hypothermia and osmotic therapy. It is known that glucuronosyltransferase and sulfotransferases enzymes play major role in phase II-drug metabolism in liver. In a cirrhosis and hypothermia state, the function of those enzymes is extensively compromised. As a result, overflow of extrahepatic elimination may be increased which will result in green urine. Our patient is a perfect example of this scenario.

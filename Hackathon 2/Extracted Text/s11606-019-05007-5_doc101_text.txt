@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# EFFECT OF MARYLAND BEHAVIORAL HEALTH HOMES ON CANCER SCREENING IN WOMEN WITH SERIOUS MENTAL ILLNESS
+
+Karly A. Murphy1; Gail L. Daumit1, 2; Elizabeth Stone1; Sachini Bandara2; Alene Kennedy-Hendricks2; Craig E. Pollack1, 2; Beth McGinty2, 2.  1Johns Hopkins University School of Medicine, Baltimore, MD; 2Johns Hopkins Bloomberg School of Public Health, Baltimore, MD. (Control ID #3184170)
+
+# BACKGROUND:
+
+People with serious mental illness (SMI) die 10-20 years earlier than the general population, primarily due to physical health conditions; cancer is the second leading cause of death. Behavioral health homes (BHHs), which integrate primary care into specialty mental health settings, have proliferated recently with the goal to improve management and care coordination of physical health. This study sought to evaluate the effect of the Maryland Medicaid BHH program on preventative cervical and breast cancer screening in women with SMI.
+
+# METHODS:
+
+We used Maryland Medicaid administrative claims data from October 1, 2012-December 31, 2016. We included 6,059 women between ages 21-64 years with SMI, who participated in a psychiatric rehabilitation program (PRP) which indicates significant functional impairment as a result of mental illness, and were continuously enrolled in Medicaid during the study period. Of these, 1,408 women were BHH participants, and 4,651 were non-BHH participants and served as the comparison group. In one year intervals, we measured whether women ages 21-64 years received pap smears or women ages 50-64 years received screening mammography. For our analysis, we used marginal structural modeling with inverse probability treatment weighting applied to person-time periods. This approach allowed us to accommodate rolling enrollment of participants into a BHH and to adjust for baseline covariates (age, race, psychiatric diagnosis) and time-varying covariates (residence, disability, substance use, managed care organization, comorbidity, PRP characteristics). We used logistic regression to estimate the effect of BHH enrollment on cancer screening and the predicted probability of receiving screening.
+
+# RESULTS:
+
+Among 6,059 women in the study, the mean age was 41.1 years (SD=11.2) with 58.1% black race, 32.7% with schizophrenia and 55.1% with bipolar disorder, 24.8% with substance use disorder, and 57.3% with disability. The predicted annual cervical cancer screening rate was 32.6% for women enrolled in a BHH and 29.3% for women not enrolled in a BHH after adjustment for baseline and time-varying covariates. The predicted annual breast cancer screening rate was 28.5% for women enrolled in a BHH and 24.3% for women not enrolled in a BHH after adjustment for baseline and time-varying covariates. Women who were enrolled in a BHH were 27% (adjusted Odds Ratio [aOR] 1.27, 95% CI 1.04-1.55) more likely to receive pap smears and 17% (aOR 1.17, 95% CI 1.04-1.31) more likely to receive mammography.
+
+# CONCLUSIONS:
+
+Maryland's Medicaid BHH program increased cancer screenings in women with SMI. However, annual cancer screening rates among the SMI population remain lower than annual screening rates in the general population (cervical cancer 42%, breast cancer 43%). This suggests that integrated care models, such as BHHs, can improve preventative care for the SMI population, but future work is needed to improve health equity between SMI and non-SMI populations.
+
+# EFFECT OF MANDATED BREAST DENSITY REPORTING LEGISLATION ON WOMEN'S AWARENESS AND KNOWLEDGE OF BREAST DENSITY
+
+Kelly A. Kyanko1; Jessica R. Hoag2; Susan Busch2; Jenerius Aminawung3; Xiao Xu; Ilana B. Richman2; Cary Gross4. 1NYU School of Medicine, New York, NY; 2Yale University, New Haven, CT; 3Yale University School of Medicine, New Haven, CT; 4Yale School of Medicine, New Haven, CT. (Control ID #3182670)
+
+# BACKGROUND:
+
+To date, 35 states have enacted dense breast notification (DBN) laws mandating that mammogram reports include language informing women of risks related to dense breast tissue. We conducted a nationally representative survey to determine the impact of these laws on women's awareness of breast density, knowledge of its association with the risk of breast cancer and sensitivity of mammography, and anxiety around breast cancer screening.
+
+# METHODS:
+
+Internet survey conducted in 2018 with participants in the GfK KnowledgePanel®, a probability-based online research panel designed to be representative of the U.S. population. The sample included 2,539 English-speaking US women aged 40 to 59 years without a personal history of breast cancer who had ever had a mammogram in their lifetime.
+
+# RESULTS:
+
+Enrollment was closed when a predetermined number of panelists screened in, resulting in a completion rate of 68.2%. Overall, 41.3% of women reported that they were informed of having dense breasts. A significantly greater proportion of women residing in DBN states were informed of having dense breasts as compared to women residing in non-DBN states (43.6% versus 32.7%, p <0.01; adjusted analyses OR 1.74, 95% CI: 1.37-2.22). Only 23.0% of women overall knew of the increased risk of breast cancer with dense breasts, with no significant difference between women in DBN states and non-DBN states. Similarly, 68.0% of women correctly answered that dense breasts make it more difficult for mammography to detect cancer, with no significant difference seen by residence in a DBN state. There was also no association between residing in a DBN state and reporting breast cancer-related anxiety.
+
+# CONCLUSIONS:
+
+In a large nationally representative survey, we found that women living in states with mandated breast density reporting laws were more likely to be aware of having dense breasts. However, this was not accompanied by an increase in knowledge that dense breasts are associated with a higher risk of breast cancer and limit the ability of mammography to detect cancer. Improving readability and understandability of notification language around the clinical implications of dense breasts, or other forms of educational efforts such as mass media, may help meet this goal. Efforts may also be needed to improve health equity between SMI and non-SMI populations.
+
+# EFFECT OF PRACTICE FACILITATION ON PREVENTIVE CARDIOLOGY IN PRIMARY CARE: A PRACTICE-RANDOMIZED, COMPARATIVE EFFECTIVENESS STUDY
+
+Yaw A. Peprah; Tiffany Brown1; Jody Ciolino; Randy Hountz3; Karen1; Iversen4; Linda Murakami5; Jennifer Potempa6; Luke Rasmussen2; Theresa L. Walunas; Jesi Wang7; Chen Yeh2; Abel Kho; Stephen Persell1, 2.

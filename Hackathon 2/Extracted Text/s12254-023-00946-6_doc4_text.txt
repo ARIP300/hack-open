@@ -1,0 +1,31 @@
+# Special Issue
+
+# iwCLL 2023
+
+# Long-term results and other findings from clinical trials
+
+# MURANO: 7-year data and retreatment substudy
+
+Fixed-duration venetoclax plus rituximab (VenR; n = 194) was tested against bendamustine plus rituximab (BR) for six months (n = 195) in the global, open-label, randomized phase III MURANO study that enrolled patients with relapsed/refractory CLL. In the experimental arm, 6 cycles of rituximab were administered, and venetoclax monotherapy was taken for a total of 24 months. Indeed, VenR gave rise to improvements in progression-free survival (PFS; 53.6 vs. 17.0 months; p < 0.0001) and overall survival (OS), with 5-year OS rates of 82.1 % vs. 62.2 % (p < 0.0001) [1].
+
+According to the final analyses after a median follow-up of approximately seven years, the benefits of VenR over BR were sustained [2]. Median PFS was 54.7 vs. 17.0 months (HR, 0.23; p < 0.0001), with the 7-year PFS rates being 23.0 % and not estimable, respectively. Median OS had still not been achieved in the experimental arm and was 87.8 months in the control arm (HR, 0.53; p < 0.0002). At 7 years, 69.6 % vs. 51.0 % of patients were alive. Time to the next anti-leukemic treatment was longer for VenR (63.0 vs 24.0 months; HR, 0.30). Most patients who received the full two years of VenR treatment had undetectable MRD (uMRD) at the end of therapy (EOT). Patients with uMRD showed significantly longer PFS from EOT than those with low MRD positivity (HR, 3.46; p < 0.0001) and high MRD positivity (HR, 17.22; p < 0.0001; Figure 1). For OS, these differences were not significant. Favorable baseline characteristics such as TP53 wild-type and IGHV mutation were over-represented in the group with enduring uMRD. If MRD conversion with subsequent disease progression occurred, it did not do so until approximately four years after EOT. No new safety signals had been identified since the 5-year data cutoff.
+
+|(95 % CI), months|p value|
+|---|---|
+|uMRD (n = 83)|52.5 (44.5–61.5)|
+|Low MRD+ (n = 23)|29.3 (20.2–37.5) 3.46 (1.75–6.86); < 0.0001|
+|High MRD+ (n = 12)|4.6 (2.8–8.3) 17.22 (5.70–52.00); < 0.0001|
+
+# Landmark PFS
+
+Figure 1: PFS according to MRD status in patients who completed two years of venetoclax treatment without disease progression
+
+Twenty-five of the 34 patients with disease progression who entered this substudy were retreated with VenR. Median time from the final drug dose in the remain study to retreatment was 2.3 years. Most of these patients were classified as having high risk. In this population, median PFS from retreatment was 23.3 months, the best overall response rate was 72.0 %, the complete response (CR) rate was 24 %, and median OS had not been reached yet. Moreover, uMRD was still attainable in this high-risk patient group. Eight VenR-retreated patients achieved uMRD, although this was not sustained until the end of retreatment in any of these cases. The authors concluded that retreatment with VenR is a viable option for pretreated patients. Overall, these very mature data from the MURANO study continue to support the use of fixed-duration VenR in patients with relapsed/refractory CLL.
+
+# CLL2-BAAG
+
+The phase II CLL2-BAAG trial was designed to investigate the combination of obinutuzumab, acalabrutinib and venetoclax in patients with relapsed/refractory CLL. After optional debulking with bendamustine, obinutuzumab was started in the first cycle, acalabrutinib in the second and venetoclax in the third. From cycle 4 onward, the patients received the triplet. Maintenance followed after the final restaging at cycle 6, and the treatment was continued until CR and uMRD were achieved. Forty-five patients were treated with the induction regimen, and 43 went on to receive maintenance. Among these, 25 patients were able to discontinue treatment after reaching CR and uMRD. Nine individuals completed the full 24 months of maintenance treatment. The group was enriched for risk factors such as unmutated IGHV, TP53 aberration, and complex karyotype. According to the primary endpoint analysis, all patients responded; after induction, 13 had already achieved CR [3]. Thirty-four patients (76 %) obtained uMRD.
+
+Cramer et al. provided an update of the study after all patients had discontinued treatment [4]. These data confirmed that bendamustine, followed by obinutuzumab, acalabrutinib and venetoclax does not lead to cumulative or unexpected toxicity. Infections and cytopenias were the most common adverse events (AEs). Responses improved.
+
+© Springer-Verlag GmbH Austria, part of Springer Nature Vol. 16 ∙ Suppl 10/2023 S167

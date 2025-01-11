@@ -1,0 +1,19 @@
+# International Journal for Educational and Vocational Guidance
+
+# Measures
+
+# Multidimensional measure of employability—European Portuguese version
+
+We used the European Portuguese version of the MME developed by Gamboa et al., (2022), which retained the same internal structure as the original version. In this study, the instructions were adapted to adjust the data collection with unemployed persons. Thus, a note was added to the instruction alerting participants that, in case of unemployment, they should respond to the scale thinking about previous jobs and/or possible future jobs they may have. The psychometric properties of the scale are introduced in the Results.
+
+# Career exploration and decision‑making self‑efficacy scale
+
+The CEDSES was originally created in the USA (Lent et al., 2016) and has already been adapted to Portugal (Taveira et al., 2017). The scale contains two subscales that assess career exploration self-efficacy (four items, e.g., “Dealing with disappointment if first choice doesn’t work”) and career decision-making self-efficacy (eight items, e.g., “Identify careers that make the best use of your abilities”). Each item is answered through a five-point scale varying from “totally disagree” to “totally agree.” In the sample of this study, the subscales’ reliability met excellent results, α = 0.96, Ω = 0.95, and AVE = 0.77, and α = 0.93, Ω = 0.93, and AVE = 0.85, respectively.
+
+# Life project scale
+
+The LPS was originally created in Portuguese (both European and Brazilian) and English (Coscioni, 2021). The scale contains two subscales that measure life project’s identification (four items, e.g., “I am aware of what I want for my future life”) and involvement (four items, e.g., “I’m making efforts to achieve what I want for the future”). Items are responded to in a seven-point scale ranging from “totally disagree” to “totally agree.” In the sample of this study, the subscales’ reliability met good to excellent results, α = 0.91, Ω = 0.90, and AVE = 0.74, and α = 0.89, Ω = 0.86, and AVE = 0.67, respectively.
+
+# Future time orientation scale
+
+The FTOS was originally created in Portuguese (both European and Brazilian) and English (Coscioni et al., 2021). The scale contains two subscales that measure impact (five items, e.g., “I value activities that may benefit me in the long run”) and distance (three items, e.g., “Two years in the future seems to me like a short period of time”). The items are responded to in a seven-point scale ranging from “strongly disagree” to “strongly agree.” In the sample of this study, the subscales’ reliability

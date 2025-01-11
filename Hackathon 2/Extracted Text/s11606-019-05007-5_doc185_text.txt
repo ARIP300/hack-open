@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# MENTAL HEALTH AND SELF-EFFICACY TO MANAGE CHRONIC HEALTH CONDITIONS AMONG NYC PUBLIC HOUSING RESIDENTS
+
+Susan L. Creighton1; Jillian Diuguid-Gerber2; Katharine Lawrence1; Milna Rufin2; Fred W. LaPolla3; Colleen Gillespie4; Noel Manyindo5; Rachel Dannefer5; Lois Seidl5; Lorna Thorpe1. 1NYU School of Medicine, New York, NY; 2New York University, New York, NY; 3NYU School of Medicine, New York City, NY; 4NYU School of Medicine, Brooklyn, NY; 5NYC Department of Health, New York, NY. (Control ID #3184616)
+
+# MEDICATION CONCERNS PREDICT MEDICATION ADHERENCE IN LATINO PATIENTS WITH HYPERTENSION
+
+Kerstin Nolan; Mark Butler; Antoinette Schoenthaler. NYU School of Medicine, New York, NY. (Control ID #3176485)
+
+# BACKGROUND
+
+Latinos have the lowest blood pressure (BP) control rates in the US, which may be explained by lower rates of medication adherence versus other ethnic groups. While patient medication concerns have been shown to predict poorer adherence in hypertensive patients, empirical data in Latinos is non-existent.
+
+# METHODS
+
+This study was a secondary analysis of a randomized controlled trial in 119 Latino patients with uncontrolled BP followed in a community-based practice. Patient medication concerns were assessed with the Concerns-specific subscale of the Beliefs about Medications Questionnaire; lower scores indicate greater concerns. Medication adherence was assessed with the 8-item Morisky questionnaire; higher scores indicate better adherence. Repeated measures analysis using linear mixed effects modeling was used to evaluate whether changes in medication concerns predicted changes in adherence overtime (Baseline, 3 and 6-months). Patient characteristics (e.g., age, gender, insurance) known to influence adherence and treatment group were treated as covariates in the model.
+
+# RESULTS
+
+The mean age was 61 years (SD:11.2); 50% were women; 38% had annual household income <$20,000, and 59% had less than a high school degree. A majority of patients were of Puerto Rican or Dominican ancestry. At baseline, 51% (SD:16.5) of the sample reported being adherent to their antihypertensive medications; the mean score on the Concerns scale was 3.07 (SD:0.5; range:1-5). We found a significant time by concerns interaction effect on adherence in multivariate analyses (F(2,24)=1.61, p=0.04). Specifically, adherence improved at a greater rate overtime among patients that reported low medication concerns than those that reported high concern.
+
+# CONCLUSIONS
+
+Concerns about antihypertensive medications is a potentially modifiable factor that affects adherence in Latino patients with uncontrolled BP. Interventions targeting patients' medication concerns may help to improve the low rates of adherence in this high-risk patient population.
+
+# BACKGROUND
+
+Self-efficacy to manage chronic conditions affects patients' health-related behaviors and interactions with the healthcare system and therefore influences health outcomes. Few studies have explored the complex relationships between mental health, self-efficacy, and management of chronic disease. A greater understanding of these interactions could inform successful community programming for marginalized populations such as public housing residents. Harlem Health Advocacy Partners is a community health worker (CHW) program designed to close health and social outcomes gaps in residents living in New York City Housing Authority (NYCHA). This study uses survey data collected for this initiative to explore the relationship between mental health and self-efficacy to manage chronic conditions among NYCHA residents with asthma, diabetes, and/or hypertension, and assess whether key variables such as connectedness to health care, social isolation and general health influence this relationship.
+
+# METHODS
+
+Five NYCHA housing developments were selected for the CHW intervention with five matched developments for comparison. Four hundred adult residents with a chronic disease were recruited. Baseline intake interviews were conducted in person. Self-efficacy for managing chronic disease was measured with a 6-question scale. Depression was assessed using PHQ9 scores, a screen for the presence and severity of depression. Difficulty with mental health was assessed with questions on how difficult mental health problems made it to do work, take care of things at home, or get along with others. Bivariate analyses were conducted to assess the relationship between mental health and self-efficacy. A hierarchical linear regression model was run with mental health and other relevant variables (selected based on availability in the dataset and theoretical significance) as independent variables and self-efficacy as the outcome variable.
+
+# RESULTS
+
+Self-rated general health predicted the greatest amount of variance in self-efficacy (15.7%, p <0.001). Mental health also contributed significantly; difficulty with mental health contributed 4.0% (p<0.001) and depressive symptoms contributed 1.1% (p=0.03) to the variance in self-efficacy. Other variables, including demographics, type of insurance, connectedness to a primary care provider, and social isolation, were not associated with self-efficacy. Overall, the full model explained 22.5% of the variance in self-efficacy to manage chronic conditions.
+
+# CONCLUSIONS
+
+NYCHA residents with mental health difficulty or depression represent a uniquely marginalized subpopulation of public housing residents, and were found to have lower self-efficacy than other residents, which may mean decreased ability to self-manage chronic medical conditions. Future research should explore relationships among mental health, self-management, and health care outcomes with the goal of augmenting targeted CHW interventions.
+
+# MENTORSHIP OF UNDERREPRESENTED PHYSICIANS AND TRAINEES IN ACADEMIC MEDICINE: A SYSTEMATIC REVIEW
+
+Eliana Bonifacino1; Eloho Ufomata2; Amy H. Farkas3; Jennifer Corbelli2. 1UPMC, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA; 3Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185553)
+
+# BACKGROUND
+
+The US is becoming increasingly diverse from a racial and ethnic perspective; however, the physician workforce has continued to

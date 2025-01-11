@@ -1,0 +1,43 @@
+# ABSTRACTS
+
+# Tyler Kilgore; Elijah Engwall; Vinod E. Nambudiri. Grand Strand Medical Center, Myrtle Beach, SC. (Control ID #3182877)
+
+# BACKGROUND:
+
+Inpatient Palliative Care (PC) services have been shown to reduce cost and increase patient satisfaction in cases that vary in clinical nature and course. However, data suggests that PC teams are underutilized, whether by delays in appropriate consultation or lack of involvement entirely. We sought to characterize the clinical impact of a PC service team in the first months of introduction at a regional medical center by examining timing of consultations, changes in patient code status, and patient destination at discharge.
+
+# METHODS:
+
+We conducted a retrospective, descriptive chart review analysis of all cases on which PC was consulted from its introduction in 3/2016 through 12/2016. 213 cases were reviewed. Patient demographics, diagnoses, length of stay (LOS), LOS prior to PC consultation, code status and destination at discharge were reviewed. Information was compared to national data available from the National Palliative Care Registry.
+
+# RESULTS:
+
+82% of patients consulted were Caucasian and 13% African American, similar to the overall demographics at our institution. 40% of all patients who received an inpatient PC consult expired during hospitalization; 37% were discharged to home or hospice, and 22% were discharged to another medical facility. The most common primary diagnoses for individuals who received PC consults were Hematologic/Oncologic disease (25%), Neurologic disease (23%), Cardiopulmonary disease (17%), Infectious disease (11%), and Trauma/Overdoses (9%). Change in code status was observed frequently; nearly 25% of patients who received a PC consultation had their code status changed to DNR and over 50% of individuals had DNR statuses prior to consultation. In no case was a DNR patient changed to Full Code. Following PC consultation, the vast majority of patients (86%) did not undergo any further life prolonging procedures such as intubation, blood transfusion, paracentesis, PEG tube, or cardiac catheterization.
+
+# CONCLUSIONS:
+
+Our data demonstrates the multifaceted impact of a new PC consult team in a regional hospital. Palliative care consultation was associated with marked reductions in life prolonging procedures and frequent change of code status to DNR. During the study period, the inpatient mortality rate of the PC service was twice that reported in national registries. This likely indicates a tendency for a new PC service to be consulted later in the course of care than the national average, and speaks to ongoing needs to address underutilization of PC services for end of life care. Finally, nearly 10% of consults at our center were for trauma/overdose, a category not featured in the national palliative care registry, and may speak to local demographics and the profound impact of the opioid crisis on shaping care delivery locally.
+
+# CLINICIAN-EDUCATOR CAREER PATHS: THE IMPACT OF ADVANCED EDUCATION TRAINING ON ACADEMIC SUCCESS AND CAREER SATISFACTION
+
+Daniella A. Zipkin1; Subha Ramani2; Corrie A. Stankiewicz3; Margaret C. Lo4; Alia Chisty5; Irene Alexandraki6; Maria A. Wamsley7; Scott D. Rothenberger8; Kwonho Jeong8; Carla Spagnoletti. 1Duke University, Durham, NC; 2Brigham and Women's Hospital, Harvard Medical School, Boston, MA; 3University of Pennsylvania SOM, Narberth, PA; 4University of Florida College of Medicine, Gainesville, FL; 5Temple, Philadelphia, PA; 6Florida State University College of Medicine, Tallahassee, FL; 7University of California, San Francisco, San Francisco, CA; 8University of Pittsburgh, Pittsburgh, PA. (Control ID #3184925)
+
+# CLINICAL TRIAL EVIDENCE SUPPORTING FDA APPROVAL OF NEW DRUGS OVER THREE DECADES, 1995-2017
+
+Audrey Zhang3; Jeremy Puthumana1; Nilay Shah2; Joseph S. Ross1. 1Yale University School of Medicine, New Haven, CT; 2Mayo Clinic, Rochester, MN; 3New York University School of Medicine, New York, NY. (Control ID #3183972)
+
+# BACKGROUND:
+
+The US Food and Drug Administration (FDA) possesses regulatory flexibility in determining the evidence necessary to support new drug approval. This has increasingly been exercised through special regulatory programs, such as Accelerated Approval and Breakthrough Designation. These permit the use of different clinical evidentiary standards to support approval, such as surrogate markers of disease (e.g. biomarkers) rather than clinical (e.g. overall survival) endpoints. This study examined whether clinical trial evidence supporting FDA approval of new drugs has changed over three decades.
+
+# METHODS:
+
+We performed a cross-sectional analysis of all new drugs (small molecule and biologic) approved by the FDA between 1995-1997, 2005-2007, and 2015-2017. Using the publicly-available Drugs@FDA database, we identified drug approvals and classified them by therapeutic area and use of special regulatory programs. Next, we identified the pivotal efficacy trials supporting each drug's approval, and characterized use of randomization, double-blinding, choice of comparators and endpoints, number of participants, and trial duration. Comparisons between time periods were performed using chi-square and Kruskal-Wallis tests. Analyses were repeated aggregated by indication and stratified by product therapeutic area and use of special regulatory programs.
+
+# RESULTS:
+
+We identified 273 new drugs approved by the FDA in these 3 periods, representing 339 indications supported by 802 pivotal efficacy trials. The proportion of approvals receiving priority review increased from 1995-1997 to 2015-2017 (34% vs. 61%; p<0.001), as did those receiving an orphan designation (13% vs. 38%; p<0.001). Rates of accelerated approval did not differ (11% vs. 17%; p=0.23). The most common therapeutic area for approvals differed over time (infectious disease [34%] in 1995-1997 vs. oncology [27%] in 2015-2017; p=0.002). The median number of pivotal trials supporting an indication decreased from 2 (IQR 2-3) to 1 (IQR 1-3; p<0.001). The proportion of indications based on at least one pivotal trial using an active comparator decreased (57.3% vs. 30.2%; p<0.001), whereas use of only single-arm trials increased (4.0% vs. 17.0%; p=0.005). The median number of enrolled patients per indication remained steady (774 [IQR, 464-1314] vs. 816 [IQR, 199-2112]; p=0.47). The proportion with at least one pivotal trial of at least 6 months' duration increased (25.8% vs. 46.2%; p=0.006). Differences in pivotal trial characteristics over time were consistent in analyses stratified by therapeutic area and use of special regulatory programs.
+
+# CONCLUSIONS:
+
+Clinical trial evidence supporting new drugs at the time of approval has changed over time, in part reflecting increasingly flexible evidentiary standards. This was consistent regardless of use of special regulatory programs. Diminished quantity and quality of premarket evidence suggests an increasing need for continued evaluation after market approval.

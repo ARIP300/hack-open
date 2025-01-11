@@ -1,0 +1,17 @@
+# International Journal for Educational and Vocational Guidance
+
+Factors. The factors’ α, Ω, and r kk met good to excellent results. As for the AVE, the second factor (social capital and networking) was slightly below 0.50. In addition, the square root of the second factor’s AVE was below the magnitude of the correlation to the first factor (human capital and career development). This may suggest the factors are indistinguishable. If item 12 (which met low factor loading) was eliminated, the AVE would have improved to 0.50.
+
+Correlations between the MME scores and motivational and emotional features are displayed in Table 2. As expected, most correlations to career self-efficacy were moderate, except for the correlation of career identity and self-management to career decision-making self-efficacy, which was strong. Moreover, rather than moderate, correlations of career identity and self-management to life projects were strong, with correlations to other MME dimensions being moderate. As expected, correlations to satisfaction with life were weak. Finally, correlations to impact were moderate, as expected; whereas correlations to distance were unexpectedly weak.
+
+# Table 2
+
+Exhibits the multicollinearity test across additional measures. Tolerance and VIF suggest high collinearity between the two LPS factors. Mahalanobis distance suggested one to two potential atypical cases in each regression model. We tested regression models with and without the outliers and the results were very similar. Thus, outliers were retained. Lastly, Cook distance did not identify any influential cases.
+
+# Table 3
+
+Summarizes the final regression models considering only the significant independent variables. All models were significant, with R2 ranging from 25.4% (first factor) to 50.1% (third factor). Career decision-making self-efficacy was significant in all models with greater impact on environmental monitoring, and human capital and professional development. Career exploration self-efficacy was a significant predictor of human capital and professional development, and social capital and networking. Impact was significantly associated with social capital and networking and, especially, environmental monitoring. Life project’s identification and satisfaction with life were significant predictors of career identity and self-management, and environmental monitoring, respectively. Life project’s involvement and distance were not significant in any regression model.
+
+# Table 4
+
+Reports the regression’s statistical assumptions. The standardized residuals were all between −2.0 and 2.0. Durbin–Watson statistics were all close to 2.0, and Breusch–Pagan tests were all nonsignificant, which suggest homoscedasticity. Shapiro–Wilks tests suggest the distribution of regressions’ residuals were not normal, except for the model predicting career identity and self-management. The visual inspection of predicted values versus standardized residuals graphics indicated no problems with homoscedasticity or normality. Even if normality is not assumed (as suggested by Shapiro–Wilk tests), the 95% confidence intervals (Table 3) after bootstrapping did not reach zero, which suggest the independent variables are still significant after resampling.

@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# RESTRICTIONS ON PRIMARY CARE ACCESS FOR PATIENTS RECEIVING OPIOIDS
+
+Pooja A. Lagisetty; Nathaniel Healy; Claire Garpestad; Renuka Tipirneni; Amy Bohnert. University of Michigan, Ann Arbor, MI. (Control ID #3184093)
+
+# BACKGROUND:
+
+New policies, including mandated prescription drug monitoring programs, have achieved an intended reduction of opioid prescribing. However, policies may create barriers that lead physicians to stop prescribing opioids entirely. Patients may thus encounter difficulties finding primary care providers (PCPs) willing to care for them if they take opioids. We aimed to assess provider willingness to accept and continue prescribing opioids to a new patient with pain and to determine if this differs across payer types.
+
+# METHODS:
+
+We randomly selected 667 Michigan primary care clinics between June-September 2018. Via calls, we surveyed clinics about the number and type of prescribers, insurances accepted, appointment availability, and whether their providers use medications to treat opioid-use disorders (OUD). Clinics accepting new patients with both Medicaid and private insurance were deemed eligible for inclusion and received a second call from a simulated patient, randomized to either having Medicaid or Blue Cross Blue Shield (BCBS) insurance. Research assistants (RAs) posed as the child of an adult woman needing a new primary care appointment. In this script, RAs revealed the patient's health insurance and asked, "Before we get too far, is it okay if my mother takes opioids for pain?" RAs documented each clinic's willingness to provide care. Clinic characteristics were summarized via descriptive statistics. Generalized logistic regression models estimated the odds of new opioid patient acceptance by insurance type, clinic size, and availability of OUD medications.
+
+# RESULTS:
+
+Of the 667 clinics screened, 194 were eligible for study inclusion (29%). Ninety-four clinics (48%) were randomized to Medicaid and 101 (52%) to BCBS. Of these clinics, 41% stated that their providers would not prescribe opioids to the simulated patient. 42% of clinics were willing to set up an initial appointment. 33 clinics (17%) requested more information prior to making a decision. Compared to single-provider clinics, clinics with >3 providers were more likely (OR 2.99 [95% CI 1.48-6.04]; p=0.002) to accept new patients on opioids. There was no difference in access based upon insurance status (OR 0.92 [95% CI 0.52-1.64]; p=0.78) or whether the clinic offers OUD treatment (OR 1.10 [95% CI 0.45-2.69]; p=0.83).
+
+# CONCLUSIONS:
+
+Forty-one percent of clinics were not willing to schedule an appointment for a new patient requesting opioids for chronic pain. Insurance type was not related to willingness to accept a new patient on opioids. These findings may reflect clinicians' discomfort with managing opioid therapy for chronic pain or treating patients with OUD. Larger clinics may have more pain and behavioral health resources, making it easier for providers to care for this population. PCP's reluctance to prescribe opioids may have unintended adverse health outcomes, including increased transition to illicit opioid-use and reduced access to treatment for other comorbidities.
+
+# RETROSPECTIVE EVALUATION OF RENAL MEDICATION RELATED CLINICAL DECISION SUPPORT (CDS) ALERTS AND OVERRIDES IN THE INPATIENT SETTING POST IMPLEMENTATION OF A COMMERCIAL EHR.
+
+Sonam N. Shah1, 2; Diane L. Seger3, 1; Mary Amato1, 2; David W. Bates1, 4. 1Brigham and Women's Hospital, Jamaica Plains, MA; 2MCPHS University, Boston, MA; 3Partners Healthcare System, Wellesley, MA; 4Harvard University, Boston, MA. (Control ID #3180151)
+
+# BACKGROUND:
+
+Preventable adverse drug events (ADEs) are injuries from medications due to errors. One of the most common medication errors is inappropriate dosing for patients with renal insufficiency. Studies suggest about a third of inpatients with renal insufficiency receive incorrect doses of medications that should be dose-adjusted. Given their association with an increase in hospital length of stay, costs, and morbidity and mortality, efforts have been made to reduce ADEs resulting from these dosing errors. Medication-related CDS have been identified as an effective way to reduce ADEs. We analyzed the appropriateness of renal medication dose CDS alert triggers, number of overridden alerts, and the potential harm that is caused.
+
+# METHODS:
+
+We performed a retrospective evaluation of renal medication dose CDS alerts in the inpatient setting of a large academic medical center from 5/2017 to 4/2018. Included patients had a creatinine above 3.0 and an overridden renal CDS alert trigger (n = 1352). The primary outcome was appropriateness of the alert trigger and overrides assessed by two reviewers. Secondary outcomes included incidence of ADEs that resulted from the overridden alert based on documentation in the patients' medical record.
+
+# RESULTS:
+
+Of 1369 alert triggers identified that required renal dose adjustments, those involving medications given for diagnostic procedures or not administered to the patient were excluded, leaving 1352 alerts considered relevant for evaluation (98.8%). Of these alert triggers, 83 (6.1%) were considered appropriate and 1269 (93.8%) were considered inappropriate. Override rates for the renal CDS alert triggers was 100%, with 1291 (95.6%) of the overrides of considered appropriate, and 61 (4.44%) considered inappropriate. Appropriate overrides were largely due to the following medications: KCL (51.3%), chlorothiazide (28.6%), aspirin (21.0%), cholecalciferol (19.3%), magnesium oxide (11.1%), and ergocalciferol (10.6%). Inappropriate overrides were largely due to the following medications: duloxetine (16.7%), phenazopyridine (11.7%), fenofibrate (6.67%), cetirizine (6.67%), and alendronate (5.0%). Identification of ADEs potentially associated with inappropriate CDS overrides was uncommon (n = 2). Further analysis is underway to identify if any ADEs occurred for appropriate CDS overrides.
+
+# CONCLUSIONS:
+
+Nearly all renal medication dose alert triggers were considered inappropriate; thus, the appropriateness of overrides was high. The risk for alert fatigue could be minimized by increasing the specificity and clinical significance of displayed alerts, while decreasing the number of insignificant alerts. Specific recommendations which could help improve the accuracy of these alerts included the differentiation of the dose prescribed, whether the patient is currently receiving hemodialysis, and patient specific factors such as ordered monitoring lab values.
+
+# RIGHT DIAGNOSIS, WRONG DRUG: ANTIBIOTIC PRESCRIBING PATTERNS FOR ACUTE SINUSITIS IN AN INTERNAL MEDICINE RESIDENT CLINIC
+
+Ryan Kipp1; Eliana Hempel2; Gregory Caputo2; Thomas W. Abendroth4; John van Harskamp; Nicholas Duca2. 1Penn State College of Medicine, Hershey, PA; 2Penn State Health Milton S. Hershey Medical Center, Hershey, PA; 3Penn State Hershey Medical Center, Hershey, PA; 4Penn State Milton S. Hershey Medical Center, Hershey, PA. (Control ID #3185550)
+
+# BACKGROUND:
+
+Acute rhinosinusitis (ARS) accounts for over 23 million outpatient visits each year. The majority of these infections are viral in etiology, and do not require antibiotic treatment. It is estimated that antibiotics are inappropriately prescribed for patients with ARS in 41% of cases. Inappropriate antibiotic use exposes patients to drug-related adverse events, and promotes bacterial resistance. Though inpatient antibiotic stewardship programs have proved impactful, ambulatory antibiotic stewardship programs are not well documented. As a first step to planning

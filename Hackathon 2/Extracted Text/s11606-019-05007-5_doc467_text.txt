@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+the patient's deficits. As we searched we learned about DPHL as a post-hypoxic syndrome. We realized that the timing of her symptoms as well as clinical symptoms, EEG findings, and imaging findings matched the diagnosis. We watched as she recovered over time with supportive care. We hope this case helps recognize this rare entity as a potential diagnosis following hypoxic brain injury. Retrospectively detecting an initial recovery followed by a sudden deterioration in neurologic status will help move DPHL on clinician's differential.
+
+# CONCLUSION:
+
+Consider DPHL in patients with hypoxic brain injury followed by initial recovery and then delayed neurologic deficits.
+
+# IT IS NOT COMMON COLD, IT IS AN UNCOMMON COLD IN AN ARIZONAN
+
+Alvaro J. Altamirano; Roshanak Habibi. Banner university medical center, Tucson, AZ. (Control ID #3179495)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize an uncommon cause of pericardial effusion in a patient who failed outpatient treatment of upper respiratory tract infection.
+
+# CASE:
+
+28 year-old male with no past medical history presented to emergency department in Tucson, Arizona with productive cough and progressive shortness of breath of one month. He was treated in urgent cares for upper respiratory tract infection with courses of levofloxacin, doxycycline, azithromycin, prednisone, fluticasone and ventolin; which did not improve his symptoms. Associated symptoms were nausea, fever, chills and night sweats. He was a nonsmoker, with no recent travel history, no sick contact and no tuberculosis (TB) exposure. He was from Korean descent, raised in Tucson. Social and family history were unremarkable. Abnormal laboratory data were white blood cell of 16, erythrocyte sedimentation rate of 52, C-reactive protein of 78 and a positive serology for coccidioidomycosis (positive enzyme immunoassay for immunoglobulin M and G antibody with reflex confirmation). Coccidioides complement fixation titer was 1:32. Sputum culture, QuantiFERON TB gold, respiratory viral panel and human immunodeficiency virus testing were all negative. His chest x ray and commuted tomographic scan of chest and abdomen showed bilateral pulmonary infiltrates, hepatosplenomegaly, generalized lymphadenopathy and a moderate pericardial effusion. Echocardiogram also confirmed pericardial effusion with no signs of tamponade. EKG was normal. He was rehydrated and started on Fluconazole 400 milligram daily and 5 day course of Colchicine. He did not require pericardiocentesis or tissue biopsy, since the diagnosis seemed straight forward. His symptoms gradually resolved in course of few weeks and in Valley fever clinic follow up in Tucson his antifungal treatment continued for total of 6 months.
+
+# IMPACT/DISCUSSION:
+
+Coccidioidomycosis, an infection with fungi Coccidioides immitis and C. posadasii, endemic of southwestern US is a rare disease, usually presented as community acquired pneumonia. Extrapulmonary manifestations are reported less than 1% in different studies. Pericardial involvement is unique presentation with less than thirty cases reported in literature. Presenting symptoms are usually non-specific and resemble upper respiratory illness and pneumonia. Male sex and ethnicities such as Asians are more likely to develop disseminated disease. Any organ can be involved, with skin, lymph nodes, bones, and central nervous system being the most common extrapulmonary sites. Complement fixation titer ranges from 1:2 to >1:32 in disseminated disease. Amphotericin B and fluconazole are treatment options. Misdiagnosis may lead to continued morbidity and in our case disseminated disease with potentially fatal cardiac involvement.
+
+# CONCLUSION:
+
+Pericardial effusion in our case could be life threatening if eventual Coccidioides screening was not sent. Pattern recognition of this infection in endemic areas should prompt an internist to send diagnostic studies early.
+
+# IT IS WHAT IT IS (UNTIL IT ISN'T): POLYMYALGIA RHEUMATICA AS A SUBSET OF GIANT CELL ARTERITIS
+
+Mahmuda Khan1; Sara Abrahams4; Diane Horowitz3; Eun Ji Kim2; Nancy A. LaVine1. 1Northwell Health, New Hyde Park, NY; 2Northwell Hofstra School of Medicine, Lake Success, NY; 3Northwell Health, Manhasset, NY; 4 Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY. (Control ID #3170068)
+
+# LEARNING OBJECTIVE #1:
+
+Review diagnostic criteria for polymyalgia rheumatica (PMR) and giant cell arteritis (GCA).
+
+# LEARNING OBJECTIVE #2:
+
+Assess for GCA in patients with PMR refractory to initial treatment.
+
+# CASE:
+
+82 y/o man with coronary artery disease presented with abrupt right shoulder pain for 3 days. Abduction precipitated the pain, but it was improving. He returned 10 days later c/o of bilateral leg/shoulder pain, leg weakness, and fatigue. His ambulation was limited; he could not climb stairs. He denied fever, small joint pain, headache, jaw pain or visual changes. Exam noted pain with shoulder abduction >90 degrees and hip flexion, and upper/lower proximal muscle weakness. Being suspicious of polymyalgia rheumatica (PMR), ESR was obtained and was elevated at 49 (normal <20), ANA and anti CCP were negative. A diagnosis of PMR was made and prednisone 10mg/day was started. His pain improved slightly, but symptoms continued even with 20mg. Despite absence of headaches/visual symptoms, the lack of improvement raised the concern for giant cell arteritis (GCA). Transcranial Doppler revealed concentric wall thickening of the right temporal artery, confirming a diagnosis of GCA. Prednisone was increased to 30mg daily with complete resolution of symptoms.
+
+# IMPACT/DISCUSSION:
+
+PMR is an inflammatory condition commonly diagnosed in older patients with proximal body aches, morning stiffness, and elevated ESR, which rapidly responds to low dose glucocorticoids (10-20 mg prednisone/daily). GCA, another inflammatory condition of older adults, is associated with headaches, vision changes, jaw pain and elevated ESR, requiring higher dose prednisone (40-60mg/day) with a goal of preventing vision loss. 40-60% of GCA patients can have PMR like symptoms, and GCA should be suspected in patients with PMR who have an inadequate response to initial therapy. The gold standard for GCA diagnosis is temporal artery biopsy, thought with a significant false negative rate. Doppler US of the artery is an increasingly recognized noninvasive diagnostic tool; the "halo sign" (a hypoechogenic area of edema) is highly specific (80-97%) for GCA. Although our patient lacked GCA symptoms (headaches, blurry vision, scalp tenderness, jaw pain), the lack of clinical improvement with appropriate steroids prompted further evaluation and diagnosis of GCA with treatment and clinical response.
+
+# CONCLUSION:
+
+This case is an important example of an atypical presentation of GCA, a "do not miss" diagnosis. The typical clinical picture of GCA includes headache, visual changes, or jaw pain, in addition to elevated inflammatory markers. Our patient presented with achiness, fatigue, and elevated ESR. Take Home Points: PMR can be the first presentation of GCA, which should be suspected in patients who do not respond to low-dose glucocorticoids. Doppler US showing concentric wall thickening of the temporal arteries ("halo sign") should be considered as an alternative diagnostic test to the gold standard of temporal artery biopsy for suspected subclinical GCA in patients with PMR.
+
+# IT'S HAMMER TIME
+
+Ashley Kang; Chaya Abelow. Montefiore Medical Center, Bronx, NY. (Control ID #3181268)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize signs and symptoms of hypothenar hammer syndrome.
+
+# CASE:
+
+A 55-year old male smoker presented with left hand pain and dusky finger discoloration for one month. On exam he had distal dry gangrene of the left fourth and fifth digits with an absent ulnar pulse. Labs

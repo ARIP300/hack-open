@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Mentorship Programs for Underrepresented in Medicine (URiM) Physicians
+
+have disproportionately low numbers of medical school graduates from racial and ethnic groups that are described as underrepresented in medicine (URiM). Mentorship has been proposed as one way to increase the recruitment, retention and experience of URiM physicians and trainees. Our objective was to identify and describe mentoring programs for URiM physicians in academic medicine and to identify barriers and facilitators to success of such programs.
+
+# METHODS:
+
+We searched PubMed, PsycINFO, ERIC, and Cochrane databases following PRISMA guidelines in June 2017. We included original publications that described a mentoring program, exclusive of mentoring for a procedural skill, which included academic physicians or trainees from URiM backgrounds, and were conducted in the US. Two reviewers independently evaluated all records for eligibility, and abstracted data from included studies.
+
+# RESULTS:
+
+Our search returned 3308 results, of which 2632 references were excluded based on title and abstract. We performed a full text review on 669 manuscripts and 32 articles met our inclusion criteria. Of those, 13 programs were specifically created for URiM participants. Nine of the programs were developed for junior faculty, seven for medical students; two for residents and none for senior faculty. Frequently cited objectives of these programs were to improve research, diversify representation in specific specialty areas and recruit and retain URiM participants. The dyadic model of mentoring was the most common, however, several novel models were described which emphasized mentorship across different training levels. Program evaluations were primarily survey-based with high satisfaction scores, although some articles reported objective outcomes including publications, retention, and promotion.
+
+# CONCLUSIONS:
+
+This review describes a range of successful mentoring programs for URiM physicians. The traditional dyad model of mentorship remains common, though novel approaches aimed at improving the pipeline are emerging. Overall, the mentorship programs are met with high satisfaction regardless of mentor demographics, and can promote improvement in academic productivity, and recruitment and retention. Our review describes many mentoring programs for URiM physicians, most of which can be readily adapted by institutions depending on their local resources and goals to help promote and URiM physicians in academic medicine.
+
+# META-ANALYSIS OF CT PULMONARY ANGIOGRAPHY YIELD IN US EMERGENCY DEPARTMENTS
+
+Safiya Richardson 1 ; Anne Press 2 ; Timothy Wigand 3 ; Juliana A. Rosentsveyg,1; Patricia Driscoll3; Alexander O'Connell4; Saori Herman3; Janice Lester3; Sundas Khan3; Thomas McGinn3. 1Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY; 2NYU School of Medicine, New York, NY; 3Zucker School of Medicine at Northwell/Hofstra, Manhasset, NY; 4New York Presbyterian, New York City, NY. (Control ID #3185364)
+
+# BACKGROUND:
+
+Every year about 2.4 million CT Pulmonary Angiography (CTPA) scans are performed to evaluate for pulmonary embolism in Emergency Departments (ED) in the United States. Each CTPA carries a 14% risk of contrast induced nephropathy and a lifetime malignancy risk that can be as high as 2.76%. Incidental findings requiring diagnostic follow up are found in 24% of tests, increasing both costs and harms from repeat imaging. CTPA yield (percent of studies positive for PE) is a measure of appropriateness of use and has not been reviewed systematically. We conducted a systematic review and meta-analysis of CTPA yield in US EDs to establish a typical yield for our current practice environment and to determine if there have been changes to this yield over time.
+
+# METHODS:
+
+Cochrane, Embase, PubMed and Web of Science were searched as data sources. Observational cohort studies of adults were selected that measured CTPA yield in all ED patients referred for testing with clinical suspicion of PE. The titles and abstracts of studies identified by the search were independently reviewed by two reviewers. Studies were evaluated for exclusion criteria. Remaining studies were reviewed in full text by two independent reviewers. We extracted study characteristics and CTPA yield from the remaining studies. CTPA yields were estimated using random effects models. The I2 test was used to assess heterogeneity in CTA yields among the studies.
+
+# RESULTS:
+
+Our search identified a total of 2,746 potentially relevant articles. Of those 296 remained after title and abstract review and 31 remained after full text review. The 31 studies included in our meta-analysis included a total of 42,670 patients. These studies were divided into three time periods for which CTPA yield was calculated. For time periods 1997-2002, 2003-2007 and 2008-2013 the yields were 11% (9%, 14%), 8% (6%,9%) and 8% (6%, 10%) respectively. The studies were heterogeneous for all calculated pooled CTA yields (I2 =82%, 94%, and 86% respectively).
+
+# CONCLUSIONS:
+
+This is the first study to systematically review CTPA yield in US EDs. Establishing a national benchmark for yield assists health systems seeking to monitor and increase CTPA yield as a part of quality improvement efforts. Future directions include further stratification by type of health system and analysis of non-US yields.
+
+# METRICS OF RETENTION IN HIGH-RISK POPULATIONS: DECREASING "NO-SHOW" APPOINTMENTS THROUGH BEHAVIORAL ECONOMICS
+
+Phillip Groden; Alexandra Capellini; Erica Levine; Bernard Ortega; Sandeep Kishore. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3162708)
+
+# BACKGROUND:
+
+Studies have shown that a minority of the U.S. population—those often disconnected from care and beset with multiple chronic conditions—accounts for a substantial portion of annual health care spending. Interventions for these high-risk populations, such as Mount Sinai's Peak Health practice, aim to improve patient outcomes while reducing overall utilization and costs. "No-show" appointments directly oppose these goals by increasing the likelihood of ED utilization, inpatient admissions, and predictors of poor health. High-risk interventions could therefore benefit from reducing no-show appointments by improving rates of patient retention. However, no standard for measuring retention exists within this setting, and reporting of retention rates across the literature for such interventions is sparse and inconsistent. Adoption of two previously reported metrics promises to capture a thorough picture of patient retention in high-risk populations: encounter adherence and encounter constancy. The application of these metrics is depicted through a study assessing the effects of a behavioral economics-based intervention on patient retention within Mount Sinai's Peak Health practice.
+
+# METHODS:
+
+The intervention consisted of specialized appointment reminder cards and clinic signage designed to improve the likelihood of successful patient encounters. At six months, appointment cards were transitioned to a computer format to promote provider adoption. Encounter adherence, a ratio of successful patient-provider interactions, is the number of completed encounters divided by all scheduled encounters, excluding those cancelled or rescheduled. Encounter constancy, a measure of consistent interactions across time, is defined as the number of 3-month intervals annually with at least one successful encounter (range=0-4), or the percentage of patients maintaining a specific constancy value.
+
+# RESULTS:
+
+At baseline, Peak Health's encounter adherence rate over six months was 74.7% (1282/1716); following introduction of the intervention, the encounter adherence rate improved over six months to 76.5% (1302/1701; p=0.2). At twelve months, encounter adherence will be compared to assess if use of the computer-based appointment reminders had an appreciable effect on retention, and encounter constancy will be compared to baseline to evaluate the effect of the intervention on the consistency of interactions across time.
+
+# CONCLUSIONS:
+
+Within the first six months, the behavioral economics-based intervention did not appear to significantly improve

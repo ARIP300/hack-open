@@ -1,0 +1,16 @@
+# Björk et al. BMC Public Health (2018) 18:838
+
+# PHCC staff trained in intervention
+
+|All managers, GP:s and RC:s at the 11 PHCC:s| |
+|---|---|
+|GP:s n= 66|recieved information|
+|RC:s n =13| |
+
+# Figure 1: Flow chart of enrolment, allocation and baseline
+
+[46]. For example, the effect of the intervention on RTW might depend on the patient’s symptom severity, the employer’s readiness for work adaptation, or on the caregivers’ adherence to the protocol. In order to conduct sub-group analysis within the intervention group, a follow-up questionnaire is sent to the patients’ home address by mail at six and 12 months after inclusion. In addition to questions about the rehabilitation process, the questionnaire contains the same items as the baseline measurement. For example we will explore how gender, age, occupation, symptom severity, employer activities and RTW motivation affect RTW.
+
+# The process evaluation
+
+The target of the process evaluation is the participating PHCCs. The register data that was collected in order to select and match centers before randomization were completed with data on work environment, staff composition, staff turnover and quality of care before and during the intervention period. The monthly follow-up

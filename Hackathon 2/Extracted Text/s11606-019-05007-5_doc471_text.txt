@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# KEEP YOUR EYE ON THROMBI IN RENAL CELL CARCINOMA PATIENTS
+
+Kanishka G. Patel; David Yin; Sheira Schlair. Albert Einstein College of Medicine/Montefiore Medical Center, Bronx, NY. (Control ID #3184717)
+
+# LEARNING OBJECTIVE #1:
+
+Outline the differential diagnosis of an intracardiac mass in renal cell carcinoma
+
+# LEARNING OBJECTIVE #2:
+
+Discuss differentiation and management of bland versus tumor thrombi
+
+# CASE:
+
+A 66 year old man with stage IV renal cell carcinoma (RCC), a non-occlusive IVC tumor thrombus and end-stage renal disease on hemodialysis via a right internal jugular permacath was admitted with a 5-day history of fever and weakness. He had a temperature of 99.3, a WBC count of 17.2 and was found to have Klebsiella bacteremia. Physical exam revealed a new systolic murmur, which prompted echocardiogram, showing a large, mobile, multi-lobed structure in the right atrium likely attached to the permacath, suggestive of thrombus (could not rule out vegetation). Antibiotics and heparin were started. CT showed a chronic IVC tumor thrombus that did not extend into the SVC or right atrium, suggesting the right atrial mass was not tumor thrombus. Permacath was removed and to definitively rule out embolization of the right atrial thrombus, CTPE was performed, revealing a right lower lobe pulmonary embolism and warfarin was initiated.
+
+# IMPACT/DISCUSSION:
+
+RCC is a highly vascular tumor that can invade through the renal vein and into the IVC, with 10-15% of cases resulting in tumor thrombus formation. Less commonly (1%), the tumor may extend into the right cardiac chamber. Accurate differentiation of bland from tumor thrombus is crucial for proper management. While both bland and tumor thrombi present as vessel filling defects, a malignant thrombus has continuity with the primary tumor, enhancement and vessel expansion on CT or MRI. Because a bland thrombus results from IVC compression by a renal mass, it presents as vessel narrowing on imaging. While nephrectomy and thrombectomy treat tumor thrombi, anticoagulation is used for bland thrombi. Though tumor thrombus dislodgement is a known complication of thrombectomy, the development of tumor emboli outside the lung in the absence of such manipulation is unclear. The differential diagnosis of an intracardiac mass in a septic RCC patient can span different etiologies including infectious (vegetation), malignant (primary tumor, metastases, tumor thrombus) and hematologic (bland thrombus). As imaging was strongly suggestive of a thrombus, several key details pointed to bland over tumor thrombus. Risk factors for thrombosis, including a hypercoagulable state due to malignancy as well as foreign body effect from the IVC tumor thrombus and permacath, and attachment of the mass to the permacath raised our suspicion for a bland thrombus. Moreover, lack of IVC thrombus extension into the SVC and right atrium suggested the mass was more likely bland thrombus. Thus, anticoagulation and antibiotics were given empirically.
+
+# CONCLUSION:
+
+This case demonstrates the importance of reviewing all clinical data when narrowing the differential diagnosis for an intracardiac mass. Moreover, identification of thrombi in RCC patients warrants subsequent differentiation of bland from tumor thrombus for effective management.
+
+# KIKUCHI FUJIMOTO DISEASE: A RARE BUT IMPORTANT CAUSE OF LYMPHADENOPATHY
+
+Melanie Parikh1; Christina Thoonkuzhy2. 1Case Western Reserve University, Cleveland, OH; 2University Hospitals Cleveland Medical Center, Cleveland, OH. (Control ID #3184869)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of Kikuchi Fujimoto Disease (KFD)
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish KFD from other causes of lymphadenopathy
+
+# CASE:
+
+A 30-year-old African American female with past medical history of asthma and Epstein-Barr virus, presented to the ED with an acutely worsened headache with associated fevers and chills, which were no longer responding to OTC ibuprofen. The patient reported a two-month history of chills, nausea, diffuse muscle pain, neck pain, throbbing headache, and morning joint stiffness, which would last for more than an hour. She had visited multiple emergency departments, but no definitive diagnosis had been made. Physical exam on admission was significant for tender posterior chain, preauricular, and anterior cervical chain lymphadenopathy, especially on the right side of the neck, severe headache and fevers reaching a Tmax of 104. Previous autoimmune workup showed positive ANA with a titer of 1:320, but all other specific autoimmune markers, including complement, ACE and ANCA were negative. Lumbar puncture did not show evidence of an infectious process, CT head and MRI brain were normal. A MRV was done to rule out cerebral thromboembolism, but evidence of benign intracranial HTN was seen. Patient was started on topiramate, with clinical improvement. Excisional biopsy was conducted which showed an infiltrate composed of immunoblasts, crescentic histiocytes and abundant apoptotic or karryohectic debris, thus making the diagnosis of Kikuchi-Fujimoto Disease.
+
+# IMPACT/DISCUSSION:
+
+Kikuchi-Fujimoto disease (KFD), or histiocytic necrotizing lymphadenitis, is a benign and self-limited disease that mainly affects young women, especially those of East Asian heritage. Patients typically present with localized lymphadenopathy, fever, and leukopenia in about 50% of cases. Although KFD is not very common, it should be included in the differential diagnosis of lymphadenopathy because its natural history and treatment differ dramatically from those of lymphoma, tuberculosis, and systemic lupus erythematous (SLE). The lymphadenopathy in KFD usually resolves spontaneously in 1-4 months without any treatment. The distinguishing factor is karryohectic debris on lymph node biopsy or aspiration. Without appropriate histologic diagnosis, a patient with KFD may undergo unnecessary testing and treatment for malignant lymphoma or tuberculosis. Once the diagnosis is made, it is important to maintain close follow-up with these patients to monitor for the development of SLE. KFD is known to occur in conjunction with SLE and some experts say that KFD can be an unusual presentation of SLE.
+
+# CONCLUSION:
+
+KFD should be considered in young patients presenting with unilateral cervical lymphadenopathy. Excisional biopsy is the key to diagnosis in these cases. Patients should be managed conservatively with close follow-up.
+
+# KRATOM: A SO-CALLED LEGAL OPIOID
+
+David R. Henkin; Brendan Sullivan; Joshua S. Smith. Henry Ford Hospital, Detroit, MI. (Control ID #3162271)
+
+# LEARNING OBJECTIVE #1:
+
+Familiarize the reader of the substance called kratom

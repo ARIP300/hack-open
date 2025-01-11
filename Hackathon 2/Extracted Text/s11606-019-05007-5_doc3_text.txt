@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+Among the 735 participants with LEP surveyed, half (49%) reported speaking in their preferred non-English language directly with bilingual front desk staff, and 38% directly with MAs. However, one-third (30% with front desk, 32% with MAs) used English to communicate. Among those using English, 76% rated their ability to speak English as ‘not well' or ‘not at all'. Professional interpreter use was minimal (3%) with ancillary staff overall. Communication patterns varied by language, with Spanish-speakers using English more frequently than other Chinese-speakers (51% vs 25% of Cantonese and Mandarin-speakers). In semi-structured interviews, front desk staff and MA's reported that often patients' limited English was sufficient for basic tasks, although they acknowledged that more complex tasks required professional interpretation (e.g. medication review). However, they rarely accessed professional interpretation due to perceived time constraints. Physicians commented that they took on extra tasks during visits for patients with LEP, such as medication reconciliation, because ancillary staff were not using interpreters and then not completing the tasks they normally would with English-speakers.
+
+# CONCLUSIONS:
+
+Our results highlight a previously undocumented communication challenge in ambulatory care: minimal professional interpreter use by front desk staff and MAs leading to many patients with LEP getting by with very limited ability to communicate in English. As a result, physicians feel the burden of extra tasks during already complex visits. Suboptimal communication with ancillary staff makes true team-based care challenging, and must be addressed in order to provide high quality, equitable care for LEP populations.
+
+# "SO I DO HAVE A COCKTAIL. IT'S VERY POPULAR": NON-OPIOID MEDICATION AND SUPPLEMENT MISUSE AMONG OPIOID USERS EXPERIENCING HOMELESSNESS
+
+Avik Chatterjee 4, 1; Shankar Ramkellawan 2; Diego B. Lopez 3; Jessie M. Gaeta 4; Kamala Smith 4; Travis P. Baggett 5, 4. 1 Harvard Medical School, Cambridge, MA; 2 Harvard College, Boston, MA; 3 Harvard Medical School, Boston, MA; 4 Boston Health Care for the Homeless Program, Boston, MA; 5 Massachusetts General Hospital, Boston, MA. (Control ID #3175784)
+
+# BACKGROUND:
+
+While the impact of the opioid epidemic in the United States continues, certain aspects of the epidemic have changed, requiring updates in clinical practice. Recent evidence suggests that the practice of combining opioid use with non-opioid medications to alter the opioid high is common, though little is known about this phenomenon and how best to address it.
+
+# METHODS:
+
+We recruited adults who reported current opioid use from a low-threshold engagement center targeting individuals experiencing homelessness in Boston, Massachusetts. We conducted semi-structured interviews to explore the practice of combining non-opioid medications and other substances with opioids. We used Borkin's immersion/crystallization approach to analyze transcripts to uncover themes.
+
+# RESULTS:
+
+Twenty-two individuals completed interviews. Mean age of participants was 36.3 years, and 36% (8/22) reported female gender. Fifty-nine percent (13/22) reported White race, 36% (8/22) reported Black race, and 64% (14/22) reported Latino ethnicity. Combining substances with opioids to alter the high was a common practice: "So I do have a cocktail. It's very popular." Participants reported use of clonidine, gabapentin, benzodiazepines, Phenergan, Adderall, Seroquel, barbiturates, Nyquil, Robitussin, and Tylenol PM as well as alcohol and candy. Participants most commonly reported purchasing these substances on the street, but less commonly reported stealing them or getting them from a doctor. Participants identified several purposes of combining substances: to augment the high ("I heard [gabapentin] gets you a higher high like really hits you so I wanted to get that"), to alter the high ("Never done mushrooms but [Robitussin is] similar to that"), or to offset the opioid high ("So, you know, the sugar [from candy] would lift up the high"). Importantly, participants also reported combining substances to treat psychiatric symptoms: "I use drugs to self-medicate. If I [feel] depressed." Individuals commonly reported learning about combining substances "from people on the street" but also reported learning from the internet and television: "Ah, from TV. [Nyquil]'s supposed to make you sleepy so I thought it would give the same effect with the opioid." Safety was either not a concern or was outweighed by perceived benefits: "When I'm doing it I don't care about safety. I be wanting to feel nothing." Participants also felt that combining over-the-counter or prescription medications would be safe: "Not think about [safety] cuz it's not that strong like the pills. It's just for sleep."
+
+# CONCLUSIONS:
+
+Combining a wide variety of substances with opioids is common, and driven by a diverse range of motives. Clinicians who care for opioid-involved patients should consider screening for concurrent use of other substances and discussing the potential risks of this practice. Adequately diagnosing and treating psychiatric conditions may also decrease risky combinations of substances with opioids.
+
+# #METOO: A NATIONAL STUDY OF FORCED SEXUAL INITIATION AMONG US WOMEN
+
+Laura Hawks 1, 4; Stephanie Woolhandler 2; David Himmelstein 3; David Bor 1; Adam Gaffney 1; Danny McCormick 4. 1 Cambridge Health Alliance, Cambridge, MA; 2 Cambridge Hospital, New York, NY; 3 City University of New York at Hunter College, New York, NY; 4 Harvard Medical School / Cambridge Health Alliance, Cambridge, MA. (Control ID #3185066)
+
+# BACKGROUND:
+
+The #MeToo movement has highlighted the frequency of sexual assault. However, no previous studies have assessed the incidence of sexual assault during women's first sexual encounter, or its reproductive and general health sequelae.
+
+# METHODS:
+
+We analyzed data on female respondents to the 2011-2017 National Survey of Family Growth, a nationally-representative, in-person survey conducted by the CDC. We excluded women with no history of vaginal intercourse. Using survey weights provided by the CDC, we assessed the number and characteristics of women who experienced forced sexual initiation (FSI), and the age of the male partner. We also examined the association between FSI and subsequent reproductive outcomes, gynecologic illnesses and other health measures. We used linear regression to assess continuous outcomes and logistic regression for binary outcomes. Models controlled for women's age, poverty status, race, current employment and place of birth; for reproductive outcomes we also adjusted for marital status and education.
+
+# RESULTS:
+
+Among women age 18-44 at the time of the survey 6.5% (n=993, representing 3,351,733 nationally) reported FSI. The mean age at first intercourse for those experiencing FSI was 1.3 years younger than for other women, 16.6 years [95% CI 15.8-17.4] vs. 17.9 [17.7-18.1]. The age discrepancy of first male partners was much larger, 27.0 [24.8-29.2] vs. 21.0 [20.6-21.3] years. 29.0% of women with FSI (vs. 12.2% without FSI) reported

@@ -1,0 +1,27 @@
+# iwCLL 2023
+
+# SEQUOIA: first-line zanubrutinib
+
+| |96 %|(48/50)|92 %|(46/50)|77.6 %|(38/49)|
+|---|---|---|---|---|---|---|
+|100|80|60|40|26 %|(13/50)|20|
+|2 %|(1/50)|0|2 months|4 months|6 months|8 months|
+|PB|BM|First uMRD in peripheral blood|Best/EOT uMRD| | | |
+
+The SEQUOIA study was initiated to explore the efficacy and safety of first-line zanubrutinib in CLL patients who are unsuitable for chemoimmunotherapy. Cohort 1 had no del(17p) and received either zanubrutinib (n = 241) or BR for 6 cycles (n = 238). Cohort 2 contained patients with del(17p) who were treated with zanubrutinib only (n = 111). At the interim analysis conducted after a median follow-up of 26.2 months, zanubrutinib showed superior PFS compared to BR (HR, 0.42; p < 0.0001), with similar results in the group with del(17p) [8]. At iwCLL 2023, Brown et al. reported updated findings after approximately 18 months of additional follow-up [9].
+
+In cohort 1, median PFS had not been reached and was 42.2 months for zanubrutinib and BR, respectively (HR, 0.30; p < 0.0001). The estimated 42-month PFS rates were 82.4 % vs. 50.0 %. Significant PFS improvements on zanubrutinib treatment were noted for both patients with mutated IGHV (p = 0.00033) and unmutated IGHV (p < 0.0001). Median OS had not been reached in either group; the estimated 42-month OS rates were 89.4 % and 88.3 %, respectively. CR and CR with incomplete hematologic recovery (CRi) rates amounted to 17.4 % vs. 21.8 %. In cohort 2, median OS and PFS had not been reached, with estimated 42-month rates of 79.4 % and 89.5 %, respectively, and the CR/CRi rate was 14.5 %.
+
+Update of the BOVen trial
+
+In previously untreated patients with CLL/SLL, a multicenter, single-arm, phase II study has been initiated to assess MRD-driven duration of combined treatment with zanubrutinib, obinutuzumab, and venetoclax (i.e., the BOVen regimen). Indeed, the trial met its primary endpoint, with 89 % of patients reaching uMRD in both peripheral blood and bone marrow despite a median treatment duration of only 10 months that was due to the uMRD-driven treatment discontinuation design [5].
+
+Study findings presented at iwCLL 2023 after an extended follow-up confirmed that the BOVen regimen led to frequent uMRD in the blood and bone marrow (96 % and 92 %, respectively; Figure 2) [6]. PFS was durable, with median PFS not having been reached in the total population (n = 50). Median MRD-free survival was 29.8 months after EOT in the group that showed uMRD in the bone marrow (n = 46). ΔMRD400, which was defined as a decrease in MRD in the peripheral blood at day 1 of cycle 5 (i.e., one month after reaching the target venetoclax dose), was demonstrated to be associated with longer MRD-free survival.
+
+In patients who achieved ΔMRD400 in addition to uMRD in the peripheral blood at EOT (n = 21), median MRD-free survival had not been reached, while this was 18.1 months in the group with uMRD at EOT but without ΔMRD400 (n = 13; p = 0.003). This benefit was achieved despite significantly shorter time on therapy in the group meeting the ΔMRD400 definition (8 vs. 13 months; p < 0.001). A phase II trial of BOVen investigating ΔMRD400-directed therapy in treatment-naïve patients with CLL/SLL is being planned based on the hypothesis that longer treatment duration for patients who fail to achieve ΔMRD400 will further improve uMRD duration.
+
+Zanubrutinib was well tolerated over the extended treatment period, and the AEs were in keeping with the known profile of BTK inhibitors. Atrial fibrillation events remained low over time, ranging from 1.3 % to 6.3 %. Overall, the results support the use of first-line zanubrutinib for elderly patients with CLL/SLL and those with del(17p).
+
+HRQoL in ALPINE
+
+In the relapsed/refractory setting, the randomized, open-label, phase III ALPINE trial was conducted to compare zanubrutinib (n = 327) with ibrutinib (n = 325). The final PFS analysis after a median follow-up of 29.6 months demonstrated superiority of zanubrutinib (HR, 0.65; p = 0.0024), which also applied to the overall response rate.

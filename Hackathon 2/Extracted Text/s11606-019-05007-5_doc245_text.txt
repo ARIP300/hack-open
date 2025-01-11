@@ -1,0 +1,41 @@
+# ABSTRACTS JGIM
+
+# RELATIONSHIP BETWEEN FOOD AND HOUSING INSECURITY ON DIABETES SELF-CARE AND QUALITY OF LIFE IN ADULTS WITH DIABETES
+
+Elise Mosley-Johnson1; Jennifer A. Campbell1; Rebekah J. Walker1; Sneha Nagavally2; Leonard E. Egede1. 1Medical College of Wisconsin, Milwaukee, WI; 2MCW, Wauwatosa, WI. (Control ID #3186405)
+
+# BACKGROUND:
+
+Socioeconomic status (SES) has been shown to influence health, however, the aspects of care most strongly associated with social determinants of health related to SES, such as homelessness and food insecurity, are not yet well understood. The aim of this analysis was to examine the relationship between food and housing insecurities, diabetes self-care and quality of life.
+
+# METHODS:
+
+Data from 16,091 adults with diabetes in the nationally representative Behavioral Risk Factor Surveillance System (BRFSS), years 2014-2015 were used. The primary predictor variables were food insecurity, defined as being worried or stressed in the past 12 months about buying food; and housing insecurity, defined being worried or stressed about paying rent/mortgage in the past 12 months. The primary outcome variables included quality of life (health status, physically unhealthy days, mentally unhealthy days, days of poor health influencing activities) and diabetes self-care (HbA1c test in past 12 months, receiving diabetes education, daily foot checks, daily blood glucose monitoring, and physical activity in the past month). Unadjusted linear and logistic regression models were run for predictor variable and each outcome variable. Each model was then adjusted for demographics, socioeconomic status, and comorbidity count.
+
+# RESULTS:
+
+In this sample, 31.4% were food insecure and 38.1% had housing insecurity. Though all outcomes were significant in unadjusted models, after adjustment, housing insecurity was significantly associated with lower health status (-0.22, CI -0.29,-0.15), more physically (1.44, CI 0.39,2.48) and mentally unhealthy days (1.64, CI 0.43,2.85). Food insecurity showed similar relationships (health status: 0.29, CI -0.36,-0.22; physically unhealthy days: 1.16, CI 0.12,2.20) and was associated with more mentally unhealthy days (2.47, CI 1.22,3.72). In regard to diabetes self-care, after adjustment both housing and food insecurity were significantly associated with lower odds of having an eye test (housing OR: 0.78, CI 0.64,0.94; food OR: 0.77, CI 0.63,0.95) and lower odds of physical activity (housing OR 0.86, CI 0.74,0.99; food OR 0.81, CI 0.70, 0.95). Food insecurity was also associated with lower likelihood of having diabetes education (OR 0.79, CI 0.65,0.97). Conversely, housing instability was associated with higher odds of daily foot checks (OR 1.27, CI 1.03; 1.57) and food insecurity was associated with higher odds of daily blood glucose monitoring (OR 1.33, CI 1.05; 1.69).
+
+# CONCLUSIONS:
+
+In adults with diabetes, housing and food insecurity was associated with lower quality of life and poor self-care behaviors. Diabetes interventions should incorporate the influence of housing and food insecurity on quality of life and obtaining specialty care, such as eye exams. Interventions could also focus on improving opportunities for physical activity.
+
+# RELATIONSHIP BETWEEN HOSPITAL READMISSION AND THE USE OF TRANSITIONAL CARE MANAGEMENT (TCM) SERVICES GUIDELINES AT PCP POST-DISCHARGE VISITS
+
+Salina Bakshi1, 2; Jeffrey Schnipper2, 2; Lipika Samal2, 2. 1 Massachusetts General Hospital, Boston, MA; 2 Harvard Medical School, Boston, MA. (Control ID #3185895)
+
+# BACKGROUND:
+
+Transitions of care after hospital discharge are becoming increasingly important under new accountable care organization (ACO) payment models. While many patients are scheduled for follow-up appointments with their primary care physicians (PCPs) after hospital discharge, there are no standard of care guidelines for these often complex visits. Medicare's Transitional Care Management (TCM) billing codes reimburse providers for a set of recommended tasks for post-discharge visits. These tasks include components such as reviewing the discharge summary, reviewing pending diagnostic tests or treatments, providing patient and family education, and arranging for community resources. In this study, we aimed to assess if utilizing these guidelines is associated with reduced hospital readmissions.
+
+# METHODS:
+
+Patients admitted to medical or surgical units at two hospitals were eligible for the PCORI Transitions Study if they received primary care at one of 18 primary care practices within the Partners ACO. We selected patients in this study who were discharged from the hospital to home between October 2013 and September 2015 and had a post-discharge PCP visit within 14 days. We conducted a nested case control study within the larger trial, comparing readmitted patients with a sample of non-readmitted patients. We examined post-discharge notes for eight TCM elements based on Medicare's TCM Services Guidelines. We calculated a "TCM score," which was the unweighted sum of the number of TCM elements documented during the visit. We then used logistic regression to determine if there was any relationship between TCM score and readmission status. We adjusted the model to account for Elixhauser comorbidity index and number of visits to the PCP office from the prior year.
+
+# RESULTS:
+
+We reviewed 64 post-discharge visits, representing 34 different physicians and all 18 practices, including 27 readmitted patients and 37 non-readmitted patients. In unadjusted analyses, we found that readmitted patients had higher TCM scores on average than non-readmitted patients (4.9 v. 3.5 out of 8, p=0.004). After adjusting for Elixhauser score and visits per year, an increase of 1 point in the TCM score was associated with a 52% increased likelihood of readmission (OR 1.52, 95% CI 1.11,2.07, p=0.009).
+
+# CONCLUSIONS:
+
+Counterintuitively, we found that patients that...

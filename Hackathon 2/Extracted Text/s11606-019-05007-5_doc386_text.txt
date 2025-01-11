@@ -1,0 +1,73 @@
+# ABSTRACTS
+
+Exam, the clinicians pursued a costly workup of cardiac and pulmonary etiologies and did not include anemia in their initial differential. Diagnostic error may result in up to 80,000 hospital deaths per year and is most commonly caused by cognitive biases. Three biases that affected this case are:
+
+- Framing: MG assumed her symptoms were cardiac in nature and framed them in this context, which impacted how the clinicians viewed her case.
+- Anchoring: The cardiologist may have relied too heavily on the patient's chest pain and LBBB, leading to a focused cardiac workup instead of exploring other etiologies.
+- Availability: The specialists may have overestimated the likelihood of a cardiac or pulmonary cause of her dyspnea based on their familiarity with those diseases.
+
+Strategies to overcome these biases include recognition of these cognitive phenomena, enhanced communication among clinicians, and use of a cognitive forcing strategy to promote sound clinical reasoning.
+
+# CONCLUSION:
+
+Diagnostic error, most commonly caused by cognitive biases, remains an underestimated threat to patient safety and high-value health care. Acknowledging and assessing one's biases is an important first step in developing mindful practices to improve diagnostic accuracy and patient care.
+
+# ANGIOEDEMA UNMASKING DIAGNOSIS OF COLORECTAL CANCER
+
+Niaz Memon; Kathleen Mccabe; Emily Silverman; Imran Naqvi. Mercy Health Jewish Hospital of Cincinnati, West Chester, OH. (Control ID #3186379)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize various presentations of CRC.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the relationship between severe iron deficiency anemia and the possibility of developing chronic urticaria and acute angioedema.
+
+# CASE:
+
+A 75 yo African American male with PMHx HTN, CKD, and DM-2 presents to the ED with tongue swelling, dysphagia, and shortness of breath. He tried epinephrine shot without relief. History includes previous episodes of angioedema over a one-year period with no triggering event. He was seen by allergist and was negative for complement disorders or allergies. He was not on ACE-I. Patient had unintentional weight loss of 50lbs and complained of nausea/vomiting. Denied significant family history. Physical exam revealed cachectic appearing male with tenderness to palpitation over abdomen. Labs showed hemoglobin of 8.3 with iron studies consistent with iron deficiency anemia. CT scan of abdomen revealed large mass within proximal ascending colon. Colonoscopy showed circumferential mass with biopsies consistent with adenocarcinoma. Patient underwent laparoscopic and did well post-operatively.
+
+# IMPACT/DISCUSSION:
+
+Angioedema is a common disorder that is seen in both children and adults. Typically, it is mast cell- and bradykinin-mediated. We introduce an elderly patient who has been intubated multiple times from anaphylaxis over a 1-year period without a clear underlying cause. There are reports that link iron deficiency anemia with the development of chronic urticaria leading to acute angioedema. Murine models suggest that the pathophysiology involves uninhibited histamine release by iron binding proteins. Though our patient was anemic, his workup was delayed due to larger concern for recurrent anaphylaxis. However, after treating the anemia, he showed resolution of the angioedema. This case highlights the various presentations of colorectal cancer, and we believe clinicians should include iron deficiency anemia as a differential for angioedema when other causes are absent.
+
+# CONCLUSION:
+
+Colorectal carcinoma with iron deficiency anemia may lead to the development of chronic urticaria presenting as acute angioedema.
+
+# ANKYLOSING SPONDYLITIS FLARE MASQUERADING AS RECURRENT DIGIT SWELLING
+
+Yen Cao; Ahl Jeffrey Caseja; John Cadavona. UNLV, Las Vegas, NV. (Control ID #3186121)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize ankylosing spondylitis as a possible cause of recurrent digit pain and swelling.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of careful history taking in the diagnosis ankylosing spondylitis flare in order to avoid delay in treatment.
+
+# CASE:
+
+An 85 year old male with a medical history of hypertension, chronic back pain, hyperlipidemia, and uveitis, presented with diarrhea, knee swelling, and recurrent right third digit swelling. Patient reports a history of recurrent third digit swelling and was seen in the emergency department four times and treated for cellulitis with clindamycin. On evaluation, patient had right 3rd proximal interphalangeal pain with left knee swelling and bilateral ankle pain swellings. Further history taking reveals patient had history of recurrent left knee and ankle swelling, back and knee stiffness. X-rays show calcific enthesopathy of Achilles tendon of right ankle and left knee. Chart review revealed an old lumbar spine x-ray from two years ago that missed the documentation of classic bamboo spine with flowing ossification of annulus fibrosus and succinct syndesmophytes. Patient was treated with methylprednisolone IV followed by a prednisone taper on discharge with reported resolution of acute symptoms.
+
+# IMPACT/DISCUSSION:
+
+Ankylosing spondylitis is a chronic inflammatory disease that involves the axial skeleton, entheses, and peripheral joints. Ankylosing spondylitis has a male predominance of 2:1 with a peak age of diagnosis between age 20-30 years and onset can occur in adolescence. The most common presenting symptom is back pain but the disease can manifest as hip pain and peripheral arthritis. Active inflammation, or flares, can present with joint tenderness, particularly sacroiliac joints tenderness. Enthesitis has been reported to occur in 29% of patients and most often manifests as Achilles tendinitis while dactylitis occurs in about 6% of patients. Diagnosis of ankylosing spondylitis is non-specific. Clinical diagnosis of ankylosing spondylitis should be considered in patients even with later age onset who presents with continuous chronic back pain enthesitis and dactylitis. X-ray imaging can assist in diagnosis by revealing syndesmophyte formation, squaring of the vertebral bodies, vertebral endplate destruction, and Achilles tendinitis.
+
+# CONCLUSION:
+
+Ankylosing spondylitis can present with digit swellings or dactylitis. When the diagnosis of ankylosing spondylitis is suspected, a careful history taking is key making the correct diagnosis and guide further evaluations and treatment.
+
+# ANTI-MDA5-ASSOCIATED DERMATOMYOSITIS: AN UNCOMMON VARIANT OF INFLAMMATORY MYOPATHY
+
+Shilpa Vasishta 1; Joshua Khalili 2; Nasheed Jamal 3; Jay Persselin 1. 1UCLA, Los Angeles, CA; 2UCLA School of Medicine/UCLA Health, Los Angeles, CA; 3UCLA, Los Angeles, CA. (Control ID #3186630)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features of anti-MDA5-associated dermatomyositis.
+
+# CASE:
+
+A 60-year-old female with no significant medical history presented with forty pounds of unintentional weight loss. Outpatient imaging, upper endoscopy, and age-appropriate cancer screening had been unrevealing. The patient reported dyspnea on exertion, proximal myalgias, generalized fatigue, and painful bilateral hand rash. Review of systems was otherwise negative. Vital signs, head, neck, cardiopulmonary, and abdominal exams were normal. Strength was 4/5 in bilateral deltoids and iliopsoas. Skin demonstrated bilateral palmar papules and periungual ulcerations; joint exam was normal. Labs revealed pancytopenia (WBC 2.2, Hb 9.7, plt 135) with elevated inflammatory markers (ESR 65, ferritin 1968) and positive ANA (1:640, speckled). Further serologies including dsDNA, Sm, RNP, SSA/B, Scl70, centromere, Jo1, Mi2, PL-7/12, Mi2, Ku, EJ, OJ, and SRP antibodies were normal. Workup was pursued for suspected dermatomyositis (DM). CK and aldolase were normal, however EMG of the right deltoid revealed irritable myopathy. CT chest showed bibasilar reticulation, and PFTs showed reduced DLCO of 53% predicted. Skin biopsy of the periungual ulcerations demonstrated.

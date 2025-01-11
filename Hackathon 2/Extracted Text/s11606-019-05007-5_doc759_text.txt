@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# EVALUATION
+
+Our data indicates very good student evaluations of these sessions. For the academic year 2017-2018, the flipped classroom sessions received an overall score of 4.7 out of 5.0, compared to a score of 3.9 out of 5.0 from the prior year when a more traditional didactic set-up was utilized. Students' mean equated percent correct score on the Medicine NBME exam was 74.9, which is within one point of the national mean, further supporting that there is certainly no harm in the flipped classroom model. Additionally, our early experience with curricular integration, of which these flipped classrooms are just one tool amongst many others utilized in other courses, has resulted in robust step 1 scores. Every member of the 2017-2018 student cohort earned a passing score on the USMLE Step 1 exam, with a mean score of 244.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Our data support better student outcomes in both satisfaction and board exam performance, demonstrating that our students have excelled in this curricular model. Embedding an intentional integration model to align learning goals from the pre-clerkship and clinical years, in the form of flipped classrooms, is one tool which may help achieve this. Traditional faculty believe they must instruct students in everything they need to learn, whereas in the flipped classroom there is an assumption of trusting our learners to come prepared, taking responsibility for their learning. Ongoing faculty development, as well as robust communication between the various courses are imperative for the success of this model.
+
+# TRAINING HEALTH PROFESSIONALS TO BE INSTRUCTORS OF INTERPROFESSIONAL PRACTICE: A NOVEL APPROACH
+
+Rachel Jantea; Victoria Hornyak; Cassandra Leighton; Teresa Pacella; Rosemary Hoffmann; Sandra Engberg; Susan Meyer; Subashan Perera; Benjamin Reynolds; David M. Elnicki; Debra K. Weiner; Alton E. James; Rollin M. Wright. University of Pittsburgh, Pittsburgh, PA. (Control ID #3175044)
+
+# NEEDS AND OBJECTIVES
+
+Interprofessional (IP) collaborative practice is essential for older adults with complex medical problems and improves health outcomes. Interprofessional education (IPE) is required for students across the health professions, but many preceptors remain untrained in IP practice and instruction. After formal needs assessment, we designed an integrated IP practice + IPE instructor skills training to prepare preceptors to teach IPE competencies to health profession students in the clinical setting.
+
+# SETTING AND PARTICIPANTS
+
+Ten health professionals (5 nurse, 2 physical therapy, 2 occupational therapy, 1 speech therapy) at a major academic medical center neurotrauma unit [designated the Interprofessional Dedicated Education Unit (IPDEU)] were trained as IPE instructors in Jul-Aug 2018.
+
+# DESCRIPTION
+
+IPE Instructor training focused on IP practice skills and IPE-specific instructor skills. IP practice training included 1) a 1-hour web-based skills module based on the 2016 Interprofessional Education Collaborative Core Competencies, and 2) a 2-hour simulated physician colleague interaction for IP skill practice. IPE-specific instructor training included 1) a 1-hour web-based module emphasizing skills to facilitate active IPE-directed observation by students, and 2) a 2-hour simulated IP student interaction for instructor skill practice.
+
+# EVALUATION
+
+We measured pre-post change in IP practice and instructor knowledge (multiple-choice test), IP attitudes [Interprofessional Collaborative Competency Attainment Scale (ICCAS) & Assessment for Collaborative Environments (ACE15)], and IP practice/instructor skills (simulation skill checklists). Composite scores for each measure were analyzed using paired t-tests. Nine participants had complete data. ICCAS & ACE15 scores increased after training (diff 7.8, p=0.011; 12.2, p=0.049, respectively). Both IP practice and IP instructor skill use increased after training, with a greater increase in instructor skills (diff 1.86, p=0.0626; 2.99, p=0.026, respectively). Knowledge test scores were unchanged.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+All measures improved after training, with the exception of knowledge test scores, which were unchanged. Improvement in IPE instructor skills suggests IPE-specific teaching is a new skill that improves with training. Baseline self-rated IP competencies (ICCAS) were higher than was reflected in baseline skill use, indicating a discrepancy between confidence and competence. Both self-rated IP competencies and skill use improved with training. The training was feasible for this small sample. Next steps include evaluation of student outcomes and implementation on a larger scale.
+
+# TRAINING MEDICAL RESIDENTS TO BE PHYSICIAN ADVOCATES IN IMMIGRATION DETENTION HEALTH
+
+Chanelle Diaz1; Tanuja Devaraj1; Robyn Winsor1; Nathaniel Kratz1; Lauren Quijano2; Shruthi Rajashekara3; Matthew Anderson1. 1Montefiore Medical Center, Bronx, NY; 2New York Lawyers for Public Interest, New York, NY; 3Baylor College of Medicine, Houston, TX. (Control ID #3184927)
+
+# NEEDS AND OBJECTIVES
+
+Every day U.S. Immigration and Customs Enforcement (ICE) detains over 40,000 people in detention facilities where substandard medical care has resulted in poor health outcomes and in-custody deaths. Medical providers can play an important role in advocating for the release of detained immigrants by partnering with lawyers to document health inequities in detention facilities. Medical residents developed a pilot community-based track focused on immigration detention health advocacy. The objectives of this track were to: 1. Train residents in medical advocacy on behalf of individuals who need medical attention and are at risk of deportation. 2. Expose residents to the realities of mass deportation and its impact on community health. 3. Empower residents to use their voices in public spaces to advocate for immigrant rights.
+
+# SETTING AND PARTICIPANTS
+
+Third-year medical residents in a primary care residency program in Bronx, NY. In-person medical assessments took place at local detention facilities under the supervision of an attending physician. Visits to detention facilities were facilitated through an existing immigration-focused community-medical-legal partnership.
+
+# DESCRIPTION
+
+Four residents participated in the pilot track, consisting of approximately six half-day sessions. Residents were required to complete a training workshop that provided knowledge and skills in the medical evaluation of individuals in immigration detention, standards of care in detention, unique health needs and barriers to care, and writing affidavits. Residents were expected to complete 1-2 evaluations, either through review of medical records alone or in-person assessment depending on the nature of the request made to us by our legal partners. Based on these evaluations, residents wrote medical affidavits that lawyers used to advocate for the individual's release or access to needed medical care. Residents also met with community-based legal and advocacy organizations that work with individuals at risk of deportation. Completion of an additional advocacy project was optional.
+
+# EVALUATION
+
+There are 10 third-year primary care residents; 4 listed the immigration detention health track as their first choice out of 4 options. Four listed it as their second choice. Participating residents completed a 2-hour training workshop. A total of 9 medical evaluations were completed (1-3 per resident). Residents visited 3 community-based organizations (75% attendance), and rotated at a community-based clinic that serves undocumented minors and families, including families who were separated at the border. One resident published an opinion editorial on medical neglect in immigration detention as an advocacy project.

@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# NEEDS AND OBJECTIVES:
+
+The objectives of this project were a. to develop an educational session that filled a curricular gap utilizing an interactive "choose your own adventure" approach, b. to assess baseline and new knowledge in several core gastroenterology/hepatology topics using a small group case-based format and pre- and post-tests, c. to facilitate the development of teaching skills in student learners by asking them to use teach-back to educate their peers and d. to assess whether teach-back peer education improves performance on relevant post-test questions.
+
+# SETTING AND PARTICIPANTS:
+
+This is a one hour session set in a PBL classroom that recurs each clerkship. The participants are medical students rotating through the primary care clerkship. The facilitators are one resident and one faculty member.
+
+# DESCRIPTION:
+
+The students first complete a pre-test that covers topics from each case. They are then divided into two groups, each of which works through a different case. Each case uses the online presentation tool "Prezi", and the students are prompted to make decisions that will take the case in different directions. At each branching point, they are prompted to look through guidelines, relevant clinical images and evidence-based links that are embedded within the presentation. Although the order of slides varies based on the students' choices, they will always review all content included. Once the case ends, the facilitator helps each student formulate a take home point to present to the students who worked through the other case. Finally, the students reunite and teach each other, and then complete the post-test. At the end they receive a .pdf document with key information to use as a study guide.
+
+# EVALUATION:
+
+At the beginning of each session, students take a brief pre-test using NBME examination-style vignette-based questions that reflect gastroenterology/hepatology content. The students take the same test at the end of the session, allowing for a comparison of the effects of more direct learning with peer education. Students evaluate the educational value of this session as part of standard post-clerkship evaluations.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Feedback for this new session has been positive; students describe higher engagement through the interactive case portion, and they find the teach-back portion to be the most useful. In this last part the role of the facilitator to help students formulate and refine succinct, high yield teaching points is more important than we expected; their eagerness and engagement during the teach-back session led to time constraints, leading us to create a time script for the session. This project has also allowed us to involve senior internal medicine residents in the design and facilitating of the sessions. In this case, a senior resident was able to create an innovative session, recruit assistant chief residents to help facilitate the sessions, thus fostering collaborative educational efforts and stimulating more interest in medical education career paths for both residents and students.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+www.prezi.com
+
+# IMPROVING RESIDENTS SKILLS AND COMFORT LEVEL USING EHR IN OUTPATIENT CONTINUITY CLINIC
+
+Adrianna Wegrecki; Mehrshid Kiazand. UPMC Mercy, Pittsburgh, PA. (Control ID #3185407)
+
+# NEEDS AND OBJECTIVES:
+
+The Electronic Health Record (EHR) is an important advancement in health care. However, it may create challenges for trainees. Most residents in our program do not have prior exposure to the specific EHR system used in our continuity clinic (EPIC). A different system is used in the inpatient setting. This adds another learning curve for new interns. Efficiently using EHR in the outpatient setting may be more challenging due to the limited visit time and insufficient training as opposed to inpatient rotations. This negative experience may be one of the factors determining if a trainee pursues an outpatient medicine career. We designed Supervised Peer Teaching Sessions aimed at helping residents improve their EHR skills.
+
+# SETTING AND PARTICIPANTS:
+
+Participants were 1st, 2nd and 3rd-year Internal Medicine Residents during their 4-week ambulatory rotation at an academic outpatient clinic.
+
+# DESCRIPTION:
+
+Medicine residents worked individually or in pairs and presented a specific skill related to EPIC at a weekly didactic session. The topics for presentations were suggested by a faculty champion and reflected the most commonly used features of EPIC needed to efficiently document a visit or update the chart. A pre- and post-session 8-question survey was sent to the residents between January and June 2018. The questions were designed to assess their level of comfort using EPIC in general and its specific functions using a 4-point rating scale. Resident cohort responses were compared using chi-square test.
+
+# EVALUATION:
+
+The survey was sent to 25 residents and we received 17 pre- and 15 post-rotation responses. The most significant skill improvements were being able to help others with their EPIC questions (p=0.01), updating medication list (p=0.026) and health maintenance section (p=0.024). Skills that were not covered during the didactic sessions did not achieve significant improvement in post-survey, i.e. using Smartphrases (p=0.75) or Smartsets (p=0.065). Skills that the residents were comfortable with in pre-survey only marginally improved in post-survey, i.e. updating problem lists (p=0.62). Comments submitted by residents indicated that most of them appreciated and enjoyed the sessions and felt they were helpful.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This Peer Teaching Session offered an effective way to improve medicine residents' comfort level and set of skills needed to efficiently utilize an outpatient EHR. The sessions were brief and enjoyable and did not add much additional burden to the ambulatory rotation. The limitations of this survey were small sample size, misperceptions about own skills in the pre-session survey and short sampling time. Based on this study we implemented this session as a permanent part of the didactic curriculum during the ambulatory rotation and we will continue assess its utility and effectiveness.
+
+# REFRAMING THE MEDICAL HISTORY: APPLYING PSYCHIATRY'S FOUR PERSPECTIVES TO THE PRIMARY CARE PATIENT
+
+Patrick Hemming. Duke University School of Medicine, Durham, NC. (Control ID #3142526)
+
+# NEEDS AND OBJECTIVES:
+
+The medical history lays the groundwork for all other endeavors of patient care. Current trends in medicine (such as short visit length and the electronic health record) may distract learners from asking about patients' circumstances, priorities and unique needs. To aid learners in individualizing the medical history, the Four Perspectives (Disease, Behavior, Dimensions, Life Story) can be adapted from psychiatric education to offer a unique teaching framework. The goal of this curriculum is that learners will be able to describe and apply all four perspectives in the context of a primary care patient encounter. Such a curriculum will be successful if learners view the information gained as valuable to their patient care and decision-making.
+
+# SETTING AND PARTICIPANTS:
+
+During the pilot curriculum, each internal medicine resident participated separately in a half-day clinic session with one-on-one precepting. Each resident chose 3-4 patients they identified as having a known or suspected mental health diagnosis and each was

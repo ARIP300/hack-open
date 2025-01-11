@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# DO HOSPITALIZATIONS DISRUPT LOYALTY TO AMBULATORY CARE PROVIDERS?
+
+Laura F. Gingras3; Jennifer Chester3; Sanjai Sinha2; Lisa M. Kern1; Mangala Rajan3. 1Weill Cornell Medical College, New York, NY; 2Weill Cornell Medical College, New York, NY; 3Weill Cornell Medical College, New York City, NY. (Control ID #3185484)
+
+# BACKGROUND:
+
+Hospitalizations can be disruptive events, which result in new diagnoses, new treatments, and new providers for patients. The effect of hospitalizations on ambulatory care patterns, though, is not known. That is, it is not known whether patients return post-discharge to their pre-hospitalization ambulatory provider, or whether they follow up with the new providers they met in the hospital. The answer to this question has important implications for value-based purchasing contracts, which assign patients to providers based on ambulatory visit patterns yet hold providers accountable for all of their patients' care (including hospitalizations elsewhere).
+
+# METHODS:
+
+We conducted a retrospective cohort study (2014-2016) of commercially insured adult patients (≥ 18 years) who were attributed to a physician organization (PO) by a commercial payer for the purpose of a reimbursement contract. We included patients who were hospitalized in 2015 and, using chi-squared tests, analyzed their patterns of ambulatory care 6 months before vs. 6 months after the hospitalization. Using logistic regression, we determined if seeing a PO provider 6 months before the hospitalization was associated with seeing a PO provider 6 months after, adjusting for the location of the hospitalization, patient age, patient gender, and the type of admission (emergency or elective).
+
+# RESULTS:
+
+Of the 569 patients in our sample, all of whom were attributed to the PO, 311 (55%) were hospitalized at the affiliated hospital, whereas the remainder (N = 258, 45%) were hospitalized elsewhere. There was no difference in the proportion of patients with at least 1 ambulatory visit to any provider before vs. after the hospitalization (p > 0.10). However, patients who were hospitalized elsewhere were significantly less likely to have at least 1 visit with a PO provider in the 6 months before the hospitalization, compared to those hospitalized at the affiliated hospital (54% vs. 73%, p < 0.0001). Patients who were hospitalized elsewhere were also significantly less likely to have at least 1 visit with a PO provider in the 6 months after the hospitalization, compared to those hospitalized at the affiliated hospital (61% vs. 80%, p < 0.0001).
+
+# CONCLUSIONS:
+
+Hospitalizations did not change patterns of ambulatory care (that is, before vs. after the hospitalization). However, patients who were hospitalized elsewhere had less loyalty to the PO both before and after hospitalization than patients hospitalized at the affiliated hospital. This study raises important questions about whether attribution logic should be affected by hospitalizations and, separately, how well POs need to monitor their patients for hospitalizations elsewhere.
+
+# DO PATIENT SATISFACTION SCORES VARY BY PHYSICIAN RACE/ETHNICITY? AN EXPLORATION IN DIRECT TO CONSUMER TELEMEDICINE
+
+Kathryn A. Martinez1; Kaitlin Keenan2; Radhika Rastogi2; Joud Roufael3; Mark N. Rood; Michael B. Rothberg1.4 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic Lerner College of Medicine, Cleveland, OH; 3Kent State University College of Public Health, Kent, OH; 4Cleveland Clinic Foundation, Chagrin Falls, OH. (Control ID #3183105)
+
+# BACKGROUND:
+
+The U.S. physician workforce is increasingly diverse and foreign medical graduates are common. Patient satisfaction is often publicly reported and can influence physician payment. Racial/ethnic bias against non-white physicians has been reported but not widely studied. The objective of this study was to assess differences in patient ratings of physicians in a large direct to consumer (DTC) telemedicine platform, by physician race/ethnicity.
+
+# METHODS:
+
+Cross-sectional study of encounters conducted between July 2016 and July 2018 on the AmericanWell telemedicine platform. Four independent and blinded reviewers of different racial/ethnic backgrounds categorized physicians into racial/ethnic groups based on name (e.g. "Juan Ramirez" would be coded as Hispanic, "Preethi Gupta" would be coded as Indian) and publicly available photos. Physicians for whom no consensus was reached were excluded. Patient satisfaction was assessed by the telemedicine system immediately following each encounter, measured on scales of 0 to 5 stars, analyzed continuously. To maximize stability of satisfaction estimates for each physician, only those with at least 20 encounters were included. Mixed effects linear regression was used to assess differences in satisfaction scores by physician race/ethnicity, accounting for clustering by physician. Patient covariates included age, gender and geographic region. The model also controlled for prescription receipt and coupon use for free or reduced-cost care, as both are highly associated with patient satisfaction with telemedicine.
+
+# RESULTS:
+
+The sample included 119,016 encounters with 390 physicians. Fifty-nine percent of physicians were categorized as White American, 14% Indian, 7% Black American, 7% Hispanic, 6% Arab and 6% Asian. For both White and Black American physicians, the unadjusted mean satisfaction score was 4.8, for both Arab and Hispanic physicians it was 4.7, and for both Indian and Asian physicians it was 4.5. In the adjusted mixed effects linear model, compared to White American physicians, satisfaction scores for Asian physicians were 0.24 points lower (95%CI:-0.26, -0.22), scores for Indian physicians were 0.24 points lower (95%CI:-0.26, -0.22), scores for Arab physicians were 0.16 points lower (95%CI:-0.18, -0.14), scores for Hispanic physicians were 0.05 points lower (95%CI:-0.08, -0.02), and scores for Black American physicians were 0.03 points lower (95%CI:-0.04, -0.01).
+
+# CONCLUSIONS:
+
+All groups of non-White American physicians were rated worse than White American physicians, with particularly lower scores for Arab, Indian, and Asian physicians. Even small differences in satisfaction scores can impact physician payment and reputation. Understanding whether lower scores for non-White American physicians were influenced by patient bias or differences in quality and/or practice style is critical.
+
+# DO PATIENTS WITH SUBCLINICAL HYPOTHYROIDISM WHO SUFFER FROM GREATER SYMPTOM BURDEN BENEFIT FROM LEVOTHYROXINE THERAPY? FURTHER ANALYSIS OF THE RANDOMIZED PLACEBO-CONTROLLED TRUST TRIAL
+
+Maria de Montmollin1, 2; Martin Feller1, 2; Shanthi Beglinger1, 2; Alex McConnachie3; Cinzia Del Giovane2; Rosalinde K. Poortvliet4; Drahomir Aujesky1; Ian Ford3; Simon P. Mooijaart4; Torquil Watt5; Rudi G. Westendorp6; Patricia M. Kearney7; Jacobijn Gussekloo4; David J. Stott8; Nicolas Rodondi1, 2; Douglas Bauer9. 1Bern University Hospital, Bern, Switzerland; 2Institute of Primary Health Care (BIHAM), University of Bern, Bern, Switzerland; 3Institute of Health and Wellbeing, University of Glasgow, Glasgow, United Kingdom; 4Leiden University Medical Center, Leiden, Netherlands; 5Copenhagen University Hospital Herlev, Copenhagen, Denmark; 6University of Copenhagen, Copenhagen, Denmark; 7University College Cork, Cork, Ireland; 8Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow, United Kingdom; 9University of California, San Francisco, CA. (Control ID #3170456)
+
+# BACKGROUND:
+
+A recent large trial and meta-analysis of all RCTs found that levothyroxine does not improve hypothyroid symptoms or quality of life among adults with subclinical hypothyroidism (SCH). However, those who report higher symptom burden prior to treatment might still benefit. The aim of this analysis is to determine whether levothyroxine, compared to placebo, improves hypothyroid physical symptoms and tiredness among older adults with SCH and higher symptom burden.
+
+# METHODS:
+
+We analyzed data from adults 65 years with persistent SCH (TSH 4.6-19.9mIU/L for >3 months, normal fT4) included in the TRUST trial, a multicenter, double blinded, placebo-controlled, randomized trial.

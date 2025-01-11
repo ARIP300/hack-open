@@ -1,0 +1,33 @@
+# JGIM
+
+# ABSTRACTS
+
+# HealthCare System, Pittsburgh, PA. (Control ID #3138503)
+
+# BACKGROUND:
+
+Despite coverage of the full range of effective contraceptive methods through the Veteran's Affairs Healthcare System (VA), women Veterans experience a high burden of unintended pregnancy, with proportions comparable to the general United States population. Although many studies evaluate factors affecting contraceptive use, little is known about influences specific to or prominent among women VA-users. This qualitative study seeks to characterize barriers and facilitators to contraceptive use experienced by women Veterans using VA services, as well as elicit their suggestions to improve VA contraceptive care.
+
+# METHODS:
+
+Semi-structured telephone interviews were conducted with a purposefully-selected national sample of 187 women Veterans aged 18-44 at risk of unintended pregnancy who receive primary care in VA to explore their perspectives and experiences with contraceptive care. The sampling strategy sought to ensure that we heard the perspectives of women with potentially vulnerable demographic or clinical characteristics, including women in ethnic/racial minority groups, and/or with medical or mental health conditions or a history of military sexual trauma. Interviews were transcribed verbatim and transcript narratives analyzed using content analysis and the constant comparison method.
+
+# RESULTS:
+
+Five distinct themes emerged as barriers or facilitators to contraceptive use depending on participants' VA facility and provider, and participants offered suggestions to address issues pertaining to each theme. Most participants (56%) noted low efficiency of care as a main factor, especially poor appointment access and difficulty navigating the VA system. Others (39%) expressed that limited contraceptive counseling and patient education acted as barriers, and requested classes and support groups to enhance understanding. About a third of women (34%) noted that low patient awareness of services impeded contraceptive care and suggested improved advertising to both servicewomen and Veterans. Some (32%) stressed poor interaction with provider as a prominent barrier, specifically noting provider inattentiveness and lack of expertise. Finally, 31% noted feeling like an outsider at VA, and emphasized fostering a female-friendly environment by creating a separate space for women's clinics to remove discomfort associated with seeking contraceptive care.
+
+# CONCLUSIONS:
+
+These findings suggest that despite widespread access to low-cost contraception, many women Veterans experience barriers to accessing high-quality contraceptive care. While barriers and facilitators were unique to individual VA facilities and providers, women offered concrete suggestions that could make access to high-quality services more uniform, including enhancing patient education on contraceptive options; expanding advertising of contraceptive services to women Veterans; and providing a separate women's clinic to ensure women Veterans feel comfortable seeking contraceptive care.
+
+# PERCEPTIONS AND PERFORMANCE OF LEARNERS IN AN INTERPROFESSIONAL COLLABORATIVE PRACTICE MODEL
+
+Alanna J. Diamond1; Stephanie Cornell1; Glennette Castillo1; Erika Bowen; Lauren S. Penney5; Luci Leykum3; Temple Ratcliffe2. 1University of Texas Health - San Antonio, San Antonio, TX; 2 UTHSCSA, San Antonio, TX; 3STVHCS / UTHSCSA, San Antonio, TX; 4UT Health San Antonio, San Antonio, TX; 5Veterans Health Administration, South Texas Veterans Health Care System (STVHCS), San Antonio, TX. (Control ID #3184203)
+
+# BACKGROUND:
+
+With increased focus on Interprofessional education (IPE) and interprofessional collaborative practice (IPCP), more settings are implementing these care models. While patients appreciate IPCP, learner acceptance has been more variable. In 2015, we initiated an IPCP care model (Collaborative Care - CC), which incorporates nurses, physicians, students, pharmacists, social workers, physical therapists, patients and families. Early learner feedback noted improved communication with patients, families, and other professions, but also reflected educational concerns regarding medical knowledge and teaching on rounds. We enhanced orientation for residents and medical students, and after building our experience with CC, revisited learner perceptions in 2017. We expected learner perceptions of their educational experiences would improve. We also examined student NBME exam scores between traditional and CC teams to assess whether differences in medical knowledge as measured by NBME scores existed.
+
+# METHODS:
+
+We conducted a secondary analysis of participant feedback data from the Maintaining Activity and Nutrition through Technology-Assisted Innovation in Primary Care (MAINTAIN-pc), a randomized controlled trial of an electronic health record (EHR)-based intervention for weight loss maintenance. Participants were randomized into coaching or tracking groups. Both had access to EHR tools (flowsheets for tracking weight, diet, and physical activity, standardized surveys, and reminders) via the patient portal. The coaching group received personalized coaching via the EHR for two years. The primary care providers (PCP) of coaching group participants received real-time progress reports and notification of significant weight gain or loss. Participants provided feedback at 6, 12, 24, and 30 months. We evaluated responses about EHR ease of use and perceptions of sources of support after intervention (i.e., months 25-30) in both groups and preferences for communication and connectedness with coaches in the coaching group.

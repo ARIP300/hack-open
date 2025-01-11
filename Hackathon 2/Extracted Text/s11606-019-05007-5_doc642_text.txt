@@ -1,0 +1,57 @@
+# JGIM
+
+# ABSTRACTS
+
+physicians were further educated on the proper location to document diabetic foot exams in the EMR. We also included the MA and RNs in our process improvement by encouraging them to ask every patient who was getting an A1c checked to remove their shoes and socks in preparation for the annual visit. Informational posters were created and placed in exams rooms in English and Spanish requesting patients to remove their shoes and socks if they have diabetes so that their resident physician could perform the monofilament exam.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Pre-intervention data was obtained from the EMR which showed that out of 1046 diabetic patients, 44% of patients had monofilament testing within the past 1 year.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+For the cohort of diabetic patients seen at EBCHC between October 1, 2017 to December 31, 2017, 66% of patients had a visit with documentation and completion of annual monofilament exam compared to 44% prior to interventions.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Patients with diabetes are 15 to 25 times more likely to lose part of a leg than people without the condition (International Diabetes Federation (IDF)). Throughout the world, up to 70% of leg amputations are performed in people with diabetes (IDF). Data from 2001 shows diabetic foot care costed $10.9 billion and is continuously increasing (Raghav). One study on diabetic foot examinations in the clinic setting found that 844 (41.4%) patients with diabetes reports that their healthcare provider checked their feet for sores during the past year (Al Sayah). With the high risk of amputation in diabetics and increasing healthcare costs, there is room for improvement in implementing easy screening techniques such as the monofilament exam in outpatient clinics which have high impact on patient outcome and healthcare cost.
+
+# IMPROVING NALOXONE COPRESCRIBING FOR PATIENTS ON HIGH DOSE OPIOIDS AT HOSPITAL DISCHARGE
+
+Rebecca Richardson; Polina Kukhareva; Kensaku Kawamoto; Christopher Walls; Phillip B. Warner; Jacob McKenna; Kencee K. Graves. University of Utah, Salt Lake City, UT. (Control ID #3145408)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Taking high doses of opioids places patients at high risk of accidental opioid overdose, and the Centers of Disease Control and Prevention (CDC) has recommended co-prescription of an opioid reversal agent to these patients; however, there was no standardized process to ensure this was done at hospital discharge.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The objectives of this study were to first understand the current state of opioid and naloxone co-prescribing on hospital discharge based on CDC guidelines; and second, to increase the number of naloxone prescriptions at the time of discharge from the University of Utah Hospital by 20% for patients on morphine milligram equivalents (MME) of 100 or greater within the 6 months following the implementation of an electronic alert through the hospital electronic medical record (EMR).
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our study was set at a single academic medical center and is focused on a single group of general internal medicine hospitalist physicians and advanced practice clinicians (APCs) caring for adult patients in an inpatient setting. Prior to the intervention, discharge data from the University of Utah Internal Medicine Hospitalist group in August 2017 was analyzed to assess opioid and naloxone co-prescriptions at the time of discharge. Data query indicated that there were 71 patients who were discharged on an opioid (oxycodone, hydrocodone (including combination with acetaminophen) and hydromorphone). A chart review of a small subset of 23 patients showed that 8 (35%) were discharged on greater than 100 MME and 14 out of 23 were discharged on greater than 50 MME. Zero patients were discharged with a co-prescription of naloxone. Therefore, an intervention was created to identify patients on high doses of opiates that would put them at risk for accidental overdose. A best practice alert (BPA) was built into our Epic EMR via the discharge order set to calculate the MME a patient is prescribed at discharge, then alert the provider if a patient is prescribed more than 100 MME, and lastly, prompt the clinician to co-prescribe naloxone prior to hospital discharge. The BPA was introduced to a pilot group of physicians and APCs in September 2018.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Using discharge data collected from the EMR, we compared the number of patients discharged on opiates greater than 100 MME and the percentage of those patients discharged with naloxone before and after the BPA was implemented.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Data collected from September to November 2018 showed that the BPA fired for 8 patients. Naloxone was co-prescribed for 5 out of the 8 patients (about 62%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our intervention of implementing an electronic alert prompting providers to co-prescribe naloxone significantly increased the percentage of naloxone prescriptions for patients on high dose narcotics. As we have shown improvement with our pilot, we have now launched the BPA for all internal medicine units at our hospital. This is an adaptable strategy for other institutions using Epic as their electronic medical record.
+
+# IMPROVING PATIENT ENROLLMENT IN A PATIENT-WEB PORTAL THROUGH A MULTI-TIERED INTERVENTION
+
+Eugene J. Lucas; Carlos A. Lopez; Srineil Nizambad; Ankita Sagar. Memorial Sloan Kettering Cancer Center, New York City, NY; Zucker School of Medicine at Hofstra/Northwell, Brooklyn, NY; State University of New York at Stony Brook, Stony Brook, NY. (Control ID #3186320)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+In a National Committee for Quality Assurance Patient-Centered Medical Home Level III site that caters to an at-risk patient population, the proportion of patients signed up for access to their health care data via an online patient portal was found to be below the desired goal and highlighted the need for an improvement-oriented strategy.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The objective was to increase the proportion of enrolled patients from a baseline of 18.5% of the clinic population to 25%. We employed a 3-phase intervention over the course of 9 months and also sought to compare the various success rates of each of the 3 methods.

@@ -1,0 +1,36 @@
+# Discrimination in the workplace, reported by people with major depressive disorder: a cross-sectional study in 35 countries
+
+E P M Brouwers,1 J Mathijssen, 1 T Van Bortel, 2 L Knifton,3 K Wahlbeck,4 C Van Audenhove,5 N Kadri, 6 Ch Chang, 7 B R Goud,8 D Ballester,9 LF Tófoli, 10 R Bello,11 M F Jorge-Monteiro,12 H Zäske,13 I Milaćic ,́14 A Uçok,15 C Bonetto,16 A Lasalvia,16 G Thornicroft, 2 J Van Weeghel,1 the ASPEN/INDIGO Study Group*
+
+To cite: Brouwers EPM, Mathijssen J, Van Bortel T, et al. Discrimination in the workplace, reported by people with major depressive disorder: a cross-sectional study in 35 countries. BMJ Open 2016;6:e009961. doi:10.1136/bmjopen-2015-009961
+
+▸ Prepublication history for this paper is available online. To view these files please visit the journal online (http://dx.doi.org/10.1136/bmjopen-2015-009961).
+
+# ABSTRACT
+
+# Strengths and limitations of this study
+
+- Depression is a leading cause of disability worldwide, and for this study respondents with major depressive disorder (MDD) from as many as 35 countries were interviewed.
+- This study examines the under-researched yet substantial problem of discrimination as a barrier to work participation of people with MDD.
+- Interviews were used to gather direct self-reports rather than hypothetical scenarios or vignettes, which are often carried out in research on stigma and discrimination.
+- Limitations are the cross-sectional design of the study, and the fact that purposive sampling was used to recruit participants, which limits the generalisability of the results.
+
+# Objective
+
+Whereas employment has been shown to be beneficial for people with Major Depressive Disorder (MDD) across different cultures, employers’ attitudes have been shown to be negative towards workers with MDD. This may form an important barrier to work participation. Today, little is known about how stigma and discrimination affect work participation of workers with MDD, especially from their own perspective. We aimed to assess, in a working age population including respondents with MDD from 35 countries: (1) if people with MDD anticipate and experience discrimination when trying to find or keep paid employment; (2) if participants in high, middle and lower developed countries differ in these respects; and (3) if discrimination experiences are related to actual employment status (ie, having a paid job or not).
+
+# Method
+
+Participants in this cross-sectional study (N=834) had a diagnosis of MDD in the previous 12 months. They were interviewed using the Discrimination and Stigma Scale (DISC-12). Analysis of variance and generalised linear mixed models were used to analyse the data.
+
+# Results
+
+Overall, 62.5% had anticipated and/or experienced discrimination in the work setting. In very high developed countries, almost 60% of respondents had stopped themselves from applying for work, education or training because of anticipated discrimination. Having experienced workplace discrimination was independently related to unemployment.
+
+# Conclusions
+
+Across different countries and cultures, people with MDD very frequently reported discrimination in the work setting. Effective interventions are needed to enhance work participation in people with MDD, focusing simultaneously on decreasing stigma in the work environment and on decreasing self-discrimination by empowering workers with MDD.
+
+# INTRODUCTION
+
+Employment has many benefits that can contribute to the recovery of people with mental health problems. However, in many countries, participation and reintegration of people with mental health problems in the workforce is problematic. Several factors cause this. Some are related to the individual, and some to the environment. An important barrier for full occupational participation and successful vocational integration is the stigma that is associated with mental health problems. Stigma is a mark or sign of disgrace usually eliciting negative attitudes to its bearer and can be seen as a problem associated with knowledge (ignorance), attitudes (prejudice) and behaviour (discrimination). Several studies have shown that although some cultural differences may exist, overall employers in many countries commonly express a range of concerns about hiring a potential employee with mental health problems. Concerns reported include the belief that people with mental health problems have limited productivity and job performance, especially in tasks requiring cognitive skills, that they are unreliable and might pose threats to the safety of other workers.

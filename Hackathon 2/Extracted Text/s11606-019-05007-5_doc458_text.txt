@@ -1,0 +1,56 @@
+# ABSTRACTS
+
+# IgA Vasculitis
+
+IgA vasculitis is a rarely seen disease in adults, and is characterized by purpura, abdominal pain, arthralgias, and kidney injury. Clinicians should consider IgA vasculitis with these symptoms and obtain a skin biopsy of the purpura to confirm the diagnosis. Treatment is mainly supportive.
+
+# ILEAL NEOBLADDER, AN OFTEN OVERLOOKED CAUSE OF NON-ANION GAP METABOLIC ACIDOSIS
+
+Henry C. Zheng; Christopher Chen; Katherine Timmins. Baylor College of Medicine, Houston, TX. (Control ID #3186071)
+
+# LEARNING OBJECTIVES
+
+- Recognize metabolic disturbances of ileal neobladders by understanding its physiology.
+- Manage severe hyperchloremic non-gap metabolic acidosis in patients with ileal neobladders.
+
+# CASE
+
+A 75-year-old man with a history of bladder cancer status post radical cystoprostatectomy and ileal neobladder reconstruction 2 years prior presented with 2 weeks of malaise, and decreased urine output. He also notes a bug bite of the left hip which has now developed into a small, superficial abscess. He denies fevers, chest pain, shortness of breath, abdominal pain, nausea or vomiting. He was afebrile, normotensive, breathing 23 breaths/min, sating 98% on room air. He appeared lethargic but was without acute distress. A small 1x2cm superficial abscess of the left hip was seen without significant surrounding erythema, fluctuance or purulent discharge. Suprapubic discomfort on palpation was also noted. Workup was notable for Na 137 mEq/L, K 4.0 mEq/L, Cl 117 mEq/mL, bicarbonate 7 mEq/L, creatinine 4.19 mg/dL, glucose 98 mg/dL, ABG pH 7.19, PCO2 11 mmHg, PO2 98 mmHg and lactate 1.3 mmol/L. His anion gap is 13. A rapid response was called for acidemia with concerns of sepsis, however, given non-anion gap acidosis, a benign appearance of abscess, lack of fevers and normal lactate, suspicion for infection as primary etiology was low. A Foley catheter was placed for concerns of urinary obstruction and 1 liter of urine was collected immediately. An isotonic sodium bicarbonate infusion was started to treat the acidemia. Over the next 3 days, his non-gap acidosis resolved and creatinine downtrended. Blood cultures remained negative. He was discharged with plans to follow up in primary care clinic to determine the necessity of chronic bicarbonate replacement therapy in the future.
+
+# IMPACT/DISCUSSION
+
+Mild metabolic derangements can occur in up to 15% of patients with ileal neobladder and severe acidosis occurs in <1% of these patients overall. As the urine sits in the neobladder, the gastrointestinal mucosal sodium-hydrogen antiporter secretes sodium in exchange for hydrogen ions, and bicarbonate is excreted in exchange for hydrogen ion and chloride ion resulting in a hyperchloremic non-anion gap metabolic acidosis. Urinary retention results in severe acidosis due to prolonged absorption time of the urinary constituents. Treatment is focused on minimizing urine contact time with the reservoir mucosa. A Foley catheter should be placed to enhance urinary drainage. Though intravenous bicarbonate administration is generally not indicated for most types of anion-gap metabolic acidosis, it is reasonable to consider isotonic sodium bicarbonate infusion for these patients as they have chronic bicarbonate deficiency. Lastly, hypokalemia in the setting of severe acidosis requires close monitoring and repletion.
+
+# CONCLUSION
+
+As neobladder surgeries become more common, it's increasingly important to understand the physiology and recognize the metabolic complications in order to initiate therapy in a timely manner.
+
+# IMMUNE CHECKPOINT INHIBITOR-INDUCED MYOCARDITIS PRESENTING AS COMPLETE HEART BLOCK
+
+Tyler Mehegan1; Aarti Asnani2. 1Beth Israel Deaconess Medical Center, Brookline, MA; 2Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3171120)
+
+# LEARNING OBJECTIVES
+
+- Recognize fulminant myocarditis as an adverse effect of immune checkpoint inhibitors (ICIs).
+- Manage complete heart block caused by ICIs.
+
+# CASE
+
+The patient is a 79-year-old man with a history of high-grade pleomorphic bladder cancer status post cystoprostatectomy, recently started on adjuvant atezolizumab, who presented to the Emergency Department with one hour of lightheadedness, nausea, and pallor. His review of systems was otherwise negative. In the ED, he was noted to have a heart rate of 24 and a blood pressure of 80/40. An electrocardiogram (ECG) showed complete heart block with a ventricular escape rhythm. Laboratory testing was notable for a troponin T level of 1.09 ng/ml. A temporary transvenous pacemaker was placed, followed by placement of a permanent dual-chamber pacemaker. Coronary angiography, transthoracic echocardiography, and an infectious workup including Lyme IgG and IgM were all unremarkable. He was discharged with a diagnosis of senile conduction disease and a type II non-ST elevation myocardial infarction. Forty-eight hours later, he was readmitted with chest pain and an increased troponin T of 2.06 ng/ml. In discussion with his oncologist, treatment was initiated for presumed atezolizumab-induced myocarditis with methylprednisone 1g IV Q24 hours and ultimately mycophenolate, resulting in improvement in his symptoms and cardiac biomarkers. Notably, repeat ECGs following immunosuppression demonstrated stable native conduction without pacemaker dependence.
+
+# IMPACT/DISCUSSION
+
+Over the last decade, ICIs have drastically improved survival for patients with a variety of malignancies. Although generally well-tolerated compared to cytotoxic chemotherapy, immune-related adverse events are common, including colitis, pneumonitis and hepatitis. ICI-induced myocarditis occurs less frequently, in less than 1% of patients treated with ICIs, but is often fatal. Despite aggressive immunosuppression, progression to fulminant myocarditis, multiorgan system failure, and death is common. As clinical presentations are variable and can be non-specific, a high index of suspicion for myocarditis in patients on ICI therapy is paramount. While complete heart block has been reported in the setting of ICI-induced myocarditis, there are no published data or guidelines regarding the need for permanent pacemaker implantation in this patient population. As demonstrated by this case, it is possible for native conduction to recover with immunosuppressive therapy in patients suspected to have ICI-induced myocarditis. A trial of temporary pacing may therefore be a reasonable approach while implementing an immunosuppressive strategy.
+
+# CONCLUSION
+
+In patients on ICI therapy presenting with any new cardiac abnormality, a diagnosis of ICI-induced myocarditis should be considered. In ICI-induced myocarditis presenting as an advanced cardiac conduction disorder, a trial of aggressive immunosuppression may result in recovery of native conduction and obviate the need for a permanent pacemaker.
+
+# IMMUNE THROMBOCYTOPENIC PURPURA: AN UNCOMMON INITIAL PRESENTATION OF HUMAN IMMUNODEFICIENCY VIRUS
+
+Ariana Mooradian; Gretchen Grosch. Saint Louis University, St Louis, MO. (Control ID #3183925)
+
+# LEARNING OBJECTIVES
+
+- Explore an unusual presentation of a common disease (HIV)
+- Identify risk factors that increase likelihood of poor response to therapy in HIV patients with ITP

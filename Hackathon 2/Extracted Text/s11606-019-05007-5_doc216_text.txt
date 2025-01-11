@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+In this pilot randomized controlled trial of a physician home visit following discharge from the hospital, patients who received a visit had a nonsignificant trend toward reduced readmission and ED presentation and better follow-up with their PCP, but no difference in self-reported symptoms or readiness to transition. To our knowledge, this is the first test of a physician home visit following discharge. Refinement of the intervention and replication in a larger cohort is needed.
+
+# PHYSICIAN SATISFACTION WITH HEALTH PLANS: RESULTS FROM A NATIONAL SURVEY
+
+Natasha Parekh1, 2; Sheryl Savage3; Amy Helwig4; Patrick Alger3; Sandra McAnallen4; William H. Shrank4. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2UPMC Center for High-Value Health Care, Pittsburgh, PA; 3SPH Analytics, Alpharetta, GA; 4UPMC Insurance Services Division, Pittsburgh, PA. (Control ID #3184380)
+
+# BACKGROUND:
+
+Physician satisfaction is associated with patient satisfaction, adherence to treatment recommendations, and quality. However, burnout is prevalent, and physician experience with health plans is likely a key contributor. Our existing knowledge of physician satisfaction with health plans, however, is limited, mixed and outdated. We therefore explored physician satisfaction with health plans, and assessed which physician and plan characteristics are associated with greater satisfaction.
+
+# METHODS:
+
+We conducted a cross-sectional analysis of de-identified physician satisfaction surveys for US health plans in 2016. We included the following satisfaction domains that were rated by physicians on 5-point Likert scales as key outcomes of interest: overall health plan rating; financial issues; utilization and quality management; network/coordination of care; pharmacy issues; call center experience; provider relations; and recommendation of the sponsor plan to other physicians' practices. We assessed the association between the following characteristics and outcomes of interest using multivariable linear regression, weighted by the number of respondents: vertical (payer-provider) integration status, health plan size, practice size, provider type, and years of practice.
+
+# RESULTS:
+
+We analyzed surveys from 3,158 physicians on 74 health plans. We observed highest satisfaction in overall plan rating, finance, and call center domains (adjusted means 3.25), and lowest satisfaction in pharmacy (adjusted mean 3.02). The largest and smallest plans and vertically integrated plans had the highest satisfaction: 76% of physicians recommended vertically integrated plans while 66% of physicians recommended non-vertically integrated plans to others (p<0.001). Solo practitioners rated overall plan rating, finance, utilization/quality management and pharmacy domains more favorably than physicians in larger practices (p<0.001), while primary care physicians rated overall plan rating, finance, and utilization/quality management more favorably than specialists (p<0.001).
+
+# CONCLUSIONS:
+
+Our findings demonstrate that there is significant opportunity to improve physician satisfaction with health plans in all satisfaction domains, especially in pharmacy/formulary management. Since provider satisfaction is becoming increasingly recognized as a critical outcome, our findings suggest that health plans have a unique and important opportunity to improve physician satisfaction and highlight potential interventions such as prioritizing provider relationships, optimizing formulary management, reducing administrative burden, and providing resource support. Additionally, interventions could specifically target physicians in larger practices and non-vertically integrated and mid-size health plans. As physicians are required to adapt to a rapidly transforming healthcare landscape, it will be imperative for health plans to prioritize physician satisfaction moving forward.
+
+# PHYSICIAN-PHARMACIST COLLABORATIVE CARE MODELS TO PREVENT OPIOID MISUSE: A PILOT STUDY
+
+Pooja A. Lagisetty1; Alex Smith1; Suzanne Winters1; Michael A. Smith1; Hae Mi Choe1; Amy Bohnert1; Michele Heisler2. 1University of Michigan, Ann Arbor, MI; 2Ann Arbor VA/University of Michigan, Ann Arbor, MI. (Control ID #3184050)
+
+# BACKGROUND:
+
+Clinical pharmacists embedded within primary care clinics have the potential to help manage medications used to treat chronic pain and opioid use disorders (OUD). However, their current scope of practice mainly consists of managing diseases such as diabetes and hypertension. Therefore, we sought to pilot and evaluate the feasibility and acceptability of a physician-pharmacist collaborative care model to assist with chronic pain and OUD management.
+
+# METHODS:
+
+The program consisted of an in-person pharmacist consultation as well as optional follow-up phone or in-person visits over a 4-month period in 2 large academic primary care practices. Eligible patients had chronic pain + a long-term prescription for opioids or for buprenorphine. The pharmacist reviewed participants' past pharmacologic and non-pharmacologic treatments and discussed the risks and benefits of the current medication regimen and potential alternatives. Recommendations were communicated back to the PCP via the electronic health record (EHR). Due to controlled substance regulations, the pharmacist did not have any prescriptive authority. We used mixed-methods to evaluate the model. These included baseline and follow up participant survey assessments on pain, co-morbid substance abuse disorders (SUDs, ED utilization, and naloxone and buprenorphine knowledge; EHR review of number of phone calls and clinic visits focused on opioids; and semi-structured interviews with 8 providers (7 MD and 1 PharmD) to assess feasibility and acceptability.
+
+# RESULTS:
+
+Between January and October 2018, 47 of the 182 patients who met eligibility criteria enrolled in the intervention, and 46 completed all follow-up assessments. Mean age was 55.8 yrs (SD=11.9), and 55% were women. 43 (91%) of patients had received opioids over the past 6 months. The pharmacist recommended tapering opioids to 3 (6%) of patients, adding or changing to a non-opioid pain medication to 30 (64%) patients, and switching to buprenorphine for pain management in 20 (43%) of patients. The number of patient calls and visits related to pain decreased from 10.4 during the 4 months prior to the initial pharmacist visit to 8.9 in the 4 months after that visit (p=0.059). Physicians found the intervention acceptable but wanted more guidance and support on using buprenorphine for pain. Patients felt that the in-depth conversations were helpful, but some reported lack of physician follow up to recommended medication changes.
+
+# CONCLUSIONS:
+
+This study demonstrated that using clinical pharmacists for patients with chronic pain and OUD management is feasible, acceptable, and shows promise in decreasing healthcare utilization related to opioid management. Policy changes to increase pharmacist prescriptive authority to co-manage controlled substances may increase physician willingness and confidence to carry out opioid tapers and prescribe buprenorphine.
+
+# POINT-OF-CARE MOBILE APPLICATION TO GUIDE HEALTH PROFESSIONALS IN CONDUCTING SUBSTANCE USE SCREENING AND INTERVENTION: A MIXED-METHODS USER EXPERIENCE STUDY
+
+Sandeep Kapoor1, 2; Megan O'Grady3; Evan Gilmer3; Charles J. Neighbors3; Nancy Kwon4, 2; Joseph Conigliaro1, 2; Jonathan Morgenstern5, 2. 1Northwell Health, New Hyde Park, NY; 2Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY; 3National Center on Addiction and Substance Abuse, New York, NY; 4Northwell Health - Long Island Jewish Hospital, New Hyde Park, NY; 5Northwell Health, Great Neck, NY. (Control ID #3186087)
+
+# BACKGROUND:
+
+Well-documented barriers have limited the widespread, sustained adoption of screening and intervention for substance use problems in healthcare settings. Mobile health (mHealth) applications may address provider-related barriers; however, there is limited research on development and user experience of such applications. Despite being a major public health issue, substance use remains under addressed in healthcare settings. A 2017 report indicates only one in six binge drinkers in the US are asked about alcohol use and advised to cut down by a health professional. Screening, Brief Intervention, and Referral to Treatment (SBIRT) is a model that can be used in healthcare settings to identify and address risky substance use. Evidence for SBIRT efficacy has been demonstrated with the strongest evidence coming from studies conducted in primary care that target reductions in alcohol use.

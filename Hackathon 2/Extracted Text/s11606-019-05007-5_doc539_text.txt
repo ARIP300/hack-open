@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 45-year-old man presented with unexplained pancytopenia in the absence of any acute symptoms. He endorsed mild headache, right shoulder pain, and bilateral ankle swelling that were chronic. He had a previously identified systolic murmur, decreased range of motion at the right shoulder, and symmetrical swollen ankles. An unintentional 10-pound weight loss in the preceding six months was noted. History included well-controlled HIV infection, on antiretroviral therapy and prophylactic trimethoprim-sulfamethoxazole; untreated hepatitis C, including recent ultrasound showing mild splenomegaly; recent hospitalization for bacteremia of unknown source; and aortic stenosis. He admitted to polysubstance abuse with alcohol, methamphetamine, marijuana, and tobacco. Hemoglobin (5.3) and white blood cells (2.9) were decreased from one month prior. Platelets (46) were stable. Differential showed increased nucleated red blood cells. Peripheral smear showed occasional schistocytes. CRP and ferritin were elevated. Other laboratory studies including B12, folate, lactate dehydrogenase, haptoglobin, and testing for parvovirus and herpes simplex virus were negative. Trimethoprim-sulfamethoxazole was held, with small improvement in all cell lines. Bone marrow biopsy showed 21% blasts, myeloperoxidase stain positive, and was diagnostic for acute myeloid leukemia.
+
+# IMPACT/DISCUSSION:
+
+This patient's complex history highlights many important considerations for this process. Low socioeconomic status and polysubstance abuse increased the risk for nutritional deficits that could impair hematopoiesis. Exposure to toxins such as alcohol can also suppress the bone marrow. Viral infections, including HIV, hepatitis C, Epstein-Barr, and parvovirus can as well. Medications and infiltrative diseases are another potential culprit in cases of bone marrow failure. This patient also had elevated ferritin, which is a diagnostic criterion for hemophagocytic lymphohistiocytosis, and joint pain, which serves as a reminder that rheumatologic disease (e.g., rheumatoid arthritis, systemic lupus erythematosus) can also cause bone marrow failure or hypersplenism. Another important cause of peripheral destruction is disseminated intravascular coagulation. These latter considerations were relevant in this case given the patient's splenic ultrasound and his history of joint pain and bacteremia. In patients with HIV, it can be tempting to attribute new pathology to the virus itself. However, these patients often have complex histories, and HIV carries increased risk for other disorders, as well. In this case, the increased risk of leukemia in HIV was pertinent to the final diagnosis.
+
+# CONCLUSION:
+
+Pancytopenia is commonly encountered by the general internist. Because of its broad differential, a thorough evaluation is necessary to avoid missed diagnoses.
+
+# STEMI IN A YOUNG PATIENT: ROLE OF AN INTERNIST
+
+Anubhav Jain; Ankita Aggarwal. Wayne State University, Auburn Hills, MI. (Control ID #3186424)
+
+# LEARNING OBJECTIVE #1:
+
+Identify risk factors of coronary artery disease in young patients
+
+# CASE:
+
+The patient is a 34-year-old male with no past medical history, no known cardiac risk factors and no family history of cardiac disease who presented to the emergency department with acute onset pressure-like chest pain radiating to his back, bilateral shoulders and arms for an hour. In the ED, he continued to have pain, relieved a little with nitro. He was hemodynamically stable. EKG revealed ST elevation in leads V2-V6 suggestive of anterior wall MI. Troponin was negative initially. Cardiology was consulted. He was taken for an emergent left heart catheterization. A left heart catheterization revealed 100 % occlusion of the left anterior descending (LAD). A drug-eluting stent was placed in it. He was started on optimal medical therapy including aspirin 81 mg daily, ticagrelor 90 mg Q 12 hrs, metoprolol 50 mg Q12 hrs, atorvastatin 80 mg daily. Workup for possible cardiac risk factors revealed dyslipidemia with hypercholesterolemia (Total cholesterol: 257), hypertriglyceridemia (TG; 772), low HDL (31), prediabetes (HbA1C: 5.7), morbid obesity (BMI 35 with complications), metabolic syndrome (Obese, high cholesterol and low HDL) and smoking (3 pack year history). He was advised about lifestyle modification with diet and physical activity and cessation of smoking.
+
+# IMPACT/DISCUSSION:
+
+The prevalence of coronary artery disease (CAD) in young patients defined as age less than 45 years is low (1.2%). The most common risk factors in this population are obesity and a history of smoking, unlike older patients where dyslipidemia and history of diabetes are the most important risk factors. In most young patients, the first manifestation of CAD is STEMI unlike stable angina in older patients.
+
+# CONCLUSION:
+
+Acute coronary syndrome has a rare incidence in young patients. Since obesity and smoking are the most common cardiovascular risk factors in this population, it is important for us physicians to emphasize the importance of lifestyle modification in these patients to prevent major cardiovascular events. Our case highlights the importance of educating our patients about the risk of developing CAD and ACS at a young age with these risk factors even in the absence of family history.
+
+# STERNOCLAVICULAR JOINT SEPTIC ARTHRITIS CAUSED BY ESCHERICHIA COLI IN A HEALTHY ADULT WITHOUT RISK FACTORS.
+
+Liwayway R. Andrade; Saurin Gandhi; Jaison John. The University of Texas Dell Medical School, Austin, TX. (Control ID #3186306)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize the clinical features of sternoclavicular joint septic arthritis for early diagnosis and medical management.
+
+# CASE:
+
+A 65-year-old woman without significant prior medical history presented to the emergency department with a five-week history of persistent sharp left anterior neck pain radiating to the left shoulder, worse on movement of the left arm. Pain started following a mechanical fall that resulted in a non-displaced fracture of the right distal fibula, managed non-surgically, but no history of direct trauma to the left neck, shoulder, or arm. She reported fever, chills, nausea and vomiting four weeks prior attributed to having the flu, but no chest pain, dysphagia, odynophagia, numbness or weakness. Physical exam was significant for asymmetry of the left sternoclavicular joint and mild tenderness to palpation over the area without erythema or edema. Laboratory findings were notable for the absence of leukocytosis and elevation in ESR and CRP. An outpatient MRI showed inflammation of the left sternoclavicular joint. Joint aspirate and blood cultures grew gram-negative rods. Patient was started empirically on cefepime, and infectious disease was consulted. A CT of the abdomen and pelvis was non-revealing for the source of the bacteremia. A transthoracic echocardiogram did not demonstrate vegetation or an embolic source. The source of the infection was never elucidated. Cultures later speciated to pan-sensitive Escherichia coli. Patient was discharged home after seven days and successfully completed a six-week course of antibiotic therapy with ceftriaxone.
+
+# IMPACT/DISCUSSION:
+
+Infection of the sternoclavicular joint is a rare presentation of septic arthritis occurring in 1% of the general population. Diagnosis requires a high index of suspicion particularly in healthy adults without risk factors as it typically presents subacutely with minimal symptoms: chest pain localized over the sternoclavicular joint (78%), shoulder pain (24%), and neck pain (2%). Sternoclavicular joint tenderness (90%) is the most common and reliable physical finding. Fever, leukocytosis and bacteremia are present in only about half of the cases. Risk factors include history of

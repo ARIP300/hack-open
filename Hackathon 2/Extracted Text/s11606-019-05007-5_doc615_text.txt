@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERIS-
+TICS
+
+We sought to examine changes in influenza vaccination over three vaccination seasons (2015 to 2018) following decision support improvements and team changes. The setting was 21 adult primary care clinics within a large health system in Chicago, IL and its suburbs. At the start of Season Two, clinical quality leaders and information system experts implemented clinical decision support changes in the electronic health record to facilitate documentation of components related to influenza vaccination (e.g., prior receipt that season, prefers to obtain elsewhere, refusals). Subsequently, they implemented changes to rooming workflow for medical assistants, licensed practical nurses, or registered nurses to promote vaccination at the visit, prepare vaccine orders, document care done elsewhere and record patient refusals. Workflow changes were fully implemented by the start of Season Three.
+
+# MEASURES OF SUCCESS
+
+Modified version of performance measure Preventive Care and Screening: Influenza Immunization; proportion of eligible patients receiving onsite influenza vaccination.
+
+# FINDINGS TO DATE
+
+There were approximately 120,000 eligible patients each season and 267 to 298 eligible clinicians. The influenza vaccination performance measure increased substantially each year and was 40.6% in Season One, 62.5% in Season Two and 76.4% in Season Three (P<0.001 for all changes). Corresponding values for onsite vaccination were 27.7%, 28.8% and 31.5%. The adjusted odds ratio for receiving onsite influenza vaccination in Season Two compared to Season One was 0.94 (95% confidence interval 0.92, 0.96). Patients were more likely to receive onsite vaccination in Season Three compared to either of the prior seasons—adjusted odds ratio for Season Three vs. Season Two 1.14 (95% CI, 1.12, 1.16), adjusted odds ratio for Season Three vs. Season One 1.07 (95% CI 1.05, 1.09).
+
+# KEY LESSONS FOR DISSEMINATION
+
+Sequential changes in computerized clinical decision support to make the documentation of elements related to influenza vaccination easier and the addition of new clinical workflows in the patient rooming process were associated with very large improvements in measured performance over two vaccination seasons and with a modest increase in the proportion of patients receiving clinic-administered influenza vaccination. Changes to rooming workflow and the function of care team members appeared to be most important factor for increasing onsite vaccination.
+
+# DEMYSTIFYING THE INFLUENZAVACCINE: VIDEO MEDIA IMPROVES VACCINE ACCEPTANCE RATES IN AN UNDER-
+SERVED URBAN RESIDENT-PHYSICIAN PRIMARY CARE CLINIC
+
+Gayatri Malhotra-Gupta 3, 2; Alexandra I. Kreps 3, 2; Lucas Policastro 1, 2; Emmanuel M. Francis1, 2; Leonel Mendoza 1, 2; Daniel Kashani1, 2; Andrew A. Chang 3, 2; David L. Stevens4, 2; Lucas Dreamer 3, 2; Melissa S. Lee 1, 2. 1Kings County Hospital, Brooklyn, NY; 2SUNY Downstate Medical Center, Brooklyn, NY; 3NYC Health + Hospitals/Kings County, New York, NY; 4NYC Health + Hospitals/Kings County, Brooklyn, NY. (Control ID #3186166)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Many of our primary care patients are hesitant to accept the influenza vaccine, resulting in a low vaccination rate. Our goal was to increase vaccination from a baseline of 35% (2017 influenza season) to 50% during the 2018 influenza season using a resident-made informational video.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+- Improve patient health literacy around the influenza vaccine
+- Identify common reasons for influenza vaccine declination in our patient population
+- Create and measure the impact of an educational video based on the CDC fact sheet, "No More Excuses: You - Need a Flu Vaccine" on local influenza vaccination rates
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+Internal Medicine residents at NYC H+H/Kings County produced a 2-minute educational video addressing common reasons for flu shot declination. Starring physicians and patient care assistants, the message was delivered by culturally familiar staff. From October to December 2018, patients were asked their reasons for declining influenza vaccination. An educational video was played in the exam room while the resident met with his/her attending preceptor. Subsequently, residents engaged in a shared decision making (SDM) discussion around the risks and benefits of flu vaccination. Patients were then offered the flu vaccine.
+
+# MEASURES OF SUCCESS
+
+Vaccine acceptance was recorded both before and after education with a locally produced video and SDM discussion. The intention-to-treat principle was applied in cases where video playback was refused. The primary objective was to measure the conversion rate of initial flu vaccine declination to acceptance following intervention. A secondary objective was to enumerate the frequency of patients' preconceived reasons for flu vaccine refusal.
+
+# FINDINGS TO DATE
+
+The most common reason our patients refused the flu vaccine was, "I don't get the flu." In October, flu vaccine acceptance increased by 16.7% following the video and SDM intervention; 58.3% patients received a flu shot. More patients agreed to vaccination in November (81.25%) and December (70%), and 9 out of 23 (39%) patients who initially declined the flu vaccine changed their mind post-intervention as the flu epidemic hit our community. Consistent use of the educational video and SDM improved uptake of flu vaccination in our population, leading to an increase from a baseline of 35% in the 2017 season to 72.4% during our study period.
+
+# KEY LESSONS FOR DISSEMINATION
+
+After identifying and addressing the prevailing myths of flu vaccination, and locally producing a video to educate patients on the importance of influenza vaccination, the rate of flu vaccination in our patient population increased. This innovative form of patient education using video media during office visit time improved SDM discussions around vaccination. Key components included a tailored, culturally relatable educational platform featuring our patients' healthcare team. We highlight here the importance of using personalized, alternative media as an approach to improving health literacy around preventive health and wellness.
+
+# DEVELOPING A DATABASE TO DRIVE AMBULATORY HEALTHCARE INNOVATION
+
+Lisa Rotenstein1; Ashley Shaw2; Margaret Krasne2; Charles Safran3; Sandhya K. Rao; Russell Phillips2. 1Brigham and Women's Hospital, Boston, MA; 2Harvard Medical School, Boston, MA; 3Harvard Medical School, Brookline, MA; 4Massachusetts General Hospital, Boston, MA. (Control ID #3185918)

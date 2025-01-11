@@ -1,0 +1,35 @@
+# ABSTRACTS
+
+# Forest plot for all-cause mortality of targeted temperature management after cardiac arrest
+
+# AMBIVALENCE TOWARD OPIOID TAPERING AMONG VETERANS ON LONG-TERM OPIOID THERAPY
+
+Anne Hale2; Evan Carey2; Lindsay B. Miller3; Charlotte Nolan4; Erin E. Krebs5; Joseph W. Frank1. 1University of Colorado School of Medicine, Aurora, CO; 2Veterans Affairs, Denver, CO; 3VA Eastern Colorado Healthcare System, Aurora, CO; 4Veterans Health Administration, Denver, CO; 5Minneapolis VA Health Care System, Minneapolis, MN. (Control ID #3185906)
+
+# BACKGROUND:
+
+There is inadequate evidence of benefit from long-term opioid therapy (LTOT) and growing evidence of harms. Expert guidelines recommend weighing the risks and benefits of LTOT, and if risks outweigh benefits, recommend reducing or discontinuing LTOT. Many patients on LTOT report ambivalence about opioid medications but patient perspectives on opioid tapering are not well understood. To better understand patient perspectives on opioid tapering, we examined patient-reported importance, readiness, and confidence in their ability to taper opioid medications.
+
+# METHODS:
+
+We conducted a cross-sectional study within a national prospective cohort study, the Effects of Prescription Opioid Changes for Veterans (EPOCH) Study. The EPOCH Study identified Veterans on LTOT, defined as 150 days' supply in 180 days with no gaps >40 days, and 9,253 Veterans completed a baseline survey in 2015 (92% by mail, 8% by phone). We randomly selected 600 Veterans who met two criteria at EPOCH baseline: 1. completed mail survey; and 2. prescribed 50mg morphine equivalent daily dose (MED). We completed structured phone interviews at the 18-month EPOCH timepoint among 316 Veterans (53% response rate). We assessed self-reported past year opioid tapering or discontinuation and 11-point scales of importance, readiness and confidence related to opioid tapering ("On a scale of 0 to 10, where 0 is 'not at all important' and 10 is 'extremely important', how important do you think it is to cut down or stop using opioid medicines?"). Data on demographics, medications and diagnoses were obtained from the electronic health record. We used t-tests and chi-square tests to examine bivariate associations between past year opioid tapering and these 11-point scales responses.
+
+# RESULTS:
+
+The study sample was primarily age 60 years or older (73%), male (92%), and White (87%), and the most common pain diagnoses were back pain (76%) and other joint pain (46%). Opioid medication doses at EPOCH baseline were 50-99mg MED (53%), 100-199mg MED (37%) and 200+mg MED (10%). A majority (190/316, 60%) reported tapering in the past year or discontinuing opioid medications. Responses ranged from 1-10 for all three scales. Individuals who reported past year opioid tapering or discontinuation reported significantly higher levels of importance, confidence and readiness related to opioid tapering (Table).
+
+# CONCLUSIONS:
+
+Veterans on long-term opioid therapy report ambivalence about opioid tapering or discontinuation. Measures of importance, readiness, and confidence are associated with prior opioid tapering experience. Future studies should examine the utility of these scales to support behavior change in the context of opioid tapering as well as the relationship between patient-reported ambivalence and subsequent opioid dose reduction.
+
+# AN ACCEPTABILITY STUDY OF HEALTHCARE NEED AND UTILIZATION IN STREET-BASED PERSONS WHO INJECT DRUGS IN CHICAGO
+
+Anna Solotskaya1, 2; Rachel Bernard2; Karim G. Khan; Shaveta Khosla2; Antonio D. Jimenez2; Stockton Mayer2. 1OHSU, Portland, OR; 2University of Illinois - Chicago, Chicago, IL. (Control ID #3177350)
+
+# BACKGROUND:
+
+Injection drug use (IDU) is associated with significant morbidity and mortality. Persons who inject drugs (PWID) suffer from a number of psychiatric, chronic and acute illnesses. Despite their healthcare needs, this population has poor integration with primary care and preventative health services. As such, PWID are particularly difficult to study and have high burdens of disease.
+
+# METHODS:
+
+We confirmed the acceptability of conducting a research study through the use of a mobile outreach van with a population of...

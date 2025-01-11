@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# PATIENT NAVIGATION AMONG RECENTLY HOSPITALIZED SMOKERS TO PROMOTE SMOKING CESSATION: BASELINE RESULTS FROM A PILOT RANDOMIZED CONTROLLED TRIAL
+
+Lisa M. Quintiliani1, 2; Ve Truong2; Jennifer Murillo2; Hasmeena Kathuria1, 2; Belinda Borrelli3; Karen E. Lasser1, 2. 1Boston University, Boston, MA; 2Boston Medical Center, Boston, MA; 3Boston University Henry M. Goldman School of Dental Medicine, Boston, MA. (Control ID #3176007)
+
+# BACKGROUND:
+
+Tobacco treatment interventions initiated during hospitalizations with supportive contacts after discharge promote continuity of treatment and enhance likelihood of cessation. However, to our knowledge, these interventions lack screening for and addressing health-related social needs. Such screening may improve intervention effectiveness: if social needs are addressed, patients may be better able to focus on cessation. Our objective is to present baseline and process data from a pilot study examining the feasibility of a tobacco treatment intervention that includes screening for health-related social needs among recently hospitalized smokers at a large-safety net hospital.
+
+# METHODS:
+
+In a two-group 3-month pilot randomized controlled trial, we assigned hospitalized smokers to either a control group (list of smoking cessation resources) or an intervention group (up to 10 hours of patient navigation over a 3-month period, in which a navigator screens for health-related social needs and discusses smoking with the patient and links patients to effective treatments and resources). Inclusion criteria were: 18 years old, hospitalized at the time of randomization, smoked 1 cigarette/day, had plans to ever quit smoking, spoke English, and owned a telephone. We assessed socio-demographics, smoking-related variables, and process data.
+
+# RESULTS:
+
+Of 38 individuals screened and found eligible, 36 (95%) were enrolled. Participants (n=36, mean age=53.9 years, 61.1% Hispanic, 66.6% high school education or less, 80.5% Medicaid) smoked a mean of 12.2 cigarettes/day. Initially, our intervention protocol was to provide 2 hours of navigation over 1 month. However, only 3 of 7 participants received a minimum intervention dose (completion of the social needs screener and at least one conversation about smoking), as the navigator was unable to contact 1 participant and 3 participants were too sick (as reported by the patient or perceived by the navigator). Because so few participants received the minimum dose, we changed our protocol (allowing up to 10 hours of navigation over 3 months). Among those (n=6) who have completed the 3-month intervention, 3 participants received the minimum intervention dose. The number of contacts per participant ranged from 9-16; contacts included texting, telephone, and home visits. Among the six participants who were screened for health-related social needs, all reported lack of employment, 2 reported trouble paying heating bills, and 1 reported not having a high school degree; 1 person requested follow-up services after completing the screener.
+
+# CONCLUSIONS:
+
+While study enrollment was high among eligible patients, the feasibility of this intervention is limited by difficulty contacting recently hospitalized patients post-discharge due to illness. Future iterations of this intervention could introduce the navigator to the patient while the patient is still hospitalized. Future research should explore the acceptability of screening patients for health-related social needs.
+
+# PATIENT OPINIONS ABOUT DIGITAL MESSAGING FOR CLINICAL RESEARCH RECRUITMENT
+
+Michael Cantor2, 1; Michael Mishik3. 1NYU School of Medicine, New York, NY; 2Regeneron Pharmaceuticals, Tarrytown, NY; 3NYU Langone Health, New York, NY. (Control ID #3142707)
+
+# BACKGROUND:
+
+Identifying and recruiting patients for clinical research remain major challenges for researchers. EHRs are playing larger roles in recruitment, from helping identify cohorts to alerting clinicians about potentially eligible patients. One major issue around using EHRs for recruitment is understanding the best way to manage the amount and type of messaging patients receive. Because research-related communications is a relatively new area, few institutions have set policies in this area. Before setting policy at NYU Langone Health, we chose to survey our patient population to better gauge their beliefs and to obtain data that would help us formulate a policy that aligns with patients' actual preferences rather than their hypothetical concerns.
+
+# METHODS:
+
+The NYU School of Medicine IRB determined that this project was exempt from review. We developed a 10-question survey in our institution's RedCAP system. The survey was developed with input from our institutional Research Governance Group, who gave input on both content and wording of the questions. We then obtained a random sample of 20,000 adult, active MyChart (our Epic® patient portal) users, and sent a survey invitation to 10,000 patients per week for two weeks. The survey was completely anonymous, and the invitation contained a direct link to the RedCap survey. We closed the survey after 3 weeks.
+
+# RESULTS:
+
+We received 2157 responses to the survey. 61.7% of respondents were female, 83% were white, and 11% identified as Hispanic/Latino. 2/3 of patients were within the 46-75 age range. 72% of patients responded that they would be interested in participating in research studies, and 87% of all patients responded that they would be interested in receiving research-related messages. Responses about limits on the number of messages that patients receive were nearly evenly split, with 46% responding that there should not be a limit on the number of research-related messages received, and 39% responding that there should be a limit. Over 90% wanted the option to opt-out of receiving further messages with each invitation. Opinion about the "right" number of research-related messages that a patient could receive in a particular time period was mixed, but were nearly evenly split between 1-2 times a month and no limit on messages.
+
+# CONCLUSIONS:
+
+Developing and distributing the survey through the patient portal was a relatively straightforward process and was relatively quick to implement after institutional approval. Our survey revealed engaged patients who are interested in finding out more about research, and who wish to have input into and control over the number and types of research-related messages they receive. Performing a similar survey in a larger, more diverse population would help give a more accurate picture of broader patient preferences. Digital messaging can be an effective tool for research-related communications, and could be added to the current toolbox of general recruitment techniques.
+
+# PATIENT STAKEHOLDER ENGAGEMENT IN RESEARCH: A SYSTEMATIC REVIEW TO DESCRIBE FOUNDATION PRINCIPLES AND BEST PRACTICE ACTIVITIES
+
+James D. Harrison1; Andrew Auerbach1; Krista Woodward4; Wendy Anderson5; Maureen Fagan3; Martha Carnie2; Catherine Hanson3; JIm Banta6; Gina Symczak6; Edmondo Robinson8; Jeffrey Schnipper7; Celene Wong2; Rachel Weiss1. 1University of California San Francisco, San Francisco, CA; 2Brigham and Women's Hospital, Milton, MA; 3University of Miami Health System, Miami, FL; 4Patient Centered Outcomes Research Institute, Washington DC, DC; 5Division of Palliative Medicine, University of California San Francisco, San Francisco, CA; 6Intensive Care Unit Patient & Family Advisory Council, University of California San Francisco, San Francisco, CA; 7Department of Medicine, Brigham & Women's Hospital, Boston, MA; 8Christina Care Health System, Delaware, DE. (Control ID #3162491)
+
+# BACKGROUND:
+
+Health research is evolving to include patient stakeholders (patients, families and caregivers) as active members of research teams. The proliferation of frameworks describing the conceptual foundations underlying this engagement, and strategies detailing best practice activities to support this process has led to a diffusion of information. Therefore, the aims of this study are to identify, quantify and summarize 1) the foundational principles of patient stakeholder engagement in research and 2) best practice activities to support these efforts.
+
+# METHODS:
+
+We conducted a systematic review of the literature supplemented with review of the gray literature to create a narrative review. We accessed a publicly available repository of systematically identified literature of English-

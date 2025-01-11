@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CMV Retinitis in an Immunocompetent Patient
+
+A 82-year-old man presented with decreased visual acuity in his left eye. He had been evaluated for an infectious cause of retinal ischemia two years prior and serologic work-up was negative for toxoplasmosis, tuberculosis, and syphilis, as was PCR testing of vitreous humor for varicella-zoster virus. He was lost to follow-up until the current presentation. His review of systems was negative for fever, weight loss, night sweats, headache, or diarrhea. On exam, he had mild conjunctivitis, equally reactive pupils, and grossly intact extraocular movements. His heart sounds were distant parasternally but normal at the apex. He had no lymphadenopathy. Ophthalmologic examination was concerning for occlusive vasculopathy and vitritis so paracentesis of the anterior chamber was performed and PCR confirmed the diagnosis of CMV retinitis. He was initiated on systemic ganciclovir and intravitreal foscarnet. Further investigation for immune deficiency was performed and he was found to be pan-hypogammaglobulinemic (IgA 54, IgG 183, IgM 13) with a relative CD4 lymphopenia (CD4% 18, CD4:CD8 0.31). He did not have clinical evidence of systemic disease and was transitioned to oral valganciclovir at the time of discharge. A diagnosis of Good's syndrome was made on the basis of thymoma with pan-hypogammaglobulinemia, relative CD4 lymphopenia, and an immunodeficiency-defining diagnosis.
+
+# IMPACT/DISCUSSION
+
+Though CMV retinitis in the immunocompetent individual has been described, it is rare and should prompt clinicians to evaluate for causes of immunodeficiency. In the non-transplant, non-HIV-infected patient, this leaves the spectrum of primary immunodeficiency syndromes. In adults with thymoma, the differential must include Good's syndrome, an adult-onset combined B- and T-lymphocyte deficiency characterized by recurrent sinopulmonary infections from encapsulated organisms, as well as organ-specific viral infections. Laboratory findings include decreased B cells, pan-hypogammaglobulinemia, CD4 lymphopenia, and an abnormal CD4:CD8 ratio. Prognostically, the literature suggests poorer long term outcomes compared to patients with X-linked agammaglobulinemia or combined variable immune deficiency. Treatment of CMV infection is identical to that in HIV-infected persons; management of Good's syndrome should include resection of thymoma and IVIG. Though the average age of patients at diagnosis is 40-50, our patient (82) represents one of the oldest cases described in the literature.
+
+# CONCLUSION
+
+CMV retinitis in immunocompetent patients is rare and should prompt investigation into causes of immunodeficiency. Good's syndrome should be considered in adults age >40 with thymoma and immunodeficiency.
+
+# FOR STROKE'S SAKE: VARICELLA ZOSTER VIRUS (VZV) VASCULOPATHY
+
+Chengcheng Ye; Albert Anderson. Emory University, Atlanta, GA. (Control ID #3186006)
+
+# LEARNING OBJECTIVE #1
+
+Emphasize stroke as a rare neurological complication of VZV
+
+# LEARNING OBJECTIVE #2
+
+Recognize empirical treatment with acyclovir and prednisone for VZV vasculitis
+
+# CASE
+
+A 49-year-old African American man with a history of HIV/AIDS (CD4 66/6%), hypertension, and VZV encephalopathy presented with progressive right sided weakness. He reported falls and dysarthria. He denied any fevers, chills, rashes, headaches, or visual changes. Examination revealed decreased strength and slowed coordination of the right arm and leg along with a right hemiparetic gait. MRI brain showed new subacute frontal lobe infarction and small left cerebellum infarctions. Transthoracic echocardiogram was normal. A cerebral angiogram demonstrated right posterior inferior cerebellar artery fusiform aneurysm and scattered segmental narrowing involving the mid to distal bilateral anterior and middle cerebral arteries concerning for vasculitis. Given his immunocompromised status, a lumbar puncture was performed with normal opening pressure. Studies revealed no pleocytosis, cerebrospinal fluid (CSF) protein of 45 mg/dl, normal CSF glucose, negative VDRL, HSV, JCV, CMV, toxoplasmosis, cryptococcus, and culture. Polymerase chain reaction (PCR) for VZV was negative but was positive for VZV IgG and IgM, confirming intrathecal production of anti-VZV antibodies. Acyclovir and prednisone were started, and patient's right sided weakness and motor function improved. Patient finished a 14-day course of acyclovir and prednisone and was discharged on valacyclovir for suppressive therapy.
+
+# IMPACT/DISCUSSION
+
+The classic presentation of VZV vasculopathy is acute contralateral hemiplegia after ophthalmic zoster. Although our patient had no ophthalmic or dermatomal zoster, these absences should not deter a physician from pursuing a diagnostic evaluation for VZV especially in an HIV patient. Up to one-third of patients with VZV vasculopathy have no preceding rash. Importantly, the diagnosis of this treatable cause of stroke is often missed because one-third of patients have no zoster rash, one-third have normal CSF, and there is often a four-month delay from zoster to neurological symptoms. Characteristic data include MRI findings consistent with an ischemic or hemorrhagic infarction, and angiography reveals large and small vessel disease. CSF pleocytosis of less than 100 cells/mL is common. Although a positive VZV PCR in the CSF is helpful, a negative PCR does not exclude the diagnosis. Only if both VZV PCR and VZV IgG antibody are negative can VZV vasculopathy be reliably excluded. Treatment for both immunocompetent and immunocompromised patients include acyclovir and prednisone for inflammation.
+
+# CONCLUSION
+
+Clinical suspicion should be high for VZV vasculopathy as a cause of stroke especially in an immunocompromised patient. A negative CSF VZV PCR does not exclude the diagnosis, and early therapy should be initiated for this reversible cause of stroke.
+
+# FORGOTTEN, BUT NOT GONE: A CASE OF LEMIERRE'S SYNDROME: THE FORGOTTEN DISEASE
+
+Margaret V. Spinosa; Twomey Kathleen; Fidelis Ojevwe. Penn State Hershey Medical Center, Palmyra, PA. (Control ID #3186019)
+
+# LEARNING OBJECTIVE #1
+
+Recognize Lemierre's Syndrome as a potentially life-threatening illness if left untreated.
+
+# LEARNING OBJECTIVE #2
+
+Assess for multiorgan complications easily missed as features of Lemierre's Syndrome.
+
+# CASE
+
+A 25 year old woman with neurofibromatosis presented with one day of nausea, vomiting, headache, diplopia and one month of sore throat and right ear pain. On physical examination, she was found to be hypotensive and tachypneic. She was unable to laterally abduct her right eye and her tongue deviated to the right with protrusion. She had an erythematous right tympanic membrane with effusion, bibasilar crackles and suprapubic tenderness. Initial laboratory studies were normal. Brain MRI and CT chest, abdomen and pelvis were ordered. Imaging revealed thrombosis of the right internal jugular vein extending into the right sigmoid, distal transverse and cavernous sinuses and inflammation of the internal carotid artery sheath. Right petrous apicitis, mastoid and middle ear fluid also was seen. Abdominal imaging showed a larger heterogenous pelvic mass. Chest imaging showed bilateral cavitating pulmonary lesions. An echocardiogram was notable for a small PFO and admission blood culture resulted positive for Fusobacterium necrophorum. The patient was examined with nasal laryngoscopy and found to have purulence in the Eustachian tub orifice and fullness of the right adenoid pad. She was treated with IV ampicillin-sulbactam. Interventional Radiology biopsied the pelvic mass which was notable for soft tissue inflammation with microabscesses and purulent exudate with no evidence of malignancy or neurofibroma. She completed a prolonged course of antibiotics and was started on anticoagulation due to extent of thromboses in her sinuses.
+
+# IMPACT/DISCUSSION
+
+This case illustrates the potential for multiorgan consequences of Lemierre's Syndrome caused by Fusobacterium necrophorum, an anaerobe commonly found in the oro-pharynx and spread by septic thrombophlebitis of the internal jugular vein. Often a result of pharyngitis, in this case the inciting infection was likely acute otitis media. While septic emboli to the lung are a more common complication, the systemic effects can be severe and require prompt recognition and treatment.

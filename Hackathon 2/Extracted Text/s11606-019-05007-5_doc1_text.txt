@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+# “AN INCREDIBLE TOOL WITH MANY FLAWS.” PRIMARY CARE PHYSICIANS' ATTITUDES TOWARD ELECTRONIC HEALTH RECORDS: AN INTERVIEW STUDY
+
+Tania Moerenhout2, Gary Fischer1, Marlies Saelaert2, An I. De Sutter2, Veerle Provoost2, Ignaas Devisch2.
+
+1 University of Pittsburgh, Pittsburgh, PA; 2 Ghent University, Ghent, Belgium. (Control ID #3175488)
+
+# BACKGROUND:
+
+The electronic health record (EHR) has evolved into a complex multifunctional tool that facilitates the sharing of medical information with both patients and their health care providers, even across institutions. Although much has been written about positive and negative effects of the EHR on efficiency, safety, and physician burn-out, many questions remain unanswered regarding the ethical dimensions of the EHR and its effect on the patient-doctor relationship. The aim of this study is to understand how general internists (PCPs) integrate the EHR into their workflow and what ethical questions arise while sharing medical information.
+
+# METHODS:
+
+The first author held semi-structured interviews between February and May 2017 with 14 PCPs recruited through a purposive, convenience-based sampling process from an academic general internal medicine practice of 46 faculty and 46 residents in Pittsburgh, PA. The clinic uses Epic software with a patient portal. Data were analyzed against a theoretical background of postphenomenology (combining the empirical orientation of Science and Technology Studies with a more conceptual philosophical analysis) and moral mediation (examining how "technologies mediate moral decisions and actions" (Verbeek. Moralizing Technology. Understanding And Designing The Morality Of Things.)), using thematic analysis in an iterative process. Three interviews were coded by 2 coders and discussed until consensus was reached. The first author continued the coding process with the established code book, expanding with new codes as needed. The thematic analysis process adhered to the six phases described by Braun and Clarke of data familiarization, code generation, theme identification, theme revision, theme definition and production of the final report.
+
+# RESULTS:
+
+Four major themes and 1 minor theme were identified. Major themes: (1) PCPs describe the EHR as a medicine with side effects, for which they provide suggestions for improvements; (2) The transition to a digitally shared record raises ethical dilemmas related to autonomy and paternalism; (3) Although use of the EHR often disturbs rapport with the patient, it can support patient-doctor communication when it becomes an active part of the conversation; (4) The digitalization of doctor-doctor communication has a complex effect on the concept of trust. Minor theme: A shared record may cause health care workers (and their relatives) to avoid seeking help for sensitive issues.
+
+# CONCLUSIONS:
+
+By understanding physicians' coping strategies and suggestions for improvement, and by focusing on the active integration of the EHR into patient-doctor communication, EHR design could be adapted to improve quality of care. EHRs raise underexplored issues of autonomy vs paternalism regarding sharing information with patients. More research is needed to understand the unexpected effects of the technology on moral dimensions of the patient-doctor interaction, in particular on autonomy and trust.
+
+# “I DIDN'T THINK IT WAS FAIR BECAUSE I'M NOT AN ABUSER”: OPIOID TAPERING EXPERIENCES AMONG RACIAL AND ETHNIC MINORITIES IN A PRIMARY CARE SETTING
+
+Hector R. Perez2; Ariana G. Pazmino2; Michele J. Buonora1; Joanna L. Starrels2.
+
+1 Albert Einstein College of Medicine and Montefiore Medical Center, Bronx, NY; 2 Albert Einstein College of Medicine & Montefiore Medical Center, Bronx, NY. (Control ID #3184347)
+
+# BACKGROUND:
+
+Substantial evidence exists that pain management practices differ by patient race and ethnicity, and that racial and ethnic minorities perceive their pain care as biased. However, prior studies have not examined the perspectives of racial and ethnic minorities on chronic opioid therapy (COT) about their experiences with opioid tapering.
+
+# METHODS:
+
+In this qualitative study, we conducted semi-structured 1:1 telephone interviews with patients who experienced opioid tapers in a primary care setting in a large urban health system in the Bronx, NY. Patients were eligible if they were at least 18 years old and were prescribed a stable dose of COT before undergoing a 30-100% dose reduction (opioid taper) between 2016 and 2017, as confirmed by manual chart review. Patients were ineligible if they had a history of cancer at the initiation of the taper or if they were not retained in care in the health system during the taper. Interview questions sought to understand patients' experiences and beliefs about opioid tapering, including perceived barriers and facilitators. Sociodemographics were collected by self-report and from the electronic medical record. Transcripts were coded and analyzed by two authors using a thematic analysis approach.
+
+# RESULTS:
+
+Of 43 patients contacted, 10 agreed to participate. Average age was 53.9, 5 were male, 6 were Black/African-American, and 4 were Hispanic. The overarching theme was participants felt unfairly targeted for a taper given their ongoing chronic pain; within this were three prominent sub-themes reflecting judgments derived from personal experiences. First, participants distinguished themselves from other patients who deceive providers to obtain opioids: "I know of a lot of people who only gets them to sell them, which makes it bad for people who really need it." Second, participants lacked trust in the healthcare system: "[The providers are] just telling me whatever to get a paycheck. They don't really care." Third, participants perceived themselves to have low risk for negative consequences of opioids: "If I'm in pain I'm going to take my medicine…I'm not that weak to sit there and…overdose." Key facilitators of successful tapering included support from friends, family, and providers: "[The taper] was a great experience…He's the best doctor I could ever ask for…He works for me…He's been with me the whole time."
+
+# CONCLUSIONS:
+
+In this sample of racial and ethnic minorities who experienced opioid tapers, we found that feeling unfairly targeted for a taper was a predominant theme. Participants described how their experiences with others who use opioids, with the healthcare system, and with their medications contributed to feelings of inequity. Future interventions for racial and ethnic minorities should address real and perceived inequities associated with tapering to promote patient engagement and facilitate successful tapering experiences.
+
+# “IF YOU CAN'T TALK TO YOUR DOCTOR ABOUT IT, WHO CAN YOU TELL?” A QUALITATIVE STUDY OF PATIENT ACCEPTABILITY AND PREFERENCES FOR SOCIAL RISK SCREENING IN HEALTH SETTINGS.
+
+Elena Byhoff1, 2; Emilia De Marchis3; Nancy E. Adler4; Kelly M. Doran5; Danielle Hessler3; Stephanie Ettinger de Cuba7; Eric Fleegler8; Nicholas Gavin9; Amy G. Huebschmann10; Stacy T. Lindau11; Maria C. Raven12; Elizabeth L. Tung11; Alicia Cohen6; Susan Jepson17; Wendy Johnson13; Cara C. Lewis16; Eduardo Ochoa14; Aric Prather3; Megan Sandel15; Richard Sheward15; Caroline Fichtenberg4; Laura M. Gottlieb4.
+
+1 Tufts Medical Center, Boston, MA; 2 Tufts University School of Medicine, Boston, MA; 3 University of California, San Francisco, San Francisco, CA; 4 UCSF, San Francisco, CA; 5 NYU School of Medicine, New York, NY; 6 Ann Arbor VA, Providence, RI; 7 Boston University School of Medicine, Boston, MA; 8 Boston Children's Hospital, Boston, MA; 9 Columbia University Vagelos College of Physicians and Surgeons, Brooklyn, NY; 10 University of Colorado School of Medicine, Aurora, CO;

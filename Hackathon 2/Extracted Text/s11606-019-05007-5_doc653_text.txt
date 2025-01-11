@@ -1,0 +1,78 @@
+# ABSTRACTS JGIM
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Due to our location in Denver, Colorado, our outpatient internal medicine practice has an unusually high burden of new oxygen orders, with an average of 20 new orders per month. Since most Medicare patients seen in our office are contracted with just one oxygen vendor, there is little incentive for this vendor to improve customer service. The 18 providers in our office and the medical assistants (MAs) and nurses (RNs) that support them each had a different process for initiating an oxygen order, variable familiarity with the requirements for such orders, and no standard way of following up with vendors to ensure the order was fulfilled. To solve this problem, two MAs were designated as oxygen specialists and given 0.2 FTE to work on this task. They met in person twice a week with a representative from our primary oxygen vendor to review the status of oxygen orders and once a month with practice leadership to review performance data.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Our primary outcome was the number of days between the first oxygen order and the delivery of oxygen to the patient's home. We also performed qualitative interviews to assess the satisfaction of our physicians, the MAs who worked on the project, and the MAs who were not involved in the project.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The average time to fulfillment of a new oxygen order dropped from 12.7 to 5.4 days and has been sustained for 2 months. This means that for every hour our MAs work in this capacity, they reduce the time our patients wait for oxygen by 2.2 days. Qualitative interviews with providers and staff have revealed that both the MAs who became our oxygen specialists and the MAs who no longer need to spend time on oxygen orders are highly satisfied with this new workflow. Provider satisfaction has increased slightly, however there continue to be frustrating delays for oxygen order renewals and CPAP orders, which were not the focus of this project.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+The oxygen ordering process is too complex to be managed efficiently on a case by case basis by all members of the primary care team. Creating an oxygen specialist for a practice can dramatically reduce the time it takes to fulfill a new oxygen order and the paperwork burden on providers and staff. In a non-competitive oxygen marketplace, exchanging performance data and best practices with the primary oxygen vendor improves accountability and turnaround time.
+
+# MYTHBUSTERS! IMPROVING INFLUENZA VACCINATION RATES IN AN URBAN UNDERSERVED RESIDENT PRACTICE USING TARGETED EDUCATIONAL INTERVENTION
+
+Helen Cha1, 2; Filip Oleszak1, 2; Ahmed Awwad1, 2; Hira Chaudhary1, 2; Lucas Dreamer1, 2; Melissa S. Lee1, 2; Andrew A. Chang1, 2; David L. Stevens1, 2. 1NYC Health + Hospitals/Kings County, New York, NY; 2SUNY Downstate Medical Center, Brooklyn, NY. (Control ID #3171379)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Will influenza (flu) vaccination rates improve by targeting patient concerns and providing standardized educational information?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To increase flu shot administration rates by 10% from our practice's usual care (67%) over two months (October-December 2018)
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The resident primary care practice serves a predominantly Afro-Caribbean urban underserved population in Brooklyn, NY. All patients were offered the flu vaccine. Those that declined were engaged in conversation based on the CDC "No More Excuses: You Need a Flu Vaccine" fact sheet. Most common categories of declination reasons were:
+
+- The flu vaccine can give me the flu.
+- I do not need to get the flu vaccine every season.
+- I can wait to get vaccinated.
+- The flu vaccine is not 100% effective/protective.
+
+Residents were educated on the most common reasons for declination and targeted educational interventions based off the fact sheet addressed each patient's specific concern. The number of patients who converted to accepting vaccination was recorded. Patients with reasons other than the above were excluded from the study.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The percentage of patients who converted to accepting the flu vaccine following the intervention.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The flu vaccine was offered to 71 patients, 37 patients (52%) accepted, 34 patients (48%) initially declined. Of these 34 patients, 23 (68%) patients converted to accepting flu vaccination following the targeted educational intervention. In total, 60 out of 71 patients (84%) ultimately accepted flu vaccine administration. Our intervention had an absolute improvement of flu shot acceptance of 17% over usual care (67% in our practice the previous year). 34 patients were surveyed on reasons for declination, with the following results:
+
+- 15 patients (44.1%) "The flu vaccine can give you the flu."
+- 9 patients (26.4%) "The flu vaccine is not 100% effective/protective."
+- 6 patients (17.6%) "I can wait to get vaccinated."
+- 4 patients (11.7%) "I do not need to get the flu vaccine every season."
+- 6 patients (17.6%) "Other reasons."
+
+These patients were excluded from the study.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Patients decline influenza vaccination for a few common reasons as mentioned above. By identifying and addressing each patient's particular concern, and by using a focused standardized educational intervention, physicians can improve vaccination rates.
+
+# NICE TO NOT MEET YOU! ELIMINATING BARRIERS TO PRIMARY CARE FOR HOUSE STAFF THROUGH NO-VISIT ESTABLISHMENT
+
+Dan Henderson; J. B. Crocker; Emily Shipp. Massachusetts General Hospital, Boston, MA. (Control ID #3184482)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+For residents and fellows seeking primary care, long wait times for new patients, tight clinical schedules, and the universal requirement of an initial visit pose significant barriers to establishing care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Create a new pathway to safely establish primary care without an initial visit.
+2. Decrease delays in obtaining primary care for house staff.
+3. Increase the proportion of internal medicine residents with a primary care physician.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our office is a hospital-affiliated primary care practice with a special mission to provide high-value care to hospital employees and their family members.

@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+Although 197 (99%) of the 200 hospitals sampled reported meeting Meaningful Use standards, portal information could only be found for 178 (89%) hospitals. Regarding ease of access, 74% of portals were accessible from the hospital homepage within 3 clicks; 48% offered portals in a language other than English. 108 (61%) portals offered secure messaging, and all of these provided a disclaimer that messaging should not to be used for emergencies; 23 hospitals (20%) posted the disclaimer in the terms and conditions. 33% of hospitals with secure messaging provided no additional guidance about messaging. Content analysis of hospital pamphlets revealed a focus on logistical information, portal features, and parameters of use. Logistical information (e.g., how to create an account) was the most thorough and most prevalent. Few hospitals provided guidance on expected behaviors or defined misuse beyond using secure messaging for urgent situations.
+
+# CONCLUSIONS:
+
+There is a discrepancy between providers' expectations of patients and the information available to patients regarding portal use. Although most hospitals have a patient portal, many fail to set expectations for its use, especially regarding secure messaging. Instead, educational materials largely focused on how to access the portals. To improve patient engagement and for the full benefits of patient portals to be realized while minimizing misuse, hospitals and clinicians need to provide more information and set clearer guidelines for patients.
+
+# GROUP VISITS FOR ADVANCE CARE PLANNING FOR PATIENTS WITH HEART FAILURE
+
+Julia Bandini1; Alexis Coulourides Kogan4; Jessica Phillips1; Bonnie Olsen4; Rebecca L. Sudore2; David Bekelman3; Sangeeta Ahluwalia.1
+
+1RAND Corporation, Santa Monica, CA; 2University of California, San Francisco, San Francisco, CA; 3University of Colorado, Denver, CO; 4Keck School of Medicine, University of Southern California, Los Angeles, CA. (Control ID #3178411)
+
+# BACKGROUND:
+
+Advance care planning (ACP) is an emotionally and cognitively challenging task, as patients are asked to consider their healthcare preferences in advance of their anticipated decline. We know little about how to encourage patients to engage in this intensive and time-consuming process in healthcare settings, in an efficient and effective manner. Group visits have potential to help patients identify their healthcare values and engage in ACP in a resource-efficient manner. They provide a forum for social learning and social support to empower patients to overcome common barriers to ACP and provide economies of scale that can address provider and system barriers to ACP. Disease-specific group visits may provide common ground for patients to begin thinking about their treatment options and prepare them for future 1-on-1 discussions with their treating provider. We sought to understand whether a disease-focused group visit for ACP is a valuable, acceptable and feasible approach to ACP, including participant preferences for content, learning tools, group composition, and facilitation.
+
+# METHODS:
+
+Feasibility trial of five 90-minute group visits and 2 follow-up group visits, led by a geriatric psychologist, with 16 patients with heart failure (HF) and 11 caregivers (n=27). Participants completed pre- and post-visit surveys including Likert-scale items on feasibility and acceptability and a 1-on-1 post-visit telephone interview to assess perceived value. Structured observations during the group visits further assessed process and feasibility.
+
+# RESULTS:
+
+Data from post-visit surveys indicated participants felt comfortable discussing ACP in a group, understood the information covered/felt it was the right amount, and were able to identify and clarify their healthcare values. All participants noted they would recommend the group visit to family/friends. Of the 27 group visit participants, 20 (81%) attended a second follow-up group visit covering additional ACP topics. Interview and observation data identified four key themes: participants leveraged others' experiences to identify and clarify preferences and potential choices; participants found value in mixed patient-caregiver groups for understanding alternative perspectives; the disease-focused nature of the visit and peer and social support aspect of the group provided participants with a safe space to share difficult experiences and explore their healthcare preferences and values; and the group visit motivated subsequent ACP steps such as completing an advance directive or sharing preferences with a provider or family member.
+
+# CONCLUSIONS:
+
+Disease-focused group visits could be an efficient health system intervention for engaging patients and caregivers in the otherwise time- and resource-intensive task of ACP. Policymakers should continue to explore ways to financially support the use of ACP group visits. A second phase of this study is underway to assess group visit effectiveness.
+
+# GROWING INEQUALITY IN HEALTH EXPENDITURES FOR REPRODUCTIVE AGE WOMEN: THE INVERSE CARE LAW REVISITED
+
+Samuel L. Dickman1; Stephanie Woolhandler2; David Himmelstein.3
+
+1University of California, San Francisco, Oakland, CA; 2Cambridge Hospital, New York, NY; 3 City University of New York at Hunter College, New York, NY. (Control ID #3181614)
+
+# BACKGROUND:
+
+Women of reproductive age (15-49 years) have lower incomes and greater healthcare needs than their male peers and may be especially vulnerable to policies that impose cost-sharing (e.g. copayments, deductibles). Death rates for such women have stalled recently, and maternal mortality has risen, raising concern about unmet healthcare needs.
+
+# METHODS:
+
+We analyzed population-wide healthcare utilization by compiling 801,622 person-years of data from 26 nationally representative surveys over 54 years: the 1963 and 1970 Surveys of Health Services Utilization and Expenditures; the 1977 and 1980 National Medical Care Utilization and Expenditure Surveys; the 1987 National Medical Expenditure Survey; and the 1996-2016 Medical Expenditure Panel Surveys. We tabulated all spending on health services, including out-of-pocket and insurance payments. We assessed income, self-reported health status, and inflation-adjusted spending decomposed into price and volume effects.
+
+# RESULTS:
+
+Health expenditures for reproductive-age women grew 335% between 1963 and 2016, from $1,182 to $3,966 in 2016 dollars. Expenditures for the wealthiest 20% of women accounted for most of the increase since 2000. The growing expenditure gap since 2001 was largely attributable to price increases, which rose 18% faster for high income than low income women. Outpatient visit rates also diverged; wealthy women had 1.2 more visits than poorer women in 1996, a gap that rose to 1.8 visits (95% CI 1.3-2.3) by 2016, despite persistent disparities in health status by income. Twenty-seven percent of poorer women in fair/poor health had total expenditures of less than $500, an indicator of inadequate access to care, vs. 5.6% of affluent ones (p<0.05). ED visit rates were low overall, but higher for poorer than wealthier women: 0.30 vs. 0.13 per capita.
+
+# CONCLUSIONS:
+
+Medical expenditures and outpatient visits for reproductive age women have become increasingly concentrated among the affluent, a reallocation of health resources away from those with the

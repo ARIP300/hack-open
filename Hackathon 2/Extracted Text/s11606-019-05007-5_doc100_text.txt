@@ -1,0 +1,51 @@
+# EFFECT OF A SCORING RUBRIC ON THE REVIEW OF SCIENTIFIC MEETING ABSTRACTS
+
+Nia S. Mitchell1; Kelly Stolzmann2; Jolie B. Wormwood3, 4; Lauren V. Benning1; Amy Linsky2. 1Duke University, Durham, NC; 2VA Boston Healthcare System, Boston, MA; 3Bedford VA Medical Center, Bedford, MA; 4University of New Hampshire, Durham, NH. (Control ID #3184121)
+
+# BACKGROUND:
+
+Rubrics provide guidance for objective measurement of performance to decrease or eliminate subjective judgement. In 2014-2016, the Society of General Internal Medicine (SGIM) Annual Meeting scored scientific abstracts based upon four criteria: 1) importance of research question; 2) strength and appropriateness of methods; 3) validity of conclusions; and 4) clarity and concision. Reviewers were instructed to score each criterion from 1 - 7 (1 = lowest and 7 = highest), with little other guidance. The SGIM 2017 Annual Meeting program committee renamed the last criterion "quality of writing" and added detailed descriptions for each score within each criterion to provide more guidance for reviewers. The purpose of the current study is to estimate the effect of the standardized scoring rubric on the use of the entire range of scores and on reliability between reviewers.
+
+# METHODS:
+
+We evaluated scores for all abstracts submitted to SGIM annual meetings pre-rubric (2014-2016) and post-rubric (2017-2018). For each abstract, we calculated a mean and standard deviation across reviewers for each of the four individual criteria scores and the composite score (i.e., the average of the four criteria scores). We used general linear mixed modeling, nesting reviewers within abstracts, to determine if there was a difference in mean criteria and composite scores by year. Intraclass correlation coefficients (ICC) estimated inter-reviewer agreement.
+
+# RESULTS:
+
+There were 3,523 abstracts with 22,242 submitted reviews. The Table indicates the number of abstracts submitted, total number of reviews, mean (SD) number of reviewers per abstract, the mean (SD) of the composite scores, and ICCs in each of the five years. Composite scores in pre-rubric years were statistically significantly greater than composite scores in post-rubric years (5.0 pre-rubric vs. 4.8 post-rubric; p<0.0001). Repeat analyses for each of the four criteria similarly demonstrated similar statistically significant differences pre- and post-rubric (p<0.0001). There was no apparent difference in ICCs between pre-and post-rubric years.
+
+# CONCLUSIONS:
+
+A detailed scoring rubric successfully shifted scores closer to the mid-point of the scoring range, but it did not increase inter-reviewer reliability. Objective evaluation of abstract submissions is an important component to ensure the rigor and quality of the information selected for presentation. Efforts should continue to refine and use tools such as rubrics to improve the scoring of abstracts.
+
+# EFFECT OF A SPECIALTY-INITIATED E-CONSULT ON PROVIDER UNLEARNING AND PSYCHOLOGICAL REACTANCE IN DE-IMPLEMENTATION OF A LOW-VALUE MEDICATION FOR COPD
+
+Christian D. Helfrich1; Toral J. Parikh3; Laura Feemster5; Seppo Rinne2; Renda S. Wiener2; Barbara Majerczyk1; Edmunds M. Udris4; David Au1. 1VA Puget Sound Healthcare System, Seattle, WA; 2Edith Nourse Rogers Memorial VA, Bedford, MA; 3Puget Sound VA Healthcare System, Seattle, WA; 4VA Puget Sound Health Care System, Seattle, WA; 5VA Puget Sound/University of Washington, Seattle, WA. (Control ID #3178515)
+
+# BACKGROUND:
+
+Learning health systems need to reduce low-value care as well as increase high-value care. One approach is to utilize specialists to engage at a population health level for patients in primary care. However, primary care providers (PCP) may feel their autonomy is threatened if specialists deliver unsolicited recommendations. We tested a proactive e-consultation to target low value practices among patients with chronic obstructive pulmonary disease (COPD). We sought to understand the effect of the e-consult on PCP unlearning of ineffective care for patients with mild to moderate COPD and psychological reactance to receipt of the e-consult.
+
+# METHODS:
+
+Attending PCPs at 13 VHA primary care clinics were surveyed prior (n=138) and after (n=137) the e-consult intervention as part of a provider-level clustered randomized trial. The goals of the e-consult were to de-implement guideline-discordant use of inhaled corticosteroids (ICS) and improve safety. Intervention PCPs received a proactive e-consult with an unsigned order reflecting pulmonologist recommendations. Control PCPs received no specialist input. We assessed whether e-consults promoted unlearning of overuse of ICS by increasing awareness of ICS harms and evidence for effectiveness of substitute medications (long-acting bronchodilators, LABD), and if e-consults had the unintended effect of causing irritation and skepticism (i.e., psychological reactance).
+
+# RESULTS:
+
+Surveys were completed by 26 intervention and 20 control PCPs at baseline and 24 intervention and 24 control PCPs at follow-up (34% and 35% response rates respectively). The proportion of PCPs who correctly agreed that LABD were effective in reducing COPD exacerbations increased by 30% for intervention PCPs (42% at baseline to 72% at follow-up) vs. 3% for control PCPs (55% to 58%). The proportion who correctly agreed that ICS results in higher risk of pneumonia increased by 17% for intervention PCPs (50% to 67%) vs. declining by 2% for control PCPs (60% to 58%). Finally, the proportion who incorrectly agreed that LABD use has higher risk of cardiovascular events relative to ICS decreased by 8% for intervention PCPs (58% to 50%) vs. increasing by 19% for control PCPs (36% to 55%). Follow-up surveys asked PCPs how they felt when receiving information and advice about reducing use of ICS for patients with COPD. 25% of intervention PCPs and 4% of controls felt irritated or annoyed. No PCPs felt angry. 8% of intervention PCPs and 0% of controls reported criticizing the information. 21% of intervention PCPs and 13% of controls could think of points that go against efforts to reduce ICS use among patients with COPD. Finally, 17% of intervention PCPs and 0% of controls reported skepticism of efforts to reduce ICS use among patients with COPD.
+
+# CONCLUSIONS:
+
+We found evidence of unlearning: intervention PCPs had increased awareness of ICS risks and of LABD as effective alternatives. However, we found some evidence of reactance such as annoyance, counter-arguing and skepticism.
+
+# EFFECT OF A WIDESPREAD IMPLEMENTATION OF A STRATEGY USING CARDIOVASCULAR RISK STRATIFICATION AND PRACTICE COACHING ON HIGH RISK ADULT PATIENTS RECEIVING CARE IN SMALL NORTH CAROLINA PRACTICES
+
+Samuel Cykert1; Michael Pignone2; Thomas C. Keyserling3; Darren Dewalt1; Crystal W. Cene1; Justin G. Trogdon4. 1University of North Carolina, Chapel Hill, NC; 2Dell Medical School, Austin, TX; 3UNC-Chapel Hill, Chapel Hill, NC; 4University of North Carolina at Chapel Hill, Chapel Hill, NC. (Control ID #3185185)
+
+# BACKGROUND:
+
+Cardiovascular disease (CVD) remains the leading cause of death in the U.S. and is particularly devastating in North Carolina (NC) counties associated with the "Stroke Belt". Despite this outlook, adoption of new evidence remains slow. An example of this is use of the November 2013 American College of Cardiology (ACC) guidelines on cholesterol management which include 10-year ASCVD risk calculation. Barriers such as poor capability of certified electronic health records (EHRs) to automate risk scores and to measure guideline adherence persist. Heart Health Now (HHN) is an AHRQ-sponsored initiative designed to evaluate the effect of risk stratification, practice facilitation, and quality improvement (QI) techniques on CVD risk for adults served by small, North Carolina primary care practices. In this report, we assess the impact of the intervention on ASCVD 10-year risk for patients found to be high risk at baseline.
+
+# METHODS:
+
+We conducted a pre-post assessment of ASCVD risk for high risk patients that were identified using a CVD population management dashboard. In addition to the dashboard, the intervention consisted of onsite practice facilitation over 12 months to help develop QI strategies and workflows that serially engage high risk patients. Risk reduction approaches included statin prescribing for patients defined by the 2013 ACC guidelines, aspirin prescribing for individuals < 60 yrs. old with ASCVD 10-year risk > 10%, and hypertension treatment. Tobacco cessation was also advised but did not...

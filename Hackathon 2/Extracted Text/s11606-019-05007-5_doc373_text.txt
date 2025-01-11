@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# AN ATYPICAL PRESENTATION OF MRSA PNEUMONIA
+
+Akanksha Vaidya. Emory University, Atlanta, GA. (Control ID #3185817)
+
+# LEARNING OBJECTIVE #1:
+
+Review the typical presentation of MRSA pneumonia
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose MRSA pneumonia in patients with atypical presentations
+
+# CASE:
+
+A 61- year- old woman with a history significant for asthma, possible sarcoidosis with chronic pulmonary nodules and hilar lymphadenopathy, and recent MRSA folliculitis, presented to the hospital with dyspnea. Patient reported fevers, chills, and rhinorrhea two weeks prior to presentation. The fevers and chills resolved, but she continued to have a cough productive of clear sputum and started having dyspnea on exertion that started four days prior to presentation. On hospital admission, she was afebrile, had a normal blood pressure, and had an oxygen saturation of 92% on room air. Her physical exam was notable for diffuse wheezing throughout bilateral lung fields. A chest X ray showed scattered micronodular opacities that were unchanged from a prior X ray two years ago. She was started on treatment for an asthma exacerbation with steroids, azithromycin, and bronchodilators. Her symptoms failed to improve after 7 days of treatment, so a CT scan of the chest was ordered. The CT scan showed small cavitary changes in the right lower lobe, suggestive of a necrotizing bronchopneumonia. She underwent CT guided biopsy of the cavitation and was positive for MRSA that was resistant to clindamycin. She was treated for MRSA pneumonia with a 14 day course of doxycycline with improvement in her symptoms.
+
+# IMPACT/DISCUSSION:
+
+Community acquired MRSA pneumonia typically presents as a severe pneumonia and has a high mortality rate. Compared to hospital acquired MRSA, community acquired MRSA is more likely to produce the Panton-Valentine leukocidin toxin that forms cavitary lung lesions. Patients typically present with severe hypoxia, severe dyspnea, fever, and hemoptysis. Identifying patients with MRSA pneumonia is crucial in order to start timely antibiotic therapy. The patient in this case did not have severe symptoms that are usually seen in MRSA pneumonia cases. However, she did have some risk factors for MRSA pneumonia. Patients with MRSA pneumonia will typically have a preceding flu-like illness. Patients with a history of MRSA infection or colonization are also at risk for MRSA pneumonia. The patient presented in this case had both of these common risk factors. Recognizing these risk factors for MRSA pneumonia can help identify patients with atypical presentations of the disease and ensure that the appropriate antibiotic therapy is started for the patients.
+
+# CONCLUSION:
+
+This case illustrates an atypical presentation of community acquired MRSA pneumonia. While MRSA pneumonia usually has severe symptoms, the patient in this case had mild symptoms, which made it difficult to identify the disease. It is important to recognize risk factors for MRSA pneumonia to identify patients with atypical presentations of the disease.
+
+# AN EMBOLIC ETIOLOGY OF NSTE-ACS
+
+Kristie Yang; Eli Wilber. Emory University, Atlanta, GA. (Control ID #3184559)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize features of NSTE-ACS secondary to infective endocarditis.
+
+# CASE:
+
+A 58 year-old man presented with one day of exertional chest pain that began while moving a refrigerator. He described the mid-sternal pain as "twinges" radiating to the left arm and leg not alleviated by rest. Associated symptoms included shortness of breath, diaphoresis, and numbness in his left fingers. One week prior he had similar pain that resolved with rest. He had not seen a healthcare provider in 30 years, had no known medical problems, and reported no family history of heart disease. He was a 30 pack-year smoker and had poor dentition. Vitals were T 36.4, HR 79, BP 136/78, RR 18, SpO2 100% on room air. He had a grade IV/VI blowing systolic apical murmur with radiation to the axilla; there were no S3 or S4 heart sounds, no jugular venous distension. His lungs were clear to auscultation; there was no lower extremity swelling. Admission labs showed troponin of 12.5 and BNP of 1080. EKG had no ST-segment or T wave abnormalities. Left heart catheterization revealed an occluded small left posterior descending coronary artery, thought to be embolic in nature, and otherwise normal coronary arteries. Transthoracic echocardiography showed mitral regurgitation and a mobile mass on the mitral valve, which was confirmed by transesophageal echocardiography. Two sets of blood cultures grew gram positive cocci in chains and the patient was started on vancomycin and ceftriaxone. The cultures speciated to Streptococcus salivarius and antibiotic regimen was narrowed to ceftriaxone. His remaining teeth were removed and he was discharged to complete two weeks of antibiotics prior to evaluation for mitral valve replacement.
+
+# IMPACT/DISCUSSION:
+
+Mechanisms of non-ST segment elevation acute coronary syndrome (NSTE-ACS) in patients without coronary artery disease include vasospasm, myocarditis, vasculitis, and embolic disease. This patient had mitral regurgitation and poor dentition, but lacked cutaneous manifestations of infective endocarditis (IE). He developed a fever at the same time that echocardiography suggested a valvular vegetation, which in conjunction with positive blood cultures for a typical organism made this a definite case of IE by the modified Duke criteria. Embolic events occur in 45% of patients with IE and most commonly affect the brain and spleen, not coronary arteries. New murmur or worsened preexisting murmur is reported in 48% and 20% of IE cases, respectively. In this case, an abnormal exam finding in a NSTE-ACS patient with unexpected angiographic results prompted additional workup leading to the correct diagnosis. While an unusual presentation for both NSTE-ACS and IE, this case reinforces a foundational principle of medicine that a stepwise approach to history and exam findings can lead to successful diagnosis.
+
+# CONCLUSION:
+
+Infective endocarditis commonly presents as either an embolic stroke or heart failure, however, rarely emboli to coronary arteries can lead to NSTE-ACS.
+
+# AN IDIOSYNCRATIC CASE OF AMIODARONE-RELATED DRUG-INDUCED LIVER INJURY
+
+Michael Seidman; Christopher Bruti. Rush University Medical Center, Chicago, IL. (Control ID #3186409)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate an unusual presentation of amiodarone-related Drug Induced Liver Injury (DILI)
+
+# LEARNING OBJECTIVE #2:
+
+Recognize clinical and historical factors contributing to the diagnosis of idiosyncratic DILI in medically complex patients
+
+# CASE:
+
+A 61-year-old man with known atrial fibrillation, diastolic heart failure, and stage III CKD presented with excessive bleeding following minor trauma to his toe. His medications included warfarin, diltiazem, metoprolol, and amiodarone, which was started 8 weeks prior. In addition to his minor wound, exam was notable for marked jaundice. He denied history of heavy alcohol use, hepatitis, IV drug use, recent travel, sick contacts, and was not sexually active. He felt otherwise well, noting improvement in his heart failure symptoms in recent months. In addition to supratherapeutic INR attributed to amiodarone-warfarin interaction, labs were notable for cholestatic liver enzyme derangement and elevated bilirubin. Warfarin and amiodarone were discontinued and he was admitted for work-up. A thorough infectious and immunologic workup was negative, and Imaging and MRCP were unrevealing. Given unclear etiology a liver biopsy was obtained, demonstrating cholestatic injury without steatosis, mallory bodies, or lamellar inclusions. Inflammatory changes were consistent with a variety of etiologies including cardiac, sepsis and DILI. Hepatic labs continued to worsen and in the 2nd week of

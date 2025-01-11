@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# LONGITUDINAL ASSESSMENT OF PERSONAL AND PROFESSIONAL DEVELOPMENT COMPETENCIES AT THE PRITZKER SCHOOL OF MEDICINE
+
+Hannah D. Caldwell1; Christopher Mattson3; James N. Woodruff1, 2; Wei Wei Lee1, 2. 1University of Chicago Pritzker School of Medicine, Chicago, IL; 2University of Chicago, Chicago, IL; 3University of Chicago Medicine Comer Children's Hospital, Chicago, IL. (Control ID #3175503)
+
+# NEEDS AND OBJECTIVES:
+
+While the Association of American Medical Colleges named Personal and Professional Development (PPD) a foundational competency for medical students in 2013, few studies have examined how best to teach and assess PPD skills. Our study aims to 1) analyze results of a biannual PPD self-assessment survey administered to the Pritzker School of Medicine Class of 2018 and 2) use results to identify areas for future interventions.
+
+# SETTING AND PARTICIPANTS:
+
+Following a literature review, we developed the Personal and Professional Development Skills Assessment Survey to assess PPD proficiency and attitudes. The optional survey was emailed to the student body every six months, Fall 2014 to Spring 2018. The analyzed cohort were students who matriculated Fall 2014 as well as those joining this cohort following time off.
+
+# DESCRIPTION:
+
+The 46-item survey consisted of 44 five-point Likert-scale items assessing personal (n=15, i.e. coping skills), professional (n=15, i.e. teamwork), and academic (n=9, i.e. study skills) development, as well as attitudes (n=5, i.e. reflection is important to my personal development) and 2 open-ended questions. (i.e. list three personal development goals). The Likert-scale responses were dichotomized with proficient defined as 4. Descriptive statistics were used to summarize the findings over eight timepoints (S1-S8) and compare preclinical (S1-S4) and clinical (S5-S8) responses.
+
+# EVALUATION:
+
+A total of 93 students completed at least one survey. Response rates ranged from 38% at S6 (Spring 2017, second half of third year clerkships) to 91% at S2 (Spring 2015, second half of first year). Within each domain (Personal, Professional, Academic), scores were reported as the percentage of total items rated as proficient. The Personal Domain score significantly declined from S2 to S3 (79% to 72%, p<0.01) at the transition from first to second year. The lowest Personal Domain score of 72% occurred at the start of second and third year (S3 and S5) and peaked at 84% at the end of fourth year (S8). The Professional Domain score increased significantly between the start of clerkship year to the half-way point (S5 and S6, 83% to 89%, p<0.01). The Professional Domain score was lowest throughout first year (79%, S1 and S2) and highest throughout fourth year (92%, S7 and S8). The Academic Domain score showed no statistically significant changes between any consecutive time points. When comparing PPD proficiency in preclinical (S1-S4) and clinical (S5-S8) phases, there were significant increases in Professional (79.7% to 86.4%, p<0.01) and Academic (76.1% to 81.4%, p<0.01) Domains. The Personal Domain did not differ significantly (76.3% to 76.0%).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our study used a longitudinal self-assessment to measure students' PPD skill attainment. While we found that personal development skills were lowest during critical transitional periods, these same transition points may offer opportunities for professional and academic growth.
+
+# LONGITUDINAL RESIDENT COACHING IN THE AMBULATORY SETTING: A NOVEL INTERVENTION TO IMPROVE CLINICAL SKILLS
+
+Ryan Graddy; Stasia Reynolds; Scott Wright. jhusom, Baltimore, MD. (Control ID #3180277)
+
+# NEEDS AND OBJECTIVES:
+
+Direct observation of residents' clinical practice is essential for accurately assessing their skills and to facilitate specific feedback. Opportunities to do this are infrequent, especially in busy outpatient teaching practices. We aimed to assess the effects of a longitudinal direct observation and coaching intervention on residents' clinical performance in an academic GIM practice.
+
+# SETTING AND PARTICIPANTS:
+
+The Johns Hopkins Bayview GIM Practice is a mixed faculty/resident practice. Although faculty preceptors are encouraged to oversee residents in the presence of their patients, direct observation of complete patient visits is rare.
+
+# DESCRIPTION:
+
+All 16 interns in a single IM residency class were randomized to the coaching (intervention) or control group at the start of the 2017-18 academic year. Two faculty members with extensive coaching experience performed 3 complete visit observations over the course of internship year for the 8 trainees in the coaching arm. Faculty used a 23 item "yes/no" behavioral checklist, based on tenets of clinical excellence, during the direct observation to focus their surveillance and to facilitate targeted feedback and coaching to residents after each visit. At the end of the academic year, 15/16 interns had a complete patient visit in the practice videotaped. Each video was viewed by 2 senior generalist clinician-educators blinded to the interns'

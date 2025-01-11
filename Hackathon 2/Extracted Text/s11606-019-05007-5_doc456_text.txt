@@ -1,0 +1,73 @@
+# JGIM
+
+# ABSTRACTS
+
+mindful of their own biases and intentionally consider alternative causes including iatrogenic factors such as medication side-effects. In our case, hyperglycemia related to acetazolamide is a rare side-effect only seen in mouse models and the mechanism has not fully been clarified.
+
+# CONCLUSION:
+
+Obese patients suffer discrimination in the healthcare setting contributing to health disparities. Physician self-awareness of implicit bias can lead to a behavior change, "outside-the-box" thinking, and improved health outcomes. In rare cases, acetazolamide may induce severe hyperglycemia in patients with diabetes mellitus.
+
+# HYPOCOMPLEMENTEMIC URTICARIAL VASCULITIS SYNDROME - A RARE CASE OF ANGIOEDEMA
+
+Kateryna Fedorov 1; Chrisanna Dobrowolski 2; Clement Tagoe 2. 1Montefiore Medical Center, Bayside, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3184919)
+
+# LEARNING OBJECTIVE #1:
+
+Identify patients with hypocomplementemic urticarial vasculitis syndrome.
+
+# LEARNING OBJECTIVE #2:
+
+Differentiate hypocomplementemic urticarial vasculitis syndrome from allergic reaction.
+
+# CASE:
+
+37-year-old female with systemic lupus erythematosus (SLE) presented with swelling of the lips and throat for 3 days. The swelling was accompanied by a husky voice, painful erythematous eruptions on her arms, legs, chest, back, as well as dull right knee and ankle pain. Within 48 hours the cutaneous eruptions changed in color to deep blue, and then resolved, leaving hyperpigmented macules. She has been having similar less severe skin eruptions and lip swelling episodes over the past year. Physical examination was significant for swelling over the right side of the upper lip, hyperpigmented macules on the eyebrows, nose, left cheek and ear, as well as bluish, circular macules on the left arm, right shoulder, and left posterior thorax. Leukocyte count was slightly elevated at 12.8k/uL, anti-dsDNA was elevated at 145IU, and both C3 and C4 were low at 40mg/dL and 4.4mg/dL respectively. The patient was treated for an allergic reaction but responded only briefly and soon developed shortness of breath and pulmonary edema. Further laboratory tests revealed C1 inhibitor >100%, C1 esterase inhibitor 28mg/dL, Tryptase 2ng/mL, all within normal range. Biopsy of the lesions showed leukocytoclastic vasculitis. Given prior diagnosis of SLE, new angioedema, urticaria, vasculitis, and arthralgias the patient was diagnosed with hypocomplementemic urticarial vasculitis syndrome (HUVS). She was treated with high-dose Solumedrol with complete resolution of all symptoms.
+
+# IMPACT/DISCUSSION:
+
+HUVS is an autoimmune condition in which IgG antibodies bind to the Fc region of C1q triggering a type III hypersensitivity reaction, ultimately causing widespread endovascular damage. The most common signs and symptoms are reflected in the diagnostic criteria. For diagnosis, the patient needs to meet both major criteria: urticaria for 6 months and hypocomplementemia, and two of six minor criteria: venulitis of dermis, arthralgias, glomerulonephritis, uveitis or episcleritis, abdominal pain, and presence of C1q precipitin. Angioedema is an initial presentation in 50% of cases and is frequently mistaken for anaphylactic reaction. Urticarial rash is characterized by deep blue discoloration, pain, with resolution in 48 hours and residual dark skin pigmentation. Biopsy of the lesions classically reveals leukocytoclastic changes. Many affected patients have other rheumatologic conditions, such as SLE. As awareness of HUVS in the medical community is low, it is important to recognize patients who fail traditional treatment for allergic reactions and to broaden the differential diagnosis to include rare diagnoses such as HUVS.
+
+# CONCLUSION:
+
+HUVS is a rare condition that mimics atopic reactions. It is important to remain open-minded when assessing SLE patients and broaden the differential diagnosis when a patient is not responding to standard treatments.
+
+# HYPONATREMIA IN MALIGNANCY - IT'S NOT ALWAYS SIADH
+
+Vasilii Bushunow; Amar Kohli; Amar Bansal. UPMC, Pittsburgh, PA. (Control ID #3168584)
+
+# LEARNING OBJECTIVE #1:
+
+Explain physiology of hyponatremia in states with low effective arterial blood volume (EABV).
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish low EABV states from SIADH.
+
+# CASE:
+
+A 60-year-old man presented with several weeks of nausea, anorexia, and leg swelling. He also had several months of headaches with a biopsy negative for temporal arteritis. His PCP noted high liver enzymes. The patient had a forty-year smoking history without alcohol use or occupational exposure. Review of systems was positive for weight loss; negative for jaundice, cough, dyspnea or orthopnea, or seizures. Exam included a pulse of 90, BP of 107/71, no neurological deficits, cachexia, a right occipital nodule, dry mucous membranes, hepatomegaly, and lower extremity edema. Stigmata of chronic liver disease were absent. Labs included a Na of 118, K of 4.2, bicarbonate of 20, Cl of 85, Cr of 0.5, osms of 245, and AST of 650. Urinalysis showed Na less than 10 and osms of 448. Thyroid hormones, cortisol, and aldosterone were normal. Imaging showed lesions concerning for metastatic disease, including the skull, bilateral lungs, and liver. The patient received 0.9% saline with worsening edema but no increase in sodium. Repeat urinalysis showed low sodium and high osmolarity. The patient left the hospital against medical advice but was readmitted after collapsing at home and soon died of lung and liver failure.
+
+# IMPACT/DISCUSSION:
+
+Hyponatremia requires integration of physical and laboratory findings to determine etiology and guide therapy. This patient's cachexia impeded the assessment of volume status causing diagnostic uncertainty. For me, this case reinforced the value of thorough daily exam to monitor volume status rather than relying solely on lab values. Hyponatremia involves up to 25% of ICU cases and is a sign of poor prognosis regardless of etiology. As the leading cause of hyponatremia in cancer care, SIADH was considered in this patient, but his hyponatremia was better explained by hepatic tumor burden leading to splanchnic vasodilation and low EABV. This term implies preserved or increased intravascular volume but a decreased ratio of blood in the arterial versus the venous circulation. Whether from low cardiac output or arterial vasodilation, low EABV is perceived as hypovolemia, causing sympathetic and reno-humoral activation and non-osmotic ADH release. Increased aldosterone leads to further volume overload, while free water retention causes hyponatremia. In contrast, SIADH requires euvolemia, with normal urine sodium reflecting suppressed aldosterone. Some studies propose an interval increase of FENa by >0.5% after a 2L saline bolus as a diagnostic test for SIADH, but this was not assessed in this patient. Both SIADH and low EABV share inappropriately concentrated urine indicative of ADH, but low urine sodium should prompt search for pathology decreasing EABV.
+
+# CONCLUSION:
+
+Differentiating low EABV from SIADH requires assessment of intravascular volume. Low urine sodium is a clue of perceived hypovolemia and excludes SIADH.
+
+# IDIOPATHIC CHYLOTHORAX; IS IT A BENIGN OR MALIGNANT DIAGNOSIS?
+
+Sandra Naffouj; Jasmine Omar. Henry Ford Hospital, Detroit, MI. (Control ID #3180494)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose idiopathic chylothorax.
+
+# LEARNING OBJECTIVE #2:
+
+Manage chylothorax.
+
+# CASE:
+
+A 29-year-old healthy male presented with acute onset of dyspnea and right-sided pleuritic chest pain. CT scan of the chest showed large right-sided pleural effusion. Thoracentesis was performed, draining 2 liters of turbid white pleural fluid and a chest tube was placed.

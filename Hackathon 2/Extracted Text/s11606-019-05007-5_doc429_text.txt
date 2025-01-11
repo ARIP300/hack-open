@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Case 1: Meningococcal Meningitis in a Healthy Elderly Patient
+
+293U/L and C-Reactive protein 158.6 mg/L. Cerebrospinal fluid (CF) gram stain showed gram-positive diplococci. CF microscopy showed white blood cells 483/μL (neutrophils 64%), protein 463 mg/dL, glucose 10 mg/dL and lactate 71mg/dL. Within an hour upon arrival, she was started on ceftriaxone 2g intravenously (IV) every 12 hours, vancomycin 900mg IV every 10 hours, ampicillin 2g IV every 4 hours and dexamethasone 8.25mg IV every 6 hours. On the second day, we changed to ceftriaxone treatment alone as her blood culture was positive for Neisseria meningitidis. 2 days after admission, her mental status recovered. Although she had ongoing visual hallucinations at night, which led to insomnia. She also suffered cognitive dysfunction. She underwent intensive cognitive rehabilitation and her symptoms gradually resolved over 1-2 weeks.
+
+# IMPACT/DISCUSSION:
+
+In this case of a healthy 72-year-old female, it is uncommon to see sporadic meningococcal meningitis. Her only potential risk factor was her active social activities. She volunteered at nursing homes once a week, participated in an exercise program twice weekly in an elementary school and at our hospital and attended aqua jogging sessions. Crowding and close contact is common in these facilities, and it is therefore relevant to ask about social activities when seeing individuals suspected of meningococcal meningitis. Invasive meningococcal disease has a high mortality and adverse outcomes are common if treatment is delayed. Supporting the evidence that in community-acquired meningitis, there is a reduction in mortality and a benefit in terms of neurologic outcome with early administration of antimicrobial therapy, our case showed resolution of neurological symptoms after initiating antibiotic therapy within an hour of admission.
+
+# CONCLUSION:
+
+Social activities are risk factors for sporadic cases of meningococcal disease in elderly patients and immediate antibiotic therapy is vital to avoid neurological sequalae.
+
+# Case 2: Even with an Interpreter, Things Can Get Lost in Translation
+
+Sean Burke; Indira Bhavsar. University of Virginia, Charlottesville, VA. (Control ID #3183727)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the importance of cultural competency and health disparities in Latino populations
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the limitations of using a translator to conduct patient interviews
+
+# CASE:
+
+A 19-year-old male from Mexico with no past medical history presented to the hospital with abdominal pain. The interview was conducted by a telephone interpreter. He had two weeks of abdominal pain that was worse after eating and reported seeing a "sobador" who told him he had "empacho." His physical exam was notable for tenderness in the epigastrium and laboratory analysis was unremarkable. Imaging was pursued and revealed a jejunal filling defect concerning for a food bolus or other undifferentiated mass. He was admitted to the hospital. Small bowel follow through the next day was normal with passage of the mass.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates the challenges that arise when caring for non-English speaking patients despite the use of an interpreter. Notably, the patient recounted his recent interaction with a "sobador," a word that strictly translates to "masseuse" and his new diagnosis of "empacho" which had no English translation. Sobadores are folk healers who practice in Mexico and other Central American countries. They use manipulative therapies to treat common illnesses including musculoskeletal pain and gastrointestinal distress. The patient recounted his visit to a "sobador" and resulting diagnosis. Given the strict Spanish to English translation, the team understood that the patient visited a masseuse for his abdominal pain. Empacho is a traditional Latino illness well described in the literature. Characteristics include constipation, cramping, and vomiting. It is thought to be caused by dietary indiscretion. The most commonly agreed upon etiology is "blocked digestion" and many believe it is caused by a bolus of food that sticks to the wall of the intestine. Traditional treatment includes abdominal massage and herbal purgative teas. This case exemplifies multiple factors that can lead to disparities in health care. In retrospect, it is obvious that our patient had different cultural beliefs which he attempted to communicate during his initial interview. Given the translator's inability to provide correct translation and unawareness of folk illnesses, the team was unable to validate the patient's concerns. Factors such as these are routinely present during our interactions with minority populations further promoting disparities in the social determinants of health. Ongoing endeavors to foster cultural competence should be prioritized.
+
+# CONCLUSION:
+
+Latinos and other minority populations face multiple barriers leading to disparities in quality health care. Mistranslation can occur despite the use of certified interpreters. Empacho is a traditional Latino folk illness, often of organic etiology, that leads to abdominal pain, cramping, and emesis.
+
+# Case 3: Expanding Your Dyspnea Differential: A Case of Amiodarone Toxicity
+
+Tammy Tavdy; Dawn Zhao; Darlene LeFrancois. Montefiore Medical Center/Albert Einstein College of Medicine, Bronx, NY. (Control ID #3185021)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the pathophysiology of amiodarone toxicity, and the risk factors for its development
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and manage amiodarone toxicity
+
+# CASE:
+
+An 80-year-old woman with ischemic cardiomyopathy, mild COPD, and atrial fibrillation (on amiodarone 200 mg for 14 months) presented with a two week history of progressive dyspnea and dry cough. One-month prior, the patient had been ambulating 5-6 blocks without difficulty. She is now unable to even ambulate within her one bedroom home. She did not have any sputum production, fevers, leg edema, or calf tenderness. She was afebrile, but hypoxic to 87% at rest. She had bibasilar rales with dullness to percussion. Lab results revealed no leukocytosis and a proBNP of 4580 (baseline). All microbiologic workup was negative. CXR revealed new bibasilar patchy opacities. In light of no clinical improvements with IV diuresis or antibiotics, a CT chest was performed, revealing hyperdense, ground-glass opacities of the lung and liver, findings highly specific for amiodarone toxicity. Amiodarone was stopped, and the patient was started on 60 mg oral prednisone daily, low flow oxygen, and trimethoprim/sulfamethoxazole and alendronate prophylaxis. On follow-up within one month of discharge she improved - walking comfortably around her house without requiring supplemental oxygen.
+
+# IMPACT/DISCUSSION:
+
+Amiodarone is one of the most widely used antiarrhythmic medications in North America. The drug is an iodine-containing compound that accumulates in several organs, most notably in the lungs and liver, leading to a direct toxic injury and an indirect immunologic reaction. Our case highlights that the presentation of amiodarone toxicity may be clinically indistinguishable from common pathologies of the lung or heart. The presentation is characterized by an insidious onset of non-productive cough with or without dyspnea, present in 50-75% of patients. Fever is also common, present in 20-30% of patients. CT imaging reveals bilateral ground glass opacities, which may also be seen in an acute CHF exacerbation or interstitial pneumonia. Age of patient, dose, and duration of amiodarone use are highly associated with the development of its toxicity. Incidence doubles to ~5% when doses of 400 mg or more are used daily. Patients over 60 years old, and those on amiodarone for 6-12 months have the highest risk of toxicity. In addition, an association between pre-existing lung disease and the development of amiodarone pulmonary toxicity has been reported. When amiodarone toxicity is diagnosed, the drug should be discontinued and steroids should be initiated. Treatment and recovery normally take months. In addition to clinical symptomatology, PFTs can be followed as a guide for recovery. In the setting of chronic steroid therapy, both antibiotic and bisphosphonate prophylaxis are appropriate therapies to begin.

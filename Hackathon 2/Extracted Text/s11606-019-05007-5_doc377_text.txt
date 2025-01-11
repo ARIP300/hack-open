@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Articulate the differential diagnoses for splenic infarction
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the typical clinical presentation and indication for treatment of splenic marginal zone lymphoma
+
+# CASE:
+
+A 66-year-old man presented with an eleven-day history of severe, left upper quadrant abdominal pain. The pain was constant, non-radiating, exacerbated by inspiration and alleviated by NSAID use. His examination was notable for a non-tender abdomen and splenomegaly. Laboratory studies revealed mild leukocytosis (12.8), thrombocytopenia (72) and marginally elevated LDH. CT of abdomen and pelvis with intravenous contrast revealed enlarge spleen with an 8 x 5cm well defined hypodensity in the lower pole of the spleen consistent with splenic infarction. Vascular team recommended initiating heparin drip and obtaining abdominal CTA, which revealed patent splenic artery and vein. A transthoracic echocardiogram was also performed and was normal. Additional work up; including infectious (HIVAb, t-spot, hepatitis panel), antiphospholipid panel, CT of chest, tumor markers (PSA, CA-19-9, CEA) was unrevealing. On day three of hospitalization, patient underwent a bone marrow biopsy, which revealed findings consistent with mature B-cell lymphoma, clinically consistent with splenic marginal zone lymphoma. Because the malignancy was symptomatic, patient was started on rituximab.
+
+# IMPACT/DISCUSSION:
+
+Splenic marginal zone lymphoma (SMZL) typically presents asymptomatically with splenomegaly, lymphocytosis, and cytopenia (anemia and thrombocytopenia). Rarely does SMZL present as a splenic infarction. This case represents one of the few reported cases in the literature. The differential diagnosis for splenic infarction includes hypercoagulable state, embolic disease, myeloproliferative disease, sickle cell disease, infectious mononucleosis, splenic trauma, or any condition that causes marked splenomegaly. SMZL is an uncommon indolent subtype of non-Hodgkin's lymphoma, making up less than 1% of all NHLs, which is characterized by infiltration of pre-existing lymphoid follicles and marginal zone differentiation in the spleen. Diagnosis is made based upon pathological findings by lymphocyte morphology, immunophenotype, cytogenetic analysis, and bone marrow histology. Not all patients with SMZL require immediate treatment because of its indolent nature. Treatment is only recommended in patients with symptoms related to splenomegaly such as abdominal discomfort or early satiety and patients with cytopenia because of bone marrow involvement. First line treatment for SMZL primarily involves rituximab monotherapy. Splenectomy is typically only considered in patients with severe localized abdominal symptoms due to splenomegaly as well as cytopenia due to splenic sequestration.
+
+# CONCLUSION:
+
+Splenic infarction is an atypical presentation of SMZL. It is important to consider SMZL in patients with splenic infarction, splenomegaly and lymphocytosis. Rituximab monotherapy is the primary treatment in patients with symptomatic SMZL.
+
+# AN UNEXPECTED CASE OF WERNICKE'S ENCEPHALOPATHY IN THE ABSENCE OF ALCOHOL USE
+
+Nancy Desai; Vassiliki Pravodelov; Won Lee. Boston Medical Center, Boston, MA. (Control ID #3152943)
+
+# LEARNING OBJECTIVE #1:
+
+Appreciate the possible causes of Wernicke's Encephalopathy (WE) in a patient without alcohol use
+
+# LEARNING OBJECTIVE #2:
+
+Understand the diagnostic criteria associated with WE
+
+# CASE:
+
+A 68-year-old woman with hypertension, major depressive disorder and recent homelessness presented to the hospital with nausea, vomiting and weight loss for 2 months. Her symptoms were thought to be psychosomatic given her underlying psychiatric disease and an unremarkable prior work up. During her hospitalization, the patient became confused, unable to recall why she was in the hospital and confabulating. She denied prior substance use including alcohol. Exam was significant for a right beating nystagmus with slowed eye movements and a slow gait. No ataxia was appreciated. Notably, she had an undetectable thiamine level (<7 nmol/L). Imaging was significant for symmetric FLAIR hyper-intense signal abnormality in the bilateral thalami and central midbrain, suggestive of a toxic-metabolic process such as WE. She was started on intravenous thiamine supplementation and then transitioned to oral supplementation. A feeding tube was placed for nutritional support given her altered mental status, and the patient was discharged. The patient returned home after spending two weeks at a rehabilitation facility where her gastrointestinal symptoms as well as her cognitive, functional and nutritional status improved.
+
+# IMPACT/DISCUSSION:
+
+WE is a neurologic emergency secondary to thiamine deficiency requiring prompt treatment with thiamine repletion. It is commonly associated with alcohol use disorder; however, a number of other etiologies can result in acute thiamine deficiency including gastrointestinal disorders or surgeries, hemodialysis, malignancy, infection or prolonged nutritional deficiencies. WE is a clinical diagnosis classically associated with a triad of mental status changes, ataxia, and oculomotor dysfunction. As with our patient, this triad is not always present, and one can alternatively use Caine's criteria which has been shown to be more sensitive in identifying at risk patients. Caine's criteria require two of the following: dietary deficiencies, oculomotor abnormalities, cerebellar dysfunction and either an altered mental state or mild memory impairment. While plasma thiamine levels were low in this particular patient, they do not generally correlate with a diagnosis of WE. In terms of imaging, MRI is a more sensitive modality than CT and MRI findings typically include increased symmetrical T2 and FLAIR signals in the bilateral medial thalami, the mammillary bodies, tectal plate, periaqueductal area or around the third ventricle. There are no established guidelines in the United States regarding thiamine repletion, but it is recommended that immediate IV thiamine be given when WE is suspected.
+
+# CONCLUSION:
+
+Consider WE in a patient without history of alcohol use before attributing mental status changes to a chronic or irreversible cause. Clinical history and exam are key in identifying patients at risk for this disease.
+
+# AN UNEXPECTED CAUSE OF CHEST PAIN
+
+Austin Rezigh; Nicholas Breitnauer. University of Colorado at Denver - Anschutz Medical Campus, Aurora, CO. (Control ID #3185874)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the features of chronic cavitary pulmonary aspergillosis
+
+# CASE:
+
+A 43-year-old woman presented to a tertiary care center with dyspnea and acute worsening of chronic, left-sided, pleuritic chest pain. There was no preceding trauma, recent travel, or sick contacts. She did report fatigue and a productive cough but denied fever, chills, or weight loss. She had no past medical or surgical history and was on no medications. She was uncertain of her family history. She was a lifetime non-smoker and denied alcohol and drug use. Socially, she was born in Somalia and had moved to the US ~1 year prior to presentation after spending 11 years in an Ethiopian refugee camp. Evaluation for tuberculosis, just prior to immigration, was negative. On arrival, vitals signs were unremarkable. Physical exam was notable only for decreased left-sided breath sounds. Initial laboratory work-up with CBC, BMP, D-dimer, and troponin were all within normal limits. EKG revealed normal sinus rhythm without ST segment changes. A chest radiograph showed absent lung markings on the left with a small layering effusion. Contrast-enhanced computed tomography revealed right upper lobe bronchiectasis and near complete destruction of the left lung parenchyma with replacement by a large cavity. The Pulmonary and Infectious Disease services were consulted, following which the patient underwent bronchoalveolar lavage (BAL). While AFB cultures from the BAL returned negative, fungal culture returned positive for Aspergillus fumigatus. A corresponding serum Aspergillus fumigatus IgG level returned markedly elevated at >100 U/mL. Together, these findings were consistent with a diagnosis of chronic cavitary pulmonary aspergillosis (CCPA). The patient had a brief

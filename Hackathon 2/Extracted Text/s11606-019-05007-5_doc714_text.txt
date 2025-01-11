@@ -1,0 +1,47 @@
+# ABSTRACTS
+
+electronic high value care resources readily available to our training program. well as the ideal evidence-based HVC evaluation for the case and the estimated prices of these services.
+
+# SETTING AND PARTICIPANTS:
+
+A monthly, high value care conference targeting all post-graduate years (1-3) was implemented at our large internal medicine training program starting in the fall of 2017 with 43-81 trainees in attendance at each conference.
+
+# DESCRIPTION:
+
+An iPhone application was developed in December 2018. The application includes access to PowerPoint slides and 1-page handouts from each high value care conference. The application also includes links to six key HVC websites including Choosing Wisely, Costs of Care, and the American College of Radiology Appropriateness Criteria. The application also includes a "Question of the Week" in which users can complete a MKSAP question under the domain of high value care.
+
+# EVALUATION:
+
+The application will be released to our training program in the coming months through the Apple App Store. We plan to measure the number of downloads and assess the utility and impact of the application in our annual survey evaluating the high value care conference.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We have now adapted this conference to three different hospital settings in our residency program which demonstrates generalizability for replication. Our conference was expanded to MD Anderson Cancer Center, where the presenter emphasized a HVC approach to palliative care. In this way, the series is adept at underscoring the specific qualities of practice settings to create a unique and enriching conference.
+
+# HIGH-VALUE CARE EDUCATION FOR THIRD-YEAR MEDICAL STUDENTS
+
+Rachna Rawal; Paul Kunnath; Jennifer Schmidt. 1Saint Louis University, St. Louis, MO; 2Saint Louis University School of Medicine, University City, MO; 3Saint Louis University, Saint Louis, MO. (Control ID #3183527)
+
+# HIGH VALUE CARE MORNING REPORT: A TEAM-BASED, INTERDISCIPLINARY CONFERENCE TO TEACH COST-EFFECTIVE CARE
+
+June Kampangkaew; Nathan C. Nowalk; Diana Stewart; Prathit Kulkarni; Michelle Sibille. 1MD Anderson Cancer Center, Houston, TX; 2Baylor College of Medicine, Houston, TX; 3Baylor College of Medicine/Michael E. DeBakey VA Medical Center, Houston, TX; 4Michael E. DeBakey VA Medical Center, Houston, TX. (Control ID #3185335)
+
+# NEEDS AND OBJECTIVES:
+
+Health care spending continues to rise with billions of dollars wasted annually, which has inspired a high value care (HVC) movement to curb expenses while improving patient outcomes. We aimed to implement a team-based, interdisciplinary morning report (MR) conference emphasizing high value, evidence-based work-up in order to educate physicians on the tools and resources of HVC practice.
+
+1. Improve knowledge in HVC principles.
+2. Improve confidence in utilizing HVC resources.
+3. Provide a forum for interdisciplinary collaboration.
+
+# SETTING AND PARTICIPANTS:
+
+Literature shows that habits established during training follow physicians through their career. Therefore, providing education to medical students will enable them to recognize and apply high-value care, establishing it as a practice pattern early in their careers. Current state assessment surveys revealed 80% of our institutions' incoming third year medical students were not familiar with the term "high-value care". Additionally, 100% of students identified no prior high-value care education. Our data confirmed what is known in literature—medical students get little exposure to high value care concepts. This presented an opportunity to develop a high-value care curriculum for students.
+
+# DESCRIPTION:
+
+Participants are third year medical students rotating on inpatient Internal Medicine core clerkship. Data is collected via pre and post-intervention survey. Objectives include defining high-value care, distinguishing between low and high-value care, and applying evidence-based guidelines to patient care. Interventions include two sessions: an introduction to high-value care during clerkship orientation and a case-based, interactive session mid-way through the clerkship. The material is designed to show students how to consider the risks, benefits and costs of diagnostic testing to make informed diagnostic decisions.
+
+# EVALUATION:
+
+When students defined high-value care in the pre-survey as a free response, 75% of the free responses included "costs", "waste", or "quality" suggesting familiarity with high-value care concepts but lack of more nuanced meanings. Students who felt comfortable utilizing evidence-based medicine for decision making increased from 59% to 91% (statistically significant, p<0.05). Post-intervention, 89% of students felt comfortable discussing testing indications with their team, statistically significant increase.

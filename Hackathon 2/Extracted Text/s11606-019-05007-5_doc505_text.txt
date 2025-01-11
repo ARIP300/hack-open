@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+change in management. He re-presents two months later with episodes of chest pain lasting several minutes, having noticed a new 2 cm, nontender, left-sided mass adjacent to the sternum. Chest x-ray and ultrasound at this time are unrevealing. A subsequent CT chest reveals a 9 cm sternal lesion, and biopsy shows a grade 2 chondrosarcoma of the sternum, which is resected by thoracic surgery. One month post-operatively, he re-presents with a new 2 cm chest wall mass thought to be a postoperative hematoma, which is imaged and drained. Two weeks later, he re-presents with enlarging left chest wall mass and persistent drainage and is admitted to the thoracic surgery service. MRI shows a 21 cm mass with lung nodules concerning for metastases, with ongoing chondrosarcoma on pathology. He is transferred to oncology, where he is initiated on ifosfamide chemotherapy. His course is complicated by ongoing bleeding from the surgical site and tumor, as well as agitation and clumsiness thought to be toxicity from ifosfamide. His clinical status does not improve, and he ultimately transitions to palliative-focused care. He passes away 5 months after his initial presentation for chest wall pain.
+
+# IMPACT/DISCUSSION:
+
+The differential for non-cardiac chest pain is broad, including both musculoskeletal and visceral etiologies. Musculoskeletal chest pain is thought of as either isolated musculoskeletal (e.g. costochondritis), rheumatologic (e.g. spondyloarthritis), or systemic (e.g. neoplastic). Most non-cardiac chest pain is not neoplastic in origin, thus chest wall tumors are rarely considered in this differential. However, chest wall pain is the most common symptom of both benign and malignant chest wall tumors — a diagnosis likely to be missed if a careful examination is not performed. Generally, chest wall imaging should not be pursued for chest pain without a palpable mass. If a mass is palpated on exam, imaging should be done, with CT chest the imaging modality of choice. 50-80% of chest wall tumors are malignant; older age and male gender are predictors of malignancy. Chondrosarcomas are the most common malignant chest wall tumors, are not chemosensitive, and require excision with 4 cm margins. 5-year survival post-resection of chondrosarcomas is 92%, but survival is much lower after local recurrence.
+
+# CONCLUSION:
+
+Painful palpable chest wall masses, particularly in older men, are highly suspicious for malignancy. CT imaging is the modality of choice to evaluate for chest wall tumors. Survival post-resection of chondrosarcoma is greatly reduced after local recurrence.
+
+# PENETRATING CHEST INJURY LEADING TO METHICILLIN-RESISTANT STAPHYLOCOCCUS AUREUS (MRSA) BACTEREMIA AND MYCOTIC ABDOMINAL AORTIC ANEURYSM IN IMMUNOCOMPROMISED PATIENT
+
+Sunjay Modi; Dilshan Dhillon; Paul Nona; Daniel S. Moore. Henry Ford Hospital, Detroit, MI. (Control ID #3170815)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that mycotic aneurysm is a term used to describe any localized dilation of an artery due to destruction of the vessel wall by infection. This aneurysm can result from the infection or a preexisting aneurysm that becomes infected.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that trauma, endocarditis and impaired immunity are common risk factors for infected aneurysms.
+
+# CASE:
+
+A 52-year-old male with a PMHx of chronic lower back pain s/p laminectomy, presented with a 4 day history of right-sided flank pain, subjective fevers and chills. Additional symptoms included dysuria along with episodic suprapubic pain. Vitals were significant for episodic fever. Physical examination was significant for superficial skin abscesses. He did admit to a recent history of incarceration and reported that he was stabbed in the right upper chest which resulted in a pneumothorax. There was a high index of suspicion for pyelonephritis. UA showed findings consistent with UTI. Initial urine cultures and blood cultures came back positive for MRSA. Due to evidence of persistent bacteremia, IV daptomycin and ceftaroline was initiated. CT chest showed findings consistent with septic emboli in the lungs. Echocardiogram was obtained and subsequent transesophageal echocardiogram which were negative for vegetations. MRI was negative for spinal abscess. HIV-1 quantitative and total CD4+ T cell count were obtained and revealed values 102,587 and 11, respectively. At this time, the patient began complaining of acute abdominal pain and painful pulsatile abdominal mass was appreciated on physical exam. CT-abdomen revealed a 3.1x2.8x3.5 cm saccular mycotic aneurysm projecting off the right side of the abdominal aorta. The patient was treated with 6 weeks of daptomycin and placed on dapsone and azithromycin prophylaxis following completion of daptomycin. The patient underwent surgical repair of the aneurysm with a rifampin-soaked Dacron graft and right nephrectomy for an infarcted right kidney.
+
+# IMPACT/DISCUSSION:
+
+This case highlights that penetrating chest injury in an immunocompromised host led to a MRSA bacteremia causing a mycotic aneurysm. The most commonly involved organisms in mycotic aneurysms include S. aureus, Streptococci and Salmonella. In our case, the patient's risk factors for an infected aneurysm were the stab wound which was a likely inoculation site for MRSA and impaired immunity (HIV+). Clinical findings are a painful, pulsatile mass in the abdomen. CT angiography is the diagnostic test of choice. Empiric antibiotics should include MRSA and gram negative coverage, while definitive treatment is surgical excision of the aneurysm and extensive debridement of infected tissues.
+
+# CONCLUSION:
+
+- Trauma such as penetrating chest wall injury, endocarditis, and immunocompromised hosts are common risk factors for infected aneurysms - Clinical presentation can include a painful, pulsatile mass - The diagnosis of an infected aneurysm is based upon imaging of the aneurysm and infection is confirmed with blood cultures and/or cultures from aneurysm wall.
+
+# PERICARDIAL EFFUSION AS AN INITIAL PRESENTATION OF MYXEDEMA COMA
+
+Dana Awad; Omar Kousa; Abdallah Qasim; Mohsin Mirza; Emily P. Walker. Creighton University, Omaha, NE. (Control ID #3186260)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and treat the early manifestation of Myxedema coma that can affect multiple organ systems and cause cardiovascular collapse.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the common cardiovascular changes in Myxedema coma that include cardiomegaly, bradycardia, decreased ventricular contractility, low voltage ECG and rarely, pericardial effusion that can progress to Tamponade.
+
+# CASE:
+
+A 63-year old white female presented to the ED with worsening dyspnea and cough over the previous two weeks. She has a history of hypothyroidism status post thyroid radio-ablation for Grave's disease greater than 20 years prior. She was poorly compliant with thyroid replacement therapy. On physical examination, she was lethargic and in respiratory distress with low O2 saturation. Examination of the head revealed facial plethora and enlarged tongue. She had diminished heart sounds and decreased air entry bilaterally on chest auscultation. A chest x-ray showed enlarged cardiac silhouette and ECG demonstrated low voltage QRS complexes. Echocardiogram was significant for ejection fraction of 50-55% with circumferential pericardial effusion. She was promptly admitted for stabilization and further work up. On the night following admission, she became more lethargic and unresponsive to stimulus. Temperature was 35 C, she developed bradycardia, hypoxia and hypercarbia. Repeat chest x-ray was consistent with acute respiratory distress syndrome (ARDS). She was intubated and remained sedated on a ventilator with vasopressor support and broad-spectrum antibiotic coverage. Initial thyroid function tests resulted with severe hypothyroidism and the diagnosis of myxedema coma was made. She was started on IV levothyroxine daily. Morning serum cortisol on that same day ruled out adrenal insufficiency. On the second day, her heart rate and temperature gradually started to improve. Four days later she became hemodynamically stable and vasopressors were stopped. Thyroxine replacement was continued throughout her hospital stay. She gradually regained

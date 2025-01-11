@@ -1,0 +1,34 @@
+# Recovered from a Past or Present Alcohol or Drug Problem
+
+Individuals were asked whether they thought they ever had a problem with their use of alcohol or other drugs. Individuals who thought they had a problem with their alcohol or other drug use were asked.
+
+# Employment Rate Among Adults with a Substance Use Disorder and the Prevalence of Substance Use Disorders, Receiving Substance Use Treatment, Prevalence of Being in Recovery or Drug Use Problem in the U.S. Workforce
+
+Estimates for employment rates, substance use disorders, treatment, and recovery are from the 2018 National Survey of Drug Use and Health, calculated using the Substance Abuse and Mental Health Services Administration (SAMHSA) public online data analysis system (PDAS).
+
+# Population Total
+
+|Age Group|Population Total|Prevalence of Receiving Substance Use Treatment in the U.S. Workforce (Past Year)|
+|---|---|---|
+|18–25|1,192,736|5.13%|
+|18+|13,263,560|8.51%|
+|26+|9,888,796|7.45%|
+
+# Table 1: Prevalence of a Substance Use Disorder / Population Total (Past Year)
+
+|Age Group|Population Total|Substance Use Disorder Prevalence|
+|---|---|---|
+|18–25|3,687,065|15.87%|
+|18+|13,575,861|8.71%|
+|26+|9,888,796|69.82%|
+
+# Substance
+
+|Alcohol|Illicit Drugs|
+|---|---|
+|Alcohol|2,863,739|
+|Illicit Drugs|4,611,634|
+
+NA = Not Assessed
+
+American Psychiatric Association, 2000

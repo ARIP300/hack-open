@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+Given ICERs of prior diabetes interventions range from $1,000-$4,000, a cost of $1,100 per 1% decrease in HbA1c is a promising intervention, suggesting costs incurred through financial incentive systems have long term cost savings in health for diabetes populations. Multi-component financial incentive structures seem to have less variation in the cost effectiveness, and result in larger over drops in HbA1c suggesting more frequent and smaller incentives may be more effective in initiating behavior change than larger but less frequent incentives.
+
+# COUNT YOUR PENNIES: COSTS OF MEDICAL RESIDENT DEVIATION FROM CLINICAL PRACTICE GUIDELINES IN USE OF TESTING ACROSS 3 UNANNOUNCED STANDARDIZED PATIENT CASES
+
+Eli Cahan2; Kathleen Hanley2; Andrew B. Wallach1; Barbara Porter2; Lisa Altshuler2; Sondra Zabar2; Colleen C. Gillespie2. 1Bellevue Hospital, New York, NY; 2NYU School of Medicine, New York, NY. (Control ID #3185399)
+
+# BACKGROUND:
+
+Diagnostic tests account directly for 5% of healthcare costs, but influence decisions constituting 70% of health spending. Only 5% of ordered labs are actually "high value," depending on clinical circumstances. Low-value tests, defined as not appropriate for a given clinical scenario, are ordered in one in five clinic visits. Up to $750 billion is spent on these low-value tests, contributing to the estimated one-quarter to one-third of healthcare spending is on wasteful services. We sought to quantify test-specific low-value ordering behaviors in urban outpatient clinics across three standardized patient cases.
+
+# METHODS:
+
+Unannounced standardized patients (USPs - highly trained actors portraying patients with standardized case presentations) were introduced into medicine residents' primary care clinics in a large urban, safety net hospital over the past five years. The USPs simulated three common outpatient clinical scenarios: a "Well" visit, a visit with a chief complaint of "Fatigue," and a visit with a diagnosis of "Asthma." Diagnostic orders were extracted via retrospective chart review for these standardized visits. For each scenario, appropriateness of diagnostic testing was determined by reference to United States Preventative Services Task Force (USPSTF) and relevant specialty society clinical practice guidelines (CPGs). "Wasteful" (over-ordered) tests were defined as those not explicitly indicated for the given scenario. Costs were derived from GoodRx.com according to local ZIP codes.
+
+# RESULTS:
+
+The most commonly wasteful tests for the Asthma case were CBC (8% of 170 visits) and Chem-7 (6%), though the relative risk of over-ordering TSH was 3.8x that of other scenarios. The most commonly over-ordered tests for the Fatigue case were LFTs (14% of 148 visits) and HBV (5%), with LFTs ordered up to 15-fold more frequently than in other scenarios. The most commonly over-ordered tests for the Well case were BMP (35% of 124 visits), CBC (15%), LFTs (15%), and HBV (11%) ordered at rates up to 6.3x, 2.0x, 14.2x, and 7.4x higher than other scenarios. Finally, the average per patient excess costs were $8.27 (+/- $1.76), $6.79 (+/- $4.5), and $23.5 (+/- $9.34) for Asthma, Fatigue, and Well cases respectively.
+
+# CONCLUSIONS:
+
+Inappropriateness in test ordering patterns were observed through USP simulated cases. Certain tests (CBC, BMP, LFTs, and HBV) were more likely used wastefully across cases. Between cases, specific tests were ordered in an inappropriate manner (such as TSH for Asthma, LFTs for Fatigue, and BMP for Well visits). The per patient direct cost of low value testing rose above $20 per visit for the Well visit, though the Fatigue case exhibited the most variation. Notably, this excludes downstream (indirect) costs inestimatable from standardized encounters alone. Knowledge of wasteful utilization patterns associated with specific clinical scenarios can guide interventions targeting appropriate use of testing.
+
+# CULTURE AND COGNITION? THE ASSOCIATION BETWEEN ACCULTURATION AND SELF-REPORTED MEMORY PROBLEMS AMONG MIDDLE-AGED AND OLDER LATINOS IN THE NATIONAL HEALTH AND EXAMINATION SURVEY (NHANES), 1999 TO 2014
+
+Alejandra Casillas1; Li-Jung Liang2; Stefanie D. Vassar2; Arleen F. Brown2. 1David Geffen School of Medicine @ UCLA, Los Angeles, CA; 2UCLA, Los Angeles, CA. (Control ID #3186113)
+
+# BACKGROUND:
+
+The Immigrant Paradox suggests that immigrant Latinos are "protected" from negative health outcomes, like cognitive decline, versus US-born and/or acculturated Latinos. However, eight waves from the Hispanic Established Populations for the Epidemiologic Study of the Elderly recently showed that older age at migration (i.e. less acculturated) was associated with higher risk for cognitive decline. Other studies suggest that the effects of acculturation on health vary between Latino ethnic groups (i.e. Mexican vs. non-Mexican/other Latino). We examined the association between a well-established acculturation scale and self-reported memory problems (a "warning sign" for cognitive decline) over multiple time periods among Latinos in a nationally representative sample.
+
+# METHODS:
+
+These analyses included 5038 NHANES participants 45 years, in four 4-year time periods, between 1999-2014, who reported their race/ethnicity as Latino/Hispanic and were further categorized as "Mexican" or "other Latino." The primary outcome was self-reported memory problems (yes vs. no). An acculturation score (0/lowest - 3/highest) was calculated by giving 1 point for each of these characteristics: being born in the United States, speaking predominantly English, and living in the United States 20 years. We used generalized linear regression models with appropriate sample weights accounting for unequal probabilities of selection, oversampling, and non-response to examine the association between acculturation and memory problems, across ethnicity and age groups.
+
+# RESULTS:
+
+There was no difference in memory problems between the two ethnic groups for both middle aged (age 45-64 years) and older Latinos (age 65 years). Acculturation scores were higher for the Mexican groups for both age groups, across all time periods. Linear regressions showed a significant negative association between acculturation score and memory problems in older Latinos in three of the four latter time periods (range of estimates: -0.56 to -0.28; p-values= 0.05). When examining older Latinos by Mexican vs. other Latinos, acculturation and self-reported memory problems remained negatively correlated in both ethnic groups.
+
+# CONCLUSIONS:
+
+We observed that acculturation scores were negatively associated with self-reported memory problems (higher score–> lower % memory problems) among older Latinos, suggesting that acculturation may be protective against one of the early "warning signs" for cognitive decline. This finding is counter to the traditional theory of the Immigrant Paradox, wherein acculturation is linked to worsened health outcomes. These results point to a need for more aggressive efforts to address cognitive decline among less acculturated, older Latinos. Finally, the effects of acculturation on self-reported memory problems may be related to factors such as education, socioeconomic status and other social determinants, and warrant further investigation.
+
+# CURRENT LANDSCAPE OF CENTRALIZED IIS-BASED REMINDER/RECALL TO IMPROVE IMMUNIZATION RATES FOR ADULT IMMUNIZATIONS
+
+Dennis Gurfinkel1; Laura P. Hurley2; Alison Saville1; Brenda Beaty3; Heather Roth4; Amanda Dayton5; Alison Chi5; Allison Kempe1, 6. 1University of Colorado, Aurora, CO; 2Denver Health, Denver, CO; 3University of Colorado, Aurora, CO; 4Colorado Department of Public Health and Environment, Denver, CO; 5American Immunization Registry Association, Washington DC, DC; 6University of Colorado and Children's Hospital Colorado, Aurora, CO. (Control ID #3185546)

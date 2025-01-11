@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Aggressive end of life (EOL) treatments in advanced cancer patients are associated with low-value care and frequently lead to unnecessary hospitalizations. Since 2012, the National Quality Forum (NQF), American Society of Clinical Oncology (ASCO), and Centers for Medicare and Medicaid Services (CMS) have adopted EOL quality measures to reduce aggressive care. Using these measures, we conducted a systematic review of the literature to explore what interventions are associated with reductions in aggressive EOL care in cancer patients.
+
+# METHODS:
+
+We searched MEDLINE via Ovid, Cochrane, CINAHL, EMBASE, Scopus, and PsychINFO. We developed a comprehensive search strategy using the following concepts: EOL care, aggressive or intense care, and cancer. We included randomized control trials (RCTs), quasi-experiments, and observational studies. Studies that did not have a clear intervention or exposure variable and/or did not explicitly aim to reduce aggressive EOL care or improve quality of EOL care were excluded. We developed a taxonomy to organize our findings using the Systems Engineering Initiative for Patient Safety (SEIPS) model derived from human factors engineering. The study protocol was registered with the PROSPERO register of systematic reviews (CRD42018087528).
+
+# RESULTS:
+
+Of the 3,881 studies identified by our search, 271 were included based on title and abstract review, and 36 met the final inclusion criteria after full-text review. Five studies were RCTs. Thirty-two studies used validated or nationally endorsed measures of aggressive EOL care, while 26 used additional unendorsed or un-validated measures. Only 8 studies linked quality measures with patient- or caregiver-reported outcomes. Based on our taxonomy of SEIPS work system categories, we found that interventions targeting task-related factors were most common (n=20). These included (1) referral to subspecialty palliative care or hospice; (2) interventions to improve communication and EOL discussions; and (3) primary care visits. Interventions targeting external factors, such as assessing the implications of a new policy for universal hospice care, were least common (n=1). Meta-analysis was not performed due to heterogeneity of interventions and outcome measures. Interventions were highly variable in their ability to significantly improve measures of aggressive care at EOL in cancer patients.
+
+# CONCLUSIONS:
+
+Quality measures to reduce overly aggressive EOL cancer care, including hospitalizations, are used inconsistently by investigators. Interventions to improve aggressive EOL care have had mixed success. More studies are needed to assess the efficacy of interventions to reduce aggressive EOL care, particularly those that link quality measures with patient- and caregiver-reported outcomes.
+
+# INTRODUCING VALUE-BASED CARE TO MEDICAL STUDENTS: A CONTROLLED, PROSPECTIVE, COHORT STUDY OF AN EDUCATIONAL INTERVENTION.
+
+Sara-Megumi L. Naylor1; Rong Guo2; Allison L. Diamant2; Ming Lee2. 1UCSF, San Francisco, CA; 2UCLA, Los Angeles, CA. (Control ID #3185759)
+
+# BACKGROUND:
+
+The ongoing crisis in US health care signals a critical need to educate medical students about quality, cost, and how they interact to create value. Some medical schools have incorporated value-based care (VBC) content in their curricula. Most available literature only provide descriptive information about curricular efforts and offer best practices; we currently do not know how these efforts specifically impact medical students when compared to a control group. To address this gap, our study evaluates an educational intervention that teaches medical students about VBC and compares intervention and control groups. We hypothesized that students who participated in the intervention would report higher performance related to VBC than those who did not, and that their higher performance would be sustained.
+
+# METHODS:
+
+We designed a prospective cohort study and received IRB exemption. We recruited third year medical students between 7/2017 and 4/2018. Out of 137 invited students, 122 (89%) participated. The intervention sessions consisted of definitions, clinical cases, interactive activities, and resources that highlight VBC. The control sessions were shorter and focused on defining VBC. We collected retrospective pre- and post- survey data after all sessions, and again at the end of the academic year. The surveys used a 5-point Likert scale. Wilcoxon signed rank test and Wilcoxon rank sum test were utilized for data analysis.
+
+# RESULTS:
+
+We found significant improvement from pre- to post-test scores across all sessions and in all domains following a similar pattern (p<0.001). The domain of knowledge improved the most and the domain of attitudes the least. When evaluating the change from pre-to post-test scores between intervention and control groups by domain, we found significant improvement in the intervention group compared to the control group in all domains, with more for the domains of knowledge, skills, and confidence (p<0.001), and less for the domain of attitudes (p<0.01). When comparing pre- and delayed post-test scores, both intervention and control groups showed significant within-group gains in all domains except knowledge, but we did not find significant difference between intervention and control groups.
+
+# CONCLUSIONS:
+
+Our study demonstrates that educating medical students in VBC with a concerted effort for students to develop personalized, concrete strategies in their current role as a medical student can increase their self-perceived knowledge, skills, attitudes, and confidence regarding VBC when compared to a control group that receives a general introduction on VBC. Our study design with a control group enriches our findings and gives us greater confidence in the efficacy of our intervention. Our goal is to continue to introduce VBC to medical students with educational interventions that we know have an impact on outcomes, and to help establish long term culture change among medical students to practice VBC in their careers.
+
+# INVESTIGATING DIFFERENCES IN LENGTH OF STAY ON TEACHING AND NON-TEACHING HOSPITAL TEAMS
+
+Rebekah J. Walker; Jennifer Good; Kurt J. Pfeifer; Bradley H. Crotty; Mandy Kastner; Jennifer A. Campbell; Navdeep Gupta; Douglas Levine; Joan Neuner; Leonard E. Egede. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185421)
+
+# BACKGROUND:
+
+The cost of healthcare in the U.S. is higher per capita than any other country with one of the largest drivers of cost being inpatient costs. With an average inpatient stay costing approximate $14,650, many hospital systems are investigating ways to decrease lengths of stay while ensuring high quality care. To inform new interventions, our Division of General Internal Medicine (GIM) aimed to investigate length of stay variability by team, as well as whether differences existed by hospitalist-only vs. hospitalist teaching teams.
+
+# METHODS:
+
+Inpatient encounters with GIM hospitalist oversight were extracted from the medical record over a 10-month period. Length of stay was calculated based on the time between hospital admission and hospital discharge with no removal of outliers. Encounters were assigned to teams based on the team assignment of the attending provider. In addition to comparisons by individual teams, teams were grouped based on whether they were teaching or non-teaching teams staffed by residents in addition to hospitalists. Observation teams and Advanced Heart Failure teams were not included in means of other non-teaching teams as length of stays were expected to differ for these groups. Since length of stay was not normally distributed, it was modeled first using generalized linear models with log link and secondly by quartile regression. Models were adjusted for age, gender, race/ethnicity, insurance coverage, Elixhauser comorbidity count, and whether the hospital stay included time spent in the ICU.
+
+# RESULTS:
+
+When compared as individual teams, each teaching team had a significantly higher length of stay than a reference non-teaching team regardless of the non-teaching team selected (mean difference ranged from 1.1-1.5 days higher). There were no significant differences between individual non-teaching teams after adjusting for relevant covariates.

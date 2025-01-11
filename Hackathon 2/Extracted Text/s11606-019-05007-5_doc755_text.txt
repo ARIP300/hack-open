@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+# DESCRIPTION:
+
+Hoofbeats listeners play the role of the clinician, as a difficult case is presented in stepwise fashion with pauses to allow revision of an impression or differential. Listeners hear a discussant work through the case, accompanied by commentary from the show's hosts, who interpret and elaborate on the discussant's reasoning behaviors. Clinical pearls, useful schema, and biases are highlighted. To reinforce the challenge, a visual representation of the case is sent out via social media. In some episodes users can solve an interactive version of the case on the online database HumanDx; the resulting collective differential is then explored within the episode.
+
+# EVALUATION:
+
+From March to December 2018 we released six Hoofbeats episodes, with over 64,000 total downloads by listeners across 170 countries. In our descriptive analysis of feedback, we found that listeners valued the explicit analysis of the problem-solving behavior of experienced clinicians. Interactive elements successfully engaged our listeners, who actively attempted cases and reflected on their reasoning. Through role modeling from the hosts, listeners reported greater confidence articulating and teaching clinical reasoning concepts. Interestingly, commentary on particularly challenging points in a difficult case led our listeners to appreciate the honesty and humility of our hosts and experts, who frequently recognized their own shortcomings.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Decades of research into clinical problem-solving have produced a terminology now familiar to many trainees and medical professionals, such as the practice of "problem representation" or the concept of the "availability heuristic." Many of these abstract concepts originated in behavioral science and artificial intelligence programming, and do not lend themselves naturally to book or lecture-based learning. However, our experience with Hoofbeats suggests there is significant interest among learners in the practical application of these constructs.
+
+Evidence-based clinical decision-making found in real patient care. Learners can solve the case simulations in less than 5 minutes and enter their responses in free-text, instead of multiple choice, mimicking real-world practice. Learners' responses are automatically scored by the Human Dx system in real-time - allowing for immediate feedback on learner diagnostic performance.
+
+# EVALUATION:
+
+A cohort study published in JAMA Open investigated the performance of 1,728 physicians and trainees in over 11,000 Human Dx case simulations. Three measures of Clinical Quotient (CQ), a metric Human Dx uses to estimate clinical competency, were used to assess physicians' diagnostic performance: accuracy, efficiency, and a combined score called the Diagnostic Acumen Precision Performance. The study found that medical professionals with more experience and training demonstrated higher CQ scores on Human Dx case simulations.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The Human Diagnosis Project introduces an objective and scalable way to measure diagnostic reasoning. Physicians and trainees anywhere can now use an open, online system to quickly and easily assess and develop their clinical reasoning skills.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+www.humandx.org
+
+# THE HUMANISM POCKET TOOL: FINDING THE JOY IN TREATING COMPLEX PATIENTS
+
+Michael Soh1; Andrew Shaner1; Lillian Gelberg2; Margi Stuber1; Kristin Kopelson3; Carole Warde4. 1Greater Los Angeles VA, Los Angeles, CA; 2UCLA, Los Angeles, CA; 3VA, Los Angeles, CA; 4Greater Los Angeles VA Health System, North Hills, CA. (Control ID #3186183)
+
+# THE HUMAN DIAGNOSIS PROJECT: AN OBJECTIVE, REAL-TIME, AND SCALABLE WAY TO MEASURE CLINICAL REASONING
+
+Marc Rabner; Seiji Hayashi. The Human Diagnosis Project, Washington, DC. (Control ID #3184948)
+
+# NEEDS AND OBJECTIVES:
+
+Medical errors are the third leading cause of death. Roughly 40,000-80,000 of these deaths stem from errors in diagnosis, and nearly every American will experience a diagnostic error in their lifetime. Despite this magnitude, efforts to reduce medical errors have typically focused on medical treatment and not diagnosis. The largest contributor to diagnostic error is failures of clinical reasoning. Despite the emphasis on the importance of diagnosis and clinical reasoning in medical education today, current approaches to assess and improve clinical reasoning skills are resource intensive and/or subjective, which limit their impact and reach.
+
+# SETTING AND PARTICIPANTS:
+
+The Human Diagnosis Project (Human Dx) is an online tool for measuring and training clinicians' diagnostic reasoning. Basic access to Human Dx is free and accessible to anyone via a mobile app for iPhone and Android, and on the web at www.humandx.org. Over 15,000 medical professionals and trainees have solved Human Dx's interactive clinical case simulations nearly 250,000 times. Participants are from over 500 institutions, in 80 countries, and from 40 specialties. About 45% are trained in internal medicine. Approximately 30% are attending physicians, 30% are graduate medical trainees, and the remainder are medical students and other health professionals (e. g., NPs, PAs, RNs).
+
+# DESCRIPTION:
+
+Human Dx has over 3,500 brief, interactive case simulations. Each case is designed to be highly engaging to the practicing physician in order to ensure critical thinking about each case. Cases include clinical information based on a real patient encounter (de-identified) and promote the
+
+# NEEDS AND OBJECTIVES:
+
+Your brain is equipped with automatic, emotional responses biased to protect you from people who might be dangerous, infectious, or time-consuming. These emotions can sneak up on you and replace compassion with fear, disgust, or anger. Existing practices to counteract these emotions can be time and labor intensive and challenging to implement. The Humanism Pocket Tool (HPT) emphasizes simple yet explicit strategies and techniques designed for providers to promote patient-centeredness by counteracting reflexive, dehumanizing responses to patients with challenging behaviors.
+
+# SETTING AND PARTICIPANTS:
+
+Our IP practice/training site is in a large VA clinic for homeless Veterans (~3,000 patients). The clinic provides primary care, mental health, and social work services within a patient-centered medical home. To date, we have over 30 trainees and a dozen faculty from five different professions in primary and mental health care.
+
+# DESCRIPTION:
+
+The HPT pulls from the realms of appreciative inquiry, storytelling, active listening, and mindfulness and integrates intra/interpersonal techniques into common clinical interactions. Via our HPT, clinicians and trainees learn to (1) coach themselves; (2) be warm; (3) listen actively; (4) condense each patient's personal story into a highly compact form, termed a vivid vignette; (5) use the Vivid Vignette to identify the patient in progress notes and in conversations with colleagues, so as to inspire and coordinate care; (6) appreciate differing professional perspectives on the patient; and (7) know their team members as people. Each technique builds upon each other to create and enrich the patient's story in order to prioritize their quality of care.
+
+# EVALUATION:
+
+The HPT is still a work in progress and we intend to learn more about how different teams teach and practice and the various obstacles they run into during patient care. To date, we have over 15 collaborators across the country that have begun piloting the HPT at their respective sites and we've begun a process of reaching out to these providers to learn more about how they utilize the HPT and what can be done to improve it.

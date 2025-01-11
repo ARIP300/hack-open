@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Isoniazid, Rifampin, Pyrazinamide, and Ethambutol
+
+Patient improved clinically and follows with pulmonology on outpatient basis.
+
+# IMPACT/DISCUSSION:
+
+Pleural TB is the most common extra pulmonary form of TB in adults, particularly in countries where the prevalence of the disease is high or moderate. However, pleural TB is under-reported, as negative pleural fluid mycobacterial cultures contribute to an underestimated incidence of disease. Although pulmonary TB can be a manifestation of primary infection, it is most commonly associated with reactivation of pre-existing foci. Tuberculous pleuritis develops from direct infection of pleura and lymph nodes as a result of a ruptured sub-pleural caseous focus in the lung. It is generally accepted that pleural TB results from a late hypersensitivity reaction to Mycobacterium Tuberculosis antigens. In patients with disseminated TB, the yield of pleural biopsy (77%) is higher than the yield of AFB staining (43%), PCR (70%) or culture (72%). In an instance of negative culture, such as in our case, biopsy can help increase the yield and decrease the time of diagnosis. Pleural biopsy can aid in diagnosis and treatment of TB.
+
+# CONCLUSION:
+
+This case illustrates the diagnostic difficulty of disseminated TB with atypical organ involvement. Culture is the gold standard for diagnosing TB, but is a long process and as 23% of TB in the United States is culture negative, the diagnosis sometimes relies on ruling-out other etiologies in the differential diagnosis and histologic examination.
+
+# THE FORGOTTEN CONSEQUENCES OF THE OPIOID EPIDEMIC: ADRENAL INSUFFICIENCY PRESENTING WITH HYPERCALCEMIA
+
+Christina Ryu. CPMC, San Francisco, CA. (Control ID #3178626)
+
+# LEARNING OBJECTIVE #1:
+
+Chronic opioid use is often overlooked as a cause of secondary adrenal insufficiency, but physicians should be aware of this increasingly common cause, especially with the current opioid epidemic.
+
+# CASE:
+
+A 54-year-old woman with history of opioid abuse presented with generalized weakness, anorexia and depressed mood. Labs showed a corrected calcium of 13.7 mg/dL. Work-up revealed non-parathyroid hormone (PTH) mediated hypercalcemia with PTH 17 pg/ml in setting of non-elevated PTH related peptide (PTHrp), low 25-hydroxyvitamin D, low 1,25 dihydroxyvitamin D, normal free light chain ratio, low vitamin A and normal thyroid function. Calcium normalized and symptoms improved with IV fluids, calcitonin, furosemide and zoledronic acid. Etiology of hypercalcemia remained unclear at discharge. She represented to the ED 1 day later with hypoglycemia (glucose 13 mg/dL) and hypotension. Work-up revealed undetectable morning cortisol and ACTH levels, suggestive of secondary adrenal insufficiency. Unfortunately, cosyntropin stimulation test was not performed to confirm diagnosis prior to starting glucocorticoids. Pituitary MRI revealed a microadenoma measuring 5x3x3 mm, but all other pituitary hormones were intact. Based on history and work-up, it was determined chronic opioid abuse was the most likely cause of her secondary adrenal insufficiency. The patient was started on steroids with immediate improvement.
+
+# IMPACT/DISCUSSION:
+
+Studies have shown that chronic opioid use affects cortisol secretion likely due to interactions in the hypothalamus-pituitary-adrenal (HPA) axis. Opioids affect the HPA axis at multiple levels, but the primary site of action is thought to be the hypothalamus as seen in a study of morphine's effect on rat hypothalamic fragments leading to the suppression of CRF-41 release. In studies of healthy volunteers, naloxone, an opioid antagonist, led to an increase in cortisol and CRH levels, suggesting that opioids exert tonic inhibition on the HPA axis. One study showed that acute administration of oral morphine led to suppression of serum basal cortisol and plasma ACTH. Further, though rare, adrenal insufficiency can cause hypercalcemia. The pathophysiology is unclear but appears to be related to increased bone resorption, volume contraction from adrenal insufficiency and increased proximal tubular calcium reabsorption in the setting of decreased kidney function.
+
+# CONCLUSION:
+
+This case highlights two points: adrenal insufficiency should be considered as a cause of unexplained non-PTH mediated hypercalcemia and the significant impact of chronic opioid use on the HPA axis. Given the current opioid epidemic, physicians need to recognize this commonly overlooked clinical entity.
+
+# VITAMIN B12 DEFICIENCY PRESENTING AS HEMOLYTIC ANEMIA
+
+Suheil Albert Atallah-Yunes; Fatima Ali; Philip Brandt. UMASS-Baystate, Springfield, MA. (Control ID #3185780)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hemolysis as a rare complication of Vitamin B12 deficiency.
+
+# CASE:
+
+A 34-year-old male with no significant past medical history presented to the hospital with one month of progressive weakness and fatigue. He reported 11 kg weight loss in the previous 4 weeks. Physical exam did not find any palpable lymphadenopathy, jaundice or organomegaly. Blood work demonstrated a white cell count of 5.5 k/ul, hemoglobin of 8.8 gm/dl, platelet count of 190 k/ul with an MCV of 93 fl. CBC differential was significant for 2% myeloblasts. Hemolysis panel revealed an LDH of 4896 U/L, haptoglobin level less than 10, total bilirubin of 2.5 mg/dl and indirect bilirubin of 2.1 mg/dl. A Coomb's test was negative. Peripheral blood smear raised the concern for a bone marrow problem after dysplastic red blood cells with macroovalocytes, teardrop shaped cells and red blood cell precursors were observed. CT of the abdomen and pelvis did not demonstrate any splenomegaly or any evidence of a neoplastic process. Bone marrow biopsy findings were significant for megaloblastic changes and erythroid dysplasia. Cytogenetic analysis failed to highlight any abnormalities and hence the suspicion for a malignant process decreased. The negative Coomb's test and the low suspicion for microangiopathic hemolytic anemia in addition to the severely dysplastic myeloid cells raised the concern for nutritional deficiencies causing intramedullary hemolysis and bone marrow dysplasia. Evaluation then found a significantly low Vitamin B12 and high methylmalonic acid levels; <150 pg/ml and 26 nmol/ml respectively. Anti-Parietal antibodies were elevated at 40. Atrophic gastritis was encountered on an EGD and gastric biopsy results demonstrated evidence of chronic gastritis all consistent with pernicious anemia, which eventually lead to the patient's intramedullary hemolysis.
+
+# IMPACT/DISCUSSION:
+
+Hemolysis is a very rare complication of Vitamin B12 Deficiency. Most of the cases of hemolysis due to Vitamin B12 deficiency occur in patients with pernicious anemia. The pathophysiology is still unclear. The most commonly proposed mechanism for intramedullary and intravascular hemolysis caused by Vitamin B12 deficiency is ineffective erythropoiesis. Other proposed theories include elevated homocysteine levels in patients having vitamin B12 deficiency which could cause endotoxic injury and eventually microangiopathic hemolysis. Low Vitamin B12 levels indicate vitamin B12 deficiency however methylmalonic acid and homocysteine levels should be checked if suspicion is still high in the setting of normal Vitamin B12 level. Vitamin B12 replacement is the treatment for hemolysis related to Vitamin B12 deficiency.
+
+# CONCLUSION:
+
+Hemolysis is a very rare complication of Vitamin B12 Deficiency and should be suspected in patients presenting with a Coomb's negative hemolytic anemia and signs of Vitamin B12 deficiency under peripheral blood and bone marrow review. Given its rarity, physicians should have a high clinical suspicion for this rare complication.
+
+# 12 MM LUNG NODULE DEVELOPED INTO METASTATIC LUNG ADENOCARCINOMA IN 2 YEARS
+
+Mukesh Kumar1; Aiman Zafar2; Charles Fishman3. 1Montefiore Medical Center, Bronx, Pakistan; 2Montefiore Medical center, Yonkers, NY; 3Montefiore Medical Center, Bronx, NY. (Control ID #3184227)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize the malignant potential of lung nodules even in young patients.

@@ -1,0 +1,37 @@
+# Asian Countries’ Responses Towards COVID-19
+
+This paper is divided into five sections. Firstly, we present the respective actions taken by Singapore, Taiwan, and Malaysia to mitigate COVID-19; we compare and contrast the policies of the three countries. Secondly, we critically analyze the success-enabling and success-disabling factors in mitigating COVID-19 based on the numbers of cases reported from March 2020 till January 2021 by the government of Malaysia, with reference to policies, standard operating procedures (SOPs), and enforcement in Singapore and Taiwan. Thirdly, we explicate the implications of COVID-19 on social wellbeing. Fourthly, we develop a PEST analysis and put forward a few recommendations. Finally, we propose various research ideas that need to be further investigated by future researchers. The discussions covered in this paper are premised on data available until 30 April 2021, as the war against COVID-19 is an ongoing effort.
+
+# Singapore
+
+Singapore registered the world’s lowest COVID-19 death rate thus far (Geddies & Aravindan, 2020). The total number of deaths related to COVID-19 for Singapore is 29 as of 30 January 2021 (Ministry of Health Singapore, 2021). What is the secret of Singapore in reporting the lowest COVID-19 death figure in the world? One of the significant actions is that the government started temperature screening for all the travelers arriving from Wuhan since 3 January 2020, even though there was no reported case in their region at that period of time. This is vital as Singapore took prevention measures through border controls as soon as the disease emerged in Wuhan, China. Singapore detected the first COVID-19 case on 23 January 2020, and the government immediately imposed three phases of actions to combat the spread of the virus (Yong, 2020).
+
+# Phase 1
+
+Under Phase 1, they carried out aggressive testing, contact tracing, border control measures, early screening, and suspected patient isolation (Wang et al., 2021). The city-state moved to Phase 2 or safe transition on 19 June 2020 with the government imposing rules of wearing face masks in public places, and this is one of the significant steps to lower the possibility of another wave of COVID-19 (Geddies & Aravindan, 2020).
+
+# Phase 2
+
+Under Phase 3, the government put in place strict community-wide measures by closing all the non-essential businesses and schools, and prohibited mass gatherings (Wang et al., 2021). Another action is levying heavy fines on and meting out punishments to those who failed to follow the rules set by the government - fined up to US$10,000 or jailed for 6 months. Given the lessons learnt from the Severe Acute Respiratory Syndrome (SARS) epidemic, the Singapore government devised a disease-outbreak response strategy with activation levels similar to those of the World Health Organization (WHO) Pandemic Alert Response System. Through early prevention measurements, strict enforcement of law, and meticulous contact tracing, Singapore has successfully controlled the spread of COVID-19; the reported numbers of daily new cases averaged of between 1 and 2 digits in January 2021 (Tan, 2021a).
+
+# Financial Aid
+
+For financial aid, the Singapore government has provided COVID-19 support grant to the unemployed or low-income households. Since the outbreak of COVID-19, they have introduced Stabilization and Support Package, Resilience Budget, Solidarity Budget, and Fortitude Budget worth S$4 billion, S$48.4 billion, S$5.1 billion, and S$33 billion respectively (KPMG, 2020a). These unemployment-reducing budgets are allocated as incentives for job support and job growth.
+
+# Taiwan
+
+Taiwan had the world’s best virus-prevention record by far with only 553 confirmed cases among 23 million citizens as at 31 October 2020, while the cumulative confirmed cases worldwide had reached 46.14 million with 1.20 million deaths (Wang & Ellis, 2020). According to the Taiwan Centers for Disease Control (2021), the country registered 1-digit COVID-19 daily cases throughout January 2021. People living in Taiwan have a psychological trauma and are better prepared for COVID-19; they possess a high degree of awareness after they experienced the SARS outbreak in 2003 (Lei & Klopack, 2020).
+
+# Central Epidemic Command Centre (CECC)
+
+In addition, after the SARS catastrophe, their government established the Central Epidemic Command Centre (CECC) to introduce and monitor prevention measures for handling future pandemics. To facilitate rapid communications, the government activated the CECC as a physical command center on 20 January 2020, a day before the first COVID-19 case was reported in Taiwan (Cheng et al., 2020).
+
+# Preventive Measures
+
+They also implemented mandatory self-quarantine, early border controls, banning foreign visitors; and employed big-data analytics to trace high-risk persons based on their medical or traveling history. Instead of shutting down its economy for weeks to halt the infection, Taiwan used a different approach. After rapidly shutting its borders and prohibiting the export of surgical masks, the authorities utilized contact tracing, and mobile sim-tracking to locate and ensure people under quarantine were following the laws (Jian et al., 2020).
+
+# Stockpiling PPE
+
+Yang et al. (2020) highlighted that when the virus cases spiked in China, the Taiwanese government stocked up on personal protective equipment (PPE) five times the required amount. This is a vital preemptive effort as most countries faced a shortage of PPE for the frontline and healthcare workers during the pandemic. The CECC also sets the price for PPE, and each resident in Taiwan can purchase a limited quantity of PPE only.
+
+In a nutshell, by learning from the previous SARS experience in 2003, the Taiwanese government and society responded swiftly to the COVID-19 pandemic by taking uncompromising preventive and control measures as those mentioned above. The concerted efforts contributed to the decline in the infectious disease with no occurrence of a second wave as of 31 January 2021.

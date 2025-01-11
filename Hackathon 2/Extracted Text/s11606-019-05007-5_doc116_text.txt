@@ -1,0 +1,49 @@
+# JGIM
+
+# ABSTRACTS
+
+and/or a lack of prior exposure to and/or experience with higher-level tasks (e.g., chronic disease management). Key stakeholders also recounted observing physician resistance to the less hierarchical and more team-oriented model of the RN-PCP relationship promoted in PCMH, and they recalled instances of power struggles as physicians resisted evolving RN autonomy and/or new reporting structures.
+
+# CONCLUSIONS:
+
+Key stakeholders had diverging perspectives on the nature of RN tasks being performed, but most agreed that there was confusion in PCMH over RN roles; many perceived that a breakdown of the traditional PCP/RN hierarchical structure was being met with resistance by some physicians. A key aim of PCMH models is to use team-based approaches to improve patient care, but challenges to RN-PCP collaboration can make implementation of such models more difficult. These findings highlight areas for improvement and can guide the development of future trainings.
+
+# EXAMINATION OF INTERNAL MEDICINE, PEDIATRIC AND FAMILY MEDICINE RESIDENTS' PERCEPTIONS, SKILLS, AND PRACTICES IN DELIVERING CROSS-CULTURAL CLINICAL CARE
+
+Eun Ji Kim 1; Lyndonna M. Marrast 1; Omolara T. Uwemedimo 3; Shari Jardine 2; Johanna Martinez 1. 1 Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY; 2 Northwell Health, New Hyde Park, NY; 3 Zucker School of Medicine at Hofstra/Northwell, New Hyde Park, NY. (Control ID #3185108)
+
+# BACKGROUND:
+
+Social determinants of health (SDH) encompass conditions arising from where people are born, live, learn, and work. SDH affect more than half of patient health outcomes and the presence of health harming needs have been associated with poor health outcomes. The purpose of this study is to assess previous education in SDH-related topics and examine the translation of resident education into preparedness, skillfulness, and clinical practice to address patients' SDH.
+
+# METHODS:
+
+In the beginning of the academic year, Internal Medicine, Pediatrics, and Family Medicine residents were asked to complete a survey containing questions about sociodemographic background, cross-cultural characteristics, and prior education or training in SDH. The survey also contained questions about self-perceived preparedness, skillfulness, and clinical experience addressing SDH. We conducted descriptive analysis of resident's responses to the survey and examined characteristics associated with skillfulness.
+
+# RESULTS:
+
+The study included 160 residents from Internal Medicine (n=87), Pediatrics (n=63), and Family Medicine (n=10). The study sample respondents self-identified as 36.9% White, 6.9% Black, 8.1% Hispanic, 36.9% Asian, and 11.2% Other. About a quarter (27.5%) of residents reported coming from a disadvantaged background (low income, limited English proficient, or attending a school with high dropout rate). A majority of the residents spoke another language other than English (58.8%) and had a parent who was born outside of the US (65.0%). Residents reported prior education or training in health disparities (75.6%), SDH (83.8%), and community health (57.5%). Despite the majority of the residents reporting prior education in various cross-cultural topics (reported range 63.1-98.1%), there were wide variations in perceived preparedness in addressing patients with cross-cultural differences (24.4% prepared to care for patients with a distrust of healthcare system and 51.3% prepared to care for patients with limited English proficiency or from a different culture). Very small percentages of residents regularly asked patients about social needs, including home-lessness (4.1%), affordable housing (2.7%), food insecurity (0.0%), and unhealthy living conditions (9.5%). Residents perceived level of skill in providing cross-culture care increased when they had received medical school education in social history, including identifying 1) how well a patient can read or write English, 2) religious beliefs that might affect clinical care, 3) cultural customs that might affect clinical care, and 4) how a patient makes decisions with other family members.
+
+# CONCLUSIONS:
+
+Medical school teaching in cross-cultural care is associated with improved self-perception of skill in addressing patients SDH among residents. Graduate medical education that is inclusive of cultural competency, social justice, and health equity may improve trainees' perceptions, readiness, and skill for clinical practice adept in addressing SDH.
+
+# EXAMINATION OF THE ASSOCIATION BETWEEN LIFE-COURSE SOCIOECONOMIC STATUS, ACCULTURATION, AND HYPERTENSION AMONG UNITED STATES IMMIGRANTS WITH AND WITHOUT DIABETES
+
+Aprill Z. Dawson; Rebekah J. Walker; Leonard E. Egede. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185017)
+
+# BACKGROUND:
+
+More than 42 million immigrants live in the United States (US), and are more likely to work low paying jobs, live in poverty, and lack health insurance. It is known that ethnic minorities are disproportionately affected by hypertension and diabetes. Immigrants face additional challenges in disease management due to barriers to accessing care, limited English proficiency, and cultural differences. Therefore, the aim of this study was to understand the relationship between life-course socioeconomic status (SES), acculturation, and hypertension among US immigrants with and without diabetes.
+
+# METHODS:
+
+Data from the New Immigrant Survey, a multi-cohort study of documented US immigrants, was analyzed. Logistic regression with hypertension as the outcome was used to investigate the relationship between acculturation & life-course SES in adult US immigrants with and without diabetes. The acculturation variable included measures of English proficiency (understand, speak, read, write) and length of residence in the US (>15 years). Life-course SES included father's education, mother's education, number of siblings, individual's level of education, income, and employment status. Hypertension and diabetes were measured by self-report.
+
+# RESULTS:
+
+8533 US immigrants, 317 of which had diabetes were included in the study. 659 immigrants without diabetes had hypertension, and 121 with diabetes had hypertension. Unadjusted models found a significant association between life-course SES and hypertension in those without diabetes (OR:0.83; p<0.001) and with diabetes (OR:0.58; p<0.001). After adjustment for age, sex, race/ethnicity, and marital status significance only remained among immigrants with diabetes (OR:0.68; p=0.033). Acculturation was significantly associated with hypertension among immigrants without diabetes in the unadjusted model (OR:1.35; p=0.001), however significance did not hold after adjusting for demographics.
+
+# CONCLUSIONS:
+
+US immigrants with diabetes and with higher life-course SES were found to have reduced risk of having hypertension whereas this relationship was not seen in immigrants without diabetes. Additionally, acculturation was not identified as a significant predictor of hypertension among US immigrants with or without diabetes. Similar to US-born adults, our findings support the idea of socio-economic status across the life-course being associated with the development of chronic disease in US adults. Additionally, these results suggest that low SES immigrant populations with diabetes may be at high risk for hypertension and should be the focus of culturally tailored interventions.

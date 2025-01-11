@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #2:
+
+Manage ulcers due to calciphylaxis
+
+# CASE:
+
+An 89 year-old female with a history of multiple myeloma (MM) not on therapy, chronic kidney disease stage IV, and diabetes presented to the emergency room with confusion and left lower extremity allodynia. Home medications included cholecalciferol, patiromer, and nephrovite. Physical exam was notable for temperature of 38°C, suprapubic tenderness, and left lower extremity edema, allodynia, and an inability to bear weight. Labs demonstrated creatinine 3.08 mg/dL (near baseline), white blood cell count 50.0 k/uL, and normal calcium, phosphorus and parathyroid hormone (PTH). Urinalysis was significant for >100 white blood cells cells/μl and leg X-rays were unremarkable. Urine cultures grew resistant Klebsiella pneumoniae which was treated with 5 days of ertapenem. On hospital day 7, the patient developed a 12x6cm stellate-shaped purpuric plaque with an overlying tense bulla over the medial ankle. Pathology from two punch biopsies was consistent with ecthyma gangrenosum and Klebsiella pneumonia grew on wound cultures. Ertapenem was continued, but the ulcer developed central necrosis with undefined borders and persistent allodynia. A CT of the leg showed extensive subcutaneous edema with vascular calcifications. Given lack of clinical improvement and progressive necrosis, a repeat biopsy was performed on hospital day 12, which noted vessel thrombosis and calcification consistent with calciphylaxis. The patient was started on bi-weekly sodium thiosulfate and hyperbaric oxygen therapy.
+
+# IMPACT/DISCUSSION:
+
+Cutaneous necrosis is associated with high rates of morbidity and mortality, necessitating early recognition and diagnosis. Among the various etiologies are ecthyma gangrenosum and calciphylaxis. Ecthyma gangrenosum, typically associated with Pseudomonas infections in immunocompromised bacteremic patients, has been increasingly reported in association with E. coli and Klebsiella in the absence of bacteremia. As in this case, it can predispose to calcipylaxis in at-risk patients. Calciphylaxis typically develops in patients with advanced renal disease, hyperparathyroidism and elevated calcium-phosphate product. It has also been reported in patients with MM due to an acquired protein S deficiency. Treatment is typically multimodal and includes sodium thiosulfate, which is associated with clinical improvement but lacks conclusive evidence demonstrating efficacy, treatment of hyperphosphatemia, and wound care. Hyperbaric oxygen has been used as an adjunctive therapy to facilitate wound healing. This case highlights the diagnostic challenge with a necrotic ulcer, and cautions against premature diagnostic closure.
+
+# CONCLUSION:
+
+The differential for acute cutaneous necrosis includes ecthyma gangrenosum and calciphylaxis. Calciphylaxis has been described in patients with MM due to an acquired hypercoagulability state. Hyperbaric oxygen therapy improves healing and morbidity in calciphylaxis.
+
+# CYBERCHONDRIASIS-RELATED HYPERVITAMINOSIS D
+
+Sally Namboodiri; Clifford D. Packer. Cleveland VAMC, Cleveland, OH. (Control ID #3163956)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the internet's influence on patients with illness anxiety disorders
+
+# LEARNING OBJECTIVE #2:
+
+Review the symptoms and management of hypervitaminosis D
+
+# CASE:
+
+A 50-year-old white male presented with two weeks of constipation and anorexia. His past medical history included chronic kidney disease (baseline creatinine 1.6 mg/dl), family history of Huntington's disease and an untreated anxiety disorder. He took numerous vitamin supplements. His physical exam was unremarkable. Labs showed creatinine 3.7 mg/dl (0.5-1.2), calcium 12.5 mg/dl (8.5-10.1), Vitamin D 258 ng/ml (30-45), and PTH < 7 pg/ml (15-72). Abdominal computerized tomography showed multiple nonobstructive renal calculi. When asked about his vitamin usage, he said that he took 100,000 international units (IUs) of Ergocalciferol daily for many weeks. He was convinced that he had Huntington's disease due to symptoms of hand tremors and brain fog. Based on information from the internet, he compulsively took supplements and varied his diet to improve his symptoms. When asked for specific sources, he cited a physician on Youtube with secondary progressive multiple sclerosis who failed multiple medications. After searching the internet for answers, she cured her disease with high doses of vitamin D and other supplements along with a special diet. The patient was admitted with acute kidney injury and hypercalcemia from hypervitaminosis D. With intravenous (IV) hydration and withholding of Ergocalciferol, his creatinine improved to 1.8 mg/dl and calcium to 9.7 mg/dl. Despite his subsequently negative genetic testing for Huntington's disease, he remained convinced that he had a serious illness which could only be controlled with high doses of supplements and special diets.
+
+# IMPACT/DISCUSSION:
+
+Hypervitaminosis D is a rare phenomenon that is most often due to prescription or medication formulation errors. Intoxication has been reported when doses exceed 50,000 IUs per day. Hypercalcemia occurs due to increased gut absorption of calcium, with resultant anorexia and constipation. Vitamin D's direct effect on renal vasoconstriction can lead to acute kidney injury. Chronic hypervitaminosis D causes kidney stones due to increased urinary calcium excretion. Calcitriol (1,25 OH Vitamin D)-induced hypercalcemia is easily treated with IV fluids and withholding Vitamin D due calcitriol's short half-life. In contrast to most cases of hypervitaminosis D, this patient's illness anxiety disorder led him to intentionally consume high doses of Vitamin D, a supplement whose health benefits are touted on the internet based on little scientific evidence. Treatment options for illness anxiety disorder, or "cyberchondriasis" in this patient's case, include cognitive-behavioral therapy and antidepressants.
+
+# CONCLUSION:
+
+Our patient's deliberate ingestion of high doses of Vitamin D led to hypercalcemia, acute kidney injury and nephrolithiasis. Inquiring about vitamin usage can unmask illness anxiety disorders which, if untreated, can lead to self-harm under the influence of the internet.
+
+# D-MYSTIFYING HYPERCALCEMIA
+
+Theresa Wong; Katherine Julian. UCSF, San Francisco, CA. (Control ID #3181407)
+
+# LEARNING OBJECTIVE #1:
+
+Summarize the evaluation of new hypercalcemia (hyperCa)
+
+# LEARNING OBJECTIVE #2:
+
+Describe the risk factors for hypervitaminosis D
+
+# CASE:
+
+ES is an 80 year old woman with hypertension and chronic tobacco use who presented for an annual checkup. She had no complaints except for a buttock rash. Review of systems was normal except for a 15 lb weight loss over the last 1.5 years due to poor appetite. Her medications included HCTZ, duloxetine, and multiple vitamin supplements. Her vital signs were normal. On physical exam, she was thin and frail with a shallow sacral pressure ulcer. The rest of the exam was normal. A screening low-dose CT scan showed several pulmonary nodules 2-15mm in size that were unchanged from prior CT. A routine BMP revealed a serum calcium of 13.5, Cr 1.36 and albumin 4.4. Her previous labs showed a calcium of 10.9 and a baseline Cr of 0.9. She was sent to the ED where further workup showed 25-hydroxy vitamin D (25(OH)D) elevated to 115 and low PTH. TSH, free T4, PTHrP, and 1-25 dihydroxy vitamin D (1-25(OH)2D) were normal. She revealed she was taking calcium and vitamin D (vit D) supplements not noted in her medication list. She was discharged home after her Cr and Ca downtrended with fluids, and she discontinued her HCTZ, Ca, and vit D.
+
+# IMPACT/DISCUSSION:
+
+Hyperparathyroidism (hyperPTH) and malignancy are the most common causes of hyperCa, making up more than 90% of the cases. The first step of diagnosis is whether the hyperCa is PTH or non-PTH mediated. An elevated PTH is diagnostic of primary hyperPTH. A low PTH prompts further testing with PTHrP, vit D metabolites, SPEP, serum free light chains, TSH, free T4. PTHrP can be elevated in malignancy. 1-25(OH)2D can be elevated in lymphoma and granulomatous diseases. Drug-mediated effects are most commonly due

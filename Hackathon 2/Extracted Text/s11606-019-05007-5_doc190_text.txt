@@ -1,0 +1,67 @@
+# MORTALITY AMONG NORTHERN NEW ENGLAND ADULTS BY TOWNSHIP TYPE
+
+Timothy B. Plante1; Insu Koh1; Dennis A. Plante1; David W. Ferguson3; Neil A. Zakai1; Kathleen Fairfield2.
+
+1Larner College of Medicine at the University of Vermont, Burlington, VT; 2Maine Medical Center, Portland, ME; 3Waldo County General Hospital, Belfast, ME. (Control ID #3186074)
+
+# BACKGROUND:
+
+Adults in rural areas die younger than adults in urban areas. Northern New England states are the most rural in America and comprise a greater proportion of adults in micropolitan areas, which are large towns within rural areas. Whether survival differs among these micropolitan areas is unknown. We sought to assess all-cause mortality by township type among Northern New England adults receiving their primary care at academic clinics.
+
+# METHODS:
+
+We downloaded structured electronic health record data from 86,733 adults receiving primary care at University of Vermont Medical Center-affiliated practices between October 1, 2010 and June 30, 2018 who were aged 18 at any point throughout the follow-up, censoring data prior to age 18. We applied Rural-Urban Commuting Areas (RUCA) codes to first documented ZIP codes to determine township type, defining RUCA codes 1-3 as urban, 4-6 as micropolitan rural, and 7-10 as small town rural. We calculated sex, age, and race-adjusted hazard ratios (HRs) for survival by township type. We visualized survival using Kaplan-Meier curves.
+
+# RESULTS:
+
+Among participants in the present analysis, mean (SD) age was 46 (19) years on 10/1/2010, 56% were female, and 92% were white; 83% were urban, 9% were micropolitan rural, and 8% were small town rural. Over a median (IQR) follow-up of 4.6 (1.3-7.6) years, there were 2,651 deaths over 341,136 person-years (0.8 deaths/100 person-years). The mortality incidence rate was lowest among micropolitan rural (0.4/100 P-Y; 95% CI 0.3, 0.4), then small town rural (0.6/100 P-Y; 0.5, 0.7), and urban (0.8/100 P-Y; 0.8, 0.9). When compared to micropolitan rural, the adjusted HR for mortality was 2.2 (95% CI 1.9, 2.7; P<0.001) for urban and 1.8 (1.4, 2.3; P<0.001) for small town rural. Survival curves are shown in Figure 1.
+
+# CONCLUSIONS:
+
+Adults living in urban and small town rural areas experience a disproportionate burden of mortality when compared to adults in micropolitan rural areas. Efforts to identify and modify the most important risk factors for mortality in these populations are important interventions to improve population health.
+
+# Survival by Township Type
+
+| | | |Years of follow-up| | | | |
+|---|---|---|---|---|---|---|---|
+|Number at risk|Urban|Micropolitan Rural|Small Town Rural| | | | |
+| |64984|7296|6290| | | | |
+| | | |46693|5731|428| | |
+| | | | |31113|4066|2765| |
+| | | | | |15003|2082|1212|
+
+# MORTALITY AT PRIVATE FOR-PROFIT AND PRIVATE NOT-FOR-PROFIT HEMODIALYSIS CENTERS: A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Samuel L. Dickman1; Reza Mirza2; Maryam Kandi2; Michael Incze3; Rakhshan Kamran2; Raad Yameen2; Ying Zhang2; Arnav Agarwal2; Lorin Dobiba2; Rachel Couban2; Steven Hanna2; Gordon Guyatt4.
+
+1University of California, San Francisco, Oakland, CA; 2McMaster University, Hamilton, ON, Canada; 3University of California, San Francisco, San Francisco, CA; 4McMaster University, Dundas, ON, Canada. (Control ID #3186034)
+
+# BACKGROUND:
+
+Most of the 630,000 Americans on hemodialysis for end-stage renal disease receive care at private for-profit (FP) or private not-for-profit (NFP) facilities. FP facilities comprise 79% of all dialysis providers and may lead to worse outcomes than NFP facilities.
+
+# METHODS:
+
+We searched ten databases (MEDLINE, HealthStar, EMBASE, PubMed, Cochrane Library, Web of Science, Proquest Dissertations and theses, ProQuest Business Premium Collection, Econlit, and CINAHL) for studies published between January 2001 to March 2018 comparing risk-adjusted mortality rates at FP vs. NFP hemodialysis facilities. We used similar criteria to a large 2002 meta-analysis on private dialysis outcomes: we included studies in any language, published and unpublished, with non-overlapping data. Pairs of reviewers screened 8,876 titles and abstracts, of which 137 full-text articles were reviewed. Study characteristics, results, and risk of bias were assessed by two independent reviewers and discrepancies were resolved by consensus. We harmonized outcomes and conducted pooled fixed- and random-effects meta-analysis.
+
+# RESULTS:
+
+Seven observational studies, all from the US, were included in the final analysis. No randomized trials met inclusion criteria, and risk of bias was moderate to high. Point estimates in six studies showed worse risk-adjusted mortality rates at FP relative to NFP facilities; the single study with conflicting results compared free-standing FP dialysis centers with hospital-based NFP centers and thus may have been subject to residual confounding by severity of illness. Pooled fixed effects meta-analysis found an OR of mortality in FP relative to NFP facilities of 1.07 (95% CI 1.05 - 1.09). Random-effects estimates were substantially similar. We found no evidence from more recent studies that mortality differences between FP and NFP dialysis centers have narrowed.
+
+# CONCLUSIONS:
+
+Patients at for-profit facilities face 6% greater odds of death annually than patients at not-for-profit facilities with similar risk profiles, a consistent pattern since the most recent comparable meta-analysis was published in 2002. As many as 5,000 deaths would be averted annually if mortality rates at FP facilities matched those at NFP facilities. Despite long-standing concerns about patient safety at FP facilities, public policies have failed to improve outcomes at FP dialysis centers or to limit their rising market share.
+
+# Study Name
+
+|For-Profit vs Not-For-Profit Hemodialysis Mortality|Irvin 1988|1.14|LCL|1.11|UCL|1.18|
+|---|---|---|---|---|---|---|
+| |McClellan 1998|0.72| | | | |
+| |Farley 1993|1.01|1.11|1.22| | |
+| |Plough 1984|0.71|0.41|1.23| | |
+| |Irvin 2000|1.05|1.02| | | |
+| |Brunelli 2014|1.04|1.01| | | |
+| |Foley 2008|1.02|0.97|1.07| | |
+|Pooled fixed-effects estimate| |1.07|1.09| | | |
+
+Favors For-Profit Facilities   Favors Not-For-Profit Facilities

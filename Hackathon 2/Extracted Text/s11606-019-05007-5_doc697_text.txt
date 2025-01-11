@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# INTEGRATED CASE CONFERENCE FOR IMPROVED QUALITY OF CARE
+
+collaboration (Lie, et al., 2016). In our clinic, we implemented an integrated case conference (ICC) that was accessible to all parties and identified specific actions items for improved quality and delivery of care.
+
+# SETTING AND PARTICIPANTS:
+
+This interprofessional (IP) practice/training site is in a large VA clinic for homeless Veterans (~3,000 patients). The clinic provides primary and mental health care and social work services within a patient-centered medical home (PCMH). As of January 2019, over 30 trainees representing specialties including internal medicine, advanced nursing, pharmacy, psychiatry, and psychology are currently in clinic.
+
+# DESCRIPTION:
+
+The goals of our ICC were to discuss urgent needs, identify opportunities for collaboration, and create an integrated treatment plan. That said, cases were selected by the trainee based on urgency and opportunity for IP collaboration. Prior to, presenters conducted a chart review, prepared a brief summary, and shared potential IP questions with their team. During the ICC, meeting roles were assigned, questions were discussed, and action items were identified.
+
+# EVALUATION:
+
+The aims of the conference were to recognize needs for IP collaboration, perform IP roles, educate others about their professional expertise, and incorporate the expertise of other professions into their practice. As such, over the course of one training year, we deployed two evaluation tools - a weekly instrument that examined each case presentation and its impact and satisfaction, and a 6- and 12-month instrument that explored changes in trainee attitudes and behaviors related to IP collaboration, professional expertise integration, and IP role confidence. In total, weekly data from 21 ICCs was collected, with approximately non-unique 250 trainees and attending participants, and 20 trainees completed the 6- and 12-month instruments.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Evaluation data from our trainees indicates that the ICC led to statistically significant increases in translation of knowledge from other professions into a treatment plan, ability to formulate and recommend a collaborative and coordinated care plan for their patients, and confidence in working collaboratively with primary care and/or mental health providers. Additionally, nearly 75% of trainees reported being "very satisfied" with the ICCs they participated in. Over the past year, we've learned that our ICCs benefit from a consistent structure (day, time, location), advanced notice of case-based questions, and selecting patients that are at least semi-engaged with the clinic, among many others.
+
+# DEVELOPING EQUITY REPORTS FOR RESIDENTS TRAINING IN PRIMARY CARE
+
+Muriel Jean-Jacques1; Andrew J. Cooper2; Lauren A. Gard2; Mita S. Goel2; Paul Ravenna2; Aashish Didwania3; Matthew J. O'Brien2; Stephen Persell2. 1Northwestern University Feinberg School of Medicine, Chicago, IL; 2Northwestern University, Chicago, IL; 3Northwestern Medicine, Chicago, IL. (Control ID #3185578)
+
+# NEEDS AND OBJECTIVES:
+
+The ACGME has concluded that there is a substantive deficiency in preparing residents to identify and address health disparities. In particular, most clinical learning environments lack a formal approach for identifying disparities in quality. Barriers to systematically examining disparities include inconsistent documentation of race/ethnicity and limited capture of sociodemographic variables. Resident-specific challenges include accurate patient attribution and smaller patient panels. Our goal was to develop a methodology for systematically providing feedback about disparities in ambulatory care quality to residents.
+
+# SETTING AND PARTICIPANTS:
+
+Equity reports were developed for internal and family medicine residents training in two urban GME programs within a single healthcare system.
+
+# DESCRIPTION:
+
+Five quality measures were included in the equity reports: breast and colon cancer screening, blood pressure and diabetes control, and statin therapy. Each measure was stratified by race/ethnicity, insurance, preferred language, and whether or not the patient lives in a Census block group with a high level of poverty. We tested 3 methods for attributing patients to residents and examined 3 levels of granularity for the equity reports: individual resident panel; panel of all patients attributed to residents; and all patients in the practice. For each level, we determined the number of measures with sufficient numbers of patients to make meaningful comparisons by subgroup in order to identify the appropriate level of granularity for the equity reports.
+
+# EVALUATION:
+
+The attribution rule that assigned patients to the physician who had seen them for the greatest proportion of encounters performed best on measures of resident panel size and continuity, while attribution based on listed PCP performed worst. It was not possible to create equity reports at the individual resident panel level as no measures had sufficient numbers of patients to allow for reliable comparisons. Most measures had sufficient patients when all resident panels were combined, and all measures had sufficient patients when all patients in the practice were included. Disparities were identified for at least one subgroup for 4 measures.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We identified several lessons in our effort to develop health equity reports for residents training in primary care that may be applicable to others. 1. Even in a healthcare system that, like most, has not yet implemented the routine assessment of disparities as part of their quality tracking protocols, it was feasible to create equity reports that included a range of sociodemographic variables. 2. Geocoding allowed us to include a measure of socioeconomic position. 3. Relatively straightforward methods could be applied to attribute patients to resident physicians. 4. While residents did not have large enough patient panels to create equity reports at the individual resident panel level, it was possible to create equity reports when all resident panels were combined or at the practice level.
+
+# DEVELOPING MEDICAL STUDENT LEADERSHIP, TEAMWORK, AND COMMUNITY ENGAGEMENT THROUGH IMPLEMENTATION OF A NOVEL SERVICE-LEARNING CURRICULUM IN THE DENVER HEALTH LONGITUDINAL INTEGRATED CLERKSHIP (DH-LIC)
+
+Catherine Ard1; Jennifer Adams2; Margaret Tomcho2. 1University of Colorado, Denver, CO; 2Denver Health, Denver, CO. (Control ID #3179970)
+
+# NEEDS AND OBJECTIVES:
+
+It is estimated that the Social Determinants of Health (SDoH) contribute to 80% of a patient's health outcomes, yet most medical students receive little to no training on addressing them; instead focusing on a biomedical model of disease. In a needs assessment of DH-LIC students, 66% of students reported low confidence in working with communities to find solutions to their self-identified problems related to SDoH. Based on these results, an innovative service learning curriculum was developed with the objectives to increase medical student teamwork, community engagement, and understanding of SDoH.
+
+# SETTING AND PARTICIPANTS:
+
+The University of Colorado School of Medicine's DH-LIC is a year-long clerkship in which 10 medical students complete all core clerkships in a longitudinal, integrated experience at Denver's safety net hospital.
+
+# DESCRIPTION:
+
+This innovation consists of a multimodal curriculum woven into the DH-LIC, including didactic sessions focused on SDoH, community windshield surveys and case investigations, team dynamics workshops, written reflections with group discussion, and the development of a longitudinal service project in collaboration with community partners.

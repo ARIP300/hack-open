@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# HELP, I'M FALLING! A CASE OF CEFEPIME-ASSOCIATED THROMBOCYTOPENIA
+
+Andraya Gower2; Meghana Gadgil1. 1Dell Medical School, Austin, TX; 2Dell Medical School, Oklahoma City, OK. (Control ID #3186595)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize cefepime as a rare cause of thrombocytopenia
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the applications of the Naranjo scale for assessing adverse drug reactions
+
+# CASE:
+
+A 35-year-old female with no significant PMH presented with one day of right-lower quadrant abdominal pain radiating to the back associated with fever, hypotension, nausea and vomiting. Vital signs in the ER were: BP 89/55, temp 98.4, HR 70, RR 15. Physical exam was significant tenderness to palpation in RLQ without rebound tenderness, right CVA tenderness and suprapubic tenderness to palpation. Labs were significant for lactate of 4.15, moderate blood in urine, potassium of 2.7, anion gap of 15. Platelets were 171. Renal ultrasound revealed R sided mild hydronephrosis. MRI Abdomen/Pelvis showed R side hydronephrosis and hydroureter with R perinephric fat stranding. The patient was admitted to the ICU with severe sepsis from obstructive pyelonephritis likely secondary to obstructive renal calculus. The patient was started on ceftriaxone, but developed worsening hypotension and was broadened to cefepime overnight on day 1 of admission. The patient was on heparin for DVT prophylaxis. On day 2, platelets were found to be 79 (>50% drop) and continued to downtrend on day 3 down to 67[GMA1]. Her 4T score showed a low (<5%) likelihood of HIT. The patient was switched to cefazolin on day 3 after E coli sensitivities resulted. Thrombocytopenia[GMA2] resolved with a platelet count of 139 on day 6. Ultimately, the patient received a percutaneous nephrostomy tube and was discharged on oral antibiotics.
+
+# IMPACT/DISCUSSION:
+
+Cefepime is a rare cause of thrombocytopenia in critically ill patients. Clinical trial data show cefepime-associated thrombocytopenia incidence between 0.1 - 1%. Here, our patient developed thrombocytopenia with a low 4T score and an interesting temporal pattern related to the initiation of cefepime that prompted further investigation. The Naranjo scale assessing adverse drug reactions showed a possible relationship between cefepime and thrombocytopenia, which was further bolstered by the increase in platelets following discontinuation of cefepime. This case highlights the importance recognizing drug-induced thrombocytopenia in the critically ill.
+
+# CONCLUSION:
+
+Cefepime is a rare cause but important of thrombocytopenia in the critically ill. Application of a probability scale to test for possible adverse drug reactions can help elucidate etiologies of important clinical findings in the critically ill.
+
+# HEMATOGENOUSLY SPREAD SEPTIC THROMBOPHLEBITIS AS A CAUSE OF SPINAL EPIDURAL ABSCESS
+
+Mrunal Kulkarni; Kakageldi Hommadov; Ajinkya Kulkarni; Gul Madison. Mercy Catholic Medical Center, Yeadon, PA. (Control ID #3186014)
+
+# LEARNING OBJECTIVE #1:
+
+Spinal epidural abscess is a rare clinical diagnosis with incidence of 0.2 to 2 cases per 10,000 hospital admissions and is considered a medical emergency.
+
+# LEARNING OBJECTIVE #2:
+
+Delay in diagnosis is common due to non-specific presentation and can result in permanent neurological deficits.
+
+# CASE:
+
+A 27 year-old African American female presented with fever, chills, urinary frequency, worsening pain in right hip and flank region for 2 days. Temperature 100.5 C, normal white cell count: 9.9 Thou/uL (4.5-11 Thou/uL). Urine analysis: bacteriuria, pyuria. CT abdomen (with contrast) unremarkable. With recent history of fall, X-ray lumbar spine was done that showed no fracture. IV Ceftriaxone was started for clinically presumed urinary tract infection (UTI). Next day she continued to have lower back pain and also complained of pain, swelling of left arm where an IV access was obtained during her previous hospital admission for asthma exacerbation last week. Exam: tenderness over the lumbar spine region, mild proximal leg weakness (strength 4/5). Right sided straight leg raising test positive. Left arm: erythema, induration, tenderness, purulent drainage. Blood cultures grew Methicillin sensitive staphylococcus aureus (MSSA), 4/4 bottles. Antibiotic was switched to IV Cefazolin. Elevated Erythrocyte sedimentation rate: 70 mm/HR (0-20 mm/HR), C-reactive protein: 177 mg/L (<10mg/L). MRI lumbar spine: L3-L4 epidural abscess, mass effect on exiting right L3 nerve root, L3-L4 right facet septic arthritis. CT Left arm: septic thrombophlebitis of cephalic vein, medial cubital vein, basilic vein. Patient underwent right L3-4 laminotomy for epidural abscess aspiration. Thrombophlebitic vein was excised for source control. Surgical cultures from both left arm and lower back grew MSSA. Patient was treated with IV Cefazolin for 6 weeks with uneventful post-operative course and full functional recovery.
+
+# IMPACT/DISCUSSION:
+
+We present a rare case of spinal epidural abscess (SEA) in a young female with no history of diabetes, IV drug abuse or spinal instrumentation. Source of infection was her recent IV access. She had developed localized septic thrombophlebitis at the IV site, that had resulted in bacteremia and metastatic spread of the infection to the lumbar spine causing SEA. SEA was not considered as a differential initially as symptoms were masked by the clinical suspicion of UTI and a recent fall. Emergency surgical decompression and antibiotics are treatment of choice. This case led us to review our hospital policy on IV lines and appropriate changes were made for careful, timely monitoring in the future.
+
+# CONCLUSION:
+
+In appropriate clinical setting, it is important to consider spinal epidural abscess as a differential diagnosis even in the absence of classic risk factors and symptoms. Timing is a critical factor in determining ultimate prognosis, as a delay in diagnosis and treatment can result in permanent neurological deficits.
+
+# HEMOLYSIS AND THROMBOCYTOPENIA IN THE SETTING OF COBALAMIN DEFICIENCY
+
+Jake A. Gibbons. University of Texas Medical Branch, Galveston, TX. (Control ID #3139824)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of cobalamin deficiency.
+
+# LEARNING OBJECTIVE #2:
+
+Differentiate pseudothrombotic microangiopathy from true microangiopathic hemolytic anemia.
+
+# CASE:
+
+A 65-year-old male presented with dyspnea beginning 3 months ago. Additionally, he endorsed 15-pound weight loss, fatigue, and decreased appetite. His family noticed yellowing in his eyes. He had no known past medical history. He described his diet as balanced, consisting of meat, eggs, milk, and vegetables. Review of systems was positive for intermittent heart palpitations. The patient had scleral icterus on physical examination. Complete blood count was significant for a decreased hemoglobin of 7.1 g/dL, decreased white blood cell count of 3.1 103/μL, and decreased platelet count of 98 103/μL. Reticulocyte index was low at 0.36. Mean corpuscular volume was high at 122 fL. Total bilirubin was elevated at 2.3 mg/dl with a predominance indirect bilirubin. Peripheral smear revealed schistocytes and hypersegmented neutrophils. Additional blood work showed an elevated lactate dehydrogenase and undetectable haptoglobin. Cobalamin level was found to be significantly decreased at 48 pg/mL. Methylmalonic acid and homocysteine were both elevated. Intrinsic factor antibodies came back positive. Low cobalamin coupled with positive intrinsic factor antibodies suggested a diagnosis of pernicious anemia, which was confirmed by endoscopy. It was determined that the hemolysis and thrombocytopenia were both due solely to the cobalamin deficiency, as additional testing was negative. The patient was started on cobalamin replacement therapy. His laboratory abnormalities improved, he experienced improvement of his symptoms, and was discharged.
+
+# IMPACT/DISCUSSION:
+
+Cobalamin deficiency is relatively common with a prevalence of approximately 15% in patients 60 years and older.

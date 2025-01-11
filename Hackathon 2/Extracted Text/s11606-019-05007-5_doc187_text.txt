@@ -1,0 +1,36 @@
+# ABSTRACTS
+
+# MINIMAL CLINICALLY IMPORTANT IMPROVEMENT (MCII) IN KNEE OSTEOARTHRITIS: A POST HOC ANALYSIS OF A PROSPECTIVE, RANDOMIZED CLINICAL TRIAL OF DICLOFENAC SODIUM GEL (DSG) 1%
+
+Pamela Kushner1, 2; Bharat Patel3; Sandy Yacoub Garas4. 1University of California, Irvine, Irvine, CA; 2Kushner Wellness Center, Long Beach, CA; 3GSK Consumer Healthcare, Weybridge, United Kingdom; 4GSK Consumer Healthcare, Warren, NJ. (Control ID #3146561)
+
+# BACKGROUND:
+
+The minimal clinically important improvement (MCII) is defined as the smallest change in measurement that represents patients' perceptions of what they view as an important improvement of symptoms. Thus, the MCII represents an improvement of relevance in a clinical trial or the minimal meaningful change at an individual level.(1) The objective of this post hoc analysis was to determine the number and percentage of osteoarthritis (OA) patients achieving the MCII for pain, function, and stiffness in a previously reported clinical study of DSG 1%.(2)
+
+# METHODS:
+
+The OA knee study was a 12-week, prospective, randomized, double-blind, multi-center, parallel group study that compared DSG 1% with vehicle in subjects with OA of the knee. The MCII for OA as determined and recommended by Tubach F et al(3) was applied to this study. The MCII responder, a relative improvement of 20% or more from baseline was analyzed using the Cochran-Mantel-Haenszel test stratified by center. Depending on MCII response in relation to vehicle, responder based on improvement of 30% or more was also analyzed. Time to first MCII response was analyzed using the log-rank test.
+
+# RESULTS:
+
+A total of five observational studies met the inclusion criteria. The pooled population consisted of 2,035 subjects. Microalbuminuria was associated with greater risk for major vascular events in patients with stroke (OR, 2.247; 95% CI, 1.604 to 3.148; I2, 0%) (Upper figure). Subgroup analysis demonstrated that microalbuminuria was associated with greater risk for recurrent stroke in patients with stroke (OR, 1.924; 95% CI, 1.228 to 3.018; I2, 0%)2 (Figure 2). The rank correlation did not show significant publication bias (p, 0.14) but Egger's test showed significant publication bias (p, 0.033).
+
+# CONCLUSIONS:
+
+Microalbuminuria provides good estimate of major vascular events including recurrent stroke in patients with stroke.
+
+|Outcome|std nne|sttutisforechstudy|Oddntieend93C1|Odds Ratio|Lower Limit|Upper Limit|Z-Value|p-Value|
+|---|---|---|---|---|---|---|---|---|
+|1|0.04|2270|0.023|240|1.1|3315|2.224|0.026|
+|2|0.050|0.20|702|0.007|0.0|0.0|0.0|0.0|
+|Sander 2012|2080|1.126|1712|244|0.01|0.0|0.0|0.0|
+|3|0.0|0.0|0.0|0.0|0.0|0.0|0.0|0.0|
+
+This post hoc analysis represents the first time that the MCII has been applied to DSG clinical trial results. The majority of patients treated with DSG achieved MCII responses within 1 week which were sustained for 12 weeks, providing additional evidence for the efficacy of DSG in the treatment of OA of the knee.
+
+1. Kvien TK et al. Ann Rheum Dis. 2007;66 Suppl 3:iii40-1. 2. Barthel HR et al. Semin Arthritis Rheum. 2009;39(3):203-12. 3. Tubach F et al. Arthritis Care Res (Hoboken). 2012;64(11):1699-707.
+
+# MINORITY AND LOW-INCOME URBAN INTERNAL MEDICINE PATIENTS ARE LESS LIKELY TO HAVE A SCALE AT HOME FOR SELF-WEIGHING.
+
+Carolyn Bramante1; Grace Lee2; Safira Amsili2; Jennifer A. Linde2; Sean Phelan2; Wendy Bennett2; Lawrence J. Appel3; Jeanne M. Clark3; Kimberly Gudzune4. 1University of Minnesota, Minneapolis, MN; 2Johns Hopkins, Baltimore, MD; 3Johns Hopkins University, Baltimore, MD.

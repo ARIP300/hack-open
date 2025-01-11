@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+residents in Internal Medicine. An additional background survey was administered in December to collect information on potential confounders, including age, gender identification, race, ethnicity, marital status, social supports, career goals, current rotation, work hours, daily exercise, and level of financial debt. Survey responses from the December administrations are still being collected. Levels of Grit and burnout in July and December were compared using paired Students t-tests with a 2-sided p-value&lt;0.05 considered statistically significant. Additional analysis to control for confounders and elucidate any association between Grit and burnout using linear regression is planned.
+
+# EVALUATION:
+
+Among 75 PGY1 residents recruited, 49 have completed both the initial and 6-month surveys at this time. Two measures of burnout significantly increased, including both emotional exhaustion (p &lt; 0.001) and cynicism (p &lt; 0.001), while personal efficacy scores were unchanged (p = 0.56). Grit scores did not change (p = 0.32). Additional analysis to determine the relationship between Grit and burnout in this population is pending.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our current analysis is unsurprising. PGY1 residents are at high risk of developing burnout, particularly in the first 6 months of residency. Similarly, the short Grit scale was developed to determine one's trait-level Grit and its ability to evaluate changes in Grit over time has not been assessed. Additional analysis is needed to determine if Grit is a helpful construct in this population.
+
+of students thought it was important or very important to consider how their values can be actualized in the hospital; which increased to 94% post participation. 88% thought that finding personal meaning in taking care of patients was important or very important prior to participation, compared with 100% post participation. Pre-participation, 54% thought that responding to patients' spiritual concerns was important or very important, compared with 94% post-participation.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+From narrative feedback provided by the students, we learned that students who participated in the elective reclaimed a sense of meaning and purpose in their training. In addition, students perceived therapeutic value as they were able to process the ICU experience in a supportive group led by a chaplain.
+
+# HEALTH IN THE NEIGHBORHOOD CONTEXT: A SOCIAL DETERMINANTS OF HEALTH (SDH) FOCUSED HOME VISIT CURRICULUM FOR INTERNAL MEDICINE RESIDENTS
+
+Iman Hassan 1 ; Etsemaye P. Agonafer 2 ; Kwonho Jeong 3 ; Scott D. Rothenberger3; Thuy Bui3; Carla L. Spagnoletti1; Maggie K. Benson1. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2UCLA, Los Angeles, CA; 3University of Pittsburgh, Pittsburgh, PA. (Control ID #3186242)
+
+# HEALING PRESENCE: AN ELECTIVE ICU CURRICULUM FOR MEDICAL STUDENTS BASED IN THE CLINICAL PASTORAL EDUCATION TRAINING MODEL
+
+Jeremy Baruch2; Kristin M. Collier1. 1University of Michigan, Bloomfield Hills, MI; 2University of Michigan, Ann Arbor, MI. (Control ID #3171991)
+
+# NEEDS AND OBJECTIVES:
+
+Medicine is best practiced inter-professionally. We have much to learn from our partners in spiritual care with regards to reflection, formation and meaning in medicine. The "ICU-Chaplaincy Healing Presence" is an elective experience for medical students on their adult ICU rotations which complements their ICU education through exposure to the art and skills of hospital chaplaincy. The learning objectives of this program include: 1. Providing students with a framework with which to process emotions that arise in caring for acutely ill and dying patients. 2. Reflecting on the interpersonal dynamics of patient care. 3. Developing patient care skills based in Clinical Pastoral Education. 4. Exploring how students' spirituality shapes their approach to patient care and how they cope with the challenges of training.
+
+# SETTING AND PARTICIPANTS:
+
+The elective is open to senior medical students during adult ICU rotations at Michigan Medicine. The chaplains are members of Michigan Medicine's Department of Spiritual Care.
+
+# DESCRIPTION:
+
+To achieve these objectives, this elective provides students with the opportunity to round on ICU patients with chaplains, develop chaplaincy skills and engage in four structured, small group experiences facilitated by a chaplain. The first session involves discussion and reflection on such questions as "What is spirituality?" "How does your spirituality inform your patient care?" "What thoughts/feeling often arise in patients and their families during times of illness?" Sessions 2 and 3 involve "verbatims" where students transcribe a conversation they had with a patient during one of their chaplain supervised encounters. The transcript is then read to the group, and with feedback, the student reflects on the questions asked, themes that arose, and missed opportunities. Session 4 is a wrap up session where students are asked to reflect upon how their perspectives may have changed as a result of the elective and what insights were gained.
+
+# EVALUATION:
+
+Students are asked to fill out pre- and post- elective questions (N=17) Post Participation Survey Results: Pre-participation, 53%
+
+# NEEDS AND OBJECTIVES:
+
+To enhance residents' awareness of SDH by providing a framework for understanding the connection between patients' health with their social and neighborhood context. Curriculum goals are to use home visits to increase: 1) recognition of the link between neighborhood-level SDH and health; 2) familiarity with local neighborhoods and tools for identifying community resources; and 3) rates of asking about and addressing SDH with clinic patients.
+
+# SETTING AND PARTICIPANTS:
+
+All 46 2nd year internal medicine (IM) residents participated in the curriculum during a 4-week ambulatory rotation. A total of 48 IM residents who did not receive the curriculum were used as historical controls.
+
+# DESCRIPTION:
+
+The curriculum began with a 60-min didactic, small-group introduction on how neighborhoods impact health and a demonstration of electronic tools to identify community characteristics and resources. Residents selected one of their clinic patients. They then conducted a guided virtual assessment of their selected patient's neighborhood, followed by a ½ day SDH-focused home visit and exploration of the patient's neighborhood. Residents participated in a 60-min debriefing session.
+
+# EVALUATION:
+
+Pre and post intervention surveys assessed attitudes and self-reported behavior on a 5-point Likert scale. After the curriculum, residents were more likely to agree that, "It is important for me to be knowledgeable about the neighborhoods in which my patients live" (4.2 pre vs. 4.4 post, p&lt; 0.01) and were more comfortable asking patients about their SDH (3.7 pre vs. 4.1 post, p&lt; 0.01). They reported asking more frequently about SDH (3.2 pre vs. 3.5 post, p&lt; 0.01) and addressing SDH (3.1 pre vs. 3.4 post, p&lt; 0.01). Specifically, residents asked more about neighborhoods in which patients live, access to healthy food, housing, transportation barriers, and health insurance (all p&lt;0.02). They more frequently addressed access to healthy food, housing, and transportation barriers (all p&lt; 0.05). Residents also considered a patient's neighborhood more frequently when developing a plan of care (2.7 pre vs. 3.0 post, p=0.02) and used online tools to find resources for patients (7% pre vs. 64% post, p&lt; 0.01). Compared to controls, those who underwent the curriculum more frequently asked about the neighborhood where their patients live (p=0.03), asked about and addressed access to healthy food (both p &lt; 0.01), and used online tools to identify resources (p&lt; 0.01).

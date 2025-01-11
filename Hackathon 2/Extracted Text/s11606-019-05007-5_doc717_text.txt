@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# EVALUATION
+
+Measures included resident surveys as well as continuity data obtained through chart reviews. Seven residents were surveyed about their experience providing telephone visits; 2 of the original 9 participants were excluded because they had left the institution. The response rate was 86% (6/7 residents surveyed). All respondents reported that these visits increased their patient ownership, allowed them to build rapport with patients, and that the level of supervision they received was appropriate. With regard to continuity, out of the 273 telephone visits scheduled, 179 (65.6%) were with the patient's PCP and 71 (26.0%) were within the PCP's firm.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+We encountered several scheduling and supervision challenges during our pilot. Unused phone visits were initially all automatically converted to acute visits, which was overwhelming for PGY1 residents. We have thus adjusted this scheduling practice. Because inappropriate patient bookings occurred when staff had scheduling access, we now limit scheduling of telephone visits to the provider only. We found supervision to be easiest when all resident telephone visits were scheduled at the same time. We did not bill for telephone visits, although residents did learn about current and upcoming opportunities for reimbursement.
+
+Apple Store and made available for download by interns and residents who have iPhones. Interest in the app has spread beyond the Internal Medicine department, as several faculty members from other departments have expressed their interest in retooling its code for use in the development of apps for their respective residency programs.
+
+# IMPROVING HIGH-RISK PATIENT HANDOFFS IN A RESIDENT PRIMARY CARE CLINIC
+
+Emily Fessler. Hospital of the University of Pennsylvania, Philadelphia, PA. (Control ID #3183613)
+
+# IMPROVING EASE OF ACCESS TO CLINICAL INFORMATION WITH A HOSPITAL-SPECIFIC INTERNAL MEDICINE ANDROID MOBILE APPLICATION
+
+Matthew Gerling. University of New Mexico, Albuquerque, NM. (Control ID #3172469)
+
+# NEEDS AND OBJECTIVES
+
+Recognize that the majority of Resident Physicians in the United States are from the Millennial Generation, 92% of whom carry a smart phone. Recognize the opportunity that smart phones provide for demand-based access to important hospital system-specific clinical and administrative information.
+
+# SETTING AND PARTICIPANTS
+
+Setting: A single large academic medical institution consisting of an academic/community hospital and a Veterans Affairs hospital. Participants: Internal Medicine residents and rotating medical students.
+
+# DESCRIPTION
+
+In September 2018, I developed an Android application called "VA Night Call" for Internal Medicine housestaff and students and made it available for free download on the Google Play store. Information provided in the application was intended to be specifically for the interns' night call shift. With the success of the VA Night Call app, I created a program-specific Internal Medicine Android app published on Google Play on November 30th, 2018. It includes hospital-specific information divided by subspecialty service as well as rotation-specific information. The app has current information under the Wards Handbook, Resident Wellness, VA Night Call, Infectious Diseases, and Palliative Medicine categories and may be accessed for free at Google Play Store.
+
+# EVALUATION
+
+Before downloading the VA Night Call app, surveys were administered to interns during their orientation. The same questionnaire was then administered at the end of the rotation, after they had downloaded and used the app. Interns reported being more confident in their medical decision making with the use of the app. Additionally, senior residents reported multiple cases where they have seen interns using the New Mexico VA Night Call application while on their inpatient medicine rotation. As of December 29th, there are 15 active installations of the app on unique devices. Our residency program has 39 interns, indicating a 38% participation rate. Currently, I am working to reprogram the app into Swift so that it can be published in the Apple Store.
+
+# NEEDS AND OBJECTIVES
+
+The majority of Internal Medicine (IM) residency programs do not have a formal outpatient handoff process, though every 3 years graduating residents must transition their primary care panel to a new provider. In our resident clinic, current practice is for senior residents to select high risk patients in the spring using clinical judgment, and provide a warm handoff to an assigned junior resident. There is no protocol in place to guide patient selection, the content or format of the handoff, or to ensure that patients establish care with the receiving resident. This study will characterize patients deemed high risk by graduating residents and assess follow up surrounding the year-end transition to develop a handoff system that will reduce lapses in care.
+
+# SETTING AND PARTICIPANTS
+
+High risk patients in a resident primary care clinic.
+
+# DESCRIPTION
+
+Charts reviewed for 54 patients selected as high risk by 2017 graduating IM residents. Data collected re: comorbidities, healthcare visits in the year prior to handoff, and follow up after handoff. Handoff protocol developed to address identified gaps in care.
+
+# EVALUATION
+
+High risk patients varied in age (median 64, 26-93) and had an average of 3 significant comorbidities; 50% carried a psychiatric diagnosis. Patients also varied in healthcare utilization in the year prior to handoff, with 1-19 clinic visits (median 4), 0-11 ED visits, and 0-7 admissions. 44% had a transitions of care note in the medical record. At 1 year, only half of patients had seen the resident who received their high risk sign-out. 20% established care with a different clinic provider, and the remainder were lost to care or left the clinic. The median time between last primary care (PCP) visit prior to year-end transition and first PCP visit post-transition was 7.7 months (1.9-26.4). Many were seen for another visit type (e.g. CRNP) in the interim.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Based on this data, the following clinic handoff will be implemented (1) Patient selection: Many of these patients would not be identified based on standard quality metrics. Residents will continue using clinical judgement to identify their highest risk patients. (2) Format: 50% of high risk patients were never seen by the resident who received their handoff, and many saw other practitioners before a new PCP. Handoff must therefore be available in the medical record. "High risk patient - see dd/mm/yy transitions note" will be added to the problem list. (3) Content: A handoff note template will include reason for selection, medical summary/pending tasks, and psychosocial context. (4) Tracking: Residents will create an Epic list of high risk patients early in senior.

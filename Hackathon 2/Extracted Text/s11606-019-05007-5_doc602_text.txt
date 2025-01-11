@@ -1,0 +1,62 @@
+# ABSTRACTS
+
+86% are homeless or with transient housing. Average educational attainment of the participants was high school diploma/GED. The average number of prior overdoses in this group was 7 episodes. Forty-seven patients attempted OUD treatment an average 1.74 times prior to enrollment. Additionally, 46% had an appointment scheduled for primary care, 71% have had phone or in person contact with the PRC post-detox, and 75% have received OEND. Of the 31 patients with one-month data, no overdoses have been reported.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Using culturally diverse PRCs is a feasible and promising model to link and engage minority patients with OUD to lifesaving medications and primary care and has potential to decrease opioid-related overdose deaths in this population.
+
+# ADDRESSING MISSED SCREENING OPPORTUNITIES THROUGH A TEAM HUDDLE IN A RESIDENT PRIMARY CARE PRACTICE
+
+Neha S. Paralkar1; Yuriy Khanin1; Belinda Lee1; Nancy A. LaVine2; Jennifer Verbsky2; Joseph Conigliaro2; Eun Ji Kim2. 1Northwell Health, Manhasset, NY; 2Northwell Hofstra School of Medicine, Lake Success, NY. (Control ID #3144472)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Can the use of a pre-visit huddle in a resident ambulatory practice improve preventive care screening rates?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify eligible patients with missed screening opportunities for hepatitis C, osteoporosis, and colorectal cancer (CRC) during daily pre-visit preparation.
+2. Improve screening rates for hepatitis C, osteoporosis, and CRC by discussing individual gaps in care during a team pre-visit huddle.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our two resident ambulatory practices are located in a large academic medical center and are certified Patient Centered Medical Homes comprised of 108 internal medicine residents rotating on an n+1 schedule, nurses, case managers, pharmacists, medical assistants, and other allied health professionals. Pre-visit huddles have been implemented to allow the interprofessional team to prepare for each patient visit. In our intervention, prior to the daily huddle, one medicine resident performed daily chart reviews to identify patients with gaps in care for appropriate screening tests, including screening for hepatitis C, osteoporosis, and CRC. The resident then reviewed those patients with the entire interprofessional team during the huddle to ensure the intervention was addressed during the visit.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We evaluated three quality improvement projects utilizing the huddle to identify patients with needed preventive care measures: hepatitis C screening, osteoporosis screening, and CRC. Screening measures were performed based on current USPSTF guidelines. Pre and post intervention screening rates for eligible patients were measured for each of the projects (Hepatitis C screening, osteoporosis screening, and CRC screening) and the percent change was calculated.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+For eligible patients, the hepatitis C screening rate improved from 66.0% pre-intervention to 75.8% post-intervention (9.8% increase). The osteoporosis screening rate improved from 36.3% pre-intervention to 41.8% post-intervention (5.5% increase). The CRC screening rate improved from 36.2% pre-intervention to 43.2% post-intervention (7.0% increase).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Huddles are brief daily interprofessional meetings to improve communication between staff members, enhance accountability and empowerment, and collaborate on plans for improved patient care. Pre-visit preparation to identify individual gaps in care can be easily incorporated into huddle discussions and can successfully improve screening rates by identifying eligible patients for the entire interprofessional team.
+
+# ADDRESSING OBESITY AND MOOD THROUGH A NOVEL PRIMARY CARE-BASED LIFESTYLE MANAGEMENT PROGRAM IN A SAFETY NET PRACTICE
+
+Melissa Mroz. University of Rochester, Rochester, NY. (Control ID #3184938)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Evidence has shown that lifestyle interventions effectively reduce weight and improve mood; however, barriers to recommending lifestyle interventions include a lack of clinician knowledge and confidence in treating obesity and availability of affordable programs.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To provide an affordable, on-site lifestyle management program for primary care patients with obesity.
+2. To enhance provider confidence in treating obesity.
+3. To improve patient outcomes, as measured by weight reduction and mood improvement.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Lifestyle Management Group (LMG) intervention was offered to patients with obesity in Strong Internal Medicine (SIM). SIM is a safety net, faculty-resident internal medicine practice at the University of Rochester, providing primary care to approximately 12,000 patients. The LMG held bi-weekly sessions over 24 weeks. Each session included a provider visit that focused on goal-setting and comorbidities, followed by group exercise and education. Education topics spanned topics including diet, activity, stress and sleep. Participating staff included providers, nursing, social work and nutrition. The LMG was designed to be revenue neutral provided there were at least 10 patients.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Several metrics were used to assess the program's objectives: - 50% of SIM physicians will refer 1 or more patients - 25% of referred patients will attend 1 or more sessions and 20% will attend 2 or more sessions - Weight reduction (% body weight) and improvements in mood (PHQ-9, GAD-7) for patients attending 2 or more sessions.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Initial results are promising. In terms of endorsement, 55% of physicians referred at least one patient to the LMG. Of 60 total referrals over 6 months, 31 patients were scheduled to attend an LMG session. Of these, 18 attended at least 1 session and 12 attended 2 or more. For patients who attended 2 or more sessions, 9 experienced a decrease in weight, 2 lost 5% or more of their body weight and 6 showed improvements in mood. The second LMG is ongoing and collecting additional outcome measures, including pain and physical function.

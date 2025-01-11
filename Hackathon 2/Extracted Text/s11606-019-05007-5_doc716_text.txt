@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# NEEDS AND OBJECTIVES:
+
+Adverse childhood experiences (ACE) and trauma impact roughly 61.7% of adults in California with likely increased proportions within the safety net network. We identified that the current Pre Clinic Conference curriculum did not address trauma identification and the concept of trauma informed care. Given the fact that residents working in our safety net primary care clinic have daily contact with survivors of trauma, the aim and objective of this project was to evaluate and implement a new Pre Clinic Conference Curriculum which would focus on trauma informed care.
+
+# SETTING AND PARTICIPANTS:
+
+This 20 minute educational didactic lecture was implemented during regularly scheduled pre clinic conferences for Resident physicians between 4/2018 until 06/2018 in the outpatient clinic. A pre and post lecture questionnaire was emailed out to all eligible participants including PGY1, 2 and 3 requesting voluntary participation to assess baseline knowledge, effectiveness of the curriculum and obtain additional feedback.
+
+# DESCRIPTION:
+
+The educational curriculum was developed using a case based format followed by questions. The preceptor version included answers and additional probing questions to implement discussion. Our educational module highlighted two cases of patients with histories of ACE and various forms of trauma. Questions included illustrated the objective learning points with such examples: What is trauma? Is it appropriate to screen for trauma in a primary care setting? What is trauma informed care?
+
+# EVALUATION:
+
+A pre intervention questionnaire was administered asking questions with a three point likert scale to identify baseline knowledge and attitudes around trauma informed care. Some questions included: How familiar are you with Trauma Informed Care? How comfortable are you discussing with your patient their personal history of physical, emotional and sexual abuse? How familiar are you with the clinical and scientific findings of the Adverse Childhood Experiences (ACEs) Study? An identical post intervention questionnaire was administered to assess for any difference in knowledge or attitudes. A mixed effects model was used to calculate the difference in mean total scores and showed a significant change between PGY3 and the aggregate.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We found that the Trauma Informed Care Pre Clinic Conference module our group developed was an effective teaching tool which was well received by learners. Total difference between pre and post survey scores was noted to have a p value of <0.001 indicating significant change in knowledge and attitudes. Notably, our faculty found the module to be a fast, effective, and easy way to implement teaching on the critically important subject of trauma informed care. In summary, this project illustrates the recognition of developing a Trauma Informed Care curriculum within our county system and the success of implementation through a Pre Clinic Conference module.
+
+# IMPLEMENTATION OF AN ONLINE CASE-BASED CLINICAL REASONING CURRICULUM
+
+Michelle Fleshner; Ben Smith2; Joseph M. Rocco3; Thomas Painter3.1
+
+1UPMC, Pittsburgh, PA; 2UPMC Presbyterian Shadyside, Pittsburgh, PA; 3University of Pittsburgh, Pittsburgh, PA. (Control ID #3185469)
+
+# NEEDS AND OBJECTIVES:
+
+1. To improve availability of standardized clinical reasoning education for learners of all levels. 2. To create a case-based clinical reasoning curriculum distributed online to promote learner engagement. 3. To determine the best means for curriculum distribution both internal to and external to our institution.
+
+# SETTING AND PARTICIPANTS:
+
+This project was initiated by the University of Pittsburgh Department of Medicine's (UPMC) Clinical Reasoning Group. The curriculum was initially geared towards UPMC Internal Medicine residents and later distributed on social media to interested learners of different levels.
+
+# DESCRIPTION:
+
+The curriculum was based on learning objectives chosen by the Clinical Reasoning Group, which are in line with those promoted by the Society to Improve Diagnosis in Medicine. Cases were selected to exemplify potential biases that could lead to diagnostic error. Each case was organized into sections separated by multiple-choice questions that prompted learners to prioritize their differential diagnosis and work up decisions. The online survey platform Qualtrics was utilized and cases are distributed monthly via email to residents and faculty at UPMC and also via Twitter for open participation and discussion. Each case takes 5-6 minutes to complete. Data collected includes number of persons completing each case and means of accessing the case.
+
+# EVALUATION:
+
+Three cases were distributed via email to Internal Medicine Residents, Faculty, and medical students at UPMC over three months. The cases were also distributed on Twitter by an educational account. The number of participants for cases one, two, and three were 152, 183, and 246, respectively. Participants were surveyed at the end of the case to determine how they accessed the cases and to provide feedback. The proportion of participants accessing the case from Twitter increased each month. Participants indicated that they would appreciate more review of evidence-based testing, disease pathology, and mechanistic learning within the cases.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+An online survey platform is an effective way to distribute clinical reasoning cases for educational purposes. The number of participants has steadily increased since initiation and feedback has overall been positive. In general, participants appreciate the accessibility of cases on smartphones, their brevity, and the interactive nature of the cases. Both email and social media have been effective platforms for distribution, but social media may have the ability to distribute educational materials more widely.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://docs.google.com/document/d/11Xuk4fqk55QFLVXs6GLgc5kmb7VhdLuy0YDOQVGw-QY/edit?usp=sharing
+
+# IMPLEMENTATION OF TELEPHONE VISITS IN A RESIDENCY CLINIC: A STRATEGY TO BUILD TELEHEALTH SKILLS, IMPROVE PATIENT OWNERSHIP, AND ENHANCE CONTINUITY
+
+Jenna Laughlin1; Zehra Hussain1; Gretchen Rickards1; Sarah Schenck1; John Donnelly2.
+
+1Christiana Care Health System, Wilmington, DE; 2Christiana Care Health System, Newark, DE. (Control ID #3185420)
+
+# NEEDS AND OBJECTIVES:
+
+As primary care moves towards patient-centered care models, alternatives to the traditional in-person clinic visit are becoming increasingly utilized. Scheduled telephone visits are a convenient, effective method to deliver care. We piloted a telephone visit initiative in our residency clinic to develop telehealth skills in our trainees. We hoped that this novel visit type would also increase patient ownership and provider-patient continuity.
+
+# SETTING AND PARTICIPANTS:
+
+Since October 2016, nine internal medicine residents from our 36-resident categorical medicine program have had dedicated openings for telephone visits built in to their outpatient clinic schedule.
+
+# DESCRIPTION:
+
+Each resident had one hour of dedicated time per week templated into their clinic schedule for telephone visits. Depending on level of training, up to three telephone visits could be conducted during this protected time. Openings that went unfilled were converted into acute office visits. With regard to supervision, PGY1 residents received direct attending supervision for all visits. PGY2s were required to discuss all cases with the preceptor, and PGY3s discussed cases only as needed. All notes were routed to and co-signed.

@@ -1,0 +1,67 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+A subacute left middle cerebral artery distribution infarct and occluded intracranial left middle cerebral artery at the M1 segment. Subsequently, a TTE showed trabeculations in the left ventricle in the apex that were concerning for possible left ventricular non-compaction (LVNC). For definitive diagnosis, a cardiac MRI was performed and showed a non-compacted: compacted myocardium ratio of &lt;2.2, and trabeculated mass &lt;20% of the total myocardial mass. A cerebral angiogram showed left M1 segment middle cerebral artery occlusion with good collateral circulation from anterior and posterior cerebral arteries. The cardiologist recommended a repeat cardiac MRI in two to three years to track progression of trabeculations. The patient was started on lifelong anticoagulation to prevent further embolic events.
+
+# IMPACT/DISCUSSION:
+
+Though guidelines vary based upon imaging modality, for cardiac MRI a ratio of non-compacted:compacted myocardium must be 2.3 and LV trabeculated mass must be 20% of global LV myocardial mass to meet the definition of LVNC (2). Although the patient does not meet the imaging criteria for LVNC, he is still at significantly higher risk for thromboembolic events than the general population. Involvement of the cardiologist, lifelong anticoagulation, and close outpatient follow up are three key points in this case that can potentially prevent and minimize the serious complications of this condition.
+
+# CONCLUSION:
+
+- LVNC is a congenital disorder that increases risk of thromboembolic events such as CVA
+
+- Deep trabeculations can likewise increase risk of thromboembolic events even in absence of diagnostic criteria for LVNC
+
+# INCREASING DIVERSITY UNCOVERS TUBERCULOSIS RARITY
+
+Marshall Meier1; Kanapa Kornsawad2. 1University of Texas Health San Antonio, San Antonio, TX; 2University of Texas Health Science Center, San Antonio, TX. (Control ID #3184438)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features of pancreatic tuberculosis
+
+# LEARNING OBJECTIVE #2:
+
+Assess need of invasive procedures for diagnosis
+
+# CASE:
+
+A 25-year-old man with no past medical history presented with five days of rapidly enlarging neck mass. He recently moved from India to San Antonio and noticed an unintentional weight loss of 20 pounds over the past month with a non-productive cough, nausea and vomiting. Denies neck pain, dysphagia and fever. Physical exam revealed a diffusely enlarged, non-tender anterior 5 cm neck mass without axillary or inguinal lymphadenopathy. The exam was negative for exophthalmos or abdominal tenderness. Laboratory studies showed TSH of 0.009 with free T4 of 1.4 and negative thyroglobulin, TSH receptor, and thyroperoxidase antibodies. Also found to have an elevated alkaline phosphatase to 135. Computed tomography (CT) of the thyroid characterized multilobulated, complex cystic lesions with extension into the right thoracic inlet. CT abdomen revealed a 2.5cm multilobulated complex cystic lesion in the head of the pancreas. Fine needle aspiration of the thyroid and paratracheal lymph nodes revealed +AFB with granulomatous inflammation and necrosis consistent with extrapulmonary tuberculosis (TB). The patient was treated with RIPE therapy and an MRI of the abdomen revealed complete resolution of both the paratracheal swelling and pancreatic mass at three months.
+
+# IMPACT/DISCUSSION:
+
+Pancreatic TB was first described in 1944, but little data exists regarding incidence within the United States. Abdominal TB, which encompasses multiple organs and peritonitis, accounts for only about five to twelve percent of new cases per year. In India, a region with much higher overall prevalence, the incidence of pancreatic involvement is 8% of all abdominal cases. TB thyroiditis accounts for only 0.6% of all thyroid masses making this a unique presentation of extrapulmonary TB with both pancreas and thyroid involved. There is no universally accepted diagnostic or treatment strategy for pancreatic TB. For management of this patient, we followed an algorithm first suggested by Sharma et al. It utilizes imaging characteristics of the abdominal mass as well as biopsy proven TB in other non-pancreatic sites in order to avoid further unnecessary invasive tests. The use of fine needle aspiration for direct diagnosis of pancreatic TB has yielded variable results of 43-80%. Based on this information and taking into account the patient's young age as well as no other risk factors, he was spared an invasive and potentially harmful procedure. This diagnosis requires a high index of suspicion but ultimately leads to appropriate treatment and sub-specialty follow up.
+
+# CONCLUSION:
+
+Tuberculosis can manifest within a multitude of different organs leading to puzzling symptoms and clinical presentations. By thoroughly investigating each abnormality, clinical context can guide a thorough workup while avoiding unnecessary and invasive procedures but still achieving favorable outcome and appropriate sub-specialty follow up.
+
+# INDECISION BEFORE THE INCISION: DIFFICULT CHOICES BEFORE A WHIPPLE PROCEDURE
+
+Richard Pham. UPMC, Pittsburgh, PA. (Control ID #3185842)
+
+# LEARNING OBJECTIVE #1:
+
+Examine the variables affecting stable decision-making in advanced illness
+
+# LEARNING OBJECTIVE #2:
+
+Identify social disparities among a minority group during end-of-life care
+
+# CASE:
+
+A 64-year-old African American woman is admitted with altered mental status and bacteremia while on total parenteral nutrition. On chart review, it was noted she was diagnosed with a benign pancreatic cystadenoma years ago and declined a curative Whipple due to her hesitancy regarding the operative risks. Over several years she had suffered functional decline, with multiple admissions for pancreatitis and difficulties with maintaining nutrition. Documented discussions revealed frequent uncertainty about her desires for artificial nutrition and invasive procedures going forward. The team notes this is her third admission for bacteremia this year, but this time the patient is unable to discuss her care preferences due to her mental status. A goals of care discussion is held with family, and her sister expresses concerns about the patient's worsening functional decline and reiterates her desires for no additional invasive procedures. Hospice planning is initiated. A few days later, the surgical team revisits the possibility of Whipple and a sudden change in treatment course is made. The patient and family decide to ultimately pursue Whipple and TPN is resumed. The patient is hospitalized for a total of two months and discharged without definite plans for surgery.
+
+# IMPACT/DISCUSSION:
+
+The patient expressed conflicting preferences through her disease course and as providers, we must be cognizant that preferences may be shaped by how we present treatment options. The way the surgery and medicine team communicated the illness course clearly resonated with the patient and family in opposite ways. Poor communication between providers resulted in poor communication with the patient. Poor communication is also a factor often cited as a possible source of health disparity in end-of-life planning. African Americans are statistically less likely to engage in hospice planning than white counterparts. In 2015, 50.5% of Medicare white Americans engaged in hospice at the end of life while only 38% of African Americans did. African Americans are cited to undergo intubation and CPR more frequently than whites prior to death. Even among African Americans in hospice who have end of life preferences, 90% received care consistent with their wishes, while 95% of white Americans did.
+
+# CONCLUSION:
+
+-Making advanced decisions about an unknown future is a time of great stress and anxiety for patients.
+
+-Providers must communicate among each other to better ensure consistent communication to prevent inconsistent patient preferences
+
+-Health disparities among African Americans exist also in end-of-life care, and the onus is on physicians to recognize poor communication as a contributing factor.

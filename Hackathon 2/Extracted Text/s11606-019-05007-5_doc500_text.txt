@@ -1,0 +1,71 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSION:
+
+Early biopsy and diagnosis of calciphylaxis can reduce time to and preserve the feasibility of curative interventions. Further research is warranted to investigate if anti-acid medications or endoscopic therapies can prevent GI hemorrhage in calciphylaxis patients.
+
+# ONE AGEP AT A TIME: A PATIENT WITH A NEW RASH
+
+Brianna C. Harder; Nicholas F. Maston; Taylor Zuber; Evan Raff. University of North Carolina, Chapel Hill, NC. (Control ID #3159271)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the presentation of Acute Generalized Exanthematous Pustulosis (AGEP)
+
+# LEARNING OBJECTIVE #2:
+
+Identify common medications associated with AGEP.
+
+# CASE:
+
+A 58-year-old man presented with two weeks of right lower extremity redness and pain. He was diagnosed with cellulitis and received 1 g intramuscular ceftriaxone followed by a 10-day course of cephalexin. His symptoms did not improve. He received a 10-day course of trimethoprim-sulfamethoxazole and topical mupirocin. Five days later, he developed new pruritic skin lesions and was admitted for further evaluation. His temperature was 37 C, blood pressure was 147/71 mmHg, and pulse was 65 bpm. Skin demonstrated numerous small, non-follicular papules on an erythematous, edematous background involving the lower extremities, groin, trunk, arms, and face. Significant labs include peripheral white blood cell count of 16.6 x 109/L with neutrophilic predominance, eosinophils 0.5 x 109/L, serum creatinine 1.54 mg/dL and CRP 25.7 mg/L. Skin biopsy revealed prominent multi-loculated intra-epidermal collections of neutrophils in variably-sized pustules, spongiosis, and lympho-eosinophilic infiltrate, overall consistent with acute generalized exanthematous pustulosis (AGEP). Trimethoprim-sulfamethoxazole was discontinued. He received clindamycin for his cellulitis and antihistamines, and triamcinolone ointment for his AGEP. At follow-up one week later, his rash had resolved.
+
+# IMPACT/DISCUSSION:
+
+AGEP has been associated with numerous common medications. Anti-infective agents including sulfonamides (such as sulfamethoxazole), aminopenicillins, quinolones, terbinafine, ketoconazole, fluconazole, and chloroquines have been implicated, as well as non-anti-infective medications, including diltiazem. AGEP is characterized by the acute development of erythema, edema, pruritus or burning, followed by the emergence of numerous non-follicular, sterile pustules, often originating on the face or intertriginous areas and subsequently becoming widespread. AGEP may develop two days to three weeks after drug exposure. Systemic symptoms, including elevated transaminases, renal insufficiency, and respiratory distress, can develop. Pustules may sometimes take on a papular appearance, especially when corticosteroid therapy is employed early in the disease course, and the diagnosis may only be readily apparent on skin biopsy as in this case. Discontinuation of the offending medication, supportive care, and topical corticosteroids are the mainstays of treatment. Spontaneous resolution usually occurs within 2 weeks of drug discontinuation, but topical corticosteroids may help accelerate resolution of the rash.
+
+# CONCLUSION:
+
+The general internist must maintain a high index of suspicion for the development of adverse drug reactions. Recognition of the presentation of AGEP and identification of commonly associated drug classes are critical for prompt discontinuation of the causative drug and resolution of symptoms.
+
+# OPHELIA SYNDROME
+
+Samiullah Arshad. Montefiore Medical Center, Wakefield, Bronx, NY. (Control ID #3186399)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the paraneoplastic presentation of Hodgkin's lymphoma
+
+# LEARNING OBJECTIVE #2:
+
+Treat limbic encephalitis due to Hodgkin's lymphoma with chemotherapy
+
+# CASE:
+
+58 year-old male was admitted for new onset seizures. He had cervical lymphadenopathy (LAD) on exam. Hemoglobin was 8.6 g/dl and Erythrocyte sedimentation rate (ESR) was 120. Computed tomography (CT) chest revealed cervical, thoracic and hilar lymphadenopathy. Patient had another episode of witnessed seizure described as bilateral small amplitude fast frequency tremulous movements of extremities which terminated after patient received lorazepam followed by altered mental status that lasted several days. Further history obtained from the patient's wife revealed that the patient had been having low grade fevers, night sweats and had lost 40 pounds in the past 1 year. Magnetic resonance imaging (MRI) brain without contrast showed subtle asymmetric signal intensity and volume loss involving the left mesial temporal lobe. Electroencephalogram (EEG) revealed positive triphasic waves concerning for encephalopathy, without any epileptiform activity. Lumbar puncture was negative for infection and malignant infiltration. Characteristic Reed Sternberg cells were seen on the cervical lymph node biopsy. Patient was treated with intravenous immunoglobulins (IVIG) for 5 days followed by Adriamycin, bleomycin, vincristine and dacarbazine (ABVD) therapy with patient returning to baseline mental status within 1 week of therapy with no further seizures.
+
+# IMPACT/DISCUSSION:
+
+Paraneoplastic neurological syndromes (PNSs) are commonly associated with small cell lung cancer, germ cell tumors and breast cancer but rarely associated with Hodgkin's lymphoma. PNSs are caused by immune mechanisms triggered against antigens that are normally present in the nervous system and ectopically expressed by the tumor (onconeural antigens). Paraneoplastic limbic encephalitis (PLE) is a subtype of PNS, characterised by personality changes, irritability, depression, seizures, memory loss and dementia. Generalized or partial complex seizures occur in 50% of the patients. The most frequent MRI abnormalities in PLE are hyperintensity signals on T2-weighted or fluid attenuation inversion recovery (FLAIR) images involving one or both medial temporal lobes. Early recognition of PNS often leads to the discovery and treatment of the underlying tumor. Limbic encephalitis in patients with Hodgkin's lymphoma is associated with mGluR5 antibodies. This is well defined in the literature as Ophelia Syndrome. It is named after the character Ophelia in Shakespeare's drama Hamlet, and was first described by Dr. Ian Carr whose daughter, at the age of 15, developed progressive loss of memory, depression, hallucinations, and bizarre behavior. These symptoms aptly describe the character Ophelia's deluded and obsessional behavior towards Hamlet.
+
+# CONCLUSION:
+
+Ophelia syndrome is a rare but treatable presentation of Hodgkin's lymphoma. Early chemotherapy improves outcomes.
+
+# OUT OF SIGHT, OUT OF MIND: DELAYED DIAGNOSIS OF A NECROTIZING SOFT TISSUE INFECTION
+
+Dustin McCurry; Clark A. Veet; Deborah DiNardo. University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3186337)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate the accuracy of the laboratory risk indicator for necrotizing fasciitis (LRINEC) score and review attempts to improve upon its diagnostic value.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize how posterior probability error and the two forms of availability bias affect type 1 and type 2 diagnostic reasoning and review strategies to counter these cognitive biases.
+
+# CASE:
+
+A 54-year-old male with past medical history significant for type 2 diabetes and recurrent stage III squamous cell carcinoma of the rectum presented to oncology clinic for repeat infusion of nivolumab. He complained of subjective fevers, foul smelling anal drainage, and increased anorectal pain for the past 2 months, worsened over the past week. There were 2 emergency department (ED) visits for the same complaint over the past 2 months. At each visit, his symptoms were attributed to small abscesses caused by obstructing tumor, and he received antibiotics prior to discharge from the ED. In clinic, he was afebrile, HR 123 BP 103/71 RR 18 99% on room air. Exam showed a necrotic

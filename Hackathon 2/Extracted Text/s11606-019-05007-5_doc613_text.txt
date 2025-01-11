@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# CLINICAL DECISION SUPPORT TO MITIGATE RISKS ASSOCIATED WITH HIGH-DOSE OPIOID USE FOR CHRONIC NON-CANCER PAIN
+
+Eboni Price-Haywood; Jeffrey Burton; Todd Burstain. Ochsner Health System, New Orleans, LA. (Control ID #3184912)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Clinical practice guidelines recommend what to do for safe opioid prescribing for chronic non-cancer pain but do not provide guidance on how to implement best practices.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To implement electronic medical record clinical decision support (EMR-CDS) to improve guideline concordant care in ambulatory settings and reduce rates of prescribing high-dose opioids (morphine equivalent daily dose, MEDD) >90 mg.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In October 2017, Ochsner Health System (Louisiana's largest integrated delivery system) launched EMR-CDS aligned with CDC Practice Guidelines. EMR-CDS identifies patients prescribed opioids for the prior 120 days. Providers are prompted to complete the Opioid Risk Tool (ORT) to calculate risk of opioid-aberrant behavior. Patients with at least one of the following conditions are flagged as high-risk: benzodiazepines co-prescriptions; opioid dose >90 mg; or diagnosis of substance abuse. The opioid health maintenance tool displays whether patients are up-to-date on best practices. ORTscore, MEDD, and hyperlinks to the Louisiana pharmacy drug monitoring program data and pain management agreement are visible in the medication order composer.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The main outcome is change in percentage of patients with high dose opioid prescriptions.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The chronic opioid health maintenance tool identified 13,065 patients seen between October 2017 and August 2018 - among whom 22% were prescribed high-dose opioids. Most patients are female (60%), white non-Hispanic (67%) with a mean age of 57 years. Common pain syndromes include back/neck/knee pain (52%). Almost 30% of patients have depression/anxiety while 19% have a history of substance abuse. Among patients with ORT scores (n=2040) documented, 23% were medium/high-risk for aberrant behavior. Patients with ORT scores compared to patients without ORT scores have higher rates of pain agreements (38% vs 8%); UDS (26% vs. 13%) and naloxone prescriptions (9% vs. 1%, all p<0.001). Overall, while 59% of patients were screened for depression, <1% had PEG-3 (pain) documented. The odds of being prescribed opioids >90 MEDD was higher among patients with depression/anxiety (OR [95% CI]: 1.30 [1.12-1.52] or substance abuse (4.65 [3.99-5.42]); and lower among patients co-prescribed non-opioid pain medications (0.84 [0.73-0.97]) or receiving specialty service (0.8 [0.73-0.96]). Among 9,888 patients on chronic opioids before and after launching EMR-CDS, only 6% had decrease in dosing to <50 MEDD.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+EMR-CDS helped providers identify patients who are at risk for opioid misuse and employ mitigation strategies but did not substantially reduce the rate of high-dose opioid prescribing.
+
+# CO-PRODUCTION OF VISIT NOTES IN THE ELECTRONIC HEALTH RECORD USING OURNOTES - ONE INSTITUTION'S IMPLEMENTATION
+
+Stephen K. Liu2; Brooke Herndon2; Eugene Nelson1; Kathryn Sabadosa1; Jan Walker4; Tom Delbanco3. 1Geisel School of Medicine at Dartmouth, Lebanon, NH; 2Dartmouth-Hitchcock, Lebanon, NH; 3Beth Israel Deaconess Medical Center, Boston, MA; 4BIDMC, Brookline, MA. (Control ID #3140989)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+To determine if co-production by patients and providers of visit notes for scheduled office visits is feasible and can improve patient engagement and provider documentation burden at a single site.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Develop a process to implement OurNotes where patients and families can contribute to the writing of their own progress notes before clinic visits by sending recent health history and agenda items before each visit. Assess the program's impact on patient engagement and experience and provider documentation burden from surveys of patients and providers.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Patient engagement is considered a central tenet of safe, effective, high value care. OpenNotes is an international program that offers patients online access.

@@ -1,0 +1,70 @@
+# ABSTRACTS
+
+# OUTCOMES OF PERSONALIZED VERSUS GUIDELINE-BASED BREAST CANCER SCREENING: A SIMULATION MODEL
+
+Yiwey Shieh1; Laura J. Esserman1; Martin Eklund2. 1University of California, San Francisco, San Francisco, CA; 2Karolinska Institutet, Stockholm, Sweden. (Control ID #3180851)
+
+# BACKGROUND:
+
+Breast cancer screening is costly and resource-intensive, yet current guidelines disagree on the optimal starting age and timing of screening. Personalized screening, or screening tailored to individual breast cancer risk, has been proposed as an improvement on guideline-based screening. WISDOM (Women Informed to Screen Depending on Measures of Risk) is an ongoing randomized trial comparing personalized to annual screening. To project the population-level outcomes of personalized screening, we constructed a simulation model comparing personalized to guideline-based screening strategies across advanced (Stage IIB+) cancers, false positives, negative biopsies, and cost.
+
+# METHODS:
+
+Our simulated cohort included 100,000 women aged 40-74 with demographic and risk factor distributions based on the U.S. screening population. We modeled the WISDOM approach to personalized screening where recommendations are based on the results of genetic mutation testing and 5-year risk estimates from a clinical risk model modified by a polygenic risk score containing 76 genetic variants. Each simulated woman was randomly assigned a clinical and genetic risk profile, which were used to generate a 5-year risk estimate. This was then used to assign a starting and stopping age, frequency, and modality (MRI vs. mammogram) of screening. We compared the aggregate outcomes over a 1-year time window between personalized screening and 3 strategies based on U.S. professional society guidelines.
+
+# RESULTS:
+
+All screening strategies resulted in similar rates of advanced cancers. However, the biennial, hybrid, and personalized strategies resulted in fewer false positives and biopsies compared to annual screening, and at lower cost. Though aggregate outcomes were similar between the hybrid and personalized strategies, the average 5-year risk of women assigned to biennial screening was lower under the personalized strategy, 1.4% vs. 2.0%. Similarly, the average 5-year risk of women recommended for adjunctive MRI under the personalized strategy was higher than that of the hybrid strategy, 10.4% vs 4.2%.
+
+# CONCLUSIONS:
+
+Personalized screening results in a similar incidence of advanced cancers as annual screening while reducing false positives, negative biopsies, and cost. Compared to other guideline-based strategies, personalized screening better allocates screening resources by identifying higher-risk women for more intensive screening, and lower-risk women for less intensive screening.
+
+# OUTPATIENT TRANSTHORACIC ECHOCARDIOGRAM REFERRAL PRACTICES: INDICATIONS AND PREVALENCE OF FINDINGS
+
+Patrick Miller; Michael Yang; Monvadi B. Srichai. MedStar Georgetown University Hospital, Washington, DC. (Control ID #3185605)
+
+# BACKGROUND:
+
+Transthoracic echocardiography (TTE) is a widely used tool, and often the first imaging test performed for evaluation of patients with signs or symptoms suggestive of underlying cardiac disease. However, there is a paucity of epidemiologic data describing ordering practices and echocardiographic findings among these patients in the primary care setting. This study aims to characterize the most common indications for TTE referral in the outpatient setting, and the prevalence of significant findings in patients without a known history of heart disease.
+
+# METHODS:
+
+This was a retrospective, single center study. Consecutive outpatient TTE order requisitions were reviewed from 10/1/18 to 11/6/18. We included patients without cardiac history referred for specific clinical questions, including abnormal electrocardiogram (EKG), chest pain, dyspnea, edema, murmur, and hypertension. We excluded those referred for stress test, chemotherapy, pre-operative assessment, or follow-up of known cardiac disease including cardiomyopathy or valvular disease. Data were collected on ICD-10 code indication, past medical history, and relevant data from TTE final report.
+
+# RESULTS:
+
+Of 259 TTEs reviewed, 91 met inclusion criteria with 37.4% men, 62.6% female and a mean age of 54.4 years at the time of study. The most common indication was abnormal EKG in 20 patients (22.0%). The next most common indications were dyspnea (13.2%), palpitations (7.7%), murmur (7.7%), edema (7.7%), syncope (6.6%), hypertension (5.5%), and chest pain (5.5%). Eighty-three patients (91.2%) had normal left ventricular (LV) function, including 72 (79.1%) patients with completely normal TTEs. The most common abnormal finding was valvular disease (9.9%), followed by decreased LV systolic function (8.8%).
+
+# CONCLUSIONS:
+
+At our institution, outpatients without cardiac history are most commonly referred for TTE due to abnormal EKG. Of those referred for TTE, the prevalence of abnormal findings was 20.9%. The most common abnormal finding was valvular disease.
+
+# Prevalence of Disease for Outpatient TTE
+
+# 10/1/18 to 11/6/18
+
+|IE Finding|Prevalence|
+|---|---|
+|Normal LV Function|83|
+|Valvular Disease|9|
+|AV Thickening|1|
+|MV Thickening| |
+|Mod-Sev AS| |
+|Mod-Sev AR| |
+|Mod-Sev MR| |
+|Mod-Sev MS| |
+|Abnormal LV Function|8|
+|LVEF 40-50%|6|
+|LVEF 30-40%|2|
+|LVEF <30%| |
+|LV Wall Motion Abnormalities| |
+|Abnormal RV Size| |
+|Abnormal RV Function| |
+|Abnormal LV Size|1|
+|Pericardial Effusion| |
+|# of Patients with any Abnormality|19|
+|Total # of Patients|91|
+|Total # of Findings|113|
+
+Note: # of findings is greater than total # of patients because some patients have more than one finding.

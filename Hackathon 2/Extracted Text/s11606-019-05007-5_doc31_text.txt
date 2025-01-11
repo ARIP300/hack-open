@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+Our PI project brought awareness on the high prevalence of anemia (71%) in patients with heart failure. Iron deficiency was present in 42% of HF cases with anemia, but not statistically significant with longer hospital stay and re-admission rates. Anemia of iron deficiency in HF can be easily treated with oral or preferably intravenous iron, resulting in better outcomes (exercise performance, HF symptoms and quality of life). Going forward, our project highlights the importance of routinely evaluating patients with HF and anemia for iron deficiency anemia to consider corrective therapy. Additionally, evaluation for etiology of iron deficiency should be instituted.
+
+# ANTIBIOTIC AND ANTIVIRAL PRESCRIBING FOR HOSPITALIZED PATIENTS WITH RESPIRATORY VIRUSES
+
+Abhishek Deshpande; Pei-Chun Yu; Peter B. Imrey; Michael B. Rothberg. Cleveland Clinic, Cleveland, OH. (Control ID #3185408)
+
+# BACKGROUND:
+
+Suspected respiratory infections are the leading cause of antibiotic prescription among hospitalized patients. A significant proportion of pneumonias are caused by viruses, yet it's unclear how often clinicians test for or treat viral pathogens in pneumonia patients. The objective of this study was to quantify the frequency of viral testing in hospitalized patients with pneumonia, measure the proportion with positive respiratory virus tests that are treated with antibiotics and antivirals and compare the outcomes of patients tested for suspected viral infection to those not tested.
+
+# METHODS:
+
+We included adult patients admitted with pneumonia from 2010 - 2015 to 175 US hospitals participating in the Premier Database and providing administrative and microbiological data. Pneumonia cases were identified via ICD9-CM codes as well as chest radiograph and antimicrobial treatment on the first hospital day. Patients were excluded if they had been transferred from another facility, had cystic fibrosis, or had a hospital length of stay (LOS) of 1 day. We also excluded patients with identical organisms in blood and urine. We compared characteristics, treatment and outcomes of patients who were tested for suspected viral infection to those not tested. Using logistic and linear regression models, as appropriate, we assessed the following outcomes; inpatient mortality, LOS and cost, adjusting for demographics, co-morbidities and treatments.
+
+# RESULTS:
+
+178,895 patients met inclusion criteria. The overall viral testing rate increased from 10% in 2010 to 37% in 2015. In 2015, the viral testing rate varied by season from 65% in winter to 17.5% in summer. The rate also varied among hospitals, ranging from 10-72%. Influenza virus was the most frequently tested (22.9%) followed by respiratory syncytial virus (3.9%), with a positivity rate of 10.6% and 2.1%, respectively. Influenza virus accounted for 85% of the 5,318 patients with a positive viral test, followed by rhinovirus (5.7%). Tested patients were younger (67 vs. 71 years), less likely to be admitted from SNF (6% vs. 8%) and had fewer comorbidities (2.9 vs. 3.4) (all comparisons p<0.001). On treatment day 3, among patients with a positive viral test, 23% received antibiotics only, 15% antivirals only, and 56% received both. Compared to patients not tested, those tested were less likely to receive antibiotics (79 % vs. 89%, p < 0.001). Viral testing was associated with reduced odds of in-hospital mortality; negative viral test (adjusted odds ratio [aOR] 0.80, 95% CI 0.76-84) and positive viral test (aOR 0.71, 95% CI 0.62-84). Testing was not significantly associated with LOS or cost.
+
+# CONCLUSIONS:
+
+In a large US inpatient sample hospitalized for pneumonia, only 37% of the patients were tested for viral pathogens in 2015, but testing varied widely by hospital. Influenza testing was most common and most likely to be positive. Although a positive test was associated with antiviral treatment, it had a small impact on antibiotic prescribing.
+
+# BACKGROUND:
+
+Approximately one in every three women between the ages of 40 to 59, and two in every three women aged 60 and above in the United States have hypertension. For older women, estrogen is occasionally used to treat common menopausal symptoms, but increases the risk of cardiovascular events. Although the results of the original Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack (ALLHAT) trial showed that hydrochlorothiazide (HCTZ) diuretics are superior to calcium-channel blockers and angiotensin-converting enzyme inhibitors in preventing 1 or more major forms of cardiovascular disease (CVD), there are several reasons why physicians may prefer to avoid HCTZ in postmenopausal women on estrogen. At least one study has shown that, among postmenopausal women, HCTZ was less well tolerated than moexipril and HCTZ is known to increase blood glucose while postmenopausal status by itself already increases risk of developing diabetes mellitus. The differences in CVD effects of the various first-step drugs specifically among post-menopausal women on estrogen therapy have not been studied and hence, will be investigated in this study.
+
+# METHODS:
+
+The data of the ALLHAT was utilized to examine the effects of amlodipine versus lisinopril compared to chlorthalidone in a subgroup of women on estrogen. These women were 55 years of age or older with hypertension and at least one other CVD risk factor from 623 North American centers (n=2752). ANOVA test and student t-test were used to compare the baseline characteristics between subjects in each group of therapy. Hazard ratios and 95% confidence intervals (CIs) were obtained from the Cox proportional hazards model to compare the clinical outcomes between the three antihypertensive groups. A composite endpoint of cardiovascular mortality and nonfatal myocardial infarction, stroke, coronary revascularization procedure, angina, heart failure, and peripheral vascular disease was used, as well as each CVD outcome individually and all-cause mortality.
+
+# RESULTS:
+
+There were no significant differences in the baseline characteristics of the three treatment groups. Compared to chlorthalidone, the hazard ratios for the composite endpoint were 1.03 (95% CI 0.94-1.13, p-value=0.55) for amlodipine and 1.02 (95% CI 0.93-1.12, p-value= 0.64) for lisinopril. Likewise, hazard ratios for all-cause mortality as well as the individual CVD outcomes were not significantly different among either lisinopril or amlodipine compared to chlorthalidone.
+
+# CONCLUSIONS:
+
+Among women aged 55 years or above on estrogen, calcium channel blockers and angiotensin-converting enzyme inhibitors as initial antihypertensive therapy are associated with similar cardiovascular outcomes compared to thiazide diuretics. Therefore, for post-menopausal women on estrogen replacement therapy, physicians should not feel constrained to use HCTZ, but should instead choose initial anti-hypertensive medication taking into account individual patient's side effect profile and other comorbidities.
+
+# APPOINTMENT TIMING AND OPIOID PRESCRIBING
+
+Michael L. Barnett 1; Hannah Neprash 2. 1 Harvard T.H. Chan School of Public Health, Boston, MA; 2 University of Minnesota School of Public Health, Minneapolis, MN. (Control ID #3181483)
+
+# ANTIHYPERTENSIVE TREATMENT TO LOWER CARDIOVASCULAR RISK AMONG POST-MENOPAUSAL WOMEN ON ESTROGEN REPLACEMENT THERAPY
+
+Tran Nguyen; Talal Alzahrani; Jannet Lewis. George Washington University Hospital, Washington, DC. (Control ID #3139875)
+
+# BACKGROUND:
+
+Rising opioid prescribing has been a major contributor to the national opioid crisis. Many observers have blamed rushed practice environments for high rates of opioid prescribing because opioids can be a "quick fix" for a visit where pain is a symptom. However, there is little evidence examining the magnitude of time pressure on prescribing decisions. We

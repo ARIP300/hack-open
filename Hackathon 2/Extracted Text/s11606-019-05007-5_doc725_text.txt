@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# INTERPROFESSIONAL QUALITY IMPROVEMENT PROJECTS (iQIP)
+
+and nursing. Trainees specifically engaged in the QI curriculum include nurse practitioner residents (1st year), nursing students (final year and VALOR students), PGY-2 pharmacy residents (ambulatory care and mental health), psychology trainees (interns and postdoctoral candidates), and internal medicine residents (PGY-2).
+
+# DESCRIPTION:
+
+The "interprofessional Quality Improvement Projects" (iQIP) curriculum consists of an initial half-day didactic session to introduce QI concepts. This employs a "Zombie Attack" theme with hand-on work for aims statements, pareto charts, process mapping and gamified run charts, among other activities. This is followed by a mentored workplace learning experience for the rest of the year, where trainees rank their interest in a proposed project relevant to the health care system. Each team is composed of at least 3 members, from at least 2 disciplines, with at least 1 faculty mentor. Trainee teams are required to present 2 work in progress presentations, followed by a final presentation at grand rounds for the entire facility.
+
+# EVALUATION:
+
+The training has been continually evaluated and adapted using an informal PDSA cycle framework by curriculum leads. We employed pre-post evaluation using the Quality Assessment Instrument (QIKAT) (Lawrence et al JGME, Mar 2011, p41-48). This project examines the changes in the program since 2014 and how these changes affected differences in pre-post measures on the QIKAT. In 2014-2015 there was very little change between the pre-post with none of the pre-post change rising to statistical or clinical significance (P> .18). This initiated changes emphasizing more targeted learning objectives, and intentional restructuring of the workshop and project components, resulting in significant improvement across the next two academic years in four of the nine measures (P .05). Major modifications were implemented prior to the 2017 academic year to further streamline and focus the process. These changes resulted in significant changes in learning as measured by the QIKAT on five of the nine (P< .05) with two others approaching significance (P= .06).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Curriculum development & implementation is a process, and should be subject to ongoing evaluation with a feedback and improvement mechanism. Cyclic evaluation leads to improvement and assures that the educational intervention remains relevant and related to desired educational goals. Evaluation should not be limited to a single measure of changes in perceived knowledge, but should include measures of the quality of the projects produced.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+http://boisevacoe.org
+
+# IT TAKES A VILLAGE: AN INTERDISCIPLINARY APPROACH TO INTEGRATING WOMEN'S HEALTH INTO RESIDENCY EDUCATION
+
+Janet Henrich1; Luz S. Vasquez1; Tracy Rabin2; Jacqueline Satchell1; Mukta Dhond1; Susan Maya. 1Yale University, New Haven, CT; 2Yale University School of Medicine, New Haven, CT. (Control ID #3180068)
+
+# NEEDS AND OBJECTIVES:
+
+In response to identified gaps in residency education in women's health (WH), we developed and implemented a series of ongoing WH education modules. The goals are to: develop an interdisciplinary approach to WH education by partnering with other disciplines and members of the community; introduce topics at the interface of medicine with other fields, or not covered elsewhere in the curriculum; and create a learning environment that fosters the development of a cadre of interdisciplinary WH educators.
+
+# SETTING AND PARTICIPANTS:
+
+Modules are directed at all 209 residents from the Yale Traditional, Primary Care and Med-Peds Residency Programs and presented according to a rotating schedule in half-day sessions, 8 times a year. PGY1 through PGY4 residents are exposed to all modules over 4 years in protected educational time during ambulatory block rotations. A core group of general medicine faculty are the primary teachers. Partner faculty include community panelists (transgender community leaders) and representatives from Family Planning, Urogynecology, Radiology and Endocrinology.
+
+# DESCRIPTION:
+
+Four discrete modules supplement the WH content in residents' core ambulatory curriculum and online WH resources. Each module is thematic using interactive teaching methods (practicums/debates/cases/videos/community panels). Residents are assigned key readings before each module. Senior residents serve as debate and discussion leaders. Modules include: From contraception to menopause: an evidence-based approach to caring for women across the reproductive life span (menopausal symptoms, contraception options, pelvic and breast exam practicum). Clinical controversies in women's health: using best evidence to partner with patients around shared clinical decision-making (breast cancer screening, preconceptual care, abnormal uterine bleeding). Clinical guideline updates (osteoporosis and cervical cancer screening and management). From anatomy to identity (the difficult pelvic exam and trauma focused care, urinary incontinence, transgender identity).
+
+# EVALUATION:
+
+Residents complete an anonymous pre and post self-assessment of their mastery of each topic (on a continuous scale of I know nothing about this subject to I can teach this module). Mastery increases uniformly from the lower to the upper end of the continuum with varying degree, depending on the topic. The modules are highly rated by residents compared with other education sessions.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The WH modules allow us to enhance the education of all residents in areas under their purview but in which they have little mastery. Many areas cross disciplines, and we structured the modules to highlight and model the central role of general medicine faculty in managing these topics with the appropriate use of consultants. Involvement of community members is a powerful way to make residents aware of disparities in care and engage them in advocacy. Residents, faculty and community members are all teachers and learners in this model adding to a growing cadre of WH educators.
+
+# JOINING FORCES: A NEW COURSE BRIDGING STUDENTS' PASSION FOR SOCIAL JUSTICE WITH RUSH'S EQUITY MISSION
+
+Ritika Dhawan2; Coralie Pardo2; Paul Kent2; Laura Deon2; David Ansell1, 2; Danesha Lewis2; Elizabeth S. Davis1, 2. 1Rush University Medical Center, Chicago, IL; 2Rush Medical College, Chicago, IL. (Control ID #3186133)
+
+# NEEDS AND OBJECTIVES:
+
+We started an elective for first year medical students, the Health Equity and Social Justice Leadership elective, to connect students passionate about social justice to Rush University Medical Center's health equity strategy. Learning objectives: Identify social and structural factors that affect the health of a community Use data to identify an actionable community or population health problem. Learn how to partner with community organizations Design an evaluation plan for a community health intervention.
+
+# SETTING AND PARTICIPANTS:
+
+A Rush Medical College elective for 20 first year medical students.
+
+# DESCRIPTION:
+
+The Health Equity and Social Justice Leadership elective was started in the 2017/18 academic year. The fall session includes ten sessions covering key domains of social medicine. Teaching methods include site visits, speakers with lived experience, interactive sessions, and key readings. In the spring semester, the students break into groups, each of which partner with a community organization. The groups use community.

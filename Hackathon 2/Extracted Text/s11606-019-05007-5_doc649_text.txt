@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+score of patients enrolled in care management has increased to 40.4%, reflecting an increase risk of the changing cohort of patients. Further analyses will be completed after additional data are collected.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+An operational process guided by predictive analytics and clinical judgement can help direct the allocation of care management resources within a residency practice. In the first 2 months of this intervention, the patient population under care management evolved to include higher risk individuals. With further implementation of this system, we hope to increase the average risk score for patients under care management to 60% by June 2019.
+
+# INTER-PROFESSIONAL INTEGRATION IMPROVES THE PRIMARY CARE TO PHYSICAL THERAPY REFERRAL PROCESS
+
+Sharen E. McKay1; Frank D. Buono2; Jennifer Walker3; Carly Croteau4; Destiny Printz5; Rebecca Brienza6. 1Yale University School of Medicine, West Haven, CT; 2Yale School of Medicine, New Haven, CT; 3Veterans Hospital West Haven CT, Derby, CT; 4US Department of Veteran Affairs, West Haven, CT; 5Veterans Affairs Connecticut Healthcare System, West Haven, CT; 6VA Connecticut Healthcare System, West Haven, CT. (Control ID #3176647)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Musculoskeletal (MSK) pain has been estimated to comprise 20-25% of patient complaints in the primary care (PC) setting resulting in many referrals to physical therapy (PT); however, the referral system can include long wait times and discontinuation of care necessitating new delivery methods.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The objective of the program is to improve PT delivery by integrating physical therapists in an interdisciplinary patient-centered, team-based care medical home (PCMH) model in a VA ambulatory care training clinic.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The VA Health Administration's Centers of Excellence in Primary Care Education (COE) are interprofessional post-graduate training programs in primary care that integrate providers of different professions in a PCMH model. There are COEs at seven VA sites nationally and all include physician, nurse practitioner, health psychology, and pharmacy trainees and faculty. The West Haven, CT COE has additionally integrated physical therapy faculty who participate in co-precepting, enabling direct "warm handoffs" from a PC provider to a PT when patients arrive with MSK complaints.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+To evaluate the efficacy of this model we tracked the numbers of PT referrals, the number of completed referrals, the numbers of discontinued/cancelled (D/C) appointments, and the wait time between referral and encounter. The listed PT referral parameters were monitored for 3 years (FY2015-2017) and were compared between the COE training clinic and two other PC training clinics at the same VA site (Firm A and Firm B) where PT referrals are done in the traditional manner.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over three years there was a 64% increase in referrals for COE, an increasing trend of 35% in Clinic A, and decreasing trend of -0.8% in Clinic B. The COE showed a steady decline in D/C PT referrals and steady increase in completed PT encounters. The other Firms showed different patterns of change in completed and D/C visits over the same time. The average wait time for a PT appointment was considerably shorter in COE than either of the other Firms beginning in FY2015 (mean=18.1 days COE vs. 45.2 days Firm A vs. 28.7 days Firm B) and the COE trend continued downward in FY2016 and 2017. Patients gave high ratings to seeing a physical therapist, receiving a home exercise program, and/or receiving equipment such as a cane, walker, rollator, or TENs unit on the same day as their PC appointment.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+PT Integration in a PC setting increases overall PT referral, enhances completion of PT referrals and reduces wait times for appointments. We can only speculate on the mechanisms for these improvements but they may include enhanced awareness and knowledge of MSK complaints by PC providers who regularly interact with PTs, improved diagnosis of MSK issues by co-precepting and warm-handoffs, and a "jump-starting" effect on PT made possible by preliminary interventions made at the time of the warm-handoff where PT providers can recommend home exercise programs and provide equipment.
+
+# INTERDISCIPLINARY COMMUNICATION PROJECT: USING GROUP LEVEL ASSESSMENT TO GUIDE HEALTHCARE SYSTEM IMPROVEMENT
+
+Ashley Jenkins1, 2; Andrew Arken3; Jennifer Jasmine E. Arfaa3; Danielle L. Clark; Katherine Clark1; Emily Dobbs1; Betina Lahbabi3; Brian May1, 2; Sriyutha Reddy1; Sana Rockwell3; Jamie Tu3; Danielle Weber1, 2; Katherine Clarke-Myers2. 1University of Cincinnati Medical Center, Cincinnati, OH; 2Cincinnati Children's Hospital Medical Center, Cincinnati, OH; 3UCHealth, Cincinnati, OH. (Control ID #3182299)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Communication failures amongst interdisciplinary internal medicine (IM) teams in the inpatient setting inhibit mutual understanding of care plans, increase the potential for medical error, and contribute to patient dissatisfaction.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Conduct a Group Level Assessment (GLA) to assess facilitators and barriers of effective communication within interdisciplinary inpatient IM teams 2. Use results from GLA to identify and prioritize development of future interventions to facilitate communication.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Efforts to enhance interdisciplinary collaborative teamwork within inpatient IM teams highlighted a critical need to address concerns related to communication among IM teams. We used GLA, a participatory qualitative method, to examine current barriers and facilitators of effective communication. GLA follows a structured process designed to engage diverse groups of stakeholders in the inquiry process. Our recruited stakeholders were IM faculty, residents, nurses and ancillary staff, patients/families, and care managers who work or have experienced care on inpatient IM teams at an 800-bed tertiary academic hospital. Participants attended discipline-specific GLA sessions. During the sessions, participants first responded individually to open-ended prompts addressing interdisciplinary communication (e.g. Ideal methods of communication include). Following generation of individual responses, participants worked in small groups to synthesize the qualitative data, identify key themes, and reach consensus on priority improvement areas.

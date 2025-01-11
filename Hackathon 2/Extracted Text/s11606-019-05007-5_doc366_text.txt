@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# CASE:
+
+A 42-year-old Caucasian male with a history of IV drug use, alcohol abuse, hepatitis B and C, esophageal varices, and cirrhosis presented to the ER with two days of diffuse chest pain, 10/10 in intensity, sharp, nonradiating, and constant, associated with dyspnea and fever. It worsened with inspiration and lying supine and improved with sitting upright. Physical examination revealed a temperature of 39.1°C, pulse of 121 beats/min, respiration rate of 20 breaths/min, and a blood pressure of 121/80 mmHg. Pulse oximetry on room air was 96% saturation. He appeared cachectic and chronically ill. Chest and cardiac auscultation revealed clear lungs, tachycardia with a regular rhythm, and no jugular venous distention, murmur, rub, or gallop. He had 2+ bilateral pitting edema to the knee and abdominal ascites. Complete blood count showed 19.2 x 103 WBC/uL and 109 x 103 platelets/uL. Troponin was elevated at 1.2 ng/mL. Electrocardiogram (EKG) showed diffuse ST elevations suggestive of pericarditis. CTA of the chest showed bilateral infiltrates concerning for pneumonia. Blood cultures were obtained and IV Vancomycin and IV Piperacillin/Tazobactam initiated. Transthoracic echocardiogram (TTE) revealed an ejection fraction of 65% and a moderate free-flowing pericardial effusion without evidence of tamponade. The patient underwent pericardiocentesis, 600 cc of cloudy fluid was removed, and a pericardial drain placed. Blood and pericardial fluid cultures returned positive for MRSA. IV Vancomycin was continued for MRSA bacteremia and purulent myopericarditis. Pericardial cytology returned negative. The patient left against medical advice (AMA) but returned a few days later for worsening ascites and chest pain. Repeat TTE showed a small pericardial effusion. Repeat blood cultures returned negative. A six-week course of IV vancomycin was planned but the patient again left AMA.
+
+# IMPACT/DISCUSSION:
+
+A PubMed search using the terms MRSA and myopericarditis resulted in only two case reports of MRSA bacterial myopericarditis: a 41-year-old male with community-acquired pneumonia and a 48-year-old male with an initial elbow abscess. If the clinician encounters a septic patient who meets diagnostic criteria for acute pericarditis, broad spectrum antibiotic therapy should be initiated, and a TTE obtained to determine need for pericardiocentesis. MRSA bacterial myopericarditis is a rare entity, however with the rise of IV drug use within the US, its incidence is likely to increase.
+
+# CONCLUSION:
+
+Bacterial pericarditis is an infrequent finding in areas with low prevalence of tuberculosis, and purulent pericarditis is rarely diagnosed, comprising <1% of all pericarditis cases. Patients meeting diagnostic criteria for pericarditis with positive cardiac biomarkers in the absence of ventricular dysfunction are further classified as having myopericarditis.
+
+# ACUTE INFLUENZA B-RELATED ENCEPHALOPATHY
+
+Merza Nooraldin1; Muath Alsharif2; Mais Abdou3; Mazin Saadaldin4; Tareq Naguib3. 1ttuhsc, Amarillo, TX; 2Texas Tech University Health Science Center, Amarillo, TX; 3TTUHSC, Amarillo, Amarillo, TX; 4NWTHS, TTUHSC, Amarillo, TX. (Control ID #3184711)
+
+# LEARNING OBJECTIVE #1:
+
+1-Discuss diagnostic criteria and clinical presentation of influenza-related encephalopathy. 2-To lower the threshold for diagnosing Influenza B-related encephalopathy in adults in the face of higher prevalence.
+
+# CASE:
+
+A 62-year-old male with prostate cancer treated with radiation therapy was admitted for hypertensive crisis with seizures and altered mental state. Although blood pressure improved, he deteriorated and developed oral apraxia. There was no cough, nasal discharge, sore throat, headache, arthralgia, or muscle aches. The temperature was 38.9°C, blood pressure 150/80 mmHg, pulse 106 beats/min, respiratory rate 21 breaths/min, and oxygen saturation 96% on room air. The Glasgow Coma Scale (GCS) score was 13 with eye opening 4 and verbal response 4. The rest of exam was unremarkable including normal pupillary reflexes and muscle tone of the neck. A nasopharyngeal swab was positive for influenza B rapid test, and Tamiflu was started, while spinal tap findings were all normal, including viral panels, ruling out meningoencephalitis. Subtle punctate acute cortical infarct involving both left parietal and right occipital lobes appeared on MRI along with old left lacunar thalamic infarct and EEG suggested encephalopathy, all consistent with influenza B-related acute encephalopathy. Due to brain damage and altered mentation, our patient was transferred to a skilled nursing facility upon discharge for rehabilitation and consideration for permanent placement.
+
+# IMPACT/DISCUSSION:
+
+Our patient was positive for Influenza B virus and met the diagnostic criteria of the Japanese research committee of influenza encephalopathy, which include severe impairment of consciousness with a sustained GCS score of 13 for more than 24 hours. The majority of cases are associated with influenza A in younger age but cases in adults are on the rise. Our case of influenza B-related encephalopathy in an older adult serves to raise awareness of this unusual condition.
+
+# CONCLUSION:
+
+Acute influenza B-related encephalopathy presents with various neurological complications but sharing common findings of seizure, fever and encephalopathy/encephalitis. The presence of influenza virus RNA in brain biopsy tissue, CSF, or even respiratory samples is diagnostic. The presence of brain lesions on MRI and influenza virus in CSF appear to be of prognostic value.
+
+# ACUTE KIDNEY INJURY: LOOKING BEYOND THE URINARY TRACT
+
+Carine Davila; Nicholas Iverson; Irina Kryzhanovskaya; Sarah Schaeffer. University of California, San Francisco, San Francisco, CA. (Control ID #3184723)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize gynecologic malignancy as a cause of obstructive uropathy in women
+
+# LEARNING OBJECTIVE #2:
+
+Identify appropriate imaging modalities to evaluate for malignancy in women with obstructive uropathy
+
+# CASE:
+
+A 62-year-old woman with no known past medical history arrived at the emergency department obtunded after being found down at home. A friend revealed she had not seen a doctor in 20 years. She lives alone and does not use substances. On exam, she is afebrile, tachycardic to 120, and hypertensive to 229/116. She was arousable but disoriented, without clonus or asterixis. Initial labs showed potassium 6.5 mEq/L, BUN 154 mg/dL, and Cr 31.2 mg/dL. A foley catheter was placed and drained 200 mL of light-yellow urine; urinalysis showed moderate blood and protein and urine toxicology was negative. Renal replacement therapy was initiated. A renal ultrasound after foley placement showed moderate bilateral hydronephrosis without apparent cause. A non-contrast CT abdomen/pelvis was performed to assess the cause of hydronephrosis, but noted only non-enlarged retroperitoneal lymphadenopathy, moderate ascites, and a uterine myoma. Ureteral stents were placed but failed to relieve the obstruction and the patient required bilateral nephrostomy tubes several days later. On hospital day five, a pelvic ultrasound was performed and showed endometrial thickening and an 8 cm calcified solid mass, concerning for malignancy. A cervical biopsy revealed squamous cell carcinoma; PET/CT demonstrated a hypermetabolic endometrial mass, abdominal carcinomatosis, and osseous metastases. The final diagnosis was cervical malignancy with retroperitoneal adenopathy causing bilateral complete obstructive uropathy, acute anuric renal failure, and uremic encephalopathy.
+
+# IMPACT/DISCUSSION:
+
+Though obstructive uropathy represents 10% of all cases of acute kidney injury (AKI), the incidence in women is one third to one half compared to men (Pichler 2010). Historically, a renal ultrasound is the first imaging study performed, as it can identify obstruction and at times an etiology of the obstruction. Licurse (2010) argues that this is not cost-effective given the low incidence of obstruction in all cases of AKI. When obstructive uropathy occurs in women, workup should include a prompt evaluation for malignancy, as it accounts for 72% of cases (Norman 1982). Renal ultrasound and CT abdomen/pelvis, as obtained in this case, do not always effectively evaluate for gynecologic malignancy.

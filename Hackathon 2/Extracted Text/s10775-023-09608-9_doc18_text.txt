@@ -1,0 +1,49 @@
+# International Journal for Educational and Vocational Guidance
+
+Guilbert, L., Bernaud, J.-L., Gouvernet, B., & Rossier, J. (2015). Employability: Review and research prospects. International Journal for Educational and Vocational Guidance, 16(1), 69–89. https://doi.org/10.1007/s10775-015-9288-4
+
+Gunawan, W., Creed, P. A., & Glendon, A. I. (2018). Development and initial validation of a Perceived Future Employability Scale for young adults. Journal of Career Assessment, 27(4), 610–627. https://doi.org/10.1177/1069072718788645
+
+Gliem, J. A., & Gliem, R. R. (2003). Calculating, interpreting, and reporting Cronbach’s alpha reliability Coefficient for likert-type scales. In Proceedings of the Midwest Research-to-Practice Conference in Adult, Continuing, and Community Education.
+
+Hair, J. F., Black, B., Babin, B., Anderson, R. E., & Tatham, R. L. (1998). Multivariate data analysis (6th ed.). Pearson Education Inc.
+
+Haukoos, J. S., & Lewis, R. J. (2005). Advanced statistics: Bootstrapping confidence intervals for statistics with “Difficult” distributions. Academic Emergency Medicine: Official Journal of the Society for Academic Emergency Medicine, 12(4), 360–365. https://doi.org/10.1197/j.aem.2004.11.018
+
+Hebbali, A., & Hebbali, M. A. (2017). Package ‘olsrr’. Version 0.5, 3.
+
+Jorgensen, T. D., Pornprasertmanit, S., Schoemann, A. M., & Rosseel, Y. (2021). semTools: Useful tools for Structural equation modeling. Retrieved from https://CRAN.R-project.org/package=semTools
+
+Kassambara, A. (2021). rstatix: Pipe-friendly framework for basic statistical tests (R package version 0.7.0)[Computer software].
+
+Kline, R. B. (2011). Principles and practice of structural equation modelling (3rd ed.). Guilford.
+
+Koen, J., Klehe, U.-C., & Van Vianen, A. E. M. (2013). Employability among the long-term unemployed: A futile Quest or worth the effort? Journal of Vocational Behavior, 82(1), 37–48. https://doi.org/10.1016/j.jvb.2012.11.001
+
+Lent, R. W., & Brown, S. D. (2020). Career decision making, fast and slow: Toward an integrative model of Intervention for sustainable career choice. Journal of Vocational Behavior, 120, 103–448. https://doi.org/10.1016/j.jvb.2020.103448
+
+Lent, R. W., Ezeofor, I., Morrison, M. A., Penn, L. T., & Ireland, G. W. (2016). Applying the social cognitive model of career self-management to career exploration and decision-making. Journal of Vocational Behavior, 93, 47–57. https://doi.org/10.1016/j.jvb.2015.12.007
+
+Li, C. H. (2016). Confirmatory factor analysis with ordinal data: Comparing robust maximum likelihood and diagonally weighted least squares. Behavioral Research Methods, 48(3), 936–949. https://doi.org/10.3758/s13428-015-0619-7
+
+Lent, R. W., Taveira, M. C., Pinto, J. C., Silva, A. D., Blanco, Á., Faria, S., & Gonçalves, A. M. (2014). Social cognitive predictors of well-being in African college students. Journal of Vocational Behavior, 84(3), 266–272. https://doi.org/10.1016/j.jvb.2014.01.007
+
+Llinares-Insa, L. I., González-Navarro, P., Zacarés-González, J. J., & Córdoba-Iñesta, A. I. (2018). Employability Appraisal Scale (EAS): Development and validation in a Spanish sample. Frontiers in Psychology, 9, 1437. https://doi.org/10.3389/fpsyg.2018.01437
+
+Lo Presti, A., De Rosa, A., & Zaharie, M. (2022). The route to employability: A longitudinal study on a sample of Italian job seekers. International Journal of Training and Development, 22, 227–246. https://doi.org/10.1007/s10775-021-09482-3
+
+Marko, K. W., & Savickas, M. L. (1998). Effectiveness of a career time perspective intervention. Journal of Vocational Behavior, 52(1), 106–119. https://doi.org/10.1006/jvbe.1996.1566
+
+Lo Presti, A., & Pluviano, S. (2016). Looking for a route in turbulent waters. Organizational Psychology Review, 6(2), 192–211. https://doi.org/10.1177/2041386615589398
+
+Lo Presti, A., Ingusci, E., Magrin, M. E., Manuti, A., & Scrima, F. (2019). Employability as a compass for Career Success: Development and initial validation of a new multidimensional measure. International Journal of Training and Development, 23(4), 253–275. https://doi.org/10.1111/ijtd.12161
+
+Moore, K. (2019). The quest for sustainable employment: Challenges faced by young people during the Job-Search Process. Australian Journal of Social Issues, 54(1), 91–108. https://doi.org/10.1002/ajs4.60
+
+R Core Team. (2022). R: A language and environment for statistical computing (version 4.1.2) [Computer Software]. R Foundation for Statistical Computing.
+
+Revelle, W., & Revelle, M. W. (2015). Package ‘psych’. The comprehensive R archive network.
+
+Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. Journal of Statistical Software, 48(2), 1–36. https://doi.org/10.18637/jss.v048.i02
+
+Rothwell, A., & Arnold, J. (2007). Self-Perceived Employability: Development and validation of a scale. Personnel Review, 36(1), 23–41. https://doi.org/10.1108/00483480710716704

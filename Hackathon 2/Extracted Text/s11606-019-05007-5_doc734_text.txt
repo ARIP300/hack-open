@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# NEEDS AND OBJECTIVES:
+
+Recent AAMC data shows that two-thirds of medical schools are currently undergoing or planning substantial curriculum changes. During periods of curricular change, it is desirable to track assessment outcomes to inform leadership of possible negative impacts to students during the transition. We used NBME subject exam scores and pass rates to study how moving from a traditional clerkship model to integrated clinical blocks affected student acquisition of medical knowledge.
+
+# SETTING AND PARTICIPANTS:
+
+The Legacy Curriculum at University of Wisconsin School of Medicine and Public Health followed the standard medical school educational model, including traditional, department-based, clinical clerkships that students entered after 2 years of preclinical basic science curriculum. The school transitioned to the ForWard Curriculum in 2016 and this cohort of students entered new integrated clinical experiences in January 2018 following 18 months of integrated preclinical basic science curriculum. We integrated our Neurology and Psychiatry clinical experiences with Internal Medicine in a new course entitled Acute Care. Family Medicine and Ambulatory Internal Medicine are integrated in Chronic and Preventive Care. OBGYN and Pediatric experiences are integrated in Care Across the Life Cycle. Surgery, Anesthesia, and other procedural specialties are integrated in Surgical and Procedural Care. Finally, we integrated clinically oriented basic science curriculum with the clinical experiences.
+
+# DESCRIPTION:
+
+We compared NBME subject exam scores and passing rates between the final cohort of Legacy M3 students and first cohort of ForWard students for Adult Ambulatory Medicine, Medicine, Neurology, OBGYN, Pediatrics, Psychiatry, and Surgery. Institutional passing thresholds were not changed.
+
+# EVALUATION:
+
+NBME scores and passing rates to date for the ForWard Curriculum cohort demonstrate no statistically significant differences from those of the Legacy cohort (p>0.05). We do not find substantive negative effects to student acquisition of medical knowledge during the transition period to the integrated curriculum.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Medical schools undergoing substantial curricular transformation can be reassured that integration of specialties and reduction of preclinical curricular time does not affect NBME subject exam scores. We will continue to collect data comparing the ForWard and Legacy curriculum students, including NBME Step 1 score comparison, to provide more information about how our integration affects acquisition of medical knowledge.
+
+# DESCRIPTION:
+
+We developed and incorporated an 11-hour "opioid epidemic" themed inter-clerkship week, part of a larger 4-year longitudinal "Addressing Substance Use Curriculum", within an allopathic medical school. The themed week included three first-person perspective panel discussions (1. patient in recovery; 2. families dealing with addiction/loss; 3. healthcare professionals in recovery), and six dynamic skills-based workshops (1. opioid overdose prevention/Naloxone rescue; 2. judicious prescribing guidelines; 3. alternatives to pain mgmt.; 4. assessment/diagnosis of opioid use disorder; 5. medications for addiction treatment (MAT); 6. landscape of addiction treatment services). To cap off the week, a team-based interactive session was held to encourage learners to formulate better processes using quality improvement science/tools. With over 55 faculty/facilitators representing 25 clinical and non-clinical departments, the interprofessional interdisciplinary approach we were able to execute served to reinforce the reality that the current opioid crisis spans every discipline and aspect of healthcare.
+
+# EVALUATION:
+
+Learners: pre-/post- (n= 86/82) short-answer quizzes, and qualitative/quantitative surveys consisting of Likert scaled questions and open ended questions to assess knowledge, attitudes, and perceived skills. Quantitative survey data was analyzed using t-tests. Faculty/facilitator: post-session surveys to comment on quality and perceived effectiveness, and overall general feedback.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Learner post-: 95% Know 2+ options for MAT (Pre: 27%); 95% Know 2+ DSM criteria for Opioid Use Disorder (Pre: 53%); 91% Know 3+ signs of an overdose (Pre: 65%) Learner: "Issues and problems facing the community were raised (opioid crisis) but we weren't left with a cliff hanger, we were brought through the process of diagnosing, recognizing, understanding the patient, and treatment." Faculty: "I was quite impressed and genuinely moved. The quality of the students was outstanding, and their commitment to the greater good was evident in their thoughtful participation. It was obviously a milestone in med school education, and you should be very proud."
+
+# OUR "RIGHT TO HEALTH": SELF-GUIDED EXPERIENTIAL LEARNING IMPACTS INTERNAL MEDICINE RESIDENTS ATTITUDES AND BELIEFS ABOUT OF SOCIAL DETERMINANTS OF HEALTH IN AN UNDERSERVED PRIMARY CARE SETTING.
+
+Stacie Schmidt. Emory University, Atlanta, GA. (Control ID #3184907)
+
+# OPIOID CRISIS: DIVERSIFYING MEDICAL SCHOOL CURRICULA IN RESPONSE TO THE CRIES OF OUR COMMUNITIES
+
+Sandeep Kapoor1, 2; Melissa Pawelczak2; Bruce Goldman3, 2; Laura Harrison 1; Lauren Block 1, 2; Joseph Conigliaro 1, 2; R. Ellen Pearlman 2.
+
+1Northwell Health, New Hyde Park, NY; 2Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY; 3Northwell Health-Zucker Hillside Hospital, Glen Oaks, NY. (Control ID #3185869)
+
+# NEEDS AND OBJECTIVES:
+
+We are amidst of a large-scale epidemic that impacts our patient population and communities with no sense of discrimination or short-term relief. The misuse and abuse of alcohol, illicit and prescribed opioids, has motivated important dialogue throughout the Nation, our State, our homes, our workplaces, our health system and medical school. Transparently inventorying health professional training, it is apparent that little time is dedicated to develop basic competencies, yielding discomfort, lack of training and experience, manifesting as barriers to addressing substance use.
+
+# SETTING AND PARTICIPANTS:
+
+The newly designed curriculum was delivered to third year (MS3) students in an allopathic medical school during an inter-clerkship themed week.
+
+# NEEDS AND OBJECTIVES:
+
+1. Introduce learners to social determinants of health through experiential activities highlighting disparities in the healthcare experience.
+2. Create opportunities for learner self-reflection about their knowledge and attitudes regarding social determinants of health.
+3. Inspire learners, in a self-directed manner, to learn about local community resources that address social determinants of health.
+
+# SETTING AND PARTICIPANTS:
+
+Our Primary Care Center (PCC) is an academic, safety net, hospital-based clinic accommodating 70,000 visits a year to uninsured low-literacy patients. It serves as the main continuity clinic site for more than 130 Internal Medicine residents. Many disparities exist in managing chronic disease among poorer individuals, including decreased access to healthy foods, homelessness, low health literacy, and difficulty navigating large hospital systems. A survey of resident physicians found significant self-identified gaps in preparedness to provide cross-cultural care; education of residents is needed to promote consideration of patients' social and cultural barriers in managing disease and navigating the healthcare system.
+
+# DESCRIPTION:
+
+We designed an ambulatory experiential module to help Internal Medicine residents at an urban safety-net institution better understand how social constructs hinder the patients' health in the primary care setting.

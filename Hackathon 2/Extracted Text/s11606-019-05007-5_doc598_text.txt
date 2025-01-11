@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Improving Pharmacotherapy for Alcohol Use Disorder (AUD)
+
+secondary objective was to educate patients, physicians, nurses and pharmacists about AUD pharmacotherapy.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+At our safety net hospital, 28% of hospitalized patients have a substance use disorder. AUD accounts for 54% of these disorders. Furthermore, AUD is among the top 5 diagnoses with the highest 30-day readmission rates (18.9%) in our hospital. Despite this prevalence, for our inpatient resident-led Internal Medicine teams, only 10 patients per month were receiving prescriptions for treatment of AUD at discharge; reaching less than half of eligible and interested patients already being screened by nurses on the Alcohol and Tobacco Treatment Team (ATTT). The ATTT is an existing nursing-led team that aims to advise physicians on the need for pharmacotherapy for patients with active alcohol and tobacco use disorders. In response to an institution-wide quality improvement incentive program, a team of Internal Medicine residents, nurse leader and a faculty hospitalist partnered with the ATTT to increase the number of patients with AUD who were prescribed medication assisted treatment (MAT) at discharge. We collaborated on an algorithm to expand pharmacologic options available for MAT beyond our institution's previous naltrexone-only approach. Educational interventions included monthly addiction medicine didactics and widely disseminated educational materials. We also shadowed the ATTT nurses and obtained their input on how to better integrate resident and ATTT workflow. We also provided biweekly updates to housestaff on the number of prescriptions for AUD treatment stratified by medical team to foster healthy competition. Residents will receive a small financial incentive if a pre-specified target of 15 patients per month is discharged with a prescription for AUD treatment six out of twelve months of the year.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Our primary measure was the number of patients discharged with a prescription for treatment of AUD at hospital discharge.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Two months after the initiation of our project, the number of patients discharged from our resident-led Internal Medicine service with a prescription for treatment of AUD has increased from average of 10 to 19 patients per month. Findings from subsequent months will be incorporated.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A multidisciplinary partnership to improve AUD treatment can effectively increase prescribing of pharmacotherapy two months after implementation in a safety-net urban hospital. Key interventions included an educational campaign, working with the ATTT to expand MAT for AUD and incentivizing resident physicians to prescribe medication for treatment of AUD among patients eligible and interested in treatment.
+
+# A NEW DISCHARGE INSTRUCTION TEMPLATE: IMPROVING SAFE DISCHARGES ON THE CLEVELAND CLINIC INTERNAL MEDICINE TEACHING SERVICES
+
+Megan A. McGervey1; Jessica Donato2. 1Cleveland Clinic Foundation, Lakewood, OH; 2Cleveland Clinic, Beachwood, OH. (Control ID #3186336)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Decreasing hospital readmissions has been a major focus nationally and locally over recent years. Multiple strategies within the discharge process have been shown to impact readmission rates with a cumulative effect. The discharge instructions utilize templates and thus provide an opportunity to embed multiple evidence-based components into standard practice. We sought to improve the safety of hospital discharges and reduce readmission rates by developing a novel discharge instruction template on the general medicine teaching services, which hardwires multiple safe discharge practices.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Objectives of the intervention were to identify components of safe discharges that could be improved on teaching services, create a new discharge instruction template that hardwires components with low metrics, and improve safe discharges, patient/physician communication, and reduce readmissions to the hospital.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Quality Improvement (QI) project to improve the quality of discharges from the internal medicine teaching services was undertaken starting September 2017 at a large academic medical center. Current state was assessed by reviewing discharges from four teaching service teams and collecting surveys from 48 Internal Medicine senior second and third year residents. Prior to our intervention, residents failed to comply with several components of a safe discharge including confirming the patient's primary care provider (PCP), performing medication reconciliations, follow up information after discharge, and providing patients with customized instructions for their aftercare. A new discharge instruction template was created, requiring residents to confirm the patient's PCP, make follow-up appointments, create customized bulleted instructions, and provide patients with specific anticipatory guidance and instructions on who to contact after discharge.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Process measures included PCP confirmation, creation documentation of follow-up appointments, inclusion of customized bulleted instructions and documentation of specific anticipatory guidance in the discharge instructions. Readmission rates are being collected as an outcome measure.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Forty-one discharges on the general medicine teaching service over one week were studied prior to the intervention. The discharge summary template has been rolled out to four teaching services over the course of this nine-month project with variable compliance from medicine trainees. After the intervention, PCP confirmation increased from 71% to 100%, follow-up appointments from 20% to 83%, detailed discharge anticipatory guidance from <10% to 100% and bulleted discharge instructions from 58.8% to 100%, and detailed discharge anticipatory guidance from <10% to 100%.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+By hardwiring several components of a safe discharge into the discharge template that were frequently overlooked by residents previously, we have improved safe discharges showing that these changes can be successfully implemented based on needs at other facilities.
+
+# A NEW VISION FOR DIABETIC RETINOPATHY: FACILITATING SCREENINGS USING OPHTHALMOLOGY ECONSULTS
+
+Kim Dowdell3, 1; Samuel Collins1; Arjun Dirghangi2; Kerry N. Cotter1; Ira Helenius. 1University of Virginia, Charlottesville, VA; 2UVA, Charlottesville, VA; 3 University of Virginia, Charlottesville, VA. (Control ID #3185134)

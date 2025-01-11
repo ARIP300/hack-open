@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# CONCLUSION:
+
+Clinicians treating patients with immune checkpoint inhibitors should maintain a high index of suspicion for development of autoimmune disorders. Literature on the use of PD-1 inhibitors in HIV patients is limited and warrants further investigation. To our knowledge, this is the first reported case of T1DM following PD-1 inhibition in a patient with HIV on HAART therapy. Such patients are predisposed to immune reconstitution, and response to PD-1 inhibition may potentiate risk for autoimmune complications. Therefore, higher clinical suspicion for irAEs is merited in patients with HIV on PD-1 inhibitors.
+
+# CHEST AND BACK PAIN WITHOUT ABDOMINAL PAIN AS AN INITIAL SYMPTOM OF ACUTE CHOLECYSTITIS
+
+Risa Hirata; Masaki Tago; Hidetoshi Aihara; Motoshi Fujiwara; Shun Yamashita; Naoko E. Katsuki; Shu-ichi Yamashita. Saga University Hospital, Saga city, Japan. (Control ID #3147145)
+
+# LEARNING OBJECTIVE #1:
+
+Acute cholecystitis can develop only with chest pain at the site of sternal bone and back pain without abdominal pain.
+
+# CASE:
+
+A 64-year-old man was transferred by ambulance to our hospital because of sudden-onset clamping chest pain in the lower half of his sternal bone, upper back pain, vomiting, and cold sweating at rest. On admission, he was alert and had a blood pressure of 127/81 mmHg, regular pulse rate of 70 beats/min, respiratory rate of 20 breaths/min, and SpO2 of 94%. The only abnormality on physical examination was spontaneous and percussion pain in the lower half of the sternal bone; no other signs of acute cholecystitis were present, such as abdominal tenderness, muscular guarding, or Murphy's sign on his abdomen. Laboratory findings on admission including complete blood count and hepatobiliary enzyme were normal except for slightly elevated CRP of 1.08 mg/dL. Echocardiography and cardiac ultrasonography findings were normal. Abdominal ultrasonography only showed debris and slight thickening of the gallbladder wall. Abdominal computed tomography (CT) failed to reveal any abnormalities at that time. However, thoracic and abdominal CT was repeated 8 hours after admission because of persistent pain showing findings of acute cholecystitis such as thickness, a low-density area, and enhancement of the gallbladder wall. No abnormality of the common bile duct or intrahepatic biliary tract was found on magnetic resonance cholangiopancreatography. Although the patient's chest pain disappeared on the second hospital day, a fever and percussion tenderness on the liver appeared without Murphy's sign. The CRP level increased to 11.0 mg/dL. He was successfully treated by ampicillin/sulbactam and discharged from our hospital on the 10th hospital day.
+
+# IMPACT/DISCUSSION:
+
+What does this case add to the literature? This case suggests that acute cholecystitis can develop only with chest pain without typical abdominal signs or abnormalities on imaging studies in the early phase of the disease.
+
+# CONCLUSION:
+
+Acute cholecystitis presenting only as chest pain without epigastric or right hypochondrial pain is rare. Verdon et al. reported that only 1 of 672 patients who visited outpatient clinics for evaluation of chest pain had acute cholecystitis. The chest pain in our patient was likely to be referred pain. Pain from abdominal viscera is transmitted through the greater splanchnic nerve arising from T5 to T10, which could cause pain at the same dermatome level. Our patient complained of pain in the lower part of the sternal bone innervated by T5 to T7, which was compatible with referred pain from acute cholecystitis. In conclusion, acute cholecystitis can begin only with chest pain, which is likely to be referred pain, without typical abdominal signs or abnormalities on imaging studies in the early phase of the disease.
+
+# CHIKUNGUNYA "FEVER" IN AN AFEBRILLE TROPICAL TRAVELER WITH INTRACTABLE BACK PAIN
+
+Kyle Macaulay; Ian Garrahy; Jesse Sengillo. Tower Health System, Wyomissing, PA. (Control ID #3186386)
+
+# LEARNING OBJECTIVE #1:
+
+Chikungunya fever can present in many ways which often leads to a missed or delayed diagnosis.
+
+# LEARNING OBJECTIVE #2:
+
+With the history of recent travel to a tropical island, Chikungunya fever should be considered as a diagnosis even with an atypical presentation.
+
+# CASE:
+
+Chikungunya fever is an arthropod-borne virus with prevalence up to 70% in some hyperendemic countries, and has recently spread to North America since its identification in Caribbean countries in late 2013. Diagnosis can be delayed or missed as the presentation varies from asymptomatic to typically severe arthralgias, high-grade fever, and maculopapular rash to chronic arthritis and death. A 57-year-old female presented to the emergency department with five days of flu-like symptoms, severe mid-thoracic back pain, and a transient urticarial-like rash after returning from Jamaica three weeks prior. She reported no sick contacts. The patient was afebrile with stable vital signs. She exhibited tenderness to palpation of the lumbar spine, and had no evidence of conjunctivitis or lymphadenopathy. Labs were significant for sodium of 123 mEq/L, lymphocytic-predominant leukocytosis of 16,200/uL with 17% atypical lymphocytes, and a mild transaminitis (AST 78 units/L, ALT 100 units/L). MRI of the lumbar and thoracic spine was unrevealing. Serology for chikungunya IgM antibody was unequivocally high with 1.54 IV (normal: <1.1 IV) and undetectable IgG antibodies. Titers were negative for CMV, HIV and dengue. Patients with non-classic presentations and recent travel to endemic areas should have Chikungunya fever considered as part of their differential. While most common presentations will include fever and debilitating joint pain, Chikungunya fever should be considered even in the absence of in-hospital fever when either peripheral or axial joints are involved.
+
+# IMPACT/DISCUSSION:
+
+Chikungunya fever most commonly presents with severe arthralgias, high-grade fever, and maculopapular rash. It should be considered even in those who are afebrile but who have joint pain and a tropical travel history.
+
+# CONCLUSION:
+
+Chikungunya fever is an arthropod-borne virus which has recently spread to North America since its identification in Caribbean countries in late 2013. Its increasing prevalence and varied presentations make it a diagnosis that should be considered when a traveler presents with joint pain.
+
+# CHRONIC ALCOHOL ABUSE: AN UNUSUAL PRESENTATION OF ANEMIA
+
+Benjamin Yao1; Kunal Patel2, 1; Calen Frolkis2, 1. 1Case Western Reserve University, Cleveland, OH; 2MetroHealth Medical Center, Cleveland, OH. (Control ID #3185757)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose and manage complications of acute/chronic alcohol abuse.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the classic triad of Zieve's syndrome.
+
+# CASE:
+
+A 39-year-old female with a past medical history of chronic alcohol abuse, hyperlipidemia, and cirrhosis presents for readmission with swelling of the abdomen/lower extremities and worsening jaundice. She was admitted and discharged 2 weeks ago for jaundice and new acute anemia (Hgb 4.6g/dL, Hematocrit 13.3%) after consuming 4 drinks a night for 2 weeks; suspected to be decompensated cirrhosis secondary to alcohol abuse with alcoholic hepatitis and iron deficiency anemia. The patient received 4 units of packed RBCs and started on 4-week Prednisolone 40 mg daily regimen, vitamin repletion, and instruction for alcohol cessation. On readmission, the patient endorsed alcohol relapse and found.

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Correlations and Determined Factors
+
+We fit graded response models to obtain item characteristic curves (ICC). We assessed construct validity using Cohen's d for correlations (small effect size defined as r=0.100; medium effect size r=0.243; and large effect size r=0.371). We fit a bifactor model to evaluate whether there was support for an overall 12-item ACE score. Analyses were done with SAS, version 9.3 (SAS Institute), and the R Statistical Computing Environment (Vienna, Austria).
+
+# RESULTS
+
+Participants (n=515) had a median age of 58; 56% were female; 17% Hispanic, 83% non-Hispanic (46% White, 15% African American, 19% Asian/Pacific Islander, 1% Native American, 19% Other). The scree plot and Tucker and Lewis reliability coefficient (0.95) suggested 3 underlying factors: "Commitment to Health"; "Doctor Choice"; and "Learning About Health". Patients with a high school education or lower were less activated on the commitment scale (r=0.352, p=0.002), choice scale (r=0.333, p=0.008), and overall ACE score (r=0.301, p=0.011). Baseline A1c was not correlated with activation. Depressive symptom scores correlated with our revised commitment scale and the overall score. Specifically, those who scored 5 or higher on the PHQ-9 had lower commitment scale scores (r=0.352, p=<0.001) and lower overall ACE score (r=0.222, p=0.012). Patient-reported health had a large correlation with patient activation (r=0.590, p=<0.001). Patients who reported that their health was less than "very good" scored lower on the commitment scale (r=0.375, p=<0.001) and learning about health (r=0.266, p=<0.001). The bifactor model provided support for an overall ACE score, though more work needs to be completed in this area.
+
+# CONCLUSIONS
+
+Our analyses of the ACE measure in prediabetes suggest it is generally psychometrically sound. This study contributes to the literature by expanding the validity of open-source tools that measure patient engagement, as an alternative to existing proprietary options.
+
+# PSYCHOSOCIAL DISTRESS IN ONCOLOGY PATIENTS IN THE SAFETY-NET: IDENTIFYING POPULATIONS AT RISK
+
+Theora B. Cimino1; Margot Albert1; Kiana Said2; Leslie Safier2; Anne Kinderman2; Heather Harris2. 1University of California at San Francisco, San Francisco, CA; 2San Francisco General Hospital, San Francisco, CA. (Control ID #3138442)
+
+# BACKGROUND
+
+Heightened distress levels can lead to adverse outcomes in cancer patients, including decreased satisfaction with care, poorer adherence to recommended therapy, and diminished quality of life. Studies on distress screening among cancer patients have largely focused on Caucasian, English speaking, and relatively affluent patient populations. The purpose of this study is to examine the prevalence, predictors, and experience of psychosocial distress among cancer patients within a diverse, urban, and multi-lingual safety-net setting and to assess distress level and ability to access supportive resources at follow up.
+
+# METHODS
+
+Participants included a cross-sectional sample of cancer patients age 18 at a medical oncology clinic at an urban public hospital, between December 2014 and June 2016, who completed distress screening at their first oncology visit. Distress levels and sources of distress were obtained using a modified version of the National Comprehensive Cancer Network (NCCN) distress thermometer (a 0-10 scale, 10 = extreme distress) and problem list. Demographic data were abstracted by review of medical records. Patients who reported moderate to severe levels of distress were contacted for telephone follow up 1-12 months after initial screening to reassess distress levels and ability to access referred resources.
+
+# RESULTS
+
+200 of 317 eligible patients (63%) completed psychosocial distress screening and were included in the study. Of screened patients, 61% reported clinically significant distress scores. Results from logistic regression analysis indicated that identifying as African-American, having a history of psychiatric illness, and reporting problems with money, worry, sleep, memory or homelessness were associated with higher self-reported psychosocial distress. Cantonese/Mandarin-speaking patients reported lower levels of psychosocial distress compared to other groups. Telephone follow up was completed for 39 (42% of eligible patients) and showed a decrease in distress scores from a mean of 6.5 at initial screening to 4.5 at follow up. At follow up, patients utilized only 44% of referrals to supportive services made at the initial visit. 54% of patients cited barriers to access - such as lack of knowledge of the referral, not hearing back from the resource, or needing more information - as the reason they did not utilize a particular service.
+
+# CONCLUSIONS
+
+Our cohort had a greater prevalence of significant psychosocial distress than most other studied populations, with persistently elevated distress levels and difficulty accessing supportive services at follow-up. Our study identifies groups that may be at higher risk for clinically significant distress and persistent distress, and suggests that closer follow-up and assistance for patients who report high distress levels may be needed.
+
+# PURPOSE IN LIFE AND LIFE SATISFACTION MODERATE THE ASSOCIATION BETWEEN MULTIMORBIDITY AND SOCIAL PARTICIPATION AMONG U.S. MIDDLE-AGED AND OLDER ADULTS
+
+Jamie Luster1; David Ratz2; Melissa Y. Wei1, 3. 1University of Michigan, Ann Arbor, MI; 2Veterans Affairs Ann Arbor Healthcare System, Ann Arbor, MI; 3Institute for Healthcare Policy and Innovation, University of Michigan, Ann Arbor, MI. (Control ID #3179961)
+
+# BACKGROUND
+
+High social participation is associated with improved happiness, health-related quality of life (HRQOL), lower chronic disease incidence, and all-cause mortality. Multimorbidity is associated with low physical and mental HRQOL; one potential mechanism may be through low social participation. We aimed to quantify the association between multimorbidity and social participation and identify potential moderators: purpose in life, and life satisfaction.
+
+# METHODS
+
+Participants were noninstitutionalized US adults 51 years of age from the Health and Retirement Study (N=20918). Multimorbidity was quantified through a validated Multimorbidity-Weighted Index (MWI) that weights self-reported chronic conditions by physical functioning. MWI was examined as a time-varying predictor biennially between 2010-2014 and divided into quartiles (lower score indicated lower multimorbidity). Social participation was a continuous composite score of the frequency of participation in 21 activities in 2014 (range 21-147, lower score indicated more frequent participation in more activities). We used multiple linear regression to examine the association between MWI and social participation, adjusting for age, sex, race/ethnicity, education, employment status, household net worth, and marital status. We examined purpose in life (range 1-6, low to high) and life satisfaction (range 1-7, low to high) as effect measure modifiers for the association between MWI and social participation.
+
+# RESULTS
+
+The final sample included 7529 participants with complete exposure and outcome data. Participants had a mean MWI of 7.9 (SD 6.5), social participation score of 101.4 (SD 16.1), purpose in life score of 4.5 (SD 1), and life satisfaction score of 5.0 (SD 1.5). The most frequently reported activities were watching television, reading, and using a computer. In the adjusted model, highest MWI quartile participants reported the lowest social participation ( =2.8, 95%CI=1.8-3.8) compared to those in the lowest MWI quartile, equivalent to participating in 1 less activity weekly. There were significant interactions between MWI and purpose in life (p=0.004) and MWI and life satisfaction (p=0.04). For all quartiles of MWI, participants with high purpose in life or life satisfaction scores had significantly greater social participation compared to those with low scores. For those in the highest MWI quartile, having high purpose in life or life satisfaction amounted to an additional 1 activity weekly.
+
+# CONCLUSIONS
+
+High multimorbidity using a validated MWI is associated with low social participation among middle-aged and older adults. This relationship was modified by both strong purpose in life and high life satisfaction, which each buffered against lower social participation among adults with any degree of multimorbidity.

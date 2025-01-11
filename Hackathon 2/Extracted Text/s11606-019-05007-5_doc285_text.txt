@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# THE RELATIONSHIP OF LONELINESS TO SYMPTOM BURDEN, INTENSITY OF CARE, AND ADVANCE CARE PLANNING AT END OF LIFE IN OLDER AMERICANS
+
+Nauzley C. Abedini; HwaJung Choi; Melissa Y. Wei; Kenneth Langa; Vineet Chopra. University of Michigan, Ann Arbor, MI. (Control ID #3156831)
+
+# BACKGROUND:
+
+Lonely adults are prone to a variety of poor health outcomes, including accelerated functional and cognitive decline, depression, and premature death. As a result, lonely adults may be prone to higher health-related suffering, triggering increased healthcare utilization and possibly undesired aggressive care, particularly as they approach end of life (EOL). However, little is known about the EOL experience of this population. We aimed to quantify the relationship of loneliness to symptom burden, intensity of care, and advance care planning in older adults at EOL.
+
+# METHODS:
+
+We conducted a pooled cohort analysis of lonely and not lonely decedents in the Health and Retirement Study (HRS) from 2004 to 2014, a nationally representative study of individuals over the age of 50. Proxy informants were interviewed regarding decedents' EOL experience within 2 years of a participant's death. We defined loneliness using the 3-item Revised University of California Los Angeles (R-UCLA) Loneliness Scale derived from a decedent's most recent HRS interview prior to death. We assessed baseline characteristics of lonely versus not lonely individuals, including demographics, socioeconomic status, multimorbidity, depressive symptoms, and measures of social network (including partner status) and social connection (reliance on others for support). We used multivariable logistic, ordinary least squares, and negative binomial regression where appropriate to examine the independent association between loneliness and (1) total symptom burden in the last year of life; (2) measures of intense EOL care; and (3) advance care planning.
+
+# RESULTS:
+
+Of 3,065 decedents, 33% were lonely. Loneliness was independently associated with total symptom burden at EOL (ß = 0.16, 95% CI 0.05-0.28; p=0.005), after adjusting for demographics, socioeconomic status, multimorbidity, depressive symptoms, and measures of social network and social connection. Lonely decedents had higher odds of receiving life support in the last 2 years of life (AOR 1.52, 95% CI 1.03-2.24; p=0.03). However, loneliness did not have an independent association with other measures of EOL care intensity, including place of death, hospitalizations, ICU admissions, nursing home utilization, or hospice use. Lonely individuals had higher odds of engaging in EOL care discussions with their next of kin (AOR 1.70, 95% CI 1.13-2.54; p=0.01) and assigning a durable power of attorney (DPOA) (AOR 1.51, 95% CI 1.01-2.24; p=0.04), but had similar rates of documenting discussions and participating in EOL decisions.
+
+# CONCLUSIONS:
+
+Lonely older adults suffer from increased symptoms at EOL despite higher advance care planning and similar, if not higher, EOL healthcare utilization. These associations were independent of objective social network and social connection. Targeted interventions for lonely individuals are needed to improve EOL care and quality of life.
+
+# THE RELATIVE CONTRIBUTIONS OF HOSPITAL VS. SKILLED NURSING FACILITY QUALITY ON PATIENT OUTCOMES
+
+Paula Chatterjee1; Mingyu Qi1; Rachel M. Werner2. 1University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania and Philadelphia VA, Philadelphia, PA. (Control ID #3185716)
+
+# BACKGROUND:
+
+Medicare will begin financially penalizing skilled nursing facilities (SNFs) with higher-than-expected readmission rates. Despite enthusiasm for the goal of reducing unnecessary readmissions from SNFs, some have raised questions about whether SNF readmissions are truly under the control of SNFs or whether they are more likely attributable to the quality of care received at the hospital from which the patient was discharged. We compared the relative contributions of hospital and SNF quality on readmission rates while controlling for unobserved patient characteristics.
+
+# METHODS:
+
+We performed a retrospective cohort study of Medicare beneficiaries with two hospitalizations followed by SNF admissions from 2010-2014. We divided beneficiaries into two groups: (1) patients who went to different hospitals but were discharged to the same SNF after both hospitalizations; and (2) patients who went to the same hospital but were discharged to different SNFs. The primary exposure was hospital-level and SNF-level quality, using a lagged measure of 30-day risk-standardized readmission rates for each. We estimated the risk-adjusted probability of readmission in the two groups of patients using a linear probability model with patient-level fixed effects.
+
+# RESULTS:
+
+We identified 232,243 patients who changed hospitals but not SNFs, and 276,095 who changed SNFs but not hospitals. We found that patients who went to the lowest-performing quartile of hospitals (highest risk-standardized readmission rate) had a 1.5% higher likelihood of readmission (p<0.001) compared to patients who went to the highest-performing hospitals (lowest risk-standardized readmission rate). In contrast, SNF performance had a larger impact on the likelihood of patient readmission. Patients who went to the lowest-performing SNFs had a 3.1% higher risk of readmission (p<0.001) compared to patients who went to the highest-performing SNFs.
+
+# CONCLUSIONS:
+
+The association between SNF quality and patient outcomes was larger than the association between hospital quality and patient outcomes among post-acute care patients. Holding post-acute care providers accountable for their quality may be an effective strategy to improve SNF quality and prevent readmissions among a comorbid and costly patient population. While some policymakers have raised concerns about the magnitude of post-acute care expenses, there may be a benefit to patients by prioritizing high quality post-acute care.
+
+# THE RETIREMENT MILESTONE: HOW CAN WE HELP OLDER ADULTS MAKE THE TRANSITION?
+
+Jennifer Shiroky; Chirstine Caufield-Noll; Alicia I. Arbaje. Johns Hopkins Bayview Medical Center, Baltimore, MD. (Control ID #3185125)
+
+# BACKGROUND:
+
+Healthcare providers are in a unique position to help older adults transition into and optimize their health in retirement, yet there are few guidelines to assist providers. Over 40 million adults are approaching retirement; this major life milestone often leads to significant changes in psychological, social, financial, and physical dimensions of health. The objective of this study was to conduct a scoping review of

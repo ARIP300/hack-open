@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+VZV vasculopathy occurs in both immunocompetent and immunocompromised hosts. Up to 40% of patients present without the characteristic rash, and up to 33% lack CSF pleocytosis. Brain imaging nearly always shows pathology, including ischemic or hemorrhagic lesions involving large or small cerebral arteries. CSF VZV IgG is more sensitive than VZV DNA by PCR, which is only elevated transiently. In our case, CSF VZV IgG was likely undetected due to hypogammaglobulinemia in a severely immunocompromised host. However, detection of CSF VZV DNA secured the diagnosis. Overall, a comprehensive assessment of changes in mental status in an immunocompromised host must include a work-up for neuro-infectious processes, including VZV vasculopathy.
+
+# CONCLUSION:
+
+Altered mental status in an immunocompromised patient should include neuro-infectious etiologies such as VZV vasculopathy. Evaluation for VZV vasculopathy includes brain imaging and detection of either VZV IgG (more sensitive) or VZV DNA in CSF (more specific).
+
+# VEGETABLES &GT; VEGETATIONS
+
+Zhihang Zhang1; Alexander Gipsman1; Sarah W. Baron2; Daniel Sims3. 1Montefiore Medical Center, New York, NY; 2Montefiore, Bronx, NY; 3Montefiore Medical Center, BRONX, NY. (Control ID #3181225)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize bilateral infective endocarditis as extremely rare without prior cardiac disease or risk factors.
+
+# CASE:
+
+A 41-year-old man with past history of uncontrolled T1 Diabetes complicated by toe amputations, presents to the hospital in DKA with a concurrent chronic right foot ulcer with cellulitis. The patient had no history of intravenous drug use. MRI demonstrated osteomyelitis, and blood cultures were positive for methicillin-sensitive Staphylococcus aureus (MSSA). The patient was treated with IV nafcillin, however remained bacteremic for a total of 9 days despite appropriate antibacterial therapy, with 3 days of bacteremia post source control with bone debridement. Transthoracic echocardiography suggested a mobile structure attached to the interventricular septum below the left ventricular outflow tract (LVOT) measuring 0.9 x 0.3cm. Transesophageal echocardiography was performed to further characterize the pathology and assess for abscess, and discovered two distinct areas of vegetation, one in the left ventricle attached to the septum and an additional lesion in the right ventricle near the tricuspid annulus measuring 1.5cm x 1.2cm with possible abscess formation. CT imaging of the chest showed septic emboli in the lungs. During the hospital course, he developed a right wrist abscess due to septic emboli, and his foot was debrided for source control. Cardiac MRI for surgical planning confirmed bilateral vegetations. He then underwent removal of the vegetations in the right ventricle with repair of the tricuspid valve, with an uneventful recovery and discharge.
+
+# IMPACT/DISCUSSION:
+
+Bilateral endocarditis without prior cardiac pathology, prosthetic valve, vascular access, or IV drug use is extremely rare. The majority of infective endocarditis cases involve the left sided system alone, while right sided endocarditis is most associated with venous access infections. One retrospective review of infective endocarditis in patients without IV drug use over 14 years at one center showed that 39 (16%) were right sided and 204 (84%) were left sided. Of the right sided endocarditis cases, 36% had uncorrected congenital heart disease, and another 21% had central venous catheter access. On literature review of bilateral endocarditis without prior risk factors, case reports of 4 patients total, reported 2 patients with history of aortic valve replacements, and 2 patients without any predisposing condition, 3 of the 4 reported patients had Staphylococcus aureus, which is notably virulent enough to cause disease on previously normal valves. In our case of bilateral infective endocarditis, the only identified risk factor for this rare presentation was a history of uncontrolled diabetes.
+
+# CONCLUSION:
+
+Endocarditis deserves detailed multimodal imaging to guide management. Bilateral endocarditis without prior cardiac pathology or vascular access is extremely rare, and the authors report this case of bilateral infection with uncontrolled diabetes as the only identified risk factor.
+
+# VERTEBRAL OSTEOMYELITIS DUE TO EXTENDED SPECTRUM -LACTAMASE (ESBL) PRODUCING ESCHERICHIA COLI FROM A GENITOURINARY SOURCE
+
+Mais Abdou1; Sameer Prakash3; Muath Alsharif2; Steven Urban1. 1TTUHSC, Amarillo, Amarillo, TX; 2Texas Tech University Health Science Center, Amarillo, TX; 3Texas Tech University Health Sciences Center Amarillo, Amarillo, TX. (Control ID #3184531)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize ESBL-producing gram negative bacilli as an uncommon cause of osteomyelitis especially after a urinary tract infection. Identify the clinical characteristics, diagnostic methods and management of vertebral osteomyelitis.
+
+# CASE:
+
+A 58-year-old male with past medical history of alcoholism, liver cirrhosis, atrial fibrillation and stage IV squamous cell carcinoma of the hypopharynx, status post radiation and ongoing nivolumab treatment, presented to the hospital with worsening lower back pain and chills for a week. He also reported nausea, vomiting, and anorexia. Two weeks previously, he had completed a one week course of a carbapenem for ESBL producing E. coli. The patient was afebrile, and physical exam was significant for lower extremities weakness, decreased reflexes and difficulty walking. Laboratory workup revealed normal white cell count, anemia and procalcitonin of 30. Urinalysis was unremarkable. MRI of lumbar spine showed hydropic degeneration of T12-L1 disc with severe marrow edema and loss of height favoring T12/L1 osteomyelitis/discitis. Blood cultures showed no growth. CT-guided biopsy of T12/L1 disc and the adjacent portion of the T12 vertebral body revealed changes consistent with acute on chronic osteomyelitis, and needle aspiration culture grew ESBL producing E coli. Neurosurgical intervention was not pursued. The patient was started on meropenem with a planned 6 weeks course. However, he was re-admitted to hospital two weeks later with sepsis, and this time blood cultures grew out ESBL producing E coli. The patient's port-a-cath seemed to play a role in persistent infection and therefore was removed. TEE showed no evidence of endocarditis. A short course of gentamicin was added to meropenem. He was then continued on meropenem for the next 4 weeks with subsequent clinical improvement.
+
+# IMPACT/DISCUSSION:
+
+Vertebral osteomyelitis is a serious bone infection that is classically caused by gram-positive bacteria and less likely gram-negative bacilli. ESBL producing Entrobacteriaceae are rarely reported in the medical literature as the causative agents. The urinary tract is the most frequent reported source of infection. These microorganisms imply a significant challenge in terms of treatment. Carbapenems are the antibiotic class of choice for these infections with no current evidence favoring one carbapenem over another. Most studies favor an antibiotic course of 6-8 weeks of treatment.
+
+# CONCLUSION:
+
+ESBL-producing gram-negative rods should be considered as a causative agent for vertebral osteomyelitis in the setting of recent urinary tract infection. Blood cultures are positive in only 20-59% of the cases. CT guided biopsy is an important diagnostic method and should not be delayed, as obtaining culture and sensitivity is essential in guiding the treatment.
+
+# VISCERAL LEISHMANIASIS AS AN UNEXPECTED CAUSE OF PANCYTOPENIA IN A PATIENT WITH AIDS
+
+Arie Szeinfeld1; Eliran E. Zadikov1; Kaitlyn E. Takach1; Damian Casadesus2. 1American University of the Caribbean School of Medicine, Cupecoy, Sint

@@ -1,0 +1,64 @@
+# ABSTRACTS JGIM
+
+# Quality Improvement Initiative
+
+Adverse clinical events as well as communication lapses, barriers to efficiency, and deviations from protocols. A Quality Improvement (QI) team member reviewed each incident report (IR), put an action plan in motion, and then reviewed it during a weekly QI workgroup; action plans included one or more of the following: plan-do-study-act (PDSA) cycle, team huddle, case review, Root Cause Analysis (RCA), or change in protocol. Summaries and longitudinal trends were presented to the larger team monthly.
+
+# Measures of Success
+
+All team members were oriented to the goals of incident reporting, the culture of non-blame, and trained how to access and submit a report. The QI workgroup met weekly to review new IRs and new or previously developed action plans. We presented qualitative and quantitative summaries of our work monthly to the larger team.
+
+# Findings to Date
+
+194 IRs were submitted between 9/2015 and 12/2018. IRs per HaH episode increased 10-fold after we switched from email or hard copy reports to a web-based platform (2.42 vs 0.23). While MDs submitted the largest share (49%), 20% were submitted by NPs or RNs, and 17% were submitted by other staff. 27% of events occurred during the "plus" period. IRs were most often related to CSV or communication issues (37% and 26%, respectively). Clinical events (e.g. falls) were less common (5.7%). Despite an increased patient census, IRs related to communication lapses, DME delivery, patient transportation, and infusions declined from July to December 2018.
+
+# Key Lessons for Dissemination
+
+Our WIRS is the cornerstone of our program QI, allowing our team to investigate adverse clinical outcomes and CSV issues alike, identify underlying systems issues, and act quickly to address them. Other HaH programs and any care model that leverages CSV services may benefit from implementing a customized WIRS with near real time reviews by a core QI team who are empowered to rapidly implement changes. Interdisciplinary collaboration and regular reporting to stakeholders solidify buy-in and continued participation.
+
+# RAMP (Real Time Analytics Monitoring Platform)
+
+Using and displaying predictive modeling and care coordination for patient care management
+
+William R. Clay; John Voss; John E. Ainsworth; Joel M. Schectman; Marissa McKay; Andrew Barros; Megan Pierce; Valentina Baljak. University of Virginia, Charlottesville, VA. (Control ID #3180640)
+
+# Statement of Problem or Question
+
+There is a broad need to improve the efficiency of patient evaluation, acuity status assessment and care resource allocation in the inpatient setting.
+
+# Objectives of Program/Intervention
+
+1. Provide physicians and nurses with new real-time patient care decision-making tools
+2. Overcome inherent EMR limitations for developing, testing, and deploying complex predictive models
+
+# Description of Program/Intervention
+
+The Real-time Analytics and Modeling Platform (RAMP) was developed as a tool for aggregating and displaying trends in real-time inpatient acuity and for deploying complex predictive models. RAMP extracts current patient information from the electronic medical record (EMR) and physiologic monitoring interfaces, uses this information as inputs to predictive models, and displays the information to a monitor or mobile device organized by patient care team, unit or floor. The system is not restricted by model type, quantity, or complexity. Data visualization can be built into RAMP and/or RAMP can write data back to the EMR. Our current implementation of RAMP displays a map of a floor or unit with colored patient icons representing patient status. When patients of interest are scattered across geographic units, patient scores and icons can be viewed in list format. Individual patients can be selected by mouse click or touch screen to show current patient data and 48 hour trends.
+
+# Measures of Success
+
+RAMP value will be measured by reduced mortality, reduced length of stay, and the count of new patient interventions including new antibiotics, fluid boluses, imaging orders, nursing staff changes or ICU transfer. Additional benefits to be measured include improved care team efficiency and communication and fewer ‘false-alarm' rapid response alerts.
+
+# Findings to Date
+
+A pilot test is underway on a 27 bed medical nursing unit using a 40" wall mounted monitor at the center of the unit passively displaying the NEWS (National Early Warning System) score for all unit patients. Nurses alert MDs when they identify 1) nursing concern re: illness course or 2) a NEWS score that meets or exceeds the designated acuity threshold. In the first month of a planned 6 month trial, 50% of the alerts (12 of 24) have been triggered by a high RAMP NEWS score with an overall fire rate of 0.77 alerts/day. There was also a 31% increase in patient interventions (new antibiotics, imaging or fluids) attributable to high RAMP NEWS triggers. The small sample precludes formal statistical testing of the outcomes identified as measures of success, but it is clear to date that the system is influencing care team behavior. Testing of active alerting is also planned.
+
+# Key Lessons for Dissemination
+
+Unit-based standard work supported by passive display of early warning scores may improve delivery of patient care. Input from clinicians and analytics staff is essential for successful development of such a software tool. Predictive models and the interventions that utilize them require input and buy-in from the end-users in order to change the complex processes associated with hospital standard work.
+
+# Resident Led Initiative to Improve Screening for Social Determinants of Health in an Outpatient Clinic
+
+Robert J. DeGrazia1; Nicole Laslett1; Ronak Patel1; Anthony Tramontozzi1; Zehra Hussain2. 1Christiana Care Health System, Aberdeen, MD; 2Christiana Care, Chadds Ford, PA. (Control ID #3153502)
+
+# Statement of Problem or Question
+
+There is no standardized approach to screening for SDoH in our resident outpatient clinic.
+
+# Objectives of Program/Intervention
+
+Our quality improvement initiative aimed to develop a standardized approach to screen patients for SDoH in the primary care setting, create a streamlined referral system for patient resources and to quantify the degree to which these factors affect our clinic population.
+
+# Description of Program/Intervention
+
+Wilmington Adult Medicine clinic at Christiana Care Health System in Wilmington, DE serves an underserved population. To address the lack of standardized

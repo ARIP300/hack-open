@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# METHODS:
+
+We examined all Medicare fee-for-service beneficiaries 65 and older admitted 2012-2015 with a HF diagnosis discharged to SNF then subsequently discharged home. The primary outcome was unplanned readmission within 30 days of SNF to home discharge, using CMS's HF readmission methodology. We plotted time to readmission with Kaplan-Meier curves and compared these groups with a log-rank test. Then, we compared time to readmission using an adjusted Cox model; this model included a frailty term to account for correlation of patient outcome by SNF.
+
+# RESULTS:
+
+There were 67,585 HF hospitalizations discharged to SNF and subsequently discharged home; 13,257 (19.6%) were discharged with HHC, 54,328 (80.4%) without. Patients discharged home from SNF with HHC had lower 30-day readmission rates than patients discharged without HHC (22.8% vs 24.5%, p&lt;0.0001). Kaplan-Meier curves demonstrated that patients discharged home from SNF with HHC have a longer unadjusted time to readmission. Of those readmitted within 30 days, median time to readmission for those discharged home from SNF with HHC was 11 days and 9 days for those discharged home without HHC (p&lt;0.0001). After risk-adjustment, patients discharged home with HHC still had a lower hazard of 30-day readmission.
+
+# CONCLUSIONS:
+
+Patients who received HHC were less likely to be readmitted within 30 days compared to those discharged home without HHC. This is unexpected as patients discharged with HHC likely have more functional impairments and therefore at higher readmission risk. Since patients requiring a SNF stay after hospital discharge may have additional needs, they may be especially likely to benefit from restorative therapy through HHC; however only about 20% received such services.
+
+# RESIDENT PERCEPTIONS OF BUPRENORPHINE-NALOXONE PRESCRIBING POST ADDICTION CLINIC IMPLEMENTATION
+
+Deepa R. Nandiwada 1 ; Judy Chertok 2 ; Benjamin Larson 3 ; David Lieberman1; Marc Shalaby4. 1University of Pennsylvania, Ardmore, PA; 2University of Pennsylvania, Philadelphia, PA; 3Lankenau Medical Center, Philadelphia, PA; 4Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA. (Control ID #3186020)
+
+# BACKGROUND:
+
+There have been a growing number of residency buprenorphine-naloxone clinics with the goal that this should become a part of regular chronic care delivery in a primary care practice. The Penn primary-care-focused residency programs (Primary Care Internal Medicine and Family Medicine) have developed buprenorphine-naloxone residency clinics. The goal of this study is to compare the impact on patient perceptions, role and comfort of residents incorporating this into their scope of practice, and likelihood of including this into their clinical practice as attending physicians.
+
+# METHODS:
+
+Residents participated in at least two half-day clinic sessions, seeing between 6 to 10 patients in a half day. All residents participated in waiver training and had an additional two didactic sessions on the topic. Surveys were provided to primary care residents and family medicine residents between April to June 2018. At this time primary care residents had all participated in 2 sessions of the clinic and were asked to rate changes in attitudes, knowledge, and perceptions post implementation. Family medicine residents had not begun their clinic yet and so baseline data was gathered.
+
+# RESULTS:
+
+14 residents participated in the survey. Using a Wilcox-rank sum comparison we had significant changes (p&lt;0.01) with a change from Strongly Disagree to Agree in comfort prescribing. Other findings included being more likely to recommend prescribing buprenorphine-naloxone and increased comfort being a PCP for a patient with opioid addiction. Residents strongly agreed that after participation they felt more empathy for this patient population. Finally they felt more empowered to care and enjoyed caring for this patients with addiction (Disagree to Strongly Agree). Key barriers pre implementation identified were lack of mental health care, logistics, and challenging patients.
+
+# CONCLUSIONS:
+
+While this represents a very limited data set, it shows that residents attitudes, knowledge, and comfort changed significantly post a direct patient care experience with patients actively prescribing buprenorphine naloxone. We are in the process of comparing this data to the family medicine pre and post data to see if carries across.
+
+|Question|Median Pre Implementation|Median Post Implementation|P value|
+|---|---|---|---|
+|am comfortable prescribing:| | |0.01|
+|am very likely to recommend starting:|2| |0.01|
+|know which patients are good candidates|2| |0.01|
+|am comfortable being the PCP for a patient with opioid addiction| |3|0.01|
+|enjoy caring for patients on buprenorphine-naloxone|2.5| |0.01|
+|feel like made a different in my patients life by prescribing buprenorphine-naloxone| |3.58| |
+|have more empathy for patients with addiction| | | |
+|feel this fits in the role of a PCP| | |0.01|
+|feel empowered to care for patients with addiction| | |0.01|
+
+# RESIDENTS IDENTIFY GAPS IN MEDICAL EDUCATION REGARDING THE OPTIMAL PROCESS FOR OUTPATIENT REFERRALS
+
+Masha J. Slavin 1 ; Mangala Rajan 2 ; Lisa M. Kern 2 . 1 New York-Presbyterian/Weill Cornell, New York, NY; 2Weill Cornell, New York, NY. (Control ID #3180908)
+
+# BACKGROUND:
+
+Referrals from one physician to another in the ambulatory setting are routine, happening multiple times a day for any given physician. It is widely acknowledged that referrals should be accompanied by relevant clinical information about the patient being referred. However, previous work has shown that relevant clinical information is often missing at the point of care. Consequences of missing clinical information may include missed or delayed diagnosis, delayed treatment, unnecessary testing, and drug interactions. Whether residents are taught to provide adequate clinical information at the time of referral has not been well studied. Similarly, residents' attitudes toward providing clinical information at the time of referral and their experiences of the consequences of any subsequent missing information are unknown. Therefore, we sought to assess internal medicine residents' attitudes toward and experiences with outpatient referrals.
+
+# METHODS:
+
+We conducted a cross-sectional survey in October-December 2018 of all internal medicine residents affiliated with a large, urban academic internal medicine residency program. We used a novel survey instrument that included 13 questions about attitudes toward and experiences with outpatient referrals; each question had responses on a 5-point Likert scale. The survey also included 5 demographic questions. We used descriptive statistics to characterize the results.
+
+# RESULTS:
+
+We received completed surveys from 122 out of 132 residents (92.4% response rate). Thirty-four percent of respondents were interns, 34% in post-graduate year 2, and 31% in post-graduate year 3. While 83% of residents reported that it is "always" important to provide the clinical reason for a referral, only 11% stated that they "always" provide a sufficient amount of clinical information for the consulting provider when making a referral. Forty-eight percent of residents "never" email, message, or call the consulting physician to explain a case beyond using the electronic health record's referral order template. Nine percent of residents "strongly agree" that residency provides sufficient training in knowing when to refer a patient, and 8% "strongly agree" that residency provides sufficient training in what information to provide the consulting physician.
+
+# CONCLUSIONS:
+
+These results highlight a discrepancy between the amount of information residents believe they should provide at the time of a referral and the amount they actually provide. Many residents felt that they had not received adequate training during residency on when to refer.

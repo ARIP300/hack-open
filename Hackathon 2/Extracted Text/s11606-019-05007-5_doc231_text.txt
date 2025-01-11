@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# PRIMARY CARE SOCIAL NETWORKS AND CANCER PREVENTION BEHAVIORS
+
+Jaya Aysola; Chang Xu; Marilyn M. Schapira. University of Pennsylvania, Philadelphia, PA. (Control ID #3185397)
+
+# BACKGROUND:
+
+Critical interest remains in how health care delivery models can leverage social networks, given the mounting evidence of the influence of social networks on the promotion of cancer prevention behaviors, such as diet and exercise. Yet, there lacks studies on both how to measure and seed social networks in the primary care setting. The objective of this study was twofold: 1) to evaluate the feasibility of collecting social network data from primary care patients and 2) to determine the social network characteristics of primary care patients enrolled in our study.
+
+# METHODS:
+
+We recruited 48 primary care patients as Egos in our network using both in-person waiting room and telephone recruitment. Patients that agreed to participate were designated egos in our network and scheduled for a telephone-administered survey on healthy behaviors and cancer prevention knowledge. That survey began with name generator questions, where we asked egos to name up to six family members and/or friends (alters) without qualifiers, followed by questions eliciting who attends his/her primary care practice, lives locally, and/or discusses health matters with him/her. Subsequent sampling and recruitment involved snowball sampling to collect data on social networks. We contacted up to two of the six named alters and at least one of the secondary alters (alters' nominated alters), giving preference to those who utilize primary care at the same practice as the ego or at one of the other study sites. A monetary incentive was provided upon completion of the study. We calculated enrollment rates of egos, comparing in-person versus telephone recruitment, as well as alter enrollment rates. We then assessed the density, reciprocity, and transitivity of our social network as well as within ego-networks the degree of homophily of cancer prevention knowledge, obesity, and smoking.
+
+# RESULTS:
+
+Ego in-person recruitment was more successful than telephone recruitment, with a contact rate of 38% as compared to 4%. Enrollment rates were 57% and 65% were egos and alters, respectively. Study completion rates for egos was 97% and 100% for alters. The mean (SD) age of participants was 51 (17). About 31% of participants had a high-school diploma or less, 42% reported an annual household income of less than 25,000, about 38% had governmental insurance, and about 62% self-identified as black. The edge density of our social network was 0.01, the degree of reciprocity and transitivity was 0.82 and 0.74 respectively. Ego-network homophily varied by attribute.
+
+# CONCLUSIONS:
+
+We found snowball recruitment and name generator techniques were successful in collecting social network data among primary care patients. This study yields key insights into how organizations can measure primary care patient networks and those network characteristics.
+
+# PROGNOSTIC ACCURACY AND DISCORDANCE AMONG PATIENTS, CAREGIVERS, AND PHYSICIANS IN ADVANCED CANCER
+
+kirti malhotra 1; Joshua Fenton 1; Guibo Xing 1; Paul Duberstein 2; Ronald Epstein 3; Richard L. Kravitz 1. 1 UC Davis, Sacramento, CA; 2 U Rochester, Rochester, NY; 3 U of Rochester, Rochester, NY. (Control ID #3186638)
+
+# BACKGROUND:
+
+In caring for patients with advanced cancer, shared clinical decision making relies on common understanding of prognosis among patients, caregivers, and physicians. However, prior studies have shown considerable discordance in prognostic estimates. The purpose of this analysis was to assess and compare the accuracy of two-year prognostic estimates provided by patients, caregivers and oncologists. We also evaluated various factors associated with prognostic accuracy.
+
+# METHODS:
+
+This is a secondary observational analysis of data obtained from the Values and Options in Cancer Care (VOICE) Study (a cluster Randomized Controlled Trial). The study included 38 oncologists, 263 patients with advanced non-hematologic cancer, and 193 of their caregivers from clinics in Sacramento and Western New York. We evaluated prognostic discrimination and calibration within each group (oncologists, patients, caregivers) using the c-statistic and chi-square statistic respectively. We also computed an index of prognostic accuracy by subtracting the two-year prognosis as predicted by patients, caregivers and oncologists (on a 0, 0.10, 0.25, 0.50, 0.75, 0.90, 1.0 scale) from the vital status at two-years (whether the patient lived two years; yes=1 or no=0 scale). Finally, we constructed multinomial logistic regression models to assess demographic, clinical and attitudinal factors associated with prognostic accuracy.
+
+# RESULTS:
+
+Oncologists had better prognostic discrimination as compared to both patients (p=0.001) and caregivers (p=0.03): C-statistics for oncologists, patients, and caregivers were 0.81 [95% CI: 0.76-0.86], 0.62 [95% CI: 0.55-0.68], and 0.72 [95% CI: 0.65-0.78] respectively. Oncologists also had superior calibration; their predictions of two-year survival were similar to actual survival (p-value= 0.17). In contrast, patients' (p-value = 0.0001) and caregivers' (p-value = 0.003) predictions differed significantly from actual survival. Approximately half of patients' and caregivers' predictions (50.0% and 46.0%, respectively) were classified as unduly optimistic while most of oncologist predictions were classified as realistic (62.0%). Non-white race and higher levels of social well-being were associated with over-optimism among patients (p<0.05).
+
+# CONCLUSIONS:
+
+Our findings suggest that oncologists have good discriminatory ability in their two-year survival predictions and their predictions are well-calibrated. In contrast, patients and caregivers have somewhat inferior discriminatory ability and their predictions are poorly calibrated. In addition, patients and caregivers predictions tend to be more optimistic as compared to the oncologists. Various patient factors such as race, ethnicity, and social and existential well-being may play a role in shaping prognostic accuracy. These findings may help general internists play a more effective role in mediating prognostic discussions and interpreting prognostic information for patients with advanced cancer and their families.
+
+# PROMOTING SHARED DECISION-MAKING: LEVERAGING THE PHYSICIAN MORAL COMPASS OR IMPROVING THE WORKPLACE?
+
+Loren Saulsberry; Madison Wilson; Monica E. Peek. The University of Chicago, Chicago, IL. (Control ID #3185200)
+
+# BACKGROUND:
+
+Shared decision-making (SDM), an essential tenet of patient-centered care, has increasingly been promoted by physician organizations and payers. SDM has potential to improve health outcomes, reduce healthcare costs and address health disparities. To date, studies have not compared the relative impact of internal motivation (i.e. physicians' moral compass) and external workplace factors (e.g. population health management (PHM) strategies such as longer physician visits for complex patients) in promoting shared decision-making between patients and their physicians. We evaluate how physicians' internal motivation and features of their clinical environments relate to provider intentions to practice SDM with their patients.

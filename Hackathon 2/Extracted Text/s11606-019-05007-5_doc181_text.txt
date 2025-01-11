@@ -1,0 +1,29 @@
+# ABSTRACTS
+
+# MD AWARE: QUALITATIVELY MEASURING THE IMPACT OF LONGITUDINAL RESILIENCY CURRICULUM AND WELLBEING SELF-ASSESSMENT TOOL AMONG MEDICAL STUDENTS
+
+Kelly Crotty1, 2; Annie Robinson1; Colleen Gillespie3; Verity Schaye4; Katie Grogan4; Linda Tewksbury4. 1NYU, New York, NY; 2Department of Veterans Affairs, New York, NY; 3NYU School of Medicine, Brooklyn, NY; 4NYU School of Medicine, New York, NY. (Control ID #3163076)
+
+# BACKGROUND:
+
+To bolster medical student wellbeing and combat burnout, the NYU School of Medicine (NYUSOM) implemented a longitudinal resiliency curriculum coupled with a wellbeing self-assessment tool. We qualitatively studied the impact of this curriculum on knowledge, self-awareness, and behaviors related to wellbeing and resiliency.
+
+# METHODS:
+
+The MD AWARE curriculum was launched in August 2017 for the NYUSOM class of 2020. Six sessions were implemented at critical junctions of their training. Each session includes a short lecture, followed by a small group activity led by trained facilitators. At the start of each session, students complete an anonymous online self-assessment adapted from three validated assessment tools measuring different aspects of wellbeing and burnout. Students immediately receive scores with explanations and benchmarks of each and then debrief in their small group. After each MD AWARE session, students completed a retrospective pre/post evaluation survey. Focus Groups (FG) were held in December 2017 (after Sessions 1&2) to gain richer insight into the impact of the curriculum and self-assessment tool. A purposeful sampling strategy with maximal variation was employed to recruit participants; 10 students participated in each FG. Qualitative data was gathered through the surveys and the FG. The FG were recorded and transcribed. Each FG had 2 project staff members and post-session debriefing. Member-checking was also used. Responses were subsequently coded and analyzed by two experienced faculty members (a third colleague assisted in theme triangulation). An iterative data analysis strategy was applied. Throughout the analysis, an audit trail, frequent memo writing, and a reflexivity journal were maintained.
+
+# RESULTS:
+
+Veteran and staff agreed that discussing means safety in primary care is appropriate and important, and may be beneficial for patients with elevated suicide risk. Staff felt that use of a team approach to MS discussions would be optimal due to competing demands on PCPs. Veterans supported a team approach since nurses or other staff may have greater rapport and contact with them than PCPs. Veterans and staff felt there were opportunities to link MS discussions with VHA's emerging Whole Health prevention approach. Both groups felt that asking Veterans directly about firearm ownership ("do you own a firearm") is not an effective strategy for initiating MS conversations because it is a sensitive topic and may be perceived as a potential threat to 2nd amendment rights. Indeed, Veterans acknowledged that they may not truthfully disclose firearms ownership, especially in the context of PCPs raising mental health concerns.
+
+# CONCLUSIONS:
+
+The findings suggest that training primary care teams to discuss MS with their patients is feasible. Primary care staff and Veterans have similar perspectives regarding MS which may enhance patient acceptance and usefulness of MS discussions.
+
+# MEASURING AND ANALYZING THE PERSONAL MEDICATION FORMULARY SIZE OF PRIMARY CARE PHYSICIANS
+
+William L. Galanter1; Jennie B. Jarrett1; Diana E. Norwich2, 3; Maria Mirica3; Diane L. Seger3, 10; Julie Fiskio3; Tewodros Eguale4, 3; Alejandra Salazar; Walid F. Gellad5, 6; John P. Cashy; Jennifer A. Hale5; Jeffrey A.3 5; Bruce Lambert8; Suzanne Falck9; Lynn A. Volk10; Gordon D. Schiff3, 11. 1University of Illinois at Chicago, Chicago, IL; 2Tufts University School of Medicine, Boston, MA; 3Brigham and Women's Hospital, Boston, MA; 4MCPHS University, Boston, MA; 5VA Pittsburgh Healthcare System, Pittsburgh, PA; 6University of Pittsburgh, Pittsburgh, PA; 7Northwestern University Feinberg School of Medicine, Chicago, IL; 8Northwestern University, Evanston, IL; 9University of Illinois Hospital and Health Sciences System, Chicago, IL; 10Partners HealthCare System, Somerville, MA; 11Harvard Medical School, Boston, MA. (Control ID #3185286)
+
+# BACKGROUND:
+
+Prescribing decisions are fundamental to patient care and are responsible for substantial cost, harm, and benefit. Thus, variations in prescribing warrant scrutiny. As part of a large project analyzing prescribing practices at four institutions (Partners HealthCare System (PHS), Northwestern Medicine, University of Illinois at Chicago (UIC), and the Veterans Health Administration), we aim to measure and analyze the personal medication formulary size of primary care physicians.

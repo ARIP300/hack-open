@@ -1,0 +1,37 @@
+# S220
+
+# ABSTRACTS
+
+# Hospital and Community Resources that Help with Social Need among BMC adult primary care patients.
+
+# METHODS:
+
+Mixed methods telephone survey to explore usage of resources that help with social needs. 57 adult patients (English and Spanish speaking) that went through THRIVE from October 2017 to March 2018 were called 4-8 weeks after presenting to their primary care visit. A comparison group of 37 participants that presented to BMC primary care from July to October 2017 (prior to THRIVE implementation), were also called.
+
+# RESULTS:
+
+Of the 57 THRIVE participants, 15 (26%) endorsed the need for assistance connecting with resources (including housing, food, medicines, transportation, utilities, employment and education). Of the 57 patients, 14 (25%) attempted to connect with some type of resource and 17 (30%) indicated that they received help with a social need since their last visit. Of the 37 surveyed patients in the comparison group, two (5%) indicated that their doctor had referred them to resources, 5 (14%) attempted to connect with some type of resource and 4 (11%) indicated that they have received help with a social need since their last visit. THRIVE participants reported high levels of difficulty connecting with housing resources. Additionally, they described having an easier time connecting with BMC resources including the BMC pharmacy and food pantry. Qualitative analysis of open ended questions for both groups showed that reaching out by phone but not hearing back from resources was the main challenge when trying to receive help. Additional obstacles included having to reapply for the same resources multiple times, language barriers, health and transportation barriers and importantly, limited knowledge of available resources. The most consistent piece of feedback that both groups provided was that healthcare professionals should ask patients about SDOH resource needs - and provide resource or referral information - as part of primary care visits.
+
+# CONCLUSIONS:
+
+The THRIVE participants attempted to connect with resources more often than those in the control group. Although both group participants attempting to connect successfully received resources, and several described Boston Medical Center itself as a source of assistance, patients experience multiple obstacles to obtaining resource assistance. The results indicate that patients are interested in physicians and/or healthcare professionals proactively asking about potential resource needs as part of office visits.
+
+# EXPLORING MEDICATION ADHERENCE FOR OHIO MEDICAID ENROLLEES WITH HYPERTENSION IN AN ERA OF TIGHTER TARGETS: WHERE ARE THE OPPORTUNITIES FOR THE GREATEST IMPACT?
+
+# METHODS:
+
+Ohio Medicaid enrollees aged 64 or younger with a diagnosis of hypertension and seen at one of six safety net primary care clinics participating in a statewide hypertension quality improvement project during 2017-18 were included in this retrospective observational study. We conducted 2 sequential logistic regression analyses: 1) a baseline analysis for medication adherence adjusted for age, race, sex, selected comorbidities, and days supply of medication; and 2) an analysis for BP control with the same adjustments and also adjusted for medication adherence. We defined medication adherence as a medication possession ratio (MPR) of 80%.
+
+# RESULTS:
+
+Of 1,038 Ohio Medicaid enrollees seen at one of 6 clinics during 2017-18, 56% were under good blood pressure (BP) control (most recent BP<140/90 mm Hg). Patients had a mean age of 50 (SD 10) and were diverse (46% African American, 48% white, and 58% female). About 1/3 of uncontrolled patients had no claims for BP medications during the study period. Of 729 patients who had filled 1 BP medications, 68% were considered adherent (MPR 0.8). Those with controlled BP had higher medication adherence compared to those with uncontrolled BP (75% vs 57% respectively). Due to coverage policies, most patients (88%) received a 30-day supply of their BP medications, with only 10% and 2% of patients receiving > 30-day or 90-day supply respectively. In adjusted models, medication adherence was associated with better BP control (OR 2.1; 95% CI 1.5-2.9). Age was positively associated with medication adherence (OR 1.8; 95% CI 1.0-3.2 comparing 55-64 versus 18-34 years) but was not associated with better BP control after adjusting for adherence. Receiving more than a 30 day supply of BP medication had a suggestion of an association with better medication adherence (OR 1.3; 95% CI 0.8 to 2.3), and was associated with better BP control (OR 2.0; 95% CI 1.2-3.3). African Americans (versus whites) had lower medication adherence and lower BP control (OR 0.5; 95% CI 0.3-0.7 and OR 0.6, 95% CI 0.4-0.8 respectively).
+
+# CONCLUSIONS:
+
+Non-adherence was common and strongly associated with worse BP control. Programs targeted at younger hypertensive adults and African Americans with uncontrolled BP could have the greatest impact. The effect of changing policy to permit a 90-day supply of medications should be further evaluated.
+
+# EXPLORING PATIENT PERSPECTIVES ON THE FEASIBILITY AND ACCEPTABILITY OF MEDICATION ADHERENCE SUPPORT SERVICES FOR HYPERTENSION AT A PRIVATE HOSPITAL IN KAMPALA, UGANDA
+
+# BACKGROUND:
+
+Hypertension (HTN) is the leading risk factor for death not only in the United States but also in low- and middle-income countries. In Uganda, HTN affects 24% of adults, but the primary care system has struggled to control it. Only 7.7% of Ugandans with hypertension are aware of their diagnosis, and less than half of those persons receive treatment with medication. Moreover, less than half of persons on HTN treatment achieve blood pressure control, suggesting substantial barriers to medication adherence even among patients with adequate care access. As HTN treatment programs scale up across Uganda, identifying and solving barriers to adherence within these programs becomes increasingly crucial. This study explored patient perspectives on acceptability of medication adherence interventions for HTN at International Hospital Kampala (IHK) in Uganda.

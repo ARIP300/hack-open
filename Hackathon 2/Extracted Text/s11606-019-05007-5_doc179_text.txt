@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# MAKING CONNECTIONS: NATIONWIDE IMPLEMENTATION OF VIDEO TELEHEALTH TABLETS TO ADDRESS ACCESS BARRIERS IN VETERANS
+
+Donna M. Zulman1, 2; Josephine Jacobs3; Cindie Slightam2; Amy J. Gregory2; Tolessa Gurmessa2; Rachel Kimerling2, 4; Daniel Blonigen2; Emily Wong2; John Peters5; Leonie Heyworth6, 5. 1Stanford University, Stanford, CA; 2VA Palo Alto Health Care System, Menlo Park, CA; 3VA Health Economics Resource Center, Menlo Park, CA; 4VA National Center for Post-Traumatic Stress Disorder, Menlo Park, CA; 5VA Office of Connected Care/Telehealth Services, Washington, DC; 6VA San Diego Healthcare System, La Jolla, CA. (Control ID #3180392)
+
+# BACKGROUND:
+
+In 2016, the VA launched an initiative to distribute video telehealth tablets to Veterans with health conditions, socioeconomic challenges, and geographic constraints that impede access to VA services. We sought to evaluate the implementation and effectiveness of this tablet distribution initiative.
+
+# METHODS:
+
+In a mixed methods evaluation guided by the RE-AIM framework, we examined the distribution and usage rates of 5,000 VA-issued tablets shipped in 2016 and 2017. We characterized tablet recipients in terms of sociodemographics (i.e., age, sex, race/ethnicity, rural/urban status, distance to VA facility), chronic conditions, and health care utilization. We evaluated patient experience through a survey of tablet recipients upon tablet receipt (n=2,120 respondents, response rate 61%) and after approximately 6 months of tablet use (n=1,232 respondents, response rate 61%). Given high rates of mental illness among tablet recipients, we conducted a retrospective matched cohort analysis to assess how tablet receipt was associated with mental health care utilization, continuity of care, and clinical efficiency outcomes. We also examined implementation of tablet distribution through a survey of 68 facility telehealth coordinators and interviews with telehealth coordinators and regional leadership (n= 20).
+
+# RESULTS:
+
+89 VA facilities, spanning all 18 geographic regions, distributed tablets to 6,742 patients. Tablet recipients had an average age of 56 years, 53% lived in rural areas, 75% had a diagnosed mental illness, and almost half had six or more chronic conditions. Approximately 4 in 5 tablet recipients used the tablet during the evaluation period; 65% of video encounters were for mental health care; 10% for spinal cord injury; the remaining were for primary care, palliative care, rehabilitation, and other services. Among patient survey respondents, over 6 months there was an increase in the proportion who reported getting convenient care (67% to 80%), and many reported that the tablets saved them time (90%), money (89%), and helped them get care they couldn't otherwise (56%). For Veterans with mental health conditions, relative to the matched control group, tablet recipients experienced an increase of 1.94 (SE, 0.27) psychotherapy encounters, 1.21 (SE, 0.07) medication management visits, and an 18.5% point (SE, 0.02) increase in their likelihood of meeting the VA quality metric for mental health care continuity in the six months post-tablet receipt. Telehealth staff reported that the most common barriers to tablet distribution were insufficient training (59%), staffing shortages (55%), and provider disinterest (33%).
+
+# CONCLUSIONS:
+
+VA's initiative to distribute video telehealth tablets to high-need patients reached many individuals with social and clinical access barriers, and had a positive impact on access to mental health care and patient experiences. Additional research is needed to understand the barriers and needs of the one in five tablet recipients who did not use their tablets.
+
+# MAKING IT EASIER TO GET EVIDENCE INTO PRACTICE: AHRQ EVIDENCE-BASED PRACTICE CENTERS' (EPC) PILOT PROJECTS
+
+Celia V. Fiordalisi1; Allison Schmidt1; Martha Gerrity1; Stephanie M. Chang2; Amanda Borsky2; Lisa Hartling3; Thomas Trikalinos4; Gillian Sanders-Schmidler5; Mary Butler; Emilia Flores7; C. Michael White6, 8; Jennifer S. Lin9; Lisa V. Rubenstein10; Meera Viswanathan11; Annette M. Totten12; Karen Robinson13; Jeanne-Marie Guise. 1Portland VA Research Foundation, Portland, OR; 2Agency for Healthcare Research and Quality, Rockville, MD; 3University of Alberta Evidence-based Practice Center, Edmonton, AB, Canada; 4Brown University Evidence-based Practice Center, Providence, RI; 5Duke University Evidence-based Practice Center, Durham, NC; 6University of Minnesota Evidence-based Practice Center, Minneapolis, MN; 7ECRI Institute-Penn Medicine Evidence-based Practice Center, Plymouth Meeting, PA; 8University of Connecticut Evidence-based Practice Center, Storrs, CT; 9Kaiser Permanente Research Affiliates Evidence-based Practice Center, Portland, OR; 10RAND Corporation Evidence-based Practice Center, Santa Monica, CA; 11RTI International—University of North Carolina (UNC) Evidence-based Practice Center at Chapel Hill, Chapel Hill, NC; 12Pacific Northwest Evidence-based Practice Center, Portland, OR; 13Johns Hopkins University Evidence-based Practice Center, Baltimore, MD. (Control ID #3184508)
+
+# BACKGROUND:
+
+The Agency for Healthcare Research and Quality (AHRQ) Evidence-based Practice Centers (EPCs) produce rigorous and comprehensive systematic reviews to inform health care practice and policy. It is well-known that there is a gap in translating evidence into practice. EPCs conducted a series of pilot projects to develop novel translational products with the aim of increasing accessibility and usability of evidence in healthcare systems.
+
+# METHODS:
+
+EPCs partnered with a variety of healthcare systems stakeholders, to develop and pilot translational products intended to facilitate the uptake and implementation of evidence from EPC reports. EPCs evaluated their own translational products using various methods, including conducting interviews with health systems stakeholders, such as leadership, frontline staff, and patients. We analyzed and summarized findings across these pilot projects using three sources of information: qualitative narrative from each project, structured feedback provided via a standardized reporting form, and discussions during meetings.
+
+# RESULTS:
+
+The EPCs' nine translational products generally fell into three categories: dissemination products, interactive data visualizations, and implementation products. Dissemination products summarized results from systematic reviews and required on average 57 hours to develop (range: 20-90 hours). Interactive data visualizations used technology or software to enable an interactive interface with findings of reports and required on average 152 hours to develop (range: 55-300 hours). Implementation products help health systems implement evidence into practice, and required on average 1,077 hours to develop (range: 50-2850 hours). Products were reported to be useful when they presented important information in a concise format (graphical displays of information, tables, and 3-page summaries), allowed users to explore data relevant to them (interactive displays that could drill down to study level), provided contextual information for implementation, and/or could be directly implemented into electronic medical records or clinical care processes. Products were not found to be useful if they presented information on a topic that was not a priority or for an issue that was not pertinent/relevant to the health system at that time.
+
+# CONCLUSIONS:
+
+In the fast-paced complex environment of healthcare delivery, translational products that summarize the key elements of systematic reviews may improve health system and providers' access to evidence. Translational products should prioritize clear writing, meaningful tables and graphs, and tailor the evidence to the needs of the user. The EPC Program will continue these efforts in hopes to improve healthcare system's access to high-quality, unbiased evidence that can ultimately improve quality of care and promote evidence-based medicine.
+
+# MAKING THE HIDDEN MORE TRANSPARENT: A QUALITATIVE ANALYSIS OF MEDICAL STUDENTS' ENCOUNTER LOGS TO IDENTIFY THE SOCIAL DETERMINANTS OF HEALTH LIMITING OPTIMAL CARE
+
+David Basile; Jed Gonzalo; Deanna Dubots. Penn State College of Medicine, Hershey, PA. (Control ID #3185884)

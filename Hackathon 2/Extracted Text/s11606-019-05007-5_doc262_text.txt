@@ -1,0 +1,39 @@
+# ABSTRACTS
+
+# Strategies for Short and Long-Term Patient Engagement Among High-Need Patients: Reflections of Key Stakeholders in VA's Primary Care Intensive Management (PIM) Teams
+
+Alicia Bergman; Susan E. Stockdale2; Marian L. Katz3; Donna M.1 Zulman4; Evelyn T. Chang5. 1VA Greater Los Angeles, North Hills, CA; 2Greater Los Angeles VA Healthcare System, Sepulveda, CA; 3Veterans Health Administration, North Hills, CA; 4Stanford University and VA Palo Alto, Stanford, CA; 5VA- Greater Los Angeles, Los Angeles, CA. (Control ID #3184414)
+
+# BACKGROUND:
+
+A recognized barrier to the success of intensive outpatient primary care programs for high-need patients is patient engagement, i.e., patients' active engagement in their own healthcare. However, research is lacking on how different strategies may be more conducive to different temporal phases of program involvement or lead to shorter or longer-term engagement. Our goal was to conduct a qualitative analysis of the Veterans Health Administration (VA) intensive primary care program (PIM) to learn about team members' successful patient engagement strategies, in order to describe the strategies by temporal phase of the patients' PIM program involvement, and by which strategies may facilitate shorter-term engagement versus longer-term self-sustaining patient engagement.
+
+# METHODS:
+
+Semi-structured interviews were conducted with twenty-nine VA PIM team members (e.g., primary care providers, nurses, psychologists, social workers, dietitians) and primary care and program leaders. Interviews were recorded, transcribed, and analyzed to identify a novel organization of successful patient engagement strategies.
+
+# RESULTS:
+
+Some patient engagement strategies were particularly conducive to enabling immediate shorter-term engagement at the beginning phase of their program involvement, such as identifying with patients and general rapport-building, and setting guidelines/boundaries for what team member can and cannot do. During the ongoing phase of program involvement, other shorter-term "enabler" engagement strategies included scheduling appointments for patients, co-attending or connecting patients with primary care or specialty care appointments, assisting patients to get medication refills, providing or facilitating transportation to appointments, facilitating provider availability, and visiting patients when hospitalized. Other engagement strategies described by participants were potentially more conducive to longer-term and self-sustaining engagement; those employed at the beginning of patient program involvement included goal-setting, taking a whole-person health approach, conducting motivational interviewing, and educating patients on the wheel of health. Engagement strategies conducive to longer-term/self-sustaining patient engagement during the ongoing phase of program involvement included understanding psychiatric reasons that impede patient progress, medication management/education, encouraging patients to schedule/cancel appointments, coordinating/problem solving with the patient's caregiver/s or family, clinical dietitian advice, and collaborative decision-making.
+
+# CONCLUSIONS:
+
+Some engagement strategies were best employed at the beginning phase of patient program involvement while others fit well with ongoing involvement. Within both phases there were engagement strategies that seemed to facilitate either longer-term or shorter-term patient engagement. These findings can facilitate engaging primary care patients on a longer-term level, towards self-sustaining self-management.
+
+# Strategies to Reduce Electronic Health Record Inbox Burden: A Mixed Methods Study
+
+Daniel R. Murphy1, 2; Tyler Satterly1, 2; Traber Giardina2, 1; Dean F. Sittig3; Hardeep Singh2, 1. 1Baylor College of Medicine, Houston, TX; 2Michael E. DeBakey VA Medical Center, Houston, TX; 3University of Texas, Houston, TX. (Control ID #3168054)
+
+# BACKGROUND:
+
+Electronic health record (EHR) inbox notification-related workload leads to information overload and is cited as a contributing factor for job dissatisfaction and physician burnout. Better understanding of physicians' inbox requirements and workflows could optimize inbox designs, enhance efficiency, and reduce safety risks from notification overload.
+
+# METHODS:
+
+We conducted a mixed-methods study to identify strategies to enhance EHR inbox design and workflow. First, two reviewers performed a secondary analysis of national survey data collected in 2010 of all Department of Veterans Affairs (VA) primary care practitioners (PCP) to identify major themes in responses to a free-text question soliciting suggestions to improve EHR inbox design and workflows. We then conducted expert interviews of clinicians at five health care systems to understand existing optimal strategies to improve efficiency and situational awareness related to EHR inbox use. Themes from survey data were cross-validated with interview findings.
+
+# RESULTS:
+
+We analyzed responses from 2104 PCPs who completed the free text inbox question (of 5001 PCPs who responded to survey) and used an inductive approach to identify five themes: (1) Inbox notification content should be actionable for patient care and relevant to recipient clinician, (2) Inboxes should reduce risk of losing messages, (3) Inbox functionality should be optimized to improve efficiency of processing notifications, (4) Team support should be leveraged to help with EHR inbox notification burden, (5) Sufficient ‘protected' time should be provided to all clinicians to process EHR inbox notifications. We subsequently interviewed 15 clinicians and identified 11 unique strategies.
+
+# Stethoscope culture before (A) and after (B) disinfection:

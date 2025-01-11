@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 28 year-old man presented with a four-day history of fever, headache, nausea, vomiting, diarrhea, and confusion. He immigrated from Honduras 6 years earlier and had no significant past medical history. He had a temperature of 103.2°F, pulse of 133bpm, and BP of 126/60 mmHg. He was alert and oriented but had difficulty answering questions. Physical exam demonstrated hepatosplenomegaly. No nuchal rigidity was present. Lab work revealed platelet count 42 x 109/L, AST 260 U/L, ALT 139 U/L, triglycerides 991 mg/dL, CRP 196, LDH 2292 U/L, and lipase of 205 U/L. D dimer 6.8 ng/mL. Empiric treatment for sepsis from possible intra-abdominal infection was initiated. On hospital day one, the patient was found obtunded and required intubation. CT head and MRI brain were did not reveal any acute pathology. CSF had no pleocytosis; CSF bacterial cultures and viral PCR were negative. Lab work revealed worsening transaminase levels and pancytopenia. Further testing revealed a markedly elevated ferritin (&gt;26,000 ng/mL) and IL-2 (53,000 U/mL). Serum EBV DNA PCR titer was 95,500 cpy/mL. These lab studies and bone marrow biopsy results confirmed a suspected diagnosis of HLH. Induction chemotherapy per HLH-2004 protocol was initiated. The patient responded to treatment with resolution of encephalopathy, normalization of lab values, and significant improvements of EBV viremia.
+
+# IMPACT/DISCUSSION:
+
+HLH is an aggressive and potentially life-threatening immune activation syndrome that is often associated with viral etiologies or malignancy in adult populations. EBV is the most commonly reported viral trigger, with mortality rates ranging 20 to 88% even with aggressive treatment. The diagnosis of HLH should be considered in adults presenting with multi-organ system failure, cytopenia, acute liver injury, and markedly elevated ferritin levels. The H-score, which includes points for fever, organomegaly, and lab abnormalities, is a risk-stratification tool that can estimate the probability of HLH, allowing for prompt initiation of treatment. The mainstay of HLH treatment is etoposide and dexamethasone, with cyclosporine and intrathecal methotrexate considered in patients with CNS involvement. In EBV-associated HLH the addition of rituximab is associated with lower EBV titers and ferritin level at 1 month. Treatment with anti-virals is also recommended in patients with active viremia, although supporting data is sparse. Hematopoetic stem cell transplantation is considered for patients who are refractory to initial therapy. The patient described herein had excellent initial recovery with cyclosporine induction, etoposide, rituximab, and a course of ganciclovir.
+
+# CONCLUSION:
+
+HLH is a potentially life-threatening condition that the internist needs to recognize early so appropriate treatment can be initiated. The H-score can be used to risk stratify patients.
+
+# THE EYES HAVE IT: RARE MANIFESTATIONS OF ADULT-ONSET IGA VASCULITIS
+
+Briggs Hoyt2; Naomi Habib; Surabhi Uppal; Ishani Shah3; Madeline Singer1; Binh T. Duong4. 1St Joseph's Hospital and Medical Center/Creighton University Medical School, Phoenix, AZ; 2Creighton University School of Medicine, Phoenix, AZ; 3St Joseph's Hospital and Medical center, Phoenix, AZ; 4St. Joseph Hospital and Medical Center, Phoenix, AZ. (Control ID #3176629)
+
+# LEARNING OBJECTIVE #1:
+
+Identify classic features of IgA Vasculitis in the setting of a complicated medical background.
+
+# LEARNING OBJECTIVE #2:
+
+Be able to associate rare manifestations of IgA vasculitis based on disease physiology.
+
+# CASE:
+
+A 49-year-old man presented with 1 week of chest pain, fever, and a rash. Extensive medical history included replaced congenital bicuspid aortic valve (on warfarin), stroke, pulmonary embolus, and chronic kidney disease. Exam was significant for bilateral crackles and a hemorrhagic palpable purpuric rash on his legs. Labs showed platelets 105, subtherapeutic INR 1.7, and creatinine 5.46 (baseline 3.5), with urinalysis significant for microscopic hematuria and proteinuria, and mild pulmonary congestion on chest imaging. He underwent diuresis and hemodialysis for fluid overload due to acute renal failure. On day 4 of admission, he developed sudden left-sided vision loss and was diagnosed with anterior ischemic optic neuropathy (AION). Echocardiogram and MRI were negative for thrombi. On day 5, his rash was noted to extend to his abdomen and chest. Autoimmune and infectious workup was negative; dermatology suspected reactive vasculitis and recommended supportive care. On day 6, he began experiencing chest pain and went into cardiogenic shock and cardiac arrest. He progressed to multiorgan failure despite intensive therapy, and care was withdrawn. The day after death, skin biopsy with immunofluorescence revealed leukocytoclastic vasculitis and perivascular IgA granules, consistent with IgA vasculitis (IgAV).
+
+# IMPACT/DISCUSSION:
+
+IgAV is primarily a pediatric disease, with a much rarer incidence in adults (0.1-0.8 per 100,000), often associated with higher morbidity and mortality. The majority of symptoms are due to formation of IgA complex deposits within end-organs small vessels, with the resultant classic tetrad of palpable purpura, polyarthropathy, gastrointestinal (GI) manifestations and nephritic syndrome. Recognizing IgAV in adults without this classic presentation can be difficult. Our patient's confounding factors, including his previous thrombi and presumed uremic thrombocytopenia, made the diagnosis of IgAV more challenging. Further, in keeping with its effects on small vessels, IgA vasculitis can present with mononeuropathies, such that monocular vision loss in the presence of a purpuric rash should prompt suspicion of vasculitis. AION is mainly associated with giant cell arteritis, but is a rare complication of other vasculitides as well, with only 2 other IgAV-associated cases described previously. Diagnosis is made on the basis of histopathology. No randomized-controlled trials exist to guide therapy; however experts recommend pulse-dose steroids for rapidly-progressive renal failure.
+
+# CONCLUSION:
+
+IgA vasculitis should be considered when palpable purpura, arthralgia, and GI/renal symptoms present concurrently, even in an adult. The sentinel event for a vasculitis can theoretically occur anywhere that vascular occlusion would present acutely.
+
+# THE FORGOTTEN PRE-CANCEROUS ITCH: VULVAR LICHEN SCLEROSIS
+
+Mariella Ntamatungiro. Weill Cornell Medical College-New York Presbyterian Medical Center, New York, NY. (Control ID #3186124)
+
+# LEARNING OBJECTIVE #1:
+
+Review vulvar lichen sclerosis as a differential for recurrent vulvar itching.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize vulvar lichen sclerosis as a high risk precursor lesion for vulvar squamous cell carcinoma.
+
+# CASE:
+
+41 yo monogamous woman with 2 children presented with recurrent vaginal itching over a period of 4 months. The itching occurred intermittently and unpredictably without discharge, dysuria, bleeding, or dyspareunia. Notably she denied new partners, douching, tight clothing, or change in hygiene products. She reported regular menstrual cycles and had her last child 3 years ago. She has had 4 clinic visits over this time frame. She has tested negative for bacterial vaginosis, candidiasis, trichomonas, gonorrhea-chlamydia, HIV, syphilis, and urinary tract infections. Pap with HPV testing was normal. Empiric treatment for candidiasis and bacterial vaginosis with fluconazole and metronidazole did not resolve her itching. On external pelvic exam, pertinent positives included erythema and skin hypo-pigmentation of the labia.

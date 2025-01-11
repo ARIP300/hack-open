@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+# Student Attitudes Towards Medicine and Specialty Choices
+
+# Methods
+
+An in-person cross-sectional survey was administered to incoming interns at UPMC about their experience with sexual harassment in medical school. The survey was adapted from a previously-published validated instrument (Sexist MESS) and included questions about attitudes following the experience of sexual harassment. The Likert scale answers to these questions were analyzed using chi-squared statistics to determine differences between male and female respondents.
+
+# Results
+
+185 graduates of U.S. medical schools returned the survey (100% response rate), with 182 completing both demographics and attitudes sections. Interns represented the full spectrum of specialties and graduated from medical schools across the country. 92 respondents identified as female, and 90 as male. The statement "Negative experiences related to my gender caused me to feel bad about coming to work" yielded answers of agree or strongly agree in 8.7% of women and 2.2% of men. 8.7% of women and 0% of men agreed with "Negative experiences related to my gender caused me to doubt my choice of medicine as a profession." 10.9% of women and 2.2% of men agreed with "Negative experiences related to my gender contributed to changing the specialty I pursued" (p<0.001 for all). Of those respondents who identified a specialty they switched from due to negative gender-related experiences, women most frequently identified surgical fields (5 of 9 responses). Men exclusively identified Obstetrics-Gynecology (3 of 3 responses).
+
+# Conclusions
+
+Students of both genders reported career consequences to negative gender-related experiences. Women are four times more likely to report negative outcomes related to sexual harassment, and these experiences impact their specialty choices, particularly in surgical fields. Addressing sexual harassment in medical school and building strong support systems will be crucial to ensuring that students can thrive in all specialties.
+
+# Caregiver Strain is Associated with Medication Adherence Among Caregivers with Diabetes: The Reasons for Geographic and Racial Differences in Stroke (REGARDS) Study
+
+Alexandra King3; Joanna Bryan; Monika M. Safford1; Catherine Riffin1; Ronald Adelman1; David Roth2; Madeline R. Sterling1. 1Weill Cornell Medical College, New York, NY; 2Johns Hopkins University, Baltimore, MD; 3 NewYork Presbyterian Cornell, New York, NY. (Control ID #3185462)
+
+# Background
+
+Caregiver strain is associated with adverse effects on caregivers' own health, particularly if the caregiver has cardiovascular disease. Less is known about the effects of caregiving strain among those with diabetes, a disease which has high self-care demands. Using a national sample, this cross-sectional study examined the effect of caregiver strain on caregivers' diabetes self-care behaviors.
+
+# Methods
+
+This study was conducted using data from the REGARDS study, a national, observational, longitudinal cohort of 30,239 black and white adults aged 45 years. A baseline telephone interview that included health behaviors was followed by an in-home visit collecting physiologic data, medication adherence, and dietary information. Participants who reported having diabetes and being a caregiver were included. Caregiver strain was assessed with, "How much of a mental or emotional strain is it to provide this care?" Responses were categorized as no strain, some strain, or high strain. Diabetes self-care was assessed across 4 domains (diet, exercise, smoking status, and medication adherence) and a composite self-care score which summed performance across these 4 domains (low [0-3], medium [4-5], and high [6-8]). The association between caregiving strain and diabetes self-care score was examined with multivariable logistic and ordinal regression, adjusting for demographic, clinical, physical and mental function, and caregiving covariates.
+
+# Results
+
+The sample included 795 caregivers with diabetes of mean age 63 years; 69% were women, 56% were black, and 18.4% reported high levels of caregiver strain. Being a woman, low income, low self-reported mental and physical health, high levels of stress, lack of social support, and spending 30 hours a week caregiving were associated with high caregiver strain. For diabetes self-care behaviors, compared to those with no or some strain, high caregiver strain was associated with less physical activity (p<0.05), low medication adherence (p=0.002), and overall worse self-care with lower composite self-care scores (p<0.02). In unadjusted models, high caregiver strain was associated with less physical activity (OR: 0.67 [95% CI: 0.46, 0.97]), low medication adherence (OR: 0.53, [0.35, 0.82]), and less optimal self-care overall (0.57, [0.36, 0.91]). After adjustment for sociodemographic data and cholesterol, the association between high strain and lower overall self-care persisted (aOR 0.59 [0.36, 0.97]). After adjustment through all models, only the association between high strain and low medication adherence persisted (aOR: 0.52, [0.30, 0.89]).
+
+# Conclusions
+
+These findings suggest that caregiving may interfere with caregivers' ability to take their own medications. Longitudinal studies are needed to determine the impact of this finding on health outcomes among diabetic caregivers. Additionally, increased awareness of the ramifications of caregiver strain on self-care is needed among medical providers and caregivers.
+
+# CareMore's Innovative Model of Care for High-Risk Medicaid Patients in the Mid-South: Preliminary Outcomes and Lessons Learned
+
+Mary E. McBride1; Sandeep Palakodeti2; Laura R. Sprabery1; James E. Bailey1. 1University of Tennessee Health Science Center, Memphis, TN; 2CareMore Health, Memphis, TN. (Control ID #3185955)
+
+# Background
+
+CareMore (CM), an integrated health plan and care delivery system, is seen as an innovator in improving outcomes and patient-centered care for the Medicaid population. Their model focuses on using extensivists in hospital to clinic transitions and a care team to provide support for patients. This study documents the early impact of the model and describes strengths and weaknesses from the perspective of personnel.
+
+# Methods
+
+This cross-sectional mixed-methods study evaluated early experience with the CM model which uses capitated payment from one Medicaid managed care organization (MCO) to serve some Medicaid patients in Shelby Co., TN. Assignments were non-random, with purposeful assignment of high-risk patients. Claims data for March '17-April '18 were used to compare outcomes between CM and non-CM patients, stratified by eligibility (e.g. Temporary Assistance for Needy Families [TANF], Aged/Blind/Disabled Non-Dual [ABD ND], & Long-Term Supportive Services [LTSS]), age, and gender. Outcomes were: number of ED visits, hospitalizations, hospital days, and specialist visits per 1000 members per year. We employed qualitative key informant interviews to evaluate the strengths and weaknesses of the model. Interviews with staff facilitated discussion of ways CM serves patients well, achieving lower hospitalization rates, what differentiates them from other clinics, motivation for working at CM, and suggestions for improvement.
+
+# Results
+
+CM served 22.4% (N=7637) of the MCO's patients during the period. CM ED visits were lower for TANF 21-44 F (% difference [ ] -14.9), TANF 21-44 M ( -34.5), TANF 45+ ( -31.6), and ABD ND ( -25.1); specialist visits were similarly lower. Hospitalizations were lower for TANF 21-44 F ( -2.1), TANF 45+ ( -42.4), and ABD ND ( -13.6). CM had similar reductions in hospital days in these groups. Eighteen employees completed interviews. Positive themes identified include holistic approach, case management, transitions of care, relationships with patients, extensivists, and wraparound team. They identified areas in which CM performed better: holistic approach, case management, relationships with patients, and wraparound team. Employees identified areas needing improvement: wait time, transportation, walk-ins, and accessing specialists.

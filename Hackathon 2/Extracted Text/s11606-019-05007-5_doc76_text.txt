@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# RESULTS:
+
+Of 439 potential participants, 191 (45%) responded; 34% were hospitalists. Only 5% of hospitalists, compared to 25% of PCPs, still participate in the opposite area of clinical care (outpatient vs. inpatient, respectively; p <0.01). At least 70% of each group preferred electronic communication methods. Over 96% in both groups agreed that mutually developing a transition-of-care plan avoids errors in care delivery, and nearly 80% of each group agreed that interprofessional collaboration through scholarly work and interdepartmental meetings improves the quality of patient care and fosters collaboration. The majority of both PCPs and hospitalists (>80%) agreed that patients receiving interprofessional care from PCPs and hospitalists are more prepared for discharge than those who do not. Nearly all PCPs (99%) agreed that communicating the need for the PCP to take responsibility for inpatient test results upon discharge was important, compared to 89% of hospitalists (p=0.03). However, 47% of hospitalists felt that developing a transitions of care plan is excessively time consuming, compared to 16% of PCPs (p <0.01). Only 17% of PCPs and 3% of hospitalists felt that patient care is adequately discussed between PCPs and hospitalists (p=0.01).
+
+# CONCLUSIONS:
+
+PCPs and hospitalists value interprofessional relationships and collaboration to provide high-quality care to patients. However, current practice structures make it difficult to find time to build these relationships, particularly for hospitalists. Given the preferred use of electronic messages to coordinate care between hospitalists and PCPs, EHR communications that specify care-transition needs may be a low-burden option to foster more collaboration between PCPs and hospitalists–however, the optimal content and delivery of care-transition communications require further study. Additionally, standardized agreements between PCP and hospitalist groups in their respective responsibilities in transitions-of-care may reduce errors during this critical time.
+
+# CONTROLLER MEDICATION USE AND EXACERBATIONS AMONG ADULTS WITH ASTHMA IN HIGH-DEDUCTIBLE HEALTH PLANS
+
+Alison Galbraith1, 3; Dennis Ross-Degnan1; Fang Zhang1; Xin Xu1; Anna Sinaiko2; Jamie Wallace1; Ann C. Wu3; James F. Wharam1. 1Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, MA; 2Harvard TH Chan School of Public Health, Boston, MA; 3Boston Children's Hospital, Boston, MA. (Control ID #3185381)
+
+# BACKGROUND:
+
+High-deductible health plans (HDHPs) are increasingly common and require enrollees to pay annual individual deductibles of more than $1,000 before the health plan will begin to pay for health care, often including medication costs. We sought to examine the impact of HDHP enrollment on asthma controller medication use and oral steroid bursts compared to enrollment in traditional health plans for adults with asthma.
+
+# METHODS:
+
+We selected adults aged 18-64 years who were enrolled in commercial coverage from a large national insurance carrier between 2004 - 2014 and had at least 12 months of enrollment in a traditional plan (baseline period) and 12 months of follow-up after either switching to a HDHP (intervention group) or staying in a traditional plan with low or no deductible (control group). Enrollees with a choice of plans were excluded to minimize bias due to selection. Our sample included all enrollees who had HEDIS-defined persistent asthma prior to the baseline year. We implemented a difference-in-difference (D-in-D) comparison of asthma care utilization between enrollees switching to a HDHP and controls staying in a traditional plan. We employed coarsened exact matching using baseline characteristics to select control groups. We analyzed changes in rates of 30-day fills of controller medications (inhaled corticosteroids [ICS], leukotriene inhibitors [LTI], or ICS-long-acting beta agonists [ICS-LABA]) and rate of asthma exacerbations (defined as oral steroid bursts) between the HDHP and control groups.
+
+# RESULTS:
+
+We identified 18,908 adults with persistent asthma who were switched to HDHPs, and 214,261 matched adult controls. Sixty-four percent of adults had no controller fills in the baseline year. Compared to controls, enrollees in HDHPs had relative decreases in 30-day fill rates for any controller (D-in-D: -2.9% [95% CI -4.8% — -1.0%]) and for ICS-LABA (-3.1% [95% CI -5.8% — -0.5%]). There were no significant differences observed in rates of ICS or LTI fills, and no significant differences in rates of oral steroid bursts.
+
+# CONCLUSIONS:
+
+Regular utilization of asthma controller medications is low for adults with persistent asthma. HDHPs were associated with reduced use of controller medications overall, especially ICS-LABA. There were no differences in rates of asthma exacerbations as measured by oral steroid bursts. Regular use of important preventive asthma medications may be compromised in HDHPs, where patients must pay a greater (and increasingly often the full) amount out-of-pocket for medications for an expensive class of drugs, particularly ICS-LABA. Differences in controller fill rates between HDHP and traditional plan enrollees were modest, suggesting that HDHP enrollees are spending significantly more out-of-pocket on asthma medications each year, putting them at risk of financial burden.
+
+# COPING WITH COMMUNITY VIOLENCE: A MIXED METHODS STUDY OF ADULT RESPONSES TO CHRONIC TRAUMA
+
+Tyrone A. Johnson; Nichole Smith; Madison R. Wilson; Monica E. Peek; Elizabeth L. Tung. University of Chicago, Chicago, IL. (Control ID #3184635)
+
+# BACKGROUND:
+
+Community violence continues to be a public health issue in many high-poverty, urban communities. Clinical strategies on providing care for violence-impacted patients are limited, as little research has examined how patients process and cope with violence. This mixed methods study aimed to characterize and quantify associations between violence exposure and common coping responses, including gun ownership.
+
+# METHODS:
+
+In 2017, we conducted, recorded, and transcribed focus groups and interviews with adults 35 years old (N=51) from 2 epicenters of violent crime in Chicago. Codes and themes were generated using grounded theory and the constant comparison method. In 2018, we additionally surveyed adult patients (N=506) using computer-assisted personal interviewing software. Participants were queried on coping strategies, using the Brief COPE normalized to a 100-point scale, as well as validated items about gun ownership. Lifetime violence exposure was measured using the Brief Trauma Questionnaire. We used generalized linear models to assess coping strategies as a function of violence exposure, controlling for age, gender, race/ethnicity, education, insurance, and employment. We also used identical model specifications to assess health behaviors as a function of positive or negative coping strategies.
+
+# RESULTS:
+
+Mean age was 60.2 ± 12.7 years. Participants were predominantly female (72%) and non-Hispanic black (76%). Two-thirds reported a prior exposure to community violence (62%), either as a direct victim (41%) or as an indirect witness, friend, or family member (49%). Some reported owning a gun (19%) or actively carrying a gun (12%), citing protection as the primary reason (77%). As one participant shared, "A lot more guys do carry a gun... for defense." Prior exposure to community violence was associated with 3.1 times higher odds of carrying any weapon (95% CI, 1.6-6.0) and 2.8 times higher odds of carrying a gun (95% CI, 1.3-6.1). A high level of stress due to violence was associated with a 29.3-point increase in implementing any coping strategy, positive or negative (95% CI, 22.9-35.8). However, participants reported implementing positive strategies (mean score 45.5) more often than negative strategies (mean 21.7, p <.001). For instance, exposure to community violence was significantly associated with increased coping by distraction (8.8 points; 95% CI, 1.7-15.9); one respondent explained the need to "plan fun… (to) try to lift your spirits." Higher positive coping was associated with more days of physical activity (1.03 days; 95% CI, 0.03-2.04), but not more days of fresh fruit and vegetable consumption or medication adherence.
+
+# CONCLUSIONS:
+
+Exposure to community violence was associated with both positive and negative coping strategies, including gun ownership.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Subclinical Hypothyroidism and Hyperthyroidism
+
+Follow-up time of 7.8±4.6 years BDI scores did not differ between participants with subclinical hypothyroidism and controls (pooled MD 0.07, 95% CI -0.25 to 0.40, I2 0.0%) nor between participants with subclinical hyperthyroidism and controls (pooled MD -0.004, 95% CI -0.57 to 0.56, I2 2.5%). The results remained robust in sensitivity analyses, excluding participants taking thyroid medication (N=23,602).
+
+# CONCLUSIONS:
+
+In this large study of prospective cohorts, neither subclinical hypo- nor hyperthyroidism were associated with an increased development in depressive symptoms. Depressive symptoms seem not to be a good indication for thyroxine therapy if no overt thyroid dysfunction is present.
+
+# TAKING SOCIAL MEDICINE FROM FREE TIME TO PRIME TIME: SCREENING FOR SOCIAL DETERMINANTS OF HEALTH IN A LARGE URBAN PRIMARY CARE CLINIC
+
+Daniel Gore 1; Emily B. Phelps 1; Zayd Hayani 1; Coralie Pardo 1; Leah Petrucelli 1; Shunei Asao 1; Adrienne Blackmon 2; Eve Escalante 2; Nousheen Meherally 2; Christopher Nolan 2; Charles F. Sweitzer 2; Ritika Dhawan 1; Elizabeth S. Davis 2. 1 Rush University, Chicago, IL; 2 Rush University Medical Center, Chicago, IL. (Control ID #3185815)
+
+# BACKGROUND:
+
+Patients at Rush University Internists (RUI) experience high rates of chronic diseases often influenced by social factors, but these social factors are infrequently discussed during appointments. This project aims to better identify, document, and address social determinants of health (SDoH) during medical appointments.
+
+# METHODS:
+
+Medical students piloted a SDoH screening protocol in RUI, a primary care practice in Chicago's West Side. The project assessed feasibility and optimization of student-led SDoH screening in primary care. This project was embedded in a larger institution-wide effort to increase SDoH screening. The SDoH questionnaire contains ten items addressing food security, housing, transportation, health insurance, and PCP access. When patients screen positive, resources are provided through a community resource database, NowPow, linked to the electronic medical record (Epic). NowPow identifies community resources close to where each patient lives. The protocol includes escalation to a licensed clinical social worker when needed. Screenings were assessed for average time spent, as well as number of patients screening positive for the various SDoH metrics. Domains of positive screens were characterized and analyzed, and patient feedback was elicited.
+
+# RESULTS:
+
+Between March and May of 2018, 43 patients were screened by six students, with the average screening time of five minutes. Fifty-six percent of patients (26) screened positive for one or more SDoH: food insecurity (17), utilities interruptions (14), transportation issues (9), insurance status (5), housing insecurity (2). Twelve patients were referred to social work. Overall, patients endorsed these efforts, as one stated "I'm glad you're asking these questions." Based on these experiences, the students involved in the pilot developed a student-run service learning program in which each year, a new interprofessional group of students is trained to screen for SDoH. In the 2018-19 school year, 30 students were trained and began screening patients in primary care. These students also partner with Rush-wide screening initiatives to screen patients in community outreach settings including health fairs.
+
+# CONCLUSIONS:
+
+SDoH screening in primary care is feasible, and rates of needs related to social determinants of health may exceed providers' expectations. Student screening offsets the workload of other staff. Institutional support of SDoH screening helps with stakeholder buy-in and accessing resources for patients. However, student schedules may limit screening large volumes of patients. Further exploration is needed to determine the most sustainable way to screen and connect patients with resources.
+
+# TEACHING TRANSITIONS OF CARE: WHO OWNS IT?
+
+Patrick Ryan 1, 2; Chi Zheng 3, 2; Alisha Skinner 3, 2. 1 Denver Health and Hospital Authority, Denver, CO; 2 University of Colorado School of Medicine, Aurora, CO; 3 Denver Health, Denver, CO. (Control ID #3184758)
+
+# BACKGROUND:
+
+Transitions of care are of increased focus and attention due to the financial impact of hospital readmissions on healthcare settings under the Hospital Readmission Reduction Program. However, the amount of education dedicated towards transitions of care is not well quantified or described. In this study, we assessed what capacity and where residents receive transitions of care education.
+
+# METHODS:
+
+We developed a 21 question survey to assess where residents receive transitions of care teaching, the format of the instruction and their attitudes towards receiving further instruction in this arena. We distributed the survey to a single internal medicine residency program with 180 residents having tailored curriculums including a hospitalist track, primary track and categorical tracks.
+
+# RESULTS:
+
+A total of 64 residents (35%) responded to the survey with 92% reporting that they had rarely or never received transitions of care didactics during their inpatient rotations. Similarly, 89% of respondents reported rarely or never receiving such didactics during their outpatient rotations either. All respondents reported understanding transitions of care to be important to safe and high quality patient care and 98% reported resident education being important to very important in their residency education. Most respondents (57%) felt moderately confident in their transitions of care planning while 39% felt slightly confident. None of the respondents felt very confident in their transitions of care planning. 90% of respondents had some interest in learning more about transitions of care; however, only 57% of respondents stated they would be interested in a rotation dedicated to learning more about transitions of care. Those who anticipated careers as hospitalists were more likely to be interested in a rotation dedicated to transitions of care compared to those pursuing careers as specialists or PCPs, 76% vs 45% vs 50%, respectively (p < 0.03). Respondents described their future career paths as predominantly specialty bound (39%) compared to hospitalist (30%) and primary care (25%). The distribution of respondents was similar across years of training at 30% for interns, 38% for second years, and 32% for third year residents.
+
+# CONCLUSIONS:
+
+Although transitions of care and readmission reduction have become of increasing importance to institutions to provide higher quality patient care and reduce healthcare costs, it appears that there is not much attention paid to resident education of this critical arena. Even as residents identify transitions of care to be of importance to their education and patient care, only slightly more than half of responding residents are interested in taking a curriculum dedicated to this field. Further study is necessary in the most effective ways of teaching transitions of care to resident physicians.
+
+# TECHNOLOGY UTILIZATION IN PATIENTS WITH CIRRHOSIS AND PREFERRED FEATURES OF DIGITAL HEALTH MANAGEMENT TOOLS
+
+Patricia Pringle; Thomas J. Wang; Bradley Green; Madeline Marx; Jasmine Ha; James M. Richter. Massachusetts General Hospital, Boston, MA. (Control ID #3154013)
+
+# BACKGROUND:
+
+Evidence-based guidelines have made important advances in cirrhosis care; however, many of these guidelines are not sustained in practice. Technology represents a promising tool to improve guideline compliance and health care delivery. We aimed to

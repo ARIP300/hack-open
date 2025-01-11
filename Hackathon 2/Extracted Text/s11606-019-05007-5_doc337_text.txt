@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# CASE REPORT: Pseudomonas Endocarditis
+
+Strokes commonly result from embolization, but SAH is a rarer complication, especially spontaneous, as most result from mycotic aneurysm rupture. Pseudomonas endocarditis is a rare form of IE and treatment is not clearly established, but generally includes an aminoglycoside with a secondary pseudomonal agent and consideration of surgical resection of the vegetation. The role of echocardiography in IE is extremely helpful for diagnosis and TEE should be pursued if TTE not indicative. Our patient had progression of her IE with new left-sided involvement. Mortality is higher with left sided endocarditis and surgery should urgently be pursued if possible. We were able to confirm that the vegetation decreased in size with a repeat echocardiogram, but serial echocardiograms could be useful in surveillance with antibiotic therapy to confirm resolution of the vegetations as P. aeruginosa endocarditis has no established antibiotic duration. One can consider echocardiograms to confirm resolution to prevent reoccurrence, as it occurred with our patient. Further research is needed to establish optimal antibiotics therapy.
+
+# CONCLUSION:
+
+We present a case of Pseudomonas endocarditis that highlights recognizing SAH as an uncommon neurological sequelae of IE, treatment with the importance of an aminoglycoside, and the role of echocardiography in IE.
+
+# A COMPLICATED CASE OF PV
+
+Hanyuan Shi. Tulane University School of Medicine, New Orleans, LA. (Control ID #3185271)
+
+# LEARNING OBJECTIVE #1:
+
+Demonstrate a complication of polycythemia vera
+
+# LEARNING OBJECTIVE #2:
+
+Illustrate diagnostic testing for ischemic colitis
+
+# CASE:
+
+A 63-year-old female with a history of polycythemia vera (JAK2 mutation and hypertension presented with acute onset of diffuse colicky abdominal pain and hematochezia. She had no prior weight loss, weakness, or anorexia. The patient described liquid bowel movements with overt blood. She had been managed with aspirin 325 mg daily, dipyridamole 50 mg TID, hydroxyurea 200 mg daily at home. She underwent monthly phlebotomies that had been uncomplicated per her outpatient hematology provider. Her vitals were stable, albeit for mild hypertension at 152/76. Initial labs were significant for WBC 6.9, hemoglobin 13.8, and platelets of 447. INR was normal at 1.1. CT abdomen/pelvis showed thickening of the gastroesophageal junction and adenomyomatosis. Infectious stool studies were negative. She had a screening colonoscopy two months ago that was negative for colonic abnormalities, only non-bleeding internal hemorrhoids. During her admission, she underwent a flexible sigmoidoscopy. Findings included congested, erythematous, inflamed and ulcerated mucosa in the descending colon, sigmoid, and rectum likely secondary to colon ischemia. The hematology service was consulted for phlebotomy and the patient had 500 ml of blood removed with resolution of symptoms. Confirmation biopsies came back a week later showing descending colon and rectum with atrophic colonic epithelium consistent with ischemic changes. The biopsy was negative for evidence of chronic colitis, as well as negative for dysplasia or malignancy.
+
+# IMPACT/DISCUSSION:
+
+Polycythemia vera (PV) is a myeloproliferative disorder characterized by increase in red blood cell, white blood cell, and platelets. Thrombotic complications are unfortunately not rare, and can include cerebral infarction, thrombophlebitis, myocardial infarction, and ischemic colitis. Here we demonstrate an acute case of ischemic colitis (IC) (biopsy-proven) from PV, only the 4th documented case in the literature, that occurred 1-2 months after a normal colonoscopy. Ischemic colitis from PV is reversible but requires quick and precise diagnostic effort. Although enhanced abdominal CT and CT enterography are the gold standards for IC, a colonoscopy or a flexible sigmoidoscopy can also be used for definitive histopathological diagnosis. In patients with PV, biopsies of colonic lesions can more accurately differentiate IC from chronic inflammatory bowel diseases. Treatment of IC relies on controlling the primary cause. In this case, that involved expedited phlebotomy for PV; other therapies have included anticoagulation with LMWH and initiation of mesalazine.
+
+# CONCLUSION:
+
+Internists are often asked to coordinate care from different subspecialty services. This case highlights a complication of polycythemia vera and the use of consultant services to aid in diagnosis and management of this patient.
+
+# A COOL CASE REPORT: SPONTANEOUS PERIODIC HYPOTHERMIA
+
+Hayley N. Price; Jennifer Jacobs; Alexander Hajduczok; Ami DeWaters. Penn State Hershey Medical Center, Hershey, PA. (Control ID #3185792)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the etiologies and evaluation of hypothermia.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the pathophysiology of spontaneous periodic hypothermia and how that may guide treatment options.
+
+# CASE:
+
+A 66-year-old man with dementia was transferred to the hospital from a local skilled nursing facility with recurrent hypothermia. On presentation, he was obtunded and unable to provide a history. He had been hospitalized twice that same year with a similar presentation. An extensive workup had been done during those admissions and was unrevealing. On admission, his temperature was 32 degrees Celsius, with a pulse of 44, and blood pressure of 92/56. On physical exam, he was obtunded. Pupils were equal, round, and reactive to light; more complete neurologic exam was deferred due to inability for him to participate. Laboratory testing demonstrated chronic anemia with a hemoglobin of 7.2 and chronic kidney disease with a creatinine of 2.3, with a normal TSH and morning cortisol. A urine toxicology screen was negative. He was treated with a Bair Hugger blanket as well as supportive care. His temperature spontaneously returned to normal after two days and the Bair Hugger was discontinued. His mental status improved with resolution of hypothermia, and he was discharged back to his facility with the presumptive diagnosis of spontaneous periodic hypothermia.
+
+# IMPACT/DISCUSSION:
+
+Hypothermia has multiple etiologies presenting a diagnostic challenge. Causes of hypothermia are commonly divided into the following categories: exposure, metabolic, infectious, and central. Exposure can be both intentional, for instance in an operating room, or unintentional, such as accidental cold water immersion. These etiologies can be determined by history. Metabolic etiologies include hypothyroidism, adrenal insufficiency and hypopituitarism. Sepsis can result in hypothermia. Central causes include trauma or stroke. Therefore, the evaluation of hypothermia should include TSH, morning cortisol, full infectious work-up with cultures, and head imaging, including MRI. If no etiology is discovered, the differential may need to be expanded further, as in this case. Spontaneous Periodic Hypothermia is a rare cause of hypothermia characterized by recurrent episodes of hypothermia thought to be mediated by central nervous system pathology without a clearly identifiable brain lesion. Though the exact pathophysiology is unclear, the cyclic nature of episodes has led to the thought that the pathophysiology may be similar to epilepsy. Treatment with antiepileptic medications has been trialed with success in a number of case reports. Further research is necessary to determine if these medications are truly effective.
+
+# CONCLUSION:
+
+Evaluation of a patient with hypothermia mandates consideration of a broad differential, particularly in cases in which a clear etiology is not evident. Spontaneous Periodic Hypothermia is a rare cause of hypothermia that may respond to treatment with antiepileptic medications.
+
+# A COUGH MAY JUST BE THE TIP OF THE ICEBERG
+
+Ian Cormier; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186036)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to liver abscesses
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the association of pyogenic liver abscesses and occult malignancy

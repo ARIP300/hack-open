@@ -1,0 +1,51 @@
+# PAJAMA TIME: WORKING AFTER WORK IN THE ELECTRONIC HEALTH RECORD
+
+Kanan Shah1; Harry S. Saag2, 1; Leora I. Horwitz2, 1; Paul Testa3. 1NYU Langone School of Medicine, Gibsonville, NC; 2NYU School of Medicine, New York, NY; 3NYU Langone Health, New York, NY. (Control ID #3182665)
+
+# BACKGROUND:
+
+Electronic health record (EHR) documentation may contribute to burnout, especially for those with substantial clinical effort. We assessed whether clinical effort is associated with working in the EHR after work hours.
+
+# METHODS:
+
+We included all ambulatory physicians in a medicine specialty continuously practicing at any NYU Langone Health Faculty Group Practice site between May 1 and October 31, 2018. We quantified minutes logged into the EHR on days without scheduled appointments, and minutes logged into the EHR 30 minutes before and after appointments on days with scheduled appointments. We termed this time "work after work." We categorized physicians by their average number of days with appointments per week. Data were analyzed using SAS 9.4 (SAS Institute, Cary, NC). We calculated least squares means of fixed effects to account for heterogeneous variances, and compared means using Tukey's multiple comparison test. This study met institutional review board criteria for quality improvement work.
+
+# RESULTS:
+
+We included 300 physicians, of whom 28.6% were general internists. The average physician had 3 days/week with scheduled appointments, spent 114.9 min in the EHR on days without appointments, and spent 21.7 min in the EHR after work hours on days with appointments. Time spent in the EHR on days without appointments increased with the number of appointment days per week (14.7 min/unscheduled day for 1 day/week vs. 193.8 min/unscheduled day for >4 days/week, p<0.001). Time spent in the EHR after hours on days with scheduled appointments did not significantly differ (Table 1).
+
+# CONCLUSIONS:
+
+All ambulatory physicians spend a substantial amount of time working in the EHR after hours and on unscheduled days (including weekends), but physicians with more clinical time were disproportionately burdened. The most clinically active spent an average of 2.8 hours in the EHR each unscheduled day. These findings add to concerns about EHR usability and documentation burden, particularly for busier clinicians. Our institution is now building dashboards to track work after work, offloading tasks to ancillary team members to reduce physician work burden, and exploring whether outliers would benefit from personalized technical assistance and training. Work after work analyses could be employed elsewhere to motivate similar improvements.
+
+# Time spent on work after work, by clinical effort
+
+|Days per week with appointments|Average work after work (min/day) on days with appointments|Average work (min/day) on days without appointments|
+|---|---|---|
+|(0-1] (n=7)|28.9 + 11.7|14.7 + 3.6|
+|(1-2] (n=17)|12.8 + 5.5|37.3 + 7.8|
+|(2-3] (n=59)|20.6 + 3.3|58.9 + 7.2|
+|(3-4] (n=113)|20.3 + 2.2|90.0 + 10.5|
+|(4-5] (n=104)|24.5 + 2.7|193.8 + 39.8|
+
+Ip-0.34 pp<o.001
+
+# PARTNERING WITH ADVOCATES TO ASSESS BREAST DENSITY PATIENT EDUCATIONAL MATERIALS
+
+Christine Gunn1, 2; Mark Kennedy3; Ariel Maschke1; Michael D. Fishman4; Margaret Hopkins5; Erica T. Warner5. 1 Boston University, Boston, MA; 2 Boston University School of Public Health, Boston, MA; 3 Boston Public Health Commission, Boston, MA; 4 Boston Medical Center, Boston, MA; 5 Massachusetts General Hospital, Boston, MA. (Control ID #3184896)
+
+# BACKGROUND:
+
+Mammographic breast density increases lifetime risk of breast cancer and reduces mammography sensitivity. Thus, 34 states enacted laws that require women be informed for their breast density. Evidence shows that relative to White women, Black women are more likely to have dense breast tissue, yet experience more anxiety and have less knowledge about their density. This is in part due to discordance between population health literacy levels and the grade levels at which breast density notifications are written. This study aims to 1) identify preferred educational content, format and opportunities for cultural tailoring and 2) characterize the readability and understandability of breast density information to improve the quality of breast density education for Black women.
+
+# METHODS:
+
+Members of the Pink & Black Education and Support Network, a group of Black breast cancer patients/survivors in Boston, were invited to discuss breast density materials. We used a cognitive priming task in which women distributed 10 dots across six elements of communication, indicating the relative importance of each. Ratings guided the discussion of two sample materials from national breast cancer advocacy groups. We also compiled 21 publicly-available educational materials designed for women with dense breasts. Readability was evaluated using the Flesch-Kincaid and Dale-Chall New Readability metrics. Understandability was measured using the Patient Education Material Assessment Tool (PEMAT), where higher scores suggest patients will be able to understand and act on the information provided. Scores were rated by two coders and discrepancies resolved in a 3-person consensus process.
+
+# RESULTS:
+
+Nine Pink & Black members convened over 3 sessions. The cognitive priming task revealed that the most important elements of breast density education were "knowing what I can do about dense breasts", "being able to ask questions", and "getting information quickly". Consistent with readability analyses, women suggested current materials did not adequately convey a clear definition of breast density, but rather used complex medical jargon instead of simple language. Women advised briefing women in waiting rooms prior to their mammogram about breast density using informational videos. To decrease anxiety, women desired information via peers or health navigators, rather than a doctor. The mean Flesh-Kincaid grade for the 21 breast density materials was 9.7 (5.5 - 12.7). Thirteen were assessed at Grade 11-12 on the New Dale-Chall score, one Grade 10-11, and six Grade 9-10. The average PEMAT score was 66/100 (40-81).
+
+# CONCLUSIONS:
+
+We found that breast density education materials available to the public exceed the recommended reading level of 5-8th grade for health education materials, creating a barrier for patients' ability to use this information for breast cancer screening decision-making. Educational materials that respond to women's preferences are in development and will be presented to complement these analyses.

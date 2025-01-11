@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# MYCOPLASMA PNEUMONIAE AS AN UNCOMMON ETIOLOGY OF SJS-TEN IN ADULTS
+
+for management of septic shock. Biopsy revealed erythema multiforme, and Stevens-Johnson Syndrome-Toxic Epidermal Necrolysis (SJS-TEN) overlap syndrome was diagnosed based on body surface area involvement. He eventually underwent a tracheostomy and gastric tube placement. Over five weeks, his respiratory status and cutaneous lesions slowly improved, and he was discharged to a rehabilitation facility.
+
+# IMPACT/DISCUSSION:
+
+Mycoplasma pneumoniae is a well-known cause of mild and self-limited community acquired pneumonia. Extra-pulmonary manifestations, however, are reported to occur in 25-33% of cases, occasionally severe enough to require ICU level of care. While severe rash and mucositis phenomenon are reported to occur in pediatric infections, SJS-TEN is a rarely documented extra-pulmonary manifestation of M. pneumoniae infections in adults. Alternatively, SJS-TEN observed in the adult population is most commonly postulated to be due to drug reactions. The educational objective of this case report is to highlight that dermatologic manifestations as severe as SJS-TEN may occur with M. pneumoniae infection in adults, which, when recognized early and treated appropriately, can lead to significantly better patient outcomes.
+
+# CONCLUSION:
+
+This case establishes M. pneumoniae as an uncommon etiology of SJS-TEN spectrum in the adult population. Despite several pediatric reports of severe cutaneous manifestations, such as SJS-TEN, associated with M. pneumoniae infection, its presentation in adults is not well illustrated in the literature. As such, consideration of this bacterium in the diagnosis and management of the critically ill patient presenting with SJS-TEN can lead to earlier implementation of crucial and necessary treatment, leading to improved patient outcomes.
+
+# MYCOTIC ANEURYSM MASQUERADING AS INFERIOR STEMI
+
+Sherman Yu2; Sudhi Tyagi1; Jorge Saucedo2. 1Medical College of Wisconsin, Wauwatosa, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3175554)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize mycotic coronary aneurysms as a complication of infective endocarditis in high risk hemodialysis patients.
+
+# CASE:
+
+A 60-year old male with ESRD, IV drug abuse and recent massive gastrointestinal bleed was found unresponsive after completing an outpatient hemodialysis session. EMS was dispatched, discovered an inferior STEMI on EKG and transported him to the hospital. On arrival, the patient's MAP was 50mmHg. Inferior STEMI was confirmed. Troponin was elevated at 0.138. IV fluids, vasopressors and naloxone were administered, normalizing the patient's somnolence, hemodynamics and derangements on EKG. Soon after, the patient's mental status again waned, requiring intubation. Repeat EKG again showed inferior STEMI. He was then taken to the cardiac catheterization lab on vasopressors. His left coronary circulation revealed atherosclerosis without acute plaque rupture. Angiography of the RCA revealed a 2cmx3cm ovoid aneurysmatic dilatation near the ostium of the artery which was occluded distally and prevented contrast filling of the RCA. STAT TTE revealed a perforated mitral valve and a possible fistula between the left ventricular outflow tract and left atrium. The patient's MAP dropped to 30mmHg and CPR was initiated. A prompt multidisciplinary conference was held at bedside and the patient was ultimately deemed a poor candidate for further interventions. He died soon after CPR was discontinued due to medical futility. A subsequent review of records from an outside hospital revealed a history of infective endocarditis (IE), severe mitral valve regurgitation and blood cultures positive for Streptococcus pneumoniae six months prior to presentation.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the extraordinarily high risk of IE in hemodialysis patients with a history of IV drug use and bacteremia. Bloodstream infections are the second most common cause of mortality among ESRD patients. Such patients are 25 times more likely to develop a bacteremia compared to the general population. Furthermore, the severity of illness in ESRD patients is significantly higher, often resulting in prolonged hospital stays. IE is a serious complication of bacteremia, for which dialysis and IV drug use are independent risk factors. Mycotic coronary aneurysms (MCA) are an extremely rare complication of IE, occurring in less than 0.5% of such cases. Various mechanisms may lead to its development: infarction of the vasa vasorum, immune complex deposition, and bacterial invasion of the vessel wall. The prognosis is grave, characterized by high morbidity and mortality. In this patient who presented with an inferior STEMI, we suspect a MCA located in the RCA compressed the arterial lumen leading to acute myocardial ischemia in the setting of decreased preload after a dialysis session, further exacerbated by severe mitral valve regurgitation.
+
+# CONCLUSION:
+
+IE may be complicated by MCAs and should be recognized in high-risk populations including hemodialysis patients with IV drug use history and prior bacteremia.
+
+# MYOCARDITIS IN UNCONTROLLED ADULT-ONSET ASTHMA
+
+Lesley Wu; Misa Hyakutake. Mount Sinai Beth Israel, Manhattan, NY. (Control ID #3161305)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and promptly treat eosinophilic myocarditis
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose eosinophilic granulomatosis with polyangiitis in patients with adult-onset asthma
+
+# CASE:
+
+A 59-year-old Caucasian man with adult-onset asthma and chronic sinusitis presented to ED with dyspnea that awoke him from sleep. He reported fatigue and dyspnea for a year that significantly worsened in the past month with wheezing upon exertion and dry cough refractory to inhaled steroids. Two weeks prior, patient had an exacerbation that responded well to a short course of oral steroids. He denied chest pain, fever, rash, or edema. Three years prior, he was diagnosed with asthma. Eosinophilia of 1500 was noted for a year without identified cause. Patient had allergies to penicillin and aspirin. He was a never smoker. Vitals and physical exam were unremarkable. Laboratory test showed leukocytosis of 14,400 with eosinophil of 4,500 and troponin of 15. EKG showed loss of R wave in V1-V4. Suspected for myocardial infarction, patient underwent left-heart catheterization, which showed diffuse non-obstructive disease. Transthoracic echocardiogram showed reduced left ventricular ejection fraction (LVEF) of 38% from 58% three years prior. Cardiac MRI revealed diffuse myocardial enhancement with edema. Right ventricle biopsy showed inflammatory infiltrates with prominent eosinophils and myocyte damage consistent with eosinophilic myocarditis. Patient met the diagnostic criteria for eosinophilic granulomatosis with polyangiitis, and intravenous steroids were initiated with immediate symptom alleviation and resolution of eosinophilia and troponin elevation. He was discharged on oral steroids with improvement of LVEF to baseline at one-month follow up. Later, ANCA serology returned within normal values.
+
+# IMPACT/DISCUSSION:
+
+Adult-onset asthma, dyspnea refractory to asthma treatment, and peripheral eosinophilia should prompt investigation of eosinophilic granulomatosis with polyangiitis.
+
+# CONCLUSION:
+
+Eosinophilic myocarditis (EM) is a rare yet life-threatening inflammatory complication that accounts for half of the mortality attributable to eosinophilic granulomatosis with polyangiitis (EGPA). The diagnosis of EM requires biopsy to confirm; however, expeditious initiation of systemic glucocorticoids before results of all investigation are available can minimize permanent myocardial damage. Diagnosing EGPA is often difficult because of the sequential nature of clinical manifestations and low sensitivity of laboratory tests. Although ANCA serology is a pathognomonic workup for EGPA, ANCA is only positive in up to 38% of the patients. In fact, cardiac involvement is observed more in ANCA negative patients. The presence of adult-onset asthma refractory to appropriate asthma treatment warrants workup for masqueraders of asthma including EGPA. Our case supports literature that.

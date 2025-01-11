@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# NEW MODELS FOR EARLY WARNING OF DECOMPENSATION AND DEATH IN AN ACUTE CARE GENERAL MEDICAL SETTING.
+
+Russ Clay1, 2; John Voss1; John E. Ainsworth2; Joel M. Schectman1; Andrew Barros1; Valentina Baljak2; Megan Pierce1. 1University of Virginia, Charlottesville, VA; 2UVA Health System, Charlottesville, VA. (Control ID #3180902)
+
+# BACKGROUND:
+
+Published vitals-based early warning tools may suffer from low positive predictive value (PPV) and low sensitivity (SENS) when applied clinically, and traditional methods of model evaluation do not fully represent clinical implementation trade-offs. We sought to 1) develop new early warning methods & models for the acute care; 2) develop an improved method of evaluating the clinical model trade-offs.
+
+# METHODS:
+
+Data from 8,706 unique hospital General Medicine service stays from 7/2017 - 11/2018 were extracted from the EHR including vital signs, CBC and metabolic panels, and nursing assessments. Using these measures, we created excess risk (ER) and random forest (RF) models to predict mortality 12-24 hours before death. For ER, we used Rothman's approach (2013) to estimate the non-linear excess risk of a death associated with input values and derive a total patient level excess risk of mortality. For the RF model, all input measures were used for training. For both models, the data was split into training (70%) and test (30%) partitions. We evaluated models by simulating their implementation on time-series structured historical data, incorporating a 6-hour lockout on model fires to mimic operational alerts, calculating the PPV, SENS and daily model fire rate. The bootstrap method was used to calculate confidence intervals. ER and RF model performance (including vitals, labs, and nursing data) was compared to the published NEWS model (vitals only) using traditional methods (AUC) as well as PPV/SENS/Fire Rate (table).
+
+# RESULTS:
+
+Analysis demonstrated an AUC of 0.87 [0.865,0.874] for the ER, 0.847 [0.843, 0.851] for the RF and 0.806 [0.805, 0.808] for the NEWS model, showing superiority of both the ER and RF models to NEWS. For comparable fire rates of ~4/day (for a census of 80 patients), model ranking for SENS+PPV was ER>RF>NEWS.
+
+# CONCLUSIONS:
+
+This evaluation method of PPV/Sensitivity/Fire Rate indicates that the ER model outperformed the RF and NEWS models and that adding lab values and nursing assessments boosts the performance of the ER and RF models versus the vitals-based NEWS model. In evaluating model performance, sites will differ in terms of what are perceived to be optimal performance characteristics (PPV/Sensitivity/Fire Rate) given the trade-offs involved.
+
+# NON-CONSENSUAL OPIOID TAPERING AMONG VETERANS RECEIVING LONG-TERM OPIOID THERAPY
+
+Joseph W. Frank1, 2; Evan Carey2; Anne Hale3; Charlotte Nolan4; Erin E. Krebs5. 1University of Colorado School of Medicine, Aurora, CO; 2Rocky Mountain Regional VA Medical Center, Aurora, CO; 3Veterans Affairs, Denver, CO; 4Veterans Health Administration, Denver, CO; 5Minneapolis VA Health Care System, Minneapolis, MN. (Control ID #3185405)
+
+# BACKGROUND:
+
+There is inadequate evidence of benefit from long-term opioid therapy (LTOT) and growing evidence of opioid-related harms. Expert guidelines recommend assessment of benefits and risks of LTOT, and when risks exceed benefits, these guidelines recommend reduction or discontinuation of LTOT using individualized treatment plans. However, patients' goals may not align with recommendations to reduce or discontinue LTOT. We examined Veterans' experiences with non-consensual opioid dose reduction or discontinuation ("opioid tapering").
+
+# METHODS:
+
+We conducted a cross-sectional study within a national prospective cohort study, the Effects of Prescription Opioid Changes for Veterans (EPOCH) Study. The EPOCH Study identified Veterans on LTOT, defined as 150 days' supply in 180 days with no gaps >40 days, and 9,253 Veterans completed a baseline survey in 2015 (92% by mail, 8% by phone). We randomly selected 600 Veterans who met two criteria at EPOCH baseline: 1. completed mail survey; and 2. prescribed 50mg morphine equivalent daily dose (MED). We invited these individuals to participate in a structured phone interview at the 18-month EPOCH timepoint and completed 316 interviews (53% response rate). Interviews examined Veterans' experiences with opioid tapering as well as domains including pain severity, function, mood, sleep, fatigue and social isolation. We obtained data on demographics, medications and diagnoses from the electronic health record. We used the chi-square test to examine bivariate associations with demographic characteristics, comorbid diagnoses and medication characteristics. All analyses were conducted using R (Vienna, Austria).
+
+# RESULTS:
+
+The study sample was 73% age 60 years or older, 92% male and 87% White. The most common pain diagnoses were back pain (76%) and other joint pain (46%). Opioid medication doses at EPOCH baseline were 50-99mg MED (53%), 100-199mg MED (37%) and 200+mg MED (10%). Overall, 68% reported fair or poor health status, and 51% reported pain severity that was slightly worse or much worse than 1 year ago. A majority (190/316, 60%) reported tapering in the past year or discontinuing opioid medications. Past year opioid tapering was associated with White race (P=.02) and marital status (P=.01). Among participants who reported past year opioid tapering (N=150), 50% reported that opioid medications were tapered "without your consent or against your wishes". In bivariate analyses, no patient characteristics were significantly associated with self-reported non-consensual opioid tapering.
+
+# CONCLUSIONS:
+
+Among Veterans prescribed high-dose long-term opioid therapy, a majority report recent dose reduction or discontinuation, and non-consensual opioid tapering is common. Future studies should explore provider- and facility-level correlates of non-consensual opioid tapering and examine the effects of non-consensual tapering on the potential benefits and risks of opioid tapering.
+
+# NON-OPIOID PRESCRIPTION ALTERNATIVE INITIATIVE (NOPAIN) - AN EDUCATIONAL INTERVENTION TO IMPROVE UTILIZATION OF NON-OPIATE ANALGESICS IN THE TREATMENT OF BACK PAIN.
+
+Scott Holmes1; Edward Ewen2. 1Christiana Care Health System, Philadelphia, PA; 2Christiana Care Health System, Newark, DE. (Control ID #3177463)
+
+# BACKGROUND:
+
+The use of chronic opioid therapy (COT) has grown exponentially over the last 10 years, but there is currently no evidence for its use in the treatment of chronic back pain. The Non-Opioid Prescription Alternative Initiative (NOPAIN) focused on the effectiveness of an educational intervention to improve utilization of non-opiate pain medication. The study aimed to improve provider knowledge deficits of non-opioid adjuncts with an educational intervention based on the ACP's Clinical Practice Guideline for noninvasive treatment of low back pain.
+
+# METHODS:
+
+NOPAIN is a prospective cohort study of patients seen in an urban Internal Medicine primary care clinic between April 2017 and December 2017. Individuals were identified by ICD-10 diagnosis of low back pain, with all demographics, diagnoses, and prescribing history obtained through the institution's electronic health record. A non-opioid prescription alternative protocol was created using the ACP's Clinical Practice Guideline for noninvasive treatment of low back pain. Education sessions took place during resident conferences and providers were then given ID badge cards summarizing the recommendations. The control group were the patients of attending physicians, whom did not receive the educational intervention. Data was then examined to determine whether prescribing patterns changed based on the NOPAIN intervention, evaluating the frequency of opioid versus non-opioid analgesic prescriptions. Comparisons between groups were evaluated using the related samples signed Wilcoxon rank test and Chi-square (SPSS 25.0).
+
+# RESULTS:
+
+Of the 8044 patients seen in 2017, 1053 (13.1%) received opioid prescriptions, 133 (1.7%) were identified as COT patients, and 96 (1.2%) of these were diagnosed with back pain. Of this group, 40 patients were under the care of resident physicians, while 56 were treated.

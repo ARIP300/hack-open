@@ -1,0 +1,36 @@
+by PEI. Moreover, different demographic variables comprising gender, length of employment, and employment department had different effects on PEA, PEI, and PEB.
+
+The contributions of this study are outstanding. At the theory level, this study introduces the concept of health risk perception into the process of environmental protection to compensate for theoretical gaps, provides a new viewpoint to explore PEB, and adds new content to future research on environmental protection. Moreover, this study regarded the TPB, the ABC, and the IAB as theoretical foundation to form a comprehensive framework including CHRP, PEB, PEI, PEA, and demographic and work factors to explain PEB among hospital workers, which can better illustrate the influence of PEB and narrow the apparent attitude-intention-behavior gap at hospital. Additionally, it explained the translation from CHRP to PEB through the mediating role of PEI and PEA. In brief, current study greatly enriches the field of environmental protection.
+
+At the practical level, the carbon footprint of hospital is obvious, this study explores the influencing factors of adopting PEB by hospital workers, transforming CHRP into PEB is important for decreasing carbon emissions. Furthermore, hospital workers’ PEB is critical to improve environmental health and public health, and meanwhile enhance workers’ satisfaction and well-being. Moreover, hospital workers are widely respected and become role models for the public, which means that a certain PEB performed by hospital workers can contribute to others to imitate and perform the same behavior. Accordingly, researchers and policy-makers should pay more attention to hospital workers and formulate appropriate interventions to promote the adoption of PEB.
+
+This study has some limitations which require close attention in subsequent studies. First, this study only considers the effect of climate change health risk perception, other social-psychological variables, such as environmental concern, perceived effectiveness, and emotion, are not considered. In future, above mentioned critical variables should be measured together with the TPB and other related theories such as the theory of protection motivation and the theory of reasoned action. Second, as cross-sectional research, this study does not reveal how to change individuals’ pro-environmental behavior. In future, we can use longitudinal methods to indicate the effectiveness of specific interventions, and then promote more pro-environmental behavior adopted by individuals. Third, the TPB is a part of the theoretical foundation of this study, however, we do not take other variables in TPB such as subjective norm and perceived behavioral control into the research model. In further research, we can integrate CHRP into complete TPB to clarify the relationship among them. Fourth, this study is conducted in Shanxi Province, China. There are wide variations of economic development situations and environmental pollution conditions among different regions, resulting in PEB may also be different from region to region. Hence, comparative studies should be conducted to explore these differences.
+
+# Data availability
+
+The datasets used and/or analyzed during the current study available from the corresponding author on reasonable request.
+
+Received: 29 January 2024; Accepted: 23 April 2024
+
+Published online: 29 April 2024
+
+# References
+
+1. Malhi, Y. et al. Climate change and ecosystems: Threats, opportunities and solutions 20190104 (The Royal Society, 2020).
+2. Beckage, B., Moore, F. C. & Lacasse, K. Incorporating human behaviour into Earth system modelling. Nat. Hum. Behav. 6(11), 1493–1502 (2022).
+3. Singh, S. Energy crisis and climate change: Global concerns and their solutions. Energy: Crises, Challenges and Solutions, 1–17, (2021).
+4. Farghali, M. et al. Strategies to save energy in the context of the energy crisis: A review. Environ. Chem. Lett. 21(4), 2003–2039 (2023).
+5. Borowski, P. F. Mitigating climate change and the development of green energy versus a return to fossil fuels due to the energy crisis in 2022. Energies 15(24), 9289 (2022).
+6. Zhang, S. et al. The 2023 China report of the Lancet Countdown on health and climate change: Taking stock for a thriving future. Lancet Public Health 8(12), e978–e995 (2023).
+7. Gu, D. et al. Concern for the future and saving the earth: When does ecological resource scarcity promote pro-environmental behavior?. J. Environ. Psychol. 72, 101501 (2020).
+8. Hua, Y., Dong, F. & Goodman, J. How to leverage the role of social capital in pro-environmental behavior: A case study of residents’ express waste recycling behavior in China. J. Clean. Prod. 280, 124376 (2021).
+9. Li, X. et al. Quality of primary health care in China: Challenges and recommendations. Lancet 395(10239), 1802–1812 (2020).
+10. Weisz, U. et al. Carbon emission trends and sustainability options in Austrian health care. Resour. Conserv. Recycl. 160, 104862 (2020).
+11. Prada, M. et al. New solutions to reduce greenhouse gas emissions through energy efficiency of buildings of special importance– Hospitals. Sci. Total Environ. 718, 137446 (2020).
+12. Tennison, I. et al. Health care’s response to climate change: A carbon footprint assessment of the NHS in England. Lancet Planet. Health 5(2), e84–e92 (2021).
+13. Jin, Y., Andersson, H. & Zhang, S. Air pollution control policies in China: A retrospective and prospects. Int. J. Environ. Res. Public Health 13(12), 1219 (2016).
+14. Tong, M. X. et al. China’s capacity of hospitals to deal with infectious diseases in the context of climate change. Soc. Sci. Med. 206, 60–66 (2018).
+15. Dudney, J. et al. Nonlinear shifts in infectious rust disease due to climate change. Nat. Commun. 12(1), 1–13 (2021).
+16. Wei, S. et al. An examination to explain the mechanism of employees’ environment-specific behavior through CSR and work engagement from the perspective of stewardship theory. Int. J. Environ. Res. Public Health 18(17), 9370 (2021).
+17. Singleton, J. A., Lau, E. T. & Nissen, L. M. Do legislated carbon reduction targets influence pro-environmental behaviours in public hospital pharmacy departments? Using mixed methods to compare Australia and the UK. Plos one 16(8), e0255445 (2021).
+18. Deng, Y. et al. Conceptualizing the role of target-specific environmental transformational leadership between corporate social responsibility and pro-environmental behaviors of hospital employees. Int. J. Environ. Res. Public Health 19(6), 3565 (2022).

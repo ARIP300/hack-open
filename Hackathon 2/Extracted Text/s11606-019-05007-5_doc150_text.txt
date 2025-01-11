@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Hypoglycemia and Mortality
+
+Hypoglycemia occurs in 3.5-10.5% of patients on the general medical floors and in 12-18% among patients with diabetes, owing in part to focus on glycemic control in patients with diabetes. Moderate glycemic control prevents microvascular complications and may reduce long-term cardiovascular complications; however, results from the ACCORD trial have shown that very intensive glycemic control may increase risk of mortality. Risk of hypoglycemia is especially pronounced in elderly patients with advanced duration of diabetes. As the population of adults with diabetes continues to expand, emphasis should be placed on identifying patients at risk for hypoglycemia and individualizing treatment strategies and glycemic targets to avoid adverse outcomes. We sought to identify patients with hypoglycemia preceding acute clinical deterioration requiring urgent response by our institution's Rapid Response Team (RRT), a multidisciplinary modality that aims to rapidly assess, monitor, and reverse clinical deterioration.
+
+# METHODS
+
+We performed a retrospective chart review of three years of data acquired by our institution's RRT. We identified 95 hospitalized patients who underwent a "rapid response" due to hypoglycemia (point-of-care capillary glucose or serum glucose <70 mg/dL). We performed a multivariate analysis to identify contributors to poor outcomes (defined as all-cause mortality) following a hypoglycemic event.
+
+# RESULTS
+
+Patients found to have significantly higher all-cause mortality following RRT for hypoglycemia (p< 0.05) were 65 years or older, had lower blood pressure, lower median hemoglobin A1c, higher AST and INR, longer hospital length of stay, were more likely to be NPO, and had a higher percentage of having an RRT in the morning. Patients who had a glucose level <41 mg/dL at time of RRT had higher rates of insulin use during admission when compared to individuals with higher glycemia.
+
+# CONCLUSIONS
+
+As the diabetes epidemic worsens and more patients are hospitalized with the disease, it is critical that clinicians identify and manage risk factors for hypoglycemia. Our study identified several risk factors that were associated with all-cause mortality. Our findings support previous research that tight glycemic control can be detrimental to elderly patients. Based on our results, further research is needed to identify systems-based strategies for risk-stratification and prevention of inpatient hypoglycemia and improvement of patient safety.
+
+# IDENTIFYING SPECIFIC DRIVERS OF PHYSICIAN AND ADVANCED PRACTICE PROVIDER BURNOUT ACROSS DIVISIONS IN A DEPARTMENT OF INTERNAL MEDICINE
+
+Elisha L. Brownfield; Benjamin Kalivas. MUSC, Charleston, SC. (Control ID #3183979)
+
+# BACKGROUND
+
+Burnout in physicians is well described and has consistently been shown to negatively impact the quality of care delivered, provider productivity and frequency of medical errors. The factors that contribute to burnout are numerous and their specific impact on providers can vary. Reducing burnout and in turn improving provider engagement are vital tasks of any division, department and health care system. Shanafelt et al. have laid out a structured approach identifying nine areas as drivers of burnout and deterrents of engagement. It is unclear how these drivers affect providers from different subspecialties across large departments.
+
+# METHODS
+
+The Department of Medicine at a medium-sized academic health system administered the Maslach Burnout Inventory and Areas of Worklife survey and determined that a more detailed assessment of specific factors contributing to burnout was necessary. Using the framework laid out by Shanefelt et al., a focus group of departmental leaders created a survey and distributed this to 261 physician and advanced practice providers in the department. Likert scale assessment of 14 potential burnout drivers, as well as opportunity for free-text comments were included. Results were analyzed by division and compared across the department. Free text answers were independently reviewed by two team members for theme extraction and differences adjudicated.
+
+# RESULTS
+
+The survey was completed in 2018 by 124/261 (47.5%) eligible Department of Medicine providers. Among burnout drivers, productivity pressure and not being heard by leadership were consistently rated as "moderately-highly" contributing to burnout across all 9 divisions of the department. Following these top two concerns, there was greater heterogeneity in factors contributing to burnout between different divisions. The free-text comments were analyzed and used to create other potential action items.
+
+# CONCLUSIONS
+
+The growing problem of physician burnout must be addressed at all levels of health care. In a recent systematic review, organization-directed interventions were associated with greater effectiveness at reducing burnout than those directed at individuals. There is limited literature supporting specific strategies at a departmental level. Internal medicine is a diverse field, with a variety of subspecialties, resulting in a wide variation in practice structures and personalities. Although some of the themes are consistent, our study supports the hypothesis that factors contributing to burnout are different between divisions. Undertaking this process has allowed our Department to generate a list of action items to pursue in the interest of mitigating burnout, and we will follow the impact on physician burnout over time.
+
+# IMPACT OF A CANCER URGENT CARE CLINIC ON REGIONAL EMERGENCY DEPARTMENT VISITS
+
+Arthur Hong1; Thomas Froehlich1; Stephanie Clayton Hobbs1; Simon Craddock Lee1; Ethan Halm. 1University of Texas Southwestern Medical Center, Dallas, TX; 2Univ of TX Southwestern Med Ctr, Dallas, TX. (Control ID #3159926)
+
+# BACKGROUND
+
+Several cancer centers have created urgent care clinics (UCC) to address commonly anticipated issues that arise for adults with newly-diagnosed cancer. There is little rigorous evaluation of whether UCCs reduce emergency department (ED) visits, or serve as conduits to the ED. Interest in reducing early expenditures for cancer patients is spurred by the Oncology Care Model payment demonstration project from Centers for Medicare and Medicaid Innovation. Our institution's oncology practice created a UCC in May 2012, open from M-F, 8AM-5PM.
+
+# METHODS
+
+Interrupted time series analysis of regional ED visits generated within 180 days after a diagnosis of cancer. We linked cancer registry patients to a regional database of 98% of non-federal hospitals, to quantify near-comprehensive ED and hospital use. We estimated adjusted monthly ED visit rates, with a denominator of patient-months to account for patient deaths within the 180-day period. We used a 6-month intervention phase-in (May-Oct 2012). We compared weekday ED visits to control weekend ED visits when the UCC was closed.
+
+# RESULTS
+
+We identified 33,316 adults ages 18+, contributing 17,835 ED visits within 180 days after cancer diagnosis, between January 1, 2009 and December 31, 2016. Median age was 60 years; 47.2% were female, 65.2% were non-Hispanic white, and 19.1% had advanced-stage cancer at the time of diagnosis. The monthly weekday ED visit rate was growing at 0.43 visits per 1,000 patient-months (95% CI: 0.29, 0.57) prior to the UCC, then fell to 0.19 (95% CI: 0.11, 0.28) afterwards (p=0.007). Monthly weekend ED visit rate growth was initially 0.08 (95% CI: -0.03, 0.19) and was unchanged after the UCC, at 0.05 (95% CI: -0.02, 0.13; p=0.533). By December 2016, this amounted to a difference of 15.34 fewer weekday ED visits than predicted by pre-UCC trends (95% CI: 4.78, 25.91). One out of every eight patients who visited the ED also visited the UCC.
+
+# CONCLUSIONS
+
+Creation of an UCC was associated with a halving of the adjusted growth rate of ED visits, with no change in non-targeted ED visits. However fewer than 1 in 8 patients who visited the ED also used the UCC. This promising finding, despite use by only a limited proportion of patients, suggests the potential for further reductions in ED use.

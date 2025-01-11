@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+appearing perirectal mass, with non-purulent discharge. Labs notable for WBC 40,900 Hgb 10.2 sodium 129 BUN 22 creatinine 0.8 and glucose 208. He was diagnosed with a perirectal abscess and triaged to an inpatient oncology service in the evening without further work up and recommendations for surgical oncology evaluation in the morning. Upon arrival, repeat vitals showed T 38.1°C HR 125 BP 90/52 97% on room air. Compared to his previous exam, he was also noted to have a systolic murmur, tense, leathery induration of the L buttock, and exquisite tenderness with movement of the left hip. There was no crepitus. Additional labs were performed: lactate 3.4 CRP 22.030 and ESR 96. Calculation of a LRINEC score raised suspicion for necrotizing soft tissue infection (NSTI), resulting in urgent imaging, NSTI diagnosis, and surgical intervention.
+
+# IMPACT/DISCUSSION:
+
+We hypothesize that the patient's history of ED visits led to a type 1 reasoning failure: posterior probability error. In posterior probability error, prior diagnoses unduly influence diagnostic reasoning. In NSTI, where early recognition is challenging but crucial, this case illustrates how adjunctive scoring systems, such as LRINEC or revised forms of LRINEC, can be used to counter biases in type 1 reasoning and prompt type 2 thinking. Additionally, given that NSTI is not a common diagnosis in the outpatient oncology setting, we argue that the non-availability formulation of the availability bias, the "out of sight, out of mind" bias, likely contributed to diagnostic delay. While more reflective and methodical thinking has been shown to mitigate the classic formulation of the availability bias, the non-availability bias can persist despite the use of type 2 reasoning, making this case a diagnostic challenge on multiple levels.
+
+# CONCLUSION:
+
+A high index of suspicion is required for early diagnosis of NSTI. Cognitive biases affect both type 1 and type 2 diagnostic reasoning.
+
+# OUT OF THE FRYING PAN AND INTO THE MRI MACHINE: LONG-TERM PERILS OF CANCER TREATMENT
+
+Carlos A. Lopez1; Joanne L. Candela1; Nancy A. Kernan1; Alexandra Heerdt1; Emily S. Tonorezos2. 1Memorial Sloan Kettering Cancer Center, New York City, NY; 2Memorial Sloan-Kettering Cancer Center, New York City, NY. (Control ID #3186136)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that female cancer survivors who receive chest radiation therapy (RT) require early breast cancer screening with MRI in addition to mammography.
+
+# CASE:
+
+A 29 year-old female with a history of acute lymphocytic leukemia (ALL) treated with total body RT, chemotherapy, and a bone marrow transplant (completed treatment at age 21) presented for a routine follow up visit for management of treatment-related late effects. Because she was 8 years post-RT, she underwent her first breast cancer screening via both mammogram and breast MRI. She was generally well, but she reported breast discomfort during breast imaging and when getting an echocardiogram; she denied any other breast symptoms. She was on a combined estrogen-progesterone patch due to being menopausal after her treatment. Exam was notable for an inverted left nipple (unchanged over 6 years) and left breast tenderness without discrete masses but with a heterogenous quality on palpation. There was no axillary lymphadenopathy and there were no skin changes. History and physical were otherwise noncontributory. Though her mammogram was negative, her MRI revealed a 1.2 cm mass in the left breast and a 0.3 cm mass medial to the dominant mass suspected to be a satellite lesion. She underwent an ultrasound guided biopsy which revealed an infiltrating duct carcinoma that was ER+/PR+/HER2- on pathology. Her sentinel lymph node biopsy was positive for micro-metastatic disease. She opted to undergo bilateral mastectomy prior to starting systemic chemotherapy.
+
+# IMPACT/DISCUSSION:
+
+There were some potential diagnostic pitfalls that arose during our case that were fortunately avoided. First, a mammogram would have been insufficient to detect her lesion; by obtaining a breast MRI, we were able to identify an early malignant lesion that would have been otherwise missed. Secondly, we avoided prematurely ascribing breast pain to a non-malignant etiology: though breast pain makes other diagnoses more likely, her risk factors and the presence of a mass on imaging necessitated an expedient tissue diagnosis. Patients who carry high-risk gene mutations and patients who received chest RT for treatment of childhood cancers are particularly vulnerable to developing breast cancer at an early age. Mammography alone tends to underperform in younger patients because of associated higher breast density, so adding an MRI is recommended in these populations. In patients who have received RT, screening is recommended to begin 8 years after RT or at age 25, depending on whichever occurs last. Though MRI-based screening can result in more false-positive lesions on initial screen, earlier diagnosis of breast cancer confers a more favorable treatment course.
+
+# CONCLUSION:
+
+The importance of appropriate and early breast cancer screening in women exposed to chest RT at a young age cannot be overstated. As general providers see more survivors in practice, it is key that they be aware that MRI is recommended in addition to mammography in this population.
+
+# OXACILLIN-INDUCED CUTANEOUS LEUKOCYTOCLASTIC VASCULITIS: A CASE REPORT
+
+Meric Mericliler1, 2; Aya Shnawa3; Dalya AlQaysi1, 2; Andrew Moraco1, 2. 1 St. Elizabeth's Medical Center, Brighton, MA; 2Tufts University School of Medicine, Boston, MA; 3Jordan University of Science and Technology, Ramtha, Jordan. (Control ID #3169457)
+
+# LEARNING OBJECTIVE #1:
+
+Drug-induced cutaneous lesions such as those seen with oxacillin-induced cutaneous leukocytoclastic vasculitis, can be mistaken for cutaneous manifestations of endocarditis and other causes of leukocytoclastic vasculitis such as HCV-related cryoglobulinemic vasculitis.
+
+# LEARNING OBJECTIVE #2:
+
+A high index of suspicion is imperative for diagnosing drug-related cutaneous manifestations because choosing an alternative therapy is required for complete resolution of vasculitis and completion of infective endocarditis treatment.
+
+# CASE:
+
+A 32-year-old female with a history of IV drug use presented with fever and malaise. Her blood cultures grew methicillin-susceptible Staphylococcus aureus, and transthoracic echocardiogram showed vegetations on the anterior and posterior leaflets of tricuspid valve. The largest measured 2.7 x 1.4 cm. The patient was started on IV oxacillin and planned for a six weeks course. On day twelve after the initiation of therapy, skin examination revealed bilateral palpable painless purpuric papules on volar aspect of the hands and dorsal aspect of the feet. Over the next 48 hours, lesions extended up to the anterior knee and inner aspect of thighs and became bullous. Lesions were not associated with abdominal pain, arthralgia, or paresthesia. Investigations revealed weakly positive ANA (1:40) and was negative for p-ANCA and c-ANCA, cryoglobulins, RF, anti-ds DNA antibody. Complement C3 was low and C4 was normal. HIV testing was negative. Anti-HCV antibody was positive with a HCV viral load of 4.16×105 IU/ml. Aspirate from the bullous lesions did not demonstrate any organisms on Gram staining, and culture did not grow any bacteria. Punch biopsies subsequently revealed perivascular neutrophil infiltration with fibrinoid necrosis of small vessels, consistent with leukocytoclastic vasculitis (LCV). Given the temporal relationship between oxacillin administration and development of skin findings, the diagnosis of oxacillin-associated LCV was suspected. Accordingly, vancomycin was started in lieu of oxacillin, resulting in gradual improvement of the lesions.
+
+# IMPACT/DISCUSSION:
+
+Cutaneous LCV is a rare condition which frequently presents with palpable purpuric nodules of the lower extremities. Medications have been implicated in 10 to 24% of the cases; sulfa drugs, NSAIDs, and beta-lactams have the most frequent association. Furthermore, cutaneous LCV can also be seen in the setting of infective endocarditis (IE) or HCV infection. In the present case, discontinuation of oxacillin improved the skin lesions suggesting that oxacillin was the likely cause.

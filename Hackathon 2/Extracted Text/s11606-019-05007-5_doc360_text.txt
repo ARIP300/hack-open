@@ -1,0 +1,54 @@
+# JGIM
+
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+SICAD is a rare diagnosis that affects primarily males (5:1) with the average age of 55 years. The etiology is usually iatrogenic or secondary to atherosclerosis, trauma, pregnancy, fibromuscular dysplasia, inflammatory or infectious diseases, or a congenital disorder of the vascular wall. SICAD usually occurs between the intima and the external elastic layer, whereas in aortic dissection, the cleavage plane is between the first and the second layer of the intima. Most patients with SICAD are asymptomatic while some patients may present with abdominal pain due to involvement of the splenic, renal or superior mesenteric arteries causing ischemia. Patients with ruptured aneurysms can present acutely with bleeding while chronic dissections can present with symptoms of intestinal angina. An extensive literature on this subject shows that for the majority of cases of SICAD, conservative management and observation is appropriate. Conservative management typically consists of blood pressure control, imaging surveillance, and lifelong antiplatelet therapy +/- a short course of anticoagulation therapy. If abdominal pain is persistent, endovascular stenting may stabilize or improve the pain, and surgical reconstruction can be done for aneurysmal degeneration. Close follow-up by surveillance imaging should be done in most cases and can be done by US to reduce radiation burden.
+
+# CONCLUSION:
+
+- SICAD is rare diagnosis with male predominance that can present with non-specific symptoms
+- The majority of stable patients with SICAD can be conservatively managed while surgical intervention can benefit patients with hemodynamic instability or persistent abdominal pain.
+
+# A STIFF WOMAN
+
+FNU Srinithya1; Saikrishna Gadde2. 1Brookwood Baptist, Birmingham, AL; 2Ochsner Medical Center, Birmingham, AL. (Control ID #3186163)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features and laboratory finding of Stiff Person Syndrome (SPS)
+
+# LEARNING OBJECTIVE #2:
+
+Identify disorders associated with Stiff Person syndrome
+
+# CASE:
+
+A 37 year old female with no significant past medical history presented with refractory stiffness and weakness. Initial symptom started 3 months ago with her right leg giving out while walking. She experienced a fall due to her symptoms, which resulted in fracture left foot. Denied similar episodes in the past. Social history and family history were unremarkable. Patient had unintentional weight loss of 15 pounds in last 4 months. Pap smear within the past year was negative. Review of systems was otherwise negative. Vital signs were within normal limits on arrival. Cardiopulmonary and abdominal exam was without abnormalities. Neurological examination revealed mild stiffness; lower extremity stiffness greater than upper extremity; no rigidity. Deep tendon reflexes were 2+; cranial nerves, sensation, cognition were all intact. Breast exam was normal. Initial laboratory findings revealed a normal complete blood count, thyroid studies, comprehensive metabolic, serum vitamin B12, urinalysis, urine drug screen, serum thiamine and autoimmune panel. CT brain and EEG were normal. Her symptoms were attributed to psychogenic non-epileptic seizures and sertraline was initiated. She developed serotonin syndrome due to the addition of Tramadol, trazadone and flexeril to sertraline. MRI brain and pan spine revealed T2 hyperintensity within dorsal column in cervical spine and scattered foci on T2 flair within supratentorial white matter. Serum protein electrophoresis, CT chest abdomen pelvis with contrast and lumbar puncture were negative. Paraneoplastic workup revealed elevated titres for amphiphysin antibody indicative of SPS. The patient has since received IV immune globulin and methylprednisolone. Nuclear Medicine PET revealed abnormal nodes in the left axilla and a right upper lung nodule. Left axillary node biopsy was positive for Estrogen receptor carcinoma; suspicious for breast versus gynecologic malignancy.
+
+# IMPACT/DISCUSSION:
+
+This patient had profound stiffness and muscle weakness, which lead to the pursuit of testing for rheumatologic, neurologic, and paraneoplastic etiology. Stiff person syndrome (SPS) is a rare, progressive neurological syndrome. It is caused by increased muscle activity due to decreased inhibition of the central nervous system. Symptoms include extreme muscle stiffness, rigidity and painful spasms. The syndrome affects twice as many women as men. Treatment aims to control symptoms and improve mobility, involves benzodiazepines, muscle relaxants, and/or intravenous immunoglobulins.
+
+# CONCLUSION:
+
+SPS is associated most commonly with breast cancer but has been linked to Hodgkin's lymphoma and small cell cancer and autoimmune diseases like diabetes mellitus, vitiligo and pernicious anemia. Treatment aims to control symptoms and improve mobility, and may involve benzodiazepines, muscle relaxants, and/or intravenous immunoglobulins.
+
+# A STROKE OF LUCK: SUPERIOR SINUS VENOSUS ATRIAL SEPTAL DEFECT DISCOVERED VIA A CRYPTOGENIC STROKE
+
+Shruti Rao MD, Thomas Wong MD, Andrew Vu MD, Sara L. Swenson MD
+
+Shruti Rao; Thomas J. Wong; Sara L. Swenson. California Pacific Medical Center, San Francisco, CA. (Control ID #3186322)
+
+# LEARNING OBJECTIVE #1:
+
+Findings such as an abnormal P wave axis, right axis deviation, and incomplete RBBB are indicative of a superior sinus venosus ASD on EKG. Internists should be aware of these specific findings, which can prompt a TEE and accelerate the often lengthy workup of cryptogenic stroke to ultimately repair the ASD.
+
+# CASE:
+
+A 33 year-old male developed acute onset of vertigo after abruptly turning his head to the right. He then experienced pain in the right posterior neck, binocular diplopia, aniscoria, and ataxia. CTA of head and neck was negative for dissection or obvious infarct or hemorrhage, however given persistent symptoms, patient received tPA with improvement. MRI showed a paramedian thalamic and midbrain stroke. His ECG showed an abnormal P axis with right axis deviation, and incomplete RBBB indicating cardiac pathology. The decision was made to use transesophageal echocardiography instead of transthoracic echocardiography with agitated saline contrast injection to search for intra-atrial pathology. The study revealed a large sinus venosus ASD of 1.7cm, left-to-right shunting, and a Qp:Qs ratio of 2.5, raising suspicion of a paradoxical embolism. The rest of his workup for alternative stroke etiology was negative. He eventually underwent Baffle repair of PAPVR to the left atrium and ASD closure. He recovered completely with no residual deficits and remains on antiplatelet therapy with aspirin.
+
+# IMPACT/DISCUSSION:
+
+The diagnostic workup of cryptogenic strokes is often lengthy. Interestingly, a test as simple as an ECG was able to reveal the most likely cause of this patient's stroke. Findings such as an abnormal P wave axis, right axis deviation, and potential RBBB are indicative of a superior sinus venosus ASD due to intra-atrial remodeling from left to right shunt across the defect. Using the patient's ECG prompted correct selection of TEE over TTE as superior sinus venosus atrial septal defect can be missed with TTE because of its posterior.

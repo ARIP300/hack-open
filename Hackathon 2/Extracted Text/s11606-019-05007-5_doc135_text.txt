@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# GOT CHILDCARE? THE RELATIONSHIP BETWEEN INSTITUTION-BASED CHILDCARE AND EMPLOYEE WELLBEING
+
+Rachel Apple1; Lauren Samuels2; Christianne Roumie1. 1Vanderbilt, Nashville, TN; 2 Vanderbilt University, Nashville, TN. (Control ID #3183504)
+
+# BACKGROUND:
+
+For most parents, securing reliable and safe childcare ranks high on the list of parental priorities. Among health care professionals, there is increasing interest in wellness initiatives to combat growing rates of burnout. Despite the crucial role which finding and securing childcare plays in many parents' lives, few studies have examined the relationship between childcare and wellbeing at the level of a medical institution. The purpose of this study was to evaluate the relationship between utilization of institution-based childcare and employee wellbeing at a large, academic medical center.
+
+# METHODS:
+
+We conducted a cross-sectional analysis of data obtained from an online survey. Study participants were VUMC employees with children in a Vanderbilt-affiliated childcare center (institution-based childcare) or on the waitlist for Vanderbilt-affiliated childcare (non-institution-based childcare).
+
+# RESULTS:
+
+558 respondents were predominantly female (78.0%) and represented a fairly equal distribution between clinical and non-clinical job roles. The majority of respondents (58.8%) reported having 1 child under the age of 6 years in childcare. There was a statistically significant difference in overall stress, with individuals having institution-based childcare reporting less overall stress, as well as less stress specifically related to finances, childcare, and personal health. There was no statistically significant difference between exposure groups related to job, relationship with significant other, or parental responsibilities.
+
+# CONCLUSIONS:
+
+This study demonstrated an association between childcare provision type and stress after adjusting for demographic factors and potential confounders such as job type, hours per week in childcare, and percent of income spent on childcare. These findings highlight the centrality of childcare to employees' wellbeing and ability to be productive in their jobs. Greater attention to the impact of parenthood on employee stress and wellbeing is warranted at an institutional level.
+
+# GRADUATE MEDICAL TRAINEE (GME) INVOLVEMENT IN HOSPITAL MEDICATION SHORTAGE MANAGEMENT
+
+Andrew Hantel1; Ashley Egan2; Trinh Nguyen2; Erin DeMartino2; Fay Hlublocky1; Mark Siegler1; Christopher Daugherty1. 1The University of Chicago, Chicago, IL; 2 Mayo Clinic, Rochester, MN. (Control ID #3185894)
+
+# BACKGROUND:
+
+Hospital medication shortages in the United States (US) are associated with decreased patient quality and quantity of life. We recently conducted a national survey to investigate shortage management practices of US hospitals, which revealed widespread shortages of common medications and heterogeneous management and rationing practices. GMEs frequently manage inpatients with varying levels of supervision; internal medicine (IM) and anesthesia residents frequently utilize medications with known shortages to manage patients. Therefore, to understand the involvement of GMEs in shortage management, we conducted a survey of these residents at the University of Chicago Hospital (UCH).
+
+# METHODS:
+
+A 17-item survey was created to evaluate shortage management. Subjects included trainees at least one year into their program. Items were piloted for clarity and relevance. The survey was performed in person between 11/4/2018-1/12/2019. 2 tests were used to compare response differences by post-graduate year (PGY) and program. Subjects that responded to at least one question were included in the analysis. The UCH IRB approved the study.
+
+# RESULTS:
+
+A total of 123 GMEs were eligible; 85 completed the survey (response rate 69.1%). Question completion was 100%. 96.5% reported experience in managing shortages. Of these GMEs, 90.6%, 88.4%, and 75.2% reported managing shortages, using alternatives, and that shortages made clinically relevant differences, respectively, on an at least weekly basis. 47.1% reported that equivalent alternatives were available "half of the time" or less. When shortages occurred, 70.5% of GMEs reported discussing management with their attending "some of the time" or less; when asked to consider only clinically relevant shortages (CRS), this became 53.1%. PGY2 residents and IM residents were more likely to discuss CRS frequently with their attending (χ²=21.3 and 17.2, P=0.05 and 0.01). 49.1% reported discussing CRS with patients "some of the time" or less frequently. IM residents were more likely to discuss CRS frequently with their patients (χ²=26.2, P<0.01). 13%, 8.2%, and 78.8% responded that shortages should be disclosed to patients always, never, or only when clinically relevant, respectively. Of those who preferred to disclose based on relevance, 45.9% would only disclose if shortages resulted in a moderate or major difference in efficacy or toxicity. 14.1% reported receiving shortage training and 91.8% reported that they would want training.
+
+# CONCLUSIONS:
+
+GMEs frequently manage clinically relevant shortages with little training and variable communication to their supervising physicians or to patients. Less experienced GMEs and IM GMEs are more likely to discuss management with their attendings and IM residents are more likely to discuss management with their patients, as compared to anesthesia GMEs. Further study and education of GMEs is warranted; therefore this survey is currently being performed with UCH emergency medicine GMEs and parallel programs at the Mayo Clinic.
+
+# GREAT EXPECTATIONS: A SURVEY OF HOSPITAL PORTAL INFORMATION FOR PATIENTS
+
+Joy L. Lee1, 2; Claire E. Williams2; Sean Baird2; Marianne S. Matthias3, 2; Michael Weiner4, 2. 1Indiana University School of Medicine, Indianapolis, IN; 2Regenstrief Institute, Inc., Indianapolis, IN; 3Roudebush VAMC, Indianapolis, IN; 4Indiana University, Indianapolis, IN. (Control ID #3149443)
+
+# BACKGROUND:
+
+Adequate access to health care, providers, and information, is a problem for many patients. Patient portals present an opportunity to expand patients' access to care, providers, and information online, most notably through access to electronic medical records and secure messaging. Yet clinicians have expressed concern about patients' "misuse" and "misunderstanding" of portals, especially secure messaging. It is not clear if and what expectations of portal use are communicated to patients. This study sought to identify what hospitals communicate to patients about portal use, to describe the information available to patients, and to assess ease in accessing this information.
+
+# METHODS:
+
+We randomly sampled 200 acute-care hospitals from the Centers for Medicare & Medicaid Services Hospital Compare dataset, and searched the web to collect publicly available information about each hospital's patient portal. The web search was followed up with phone calls to the hospitals (up to 3 attempts each) to request any additional patient-directed materials (e.g., pamphlets) not included in the web search. Ease of access was defined as the number of mouse clicks from the hospital's main webpage needed to access the portals. A mixed-methods approach was used to evaluate and describe the data.

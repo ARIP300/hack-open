@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE 1: HSV Encephalitis
+
+Sodium of 131 mEq/L, erythrocyte sedimentation rate of 15 mm/h, and C-reactive protein (CRP) level of 0.05 mg/dL. Blood cultures were negative, and ACTH stimulation test was normal. CT with contrast of the chest, abdomen, and pelvis did not reveal parenchymal abnormality, lymphadenopathy, or abscess. Given her fever and mild headache with negative CRP, we performed a lumber puncture to rule out meningoencephalitis. Opening pressure was 14 cm of water. CSF analysis revealed 55 nucleated-cells per cubic millimeter (100% lymphocytes) and normal protein and glucose levels. The herpes simplex virus (HSV)-PCR was positive. MRI of the brain revealed hyperintensity in the left medial temporal lobe on both T2-weighted sequence and FLAIR sequence. HSV encephalitis was diagnosed. After initiation of a three-week course of acyclovir, her fever resolved.
+
+# IMPACT/DISCUSSION:
+
+There are fewer differential diagnoses to consider in patients with fever and negative inflammatory markers than in patients with positive inflammatory markers. Differential diagnosis in such patients includes early phase of a febrile illness, viral infection, drug fever, systemic lupus erythematosus, hyperthyroidism, thromboses, adrenal insufficiency, meningoencephalitis, alcohol withdrawal syndromes, factitious disorder, malignant hyperthermia, serotonin syndrome and alcohol withdrawal, and others. Viral meningoencephalitis has a good prognosis in general and no specific treatment is required. On the other hand, HSV encephalitis can be a devastating disease with significant morbidity and mortality. Thus, early diagnosis is important. In our patient, euvolemic hyponatremia was noted suggesting the presence of the syndrome of inappropriate antidiuretic hormone secretion, which could be a manifestation of central nervous system disturbance. In evaluating patients with fever and negative inflammatory markers, even when a headache is mild, lumber puncture should be considered to rule out herpes simplex encephalitis, especially in a situation when no alternative diagnosis is made.
+
+# CONCLUSION:
+
+There are fewer differential diagnoses in patients with fever and negative inflammatory markers than in patients with positive inflammatory markers. In this situation, even when the headache is mild, lumber puncture should be considered to rule out HSV encephalitis.
+
+# THE RELENTLESS SORE THROAT, A CASE OF CHRONIC SEVERE NEUTROPENIA
+
+Marie Claire Lamb; Jordan Minish; Bradley S. Fletcher. UFL, Gainesville, FL. (Control ID #3185639)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize rare causes of recurrent infections and neutropenia.
+
+# CASE:
+
+A 63 year old male with a past medical history of malignant melanoma, squamous cell carcinoma of the tonsil, recently diagnosed heart failure with reduced ejection fraction, recently diagnosed pulmonary embolism on warfarin, longstanding hypothyroidism and several false positive syphilis tests presented with a fever of unknown etiology. Patient had had an unrelenting sore throat refractory to several courses of antibiotics and intermittent fevers for the past year. He recently developed diarrhea. On physical exam he had an ulcerated eschar on his right tonsil. He was found to be neutropenic with a white cell count of 1.3 and an absolute neutrophil count of 20. CT scan showed thickening of his right tonsil and splenomegaly of 16cm. He was started on vancomycin, cefepime and metronidazole with improvement of his symptoms. Further laboratory work-up revealed positive antiphospholipid antibodies, lupus anticoagulant, Epstein Barr Virus IgM, Direct Antiglobulin Test IgG and Clostridium Difficile. Bone marrow biopsy showed an abnormal clonal T-cell population with an expanded T-cell receptor subset consistent with T-cell Large Granulocytic Lymphocytic (LGL) Leukemia. He was started on cyclosporin to suppress his immune system and twice weekly filgrastim to treat his neutropenia. He was discharged on a short course of levofloxacin and close follow-up.
+
+# IMPACT/DISCUSSION:
+
+LGL Leukemia is a rare lymphoproliferative disorder of the T-cell and Natural Killer cell lineages associated with autoimmunity. There are indolent and aggressive forms. Pathogenesis is hypothesized to be antigen induced monoclonal expansion via Stat3 mutation activation of LGLs. These autoreactive cytotoxic lymphocytes produce cytokines, function as killer cells and avoid apoptosis. Median age of diagnosis is 60 years old and patients present with recurrent infections, oral ulcers, splenomegaly, cytopenias and autoimmunity. This case illuminates the importance of keeping differential diagnoses broad for neutropenia with recurrent infections, as missing one would be catastrophic. It is important to rule out malignancy and full autoimmune work-up is imperative. In this case we saw antiphospholipid syndrome, hypothyroid and possibly related nonischemic cardiomyopathy. Smoldering infection as a cause or consequence of neutropenia must be considered, and a careful history may reveal further associations. LGL leukemia is diagnosed by clinical picture, followed by a blood smear or bone marrow biopsy that demonstrates a clonal LGL population. LGL leukemia that is indolent can be monitored unless it causes severe cytopenias or recurrent infections, in which case we treat. First line is methotrexate, Cyclophosphamide or Cyclosporin as single agents, and G-CSF is added for severe neutropenia.
+
+# CONCLUSION:
+
+Rare causes of recurrent infections and neutropenia are an important to consider when standard therapies are not working.
+
+# THE ROLE OF ECHOCARDIOGRAPHY IN THE WORK-UP OF CHEST PAIN
+
+Michel Farah; Maya Abdallah. UMMS Baystate Medical Center, Springfield, MA. (Control ID #3186316)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of thorough history taking in all cases of chest pain, even when the initial diagnosis may seem apparent.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize McConnell's sign as an echocardiographic pattern associated with acute pulmonary embolism.
+
+# CASE:
+
+A 38-year-old obese male with history of insulin-dependent diabetes mellitus presented with a several day history of gradually worsening chest pain and dyspnea. Work-up was notable for an electrocardiogram showing T-wave inversions in leads V1-V4 with Q waves in leads III and aVF and elevated cardiac biomarkers. He was treated for acute coronary syndrome and underwent cardiac catheterization which showed chronic occlusion of the left circumflex artery, which could not be stented, but otherwise normal coronary arteries. He continued to experience dyspnea. An echocardiogram was done showing significant right ventricle (RV) dysfunction: severe dilation, reduced systolic function and hypokinesis of the mid-free wall suggestive of McConnell's sign. Acute pulmonary embolus (PE) was suspected. A more detailed history was obtained, with a focus on venous thromboembolic risk factors, and it was discovered that the patient had had prolonged immobilization during travel 2 months prior. Computed tomography angiogram of the chest was done showing bilateral pulmonary emboli in the distal main pulmonary arteries, all lobar arteries and many segmental arteries. He was started on anticoagulation for acute PE.
+
+# IMPACT/DISCUSSION:
+
+Thorough history taking and avoiding early diagnostic closure are key to appropriate diagnosis and subsequent management of any condition and particularly when life-threatening diseases are being considered. Echocardiogram is an invaluable tool in narrowing the broad differential diagnoses of chest pain. McConnell's sign refers to a distinct echocardiographic pattern of RV dysfunction: regional hypokinesia or...

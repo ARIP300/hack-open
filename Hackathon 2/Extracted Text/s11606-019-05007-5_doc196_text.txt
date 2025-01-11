@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# METHODS:
+
+We reviewed the medical records of 1783 adult elective orthopedic surgery patients during the time period when patients were instructed to take their AAB drugs the morning of surgery. The primary outcome was postoperative AKI. A multivariable logistic regression was applied to statistically and clinically relevant variables in the entire group, an obese cohort (BMI>30) and a non-obese cohort (BMI <30).
+
+# RESULTS:
+
+Obesity increased the likelihood of developing AKI post-orthopedic surgery (odds ratio (OR) = 1.86, p = 0.028). The use of AAB increased the likelihood of developing post-operative AKI only in the non-obese cohort (OR = 3.30, p = 0.030). When ACEI and ARB were evaluated individually, only the ACEI in the non-obese patients had a statistically significant odds ratio of developing post-operative AKI (OR=3.49, p=0.018).
+
+# CONCLUSIONS:
+
+Obesity is an independent risk factor for AKI post-orthopedic surgery. Adipose tissue contains a complex renin-angiotensin system (RAS), functioning independently of systemic RAS. Adipose-associated RAS may contribute to the oxidative stress and inflammation induced by surgery, resulting in AKI. ARBs, by targeting the specific receptor involved in the oxidative and inflammatory pathway, may be protective of this stress. Non-obese patients, with low adipose RAS activity, who take preoperative ACEI appear to be more susceptible to AKI. Obesity and the different target receptors of ARBs vs. ACEIs may be contributing to the discordant findings in the literature regarding AAB in the perioperative patient.
+
+# OBJECTIVE & SUBJECTIVE SOCIAL STATUS RELATE TO CANCER SCREENING BEHAVIOR
+
+Daliz Cruz1; Radhi Yagnik1; Kezhen Fei; Emily J. Gallagher2; Nina A. Bickell1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3185395)
+
+# BACKGROUND:
+
+Objective and subjective measures of socioeconomic status (SES) are not interchangeable. Perceived SES (pSES) is associated with health status and behaviors independent of objective SES measures such as income and education. As many people refuse to answer survey questions about income, proxy measures may provide similar data. We assessed the relationship between breast cancer patients' perceived and objective SES with their cancer screening behaviors.
+
+# METHODS:
+
+Data were collected as part of a large prospective study evaluating the role of insulin resistance in women with newly diagnosed breast cancer. Patients were presented a ten rung ladder (The MacArthur Scale of Subjective Social Status tool that captures perceived SES) and were asked to place themselves where they stand in their communities. Low community pSES ranged from 1-8 and high pSES from 9-10. Objective SES measures included income and education; mammography and pap screening were assessed. Income >$100,000 was classified as high income; education was dichotomized as college graduate. Comparisons used chi-square for categorical variables, t-tests for continuous variables. Logistic multivariate models were run.
+
+# RESULTS:
+
+Of 944 breast cancer patients with an average age of 57±12.0 years, 81% were white and 19% black, 64% graduated college and 41% reported an income of >$100,000/year. 18% of patients did not report an income. The median pSES= 8 (IQR: 7-8), 20% had high pSES (>8), and 80% had lower pSES ( 8). There were no racial differences observed in pSES (high pSES: 21% black vs 20% white; p=0.7). More patients with high pSES graduated college (76% vs 61%, p=0.0002) and had income >$100,000/year (61% vs 36%, p<.0001) than patients with lower pSES. Of the objective SES, patients with higher income (>$100,000/year) were more likely to undergo both breast and cervical cancer screening (75% vs 58%, p<.0001) as compared to patients with lower income (>$100,000/year). There was no difference by college education on receipt of both breast and cervical cancer screening (66% vs 64%, p=0.5). Of perceived SES, patients with high pSES had higher breast and cervical cancer screening rates (78% vs 63%, p=0.0002) as compared to patients with low pSES.
+
+# CONCLUSIONS:
+
+Income and perceived SES are positively associated with cancer screening behaviors; education is not. Given some patients' reluctance to report income, perceived SES may offer an acceptable option to measure SES and its relationship to health behaviors.
+
+# OBSTRUCTIVE SLEEP APNEA AND PAIN INTENSITY AMONG VETERANS OF RECENT WARS
+
+Wardah Athar2, 1; Mary E. Card2; Antonios Charokopos2; Catherine G. Steffens1; Kathleen M. Akgün2, 1; Craig G. Gunderson2; Joseph L. Goulet1; Eric C. DeRycke1; Cynthia Brandt1; Lori A. Bastian2, 1. 1VA Connecticut Healthcare System, West Haven, CT; 2Yale School of Medicine, New Haven, CT. (Control ID #3185867)
+
+# BACKGROUND:
+
+Both obstructive sleep apnea (OSA) and pain are highly prevalent among Veterans. While the specific link between OSA and pain remains unknown, research suggests that OSA patients experience hyperalgesia due to sleep fragmentation and/or hypoxia that enhances sensitivity to pain, promotes inflammation, and advances spontaneous pain. Further, OSA is associated with the development and progression of many painful conditions such as headaches, temporomandibular disorders, and fibromyalgia. Most studies examining the association of OSA and pain focused on older populations, necessitating further research concerning the relationship between OSA and pain among younger patients. This study investigates if those patients diagnosed with OSA are more likely to report moderate/severe pain intensity compared to those patients without OSA in a young cohort of Veterans of recent wars (Operations Enduring Freedom/Iraqi Freedom/New Dawn [OEF/OIF/OND]).
+
+# METHODS:
+
+We conducted a cross-sectional analysis of a cohort study of OEF/OIF/OND Veterans who had at least one visit to a Veterans Health Administration primary care clinic between 2001 and 2014. Diagnoses, including OSA, were identified using ICD-9 codes from electronic medical records. Current pain intensity, based on the 0-10 numeric rating scale, was categorized as no/mild pain (0-3) and moderate/severe pain (4-10), and we included only those pain scores recorded after an OSA diagnosis was made. Covariates included age, sex, race, mental health diagnoses (substance use, PTSD, depression, and anxiety), headache diagnosis, body mass index (BMI), and current or former smoking status. Multiple imputation was performed to generate values for missing variables.
+
+# RESULTS:
+
+We identified 858,226 Veterans in the OEF/OIF/OND cohort. The mean age was 30 years, 10.6% carried a diagnosis of OSA, and 32% reported moderate/severe pain intensity. Compared to Veterans without an OSA diagnosis, Veterans with an OSA diagnosis were more likely to report moderate/severe pain intensity (OR=1.26; 95% confidence intervals 1.24-1.28), after controlling for covariates including: age, gender, race, substance use, major depression, post-traumatic stress disorder, headache diagnosis, smoking status, and BMI.
+
+# CONCLUSIONS:
+
+We discovered a clinically significant association between OSA diagnosis and pain intensity, showing that Veterans with OSA have greater odds of comorbid moderate/severe pain. Due to the high prevalence of chronic pain in younger Veterans, this study highlights the need to understand the impact of OSA diagnosis and treatment on pain intensity and to then develop interventions to identify and treat for OSA among Veterans with pain.
+
+# OLDER ADULTS' PERSPECTIVES ON HEALTH AND HEALTHCARE: A VIEW FROM PUBLIC HOUSING
+
+Brooke R. Wagen; Elizabeth Jacobs; Whitney Williams. University of Texas at Austin, Austin, TX. (Control ID #3167188)
+
+# BACKGROUND:
+
+Geriatric health needs are projected to increase over the coming decades given demographic trends in the United States and the world. Many social service sectors have started strategizing how to address this trend, including public housing authorities. Recognizing the interplay

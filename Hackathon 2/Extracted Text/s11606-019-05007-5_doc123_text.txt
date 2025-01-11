@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# FACTORS AFFECTING HEALTHY EATING AND EXERCISE AMONG LESBIAN AND BISEXUAL LATINA WOMEN AND DISCUSSING HEALTHY LIFESTYLE WITH THEIR PRIMARY CARE PROVIDERS
+
+Julie Grutzmacher; Jessica I. Mora1; Katherine Ordonez1; Monica Vela1; Seeba Anam1; Arshiya A. Baig1. 1University of Chicago, Chicago, IL; 2University of Chicago Pritzker School of Medicine, Chicago, IL. (Control ID #3177734)
+
+# BACKGROUND:
+
+Latina lesbian and bisexual women experience high rates of overweight and obesity compared to their white counterparts; however few studies have explored the factors that influence healthy eating and exercise in this population and their experiences discussing healthy lifestyle with their primary care providers.
+
+# METHODS:
+
+We conducted semi-structured one-on-one interviews in English and Spanish with 20 lesbian and bisexual cisgender Latina women in Chicago. Questions focused on identity and intersectionality; relationships with healthcare providers, the mechanism of disclosure and shared decision making; particularly involving decisions about healthy and unhealthy diet, and exercise. Examples of these questions include: "Tell me about how your identities (racial/ethnic and sexual orientation/gender identity) affect your thoughts about healthy and unhealthy eating," and "Have you ever talked with a healthcare provider about healthy and/or unhealthy eating, exercise and/or body image?" The interviews were later transcribed verbatim. A codebook was developed, transcripts were double coded and entered into NVIVO, and themes were analyzed using modified Grounded Theory. Fifteen of the interviews were conducted in English and five in Spanish.
+
+# RESULTS:
+
+Of the 20 participants, the average age was 33 years old. Fourteen or 70% of them identified as lesbian and six (30%) identified as bisexual, pansexual, or queer. All of them identified as a cisgender woman and as Latina/Hispanic. Participants indicated that cultural traditions and norms (i.e. carnitas, tortillas, chorizo) can pose as barriers to healthy eating patterns. On the other hand, some participants stated that being part of the queer community has endorsed healthier eating patterns and exposed them to healthy foods not endemic to their popular cultural traditions (i.e. vegan diets). With regards to physical activity, participants' cultural heritage, comfort and safety, and stereotypes about certain sports (i.e. soccer or softball) influenced their decisions around physical activity more so than their sexual minority identities. Participants described the stress of having to educate their providers on queer lifestyle, which they described as awkward and wasting time where they could otherwise be asking questions of their own. The recommendations were for providers to take a patient-centered, individualized counseling approach and engage them in dialogue about healthy eating and exercise.
+
+# CONCLUSIONS:
+
+Identity and behavior is inextricably connected. Participants' decisions around eating and exercise were heavily impacted by their multiple intersecting identities (race/ethnicity, gender, sexual orientation, SES and employment status). Raising awareness among providers about intersectionality and factors that influence patients' decision making is an essential place to start for reducing disparities and further supporting the health equity of this population.
+
+# FACTORS AFFECTING YOUNG GAY MEN'S PREFERENCE FOR SEXUAL ORIENTATION- AND GENDER IDENTITY-CONCORDANT PROVIDERS
+
+Stephanie E. McLaughlin2; Cary Blum2; Angelina Gomes2; Carolyn Drake2; Colleen Gillespie2; Richard Greene2; Perry Halkitis1; Farzana Kapadia1. 1New York University, New York, NY; 2New York University School of Medicine, New York, NY. (Control ID #3184662)
+
+# BACKGROUND:
+
+A relative dearth of literature exists on preferences of young gay male patients have regarding the sexual orientation and gender identity (SOGI) of their healthcare providers. Further research in this area is warranted to better serve the young MSM population.
+
+# METHODS:
+
+Data collection: A sample of 800 young adult gay men completed a brief survey on healthcare preferences between 2015-2016. Participant inclusion criteria were: age 18-29, male gender, self-identified gay sexual orientation, living in US for 5+ years, and being a resident of the New York City metropolitan area. Only participants who reported having a current PCP provided information on preferred PCP characteristics (i.e. male and/or LGBT). Data analysis: Multivariable logistic regression models were built to assess factors associated with participant preference for an LGBT or male PCP. Covariates for inclusion were considered based on prior literature as well as those identified as significant in bivariate logistic regression analyses. Backward model selection with variance inflation factor (VIF) analysis was used to eliminate collinearity and arrive at the most parsimonious models.
+
+# RESULTS:
+
+In this sample, n=614 men (77%) reported having a PCP. Of those 614 with a PCP, 42% indicated a preference for male PCP, 36% preferred a gay or LGBT PCP, and a total of 20% preferred a male-LGBT provider. A preference for consolidated care and distrust in the health system were associated with preference for a sexual orientation concordant PCP. Preference for sexual orientation concordance was strongly associated with preference for gender concordance, and vice versa. Minority race was also found to be associated with preference for a gender-identity concordant (male) PCP.
+
+# CONCLUSIONS:
+
+Gay men who wish to discuss their overall health and sexual health with their primary care provider (ie, receive consolidated care) tend to prefer a LGBT provider. This is also true of gay men who distrust the healthcare system, possibly because they anticipate these providers will provide more culturally sensitive care. A surprising association was found between minority racial background and preference for a gender concordant provider. Further research is warranted to explore the factors giving rise to this finding.
+
+# Tahle 2. Summary of OLS regression predicting preference for PCP SOGI concordance
+
+|Variable|Prefer gay or LGBT PCP|Prefer male-identified PCP|
+|---|---|---|
+|Age 24-29|1.02 (0.703-1.47)|0.981 (0.684-1.40)|
+|Minority race|0.865 (0.537-1.39)|2.02 (1.24-3.27) ***|
+|HIV positive|0.981 (0.684-1.40)|1.20 (0.734-1.97)|
+|Distrust in health system|1.59 (0.922-2.73)|0.928 (0.540-1.59)|
+|Prefer consolidated care|1.72 (1.01-2.92)|0.958 (0.587-1.50)|
+|Prefer male-identified PCP|2.61 (1.81-3.74)|N/A|
+|Prefer gay or LGBT PCP|N/A|2.60 (1.81-3.37) ***|
+
+Observations: 552
+
+Pseudo-R2: 0.0482
+
+#**p <.005. ##0 J05. p <0.1

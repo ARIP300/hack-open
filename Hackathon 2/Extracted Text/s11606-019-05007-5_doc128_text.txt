@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# FEMALE SPEAKER REPRESENTATION AT INTERNAL MEDICINE RESIDENCY CONFERENCES
+
+Alicia M. Corwin2; Paula Chatterjee1; Maria Yialamas3. 1University of Pennsylvania, Philadelphia, PA; 2Brigham and Women's Hospital, Brookline, MA; 3Brigham and Women's Hospital, Boston, MA. (Control ID #3185701)
+
+# BACKGROUND:
+
+Morning reports and noon conferences are two forums that make up the backbone of internal medicine residency curricula nationwide. Invited discussants are considered master clinicians, educators and/or researchers, and often become role models for clinical trainees. While it has been documented that women are less likely to be represented at departmental grand rounds nationally, little research has evaluated exposure to female speakers at the level of clinical trainees.
+
+# METHODS:
+
+We analyzed morning report and noon conference data from three large internal medicine residency programs for the 2017-2018 academic year in Boston, MA: Brigham and Women's Hospital, Massachusetts General Hospital, and Boston Medical Center. Discussants were categorized by gender, and we performed Student's t-tests to compare the prevalence of male and female speakers at the two types of conferences.
+
+# RESULTS:
+
+The average number of female residents in the training programs was 51.5%. Morning reports were largely clinically-based case reports, while noon conferences were mainly didactic lectures. For morning reports, approximately 2/3 of speakers were men (63.7%) while 1/3 were women (36.3%). Similar results were seen for noon conferences (62.1% male and 37.9% female). These comparisons were statistically significant (p<0.05). The percentage of female discussants at morning report and noon conference fell 32.2% (+/- 7.4%) and 31.2% (+/- 7.9%), respectively, below the percentage of female constituents in each individual residency program.
+
+# CONCLUSIONS:
+
+Representation of female attending physicians in internal medicine residency educational conferences falls below the female composition of the resident audience. These results indicate that residents are not being exposed to a cohort of speakers that reflects their programs' gender demographics. These educational conferences often showcase clinical reasoning and medical leadership, in addition to providing an opportunity for role modeling for female trainees. Being exposed to female role models may reduce the effects of implicit bias during clinical training. Programs should examine mechanisms behind these disparities, and future research could examine whether programmatic changes impact how trainees envision medical leaders and perceived implicit biases.
+
+# FIDELITY TO KEY FEATURES OF EVIDENCE-BASED QUALITY IMPROVEMENT TO ACCELERATE PATIENT-CENTERED MEDICAL HOME TRANSFORMATION IN THE VETERANS HEALTH ADMINISTRATION (VHA)
+
+Susan E. Stockdale1, 2; Alicia Bergman1; Alison B. Hamilton3, 2; Danielle Rose1; Elizabeth M. Yano4; Lisa V. Rubenstein5. 1 VA HSR&D, Los Angeles, CA; 2 University of California, Los Angeles, CA; 3 VA Greater Los Angeles Healthcare System, Los Angeles, CA; 4 VA Greater Los Angeles Healthcare System, Sepulveda, CA; 5 RAND and UCLA, Medford, OR. (Control ID #3179187)
+
+# BACKGROUND:
+
+Transforming primary care toward patient-centered medical home (PCMH) models requires cultural, technical, and clinical innovation. Evidence-Based Quality Improvement (EBQI) engages research evidence, organizational data, and boundary-spanning organizational stakeholders in innovation. Previous studies in the VHA comparing EBQI to non-EBQI sites in a modified stepped-wedge design showed more rapid adoption of PCMH features and reduced primary care provider burnout in EBQI sites. Little information is available, however, on EBQI implementation and fidelity to its key features. In this study, we assessed fidelity to three key EBQI features over four study years (2010-2014).
+
+# METHODS:
+
+EBQI for PCMH was rolled out in one Southern California/Nevada VHA region from April 2010-September 2014, and included 9 primary care practices and 7 cross-site, topic-focused workgroups. Key features included: 1) Leadership and front-lines priority setting process for primary care QI; 2) QI learning collaborative for front-line primary care and cross-site QI teams; and, 3) support for the use of data/evidence to inform QI. We reviewed project files to assess fidelity to these key features based on explicit criteria. We used qualitative analysis of 73 interviews conducted in Sept 2013-Feb 2014 and July 2014-January 2015 to assess stakeholder perceptions of EBQI. Participants included multi-level, interprofessional leaders; primary care providers; staff; and researchers.
+
+# RESULTS:
+
+Data showed high or medium fidelity for participation in the priority setting process, with 72 QI projects submitted by frontline QI teams between 2011 and 2014 and 24 interprofessional regional leaders participating in at least one of four rounds of project proposal review. 26 QI projects were prioritized by leaders; QI teams completed 21 projects and 16 projects resulted in tools/toolkits for spread. Participation in QI collaborative activities varied by site, but all sites attended in-person across-site collaborative learning sessions and bi-weekly telephone calls. Most QI teams showed high or medium fidelity for using data or evidence in their QI projects. Qualitative interviews identified bi-directional communication between leaders and QI teams, project management and data support for QI, and partnership with health services researchers as critical for achieving fidelity to EBQI features.
+
+# CONCLUSIONS:
+
+These findings suggest that participation in local primary care QI is enhanced by 1) systematically linking multi-level, interprofessional leadership to frontline innovators; 2) across-site communication and learning; and 3) availability of project management and data support. Learning health systems search for effective methods for developing evidence-based innovation and improvement agendas that span organizational boundaries and engage the frontlines. Our data support EBQI as a method for achieving these goals, advancing our understanding of complex QI interventions.
+
+# FINANCIAL IMPLICATIONS TO THE VETERANS AFFAIRS HEALTHCARE SYSTEM OF ALLOWING FOR 12-MONTH DISPENSING OF ORAL CONTRACEPTIVE PILLS
+
+Colleen P. Judge-Golden1; Kenneth J. Smith1; Maria K. Mor2; Sonya Borrero1, 2. 1 University of Pittsburgh, Pittsburgh, PA; 2 VA Pittsburgh Healthcare System, Pittsburgh, PA. (Control ID #3164458)
+
+# BACKGROUND:
+
+The Veterans Affairs (VA) Healthcare System stipulates a 3-month maximum dispensing limit for all medications, including oral contraceptive pills (OCPs). However, emerging evidence from other practice settings suggests that 12-month OCP dispensing improves continuation, decreases coverage gaps between medication refills, and reduces unintended pregnancy. We aimed to evaluate financial implications for VA of a 12-month OCP dispensing option, with the goal of informing potential policy change.
+
+# METHODS:
+
+We developed a decision model from the VA (payer) perspective to estimate incremental costs of allowing the option to receive 12 months of OCPs, compared to 3 months (Figure). Per-woman average and total costs were estimated over a 1-year time horizon. Because a subset of VA-users incur co-pays for OCPs,

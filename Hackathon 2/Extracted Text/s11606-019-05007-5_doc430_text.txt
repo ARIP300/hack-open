@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSION:
+
+A high index of suspicion should be maintained when patients on amiodarone therapy present with new onset dyspnea, even when heart and lung disease may pre-exist.
+
+# EXPECT THE UNEXPECTED: A RARE ETIOLOGY OF TRANS-VERSE MYELITIS
+
+Iman Afzal; Ivan Wong; Keerthana Keshava; Janaki Patel. New York-Presbyterian Brooklyn Methodist Hospital, Brooklyn, NY. (Control ID #3184761)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the various underlying causes of Transverse Myelitis (TM).
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and treat sarcoidosis with spinal cord involvement.
+
+# CASE:
+
+Our patient is a 53-year-old African American man who presented with worsening leg weakness, gait instability, and significant numbness radiating from his hips down to the toes and in his hands for 6 weeks. His physical examination was significant for decreased sensation in the hands, abdomen and lower extremities along with difficulty in tandem gait. Autoimmune work-up was negative, except for a mildly elevated ACE level. Magnetic resonance imaging of the brain and spine revealed severe spinal canal stenosis at C5-6 with loss of signal around the cord along with T2 hyperintensity in the spinal cord from C5-T1. A lumbar puncture was performed showing high protein, normal white blood cell count, normal cytology, and no oligoclonal bands. Given high suspicion for transverse myelitis he was given pulse dose steroids for five days. He had substantial improvement in his symptoms and was discharged home. At home, his symptoms of numbness and gait instability slowly worsened and he returned to the hospital. A computed tomography of the chest was done to further evaluate the elevated ACE level from prior admission and showed extensive mediastinal and bilateral hilar adenopathy. The patient was offered lymph node sampling via endobronchial ultrasound (EBUS) at a later date as he was simultaneously being evaluated by neurosurgery for his spinal cord stenosis. He subsequently underwent C5-6 anterior cervical discectomy and discharged home the next day. EBUS was performed with lymph node sampling taken from 4L, 7 and 11L. Histology was consistent with non-caseating granulomata supporting the diagnosis of sarcoidosis as the etiology behind the transverse myelitis. Given his persistent neurological symptoms despite surgery, he was started on Prednisone and showed excellent response to therapy.
+
+# IMPACT/DISCUSSION:
+
+Spinal cord involvement among patients with sarcoidosis is extremely rare at less than 1%. Establishing the diagnosis of sarcoidosis causing TM can be difficult given the diverse manifestations of this disease process. Patients who present with signs of TM such as weakness, decreased sensory function, bowel or bladder dysfunction with no obvious underlying etiology should be evaluated for sarcoidosis. Diagnosis of spinal involvement of sarcoidosis includes MRI of the spine and sampling of the lymph nodes to confirm diagnosis. Initial treatment usually involves corticosteroids. Other treatments include other immunosuppressive agents such as azathioprine and infliximab.
+
+# CONCLUSION:
+
+Sarcoid is a rare but potential cause of TM. Establishing a diagnosis of spinal cord sarcoidosis is challenging in patients with no preceding diagnosis of Sarcoid. Evaluation of patients with no underlying explanation of TM and/or failure of initial treatment warrants further investigation for Sarcoid.
+
+# EXPLAINING THAT DROP
+
+Pakhi Goel 2; Vladyslav Dieiev 2; Magued W. Haroun 2; Karishma Kitchloo1. 1Montefiore Medical Center, Wakefield Campus, New York, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3186076)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose beta blocker toxicity in patients using ophthalmic formulations.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize risk factors for beta blocker toxicity.
+
+# CASE:
+
+An 85 year-old man presented with a one-day history of profound weakness. He had a history of hypertension, chronic kidney disease (CKD), and cataracts. He did not report any other complaints, but reported being treated with repeated instillation of topical timolol into his right eye at the ophthalmologist's office earlier that day. His home medications included amlodipine and tamsulosin. His blood pressure was 70/50 mmHg (baseline around 130/80). Electrocardiogram revealed sinus bradycardia with first-degree AV block. Labs were significant for potassium of 7.1 mEq/L. Later, his blood glucose dropped to 39 mg/dL; he was treated with intravenous glucagon, with improvement in bradycardia, hypoglycemia, and hyperkalemia. Further cardiac workup did not reveal any structural heart abnormalities. Bradycardia resolved within 24 hours.
+
+# IMPACT/DISCUSSION:
+
+Beta blockers (BB) are commonly prescribed medications in the United States. Main indications include cardiovascular disease (oral forms) and intraocular hypertension (ophthalmic suspensions). Side effects of oral forms are common and well recognized, but clinically significant systemic side effects of ophthalmic suspensions may remain unrecognized. Some studies demonstrate increased risk of hospitalization for bradycardia one month after initiation of timolol eye drops. In our case, clinical presentation of acute weakness with simultaneous bradycardia and prompt response to glucagon is likely to be explained by systemic absorption of ophthalmic timolol. Underlying CKD and history of receiving timolol in high doses may have contributed to the toxicity. Approximately 80 percent of topically administered timolol is reported to drain through the nasolacrimal duct and is systemically absorbed. Although symptomatic bradycardia and hypoglycemia are well known side effects of topical timolol, hyperkalemia, which occurred in our patient, is uncommon. High dose intravenous glucagon and insulin therapy are recommended in cases of severe overdose, similar to the treatment for oral BB toxicity.
+
+# CONCLUSION:
+
+Systemic absorption of BB may lead to serious cardiovascular adverse events - symptomatic bradycardia, orthostatic hypotension, conduction disorders in the heart, syncope, and falls. Certain comorbidities (heart disease, COPD, cerebrovascular disease, CKD) may increase the risk of adverse reactions to ophthalmic BB.
+
+# FACIAL TWITCHING UNMASKS UNDERLYING MYXEDEMA COMA
+
+Zachary S. Bugos; Fnu Abhishek. UPMC Mercy, Etna, PA. (Control ID #3185837)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize subtle findings associated with myxedema coma.
+
+# CASE:
+
+29 year old woman with medical history of cerebral palsy, traumatic brain injury compounded by hypoxic brain injury secondary to polyethylene glycol poisoning, seizure disorder and hypothyroidism presented from long-term nursing facility for seizure activity presenting as "facial twitching." Emergency responders gave intravenous diazepam for witnessed repetitive facial twitching lasting 30 seconds per episode. Per report, her seizure disorder was well controlled on topiramate with last known seizure 4 years ago. On arrival to ED, she was hypothermic (33.4°C rectal), bradycardic (39-66 bpm) and hypotensive (SBP 70-90 mmHg). Examination revealed an overweight, non-verbal patient with puffy facial features, non-palpable thyroid, cool skin, bilateral non-pitting lower extremity edema and only responsive to painful stimuli. Non-contrast head CT was unremarkable. Initially received IV antibiotics, fluid boluses with single pressor support and warming blanket for presumed septic shock. However, bloodwork significant for sodium 145 mmol/L, creatinine 0.47 mg/dL, ALT 202 IU/L, AST 145 IU/L, Alk phos 156 IU/L, albumin 3 g/dl, WBC count 4.3 x 10/L, hemoglobin 11.6 g/dL, MCV 9 103.1 fL. TSH and AM cortisol were ordered due to suspicion for hypothyroidism vs adrenal insufficiency in setting of persistent shock requiring transfer to ICU. TSH was elevated to 11.1 and AM cortisol.

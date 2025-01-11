@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# SELF-WEIGHING FREQUENCY AND ASSOCIATED CHARACTERISTICS AMONG VETERANS OF THE WARS IN IRAQ AND AFGHANISTAN
+
+Carolyn Bramante 1; Anne Joseph 1; Jennifer A. Linde 1; Charles J. Billington 2; Steven Fu 3; Rachel Widome 1. 1 University of Minnesota, Minneapolis, MN; 2 Minneapolis VA Medical Center, Minneapolis, MN; 3 Minneapolis VA Health Care System, Minneapolis, MN. (Control ID #3185915)
+
+# BACKGROUND:
+
+Rates of obesity are high among Operation Enduring Freedom/Operation Iraqi Freedom (OEF/OIF) Veterans. Self-weighing is a promising tool for weight loss and maintenance. Daily self-weighing at home can promote weight loss, likely by raising one's awareness of current body weight and behaviors associated with excess caloric intake. Multiple professional organizations recommend that clinicians advise patients to weigh themselves regularly for management of obesity and overweight. Our objective was to determine the frequency that OEF/OIF Veterans report engaging in self-weighing, and to explore demographic, behavioral, and mental health correlates of self-weighing.
+
+# METHODS:
+
+A random sample of 2,000 OEF/OIF veterans who had interacted with the Minneapolis VA Health Care System were mailed surveys about health-related behaviors in 2012. We conducted a retrospective analysis of this cross-sectional survey dataset. Our outcome of interest was the answer to "During the past 30 days, how many times did you weigh yourself?" We explored correlates using univariate analyses (t-test for continuous variables and chi 2 tests for categorical variables), and examined associations between self-weighing and income, body mass index, health behaviors, mental health indicators, weight satisfaction, with adjustment for age, gender, race, education, and employment status.
+
+# RESULTS:
+
+Of the 2,000 veterans who were mailed the survey, 953 (48%) responded, and 918 of these (96%) answered the question about self-weighing. Of the 918, 45% were female; 74% married; and 90% white, 5% black, and 5% "other." The mean age was 35 years, 44% had a college degree or more, and 62% were employed. Overall, 546 participants (59%) self-weighed less often than weekly; 153 (17%) self-weighed weekly; and 219 (24%) self-weighed more than once per week. In univariate analysis, respondents who self-weighed more than weekly were more likely to have a college degree or more (55%, p<0.01), more likely to be female (45%, p<0.01), less likely to report high satisfaction with weight (36%, p=0.03), and more likely to prepare meals with vegetables (77%, p<0.01). There were no statistically significant correlations between self-weighing and mental health indicators. In multivariate analysis, participants who prepared meals with vegetables were more likely to self-weigh more than weekly (OR 1.9, 95% CI 1.2-2.4), and there were no associations between self-weighing more than weekly and feeling downhearted, nervous, calm, or confident in one's ability to handle problems.
+
+# CONCLUSIONS:
+
+Most OEF/OIF veterans are not engaging in the important weight-management tool of self-weighing at least weekly. Stress and anxiety are often invoked as potential negative outcomes of self-weighing at home; however, we found no associations between self-weighing more than weekly and indicators of poor mental health in this cross-sectional survey. Self-weighing may be a behavior to encourage in this population for improved weight management.
+
+# SETTING HIGH STANDARDS FROM THE START: AN EXPERIENTIAL FACULTY ORIENTATION TO INTRODUCE INSTITUTIONAL EXPECTATIONS AROUND COMMUNICATION AND PATIENT SAFETY
+
+Sondra Zabar 1; Mara McCrickard 1; Kinga Eliasz 1; Deborah Cooke 1; Katherine A. Hochman 1; Andrew B. Wallach 1, 2. 1 NYU School of Medicine
+
+# BACKGROUND:
+
+Newly recruited clinicians have heterogeneous backgrounds and experiences and need a substantive introduction to their new institution's patient communication expectations and safety culture and standards for clinician performance. We describe a unique onboarding program designed to ensure that newly hired clinicians receive actionable, behaviorally specific feedback from the patients' perspective to support a satisfying transition to the new work environment, enhance patient experience and reduce the need to punitively react to complaints once they have started.
+
+# METHODS:
+
+During the 2-hour onboarding, participants complete 3, 10-minute Objective Structured Clinical Exam cases designed to assess how they address a medical error, manage the patient's discharge goals of care, and respond to an impaired learner. During each encounter, participants interact with highly trained Standardized Patients (SPs) or Standardized Learners (SLs) who use behaviorally-anchored checklists to evaluate provider performance on communication and case-specific skills. Following each encounter, participants complete a self-assessment while the SPs/SLs complete a behavior-specific checklist, after which the two discuss the encounter and the SL/SP provides confidential and actionable feedback. At the end, participants are encouraged to set individual learning goals to implement in their daily work, complete a program evaluation, and engage in a debrief with experienced facilitators. Participants also receive their SP checklists in addition to an institutional guide containing relevant resources and contacts.
+
+# RESULTS:
+
+Over 2 years, 57 faculty members representing 6 clinical sites participated in the onboarding program. They are heterogeneous with respect to general and case specific performance on these SP/SL cases. For example, 86% adequately elicited the SP/SLs story during the discharge case compared to 66% in the other two cases, 77% addressed pain management (a key patient goal), while 44% did not discuss important medication side effects. Participants have universally found this onboarding to be useful and relevant; 98% agreed/strongly agreed that the program was an effective way to reinforce good habits in patient and learner communication, 96% felt it enhanced confidence about their ability to communicate effectively, and 96% felt it reinforced the institutional culture of safety. All 56 participants who completed the evaluation agreed/strongly agreed that the event was engaging and well-designed, and 93% felt it was a good use of their time and would recommend the program.
+
+# CONCLUSIONS:
+
+Traditional orientations are not well recalled and do not address knowledge and skills in real-time. Although it requires additional resources, participants are enthusiastic about our low-stakes introduction to the institution's expectations. This program sets high standards and introduces a new model for skills-based onboarding which may lead to measurably improved patient outcomes.
+
+# SHOULD I STAY OR SHOULD I GO? INTER-RELATION BETWEEN JOB TURNOVER INTENTION, BURNOUT, WELL-BEING, AND JOB SATISFACTION
+
+Shannon A. Scielzo; Rachel Bonnema; Ethan Halm. Univ of TX Southwestern Med Ctr, Dallas, TX. (Control ID #3184650)
+
+# BACKGROUND:
+
+Much attention has been paid to the rising epidemic of provider burnout and its adverse effects on the wellness of individuals and cost to health systems. Replacing a physician who leaves is estimated to cost $500,000, so understanding the determinants of job turnover (not just burnout) and addressing them is paramount. While many factors are hypothesized to influence burnout, well-being, job satisfaction and job turnover, the empiric inter-relationship among these constructs, how to best measure them, and factors most strongly predictive of them is less well studied.
+
+# METHODS:
+
+An anonymous, web-survey was sent to providers in GIM, Med-Peds, Palliative Care and Geriatrics clinicians working in a large, urban academic medical center. The survey included demographics, the MiniZ burnout tool (including the 1 item burnout question (MZB), 1 overall job satisfaction item (Sat), and 3 subcomponents, Meaning - M, Work-Life Balance - WLB, and Control/Influence - CI), Maslach Burnout Inventory.

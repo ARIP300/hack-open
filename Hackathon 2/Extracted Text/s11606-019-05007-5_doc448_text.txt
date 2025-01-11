@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Syphilitic Hepatitis
+
+Admission the patient disclosed a painless penile chancre, and a reactive treponemal antibody screen with reflex rapid plasma reagin (RPR) was positive. He was diagnosed with syphilitic hepatitis and received the first of three intramuscular penicillin benzathine shots.
+
+# IMPACT/DISCUSSION:
+
+Syphilis infection rates in the United States have increased in recent years. The Centers for Disease Control and Prevention reports over 30,000 new cases of primary and secondary syphilis in 2017, with ~7,000 cases in HIV-positive individuals, principally men who have sex with men. Syphilis-induced hepatitis is a rare manifestation occurring in an estimated 10% of immunocompetent patients, and is characterized by a disproportionately large elevation of ALP compared to ALT and AST. Standard stage-dependent antibiotics are the current recommended treatment. Of note, evidence has emerged that syphilitic hepatitis may develop in up to 38% of HIV-positive patients. Current recommendations for acute hepatitis include screening for Hepatitis B and C viruses. However, given this disproportionate rate of occurrence in HIV-positive patients, we recommend additional screening for syphilis when evaluating acute hepatitis in immunocompromised patients or high-risk patients with hepatitis secondary to an unclear etiology. As our patient shows, a thorough history and exam, as well as continued development of rapport, is vital to obtaining an early and accurate diagnosis.
+
+# CONCLUSION:
+
+- Syphilitic hepatitis is an increasingly common etiology of acute hepatitis.
+- It is characterized by ALP elevations significantly greater than AST and ALT.
+- HIV-positive patients are particularly at risk for syphilitic hepatitis.
+
+# HEPATORENAL SYNDROME SECONDARY TO ABDOMINAL COMPARTMENT SYNDROME
+
+Merza Nooraldin1; Taylor Lindgren1; Deborah Lin2; Dylan Murray2; Tareq Naguib1. 1ttuhsc, Amarillo, TX; 2Texas Tech University Health Sciences Center, Amarillo, TX. (Control ID #3184720)
+
+# LEARNING OBJECTIVE #1:
+
+1. Recognize Increased intra-abdominal pressure (IAP) as a cause of acute kidney injury (AKI).
+2. Identify massive ascites, increased IAP, and hepatorenal syndrome as complications of liver cirrhosis.
+3. Demonstrate paracentesis as therapeutic management and treatment of increased IAP.
+
+# CASE:
+
+A 28-year-old Hispanic male with medical history significant for morbid obesity, recreational drug use, and alcohol-induced liver cirrhosis resulting in ascites presented to our facility complaining of increasing abdominal girth, nausea, generalized abdominal pain, and swelling. He reported decreased urine output over the past two days. CT of the abdomen showed a cirrhotic-appearing liver without masses, massive ascites, and mild splenomegaly. Urine drug screen was positive for cocaine and opiates. Initial labs were significant for a total bilirubin of 10, ALP of 113, AST/ALT of 59/32, lipase of 205, and creatinine of 1.4. Baseline creatinine was around 0.9. An initial diagnosis of AKI due to hepatorenal syndrome (HRS) was made, and the patient was started on octreotide, midodrine, albumin, and furosemide. Serum creatinine improved initially to baseline before increasing to 2.2. IAP also increased, and a diagnosis of abdominal compartment syndrome (ACS) was made. An IR-guided paracentesis was performed, during which 6L of fluid were removed. After the paracentesis, the patient's renal function returned to baseline.
+
+# IMPACT/DISCUSSION:
+
+HRS is defined as an association between liver disease and oliguric renal failure characterized by reduction in glomerular filtration rate in patients with liver cirrhosis and hepatic failure. There are several theories on its pathogenesis, but arterial vasodilation in the splanchnic circulation is a significant contributing factor. Decline in renal perfusion also plays a role, and increased IAP can contribute to this. Patients may recover from HRS following liver transplant. However, if the disease progresses, end-stage liver failure may result in ascites, which then further increases IAP and may advance to ACS, therefore, while the precise mechanism of HRS is unknown, increased IAP is one significant contributing factor.
+
+# CONCLUSION:
+
+Surgical treatment for increased IAP (particularly ACS) includes decompressive laparotomy, but non-surgical management for increased IAP is effective as well. This includes sedation and analgesia, avoidance of the head of bed >30 degrees, paracentesis, percutaneous drainage, nasogastric decompression, avoiding excessive fluid resuscitation, diuretics, hemodialysis, vasopressors, optimizing ventilation/alveolar recruitment, and antibiotic therapy in septic patients. Physicians should be aware of the association between increased IAP, ACS, and HRS. Prevention of increased IAP and subsequent ACS can help avoid the development of HRS, which can then be treated via paracentesis.
+
+# HEREDITARY ANGIOEDEMA FLARE MIMICKING CELLULITIS
+
+Praneet Kalkat1; Sara Wikstrom2. 1George Washington University, Washington, DC; 2George Washington University, Potomac, MD. (Control ID #3184487)
+
+# LEARNING OBJECTIVE #1:
+
+Consider hereditary angioedema in non-resolving erythema and edema of extremities.
+
+# CASE:
+
+60 y/o African-American woman with history of hereditary angioedema, hypertension, fibromyalgia, chronic lower back pain, and chronic lower extremity edema presenting with left lower extremity erythema, pain, and swelling of 2 days. She denied any recent trauma to the area. She also denied any abdominal pain, lip swelling or trouble breathing. She was afebrile and on physical exam had 2+ pitting edema of her left lower extremity with erythema, warmth and mild tenderness to palpation. Labs showed a normal white count. An ultrasound showed no evidence of thrombosis. She was discharged on a 7-day course of clindamycin for presumed uncomplicated cellulitis. She presented to the emergency room 6 days later now with bilateral lower extremity pain, erythema, and swelling despite clindamycin treatment. Labs again showed no leukocytosis. Given her bilateral presentation, no response to antibiotics and no leukocytosis concern for hereditary angioedema flare was raised. C1 esterase inhibitor was found to be low at 17.1 mg/dl. She received 1 dose of Berinert IV 10-20 u/kg which she tolerated well with improvement of symptoms.
+
+# IMPACT/DISCUSSION:
+
+Hereditary angioedema is a rare autosomal dominant disease characterized by either low levels of C1 esterase inhibitor (type 1), as seen in our patient, or dysfunction of C1 esterase inhibitor itself (type 2). This genetic defect unleashes a break in the kallikrein-kinin pathway allowing for an increase in vasodilation and vascular permeability. During a flare, patients classically suffer from angioedema involving the layers of the gastrointestinal and upper respiratory tracts. We present an atypical presentation of hereditary angioedema, solely involving the skin of the lower extremities. Cutaneous attacks usually involve non-pitting edema with ill-defined margins that are non-pruritic and can be erythematous, but are usually not warm or tender to palpation as seen in our patient, likely leading to a delay in diagnosis. First-line treatment includes intravenous C1 esterase inhibitor, which our patient received with improvement in symptoms. As seen in our patient, it is important to consider non-infectious causes of erythematous and edematous lesions especially in the setting of no fever and leukocytosis. Earlier recognition can lead to unwarranted antibiotic use and rehospitalization. Finally, while patients with hereditary angioedema are usually screened for troubling upper respiratory or gastrointestinal symptoms it is important to screen for cutaneous symptoms in patients as well, which can be distressing for patients.
+
+# CONCLUSION:
+
+Consider hereditary angioedema in one's differential for a patient with non-resolving erythema and edema of extremities with no other signs of infection. It is important to screen patients with hereditary angioedema for cutaneous symptoms.
+
+# HIDDEN ANSWER IN THE BONE MARROW
+
+Aivi Doan. University of Connecticut, Middletown, CT. (Control ID #3186178)

@@ -1,0 +1,36 @@
+# iwCLL 2023
+
+# Special Issue
+
+Applied to infections (p = 0.0098). These findings support zanubrutinib as an appropriate long-term treatment option for patients with B-cell malignancies.
+
+# Immune cell number changes in long-term treatment
+
+Changes in T cells have been observed during long-term treatment with ibrutinib in CLL patients [20], although it is unclear to which extent these are induced by the inhibition of interleukin-2–inducible T cell kinase (ITK) rather than by the reduction of the tumor burden. Andersson et al. explored the impact of zanubrutinib treatment on T cell and natural killer (NK) cells in 16 patients with CLL who received long-term zanubrutinib therapy compared to ibrutinib. Eight of them had been included in the SEQUOIA trial and were treatment-naïve, while the other eight had been enrolled in the ALPINE study that assessed zanubrutinib in relapsed/refractory disease. After 24 months of follow-up, six patients in each study were still on treatment and had achieved partial response. All patients stayed on full-dose zanubrutinib during the whole treatment period. Taken together, these changes appear to be related to the reduction of the tumor burden rather than to ITK inhibition.
+
+# References
+
+1. Brown JR et al., Characterization of the safety/tolerability profile of zanubrutinib and comparison with the profile of ibrutinib in patients with B-cell malignancies: post hoc analysis of a large clinical trial safety database. iwCLL 2023, poster 2014
+2. Ma H et al., Rate of cardiac disorders in patients with B-cell malignancies who undergo treatment with Zanubrutinib. British Society for Hematology Annual Meeting 2023, abstract BSH23-OR19
+3. Andersson ML et al., Changes in immune cell numbers and profile during long-term zanubrutinib treatment in treatment-naïve and relapsed/refractory patients with chronic lymphocytic leukemia. iwCLL 2023, poster 2001
+4. Mulder TA et al., Ibrutinib has time-dependent on- and off-target effects on plasma biomarkers. iwCLL 2023, poster 2001
+
+# Overcoming resistance to targeted inhibitors
+
+# Subclonal mutations on covalent BTK inhibitor treatment
+
+As covalent BTK inhibitors have been in use for the treatment of CLL in clinical practice for an extended period of time, different resistance mutations are being observed. Dr. Adrian Wiestner, MD, PhD, National Institutes of Health, Bethesda, USA, noted that mutations at progression are variable depending on the specific BTK inhibitor used, with the “classical” C481 mutations prevailing on ibrutinib and acalatinib treatment, while L528W mutations are mainly found in the context of zanubrutinib therapy. This variability is due to different chemical structures of BTK inhibitors that shape the BTK binding properties [1, 2].
+
+CLL with primary resistance to ibrutinib treatment is virtually always transformed lymphoma (i.e., Richter’s transformation, Hodgkin lymphoma; Figure 1) [3]. Progression that occurs later on typically carries BTK or PLCG2 mutations. Dr. Wiestner presented unpublished findings according to which PLCG2 resistance mutations were demonstrated to differ across compartments such as peripheral blood, lymph nodes, and bone marrow. Critical signaling pathways that had been downregulated at the time of response were restored in patients progressing on ibrutinib, with pathway activation being PLCG2 normalized to pre-treatment levels. Additional TP53 aberrations are common in patients progressing on BTK inhibitors. However, they do not represent a resistance mechanism, and successful long-term disease control with first-line ibrutinib is possible in the setting of TP53-aberrant CLL [4]. Similarly, deletion 8p is common in patients progressing on BTK inhibitors.
+
+# Figure 1: Clonal evolution observed in ibrutinib-treated patients with CLL
+
+|Clonally unrelated lymphomas|Richter's transformation|Progressive CLL|
+|---|---|---|
+|P|P|B|
+|B|B|B|
+|BTK or PLCG2 mutation|Additional mutation|Clonal evolution|
+|P|B|Time on ibrutinib|
+|Keys|n Ibrutinib-sensitive CLL|n PLCG2-mutated subclone|
+| |n BTK-mutated subclone| |
+| |Early|~ 9 months|

@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose central diabetes insipidus
+
+# LEARNING OBJECTIVE #2:
+
+Recognize limitations in the symptomatology treatment of central diabetes insipidus with desmopressin
+
+# CASE:
+
+A 34-year old female with history of hypertension, gastric bypass surgery, polycystic ovarian syndrome, and non-functional pituitary macroadenoma presented with chronic headaches for 3 years. Work-up showed 1.6 cm lesion within the rightward sella consistent with macroadenoma. Endocrine studies were consistent with non-functional adenoma. She underwent elective macroadenoma resection via transsphenoidal approach. Post operatory course complicated with increased urinary output of 8L within 24 hours. Morning cortisol and thyroid function studies were found within normal limits at that time. The patient was started on oral desmopressin (dDAVP) and adjusted to 400mcg three times daily without improvement of polyuria and polydipsia. Oral desmopressin was changed to 1mcg of subcutaneous form of dDAVP twice daily with improvement of polyuria. The urinary output improved from 6.6 liters to 3 liters in 24 hours. She was eventually discharged home in stable condition on subcutaneous desmopressin with close follow up with Endocrinology with plans to try intranasal form as outpatient.
+
+# IMPACT/DISCUSSION:
+
+Central Diabetes Insipidus symptomatology can be efficiently managed with hormone replacement with Desmopressin. Data had showed increased morbidity and mortality involved with inadequate treatment of Central Diabetes Insipidus. Individualization of treatment should be provided based on patient severity of polyuria, absorption and baseline conditions. Patients who are unable to tolerate intranasal or oral desmopressin should be provided with subcutaneous form. The deficiency of the antidiuretic hormone, vasopressin (AVP) causes Central Diabetes Insipidus (CDI). AVP deficiency results in uncontrolled diuresis. Complete deficiency can lead to polyuria exceeding 10 liters in 24 hours. CDI is treated with desmopressin, an analogue of arginine vasopressin (AVP) without vasopressor activity. Desmopressin can be administered intranasally, in an oral tablet form or in a parenteral formulation. Oral route is preferred by patients for their ease of administration but only 5% is absorbed on the gut and its absorption can decrease up to 50% if taken with meals. Intranasal form is contraindicated in cases of rhinitis or nasal mucosa edema. When patients have inadequate response to intranasal or oral forms of dDAVP, it should be given subcutaneously and the dose should be adjusted accordingly. Treatment should be continued for as long patient has CDI. Patient should be educated and closely monitor about signs of symptoms of hyponatremia while on dDAVP.
+
+# CONCLUSION:
+
+Prompt recognition and adequate administration of desmopressin can efficiently control symptoms of CDI. Route of dDAVP administration should be decided based on patient profile and clinical response.
+
+# CHECK YOUR BIAS AT THE DOOR: A CASE OF ANCHORING BIAS IN REFRACTORY IMMUNE CHECKPOINT INHIBITOR-ASSOCIATED COLITIS.
+
+Nathan C. Nowalk; Grant Pickett. Baylor College of Medicine, Houston, TX. (Control ID #3186250)
+
+# LEARNING OBJECTIVE #1:
+
+Appraise a clinically challenging case for cognitive errors, specifically, anchoring bias
+
+# LEARNING OBJECTIVE #2:
+
+Compose a diagnostic schema for inflammatory diarrhea in patients on immune checkpoint inhibitors
+
+# CASE:
+
+A 50 year-old female with high-grade urothelial carcinoma presented with two-week history of abdominal pain and diarrhea of small-volume hematochezia. One month prior to symptom-onset, the patient received her first doses of nivolumab and ipilimumab. A sigmoidoscopy with biopsies was performed showing neutrophilic crypt microabscesses consistent with diagnosis of immune checkpoint-inhibitor (ICI) associated-colitis. The patient received intravenous methylprednisolone and one dose of infliximab with improvement in symptoms. She was discharged on oral prednisone. Over the following four weeks her prednisone was tapered down. Six weeks after initial presentation, she again presented with identical symptoms of abdominal pain and diarrhea of small-volume hematochezia. She was again started on intravenous methylprednisolone, but symptoms did not improve as they had before. Repeat sigmoidoscopy with biopsy showed mucosal ulcers with "owl's eye" inclusion bodies consistent with diagnosis of cytomegalovirus (CMV) colitis. She was started on intravenous ganciclovir, followed by oral valacyclovir with resolution in symptoms at two-week follow-up.
+
+# IMPACT/DISCUSSION:
+
+Due to prior success and growing indications, the use of ICIs in treating cancer continues to increase at a rapid rate. As expected, the frequency of immune-related adverse events from these agents has also increased. Prior studies have shown that combining ICIs can increase the risk of adverse events up to 55%. ICI associated-colitis remains the most commonly encountered severe adverse event and usually occurs within six weeks of initial dose. Diagnosis is established by endoscopy with biopsy. Management includes discontinuation of ICIs followed by immunosuppression. As is the case with other inflammatory bowel diseases, such as Crohn's disease, the exclusion of infectious diarrhea is paramount before initiating immunosuppression. CMV colitis is seen in these other inflammatory diarrheas but is only recently being recognized in ICI-associated diarrhea.
+
+# CONCLUSION:
+
+Anchoring bias is the cognitive error of retaining a single diagnosis based on a few case features and failing to integrate new information when appropriate. An extension of anchoring bias is diagnostic momentum, which describes the resistance to broaden a prior diagnosis made by an earlier provider. Both errors are unfortunately well-represented in our case. Our patient had an established diagnosis of ICI associated-colitis when she presented with her second inflammatory diarrhea in two months. Her recent decrease in steroids as an outpatient fortified the suspicion for recurrence of ICI associated-colitis. Unfortunate anchoring bias resulted in a therapeutic trial of steroids with no improvement in symptom severity.
+
+# CHECKING THE CHECKPOINTS: A CASE OF TYPE 1 DIABETES FOLLOWING PD-1 INHIBITION IN A PATIENT WITH HIV ON HAART
+
+Michael S. Hughes1; Sara Bedrose2; Madhuri M. Vasudevan; Marco2 Marcelli 2. 1 Baylor College of Medicine, Houston, TX; 2 Michael E. DeBakey VA Medical Center and Baylor College of Medicine, Houston, TX. (Control ID #3179491)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize type 1 diabetes mellitus as a rare but important complication of immune checkpoint inhibition
+
+# LEARNING OBJECTIVE #2:
+
+Employ higher clinical suspicion for potential immune related adverse events in patients with HIV on checkpoint inhibitors
+
+# CASE:
+
+A 48-year-old man with HIV on HAART was diagnosed with Hodgkin's lymphoma and initiated the Programmed Death 1 (PD-1) immune checkpoint inhibitor, nivolumab. After 6 months, he reported polydipsia and polyuria. Labs revealed glucose 764 mg/dl and A1c 7.1%. Low C-peptide and elevated GAD-65 antibody levels confirmed type 1 diabetes mellitus (T1DM), and he started insulin therapy. Nivolumab was continued for 12 more months. Despite discontinuation of nivolumab, he remains on insulin therapy.
+
+# IMPACT/DISCUSSION:
+
+While A1c may reflect average glycemia, it alone cannot distinguish T2DM from T1DM progression. Tests for c-peptide and autoantibodies for T1DM must be included when evaluating patients on PD-1 inhibitors. T1DM is a known immune related adverse event (irAE) following treatment with PD-1 inhibitors with reported 0.9% incidence. However, little is known about such irAEs in individuals with HIV treated with PD-1 inhibitors. Patients with HIV have higher autoantibody titers in active disease states or following HAART initiation, as seen in immune reconstitution. Moreover, in vitro PD-1 inhibition elevates HIV cell proliferation and immune hyperactivity. The challenge in

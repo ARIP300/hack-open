@@ -1,0 +1,54 @@
+# ABSTRACTS JGIM
+
+# Opioid Prescribing
+
+Towards that goal, we aimed to create an opioid registry, to characterize patterns of opioid prescribing, conduct needs assessment in opioid prescribing at UMass Benedict Internal Medicine (IM) Primary Care clinic.
+
+# METHODS:
+
+1. Patient registry: Working with our Office of Clinical Integration we created an Epic-based registry, tracking patients who received at least three opioid prescriptions in a six-month period (12/22/2017 - 06/22/2018). We used the Massachusetts Prescription Awareness Tool (MassPAT) and Epic data to assess baseline prescribing patterns, including morphine milligram equivalents (MME) per day, co-prescribing of opioids and benzodiazepines, early refills (<28 days), presence of a pain agreement within the last year, urine toxicology testing within the last year, and presence of additional opioid prescribers. We maintained the registry as a secure password protected file.
+2. Needs assessment: We distributed a survey via SurveyMonkey to all 30 Benedict IM PCPs (26 MDs and 4 NPs), with responses on a scale of 1-4 and free text responses. We collapsed free text responses into themes.
+
+# RESULTS:
+
+We identified 450 long-term opioid users for whom we are primary prescribers. Eighteen percent received >60 MME/day, 25% received concurrent opioids and benzodiazepines, 22% received early refills. Of the 73 patients who received >60 MME/day, 53% did not have an updated pain agreement, 40% did not have a baseline urine toxicology. Majority of PCPs did not feel confident managing chronic non-malignant pain, identifying red flags for opioid misuse, interpreting urine toxicology results. Four main areas for which PCPs needed help were: choosing non-opioid options, following clinical guidelines, monitoring MassPAT, and managing challenging patients.
+
+# CONCLUSIONS:
+
+Baseline data demonstrate there is room for improvement with opioid prescribing patterns. With the creation of the electronic opioid registry, we have prescriber-level data and a population-based approach towards improving opioid prescribing safety. We are working with IT analysts to allow the registry to be continually updated in real time. We will develop a multifaceted "peer support system" that centers around academic detailing, aiming to improve adherence to guidelines. Our eventual goal is to disseminate our findings to other practices and contribute to a system-wide approach to opioid prescribing.
+
+# Opioid Prescribing Behaviors Amongst South Carolina Opioid Prescribers
+
+Samuel O. Schumann; Jingwen Zhang; Justin Marsden; Patrick D. Mauldin; William P. Moran. Medical University of South Carolina, Charleston, SC. (Control ID #3186248)
+
+# BACKGROUND:
+
+Prescription opioids are the second leading cause of opioid-related death, and their non-medical use is a significant risk factor for transition to heroin use. Prescription Drug Monitoring Programs (PDMPs) allow prescribers, dispensers and regulators access to patient-level details on controlled substances to reduce abuse and promote safe prescribing. This report outlines Class II - IV opioid prescribing behavior in South Carolina (SC) from 2010 - 2017 using de-identified prescription data collected by the SC PDMP (SCRIPTS).
+
+# METHODS:
+
+This retrospective study uses seven 12-month de-identified SCRIPTS data sets from 2010 - 2017. Indicators for opioid prescribing were defined by the Centers for Disease Control and Prevention as a part of their Prescription Drug Overdose Prevention for States surveillance program. Rate of opioid prescribers was defined as the number of prescribers who prescribe Class II - IV opioids on any one prescription in a given quarter divided by the number of total number of SC prescribers who prescribed any one Class II-IV medication in that same given quarter. Rate of high-dose opioid prescribers was defined as the number of prescribers with 90-morphine milligram equivalent (MME)/day prescribed on any one prescription in a given quarter divided by all prescribers who prescribed an opioid analgesic prescription identified in the numerator for the same given quarter. Tramadol and propoxyphene were excluded from the final analysis.
+
+# RESULTS:
+
+Rate of opioid prescribers decreased from 75% in 2010 to 73% in 2017, while the absolute number of SC licensed prescribers who prescribed any Class II - IV medications remained. Rate of high-dose opioid prescribers decreased from 40% in 2010 to 27% in 2017. Percentage of high-dose opioid prescriptions also fell from 12.3% of all opioid prescriptions in 2010 to 9.6% in 2017.
+
+# CONCLUSIONS:
+
+Results show a decrease in the rate of opioid prescribers, high-dose opioid prescribers, and high-dose opioid prescriptions in SC from 2010 - 2017. This potentially signifies that either established SC prescribers stopped opioid prescribing or new SC prescribers were unwilling to prescribe opioids. While high-dose opioid prescribers fell by 13%, the percent of all opioid prescriptions that were high-doses only fell by 2.7%. This may indicate that patients are receiving high-dose opioids from a more concentrated pool of prescribers and reflects high-dose opioid tapering challenges. Rapid decreases in opioid prescribers should be monitored for unintended consequences, such as increases in transition to illicit opioids and accidental overdose. Future research should evaluate associated patient outcomes - including illicit drug use - and continue to monitor patterns of opioid prescribing. Special attention should be given to resource-poor areas of the state, which lack access to non-opioid pain management therapies, mental health services and medication-assisted therapy providers.
+
+# Opioid Prescribing Patterns for Chronic Non-Cancer Pain in a Primary Care Population
+
+Alexander Chaitoff; Glen B. Taksler; Anita D. Misra-Hebert; Belinda Udeh; Michael B. Rothberg. Cleveland Clinic, Cleveland, OH. (Control ID #3185149)
+
+# BACKGROUND:
+
+In the midst of the opioid epidemic, guidelines and regulations are targeting outpatient opioid prescribing. While 50% of opioids are prescribed in primary care, prescription patterns within primary care populations have not been well explored. This study aimed to describe patterns in opioid prescribing to primary care patients with chronic non-cancer pain.
+
+# METHODS:
+
+This was a retrospective study using data extracted from the electronic health record at one large integrated health system in the United States. Participants were primary care patients with chronic pain, defined as self-reported pain lasting > 3 months on a routine pre-visit questionnaire, treated between January 2014 and December 2015. Patients with metastatic cancer were excluded. Opioid use was defined as receiving an outpatient opioid prescription. Opioids prescribed for at least two months in any three-month period were classified as long-term. Opioid dose was measured in morphine milliequivalents per day (MME/day) averaged over each month a patient received a prescription. Predictor variables included demographic characteristics, pain severity measured using the numeric ranking scale-10, health insurance status, substance use behaviors, comorbidities, and receipt of non-opioid pain medications. Descriptive statistics were developed for pain medication use in the cohort. Multivariable regression models were used to explore the patient factors associated with receiving any opioid or a long-term opioid.
+
+# RESULTS:
+
+The sample included 24,127 patients with chronic pain. The sample had a mean age of 58.7 (standard deviation (SD)=15.3), and was majority female (64.4%, n=15,414) and White (77.4%, n=18,668). Half of patients (56.3%, n=13,329) were prescribed an opioid. Patients received a median of 2 (interquartile range (IQR)=2-3) classes of non-opioid pain medications; 98.4% of patients who received an opioid also received another class of pain medication, and opioid users received more non-opioid pain medication classes than non-users (3 vs 2, p<0.001). Only 204 (0.8%) patients were prescribed an opioid continuously for 24 months. However, 6723 patients (27.9%) received long-term opioids, with an average dose of 12.4 MME/day (SD=44.43); 4.3% (n=289) had an average dose >50 MME/day. Age and race were not correlated with receiving an opioid. Females were more likely to receive an opioid (OR=1.06).

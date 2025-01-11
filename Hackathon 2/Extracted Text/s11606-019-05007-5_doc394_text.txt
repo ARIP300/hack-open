@@ -1,0 +1,63 @@
+# ABSTRACTS
+
+otherwise normal exam. Basic laboratory evaluations, including CBC, creatinine, and thyroid function studies, were normal. An ECG showed only sinus tachycardia. Review of recent brain MRI revealed no significant findings. Due to her signs of new-onset heart failure, an echocardiogram was performed, showing mild concentric left ventricular (LV) hypertrophy, LV enlargement, ejection fraction of 45%, and resting regional wall abnormalities. A follow up stress myocardial perfusion imaging study was performed, which revealed no significant perfusion defects, together suggesting a new underlying cardiomyopathy. Due to her known "runaway wear" of the joint prothesis and her new constellation of heart failure, hearing loss, vision loss, and hypothyroidism, serum heavy metal levels were obtained with normal titanium, chromium, and markedly elevated cobalt at 953 (normal 0.0-0.9) ng/ml.
+
+# IMPACT/DISCUSSION:
+
+Our case describes joint prosthesis-related systemic cobalt poisoning. The cobalt toxidrome classically involves cardiomyopathy, peripheral neuropathy, hearing and vision loss, and hypothyroidism. Cobalt toxicity was first described in the 1965 in nutritionally deficient alcoholics after breweries began using it as an additive agent. A rare, but emerging, modern cause of toxicity is cobalt joint prothesis wear in the setting of retained ceramic particles from previous joint failure. Treatment includes joint replacement and occasionally chelation therapy.
+
+# CONCLUSION:
+
+Cobalt toxidrome includes cardiomyopathy, peripheral neuropathy, hearing and vision loss, and hypothyroidism. Prosthetic joint failure is a new, emerging cause of cobalt toxicity.
+
+# BEHIND THE VEIL OF RENAL FAILURE
+
+Brian J. Kinsman; Justin B. Roy; Stephanie L. Harris. PennState Health Hershey Medical Center, Hershey, PA. (Control ID #3184909)
+
+# LEARNING OBJECTIVE #1:
+
+Identify common clinical manifestations of multiple myeloma.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize overlap between endocrine disturbances in end stage renal disease and multiple myeloma.
+
+# CASE:
+
+A 66-year-old Caucasian male with a history of hip osteoarthritis, primary sclerosing cholangitis with cirrhosis, and end stage renal disease (ESRD) due to focal segmental glomerulosclerosis on hemodialysis (HD) presented with three days of acute on chronic right hip pain without an inciting trauma. Medications included lisinopril, bumetanide, sevelamer, calcitriol, and cholecalciferol. On examination, he was afebrile, blood pressure 205/95mmHg, heart rate 69bpm, respiratory rate 16 breaths/min. His right hip was swollen, euthermic, nonerythematous and diffusely tender. Attempts at right hip flexion, extension, or abduction elicited severe pain. Lower extremities were neurovascularly intact. The remainder of his exam was benign. X-ray of the right femur revealed an intertrochanteric fracture with associated lytic lesion. CT chest, abdomen, and pelvis also revealed lytic lesions in the left 9th rib and iliac wing. Initial laboratories showed K 5.6 mEq/L, Ca 9.7 mEq/L, PTH 34 pg/mL, 1,25-OH-Vit-D3 16.5pg/mL, BUN 70 mg/dL, serum creatinine 5.14 mg/dL, Hgb 8.5 g/dL, MCV 91.3 fL, Albumin 3.7 g/dL, 2-microglobulin 15.47mg/L. Serum protein electrophoresis was negative for monoclonal immunoglobulins (Ig); however, urine fixation revealed elevated free-monoclonal Ig, and serum free-chain was elevated 35.3mg/dL with a low : (0.13). This evidence led us to suspect a diagnosis of multiple myeloma (MM), rather than an alternative malignancy. HD was continued while inpatient and his femur surgically repaired. Subsequent results from biopsy of the lytic femur lesion revealed abundant -restricted, CD138+ plasma cells, confirming the diagnosis of MM.
+
+# IMPACT/DISCUSSION:
+
+The most common clinical manifestations of MM are anemia, bone pain, elevated creatinine, fatigue, hypercalcemia, and weight loss, which result from clonal plasma cell hyperproliferation and secretion of monoclonal Ig's and light chains. Although these manifestations of MM may also be attributed to ESRD-mediated secondary hyperparathyroidism, renal osteodystrophy, and impaired erythropoietin production. This man presented with worsening bone pain, anemia, elevated creatinine, and fatigue. He also had borderline hypercalcemia for a year prior to this presentation, which could be appropriate while taking calcitriol, cholecalciferol and sevelamer on HD. However, at presentation PTH was normal and 1,25-OH-Vit-D3 depressed, which hints hypercalcemia of malignancy masked by HD. Were it not for his pathologic fracture and lytic lesions, his MM may have progressed undiagnosed.
+
+# CONCLUSION:
+
+- Shared clinical manifestations to MM and ESRD include anemia, bone pain, elevated serum creatinine, fatigue, hypercalcemia, and weight loss. - Avoid anchoring on existing diagnoses in patients with multiple morbidities and new complaints.
+
+# BENEATH THE SURFACE OF A PRURITIC, ERYTHEMATOUS RASH
+
+Megan K. Veglia; Meghan Thomas; Andrew Schreiner. Medical University of South Carolina, Charleston, SC. (Control ID #3185477)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the physical signs of dermatomyositis (DM) and how to distinguish them from systemic lupus erythematosus (SLE).
+
+# LEARNING OBJECTIVE #2:
+
+Assess the therapeutic options for dermatomyositis and determine when intravenous immunoglobulin is a viable treatment.
+
+# CASE:
+
+A 60-year-old male smoker developed an erythematous, pruritic rash on his abdomen, face, and hands. Skin biopsy revealed hyperkeratosis, apoptotic cells, and a lymphocytic infiltrate with a crowded, band-like pattern. He was diagnosed with cutaneous lupus and treated with a topical corticosteroid. The rash spread and pruritis intensified despite corticosteroid use. He reported increased difficulty swallowing and myalgias so severe that he lost his job. Physical exam revealed erythema of the eyelids and cheeks, including the nasolabial folds. He had erythematous papules symmetrically over the elbows, knees, ankles, and the dorsal aspect of the metacarpophalangeal and interphalangeal joints. Strength was 4/5 in his proximal musculature and 5/5 elsewhere. His skin biopsy was reviewed with immunohistochemical staining and revealed many CD4+ and CXCR3+ cells. He was diagnosed with dermatomyositis and admitted to the hospital. Labs revealed a creatinine kinase of 781 and a sedimentation rate of 6. A swallow study showed silent aspiration. A PEG tube was placed for nutrition. He was treated with high dose intravenous steroids and IVIG for 2 days and discharged to inpatient rehabilitation on prednisone and azathioprine with monthly IVIG infusions.
+
+# IMPACT/DISCUSSION:
+
+Skin findings of DM are often mistaken for those of SLE. These two diseases are often initially evaluated and managed by general internists, and early diagnosis is crucial to a good prognosis. Classic DM is an idiopathic inflammatory myopathy characterized by proximal muscle weakness and a variety of skin manifestations, including Gottron's papules and heliotrope rash. Skin findings in DM can be distinguished from SLE by (1) the facial rash in DM involving the nasolabial folds; (2) the photo-eruption, which is pruritic in dermatomyositis but not in SLE. The hallmark treatment of DM involves glucocorticoids, and IVIG is used in resistant cases when there is severe dysphagia, or with severe, life threatening illness.
+
+# CONCLUSION:
+
+DM is an idiopathic inflammatory myopathy characterized by proximal muscle weakness and a variety of skin manifestations, most classically including Gottron's papules and a heliotrope rash. Skin findings in DM can be distinguished from SLE by (1) the facial rash in DM which, when present, involves the nasolabial folds, and (2) the photo-eruption, which is pruritic in dermatomyositis unlike the photo-eruption seen in SLE. The hallmark of treatment of DM involves glucocorticoids, and IVIG is used in resistant/recurrent cases, when there is severe dysphagia, or with severe, life threatening illness.
+
+# BETA-BLOCKERS LEADING TO CARDIAC ARREST IN THYROID STORM, EVEN IN NORMAL HEARTS
+
+Nooraldin Merza1; Phyo P. Kyaw; Assad Mohammedzein1; Sameer2 Prakash1; Ahmed Taha1; Manish Patel2. 1Texas Tech University Health

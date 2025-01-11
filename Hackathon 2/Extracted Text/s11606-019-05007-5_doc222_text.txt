@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# Health Insurance Literacy Score by Employee Characteristics
+
+|Excellent|7.5| | | | |
+|---|---|---|---|---|---|
+|Very good|Good|Fair|4.5|6.2|17.0|
+|Poor|3| | | | |
+|Provider|7.8| | | | |
+|Administrative|7.6| | | | |
+|Care Coordination|Other|5.4|5.9| | |
+|Patient access/call center|4.8| | | | |
+|Clinical Staff|4.3| | | | |
+|Advanced degree|7.4| | | | |
+|College|6.3| | | | |
+|Some college|5.5| | | | |
+|High school/GED|3.25| | | | |
+|Less than 12th grade|2| | | | |
+|White/Caucasian|7.8| | | | |
+|Black or African American|Asian/Pacific Islander|6.5| | | |
+|Hispanic or Latino|4.87| | | | |
+
+0    2     4     6     8     10
+
+Average HIL Score
+
+# PREDICTORS OF IATROGENIC HYPOGLYCEMIA IN TREATMENT OF HYPERKALEMIA
+
+Anh Do 1; Sandra Naffouj 1; Krishna Modi 1; Rawan Hammoudeh 1; Joseph Miller 1; Mohammed F. Dabbagh 2.
+
+1 Henry Ford Hospital, Detroit, MI; 2 Henry Ford Hospital / Wayne State University, Detroit, MI. (Control ID #3185737)
+
+# BACKGROUND:
+
+Hypoglycemia is a potential adverse outcome that could complicate the treatment of hyperkalemia with insulin administration. Treatment needs to be individualized for patients' specific characteristics to avoid iatrogenic hypoglycemia. Our study aimed to identify characteristics that could increase the risk of hypoglycemia.
+
+# METHODS:
+
+A retrospective study at a large tertiary institution was conducted from December 2016 to November 2017. A chart review was performed on adult patients who received subcutaneous insulin and intravenous glucose for treatment of hyperkalemia (potassium > 5 mmol/L) while present in the emergency department or inpatient setting. Patients who received insulin for the treatment of hyperglycemia were excluded. Data including demographics, insulin dose, and laboratory values were collected. The cohort was divided into two groups; patients who developed hypoglycemic events (defined as serum glucose < 70 mg/dL) and those who did not. Univariate and multivariate analysis was performed. The primary outcome was incidence of hypoglycemia. The secondary outcome was identifying predictors of hypoglycemia.
+
+# RESULTS:
+
+1156 consecutive patients with hyperkalemia who were treated with insulin were analyzed. Mean age was 61 years, 59% were males, and 61% were African American. 69% had chronic kidney disease, and of those 32.7% were on hemodialysis. The mean dose of insulin administered was 0.105 +0.05 units/kg for a median pre-treatment potassium level of 5.9 mmol/L. 17.8% of patients developed hypoglycemia (N=206). The median pre-treatment glucose level was 126 mg/dL, and mean hypoglycemia level was 53 mg/dL. On multivariate analysis age (p=0.0328), pre-treatment glucose level (p<0.0001), and insulin dosing (p=0.0032) were significant predictors of hypoglycemia. For every 10-year increase in age, the risk of hypoglycemia increased by an odds ratio (OR) of 1.128. For every 10 mg/dL increase in the pre-treatment glucose level, the odds of developing hypoglycemia were reduced by an OR of 0.929. For every 0.025 units/kg increase of insulin dosing above the 0.1 units/kg usually administered, the OR for hypoglycemia was increased by 1.006. There was a significant difference in the rates of hypoglycemic events between the emergency department (24.2%) compared to the general practice units (18.4%) and intensive care units (12.8%) (p<0.001). There was no relationship between insulin dose and pre-treatment glucose (R2= 0.0006).
+
+# CONCLUSIONS:
+
+Patients with older age, lower pre-treatment glucose, and higher insulin doses were at increased risk of developing hypoglycemia following treatment of hyperkalemia with insulin. Clinicians should more regularly evaluate baseline glucose levels when treating hyperkalemia with insulin to prevent iatrogenic hypoglycemia.
+
+# PREDICTORS OF LONG-TERM HIGH HEALTHCARE UTILIZATION AMONG NEW MEDICAID ENROLLEES
+
+Somalee Banerjee1; Amy Alabaster3; Patricia Kipnis4; Alyce S. Adams2.
+
+1Kaiser Permanente Oakland, Oakland, CA; 2Kaiser Permanente, Oakland, CA; 3Kaiser Permanente Northern California, Oakland, CA; 4Kaiser Health Plan, Oakland, CA. (Control ID #3183708)
+
+# BACKGROUND:
+
+The 2014 Medicaid expansion with the Affordable Care Act (ACA) increased access to healthcare for underserved patients, but also increased cost. Interventions centering on care coordination for the highest healthcare utilizers or "super-utilizers" have not been effective in reducing cost because utilization typically normalizes over a year. There is limited knowledge about predictors of long-term utilization after a year. Identifying these predictors can help target populations most likely to benefit from case management and support. This study analyzes the association of diagnoses made at enrollment with the odds of super utilization and long-term super-utilization over the first two years in a cohort of newly enrolled Medicaid patients in a large integrated care system.
+
+# METHODS:
+
+This retrospective cohort study used electronic health record (EHR) data from Kaiser Permanente Northern California for 28,653 adults newly enrolled in Medicaid managed care between June and December 2014. The super-utilizer subgroup were patients in the top 5th percentile of total healthcare cost. Differences in baseline characteristics of super-utilizers and non-super-utilizers were determined using bivariate analysis. Multivariable logistic regression determined the independent association between super-utilization in the first year (model 1) or super-utilization in the second year of enrollment (model 2) and comorbidities: mental health conditions (anxiety, depression, bipolar disorder or schizophrenia), substance use, cancer, BMI and other chronic diseases (Charlson comorbidity index greater than 2). Each model was adjusted for age, gender, race, English as first language, socioeconomic characteristics, dual enrollment, physician visits, and months enrolled.
+
+# RESULTS:
+
+More super-utilizers (1,428) had chronic mental and physical health conditions than the non-super-utilizer (27,080) Medicaid population. Patients with the following comorbidities at enrollment had significantly increased odds of being super-utilizers over their first year of Medicaid enrollment after controlling for socio-demographics and enrollment: any

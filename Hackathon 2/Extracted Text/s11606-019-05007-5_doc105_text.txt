@@ -1,0 +1,46 @@
+# ABSTRACTS JGIM
+
+# METHODS:
+
+Three-part study of adult patients with uncontrolled diabetes including: 1) cross-sectional study—patient experience getting care, 2) pilot pragmatic randomized controlled trial—intervention to improve primary care follow-up and 3) secret shopper assessment—ease of primary care appointment making. Patients were enrolled at hospitalization to one of 3 major hospitals of a non-profit health system serving MUA in the Mid-South. Inclusions: African-American, HbA1C>8%, and >1 chronic health condition. Exclusions: pregnancy, psychiatric, or cognitive impairment. The baseline cross-sectional survey was conducted upon enrollment. All patients received pamphlet on importance of rapid PCP follow-up. The intervention group also was given an appointment within 14 days of anticipated discharge. Hold times and new patient appointment availability were recorded. Primary outcomes included self-reported PCP attendance within 7 and 14 days. Secondary outcomes included patient-reported difficulty getting needed care as well as hold times and new patient appointment availability for primary care follow-up.
+
+# RESULTS:
+
+Six African American patients with uncontrolled diabetes were enrolled in each trial arm (n=12). Characteristics: mean age 54, 67% male, 75% high school education or less, 25% with regular PCP, 66.7% with usual source of preventive and mean of 2 hospitalizations in past 6 months. Patients reported delay of care due to inability to get through on the phone (42%), inability to make appointment (50%) and long wait times (42%). 80% of primary care clinics reported new patient availability. Clinics with call centers (n=3) had long hold times (mean 14 mins, 16 secs). PCP follow-up was similar across groups—0% follow-up within 7-days, 20% within 14-days.
+
+# CONCLUSIONS:
+
+This pilot study demonstrates patients with uncontrolled diabetes in MUA have difficulty getting prompt outpatient follow-up care. Vulnerable patients commonly experience difficulty getting scheduling appointments. Hold times for scheduling PCP visits are long and serve as a barrier to rapid follow-up. We found that hospital assistance with appointment making is no panacea—assistance did not improve PCP follow-up. This study suggests that primary care capacity, accessibility, and integration with hospital networks are fundamental problems that must be addressed to adequately serve our most vulnerable patients.
+
+# EFFECTS OF A REFINED EVIDENCE-BASED TOOLKIT ON MEDICATION RECONCILIATION QUALITY AND SAFETY AT MULTIPLE HOSPITALS: RESULTS OF THE MARQUIS2 STUDY
+
+Jeffrey Schnipper1, 2; Harry Reyes Nieva1, 2; Meghan Mallouk3; Amanda S. Mixon4; Stephanie Rennke5; Eugene S. Chu6; Stephanie Mueller1, 2; G. R. Smith; Mark V. Williams8; Tosha B. Wetterneck9; Jason Stein10, 11;7 Anuj K. Dalal1, 2; Stephanie Labonville1; Anirudh Sridharan12; E. John Orav1, 13; Brian Levin1, 14; Catherine Yoon; Marcus Gresham1; Jenna1 Goldstein3; Sunil Kripalani15. 1Brigham and Women's Hospital, Boston, MA; 2 Harvard Medical School, Boston, MA; 3 Society of Hospital Medicine, Philadelphia, PA; 4 VA Tennessee Valley Healthcare System and Vanderbilt University, Nashville, TN; 5 University of California San Francisco, San Francisco, CA; 6 UTSW, Dallas, TX; 7 Northwestern University, Chicago, IL; 8 University of Kentucky Healthcare, Lexington, KY; 9 University of Wisconsin School of Medicine and Public Health, Madison, WI; 10 Centripital, Atlanta, GA; 11 Unit, Atlanta, GA; 12 Howard County General Hospital, Columbia, MD; 13 Harvard T.H. Chan School of Public Health, Boston, MA; 14 SUNY Downstate Medical School, Brooklyn, NY; 15 Vanderbilt University Medical Center, Nashville, TN. (Control ID #3183344)
+
+# BACKGROUND:
+
+The Multicenter Medication Reconciliation Quality Improvement Study (MARQUIS1) demonstrated that a medication reconciliation best practices toolkit decreased total unintentional medication discrepancies in 5 hospitals. Incorporating lessons learned, we implemented a refined toolkit in a more diverse sample of hospitals.
+
+# METHODS:
+
+After a formal application process, we selected 18 sites to implement the revised toolkit. This quality improvement (QI) project offered 17 intervention components. One of 8 hospitalists trained in physician-mentored QI coached each site via monthly calls and 1-2 site visits during an 18-month intervention. Each site's QI team assessed local practices, identified improvement opportunities, and implemented toolkit components. The primary outcome was unintentional medication discrepancies in admission or discharge orders, measured by comparing them to a gold standard medication history taken by trained pharmacists, supplemented with medical record review. We used interrupted time-series (ITS) analysis to determine effects of the intervention over time, adjusting for baseline temporal trends. We modeled the number of discrepancies per patient using multivariable Poisson regression adjusted for patient covariates with total number of medications as a model offset and clustered by site. We also conducted on-treatment analyses to determine the effects of a patient receiving at least 1 intervention.
+
+# RESULTS:
+
+All 18 sites implemented 1 to 15 toolkit components. One site did not collect enough data to be included in analyses. The other 17 sites (4947 patients) saw a steady decline in medication discrepancy rates from approximately 3 discrepancies/patient to 1 discrepancy/patient (Figure 1). In ITS analysis, sites saw a 5% relative decrease in discrepancies/month over baseline temporal trends (adjusted incidence rate ratio 0.95 (95% CI 0.93-0.97; p<0.001). Patients who received at least 1 patient-level intervention had 53% fewer discrepancies than those who did not receive any [aIRR 0.47 (0.45-0.49); p<0.001].
+
+# CONCLUSIONS:
+
+A multicenter medication reconciliation QI initiative using a refined best practices toolkit was associated with a large reduction in unintentional medication discrepancies.
+
+# Statistical process control chart of effects of MARQUIS2 intervention on unintentional medication discrepancies
+
+|Total medication discrepancies per patient| | | | |
+|---|---|---|---|---|
+|3| | | | |
+|2| | | | |
+|5|11|13|15|17|
+| |Month| | | |
+
+# EFFECTS OF GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS VS. PLACEBO AND OTHER ANTIHYPERGLYCEMIC AGENTS IN PATIENTS WITH TYPE 2 DIABETES: A META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS.
+
+Jason T. Alexander 1; Erin M. Staab 1; Wen Wan 1; Melissa Franco 1; Alexandra Knitter 1; Enkhe-Tuyaa Montgomery 1; Celeste Thomas 1; Valerie G. Press 1; Meltem Zeytinoglu 1; Elizabeth L. Tung 1;

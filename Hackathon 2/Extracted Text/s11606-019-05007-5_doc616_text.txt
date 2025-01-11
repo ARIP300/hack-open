@@ -1,0 +1,42 @@
+# ABSTRACTS
+
+# Mechanisms to share knowledge about ambulatory practice improvement
+
+STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE): Mechanisms to share knowledge about ambulatory practice improvement among on-the-ground innovators are lacking, leading to replication and stifling of improvement; we developed and implemented a novel knowledge-sharing platform.
+
+OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To develop a platform through which physicians can publish and share practical information about improving ambulatory systems of care.
+2. To connect clinical innovators conducting similar work across practices to spread innovation.
+3. To expose pre-medical/medical students to principles of ambulatory healthcare improvement.
+
+DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS): $320 billion are wasted each year in the US on healthcare systems inefficiency. Although clinicians are constantly improving processes and innovating in how they deliver care, process improvement is often uncompensated and an afterthought. No solution enables on-the-ground clinicians and administrators to share their ambulatory care innovation expertise and to learn from one another. We developed a database for collection of structured information about implementation of healthcare innovations. We subsequently trained student editors to either interview clinicians about implementing new workflows or gather information from written material. Information collected includes a project's impetus, team, budget, challenges, benefits, outcomes, and technology. This information is written in protocol format, stored in a publicly available online database (www.carezooming.com), and can be filtered by setting, technology used, and topic. We facilitated 30-minute phone consultations between experts whose work is featured in our database and clinicians or administrators seeking to implement a new project.
+
+MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. The number of protocols featured in our database, their characteristics, and viewership statistics.
+2. Quantity of consultations completed and their perceived value.
+3. Qualitative information about the student editor experience.
+
+FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): We have collated 50 implementation protocols led by 55 innovators, spanning innovations in more than 20 cities. They have been viewed by 6000+ unique individuals across the US. The most commonly read topics were behavioral health integration, Medicare Wellness Visit workflows, and medication assisted treatment for opioid management. Most protocols utilized an EMR and had an MD team member. Budgets ranged from <$1000 to > $1 million. We have connected 20 innovators working on healthcare improvement through 30-minute peer consultations. Users reported the consultations saved them hundreds of dollars and hours of wasted time. Student editors reported enhanced understanding of the quality improvement process and unique exposure to healthcare implementation challenges.
+
+KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): We demonstrated the feasibility of students collating detailed, structured information about ambulatory care improvement processes. This information has been read by clinicians and administrators across the US and served as the basis for successful peer-to-peer consultations.
+
+# DIABETES WEEK: IMPLEMENTATION OF A QUARTERLY DIABETES MANAGEMENT WEEK TO IMPROVE CARE AT A LARGE, ACADEMIC-AFFILIATED VA PRIMARY CARE CLINIC
+
+Stefanie Deeds2, 1; Scott Hagan2, 1. 1University of Washington, Seattle, WA; 2VA Puget Sound, Seattle, WA. (Control ID #3186503)
+
+STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE): The Seattle VA Primary Care clinic was not meeting national quality goals for patients with diabetes, as measured by most recent hemoglobin A1c (HbA1c) 9% or an HbA1c not done in the past 12 months (HbA1c overdue).
+
+OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify patient and PACT barriers and facilitators to care for veterans with diabetes.
+2. Develop interventions to improve reduce the number of patients with HbA1cs 9% and HbA1cs overdue.
+
+DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS): The Seattle VA Primary Care Clinic is a large, academic affiliated clinic with roughly 3900 patients with diabetes, or 23% of the clinic patient population. Since 2011, the VA has used a medical home model, the Patient Aligned Care Team (PACT), to deliver veteran centric primary care. VA uses two main quality metrics to track diabetes care and targets <21% of patients with either an HbA1c 9% or overdue, and <5% with an HbA1c overdue. At baseline, in March 2018 the Seattle VA Primary Care clinic had 13.7% of patients with diabetes with HbA1c 9% and 10% with HbA1c overdue. A multidisciplinary workgroup including PCPs, the clinic director, clinical pharmacists, a PACT RN and trainees met monthly to review the clinical performance measures, discuss barriers to care, and develop interventions. We conducted a baseline survey and interviews of PACT teams and performed a chart review of demographic factors for patients with HbA1cs 9% and/or HbA1cs overdue to examine patient-level barriers to care. Our primary intervention was a quarterly Diabetes Week during which project leads issued PACT team reports of patients with HbA1c 9% or HbA1c overdue, tips for managing patients with uncontrolled diabetes, and information about obtaining lab work at VA community clinics. A second intervention was a pilot of sending automated lab reminder letters to all patients due for their annual HbA1c.
+
+MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION): We tracked a monthly run chart of the percentage of diabetes patients with an HbA1c ≤ 9% and HbA1cs overdue.
+
+FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): From March of 2018 to January 2019, the percentage of patients in our clinic with HbA1cs overdue and with HbA1c 9% declined by 20% and 5%, respectively. The key finding of staff interviews was that dedicated time for panel management is essential for success. Additionally, a common staff perception was that patient factors were a significant barrier to diabetes care. However, chart review surprisingly showed no significant differences between patients with well controlled and poorly controlled diabetes.
+
+KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): Our diabetes working group developed a series of interventions to improve diabetes panel management, which are associated with reductions in veterans with diabetes overdue for annual HbA1c testing and with high A1cs. Forming an interdisciplinary workgroup, collecting staff and patient data on barriers to success, and using registry tools to facilitate.

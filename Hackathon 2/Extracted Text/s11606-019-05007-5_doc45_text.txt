@@ -1,0 +1,62 @@
+# ABSTRACTS JGIM
+
+# Associations Between Hypervigilance Scores and Violence Exposure
+
+Hypervigilance scores as a function of violence exposure type, controlling for age, gender, race/ethnicity, educational attainment, insurance status, and employment status. Survey results were then paired with the electronic health record to examine associations between hypervigilance scores and blood pressure.
+
+# RESULTS:
+
+The sample included patients from an academic medical center (n=419) and a federally-qualified health center (n=87) in Chicago. Mean age was 60 years (SD=13). The majority identified as Black/African-American (75%) or Hispanic/Latino (14%). More than half (56%) were insured by Medicaid/Medicare. Two-thirds (62%) reported prior experience with community violence, and one-third (30%) reported prior experience with police violence. Of the 263 participants who reported a previous police stop, 19% met criteria for the stop being a traumatic event. The mean hypervigilance score in our population was 54.7% (SD=28.1), 5.7% higher than the score correlated with PTSD in the validation sample. While experience with community violence was marginally associated with a 5.5% higher hypervigilance score (95% CI, 0.2-10.8), experience with police violence was associated with a 9.8% higher hypervigilance score (95% CI, 4.1-15.5). Among participants who reported a police stop, classification as a traumatic event was associated with an 18.6% higher hypervigilance score (95% CI, 10.3-26.9). A hypervigilance score in the highest quartile was associated with higher systolic blood pressure (10.3 mmHg; 95% CI, 4.3-16.2).
+
+# CONCLUSIONS:
+
+Neighborhood and police violence may have important linkages to both psychological and physical health. Understanding these linkages may help to inform both neighborhood policing practices and healthcare responses to violence in at-risk communities.
+
+# Associations Between Reasons for Hospitalization in the Elderly and One-Year Mortality
+
+Chana A. Sacks; Katrina Armstrong; Thomas McCoy. Massachusetts General Hospital, Boston, MA. (Control ID #3185288)
+
+# BACKGROUND:
+
+Optimal clinical decision making among the elderly is challenged by uncertain and potentially inaccurate understanding of life expectancy. Because clinicians can conflate reversibility of the condition prompting a hospitalization with longer-term likelihood of survival, determining 1-year mortality following common reasons for hospitalizations could improve clinicians' understanding of patient prognosis and clinical decision making, as well as the accuracy of information provided to patients and their families.
+
+# METHODS:
+
+We conducted a retrospective cohort study, analyzing data from individuals discharged from Medicine services at 2 academic medical centers between January 1, 2005 and December 31, 2016. We included all patients 70 years of age or older who were admitted for 10 common diagnoses and survived to hospital discharge. We divided age into categories: 70-79 years, 80-89 years, and 90 and older. The primary outcome was death within 1 year after discharge as reported by public records (a composite from the Massachusetts Department of Public Health and Social Security Death Index).
+
+# RESULTS:
+
+The cohort included 36,291 hospitalizations of 23,071 unique individuals. 51% were male; 83% were white, and mean age was 81 years. The analysis included 116,404 person-years of follow up, with a median follow-up of 876 days. Overall, 26.3% of the cohort had died within 1 year of discharge. The table describes the variation in 1-year mortality based on age and reason for admission.
+
+# CONCLUSIONS:
+
+There was substantial variation in 1-year mortality based on age and reason for admission. For example, people in their 70s admitted for a urinary tract infection had a higher 1-year mortality than those in their 90s admitted with syncope. Accurate prognostication is important to inform clinicians, patients, and their families as they plan for the future and navigate decisions about goals of care.
+
+|Reason for Admission|70-79|80-89|90+|
+|---|---|---|---|
+|Syncope|6%|10%|22%|
+|Nonspecific chest pain|6%|10%|19%|
+|Acute MI|11%|20%|33%|
+|COPD|19%|27%|30%|
+|GI hemorrhage|20%|24%|39%|
+|Pneumonia|25%|27%|34%|
+|UTI|26%|30%|41%|
+|CHF|26%|33%|46%|
+|Acute renal failure|29%|40%|46%|
+|Aspiration pneumonitis|40%|44%|57%|
+
+# Associations Between Social Risk Factors and Dialysis Facility Performance in the End-Stage Renal Disease Quality Incentive Program
+
+Andrew C. Qi; Anne M. Butler; Karen E. Joynt Maddox. Washington University School of Medicine, Saint Louis, MO. (Control ID #3139408)
+
+# BACKGROUND:
+
+Medicare's End-Stage Renal Disease Quality Incentive Program (ESRD QIP) is a mandatory pay-for-performance program for U.S. dialysis facilities. While analyses of similar value-based payment programs in other settings have shown performance to be related to social risk factors such as poverty and access to care, it is unknown whether the ESRD QIP displays similar patterns. We aim to determine whether dialysis facility performance and associated financial penalties under the ESRD QIP are associated with facility-level social risk factors.
+
+# METHODS:
+
+Retrospective, cross-sectional analysis of 6,314 U.S. dialysis facilities using data from the United States Renal Data System, American Community Survey, and Medicare for the 2018 ESRD QIP payment year. We used linear and logistic regression models to determine whether social risk factors, including poverty, race/ethnicity, and neighborhood income were related to performance and risk of receiving a penalty.
+
+# RESULTS:
+
+Facilities located in low-income ZIP codes and with high proportions of black patients had worse performance under the ESRD QIP and higher rates of penalization. In a multivariate model accounting for key facility-level characteristics, significant effects.

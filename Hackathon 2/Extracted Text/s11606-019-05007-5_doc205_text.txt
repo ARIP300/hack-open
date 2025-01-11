@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Impact Test (HIT-6) scores and Migraine Disability Assessment (MIDAS) scores.
+
+# CONCLUSIONS:
+
+The HALO trials were designed to provide flexible dosing options to establish the efficacy and safety of fremanezumab for the preventive treatment of migraine. The study population was representative of the real-world clinical patient population.
+
+# PAIN AGREEMENTS: TIME-TO-EVENT ANALYSIS OF SUBSTANCE MISUSE IN A PRIMARY CARE CHRONIC PAIN PROGRAM
+
+Paul Chelminski 1; Timothy Ives 1; Ameer Ghodke 2; Anna Austin 4; Naishal Patel 3; Will Bennett 1; Sharon Eshet 1. 1 University of North Carolina at Chapel Hill, Chapel Hill, NC; 2 University of North Carolina, Cary, NC; 3 UNC-Chapel Hill, Cary, NC; 4 UNC Chapel Hill School of Public Health, Chapel Hill, NC. (Control ID #3171392)
+
+# OXYCODONE URINE DRUG TESTS IDENTIFY POTENTIAL MISUSE AND DIVERSION AMONG PATIENTS PRESCRIBED OPIOIDS FOR CHRONIC PAIN
+
+Marc Larochelle 1; Ricardo Cruz 2; Sarah Kosakowski 2; Douglas Gourlay 3; Daniel P. Alford 1; Ziming Xuan 4; Erin E. Krebs 5; Karen E. Lasser 2; Jeffrey H. Samet 6; Jane M. Liebschutz 7. 1 Boston University School of Medicine and Boston Medical Center, Boston, MA; 2 Boston Medical Center, Boston, MA; 3 Wasser Pain Management Centre, Toronto, ON, Canada; 4 Boston University School of Public Health, Boston, MA; 5 Minneapolis VA Health Care System, Minneapolis, MN; 6 Boston University School of Medicine, Boston, MA; 7 University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3185832)
+
+# BACKGROUND:
+
+Guidelines recommend urine drug testing (UDT) as one component of a risk monitoring strategy for patients prescribed opioids for chronic pain. Few studies have examined whether UDT results are associated with substance misuse or diversion.
+
+# METHODS:
+
+A retrospective cohort study using data from TOPCARE, a trial to promote guideline-concordant care for chronic pain patients prescribed opioids in four Boston, MA primary care clinics. The multimodal intervention included a nurse care manager who assisted physicians with UDT collection and interpretation. We included 2,111 oxycodone urine immunoassays collected over one year for 611 patients of primary care physicians randomized to the intervention. We reviewed all assays and identified 490 (23.2%) with a result discordant from oxycodone prescription status (i.e., oxycodone negative during oxycodone prescription or oxycodone positive without active oxycodone prescription). For these 490, we abstracted detailed clinical data from the EMR, including UDT collection and interpretation notes from the intervention nurse care manager. Two addiction medicine experts adjudicated each oxycodone assay as follows: expected; equivocal (discordant assay without EMR evidence of misuse/diversion); or unexpected (discordant assay with EMR evidence of misuse/diversion). We reconciled adjudication differences via discussion, and further categorized each patient as: expected (all expected), equivocal, or unexpected (> 1 unexpected).
+
+# RESULTS:
+
+Overall, we adjudicated 79.1% of the 2,111 oxycodone assays as expected, 7.3% equivocal, and 13.6% unexpected (Table). Of the 490 assays initially screened as having a result discordant from oxycodone prescription status, 58.8% were found to have EMR evidence of misuse or diversion and adjudicated as unexpected, 31.2% were adjudicated as equivocal, and 10.0% expected. For 406 (65.0%) patients, all oxycodone assays were adjudicated as expected, and 127 patients (20.3%) had at least one unexpected oxycodone assay.
+
+# CONCLUSIONS:
+
+An oxycodone urine immunoassay result discordant from prescription status offers clinical utility for identifying potential misuse or diversion. The urine test should be followed up with clinical assessment. Whether routine UDT improves patient outcomes remains unknown.
+
+# BACKGROUND:
+
+Medication agreements (MA) are used to specify conditions for opioid use in chronic pain patients. MAs codify universal opioid prescribing precautions including urine toxicological testing (UTS), and describe treatment objectives, side effects, and responsibilities of the patient and provider. Violations of MAs include UTS positive for illicit or non-prescribed controlled substances, prescription alteration/forgery, doctor-shopping, and diversion. To date, the time course of when a violation occurs after signing a MA is unknown. The aim of this study was to provide a time-to-event analysis of MA violations over a 15-year period within an academic internal medicine clinic.
+
+# METHODS:
+
+The University of North Carolina General Medicine Pain Service (GMPS) manages opioid-treated patients referred by their PCPs within an internal medicine clinic. All patients sign MAs. We performed a time-to-event analysis of MA violations from 2002 to 2017, treating discontinuation of care as a competing event, and examined demographic correlates.
+
+# RESULTS:
+
+We enrolled 937 patients in the GMPS from 2002 to 2017. The average age was 51; 58% were female; 69% were white. A total of 40.3% of patients had one or more violations during GMPS enrollment. Almost one-half of violations were due to inconsistent use of controlled substances. Thirty percent of patients had a violation within 365 days of signing the MA, and 20% had a violation within 90 days (Figure). Ten percent occurred after a year. Within 365 days of signing the MA, the incidence of violations was significantly higher among men compared to women (38% vs. 22%), current compared to never or former smokers (41% vs. 21%), and in patients with a DUI or drug-related offense prior to or after the violation (52% vs. 28%).
+
+# CONCLUSIONS:
+
+MA violations are common in opioid-treated patients with chronic pain. A majority of violations are seen within three months of signing, but a substantial number of violations were detected at a year and farther out. Proxies for substance use disorders predicted an increased risk for violations. Given the individual and societal risks of opioid use disorders, MAs are valuable clinical tools whose application should not be relaxed over time.
+
+# Figure 1:
+
+Cumulative incidence function of time to first medication contract violation among pain service patients, 2002-2017 (N-1,210). Calculated using nonparametric estimators and assuming discontinuation of care at the pain and a competing risk and death as a censoring event.
+
+|Cumulative Incidence Function|With 959 Confidence Limits| | | | |
+|---|---|---|---|---|---|
+|1.0| | | | | |
+|0.8| | | | | |
+|0.6| | | | | |
+|0.4| | | | | |
+|0.2| | | | | |
+|0.0|1000|2000|3000|4000|5000|
+|Number of days since signing medication contract| | | | | |

@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# ADDRESSING SOCIAL DETERMINANTS OF HEALTH THROUGH IMPLEMENTATION OF A COMPREHENSIVE SOCIAL NEEDS SCREENING AND REFERRAL PROGRAM
+
+Jane Lindahl2; Rachael Odusanya2; Omolara T. Uwemedimo1; Johanna Martinez2; Shari Jardine1; Eun Ji Kim2. 1Northwell Health, New Hyde Park, NY; 2Northwell Hofstra School of Medicine, Lake Success, NY. (Control ID #3179076)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Social determinants of health (SDH) affect more than half of patient health outcomes, but few programs exist to comprehensively screen for SDH and provide resources for addressing unmet needs.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To identify and address unmet social needs of patients at primary care clinics in a large, suburban, academic hospital system.
+2. To evaluate whether SDH screening, navigation, and referral can address social needs in vulnerable populations.
+3. To work towards integrating a standardized, health-system wide program for SDH screening into primary care practices.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our health system's SDH Screening Program was established to identify and address adverse SDH in our primary care populations. The program runs at two ambulatory care practices which serve as academic clinical sites for a large teaching hospital serving a primarily low-income, diverse population, many of whom are immigrants. Our program uses a Patient Navigator (PN) model embedded in the clinical workflow to universally screen patients for SDH during well-visits using a screening tool to assess unmet social needs including housing, food, education and utility insecurity, among others. PNs are trained in promoting patient engagement and cultural competency. They conduct SDH screening in the waiting room, provide referrals to connect patients with SDH needs to community resources, and conduct bi-monthly follow-ups to address their needs over the course of 12-weeks.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We evaluate the program using the following measures: screening rate, screen completion rate, percent of patients with unmet needs who connect with a PN, percent of patients with unmet needs who are connected to resources, and percent of patients whose needs are resolved within 12 weeks of screening. We examined these measures at an Internal Medicine clinic from July to December 2018.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+764 patients were screened, of which 326 (42%) screened positive for social needs. Among those with needs, 152 (47%) accepted initial assistance from PNs and 81 (25%) were successfully connected to resources.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This program model has demonstrated the importance of engaging clinical staff and PNs at each site in order to embed the SDH screening process within the clinical workflow. Further, screening comprehensively for social needs and using a PN model to address those needs through individualized community resource referrals facilitates patient trust and engagement. Prioritizing cultural competency through the recruitment of bilingual navigators, the use of translated screens and interpreter services, and a training program for PNs emphasizing skills for working with diverse, vulnerable populations have also been vital to our success. The program provides streamlined referrals to trusted partners by partnering with local community organizations and establishing a Medical-Legal Partnership allowing for in-house referrals to free legal assistance for patients with health-harming legal needs.
+
+# ADDRESSING SOCIAL DETERMINANTS OF HEALTH: CONNECTING DISADVANTAGED PRIMARY CARE PATIENTS TO UNITED WAY COMMUNITY RESOURCE NAVIGATION
+
+Shari Bolen1, 2; Jonathan Lever3; Samantha Smith4; David Bar-Shain5; Elvira Ordillas6; Wanda Ali-Matlock3; Joseph Daprano1; Matthew Finley7. 1 MetroHealth/Case Western Reserve University, Cleveland, OH; 2 Case Western Reserve University, Cleveland, OH; 3 Better Health Partnership, Cleveland, OH; 4 Cuyahoga County Board of Health, Parma, OH; 5 The MetroHealth System, Cleveland, OH; 6 MetroHealth Medical Center, Cleveland, OH; 7 United Way of Greater Cleveland, Cleveland, OH. (Control ID #3185363)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Although disadvantaged patients often have social needs, few programs have implemented and evaluated connecting these patients electronically to a community organization with community resource navigation. We describe early results of a pilot clinic-to-community linkage program addressing social determinants of health for hypertensive adults with uncontrolled blood pressure seen in a safety net clinic.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Determine social determinant of health needs of disadvantaged patients within a safety net clinic;
+2. Develop a scalable model to address social determinants of health which could be implemented across multiple electronic health record systems and U.S. communities;
+3. Apply the model to hypertensive adults with uncontrolled blood pressure.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Hypertensive adult patients with elevated blood pressure (BP>=140/90 mmHg) seen at a safety net clinic in Cleveland, Ohio were referred electronically to United Way 2-1-1 (a non-profit organization which curates a database of >20,000 health and social service community resources) with the goal of connecting the patients to health-improving community resources in a 1-month pilot period (9/24/2018 and 10/28/2018).

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Physician Presence and Connection
+
+Zulman6. 1Stanford University, Menlo Park, CA; 2Stanford University School of Medicine, Stanford, CA; 3Veterans Affairs, Menlo Park, CA; 4Stanford University School of Medicine, Mountain View, CA; 5Stanford University, Stanford, CA; 6 Stanford University and VA Palo Alto, Stanford, CA. (Control ID #3185651)
+
+# BACKGROUND:
+
+Physician disenchantment and burnout are driving demand for strategies that facilitate "clinician presence" and foster meaningful human connection during medical encounters. We sought to investigate the concept of presence through interviews with primary care physicians and diverse non-medical professionals from fields in which human connection is central.
+
+# METHODS:
+
+We conducted 40 semi-structured interviews with physicians (n=10) and non-medical professionals (n=30) to explore how they create connection, engage in interpersonal interaction, and build trust with individuals across different circumstances and contexts. Physicians originated from primary care clinics in three settings that include a community safety-net system, an academic medical system, and a Veterans Affairs facility. Non-medical professionals represented diverse fields, including protective services (e.g., police officer, firefighter), business (e.g., restauranteur, salesperson), management (CEO, school principal), education, art/design/entertainment (e.g., professional musician, documentary filmmaker), and social services (social worker, chaplain). Interviews were recorded and transcribed; we used a constant comparative method to code transcripts as a research team. Interview excerpts relevant to presence were independently analyzed by two qualitative researchers to generate core elements of presence. These elements were iteratively refined into a working definition of presence through team discussions and research meetings.
+
+# RESULTS:
+
+Data synthesis generated a definition for presence as, "a purposeful practice of awareness, focus, and attention with the intent to understand and connect with individuals/patients." For both medical and non-medical professionals, creating presence requires managing and considering time and environmental factors; for medical professionals in particular, this includes managing and integrating technology. Listening was described as central to creating the state of being present. Within a clinical setting, presence might manifest as a physician listening without interrupting, focusing intentionally on the patient, taking brief re-centering breaks throughout a clinic day; and informing patients when attention must be redirected to administrative or technology demands.
+
+# CONCLUSIONS:
+
+Clinician presence involves learning to step back, pause, and prepare to receive a patient's story. Building on strategies from physicians and non-medical professionals, clinician presence is best enacted through purposeful intention to connect, conscious navigation of time, and proactive management of technology and the environment in order to focus attention on the patient. Everyday practice or ritual supporting these strategies is paramount and could support physician self-care as well as physician-patient connection.
+
+# PREVALENCE AND DETECTION OF COGNITIVE IMPAIRMENT IN PRIMARY CARE
+
+Laura M. Curtis1; Rebecca Mullen1; Rachel O'Conor1; Julia Yoshino Benavente1; Mary J. Kwasny1; Marina Arvanitis1; Derin Cobia3; Alex Federman2; Michael S. Wolf1. 1Northwestern University, Chicago, IL; 2Icahn School of Medicine at Mount Sinai, New York, NY; 3Brigham Young University, Provo, UT. (Control ID #3185447)
+
+# BACKGROUND:
+
+Cognitive impairment can affect one's ability to effectively understand and independently self-manage health and healthcare. Despite incomplete guidelines regarding screening, primary care is an optimal place for detecting impairments, as it may inform clinical decision making, referrals, and opportunities to involve families and other caregivers in a patient's care. We sought to determine the prevalence of cognitive impairment among an ongoing cohort of community dwelling older adults and to determine whether any type of impairment was documented in patients' medical charts.
+
+# METHODS:
+
+610 adults between the ages of 55 and 74 were recruited from a general internal medicine ambulatory care clinic in Chicago. Structured interviews were conducted at baseline between 2008 and 2010 and participants, to date, have been followed every 2.5-5 years. Impairment was determined using an extensive neuropsychological battery covering five domains and categorized as mild, moderate, or severe. ICD codes for dementia, mild cognitive impairment (MCI), and other cognitive-related deficits were extracted from participants' medical charts from enrollment date through December 2018. Detection was defined in those with cognitive impairment if an ICD code was documented prior to or within one year after impairment was assessed. Impairment and detection variables were compared by sociodemographic characteristics and health status.
+
+# RESULTS:
+
+Participants were 70% female, 28% African American, 64% White, had a mean (SD) age of 63.4 (5.5) at baseline and mean follow-up time of 7.1 (2.0) years. We detected impairment in 33% over the course of the existing study period post-baseline (n=204); 52.5% of these had mild, 26.5% moderate, and 21.0% severe cognitive impairment. Impairment was associated with older age, lower education and income, and greater co-morbidity. In those with impairment, 30 (15%) were detected within a year; an additional 35 (17%) were detected an average of 5.2 (SD=2.5; range 1.1-10.1) years later. Detection within a year was associated with older age (mean 68.5 (6.8) vs 65.0 (6.1), p=0.005) and greater co-morbidity (mean 3.5 chronic conditions (1.8) detected vs. 2.8 (1.7) undetected, p=0.02) at the time of impairment. Detection was not associated with education or income.
+
+# CONCLUSIONS:
+
+Findings from this single-site investigation reveal a prevalence of cognitive impairment much higher than prior studies have reported. Rates of detection were exceptionally low, with more cases detected long after the patient may have exhibited worsening abilities. Further research is needed to better understand whether similarly high rates of impairment may be found in diverse primary care settings, and ways to improve case finding and referrals.
+
+# PREVALENCE AND IMPACT OF PRIOR TRAUMA EXPOSURE AMONG PATIENTS PRESENTING TO THE EMERGENCY DEPARTMENT WITH SUSPECTED ACUTE CORONARY SYNDROME
+
+Justin Young1; Adam Schweber1; Jennifer A. Sumner2; Laura Meli2; Ian M. Kronish2. 1Columbia University Vagelos College of Physicians and Surgeons, New York, NY; 2Columbia University Medical Center, New York, NY. (Control ID #3183625)
+
+# BACKGROUND:
+
+Trauma exposure is associated with higher rates of psychiatric morbidity, negative health outcomes, and greater vulnerability to retraumatization during acute medical care, particularly among patients who develop PTSD symptoms related to the trauma. Few studies have assessed the prevalence and impact of prior trauma exposure and associated PTSD symptoms in patients presenting in the emergency department (ED) setting for suspected acute coronary syndrome (ACS). We quantified (1) the prevalence of prior trauma exposure and PTSD symptoms among patients presenting to the ED for suspected ACS and (2) the risk of developing elevated PTSD symptoms after suspected ACS given the presence of elevated PTSD symptoms due to prior trauma.
+
+# METHODS:
+
+From 2014-2018, we enrolled a consecutive sample of patients presenting to the ED of an urban, academic medical center for suspected ACS. Prior trauma exposure was evaluated using the Life Events Checklist (LEC-5), assessing lifetime exposure to 17 types of traumas. Patients also identified the most distressing prior event. Past-month PTSD symptoms associated with the most distressing event were assessed using the 17-item PTSD Checklist (PCL-S); PTSD symptoms due to the suspected ACS were again measured with the PCL-S at 1-month. A PCL-S score >=34 indicated elevated PTSD symptoms. Modified Poisson regression was used to estimate the relative risk of developing elevated PTSD symptoms associated with the suspected ACS event contingent on whether the patient had prior elevated PTSD symptoms.
+
+# RESULTS:
+
+Of 932 patients presenting to the ED for suspected ACS (mean

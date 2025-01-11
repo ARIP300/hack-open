@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# Predictors of Eligible Patients' Agreeing to Lung Cancer Screening with Low-Dose Computed Tomography: A Multilevel Retrospective Cohort Study
+
+Joseph Leishman4; Angie Fagerlin5; Julie Lowery2; Renda S. Wiener3; Tanner Caverly1. 1University of Michigan School of Medicine, Ann Arbor, MI; 2VA Ann Arbor Healthcare System, Ann Arbor, MI; 3Carolinas Medical Center, UNC School of Medicine, Boston, MA; 4University of Michigan School of Public Health, Ann Arbor, MI; 5University of Utah School of Medicine, Salt Lake City, UT. (Control ID #3186294)
+
+# BACKGROUND:
+
+The clinical reminders used in VA's Lung Cancer Screening (LCS) Demonstration project offered a unique opportunity to examine real-world LCS decision-making. Since baseline lung cancer risk and comorbidity/competing risk are key factors in determining absolute risk reduction with LCS, we conducted a retrospective cohort study to assess the extent to which these key factors played roles in decisions compared with factors unrelated to clinical benefit.
+
+# METHODS:
+
+Across the 8 demonstration project sites, we identified all patients without health-related exclusions who met LCS eligibility criteria (>30 pack-years, < 15 years since quit and aged 55-80) and had an initial LCS reminder completed between 10/01/13-9/30/15. We then fit a multilevel mixed-effects logistic regression model to assess predictors of a patient agreeing to annual screening (based on reminder data), adjusting for site and patient demographics.
+
+# RESULTS:
+
+Our cohort included 6,037 patients (mean age 67; 96.5% male) who were considered appropriate candidates for LCS by their primary care providers and had documentation about whether they agreed to LCS after the initial provider discussion. The 2 variables related to net benefit (lung cancer risk and Charlson Comorbidity Index) were not associated with agreeing to screen, nor was gender. Two patient-level factors were significantly associated: age (P<0.001) and distance from the patients' listed home address to the VA center offering LCS (P=0.019). For example, men at the cohort mean for other model covariates (mean annual lung cancer risk of 0.7%; Charlson score 1.12; and living 37.7 miles from the VA) were predicted to have a 78% probability of agreeing to screen at 57 years old but only a 60% probability at 77. Likewise, a 67-year-old man with the same lung cancer risk and comorbidity score was predicted to have a 70% probability of agreeing to screen if living 37.7 miles from the VA but only a 34% probability if living 137.7 miles away. The site where LCS was offered only explained 8% of the overall variance in agreeing to screen (ICC=0.08), but this still resulted in substantial site-level variation ranging from a rate of 38% of eligible patients agreeing to LCS to a rate of 79% across the 8 sites.
+
+# CONCLUSIONS:
+
+Baseline lung cancer risk and level of comorbidity were not associated with whether a patient chose to pursue LCS, even though these factors largely determine a patient's degree of benefit. While variation in agreeing to screen based on patient age and distance from the VA might appropriately reflect differences in patient preferences, the large variation across sites likely reflects more about provider preferences than patient preferences. We are currently studying the implementation of a risk-based LCS provider tool that aims to help primary care providers and screening coordinators tailor screening discussions to a patient's individualized lung cancer risk.
+
+# Predictors of Health Insurance Literacy Among Community Health Center Staff
+
+Cory Williams1, 3; Mellisa A. Pensa1, 2; Douglas Olson1. 1Fair Haven Community Health Care, New Haven, CT; 2Yale University School of Medicine, New Haven, CT; 3AmeriCorps, New Haven, CT. (Control ID #3178362)
+
+# BACKGROUND:
+
+Despite increased attempts to make health insurance more accessible and comprehensive, low literacy and numeracy prevents many from understanding aspects of health insurance. Health Insurance Literacy (HIL) is the degree to which an individual is able to find and assess health insurance information and navigate health plans. Disparities in HIL are correlated with delayed access to care and poorer health status. The primary goal of this research is to measure HIL among staff at a Federally Qualified Health Center (FQHC) and identify predictors of knowledge gaps.
+
+# METHODS:
+
+This is a cross-sectional study assessing HIL among staff at Fair Haven Community Health Care (FHCHC), an urban FQHC in New Haven, CT. In November 2018, all 212 staff members were emailed an anonymous survey and 91 (43%) completed the survey, which was generated using Qualtrics™ software. Questions measured the participant's ability to identify and utilize various health insurance terms and topics. Descriptive statistics were calculated, and unadjusted analyses were used to examine potential associations between demographic, social, and health characteristics and HIL. We used Multivariate logistic regression to identify independent relationships to HIL. This study was approved by the FHCHC institutional review board.
+
+# RESULTS:
+
+Participants had a mean HIL score of 6.21 (out of 10), and characteristics that had a statistically significant difference in average score upon unadjusted analysis were race/ethnicity, education, role at FHCHC, and self-reported health status. Upon multivariate regression, education and job role remained significant predictors of HIL.
+
+# CONCLUSIONS:
+
+The majority of staff had gaps in HIL, and HIL is significantly associated with education, professional status, race/ethnicity, and self-reported health status. Results of this study will be used to target staff and community training efforts.

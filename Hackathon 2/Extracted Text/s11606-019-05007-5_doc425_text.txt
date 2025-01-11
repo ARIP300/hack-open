@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the risk of lymphoma in HIV infected patients.
+
+# LEARNING OBJECTIVE #2:
+
+Utilize EBV DNA quantification in the workup of localized lymphadenopathy in the AIDS population.
+
+# CASE:
+
+A 44-year-old Caucasian man with HIV presented with new severe upper back pain. Six weeks prior to presentation, he visited an urgent care for a right submandibular mass. He was given one week of prednisone and Augmentin without resolution of the mass. Three weeks prior to presentation, he noticed progressively enlarging masses on his neck, scalp, axilla, back and groin. He endorsed a nonproductive cough, headache, night sweats and 6lb weight loss. He denied any fevers, sick contacts, or substance abuse. He was diagnosed with HIV 24 years ago but had not been on ART for two years. He was afebrile on presentation. Physical exam was remarkable for diffuse, palpable, non-tender lymphadenopathy. Labs on presentation were remarkable for a CD4 count of 41. Imaging revealed numerous soft tissue nodules throughout the chest, abdomen and pelvis measuring up to 7.7x4.5cm, as well as multiple pleural lesions. ID was consulted and ART was initiated. Excisional lymph node biopsy was performed. Further workup revealed an EBV DNA: 78,000 copies/mL. Pathology resulted as diffuse large B-cell lymphoma, activated B-cell type. Oncology was consulted and chemotherapy was started with DA-EPOCH and intrathecal methotrexate.
+
+# IMPACT/DISCUSSION:
+
+Internists frequently encounter HIV-infected patients. Given that 25-40% of HIV-positive patients will develop a malignancy in their lifetime, a heightened suspicion for malignancy is critical. Compared to the general population, HIV infection significantly increases the risk for non-Hodgkin's Lymphoma (NHL). This increased risk becomes striking in the AIDS population where highly aggressive NHL accounts for the vast majority of lymphomas. The relative risk is 400-fold higher compared to the general population. Unexplained localized lymphadenopathy can be reasonably managed with one month follow up in the immunocompetent patient. This same presentation in the AIDS patient, however, requires strong consideration of lymphoma given the propensity for highly aggressive malignancy. No guideline exists for how to manage this clinical scenario. Evaluation may be limited as further imaging or excisional biopsy can be costly and difficult to arrange in a timely fashion. EBV DNA quantification is routinely performed in certain post-transplant patients to monitor for PTLD; additional studies have shown a significant association with EBV and HIV-associated lymphomas. Further, studies show that EBV DNA from plasma correlates with active EBV disease.
+
+# CONCLUSION:
+
+Given the risk for NHL in HIV-infected patients, EBV DNA PCR may be a critical diagnostic tool in the evaluation of unexplained localized lymphadenopathy in AIDS and HIV.
+
+# ECULIZUMAB: A LIFE SAVER IN POSTPARTUM ATYPICAL HEMOLYTIC UREMIC SYNDROME
+
+Mais Abdou1; Muath Alsharif4; Sameer Prakash2; Tarek Naguib3; Manish Patel 1. 1TTUHSC, Amarillo, Amarillo, TX; 2Texas Tech University Health Sciences Center Amarillo, Amarillo, TX; 3Texas Tech University Health Sciences Center - Amarillo, Amarillo, TX; 4Texas Tech University Health Science Center, Amarillo, TX. (Control ID #3184566)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize postpartum atypical hemolytic uremic syndrome (P-aHUS) as a rare but potentially fatal disease. Consider Eculizumab for P-aHUS treatment.
+
+# CASE:
+
+A 20 year-old 3rd week postpartum female with uncomplicated pregnancy presented with nausea, vomiting and few episodes of watery diarrhea since delivery. Vitals were normal. Physical exam was notable for trace pitting edema in the lower extremities. Laboratory studies showed Hb 8.5, platelets 137, creatinine 21.8 mg/dl (normal baseline), BUN 128 mg/dl, and albumin of 3 mg/dl. Urinalysis showed 2+ protein and 3+ blood. LDH was 916 U/L. Haptoglobin and fibrinogen were low with elevated D-dimer. Next day, the patient developed severe pulmonary edema. She was transferred to ICU and intubated for 9 days. Acute glomerulopathy was suspected and she was started on hemodialysis. Peripheral blood smear and kidney biopsy showed evidence of thrombotic microangiopathy. Complement C3 level was low and ADAMTS13 activity was 65%. Atypical hemolytic uremic syndrome (aHUS) was diagnosed. Complement gene panel showed complement factor H (CFH) gene and plasminogen (BLG) gene mutations. Daily plasmapheresis was initiated with hematological improvement and normalization of platelet counts. However, this was not matched by concomitant renal improvement. After discussion with the patient about the limited but promising data of Eculizumab, she agreed to proceed. She was started on 900 mg IV weekly for 4 weeks followed by 1200 mg every second week thereafter. She significantly recovered and became dialysis independent within few weeks.
+
+# IMPACT/DISCUSSION:
+
+P-aHUS remains an under-recognized disease with life-threatening complications. It is caused by dysregulation of the alternative complement pathway due to gene mutations. It offers particular challenges in postpartum period given the broad differential. Many other conditions manifest as thrombotic microangiopathy causing delay in initiating appropriate treatment. Plasma exchange (PE) was the treatment of choice. However, with increased understanding of the complement pathway activation role, the monoclonal antibody C5-inhibitor Eculizumab is being used recently. It showed considerable success and improved outcomes compared to PE. In our case, Eculizumab was highly effective and well tolerated. It resulted in remission and full recovery of kidney function.
+
+# CONCLUSION:
+
+Postpartum atypical hemolytic uremic syndrome (P-aHUS) is a rare but potentially fatal disease that physicians should be aware of in the setting of acute kidney injury in postpartum period. Recently, Eculizumab is relatively new but promising treatment in P-aHUS. Early diagnosis and treatment can be lifesaving.
+
+# ECZEMA HERPETICUM: A RARE MEDICAL EMERGENCY
+
+Leena Pathikonda; Preetivi Ellis. Methodist Dallas Medical Center, Dallas, TX. (Control ID #3159470)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing eczema herpeticum so treatment with Acyclovir will be started quickly to prevent morbidity and mortality.
+
+# CASE:
+
+A 23-year-old woman with a history of eczema and asthma presented to the emergency department with fever and painful rash on her right chest that began three days prior to hospitalization. The day prior to the rash she spilled jalapeno juice on her chest and reported having diarrhea she attributed to food poisoning. A physical exam revealed a vesiculopustular rash on an erythematous base with draining serous fluid on the chest and extending down the right arm and abdomen. The rash did not follow a dermatomal pattern. A clinical diagnosis of irritant contact dermatitis with a superimposed bacterial infection was made. She was empirically treated with intravenous vancomycin and cefepime. Despite antibiotics, her condition worsened and the rash spread to her lips and eyelids. Due to rapid skin sloughing and mucosal involvement, there was concern for Stephen Johnson syndrome, toxic epidermal necrolysis, or necrotizing fasciitis. Dermatology was consulted on day two of hospitalization. The diagnosis of eczema herpeticum was made clinically based on widespread vesicles and her history of eczema. A Tzanck smear, varicella zoster PCR, herpes simplex PCR, and biopsies were obtained. While results were pending, intravenous acyclovir was initiated. The patient clinically improved after only twelve hours on appropriate therapy. After two days on intravenous acyclovir, she had rapid improvement of her skin lesions. HSV-1 PCR came back positive, and the pathology showed extensive ulceration and underlying acute and chronic inflammation with focal smudgy nuclear inclusions in ulcer base with associated immunoreactivity for HSV. This was consistent with a diagnosis of eczema herpeticum. She was discharged on oral acyclovir.

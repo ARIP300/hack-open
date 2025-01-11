@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# Effectiveness and Cost-Effectiveness of Mailed Fecal Immunochemical Tests for Colorectal Cancer Screening in a Safety Net Health System
+
+Brennan Lanier1; Nicole Kluz1; Charu Juneja1; Todd Olmstead2; Michael Pignone1, 1 Dell Medical School, Austin, TX; 2 LBJ School of Public Affairs, Austin, TX. (Control ID #3184162)
+
+# BACKGROUND:
+
+Colorectal cancer screening rates are suboptimal, especially in uninsured and low-income patients served in Federally Qualified Health Centers (FQHC). Mailed Fecal Immunochemical Testing (FIT) has been demonstrated to increase screening rates in vulnerable patients, but the optimal means of ensuring uptake and cost-effectiveness is unclear. Human-Centered Design can help improve the effectiveness of patient-directed interventions like mailed FIT. We sought to evaluate the effectiveness and cost-effectiveness of a novel mailed FIT intervention based on Human-Centered Design principles.
+
+# METHODS:
+
+As part of a larger study to implement mailed FIT in an FQHC system, we sought to test the effectiveness and cost-effectiveness of different approaches to encouraging uptake of mailed FIT. Our basic intervention consisted of a generic mailing packet that included an introductory letter in plain language, the FIT itself, easy to read instructions, and a postage-paid lab mailer, supplemented with written and text messaging reminders from the FQHC system. Our enhanced intervention was developed in collaboration with the Dell Medical School Design Institute for Health. It included simplified instructions with pictorial guidance that emphasized ease of use, a graphic redesign, enhanced packaging (cardstock pouch that allowed the FIT to be placed in the bathroom as a visual cue), and the same written and text-based reminders. We conducted multiple rounds of small tests of change to evaluate the return rate (effectiveness) of mailed FIT within 60 days. We then used modeling to examine the cost effectiveness of the standard and enhanced mailers in terms of costs per additional patient screened. Cost parameters were based on supply costs and detailed observations of labor required, valued at the wage rate. We prospectively defined a cost-effectiveness threshold for adoption of $50 per additional patient screened.
+
+# RESULTS:
+
+Uptake of the basic mailer and reminders was 22.5% at an average cost of $5,374 per 500-patient mailing. Uptake of the enhanced mailer was 27.5% at a cost of $7,225 per 500-patient mailing (difference 5.0% points uptake and $1851 costs). The cost per additional patient screened was $47.77 for the basic intervention mailer compared with no intervention. The incremental cost-effectiveness of the enhanced mailer was $74.05 per additional patient screened. If the unit cost of the FIT pouch could be reduced from $2.22 to $1.01, or if the uptake rate of the enhanced intervention was 31.8% or greater, then the enhanced mailer would become cost-effective.
+
+# CONCLUSIONS:
+
+Mailed FIT is an effective and cost-effective population health strategy for increasing CRC screening in safety net patients. As compared to the standard mailed FIT process, our enhanced mailer increases the response rate, but is not cost-effective with current unit costs. Additional testing of lower cost variants based on human-centered design is recommended as a next step.
+
+# Effectiveness and Safety of Dabigatran Etexilate in Patients with Newly Diagnosed Atrial Fibrillation from the United States: Analysis of the Global Registry on Long-Term Oral Antithrombotic Treatment in Patients with Atrial Fibrillation Study
+
+Alex Spyropoulos2; Brian Olshansky3; Shihai Lu1; Gregory Y. Lip4, 8; Menno Huisman5; Christine Teutsch6; Jonathan L. Halperin7. 1 Boehringer Ingelheim Pharmaceuticals Inc., Ridgefield, CT; 2 The Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, New York, NY; 3 University of Iowa, Carver College of Medicine, Iowa, IA; 4 Institute of Cardiovascular Science, University of Birmingham, Birmingham, United Kingdom; 5 Leiden University Medical Center, Leiden, Netherlands; 6 Boehringer Ingelheim International GmbH, Ingelheim, Germany; 7 Mount Sinai Medical Center, New York, NY; 8 Liverpool Centre for Cardiovascular Science, University of Liverpool and Liverpool Heart and Chest Hospital, Liverpool, United Kingdom. (Control ID #3184986)
+
+# BACKGROUND:
+
+In randomized clinical trials, dabigatran etexilate (DE) has demonstrated efficacy and safety in the prevention of stroke in non-valvular atrial fibrillation (NVAF). However, long-term, real-world prospective data are limited. The Global Registry on Long-Term Oral Antithrombotic Treatment in Patients with Atrial Fibrillation (GLORIA-AF) is an ongoing, 3-phase, prospective, global registry assessing real-world data on usage and outcomes of antithrombotic treatments for stroke prevention in patients with newly diagnosed NVAF who are at a risk of stroke.
+
+# METHODS:
+
+Clinical and composite outcomes from the GLORIA-AF Phase II trial comprising baseline evaluation and 2-year follow-up for United States (US) patients taking DE 150 mg twice daily were assessed. Outcomes per 100 patient-years (95% confidence interval) were calculated. A small number of patients who were receiving DE 75 mg twice daily were excluded.
+
+# RESULTS:
+
+Of the 591 eligible patients with newly diagnosed NVAF prescribed DE 150 mg twice daily (mean age, 69.4 years; mean CHA2DS2-VASc score, 3.0; mean HAS-BLED score, 1.3), 590 had taken 1 DE dose. The table shows incidence rates for clinical and composite outcomes.
+
+# CONCLUSIONS:
+
+These data are the first long-term, prospectively collected real-world data of a US cohort with newly diagnosed NVAF treated with DE. The results, consistent with clinical trials, indicate a favorable benefit-risk profile of DE 150 mg twice daily in US patients with newly diagnosed NVAF.
+
+# Effectiveness of a Brief Intervention to Increase Rapid Primary Care Follow-Up Among African American Patients with Uncontrolled Diabetes
+
+Emily M. Mylhousen1; Elizabeth A. Tolley2; Satya Surbhi1; Patti Smith1; Carolyn Riordan1; James E. Bailey2. 1 University of Tennessee Heath Science Center, Memphis, TN; 2 University of Tennessee Health Science Center, Memphis, TN. (Control ID #3185131)
+
+# BACKGROUND:
+
+Diabetes management requires primary care engagement. Without a usual source of care, patients with diabetes have higher risks of uncontrolled disease, hospitalizations, and early death. Patients in medically underserved areas (MUA) are at especially high risk for inadequate diabetes management during transitions of care. This study sought to assess: 1) feasibility of assisting hospitalized patients to obtain rapid primary care follow-up 2) effectiveness of a brief intervention to encourage rapid primary care follow-up and 3) challenges patients face in scheduling follow-up care after hospitalization.

@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Metformin Associated Lactic Acidosis
+
+Impairment of cellular metabolism. In these cases, evidence of systemic hypoperfusion are absent. There are several causes of this, including diabetes, malignancy, alcoholism, HIV, beta-adrenergic agonists, and mitochondrial dysfunction. Our patient had metformin associated lactic acidosis (MALA), a rare clinical entity thought to occur due to decreased gluconeogenesis from alanine, pyruvate, and lactate. The incidence of MALA is estimated as 4.3 cases per 1000,000 patient years. Symptoms, as seen with our patient, are non-specific and include anorexia, nausea/vomiting, abdominal pain, lethargy, and hypotension. Overdoses of metformin or pre-existing renal insufficiency are at risk factors for developing MALA. Mortality is estimated at 45%. In cases of suspected MALA, metformin should be promptly discontinued. No antidotes to metformin toxicity exist. Supportive care with bicarbonate therapy should be initiated. Extracorporeal removal is considered in those who fail to improve or those in whom pH <7.0 or lactate >20. Hemodialysis is preferred to CRRT in MALA, as it promotes rapid clearance of lactic acid. CRRT should be reserved for hemodynamic instability.
+
+# CONCLUSION:
+
+Metformin associated lactic acidosis is a rare entity with high mortality; management may require extracorporeal removal.
+
+# METHEMOGLOBINEMIA & MULTI-ORGAN PIGMENTATION IN PHENAZOPYRIDINE OVERUSE
+
+Alicia Cowley2, 1; David Wei3, 1. 1New York University, New York, NY; 2 NYU Langone Tisch Hospital, New York, NY; 3 NYC Health + Hospitals/Bellevue, New York, NY. (Control ID #3160224)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize methemoglobinemia & its sequelae
+
+# LEARNING OBJECTIVE #2:
+
+Recall medications that confer risk of iatrogenic methemoglobinemia & treatment
+
+# CASE:
+
+An 89-year-old woman was admitted with abdominal discomfort plus five days of dysuria and urinary frequency. Previously, she had seen a urologist for chronic dysuria and was prescribed estrogen cream for vaginal atrophy. On admission, her vital signs were notable for oxygen saturation of 88%, unresponsive to oxygen supplementation. Other clinical findings included jaundice, right upper quadrant and suprapubic tenderness, anemia (hemoglobin 8 g/dL), serum creatinine 2.2 mg/dL, unremarkable liver function testing and ultrasound imaging, plus a urinalysis consistent with a urinary tract infection (UTI). Her chest X-ray was unremarkable and an arterial blood gas (ABG) obtained off of oxygen demonstrated normal partial pressure of oxygen (PaO2). Given the discrepancy between oxygen saturation on pulse oximetry and PaO2, methemoglobinemia was suspected. Co-oximetry revealed oxyhemoglobin 70%, methemoglobin >21%. The patient denied recent benzocaine, nitrates, or dapsone use, but eventually disclosed taking phenazopyridine for several weeks prior to admission. Intravenous methylene blue was administered, ceftriaxone was given for her UTI, and supportive care was provided until her clinical status returned to baseline.
+
+# IMPACT/DISCUSSION:
+
+Methemoglobinemia, a condition whereby functional anemia and tissue hypoxia are precipitated by acutely elevated methemoglobin concentration, is often iatrogenic. Non-specific symptoms plus anemia and acute kidney injury (AKI) can be mistaken for many ailments, highlighting the importance of thorough medication review and having a high index of suspicion when there is a recent use of medications such as oxidizing agents (e.g. topical anesthetics, dapsone), nitrates, phenytoin, or antimalarials. The pathophysiology of acute respiratory distress in methemoglobinemia relates to the reduced erythrocyte oxygen-carrying capacity of functionally impaired hemoglobin. Skin discoloration, hemolytic anemia, and AKI have also been associated with phenazopyridine toxicity. The pathophysiology of AKI is still being investigated but may be multifactorial, including renal tubular epithelial cell injury, heme pigment-induced nephropathy from hemolytic anemia, and hypoxic injury from methemoglobinemia itself.
+
+# CONCLUSION:
+
+Methemoglobinemia presents with non-specific symptoms (e.g. headache, dizziness, dyspnea, fatigue, mental status changes). When a patient exhibits hypoxia unresponsive to supplemental oxygen, chocolate-brown hued arterial blood, and a discrepancy between pulse oximetry and ABG, methemoglobinemia should be at the top of one's differential. History-taking should include a thorough medication review (including over-the-counter agents) and chemical exposures. Once the diagnosis is confirmed with co-oximetry, methylene blue and supplemental oxygen should be given when methemoglobin level is greater than 20%.
+
+# METRONIDAZOLE-INTRODUCED ENCEPHALOPATHY: A RARE BUT POTENTIALLY IRREVERSIBLE NEUROTOXICITY OF A COMMONLY USED ANTIBIOTIC
+
+Tomohiro Matsumoto2; Hayato Mitaka1; Osamu Hamada3; Matthew Harrington4. 1Mount Sinai Beth Israel, New York, NY; 2Nerima Hikarigaoka Hospital, Nerima-ku, Japan; 3Takatsuki General Hospital, Takatsuki, Japan; 4Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3169406)
+
+# LEARNING OBJECTIVE #1:
+
+- Recognize metronidazole-induced encephalopathy characterized by cognitive and cerebellar dysfunction. - Identify the clinical presentation and MRI findings of metronidazole-induced encephalopathy.
+
+# CASE:
+
+A 69-year-old man presented to the emergency department with gait disturbance and drowsiness. He was recently hospitalized for cholecystitis complicated by E. coli, K. oxytoca, and C. perfringens liver abscess and bacteremia. He was treated with four weeks of ampicillin-sulbactam and cefmetazole in the hospital followed by levofloxacin 500 mg once daily and metronidazole 500 mg four times daily at discharge, a regimen he had been taking for five weeks prior to presentation. The patient's wife reported four days of unsteady, wide-based gait followed by one day of drowsiness and confusion. On exam, the patient was drowsy and slow in response to verbal commands. Glasgow Coma Scale was E4V4M6. Vital signs were within normal limits. His gait was ataxic and wide-based. Finger-Nose-Finger test showed bilateral dysmetria with intention tremor. Montreal Cognitive Assessment (MoCA) score was 16/30, suggestive of mild cognitive impairment. Complete blood counts, electrolytes, glucose, renal and liver function tests were normal. CT of the abdomen with contrast showed resolution of liver abscess. MRI of the brain showed symmetric, hyperintense FLAIR signals of the cerebellar dentate nuclei, consistent with metronidazole-induced encephalopathy. He was admitted to the hospital. Metronidazole was discontinued. His cognitive and cerebellar symptoms improved. Repeat MRI on hospital day 8 showed complete resolution of the abnormal findings. At time of discharge on hospital day 23 he had persistent impairment of short-term memory and a slightly wide-based gait. At his follow-up visit one week later, his MoCA score remained below normal at 25/30 but his gait was normal.
+
+# IMPACT/DISCUSSION:
+
+Encephalopathy is a side effect of metronidazole typically reported among patients receiving prolonged courses of the antibiotic. Clinical manifestations include cerebellar dysfunction (75%), altered mental status (33%), and seizure (13%). MRI shows symmetric enhanced FLAIR signals of the dentate nuclei of the cerebellum, a pathognomonic finding of metronidazole-induced encephalopathy. MRI abnormalities may resolve despite persistence of symptoms, as demonstrated by our patient. The majority of patients experience complete resolution of symptoms after discontinuation of metronidazole, but some patients experience permanent neurologic symptoms. Case reports suggest cognitive symptoms and seizures are more likely to completely resolve than are cerebellar symptoms, however our patient experienced the opposite result.
+
+# CONCLUSION:
+
+- Encephalopathy is a rare side effect of metronidazole, usually associated with a prolonged course of the antibiotic. - Clinicians utilizing prolonged courses of metronidazole should maintain vigilance for the development of cerebellar or cognitive dysfunction in their patients.

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Resident primary care physicians (rPCPs) struggle to provide continuity and complete inter-visit tasks while on inpatient rotations, thus we hypothesize that a primary care practice-sharing model between rPCPs and Physician Assistants (PAs) will improve patient outcomes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Attending physicians (aPCPs) have superior clinical outcomes and no-show rates as compared to rPCPs. Incorporation of PAs on surgical resident teams improves patient outcomes and quality of care. Through a primary care practice-sharing model between rPCPs and PA, we aim to: 1. Improve clinical outcomes for patients of rPCPs, 2. Improve clinic engagement by reducing no-show rates for rPCPs.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Resident/PA co-management will occur at the Phyllis Jen Center for Primary Care (PJC), a large, academic internal medicine practice at Brigham and Women's Hospital, Boston. One team will serve as the intervention group and the PA will co-manage rPCP panels [~800 patients] while rPCPs are on inpatient rotations. Two other teams will serve as controls without co-management. The PA addresses clinical concerns, refills prescriptions, and sees patients for urgent complaints, chronic disease management, hospital discharge follow up, wellness visits, and participates in population health management. To ensure that ambulatory educational needs are met, rPCPs perform all the above during ambulatory rotations. New workflows were created to facilitate team co-management. Based on the performance measures these workflows have and will require frequent iteration.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We will measure (1) appropriateness of care metrics for diabetes, hypertension, and cardiovascular disease and age-appropriate cancer screening rates; (2) no-show rates. We compare these metrics for rPCPs and aPCPs to drive the improvement of the co-management care team operation.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Baseline data reveals poorer outcomes for rPCPs as compared to aPCPs. Across control and intervention groups, rPCP baseline rates were similar, thus rPCPs are compared as a group to aPCPs. Patients of aPCPs met appropriateness of care metrics more frequently than rPCPs, with diabetes at A1c goal (76.4% vs. 62.1%), hypertension at blood pressure goal (81.4% vs. 80.1%) and hyperlipidemia at goal (87.0% vs. 85.5%). Patients of aPCPs had higher rates of cancer screening than rPCPs (mammogram 84.3% vs. 78.0%, pap smear 79.7% vs. 68.7%, colorectal cancer screening 76.8% vs. 64.3%). No-show rate for rPCPs (17.7%) was significantly higher than aPCPs (13.2%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Once optimized, the intent is to expand to all rPCPs at PJC and will serve as a model for other large academic practices to improve the quality of care provided to patients with rPCPs. Additionally, rPCPs uniformly felt that panel sharing is highly appealing, given the challenges of performing effective management while on inpatient rotations. We thus hope this model will improve the ambulatory educational experience.
+
+# INNOVATIVE WAY TO CREATE A PHYSICIAN SUPERVISED WEIGHT LOSS PROGRAM IN A PRIMARY CARE PROVIDER OFFICE
+
+Varalakshmi Niranjan. University of Connecticut, West Hartford, CT. (Control ID #3138992)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+There is limited time available in a primary care provider schedule to offer effective weight loss counselling to obese patients.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To create an effective insurance based physician supervised weight loss program in a primary care provider office setting. To assess the average number of months it takes to achieve effective weight loss of 5% or more of body weight in a physician supervised weight loss program. To assess the number of counselling office visits it takes to achieve effective weight loss of 5% or more of the body weight.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A physician supervised weight loss program was designed for a primary care provider office in a private practice setting. The program was made available for all overweight and obese patients to enroll voluntarily. The program included bi-weekly outpatient office visits with the provider. Patients were provided with nutritional counselling, meal plans, exercise ideas, and behavioral therapy at each visit by the provider. Patients were provided with tools to track food intake and exercise with electronic apps and or paper journal. The patient's medical insurances were billed for these office visits with no extra cost from the patient.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The number of voluntary enrollment by the patients and dropouts were tracked annually. The demographics of the patients who enrolled in a physician supervised weight loss program were analyzed. The initial weight and monthly weights were monitored. The average time it took for a patient to lose 5% or more of body weight was determined with respect to each class of obesity. The relationship between number of visits and weight loss achieved were tracked.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A total of 126 patients were enrolled between September 2016 and August 2018. There was a 20.63% dropout noted at the end of the two year mark. The program enrolled 84.1% females and 15.9% males. A total of 1111.8 pounds were lost during the two year period. The average time it took for a patient to lose 5% or more of body weight was 2.97 months. The subgroup analysis showed obesity class 2 and class 3 patients took lesser time to achieve this weight loss in comparison to class 1 and overweight individuals. A higher percentage of class 2 and class 3 obese patients achieved 5% or more weight loss than class 1 and overweight patients. Patients who had more than 12 visits lost 7.8% of their body weight. Patients with fewer than 12 visits only lost 3.6% of their body weight.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Physician supervised weight loss program can be designed with minimal cost investment. Effective weight loss can be achieved by counselling patients more frequently. The primary care provider schedule can be modified easily to accommodate these obese patients biweekly. The longitudinal trust with the primary care provider ensures higher follow up rates and minimal dropout rates in this program.

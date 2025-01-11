@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# METHODS:
+
+We utilized a NLP algorithm, CLiX NLP, to identify subjects with cognitive impairment using clinical notes from the Epic EHR and validated the algorithm using cognitive performance data from two cohort studies of older adults with asthma or COPD who were simultaneously enrolled into the BioMe Biobank at the Mount Sinai Hospital (n=199). All subjects were prospectively administered the mini-mental status exam (MMSE); subjects with a score of <24 were considered cognitively impaired. Terms for cognitive impairment were selected from SNOMED Clinical Terms by two physician consensus. The NLP algorithm was used to parse all available notes from the EHR of subjects with the following restrictions: (1) For subjects with normal MMSE scores, only notes within 6 months before or after MMSE administration, and (2) For subjects with MMSE scores <24, all notes from 6 months prior to MMSE administration until December 2017. 12 additional subjects were excluded for having no encounters documented in the EHR during this time window. Additionally, performance of NLP was compared with manual chart review of 50 charts. Test statistics sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were generated.
+
+# RESULTS:
+
+The mean age of subjects was 68 years old with standard deviation (SD) of 6.8. 25% were male, 29% Caucasian and 33% African-American. 54% reported Hispanic ethnicity. Mean MMSE score was 24.8 (SD 3.8); 40% had MMSE<24. Mean MMSE scores were significantly lower in subjects identified as having cognitive impairment by NLP compared to those that were not, 21.9 (SD 3.9) vs. 24.7 (SD 3.7), respectively (p<.0001). Sensitivity of NLP for cognitive impairment using MMSE as a gold standard was 44.2%, specificity 87.3%; PPV 69.1%, and NPV 70.8%. Sensitivity of NLP for cognitive impairment using manual review as a gold standard was 84.6%, specificity 62.2%, PPV 44.0%, NPV 92.0%.
+
+# CONCLUSIONS:
+
+NLP can be used to identify older adults with cognitive impairment with moderate specificity. Refinement of these NLP methods may result in an effective approach to identify subjects with cognitive impairment from unstructured clinical electronic data sources.
+
+# NEIGHBORHOOD VIOLENCE AS A DETERMINANT OF ACCESS TO RESOURCES AND HEALTH STATUS ON THE SOUTH SIDE OF CHICAGO
+
+Maya Isaacsohn1; Monica E. Peek2; Nichole Smith2; Lydia A. Fu2; Elizabeth L. Tung2. 1Emory University, Atlanta, GA; 2University of Chicago, Chicago, IL. (Control ID #3185482)
+
+# BACKGROUND:
+
+Neighborhood violence has been linked to negative health consequences, such as obesity and hypertension. Although numerous studies have investigated the relationship between neighborhood violence and access to outdoor physical activity resources, such as parks, fewer studies have examined the relationship to other health resources, such as fresh fruits and vegetables. The purpose of this study was to examine the relationship between neighborhood violence and use of community resources, including outdoor physical activity spaces, indoor gyms, grocery stores and pharmacies.
+
+# METHODS:
+
+Adult primary care patients (N=506) from two clinics in Chicago were recruited to complete a one-time survey. Surveys queried participants about use of community resources (i.e., "Do you usually use a [resource] within walking distance of your home?"). Survey responses were paired with objective, geocoded data from the Chicago Police Department. The number of fatal and non-fatal shootings were aggregated to the community area-level, as a proxy for violent crime exposure, and classified into 4 crime exposure risk quartiles. Participant addresses and body mass indexes (BMI) were retrieved from the electronic health record; obesity was defined as BMI 30mg/k2. Logistic regression models were used to independently assess (1) use of community resources and (2) obesity status as a function of violent crime exposure. Final models adjusted for age, gender, race/ethnicity, education, and insurance status.
+
+# RESULTS:
+
+The cooperation rate was 61%. Participants were predominantly female (72%) and non-Hispanic black (76%). Median number of shootings per community area was 58 (interquartile range, 21-128). Living in the highest quartile of violent crime was inversely associated with use of a grocery store (AOR=0.31; 95% CI, 0.13-0.72) or pharmacy (AOR=0.20; 95% CI, 0.09-0.47) within walking distance from home. Associations with location of exercise were not significant. Use of a grocery store within walking distance from home was also inversely associated with obesity status (AOR=0.43; 95% CI, 0.26-0.70); associations with use of pharmacy and exercise resources were not statistically significant. Similarly, living in the highest quartile of violent crime was associated with obesity status (AOR=2.76; 95% CI, 1.10-6.94).
+
+# CONCLUSIONS:
+
+Exposure to a higher number of neighborhood shootings was associated with poorer access to neighborhood resources, including grocery stores and pharmacies. Poorer access to grocery stores was also associated with obesity status. Contrary to expectations, access to exercise resources was not associated with violent crime or obesity status. Strategies to improve chronic disease management should consider neighborhood violence as a barrier to access - beyond access to exercise resources, but also access to food and medication resources.
+
+# NET IMPACT OF SOCIAL DETERMINANTS OF HEALTH ON CARDIOVASCULAR RISK FACTORS AND BEHAVIORS
+
+Ana M. Palacio1; Heidy Medina1; Maritza Suarez2; Leonardo Tamariz1. 1University of Miami, Miami, FL; 2university of miami, Miami, FL. (Control ID #3185322)
+
+# BACKGROUND:
+
+Cardiovascular diseases disproportionately affect disadvantaged populations leading to calls to address social determinants of health (SDH) as a preventive strategy. However, the limited information on the net impact that each SDH factor plays in CVD risk prevents the dissemination of SDH collection strategies across health systems. Thus the goal of our study is to create a weighed SDH score for cardiovascular risk using patient reported and geocoded SDH and to test the impact of each SDH factor on the Framingham risk score and on individual traditional cardiovascular risk factors.
+
+# METHODS:
+
+We conducted a retrospective cohort study of primary care patients at the University of Miami Health System who answered a SDH survey between September 16, 2016 and September 10, 2017. The survey included SDH domains recommended by the AHA position statement and by the National Academy of Sciences, Engineering and Medicine. We selected the Framingham risk score (FRS) as well as all traditional cardiovascular risk factors as our outcome metrics. We calculated the SDH score for Cardiovascular risk by conducting linear regression of the FRS outcome using all the SDH variables. We used the beta coefficients of the regression to create the SDH score. We correlated the SDH Score in tertiles to the FRS risk categories and to the achievement of clinical targets for the traditional cardiovascular risk factors. We also evaluated the correlation of SDH to health behaviors such as smoking and physical activity.
+
+# RESULTS:
+
+We included 2,876 patients with a mean age of 53.8 ± -15.8, 61% were female, 9% were Black, 38% were Hispanic and 87% reported speaking English. The mean household income was 53,677 (42,813-67,760). The statistically significant beta coefficients in the FRS model corresponded to being born outside of the US but non-Hispanic, living alone, have a high social isolation score and a low geocoded-based median household income (p<0.01). The calculated SDH score ranged from 0 to 59. Increasing tertiles of SDH score were significantly associated with high FRS, with poor blood pressure and diabetes control and with sedentary lifestyle. In adjusted models, financial strain, health literacy, stress, education and median household income were significant correlates of weekly exercise while being Black, Hispanic, born outside the US and having low median household income were associated to obesity.
+
+# CONCLUSIONS:
+
+Increasing values of a weighted SDH score are associated with increasing CVD risk suggesting that this approach could be a useful tool for risk stratification. The net impact of SDH varied by CVD risk factor evaluated, however, all SDH impacted at least one outcome and therefore should be included in SDH collection tools.

@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# TWENTY-YEAR CHANGES IN UNMET HEALTH NEEDS OF NON-ELDERLY ADULT AMERICANS: A NATIONAL STUDY
+
+Laura Hawks1, 2; David Himmelstein3; Stephanie Woolhandler4; David Bor1; Adam Gaffney1; Danny McCormick5. 1Cambridge Health Alliance, Cambridge, MA; 2Harvard Medical School, Cambridge, MA; 3City University of New York at Hunter College, New York, NY; 4Cambridge Hospital, New York, NY; 5Harvard Medical School / Cambridge Health Alliance, Cambridge, MA. (Control ID #3185047)
+
+# BACKGROUND:
+
+Many recent studies have highlighted improvements in coverage and access to care attributable to the Affordable Care Act (ACA). However, a narrow focus on short term pre- to post-ACA changes may distract attention from longer-term trends in Americans' unmet health needs.
+
+# METHODS:
+
+We analyzed data on persons aged 18-64 from the 1998 and 2017 Behavioral Risk Factor Surveillance System (BRFSS), a telephone-based survey conducted in each US state and Washington D.C. that collects nationally-representative data for the non-institutionalized population. We used two measures of unmet health needs: 1. being unable to see a physician when needed, due to cost; and 2. not having a check-up in the last two years. We assessed changes in insurance coverage and both indicators of unmet health needs from 1998 to 2017 for the overall population as well as for subgroups with specific health conditions. All analyses used weights that allow extrapolation to the US non-institutionalized population, and were also conducted stratified by insurance status. We estimated unadjusted differences (UD) in proportions between 1998 and 2017.
+
+# RESULTS:
+
+The sample included 105,886 respondents from 1998 and 301,752 from 2017. Between 1998 and 2017 the uninsurance rate among all non-elderly adults decreased from 16.9% to 14.8% (difference: -2.1 [95% CI, 1.6 - 2.5]; however, among young adults (aged 35-44), uninsurance increased by 1.2 percentage points [95% CI, 0.4 to 2.2]. Over the same 2-decade span, the proportion of respondents who reported being unable to see a physician due to cost increased by 4.3% [95% CI, 3.8-4.7], from 11.4% to 15.7%. Among all non-elderly adults this increased by 6.7% [95% CI, 5.1-8.3] in the uninsured, and by 4.5% [95% CI, 4.1- 4.9] among the insured. While this measure worsened for all racial/ethnic groups, inequality persisted. In 2017, 18.8% [95% CI, 17.9-19.7] of black and 21.9% [95% CI, 20.9-22.8] of Hispanic versus 13.3% [95% CI, 13.0-13.6] of white respondents reported this barrier to care. Additionally, 28.5% [95% CI, 27.2-29.7%] of low income, and 39.6% [95% CI, 38.6-40.7] of uninsured respondents could not see a doctor when needed due to cost. This measure worsened to a similar degree among the chronically ill, including those who reported a diagnosis of hypertension, hyperlipidemia, diabetes, obesity, cardiovascular disease, binge drinking and smoking, and among those reporting poor health status. In contrast, the proportion of non-elderly adults who had received a check-up within the past 2 years did not change overall, regardless of coverage status.
+
+# CONCLUSIONS:
+
+Despite important short-term improvements in coverage and access to care under the ACA, coverage gains were less impressive over the longer term, and the proportion of non-elderly adults with unmet health needs either failed to improve or actually worsened in the last 2 decades. A reform more comprehensive than the ACA will likely be required to more fully address Americans' unmet health needs.
+
+# U.S. ADULTS' PERSPECTIVES ON DECISION-MAKING ABOUT HEALTH INSURANCE, HEALTHCARE, AND EMPLOYMENT NEAR RETIREMENT
+
+Renuka Tipirneni1, 1; Erica Solway1; Preeti Malani1, 1; Jamie Luster1; Jeffrey T. Kullgren1, 1; Matthias Kirch1; Dianne Singer1, 1; Aaron M. Scherer2. 1University of Michigan, Ann Arbor, MI; 2University of Iowa Carver College of Medicine, Iowa City, IA. (Control ID #3179040)
+
+# BACKGROUND:
+
+As U.S. adults approach Medicare eligibility at the age of 65, they face important decisions about health care and employment. Recent legislative, regulatory, and legal challenges to the Affordable Care Act (ACA) may add new uncertainties to decision-making in this critical period. Our objective was to understand adults' perspectives on health insurance coverage, health care, and employment as they approach retirement age.
+
+# METHODS:
+
+In October 2018, a cross-sectional online survey was conducted using the Ipsos (formerly GfK) KnowledgePanel®, a large, nationally representative probability-based panel. This survey was conducted as part of the University of Michigan National Poll on Healthy Aging, a recurring online survey of participants age 50-80. The completion rate was 62% among panel members contacted to participate. This study included 1,028 community-dwelling U.S. adults, age 50-64. Analyses report descriptive and bivariate statistics incorporating survey weights. Measures included respondents' plans regarding current and future health insurance, medical care, and retirement decision-making. The margin of error was ±1 to 3 percentage points for questions asked of the full sample, and higher among subgroups.
+
+# RESULTS:
+
+Nearly half (45%) of adults age 50-64 had little to no confidence in their ability to afford health insurance when they retire, and 27% had little or no confidence in ability to afford health insurance over the next year. Confidence in health insurance affordability during retirement was highest among ages 60-64, males, African-Americans, those with annual household incomes >$60,000, higher educational attainment, and excellent or very good health. In the past year, 14% of respondents reported keeping a job and 11% delayed or considered delaying retirement specifically to have their employer-sponsored health insurance. 12% thought about or went without health insurance in the past year. 8% stated that they were waiting to get a medical procedure until they have Medicare coverage, and 13% had not gotten medical care in the past year because of cost concerns. More than two-thirds (68%) of respondents were concerned about potential changes to health insurance due to changes in federal policies. Those age 60-64 and with lower incomes (<$60,000 annually) were more likely to express these concerns.
+
+# CONCLUSIONS:
+
+Half of adults age 50-64 were worried about their ability to afford health insurance when they retire and most were concerned about how changes in federal policies could affect their insurance. Some even delayed retirement or kept a job to keep their employer-sponsored health insurance. While federal legislative efforts to change the ACA largely failed in 2018, these findings suggest that many adults age 50-64 still worry about potential future changes to their health insurance options. Health care policy solutions are needed to help patients near retirement better understand their coverage options and navigate health care in this critical transition period.
+
+# UNDER-DISPENSING OF MEDICINES FOR NON-COMMUNICABLE DISEASES IN UGANDA AND ITS EFFECT ON PATIENTS: A CROSS-SECTIONAL MIXED METHODS STUDY
+
+Jeremy I. Schwartz1, 3; Andrew Tusubira3, 2; Rejoice Ngongoni4; Gidio Agaba5; Christine Nalwadda2, 3. 1Yale School of Medicine, New Haven, CT; 2Makerere University College of Health Sciences School of Public Health, Kampala, Uganda; 3Uganda Initiative for Integrated Management of Non-Communicable Diseases, Kampala, Uganda; 4Stanford Medicine, Stanford, CA; 5Mulago National Referral Hospital, Kampala, Uganda. (Control ID #3185863)
+
+# BACKGROUND:
+
+The prevalence of non-communicable diseases such as hypertension (HTN) and diabetes (DM) is rising rapidly in low-income countries. Access to medicines for these conditions is low, largely driven by low availability and high cost. Anecdotally, patients often do not receive the medicines prescribed for them at public sector health facilities. But the scale of such under-dispensing and its implications for patients have not been previously defined. In this study, we aimed to characterize the gap between prescribing and dispensing of these medicines in Uganda and to understand the effect of this gap on patients' ability to care for their chronic conditions.

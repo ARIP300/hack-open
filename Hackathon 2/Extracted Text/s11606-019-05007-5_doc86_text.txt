@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# ICE scores that are more strongly associated (Std Beta=.40 vs .24).
+
+ICE and CCSE patient education skills have associations with PGY1 skill of similar size (Std Beta=.30 and .28).
+
+# CONCLUSIONS:
+
+Findings, despite the small sample, suggest a clear developmental trajectory for communication skills development and that information gathering and patient education skills may be more influenced by medical school than relationship development. That communication skills seem to level out in PGY1 highlights need for re-consolidation as clinical complexity increases. Results can inform theory development on how communication skills develop and point to transitions where skills practice/feedback may be particularly important.
+
+# DIABETES PREVALENCE AND CONTROL IN THE UNINSURED OF THE TAMPA BAY AREA
+
+Hadi Joud1; Sabbir Mirza1; Eslam Mohamed2; Hozaifa Tabbaa1; Mouaz Tabbaa1; Laurie Woodard1; Rahul Mhaskar1; Chighaf Bakour1; Sayeef Mirza1. 1University of South Florida, Tampa, FL; 2Lake Erie College of Osteopathic Medicine, Bradenton, FL. (Control ID #3181454)
+
+# BACKGROUND:
+
+Diabetes is a common disease in many populations but places an especially heavy burden on the uninsured or underinsured, who are likely to utilize free healthcare services. These services, including free clinics, may provide patients with suboptimal treatment for diabetes and its many important comorbidities, such as hypertension and hyperlipidemia. The prevalence, management, and control of diabetes in uninsured or underinsured populations are not well studied and have only recently been examined in the Tampa Bay area. This study aims to characterize the prevalence and management of diabetes as well as predictors of good diabetes control in the uninsured of the Tampa Bay area.
+
+# METHODS:
+
+The study data was collected through a retrospective chart review of adult diabetic patients seen in nine different free clinics in the Tampa Bay area in 2016 and 2017. Sociodemographic variables, including race, ethnicity, age, and gender were collected along with chronic disease diagnoses, treatments, and relevant lab results. The data was analyzed in SAS and a logistic regression analysis was run to identify predictors of good control.
+
+# RESULTS:
+
+Out of 6815 patients seen in nine free clinics, 1323 patients were reported to be diabetic (19.41%). 787 of those (59.5%) had uncontrolled diabetes, defined by a HbA1C value of greater than 7%. The mean HbA1C for the study population was 7.98%. Demographically, the population was found to be mostly White (76.3%), Hispanic (52.4%), and female (54.1%). The mean BMI for diabetics was 32.3, with 59% of the population being obese and only 11.9% being of a normal weight. Compared to poorly controlled diabetics, those with good control were more likely to be female (59% vs. 56%), employed (58% vs. 50%), of normal weight (13.1% vs. 11.5%), and to have never smoked (67% vs. 62%). Logistic regression analysis showed that unemployment is a significant predictor of poor control (OR = 1.92, 95% CI 1.03, 3.60) after adjusting for age, gender, race, comorbidities, and BMI. When stratified by gender, unemployment is a significant predictor of poor control in males (OR = 4.13, 95% CI 1.36, 12.5), but not in females (OR = 1.40, 95% CI 0.62, 3.18).
+
+# CONCLUSIONS:
+
+Diabetes control is suboptimal in uninsured people visiting free clinics in the Tampa Bay Area, as evident by HbA1C levels. Unemployment appears to be a significant predictor of poor control in male diabetics, but not in females. Further research is needed to understand the mechanisms underlying this difference. Nutrition education initiatives may be beneficial in improving control of diabetes and decreasing the high rates of obesity by addressing the patients' lifestyles. Additionally, improving diabetes management programs at free clinics and equipping them with more resources may improve the quality of care and patient compliance.
+
+# DIAGNOSIS CODES VS. LABORATORY VALUES FOR IDENTIFICATION OF ACUTE KIDNEY INJURY
+
+Amrit Vasdev 1, 2; Rachel Giblon 1; Joel A. Hickman 1; Arnar J. Jónsson 3; Runolfur Palsson 3; Kianoush Kashani 1; Bjorg Thorsteinsdottir 1, 1. 1 Mayo Clinic, Rochester, MN; 2 University of Minnesota, Minneapolis, MN; 3 Landspitali University Hospital, Reykjavik, Iceland. (Control ID #3185265)
+
+# BACKGROUND:
+
+Acute Kidney Injury (AKI) is a common syndrome especially in the context of multi-morbidity and can result in serious adverse outcome including mortality and chronic kidney disease (CKD). There have been concerns about the lack of sensitivity of billing codes in identifying this important complication. Therefore we sought to identify AKI episodes based on creatinine values in the electronic medical record and test its ability to detect AKI episodes as compared to ICD9 diagnosis code and chart review.
+
+# METHODS:
+
+Using a population based registry database from the Rochester Epidemiology Project, we identified patients >65 years of age who had a serum creatinine measured between 1996-2006. For each patient, each creatinine value was assessed for the presence of AKI using a previously validated macro, following Kidney Disease Improving Global Outcome (KDIGO) guidelines, defined as an increase in serum creatinine 0.3 mg/dl in less than 48 hours or an increase from baseline of 0.3mg/dl using older creatinine values on file. We used AKI based on chart review as gold standard.
+
+# RESULTS:
+
+Of 29,494 patients identified there were 18,024 times ICD9 billing diagnosis code for Acute Kidney Injury was used in 6292 patients. ICD billing codes were only 55% sensitive compared to AKI diagnosis based on the laboratory based macro. Using chart review as the gold standard this algorithm had a positive predictive value of 64% and negative predictive value of 91%.
+
+# CONCLUSIONS:
+
+Diagnosis codes alone miss almost half of all AKI cases. Using an automated search based on the KDIGO guidelines shows high agreement with the previously validated code and significantly increases the sensitivity while maintaining high specificity. Our findings suggest that billing codes may be insufficiently sensitive to assess patient complexity across population and that one should be careful to draw firm conclusions, change policy or make practice recommendations solely based on big data based on billing diagnosis.
+
+# DIAGNOSTIC PITFALLS: OPERATIONALIZING A NEW PARADIGM TO UNDERSTAND AND PREVENT DIAGNOSTIC ERRORS
+
+Harry Reyes Nieva1, 2; Elise L. Ruan1, 3; Mayya Volodarskaya1, 4; Sumit Agarwal 1; Adam Wright 1, 2; Hardeep Singh5; Gordon D. Schiff1, 2. 1Brigham and Women's Hospital, Boston, MA; 2Harvard Medical School, Boston, MA; 3Tufts University School of Medicine, Boston, MA; 4University of Chicago Pritzker School of Medicine, Chicago, IL; 5Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, TX. (Control ID #3184699)
+
+# BACKGROUND:
+
+Most diagnostic errors are rooted in cognitive and system failures with multifactorial origins. This complexity requires innovative approaches to better anticipate, detect and prevent them. We developed a new construct — diagnostic pitfalls — to account for both system and cognitive issues and create awareness of what can go wrong in diagnosis. We mined various data sources to uncover diagnostic errors and distilled disease-specific clinical pitfalls to analyze their types and patterns.
+
+# METHODS:
+
+We collected data from multiple sources to identify diagnostic error cases and delineated potential pitfalls, which we defined as clinical situations, patterns, or vulnerabilities related to errors leading to missed, delayed, or wrong diagnosis. Sources included a literature review, AHRQ Web M&M cases, institutional ambulatory M&Ms and risk management reports, focus groups with specialists, and primary care.

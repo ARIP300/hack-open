@@ -1,0 +1,73 @@
+# ABSTRACTS
+
+doses of methadone above 40 mg. This patient's case was unusual in that the patient had reportedly been on 100 mg of methadone for 5 years and 90 mg for 10 years prior to that. The patient declined transition to buprenorphine at discharge for management of his opiate use disorder.
+
+# CONCLUSION:
+
+- Suspect sulfonylurea overdose in patients with a benzodiazepine use disorder who present with persistent hypoglycemia.
+- Treat suspected sulfonylurea overdose with dextrose infusion and IV or IM octreotide.
+- High-dose or rapid escalation of methadone can cause hypoglycemia.
+
+# PID HIDING IN PLAIN SITE
+
+Kristen Wilson1; Amy H. Farkas1, 2. 1Medical College of Wisconsin, Milwaukee, WI; 2Milwaukee VA Medical Center, Milwaukee, WI. (Control ID #3182652)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of diagnosing pelvic inflammatory disease (PID)
+
+# LEARNING OBJECTIVE #2:
+
+Understand how clinical biases can impact clinical reasoning
+
+# CASE:
+
+A 36-year-old female presented to primary care for abdominal pain following ventral hernia repair performed 4 weeks prior. On initial questioning, she reported achy abdominal pain along with difficulty sitting comfortably. She denied any pain at her incision sites, fever or chills, or associated urinary symptoms. Examination of her abdomen revealed healing incisions without tenderness. During the exam, she commented that the pain was more localized to her pelvis. Review of gynecologic history revealed that the patient had one sexual partner, last intercourse was one week prior to surgery, and she denied vaginal discharge. She did note abnormal spotting. Pregnancy test was negative. A pelvic exam revealed purulent discharge from the cervical os with fundal and adnexal tenderness. Cervical swabs were obtained for chlamydia, gonorrhea, and vaginitis panel. She was treated empirically for PID with ceftriaxone IM, oral doxycycline and metronidazole. On one-week follow-up, patient was clinically improved. Cultures were negative.
+
+# IMPACT/DISCUSSION:
+
+PID is a clinical diagnosis hallmarked by pelvic organ tenderness and inflammation of the lower genital tract which can lead to significant health outcomes. It is often missed by clinicians. While classic presenting symptoms include abrupt onset of severe lower abdominal pain following menses, increasingly women are presenting with less severe symptoms thought to be secondary to a shift in the microbial etiology involving non-gonococcal or chlamydial species. Up to 50% of women with PID will have no evidence of gonorrhea or chlamydia on laboratory testing. As physicians are performing fewer screening pelvic exams they must remember to have a low threshold for performing the bi-manual in a woman with an acute abdominal complaint. Too often, clinical bias results in anchoring and premature closure such as in this case where the provider initial anchored on the women's recent abdominal surgery as a cause of her pain only to discovery a benign abdomen on exam. While there are many categories of bias in clinical reasoning, the lead-in thought pattern that precedes them all is Type 1 processing wherein intuitive diagnoses are favored over those obtained via analytical reasoning. It is important for physicians to be aware of clinical bias in their diagnostic reasoning to prevent premature closure and missed diagnoses.
+
+# CONCLUSION:
+
+1. PID is a clinical diagnosis that often has subtle findings
+2. PID is associated with other organism beyond gonorrhea or chlamydia
+3. Awareness of clinical bias is necessary to reduce barriers to identification of disease
+
+References Brunham, R. C., Gottlieb, S. L, & Paavonen, J. (2015). Pelvic inflammatory disease. NEJM, 372(21). Croskerry, P., Mamede, S., & Singhal, G. (2013). Cognitive debiasing 1: origins of bias and theory of debiasing. BMJ Quality & Safety, 22(2): ii58-ii64.
+
+# PITFALL OF MYCOPLASMA PNEUMONIAE: PNEUMONIA? ENCEPHALITIS? MENINGITIS!
+
+Ryutaro Nagaya; Yoshihiko Kawano; Takamasa Tanaka; Mitsunori Iwase. Toyota memorial hospital, Toyota-city, Japan. (Control ID #3186269)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that Mycoplasma pneumoniae may lead to aseptic meningitis.
+
+# CASE:
+
+The patient was a ten-year-old boy without a past medical history. He presented to our emergency room (ER) with a chief complaint of chest pain and nausea. Before visiting ER, he already visited some clinics three times because of mild fever and cough for 5 days but he was treated as just common cold. Chest X ray showed infiltrative shadow bilaterally. It clinically presumed pneumonia and he was admitted to our hospital. On the 2nd day, loop-mediated isothermal amplification (LAMP) was positive, leading to our diagnosis of Mycoplasma pneumonia. Mycoplasma pneumoniae-specific antibody titers was 1:40. Clarithromycin 400mg/day was administrated. He was discharged without any symptoms on the 5th day. On the 6th day he went to school, but felt fever, headache and nausea. Because these symptoms continued, he visited ER again. He was febrile and neck stiffness was present without disturbance of consciousness. Brudzinski and Kernig signs were positive. Cerebrospinal fluid (CSF) examination showed no pleocytosis, the protein level was 51 mg/dl. Glucose in CSF was normal (55mg/dl) but bacterial meningitis was not ruled out completely. Then cefotaxime and clarithromycin were administrated. On the 9th day, fever sustained and we suspect macrolide-refractory mycoplasma pneumonia and minocycline was administrated. On the 11th day, he responded well and recovered and blood culture test were negative. Mycoplasma pneumoniae-specific antibody titers was 1:360. He eventually discharged in good condition on the 15th day.
+
+# IMPACT/DISCUSSION:
+
+When patients with pneumonia caused by Mycoplasma pneumoniae show neurological manifestations, we should consider that the symptoms are caused by Mycoplasma pneumoniae. Mycoplasma pneumoniae is one of the important causes of upper and lower respiratory tract infections during childhood especially 6 to 14-year-old children. Patients suffering Mycoplasma pneumoniae infection may have varying degrees of neurological complications at a ratio of approximately 6 to 7%. Neurological manifestations include encephalitis, transverse myelitis, acute disseminated encephalomyelitis, Guillain-Barre syndrome, thromboembolic stroke and aseptic meningitis. The time period between the onset of respiratory symptoms and neurological symptoms varies 2 to 14 days. More than 80% of patients with CNS findings have concomitant respiratory infection. Actually, in this case, aseptic meningitis was evident 6 days after he had symptoms of respiratory tract. Although aseptic meningitis usually does not need any antibiotics, aseptic meningitis caused by Mycoplasma pneumoniae should be administrated some antibiotics clarithromycin and so on.
+
+# CONCLUSION:
+
+We should consider that Mycoplasma pneumoniae cause neurological manifestations including aseptic meningitis after respiratory tract infections.
+
+# PLATYPNEA-ORTHODEOXIA SYNDROME: NOT AS SIMPLE AS IT SOUNDS
+
+Harshit Dua; Ali Azim; Nyi Nyi Kyaw; Allan Tachauer. Weiss Memorial Hospital, Chicago, IL. (Control ID #3185400)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of Platypnea-Orthodeoxia Syndrome (POS).
+
+# LEARNING OBJECTIVE #2:
+
+Suspect POS in patients with no apparent causes of hypoxia and perform appropriate diagnostic testing to hasten its identification.
+
+# CASE:
+
+A 77-year-old female presented to the hospital with shortness of breath. She was found to be tachypneic, anxious and requiring 50%

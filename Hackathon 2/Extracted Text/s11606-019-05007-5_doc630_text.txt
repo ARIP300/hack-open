@@ -1,0 +1,62 @@
+# ABSTRACTS
+
+a certified letter due to abnormal results and patient unable to be reached (8%). 2 patients did have any documentation on how they were reached (0.01%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+We were able to perform &gt;200 PAPs per year, of which 19% were abnormal. We relayed results to 97% of our patients via letter (normal or certified) or telephone call. This not only provided improved health care delivery to our vulnerable patients, but also fulfilled the educational mission of our clinic by teaching residents on appropriate follow up for abnormal results.
+
+# IMPACT OF "CRITICAL CARE GENERAL INTERNAL MEDICINE (CG-GIM)" OUTSIDE THE INTENSIVE CARE UNIT (ICU) ON THE OTHER DEPARTMENTS IN JAPAN
+
+SATOSHI MATSUNAGA. Aso Iizuka Hospital, Iizuka-shi, Japan. (Control ID #3176260)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Critical Care General Internal Medicine (CG-GIM) fills the gap between ICU and Emergency Room(ER), ICU and Internal Medicine, and ICU and the other departments. CG-GIM plays a more significant role than Step-Down hospitalists.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To clarify the role of Critical Care General Internal Medicine (CG-GIM) as a buffer
+2. To illustrate the impact of CG-GIM on ICU
+3. To describe the impact of CG-GIM on the other departments
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We have created our own team, Critical Care General Internal Medicine (CG-GIM), which consists of GIM staff and residents outside of the ICU. In addition to the role for Step-Down hospitalists, CG-GIM directly consults with ER and the other departments all the time.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Quantitative metrics
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Critical Care General Internal Medicine (CG-GIM) received 363 consultations in one year (from April 1, 2017 to March 31, 2018). CG-GIM received 166 (46%) consultations from ER, 60 consultations (16%) from non CG-GIM, 63 consultations (17%) from ICU, 42 consultations (12%) from the other Internal-Medicine departments, and 32 consultations (9%) from the other departments. On the other hand, ICU received 732 consultations in one year. ICU received 391 consultations (53%) from ER, 14 consultations (2%) from CG-GIM, 21 consultations (3%) from non CG-GIM, 51 consultations (7%) from the other Internal-Medicine departments, and 255 consultations (35%) from the other departments. CG-GIM accepted 140 consultations (39%) on the day shift, 95 consultations (26%) on the semi-night shift, 21 consultations (6%) on the late night shift, and 107 consultations (29%) on the weekend shift. In contrast, ICU accepted 218 consultations (30%) on the day shift, 284 consultations (39%) on the semi-night shift, 75 consultations (10%) on the late night shift, and 155 consultations (21%) on the weekend shift.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Critical Care General Internal Medicine (CG-GIM) plays a great role as a buffer. 1.CG-GIM reduces the work burden of ICU, non CG-GIM, other internal-medicine departments, and the other departments. 2.24/7 consultation is a special help on the weekend, the semi-night, and the late-night shift team. 3.CG-GIM enables ER physicians to consult the other departments with less conflict. In addition, CG-GIM provides senior residents with a wonderful opportunity for critical care management and procedures, such as central venous catheter insertion. The number of elderly patients with critical and complex care has dramatically increased in Japan, which requires more sophisticated decision making for CG-GIM.
+
+# IMPACT OF MEDICAL SCRIBES ON PHYSICIAN-PATIENT INTERACTIONS DURING OUTPATIENT VISITS
+
+Robert W. Lancey. University of Missouri, Columbia, MO. (Control ID #3180884)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Do medical scribes allow physicians to spend more time interacting with patients during outpatient visits?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Do scribes increase time physicians spend facing patients, reduce time spent facing computer during outpatient visits.
+2. Do patients believe their physician spent more time interacting with them with vs without a scribe in their visit.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The widespread introduction of electronic medical records (EMRs) into medical practice has resulted in worsening satisfaction for physicians and patients. Medical scribes are one solution to physician dissatisfaction with EMRs but their ability to impact the time physicians spend interacting with patients versus with the computer in the exam room is unknown. We tested the presence of medical scribes with a prospective observational trial studying interactions between physicians and patients in the presence of computers in exam rooms running Cerner Powerchart in an academic general internal medicine (GIM) outpatient practice at the University of Missouri (MU). Project assistants observed interactions between physicians, patients, exam room computers, and scribes when present. Time data was recorded for several types of interactions in the exam room during outpatient appointments including "physician-patient", "physician-computer", "physician-scribe", and "physical examination". A survey for each patient was administered after physicians exited the rooms. The survey asked patients about their satisfaction with the visit and their perception of their physician's time spent with them versus the computer.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Time spent interacting with patients with a scribe present in an outpatient visit compared to time spent interacting with the exam room computer. Patient perception of their visit with a scribe present, including overall visit satisfaction and perception of time physician spent facing them.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+With scribes, physicians spent 57% of their time facing the patient vs. 49% with no scribe. Physicians spent less time facing EMR with scribes, 27% vs 38% without scribes, more time examining the patient with a scribe, 15% vs 10% without a scribe. The patient survey showed that patients felt their physician gave them undivided attention significantly more often with a scribe than without, 97% vs 83%, OR 14.23 (p=0.01, 95% CI: 1.52 - 133.42). Physician without a scribe spent too much time looking at the EMR when a medical scribe was not present, 28% vs 11 with a scribe, and looked at their EMR more than half the time, 22% vs 5% with a.

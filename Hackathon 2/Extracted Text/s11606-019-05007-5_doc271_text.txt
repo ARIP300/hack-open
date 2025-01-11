@@ -1,0 +1,46 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+Of the 17 participants, most were latinx, mean age was 42, all primarily used heroin, and one had an active buprenorphine prescription. The overarching goal of all participants was to maintain control over their drug use without being reliant on healthcare providers. We identified 3 primary themes that reflect this goal:
+
+1. Diverted buprenorphine is useful as a short-term tool to moderate heroin use. Participants used diverted buprenorphine as either: a) bridging to prevent opioid withdrawal when heroin was unavailable, or b) temporarily unwanted, or self-detox, to assist in stopping heroin use.
+2. Seeking a prescription for buprenorphine was less desirable than use of diverted buprenorphine for two main reasons: The barriers to care: "They told me they want to send me something in the mail, but I never received nothing. I bought [suboxone] on my own. If I'm going to go through a lot of things [a prescription is] not better"; or concerns that the prescription could be withdrawn: "Something will happen that they will shut you off and then you have to withdraw. That's why I went to the heroin because I could find it anytime I wanted. With suboxone, you cannot do that once the doctor says you cannot have it."
+3. The pharmacologic effects of buprenorphine were not ideal for some participants. This fell within two common scenarios: participants who were not ready to stop heroin use, and those concerned that buprenorphine would not prevent withdrawal.
+4. Buprenorphine may be taken for euphoric effects, but this was during limited circumstances.
+
+# CONCLUSIONS:
+
+Participants expressed motivations to maintain control over their drug use and sometimes used diverted buprenorphine to meet these objectives. Some participants desired to continue heroin use, which limited engagement in formal buprenorphine treatment. Other participants expressed concerns that prescribed buprenorphine was difficult to access or could be withdrawn by the prescriber, which made diverted buprenorphine more desirable. Though buprenorphine treatment may not meet the needs of some people with OUD, those seeking buprenorphine should have easy and reliable access to care.
+
+# THE EDUCATION CENTERED MEDICAL HOME IMPROVES PRIMARY CARE TRAINING AND MAY MITIGATE BURNOUT: A RANDOMIZED MEDICAL EDUCATION TRIAL
+
+Bruce L. Henschen 1 ; David T. Liss 1 ; Blair Golden 2 ; Kenzie A. Cameron 1 ; Jennifer Bierman 3 ; Elizabeth R. Ryan 4 ; Diane Wayne 3 ; Daniel Evans 1 .  1 Northwestern University, Chicago, IL;  2 Northwestern McGaw, Chicago, IL;  3 Northwestern University Feinberg School of Medicine, Chicago, IL;  4 Indiana University School of Medicine, Gary, IN. (Control ID #3184582)
+
+# BACKGROUND:
+
+Traditional medical student clinical clerkships lack continuity of care, are associated with erosion of student empathy, and may increase burnout. Longitudinal clerkships may improve these outcomes, but rigorous studies are lacking. The Education-Centered Medical Home (ECMH) is a four-year, longitudinal, team-based primary care clerkship emphasizing continuity with patients, peers, and preceptors. We investigated effects of the ECMH on student attitudes and behaviors in a randomized medical education trial.
+
+# METHODS:
+
+We randomized students from two successive incoming classes to ECMH or to an enhanced Individual Preceptorship (IP). In ECMH, teams of 16 students (4 per class) spend four years in the same primary care clinic, working in pairs with a single outpatient preceptor to care for a medically-complex patient panel. In IP, students spend two years one-on-one with a preceptor, followed by a traditional primary care clerkship in the third year. ECMH students continue their longitudinal clinic while completing other clerkships in the third year. Otherwise, students' curricular hours and learning objectives are equal. We surveyed students four times (baseline, M1, M2, and M3 year) using the Maslach Burnout Inventory (MBI); the Patient-Physician Orientation Scale (PPOS); the C3 survey assessing the ‘hidden curriculum;' and the Attitudes Toward Health Care Teams (ATHCT) scale. We analyzed results using an intent-to-treat approach.
+
+# RESULTS:
+
+329 students were randomized; 316 (96%) completed surveys. In regression analyses controlling for demographics and baseline interest in primary care or pediatrics, ECMH participation resulted in significantly greater continuity of care (mean # patients actively followed per student, 2.2 ECMH vs. 0.3 IP, p<0.001), greater perceptions of positive role modeling from preceptors and peers (C3 mean, 4.6 ECMH vs 4.3 IP, p<0.001), and more positive attitudes toward health care teams (ATHCT mean, 3.2 ECMH vs 3.0 IP, p=0.007) compared to IP across all three years. Regardless of initial assignment, 75% of students would recommend ECMH to a hypothetical incoming medical student. Regarding burnout, there was no effect on emotional exhaustion or cynicism, but ECMH students reported improved professional efficacy over three years (MBI-PE 4.1 ECMH vs 3.9 IP, p = 0.02). ECMH was associated with increasing professional efficacy across the study duration.
+
+# CONCLUSIONS:
+
+In a randomized medical education trial, students in ECMH reported positive effects on their learning environment, improved attitudes toward team-based care, and accelerated professional development. A four-year, outpatient clerkship model, layered onto a ‘traditional' block clerkship curriculum, can produce improvements in primary care education and may promote student resiliency.
+
+# THE EFFECT OF A DIGITAL HEALTH INTERVENTION ON DECREASING BARRIERS AND INCREASING FACILITATORS IN COLORECTAL CANCER SCREENING IN VULNERABLE PATIENTS
+
+Nancy M. Denizard-Thompson 1 ; Kathryn Weaver 2 ; Doug Case 2 ; John G. Spangler 3 ; David P. Miller 2 .  1 Wake Forest University School of Medicine, Winston-Salem, NC;  2 Wake Forest School of Medicine, Winston-Salem, NC;  3 Wake Forest School of Medicine, Winston Salem, NC. (Control ID #3178634)
+
+# BACKGROUND:
+
+Colorectal cancer (CRC) is a major health problem for vulnerable populations. Understanding the factors that influence receipt of screening is paramount to improving CRC screening rates. In our randomized control trial conducted in a vulnerable population, we found an absolute 15% increase in CRC screening among patients randomized to the Mobile Patient Technology for Health-CRC (mPATH-CRC) program, an iPad application that informs patients of screening need, helps make a screening decision, allows "self-order", and sends electronic messages to help complete the test. We now investigate what factors led to the success of the intervention and mediated the common known barriers and facilitators of CRC screening.
+
+# METHODS:
+
+All data for the present analysis was collected as part of a randomized-controlled trial to determine the impact of mPATH-CRC on colorectal cancer screening within 24 weeks. Participants were enrolled from 6 community-based primary care practices between June 2014 and May 2016 and randomized to either usual care or mPATH-CRC. Six potential mediators were considered. These include the ability to form a screening decision (Y/N), the intent to have colorectal screening in the next month (Y/N), patient/doctor discussion about colorectal screening (Y/N), perceived benefits to screening (1-5), perceived barriers to screening (1-5), and self-efficacy (1-5). We used the method proposed by Lacobucci to assess the significance of the mediation, and logistic regression was used to determine which patient characteristics were associated with screening.

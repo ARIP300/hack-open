@@ -1,0 +1,39 @@
+# A PEDIATRIC RASH IN A GERIATRIC CLINIC
+
+Jared Schprechman. Naples Community Hospital, Naples, FL. (Control ID #3184903)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize IgA vasculitis in adults
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish IgA Vasculitis from other vasculitides by history and laboratory analysis
+
+# CASE:
+
+A 69-year-old non-smoking male with no PMH presented to the clinic with diffuse joint pain and extensive non-pruritic and non-painful rash on his lower extremities that progressed over the past week. He denied any recent travel, over the counter supplements, new medications, occupational exposure to chemicals, or excessive time in the sunlight. ROS was negative. Vitals: BP 128/82, HR 65, and temp 37 degrees Celsius. Physical exam revealed a diffuse erythematous rash with palpable purpura on his legs without ulceration, nodules or livedo reticularis. He had no joint synovitis and a normal neurological exam. Labs showed an increased creatinine of 1.5 mg/dL from 1.0 mg/dL baseline, 1+ urine protein on UA, urine protein/creatinine ratio of 1, suggesting overt proteinuria and no microscopic or gross hematuria. His p-ANCA, c-ANCA, cryoglobulin, ANA, and viral hepatitis antibodies were all negative. Skin biopsy showed neutrophilic predominant small vessel vasculitis. A kidney biopsy revealed mesangial proliferative glomerulonephritis and IM findings revealed granular mesangial positivity for IgA, IgM, C3, fibrinogen and kappa and lambda. These findings were consistent with IgA vasculitis. He was started on lisinopril 5 mg daily and prednisone 30 mg daily, which was tapered over the course of 5 months. His rash resolved within 4 months and his proteinuria resolved within 8 months.
+
+# IMPACT/DISCUSSION:
+
+IgA vasculitis, once known as Henoch-Schonlein purpura, occurs more than 90% of the time in children. However, its cardinal symptoms of palpable purpura, arthritis, abdominal pain and renal disease are shared by all age groups. Adults are more likely to have renal disease manifesting in hypertension, nephrotic syndrome and decline in GFR as opposed to isolated proteinuria and hematuria in children. Intussusception is rare in adults. IgA vasculitis may present similarly to other small vessel vasculitides which present with purpura. In the absence of biomarkers including ANCA, one can rule out microscopic polyangiitis (MPA), granulomatosis with polyangiitis (GPA), and Churg-Strauss. A negative ANCA can help make MPA, GPA, and Churg-Strauss less likely. Having negative cryoglobulins, no focal nerve deficits, and no history of hepatitis or connective tissue disease also rules out cryoglobulinemia. While medium-vessel vasculitides such as polyarteritis nodosa may present similarly with renal disease as well, it typically includes sensory and motor deficits as well as skin manifestations such as ulceration, nodules and livedo reticularis.
+
+# CONCLUSION:
+
+IgA vasculitis can be recognized in adults most often by palpable purpura and worsening renal disease. Key distinguishing factors from other vasculitides include negative ANCA, negative cryoglobulins and a lack of neuro deficits and any other skin findings.
+
+# TO B19 AGAIN: TRANSIENT APLASTIC CRISIS IN HEMOGLOBIN SC DISEASE
+
+Bridget Azera1, 2; Odeth Barrett-Campbell1, 2; Andrew A. Chang1, 2. 1NYC Health + Hospitals/Kings County, New York, NY; 2SUNY Downstate Medical Center, Brooklyn, NY. (Control ID #3185881)
+
+# LEARNING OBJECTIVE #1:
+
+To identify and treat Parvovirus B19 transient aplastic crisis (TAC) in patients with Hemoglobin SC disease (HbSC)
+
+# CASE:
+
+A 22-year-old African American woman with HbSC presented with one day of severe lower back and bilateral leg pain, not relieved by ibuprofen. Review of systems was otherwise negative. Initial exam revealed mucosal pallor, scleral icterus, absence of hepatosplenomegaly and diffuse tenderness across the lower back with no focal neurologic deficits. The pain improved with the use of hydromorphone and ketorolac. However, by day 3 of admission, she complained of generalized weakness and dyspnea on exertion. She denied cough, fever, runny nose or sore throat. Labs at that time showed hemoglobin (Hgb) 6.1g/dl (a decline from 9.4g/dl on admission), WBC 7.23 x 109/L, Reticulocyte index was 1.6%, Haptoglobin <10 mg/dL, Total bilirubin 1.6 mg/dL and LDH 1049 U/L. No schistocytes were seen on peripheral smear. Parvovirus IgM and IgG antibody titers were elevated. A diagnosis of Parvovirus B19 transient aplastic crisis (TAC) was made, based on decline in Hgb, reticulocytopenia and elevated Parvovirus B19 IgM titers. 2 units of RBCs were given with appropriate increment in Hgb which remained stable over 2 days before she was discharged.
+
+# IMPACT/DISCUSSION:
+
+Patients with sickle cell anemia (HbSS) are particularly susceptible to Parvovirus B19 infection due to asplenia and can lead to TAC due to the cessation of red blood cell production. Parvovirus B19 accounts for most TAC particularly among children with HbSS disease. In contrast, patients with HbSC disease often have less frequent crises which may delay presentation of Parvovirus B19 TAC to adulthood as in our patient. TAC should be suspected when there is an acute fall in Hgb that is not accompanied by an appreciate bone marrow response in red cell production. Symptoms usually are due to acute on chronic anemia with varying severity but can be life-threatening, highlighting the need for early recognition. Other Parvovirus B19 related complications such as acute chest syndrome, acute splenic or hepatic sequestration and bone marrow necrosis can occur concomitantly with aplastic crisis. Serum IgM testing is recommended for immunocompetent patients and immunocompromised should be tested by viral DNA. Treatment is usually supportive with antipyretics or ibuprofen (if fever is present) and blood.

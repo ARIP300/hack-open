@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+of the VA by veterans or the disinhibitory effect of increasingly racist and sexist politics on the largely male veteran population. However, a lack of gender balance in the non-VA group may have led to lower responses. The high satisfaction levels post-session in both settings suggest that the curriculum was beneficial. Limitations included small sample sizes and lack of gender balance.
+
+# NARRATIVE ASSESSMENT PROTOCOL (NAP) FOR MEDICAL STUDENTS IN A LONGITUDINAL INTEGRATED CLERKSHIP
+
+Michael McShane1, 2; Britta Thompson1; Daniel R. Wolpaw1. 1Penn State College of Medicine, Hershey, PA; 2Mount Nittany Medical Center, State College, PA. (Control ID #3184883)
+
+# MODIFIED PROBLEM-BASED LEARNING: AN INNOVATIVE APPROACH TO IMPROVE RESIDENCY EDUCATION, CRITICAL REASONING, AND COLLABORATION
+
+Megan A. McGervey1; Susan C. Scott; Jamal H. Mahar1; Mohammad G. Mohmand1; Carlos Isada2; Abby Spencer3. 1Cleveland Clinic Foundation, Lakewood, OH; 2Cleveland Clinic, Cleveland, OH; 3Cleveland Clinic, Chagrin Falls, OH. (Control ID #3186277)
+
+# NEEDS AND OBJECTIVES:
+
+Adult learners require different teaching modalities that are not employed in residency programs. Large residency programs rely heavily on large group didactics for the delivery of educational material. However, retention rates following lectures has been shown to be very low. Problem-based learning (PBL) is a student-centered approach where students work in groups to solve a problem using an active and iterative process to identify what students know and, more importantly, what they don't know. While it has been used in undergraduate medical education for many years, there are scarce reports of it being used in internal medicine residency programs as a longitudinal and primary curriculum. Our objective was to create a residency curriculum using adult learning theory that engages learners and allows for better knowledge retention.
+
+# SETTING AND PARTICIPANTS:
+
+This innovation takes place at a large academic medical center that hosts 181 internal medicine residents. All second and third year residents take part in the mPBL sessions that occur during an academic half day within protected learning time during the longitudinal clinic week using the 4+1 block scheduling model.
+
+# DESCRIPTION:
+
+In this innovative Modified PBL structure, the focus lies on self-directed learning and discussion of discrete learning objectives (LOs) derived from clinical cases in the presence of a multidisciplinary team of experts. Our mPBL consists of two sessions that allow learners to become familiarized with the cases and set discrete learning objectives within small groups. The second session the following day revolves around discussion of LOs with active facilitation to ensure case based learning with input from specialists. The learning is led by residents, while faculty facilitation is centered on more concrete understanding of medical concepts as well as correct interpretation of information and literature. The small group discussions allow learners to make the transition from knowledge gathering to analysis, application and practical utility of knowledge with the ultimate goal of having the learner apply the assimilated knowledge into clinical practice.
+
+# EVALUATION:
+
+Twenty-nine surveys were collected from second year residents indicating that >75% of participants "agreed" or "strongly agreed" that PBL had supplemented their education. Residents overwhelmingly enjoyed the content expert and the interactive case-based learning approach. Survey comments indicated that knowledge retention increased and that residents were made aware of knowledge gaps during discussion with their peers. Focus groups and survey data are currently being collected for this academic year.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Based on survey data, we modified to provide learners with cases well before sessions, adding suggested LOs, choosing high-yield cases spanning different disciplines, using multi-case formats with 4 cases per session, employing discrete learning objectives for the content expert discussion, and increasing the use of handouts and online learning materials.
+
+# NEEDS AND OBJECTIVES:
+
+With the goal of achieving standardization and objectivity in assessments, educators have relied on methods that deconstruct observed behaviors into likert scale numbers. These values often fail to offer either meaningful feedback or the promised "objectivity". This has led to increased emphasis on narrative assessments, which in GME have demonstrated to reliably identify learners at risk, and provide authentic feedback. However, it has been challenging to get clinical faculty to do more than complete scales and write short, unhelpful narratives such as "good job" or "read more". Here, we describe our efforts to overcome these barriers through a narrative assessment protocol (NAP) that features faculty semi-scripted narrative prompts, student goal setting, calibration discussions, and faculty supported performance improvement plans.
+
+# SETTING AND PARTICIPANTS:
+
+Penn State College of Medicine recently launched a four-year curriculum track for 12 students based in State College, Pennsylvania, featuring a longitudinal integrated clerkship (LIC) in the second year. 4 months into this first clerkship iteration, we implemented the NAP.
+
+# DESCRIPTION:
+
+To construct the semi-scripted narrative prompts, we asked clerkship directors to identify feedback opportunities (FOs) in their disciplines. These discipline specific FOs were combined with two prompts to be completed in reference to the FO: (1) "I really liked the way you…" and (2) "One thing that you could to do take your performance to the next level is to…". Faculty were surveyed by email. Next each student filled out 1 FO and compared it to faculty statement. Then students met with the LIC director in a "Calibration Meeting", where this information was reviewed to recalibrate student and faculty observations about clerkship performance, and create an across clerkship goal. In a collaborative meeting, clerkship directors discussed how to best help the student fulfill their goal within each clerkship. To better understand the quality of the NAP, qualitative analysis of faculty narrative statements, student goals and student-specific performance improvement plan was performed.
+
+# EVALUATION:
+
+Response rate for faculty narrative statements was 77%. Narrative statements were primarily behaviorally based with limited judgmental or non-specific feedback. Initially, student goals were about improving presentation and clinical reasoning. The "Calibration Meeting" helped to improve these goals and the subsequent clerkship director's discussion was characterized by supportive conversation and helpful recommendations.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Using a sequence of faculty-identified feedback opportunities, semi-scripted narrative prompts, calibrated SMART goals, and collaborative clerkship director input, we were able to create a meaningful combination of narrative feedback and refined goals for LIC students. We feel that this approach to capturing narrative faculty feedback and supporting student learning and professional growth in the clerkships is promising.
+
+# ONE STEP FORWARD AND NO STEPS BACK! NBME SUBJECT EXAM SCORES AND TRANSITION TO AN INTEGRATED CLINICAL CURRICULUM
+
+Laura Zakowski; Kirstin A. Nackers; Raquel Tartar; Eileen Cowan; Katharina Stewart; Sarah E. Ahrens; David Tillman; Laura Jacques; Shobhina G. Chheda. University of Wisconsin School of Medicine and Public Health, Madison, WI. (Control ID #3170282)

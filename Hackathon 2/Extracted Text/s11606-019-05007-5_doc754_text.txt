@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# THE GIMBOREE EXPERIENCE: STRENGTHENING PRIMARY CARE CAREER INTEREST AND COMMUNITY IN RESIDENCY
+
+Deborah G. Freeland2; Paul O'Rourke1. 1Johns Hopkins University, Baltimore, MD; 2Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3185885)
+
+# NEEDS AND OBJECTIVES:
+
+There is a shortage of primary care physicians in the United States, and traditionally internal medicine residency training has focused on inpatient care. To address this growing need, residencies must find ways to emphasize the importance of primary care and support residents who are interested in the fields of general internal medicine (GIM) and geriatrics. We developed a monthly primary care community night for residents and faculty called "GIMboree" with the goal of increasing resident sense of community and interest in primary care careers through a tripartite model: 1) exposure to GIM and geriatrics role models; 2) strengthening medical knowledge related to outpatient medicine through journal club; and 3) fostering a community in which residents feel supported in their outpatient interests.
+
+# SETTING AND PARTICIPANTS:
+
+We invited Johns Hopkins Bayview Medical Center primary care track residents and GIM/geriatrics faculty to attend voluntary GIMboree events held at either a faculty member's or resident's home. In the first 6 months of implementation (July to December 2018), attendance has ranged from 4 to 8 residents (of 18 total residents) and 2 to 5 faculty per evening.
+
+# DESCRIPTION:
+
+GIMboree meetings are held monthly and last about 2 hours. The structure includes dinner, primary literature journal article discussion, a faculty member's career story, and time for reflection about GIM clinic. Articles focus on outpatient medicine and were published within the last year. A resident volunteer leads the group through analysis of the evidence, and faculty members volunteer to share their story with prompting questions. Clinic reflection allows residents to obtain feedback about an encounter or to discuss joys and challenges specific to outpatient medicine.
+
+# EVALUATION:
+
+At each meetings' end, residents and faculty were surveyed with Likert scale and open-ended reflection questions. The short-answer responses were assessed for common themes across meetings and data collection is still ongoing.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Preliminary results reveal three main themes from the open-ended reflection questions: excitement about a career in primary care medicine ("Love that you can have a long-term relationship with patients and fulfill a role that no one else is able to for the patient"), growing sense of community ("Having the faculty share joys and difficulties made the community feel tighter"), and goals for self-improvement ("I will be more brave about discussing risks with patients and building a network of colleagues").
+
+# THE HIDDEN CURRICULUM: A RESIDENT-LED PILOT PROGRAM TO INCREASE CONFIDENCE AND EXPERTISE IN THE TRANSITION TO CLINICAL PRACTICE
+
+Leah B. Kosyakovsky; Michael Ruiz; Jonah Himelfarb. University of Toronto, Toronto, ON, Canada. (Control ID #3185668)
+
+# NEEDS AND OBJECTIVES:
+
+The entrance into clinical clerkship is a challenging and intimidating transition. Given the gap between the goals of the preclinical curriculum and the practical skills necessary to begin patient care, this transition presents a challenge unique to this stage of training. In order to facilitate this new phase of training, we created a resident-led pilot initiative focused on developing the areas often under-represented in the preclinical curriculum. These topics included documentation, medical communication, and applied clinical reasoning.
+
+# SETTING AND PARTICIPANTS:
+
+This longitudinal program was run as a combination of large and small-group sessions over the course of the academic year. 96 second-year medical students participated in our first session.
+
+# DESCRIPTION:
+
+Our pilot session involved an interactive case focused on the process of an initial patient assessment and admission. Students completed a pre-survey regarding their confidence in different clinical domains. Students rated their confidence in performing several skills on a scale from 1 (not confident at all) to 5 (very confident). After the session, students completed a similar post-session survey re-assessing their confidence in the taught skills.
+
+# EVALUATION:
+
+The pre-program survey, completed by 68 students, demonstrated that students had low perceived confidence in several critical skills. In particular, students reported the lowest scores in admitting an inpatient (1.73/5), creating a management plan (1.95/5), and assessing patients in the Emergency Department (2.09/5). After the session, 25 students responded to the post-session survey. 100% of these students reported the session was helpful or very helpful. 96% felt more comfortable documenting an inpatient consultation, 84% felt more comfortable performing an admission, and 96% reported an improvement in their confidence in beginning clerkship.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our study indicates that pre-clerkship students have low confidence in performing several of the critical skills needed in clinical practice. Our program was designed to surmount these gaps through practical, small-group sessions focused on the development of these key competencies. This pilot session demonstrated an improvement in students' confidence in performing and documenting inpatient admissions, as well as allaying fears regarding the transition to clerkship. Further quantitative and qualitative data will be collected throughout future sessions as we continue to shape and refine this preparatory program for clinical practice.
+
+# THE HOOFBEATS / COREIM SERIES: PODCASTING AS A PROMISING MEDIUM TO EXPLORE THE LANGUAGE OF CLINICAL PROBLEM-SOLVING.
+
+John I. Hwang4, 1; Shira A. Sachs5; Amy Ou3; Shreya P. Trivedi4; Martin Fried6; Neil Shapiro2, 4; Cindy Fang4. 1Bellevue Hospital Center, New York, NY; 2Dept. Of Veterans Affairs, New York, NY; 3NYU School of Medicine, New York, NY; 4New York University, New York, NY; 5Weill Cornell Medicine, New York, NY; 6Ohio State University Wexner Medical Center, Columbus, OH. (Control ID #3183711)
+
+# NEEDS AND OBJECTIVES:
+
+Superior clinical reasoning is a hallmark of the expert clinician. However, to a passive listener at a traditional case conference, the process by which this expert arrives at a diagnosis may not be obvious. Discussion often focuses on medical knowledge, rather than on the methods the expert uses to reach a conclusion. Experts vary in their ability to describe how they approach a case, and it is debatable whether narratives produced in this manner are in fact reliable representations of their mental processes. Teaching clinical reasoning can thus be challenging even for experienced faculty. In response, we designed a podcast series using actual cases to explore the conscious and unconscious habits and strategies used by physicians. Our intention was to immerse listeners in the language of clinical problem solving in an accessible and interactive way.
+
+# SETTING AND PARTICIPANTS:
+
+Hoofbeats is one of several series that comprise the CoreIM podcast. It is targeted at trainees and medical professionals across all specialties within internal medicine.

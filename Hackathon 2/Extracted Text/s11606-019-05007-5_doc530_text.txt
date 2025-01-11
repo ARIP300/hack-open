@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CASE REPORT
+
+Cellular with erythroid hyperplasia and megakaryocytes. BT, CT, PT, APTT, d-dimer levels were normal. There was unconjugated hyperbilirubinemia with normal transaminases. Direct antiglobulin (Coomb's) test was positive {3+}. Anti-nuclear antibody (ANA) study was positive (2+, diffuse homogenous pattern) with a tire of 1:320, positive dsDNA (2+) with a titer of 95.0 IU/ml which was suggestive of SLE. Coagulation profile was positive for lupus anticoagulant (LA) and anti-cardiolipin antibodies. She was given three units of whole blood on two consecutive days after admission and eight units of platelets during the hospital stay. She was also started on the treatment of SLE with methylprednisolone 1 gm/day as an infusion for 3 days by intravenous route and was started on tablet prednisolone 1mg/kg from the fourth day onwards. Twelve days after hospitalization, she was discharged in a relatively improved condition with a hemoglobin of 9.1 gm/dl and platelet count of 1.52 x 103 /μl on a daily dose of 1mg/kg of oral prednisolone.
+
+# IMPACT/DISCUSSION
+
+ES was previously considered as a combination of ITP and IHA and /or autoimmune neutropenia in absence of any underlying cause. However, recently the spectrum of illness has broadened to include other systemic diseases, aptly called secondary Evan's syndrome. Though case reports of secondary ES have been reported in literature it is extremely rare to have a patient of SLE presenting as ES. The classical presenting clinical features of SLE like musculoskeletal, constitutional, mucocutaneous, renal and neurologic manifestations were absent with our case making the diagnosis difficult.
+
+# CONCLUSION
+
+Our study highlights the need for awareness of the rare entity of secondary ES. A high index of suspicion should be kept by primary care physicians, gynecologists in cases having thrombocytopenia and evidence of hemolysis to look for any underlying secondary etiologies in order to avert a misdiagnosis with attendant consequences in treatment and prognosis.
+
+# SECONDARY HYPERTENSION: AN ESSENTIAL DIAGNOSIS
+
+Samantha J. Allen; Elena Lebduska. University of Colorado, Denver, CO. (Control ID #3184683)
+
+# LEARNING OBJECTIVE #1
+
+Perform an appropriate workup for newly diagnosed chronic kidney disease
+
+# LEARNING OBJECTIVE #2
+
+Consider a diagnosis of autosomal dominant polycystic kidney disease in patients without a textbook presentation
+
+# CASE
+
+A 58-year-old man presented to his new PCP to establish care. He had recently visited a health fair and was told his blood pressure was high. He had not seen a doctor for ten years and had no complaints. He denied any past medical history and was not on any medications, including NSAIDs. He was a current ten pack-year smoker but denied alcohol and drug use. He worked as a landscaper. His mother had lung cancer and his father had COPD; both were heavy smokers. Physical exam was notable for blood pressure 144/94 and BMI 27; exam was otherwise normal. Labs were notable for serum creatinine 2.7 (GFR approximately 30) and hemoglobin of 13.3 with MCV 92; lipid panel was normal. Urinalysis showed moderate protein; spot urine protein:creatinine was 0.2. EKG was normal. He underwent renal ultrasound, which showed normal bladder and polycystic kidneys, and MRI, with findings consistent with autosomal dominant polycystic kidney disease (ADPKD).
+
+# IMPACT/DISCUSSION
+
+Initial workup to evaluate for target organ damage, screen for a limited number of causes of secondary hypertension, and assess cardiovascular risk is indicated at the time of diagnosis of hypertension. This should include serum chemistry, urinalysis, lipid panel, and EKG. A finding of elevated serum creatinine should prompt urinalysis with microscopy as well as serum and urine electrolytes. Renal ultrasound should be considered to assess size, morphology, and symmetry, and rule out obstruction. In this case, obstruction was considered likely given the patient's age-associated risk of BPH. Obstruction was ruled out with ultrasound, and a surprising and important diagnosis was made. Classically, a diagnosis of ADPKD is made in a patient with a positive family history and is heralded by flank pain and palpable kidneys on exam. However, up to 25% of patients with the disease have a negative family history, and the majority of patients are asymptomatic. ADPKD is the cause of less than 1% of cases of secondary hypertension. Conversely, hypertension is the most common clinical manifestation of ADPKD and is often present before renal impairment. Blood pressure management is key in slowing the decline of renal function in ADPKD.
+
+# CONCLUSION
+
+All patients should undergo a basic workup at the time of diagnosis of hypertension for risk stratification and screening for secondary hypertension. Renal disease is one of the most common causes of secondary hypertension and should be evaluated with serum and urine labs and ultrasound to assess for obstruction and evaluate kidney size and morphology. ADPKD is often asymptomatic and up to 25% of patients have a negative family history. Early and effective blood pressure control is key to slowing the decline of renal function in ADPKD.
+
+# SEEING THE POSSIBILITIES: DIAGNOSTIC UNCERTAINTY IN BILATERAL OPTIC NEURITIS
+
+Grace L. Lisius1; Andrea Carter. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3167499)
+
+# LEARNING OBJECTIVE #1
+
+Describe the typical history, physical exam, and fundoscopic findings of optic neuritis (ON)
+
+# LEARNING OBJECTIVE #2
+
+Identify atypical ON findings that should prompt workup for systemic inflammatory and infectious causes
+
+# CASE
+
+A 38-year-old healthy male photographer presented to clinic with worsening vision. He had a 1-week history of left eye pain with extraocular movements, 4 days of left peripheral vision distortion with flashes and floaters, and 1 day of diffusely grayed-out left vision. He also had a frontal headache, most severe on awakening, and recent exposure to cats. Exam revealed normal right visual acuity, decreased left visual acuity to finger-counting at 2 feet, and a left afferent pupil defect. Fundoscopic exam revealed bilateral (left greater than right) swelling of the optic nerve. He was admitted. A brain MRI showed bilateral (left greater than right) optic neuropathy without signs of increased intracranial pressure, mass, ischemia, or white matter lesions. Lumbar puncture had normal opening pressure with negative viral and multiple sclerosis (MS) panels. Serologies revealed reactive toxoplasmosis IgM and non-reactive IgG; other infectious and inflammatory markers were negative. Differential diagnosis included primary ON versus ocular toxoplasmosis, and he was treated empirically for both with high dose intravenous corticosteroids and a 6 week course of trimethoprim-sulfamethoxazole, respectively, with complete resolution of headache and vision changes at his 1 month follow up appointment.
+
+# IMPACT/DISCUSSION
+
+ON is an acute inflammatory demyelinating injury to the optic nerve and should be suspected in patients with unilateral painful eye movements and hours-to-days progressive vision loss, classically in a central scotoma. Exam always reveals an afferent pupillary defect on the Swinging Flashlight test, with slower pupil constriction when light is shone in the affected eye if the other eye is unaffected. Fundoscopic exam may reveal papillitis with optic nerve swelling. Intravenous corticosteroids speed the visual recovery in ON and reduce the 2-year risk of developing MS. Bilateral ON or signs of infection are atypical, and should prompt evaluation of systemic inflammatory and infectious causes. An acute ocular toxoplasmosis infection, considered here due to a reactive IgM with a non-reactive IgG, was less likely responsible given his lack of chorioretinitis or posterior uveitis.

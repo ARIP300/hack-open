@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# 1. Atrial Fibrillation and Oral Anticoagulation Utilization
+
+University of Rochester Medical Center, Rochester, NY; University of Colorado Skaggs School of Pharmacy and Pharmaceutical Sciences, Aurora, CO; University of Colorado, Denver, CO. (Control ID #3179221)
+
+# BACKGROUND:
+
+Atrial fibrillation (a-fib) is associated with significant morbidity and mortality, particularly due to stroke risk. Oral anticoagulation (OAC) has been shown to reduce the risk of stroke and mortality in patients with a-fib. However, the use of OAC remains underutilized, as nearly 40% of eligible patients are not on OAC. Little has been published characterizing OAC utilization in the highest risk groups, particularly in underserved populations. The objective of this evaluation is to assess utilization of OAC among patients with a-fib in a safety net health system and characterize the highest risk groups to identify trends that may help improve anticoagulation guideline adherence.
+
+# METHODS:
+
+ICD-9 codes were used to identify patients with a-fib and at least one visit with a primary care provider from July 2012 through June 2014. CHA2DS2VASc and HAS-BLED scores were calculated using ICD-9 codes, medication lists, recent vital signs and demographics. High risk patients were defined as CHA2DS2-VASc score > 2. Among patients at the highest risk of stroke, clinical characteristics of those not on OAC were compared to those who were on OAC in a cross sectional design.
+
+# RESULTS:
+
+A total of 867 patients with a-fib were identified, a large proportion of whom were at high risk for stroke with a CHA2DS2VASc score > 2 (85% of total a-fib population). Of this high-risk group, 35% of patients were not on OAC. When comparing the high-risk groups based on OAC status, there was no significant difference between the two groups based on many baseline characteristics including age, race, gender, renal function or liver function. In addition, average HAS-BLED scores were similar between the two groups. High-risk patients who were not on OAC were less likely to have heart failure and more likely to be prescribed an anti-platelet agent (both p<0.05). There were a significantly greater proportion of patients with a CHA2DS2VASc score of 2 not on OAC. However, no significant difference was seen in OAC status between CHA2DS2VASc scores for those with higher scores (CHA2DS2VASc > 3).
+
+# CONCLUSIONS:
+
+Despite high-risk status, over one-third of these patients were not on OAC. Patients not receiving OAC were more likely to be prescribed an anti-platelet agent and less likely to have heart failure, but bleeding risk as assessed by the HAS-BLED score was not associated with OAC status. More patients with CHA2DS2VASc scores of 2 were not anti-coagulated, which may be due to patients recently entering that risk category, either by age or other comorbidities, and not having their risk re-evaluated. There may be unmeasured factors that explain why these patients were not on OAC, which could guide future interventions to help improve guideline adherence.
+
+# 2. CHARACTERIZING INPATIENT ADMISSIONS FOR NATIVE AMERICANS CARED FOR OUTSIDE THE INDIAN HEALTH SERVICE
+
+Joshua N. Wadlin1; Matthew Tobey2; Scott Wright3. Johns Hopkins School of Medicine, Baltimore, MD; Massachusetts General Hospital, Boston, MA; jhusom, Baltimore, MD. (Control ID #3179541)
+
+# BACKGROUND:
+
+Native Americans (NAs) in the US experience substantial health disparities such as the highest prevalence of type 2 diabetes of any racial or ethnic group and a lower life expectancy than the general population. Out of estimated 5.2 million NAs in the US, 3.7 million qualify for Indian Health Service (IHS) benefits, but only 2.2 million receive care from IHS. The IHS periodically publishes data on health trends which helps to identify areas of need and targets for future interventions. These data do not include NAs who do not receive care at the IHS. The remaining millions of NAs represent a cohort whose healthcare data are poorly understood. We sought to describe reasons for admissions and related outcomes for NAs compared to whites in the US.
+
+# METHODS:
+
+We used data from the 2014 National Inpatient Sample (NIS), a representative sample of hospital discharges across the US which excludes episodes of care at federal hospitals including IHS. We conducted a descriptive analysis, exploring the most common diagnoses for inpatient admission for NAs and compared differences in outcomes for NAs with those of whites. We identified the 10 most common reasons for adult, non-obstetric admissions for NAs, stratified by age (adults 18 to 64 and 65 or older), and compared these to results for whites, exploring differences in reasons for admission. We then evaluated the outcomes of in-hospital mortality, length of stay (LOS), and hospital charges for admissions with one of the 10 most common diagnoses for NA. We compared outcomes between NAs and whites using univariate regression for LOS and charges and chi-squared tests for mortality, each stratified by age group.
+
+# RESULTS:
+
+The most common diagnoses for NAs <65 were septicemia, alcohol-related, complication of diabetes, mood disorder, and skin/soft tissue infection. The most common diagnoses for 65 and older were septicemia, pneumonia, CHF, osteoarthritis, and COPD. In an unadjusted model for those <65 with one of the top 10 diagnoses, compared to whites (n=1,704,805), NAs (n=20,124) had a higher mortality (2.33% v 1.59%, p<0.001), a longer mean LOS (5.25 v 5.03 days, p=0.01), and lower mean total charges $40,416 v $43,032, p=0.007. For those 65 or older, mortality was not significantly different between NAs (n=9,768) and whites (n=1,836,672), but NAs had a longer mean LOS (5.21 v 4.89 days, p<0.001) and lower mean total charges ($45,357 v $48,792, p=0.002).
+
+# CONCLUSIONS:
+
+This analysis identified the top reasons for adult, non-OB admission among NAs receiving care outside the IHS. It also identified differences in outcomes for NAs compared to whites with the same primary diagnosis. Because length of stay is a critical driver of hospital charges, it is noteworthy that NAs had longer LOS yet lower charges. The higher mortality for NA adults <65 suggests a particularly vulnerable population. Poor access to care and other social determinants of health may explain some of these variations, but more research is needed to understand these differences.
+
+# 3. CHARACTERIZING TRENDS IN PRIMARY CARE VISITS USING NAMCS 2007-2015
+
+Aarti Rao1; Zhuo Shi2; Kristin N. Ray3; Ateev Mehrotra2, 5; Ishani Ganguli4. Icahn School of Medicine, New York, NY; Harvard Medical School, Boston, MA; University of Pittsburgh, Pittsburgh, PA; Brigham and Women's Hospital, Chestnut Hill, MA; Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3162916)
+
+# BACKGROUND:
+
+Supporting primary care has been a focus of policy reforms in the United States. However, recent evidence suggests a decline in primary care visits per capita. We examined factors underlying the decline and in particular, the role of changing physician practice.
+
+# METHODS:
+
+Using 2007-2015 National Ambulatory Medical Survey (NAMCS) data, we examined visits to a primary care physician (PCP) (i.e. internal medicine, family practice, or pediatrics) by patients 18 years old. We calculated visits per capita by dividing number of visits by annual US Census estimates for each population subgroup and used rolling averages to minimize yearly fluctuations (e.g. 2008 estimate included 2007-2009 data). We estimated visit rates stratified by patient demographic groups. We examined visit duration and the number of diagnoses and medications addressed per visit. We also examined visit disposition and the percentage of PCPs using email consults. For each outcome, we used ordinary least-squares regression to estimate linear time trends and assessed statistical significance at p<0.05. Analyses were performed using Stata version 14.1.
+
+# RESULTS:
+
+Our weighted sample represented 2.2 billion PCP visits. Over 9 years, visit rates declined by 18.9 visits per 100 patient years (-0.04 per year; 95% CI -0.05,-0.02) with similar declines across sex and age groups.

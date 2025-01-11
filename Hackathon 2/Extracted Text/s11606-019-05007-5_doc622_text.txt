@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION)
+
+Opioid prescribing will be compared between two major time periods: before and after initiation of the pain committee. We will assess total dispensed morphine milligram equivalents (MMEs) per month and average dispensed MMEs per chronic pain patient per month; we will stratify data based on buprenorphine prescribing. We will also determine the number of pain consults placed per month. PEG scores will be collected for all chronic pain patients, and their scores will be assessed before and after completion of the pain consultation. We will collect qualitative data by surveying providers about the implementation of the pain committee.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED)
+
+Since initiation of the pain committee in October 2018, total dispensed MMEs/month has been stable while total dispensed MMEs/month excluding buprenorphine has decreased. We do not currently have data to report on patient and provider endpoints.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?)
+
+This framework for improving the safety and quality of chronic pain management is applicable to other clinical sites in rural and non-rural settings and can be implemented with minimal support staff.
+
+# EFFECTS OF A COMMUNITY BASED COLLABORATIVE DIABETES CONTROL AND PREVENTION PROGRAM FOR LOW-INCOME OVERWEIGHT AND OBESE PATIENTS IN A SUBURBAN POPULATION- A PILOT STUDY
+
+Claudia L. Campos1; Deepak Palakshappa4; Carolyn F. Pedley5; Feben Girma3; James L. Wofford6; Kirsten Feiereisel7, 1; Constance Poe8; Melanie Martin2. 1Wake Forest University, Winston-Salem, NC; 2Wake Forest, Greensboro, NC; 3Wake Forest Baptist Medical Center, Winston-Salem, NC; 4Wake Forest School of Medicine, WINSTON SALEM, NC; 5Wake Forest, Winston-Salem, NC; 6Wake Forest School of Medicine, Winston-Salem, NC; 7Wake Forest University School of Medicine, Winston-Salem, NC; 8YWCA, Winston Salem, NC. (Control ID #3159774)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE)
+
+With the growing obesity crisis in the US, more adults develop diabetes and its complications. Community organizations and health care systems have begun collaborating to reduce diabetes development and improve glucose control. Linking patients' at higher risk of developing diabetes with community evidence-based behavioral weight loss interventions modeled after the National Diabetes Prevention Program (DPP) have been successful in decreasing glucose levels and weight in randomized clinical trials settings.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES)
+
+Given this context, the goal of this study was to evaluate the effects of a DPP based program offered by the Winston Salem, NC YWCA, for low income, obese patients with diabetes or pre-diabetes.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS)
+
+The YWCA enrolled participants from September 2016 through January 2018. Participants were eligible if they had a hemoglobin A1c (HbA1c) 5.7 and a Body Mass Index (BMI) 25. They also had to be English speaking and either have Medicaid insurance or income under 200% of the Federal Poverty level. A primary care physician from a preselected academic medicine or community practices referred participants to the YWCA program. The program included the following key features: 1) individual case managers or "lifestyle coaches;" 2) frequent contact with participants; 3) a structured, state-of-the-art, 16-session core-curriculum that taught behavioral self-management strategies for weight loss and physical activity; 4) supervised physical activity sessions; 5) a more flexible maintenance intervention, combining group and individual approaches.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION)
+
+Primary outcomes were change at 9 months in Mean BMI, HbA1c, and health scores (HRA) as well as percentages of participants who lowered their BMI and HbA1c after the intervention.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED)
+
+As of October 2018, 39 patients completed 9 months or more of the program intervention. Participant characteristics on enrollment were as follows: Race majority AA (36/39), graduated high school (28/39), Mean age 59.5 years (range 46-78), HbA1c 7.8 (range 5.7- 13.4), BMI 41.2 (range 27.3-75), HRA score 56 (range 39-75). At 9 months, participants' Mean Hb A1c decreased to 6.7 (-1.1, p<0.001) and Mean BMI to 40.3 (-0.9, p= 0.007). 67% (26/39) and 82% (32/39) participants achieved reductions in BMI and in Hb A1c respectively. Mean HRA increased to 61 (+5, p= 0.009).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?)
+
+After 9 months of participation, the glucose lowering and health score improvement effect of the collaborative YWCA program for low-income obese patients with prediabetes or diabetes was significant. Its effect on BMI was smaller and not statistically significant. The majority of participants lost weight and lowered their glucose levels. The findings suggest that achieving blood glucose and weight reduction in a real world setting parallel those achieved in the research settings.
+
+# EMERGENCY DEPARTMENT USE AMONG PATIENTS WITH MENTAL HEALTH CHIEF COMPLAINTS
+
+Ana Sofia Warner1; Trina Chang2, 1; Jason H. Wasfy1; Dellara Terry2. 1Massachusetts General Hospital, Boston, MA; 2Partners HealthCare, Boston, MA. (Control ID #3185791)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE)
+
+Can we identify characteristics of frequent emergency department (ED) visitors with mental health comorbidities in order to improve population health-based mental health initiatives and reduce emergency department utilization?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES)
+
+1. Identify patients who frequently visit the ED who have one or more mental health chief complaints associated with an ED visit during a defined time period. 2. Identify characteristics associated with frequent ED visits, such as insurance status, and enrollment in a care management program. 3. Use this data to inform existing mental health initiatives to improve ambulatory care and reduce ED utilization.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS)
+
+Partners Population Health (PHM) is responsible for population health initiatives that span the Partners HealthCare System (PHS) network, including a high-risk care management program and mental health initiatives. Using clinical and claims data, PHM identifies frequent visitors as patients who have 2 or more inpatient and/or emergency department visits in a 11 month period, and uses this data to assess for utilization trends and opportunities for care improvement.

@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Inclusion Criteria
+
+Inclusion criteria includes 2 or more inpatient hospitalizations within a six-month period or 3 or more emergency room visits in a six-month period. Various community stakeholders are invited to participate in patient discussion including home health agencies, hemodialysis center representatives and behavioral health representatives. During discussion, interventions are stratified to various members of the interdisciplinary team.
+
+# Measures of Success
+
+Number of individualized care plans created and qualitative evaluation of the effectiveness of interdisciplinary rounds for patients in a 12-week period. 30-day hospital readmissions following creation of care plan in interdisciplinary rounds.
+
+# Findings to Date
+
+75 patients were discussed in 12 conference sessions with creation of 75 individual care plans. Patients discussed were evaluated for subsequent interventions in care coordination tasked to appropriate team members. 61.3% of patients required RN clinical follow-up, 54.7% of patients required CCC intervention, 32% of patients required PSR administrative intervention, 12% of patients required social work intervention and 8% of patients required hemodialysis coordination intervention. 36% of patients discussed were readmitted within 30 days of discussion.
+
+# Key Lessons for Dissemination
+
+Chronic care management for high utilizer patient population requires the input of interdisciplinary team in order to address the social determinants of health that impact chronic underlying diseases. Interdisciplinary review of high need-high cost patient populations identifies both clinical and non-clinical interventions to chronic disease management to address social determinants of health, symptom control and subspecialty care.
+
+# Low-Barrier Initiation of Buprenorphine for Treatment of Opiate Use Disorder at Homeless Encampments: Meeting People Where They Are At
+
+Michael Incze 1; Soraya Azari 2; Deborah Borne 3; Rebecca Pfeifer-Rosenblum 3. 1University of California, San Francisco, San Francisco, CA; 2University of California, San Francisco, San Francisco, CA; 3San Francisco Department of Public Health, San Francisco, CA. (Control ID #3160049)
+
+# Statement of Problem or Question
+
+Though access to medication assisted treatment for opioid use disorder is widely available in San Francisco, barriers such as transportation, stigma and lack of social supports prevent a significant number of high risk individuals from receiving treatment.
+
+# Objectives of Program/Intervention
+
+Our intervention was to offer low-barrier, same-day initiation of medication assisted treatment (MAT) with buprenorphine-naloxone with prompt connection to care at monthly pop-up health fairs located at a rotating group of homeless encampments in San Francisco.
+
+# Description of Program/Intervention
+
+A multidisciplinary group of health care providers and community non-profits organize monthly health fairs at a rotating group of homeless encampments around San Francisco. Participants were routinely screened by medical providers for opioid use disorder and assessed for readiness to start MAT. For those who desired to start treatment with buprenorphine-naloxone, California's state PDMP was checked onsite using mobile devices, and a 2-3 day prescription was called in at the prescribing provider's discretion to a partnering pharmacy with expertise in harm reduction and MAT. No utox was required for the initial prescription. Follow up was arranged at one of three local walk-in treatment centers based on proximity and patient preference. The state PDMP and the SFDPH electronic health record were used to monitor follow-up.
+
+# Measures of Success
+
+Our primary measure was the percentage of patients who filled a prescription and attended at least one follow up visit. Secondary measures included the percentage of patients who remained in treatment at six months, the total buprenorphine-naloxone prescriptions at each event, and qualitative feedback from trainees.
+
+# Findings to Date
+
+After 12 months, 23* people received new prescriptions for buprenorphine-naloxone on-site, of which 37% attended at least one follow-up visit. 14% were still in treatment at six months. 45% of patients prescribed buprenorphine-naloxone never picked up a prescription or had a documented follow up visit in the electronic health record. The total number of buprenorphine-naloxone prescriptions at each event has increased. Qualitative feedback from trainees was positive. *Please note that we have new data for the past six months that will be incorporated into the presentation, with a total number of bupe starts now at ~60.
+
+# Key Lessons for Dissemination
+
+Low-barrier, on-site initiation of MAT of opiate use disorder was effective in connecting a substantial number of people from a marginalized and hard-to-reach population with a high prevalence of opiate use disorder to treatment. As San Francisco invests in resources to address the opiate epidemic, street-based outreach will remain an important mode of connecting with people who inject drugs that may not utilize existing infrastructure for accessing treatment because of stigma and significant psychosocial barriers. Next steps include improving attendance at follow up visits and retention in treatment by developing more intensive patient navigation resources at future events.
+
+# Making Primary Care Neighborhood Care
+
+Elizabeth Jacobs 2, 1; William M. Tierney 2, 1; Brandon Allport 1, 2; Alexandra Garcia 2, 1. 1University of Texas at Austin, Austin, TX; 2Dell Medical School, University of Texas at Austin, Carmel, IN. (Control ID #3181837)
+
+# Statement of Problem or Question
+
+Primary care providers increasingly recognize that zip-code is a more important determinant of health than a person's genetic code.
+
+# Objectives of Program/Intervention
+
+1) To understand and address the medical and social determinants of health in a geographic neighborhood in Austin, TX. 2) To develop an innovative primary care delivery program that addresses the medical and social needs of patients.
+
+# Description of Program/Intervention
+
+We have developed and are in the early stages of implementing Dell Med School's Neighborhood Health Initiative. Its 3 main components are: (1) a partnership with a Federally Qualified Health Center; (2) partnerships with community-based organizations in our target neighborhood; and (3) the household level health needs assessments (HoLA). Using data from HoLA and our community and FQHC partner, we have developed a plan to connect families to primary care and social services to address barriers to health identified by residents.

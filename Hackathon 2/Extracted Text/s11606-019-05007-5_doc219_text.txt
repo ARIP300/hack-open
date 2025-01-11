@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+Medicaid/CHIP-enrolled children are at risk of being disenrolled due to public charge rule changes. 4.8 million of these children are "in need of medical care". Consistent with other data showing that immigrant families tend to be relatively healthy, children at risk of being disenrolled are somewhat healthier than other Medicaid/CHIP-enrolled children; they are less likely to have medical conditions (48.7 vs. 62.8%, p < 0.0001), to be disabled (6.6 vs. 16.8 %, p < 0.0001) or to have used care in the past year (40.5 vs. 50.8%, p < 0.0001). Our models predict that between 0.7 and 1.7 million children in "need of medical care" will likely be disenrolled from Medicaid/CHIP if the new public charge rules are implemented.
+
+# CONCLUSIONS:
+
+The proposed public charge rules may cause many children "in need of medical care" to be disenrolled from Medicaid/CHIP. The loss of insurance coverage could harm these children and contribute to future disability.
+
+# PRECISION MEDICINE IN PRIMARY CARE: AN EVALUATION OF INTEGRATION OF PERSONALIZED DATA AND SERVICES INTO PRIMARY CARE TO REACH HEALTH EQUITY
+
+Nadia Safaeinili 1; Cati Brown-Johnson 2; Lisa Goldman Rosas 3; Latha Palaniappan 1; Marcy Winget 4; Megan Mahoney 3. 1 Stanford University, Stanford, CA; 2 Stanford School of Medicine, Stanford, CA; 3 Stanford University, Palo Alto, CA; 4 Stanford University Medical School, Stanford, CA. (Control ID #3185585)
+
+# BACKGROUND:
+
+Precision medicine takes into account the complex interplay between genes, environment, and lifestyle by leveraging clinical, self-reported, genetic, and behavioral data to offer targeted approaches to prevention and treatment. Patient and provider attitudes toward implementation in primary care, however, are unknown.
+
+# METHODS:
+
+Primary care patients were enrolled in a precision health pilot and offered digital health (remote blood pressure, glucose, and weight monitoring with electronic health record integration), health coaching, pharmacogenetic, and genetic testing components. To evaluate the pilot, we summarized patient demographics, health status, and health outcomes using means and frequencies. Semi-structured interviews were conducted with patients and providers at baseline (n=18 and 7, respectively) and 6 months (n=9 and 6, respectively).
+
+# RESULTS:
+
+Of 67 patients invited to participate, 48 enrolled (72%). Patients were diverse (4% Black, 27% Asian, 19% Latino); female (67%); and with complex health needs (58% cardiovascular (CV) risk, mean body mass index (BMI) 31 kg/m2). Patients reported mixed clinical benefit from precision health, though most felt participation supported their health goals and impacted their health and healthcare. Patient suggestions for improvement included fewer in-person clinical visits and the ability to select resources based on individual motivators. Providers reported that precision health resources were valuable, especially for complex patients, but sometimes resulted in misplaced emphasis on novelty rather than basics. The complexity of some resources also presented barriers, e.g., lengthy genetics test results and management of extensive digital health data. Interviewees identified three barriers to dissemination of precision health in primary care to address health disparities. First, the lack of racial/ethnic minority representation in genomics databases was perceived to reduce impact for those groups. Second, patients would need significant financial resources to participate outside a pilot, potentially exacerbating disparities for patients from low-income backgrounds. Third, providers struggled to incorporate precision medicine components into their workflow; these struggles may be magnified in safety net settings with fewer resources. Overall, precision health was appealing to patients and providers. Workflow integration, however, slowed initial pilot adoption. Both providers and patients felt precision health would be difficult to scale due to cost and uncertain processes for data utilization.
+
+# CONCLUSIONS:
+
+Introducing precision health into a diverse primary care clinic was acceptable to all stakeholders and did not surface many concerns related to race/ethnicity. Furthermore, nearly half of the pilot's patients experienced a clinically-relevant finding that changed their treatment plan. Barriers and facilitators surfaced here should be addressed in future precision health interventions.
+
+# PREDICTING FUTURE DISPARITIES FOR BLACK AND WHITE US ADULTS LIVING WITH TYPE 2 DIABETES
+
+Abena Appah-Sampong; Neda Laiteerapong. University of Chicago, Chicago, IL. (Control ID #3179193)
+
+# BACKGROUND:
+
+Historically, Black patients living with Type 2 diabetes have had a higher risk for diabetes complications compared to White patients. However, control of individualized glycemic targets, blood pressure, and lipid levels have improved in the U.S. for patients living with Type 2 diabetes over the past decade. Therefore, we compared projected disparities in lifetime diabetes outcomes between two cohorts of Black and White US adults living with Type 2 diabetes.
+
+# METHODS:
+
+Survey Population: Non-Hispanic Black (NHB) and Non-Hispanic White (NHW) adults with self-reported diabetes diagnosed at <18 years old included in NHANES 2003-2004 (NHB: n=97; NHW: n=183) and in NHANES 2013-2014 (NHB: n=164; NHW: n=224). Simulation model: The U.S. Type 2 Diabetes Policy Model (UST2D-PM) is a validated, Monte Carlo-based Markov model. The model utilizes individual patient-level information to forecast diabetes complications and risk of diabetes-related mortality. Outcomes: Lifetime risk of foot ulcer, blindness, renal failure, amputation, myocardial infarction, ischemic heart disease, and stroke; remaining life expectancy, by cohort year and race/ethnicity (NHB and NHW). Statistical Analysis: A multiple imputation procedure was utilized to address missing data. Model outcomes were weighted using NHANES survey weights. Results were compared by cohort year and by racial/ethnic subgroup using regression models.
+
+# RESULTS:
+
+There were not significant improvements in projected lifetime rates of diabetes outcomes overall or between racial subgroups between the 2003 and 2013 cohorts. The projected lifetime rate of amputation for the overall cohort was higher for the 2013 cohort compared to the 2003 cohort (6.2% vs. 5.5%, p=0.02), which reflected a higher projected lifetime rate of amputation for the 2013 NHW cohort vs the 2003 NHW cohort (6.2% vs. 5.3%, p=.01). Also, the projected lifetime rate of renal failure was higher for the 2013 cohort than the 2003 cohort (8.0% vs 5.7%, p =.04), which was driven by a 60.6% higher event rate for 2013 NHBs (9.3%) compared to 2003 NHBs (3.7%, p=.01). This result was due to a longer average duration of diabetes in the 2013 NHB cohort compared to the 2003 NHB cohort (9.4 vs. 12.3 years, p=.03).
+
+# CONCLUSIONS:
+
+Despite large scale efforts to reduce diabetes health disparities, our study suggests that racial disparities in the rates of complications from diabetes progression may not decline in the future. Greater efforts to ensure that patients achieve guideline-recommended risk factor control and targeted efforts to improve control in non-Hispanic Black patients are necessary to reduce future disparities in diabetes outcomes.
+
+# PREDICTING LONG-TERM HEALTHCARE SPENDING THROUGH LONGITUDINAL MODELING IN MEDICARE PATIENTS
+
+Julie Lauffenburger; Mufaddal Mahersi; Niteesh K. Choudhry. Brigham and Women's Hospital, Harvard Medical School, Boston, MA. (Control ID #3185020)
+
+# BACKGROUND:
+
+Current approaches to predicting healthcare costs

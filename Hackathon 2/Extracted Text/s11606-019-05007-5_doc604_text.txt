@@ -1,0 +1,45 @@
+# JGIM
+
+# ABSTRACTS
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Our measures of success thus far include: 1) types of needs addressed; and 2) uptake of referrals to community organizations to address identified needs.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In the 1-month pilot period, 51 hypertensive patients were eligible for referral to United Way 2-1-1 and 25 (49%) consented to a referral. The two main reasons identified for lack of referral were patient refusal and inconsistencies among staff offering the referrals. Of the 25 referred, 15 patients were reached by the 2-1-1 navigation specialist, 4 patients were still being contacted, and 6 were unreachable. Reached patients reported 67 total needs which fell into 11 distinct categories according to the national 2-1-1 taxonomy: food/meals (n=11 patients), health care (n=11), recreation (n=9), utility assistance (n=4), housing (n=2), individual, family, and community support (n=2), income assistance (n=2), information services (n=1), transportation (n=1), clothing/personal/household needs (n=1), and volunteers/donations (n=1). The median number of needs per patient was 4 (range 1-8). A total of 124 referrals to community resources were provided to patients by the navigation specialist to address identified needs, with an average of 8 referrals (SD 4) per patient. Of the 5 patients with follow-up to date, each had either one need resolved or a resolution in progress. These preliminary findings will be updated in May; we anticipate a sample of at least 100 patients, with more extensive follow-up data.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Patients reported an extensive set of needs with the majority related to food insecurity, health education, physical fitness opportunities, and utility assistance. Successful strategies such as electronic referrals to a national United Way 2-1-1 service could be a model which is scaled up across the U.S. to better address social determinants of health.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Three audit feedback reports have been distributed to date. Survey data was collected at two time points, 2017 (n=77) and 2018 (n=81), to assess provider attitude changes and integration of feedback into clinical practice. Measures included change in team knowledge and attitudes towards SDoH, and response to/documentation of presented SDoH (measured via post-visit checklist and EMR).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Preliminary data shows no change or improvement in documentation of SDoH and limited variation between firm-level responses. (1) Only 7% of providers reported feeling strongly confident in knowing how to make referrals for social needs in 2018; no improvement since 2017. (2) Despite regular report distribution, 58% of providers reported having received no formalized feedback on responding to SDoH. 24% reported maybe or not sure. (3) 86% of 2018 survey participants self-reported having referred a patient to appropriate services when a social need was identified. Our referral data says otherwise, referrals occur for less than 30% of visits with SDoH-related needs.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Results suggest disconnect between team data and individual reporting: most report they refer but data suggests few do. Deeper integration of reports into team processes, attachment of feedback to curricula, and increased frequency of regular feedback may be needed for accountability. These preliminary results help refine audit feedback methodology but research is needed to understand motivation and systems barriers to referral and documentation. Future research will look at provider attitudes toward referral processes.
+
+# ADDRESSING SOCIAL DETERMINANTS OF HEALTH: DEVELOPING AND DELIVERING TIMELY, ACTIONABLE AUDIT FEEDBACK REPORTS TO HEALTHCARE TEAMS
+
+Harriet Fisher; Jeffrey Wilhite1; Lisa Altshuler; Kathleen Hanley; Khemraj1; Matthew Tobey; Katrina Armstrong. Massachusetts General Hospital, Boston, MA. (Control ID #3185835)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+5.2 million American Indians and Alaska Native (AIANs) live in the United States, with 3.2 million AIANs belonging to federally recognized tribes. The United States government has a trust relationship to provide healthcare to those 3.2 million AIAN individuals, who experience the lowest life expectancy at birth of any racial or ethnic group.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Develop/ disseminate quarterly audit-feedback reports on SDoH practice behavior, focusing on elicitation of patient information.
+2. Enhance our understanding of factors related to disparities in safety/ quality of care.
+3. Increase rates of SDoH documentation and referral.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We sent Unannounced Standardized Patients (USPs) with SDoH-related needs to care teams in two urban, safety-net clinics. Data collected on practice behaviors were used for cycles of audit and feedback on the quality of electronic health record (EHR) documentation, team level information sharing, and appropriate service referral. Reports contained an evolving educational component (e.g. how to recognize, refer, and document SDoH). We disseminated the region.

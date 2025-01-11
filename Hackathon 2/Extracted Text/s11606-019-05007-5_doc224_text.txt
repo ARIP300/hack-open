@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Hospitalist Project
+
+An ongoing clinical study that examines a variety of outcomes of hospitalized general internal medicine patients and includes administrative data, inpatient interviews and 30 day follow-up by phone. The PREP-RRT patient educator was an African American nephrology social worker trained in motivational interviewing techniques, CKD self-management and RRT options. During a brief in-hospital session, she assessed patients' current knowledge, focused on their current positive self-care behaviors, assessed barriers and strategies for overcoming these barriers, and then provided knowledge about RRT. Participants were assessed both pre and post-intervention about their knowledge (using Kidney Disease Knowledge Survey (KiKs), attitudes and intent (using an investigator developed instrument) about CKD self-management and RRT options.
+
+# RESULTS
+
+We recruited 46 patients over 9 months. Participants were 61% female, mean age 59.5 years. Overall half of patients (56.5%) had CKD Stage 3B, 24% had Stage 4 and 20% had Stage 5 CKD. Despite having advanced CKD, only 33.4% believed they were extremely likely or likely to have kidney failure in the next 5 years. Patient knowledge using KiKs was significantly improved from 63.3% (15.2/24) to 80.2% (19.3/24), p&lt;0.05. Participants also appeared to have increased knowledge of RRT modalities, but it reached statistical significance for peritoneal dialysis. There were no significant differences in patient reported intent to participate in CKD self-management or RRT selection.
+
+# CONCLUSIONS
+
+PREP RRT was a feasible and effective way to identify, educate and refer hospitalized minority patients with advanced CKD. Increasing patient intent for action around CKD self-care and RRT choice may require a more intensive intervention.
+
+# PRESCRIBING ASSOCIATED WITH HIGH-RISK OPIOID EXPOSURES AMONG NON-CANCER CHRONIC USERS OF OPIOID ANALGESICS IN A MEDICAID PLAN: A SOCIAL NETWORK ANALYSIS
+
+Keiki Hinami; Kruti Doshi; Maria Torres; Steven Aks; John J. Shannon; William Trick. Cook County Health, Chicago, IL. (Control ID #3184051)
+
+# BACKGROUND
+
+The continued rise in fatalities from opioid analgesics despite a steady decline in the number of individual prescriptions directing 90 morphine milligram equivalents (MME)/day may be explained by patient exposures to redundant prescriptions from multiple prescribers. We evaluated prescribers' specialty and social network characteristics associated with high-risk opioid exposures resulting from single-prescriber high-daily dose prescriptions or multi-prescriber discoordination.
+
+# METHODS
+
+We conducted a retrospective cohort study of prescribers with opioid analgesic prescription claims for non-cancer chronic opioid users in an Illinois Medicaid managed care program in 2015-16. We used social network analysis methods to construct a prescriber-beneficiary bimodal sociogram where an opioid analgesic prescription claim represented a tie. Owing to the network's cored structure, we assigned k-core levels to each prescriber; k-core is defined as the subset of the network involving prescriber nodes connected to at least k beneficiary nodes. We used negative bionomial regression to assess sociometric position and prescriber specialty as risk factors for single-prescriber high-daily-dose prescriptions or multi-prescriber discoordinated prescriptions.
+
+# RESULTS
+
+For 2280 beneficiaries, 36,798 opioid prescription claims were submitted by 3532 prescribers. Compared to 3% of prescriptions (involving 6% of prescribers and 7% of beneficiaries) that directed 90 MME/day, discoordination accounted for a greater share of high-risk exposures - 13% of prescriptions (involving 23% of prescribers and 24% of beneficiaries). The following specialties were at highest risk of discoordinated prescribing compared to internal medicine: dental [Incident Rate Ratio (95% Confidence Interval): 5.9 (4.6, 7.5)], emergency medicine [4.7 (3.8, 5.8)], and surgical subspecialties [4.2 (3.0, 5.8)]. Social network analysis identified 2 small inter-connected prescriber communities of high-volume pain management specialists, and 3 sparsely connected groups of predominantly low-volume primary care or emergency medicine clinicians. In multivariate models, we found that the sparsely connected sociometric positions were a risk factor for high-risk exposures.
+
+# CONCLUSIONS
+
+Low-volume prescribers in the social network's periphery were at greater risk of intended or discoordinated prescribing than interconnected high-volume prescribers. Interventions addressing discoordination among low-volume opioid prescribers in non-integrated practices should be a priority. Demands for enhanced functionality and integration of Prescription Drug Monitoring Programs or referrals to specialized multidisciplinary pain management centers are potential policy implications.
+
+# PRESCRIPTION OPIOID USE INCREASES ODDS OF OBSTRUCTIVE SLEEP APNEA
+
+Kevin Chen1, 2; David A. Fiellin1; Henry Yaggi1; Lori A. Bastian2. 1Yale University School of Medicine, New Haven, CT; 2VA Connecticut Healthcare System, West Haven, CT. (Control ID #3176031)
+
+# BACKGROUND
+
+Prescription opioids can complicate obstructive sleep apnea (OSA) due to their ability to disrupt sleep architecture, induce central apneas, worsen upper airway obstruction, and deepen arousal thresholds. While continuous positive airway pressure (CPAP) is a standard treatment for OSA, it may not be optimal for opioid-related central apneas. Understanding patterns of prescription opioid use, OSA, and CPAP use may impact OSA screening and treatment in patients prescribed opioids. We sought to determine the association between prescription opioids, OSA, and CPAP use.
+
+# METHODS
+
+Using the Women Veterans Cohort, we identified female and male veterans of recent wars who were prescribed opioids and the prevalence of OSA and CPAP, assessed by International Classification of Disease-9 and Current Procedural Terminology codes. Demographics and comorbidities were compared for patients across opioid prescription categories (none, acute, chronic—defined as being prescribed 90 annual opioid days). Bivariate and multiple logistic regression were used to test for associations between opioid prescription category, OSA, and CPAP. Known risk factors for OSA, including age, sex, obesity, smoking status, race, psychiatric disease, pain intensity (numeric rating scale: none=0, mild=1-3, moderate=4-6, severe=7-10), pulmonary disease, heart failure, stroke, traumatic brain injury, and substance use were controlled for.
+
+# RESULTS
+
+A total of 1,149,874 veterans were assessed for inclusion. The mean age was 38.0 ± 9.6 (SD) years. 136,754 had any opioid prescription, and 29,034 (2.5%) had chronic opioid prescriptions. 115,379 (10.0%) veterans had a diagnosis of OSA, of which 41,033 (35.6%) received CPAP. Compared to veterans without opioid prescriptions, those with opioid prescriptions were more likely to be older, female (13.1% v 12.2%), obese, current or former smokers, have moderate or severe pain intensity, and have psychiatric and medical comorbidities (p&lt;0.01 for all comparisons). Both acute (unadjusted OR 3.49 [95% CI 3.43, 3.54], aOR 1.82 [1.79, 1.86]) and chronic (OR 4.75 [4.62, 4.87], aOR 1.91 [1.85, 1.97]) opioid prescriptions were associated with increased odds of having OSA compared to people who did not have opioid prescriptions. People who had opioid prescriptions also had higher odds of CPAP compared to those without (acute: OR 1.15 [1.11, 1.18], aOR 1.08 [1.05, 1.12]; chronic: OR 1.30 [1.24, 1.36], aOR 1.16 [1.10, 1.22]).
+
+# CONCLUSIONS
+
+As patients prescribed opioids are more likely to have OSA, clinicians should screen for sleep-disordered breathing in individuals being prescribed opioids chronically. And, since opioid use is associated with CPAP, the efficacy of CPAP in opioid-related sleep apneas should be further studied.
+
+# PRESENCE: PHYSICIAN AND NON-PHYSICIAN INSIGHTS ABOUT THE ART OF HUMAN CONNECTION IN CLINICAL ENCOUNTERS
+
+Cati Brown-Johnson; Rachel Schwartz; Amrapali Maitra2; Marie C.21 Haverfield3; Aaron A. Tierney4; Jonathan G. Shaw2; Dani L. Zionts2; Nadia Safaeinili; Sonoo Thadaney5; Abraham Verghese; Donna M.5

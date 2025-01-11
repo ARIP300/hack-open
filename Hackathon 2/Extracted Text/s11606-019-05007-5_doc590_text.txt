@@ -1,0 +1,65 @@
+# JGIM
+
+# ABSTRACTS
+
+all patients needing triple therapy consisting of high dose prednisone and two immunosuppressive agents. When recognized and treated, most patients have good outcomes.
+
+# CONCLUSION:
+
+While inflammatory myopathies are rare, with SINAM having an incidence of 2 out of 100,000 persons on statins, given the large prevalence of statin use, the importance of early recognition and appropriate management of this debilitating condition cannot be under emphasized.
+
+# WHEN THE CULTURES DON'T GROW, YOU NEED TB THINKING
+
+Noah Chodos1; Zachary Merritt1; Luke Andrea1; Nikita Agrawal1; Amit R. Patel2 1Montefiore Medical Center (Moses & Weiler), New York, NY; 2Montefiore Medical Center, New York, NY. (Control ID #3185554)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the work-up of sterile pyuria and when to consider genitourinary tuberculosis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the incidence of TB in a non-immigrant population
+
+# CASE:
+
+A 69 year-old man was admitted with 4 months of persistent dysuria after receiving several courses of outpatient antibiotic therapy for a presumed UTI. Serial urinalyses showed sterile pyuria with leukocyte esterase. One month prior to admission, a CT revealed inflammation in his left kidney, ureter, and bladder, and Urology placed a JJ stent which drained purulent urine with negative bacterial culture and no malignant cells. The patient was born and lived in the U.S. and had a recently negative QuantiFERON Gold. Urology was consulted and recommended routine outpatient follow-up. Finally, the team submitted urine for acid fast evaluation which was positive for 1+ AFB on fluorochrome stain. Repeat serum QuantiFERON was positive, and a confirmatory GeneXpert of the patient's urine was positive for Mycobacterium tuberculosis. He was started on appropriate therapy.
+
+# IMPACT/DISCUSSION:
+
+This patient had a classic presentation of genitourinary tuberculosis despite lacking typical TB risk factors. Extrapulmonary TB is often neglected as a diagnosis in non-immigrant, non-immunocompromised patients without known TB exposure. However, of 9,557 total cases of TB reported in 2015 (most recent CDC data), 3,186 (33%) were in U.S.-born persons. 1,933 (20%) of the total TB cases were extrapulmonary, of which 91 were genitourinary. Of note, on further history this patient's only possible risk factor for TB was a brief period of homelessness many years ago. Other causes in the differential diagnosis for sterile pyuria include many of the common sexually transmitted infections (HSV-2, HPV, gonorrhea, chlamydia, syphilis, mycoplasma, trichomoniasis), urinary stones, interstitial cystitis, and bladder neoplasm. When none of these more readily detectable causes are uncovered, TB and fungal infections should be considered, particularly if systemic symptoms are present. This particular patient actually had 6 months of failure to thrive and a new anemia, making TB a more likely suspect. While urine AFB specificity is high, sensitivity is low for both stain (28.5%) and culture (37.1%). There is a more sensitive, alternative test that is not readily available at many U.S. centers. The GeneXpert has a sensitivity of 94.3% and a specificity of 96.7% for GU TB and can check for TB DNA in multiple fluid types in less than 2 hours, making it a fast and effective test for ruling out active TB.
+
+# CONCLUSION:
+
+Persistent dysuria or "recurrent UTI" should prompt additional diagnostic consideration beyond bacterial infection. TB should be considered in individuals with classic presentations even if typical risk factors are lacking. The highly sensitive GeneXpert deserves more use and understanding in the U.S. as a more rapid and appropriate method of ruling out active TB.
+
+# WHEN THE CURE IS WORSE THAN THE DISEASE
+
+Jasmine Corona; Louisa Holaday. Montefiore Medical Center, Bronx, NY. (Control ID #3184555)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize amiodarone-induced pulmonary toxicity
+
+# LEARNING OBJECTIVE #2:
+
+Monitor for evidence of early pulmonary toxicity in patients on amiodarone
+
+# CASE:
+
+A 61 year old man with heart failure with reduced ejection fraction with a history of ventricular tachycardia managed with an AICD and amiodarone presented with two weeks of progressive cough with clear sputum and decreased exercise tolerance. Temp 101.7F with oxygen saturation of 83% with stable BP and HR. Fine crackles noted in all lung fields, with no notable JVD and trace edema to ankles. WBC was 10.8 k/uL, pro-BNP was elevated but at patient's baseline. Chest xray (CXR) demonstrated bilateral opacities interpreted as multifocal pneumonia. He was treated initially as viral pneumonia versus superimposed bacterial pneumonia, however he did not improve. CT chest was consistent with diffuse pneumonitis and possible amiodarone toxicity, so amiodarone was stopped and systemic corticosteroids begun. However, despite treatment, his respiratory status worsened and he succumbed to the disease. He had not had a CXR or pulmonary function tests (PFTs) in the outpatient setting in more than one year.
+
+# IMPACT/DISCUSSION:
+
+Heart failure exacerbation and pneumonia are common diagnoses treated by general internists. Amiodarone pulmonary toxicity (APT) has many features common to these diagnoses, and thus is easily misdiagnosed. In 2016, there were nearly 3 million prescriptions written for amiodarone in the United States. The cumulative incidence of APT is estimated at about 5%. It is thus likely that a general internist will encounter APT during their career. However the risk is correlated with daily dosage and cumulative dosage. For those on 400mg or greater incidence is estimated at up to 15%, while it is only 1.5% in patients taking less than 400 mg. The mortality for APT is 10%, but for patients with acute APT who develop ARDS it is as high as 50%. The typical presentation of APT is subacute (weeks-months) progressive shortness of breath associated with nonproductive cough, malaise, with or without fever and pleuritic chest pain and hypoxia. It can also present rapidly as ARDS. With symptoms that may mimic heart failure or pneumonia, APT is easy to overlook. APT is most likely to occur in patients with advanced age, high cumulative dose, dosage of more than 400 mg daily, duration of therapy exceeding two months and prior pulmonary disease. Given the severity of illness and challenge of diagnosis, it is most important to monitor for evidence of APT in advance and stop the drug when indicated. Current guidelines recommend baseline PFTs prior to starting the drug and clinical evaluation, chest x-ray, and PFTs every 3-6 months. Additionally, any new respiratory symptoms should lead to urgent clinical evaluation, CXR, and PFTs.
+
+# CONCLUSION:
+
+Patients on amiodarone should be monitored closely in the outpatient setting for any signs or symptoms of pulmonary toxicity, and APT should be on the differential for any patient presenting with pulmonary symptoms who is taking amiodarone.
+
+# WHEN TRUSTING YOUR GUT GOES WRONG: HOW TO AVOID CLINICAL BIASES
+
+Caitlin D. Couper; Edwin Chen; Emad M. Kahlil. UPMC, Pittsburgh, PA. (Control ID #3180876)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical reasoning biases that can often occur with commonly seen admissions

@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Recognize social determinants of health and cognitive bias in clinical assessment
+
+# LEARNING OBJECTIVE #2:
+
+Recognize frailty as a risk factor for complications in the elderly
+
+# CASE:
+
+An 88 F fell on the bus, injuring her side and back. She had shoulder, thoracic, and abdominal pain, but didn't seek care until 5 weeks later when CXR and rib xrays were negative. 1 week later, she was seen urgently for pain worse with inspiration. Exam was non-focal. She was sent to pain clinic where she got depomedrol in T8-10 intercostals. Labs later showed: AST 683, ALT 691, Alk Phos 227. The next day, she again walked to the office. She had a homemade cardboard clock to remember her APAP dosing: 1000mg q 8. She reported living alone and being independent, but that climbing to her 4th-floor walk-up was hard. She had severe pain between her shoulders and in the RUQ, especially with inspiration. Vital signs were normal. She was disheveled and had RUQ tenderness with +Murphy's sign. She was sent to the ED where APAP level = 0, ALT 1586, AST 1298, Alk phos 242, INR 1.2. RUQ US was normal. Work-up showed +Hep A IgM. It was elicited that due to her fixed income she often ate spoiled food from a dumpster. In her 10-day hospitalization, transaminases rose to the 4000s, her INR peaked at 1.4, and she had severe hyponatremia.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the need to: think about structural reasons for illness, examine biases, and listen carefully. We anchored on the patient's MSK injury and didn't consider structural causes for illness: housing, food, or income. A helpful framework is the structural differential, which "delineates the social, political, and economic factors that may be influencing a patient's health and health care and facilitates responses to the modifiable factors" (Seymour, Griffin et al. 2018). She also lived alone with no social supports. Our rising epidemic of loneliness is increasingly viewed as a health issue, especially in the elderly (Holmen and Furukawa 2002). Addressing loneliness is complex and warrants collective attention. Physicians are not neutral. There were several biases in her care: she was a retired nurse so we assumed high health literacy and financial stability. Her career and diligent cardboard clock, meant we did not formally assess her cognition. There were further clues: she was disheveled. Her constant reassurance about her independence may have been a cry for help. Why did she fall on the bus and sustain such severe injury or mention the stairs to her apartment? This should have clued us into her frailty, which is intimately tied to health outcomes in the elderly (Woo, Goggins et al. 2005).
+
+# CONCLUSION:
+
+Physician writer Victoria Sweet calls for slowing down the clinical process (2017). This gives doctors time to contextualize a patient and to be systematic. Our case shows the need to look beyond tests. We need to listen to the history and lookout for unspoken signs of distress. We need to slow down.
+
+# CASE:
+
+initiated 2 months ago, he continued to develop active lesions. After admission he developed oozing from IV sites and maroon-colored stools. Past medical history included coronary artery disease, hypertension, type II diabetes, and hemorrhoids. No pertinent family or social history. Medications were prednisone and prophylactic lovenox. Physical exam was significant for oozing from IV sites, blood on rectal exam, and blistering and ulceration over the torso, extremities, and oral mucosa but sparing genitals. Labs revealed a prolonged PTT which did not correct with mixing study, low factor VIII activity, and elevated Bethesda titer. Anticardiolipin IgM, anticardiolipin IgG, anti-2-glycoprotein IgM, and anti-2-glycoprotein IgG, HIV, hepatitis A, B, and C, and testing for multiple myeloma were negative. Dilute Russell Viper Venom Time ratio was normal. He was diagnosed with acquired hemophilia A (AHA). Prednisone was continued. IVIG and rituximab were started for cotreatment of BP and AHA. He experienced improvement of both skin lesions and bleeding diathesis. Following discharge, he required readmission for staphylococcus epidermidis septic arthritis of the elbow, which was complicated by traumatic tap requiring recombinant Factor VIIa.
+
+# IMPACT/DISCUSSION:
+
+BP is an autoimmune blistering skin disease driven by autoantibodies against the hemidesmosomes predominantly affecting the elderly. Steroids are first line treatment. IVIG and rituximab benefit patients who fail steroid monotherapy. AHA incidence also increases with age and is associated with an underlying condition in 50% of cases, the largest being autoimmune diseases. Treatment consists of prednisone and sometimes cyclophosphamide. Although the combination is superior to prednisone alone in inhibitor eradication and disease specific survival, there is no improvement in overall survival. Rituximab is a suggested second line therapy. There is mixed evidence to support IVIG. This case illustrates the typical patient population affected by AHA: an older individual with an autoimmune condition. Co-occurrence of BP and AHA have been described in the literature. BP typically presents prior to or simultaneously with AHA. There are no guidelines for cotreatment. This case provides a successful example of cotreatment and summarizes treatment modalities used in other co-occurring cases of AHA and BP including steroid monotherapy, rituximab, cyclophosphamide, and azathioprine.
+
+# CONCLUSION:
+
+AHA incidence increases with age and is associated with autoimmune conditions. Treatment of AHA typically consist of steroids and cyclophosphamide. When cotreating BP and AHA consider the addition of IVIG and rituximab.
+
+# TREATMENT RESISTANT HELICOBACTER PYLORI: AN INFECTION THAT PROVES DIFFICULT TO STOMACH.
+
+Erica Bass. UCSF, San Francisco, CA. (Control ID #3184984)
+
+# TREATMENT OF ACQUIRED FACTOR VIII INHIBITOR IN THE SETTING OF BULLOUS PEMPHIGOID
+
+Meredith Ventura1; Bernard Danna; Sara Taveras Alam1, 1; Perumal1 Thiagarajan1, 1; Gustavo Rivero1, 1; Sarvari Yellapragada2, 1; Madhuri Vasudevan1, 1. 1Baylor College of Medicine, Houston, TX; 2Michael E Debakey VA Medical Center and Dan L Duncan Cancer Center, Baylor College of Medicine, Houston, TX. (Control ID #3175632)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and diagnose acquired hemophilia.
+
+# LEARNING OBJECTIVE #2:
+
+Treat acquired hemophilia in the setting of bullous pemphigoid.
+
+# CASE:
+
+A 68-year-old man with bullous pemphigoid (BP) presented to the hospital for ongoing skin blistering and ulceration. Although prednisone was initiated 2 months ago, he continued to develop active lesions. After admission he developed oozing from IV sites and maroon-colored stools. Past medical history included coronary artery disease, hypertension, type II diabetes, and hemorrhoids. No pertinent family or social history. Medications were prednisone and prophylactic lovenox. Physical exam was significant for oozing from IV sites, blood on rectal exam, and blistering and ulceration over the torso, extremities, and oral mucosa but sparing genitals. Labs revealed a prolonged PTT which did not correct with mixing study, low factor VIII activity, and elevated Bethesda titer. Anticardiolipin IgM, anticardiolipin IgG, anti-2-glycoprotein IgM, and anti-2-glycoprotein IgG, HIV, hepatitis A, B, and C, and testing for multiple myeloma were negative. Dilute Russell Viper Venom Time ratio was normal. He was diagnosed with acquired hemophilia A (AHA). Prednisone was continued. IVIG and rituximab were started for cotreatment of BP and AHA. He experienced improvement of both skin lesions and bleeding diathesis. Following discharge, he required readmission for staphylococcus epidermidis septic arthritis of the elbow, which was complicated by traumatic tap requiring recombinant Factor VIIa.
+
+# IMPACT/DISCUSSION:
+
+BP is an autoimmune blistering skin disease driven by autoantibodies against the hemidesmosomes predominantly affecting the elderly. Steroids are first line treatment. IVIG and rituximab benefit patients who fail steroid monotherapy. AHA incidence also increases with age and is associated with an underlying condition in 50% of cases, the largest being autoimmune diseases. Treatment consists of prednisone and sometimes cyclophosphamide. Although the combination is superior to prednisone alone in inhibitor eradication and disease specific survival, there is no improvement in overall survival. Rituximab is a suggested second line therapy. There is mixed evidence to support IVIG. This case illustrates the typical patient population affected by AHA: an older individual with an autoimmune condition. Co-occurrence of BP and AHA have been described in the literature. BP typically presents prior to or simultaneously with AHA. There are no guidelines for cotreatment. This case provides a successful example of cotreatment and summarizes treatment modalities used in other co-occurring cases of AHA and BP including steroid monotherapy, rituximab, cyclophosphamide, and azathioprine.
+
+# CONCLUSION:
+
+AHA incidence increases with age and is associated with autoimmune conditions. Treatment of AHA typically consist of steroids and cyclophosphamide. When cotreating BP and AHA consider the addition of IVIG and rituximab.

@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+new approaches to enhance provider engagement with CDS tools. New strategies for reducing the persistently high rates of inappropriate antibiotic prescribing for acute respiratory infections are needed. Novel approaches in future studies are necessary for reducing barriers to CDS tools in order to increase use and engagement.
+
+# IMPACT OF COGNITION ON ILLNESS BELIEFS IN BREAST CANCER
+
+Kimberly A. Muellers1; Karisma Pantaleon1; Yael T. Harris2; Mita S. Goel3; Jenny J. Lin1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Northwell Health, Great Neck, NY; 3Northwestern University, Chicago, IL. (Control ID #3185328)
+
+# BACKGROUND:
+
+Older breast cancer (BC) survivors with diabetes (DM) are at higher risk for cognitive dysfunction as age, DM and cancer treatment are independently associated with worse cognitive function. Cognitive dysfunction may also affect survivors' beliefs about both cancer and comorbid illness, with consequences for disease management. We undertook this study to assess the relationship between cognitive function and beliefs about DM and BC among older BC survivors.
+
+# METHODS:
+
+We enrolled women >55 years with pre-existing DM who had completed first line chemotherapy or are taking hormone therapy for early-stage (I-IIIA) BC diagnosed in the past 5 years. Cognitive function was measured using the Weschler Memory Scale Logical Memory test to assess working memory and delayed recall and the Weschler Adult Intelligence Scale-IV Similarities test to assess executive function. Poor cognition was defined as scoring <1 standard deviation below the mean. Beliefs about DM and BC were assessed using the Illness Beliefs Questionnaire-Revised. DM medications beliefs were assessed using the Beliefs about Medications Questionnaire. Univariate analyses compared differences in cognition by age, race, ethnicity, education, income, and English ability. Mann-Whitney U tests were used to analyze associations between cognition and illness and medication beliefs.
+
+# RESULTS:
+
+To date, we have enrolled 51 BC survivors. Mean age was 66.5 years; 29% were White, 31% were Black, 8% were Asian, and 18% were Hispanic. Survivors who identified as Asian or "other" race were more likely to have worse working memory (p=0.013) and delayed recall (p=0.042), and those who were Hispanic (p=0.009), had # CONCLUSIONS:
+
+BC survivors with poor working memory and executive function tend to perceive both BC and DM as unpredictable and recurrent and as having more emotional impact. Poor cognition was also associated with other negative beliefs about DM but not BC. Memory and executive function are important for managing medication regimens and other aspects of both DM and BC care; however, DM self-management may pose a higher cognitive load than BC. Understanding the impact of illness beliefs on self-management behaviors will be important for the design of interventions to improve care of survivors with comorbidities.
+
+# IMPACT OF FREMANEZUMAB ON HEADACHE-RELATED DISABILITY AND QUALITY OF LIFE IN PATIENTS WITH MIGRAINE
+
+Richard B. Lipton1; Sanjay K. Gandhi2; Joshua M. Cohen2; Ronghua Yang2; Melissa Grozinski-Wolff2; Xiaoping Ning2; Sissy Easo-Joseph2; Carolina Burgos-Vega2. 1Albert Einstein College of Medicine, Bronx, NY; 2Teva Pharmaceuticals, Frazer, PA. (Control ID #3185595)
+
+# BACKGROUND:
+
+Migraine is commonly seen in primary care settings and is the second-leading cause of years lived with disability worldwide. Migraine negatively affects patients' quality of life (QoL), has a broader impact on the family, and is a financial burden on society. Patients with chronic migraine (CM) have 15 headache days/month, 8 of which are migraine days. Patients with episodic migraine (EM) have <15 headache days/month. Preventive migraine treatment is recommended in patients with 4 headache days/month with some impairment. Fremanezumab is a fully humanized monoclonal antibody (IgG2 a) that selectively targets calcitonin gene-related peptide (CGRP) and has been shown in clinical trials to reduce the frequency, severity, and duration of headaches in patients with CM; it is approved for the preventive treatment of migraine in adults. This analysis assessed the impact of fremanezumab on headache-related disability and QoL in patients with migraine.
+
+# METHODS:
+
+HALO CM and HALO EM were concurrent, multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase 3 studies evaluating the efficacy and safety of fremanezumab for the preventive treatment of migraine. Adults with CM or EM, confirmed during a 28-day pre-treatment period, were randomized to receive either subcutaneous fremanezumab quarterly (675 mg at baseline and placebo at Weeks 4 and 8), fremanezumab monthly (CM: 675 mg at baseline, and 225 mg at Weeks 4 and 8; EM: 225 mg at baseline and Weeks 4 and 8), or placebo over a 12-week period. Headache-related disability was assessed via the six-item Headache Impact Test (HIT-6; score range 36-78) in CM and the Migraine Disability Assessment (MIDAS) questionnaire (score range 0-270) in EM, with higher scores for either indicating greater disability. The Migraine-Specific Quality of Life (MSQoL) was used to assess how migraine affect daily functioning across three domains (range: 0-100; higher scores indicate better QoL): role function-restrictive (RFR), activity limits; role function-preventive (RFP), activity prevention; emotional function (EF), associated emotions.
+
+# RESULTS:
+
+In HALO CM, fremanezumab significantly reduced HIT-6 scores from baseline (quarterly [least-squares mean change]: -6.4; monthly: -6.8; both P<0.001) compared with placebo (-4.5) and significantly improved MSQoL RFR (quarterly: 20.7; monthly: 21.5; both P<0.0001 vs placebo: 14.7), RFP (quarterly: 16.8; monthly: 16.5; both P<0.001 vs placebo: 12.2), and EF (quarterly: 21.1; monthly: 20.9; both P<0.05 vs placebo: 17.0). In HALO EM, fremanezumab significantly reduced MIDAS scores from baseline (quarterly: -23.0; monthly: -24.6; both P<0.01) compared with placebo (-17.5). Significant improvements were seen in MSQoL RFR (quarterly: 20.6; monthly: 23.6; both P<0.01 vs placebo: 16.5), RFP (quarterly: 17.4; monthly: 18.9; both P<0.001 vs placebo: 13.8), and EF (quarterly: 21.8; monthly: 24.6, P<0.0001 vs placebo: 19.2).
+
+# CONCLUSIONS:
+
+Fremanezumab improved disability and QoL in patients with migraine.
+
+# IMPACT OF HIGH-DEDUCTIBLE HEALTH PLANS ON HIGH-ACUITY CARE AMONG PEOPLE WITH BIPOLAR DISORDER
+
+James F. Wharam2; Alisa Busch3; Jeanne Madden4; Fang Zhang2; Robert F. LeCates2; Phyllis Foxworth1; Jamie Wallace; Stephen B. Soumerai2;2 Dennis Ross-Degnan2; Christine Lu2. 1Depression and Bipolar Support Alliance, Chicago, IL; 2Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, MA; 3Harvard Medical School and McLean Hospital, Boston, MA; 4Northeastern University, Boston, MA. (Control ID #3184516)
+
+# BACKGROUND:
+
+High-deductible health plans (HDHP) have recently become the predominant commercial health insurance product in the US. People with serious mental illness may be especially vulnerable to adverse outcomes under HDHPs but effects on high-acuity care among such populations are unknown.

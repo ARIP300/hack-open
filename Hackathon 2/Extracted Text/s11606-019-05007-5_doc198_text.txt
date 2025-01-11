@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+private insurance were more likely (23.3%, CI 22.0-24.6) than those with Medicaid (8.9%, CI 8.0-9.8) and Medicare (14.7%, CI 14.1-15.3) to use MyChart. Whites were more likely (43.1%, CI 41.5-44.9) than African-Americans (23.3%, CI 22.0-24.6), Asians (40.7%, CI 38.3-43.2), and patients of other ethnicities (25.3%, CI 23.3-27.3) to use MyChart.
+
+# CONCLUSIONS:
+
+Several vulnerable populations were less likely to use patient portals. Disparities in patient portal use may lead to significant differences in patient knowledge about their health and increased healthcare disparities in the future. In addition, patient portals contribute a large amount of work for physicians. Addressing the uncompensated work of patient portals is imperative such that primary care providers can provide high quality patient-centered care without increasing burnout.
+
+# OPIOID GUIDELINE ADHERENCE AND DOSE REDUCTION IN A RESIDENT SPECIALTY CLINIC FOR PATIENTS WITH CHRONIC PAIN
+
+Laila Khalid1; Serena Roth1; Gianni Carrozzi2; Chenshu Zhang1; Aaron Burkenroad4; Joanna L. Starrels3. 1Montefiore Medical Center, Bronx, NY; 2montefiore medical center, Bronx, NY; 3Albert Einstein College of Medicine & Montefiore Medical Center, Bronx, NY; 4ucla, Los Angeles, CA. (Control ID #3185612)
+
+# BACKGROUND:
+
+In response to the challenges of providing guideline-adherent care to patients with chronic pain, the Power Over Pain (POP) Clinic was developed to address the dual aims of training internal medicine residents about judicious opioid prescribing and providing guideline-adherent care for patients on chronic opioid therapy (COT). Objective: To determine whether being seen in POP Clinic was associated with receipt of guideline adherent care and opioid dose reduction after 6 months.
+
+# METHODS:
+
+We conducted a retrospective study in an urban internal medicine teaching practice in Bronx, NY. Eligible patients were seen in POP Clinic at least once between 9/1/16 and 4/1/18 and were on COT (3 opioid prescriptions in past 6 months). Using manual chart review of electronic medical records and prescription drug monitoring program (PMP) data, outcomes assessed at the first POP visit (baseline) and 6 months included four measures of guideline adherence: 1) controlled substance agreement in the past year, 2) urine drug test in the past year, 3) PMP review at last opioid prescription, and 4) dispensing of naloxone; and opioid dose (total prescribed opioid dose in morphine-equivalent daily dose [MEDD]). We used McNemar tests and paired t-tests to compare guideline adherence and opioid dose at 6 months compared to baseline.
+
+# RESULTS:
+
+Of 79 eligible patients, 67% were female, mean age was 59 years, 57% were Hispanic, 63% had back pain, mean PEG score was 7/10 (moderately severe pain), and 39% had multiple visits to POP Clinic (range 1-6). At baseline, median opioid dose was 70 MEDD (range 2-495). From baseline to 6 months, guideline adherence increased significantly for having a controlled substance agreement, urine drug test, and naloxone; and mean opioid dose was reduced by from 70.3 to 55.1 MEDD (Table). There was no significant change in PMP review, which was high (79%) at baseline.
+
+# CONCLUSIONS:
+
+For patients with chronic pain on COT seen in a resident clinic specialty session, guideline adherence increased and opioid dose decreased within 6 months. Further study is needed to assess how guideline adherence and dose reduction are associated with patient-level outcomes such as pain, function, and quality of life.
+
+# OPIOID OVERDOSES BEFORE AND AFTER PRESCRIPTION POLICY REFORM IN NORTHERN NEW ENGLAND
+
+Timothy B. Plante1; Insu Koh1; Kathleen Fairfield2; Andrea Villanti1; Valerie S. Harder3. 1Larner College of Medicine at the University of Vermont, Burlington, VT; 2Maine Medical Center, Portland, ME; 3University of Vermont, Burlington, VT. (Control ID #3186410)
+
+# BACKGROUND:
+
+The opioid epidemic has disproportionately affected adults living in rural states. Northern New England states legislated comprehensive policies aiming to limit opioid overprescribing habits among primary care providers. Whether these reforms reduced overdoses among a primary care population is unknown. We sought to compare the incidence rates of opioid overdose events among primary care patients before and after opioid reform policies in Northern New England.
+
+# METHODS:
+
+We included structured electronic medical record data from 70,267 adults receiving primary care at University of Vermont Medical Center (UVMMC)-affiliated practices between January 1, 2016 and June 30, 2018 who were aged 18 years during follow-up. Vermont's opioid reform policies were implemented on July 1, 2017. As anticipatory UVMMC policy changes preceded the enactment of the law, we considered the 6 months leading up to the law to represent the implementation of the policy and censored events in this time from the present analysis. We categorized time as pre-reform (January 1, 2016 - December 31, 2016; 12 months) and post-reform (July 1, 2017 - June 30, 2018; 12 months). We used ICD-9 and -10 codes to identify overdose events among inpatient and outpatient visits. We used Poisson regression to calculate the incidence rate ratios (IRR) to compare between time periods, adjusting for age, sex, race, and rurality status.
+
+# RESULTS:
+
+Among participants in the cohort (mean [SD] age 52 [19] years, 56% female, 92% white, 13% rural), there were 176 overdose events; 108 occurred in the pre-reform and 68 in the post-reform eras. In comparison with the pre-reform era, the adjusted IRR for post-reform was 0.62 (0.46, 0.85; P=0.002).
+
+# CONCLUSIONS:
+
+Among primary care patients at an academic health network in Northern New England, implementation of comprehensive policy reforms aiming to curb the overprescription of opiates was associated with a reduced incidence of opioid overdose. Whether a similar pattern is observed among patients without primary care providers requires further analysis.
+
+# OPIOID PRESCRIBING - UMASS INTERNAL MEDICINE PRIMARY CARE: ASSESSMENT OF BASELINE PRESCRIBING PATTERNS AND PROVIDER NEEDS.
+
+JEEVARATHNA SUBRAMANIAN MD, JASON SHAFFER MS2, SHERI A KEITZ MD, PHD, GERTRUDE MANCHESTER MD, PHOEBE CUSHMAN MD, MS.
+
+Jeevarathna Subramanian. UMass Memorial medical Center, Shrewsbury, MA. (Control ID #3185664)
+
+# BACKGROUND:
+
+Central Massachusetts is one of the epicenters of the opioid crisis, Worcester County seeing an increase in opioid overdose deaths from 68 in 2000 to 226 in 2016. In 2017 Worcester was the only county in Massachusetts not to see a decrease in opioid overdose deaths. UMass Memorial Medical Center (UMMMC) is in the process of developing a standard approach for adherence to CDC guidelines on chronic

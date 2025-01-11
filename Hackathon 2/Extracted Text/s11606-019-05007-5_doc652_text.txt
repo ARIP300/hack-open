@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We will assess success by (1) establishment of trusting, productive relationships with our FQHC, community partners and neighborhood residents; (2) increasing numbers of neighborhood residents engaged with primary care; (3) number of residents with whom the community health worker has established a relationship and the number of referrals to services they have made; and (4) the well-being and health of residents served.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+To date we have established successful community partnerships and a clinical partnership in the neighborhood, including co-hiring a medicine-pediatrics physician. We collected data from over 100 diverse households: 64% identified as Latino and 25% Black, 55% self-reported as immigrant, and most were uninsured (23%), received Medicaid (21%), or covered by a gap coverage provided by the local Health District (33%). Only 65% were engaged with primary care and 23% did not access any medical services in the past year. Residents faced a number of challenges: A third had difficulty meeting expenses every month, 42% worried about not having enough food, almost 20% said their health was diminished by concerns about immigration and deportation, 10% were affected by racism and discrimination, and 10% by crime, grief, and violence. Top requests for services were for dental services (32%), vision care, mental health, assistance with paying for medications, accessing health care, and housing (about 25% each), and legal services (10%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Thinking outside the box to improve the health of a community requires addressing both social and medical needs, partnering with community social and medical service providers, and listening to and being open to residents' needs. All of this takes time and a willingness to partner across sectors and organizational cultures.
+
+# MEDICAL ASSISTANT PROFESSIONALISM PROGRAM BRINGS EDUCATION, TRAINING, COMMUNITY AND CAREER SATISFACTION TO AN INDISPENSABLE WORKFORCE IN PRIMARY CARE
+
+Rachel Haft1; Karen Victor1; Meredith Hobson1; Beth A. Lown1; Andrew Curran1; John D'Angelo3; Diane Shapiro3; Valerie E. Stone2. 1Mount Auburn Hospital, Cambridge, MA; 2Mount Auburn Hosp, Harvard Medical School, Cambridge, MA; 3Mount Auburn Cambridge Independent Practitioners Association, Brighton, MA. (Control ID #3185887)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The Medical Assistant (MA) profession has entered an era of expanding competencies and expectations, yet MA education is not customized to primary care practice, standards do not exist to ensure that postgraduate education and training parallel advances in clinical care, and healthcare organizations miss an opportunity to improve MA satisfaction and retention through the dignity of educational investment and community-building among this workforce.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+We built a Medical Assistant Professionalism Program to deliver education and training of high value to our primary care MAs and to evaluate their satisfaction with the program's first year.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our 11 primary care clinics employ approximately 40 MAs. We convened focus groups to ascertain what motivated the MAs in their work, tally their self-identified strengths and ideas, and formulate a high-value curriculum. Sessions were moderated without supervisors or providers present, to promote frank discussion. We then divided our workforce into three cohorts to stagger clinic staffing and bring MAs from different clinics together for cross-fertilization. Each cohort attended four 1.5 hour classes, held at 3-month intervals. Curricula included advanced blood pressure measurement, cancer screening, EMR workflows, nuances of glucose testing, Plan-Do-Study-Act (PDSA) training for the primary care setting, and Service Excellence topics aimed at patient experience.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The majority of MAs, individually and in teams, designed and implemented PDSA projects to address issues of personal interest and reported back to their respective cohorts. Also, participants were surveyed at each session to assess satisfaction with programming and its potential impact on their work.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Several MA-designed PDSA exercises yielded positive results in primary care delivery. One project effected 20% improvement in fecal immunochemical test completion. Another PDSA reconfigured the demographic data collection process as a more patient-centric experience, elevating participation to 100%. MAs reported feeling that programming had been designed specifically with them in mind (89.5%); they considered the covered topics clinically relevant to their work (94.4%) and reported that the sessions would change how they care for patients (82.8%). They positively rated the quality of presentations on Service Excellence (94.5%) and all other topics (96.6%). This is the program's second year.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A Medical Assistant Professionalism Program offers a venue for primary care MAs to continue their medical education and build community, resulting in a high level of satisfaction for this workforce and with significant potential benefits for their contributions to primary care practice. Healthcare systems that deliver primary care services could leverage such programming to meet their obligations of MA recruitment, competency advancement, and patient and provider satisfaction. Furthermore, we believe this program can contribute to improved MA retention; data analysis is underway.
+
+# MILE HIGH PROBLEMS: IMPROVING TURNAROUND TIME FOR NEW HOME OXYGEN ORDERS
+
+Cody Dashiell-Earp; Edward Collins; Carmen L. Lewis. 1 1 2 1University of Colorado, Denver, CO; 2University of Colorado, Denver, CO. (Control ID #3184873)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Although providers and staff in our practice spent at least one hour on paperwork for every new oxygen order, the average time to fulfillment was 12.7 days, leading to poor health outcomes for patients and significant frustration.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Reduce the average time to fulfillment of an oxygen order by 50%. Reduce the amount of time spent by physicians completing paperwork for new oxygen orders. Improve patient, provider and staff satisfaction with the oxygen ordering process.

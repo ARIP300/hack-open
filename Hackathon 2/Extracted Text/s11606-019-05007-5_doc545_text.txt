@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+This case highlights the severity of the current epidemic of synthetic marijuana toxicity, and the need for rapid, reliable testing to allow for in hospital diagnosis of the inciting agent. The patient's initial symptomology and the rapid improvement of symptoms without treatment interventions in the setting of marijuana use makes synthetic marijuana as the causative agent that lead to the patient's ailments.
+
+# CONCLUSION:
+
+Synthetic marijuana has emerged as a new recreational drug that's toxicities have begun to plague hospitals across the United States. The physiologic effects of synthetic marijuana are similar to that of marijuana, but with more serious toxicities that range from neuropsychiatric disorders, cardiovascular side effects, coagulopathies, to acute tubular necrosis. In 2018 in Illinois alone over 250 cases of suspected synthetic cannabinoid toxicity documented. Synthetic marijuana does not appear on urine drug screen and there is not a quick and reliable screening test that physicians may use to diagnose this intoxication while in the hospital.
+
+# SYSTEMIC LUPUS ERYTHEMATOSUS: A PANCYTOPENIC AND PANCREATIC PRESENATION
+
+Bilawal Ahmed; Shil Shah; Omar Chaudhary; Firas Siddique; Mazhar Mustafa; Byron Okwesili. American University of Antigua, Brooklyn, NY. (Control ID #3140674)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose Systemic lupus erythematosus with pancreatitis and pancytopenia as initial presentation
+
+# CASE:
+
+15yo F presented with abdominal pain, nausea, vomiting & nonbloody diarrhea which began 4 days prior to admission; localizing to RUQ on day 2. Associated symptoms of nonbloody diarrhea & nonbloody/nonbilious vomit for 4 days. No contributory PMH or PSH. Denies any drug allergies. General physical examination revealed a fine lacy rash on all 4 extremities. Vitals T 37.9, HR 104, RR 18, BP 99/58. No guarding/rigidity & no masses/organomegaly appreciated. CBC revealed profound pancytopenia with a platelet count of 115 (150-400 x103/uL), hemoglobin 8.5 (12-15 g/dL) and white blood cell 1.5 (4.5-13 x103/uL). Lipase was 489 u/L and LDH was 2392 u/L. Other labs, including CMP, lipid panel, CRP & pregnancy test all within normal limits. Patient admitted with diagnosis of pancreatitis with pancytopenia & supportive treatment with investigative studies initiated. BM biopsy unequivocal. ID consulted. New laboratory test results indicated positive IgG & IgM antibodies to Brucella, Rickettsia, Ebstein Barr Virus & Parvovirus, complicating the diagnosis. Started on doxycycline empirically. Rheumatology consulted most likely etiology to be SLE; await Lupus Panel. ESR was 74 mm/hr, + antinuclear antibody 1/640, + antidoublestranded DNA Antibody 1/320, + anti Smith antibody, - rheumatoid factor, C3 <40mg/dL, Lipase 2784 u/L, FOBT positive. Following lab results & clinical course, the diagnosis of Systemic Lupus Erythematosus made on day 4 of admission. Steroids initiated & status observed closely. Lipase continued to rise to 8,136 u/L which prompted an MRCP showing extensive changes of pancreatitis with upper abdominal fluid, no organized collection or dilation of ducts. Also noted was extensive wall edema of the gallbladder with no filling defect. Lipase began trending down on day 2 of steroids. CBC corrected to WNL. Patient reported feeling better & continued improving.
+
+# IMPACT/DISCUSSION:
+
+Acute pancreatitis occurs in 2- 8 % of patients in the setting of an active SLE flare. The initial presentation of pancreatitis is similar to patients without SLE with an increase in lipase and LDH. The use of IV glucocorticoids or azathioprine has been shown to reduce mortality in SLE associated pancreatitis & an overall decrease in mortality from 61% to 20%. Pathogenesis of SLE leading to acute pancreatitis is not well understood but proposals have identified vascular damage arising from vasculitis & a concurrent thrombosis as a potential cause.
+
+# CONCLUSION:
+
+The case aims to facilitate diagnosticians in their evaluation of patients presenting with rare manifestations of SLE. SLE should be considered in cases of pancreatitis when common etiologies have been ruled out and symptoms are not residing despite appropriate treatment. In regards to hematologic abnormalities, SLE can cause various cytopenias as an initial presentation; pancytopenia has been reported fewer times in the literature.
+
+# TAKAYASU'S ARTERITIS PRESENTING AS VASCULITIC NEUROPATHY
+
+Anna Zemke; Shilpa Sridhar; Xiaomei Meng. The Ohio State University College of Medicine, Columbus, OH. (Control ID #3183367)
+
+# LEARNING OBJECTIVE #1:
+
+Maintain a broad differential when atrial occlusion is demonstrated on imaging, especially if hypercoagulability workup is unremarkable.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that nerve pain could be an insidious presentation of Takayasu's Arteritis, and that neuropathic pain secondary to ischemic nerve damage is possible.
+
+# CASE:
+
+A 35-year-old female with a history of carpal tunnel syndrome, recent fall, and hypertension presented to the emergency department with chest pain and left-sided neck and shoulder pain with numbness. Physical exam demonstrated asymmetric upper extremity pulses. CT was performed to rule out pulmonary embolism, but demonstrated occlusion of the left subclavian artery. CT angiography showed partial left subclavian occlusion and left brachial artery dissection. MRI confirmed these. Thrombectomy was attempted but no thrombus was retrieved. The brachial artery had extreme intimal thickening and was chronically occluded. Hypercoagulability workup was negative. Rheumatologic workup demonstrated positive dsDNA but negative ANA by IFA. Her age, gender, symptoms, and physical exam are consistent with Takayasu's Arteritis. This patient met 4 out of 6 American College of Rheumatology criteria for TA. Presence of three or more of these criteria has a sensitivity of 90.5% and specificity of 97.8% for TA. The patient was discharged with prednisone and aspirin daily.
+
+# IMPACT/DISCUSSION:
+
+This patient's symptoms of left-sided neck and shoulder pain with left upper extremity numbness can be explained by acute on chronic occlusion of large arteries. Interestingly the patient had a 4 year history of arm weakness and numbness which had been diagnosed as Carpal Tunnel Syndrome. EMG had shown median neuropathies, right ulnar neuropathy, and diminished ulnar sensory amplitudes, consistent with a length-dependent neuropathy. The patient underwent bilateral carpal tunnel release 1 year prior to presentation, but her symptoms worsened. Her progression makes her initial diagnosis doubtful. It is more likely that her symptoms are attributable to a neuropathy associated with TA. This condition has not been previously reported based on our review. Inflammation of the walls of neural and epineural arteries is the main pathophysiological feature of vasculitic neuropathy. Optic neuropathy has been shown with TA, secondary to acute ischemia of the short posterior ciliary artery. Other specific mononeuropathy has not been shown previously. Unfortunately biopsy was not obtained, but if active inflammation persists her symptoms could be improved with steroid therapy.
+
+# CONCLUSION:
+
+1. TA is a systemic large-vessel vasculitis of unknown etiology that often affects young women. Here we report a case TA confounded by peripheral neuropathy. 2. Clinicians should have heightened suspicion for TA in young patients with symptoms of limb pain, lightheadedness and unexplained falls. 3. Nerve pain in TA could be secondary to ischemic nerve damage. It is possible for neuropathy to be the initial symptom of an insidious presentation of TA.

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# ADVANCING REAL-WORLD GAINS IN EFFICACY THROUGH TECHNOLOGY AND SKILL BUILDING (TARGETS). A PILOT EVALUATION OF THE TIME2FOCUS MOBILE APPLICATION FOR DIABETES EDUCATION
+
+Alex H. Cho1, 2; Bryan Batch1; Dan V. Blalock1; Susan Spratt1; Rowena Dolor1, 2. 1Duke University School of Medicine, Durham, NC; 2Duke Primary Care Research Consortium, Durham, NC. (Control ID #3185784)
+
+# BACKGROUND:
+
+Type 2 diabetes affects 30 million Americans, and is a significant cause of morbidity and mortality. Self-management support (SMS) is an important component of chronic illness care, and a key pillar of the Chronic Care Model. Face-to-face teaching and static patient education materials can suffer from not being interactive or compatible with mobile lifestyles. Digital applications (‘apps') offer an alternative for providing SMS that is convenient, scalable and can incorporate principles of health behavior change. This pilot study tested the real-world deployment of a self-guided mobile app for diabetes education (Time2Focus), which utilizes evidence-based content and gamification to deliver an interactive learning experience across 12 levels, covering healthy eating, physical activity, and diabetes monitoring.
+
+# METHODS:
+
+Primary care providers in the southeastern US were approached for permission to invite their patients to participate. Eligible patients were 18-89 years old; had a diagnosis of Type 2 diabetes; hemoglobin A1c 8% and <12% in the past 3 months; an active online patient portal account tied to the electronic health record (EHR); and access to an iOS or Android smartphone. Interested patients were emailed a baseline survey, and once this was completed, sent instructions for downloading the Time2Focus app (MicroMass; Cary, NC). They were then invited to begin using the app, taking a week to complete each of 12 levels, but could take longer. After completing all 12 levels, participants were sent a follow-up survey. Our primary outcome was pre-/post-change in hemoglobin A1c (A1c), using values from the EHR. Secondary outcomes included users' engagement with and rating of the app. This study was approved by the Duke University Health System IRB.
+
+# RESULTS:
+
+Of 1355 potentially eligible patients screened, 780 were ineligible, 169 declined, 205 were unreachable, and 201 were consented. 117 (58.2%) participants completed <1 level, 84 (41.8%) 1 level, 26 (12.9%) completed 1-4 levels, 10 (5.0%) completed 5-11 levels, and 48 (23.9%) completed 12 levels. Those completing one or more levels had a mean pre-/post- A1c change of -0.41%, compared to -0.32% among those who did not. Unadjusted two-tailed t-test was not statistically significant (p = 0.73). Net Promoter Score (NPS) was 62.5, indicating those who completed all levels of the app rated it highly and would recommend it to others.
+
+# CONCLUSIONS:
+
+Interest in using a diabetes education app may signal readiness for improved diabetes self-management, but did not always translate into initial use. The decrease in A1c observed in app users relative to non-users during this limited pilot study was not statistically significant. However, uptake and application of lessons learned from SMS may be delayed; in addition, sample size may have been an issue. Future research is needed to address how to increase engagement in SMS and investigate if follow-up over a longer period of time demonstrates significant change in outcomes like hemoglobin A1c.
+
+# ADVERSE EVENTS EXPERIENCED BY PATIENTS HOSPITALIZED WITHOUT DEFINITE MEDICAL ACUITY: A RETROSPECTIVE COHORT STUDY
+
+Amanda Sekijima1; Cassandra Sunga1; Maralyssa Bann2. 1University of Washington School of Medicine, Woodinville, WA; 2 University of Washington-Harborview Medical Center, Seattle, WA. (Control ID #3162868)
+
+# BACKGROUND:
+
+There is evidence that physicians consider a variety of "non-medical" factors (e.g. lack of social support, barriers to access) in hospital admission decision-making out of concern for patient safety, and that patients are hospitalized even in the absence of a level of medical acuity warranting admission. The rationale underlying this decision may overvalue the safety of hospitalization based on an assumption that patients admitted without significant medical acuity are not subjected to the same risks as acutely medically ill patients. To our knowledge, this question has not been directly investigated. Our study sought to quantify adverse events (AEs) experienced by patients hospitalized without definite medical acuity in comparison to those who had a definitely medically appropriate indication for admission.
+
+# METHODS:
+
+This was a retrospective cohort study of 300 admissions from 2/1/2018 to 6/1/2018 in an urban academic medical center. We defined the exposure as hospitalization without definite medical acuity, as assessed by an attending physician faculty member upon admission. Chart review using the IHI Global Trigger tool method was used to measure AEs. UW IRB approval was granted for this study.
+
+# RESULTS:
+
+748 admissions from the Emergency Department to a general medical floor were included, of which 513 (68.8%) were considered definitely appropriate and 169 (22.6%) were without definite medical acuity. A sample of 150 admissions from each was used to generate cohort groups. No statistically significant differences were observed between groups in terms of age, gender, race/ethnicity, or primary language. There was no difference in the percentage of admissions with AEs between the two groups (27.3% vs. 29.3%; RR 1.05, 95% CI 0.82-1.34 p=0.70) nor in AEs per 1000-patient days (76.8 vs. 70.4; IRR = 0.92, 95%CI 0.65-1.30, p=0.61). Distribution of severity of AEs was also similar (see Table 1).
+
+# CONCLUSIONS:
+
+Our findings demonstrate that patients who are admitted without definite medical acuity are exposed to the same risk of experiencing an AE as those who have a definitely appropriate indication for admission. Further study into the underlying reasons for these admissions and refinement of the risk/benefits surrounding the decision to admit is warranted.
+
+# AIM TO IMPROVE FOLATE ORDERING IN NORMOCYTIC AND MACROCYTIC ANEMIA AT LENOX HILL HOSPITAL
+
+Marcus Calderon1, 2; Andrew A. Moses; Rebecca Mazurkiewicz3; Maria2 DeVita3. 1Providence Hospital, Canton, MI; 2Lenox HIll Hospital, New York, NY; 3Lenox Hill Hospital, New York, NY. (Control ID #3185189)
+
+# BACKGROUND:
+
+Anemia is one of the most commonly diagnosed issues in the hospital setting, and the workup often is costlier than the treatment. Per the Choosing Wisely initiative in 2017, folate testing should not be ordered as it is cheaper to simply supplement it in macrocytic anemia and testing is not indicated in normocytic or microcytic anemia. Despite this, previous studies have shown that folate testing continues unabated in hospital settings. We hypothesized that folate testing was not ordered appropriately by the internal medicine service at Lenox Hill Hospital, a community hospital in New York City.
+
+# METHODS:
+
+We conducted a retrospective chart review including all adult patients admitted to the medicine service at Lenox Hill Hospital from July 2017 to January 2018 with Folate, Serum. Iron studies ordered at the

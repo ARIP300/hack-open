@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+# Broadband Access and Patient Portal Use
+
+Broadband access was defined as the number of residential connections per 1,000 households by census tract. Our primary outcome was patient portal VDT for each primary care provider. We performed logistic regression with clustering by census tract.
+
+# RESULTS:
+
+Our sample contained 67,686 primary care providers representing 40,653,351 patients across 14,974 census tracts. At the census tract level, the mean reported portal viewing was 28%. Even after controlling for sociodemographic factors, the association between broadband access and portal use persisted (Table).
+
+# CONCLUSIONS:
+
+Despite nearly universal provision of patient portals, we found that only about a third of patients are using them. Previous studies at the healthcare system level have reported sociodemographic disparities in portal use. Our study provides the first national analysis of portal use and not only reaffirms this association but highlights the strong independent role of broadband access. Though significant efforts led to portal access, a focus on broadband, and patient training and input in development is needed to increase portal use and realize the benefits of patient facing technology.
+
+# A NOVEL PATIENT-CENTERED APPROACH TO INTIMATE PARTNER VIOLENCE IN PRIMARY CARE: RECOVERING FROM IPV THROUGH STRENGTHS AND EMPOWERMENT (RISE)
+
+Megan R. Gerber 1, 2; Sara B. Danitz 3; Katherine Iverson 3, 2.
+
+1 Boston University, Jamaica Plain, MA; 2 Boston University, Boston, MA; 3 Women's Health Sciences Division, Jamaica Plain, MA. (Control ID #3177218)
+
+# BACKGROUND:
+
+Intimate partner violence (IPV) is a public health problem common among women Veterans. IPV causes injury, chronic illness and health inequity, yet intervention in primary care remains challenging. Research shows that women prefer a self-directed approach to advocacy and recovery. To address this need, we developed "Recovering from IPV through Strengths and Empowerment" (RISE), a brief (30-60 min), innovative variable-length intervention for women with IPV. RISE is rooted in motivational-interviewing and empowerment principles and consists of 6 modules (Table) delivered in up to 6 sessions in primary care settings. Patients prioritize and select modules based on their unique needs. RISE was systematically developed and refined with iterative input from women Veterans and providers in the Veterans Health Administration (VA). We present preliminary results of the initial VA trial.
+
+# METHODS:
+
+Women with past-year IPV were recruited to participate in an open trial. Social workers and psychologists delivered RISE on-site, evaluation was conducted using a mixed methods approach. We collected pre- and post-treatment measures of psychosocial health (general self-efficacy [GSE], patient activation measure [PAM], valued living [VLQ], and depression [CES-D]). We also conducted semi-structured exit interviews with women after RISE receipt. Interviews were analyzed with a rapid qualitative approach. Enrollment is ongoing.
+
+# RESULTS:
+
+To date, 10 women Veterans have completed the trial (mean age = 29, SD=12). The sample was 50% White, 40% Black, and 10% Latina. 80% opted to receive at least 5 sessions, and 60% of the sample chose to receive all 6 RISE sessions. From pre- to posttreatment, participants showed significant reductions in depressive symptoms and increases in self-efficacy, PAM, and valued living, with medium effect sizes across outcomes (Cohen's D range: .54 - .72). Women expressed high satisfaction with RISE, they 1) liked ability to choose the content delivered, 2) felt RISE provided validation of their IPV experiences, 3) were empowered to be more assertive, and 4) expressed that RISE improved understanding of the impact of IPV on their health, which promoted confidence in accessing additional services, congruent with increased PAM score.
+
+# CONCLUSIONS:
+
+Preliminary findings support the clinical utility and acceptability of RISE in primary care. Increases in self-efficacy, patient activation, and valued living scores suggest RISE may promote self-efficacy, quality of life, and even health equity as women are enabled to engage in care and access services. Recruitment continues, we anticipate a larger sample by Spring 2019. Future work includes an RCT which follows this open trial.
+
+# A NOVEL PROGRAM TO COORDINATE CARE FOR SOCIALLY VULNERABLE INDIVIDUALS WITH COMPLEX HEALTH NEEDS: EVALUATING STRUCTURE AND PROCESSES OF CONNECT 2 CARE
+
+Dailys Garcia-Jorda 2; Kerry McBrien 1; Alicia J. Polachek 2; Celise Ritter-Rattray 2; Hasham Kamran 2; Gabriel E. Fabreau 1. 1 University of Calgary, Calgary, AB, Canada; 2 Cumming School of Medicine, University of Calgary, Calgary, AB, Canada. (Control ID #3186129)
+
+# BACKGROUND:
+
+Socially vulnerable individuals have higher mortality and acute care use than the general population and require specialized services to address complex health and social needs. Connect 2 Care (C2C), a mobile outreach program launched in November 2015, seeks to improve care coordination between acute and community care for socially vulnerable individuals with high acute care use, often also experiencing housing insecurity in Calgary, Canada. We are conducting a comprehensive mixed-method program evaluation to investigate the C2C program's structure, processes and outcomes to inform its potential sustainability. We directed part of our qualitative evaluation to document program structure and processes, and understand frontline staff daily activities, perceptions and experiences of caring for their clients.
+
+# METHODS:
+
+We conducted observations of C2C staff from February to June 2018. We sampled multiple settings and different times of the day and days of the week to examine the C2C team's: 1) structure, including infrastructure, personnel and partnerships and; 2) processes, including daily activities, services, interactions, and challenges. Observations were triangulated with C2C team members' qualitative semi-structured interviews, from October 2018. We conducted an inductive thematic analysis of observation field notes and interview transcripts and recorded themes that emerged using an iterative consensus process among all authors.
+
+# RESULTS:
+
+We analyzed 36 cumulative hours of observation and nine interviews (three nurses, four health navigators, and two managers). Our analysis revealed how C2C staff explicitly work to ‘fill the gap' between acute and community care, and also between healthcare and social services (i.e., housing). System-level healthcare and social challenges became evident throughout the observations and interviews, as participants struggled daily to access necessary care and social services for their clients. The C2C team's comprehensive healthcare and social system knowledge and commitment to their clients were core structural program elements, as were specified skills, training and intrinsic motivation of team members. These elements supported core program processes including client rapport building and navigation between many agencies and services. The program's novelty emerged as it addressed client's needs through a client-centred, harm-reduction approach, providing support, advocacy, and building relationships between acute and community care, and with other organizations.

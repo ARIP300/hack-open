@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and treat functional mitral regurgitation (MR) complicated by heart failure (HF) with without valve replacement
+
+# CASE:
+
+A 71-year-old African American female with a past medical history of diabetes mellitus and hypertension presented to the Emergency Department with progressively worsening dyspnea at rest for two weeks. Admission blood pressure was 185/107 mmHg, heart rate was 120, and respiratory rate was 37. Physical examination was significant for volume overload with elevated jugular venous pressure, bibasilar crackles, and lower extremity edema bilaterally. Laboratory studies showed a Brain Natriuretic Peptide level of 1023 pg/mL. Diuresis was initiated with intravenous furosemide. During her hospitalization, a transthoracic echocardiogram (TTE) revealed an LV ejection fraction (LVEF) of 25%, enlargement of LV internal diameter (LVID) and severe eccentric MR. Findings were confirmed with transesophageal echocardiogram and coronary angiography. Angiography also revealed normal coronary vessels. Metoprolol and Lisinopril were initiated following diagnostic studies. Over the next few months, the patient was followed closely at our HF clinic and medications were optimized according to guideline directed therapy. Communication and encouragement were provided using secured exchanges via patient portal in our Electronic Health Record. This allowed home blood pressure monitoring as well as functional assessment between clinic visits. At four months follow-up, the patient reports exertional dyspnea after walking three blocks. TTE showed similar LVEF, but the reduction in both MR severity and LVID. Cardiac Resynchronization Therapy was deferred at this time. In nine months, the patient can ambulate symptom-free for six long blocks. TTE showed LVEF of 69%, trace MR, and normalization of LVID. Patient continues to follow up at our clinic with no exacerbation or readmission.
+
+# IMPACT/DISCUSSION:
+
+As Internal Medicine residents, we frequently encounter hospitalized patients with poorly controlled comorbidities. Often, we attempt to optimize patient care by offering the latest innovation. The art of patient-centered care is lost in the whirlwind of technological advancement. Time and effort from both physician and patient should be allocated to optimize guideline-directed medical therapy fully. This approach resulted in a success story of patient engagement and encouragement to achieve quality, cost-effective and patient-centered care.
+
+# CONCLUSION:
+
+Patient-centered care is a cost-effective therapy that resulted in near complete reversal of MR and LV remodeling using medication optimization without device therapy.
+
+# LET SLEEPING NODES LIE: A RARE CAUSE OF MASSIVE HEMOPTYSIS
+
+Kyle M. Koster; Zachary Sherman; Shira A. Sachs. Weill Cornell Medicine, New York, NY. (Control ID #3181479)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the varied clinical presentations of broncholithiasis
+
+# LEARNING OBJECTIVE #2:
+
+Review treatment modalities for broncholithiasis
+
+# CASE:
+
+A previously healthy 27 year-old man from Tennessee presented with massive hemoptysis. He experienced sudden onset dyspnea and non-productive cough, followed by large volume hemoptysis requiring intubation in the field. Computed tomography angiography of the chest revealed scattered ground glass opacities, bibasilar consolidations, and a 3.0 by 2.1 centimeter calcified, subcarinal lymph node. The lymph node was attributed to prior histoplasma exposure found on laboratory workup. Multiple bronchoscopies were notable for dark blood in the trachea extending into the right main stem bronchus and old clots in lower airways, without a clear bleeding source. The patient was ultimately extubated without subsequent episodes of hemoptysis. A final bronchoscopy was performed, revealing a round, white lesion protruding from the wall of the right main stem bronchus, consistent with broncholithiasis. However, a pulmonary Dieulafoy's lesion could not be excluded. The patient was discharged with outpatient follow-up and underwent bronchial artery embolization.
+
+# IMPACT/DISCUSSION:
+
+Broncholithiasis occurs when calcified lesions are present within the bronchus, usually due to erosion of a calcified lymph node into the airway. Calcified lymph nodes are typically the result of a prior inflammatory or infectious process; tuberculosis is the most common cause worldwide, but histoplasmosis is the most common cause in endemic areas. Potential complications of broncholithiasis include hemoptysis and airway obstruction. Computed tomography can be used to identify calcified lesions in the chest, though diagnostic bronchoscopy should be performed to directly visualize suspected broncholithiasis. However, bronchoscopy may be limited in the setting of active inflammation or bleeding. Definitive treatment should be pursued to prevent repeat decompensation. Options include bronchial artery embolization, endobronchial resection, or lobectomy. In our patient, a Dieulafoy's lesion, a vascular anomaly characterized by a tortuous, dysplastic arteriole in the submucosa, remained a consideration, and therefore bronchial artery embolization was performed.
+
+# CONCLUSION:
+
+Broncholithiasis is a rare cause of hemoptysis, usually due to calcified lymph nodes eroding into the airway. Patients may present acutely with hemoptysis or airway obstruction. Prior histoplasmosis infection is the most common cause in North America. Internists should consider this diagnosis in patients with unexplained hemoptysis or airway obstruction and an appropriate exposure history.
+
+# LIFE IN A SHELTER: HEART FAILURE READMISSIONS IN THE HOMELESS
+
+Christina Elzahaby 1; Dharmarajan S. Thiruvinvamalai 2. 1Montefiore Medical Center, Bronx, NY; 2Montefiore Medical Center (Wakefield Campus), Bronx, NY. (Control ID #3183676)
+
+# LEARNING OBJECTIVE #1:
+
+Identify barriers for outpatient health care access in homeless patients.
+
+# LEARNING OBJECTIVE #2:
+
+Propose a plan to reduce hospital readmissions and improve healthcare access in such patients
+
+# CASE:
+
+A 57-year-old homeless man living in a shelter with history of uncontrolled hypertension, heart failure (HF), cocaine and alcohol addiction and schizophrenia presented with dyspnea, exercise intolerance and bilateral edema. He had difficulty maintaining access for outpatient care and adherence to diet, fluid restrictions and medications, depending on emergency visits for health-care needs. Examination: Blood pressure was 190/70 mm Hg, basal rales; 2+ bilateral pitting edema; proBNP elevated; chest x-ray revealed heart failure. Echocardiogram confirmed dilated cardiomyopathy, left ventricular hypokinesis and ejection fraction of 28%. Cardiac cath was advised, but was refused. Intravenous diuretics, metoprolol and lisinopril helped treat acute heart failure. He was educated utilizing the HF re-admission prevention program. On discharge, he was lost to follow up, failing to keep outpatient appointments. Attempts to reach the patient or his shelter supervisor were futile. Four weeks later, he was readmitted for another episode of acute HF.
+
+# IMPACT/DISCUSSION:
+
+The US Department of Housing and Urban Development (HUD) estimates 63,559 homeless people live in NYC (2018). A majority of homeless live in a shelter that provides a temporary residence and sometimes a gateway for permanent housing after long waiting list; these shelters often lack facilities and services to help patients receive appropriate outpatient care. Cardiovascular disease is a major cause of death in homeless adults, who may be smokers, at risk for uncontrolled hypertension and diabetes, psycho social stress and substance use, and medication non-adherence. Homeless patients have higher rates of using acute care resources like ED visits and hospitalizations, and often sign out against medical advice; they have higher 30 day readmissions to hospital impacting costs and quality of life. These patients need close follow up, education, communication with shelter services, and social support, to fulfill transportation and other needs. Medical respite programs can offer medical, nursing and accommodation for homeless persons discharged from acute hospital stays, who are sick to take care of themselves in a shelter, to help reduce hospital re-admissions.

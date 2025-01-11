@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Fusobacterium Nucleatum and Colorectal Cancer
+
+Mass in the colon; pathology confirmed colorectal adenocarcinoma. The patient was diagnosed with a fusobacterium lung infection with empyema necessitatis associated with colorectal adenocarcinoma. He was treated with several weeks of ertapenem; repeat CT chest showed near resolution in the intrapulmonary masses and chest wall collection. MRI of the pelvis had no evidence of wall invasion or metastasis. He underwent laparoscopic-assisted anterior resection of the colorectal cancer and ultimately found to have stage IIIB (T3N1cMx) colorectal cancer. He opted to forego adjuvant systemic chemotherapy and is doing well one year after initial presentation with no evidence of recurrence.
+
+# IMPACT/DISCUSSION
+
+Fusobacterium nucleatum is a gram-negative obligate anaerobic bacterium that is prevalent in the oral cavity. Several studies in recent years have demonstrated a strong association between fusobacterium nucleatum and human colon adenomas and carcinomas, including some hypotheses that fusobacterium nucleatum promotes the development of colorectal cancer. Existing literature highlights the microbiological overrepresentation of this anaerobe in colorectal adenomas and carcinomas, with no prior reports of clinical fusobacterium infections in patients with colorectal cancer. After the fusobacterium grew in culture, it was on the basis of this literature, with new iron deficiency anemia and dark stools, that the colonoscopy was pursued and the diagnosis of colorectal carcinoma was made. This case represents the first known in the literature in which a clinically evident infection with fusobacterium nucleatum was associated with a concurrent diagnosis of colorectal cancer.
+
+# CONCLUSION
+
+When faced with an unexpected or rare finding, in this case an anaerobic lung abscess, availability of the literature can help identify associations that can lead to the ultimate diagnosis.
+
+# THE COST OF COFFEE: RENAL FAILURE IN CENTRAL AMERICA
+
+Emily R. Insetta. Johns Hopkins Bayview Medical Center, Baltimore, MD; Johns Hopkins Community Physicians - Howard County General Hospital, Columbia, MD. (Control ID #3186401)
+
+# THE CONFUSING TRUTH ABOUT CEREBRAL AMYLOID ANGIOPATHY
+
+Shaunak Mulani; Christopher Little; Andres Lopez; Margaret C. Lo. University of Florida College of Medicine, Gainesville, FL. (Control ID #3186026)
+
+# LEARNING OBJECTIVE #1
+
+Identify the clinical features and classic radiographic findings of CAAI in elderly patients.
+
+# LEARNING OBJECTIVE #2
+
+Diagnose and manage CAAI as a reversible cause of dementia.
+
+# CASE
+
+A 75-year-old female with chronic Bell's palsy presented with new-onset worsening visual hallucinations and delusions with behavioral and cognitive changes for 1 month. Vitals and neurologic exam were normal on admission. Psychiatric exam noted visual hallucinations, waxing-waning orientation to situation and inappropriate response to questions. Labs revealed elevated ESR and CRP. Brain CT from a recent hospitalization incidentally found frontal, left occipital and right pontine vasogenic edema. Brain MRI showed hyperintensities in left frontal lobe concerning for inflammatory amyloid angiopathy. Repeat brain MRI at admission showed increasing areas of edema and abnormal FLAIR signal in left parietal lobe with new microhemorrhages in right frontal and parietal lobe, concerning for inflammatory amyloid angiopathy. Lumbar puncture revealed positive oligoclonal bands but no infection or malignancy. Family declined a brain biopsy. Patient was treated for cerebral amyloid angiopathy related inflammation (CAAI) with 5 days of IV solumedrol and a steroid taper. Her symptoms resolved with this regimen. Brain MRI three weeks later showed resolution of the supratentorial edema, improved hyperdensity in frontal lobes, and stable microhemorrhages.
+
+# IMPACT/DISCUSSION
+
+Cognitive impairment and dementia are common presentations in the elderly, often attributed to age-related changes. This rare case of CAAI teaches clinicians the risk of pattern recognition and anchoring.
+
+# LEARNING OBJECTIVE #1
+
+To increase awareness of Mesoamerican nephropathy.
+
+# LEARNING OBJECTIVE #2
+
+To describe proposed mechanisms of Mesoamerican nephropathy.
+
+# CASE
+
+A 29 year old man from Honduras with no medical history presented to the ER with fatigue and dyspnea that began 4 months ago but worsened over 2 weeks. He noted orthopnea and swelling. Labs showed BUN 93, Cr 9.97, potassium 3.1, uric acid 8.2, and 1+ proteinuria. One year prior, BUN was 13 and Cr was 1.47. He was well appearing, with blood pressure 163/111, jugular venous distention, and ankle edema. He took no medications or substances. During adolescence, he worked harvesting coffee in Honduras. Renal biopsy showed diffuse global glomerulosclerosis and tubulointerstitial scarring. The pathologist diagnosed malignant hypertension versus Mesoamerican nephropathy (MeN). The patient's blood pressure was not severely elevated and he had no history of severe hypertension. His social history and findings of hyperuricemia, hypokalemia, and proteinuria suggested MeN. He was started on renal replacement therapy and discharged on lifelong hemodialysis.
+
+# IMPACT/DISCUSSION
+
+MeN is the number one cause of death in sugar cane workers in Nicaragua. It is important for internists to consider this diagnosis in vulnerable populations. From studying sugar farmers in Nicaragua, four features of MeN have emerged: it is specific to Southeast Mexico and Central America, kidney injury is not explained by another cause, young individuals (30-50 years) and men (4:1) are afflicted, and it affects farm workers in hot climates. The primary cause of injury is thought to be recurrent dehydration. This is exacerbated by nephrotoxins, especially NSAIDs, which workers use for musculoskeletal pain. Other proposed factors include toxic agrochemicals, high-fructose drinks, contaminated alcohol products, and local infections such as Leptospirosis. Renin angiotensin activation causes hyperuricemia and hypokalemia. Patients have non-nephrotic proteinuria and pathology shows tubulointerstitial disease and glomerular ischemia.

@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# CASE 1
+
+from his cholecystostomy tube. The patient had received heparin and Plavix during the cardiac catheterization procedure and had taken a baby aspirin earlier that morning. A high intensity statin was given after the initial workup was completed. An MRI brain was performed the following day that showed infarcts involving the right paramedian midbrain and cerebellum. A transthoracic echocardiogram with bubble study showed no intra-cardiac thrombus, vegetations, or any intracardiac shunt. Over the next few days, the decreased sensation the left face and left hand resolved, but the dysarthria, diplopia, and INO persisted. The patient was discharged to a skilled nursing facility for further rehabilitation upon discharge. He will be reassessed as a surgical candidate for cholecystectomy and AAA repair as an outpatient.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates the complications involved with cardiac catheterization. These complications are rare but need to be considered in patients with multiple risk factors. This case also illustrates that preoperative workups are not always benign. On many occasions, a clinician is able to determine from the clinical picture that a patient is not a good surgical candidate but will go ahead with extensive preoperative workup just to confirm their assessment. These workups not only drain time and money from the healthcare system but can expose the patient to many unintended risks.
+
+# CONCLUSION:
+
+1. Embolic strokes are a known but rare complication of cardiac catheterization.
+2. Inappropriate preoperative workups not only drain time and money from the healthcare system but can expose the patient to many unintended risks.
+
+# THESE CUFFS DON'T LIE: AN ATYPICAL PRESENTATION OF A COMMON CONDITION
+
+David Hess1; Brian Lewis1; David Feldstein2; Linda Baier2. 1University of Wisconsin, Madison, WI; 2University of Wisconsin School of Medicine and Public Health, Madison, WI. (Control ID #3184533)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hypothyroidism as a cause of new or worsening hypertension in the absence of other classic symptoms.
+
+# LEARNING OBJECTIVE #2:
+
+Appropriately screen patients with a history of radiation therapy to the neck for hypothyroidism.
+
+# CASE:
+
+A 75-year-old man with a history hypertension and idiopathic cardiomyopathy presented to his primary care physician with elevated blood pressure. His home blood pressure ranged from 150/110 to 170/120 over the past 5 days. He also complained of fatigue and generally feeling unwell. He denied any constipation, cold intolerance, changes in skin or hair, weight changes, headache, visual changes, chest pain, or shortness of breath. His hypertension was previously well controlled with losartan and metoprolol succinate. He was diagnosed with squamous cell carcinoma of the tongue 5 years ago and curatively treated with radiation. Exam was notable for a BP of 182/105. Losartan was increased and a limited workup for secondary causes of hypertension was performed, showing stable renal function and a TSH of >100 with free T4 of 0.60. Levothyroxine was initiated for hypothyroidism. Over 12 weeks, his blood pressure improved and his TSH normalized. He was able to return to his prior anti-hypertensive regimen with good control.
+
+# IMPACT/DISCUSSION:
+
+Hypothyroidism is commonly managed in primary care. Recognizing its presentation with worsening hypertension is critical. The variety of clinical symptoms of hypothyroidism can be broad, however it is notable that as much as 30% of people with hypothyroidism have hypertension, particularly diastolic hypertension. For the majority of patients with secondary hypertension due to hypothyroidism, hypertension resolves with appropriate hypothyroidism treatment. This patient was at increased risk of hypothyroidism given his previous neck radiation, but was not being monitored for this. Hypothyroidism is a common adverse effect of neck radiation, with reports of up to 33% of patients suffering from clinical hypothyroidism. Most develop hypothyroidism within 2 years of radiation, however onset of greater than 5 years after completion of radiation is not uncommon. The National Comprehensive Cancer Network guidelines recommend screening for hypothyroidism with a TSH every 6-12 months indefinitely. In this case, the patient may have avoided the hypertensive urgency if he had been appropriately screened. As a result of this case, I will be more vigilant in evaluating for hypothyroidism in patients with diastolic hypertension. Additionally, now knowing the recommended screening guidelines for patients with neck radiation, I will ensure my patients with this history have at least a yearly evaluation of TSH.
+
+# CONCLUSION:
+
+1. It is important to be vigilant in assessing for hypothyroidism in patients with new onset or worsening diastolic hypertension even in the absence of other classic symptoms.
+2. Patients are at high risk of hypothyroidism after neck radiation and should be screened every 6-12 months.
+
+# THIRD TIME'S THE CHARM: DIAGNOSIS OF ADULT ONSET STILL'S DISEASE AFTER REPEAT ADMISSIONS FOR FEVER
+
+Katherine Gavinski; Michael Burton. UT Southwestern, Dallas, TX. (Control ID #3177803)
+
+# LEARNING OBJECTIVE #1:
+
+Construct a systematic approach to evaluation of fever of unknown origin (FUO).
+
+# LEARNING OBJECTIVE #2:
+
+Recognize diagnostic errors present in complex patient evaluations.
+
+# CASE:
+
+Mrs. G is a 35-year-old African woman who presented with a multi-week history of fevers, malaise, and rash. She initially developed a pruritic rash to her extremities—treated as an allergic reaction. She was soon hospitalized with fever, weakness, and abdominal pain; workup notable for acute renal injury, leukocytosis, microcytic anemia, thrombocytopenia, coagulopathy, hemolysis, and hypercellular bone marrow; negative infectious workup. She was discharged after IV antibiotics, but soon readmitted with recurrent fevers, disabling knee arthralgias, transaminitis, elevated acute phase reactants, ferritin 56, and nonspecific lymphadenopathy and hepatosplenomegaly. Rickettsia antibody was weakly positive—no history of travel or unusual exposures—so discharged on doxycycline for presumed murine typhus. At home, Mrs. G developed a hypertrophic rash and stopped doxycycline. She was admitted again weeks later for fever, malaise, and maculopapular rash with warm autoimmune hemolytic anemia, acute kidney injury, and ferritin 12,000. Skin biopsy showed persistent, atypical eruption of adult Still's disease. She had rapid clinical improvement with IV steroids.
+
+# IMPACT/DISCUSSION:
+
+Although adult Still's disease is rare, this case serves as an excellent example of the diagnostic workup for a FUO and common errors in clinical reasoning. FUO workup requires rigorous evaluation for infection, malignancy, and rheumatologic processes, which should be informed by a patient's history and exposures. Despite a conclusive final diagnosis, this case was subject to errors in clinical reasoning. Mrs. G's initial management consisted of testing and treatment for bacterial etiologies of fever. Availability bias makes bacterial infection an accessible diagnostic category, but after lack of response to treatment or positive test, should be abandoned. During her second admission, a positive antibody for Rickessia was found. Despite a lack of exposure and weak antibody titer, confirmation bias and premature closure led to another incorrect diagnosis. The low ferritin led to the cognitive bias of blind obedience—placing undue.

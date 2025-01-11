@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+showed Lipase 2086, AST 87, ALT 71. Total bilirubin, Alkaline Phosphatase and INR were normal. WBC 23,000 and Platelets 196,000. CT of abdomen and pelvis showed hepatic steatosis, large volume ascites, and distended urinary bladder. A Foley catheter immediately drained 1.5 L clear urine. He was treated for pancreatitis and bladder outlet obstruction with resolution of symptoms and normalization of CBC, BMP and lactate within 2 days. Diagnostic paracentesis revealed 2005 nucleated cells in the peritoneal fluid. He was started on cefepime for possible bacterial peritonitis; this was discontinued when bacterial and blood cultures were negative after 48 hours of incubation. Cytology was negative for malignant cells. CT of the abdomen and pelvis with contrast was repeated when pancreatitis and bladder obstruction had resolved. This showed almost complete resolution of ascites and bladder outlet obstruction. The cause of his ascites was attributed to hypervolemia from obstructive renal failure and concurrent inflammation from acute pancreatitis.
+
+# IMPACT/DISCUSSION:
+
+To our knowledge, this is the first presentation of inflammatory ascites secondary to acute renal failure and acute pancreatitis in the medical literature. While other causes of ascites are more commonly seen as those causes observed in hypervolemia (cirrhosis, congestive heart failure, end-stage renal disease), or inflammation (malignancy or chylous ascites seen in chronic pancreatitis), our literature review did not find any recorded cases of ascites attributed to acute renal failure with concomitant acute pancreatitis. This case educated the team that patients can manifest unusual presentation when different disease states coexist that can have a synergistic pathophysiologic derangement. Neither acute pancreatitis nor acute urinary obstruction causes ascites individually, but in our case, these conditions coexisted and presented with ascites because of hypervolemia and inflammation. In unclear cases of new large volume ascites, one must proceed with thorough investigation through diagnostic paracentesis and CT abdomen/pelvis. However, with concomitant acute renal failure and acute pancreatitis, one can expect significant resolution in ascites with resolution of renal failure and supportive treatment of acute pancreatitis.
+
+# CONCLUSION:
+
+A new large volume ascites can be observed in cases of acute urinary obstruction renal failure and/or acute pancreatitis.
+
+# UNICENTRIC CASTLEMAN DISEASE IN THE SETTING OF HODGKIN LYMPHOMA
+
+Nishant Munugala; Andrew Rettew. University of Arizona, Banner University Medical Center, Tucson, AZ. (Control ID #3185258)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate lymphadenopathy in an asymptomatic patient
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose Castleman Disease and assess underlying etiology
+
+# CASE:
+
+A 70-year-old obese male with no significant medical history presented to his primary care provider with progressive, painless left-sided neck swelling of several years duration. Evaluation with computed tomography of the neck revealed a 3-cm lymph node concerning for a neoplastic process. He underwent an excisional biopsy with pathologic findings of angiofollicular lymph node hyperplasia, consistent with Castleman disease of the hyaline vascular subtype. Subsequent PET/CT revealed residual disease confined to the left neck, confirming unicentric disease. Further workup for potential etiologies of Castleman disease was undertaken, including evaluation for HIV, HHV-8, and paraproteinemia, which were all unrevealing. Given the asymptomatic nature of the disease, it was decided to opt for close clinical observation as opposed to additional surgery or systemic therapy. Follow-up PET/CT 6 months later was largely unchanged from prior, continuing to show FDG-avid lymph nodes in the anterior and posterior cervical chains. Given the lack of any significant clinical or radiographic changes, continued observation was pursued. Approximately 1-year later the patient presented for follow-up and noted increased neck swelling in addition to a 35-pound weight loss in the preceding 5 months. Repeat PET/CT revealed increased size and number of FDG-avid lymph nodes in the neck. ENT performed a left neck dissection in an effort to remove all known disease and provide a cure. Pathologic review revealed hyaline vascular Castleman disease intermixed with nodular sclerosing Hodgkin lymphoma. The initial pathology specimen was reviewed, which, in retrospect, did reveal CD30 positive Reed Sternberg cells within the hyaline vascular Castleman disease. Treatment for classical Hodgkin disease was recommended for the patient despite negative post-operative PET/CT given systemic nature of Hodgkin lymphoma.
+
+# IMPACT/DISCUSSION:
+
+Unicentric Castleman disease is a rare clinical entity, with approximately 2,500 cases diagnosed per year in the United States, that often presents as asymptomatic lymphadenopathy. Pathologic evaluation is of critical importance in diagnosis and thus an excisional biopsy should be pursued. Histologic evaluation reveals one of four subtypes: hyaline vascular, plasma cell, mixed, and plasmablastic. Following diagnosis, workup for an underlying etiology is critical, as Castleman disease is often associated with an underlying disease process, as highlighted by our case. The occurrence of Hodgkin lymphoma concurrently with Castleman disease is exceedingly rare, with few documented cases in the literature.
+
+# CONCLUSION:
+
+Developing a systematic approach to lymphadenopathy is an essential skill for internists Castleman Disease requires adequate evaluation for an underlying etiology to optimize therapy.
+
+# UNUSUAL ETIOLOGY OF A USUAL DIAGNOSIS; A CASE OF NON CONVULSIVE STATUS EPILEPTICUS
+
+Muhammad Hammad; Akhilesh Kumar Thakur; Umair Bajwa. Presence Saint Francis Hospital, Evanston, IL. (Control ID #3186351)
+
+# LEARNING OBJECTIVE #1:
+
+Consider Non-Convulsive Status Epilepticus and Creutzfeldt Jakob Disease as unusual causes of Encephalopathy
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of continuous EEG monitoring to diagnose Non-Convulsive Status Epilepticus
+
+# CASE:
+
+A 68-year-old male presented with altered mental status and an episode of generalized seizure. He had also been more lethargic for the last few months, acting bizarrely and forgetting things. At presentation, he was vitally stable but appeared drowsy. Initial lab work was negative for leukocytosis and electrolyte abnormalities. CXR was concerning for left lower lobe infiltrate. Seizure and encephalopathy was thought to be secondary to underlying infection. CT angiogram of head and neck showed old lacunar infarcts but negative for acute pathology. Spot EEG revealed encephalopathy without any epileptiform activity. MRI brain showed signal alteration on diffusion, ADC, Flair and T2-weighted sequences within the bifrontal and biparietal regions which suggested encephalitis or status epilepticus rather than acute ischemia. CSF analysis was negative for infectious etiology but later came back positive for 14-3-3. Rapidly worsening mental status without seizure like activity raised suspicion for Creutzfeldt Jakob Disease. However, late into the course of his hospital stay, a witnessed seizure raised suspicion for status epilepticus. Continuous EEG monitoring revealed electrographic status epilepticus with sub clinical seizures occurring almost every three minutes. He was treated with anti-epileptics with improvement in his mental status.
+
+# IMPACT/DISCUSSION:
+
+Encephalopathy in adult population is commonly encountered in clinical practice with underlying cause sometimes difficult to determine. Non-convulsive status epilepticus remains under recognized because the patients do not usually show classical ictal features. This case underscores the importance of continuous EEG monitoring to diagnose.

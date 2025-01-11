@@ -1,0 +1,56 @@
+# ABSTRACTS
+
+(2.8 percentage points and 3.2 percentage points), farming and construction (2.8 percentage points and 3.0 percentage points), and industrial and manufacturing (2.8 percentage points and 3.3 percentage points). There were smaller gains for managers and professionals (0.8 percentage points and 1.3 percentage points). All p-values were <0.001.
+
+# CONCLUSIONS:
+
+The largest gains in coverage associated with the ACA occurred among non-professional workers, and these positive effects on coverage were not due to crowd-out of ESI. Policies that reduce public insurance enrollment or disrupt the ACA's health insurance Marketplaces will have adverse effects on those who have less access to employer-sponsored insurance.
+
+|35|Farming|Construction|
+|---|---|---|
+|30|Service| |
+|25|Industrial & Manufacturing| |
+|20|Sales|Office|
+|15| | |
+|10|Management & Professional| |
+|5| | |
+
+ACA
+
+2011 2012 2013 2014 2015 2016 2017
+
+# CHANGES IN HOSPITAL ACQUIRED CONDITIONS AND MORTALITY ASSOCIATED WITH THE HOSPITAL ACQUIRED CONDITION REDUCTION PROGRAM
+
+Emily Arntson 1, 2; Justin B. Dimick 2, 3; Usha Nuliyalu 3; Joshua Errickson 3; Tedi A. Engler 1; Andrew Ryan 1, 3. 1 University of Michigan School of Public Health, Ann Arbor, MI; 2 University of Michigan Medical School, Ann Arbor, MI; 3 University of Michigan, Ann Arbor, MI. (Control ID #3184751)
+
+# BACKGROUND:
+
+Hospital acquired conditions (HACs) are common, costly, and deadly. Despite recent reductions, HACs still occur at a rate of 121 events per 1,000 discharges. Building on previous payment reforms to reduce HACs, CMS announced the Hospital Acquired Condition Reduction Program (HACRP) in August 2013. The program - largely focused on surgical admissions - reduces Medicare payments by 1% for hospitals in the worst performance quartile of targeted hospital-acquired conditions. Penalty criteria are based on absolute performance levels for a relatively narrow set of measures. However, rates of HACs are highly sensitive to hospital coding practices. As a result, the HACRP's effect on both targeted and downstream clinical outcomes is uncertain.
+
+# METHODS:
+
+Using an interrupted time series design, we estimated models with linear splines to test for changes in hospital-acquired conditions and 30-day mortality before the Affordable Care Act (ACA), after the ACA, and after the HACRP. To assess whether improvements may be related to coding practices, we examined changes in the percentage of hospital-acquired conditions that were coded as present-on-admission. We used data from the 100% MedPAR Files for Medicare patients undergoing surgery and discharged from eligible hospitals between January 1, 2009 and August 31, 2015 (n = 8,857,877).
+
+# RESULTS:
+
+Patients experienced hospital-acquired conditions at a rate of 13.39 per 1,000 discharges (95% confidence interval {CI}, 13.1 to 13.68) in the pre-ACA period. This rate declined after the ACA was passed and declined further after the HACRP was announced (adjusted difference in annual slope, 1.34 [95% CI, -1.64 to -1.04]). Adjusted 30-day mortality was 3.69 (95% CI, 3.64 to 3.74) in the pre-ACA period among patients receiving surgery. 30-day mortality declined after the ACA (adjusted annual slope -0.04 [95% CI, -0.05 to -0.02]) but was flat after the HACRP (adjusted annual slope -0.01 [95% CI, -0.04 to 0.02]). While the use of coding for present-on-admission slightly increased after the HACRP was announced, coding changes did not explain reductions in hospital-acquired conditions.
+
+# CONCLUSIONS:
+
+Overall, hospital-acquired conditions targeted under the HACRP declined at a greater rate after the program was announced. The HACRP was not associated with declines in 30-day mortality. This suggests that either: 1) hospitals are artificially reducing reported HAC rates and not improving downstream clinical outcomes, such as mortality, or 2) hospital-acquired conditions are not sufficiently common or mechanistically related to major harm such that improvement will drive a mortality reduction. Further investigation, especially into hospitals' HAC reduction mechanisms, is needed. Our findings are instructive to policymakers seeking to improve patient safety. CMS should continue to invest in robust systems to capture valid HAC measures and externally audit these data in order to ensure their integrity for value-based payment programs.
+
+# CHANGES IN PERCEPTIONS OF DISCRIMINATION IN HEALTHCARE: AN ANALYSIS OF THE CALIFORNIA HEALTH INTERVIEW SURVEY 2003-2017
+
+Lucy Schulson 1; Ziming Xuan 3; Michael K. Paasche-Orlow 2; Alicia Fernandez 4. 1 Boston University/ Boston Medical Center, Boston, MA; 2 Boston University, Boston, MA; 3 Boston University School of Public Health, Boston, MA; 4 University of California San Francisco, San Francisco, CA. (Control ID #3185334)
+
+# BACKGROUND:
+
+Research in the early 2000s in California demonstrated that racial and ethnic minorities, immigrants, and those with limited English proficiency (LEP) experienced high rates of discrimination in healthcare. Less is known how patients' perceptions of discrimination in healthcare have changed for these groups.
+
+# METHODS:
+
+We used data from the 2003, 2005, 2015, 2016, and 2017 waves of the California Health Interview Survey (CHIS) to determine if rates of perceived discrimination in healthcare have changed. We identified those as having experienced discrimination if they responded "yes" to the question, "Was there ever a time when you would have gotten better medical care if you had belonged to a different race or ethnic group?" and reported this occurred within the last five years. Our primary exposure of interest was survey year dichotomized as combined 2003 and 2005 and combined 2015, 2016, and 2017. We used jack-knife replicate weights provided by CHIS and performed chi-square analyses comparing perceptions of discrimination in 2003-2005 vs. 2015-2017 and multivariate logistic regression comparing discrimination in late vs. early years controlling for race, poverty level, education, insurance status, usual source of care, self-reported health, and LEP. We also performed sub-analyses by racial/ethnic groups, immigrant status, and LEP status.
+
+# RESULTS:
+
+There were 84,088 participants in 2003-2005 with 5.97% of the population reporting recent discrimination in healthcare and 63,242 participants in 2015-2017 with 3.98% of the population reporting recent discrimination in healthcare (p<.0001). Latinos and Asians experienced less discrimination in healthcare in 2015-2017 vs. 2003-2005 (6.58% vs. 12.73% p<.0001; 4.74% vs. 7.37% p=.00770). Rates were stable among whites and African-Americans (2.26% vs. 2.61% p=0.25; 13.84% vs. 13.14% p=0.75). Fewer immigrants and LEP individuals reported discrimination in healthcare.

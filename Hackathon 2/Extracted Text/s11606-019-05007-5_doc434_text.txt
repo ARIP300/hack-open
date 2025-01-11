@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# CONCLUSION:
+
+Internists should consider the diagnosis of catamenial pneumothorax in a female patient of childbearing age with recurrent episodes of pneumothoraces. Secondary prevention of catamenial pneumothorax often requires pleurodesis, resection of the endometriosis, and diaphragmatic repair, in addition to hormonal suppression.
+
+# FINE NEEDLE ASPIRATION FOR DIAGNOSIS OF LYMPHADENOPATHIC KAPOSI SARCOMA IN THE HIV NEGATIVE PATIENT
+
+Kaitlyn E. Takach; Arie Szeinfeld; Eliran E. Zadikov; Lauren E. Menzies; Mohamed Aziz, MD FCAP. American University of the Caribbean School of Medicine, Cupecoy, Sint Maarten (Dutch part). (Control ID #3185796)
+
+# LEARNING OBJECTIVE #1:
+
+Fine needle aspiration (slides and cell block) is adequate for full diagnosis of Kaposi Sarcoma.
+
+# LEARNING OBJECTIVE #2:
+
+Kaposi Sarcoma should be suspected even in a non-HIV positive patient when we have a suggestion of a vascular neoplasm in fine needle aspiration.
+
+# CASE:
+
+A 65 year-old Mediterranean man with history of colon cancer presented with right inguinal lymphadenopathy for several weeks. On physical exam, he was awake, alert and cooperative. Cardiopulmonary examination was normal. A 2.5cm nontender, right inguinal lymph node was noted. Concern for metastatic colon cancer prompted sampling of the lymph node. Fine needle aspiration (FNA) was performed and cytologic analysis demonstrated fragments of atypical spindle cells in a background of polymorphous lymphocytes and extravasated blood. Cell block prepared from the cytology specimen demonstrated a spindle cell neoplasm with hyperchromatic elongated nuclei infiltrating lymphoid tissue and no morphologic evidence of epithelial cells. Immunohistochemical studies showed tumor positivity for HHV-8, CD31, CD34 and vimentin and were negative for cytokeratins, S100, p63, and desmin all of which was consistent with a diagnosis of Kaposi Sarcoma (KS) and not metastatic colon carcinoma. Testing for human immunodeficiency virus (HIV) was negative. Lymph node was excised and there was no evidence of recurrence or disseminated disease with a follow up for three years.
+
+# IMPACT/DISCUSSION:
+
+Kaposi sarcoma is the most common HIV associated malignancy, however, KS can be initiated through mechanisms other than viral, such as iatrogenic immunosuppression and elevated expression of cytokines and angiogenic growth factors. Although KS commonly presents as skin lesions, it can be associated with visceral involvement and may run an aggressive disseminated course. Cytologically, the nodal tumor is identical to skin KS, regardless of patient's age or clinical presentation. KS should be considered as a potential diagnosis for patients with lymphadenopathy of unknown etiology, even in those with a known HIV-negative status.
+
+# CONCLUSION:
+
+Fine needle aspiration can be used to adequately obtain lymph node samples as well as for the diagnosis of KS.
+
+# FISTULIZATION OF HEMORRHAGIC PANCREATIC PSEUDOCYST
+
+Kelsey R. Grossman; Stacey Wolfson; Ravi Shah; Michael Janjigian. NYU School of Medicine, New York, NY. (Control ID #3165653)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize pancreatic-enteric fistulization as a rare complication of pancreatitis.
+
+# LEARNING OBJECTIVE #2:
+
+Define the mechanisms for fistula formation in hemorrhagic pseudocysts.
+
+# CASE:
+
+The patient is a 31-year-old female with a past medical history of systemic lupus erythematosus complicated by end stage renal disease on dialysis, and pancreatitis complicated by pseudocyst formation, presenting with acute onset abdominal pain, nausea, and vomiting. On presentation, she was afebrile and hemodynamically stable with exam notable for diffuse abdominal tenderness and voluntary guarding without rebound. CT abdomen and pelvis showed hemorrhage into the known pancreatic tail pseudocyst with interval enlargement from 8 to 12 cm. CT Angiogram obtained four days after the onset of abdominal pain showed an open fistula between the pseudocyst and transverse colon, without evidence of active arterial bleeding. The patient then had two episodes of bright red blood per rectum. She became tachycardic and hypotensive with labs notable for a one-point hemoglobin drop from 9.7 to 8.5. She was triaged to the surgical ICU and underwent urgent exploratory laparotomy with transverse colectomy, partial pancreatectomy, and splenectomy, followed by staged colostomy creation.
+
+# IMPACT/DISCUSSION:
+
+Fistulization of pancreatic pseudocysts is an extremely rare complication, occurring in less than 3% of cases, and can involve a variety of abdominal organs. Connections with sources other than the colon often cause spontaneous drainage and resolution of symptoms, and thus do not require surgery. However, communication with the colon can lead to other complications such as hemorrhage and sepsis, as seen in this case, which require definitive management. A proximal diverting colostomy is standard practice in order to prevent further backup of fecal matter into the pseudocyst and prevent rupture into the abdominal cavity. Multiple mechanisms have been proposed to explain the cause of hemorrhage and rupture of pancreatic pseudocysts. These mechanisms include the presence of severe inflammation due to activated lytic enzymes of the pancreas, as well as persistent compression of blood vessels due to mass effect. Colonopancreatic fistula formation in the case of our patient with lupus is likely secondary to the pro-inflammatory environment compounded by high wall pressures and suppressed healing mechanisms due to chronic steroid use.
+
+# CONCLUSION:
+
+Given the gravity of a missed diagnosis, hospitalists must keep complications of pancreatic pseudocysts on their differential for patients with known pathology and acute abdominal pain. Management strategies differ based on the type of complication, however, urgent operative management is key in certain cases of fistula formation, especially when it involves the colon as in our patient.
+
+# FLACCID PARALYSIS AS A COMPLICATION OF NEUROINVASIVE WEST NILE VIRUS
+
+Morris Jrada; Brandan Kovacs; Faryal Osman. NYU Langone Brooklyn, Brooklyn, NY. (Control ID #3185474)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose West Nile Virus (WNV) encephalitis.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize neurologic symptoms seen in Neuro-invasive WNV.
+
+# CASE:
+
+A 79 year old male with a past medical history of CAD s/p CABG, hypertension and hyperlipidemia presented with a 4 day history of generalized weakness, fevers, decreased oral intake, and confusion. He was accompanied by his wife, who denied any respiratory, skin or urologic changes, and reported the patient had been at baseline, tending his garden a couple of days prior. He had no recent travel, but had a sick contact in a grandchild who was diagnosed with an unknown virus. Upon admission, he was febrile to 39.5C, hypotensive to 95/43 with otherwise normal vital signs. Exam was notable for lethargy and proximal muscle weakness with diffuse hyporeflexia. CT scan of the head, chest X-Ray and urinalysis did not show acute abnormalities. He was started on antibiotics to cover for meningitis with improvement in his vitals, but not his mental status. The following day, a lumbar puncture was performed and cell count was notable for a white blood cell count of 344 with 76% neutrophils, 97 protein and 53 glucose, and negative gram stain. His course was complicated by an aspiration event that resulted in hypoxia and he was subsequently intubated. Additional CSF studies were then sent to the state lab, returning positive for WNV IgM the following week. The patient's hospital course was again complicated by a second aspiration event post extubation and required reintubation and eventually a tracheostomy and PEG placement.

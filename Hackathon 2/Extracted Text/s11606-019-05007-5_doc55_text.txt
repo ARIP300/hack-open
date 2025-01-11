@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# CARE MANAGEMENT FOR THE EFFECTIVE USE OF OPIOIDS (CAMEO): A RANDOMIZED TRIAL
+
+Matthew J. Bair1, 2; Samantha D. Outcalt1; James E. Slaven2; Kurt Kroenke3; Carol Kempf1; Alan Zillich4; Teresa Damush1; Chandan Saha2; Dustin D. French6; Erin E. Krebs6. 1VA Center for Health Information and Communication, Indianapolis, IN; 2Indiana University School of Medicine, Indianapolis, IN; 3Indiana University, Indianapolis, IN; 4Roudebush VA Medical Center, Indianapolis, IN; 5Northwestern U, Chicago, IL; 6Minneapolis VA Health Care System, Minneapolis, MN. (Control ID #3185091)
+
+# BACKGROUND
+
+Chronic low back pain is common and accounts for an enormous burden in patient suffering, diminished quality of life, disability, and health care costs. Many options are available to treat chronic low back pain, yet management remains difficult. The objective of the CAMEO Trial was to compare the effectiveness of pharmacological treatment and optimization vs. cognitive behavioral therapy for Veterans with chronic lower back pain on chronic opioid therapy.
+
+# METHODS
+
+CAMEO was designed as a 2-arm, randomized clinical trial. The study setting was 5 general medicine clinics at a Veteran Affairs Medical Center and 2 community based outpatient clinics. Participants included 261 Veterans with chronic low back pain of at least moderate intensity who were on chronic opioid therapy at baseline. Enrollment occurred from August 2011 to December 2014, with 12-month follow-up completed by December 2015. The pharmacological (PHARM) arm involved nurse care management focused on analgesic treatment and optimization according to an algorithm. The behavioral (BEHAV) arm involved cognitive behavioral therapy delivered by clinical psychologists. The primary outcomes were pain impact, pain intensity, and pain interference as assessed by the Brief Pain Inventory (BPI).
+
+# RESULTS
+
+The mean age participants was 57.9 years, 92% men, 73% White and 21% Black. 131 participants in the PHARM arm and 130 participants in the BEHAV arm were included in the primary analysis. At 12 months, the adjusted mean decrease from baseline in the BPI total score (pain impact) was 0.64 points (Standard deviation [SD] = 0.22) in the BEHAV group and 1.14 points (SD = 0.23) in the PHARM group (between group difference of 0.5 points, p = 0.0423). Scores were adjusted for baseline BPI total score, depression (PHQ-9), and gender. At 12 months, BPI pain intensity decreased by 0.40 points in the BEHAV group (SD = 0.19) and 1.02 points (SD = 0.20) in the PHARM group (between group difference of 0.62, p = 0.0044). The mean decrease from baseline in the BPI interference score was 0.71 points in the BEHAV group and 1.19 points in the PHARM group (between group difference of 0.48 points; p = 0.0846). There were no differences in secondary outcomes (depression, anxiety, PTSD, and health-related quality of life) across study arms.
+
+# CONCLUSIONS
+
+Both treatment groups improved, but improvement was modest. A nurse care management intervention focused on pharmacological management reduced pain impact and intensity more than a behavioral intervention involving cognitive behavioral therapy. While the between-group differences were statistically significant, these differences may not be clinically significant. To improve treatment effects combination therapy is likely needed, especially for patients with complex chronic low back pain.
+
+# CARE MANAGEMENT PLUS: TIME-LIMITED LONGITUDINAL RN CARE MANAGEMENT
+
+Corinne Rhodes1; Sarah LaMar3; Andrew Maier4; Susan C. Day2. 1University of Pennsylvania Health System, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA; 3Penn Medicine, Philadelphia, PA; 4UPenn, Philadelphia, PA. (Control ID #3185836)
+
+# BACKGROUND
+
+We developed and implemented a longitudinal, proactive care management (CM) program targeting our highest risk patients as part of Comprehensive Primary Care Plus (CPC+) Medicare innovation grant in 3 urban academic clinics. Goals were to decrease utilization and achieve patient and primary care provider (PCP) goals. We hypothesized decreased utilization during enrollment would persist after graduation.
+
+# METHODS
+
+Our central CM model was overseen by a RN manager and physician lead. Patients enrolled in a 6-month intervention with a two-step process including EPIC risk score including registries, utilization, social determinants of health (SDH) proxy measures and then underwent PCP review. Care managers (CM) performed a standardized intake including modifiable barriers of care and collected patient centered goals. CM proactively followed patients and communicated to PCP or designated providers via EPIC and brief weekly meetings. Patients graduated at 6 months, sooner if not engaged, or extended enrollment at discretion of PCP. This interim analysis looks at 192 patients enrolled with 6 months of post-graduation utilization data. Descriptive data shows patients approached, enrolled, engaged, and graduated and completed goals with means and standard deviations (SD). We examined combined ED and hospital utilization by unadjusted and apriori adjusted longitudinal person-clustered mixed regression models. We randomly matched control patients with recent utilization at a 1:1 ratio by clinic, age, sex, race, and Charlson comorbidity score.
+
+# RESULTS
+
+326 patients were approached, 84 (25.8%) did not enroll; 30% of enrolled were not engaged and did not graduate, and 10% died, moved, or entered skilled care by end of intervention. Enrolled patients' mean age was 64.9 (SD 14.6), 60.9% female, 89.1% Black, 25.5% Medicaid or Managed Medicaid, with average Charlson score of 7.6 (SD 3.3). 175 (91.1%) set goals and 68.2% achieved a goal. Combined relative utilization decreased by 33.1% from 1.6 events 6 months prior, 1.07 events during 6-month enrollment and 1.09 events 6 months after enrollment, p<0.0001 for unadjusted and adjusted models. We matched patients with recent utilization by age, sex, clinic, race, and Charlson score. The model for the 190 matched patients showed no significant change in utilization during the same 6-month periods (unadjusted p=0.85; adjusted p=0.85). Combined models showed significant intervention status (p=0.0015) and intervention*time interaction (p=0.0058) in unadjusted and adjusted models.
+
+# CONCLUSIONS
+
+Our central CM program reduced utilization by 33.1% during and after program graduation, with 68.2% of patients reaching a stated goal. Intervention patients had higher utilization at enrollment than matched control samples, which could indicate regression to mean, however control patients showed no regression to overall population mean from their initial utilization (mean utilization events for population =0.19 events SD 0.56).
+
+# CAREER CONSEQUENCES FOR MEDICAL STUDENTS EXPERIENCING SEXUAL HARASSMENT
+
+Emmanuelle B. Yecies1, 2; Melissa McNeil3. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA; 3University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185051)
+
+# BACKGROUND
+
+Recent studies have demonstrated the high prevalence of sexual harassment in medicine, with 30% of female physicians and over 15% of medical students endorsing sexual harassment. There is also increasing recognition that the spectrum of sex discrimination includes microaggressions. However, it remains unclear what consequences sexual harassment has on the attitudes and career trajectories of women in the field of medicine. We aimed to identify the effect of sexual harassment on

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DISSEMINATED CUTANEOUS VARICELLA ZOSTER VIRUS INFECTION IN AN HIV PATIENT
+
+Included WBC 6.9k K/μL, Hb 14.7g/dL and platelets 13 K/μL. Pertinent positive results included VZV IgM 0.96, VZV IgG >4000, EBV IgG >600, CMV IgG >10, AST 57 and ALT 78. Pertinent negative results included cryoglobulin and Coxsackie A/B viral titers. The patient was diagnosed with disseminated cutaneous VZV. He was treated with acyclovir for 14 days, dexamethasone and restarted on HAART with substantial improvement of his rash after one week.
+
+# IMPACT/DISCUSSION:
+
+Varicella zoster virus causes two clinically distinct diseases: varicella and herpes zoster. Varicella is characterized by vesicular lesions on erythematous bases in different stages of healing; the rash spreads first to the trunk then to the extremities, usually sparing palms, soles and genitals. Herpes zoster results from reactivation of the virus leading to painful, usually unilateral vesicular lesions in a dermatomal distribution. HIV patients are at a greater risk of developing herpes zoster than the general population. Additionally, disseminated cutaneous herpes zoster (VZV) is more common in immunocompromised patients, especially in those with HIV and in transplant recipients. Disseminated cutaneous VZV is characterized by a maculopaular rash with >20 lesions outside the affected dermatome; this rash also usually spares the palms/soles. This is the first reported case in the literature of disseminated cutaneous VZV affecting the palms and soles of an HIV patient.
+
+# CONCLUSION:
+
+VZV infection is common in immunocompromised patients. Therefore, in addition to more common causes—like syphilis and coxsackievirus—it is important to consider VZV infection in an immunocompromised patient who presents with an atypical rash affecting his/her palms and soles.
+
+# NOW WATCH ME WHIPPETS: AN ATYPICAL CAUSE OF PERIPHERAL NEUROPATHY
+
+Jason Ng; Angela Arbach. NYU Langone, New York, NY. (Control ID #3185506)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical & laboratory presentation of chronic nitrious oxide abuse.
+
+# CASE:
+
+51yo F with history of hypothyroidism and anxiety presented to the ED after being brought in from the street by police. Over the course of the past month, she reported mental slowing and relative weakness, numbness and tingling in her hands and feet, incoordination of fine motor movements and gait abnormalities. ROS was otherwise negative. She denied any visual or auditory hallucinations, SI or HI. Past medical, surgical and family history were unremarkable. She lives in Manhattan with her boyfriend, who was apprehended by authorities under similar circumstances. She takes daily synthroid and Valium and reported distant history of alcohol use 1 month ago. VS WNL. She was alert and oriented to self and location but believed the year was 1920 and exhibited word-finding difficulty. Physical exam revealed grossly normal cranial nerve functions without dysarthria, and normal strength, sensation, and bulk muscle tone. She had a negative Romberg exam but exhibited some impairment of proprioception sense in fingers and toes, particularly with downward movement. She was able to stand up and walk unassisted with a wide-based and unsteady gait. BMP, LFTs, coags, TSH, CPK were normal. CBC was remarkable for a leukopenia to 1.7 (ANC 250), Hgb 12.5 with an MCV of 87.8, platelets 166. Iron studies were suggestive of anemia of chronic disease, with LDH 240 and reticulocyte index was 0.9. Vitamin B12 returned low at 183 ng/L and homocysteine and methylmalonic acid levels were elevated at 191 umol/L and 0.9mmol/L respectively. Utox was positive for benzodiazepines. Many diagnoses were considered including MS, tertiary syphilis, and GBS, but the patient ultimately admitted to abusing up to 8-10 containers of whippets (small pressurized containers containing N2O) daily for the past month. Toxicology and neurology were consulted and her physical exam and lab derangements were thought to be secondary to a functional B12 deficiency, for which she was initiated on IM repletion. An MRI brain and spine was ordered but she ultimately left AMA. She intended on cutting back on whippets use and expressed a desire to "clear her head" on her walk home.
+
+# IMPACT/DISCUSSION:
+
+Nitrous oxide abuse has recently gained popularity as a recreational party drug due to its availability. When inhaled, it causes euphoria, analgesia within seconds. Chronic use leads to toxicity through the oxidation of cobalt ions in vitamin B12, hence causing inactivation. This causes reduced recycling of homocysteine to methionine, thereby preventing methylation of myelin proteins. Patients present with fatigue, weakness, poor balance and paresthesias and MRI imaging may show posterior column hyperintensities on T2W imaging. High-dose intramuscular B12 replacement is recommended, but recovery may ultimately be slow and incomplete.
+
+# CONCLUSION:
+
+N2O is a rare cause of functional B12 deficiency, pernicious anemia and peripheral neuropathy.
+
+# NUTCRACKER PHENOMENON MISDIAGNOSED AS LEFT RENAL VEIN THROMBOSIS
+
+Mohammad Zmaili; Motasem Alkhayyat; Mobin Malik; Deborah Hornacek. Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3176026)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and diagnose nutcracker phenomenon
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the difference between nutcracker phenomenon and nutcracker syndrome
+
+# CASE:
+
+A 61-year-old African American male with a history of hypertension, hyperlipidemia, and hepatitis C was incidentally found to have left renal vein thrombosis (RVT) on an abdominal ultrasound (US) during routine surveillance for hepatocellular cancer. The abdominal US appeared to demonstrate a left RVT on greyscale imaging and color power angiography with a recognizable Rouleaux flow. The patient remained asymptomatic. He was admitted and started on heparin infusion. Renal venous duplex US was repeated in a seated, instead of a supine, position with no evidence of RVT on color power angiography and power energy settings. However, there was a dynamic external compression of the vein. We concluded that the initial finding was not a true thrombus but rather a flow artifact due to the compression of the left renal vein as it passes between the aorta and the superior mesenteric artery (SMA), a phenomenon referred to as "Nutcracker phenomenon". Anticoagulation was stopped and the patient was discharged.
+
+# IMPACT/DISCUSSION:
+
+The patient described above had an incidental finding that was initially interpreted as left RVT. Given the rarity of spontaneous isolated RVT in the absence of nephrotic syndrome or renal malignancy, a repeat study was pursued. Interestingly, reimaging in the seated position alleviated the compression on the left renal vein and revealed no venous thrombosis. Rapid weight loss with reduction of retroperitoneal fat is thought to contribute to this phenomenon by decreasing the aortomesenteric angle (the angle between the aorta and SMA). When extrinsic left renal vein compression leads to the emergence of symptoms, the condition is referred to as nutcracker syndrome. Characteristic symptoms include flank or pelvic pain, hematuria, varicocele, and orthostatic proteinuria. Diagnosis is established based on clinical suspicion by imaging studies with demonstration of reduced aortomesenteric angle and increased left renal vein hilar-to-aortomesenteric diameter ratio. Management depends on severity and age of presentation. It ranges from conservative management for mild cases in younger patients, to intravascular or surgical interventions. This patient was asymptomatic with no significant laboratory abnormalities. He was educated on the symptoms of nutcracker syndrome for which he should seek medical attention.
+
+# CONCLUSION:
+
+Spontaneous isolated RVT is rare unless there is renal malignancy or nephrotic syndrome. The risk increases with inherited.

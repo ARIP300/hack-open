@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# ACCESS TO TREATMENT FOR DRUG USE DISORDER AT U.S. HEALTH CENTERS: A NATIONAL STUDY
+
+Benjamin I. Bearnot1; Danielle R. Fine2; Nancy A. Rigotti1; Travis P. Baggett1. 1Massachusetts General Hospital, Boston, MA; 2Massachusetts General Hospital, Brookline, MA. (Control ID #3185426)
+
+# BACKGROUND:
+
+Drug use disorder (DUD) is a growing public health concern in the US, particularly among medically-underserved and low-income populations. Treatment rates for DUD remain low despite the existence of evidence-based behavioral and pharmacologic treatments. Little is known about the barriers to accessing DUD treatment at federally-funded US health centers, which provide care to nearly 30 million vulnerable individuals annually. The aim of this study was to examine the continuum of DUD care, location of treatment delivery, and barriers to receiving treatment at Health Resources and Services Administration (HRSA) funded health centers.
+
+# METHODS:
+
+We analyzed data from adult respondents to the 2014 Health Center Patient Survey, a cross-sectional, nationally representative, in-person survey of HRSA health center patients conducted between 9/2014 and 4/2015 with a 3-stage sampling design. The main measure was self-reported symptoms of DUD, assessed using the WHO ASSIST questionnaire. Individuals with 2 symptoms were defined as having a diagnosis of DUD. We examined responses to a series of questions regarding receipt of DUD care, the location of this care, and the primary reason individuals were unable to access treatment. We conducted analyses in SAS using strata, cluster, and weight variables to account for complex sampling design. Percentages are weighted to reflect health center patients nationally. Rao-Scott 2 tests and t-tests were used to compare proportions and means, respectively, with a 2-sided P value <0.05 for significance.
+
+# RESULTS:
+
+Among 5,547 participants, 374 (4.5%) had current evidence of DUD. 293 individuals (85.3%) had a single DUD, while 81 (14.7%) had a DUD of 2 or more substances. Among respondents with DUD, the most commonly used substances were cannabis (74.8%), sedatives (21.1%), cocaine (19.1%), stimulants (15.5%) and opioids (10.6%). 11.6% had ever used injection drugs. 49.7% reported discussing drug use with a health professional, 35.7% reported wanting or needing treatment, and 28.3% reported receiving treatment for DUD. Among 102 individuals who reported receiving DUD treatment, 37% received treatment that was delivered at a HRSA health center, while 63% sought treatment elsewhere. Among 41 respondents who wanted but did not receive DUD treatment, the most commonly reported reasons for not obtaining treatment were stigma, skepticism about treatment, logistical and financial barriers.
+
+# CONCLUSIONS:
+
+Symptoms of DUD were more common in this nationally representative study of community health center attendees than in other national surveys, although there are notable differences in methodology. Only half of individuals with DUD discussed their drug use with a health professional, and even fewer reported wanting, needing, or receiving treatment. Marked losses across the continuum of DUD care highlight the considerable barriers to routinely identifying, referring, and linking individuals to effective addiction care at U.S. health centers.
+
+# ACUTE HEART FAILURE EXACERBATION AND INFLUENZA INFECTION
+
+Nicholas Daering; Lindsey Aurora; Lucas Maahs; Zachary Bauer; Ahmed Dakka; Leika Raychouni. Henry Ford Hospital, Detroit, MI. (Control ID #3176759)
+
+# BACKGROUND:
+
+Influenza infection causes 3-5 million cases of severe illness annually and has been linked to exacerbations of congestive heart failure (CHF) as well as myocarditis. Patients with diagnosed CHF appear to have an increased risk of hospitalization during influenza season, but a relationship between serologically diagnosed influenza infection and acute heart failure (AHF) exacerbations has not been studied.
+
+# METHODS:
+
+This was a retrospective chart review studying patients with a diagnosis of CHF between April and October 2016 with specific focus on those presenting with AHF exacerbations until 2018. Descriptive data was collected regarding patient demographics, total number and dates of encounters, length of stay, presenting laboratory values, influenza testing results, intensive care admission, and outcomes including mortality. This data was divided based on influenza testing status and univariate analysis was applied to capture any association of peak influenza infection with peak AHF encounters, correlation of influenza infection with length of stay, and correlation of influenza infection with patient demographics. Descriptive statistics were gathered on all variables of interest. Statistical significance was set at p-value <0.05. All analyses were performed using SAS 9.4.
+
+# RESULTS:
+
+Out of 1880 patients with a diagnosis of AHF exacerbation, there were two defined groups: influenza positive (n=28), and influenza negative/not tested (n=1852). There was no significance noted amongst the rate of heart failure exacerbations between these two groups (Table 1, p-value 0.134). Out of all variables analyzed, only two demonstrated statistical significance between influenza positive and influenza negative/not tested groups. Diagnosis of pulmonary hypertension (p-value 0.013) and coronary artery disease (p = 0.031) was more likely in influenza positive patients. No statistically significant correlation was found for the primary endpoint of influenza positivity with acute heart failure exacerbation.
+
+# CONCLUSIONS:
+
+This data comprised a significant portion of patients with AHF exacerbations with negative influenza tests or those that were not tested. This allows us to deduce that perhaps a larger cohort of patients may be required to determine if there is true statistical significance of additional variables and endpoints. These results also indicate a need for higher clinical suspicion of influenza infection in patients with heart disease, particularly coronary artery disease and pulmonary hypertension. Future studies may also focus on the effect of influenza treatment on hospital outcomes for cardiac patients.
+
+# ADDING SOCIAL AND FUNCTIONAL DETERMINANTS OF HEALTH IMPROVES READMISSION RISK PREDICTION IN URBAN UNDERSERVED ADULTS HOSPITALIZED FOR ACUTE MYOCARDIAL INFARCTION
+
+Oanh K. Nguyen1, 2; Anil N. Makam1, 2; Christopher Clark3; Sameh Saleh 1; Sandeep R. Das4; Ethan Halm 5. 1UT Southwestern Medical Center, Dallas, TX; 2 University of California, San Francisco, San Francisco, CA; 3Parkland Health & Hospital System, Dallas, TX; 4University of Texas Southwestern Med Ctr, Dallas, TX; 5Univ of TX Southwestern Med Ctr, Dallas, TX. (Control ID #3181967)
+
+# BACKGROUND:
+
+Although social and functional determinants of health (SFDoH) are increasingly recognized to contribute to increased 30-day readmission risk for cardiovascular illnesses, most health systems lack individual-level data to enable individual risk stratification and targeted interventions to address these needs. We sought to determine whether electronic health record (EHR) data in SFDoH domains collected as a part of routine inpatient care from a safety-net hospital could be used to enhance prediction of 30-day readmissions beyond traditional clinical risk factors alone among underserved adults hospitalized with acute myocardial infarction (AMI).
+
+# METHODS:
+
+We used Epic EHR data on AMI hospitalizations from 2014-2017 in an urban safety-net hospital in Dallas to predict non-elective 30-day readmissions to any of 75 hospitals in north Texas, using a

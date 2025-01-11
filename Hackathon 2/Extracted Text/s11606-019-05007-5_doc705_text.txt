@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# SUB-INTERN PREPARATORY COURSE
+
+competencies. Given the short duration of sub-internship experience as well as competing responsibilities, it is unlikely sub-interns will be exposed to much of the proposed core curriculum. In response, we created a one-day Sub-internship Preparatory Course to cover core curricular material as well as to address topics that are often not formally covered during the clinical years.
+
+# SETTING AND PARTICIPANTS:
+
+All third-year medical students were invited to enroll and attend the one-day preparatory course approximately one month prior to starting their fourth year clinical work. All students who attended the Prep Day received course credit.
+
+# DESCRIPTION:
+
+A one-day preparatory experience was designed to address topics not often formally addressed in M4 clinical training, specifically those based on student feedback and literature review that align AAMC EPAs with ACGME Sub-competencies. These included hand-off communication, opioids and pain management, antibiotic stewardship, high-value care and intravenous access. We invited local experts to deliver interactive talks on all five topics. Students were asked to assess their preparedness in each of the topic areas before and after the interactive discussions, as well as evaluate the Preparatory Course experience overall.
+
+# EVALUATION:
+
+Eighty percent (70/88) of the third-year medical students attended the course. 84% (59/70) of students completed the pre-course survey while 94% (66/70) completed the post-course survey. The two-sample Wilcoxon rank-sum (Mann-Whitney) test was used to compare students' responses to 10 items questions (2 per topic) before and after Prep Day. Students perceived preparedness improved significantly after the Prep Day experience in 9 of 10 topics (P 0.0000). The only non-significant improvement was locating the University of Chicago antibiotic stewardship antibiogram and treatment pathways.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The clerkship years are not necessarily preparing students for advanced communication skills or safe, effective care around high-risk medications. A one-day boot camp experience improved perceived preparedness significantly in all but one category. We are currently assessing late-term (6 months) knowledge and preparedness and hope to incorporate a direct patient care observation experience for one or more of the covered topics following the 2019 Prep Day Course.
+
+# EQUAL MEDICINE: A NOVEL CAREER DEVELOPMENT PROGRAM FOR WOMEN PHYSICIANS IN AN INTERNAL MEDICINE RESIDENCY PROGRAM
+
+Aditi Ramakrishnan2; Nicole Hadeed1; Jennifer R. Lukela1. 1University of Michigan Medical School, Ann Arbor, MI; 2The Ohio State University, Columbus, OH. (Control ID #3185742)
+
+# NEEDS AND OBJECTIVES:
+
+1. Identify the career development needs of women residents in Internal Medicine (IM). 2. Develop a curriculum to address gaps in traditional IM residency education, empower women residents, and foster gender equity.
+
+# SETTING AND PARTICIPANTS:
+
+We conducted a survey to understand the unique career development needs of women residents in our IM training program. We evaluated resident perception of the importance of various career advancement topics, preferred educational formats for content delivery, and perception of access to mentorship and female faculty role models. All women IM and Medicine-Pediatrics residents were invited to complete the needs assessment. Based on survey results, a pilot curriculum was developed. Post-workshop evaluations were distributed to all participating residents.
+
+# DESCRIPTION:
+
+The pilot curriculum consisted of three workshops open to all women residents in our training program. Sessions focused on the topics ranked most highly in the needs assessment: negotiation strategies (19%), leadership skills (16%), and strategies for career advancement (15%). Bold and Brave featured a panel with women leaders in academic and private-practice medicine with small and large group discussions. Art of Negotiation focused on negotiation and career advancement strategies. The final workshop, Perfecting your Pitch, was an interactive session which featured strategies to combat imposter syndrome and become comfortable with self-promotion for career advancement.
+
+# EVALUATION:
+
+Needs assessment survey response rate was 63%. These results were used to develop the pilot curriculum themes and format. Both quantitative and qualitative analysis was applied to post-workshop evaluations. Following Bold and Brave, 92% participants agreed/strongly agreed that they had a better understanding of how to develop leadership skills. Qualitative coding revealed that hearing "personal stories and experiences" of women physician leaders was most formative for resident attendees. All residents (100%) who attended the Art of Negotiation workshop agreed/strongly agreed that they had a better understanding of how to develop skills in negotiation following the session. Residents again highlighted personal stories and "hearing from real women" as most valuable. After Perfecting your Pitch, 89% of participants strongly agreed that the session was useful and covered relevant topics. 100% trainees agreed/strongly agreed that the session was conducive to increasing self-confidence.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our survey revealed gaps in the traditional IM residency curriculum, particularly for women trainees. This educational initiative sought to bridge those gaps and empower women residents with key skills and knowledge to advance their careers and foster equity in medicine. Based on post-workshop assessments, this curriculum achieved these goals and provided additional opportunities for women residents to identify women faculty mentors. This curriculum has created a novel, impactful educational space for women residents in our residency program.
+
+# EVALUATING RESIDENT OBSERVED STRUCTURED CLINICAL EXAMINATION (OSCE) PERFORMANCE WITH A MILESTONE-BASED SCORING TOOL
+
+Molly A. Kantor1; Brian Kwan2, 3; Talya Bordin-Wosk2, 4; Nivedita Ghosh2, 3; Blaine Lovetro2, 3; Meghan Sebasky2, 4; Rebecca Sell2, 4; Stacy T. Charat2, 3. 1University of California, San Francisco, San Francisco, CA; 2University of California, San Diego, Del Mar, CA; 3VA San Diego Healthcare, San Diego, CA; 4University of California, San Diego, San Diego, CA. (Control ID #3184477)
+
+# NEEDS AND OBJECTIVES:
+
+Internal medicine (IM) residency programs currently evaluate resident performance based on six Accreditation Council for Graduate Medical Education (ACGME) domains of clinical competency that encompass 22 milestones representing core competencies of becoming a physician. Recognizing that these domains can also be evaluated during Observed Structured Clinical Examination (OSCEs), we sought to create an OSCE scoring tool that reflected these milestones. Objectives: 1. Develop a novel evaluation tool for the OSCE based on competency milestones 2. Assess ease of use and consistency of a milestone-based OSCE evaluation tool.
+
+# SETTING AND PARTICIPANTS:
+
+In 2016 and 2017, all PGY-1 IM residents (interns) completed an OSCE during the first month of residency. Interns rotated through four 15-minute scenarios: evaluation of a patient with chest pain, disclosure of medical error (two distinct scenarios), and delivery of feedback to a learner with knowledge deficits. Participants received immediate feedback from faculty and peer observers. The encounters were videotaped.
+
+# DESCRIPTION:
+
+We developed a structured scoring tool based on ACGME milestones and adapted to each clinical scenario, scored on a five-point Likert scale.

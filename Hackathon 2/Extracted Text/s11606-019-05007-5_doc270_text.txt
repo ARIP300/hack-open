@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# THE ASSOCIATION OF SHARED DECISION-MAKING FOR DIABETES PREVENTION WITH BLOOD PRESSURE CONTROL AND HYPERTENSION MEDICATION USE: 12-MONTH RESULTS FROM THE PREDIABETES INFORMED DECISION AND EDUCATION (PRIDE) STUDY
+
+O. Kenrik Duru1; Norman Turk1; Tannaz Moin2; Kia Skrine Jeffers3; Yelba Castellon-Lopez3; Chi-Hong Tseng4; Amanda V. Vu5; Keith Norris1; Carol Mangione5. 1 UCLA, Los Angeles, CA; 2 UCLA/VA Greater Los Angeles, Los Angeles, CA; 3 University of California, Los Angeles, Los Angeles, CA; 4 UCLA, Los Angeles, CA; 5 David Geffen School of Medicine at UCLA, Los Angeles, CA. (Control ID #3185754)
+
+# BACKGROUND:
+
+Intensive lifestyle change (e.g., the Diabetes Prevention Program/DPP) and metformin both reduce type 2 diabetes risk. Shared decision-making (SDM) may help patients select the option for diabetes prevention best aligned with their preferences. The PRIDE study of SDM for diabetes prevention resulted in greater uptake of both lifestyle change and metformin, as well as greater weight loss at 12 months. In the current analyses, we examined the effect of PRIDE on change in blood pressure (BP) control and hypertension (HTN) medication use from baseline to 12-month follow-up.
+
+# METHODS:
+
+PRIDE is a cluster-randomized trial of SDM for diabetes prevention within a large regional health system. PRIDE enrolled overweight/obese adults with prediabetes (HbA1c 5.7-6.4%) from 10 randomly selected SDM intervention clinics, and used propensity score matching to identify control patients from 10 randomly selected usual care clinics. Intervention participants were invited to participate in a face-to-face SDM visit with a pharmacist who used a decision aid (DA) to engage participants in possible options for diabetes prevention; DPP, DPP +/- metformin, metformin only, or usual care. The endpoints for the current analyses were change from baseline to 12 months in 1) BP control defined by <140/90 and 2) number of HTN medication classes. To assess BP at 12 months, we used the closest available BP measured in clinic within 9-16 months of baseline. We classified HTN medications into 13 classes: thiazide diuretics, loop diuretics, potassium-sparing diuretics, aldosterone receptor blockers, beta-blockers, ACEs, ARBs, direct renin inhibitors, non-dihydropyridine CCBs, dihydropyridine CCBs, alpha blockers, centrally acting medications and direct vasodilators. Endpoints were extracted from the local electronic health record. Analyses were adjusted for clinic but no other covariates.
+
+# RESULTS:
+
+PRIDE included 515 intervention participants and 1,296 controls with measured BP at baseline, of whom 185 intervention and 552 control participants had an existing HTN diagnosis. We had complete data on 12 month BP values for 456 intervention participants (88.5%) and 1,046 control participants (80.7%). As compared to control participants (72.4%), intervention participants (77.4%) were more likely to have controlled blood pressure at baseline (p=0.04). However, there was no statistical difference in change of blood pressure control between groups over time (p=0.82). Among participants with diagnosed HTN, there was no difference in the mean number of anti-hypertensive medication classes taken by intervention (1.58) and control (1.56) patients at baseline (p=0.87). There was also no statistical difference in the change in number of anti-hypertension medication classes between groups over time (p=0.27).
+
+# CONCLUSIONS:
+
+A prediabetes SDM intervention led by pharmacists was not associated with improvements in BP control or differences in the number of HTN medications at 12 months, in an intention-to-treat analysis.
+
+# THE CONFIDENT COUNSELOR: THE IMPACT OF A CULINARY NUTRITION CURRICULUM ON MEDICAL STUDENTS' READINESS TO DISCUSS HEALTHY LIFESTYLE INTERVENTIONS WITH THEIR PATIENTS
+
+Nathan Wood1; Rebecca Gleit; Diane L. Levine3. 1 Wayne State University, New York, NY; 2 Stanford University, Stanford, CA; 3 Wayne State University, Detroit, MI. (Control ID #3181165)
+
+# BACKGROUND:
+
+The World Health Organization estimates that 80% of non-communicable diseases could be prevented if 4 key lifestyle practices were followed, the first of which is a healthy diet. For many, education on this tenet comes from their physician. However, as few as 20% of medical schools currently offer a dedicated nutrition course, and physicians perform lifestyle counseling in as few as 34% of their patient encounters. We hypothesized that an engaging culinary nutrition course intervention would better equip medical students to counsel their future patients on a healthy diet.
+
+# METHODS:
+
+With all first-year medical students at our school eligible, 10 participants enrolled in a voluntary, 4-part, 8-hour culinary nutrition course comprised of culinary-nutritional instruction and hands-on cooking in small groups. Assessment surveys were completed immediately prior to, immediately following, and 2 months after the intervention. Surveys included self-reported measures of attitudes regarding teaching healthy diet principles and an objective evaluation of culinary knowledge. The primary outcome was within-subject changes in attitude regarding counseling patients on the tenets of a healthy diet. Secondary outcomes included within-subject improvements and sustainability of culinary knowledge.
+
+# RESULTS:
+
+Overall survey completion was 99% across the 3 time-points. At baseline, the participants reported — on a 10-point scale (10 = highest) — high confidence in their ability to counsel patients on practicing a healthy diet based on their medical knowledge (mean 6.0 [95% confidence interval 5.1, 6.9]) and nutritional knowledge (5.9 [5.3, 6.5]) and low confidence based on their culinary knowledge (4.5 [3.3, 5.7]). Immediately post-intervention, participants' confidence in their nutritional knowledge (standardized mean difference 2.12 [95% confidence interval 1.02, 3.21]) and culinary knowledge (1.99 [0.92, 3.06]) significantly improved. There were no statistically significant differences between the immediately post-intervention and 2 months post-intervention timepoints (P = 0.189, 0.494). Overall, the participants reported feeling more prepared to counsel patients on a healthy diet immediately post-intervention compared to baseline (1.93 [0.87, 2.99]), and this did not change significantly 2 months later (P = 0.322). Scores on the objective test of culinary knowledge were significantly improved at both immediately post-intervention (3.20 [1.84, 4.56]) and 2 months post-intervention (1.09 [0.12, 2.05]) compared to baseline.
+
+# CONCLUSIONS:
+
+A culinary nutrition pilot course improved medical students' culinary-nutritional knowledge and confidence in counseling patients. Gains were maintained for 2 months post-intervention. Adding a culinary nutrition course to medical school curricula may result in improved abilities of students to provide dietary counseling. Further studies are needed to confirm results.
+
+# THE DOCTOR SAYS YOU CANNOT HAVE IT: A QUALITATIVE STUDY OF NON-PRESCRIPTION BUPRENORPHINE USE AMONG PARTICIPANTS AT HARM REDUCTION AGENCIES
+
+Benjamin Hayes1; Andrea Jakubowski1; Aaron D. Fox2. 1 Montefiore Medical Center, New York, NY; 2 Montefiore Medical Center, Bronx, NY. (Control ID #3185960)
+
+# BACKGROUND:
+
+Buprenorphine is an effective opioid use disorder (OUD) treatment. Barriers to care limit access to formal buprenorphine treatment, but people with OUD may use diverted buprenorphine (i.e., acquired without a prescription) to "self-treat" OUD. Few studies have explored diverted buprenorphine use in detail. This qualitative study investigated why people use diverted buprenorphine instead of seeking prescriptions.
+
+# METHODS:
+
+In-depth, semi-structured interviews were conducted at harm reduction agencies in New York City. Participants were adults with self-reported OUD and prior buprenorphine use. Transcribed interviews were independently coded by three investigators, who generated preliminary themes from the coded data. Thematic analysis entailed iterative reading of the data.

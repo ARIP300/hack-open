@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Variation in Hospitalization Trajectories for Patients Enrolled in the Comprehensive Care Physician (CCP) Program
+
+This is a qualitative study embedded within a randomized controlled trial (CCP versus usual care). In-depth interviews were conducted with a purposive sample of intervention arm patients experiencing decreasing hospitalization (n=13) and persistent hospitalization (n=9) and with CCP clinical staff (n=8). Data were analyzed by a multi-disciplinary research team using inductive coding following the principles of General Thematic Analysis, and synthesized according to the Socio-ecological Model. All transcripts were coded by at least two team members; common themes were developed through discussion in face-to-face meetings.
+
+# Results
+
+Our analysis reveals three key themes. First, while patients tended to focus exclusively on individual-level factors (medical illness, self-care behaviors) influencing their hospitalization trajectory, providers and staff highlighted a more complex, broader range of factors at the individual (mental health, substance use), interpersonal (social support) and societal levels (transportation, housing security). Second, both intervention patients and providers described the importance of program-related factors (coordination of care, continuity of care) in decreasing hospitalization frequency; however, neither patients nor providers described program-level factors as contributing to persistent hospitalization. Third, while providers noted the importance of strong patient-provider relationships in decreasing hospitalizations, patients, regardless of hospitalization frequency, highly valued a positive and trusting relationship with their provider.
+
+# Conclusions
+
+Programs seeking to reduce hospitalization among high cost, high need patients would benefit from emphasizing individual-level interventions for patient-based self-care while simultaneously addressing interpersonal, organizational and societal-level issues. Given the value that patients place on trusting, positive relationships with providers, patients may appreciate a model that prioritizes longitudinal provider continuity over the addition of an increased number of short-term providers and staff as is characteristic of many current care management programs.
+
+# Undiagnosed Cancer Risk in Women Undergoing Uterine Artery Embolization for Leiomyomata
+
+Jackie V. Rodriguez1; Rebecca Perkins1; Jake Roberts Morgan1; Susan O'Horo1; Eung-Mi Lee1; Benjamin Matthews1; Michael K. Paasche-Orlow2. 1Boston University Medical Center, Boston, MA; 2Boston University, Boston, MA. (Control ID #3180355)
+
+# Background
+
+Symptomatic fibroids were historically treated with hysterectomy. More recently, minimally invasive options for treating fibroids while preserving the uterus have been developed. Uterine artery embolization (UAE) is one of the most common techniques, and allows up to 80% of women to successfully treat their symptoms without hysterectomy. However, retaining the uterus raises the possibility of missing an occult cancer. We examined the likelihood of subsequent gynecologic cancer development in women undergoing UAE.
+
+# Methods
+
+Administrative data from 2007 to 2016 were obtained from MarketScan, a database of diagnostic and treatment data for over 60 million commercially insured individuals in the US. Our analysis was limited to women at least 18 years of age without prior diagnosis of cancer who underwent UAE for treatment of leiomyomata and had on average 4.2 years of follow-up. Records were electronically queried for any inpatient or outpatient diagnostic or procedure codes (ICD-9, ICD-10, and CPT) related to uterine, cervical, tubal, or ovarian malignancies occurring after the procedure date through the end of follow-up. All codes for all charts identified through electronic query were then manually reviewed by a minimum of 3 coders, and discrepancies resolved by consensus. Diagnosis of cancer was defined as having at least two codes for gynecological malignancy submitted at least one week apart and/or those with malignancy codes linked to tissue pathology results. Descriptive statistics were generated for the final study sample.
+
+# Results
+
+Between 2007 and 2016 20,575 women underwent UAE. Fifty-one women met our criteria for exhibiting cancer after undergoing UAE (37/51, 73% uterine cancer; 13/51, 25% ovarian cancer; and, 1/51, 2% cervical cancer). On average, women in our sample exhibited cancer within 2.3 years from the date of UAE with a standard deviation of ±2.14 years and a range of 17 days to 7.8 years. We estimated that 1 in 403 (95% CI: 1 in 354 to 1 in 469) women undergoing UAE were at risk for developing a gynecological malignancy.
+
+# Conclusions
+
+A small fraction of women undergoing UAE go on to develop gynecologic malignancies—the majority of which may have been avoided with hysterectomy. Women choosing uterine preservation with UAE for symptomatic fibroids should be aware that they might develop gynecologic malignancies in the future that could be prevented with hysterectomy.
+
+# Unlocking Implicit Bias: Implementation of an Implicit Bias Workshop to Increase Resident Physician Awareness of Personal Implicit Bias and Its Effect on Patient Care
+
+Vy Pham1; Jabraan Pasha2; Jacob Murray1. 1OU-TU School of Community Medicine, Broken Arrow, OK; 2University of Oklahoma, Tulsa, OK. (Control ID #3178438)
+
+# Background
+
+Unconscious attitudes, also known as implicit biases are ubiquitous and their effects are wide-ranging. From something as seemingly insignificant as the clutching of a purse in lieu of a passerby to something of potential great consequence such as the lack of a surgical referral, the fingerprints of implicit bias are on many of the decisions we make. However hard it is to conceive, physicians' patient care decisions are not immune to the influence of unconscious beliefs and attitudes, and the data showing the effect of implicit bias on healthcare disparities is growing. Mirroring the societal disparities seen in the criminal justice system and workforce, in healthcare, the divide is just as great. Given the strong data linking implicit bias to healthcare disparities, it is very important to promote awareness of implicit bias in not only healthcare, but also healthcare providers as individuals. Our study looked to increase resident awareness and confidence in managing unconscious attitudes and beliefs that may be affecting patient care.
+
+# Methods
+
+Participants were 53 internal medicine, pediatric and family medicine residents at OU-TU School of Community Medicine. Between August 2018 and October 2018, during Academic Grand Rounds, participants attended a 90-minute implicit bias workshop. The interactive workshop looked to define implicit bias, demonstrate its origins and show its societal impact via lecture, hands-on activities and small group discussion. Via a 7-point Likert scale, a pre and post-workshop questionnaire measured participants' awareness of implicit bias and confidence in discovering and managing implicit attitudes. Data was analyzed via paired T-test analysis.
+
+# Results
+
+There was a mean increase of resident physicians' awareness of general, personal implicit bias (mean increase of 0.938, P<.001) and awareness of implicit bias toward patients (mean increase 0.698, P<.001). The results also reflected an increase in confidence in discovering personal implicit bias (mean increase 0.358, P<.001) and in management of implicit attitudes discovered about patients (mean increase 0.321, P<.001).
+
+# Conclusions
+
+Our implicit bias workshop proved successful in increasing resident awareness of their vulnerability to unconscious attitudes and in increasing their confidence in recognizing and managing these same attitudes. Although increasing awareness, alone is not an adequate strategy for eliminating implicit bias and discriminatory practices that often follow, it has been shown to be effective in beginning to limit the unconscious bias. Paired with increased confidence in recognizing and managing these biases, this workshop appears to be a practical and effective first step towards combatting implicit bias.

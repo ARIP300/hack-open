@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# IMPACT OF HIGH-DEDUCTIBLE INSURANCE ON BREAST CANCER CARE AMONG RURAL WOMEN
+
+James F. Wharam; Jamie Wallace 1; Fang Zhang 1; Anita Wagner 1; Christine Lu 1; Larissa Nekhlyudov 2; Craig C. Earle 3; Stephen B. Soumerai 1; Dennis Ross-Degnan 1. 1Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, MA; 2Dana Farber Cancer Institute, Boston, MA; 3Institute for Clinical Evaluative Sciences, Toronto, ON, Canada. (Control ID #3184500)
+
+# BACKGROUND:
+
+High-deductible health plans are increasingly common but are associated with breast cancer care delays of up to 7 months among average commercially-insured women. High cost sharing might represent an especially large barrier to care among rural women who generally have challenging access to health care services and lower incomes. We hypothesized that rural women in high-deductible plans, when compared to rural women in more generous plans, would experience substantial delays in breast cancer services.
+
+# METHODS:
+
+We used 2004-2014 data from a large US health insurer and a before-after controlled time-to-event analytic approach. We applied the Rural-Urban Commuting Area Codes classification to identify women living in rural areas (codes 4 through 9). We included 32,105 rural women in high-deductible plans age 25-64 without evidence of breast cancer prior to the baseline period. These women were continuously enrolled for 1 baseline year in a low-deductible ($500) plan followed by up to 4 years in a high-deductible ($1000) plan after an employer-mandated switch. The comparison group included 254,022 contemporaneous rural women whose employers offered only low-deductible plans and who were closely matched on baseline characteristics. Measures were times to first diagnostic breast imaging, first breast biopsy, incident early-stage breast cancer diagnosis, and first breast cancer chemotherapy. We estimated delays in care in the high-deductible and control groups at baseline and follow-up using a parametric regression survival time model with a Weibull distribution, adjusting for baseline characteristics.
+
+# RESULTS:
+
+We detected no differences in the timing of breast cancer care at baseline when both study groups had low-deductible plans. During follow-up, the delay among rural high-deductible members compared to rural low-deductible members was 1.6 months (p<0.01) for receiving first breast diagnostic imaging, 3.0 months (p<0.05) for undergoing first breast biopsy, 8.1 months (p<0.05) to incident breast cancer diagnosis, and 10.0 months (p<0.05) to breast cancer chemotherapy initiation.
+
+# CONCLUSIONS:
+
+Rural women who were switched to high-deductible insurance experienced substantial delays in diagnostic breast imaging, breast biopsy, early-stage breast cancer diagnosis, and chemotherapy initiation compared to rural women in low-deductible plans. Health insurers, primary care physicians, oncologists, and population health managers should carefully monitor breast cancer care among rural women enrolled in high-deductible health plans. Strategies such as value-based insurance and targeted outreach might be needed to prevent adverse outcomes.
+
+# IMPACT OF INTERIM BUPRENORPHINE PRESCRIBING ON DISCHARGE FROM INPATIENT DETOX ON HOSPITAL READMISSIONS
+
+Cynthia Eleanya 1; Darius Rastegar 2; Megan Buresh 1. 1Johns Hopkins Bayview Medical Center, Baltimore, MD; 2Johns Hopkins University, Baltimore, MD. (Control ID #3183854)
+
+# BACKGROUND:
+
+Maintenance treatment with buprenorphine has been shown to be an effective treatment for opioid use disorder (OUD), but the majority of Americans with OUD are not in treatment. Inpatient hospitalization provides an opportunity to identify patients with OUD and start them on treatment. The objective of this study was to determine if providing patients with a prescription for buprenorphine after discharge from inpatient treatment for withdrawal is associated with a decrease in 30 day hospital admissions and to determine factors associated with frequent hospital admissions.
+
+# METHODS:
+
+All patients admitted for inpatient withdrawal treatment at Johns Hopkins Bayview from October 2016 to December 2017, and discharged with a new script for buprenorphine were included. Wilcox Rank Sum was used to compare change in number of patients with pre vs. post intervention 30 day hospital admission. Student's T-test was used to compare pre vs. post intervention 30-day hospital admission rates.
+
+# RESULTS:
+
+A total of 57 patients received a new buprenorphine prescription during study period. 55 patients (96.5%) had a hospital admission prior to their current admission and 14 (24%) patients had a hospital admission in the 30 days after their current admission (P <0.001). 30-day hospital admission rate was 1.54% prior to the current admission and 0.51% after the current admission (p <0.001).
+
+# CONCLUSIONS:
+
+Initiating buprenorphine prescription for patients with opioid use disorder after inpatient withdrawal treatment is associated with a significant decrease in 30-day hospital readmissions.
+
+# IMPACT OF MEDICAL HOME IMPLEMENTATION ON MISSED TEST RESULTS FOR DIAGNOSTIC EVALUATION OF CANCER
+
+Debra Choi 1; Ashley N. Meyer 1; Li Wei 1; Daniel R. Murphy 1; Hardeep Singh 2. 1Baylor College of Medicine, Houston, TX; 2Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, TX. (Control ID #3178465)
+
+# BACKGROUND:
+
+Lack of timely follow-up of test results can lead to delays in cancer diagnosis. We previously identified certain results to be high-risk for delays: positive fecal occult blood tests/fecal immunochemical tests.

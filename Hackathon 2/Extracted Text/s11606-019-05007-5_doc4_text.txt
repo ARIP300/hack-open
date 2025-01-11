@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# Violent Sexual Initiation and Health Outcomes
+
+Sexual initiation before age 15 and 6.0% of women with FSI (vs. 0.1% without FSI) reported sexual initiation before turning 11. Women who experienced FSI were somewhat less likely to be white, born in the US, college educated and have incomes above the poverty level, but all demographic groups reported substantial rates. Women who reported FSI had more lifetime pregnancies (2.4 vs. 1.9 p<0.001) and lifetime sexual partners (9.6 vs. 7.4 p<0.001), and were more likely to have an unwanted first pregnancy (OR 1.7 [1.3-2.2]) and an abortion (OR 1.4 [1.1-1.8]). FSI survivors had higher rates of gynecologic illnesses, e.g. endometriosis (OR 1.6 [1.1-2.3]), pelvic inflammatory disease (OR 2.2 [1.5-3.4]) and disorders of ovulation or menstruation (OR 1.8 [1.4-2.3]) than other women. Though uncommon in both groups, victims of FSI more frequently reported illicit drug use (2.6% vs. 0.7%, OR 3.6 [1.8-7.0]) in addition to fair or poor health (OR 2.0 [1.5-2.7]) and difficulty completing tasks due to a physical or mental health condition (OR 2.8 [2.0-3.9]).
+
+# CONCLUSIONS:
+
+Violent sexual initiation is common, and associated with adverse reproductive and general health outcomes, and may impact functioning later in life. These findings highlight the importance of trauma-informed care in clinical settings, and the urgent need to develop public health and other strategies to prevent sexual coercion and assault.
+
+# Buprenorphine and the Treatment Divide Between Whites and Blacks
+
+Pooja A. Lagisetty; Ryan Ross; Amy Bohnert; Michael Clay; Donovan Maust. University of Michigan, Ann Arbor, MI. (Control ID #3184065)
+
+# BACKGROUND:
+
+Opioid overdoses are increasing amongst both Black and White populations, but receipt of medication treatment for opioid use disorders (OUD) may differ by race and income. Studies examining disparities in receipt of medications used to treat OUD have been limited to examining methadone and buprenorphine provided by opioid treatment programs (OTPs). However, most patients never seek specialty addiction treatment and are largely cared for in office-based settings. There have been no studies examining racial disparities in the receipt of buprenorphine in office-based settings, where the majority of patients seek care. Here we describe time trends in buprenorphine office-based visits by race and payment type in the US.
+
+# METHODS:
+
+We combined data from the National Ambulatory Medical Care Survey (NAMCS) and the National Hospital Ambulatory Medical Care Survey (NHAMCS) hospital outpatient departments (OPD) to examine visits where buprenorphine was prescribed between 2004-2015, aggregated into four-year periods. We estimated buprenorphine prescription rate estimates by race and payment. We used the most recent period (2012-2015) to test the association of race with receipt of buprenorphine with logistic regression adjusting for age, gender, payment method, and complex survey design elements.
+
+# RESULTS:
+
+Between 2004-2015, buprenorphine visits rose from 0.04% of all ambulatory visits to 0.36% and in total constituted an estimated 13.4 million visits between 2012-2015. By 2012-2015, buprenorphine was a prescribed medication during more visits of white patients than other races (12.7 million [CI 8.6 million - 16.8 million] versus 363,000 [CI 134,000 - 594,000]). Self-pay and private insurance were the most common payment methods across all years. The use of self-pay for buprenorphine visits dramatically increased from 585,568 [CI 0 - 1.3 million] visits in years 2004-2007 to 5.3 million [CI 2.5 million - 8.5 million] in 2012-2015. After accounting for payment, gender, and age, Black patients had significantly lower odds of receiving buprenorphine at their visits (adjusted odds ratio 0.23 [CI, 0.13-0.44]).
+
+# CONCLUSIONS:
+
+Our findings demonstrate wide and growing disparities in the receipt of buprenorphine by race and insurance across the U.S. It is notable that, nationally, visits paid for by private insurance and self-pay have surpassed those paid for with public insurance despite recent improvements in addiction treatment coverage for Medicaid beneficiaries after the Affordable Care Act. This study provides alarming evidence of disparities in buprenorphine treatment for OUD. With rising rates of opioid overdoses, it is imperative that policy and research efforts specifically address racial and economic disparities in treatment access and engagement.
+
+# Increasing the Medical Pipeline: Analysis of a Summer Education Program for Philadelphia High School Students
+
+Krystal Hill; Catherine Raney; Heardley M. Murdock; Jaya Aysola. University of Pennsylvania, Philadelphia, PA. (Control ID #3185558)
+
+# BACKGROUND:
+
+Mounting evidence reveals the benefits of diversifying our physician workforce, yet many minority and low socio-economic populations remain underrepresented. In response, many academic medical centers have pipeline programs designed to provide educational opportunities to underrepresented populations. Yet, little is known about their effectiveness. Thus, we evaluated a well-established pipeline program to identify what student and program factors yield optimal benefit.
+
+# METHODS:
+
+We analyzed the impact of The Summer Mentorship Program-Medicine (SMPM), a high school medical education pipeline program at the University of Pennsylvania (n=12 students) with the Kirkpatrick model, an established method to evaluate educational programs. We surveyed students to assess overall program satisfaction and the perceptions of learning across the following domains: academic enhancement, career discussion with medical students and physicians, health science lessons, patient care and procedures, mentorship and field experiences, and public health with community-based problem solving. We examined the relationship between student demographics, academic characteristics, and student success defined by the following three outcomes: 1) program satisfaction 2) pre-post SAT scores and 3) 4-month follow-up self-reported SAT scores. We examined student demographic and academic factors such as race/ethnicity, sex, socioeconomic status, single parent home, college readiness index (rating of a high school's college preparatory curriculum), parental education, siblings in college, pipeline program rankings to gauge interest in medicine, grade point average (GPA), recommendation letters, and personal essays.
+
+# RESULTS:
+
+All students (n=12) were from low-income households and 10 of 12 would be the first in their families to attend college. A third were males and 25% had GPAs < 3.00. Students rating for overall program was 4.2 out of 5. Program domains with the highest rankings included health science lessons (4.48), patient care and procedures (4.48), and mentorship and field experiences (4.55) (p<0.05). Interquartile ranges for pre, post, and follow-up SAT scores were 613-788, 769-863, and 1000-1150, respectively (p< 0.05). Significant predictors of higher follow-up SAT scores were the "college readiness index" and "ranked medicine first" (p=0.05). Notably, there was no statistically significant relationship between GPA and outcomes.
+
+# CONCLUSIONS:
+
+This study of a well-run, well-funded high school pipeline program reveals that hands-on activities such as patient care and procedures provide high program satisfaction and perceptions of learning. Our results suggest that students benefit from intensive standardized test preparation and that those with lower academic scores may derive equal benefit from and succeed in pipeline programs. Lastly, we found that holistic factors such as interest or motivation may better predict success in pipeline programs over traditional factors, such as GPA.

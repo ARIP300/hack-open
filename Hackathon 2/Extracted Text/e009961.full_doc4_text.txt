@@ -1,0 +1,59 @@
+# Open Access
+
+# Table 3 Multivariable logistic regression analysis work status
+
+|Univariable models|Multivariable model|
+|---|---|
+|Experienced discrimination| |
+|No|Ref|
+|Yes|0.63 (0.45 to 0.88)**|
+| |0.61 (0.43 to 0.86)**|
+|Sex| |
+|Male|Ref|
+|Female|0.68 (0.50 to 0.92)*|
+| |0.79 (0.55 to 1.14)|
+|Age|0.99 (0.97 to 1.00)*|
+| |0.99 (0.98 to 1.01)|
+|Belongs to ethnic minority| |
+|No|Ref|
+|Yes|0.88 (0.50 to 1.55)|
+|Education| |
+|Diploma, degree or postgraduate qualification|Ref|
+|None, primary (age ≤12), secondary (≤15–16 years) or vocational qualification|0.44 (0.33 to 0.59)**|
+| |0.48 (0.34 to 0.69)**|
+|Marital status| |
+|Married or cohabiting|Ref|
+|Single or non-cohabiting partner|0.72 (0.50 to 1.03)|
+|Widowed, separated or divorced|0.86 (0.61 to 1.21)|
+|Ever admitted for psychiatric treatment| |
+|No|Ref|
+|Yes|0.61 (0.45 to 0.84)**|
+| |0.55 (0.38 to 0.79)**|
+|Age of first contact with mental health services|1.00 (0.99 to 1.01)|
+| |-|
+|ISMI total|0.66 (0.50 to 0.86)**|
+| |0.72 (0.52 to 1.00)|
+|HDI| |
+|Low/medium HDI countries|Ref|
+|High HDI countries|1.43 (0.71 to 2.85)|
+|Very High HDI countries|1.34 (0.71 to 2.50)|
+
+Dependent variable was work status, defined as working full-time or part-time versus all other groups (looking for a job, not looking for a job, volunteer work).
+
+*p&lt;0.05.
+
+**p&lt;0.01.
+
+HDI, Human Development Index; ISMI, Internalized Stigma of Mental Illness Scale.
+
+BMJ Open: first published as 10.1136/bmjopen-2015-009961 on 23 February 2016. Downloaded from
+
+http://bmjopen.bmj.com/
+
+that of a large Australian study on the experiences and diminished behaviour to pursue life goals. However, not only people with mental ill health themselves anticipate to be discriminated in the workplace. A recent population-based survey of working adults in Canada showed that a third of workers would not tell their managers if they experienced mental health problems, mostly out of fear of damaging their careers. Hence, findings from these studies and this study underline the clear need for interventions focusing on the empowerment of people with MDD in the work environment. Peer support plays an important role in enhancing empowerment and decreasing self-stigma and may be useful in such programmes.
+
+An important finding of this study was that participants anticipated workplace discrimination more often than they had actually experienced it. In another study, Uçok et al found that anticipated discrimination was not necessarily associated with experienced discrimination. Similar to our results, Angermeyer et al also found anticipated discrimination to be higher than experienced discrimination, and suggested that it could result in a tendency to avoid situations with a high risk of stigma. Corrigan et al described this ‘why try’ effect as an overarching phenomenon encompassing self-stigma, followed by low self-esteem and self-efficacy, and a depression than with a physical disorder under the exact.
+
+on January 9, 2025 by guest. Protected by copyright.
+
+Brouwers EPM, et al. BMJ Open 2016;6:e009961. doi:10.1136/bmjopen-2015-009961

@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# RESULTS:
+
+Generally, the mortality rate of SD reservations was higher than the total state, which was higher than that of USA. Notable exceptions include Alzheimer's disease, where the mortality rate of SD reservations equalled that of all of SD, which in turn was greater than that of USA. The top two causes of death on South Dakota reservations are diseases of the heart and malignant neoplasms, with crude death rates of 245 and 211, respectively. This was similar to the top two causes of death in SD and USA. Unintentional accidents, intentional self-harm (suicide), and chronic liver disease were ranked higher in SD reservations. Nephritis, nephrotic syndrome and nephrosis, septicemia and Parkinson's disease were ranked higher in USA and SD. Mortality data of reservations varied widely. Two reservations, Lower Brule and Ponca, consistently had the lowest crude death rates of all SD reservations. Three reservations, Pine Ridge, Rosebud, and Yankton, consistently had the highest crude death rates of all SD reservations. Pine Ridge and Rosebud, two neighbouring reservations, were the sole reservations with assault (homicide) as a leading cause of death.
+
+# CONCLUSIONS:
+
+These findings point to common ground where national and state-wide efforts can be focused. This data also demonstrates the unique needs of different communities. A deeper look at the reservation-level data demonstrated heterogeneity amongst health profiles of different reservations, highlighting the importance of targeted interventions tailored to each reservation's needs. Future studies will examine the factors influencing these differences, and will examine the trends in mortality data over time for each reservation.
+
+# THE POTENTIAL IMPACT OF UNIVERSAL MEDICAID EXPANSION ON ECONOMIC AND RACIAL DISPARITIES IN COVERAGE
+
+Elisabeth Poorman 1 ; Hugo Torres 2 ; Danny McCormick 3 . 1 Cambridge Health Alliance, Cambridge, MA; 2 Cambridge Health Alliance, Somerville, MA; 3 Harvard Medical School / Cambridge Health Alliance, Cambridge, MA. (Control ID #3185857)
+
+# BACKGROUND:
+
+While the Affordable Care Act (ACA) narrowed racial and socioeconomic disparities in coverage, uninsurance remains substantial in these groups. Currently, 14 states have not expanded Medicaid. Little is known about the number of racial/ethnic minorities or low-income adults that would gain coverage under universal Medicaid expansion.
+
+# METHODS:
+
+We analyzed BRFSS, a nationally representative telephone survey, for adults 18-64 in the 2 years prior to (2012-2013) and the 2 years following (2015 and 2016) ACA implementation. We calculated the pre-to post ACA percentage point difference in coverage gains between Medicaid expansion (MES) and non-expansion (NES) states. Using logistic regression and predictive margins, we adjusted for age, sex, education, marital and employment status and 3 state-level factors: 1) the use of a state vs federal insurance exchange; 2) state per capita federal funding for insurance enrollment support; and 3) the pre-ACA percentage of the state that was Medicaid eligible. We multiplied the adjusted difference by the population of the NES and applied weights provided by the BRFSS to project number of newly insured total, black, Hispanic, low-income adults and chronic disease patients if all states expanded Medicaid.
+
+# RESULTS:
+
+Unadjusted coverage gain were 2.3 percentage points higher in MES following the ACA (1.7, 3.0). The adjusted difference was 1.8 percentage points (1.3, 2.4), representing a projected gain in coverage for 1,354,514 Americans. For those with a chronic disease, there was an adjusted 2 percent greater increase in coverage in MES, representing a projected gain in coverage for 614,798 people. There was a 2 percent (1.2, 2.9) increase for Blacks in MES (241,573). Hispanics experienced a 5.2 percentage point (4.3, 6.2) gain in MES (698,510). For low income adults, the adjusted difference in coverage was 4.7% (3.7, 5.7) (1,178,960).
+
+# CONCLUSIONS:
+
+More than a million Americans stand to gain insurance coverage if all states expanded Medicaid. Most gains would be among low-income adults, and racial minorities and thus would likely further reduce existing wide disparities in coverage for these groups.
+
+# THE WELL-BEING OF SWISS GENERAL INTERNAL MEDICINE RESIDENTS
+
+Brigitta I. Zumbrunn 1 ; Odile Stalder 2 ; Andreas Limacher 2 ; Maxime Schmutz 1 ; Peter E. Ballmer 3 ; Stefano Bassetti 4 ; Edouard Battegay 5 ; Juerg H. Beer 6 ; Michael Brändle 7 ; Daniel Genné 8 ; Daniel Hayoz 9 ; Christoph Henzen 10 ; Lars C. Huber 11 ; Pierre-Auguste Petignat 12 ; Jean-Luc Reny 13 ; Peter Vollenweider 14 ; Drahomir Aujesky 1 . 1 Bern University Hospital, Bern, Switzerland; 2 University of Bern, Bern, Switzerland; 3 Kantonsspital Winterthur, Winterthur, Switzerland; 4 University Hospital of Basel, Basel, Switzerland; 5 University Hospital Zurich, Zurich, Switzerland; 6 Cantonal Hospital of Baden, Baden, Switzerland; 7 Cantonal Hospital of St. Gallen, St. Gallen, Switzerland; 8 Cantonal Hospital of Biel, Biel, Switzerland; 9 HFR Hopital Cantonal, Fribourg, Switzerland; 10 Cantonal Hospital of Lucerne, Lucerne, Switzerland; 11 City Hospital Triemli Zurich, Zurich, Switzerland; 12 Hospital of Valais, Sion, Switzerland; 13 Geneva University Hospitals, Geneva, Switzerland; 14 Lausanne University Hospital, Lausanne, Switzerland. (Control ID #3184797)
+
+# BACKGROUND:
+
+Physician well-being is not only associated with empathy and professionalism, it has also a direct impact on productivity, quality of care, and patient safety. Residency training is a challenging and particularly stressful period in the life of physicians. We therefore assessed the well-being of Swiss general internal medicine (GIM) residents as well as associated personal and work-related factors.
+
+# METHODS:
+
+We conducted an anonymous electronic survey among GIM residents from 13 Swiss teaching hospitals in June 2018. Participants were asked to indicate personal and work-related characteristics and to complete the Physician Well-Being Index (PWBI), which measures 6 domains (burnout, depression, stress, fatigue, and mental and physical quality of life). We explored the association between a reduced well-being (PWBI 5 points) and personal and work-related factors using multivariable mixed logistic regression. We used spearman's rank correlation coefficient to examine the relationship between the PWBI and job satisfaction, self-reported medical errors, suicidal ideation, and intention to leave clinical practice.
+
+# RESULTS:
+
+The response rate was 54% (472/880). Although 95% of residents were at least partially satisfied with training quality and 91% with their job autonomy and the job overall, 19% of participants had a reduced well-being, 60% felt burned out, 57% reported emotional problems, and 21% had career choice regret. Age (OR 1.20, 95% CI 1.06-1.35), having children (OR 0.10, 95% CI 0.02-0.41), <2.5 personally rewarding work hours per day (OR 3.01, 95% CI 1.62-5.61), low satisfaction with training quality (OR 2.40, 95% CI 1.34-4.31), and low satisfaction with job autonomy (OR 2.42, 95% CI 1.36-4.28) were significantly associated with reduced well-being, but not working hours, administrative workload, and satisfaction with income. We found significant, weak to moderate correlations between the PWBI and job satisfaction (r=-0.54, p<0.001), medical errors (r=0.18, p<0.001), suicidal ideation (r=0.12, p=0.009), and the intention to leave clinical practice (r=0.38, p<0.001).

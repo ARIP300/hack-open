@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# METHODS:
+
+All students (N = 105) who had completed a 4 week medicine AI at our institution in 2018 were sent a link to an electronic survey assessing their roles and attitudes with 5 potentially difficult conversations: discussions with upset patients/families, leaving against medical advice, breaking bad news, assessing code status and limiting/withdrawing life-sustaining treatments. Anonymous survey data was collected electronically via Qualtrics. Results were calculated using the total number of survey responses, including both complete and partially complete surveys.
+
+# RESULTS:
+
+Seventy-seven students completed the entire survey and 5 students submitted partial responses for a total of 82 survey responses (78% response rate). Students most frequently reported participating in code status discussions (91%) and discussions with upset patients/families (99%). A majority of students reported holding these conversations without supervision at some point during their AI (52%, code status and 74%, upset patient/family). While a majority of students reported having had training in talking with upset patients/families (83%), less than half reported having had any training in assessing code status (45%). By the end of the 4 week AI rotation, the majority of students reported confidence in their ability to independently talk with upset patients/families (74%) and to independently assess code status (58%).
+
+# CONCLUSIONS:
+
+Existing literature suggests that serial clinical exposure to code status discussions breeds false confidence without improvement in competency among residents. Our data suggest a similar phenomenon among medical students, with many students reporting confidence in leading difficult conversations despite only a short window of exposure, minimal to no formalized training and lack of oversight. Formal programs have been shown to improve trainee competency with durability in skill set over time. While our data is from a single institution, it highlights a significant confidence-skill gap with regard to communication skills during critical doctor-patient interactions. The number of partial responses (n=5) might represent another limitation, although this would tend to underestimate the magnitude of a confidence-skill gap. Further exploration of these trends and resulting evidence-based curricular development that spans trainee levels are essential.
+
+# MEDICAL STUDENT PERSONALITY TRAITS AND CLINICAL GRADES IN THE INTERNAL MEDICINE CLERKSHIP
+
+Monica Malviya1; Rebecca B. Forman1; Masrur A. Khan1; Keara English1; William Southern2; Amanda Raff; Tulay Aksoy3. 1Albert Einstein College of Medicine, Bronx, NY; 2Montefiore, Bronx, NY; 3Montefiore Medical Center, Bronx, NY. (Control ID #3184959)
+
+# BACKGROUND:
+
+Evaluation of clinical performance is an important component of medical students' grades in 3rd year clerkships. However, clinical evaluation is subjective and may be influenced by factors independent of clinical skills. We hypothesized that student personality traits might impact evaluator perception of clinical performance, thus impacting overall clerkship grade. Using the OCEAN personality trait scale (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism), we examined the association of personality traits with grades in the 3rd year internal medicine clerkship at a single institution.
+
+# METHODS:
+
+3rd year medical students enrolled in the medicine clerkship during the academic years of 2016-17 and 2017-18 responded to a questionnaire assessing their personalities in accordance with the OCEAN criteria. Student responses were linked to grade components, then de-identified data were provided to the research team for analysis. This study was deemed exempt by the Einstein Institutional Review Board. Grade components of the final clerkship grade include ward team clinical evaluations, preceptor evaluations, and NBME shelf exam score. Chi-squared and regression analyses were used to evaluate correlations between the OCEAN personality domains, individual personality traits, and clerkship grades.
+
+# RESULTS:
+
+356 students were eligible to participate. 97 responded (27% response rate) and 94 provided information to allow linking to clerkship grades and were included in the analysis. 51 (53%) of the respondents were female, 45 (46%) male, and 1 (1%) identified non-binary. The average age was 26.4 ± 2.6. 56 (60%) received either a High Pass or a Pass, and 38 (40%) received Honors in the clerkship. An overall clerkship grade of honors was strongly correlated with a clinical performance above the median preceptor score (p = 0.001). No OCEAN domains correlated significantly with a final grade of honors. However, individual traits within the personality types were associated with an honors grade. "Deep thinking" correlated positively with honors (p = 0.006). "Shyness" correlated negatively with honors (p = 0.054). "Moody" was a trait that correlated positively with honors, though was not significant. Traits that suggested a trend correlating negatively with honors but did not reach significance included "depressive thinking," "reserved," "worrying," and "enthusiastic." Increasing scores in the Openness domain were correlated positively with a grade of honors (OR 1.05, p = 0.17).
+
+# CONCLUSIONS:
+
+Significant correlations between clerkship honors and traits of "deep thinking" (positive) and "shyness" (negative) were observed, which are in the domains of conscientiousness and neuroticism, respectively. Response bias and power were limiting factors in the overall study, and could explain why other traits or personality types did not reach statistical significance in the final analysis. Further investigations are needed to assess whether clerkship grades are impacted by personality traits.
+
+# MEDICARE'S BUNDLED PAYMENT FOR CARE IMPROVEMENT MODEL DID NOT CHANGE SKILLED NURSING DISCHARGE PATTERNS
+
+Jane M. Zhu1; Amol S. Navathe2; Yihao Yuan3; Sarah Dykstra2; Rachel M. Werner4. 1Oregon Health and Science University, Portland, OR; 2University of Pennsylvania, Philadelphia, PA; 3University of Illinois at Chicago, Chicago, IL; 4University of Pennsylvania and Philadelphia VA, Philadelphia, PA. (Control ID #3185492)
+
+# BACKGROUND:
+
+One potential response to bundled payment incentives is that hospitals may more carefully select where they refer patients after discharge, in order to concentrate discharges and improve care coordination with skilled nursing facilities (SNFs). We evaluated whether participation in Medicare's voluntary Bundled Payment for Care Improvement (BPCI) model was associated with changes in discharge referral patterns to SNFs, specifically number of SNF partners and discharge concentration.
+
+# METHODS:
+
+We used Medicare claims data from 2010-2015 to identify admissions for lower joint replacement surgery and the following medical conditions: congestive heart failure, renal failure, sepsis, pneumonia, UTI and kidney infections, chronic obstructive pulmonary disease, and stroke. We identified hospitals participating in Model 2 bundles, which comprises 95% of BPCI participants, and matched hospitals based on hospital characteristics including urban/rural location, teaching hospital, hospital ownership, annual discharges to SNF, and certified bed count. Our analytic sample included 3,078 acute care hospitals and 14,866 Medicare-certified SNFs in the US, encompassing more than 47 million hospital discharges. We used difference-in-differences analyses to assess changes in discharge patterns among BPCI-participating hospitals, compared to matched control hospitals. Our two measures of hospital-SNF integration were: a hospital's number of SNF partners, or the number of unique SNFs to which a hospital discharged its patients for each half-year of the study period. The second was a hospital's discharge concentration in each half-year, based on the Herfindahl-Hirschman Index (HHI). Multivariable regression models with hospital fixed effects were estimated for each outcome and included a BPCI-hospital indicator, intervention period indicators, and the interaction between the two.
+
+# RESULTS:
+
+Of the hospitals in our sample, 416 participated in BPCI, with the majority selecting into joint replacement episodes (n=295). BPCI participation was not associated with any change in number of SNF partners (increase by 0.8 SNFs among BPCI hospitals relative to non-BPCI hospitals, 95% CI [-0.2, 1.9], p=0.11), or in discharge concentration (increase in HHI of 0.2 among BPCI hospitals relative to non-BPCI hospitals, 95% CI [-68.7, 69.1], p=0.36). Results did not vary across clinical conditions, and were robust across duration of BPCI participation and with different comparison groups.

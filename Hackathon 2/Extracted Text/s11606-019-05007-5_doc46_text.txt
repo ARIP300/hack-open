@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+# Dialysis Facility Performance and Financial Penalties
+
+Persisted for facilities in the bottom quintile of ZIP code income (odds ratio [OR]=1.53, p=0.002, vs. top quintile) and those in the top quintile of proportion of black patients served (OR=1.69, p<0.001, vs. other facilities). Among other covariates examined, independent (versus chain) status, large facility size, and urban location were the strongest structural predictors of poor performance and penalties.
+
+# CONCLUSIONS:
+
+Dialysis facility performance and financial penalization may be influenced by social risk factors potentially independent of the quality of care provided. Future research is needed to elucidate the interactions between sociodemographic factors and outcomes under the ESRD QIP and to determine appropriate adjustments to pay-for-performance program design to account for social risk.
+
+# Adjusted Odds of Receiving Penalties by Facility Risk Factor
+
+|ZIP Code Income|Quintile 1|Quintile 2|Quintile 3|Quintile 4|Quintile 5 (Reference)|
+|---|---|---|---|---|---|
+|Proportion Black|High|Non-high (Reference)| | | |
+|Proportion Hispanic|High|Non-high (Reference)| | | |
+|Proportion Dually Eligible|High|Non-high (Reference)| | | |
+
+0.00 0.50 1.00 1.50 2.00 2.50 Odds Ratio
+
+# ASSOCIATIONS OF HEALTH LITERACY, PATIENT ACTIVATION, AND PATIENT-PROVIDER COMMUNICATION REGARDING HIGHER-RISK MEDICATION USE
+
+Marina Arvanitis 1; Laurie A. Hedlund 1; Laura M. Curtis 1; Stephanie Batio 1; Stacy Bailey 1; Danielle M. McCarthy 1; Michael K. Paasche-Orlow 2; William G. Adams 2; Mary J. Kwasny 1; Amy Moore 1; Michael S. Wolf 1. 1 Northwestern University, Chicago, IL; 2 Boston University, Boston, MA. (Control ID #3185951)
+
+# BACKGROUND:
+
+Health literacy and patient activation have been independently associated with a variety of health outcomes and behaviors. Despite these independent associations, both are thought to affect health, at least in part, by way of communication between patients and healthcare providers. We sought to better understand the similarities and differences in associations between health literacy, patient activation, and patient-provider communication in the context of prescribed medication.
+
+# METHODS:
+
+Baseline data was analyzed from an NIDDK-funded, 2-arm, patient-randomized controlled trial of a medication risk communication and surveillance strategy. Participants were adults cared for at one of 7 federally qualified health centers, who received a new prescription or dose of a medication considered to be of higher risk per FDA labeling. All participants completed the Consumer Health Activation Index (CHAI), the Newest Vital Sign (NVS), and modified versions of the supplemental items of the Consumer Assessment of Health Providers Survey (CAHPS) to evaluate patient-perception of the extent and quality of verbal counseling on medications.
+
+# RESULTS:
+
+In all, 581 participants completed both the health literacy (NVS) and patient activation (CHAI) assessments at baseline. Participants' mean age was 50, 71% were African-American, and 40% reported an income of less than $10,000/year. The majority had low to moderate patient activation and limited health literacy (84% and 68% respectively). There was no correlation between CHAI and NVS total scores (rho = -0.05, p = 0.20) overall. However, the majority (67%) of those with limited health literacy also reported CHAI scores consistent with low to moderate activation (p = 0.05). Compared to those with high activation, participants with low to moderate activation were less likely to report having received instructions from their provider about how to take their newly prescribed medication (330 vs 72, p = 0.04), or had possible side effects explained (192 vs 46, p = 0.05). We did not observe similar differences among participants across health literacy levels. By contrast, those with limited health literacy were more likely than those with adequate health literacy to report their provider had suggested ways to help them remember to take their medication (146 vs 41, p = 0.0007). Neither patient activation nor health literacy was associated with patient-provider communication regarding risks, benefits, and patient opinions regarding medication use.
+
+# CONCLUSIONS:
+
+Patient activation and health literacy were associated with different patient-reported patterns of provider communication regarding high-risk medication use, and neither were associated with higher-level discussions about risks, benefits, or patient preferences. Ongoing, longitudinal analyses will help determine the directionality of these associations, and help to better target communication interventions to providers, or patients depending on their level of activation and/or health literacy.
+
+# ATRIAL FIBRILLATION IS ASSOCIATED WITH INCREASED IN-HOSPITAL MORTALITY IN PATIENTS WITH CLOSTRIDIUM DIFFICILE INFECTION.
+
+Dipesh Ludhwani1; Maryna Shayuk1; Karam Khaddour1; Belaal Sheikh2. 1Rosalind Franklin University of Medicine and Science at Northwestern-McHenry hospital, McHenry, IL; 2Chicago Medical School, McHenry, IL. (Control ID #3176126)
+
+# BACKGROUND:
+
+Clostridium Difficile Infection (CDI) and Atrial Fibrillation (AF) are common medical entities encountered in the hospital. Both conditions warrant hospital admission and have been well established as major health care burdens of the society. Previous studies have identified advanced age as a poor prognostic factor for CDI. Large-scale studies analyzing outcomes of CDI in presence of concomitant AF are lacking.
+
+# METHODS:
+
+All patients with age greater than 18 years and admitted under the primary diagnosis of CDI (ICD-10-CM code A04.72) (n=66,602) were identified in 2016 National Inpatient Sample (NIS). ICD-10 codes I48.0, I48.1, I48.2, I48.3, and I48.4 were used to further categorize patients into two groups based on the presence or absence of AF. Patients with CDI and without previous history of AF served as the reference population. Using multivariate logistic regression model, confounders were adjusted and in-hospital mortality was compared for both groups. Additionally, the odds ratios were calculated for other complications such as acute renal failure (N17), hypovolemic shock (R57.1) requiring vasopressor support (3E033XZ), and acute systolic or diastolic heart failure exacerbation (I50.21, I50.23, I50.31, and I50.33). Multivariate linear regression analysis was done to compare the total length and cost of hospital stay for both groups.
+
+# RESULTS:
+
+Amongst 66,602 admissions for CDI, 8668 patients were found to have a secondary diagnosis of AF. Patients with CDI and AF had a 29% increase odds of in-hospital mortality as compared to the reference population (OR-1.29, 95% CI=1.19-1.41, p<0.0001). These patients were also noted to have a higher probability of acute renal failure, acute heart failure exacerbation and hypovolemic shock requiring vasopressor support (see table 1). Mean length and cost of the hospital stay were higher for patients with CDI and AF.

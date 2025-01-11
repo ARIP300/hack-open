@@ -1,0 +1,29 @@
+# ABSTRACTS
+
+# CAN AN INTERPROFESSIONAL EDUCATION INITIATIVE AFFECT QUALITY OF CARE AND HEALTH CARE UTILIZATION?
+
+Samuel T. Edwards1; Elizabeth R. Hooker2; Rebecca Brienza3; Bridget O'Brien10; Hyunjee Kim4; Stuart Gilman5; Lillian Gelberg6; Sarah Shull7; Nancy Harada5; Meike Niederhausen2; Samuel King5; Elizabeth Hulen11; Mamta K. Singh8; Anais Tuepker9. 1Boston VA Healthcare System, Boston, MA; 2Portland VA Medical Center, Portland, OR; 3VA Connecticut Healthcare System, West Haven, CT; 4Oregon Health & Science University, Portland, OR; 5US Dept of Veterans Affairs, Washington, DC; 6UCLA, Los Angeles, CA; 7Portland VA, Portland, OR; 8Case Western Reserve University, Cleveland, OH; 9VA Portland Health Care System/Oregon Health and Science University, Portland, OR; 10UCSF, San Francisco, CA; 11VA Portland Health Care System, Portland, OR. (Control ID #3166752)
+
+# BACKGROUND:
+
+Human connection is at the heart of medical care. The extent to which such connection can be taught or improved has been the subject of much research, but questions remain as to the effectiveness of these interventions. We synthesized the evidence for interpersonal interventions to improve patient-provider interactions and downstream health outcomes.
+
+# METHODS:
+
+We searched PubMed, EMBASE, and PsycInfo (January 1997 to August 2017) for randomized controlled trials and controlled observational studies that examined the association between patient-provider interpersonal interventions and at least one outcome measure of the Quadruple Aim. We also mined applicable systematic reviews to identify additional relevant citations. Using Covidence, abstractors worked in pairs to cull information about the content and methods of each article, assessed the quality of research, and graded levels of evidence. We characterized the evidence related to intervention target (provider-only vs. provider-patient dyad), the objective of the intervention, the type and duration of intervention training, and the Quadruple Aim outcomes.
+
+# RESULTS:
+
+77 out of 21,835 studies met all design and outcome inclusion criteria. The methodological quality of research was moderate-to-high for the majority of studies. Most interventions focused on enhancing provider communication skills (29%). Among the 44 studies that reported a positive patient experience outcome, 50% used a provider-focused intervention, suggesting patients do not have to be involved in the intervention to improve their perceptions of care. Population health was often improved following an interpersonal intervention, and studies measuring improvements in patient health often corresponded with improved patient experience. Similarly, provider well-being (e.g., burnout, communication confidence, stress) improved from enhanced patient-provider interpersonal interactions. One of the most common types of interventions that positively influenced provider experience was clinician training using a communication content focus, which was associated with improvements in communication, satisfaction, and perceived provider friendliness. Few studies evaluated overall cost outcomes, but several reported reduced utilization and prescription rates. Few interventions increased visit length, and interventions with lower demands on provider time were generally as effective as those with higher demands on provider time.
+
+# CONCLUSIONS:
+
+We found good evidence that interpersonal interventions aimed at improving patient-provider interactions also improve patient and provider experience, and weaker evidence that they improved population health or cost. Quality improvement efforts might focus on simple low demand interventions, as they were equally effective.
+
+# CAPTURING THE REST: INPATIENT INTERVENTION STUDIES FOR NON-ADHERENT HOSPITALIZED WOMEN TO IMPROVE THEIR BREAST CANCER SCREENING ADHERENCE
+
+Waseem Khaliq; Regina Landis2; Eric Howell2; Scott Wright3. 1Johns Hopkins University School of Medicine, Ellicott city, MD; 2Johns Hopkins, Baltimore, MD; 3jhusom, Baltimore, MD. (Control ID #3150766)
+
+# BACKGROUND:
+
+More than a third of hospitalized women are overdue for breast cancer screening and at high risk for developing breast cancer. We evaluated the feasibility of two separate interventions for non-adherent hospitalized women to improve their adherence to breast cancer screening recommendation. First intervention consisted of inpatient breast cancer screening education, scheduling an outpatient mammography prior to hospital discharge, a reminder phone call and a small monetary incentive for screening test. The second intervention consisted of inpatient breast cancer screening education and offering inpatient screening mammography.

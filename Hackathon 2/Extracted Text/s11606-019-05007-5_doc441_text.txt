@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# CONCLUSION:
+
+Neurosyphilis may cause significant morbidity, and can be extremely challenging to diagnose. Consideration must be given to this important and potentially treatable cause of memory loss, psychiatric symptoms, and personality changes in all patients, not just those known to have an increased risk or known history of syphilis.
+
+# GETTING TO THE HEART OF THE MATTER: A CASE OF SERONEGATIVE ANTIPHOSPHOLIPID SYNDROME
+
+Sonia D. Silinsky Krupnikova; Linda Yue; Jeffrey Tefft; Rodolfo Curiel. The George Washington University, Washington, DC. (Control ID #3179062)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize seronegative antiphospholipid syndrome as a distinct clinical entity.
+
+# CASE:
+
+A 52-year-old gentleman with past medical history of lupus nephritis, non-ST-elevation myocardial infarction, venous thromboembolism (on anticoagulation), and peripheral vascular disease requiring arterial bypass grafting presented to the hospital with two days of left toe pain, fever and chills. Physical examination demonstrated gangrenous changes of the left second toe as well as nontender, nonblanching erythematous macules and patches along the plantar surface of the foot. Laboratory evaluation revealed prolonged partial thromboplastin time and elevated inflammatory markers without leukocytosis. Infectious serologies and final blood cultures were negative. Hypercoagulability studies, including antiphospholipid antibody titers and lupus anticoagulant, were normal. On imaging, he was found to have a patent bypass graft but was noted to have a 2.5-cm vegetation on the tricuspid valve. He had no atrial septal defect. Intravenous antibiotics were initiated for four weeks without resolution, and the patient underwent surgical tricuspid valve replacement and toe amputation. Intraoperative pathology was notable for sterile vegetation and toes with arterial thrombus but no vasculitis nor organisms on Gram stain or final culture.
+
+# IMPACT/DISCUSSION:
+
+Antiphospholipid syndrome (APS) is a hypercoagulable state which often occurs secondary to systemic lupus erythematosus (SLE). The diagnostic criteria for APS require the presence of at least one clinical and one laboratory criterion. Clinical criteria include vascular thrombosis or pregnancy morbidity and laboratory criteria include the presence of lupus anticoagulant, anti-cardiolipin, or anti-2-glycoprotein. APS also predisposes to the development of sterile thrombotic Libman-Sacks endocarditis, which most commonly affects the mitral valve. Seronegative APS (SN-APS) is diagnosed when clinical criteria are met but serologic testing is persistently negative. Testing must be performed outside the contexts of acute thrombosis and treatment with anticoagulation, as these conditions can cause a transient loss or consumption of antiphospholipid antibodies. This patient's case was unusual for several reasons. His Libman-Sacks endocarditis was located on the tricuspid valve, a rare presentation. Moreover, his toe ischemia was the result of an arterial thrombus rather than embolism or ischemia from graft stenosis. Given his extensive history of hypercoagulability in the setting of known SLE, thrombosis secondary to SN-APS was the unifying diagnosis.
+
+# CONCLUSION:
+
+APS is a hypercoagulable state associated with SLE. It confers increased risk of developing Libman-Sacks endocarditis as well as peripheral thrombotic events which may mimic other clinical entities such as limb ischemia or embolism. SN-APS is a clinically important diagnosis to consider in patients with clinical manifestations of the syndrome but persistently negative serology.
+
+# GLYCOGENIC HEPATOPATHY: AN UNDERRECOGNIZED CAUSE OF HEPATOMEGALY
+
+Jessica Sang. Carolinas Medical Center, Charlotte, NC. (Control ID #3186268)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that elevated plasma lactate levels can be part of the clinical presentation of glycogenic hepatopathy.
+
+# LEARNING OBJECTIVE #2:
+
+Review methods to distinguish GH from non-alcoholic fatty liver disease (NAFLD).
+
+# CASE:
+
+An 18-year-old female presented to the hospital after three-days of nausea, vomiting, and abdominal pain. She had a history of uncontrolled type 1 diabetes mellitus (HbA1c: 11.7%) diagnosed at age 12 with recurrent hospital admissions for diabetic ketoacidosis (DKA). Her medications included insulin detemir 10 units daily and a 1:10 insulin to carbohydrate ratio of insulin aspart with meals. She reported non-bloody emesis and continuous right sided abdominal discomfort. On physical examination she was tachycardic. She had a distended abdomen that was moderately tender in the right upper and lower quadrants with palpable liver edge. Conjunctival icterus and jaundice were not present. Initial labs revealed: ALT 42 IU/L, AST 54 IU/L, INR 1.3, total bilirubin 0.6 mg/dL, alkaline phosphatase 90 IU/L, anion gap 19 mmol/L, glucose 1,060 mmol/L, lactic acid 8.9 mmol/L, and urine ketones. CT abdomen and pelvis showed hepatomegaly. The liver measured 23.4 cm in length and extended to her left upper quadrant. No liver masses were visualized. Given the patient's history, lab results, and imaging the diagnosis highest on the differential for her hepatomegaly was glycogenic hepatopathy (GH) from poorly controlled diabetes. Both DKA and GH were treated with glycemic control. Her elevated lactic acid slowly trended down and she was discharged with close hospital follow-up.
+
+# IMPACT/DISCUSSION:
+
+GH is a complication of poorly controlled diabetes mellitus characterized by transient liver dysfunction with elevated liver enzymes. Patients with GH can be asymptomatic or can present with abdominal pain, hepatomegaly, recurrent DKA, and elevated lactate levels. Lactic acidosis can be present in patients even if they are not in DKA. The pathophysiology is not well understood. One hypothesis is that the reduction in gluconeogenesis and lack of conversion of pyruvate to glucose may raise lactate levels in the body. In regards to the hepatomegaly in GH, it is caused by a reversible accumulation of excess glycogen in hepatocytes and can be misidentified as NAFLD on imaging. It is important to discriminate between them because NAFLD can progress to advanced liver disease. The gold standard for diagnosis is biopsy. Although ultrasound and CT cannot differentiate between the diseases processes, gradient-dual echo liver MRI can help distinguish hepatic glycogen in GH from the fat seen in NAFLD and is a less invasive alternative to biopsy. Treatment of GH is glycemic control and improvement of symptoms can be seen in days to weeks.
+
+# CONCLUSION:
+
+GH is an underrecognized complication of poorly controlled diabetes mellitus that can present with elevated lactic acid and hepatomegaly and can be misidentified as NAFLD. Gradient-dual echo liver MRI may help distinguish between these two entities.
+
+# GOUT OF THE ORDINARY: CLAVICULAR GOUT IN HIV
+
+Jay Thetford1; Emil Heinze2; Hrishikesh Belani3. 1UCLA-Olive View, Los Angeles, CA; 2David Geffen School of Medicine at UCLA, Sylmar, CA; 3Olive View - UCLA Medical Center, Los Angeles, CA. (Control ID #3184713)
+
+# LEARNING OBJECTIVE #1:
+
+Tophi may involve axial joints and develop prior to active gout flares.
+
+# LEARNING OBJECTIVE #2:
+
+HIV infection is associated with hyperuricemia and gout.
+
+# CASE:
+
+A 69 year-old male with HIV well-controlled on comprehensive anti-retroviral therapy (cART), HCV, HTN, and CKD stage 3 presented with 6 weeks of worsening pain in his right sternoclavicular (SC) joint. The patient noted clavicular bony enlargement over 1 year and denied any fevers, chills, night sweats, or unintentional weight loss. Physical exam revealed bony prominence of the right SC joint with tenderness to palpation, but without overlying erythema or warmth. MRI showed joint effusion, bone marrow edema, and bone erosions about the SC joint concerning for inflammatory arthritis or osteomyelitis. Arthrocentesis demonstrated extracellular birefringent crystals consistent with urate crystals.

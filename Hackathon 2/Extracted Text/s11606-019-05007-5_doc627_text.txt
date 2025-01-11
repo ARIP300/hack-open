@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# FIT VS COLONOSCOPY: A SHARED DECISION MAKING WORKSHOP TO OPTIMIZE COLORECTAL CANCER SCREENING IN AN URBAN UNDERSERVED POPULATION
+
+Denis Yusupov1, 2; Jordonna Brown1, 2; Christon Grant1, 2; Nikita Gupta1, 2; Gayatri Malhotra-Gupta1, 2; Michelle Likhtshteyn1, 2; Melissa S. Lee1, 2; David L. Stevens1, 2; Andrew A. Chang1, 2. 1NYC Health + Hospitals/Kings County, New York, NY; 2SUNY Downstate Medical Center, Brooklyn, NY. (Control ID #3186050)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Will a resident run workshop on shared decision making (SDM) improve colorectal cancer (CRC) screening completion rates in an underserved population?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To optimize CRC screening completion of FIT vs colonoscopy through SDM in an urban underserved population.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A retrospective analysis reviewed colon cancer screening rates in average risk patients, as per the U.S. Preventive Services Task Force (USPSTF) guidelines, in an urban underserved resident primary care practice between January and February 2017. The intervention was a resident-run SDM 3-hour workshop using lecture, worksheets, and group practice to teach residents patient-centered CRC screening. A prospective cohort study reviewed charts from August 28th to October 24th, 2018 to assess completion of screening.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Overall CRC screening test ordering and completion rates, pre- and post-intervention, were assessed for eligible patients. A subgroup analysis of fecal immunochemical testing (FIT) and colonoscopy completion rates was also performed.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+At baseline, 52 patient charts reviewed 9 (17%) FIT test ordered, 78% completion rate 43 (82%) colonoscopies ordered, 26% completion rate Overall baseline completion rate: 34% Post-intervention: 45 patient charts reviewed 22 (48%) FIT chosen, 59% completion rate 23 (52%) colonoscopies chosen, 43.4% completion rate Overall post-intervention completion rate: 51% There is a 17% difference (p=0.092, 2 proportion test, trending but not statistically significant) from baseline overall completion rate, however there was statistical significance in patient choice of test after the workshop (p=0.0011).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Although CRC is the third most common cancer among men and women and is projected to cause more than 50,000 deaths in 2017, only 62.6% of adults 50 years and older were screened (CDC, 2015). Access, insurance/immigration status, education, burden of preparation and ethnicity impact cancer screening. Urban underserved populations are disproportionately affected by these barriers. This study demonstrates that improving SDM between patients and providers can decrease barriers and improve CRC screening. An efficient resident-led curriculum can be easily integrated into a residency schedule. Though the completion rates only trended towards statistical significance, there was a clear difference in tests ordered, reflecting that SDM influences choice of screening method. While SDM improved the show rate for colonoscopy, the no-show rate remained high. Further investigation on patients' reasons for not completing their colonoscopy is a possible area for future investigation.
+
+# FOOD AS MEDICINE: MEDICAL NUTRITION THERAPY FOR PATIENTS LIVING WITH DIABETES
+
+manjeet bhamra2, 1; Muhammad afzal Khan2, 1; Jonathan Francois2, 1; duarxy R. sainvilien2, 1; Marlee Ickowicz2; Andrew A. Chang2, 1; Melissa S. Lee2, 1. 1SUNY Downstate, New York, NY; 2NYC Health + Hospitals/Kings County, New York, NY. (Control ID #3185715)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite best practice recommendations from the American Diabetes Association, only 20% of patients living with diabetes at our urban, inner city Internal Medicine resident practice have received medical nutrition therapy (MNT).
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To engage the clinical care team in recognizing and referring eligible patients for MNT To increase access to MNT by integrating services into the primary care visit during non-value added time.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The East New York (ENY) Diagnostic and Treatment Center, with a diabetes control rate of 59% (HbA1c<8), is the lowest performer in the NYCH+H system. Despite having a certified registered dietician on-site, 80% of patients living with diabetes have not received MNT. Our intervention was designed to address this gap in care. Records of diabetic patients (HbA1c>6.5) seen in the practice from July to August 2018 were reviewed to identify those who had received MNT within 3 months of their last monitored HbA1c. 30% eligible patients were referred for MNT. 68% of those referred completed MNT. A multidisciplinary, collaborative discussion with clinicians, medical assistants, nurses, and our registered dietician confirmed these findings. Using a team-based approach, we sought to engage patients in MNT during their primary care visit. Performance data and clinical guidelines were shared with the clinical team. Medical Assistants (MA) identified patients with diabetes who did not receive MNT within 3 months of their last HbA1c. MA initiated the MNT referral while patients were waiting to see their primary care provider (PCP).
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+To increase the number of MNT referrals and completed MNT visits for diabetic patients by 5% from a baseline of 30% and 68% respectively.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+During the post-intervention study period from October to November 2018, 51% patients living with diabetes were referred for MNT. MNT completion rate, 68% prior to the intervention, was 70% after the intervention, essentially unchanged.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+High rates of uncontrolled diabetes in our patient population necessitate creative team-based clinical interventions to help close gaps in care. Engaging MA in identifying patients living with diabetes who had not received MNT proved an effective way of increasing referrals for diabetes self-management education compared with PCP referral alone. Same-day access to MNT, and a seamless transition from MNT to primary care visits did not impact the percent of completed MNT sessions. Future studies should include the voice of the patient to better understand barriers to integrating MNT into routine care.

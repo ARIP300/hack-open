@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# PERCEPTIONS OF SOCIAL DETERMINANTS OF HEALTH AMONG INTERNATIONAL MEDICAL GRADUATES: A QUALITATIVE STUDY
+
+Raman Singhal; Aathira Sreenivasan; Sumaira Zareef; Grace Kajita. Montefiore Medical Center, Bronx, NY. (Control ID #3184880)
+
+# BACKGROUND:
+
+In 2018, non-U.S. citizen International Medical Graduates (IMGs) filled over a quarter of internship slots in categorical internal medicine programs in the U.S. Little evidence exists to guide physician educators in teaching IMGs about the unique barriers to care faced by underserved communities in the U.S. It also remains unknown to what extent IMGs are aware of and interested in addressing the social determinants of health (SDH) with their patients in the U.S.
+
+# METHODS:
+
+In this qualitative study, PGY2 IMG's from an Internal Medicine residency program in Bronx, NY were interviewed in one-hour long, semi-structured focus groups of 6 residents each. Interview questions sought to compare patient characteristics and health care delivery in home countries and the U.S., to understand how previous experiences affect IMGs' approach to patient care in the U.S. Perspectives on SDH in the U.S. were also elicited during focus groups, based on their one year of completed training here. Interviews were audio-recorded and professionally transcribed. Transcripts were coded and analyzed by 4 researchers, using a thematic analysis approach.
+
+# RESULTS:
+
+24 PGY2 IMG residents (100%) agreed to participate. Of these, 75% attended medical school in South Asia. Three overarching themes emerged. First, participants expressed judgments that U.S. patients do not value their health and mistrust doctors, unlike patients in their home countries: "(U.S. patients) have so many privileges and still, they don't take care of themselves. They are taking things for granted, and it's kind of frustrating sometimes."; "This was shocking to me when I came over here. People do not respect doctors at all. They think (we) are just trying to suck money out of their pockets and prolong their illness." Second, participants perceived social determinants of health to be less severe in the U.S. compared to their home countries: "The Bronx population may be poor, but people don't starve to death…back home, people do die of hunger." Third, participants were concerned that the responsibility for good health falls solely on the individual in the U.S. and acknowledge that patients may face various obstacles: "The reason they're missing appointments is because they're having two jobs or they're single parents taking care of their children, barely enough time to sleep." This is in stark contrast to the rich family support that is the norm for patients in home countries.
+
+# CONCLUSIONS:
+
+IMG resident patient care in the U.S. is strongly experienced in the context of patient care in home countries. IMGs are aware of SDH in both locations, and comparisons are commonplace. Although SDH are viewed as less prominent barriers to care in the U.S., residents are also able to empathize with the difficulties U.S. patients face in taking care of their health. This needs assessment will inform a curriculum in SDH tailored for IMG trainees, which will help them understand the scope of SDH specific to the U.S. and develop skills to assess and manage SDH.
+
+# PERSPECTIVE-TAKING IN MEDICAL EDUCATION: A QUALITATIVE ANALYSIS OF INTERNAL MEDICINE RESIDENTS' ATTITUDES TO A NOVEL CURRICULUM
+
+Brianna Rossiter1; Melissa McNeil1; Gaetan Sgro2. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA. (Control ID #3186245)
+
+# BACKGROUND:
+
+Residency is marked both by intense knowledge acquisition, personal growth, and by increasing levels of burnout and cynicism. The latter erode empathy and undermine the altruistic motivations that led to a medical career path. Interactions with so-called "challenging" patients in the ambulatory setting are often cited as drivers of burnout and cynicism. Perspective-taking (PT) is a cognitive skill defined as "an understanding of other people's mental states" and has been studied as a way to cultivate empathy. The purpose of this study was to explore internal medicine residents' attitudes to the implementation of a PT exercise in an ambulatory curriculum.
+
+# METHODS:
+
+The PT curriculum took place within the PGY3 Ambulatory rotation of the UPMC Internal Medicine Residency, which all PGY3 residents complete as part of their training. The curriculum included the PT writing exercise itself and a facilitator-guided, de-brief session. Residents were then invited to participate in an interview to explore their attitudes to the curriculum. Two researchers developed a code book based on the interviews, coded, and assessed inter-rater reliability. Thematic analysis was completed with consultation of a qualitative research group.
+
+# RESULTS:
+
+Thirteen residents completed interviews and were analyzed. Preliminary emerging themes include: appreciation for a novel approach to understanding challenging patients, ambivalence over the best way to engage in self-reflection in medical training, finding value in co-residents' contribution to the de-brief session, identification of PT as a way navigate challenging patient interactions, and defining empathy as an extremely important characteristic of a physician.
+
+# CONCLUSIONS:
+
+A clinical experience in PT, encouraging resident reflection, provides a novel approach for probing empathy, a challenging construct to teach in medical education. Residents appreciated the opportunity to reflect about challenging patient encounters and found value in de-briefing with their peers. These attitudes support the need for future work in using PT as a cognitive means for maintaining empathy in medical training.
+
+# PERSPECTIVES ON DEPRESCRIBING CARDIOVASCULAR MEDICATIONS: A NATIONAL SURVEY OF INTERNISTS, CARDIOLOGISTS, AND GERIATRICIANS
+
+Timothy Anderson1; Parag Goyal3; Michael A. Steinman; Michael W. Rich.2 4 1University of California, San Francisco, San Francisco, CA; 2SF VA Medical Center, San Francisco, CA; 3Weill Cornell Medicine, New York, NY; 4Washington University School of Medicine in St. Louis, St. Louis, MO. (Control ID #3186031)
+
+# BACKGROUND:
+
+Polypharmacy in older adults is prevalent and harmful. The practice of deprescribing to reduce harms from unnecessary medication use is an increasingly recognized approach to comprehensive, patient-centered care for older adults. Deprescribing may encompass stopping cardiovascular (CV) medications including statins, antiplatelets, and antihypertensives.
+
+# METHODS:
+
+To understand physician perspectives on deprescribing CV

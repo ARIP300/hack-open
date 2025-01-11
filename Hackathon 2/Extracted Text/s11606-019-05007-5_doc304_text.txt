@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# BACKGROUND
+
+Increased screening and the development of effective antiviral treatments have led to marked improvement in Hepatitis C (HCV) patient outcomes. However, many people in the US are believed to have undiagnosed HCV. Geospatial modelling using multiple high-risk variables including social determinants of health, age, and HCV prevalence provides an opportunity to identify at-risk populations in need of screening and linkage-to-care for HCV.
+
+# METHODS
+
+We conducted a literature review to identify variables associated with patients at-risk for HCV infection. We separated the variables into two groups: HCV Prevalence and Social Determinants of Health. We collected data from publicly available sources and Atrium Health (formerly Carolinas HealthCare System), an integrated healthcare system based in Charlotte, NC with over 12 million patient encounters per year. We standardized the variables in the two groups and mapped out the overall combined index scores of each group at the census tract level in Mecklenburg County, NC.
+
+# RESULTS
+
+12 social determinants of health variables and 4 prevalence of HCV variables were identified. Between the two indexes, we identified 21 high risk census tracts that scored at least 2 standard deviations above the mean. Two census tracts overlapped between the two indexes; 11 were uniquely identified as high risk for prevalence of HCV and 8 were uniquely identified as priority tracts for social determinants of health.
+
+# CONCLUSIONS
+
+Geospatial models identified a selection of census tracts that can be used to map high risk HCV populations. This will allow future targeted screening and linkage-to-care interventions for patients at high risk of HCV.
+
+# UTILIZING STAKEHOLDER PERSPECTIVES TO INFORM THE USER-CENTERED DESIGN OF THE RESOURCE ACCESS MAPPING PROJECT (RAMP), A MOBILE PHONE-BASED INTERVENTION TO IMPROVE ACCESS TO SOCIAL SERVICES
+
+Ashley Odai-Afotey1; Chaarushi Ahuja1; Trucmai Ton2; Danya Keene2; Mona Sharifi3. 1Yale School of Medicine, New Haven, CT; 2Yale School of Public Health, New Haven, CT; 3Yale New Haven Hospital, New Haven, CT. (Control ID #3168500)
+
+# BACKGROUND
+
+Low-income and marginalized populations experience poorer health outcomes and lower access to health-promoting resources. The wide adoption of mobile phones in these populations could serve as a means to address systematic barriers to healthcare and resource access. In this study, we aim to explore resource needs and barriers to accessing services for social determinants of health among marginalized communities to inform the user-centered design of a mobile intervention.
+
+# METHODS
+
+Participants were purposefully recruited to participate in focus groups from low-income and marginalized populations through partnerships with three local community organization addressing mental health, food insecurity, and youth homelessness in New Haven, CT. We conducted focus groups located at these community-based organizations using a semi-structured moderator's guide. This guide was developed and iteratively refined by our qualitative research team to explore: (1) how participants navigate community resources, (2) barriers to resource access, and (3) perspectives on key requirements to optimize the usability and usefulness of a mobile application to improve resource access. We also reviewed prototypes of the mobile application to obtain more specific feedback. All focus groups were recorded, transcribed verbatim, and analyzed using a grounded theory approach.
+
+# RESULTS
+
+To date, we have completed three focus groups with 20 participants (4-8/group) ages 19-64 years. Participants were 47% male, 63% African-American, 42% had completed high school or less, 90% reported having access to a smartphone and out of those, 94% used "apps". Participants identified the primary sources of information on community resources as: disorganized and frequently inaccurate electronic resources, advertising at local community programs, and word of mouth. Barriers to resource access included lack of awareness, lack of centralized resources and outdated information, and distrust towards organizations and staff. Participants expressed that a mobile application to improve resource access should include comprehensive, up-to-date information, facilitate peer-to-peer communication and advocacy, and provide resources tailored to an individual's unique needs.
+
+# CONCLUSIONS
+
+Engaging target end-users in the development of interventions is more likely to yield a design that will be effective and highly adopted. Focus group participants from marginalized populations described an existing resource system that is disorganized and information-limited and defined several modifiable barriers to accessing resources to address social determinants of health. A centralized mobile application could introduce standardization, improve the reliability and accuracy of information, capitalize on and expand existing social networks and forms of information sharing, and facilitate tailored resource recommendations.
+
+# UTILIZING STANDARDIZED DOCUMENTATION TO IMPROVE THE CLARITY AND EFFICIENCY OF PERIPROCEDURAL COMMUNICATION FOR INPATIENT VASCULAR INTERVENTIONAL RADIOLOGY PROCEDURES
+
+Emma Simon; Erin McCaffrey; Masha Kuznetsova; Leora I. Horwitz; Eric Aaltonen. NYU School of Medicine, New York, NY. (Control ID #3184932)
+
+# BACKGROUND
+
+Hospitalized patients often undergo interventional radiology (IR) procedures, many of which require individualized pre-procedure preparation and post-procedure care. Internists caring for these patients may not be familiar with requirements for these patients, causing procedural delays or periprocedural adverse events. Clear communication between IR and internal medicine is therefore necessary, but is often lacking.
+
+# METHODS
+
+We conducted qualitative interviews with hospitalists, house staff, nurses and IR staff to identify common breakdowns in periprocedural communication between IR and referring medicine units. Utilizing insights from these interviews, we identified essential elements for pre-procedure and post-procedure communication. These elements were added as fields in templated pre- and post-procedure IR notes (Table 1). Each standardized template contains 16 elements. Outcome measures included proportion of key elements included in IR notes, inpatient provider satisfaction, and frequency of phone calls into and out of IR before and after the intervention.
+
+# RESULTS
+
+Before implementation of the standardized templates, pre-procedure consult notes (N=25) contained an average of 3.5 key elements (typically a brief medical history, assessment and plan), while post-implementation (N=50), these notes contained an average of 15.3 elements (p<0.001). Similarly, post-procedure notes (N=25) contained an average of 4.7 elements (typically the names of the IR providers, a brief procedure description and patient condition) pre-intervention versus a mean of 15.0 elements post-intervention (N=50) (p<0.001). Surveys of hospitalists pre- (N=17) and post-intervention (N=10) showed no significant difference in lack of confidence in preparing patients for IR procedures (52.9% vs. 30.0%, p=0.40), ineffective collaboration with IR (11.8% vs. 0%, p=0.44), and not receiving clear recommendations (35.3% vs. 10%, p=0.67); however analyses were underpowered. Total calls into and out of VIR decreased 15.6% overall (mean decrease of 7.7 calls/weekday and 24.5 calls/weekend, p=.006).
+
+# CONCLUSIONS
+
+Standardizing pre- and post-procedure documentation can effectively increase the inclusion of key content, and this content may reduce internal medicine physician questions and concerns regarding periprocedural patient care.
+
+# VALIDATING HOMELESS DATA FROM THE VETERANS HEALTH ADMINISTRATION ELECTRONIC HEALTH RECORD
+
+Kathleen A. McGinnis1; Melissa Skanderson1; Emily A. Wang2; Kathleen M. Akgün3; Mona Duggal1; Adam Gordon8; Vincent Marconi7; Keith

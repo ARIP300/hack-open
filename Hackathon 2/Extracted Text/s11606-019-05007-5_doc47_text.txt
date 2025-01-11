@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+History of AF in patients admitted with CDI is associated with longer complicated hospital course and increased in-hospital mortality. Resuscitation for hypovolemia and acute renal failure tends to occur at the expense of worsening heart failure. Treatment strategy for such patients should include a multidisciplinary team approach and intensive monitoring with a close eye on hemodynamic status.
+
+# ATTITUDES TOWARDS GENETICS TRAINING AMONG INTERNAL MEDICINE HOUSE STAFF
+
+Raja Chandra Chakinala2; Steven Murphy1; Akshay Khatri2; Leanne Forman2; Jagjit Khosla2; Kartik Dhaduk2; Melissa Gennarelli2; Rebecca Newman2; Christopher Nabors2. 1New York Medical College, Valhalla, NY; 2New York Medical College at Westchester Medical Center, Valhalla, NY. (Control ID #3163528)
+
+# BACKGROUND:
+
+The availability of genetic testing information is increasing. Perceptions regarding its utility vary among practicing providers. In this study, we sought to determine the attitudes and practices of residents in training towards genetic testing.
+
+# METHODS:
+
+Categorical trainees at a tertiary care center completed a baseline survey (12-2017 to 4-2018) followed by an educational intervention based on materials from the Genetics Education Canada Knowledge Organization (4 hours of lecture; 3-hours online training) and then a post-training survey (5-2018).
+
+# RESULTS:
+
+Baseline response rate was 80% (36/45): PGY-1 (16, 44%), PGY-2 (10, 28%), PGY-3 (10, 28%). 72% (26) had taken a medical school genetics course; most reported prior training to be insufficient (21, 61%). 28% (10) ordered a genetic test once/month or once/year 22% (8). Common tests were for thrombophilia (52%), BRCA (20%) and hemochromatosis (8%). Respondents believed patients would be interested in genetic testing (61%, 22), that testing is useful (61%, 22) and within 5 years would improve outcomes (50%, 18), but could lead to insurance discrimination (36%, 13). 61% (22) knew BRCA transmission mode, frequencies of BRCA mutations among breast cancer patients (67%, 24) and the percentage of persons with Lynch Syndrome who would develop colorectal cancer (72%, 26). A post-training pilot survey was offered to those who attended all lectures (N-15). Of those, 11 responded. Post-intervention results differed in a number of respects. Perceived frequency of testing increased to 36% monthly and to 45% yearly. 72% and 18% reported they were somewhat or much more able to manage genetic testing after training. Pre-training/post-training mean self-confidence ratings (low 1 to high 5) in the ability to elicit information were (3.46/3.64, p=0.08), to interpret results (2.77/3.45, p=0.29), to evaluate usefulness (2.69/3.27, p=0.04), to order test/referral (2.49/3.45, p=0.07), to discuss risks/benefits (2.37/3.45, p=0.02) and to provide counselling (2.46/3.36, p=0.10). Following training, 73% believed their training was either sufficient/more than sufficient compared to 60% prior to training. Medical knowledge related to hereditary cancers was comparable pre/post-intervention, while all residents agreed (post-intervention) on the importance of taking a detailed family history to interpret tests related to late onset Alzheimer's disease.
+
+# CONCLUSIONS:
+
+In this study, internal medicine residents were receptive to learning more about genetic testing and believed results of genetic tests would become more important as a guide to treatment in the next five years. Following a core set of lectures and online training, most respondents felt more confident in managing genetic test information and reported ordering genetic tests more frequently. Medical knowledge related to hereditary cancers was similar following training. Due to the small post-intervention pilot sample size, results will require further study for confirmation.
+
+# AVAILABILITY OF GROCERY DELIVERY IN AREAS WITH LIMITED FOOD ACCESS: AN EIGHT-STATE ANALYSIS
+
+Eric Brandt3; David Silvestri3; Jerold Mande1; Joseph S. Ross2. 1Tufts University, Boston, MA; 2Yale University School of Medicine, Woodbridge, CT; 3Yale University School of Medicine, New Haven, CT. (Control ID #3184225)
+
+# BACKGROUND:
+
+The United States Department of Agriculture (USDA) Supplemental Nutrition Assistance Program (SNAP) provides federally-funded nutritional economic support to qualifying low-income individuals and families to help reduce financial barriers to food access. Nevertheless, about one fourth of the 15 million households receiving SNAP nationwide currently reside in USDA-defined "foods deserts"—census tracts with below-median incomes, low grocer availability, and limited vehicular access. To expand food access, the 2014 Farm Bill authorized an Online Purchase Pilot (OPP) enabling SNAP recipients to spend benefits on groceries online. However, benefits cannot be used to pay for grocery delivery fees, potentially limiting the impact of online purchasing for increasing access to grocers, particularly in areas with limited vehicular access. Accordingly, we sought to quantify the proportion of USDA-defined food deserts and SNAP households in OPP states serviceable by existing grocery delivery networks via online grocers.
+
+# METHODS:
+
+We used the USDA Economic Research Service Food Access Research Atlas database to identify food deserts in OPP states (AL, IA, MD, NE, NJ, NY, OR, WA). The US Housing and Urban Development United States Postal Service ZIP code crosswalk data allowed census tract to zip code conversion. Using the USDA Food and Nutrition Service SNAP retailer database, we identified all retailers with >5 stores in study states and determined if they delivered to a ZIP code using manual retailer website review. Food desert census tracts were classified as fully-, partially-, or not-deliverable, according to whether all, some, or no corresponding ZIP codes fell within delivery areas, respectively. Primary outcomes were the proportion of food deserts and SNAP households serviceable by grocery delivery, stratified by urban status.
+
+# RESULTS:
+
+Food deserts comprise 9.5% (n=1,250) of census tracts and 18.4% (n=506,863) of SNAP households in OPP states. Grocery delivery is available fully to 85.9% (n=1,074), partially to 2.6% (n=32), and not at all to 11.5% (n=144) of food desert census tracts, and to 87.3% (n=442,643), 2.7% (n=13,696), and 10.0% (n=50,524) of SNAP households within food deserts, respectively. Among rural food desert tracts (n=59) grocery delivery is available fully to 0, partially to 27.1% (n=16), and not at all to 72.9% (n=43), while in urban food deserts (n=1,191), grocery delivery is available fully to 90.2% (n=1,074), partially to 1.3% (n=16), and not at all to just 8.5% (n=101) (p<0.001).
+
+# CONCLUSIONS:
+
+Expanding SNAP benefits for grocery delivery in OPP states could increase access to grocery stores for roughly 7 of 8 food desert census tracts and corresponding SNAP households, with greatest impact in urban areas. Planned OPP expansion nationwide could consider financing grocery delivery, which if coupled with incentives that direct consumers to highest-quality food choices could increase the utility of online grocery purchasing.
+
+# BARRIERS AND FACILITATORS OF SELF-MANAGEMENT BEHAVIORS AMONG PATIENTS WITH MULTIPLE CHRONIC CONDITIONS: A MIXED-METHODS INVESTIGATION
+
+Rachel O'Conor1; Kimberly A. Muellers2; Andrea Russell1; Sarah Wright1; Sara Thompson; James W. Griffith1; Michael S. Wolf1; Juan Wisnivesky2; Alex Federman2. 1Northwestern University, Chicago, IL; 2Icahn School of Medicine at Mount Sinai, New York, NY; 3Mount Sinai School of Medicine, New York, NY. (Control ID #3177569)
+
+# BACKGROUND:
+
+Multimorbidity challenges disease management among older adults, yet self-management programs are often condition-specific. We investigated how individuals managing multiple chronic conditions (MCC) navigate their conditions and identify any difficulties they face in their management.
+
+# METHODS:
+
+We conducted a mixed-methods study using semi-structured interviews among a subset of patients (n=18) participating in a cohort study.

@@ -1,0 +1,56 @@
+# JGIM
+
+# ABSTRACTS
+
+# Wernicke's Encephalopathy
+
+had not been feeling hungry. Her mental status changes were felt to be secondary to Wernicke's encephalopathy (WE) from poor nutrition.
+
+# IMPACT/DISCUSSION:
+
+Underdiagnosis of Wernicke's has been widely reported based on autopsy results. The triad of encephalopathy, oculomotor dysfunction and gait ataxia at presentation is an exception, rather than the rule. Most patients present only with mental status abnormalities, as with our patient. While chronic alcoholism is certainly the most common underlying pathology, up to 23% cases have been attributed to other causes including poor nutritional intake. Mammillary body atrophy is the classical sign found on imaging and is very specific for WE. Other MRI findings typical of WE are enhancement of thalamus and periaqueductal gray. In non-alcoholic WE atypical MRI findings have been reported and hippocampal enhancement might represent another such case. Untreated, thiamine deficiency can progress to coma. Delayed treatment correlates with increased residual deficits. Given the complete and acute reversibility, early diagnosis is crucial. A high level of suspicion needs to be maintained, especially in elderly patients who may not have sufficient nutritional intake in the setting of dementia or deconditioning.
+
+# CONCLUSION:
+
+1. Wernicke's encephalopathy does not usually present with the classic triad of encephalopathy, ataxia and oculomotor abnormalities.
+2. High suspicion for Vitamin B1 deficiencies in elderly patients presenting with neurological complaints, even without history of alcohol use or malabsorption.
+
+# WHAT HAPPENED? TRANSFERENCE AND COUNTERTRANSFERENCE PHENOMENA IN A CLINICAL ENCOUNTER
+
+Ashwini C. Bapat; Emeric Bojarski. Massachusetts General Hospital, Boston, MA. (Control ID #3172958)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize transference (T) and countertransference (CT).
+
+# LEARNING OBJECTIVE #2:
+
+Employ a methodical approach to prevent the harmful consequences of transference phenomena (TP).
+
+# CASE:
+
+A 54-year-old male with opioid use disorder and lung cancer presents for management of cancer-related pain. His tumors have shrunk with treatment. He reports aching, severe, left-sided chest pain. He continues to exercise. He is on MS Contin 90 mg 3 times a day and oxycodone 20 mg every 4 hours as needed, which he takes around the clock regardless of pain level. On exam, he sits and walks comfortably. The clinician suggests opioid down-titration in the setting of a shrinking tumor, meeting functional goals, and concern for oxycodone misuse. The patient responds in anger. T: The patient may feel stigmatized. He has likely been dismissed as a ‘junkie' in the past, within the healthcare system or from family due to substance use. He interprets tapering of opioids as a sign the clinician no longer believes his pain reports, leading to reactivation of feelings of helplessness and abandonment. This impacts his willingness to discuss analgesic approaches. CT: The clinician, influenced by prior patients with substance use disorder who diverted or misused opioids, may anticipate another episode of betrayal from this patient with a substance use disorder, reactivating feelings of helplessness and abandonment. To avoid these feelings, the clinician desires to quickly decrease the opioids, severely enforce the terms of the taper, and spend less time with the patient, compromising care. Reflection: Both the patient and clinician act out transferred feelings of helplessness and abandonment. A clinician unaware of TP may fail to appropriately assess pain and discuss management. A clinician attuned to TP can utilize a methodical approach of self-reflection to manage their countertransference, enabling a more effective discussion and plan for pain management.
+
+# IMPACT/DISCUSSION:
+
+T is the unconscious redirection of a patient's feelings, attitudes, desires, about a person in their earlier life, onto the clinician, while CT is the unconscious redirection of a clinician's feelings, attitudes, and desires about a person in their earlier life onto the patient. TP is not inherently pathologic, nor does it reflect failure of the clinician or patient. This topic is particularly relevant for internists who frequently care for ill patients with concomitant substance use disorders who evoke intense, often unexamined emotions. Most internists lack the training to recognize and understand this phenomenon, hence transference feelings go unrecognized and can contribute to inappropriate medical care and physician burnout. This case illustrates this phenomenon, highlights the negative impact on patient care, and illustrates how a methodical approach can mitigate the negative consequences.
+
+# CONCLUSION:
+
+Unexamined TP can negatively impact care. A methodical approach to self-reflection can prevent harmful consequences.
+
+# WHAT HAPPENS ONCE CAN HAPPEN TWICE.
+
+Naoki Okawa1; Makito Yaegashi1; Sandra Moody2. 1Kameda Medical Center, Kamogawa, Japan; 2Kameda Medical Center, Kamogawa City, Japan. (Control ID #3178841)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that necrotizing fasciitis (NF) can recur.
+
+# CASE:
+
+A 94-year-old man with poorly controlled diabetes mellitus (DM), chronic kidney disease (CKD), and coronary artery bypass surgery presented to our clinic with right upper limb erythema and pain for two days. One day before admission, he noticed erythema and purple discoloration of his right wrist. On physical examination, he appeared ill. His blood pressure was 93/57 mmHg, temperature 37.6°C, pulse 86 beats per minute, respiratory rate 18 per minute, and pulse oximetry 98% in ambient air. There was a large painful dark purple area of his right upper limb, from his wrist to his shoulder. Laboratory studies were remarkable for a white blood cell count of 14,500/μl with 94% neutrophils, hemoglobin 7.3g/dl, blood urea nitrogen 73 mg/dl, and creatinine 2.88 mg/dl. Over the next two hours, the blood pressure fell to 80/50 mmHg. Intravenous (IV) vancomycin and piperacillin/tazobactam was started empirically with a vasopressor. He was admitted to the intensive care unit and treated with surgical debridement. During the debridement purulent exudate and discoloration of the fascia were observed. Since cultures from blood and tissue revealed the same strain of E. coli sensitive to all antibiotics except ampicillin, antibiotics were de-escalated to cefazolin. In addition, hyperbaric oxygen therapy was initiated. He became stable and finished a 21-day course of IV antibiotic therapy. Twelve days later, he became febrile and tachycardic. Over the next ten hours, his condition deteriorated, and he became comatose. At this presentation, his left elbow and surrounding area were noted to be erythematous with blistering and severe tenderness. Since recurrent NF was suspected, meropenem and a vasopressor were started. His condition deteriorated rapidly and he died within six hours. E. coli with the same sensitivity profile was detected from his blood and tissue. His autopsy confirmed the diagnosis of recurrent NF.
+
+# IMPACT/DISCUSSION:
+
+NF is categorized by polymicrobial or monomicrobial. E. coli is usually isolated from polymicrobial NF, but has rarely been reported in monomicrobial NF. Monomicrobial NF due to E. coli has also been reported in immunocompromised or diabetic patients; it is rare. In addition, recurrent NF is very rare, and only seven cases have been reported previously. Our patient had several predisposing factors that made him susceptible to NF—poorly controlled DM and CKD. Though it is unclear whether he had a recrudescence of NF from hematogenous seeding.

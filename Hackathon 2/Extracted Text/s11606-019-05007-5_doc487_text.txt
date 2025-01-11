@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# CASE 1: BRAIN ABSCESS
+
+Weeks of antibiotic therapy so he subsequently underwent brain abscess biopsy and drainage which grew *Streptococcus intermedius*. Antibiotics were targeted to the cultured organism based on culture and sensitivity data and he was treated with a prolonged course of TNP-SMX. He underwent oral panoramic x-ray which revealed multiple periapical abscesses and was referred for outpatient tooth extraction.
+
+# IMPACT/DISCUSSION:
+
+An abscess is a common problem for the general internist in both the hospital and outpatient setting. Developing a systematic approach to how an abscess should be managed can help expedite appropriate diagnosis and treatment. Commonly abscesses are presumed to be staph aureus or other staph species. *Streptococcus intermedius is an aerotolerant anaerobic bacterium that is commensal oral flora but has been implicated in disseminating and forming brain and liver abscesses, especially in immunocompromised hosts. It is a member of the Strep anginosus group that also includes Strep anginosis and Strep constellatus. S. anginosis and S. intermedius* are more likely to have altered penicillin binding proteins leading to resistance to beta-lactams. Vancomycin is a suitable alternative. It is important to be aware of these treatment implications as this group of organisms are known to cause abscesses in areas that are difficult to biopsy including the brain, thoracic cavity, and abdominal cavity. Some members of the S anginosis group can also produce superantigens leading to necrotizing complications, making prompt recognition even more important.
+
+# CONCLUSION:
+
+General Internists must consider *S. intermedius* in their diagnostic approach to patients with abscesses and with history of immunomodulators, which are increasingly more common in today's age of targeted biologic therapies.
+
+# MURINE TYPHUS: A FLEA-TING DIAGNOSIS
+
+Adam J. Klein; Steven Klemow. Methodist Dallas Medical Center, Dallas, TX. (Control ID #3184346)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features and risk factors for murine typhus.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize changing patterns of endemic infections.
+
+# CASE:
+
+29 year old female with no significant past medical history presented with fever, nausea, vomiting. Patient stated that symptoms started 1 month ago with a prodrome of headache, photophobia and flu-like symptoms, which had resolved, but fevers persisted. She had a max temperature of 104 degrees F with worsening fatigue and lethargy which prompted her presentation to this hospital. On admission, she denied headache, sore throat, chest pain, dyspnea, abdominal pain, diarrhea, dysuria, arthralgias, myalgias, rash, new medications or drug use. She had no known sick contacts and no recent travel/camping and denied any tick or animal bites. She lives in a rural area with her spouse and pet pig. She had a temperature of 102F, heart rate of 98, blood pressure 107/82 breathing comfortably on room air. There was no lymphadenopathy, lung sounds were clear, no cardiac murmur was appreciated, abdomen was soft and non-tender, and no visible rash or wounds. Labwork revealed WBC 12.1, CRP 157, Procalcitonin 4.21, LDH 1,552, ALT 105, AST 103, Alkaline Phosphatase 137. Rapid influenza, acute hepatitis panel, blood cultures, HIV, RPR and T-Spot were negative. Imaging was non-contributory. Anaplasma, ehrlichia, brucella, CMV, EBV, and fungal studies were negative. Rickettsia typhi IgM and IgG antibody by IFA returned at 1:2048 and 1:128 respectively, consistent with a diagnosis of Murine Typhus. Doxycycline was started and her fever defervesced within 48 hours. It was discovered that there was a local R. typhi outbreak in the patient's county. Indoxacarb was provided for the patient's pet pig as possible host. 2 weeks after discharge, symptoms had not returned and repeat IgM antibody was 1:512.
+
+# IMPACT/DISCUSSION:
+
+Murine typhus is a rare bacterial infection caused by *Rickettsia typhi* with a worldwide geographic distribution, and in the United States, predominately in Los Angeles County and southern Texas. Humans are infected by inoculation of infective flea feces in bite wounds. While worldwide, rats are the main host, in the United States, domestic cats and opossums act as the main host with cat fleas acting as the vector. The cat flea is an indiscriminate feeder and commonly parasitizes many animals of similar size. In a review of outbreaks in south Texas, the majority presented with fever, headache, myalgias, fatigue, rash, thrombocytopenia and elevated hepatic transaminases. Overall there has been an upward trend in the number of reported cases in the north Texas region over the last 5 years. While there are many reasons that can be contributing to the changing epidemiology, this has not been formally studied yet.
+
+# CONCLUSION:
+
+Murine typhus can be challenging to diagnose due to the non-specific presentation. It is important to recognize the clinical signs as the changing epidemiology pattern will impact physicians outside endemic regions more frequently.
+
+# MY WATCH SAYS IT'S TIME TO GO TO THE DOCTOR
+
+John Xie; Sanjin Tunovic. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184073)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the clinical presentation and diagnosis of hyperthyroidism.
+
+# LEARNING OBJECTIVE #2:
+
+Review recent technology in healthcare assessment and delivery.
+
+# CASE:
+
+A 48-year-old man with recently diagnosed Grave's disease two months prior presented when his Apple watch reported his heart rate was in the 150s. He endorsed mild anxiety, but had no palpitations, tremor, vision changes, weight loss, nausea, vomiting, or abdominal pain. EKG was consistent with sinus tachycardia with a heart rate in the 160s. Labs returned with TSH suppressed with slightly elevated total T4 as well as free T4. The Burch-Wartofsky Point Scale (BWPS) for Thyrotoxicosis was 30 suggesting impending thyroid storm. He was prescribed methimazole and propranolol with improvement in his symptoms.
+
+# IMPACT/DISCUSSION:
+
+Thyrotoxicosis, a condition caused by excess circulating thyroid hormone, has an estimated prevalence of 0.1-0.5%. Thyroid hormone can affect any organ in the body, which can make diagnosis challenging. Some presentations can be innocuous, such as anxiety and tachycardia, but can also include heat intolerance, palpitations, weight loss, muscle weakness, and diarrhea. If untreated, thyrotoxicosis can increase the risk for atrial fibrillation, congestive heart failure, osteoporosis, and thromboembolism. The most serious complication is thyroid storm, characterized by altered sensorium, and has a high mortality unless treated promptly. Initial tests to diagnose thyrotoxicosis include a suppressed TSH and elevated total and free T4. The Burch-Wartofsky Point Scale (BWPS) for thyrotoxicosis can also be used to estimate the likelihood of thyroid storm based on clinical presentation. Laboratory data is not included in this scoring system. The advent of new mainstream technology in healthcare has the potential to impact which patients seek medical care. In particular, the recently released Apple Watch Series 4 is the first smartwatch to get FDA clearance for EKG monitoring. This device simulates a one-lead EKG by placing electrodes on the back of the watch and in the digital crown. Thus far, the EKG app can only give two heart rhythms - normal sinus and atrial fibrillation. The Apple Heart Study was started in November 2017 to determine if the Apple Watch can accurately diagnose atrial fibrillation. This study included 588 individuals, half with atrial fibrillation and the other half with normal sinus rhythm. The watch algorithm accurately identified 98.3 percent of people with atrial fibrillation, and correctly identified 99.6 percent of people who did not have atrial fibrillation.
+
+# CONCLUSION:
+
+Low TSH and elevated thyroid hormones establish a diagnosis of hyperthyroidism. The BWPS can estimate likelihood of thyroid storm based on symptom severity, independent of laboratory results. As wearable device technology continues to advance it will likely have an increasing role in disease detection and monitoring in the outpatient setting.

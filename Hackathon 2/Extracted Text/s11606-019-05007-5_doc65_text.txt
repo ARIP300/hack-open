@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# CHARACTERIZING GENDER-BASED DIFFERENCES IN BURNOUT AMONG PHYSICIANS IN AN ACADEMIC MEDICAL CENTER
+
+Lisa Rotenstein 1; Elizabeth Harry 1; Paige Wickner 1; Anu Gupte 1; Bridget Neville 1; Stuart R. Lipsitz 1; Elizabeth Cullen 1; Ronen Rozenblum 1; Thomas D. Sequist 2; Jessica Dudley 1, 1. Brigham and Women's Hospital, Boston, MA; 2 Partners Healthcare System, Boston, MA. (Control ID #3185855)
+
+# CHARACTERIZING FATIGABILITY IN HOSPITALIZED PATIENTS WITH ANEMIA
+
+Micah T. Prochaska; Cyrus Alavi; Sarah Bradbury; David Meltzer. University of Chicago, Chicago, IL. (Control ID #3161008)
+
+# BACKGROUND:
+
+Fatigability describes how fatigued a patient is at any given level of activity, and is measured as the degree of fatigue a patient experiences after performing a specific amount of activity. The National Institute of Aging has suggested that fatigability is an important measure in patients with conditions where fatigue is a prominent symptom, such as hospitalized patients with anemia. This is because fatigue is the primary symptom of anemia, and both hospitalization and anemia-related fatigue are associated with declines in activity and functional capacity. As such, measuring fatigability in hospitalized patients with anemia could provide hospitalists information about the severity of patients' fatigue, and how fatigue may be interfering with their functional capacity. Moreover, fatigability could be used to predict future functional decline or disability post hospitalization. However, fatigability has not been previously described in hospitalized patients with anemia. The purpose of our study was to establish the clinical reliability of fatigability, by characterizing the association between fatigability and patient's clinical (i.e. Hb, comorbidities) and demographic characteristics.
+
+# METHODS:
+
+From 6/2017-1/2018, hospitalized general medicine patients with a Hb<10g/dL were approached for an inpatient interview at hospital admission. Fatigability was measured using the Pittsburgh Fatigability Scale (PFS). The PFS contains 10 questions that measure fatigue in the context of specific activities. PFS scores range from 0-50, with higher scores indicating greater fatigability (higher fatigue at lower activity). Patients' hemoglobin (Hb) values and clinical data were abstracted from hospital administrative data. Patients who received a transfusion prior to the PFS measurement were analyzed separately since transfusion affects Hb and could confound the association with fatigability. Linear regression was used to test the association between fatigability (PFS) as the dependent variable, and patient Hb and Charlson Comorbidity score (CCS) as predictor (independent) variables, controlling for age, race, and gender.
+
+# RESULTS:
+
+467 patients completed the inpatient PFS. The median age of the sample was 55 (IQR 39-68) years old, 61% (n=293) were female, 77% (n=360) were African American, with a median CCS of 2 (IQR 1-5). The median PFS score of the sample was 33 (IQR 25-38), and the median Hb was 8.9g/dL. In regression models, a Hb 7-8g/dL (b=2.7, p=0.04) compared to Hb 9-10, and higher CCS (b=0.8, P<0.001) were associated with increased fatigability.
+
+# CONCLUSIONS:
+
+Severity of anemia and number of comorbidities are predictive of higher fatigability (higher fatigue at lower activity) during hospitalization. This suggests that fatigability is reliably associated with expected clinical characteristics during hospitalization, and could be measured and used by hospitalists to clinically evaluate the severity of a patient's fatigue, and how that fatigue may be affecting their functional capacity.
+
+# BACKGROUND:
+
+Burnout, a syndrome that develops in response to chronic job-related stressors, is a critical issue affecting modern physicians. Burnout has negative effects on healthcare practice and workforce availability. We sought to characterize gender-based differences in burnout among physicians at an academic medical center and to understand contributors to burnout in this population.
+
+# METHODS:
+
+In Spring 2017, an adaptation of the Stanford Physician Wellness Survey was administered to all clinical faculty (defined as actively practicing medicine) at Brigham and Women's Hospital, an academic medical center affiliated with Harvard Medical School. This survey was designed by the Physician Wellness Academic Consortium. It included validated measures of aggregate burnout (defined as a combination of emotional exhaustion and interpersonal disengagement) and professional fulfillment, as well as a single question on self-defined burnout. Demographics and data regarding previously characterized burnout drivers were also collected. Generalized estimating equations clustered by department (chi-squared or t-tests) were used to compare demographics, drivers, and outcomes between gender, while content analysis was used to analyze free-text comments.
+
+# RESULTS:
+
+Our population included 1,145 clinical faculty (610 (53.2%) men and 535 (46.8%) women; 65% response rate). A majority were under age 50. The largest departments represented were medicine (26.9%) and general surgery (10.6%). Female physicians were younger than male counterparts (p=0.02) and trended towards lower academic ranks (p=0.06). They were significantly more likely to report burnout than male physicians (227 (43.3%) vs. 199 (33.5%); p=0.02). This finding held for self-defined burnout (45.8% of females vs. 32.3% of males; p<0.01). Female physicians were less likely to report professional fulfillment (183 (34.5%) vs. 298 (49.7%); p<0.01). They had lower ratings of perceived appreciation (p<0.01), schedule control (p<0.01), work environment diversity (p=0.01), diversity and quality of departmental recruiting (p=0.02), and salary/benefits (p=0.02). Although there was not a difference in female vs. male physicians' intention to leave the institution within two years, females were more likely to report a departure would be driven by considerations around mentoring/leadership, schedule flexibility, workload expectations, and dual careers (all p<0.05); qualitative analysis of free-text comments furthered these conclusions.
+
+# CONCLUSIONS:
+
+Female physicians practicing in an academic medical center experience higher levels of burnout and lower professional fulfillment than their male counterparts. They perceive lower levels of appreciation, schedule control, and diversity, and have decreased satisfaction with compensation practices. Further research is needed to understand which factors most robustly predict burnout, and which interventions can mitigate these phenomena in an academic medical population.
+
+# CHARACTERIZING HIGH RISK ATRIAL FIBRILLATION PATIENTS IN A SAFETY NET INSTITUTION TO IDENTIFY TRENDS THAT MAY HELP IMPROVE ANTICOAGULATION GUIDELINE ADHERENCE AND STROKE PREVENTION
+
+Benjamin Leon 5; Carlos Irwin Oronce 2; Joel C. Marrs 3; Sarah L. Anderson 4; Tara B. Vlasimsky 1; Samuel D. Richesin 1; Carolyn A. Valdez 1; Rebecca Hanratty 1. 1 Denver Health, Denver, CO;

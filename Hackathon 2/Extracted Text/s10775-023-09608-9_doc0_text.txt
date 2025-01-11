@@ -1,0 +1,35 @@
+# International Journal for Educational and Vocational Guidance
+
+https://doi.org/10.1007/s10775-023-09608-9
+
+# Multidimensional measure of employability: internal structure and associations with motivational and emotional features in unemployed persons
+
+Ana Daniela Silva1 · Catarina Luzia Carvalho1
+
+Joana Soares1 · Maria do Céu Taveira1
+
+Received: 21 October 2022 / Accepted: 6 June 2023
+
+© The Author(s) 2023
+
+· Vinicius Coscioni1 · Check for updates
+
+# Abstract
+
+This study describes validity and reliability evidence of the Multidimensional Measure of Employability (MME) based on the internal structure and relations to other measures in a sample of unemployed persons in Portugal. Altogether, 216 individuals participated in an online survey. The MME’s internal structure was tested by confirmatory factor analyses, suggesting good fit. The factors’ reliability was good, as assessed by four types of coefficients. Multiple linear regressions considering motivational and emotional features allowed for the identification of validity evidence based on the relationships with other constructs. Thus, MME is a valid and reliable measure to assess employability among unemployed persons.
+
+# Keywords
+
+Employability · Validity · Reliability
+
+The COVID-19 pandemic has impacted Portugal mostly at the socioeconomic level (Ferrão et al., 2022). The quarantines provoked a sharp increase in unemployment, particularly in regions more reliant on tourism (Instituto de Emprego e Formação Profissional [IEFP], 2021). A very enlightening example is Algarve, a region located in the Southern side of Portugal, where revenues generated during the vacation period play the most important role in its employment structure (Ferrão et al., 2022). Amidst the pandemic, Algarve witnessed the highest increase in unemployment in the whole country (around 150%), counting 33,571 unemployed persons (IEFP, 2021). While economic recession affects everyone, unemployed persons are the most vulnerable to its consequences (Drosos et al., 2021). Thus, tackling unemployment should be a key priority for governments and public authorities. In this realm, career interventions focused on the employability resources of unemployed persons can be
+
+* Ana Daniela Silva
+
+danielasilva@psi.uminho.pt
+
+1 School of Psychology, University of Minho, Braga, Portugal
+
+Published online: 11 July 2023
+
+Vol.:(0123456789)1 3

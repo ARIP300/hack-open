@@ -1,0 +1,37 @@
+# Special Issue
+
+Including 673 patients with B-cell lymphoproliferative diseases was performed to assess real-world treatment patterns, discontinuation rates and clinical outcomes on BTK inhibitor therapy [2]. Median duration of treatment was 36.4 months in the entire cohort, and median post–BTK-inhibitor survival had not been reached yet. During follow-up, 43.8% of patients permanently discontinued therapy, which was mostly due to progressive disease.
+
+Early discontinuation during the first six months occurred in 26.3%; here, patient outcomes were poor, with a median post-discontinuation survival of 6.9 months. According to multivariate analysis, discontinuation of BTK inhibitors due to toxicity as well as discontinuation within six months were independent predictors of survival. On the other hand, the decision between BTK inhibitor monotherapy and combination therapy did not significantly affect survival, which also applied to the choice of first-generation vs. second-generation agents. The authors concluded that BTK inhibitors are an effective and well-tolerated treatment for long-term use in Chinese patients. Considering the suboptimal outcomes after early discontinuation, these data emphasize the importance of treatment adherence.
+
+# German Findings for BTK Inhibition vs. Venetoclax
+
+An analysis by the German CLL Study Group Registry presented at iwCLL 2023 included patients with CLL who were treated with either BTK inhibitors (n = 915) or venetoclax (n = 274) between July 2014 and January 2023 [3].
+
+BTK inhibitors and venetoclax constituted the first-line strategy in 38.5% and 55.5%, respectively. Pretreatment mostly consisted of chemoimmunotherapy.
+
+The survival outcomes were comparable irrespective of the type of treatment. Median event-free survival and OS from the first BTK-inhibitor–containing regimen were 23.2 and 85.9 months, respectively; for venetoclax-containing regimens, this was 31.8 and 96.5 months, respectively. Similarly, time to next treatment (TTNT) did not differ, with median TTNT being 68.4 and 63.7 months for the BTK inhibitor and venetoclax groups, respectively.
+
+# iwCLL 2023
+
+Survival probability
+
+| |0|1|2|3|4|5|
+|---|---|---|---|---|---|---|
+|0.00| | | | | | |
+|0.25|n FCR| | | | | |
+|0.50|n BR| | | | | |
+|0.75|n Targeted treatment| | | | | |
+|1.00| | | | | | |
+
+# Acalabrutinib & Ibrutinib: Differences in CV Safety
+
+According to this analysis, hypertension was associated with shorter OS, particularly following first-line treatment. The risk of CLL-unrelated and CLL-related death was increased, with patients dying more often from infectious and cardiovascular causes compared to CLL patients without hypertension. Also, time to treatment initiation was comparatively longer. The scientists compared the OS outcomes from the first-line treatment for fludarabine/cyclophosphamide/rituximab, BR, and targeted therapies. In the group with hypertension, patients fared better with chemoimmunotherapy than with targeted agents, whereas there was no difference in those without hypertension. This might be taken into consideration at the time of CLL treatment selection, in addition to the observation that CLL patients with hypertension appear to be more vulnerable to infections.
+
+# References
+
+1. Davids MS et al., Real-world treatment patterns, reasons for discontinuation, and survival outcomes among patients with chronic lymphocytic leukemia/small lymphocytic lymphoma receiving second or later lines of therapy in a contemporary population treated in the United States. iwCLL 2023, poster 1109
+2. Yan Y et al., Real-world treatment patterns, discontinuation and clinical outcomes in patients with B-cell lymphoproliferative diseases treated with BTK inhibitors in China. iwCLL 2023, poster 1127
+3. Kutsch N et al., Targeted agents in chronic lymphocytic leukemia: data on outcomes and subsequent therapies of patients observed within the German CLL Study Group registry. iwCLL 2023, poster 1212
+4. Lopez-Garcia A et al., Safety profile in patients with chronic lymphocytic leukemia undergoing treatment with 1st and 2nd generation Bruton tyrosine kinase inhibitors: multicentric real-world experience. iwCLL 2023, poster 1116
+5. Vainer N et al., Association between hypertension and overall survival in chronic lymphocytic leukemia. iwCLL 2023, poster 1101

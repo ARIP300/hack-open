@@ -1,0 +1,61 @@
+# JGIM ABSTRACTS
+
+# DIAGNOSING EHLERS-DANLOS SYNDROME IN THE AGE OF IN-HOME GENETIC TESTING
+
+Cameron Bell; Lucy Guerra; Asa Oxner. University of South Florida, Tampa, FL. (Control ID #3184484)
+
+# LEARNING OBJECTIVE #1:
+
+Assess patients for Ehlers-Danlos Syndrome using the Beighton Scoring System.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the existence of in-home genetic testing, its role in patient care, and its limitations in diagnosing disease.
+
+# CASE:
+
+A 47 year old female with no past medical history presented for evaluation of joint hypermobility. During yoga she noted a dislocation of her right shoulder and was concerned about a possible diagnosis of Ehlers-Danlos syndrome. She recalled joint hypermobility since birth as well as diagnosis of a cardiac murmur in her 20s. She also reported frequent bruising of her legs which led to her being removed from her home at age 9 over concerns of abuse. She reported similar symptoms in 3 out of 4 of her children. On physical exam, patient scored a 7/9 on the Beighton hypermobility score but was otherwise unremarkable. In home genetic testing showed collagen mutations. She was referred to a geneticist and rheumatology for further workup.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the importance of considering Ehlers-Danlos syndrome and the use of the Beighton hypermobility scale in the differential diagnosis of patients with joint hypermobility and dislocations not expected by the level of activity. Patients are also increasingly turning to in-home genetic testing which has unproven benefit for clinical practice, causing providers to navigate discussion of results. Patients presenting with joint hypermobility, skin hyperextensibility and atypical joint dislocations should be evaluated for a diagnosis of Ehlers-Danlos Syndrome. Bowen et. al discuss the Beighton hypermobility score which examines hand, elbow, knee and spine mobility as a tool to evaluate patients for joint hypermobility with a score of 5/9 or greater suggestive of the diagnosis. Patients suspected of having Ehlers-Danlos based on the hypermobility score and clinical symptoms should be referred for confirmatory genetic testing, as well as a multidisciplinary team consisting of a Rheumatologist and Sport's Medicine physician. In today's healthcare environment, in home genetic testing is increasingly prevalent which provides unique challenges in the physician patient relationship. In an editorial by Burke et. al in 2016, it was suggested that among patients who discussed their results at appointments, many patients were unsatisfied with the interaction, 1/5 saying they were not satisfied at all. These tests should be used to assist with diagnosis but should not replace formal evaluation by a geneticist or clinical judgement.
+
+# CONCLUSION:
+
+The Beighton hypermobility score is a valuable clinical tool for evaluating joint hypermobility in the diagnosis of Ehlers-Danlos Syndrome. Internists should also be aware of patients' increased use of in-home genetic testing and work with patients to navigate their results.
+
+# DIAGNOSING MYASTHENIA GRAVIS FROM ISOLATED RESPIRATORY FAILURE
+
+Anthony Higinbotham; Hongyang Pi; Kaveh Moghbeli. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185767)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize respiratory failure as a potential manifestation of neuromuscular disease.
+
+# CASE:
+
+78 year old female with a history of hypertension on atenolol who presented initially to an outside hospital for ptosis and respiratory insufficiency requiring intubation prior to transfer. Stroke workup was unrevealing. Initial labs on arrival to our hospital were notable for a normal comprehensive metabolic panel, a troponin-I elevation of 1.25 (peak 3.65) and lactate 6.5 mmol/L. EKG and chest radiograph did not show any abnormalities. Patient was quickly weaned off sedation and was noted to follow commands. Physical examination was normal except for 4/5 strength of her upper extremities and bilateral hip flexors. Family added that patient was recently diagnosed with polymyalgia rheumatica for progressive muscle weakness and had received a short course of steroids. She passed a spontaneous breathing trial, met all criteria for extubation, and was subsequently extubated. Within 30 minutes of her initial extubation, she was noted to be hypertensive and tachycardic, an episode of apnea was noted, and she became hypoxemic, ultimately requiring emergent re-intubation. Forty eight hours later, she again passed a spontaneous breathing trial via T-piece and met all criteria for extubation. She was extubated. A few hours later, she was noted to have minimal respiratory effort, neck weakness with inability to lift her head against gravity, and a depressed mental status. Blood work confirmed hypopneic respiratory failure requiring re-intubation. Point of care ultrasound revealed an akinetic left hemidiaphragm. A neuromuscular serologies and EMG confirmed a diagnosis of myasthenia gravis. Patient underwent treatment with IVIG and was able to be extubated successfully.
+
+# IMPACT/DISCUSSION:
+
+Myasthenia gravis (MG) is the most common neuromuscular disorder characterized primarily by weakness and fatigability of ocular, bulbar, limb and respiratory muscles. These symptoms are due to autoimmune inhibition or destruction of the muscle fiber nicotinic acetylcholine receptor at the neuromuscular junction by autoantibodies. Certain medications may precipitate or exacerbate an episode of MG crisis: in this patient's case - atenolol, magnesium, and, as a possible paradoxical effect, corticosteroids. Involvement of the respiratory muscles is the most serious form of a MG crisis and can be life-threatening. In many patients, manifestations in the early stages of respiratory insufficiency could be transient and remit spontaneously. However the symptoms typically get worse and more persistent without treatment. In intubated patients, evaluation of diaphragmatic function can provide helpful information with regards to the appropriateness of extubation.
+
+# CONCLUSION:
+
+Respiratory failure could be a potential manifestation of neuromuscular disease. Avoid the medications that could exacerbate myasthenia gravis crisis.
+
+# DIAGNOSTIC APPROACH TO ACUTE RHEUMATIC FEVER PRESENTING AS POLYARTHRITIS
+
+Julien Feghaly; Ariana Mooradian. St. Louis University Hospital, St. Louis, MO. (Control ID #3162790)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose acute rheumatic fever using the Jones criteria.
+
+# LEARNING OBJECTIVE #2:
+
+Review the utility of throat culture, rapid streptococcal antigen test and streptococcal antibody titers in the diagnosis of ARF.
+
+# CASE:
+
+A 52-year-old male with a previous medical history significant for gout, hypertension, hyperlipidemia and alcohol abuse, presented with 9-day history of gradually worsening polyarthritis. He was treated with indomethacin & colchicine for a possible gout flare, with no improvement. Additionally, receiving vancomycin for concern of septic arthritis, having had an elevated temperature of 101.9 °F and an elevated ESR & CRP. The patient went on to report history of recent illness following contact with relative having Group-A Streptococcus pharyngitis. Further investigation revealed an elevated ASO titer & normal anti-DNase B titer. A diagnosis of acute rheumatic fever was made, as the patient fulfilled the

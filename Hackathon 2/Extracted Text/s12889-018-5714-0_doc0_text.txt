@@ -1,0 +1,37 @@
+# Björk et al. BMC Public Health (2018) 18:838
+
+# Involving the employer to enhance return to work among patients with stress-related mental disorders – study protocol of a cluster randomized controlled trial in Swedish primary health care
+
+Lisa Björk1,2*, Kristina Glise1, Anders Pousette 3,4, Monica Bertilsson5 and Kristina Holmgren 6
+
+# Abstract
+
+# Background
+
+Work-related stress has become a major challenge for social security and health care systems, employers and employees across Europe. In Sweden, sickness absence particularly due to stress-related disorders has increased excessively in recent years, and the issue of how to improve sustainable return to work in affected employees is high up on the political agenda. The literature on interventions for return to work in patients with common mental disorders is still inconclusive. This randomized controlled trial (RCT) aims to contribute with knowledge about how physicians and rehabilitation coordinators in primary health care can involve the employer in the rehabilitation of patients with stress-related disorders. The objective is to evaluate whether the early involvement of the patient’s employer can reduce the time for return to work compared to treatment as usual. A process study will complete the RCT with information about what prerequisites primary health caregivers need to succeed with this endeavor.
+
+# Methods
+
+Twenty-two primary care centers were randomized to either intervention or control group. At the intervention centers, physicians and rehabilitation coordinators underwent training, providing them with both knowledge and practical tools to involve the employer in rehabilitation. At the patient level, employed patients with an ICD-10 F43 diagnosis were eligible for participation (n=132). Difference in proportion of patients on full- or part-time sick leave at three, six and 12 months after inclusion will be investigated. Register data, logbooks and interviews with coordinators and physicians at both intervention and control centers will be used for process evaluation.
+
+# Discussion
+
+Although the issue of how to tackle work-related stress can be recognized all across Europe, Sweden face an urgent need to curb the disproportional increase of stress-related disorders in the sick-leave statistics. Since physicians are limited by time constraints, the rehabilitation coordinator may be a helpful resource to take this contact. The current study will contribute to knowledge about how this collaboration can be organized to facilitate employer involvement and reduce time to return to work among patients suffering from work related stress.
+
+# Trial registration
+
+Registered on 1 November 2016, ClinicalTrials.gov, NCT03022760.
+
+# Keywords
+
+Return to work, Common mental disorders, Stress, Coordination, Intervention
+
+* Correspondence: lisa.m.bjork@vgregion.se
+
+1The Institute of Stress Medicine at the Västra Götaland region, Gothenburg, Sweden
+
+2The Department of Work Science and Sociology, University of Gothenburg, Gothenburg, Sweden
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

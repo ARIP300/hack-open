@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# GAPS IN INSURANCE COVERAGE AMONG LOW-INCOME ADULTS AFTER THE AFFORDABLE CARE ACT
+
+Anna Goldman1; Benjamin D. Sommers2. 1 Cambridge Health Alliance, Cambridge, MA; 2 Harvard T.H. Chan School of Public Health, Boston, MA; 3 Harvard School of Public Health, Brookline, MA. (Control ID #3185319)
+
+# BACKGROUND:
+
+Gaps or changes in health insurance coverage, known as "churning," is a common problem in Medicaid and has been shown to have adverse consequences.1,2 Little is known about the effect of the Affordable Care Act's (ACA) Medicaid expansion on churning rates. We used a difference-in-differences framework to compare coverage continuity for low-income adults in expansion vs. non-expansion states under the ACA.
+
+# METHODS:
+
+We analyzed data from the Medical Expenditure Panel Survey on monthly insurance status for the years 2011-2016 (the ACA's Medicaid expansion went into effect in 2014). Our study population (n=14,370) included non-elderly adults ages 19-64 with family incomes under 138% of poverty who reported having Medicaid for at least one month. Our intervention group included adults residing in states that expanded Medicaid prior to December 31, 2015. Our control group included adults in states that did not expand Medicaid prior to the end of our study period. Individuals living in Montana and Louisiana, which expanded Medicaid during in 2016, were excluded. In our primary analysis, we examined changes in churning rates among Medicaid enrollees in expansion vs. non-expansion states before and after the ACA. The annual churning rate was defined as the proportion of Medicaid enrollees who moved from Medicaid coverage to no coverage or non-Medicaid at any point during the year. A second outcome was the proportion of Medicaid enrollees who experienced a coverage gap, defined moving from Medicaid coverage to no coverage. Lastly, to explore the impact of churning on access to care, we analyze the following outcomes in expansion vs. non-expansion states: inability to get necessary care; delays in care; and delays in obtaining prescription drugs.
+
+# RESULTS:
+
+The annual churning rate among Medicaid enrollees in expansion states was 17.9% prior to the ACA, and it declined by 4.2 percentage points (p=0.02) in the post-ACA period compared to non-expansion states. Gaps in coverage were experienced by 14.0% of Medicaid enrollees in expansion states prior to the ACA, and this rate decreased by 4.1 percentage points (p=0.02) after Medicaid expansion. Access to care outcomes did not change significantly in association with expansion status in this population of Medicaid-enrolled adults.
+
+# CONCLUSIONS:
+
+Using a quasi-experimental approach, we found that churning rates and gaps in coverage for low-income adults decreased significantly in states that expanded Medicaid. Measures of access to care did not change significantly between the study groups. Previous research has documented that Medicaid expansion significantly reduced the uninsured rate among low-income adults. Our study makes a novel contribution in showing that some of this effect is due to reduced churning among existing beneficiaries, in addition to new enrollment. Mechanisms for the reduced churning rates due to Medicaid expansion include the ACA's higher income eligibility, uniform income cutoffs across eligibility groups, and better outreach.
+
+# GASPING FOR AIR: MEASURING PATIENT EDUCATION AND ACTIVATION SKILLSETS IN TWO CLINICAL ASSESSMENT CONTEXTS
+
+Jeffrey Wilhite1; Kathleen Hanley1; Khemraj Hardowar1; Harriet Fisher1; Lisa Altshuler1; Adina Kalet1; Colleen C. Gillespie1, 2; Sondra Zabar1. 1 NYU School of Medicine, New York, NY; 2 NYU, New York, NY. (Control ID #3185457)
+
+# BACKGROUND:
+
+Asthma education should focus on patient self-management support. Objective structured clinical examinations (OSCEs), as measured by standardized patients (SPs), provide a controlled, simulated setting for timed competency assessments while Unannounced Standardized Patients (USPs) measure clinical skills transfer in real world clinical settings. Both enable us to assess skills critical for providing quality care to patients. Learners seeing USPs have added real world stressors such as clinical load. This study describes differences in education and activation skills in two assessment contexts.
+
+# METHODS:
+
+A cohort of primary care residents (n=20) were assessed during two time points: an OSCE and a USP visit at an urban, safety-net clinic from 2009-2010. Residents consented to use of their de-identified routine educational data for research. The SP and USPs presented with the same case; a female asthmatic patient with limited understanding of illness management and concern over symptom exacerbation. Providers were rated using a behaviorally-anchored checklist upon visit completion. Competency domains assessed included patient education (4 items) and activation (4 items). Within the education domain, items included illness management, while the activation domain items assessed resident communication/counseling style. Responses were scored as not done or well done. Summary scores (mean % well done) were calculated by domain. OSCE vs USP means were compared using a paired samples t-test.
+
+# RESULTS:
+
+Residents were more likely to offer an oral steroid as treatment in the OSCE case (50% vs. 35% for USPs), but performed better with USPs on most other items including domain scores. Residents seeing a USP scored significantly higher on five out of eight individual assessment items (p<.05) including recommending a spacer, helping a patient understand their condition, making patients feel like they can take control of their own health, helping a patient understand illness management, and having a patient leave feeling confident in finding solutions independently. Inhaler technique was assessed rarely in either setting (OSCE: 15%, USP: 5%). Domain summary scores (% well done) from the OSCE (activation: 12%, education: 31%) were lower than USP scores (activation: 84%, education: 37%), with differences in overall activation scores being significant (t(19)=-8.905, p<.001).
+
+# CONCLUSIONS:
+
+OSCEs are a widely accepted tool for measuring resident competency in a standardized environment but may be focused primarily on knowledge and technical skills. While SPs are trained to be as objective as possible, rater bias might impact scores. USPs may provide more nuanced assessments of communication skills in a setting with reduced time constraints. Next steps include examining attitudes toward OSCEs vs the clinical setting, looking at impact of provider gender, and examining setting-specific issues that promote or hinder high quality care.

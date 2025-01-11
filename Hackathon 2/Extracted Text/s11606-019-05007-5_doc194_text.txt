@@ -1,0 +1,46 @@
+# NON-PHARMACOLOGICAL THERAPY USE FOR CHRONIC PAIN AMONG US MILITARY VETERANS ON LONG-TERM OPIOID THERAPY
+
+Elizabeth S. Goldsmith1, 2; Richard F. MacLehose2; Agnes C. Jensen;1 Barbara Clothier1; Siamak Noorbaloochi1, 2; Brian C. Martinson1, 3; Melvin T. Donaldson2; Erin E. Krebs1, 2. 1Minneapolis Veterans Affairs Health Care System, Minneapolis, MN; 2University of Minnesota, Minneapolis, MN; 3HealthPartners Institute, St. Paul, MN. (Control ID #3180406)
+
+# BACKGROUND:
+
+Chronic pain is a major cause of disability in the US, and opioid prescriptions rose amid limited availability and awareness of other pain therapies. Though many non-pharmacological therapies (NPT) are effective for chronic pain, little is known about NPT use patterns among people prescribed opioid analgesics. We examined NPT use within a national sample of US military veterans on long-term opioid therapy for chronic pain.
+
+# METHODS:
+
+The Effects of Prescription Opioid Changes in Veterans (EPOCH) study established a national cohort of 271,892 Veterans Affairs patients prescribed long-term opioid therapy for chronic pain. A representative sample received a survey including questions about past-year use of non-pharmacological therapies to treat or cope with chronic pain. We use descriptive statistics, generalized linear regression and latent class analysis to describe patients' self-reported NPT use patterns and to examine associations of NPT use with demographic and clinical characteristics and with patient-centered pain measures.
+
+# RESULTS:
+
+8,891(65%) of 13,660 invitees completed the NPT questionnaire. Female sex and younger age were associated with use of every non-pharmacological therapy for chronic pain. Higher pain-related functional interference, higher prescribed opioid dose, and psychiatric diagnoses (depression, anxiety, PTSD) were associated with psychological skills-related NPT (meditation, relaxation, psychotherapy). Lower pain-related functional interference and lower physical comorbidity were associated with movement skills-related NPT (aerobic exercise, stretching/strengthening). Lower physical comorbidity was associated with manual therapy (acupuncture, chiropractic adjustment or manipulation, massage).
+
+# CONCLUSIONS:
+
+Findings can inform implementation and clinical research on non-pharmacological therapies for chronic pain, and raise questions about health system-related factors. Further analyses will examine how participants' NPT use relates to pain-related functional interference, opioid dosing, and quality of life outcomes over time.
+
+# Characteristics of U.S. military veterans on long-term opioid analgesics reporting past-year use of non-pharmacological therapies for pain.
+
+|Therapy type|Users N (%)|Female N (%)|Age Mean (SD)|Number of pain sites' Mean (SD)|Functional interference? Mean (SD)|Opioid use MEDD Mean (SD)|Long-acting opioid N (%)|Physical comorbidity N (%)|Depressive disorder N (%)|Anxiety disorder N (%)|PTSD N (%)|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|All respondents|8,891|699|64.0 (10.6)|6.80 (2.12)|6.51 (2.12)|51.2 (62.6)|2,526 (28.4%)|1.47 (1.71)|2,673 (30.1%)|1,358 (15.3%)|2,007 (22.6%)|
+|Psychological skills-based|4,180|467|61.4 (10.7)|7.14 (2.05)|6.82 (1.97)|54.3 (64.6)|1,341 (32.0%)|1.37 (1.65)|1,784 (42.7%)|919 (22.0%)|1,395 (33.4%)|
+|Meditation mindfulness|1,749|254|59.8 (11.2)|7.15 (2.07)|6.83 (1.98)|56.0 (64.2)|591 (33.8%)|1.27 (1.66)|784 (44.8%)|394 (22.5%)|632 (36.1%)|
+|Relaxation techniques|3,122|378|61.1 (11.0)|7.10 (2.05)|6.71 (1.98)|54.4 (65.0)|989 (31.7%)|1.37 (1.68)|1,188 (38.1%)|641 (20.5%)|934 (29.9%)|
+|Psychotherapy|2,428|293|60.4 (10.6)|7.43 (1.97)|7.18 (1.82)|54.6 (64.2)|800 (33.0%)|1.35 (1.63)|1,386 (57.1%)|701 (28.9%)|1,128 (46.4%)|
+|Movement skills-based|5,687|518|62.6 (10.8)|6.86 (2.11)|6.40 (2.10)|51.0 (63.3)|1,641 (29.0%)|1.38 (1.68)|1,763 (31.0%)|920 (16.2%)|1,340 (23.6%)|
+|Aerobic exercise|3,542|362|62.1 (11.2)|6.86 (2.11)|6.24 (2.12)|50.8 (62.5)|1,007 (28.4%)|1.30 (1.64)|1,087 (30.7%)|550 (15.5%)|843 (23.8%)|
+|Stretching /strengthening|5,101|461|62.4 (10.9)|6.86 (2.11)|6.40 (2.10)|50.8 (63.0)|1,469 (28.8%)|1.36 (1.67)|1,591 (31.2%)|811 (15.9%)|1,206 (23.6%)|
+|Yoga|568|118|59.1 (12.1)|7.14 (2.11)|6.54 (2.07)|53.7 (65.1)|170 (29.9%)|1.19 (1.54)|217 (38.2%)|126 (22.2%)|177 (31.2%)|
+|Tai chi|402|115|63.1 (10.5)|7.26 (2.08)|6.56 (2.05)|56.5 (64.4)|133 (33.1%)|1.50 (1.77)|153 (38.1%)|122 (30.4%)| |
+|Physical manipulation|2,838|288|61.5 (11.7)|7.01 (2.12)|6.61 (2.05)|51.6 (62.5)|817 (28.8%)|1.30 (1.64)|939 (33.1%)|503 (17.7%)|723 (25.5%)|
+|Acupuncture|952| |61.9 (11.6)|7.17 (2.11)|6.97 (1.92)|57.1 (64.4)|330 (34.5%)|1.48 (1.73)|352 (36.8%)|188 (19.6%)|267 (27.9%)|
+|Chiropractic|1,243|115|61.3 (12.4)|7.08 (2.10)|6.59 (2.05)|47.6 (56.8)|339 (27.3%)|1.21 (1.55)|399 (32.1%)|216 (17.4%)|342 (27.5%)|
+|Massage|1,737|201|60.9 (11.8)|7.10 (2.11)|6.57 (2.10)|51.0 (62.7)|483 (27.8%)|1.24 (1.62)|558 (32.1%)|312 (18.0%)|447 (25.7%)|
+
+Number out of 10 possible bodily sites in which respondent was bothered at all by pain over preceding months: head, teeth/mouth/jaw; neck; back, shoulder; hip, knee; foot/ankle/lower leg, stomach/abdomen, pelvis/genitals:
+
+Brief Pain Inventory-Interference (BPI-I): Study population range 0-10, higher worse
+
+MEDD: Morphine Equivalent Daily Dose, in milligrams. Study population range 0 - 1038.15.
+
+Charlson comorbidity index Study population range 0-13, higher worse, Post-traumatic stress disorder.

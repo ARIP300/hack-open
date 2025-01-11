@@ -1,0 +1,37 @@
+# Effect source
+
+|Effect source|Effect value|P|LLCI|ULCI|
+|---|---|---|---|---|
+|Total effect (Total)|0.4849|***|0.4179|0.5502|
+|Direct effect (PEB &lt; ---CHRP)|0.2615|***|0.1967|0.3263|
+|Indirect effect (PEB &lt; ---PEI)|0.2235|***|0.1525|0.2953|
+
+Table 6. Total, direct, and indirect effects of CHRP on PEB. P: *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001.
+
+mediator of the relationship between CHRP and PEB. Therefore, although CHRP does not have direct roles in actual PEB, it influences PEB indirectly via the mediating effect of PEI.
+
+# Multiple linear regression analysis
+
+According to previous research, we selected three control variables: gender divided into two groups, length of employment divided into five groups, and department of employment divided into six groups. We used SPSS 26.0 to conduct the inter-group mean comparison, and differences among above variables are shown in Table 7. Specifically, females had higher PEA, PEI, and PEB than males, while there was no significance between their CHRP. As expected, length of employment had noticeable impacts on actual PEB, and people who had worked for 6–15 years adopted more PEB. They also exhibited more PEI and PEA at the same time. However, length of employment did not affect hospital workers’ CHRP. In addition, workers from different departments had different levels of CHRP, PEA, PEI, and PEB, while there was no significant difference in CHRP among the six categories of departments. High PEA, PEI, and PEB appeared in the other group that usually comprised the department of hospital infection management, the department of prevention care, and the department of publicity. It is reasonable to infer that the diversity of primary work responsibilities contributes to these differences.
+
+In this study, the unique predictors of PEB included CHRP, PEI, and PEA. Therefore, together with aforementioned control variables, the regression model consisted of six variables, namely, gender (X1), length of employment (X2), department of employment (X3), CHRP (X4), PEI (X5), and PEA (X6). The prediction equation was given: Ŷ = b1X1 + b2X2 + b3X3 + b4X4 + b5X5 + b6X6 + ε (Ŷ = PEB, ε = random error). To test this equation, we used the multiple regression analysis method via four models: Model 1-Control variables including gender, length of employment, and department of employment were put into the regression equation; Model 2-Based on Model 1, CHRP as an independent variable was put into the regression equation; Model 3-Based on Model 1 and Model 2, PEI was put into the regression equation; Model 4-Based on aforementioned three models, PEA was put into the regression equation. As shown in Table 8, the standardized coefficient of gender, department of employment, CHRP, PEI, and PEA are all positive: 0.238 (P &lt; 0.01), 0.244 (P &lt; 0.01), 0.082 (P = 0.385), 0.330 (P &lt; 0.001), 0.299 (P = 0.085), respectively. However, a notable negative value, − 0.222 (P &lt; 0.01), exists between length of employment and PEB.
+
+Table 8 illustrates the multiple regression model of hospital workers’ PEB. The final model (Model 4) including six variables was significant, R² = 0.808 and F (6, 537) = 30.080 (P &lt; 0.001), which indicated that about 80.8% of variance in PEB can attribute to variables entered into the regression model. After introducing the variable of CHRP (Model 2), the R² value increased by 0.199, and the change in F was 22.815 (P &lt; 0.001), which meant inclusion of CHRP has statistical significance in predicting actual PEB. After increasing the variable of PEI (Model 3), the R² value increased by 0.185, and the change in F was 39.523 (P &lt; 0.001), which also proved the necessity of introducing PEI.
+
+|Items|CHRP Mean|CHRP SD|CHRP P|PEA Mean|PEA SD|PEA P|PEI Mean|PEI SD|PEI P|PEB Mean|PEB SD|PEB P|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Male|20.32|3.50|0.335|20.54|3.56|***|20.01|3.61|***|20.43|3.69|*|
+|Female|20.64|4.09| |21.78|3.52| |21.25|3.41| |21.30|3.35| |
+|5 years or below|20.06|4.28| |21.07|3.73| |20.24|3.65| |20.88|3.45| |
+|6–15 years|20.57|4.28| |22.19|3.48| |21.55|3.52| |21.76|3.48| |
+|16–25 years|20.81|3.70|0.533|20.65|3.60|*|20.54|3.88|***|20.64|3.41|*|
+|26–35 years|20.30|3.27| |21.10|3.77| |20.17|3.52| |20.38|3.55| |
+|36 years or above|20.84|3.40| |21.02|3.56| |21.00|2.84| |20.75|3.62| |
+|Emergency|20.77|3.85| |20.52|3.44| |20.44|3.59| |20.91|3.55| |
+|Surgery|20.27|3.80| |21.55|3.68| |21.12|3.22| |21.26|3.49| |
+|General medicine|21.06|2.75| |21.68|2.76| |20.70|2.91| |21.27|3.09| |
+|Chinese medicine|19.88|3.65|0.195|20.42|3.95|***|19.58|3.91|***|20.25|4.01|*|
+|Medical technology|20.43|3.87| |21.04|3.61| |20.64|3.56| |20.46|3.51| |
+|Others|21.55|3.15| |23.85|2.88| |23.36|3.84| |22.27|2.68| |
+
+Table 7. Group differences of CHRP, PEA, PEI, and PEB. P: *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001.

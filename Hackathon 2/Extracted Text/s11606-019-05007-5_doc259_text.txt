@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# AND ATTITUDES ABOUT HEALTH EQUITY
+
+Arshiya A. Baig 1; Erin M. Staab 1; Jefferine LI 1; Wen Wan 1; Scott Cook 4; Joel Jackson 1; Amanda Campbell 3; Cynthia T. Schaefer 2; Michael T. Quinn 1. 1 University of Chicago, Chicago, IL; 2 University of Evansville, Evansville, IN; 3 Midwest Clinicians' Network, East Lansing, MI; 4 The University of Chicago, Chicago, IL. (Control ID #3185297)
+
+# BACKGROUND:
+
+Little is known about the spillover effect of quality improvement training on staff knowledge and attitudes about health equity.
+
+# METHODS:
+
+As part of a 5-year cluster randomized trial to assess the effect of diabetes group visits on patient glycemic control, we trained 26 providers and staff from 7 health center sites across 6 Midwestern states. The 2-day in-person training was led by a team of academic and health center staff and focused mainly on how to implement group visits for adults with diabetes. The training included a video clip on National Standards for Culturally and Linguistically Appropriate Services in Health and Health Care (CLAS Standards), a presentation on trends in disparities in healthcare quality and an overview of healthcare disparity interventions, and one presentation on understanding stereotypes and bias. Participants were surveyed before and after the training and answered questions on a 5-point Likert-type scale ranging from "strongly disagree" to "strongly agree." We used descriptive statistics to summarize responses and paired t-tests to determine change from pre- to post-training. We used 2-sample t-tests to examine differences in responses between those with and without prior cultural competency training and the diversity of patient population served at their site.
+
+# RESULTS:
+
+From pre to post training, participants had improvements in perceived benefits of the group visit model of care (p=0.001), knowledge of potential barriers to implementing diabetes group visits (p=0.03), and confidence in implementing diabetes group visits at their site (p=0.04). Staff reported an increase in the potential of group visits to reduce racial/ethnic disparities in diabetes outcomes (p=0.03) from pre to post training. Staff were also more familiar with the CLAS Standards (p<0.0001), better able to describe racial/ethnic disparities in diabetes prevalence and outcomes (p=0.002) and reported knowing steps their center could take to address racial/ethnic health disparities (p=0.04). Changes in knowledge of CLAS or health disparities or perceptions of the impact of group visits on disparities did not differ significantly between those who participated in cultural competency regularly during the past 10 years vs. those who participated less or not at all. There was a greater increase in knowledge of steps to take to address racial/ethnic health disparities for staff at health centers with fewer racial/ethnic minority patients.
+
+# CONCLUSIONS:
+
+Health center staff demonstrated improvements in knowledge and confidence in implementing diabetes group visits. Staff also noted that group visits had the potential to improve racial/ethnic disparities in diabetes outcomes in their patient population and learned steps that their health centers could take to address disparities. Future studies need to assess the impact of staff QI training on racial disparities on patient health outcomes.
+
+# SPILLOVER EFFECTS OF THE MEDICARE BUNDLED PAYMENTS FOR CARE IMPROVEMENT PROGRAM AMONG NON-MEDICARE PATIENTS
+
+Joshua M. Liao3, 1; Ezekiel J. Emanuel1, 1; Akriti Mishra1; Jingsan Zhu1; Claire T. Dinh1; Deborah Cousins1; Xinshuo Ma1; Joshua Rolnick1; Amol S. Navathe1, 2. 1University of Pennsylvania, Philadelphia, PA; 2CMC VA Medical Center, Philadelphia, PA; 3University of Washington, Seattle, WA. (Control ID #3179513)
+
+# BACKGROUND:
+
+Early evidence suggests that voluntary bundled payments for joint replacement surgery under the Bundled Payment for Care Improvement (BPCI) program were associated with episode savings without decrements in quality. Practice redesign in response to BPCI may benefit all patients, not just Medicare fee-for-service beneficiaries. Understanding the presence and magnitude of such "spillover effects" is critical to understanding bundled payment as a mechanism for improving value. Therefore, we examined the impact of hospital BPCI participation on episode quality and costs for commercially insured patients, including those in Medicare Advantage, receiving joint replacement surgery.
+
+# METHODS:
+
+We used data from Medicare to identify hospitals participating in BPCI for joint replacement surgery (BPCI hospitals) from 2013 Quarter 3 to 2016 Quarter 4 and associated data from the Health Care Cost Institute (full claims activity of 25% of all insured US individuals younger than 65), to construct care episodes for commercially insured patients encompassing hospitalization and 90-days of post-discharge care. Our sample consisted of 21,470 commercially insured patients undergoing joint replacement surgery during hospital BPCI participation and 266,916 commercially insured patients undergoing joint replacement surgery outside of hospital BPCI participation. There were 287 BPCI hospitals and 2,044 non-BPCI hospitals. After confirming parallel trends, we used a difference-in-differences (D-in-D) method and hierarchical multivariable generalized linear models to evaluate changes in hospital length of stay (LOS), 90-day readmissions rate, and episode spending at BPCI hospitals before and after participation, versus changes at non-BPCI hospitals. Covariates adjusted for age, gender, Elixhauser risk score, dual eligibility status, and insurance product, and including quarter and hospital fixed-effects and a time-varying indicator of BPCI participation. Analyses were performed using SAS, version 9.4. Statistical tests were 2-tailed and significant at =0.05.
+
+# RESULTS:
+
+Several characteristics, including case-mix, age distribution, and dual-eligibility status, varied between patients cared for at BPCI versus non-BPCI hospitals. Over a 3-year period, hospital participation in BPCI was associated with a 2.8% decrease in average episode spending (95% CI -3.5% to -2.2%, p<0.001). Hospital BPCI participation was also associated with decrease in 90-day readmissions (D-in-D -1.3%, 95% CI -1.9% to -0.8%) and hospital LOS (D-in-D -8.8%, 95% CI -9.9% to -7.8%,) (p<0.001 for both).
+
+# CONCLUSIONS:
+
+Hospital participation in the Medicare BPCI program was associated with decreases in episode spending, hospital LOS and 90-day readmissions for commercially insured patients receiving joint replacement surgery. Our findings suggest that hospitals may implement broad care redesign that benefits all patients regardless of insurance coverage and reimbursement through bundled payments.
+
+# SPINA BIFIDA ACTION RESEARCH: ASSESSING THE NEEDS OF INDIVIDUALS WITH SPINA BIFIDA TRANSITIONING TO ADULT-ORIENTED CARE
+
+Ashley Jenkins1, 2; Diane Burns3; Rhonda Morrison3; Brittany Spicer2; Lisa Vaughn2, 4; Jason Woodward2, 1. 1University of Cincinnati Medical Center, Cincinnati, OH; 2Cincinnati Children's Medical Center, Cincinnati, OH; 3Spina Bifida Coalition of Cincinnati, Cincinnati, OH; 4University of Cincinnati, Cincinnati, OH. (Control ID #3179146)
+
+# BACKGROUND:
+
+Individuals with spina bifida (SB) experience gaps in care when transitioning from pediatric- to adult-oriented care. Our objective was to identify facilitators and barriers of successful transition to adult-oriented care for individuals with SB.
+
+# METHODS:
+
+We utilized concept mapping, a participatory research method that involves structured steps including: 1) community definition and prompt development, 2) idea generation, 3) sorting ideas, 4) visual representation of data, and 5) interpretation. We recruited from SB community stakeholder groups: individuals aged 12 years and older with SB, parents/caregivers, pediatric and adult healthcare providers, and community organizations. A purposeful sample of stakeholders generated ideas to three open-ended transition-related prompts (e.g. To be a healthy adult living with SB I think I need). We edited ideas to reduce redundancy and ensure clarity. A subset of stakeholders sorted responses into groups of similar ideas using a web-based platform. We used multidimensional scaling and hierarchical cluster analysis to generate a concept map based on the sorted data, reviewing to ascertain the appropriate number of

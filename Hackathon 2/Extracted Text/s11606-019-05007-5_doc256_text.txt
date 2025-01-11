@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# FIREARMS AND STATE-LEVEL POLICY
+
+at least 100 firearms per year. The study examined all 50 states in the United States, excluding the District of Columbia and US territories. For each state, we calculated the number of destination states for which it served as the origin state, as well as the number of origin states for which it served as the destination state. We used fixed effects linear regression models to explore the relationship between the number of states for which a given state was the origin of firearms and state-level firearm policy, adjusting for poverty rate, population density, and hunting license rate as a proxy for gun ownership. We used a similar model to examine the relationship between the number of states for which a given state was the destination of firearms.
+
+# RESULTS
+
+Over the 5-year period, in an average state, firearms recovered were traced back to 41 outside origin states. States served as the destination for firearms from as few as 16 origin states (Vermont) to as many as all 50 states (California and Florida). States served as the origin for firearms for as few as 18 states (Rhode Island) and as many as all 50 states (California). In a regression controlling for the other covariates, the number of states for which a given state served as the origin was negatively associated with the number of restrictive firearm policies in the state, while the number of states for which it served as the destination was positively associated with the restrictive firearm policies in the state.
+
+# CONCLUSIONS
+
+States with a greater number of restrictive firearm policies were more often destinations of firearms from outside states. The same states were less often the origin of firearms recovered in outside states. State-level firearm policies may not sufficiently address firearms that cross state lines. The effectiveness of firearm-restricting policies at the state level is complicated by a network of firearm sharing among states. Without national policy solutions, the impact of state-level restrictions on firearms may be muted.
+
+# SOCIAL NETWORK CHARACTERISTICS AND OBESITY-RELATED BEHAVIOR AMONG HISPANIC IMMIGRANTS
+
+Jane W. Njeru; Mark L. Wieland; Janet Okamoto; Paul J. Novotny; Luz Molina; Graciella Porraz-Capetillo; Irene G. Sia. Mayo Clinic, Rochester, MN. (Control ID #3182195)
+
+# BACKGROUND
+
+Social networks influence behaviors through multiple mechanisms, including shared social activities and social support and are significant contributors to the obesity epidemic. Social network interventions targeting behavior change leverage these mechanisms. Social networks and obesity-related behaviors have not been described yet among Hispanic immigrant groups in the US. The overall goal of this study was to describe social networks and obesity-related characteristics among Hispanic immigrants in a mid-size Midwest US city, to inform a community based participatory research-derived nutrition and physical activity social network intervention, targeting behavior change to decrease obesity rates and cardiovascular risk.
+
+# METHODS
+
+Setting and Participants: Hispanic immigrants in a mid-size city in SE MN Data collection: Conducted by bilingual study team members at community locations Measures: Demographics, general health measures, biometric (BMI), socio-behavioral and network measures Data analysis: Descriptive statistics were used to report the survey and biometric data. Logistic models were used to describe the basic associations of participants and network demographics with binary characteristics such as being overweight or being likely to lose weight. Network data was analyzed to identify nodes and ties and visualize the network. UciNet, Gephi, and R were used to calculate network metrics, conduct more complex network analysis and to visualize the social network.
+
+# RESULTS
+
+Of the 610 Hispanic participants, 81% were overweight/obese. The network had 1,998 named nodes with 2,354 ties between these nodes. Modularity of the network was high at 0.94. 32% of named alters were perceived to be overweight/obese. Compared to normal weight respondents, the mean percentage of overweight/obese network members was higher for overweight/obese respondents (33.7% vs. 28.7%, P=<0.001). Participants who stated that they were likely to lose weight reported more positive social norms for obesity [mean (SD)] (2.4 (0.8) vs. 1.5 (0.8), P=<0.0001), social support (3.2 (1.1) vs. 2.6 (1.2), P=<0.0001), and more social cohesion (3.3 (1.4) vs. 3 (1.3), P=0.008) than participants who were not likely to lose weight. Findings were similar for participants whose social contacts were trying to lose weight compared to participants whose social contacts were not. If most or all of overweight/obese participant's social contacts were trying to lose weight the odds of stating they were likely or very likely to lose weight was four times higher compared to other participants (OR 4, CI 2.2-7.2).
+
+# CONCLUSIONS
+
+In this community, obesity, obesogenic behaviors, weight loss intentions, social norms for weight loss and social support clustered by ascertainable networks. A social network intervention targeting behavior change for weight loss is feasible.
+
+# SOCIAL SERVICE TOUCHPOINTS AS OPPORTUNITIES TO SCREEN WOMEN AT HIGH RISK FOR TYPE 2 DIABETES
+
+Maya S. Venkataramani; Nisa Maruthur. Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3184578)
+
+# BACKGROUND
+
+Women with a history of gestational diabetes are at increased risk for type 2 diabetes, but many do not receive recommended testing for diabetes following pregnancy, in part due to limited interactions with the healthcare system. This is particularly true for low-income women. These women may have more regular contact with social service providers, including Head Start and WIC. Leveraging contact with these services could provide an opportunity to reach these women to enhance awareness of risk and encourage testing. We examined the proportion of mothers with gestational diabetes who accessed WIC or Head Start services who had not received recent diabetes screening.
+
+# METHODS
+
+We analyzed data from the 2016 and 2017 National Health Interview Survey. Our analytic sample consisted of sample females ages 18 to 45, linked to at least one child (age 17 or younger). We excluded women with a diagnosis of diabetes or prediabetes. We analyzed 2 groups: 1) those who received WIC services/had a child who received WIC (in the past calendar year); and 2) those with a child currently enrolled in Head Start. In each group, we characterized the prevalence of self-reported gestational diabetes, and the proportion of these women who had diabetes testing in the past 3 years. As women may have reported testing associated with pregnancy, we conducted sensitivity analyses using a definition of recent screening that could exclude testing during pregnancy (e.g, within 2 years if the youngest child was 2).
+
+# RESULTS
+
+A total of 6661 (29,628,017 weighted) women between the ages of 18 and 45 could be linked to a child; 90.8% (26,890,789 weighted) did not report a history of diabetes or prediabetes. Among these women, 16.2% (937 unweighted; 4,343,424 weighted) reported WIC receipt for either themselves or their child. 7.5% (456 unweighted; 2,016,894) had a child currently enrolled in Head Start. (2.5% reported both). Among women who had accessed WIC, 10.6% reported a history of gestational diabetes. 9.9% of these women did not report recent diabetes screening. 8.8% with a child in Head Start reported a history of gestational diabetes, and 8.2% of these women did not have testing within 3 years. In sensitivity analyses that could exclude recent pregnancy related testing, 35.0% (in WIC) and 21.2% (in Head Start) did not report recent screening.
+
+# CONCLUSIONS
+
+About 1 in 12 women with a history of gestational diabetes and recent contact with WIC or Head Start had not been screened for diabetes in the past 3 years, and this proportion may be 3 to 4-fold higher (if self-report included pregnancy-related testing). More precise estimates are difficult to ascertain due to limitations in pinpointing if testing occurred during pregnancy and the use of self-reported measure. However, the results suggest that leveraging contact with these programs could enhance appropriate follow-up among low-income, high-risk women who may have limited interactions with the healthcare system.
+
+# SOCIODEMOGRAPHIC CHARACTERISTICS OF PATIENTS WHO USE HUMAN VERSUS ANALOGUE INSULIN IN A NATIONALLY REPRESENTATIVE PATIENT SAMPLE
+
+Alexandra M. Mapp; Jennifer N. Goldstein. Christiana Care Hospital, Newark, DE. (Control ID #3186403)

@@ -1,0 +1,71 @@
+# ABSTRACTS
+
+# A PARADOXICAL TURN OF EVENTS
+
+Jimmy Mao; Neha Nidhi; Terin Sytsma; Brody Slostad; Iftikhar Kullo. Mayo Clinic, Rochester, MN. (Control ID #3179235)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical and diagnostic features of paradoxical emboli (PDE) causing myocardial infarction (MI)
+
+# LEARNING OBJECTIVE #2:
+
+Manage venous thromboembolism (VTE) in the setting of malignancy
+
+# CASE:
+
+A 71-year-old female with no known coronary artery disease (CAD) and recently diagnosed unprovoked pulmonary embolism in the setting of a probable right malignant ovarian mass found on subsequent imaging, on apixaban 5 mg twice daily, presented to the emergency department with new onset chest pressure and shortness of breath. She was found to have a normal electrocardiogram (ECG) but elevated high-sensitivity troponins (340 ng/L, 2-hour at 580 ng/L, 6-hour at 1051 ng/L), loaded with aspirin 324 mg plus clopidogrel 600 mg, and started on a high-intensity heparin nomogram for a presumed recurrence of VTE vs. new MI. A repeat ECG hours later showed new ST elevations in the inferior leads, and she was taken urgently to the cardiac catheterization lab. Coronary angiogram showed no evidence of significant atherosclerotic disease but revealed a distal occlusion in the left anterior descending (LAD) artery, suggestive of embolism. A transesophageal echocardiogram (TEE) revealed a patent foramen ovale (PFO) with a small bidirectional shunt at rest. A lower extremity ultrasound showed a new acute thrombus in the right gastrocnemius vein. These findings suggested that the etiology of the patient's symptoms was an MI secondary to a PDE to the LAD artery in the setting of likely apixaban failure. She subsequently was transitioned from apixaban to enoxaparin and underwent an exploratory laparotomy and right salpingo-oophorectomy days later. Histopathology revealed high-grade carcinoma of the right ovary with mixed serous, clear cell, and mucinous differentiation and peritoneal involvement. A follow-up appointment with medical oncology was made for further staging and management.
+
+# IMPACT/DISCUSSION:
+
+PDE to the coronary arteries should be considered in patients presenting with acute coronary syndrome (ACS) in the setting of recent VTE and minimal CAD risk factors. Once suspected, a TEE should be performed to assess for a PFO. Treatment should focus on manual aspiration of the thrombus if possible and prevention of recurrence with anticoagulation. Low molecular weight heparin (LMWH) has been shown to be superior to vitamin K antagonists in preventing VTE in cancer patients. Although emerging data suggest that certain direct oral anticoagulants (DOACs) are more convenient, affordable, and as effective as LMWH, VTE recurrence in the setting of medication compliance may warrant switching to a LMWH.
+
+# CONCLUSION:
+
+Patients with known VTE and minimal CAD risk factors presenting with ACS should be assessed for PDE to the coronary arteries. Medical management involves long-term anticoagulation. LMWH is preferred over vitamin K antagonists for VTE prevention in the setting of malignancy, while comparisons between LMWH and DOACs are currently undergoing investigation.
+
+# A PATIENT BETWEEN THE CRACKS: NAVIGATING HEALTH CARE BETWEEN HOMELESSNESS AND INCARCERATION
+
+Maria Srour; Francis G. Wade; Jennifer Schmidt. Saint Louis University, Saint Louis, MO. (Control ID #3184624)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the challenges of providing quality health care to patients within the Medicaid coverage gap.
+
+# LEARNING OBJECTIVE #2:
+
+Highlight healthcare access disparities between low income citizens in non-Medicaid expansion states and correctional facility inmates.
+
+# CASE:
+
+A 27-year-old male with Crohn's disease presented from a correctional facility with worsening enterocutaneous fistulae and abdominal wall abscesses. Prior to incarceration, the patient was homeless and uninsured with very limited access to healthcare. He was unable to afford the recommended immunomodulator therapy. Once incarcerated, he qualified for Department of Corrections healthcare coverage and sought care. Definitive treatment for his disease required surgery with temporary colostomy. Concerned about returning to prison with an ostomy bag, he opted for a biologic agent, the inferior treatment option. Treatment required complete bowel rest and total parenteral nutrition therapy, extending his admission to 107 days. Due to ongoing treatment needs, the correctional facility enacted a compassionate release, terminating his healthcare coverage and jeopardizing access to further care. Eventually, the patient was enrolled in Missouri Medicaid due to disability but not before suffering significant morbidity due to preventable complications of his Crohn's disease.
+
+# IMPACT/DISCUSSION:
+
+Medicaid expansion is a key provision of the 2010 Affordable Care Act (ACA). Medicaid was guaranteed previously only to the elderly, blind or disabled, children, pregnant women, and low-income parents or caretakers if their income falls within certain limits of the federal poverty level (FPL). Medicaid expansion ensures eligibility for all adults aged 18-65 years old with incomes up to 138% of the FPL. 19 states, including Missouri, have not implemented Medicaid expansion, leaving a coverage gap for low-income adults who do not qualify for Medicaid nor the ACA's Marketplace subsidies. It remains a challenge for non-disabled low-income adults in non-expansion states to access reliable healthcare. Meanwhile, healthcare coverage for correctional facility inmates is guaranteed by the Missouri Department of Corrections. Our patient in the Medicaid coverage gap only became eligible for healthcare coverage once deemed a criminal. Paradoxically, his incarceration led him to choose an inferior treatment for his disease. His story highlights challenges in providing quality care to vulnerable populations in states without Medicaid expansion. It also illuminates an ethical dilemma about how our healthcare system addresses both poverty and criminality.
+
+# CONCLUSION:
+
+- Access to healthcare remains a challenge for many patients within the Medicaid coverage gap of non-expansion states.
+- Non-disabled, low-income adults without children in non-expansion states do not share the same rights to healthcare access guaranteed to correctional facility inmates.
+- Policy change in non-expansion states may lead to improved outcomes in low-income patient populations by improving healthcare access.
+
+# A PATIENT WITH TWO UNCOMMON CONDITIONS: CAN THIS BE CAUSE AND EFFECT?
+
+Justin Oveyssi; Chester Choi; Alice Park. St. Mary Medical Center, Long Beach, CA. (Control ID #3172389)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the immunological manifestations of sarcoidosis.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the pathophysiology of cryoglobulinemia and glomerulonephritis.
+
+# CASE:
+
+A 53 year old male with a history of uveitis caused by sarcoidosis presented with acute kidney injury (AKI) with hypertension, proteinuria, hematuria, edema, and vasculitic skin lesions. Diagnostic testing revealed a normocytic anemia and positive rheumatoid factor (RF) and qualitative cryocrit. His complement levels were mildly decreased and his ANA, ANCA, RPR, HbsAg, HepC ab, and HIV tests were all negative. He underwent kidney biopsy showing a membranoproliferative (MPGN) pattern consistent with mixed cryoglobulinemia. Immunofluorescence microscopy showed positive staining in mesangial areas and capillary walls for IgG, IgA, IgM, C1q, C3, and both kappa and lambda light chains. Corticosteroid therapy was instituted.
+
+# IMPACT/DISCUSSION:
+
+Glomerulonephritis (GN) is an uncommon manifestation of sarcoidosis, which more often causes interstitial.

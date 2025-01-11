@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+indicates the need to determine ways to improve the accuracy of medication reconciliation in order to improve patient safety. This patient highlights the difficulty in obtaining an accurate medication list, especially in the geriatric population with concern for cognitive impairment, and shows how home visits and dedicated appointments can assist in this endeavor.
+
+# CONCLUSION:
+
+This case shows how the typical processes of doing a medication reconciliation in a general internal medicine clinic can lead to significant error, especially in the geriatric population. It also points to potential useful tools for addressing this challenge including home visits and dedicated clinic appointments for the purpose of medication reconciliation.
+
+Sources 1. Jack BW, Chetty VK, Anthony D, et al. A reengineered hospital discharge program to decrease rehospitalization: a randomized trial. Ann Intern Med. 2009;150(3):178-187.
+
+# IN "LUE" OF OTHER SYMPTOMS: A CASE OF LUES MALIGNA IN A PATIENT WITH HUMAN IMMUNODEFICIENCY VIRUS
+
+Sherry Zhang1; Jeremy Chang2; Sindalisa Hean1; Eric Daar1. 1Harbor-UCLA Medical Center, Wilmington, CA; 2LAC+USC, Wilmington, CA. (Control ID #3180886)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that secondary syphilis may present as lues maligna with numerous manifestations, especially in patients with human immunodeficiency virus (HIV)
+
+# CASE:
+
+A 48-year-old male presented with 2 months of painful skin lesions, weight loss and fevers. The skin lesions initially appeared as small erythematous papules on his feet and lower shins, but became larger and spread to other sites on his body, including his arms, hands, trunk and face. In addition, the patient reported a 40-pound weight loss over the past year and fevers for several months. Vitals were notable for a temperature of 39.3 degrees. Physical exam was notable for multiple papular lesions with associated crusting and eschar throughout his bilateral upper and lower extremities, including the palms and soles, chest, back and face. An HIV antibody/antigen screen and confirmatory antibody test both returned positive, with CD4 count of 264. Rapid plasma reagin (RPR) titer was 1:64 with a positive fluorescent treponemal antibody absorption (FTA-ABS) test. Biopsy of one of the cutaneous lesions showed nonspecific ulceration and fibrosis as well as perivascular lymphocyte and neutrophil infiltration with negative stains for spirochetes, fungi and mycobacteria. The patient's clinical picture including physical exam, serologic testing, and biopsy results were consistent with lues maligna and secondary syphilis. The patient was given a single intramuscular injection of 2.4 million units of penicillin G benzathine. Within a few days following this treatment, he experienced resolution of his fevers and shrinking of his skin lesions. The patient was subsequently started on anti-retroviral therapy with emtricitabine-tenofovir and dolutegravir for management of his HIV infection.
+
+# IMPACT/DISCUSSION:
+
+Lues maligna - also known as malignant syphilis - is a rare manifestation of secondary syphilis that predominantly presents in patients with HIV as well as in other immunocompromised individuals. It is characterized by ulcerative papular lesions and can also be associated with nonspecific symptoms such as fever, weight loss, joint pain, and malaise as seen in our patient. The cutaneous lesions may mimic viral exanthems or disseminated fungal infections, making visual diagnosis challenging. Although no spirochetes were seen on biopsy of our patient's skin lesion, this finding has low sensitivity in the diagnosis of lues maligna as pathology most often shows lymphocyte and neutrophil infiltration like in this case. The diagnosis of lues maligna was further supported by the prompt resolution of his fevers and skin lesions after a single dose of penicillin G benzathine.
+
+# CONCLUSION:
+
+As syphilis can have a myriad of clinical manifestations and mimic other conditions - therefore possibly clouding the diagnosis - clinicians should consider lues maligna as a rare presentation of a common condition when in evaluating patients with ulceronodular skin lesions, in order to provide prompt diagnosis and treatment.
+
+# IN-N-OUT: AN UNCOMMON CAUSE OF CHRONIC ABDOMINAL PAIN.
+
+Bradley N. Tun; Ricardo Cruz. Boston Medical Center, Boston, MA. (Control ID #3180852)
+
+# LEARNING OBJECTIVE #1:
+
+Review differential diagnosis and evaluation of chronic abdominal pain.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize internal hernia as a potential etiology of chronic abdominal pain and its potential complications.
+
+# CASE:
+
+51 year old male with history of gastric adenocarcinoma who underwent subtotal gastrectomy with retrocolic Roux-en-Y reconstruction presented to the ED with acute on chronic abdominal pain. Prior to this visit he had been experiencing intermittent abdominal pain episodes since his surgery. Initially the pain was attributed to GERD. However, these episodes persisted and he underwent extensive evaluation including a referral to gastroenterology. He had an EGD that was positive for H. pylori which was eradicated with quadruple therapy. He also had a colonoscopy and several CT scans during multiple ER visits that were all unremarkable. Leading diagnosis at the time was a functional abdominal pain syndrome. On this presentation, he described the abdominal pain as sharp, constant and associated with nausea, emesis and anorexia. His physical exam was concerning for peritonitis with lab studies notable for WBC of 15.4 and lactate of 2.7. CT abdomen pelvis showed swirling of vessels and mesentery in the abdomen with significant mesenteric edema concerning for mesenteric ischemia. He underwent an urgent laparotomy which showed an internal hernia with entire small bowel up to intracecal valve herniated through jejunal mesenteric defect. The internal hernia had caused a 15cm segment of small bowel necrosis that required resection. He tolerated the surgery and was discharged home a week later.
+
+# IMPACT/DISCUSSION:
+
+Chronic abdominal pain is a common complaint in the outpatient setting; differential is broad and includes common causes such as peptic ulcer disease, GERD, gastritis and irritable bowel syndrome. Based on the history, physical and laboratory studies, imaging can be indicated such as an abdominal ultrasound, CT scan, MRI, endoscopy and ERCP. One uncommon cause of abdominal pain is an internal hernia. Causes of internal hernias include congenital anomalies due to improper intestinal rotation, atrophy of the omentum, inflammatory and ischemic processes of the peritoneal cavity and prior abdominal surgeries, Roux-en-Y being most common. Radiologic diagnosis of internal hernias is challenging since characteristic findings on CT scan are often missed as hernias can spontaneously reduce on their own. Complications of internal hernias include small bowel obstruction, intestinal ischemia from incarceration and strangulation of intestinal contents, and bowel perforation. Management of internal hernia is surgery to reduce hernia and to close the defect. In our patient, his internal hernia, as a result of his prior Roux-en-Y reconstruction surgery, had been causing his chronic abdominal pain.
+
+# CONCLUSION:
+
+Suspect internal hernia as a cause of chronic abdominal pain in a patient with a history of abdominal surgery, specifically Roux-en-Y gastric bypass.
+
+# INCIDENTAL FINDING OF LEFT VENTRICULAR TRABECULATION IN THE SETTING OF CEREBROVASCULAR ACCIDENT
+
+Dolly Nam; Lillian Niakan; Brent Herndon; Jaison John. University of Texas at Austin Dell Medical School, Austin, TX. (Control ID #3186357)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize how congenital persistence of deep trabeculae can lead to increased risk of thromboembolic events.
+
+# CASE:
+
+A 37-year-old man with past medical history significant for hypertension, hyperlipidemia, and bipolar disorder presented to the emergency department with a two week history of right hand weakness and numbness and difficulty speaking. An MRI brain showed a left middle cerebral artery infarction. A CT angiography of his head and neck showed

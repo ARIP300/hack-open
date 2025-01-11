@@ -1,0 +1,29 @@
+# Community Mental Health Journal (2022) 58:205–212
+
+https://doi.org/10.1007/s10597-021-00840-7
+
+# FRESH FOCUS
+
+# Mental Health Challenges Related to Neoliberal Capitalism in the United States
+
+Anna Zeira1
+
+Received: 12 February 2021 / Accepted: 14 May 2021 / Published online: 25 May 2021
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021
+
+# Abstract
+
+Rates of mental illness have increased dramatically over the past 15 years in the United States [Products—Data Briefs—Number 283—August 2017. Centers for Disease Control and Prevention. https://www.cdc.gov/nchs/products/databriefs/db283.htm. Published August 15, 2017]. Additionally, life expectancy has fallen over the past several years due to increases in death from suicide, opioid overdose, and alcoholic liver cirrhosis as reported by Case and Deaton [Deaths of despair and the future of capitalism. Princeton University Press, 2020]. Over the last decade some have questioned whether these changes are due to neoliberal capitalist policies and ideologies. Neoliberal capitalism incorporates theories of eliminating all restrictions on the market and decreasing government assistance programs as reported by Harvey [A brief history of neoliberalism, Oxford University Press, 2005]. Since then these policies have led to income inequality, disempowerment of workers, outsourcing of manufacturing jobs, inadequate social services, mass incarceration and an expensive and ineffective healthcare system as reported by Case and Deaton [Deaths of despair and the future of capitalism. Princeton University Press, 2020] and Nkansah-Amankra et al. [International Journal of Health Services 43(2):217-240, 2013]. Studies have shown that the consequences of these policies and ideologies likely have a role in increasing rates of mental illness. This paper will discuss how these factors increase mental distress and postulate ways that mental health professionals can advocate for change.
+
+# Keywords
+
+Social determinants of mental health · Epidemiology and statistics · Economic policy · Healthcare policy · Neoliberal capitalism · Community mental health
+
+Over the past 15 years, antidepressant use has increased in the United States by nearly 65% (Products—Data Briefs, 2017). From 2017 to 2018, 19% of adults in the United States experienced a mental illness—an increase of 1.5 million people when compared to the previous year (State & of Mental Health in America, 2021). These do not include the increases in distress after COVID-19, which has resulted in heightened rates of moderate to severe depression, anxiety, and suicidal ideation (Shade, 2021). Additionally, life expectancy, which has increased yearly since 1918, has decreased over the past several years in the United States due to dramatic rises in deaths from suicide, alcoholism, and drug overdoses (Case & Deaton, 2020). Over the past decade, several economists, journalists, sociologists, and mental health practitioners have posited that the increases in mental illness are due to neoliberal economic policies and ideologies. In his book The Selfish Capitalist, psychologist Oliver James found that twice as many people suffer from emotional distress in the English-speaking nations that have adapted neoliberal capitalist policies when compared to people in the Western European nations which did not (James, 2008). He also notes the rapid increase in emotional distress in the United States since the 1980s when the country began to implement neoliberal policies such as eliminating restrictions on the trade market and cutting social services (James, 2008). Economic policies such as deregulation of industry and decreased public sector spending starting in the 1980s have spawned wealth inequality, mass incarceration, and job insecurity, which all can contribute to emotional distress (Case & Deaton, 2020; Wilkinson & Pickett, 2011). Additionally, economic and social policies created a change in ideology favoring individualism, materialism, and competitiveness, which are not compatible with human needs such as social connection and community, leading to anxiety and depression (James, 2008). Furthermore, through poor access to care, the mental health system has struggled to meet the needs of those affected by these policies.
+
+* Anna Zeira
+
+azeira@som.umaryland.edu
+
+1 University of Maryland/Sheppard Pratt Residency Psychiatry Program, 701 W Pratt Street, Baltimore, MD 21201, USA

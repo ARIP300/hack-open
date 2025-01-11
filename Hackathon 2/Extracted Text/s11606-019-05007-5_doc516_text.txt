@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+# Case 1: P. putida Infection
+
+Left inguinal lymphadenopathy. Laboratory studies revealed leukocytosis to 25 K/cmm with lymphocytic predominance. Blood cultures were obtained, and he was started on vancomycin and piperacillin/tazobactam. Patient remained hemodynamically stable but was intermittently febrile with worsening leukocytosis over the subsequent days. CT of the extremity was obtained and revealed edema without fluid collection. On day 4 of hospitalization, his blood cultures grew P. putida with intermediate sensitivity to piperacillin/tazobactam and meropenem. His antimicrobial regimen was changed to cefepime and metronidazole with good clinical response.
+
+# IMPACT/DISCUSSION
+
+As a gram-negative organism frequently found in the environment, P. putida was previously thought to be of low pathogenicity. Although P. putida bacteremia and skin and soft tissue infections (SSTI) remain uncommon, it is important for clinicians to be aware of the rise in P. putida-associated nosocomial infections and potential fatality of these infections particularly in immunocompromised patients. P. putida is typically found in the natural environment (soil, water, the oropharyngeal flora, and occasionally in the hospital environment). Although most often associated with indwelling catheters and hospital-acquired pneumonias, its spectrum of infection includes urinary tract infections, acute cholecystitis, cholangitis, tonsillitis, thrombophlebitis, septicemia, meningitis and peritonitis. The organism often causes nosocomial infections in those who are immunocompromised and have medical devices. P. putida SSTI and bacteremia are both rare but lethal cases have been described in the literature.
+
+# CONCLUSION
+
+Although infections caused by P. putida remain uncommon, in the last several decades, it has emerged as an important cause of nosocomial infections particularly in immunocompromised patients. Furthermore, multidrug-resistant and carbapenem-resistant P. putida isolates are increasingly being reported in literature. Fatal cases of P. putida infection, both soft tissue and bacteremia, have also been reported. It is critical for clinicians to be aware of the potential fatality of nosocomial P. putida infections and initiate early and appropriate antibiotic regimen.
+
+# Case 2: Pulmonary Mucormycosis
+
+Cause of death. Mucorales were identified by both real-time polymerase chain reaction and immunohistological analyses of lung tissue.
+
+# IMPACT/DISCUSSION
+
+Mucormycosis is a life-threatening infectious disease, seen in immunocompromised patients, such as those with hematological malignancies. As its clinical symptoms and radiological findings vary, and specific biomarkers and culture findings for mucormycosis have not been defined, histological findings are usually necessary to confirm a definitive diagnosis of mucormycosis. Mucormycosis is known to invade vessels, and is associated with embolism or infarction, which may be seen on CT images. Therefore, if CT images show a non-aerated, low-density area with emboli inside central vessels, especially in immunocompromised patients, a pulmonary infarction produced by mucormycosis is worth considering. Pulmonary infarction should also be considered when CT images show an abscess-like area, but needle biopsy cannot gather adequate pus-like specimens. A transvascular approach to obtain a histological sample (such as right cardiac catheterization), in addition to a percutaneous or transbronchial biopsy, may help confirm a definitive diagnosis of mucormycosis. Finally, superinfection is always possible, regardless of the culture results, especially when the appropriate antibiotic is inadequate.
+
+# CONCLUSION
+
+We encountered a case of pulmonary mucormycosis in a patient with myelodysplastic syndrome and tuberculosis. Mucormycosis should be considered when intensive care according to culture results is not successful, especially for patients in immunosuppression and/or with abnormal CT images. Development of new diagnostic methods for mucormycosis including a transvascular approach is expected.
+
+# PUPPY LOVE: A CASE OF CAPNOCYTOPHAGA CAUSING SEPTIC POLYARTHRITIS FAVORING PROSTHETIC JOINTS
+
+Jennifer Rodriguez; Michael G. Simonson; Allison DeKosky. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185891)
+
+# PULMONARY MUCORMYCOSIS IN A PATIENT WITH MYELODYSPLASTIC SYNDROME AND TUBERCULOSIS
+
+Akane Ariga; Tamaki Kakuwa; Jin Takasaki; Akinari Tsukada; Shuichiro Matsumoto; Eriko Morino; Moe Kato; Toru Igari; Yoshitaka Shida; Shinyu Izumi; Haruhito Sugiyama. National Center for Global Health and Medicine, Tokyo, Japan. (Control ID #3184821)
+
+# LEARNING OBJECTIVE #1
+
+1. Consider pulmonary infarction and/or abscess if CT images show a non-aerated, low-density area associated with emboli inside central vessels, or if needle biopsy cannot obtain adequate specimens.
+2. Consider a transvascular approach (e.g., right cardiac catheterization) in addition to a percutaneous or transbronchial biopsy, to obtain histological findings that can definitively confirm a mucormycosis diagnosis.
+3. Superinfection is always possible, regardless of culture results.
+
+# CASE
+
+An 85-year-old man, who had been treated for myelodysplastic syndrome and tuberculosis for several months, presented with subacute fever and worsening left-side chest pain. Contrast-enhanced CT images showed a massive tumor-like consolidation without enhancement, expanding from the left lower lobe. We detected emboli in left descending pulmonary artery. Sputum and abscess cultures were positive for Enterococcus faecium, but no fungal species. Despite intensive treatment, he developed multiple organ failure and died 47 days after hospitalization. Histological examination of the lung autopsy specimen showed invasive mycelium growth by Mucor species in vessels and pulmonary emboli, which did not respond to anticoagulants; it was recognized as the direct cause of death.
+
+# LEARNING OBJECTIVE #1
+
+To diagnose prosthetic joint infection on synovial fluid analysis
+
+# LEARNING OBJECTIVE #2
+
+To recognize Capnocytophaga as a rare etiology for prosthetic septic arthritis
+
+# CASE
+
+An 84-year-old otherwise healthy and active female with a history of bilateral total knee and right shoulder replacements presented to the hospital with fever (38.5C), diarrhea, and confusion. Initial chemistries demonstrated a WBC 9x109/L, CRP 33mg/dL, and ESR 46mm/hr; however, viral and bacterial infectious work-up, including serologic and radiologic testing, were completely negative. Stool culture was not obtained due to lack of bowel movement. On hospital day 3, she developed acute arthritis with effusion of her left prosthetic knee. Arthrocentesis revealed cloudy synovial fluid with 33,350 cells/uL without organisms, but repeat blood cultures reported growth of anaerobic gram-negative rods. She underwent surgical washout of the joint and was started empirically on vancomycin and ampicillin-sulbactam. She subsequently developed pain in the right knee and shoulder joints. Arthrocentesis of the newly involved joints revealed similarly elevated cell counts without crystals or organisms and she was taken again for washout. On hospital day 7, blood cultures speciated as Capnocytophaga spp. Notably, her social history revealed she kisses and shares a bed with her dog, who has a disorder of sialorrhea and who was also experiencing diarrhea. Antibiotics were transitioned to a 6-week course of ertapenem prior to discharge and she later presented in improved condition to outpatient clinic. She will subsequently require life-long amoxicillin-clavulanate suppression therapy.

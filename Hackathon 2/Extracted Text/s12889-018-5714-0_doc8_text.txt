@@ -1,0 +1,29 @@
+# Björk et al. BMC Public Health (2018) 18:838
+
+and return-to-work intervention for patients on sick leave due to common mental disorders: a randomised controlled trial. Occup Environ Med. 2017;74:905–12.
+
+1. Starzmann K. The physician and the sickness certification. Thesis. University of Gothenburg. Gothenburg: Sahlgrenska Academy, Institute of Medicine. 2018.
+2. Sveriges Kommuner och Landsting [Swedish Association of Local Authorities and Regions]: Metodbok för koordinering av sjukskrivning och rehablititering för hälso- och sjukvården; 2016.
+3. Hansen Falkdal A, Hornqvist Bylund S: Hälso- och sjukvårdens funktion för koordinering i sjukskrivnings- och rehabiliteringsprocessen. En litteraturstudie. Stockholm: Svergies Kommuner och Landsting; 2015.
+4. Riksrevisionen [Swedish National Audit Office]: Rehabiliteringsgarantin fungerar inte – tänk om eller lägg ner. Stockholm: Riksrevisionen; 2015.
+5. Försäkringskassan [The Swedish Social Insurance Agency]. https://www.forsakringskassan.se/omfk/vart_uppdrag/om_socialforsakringen/rehabiliteringskedjan.
+6. Law M, Cooper B, Strong S, Stewart D, Rigby P, Letts L. The Person-Environment-Occupation Model: A transactive approach to occupational performance. Rev Can d'Ergothérapie. 1996;63(1):9–23.
+7. Glise K, Ahlborg G Jr, Jonsdottir IH. Course of mental symptoms in patients with stress-related exhaustion: does sex or age make a difference? BMC Psychiatry. 2012;12:18.
+8. Glise K, Hadzibajramovic E, Jonsdottir IH, Ahlborg G Jr. Self reported exhaustion: a possible indicator of reduced work ability and increased risk of sickness absence among human service workers. Int Arch Occup Environ Health. 2010;83(5):511–20.
+9. Holmgren K, Hensing G, Dahlin Ivanoff S. Development of a questionnaire assessing work-related stress in women- identifying individuals who risk being put on sick leave. Disabil Rehabil. 2009;31(4):284–92.
+10. Karasek R, Brisson C, Kawakami N, Houtman I, Bongers P, Amick B. The Job Content Questionnaire (JCQ): An instrument for internationally comparative assessments of psychosocial job characteristics. J Occup Health Psychol. 1998;3(4):322–55.
+11. Lindström K, Elo A-L, Skogstad A, Dallner M, Gamberale F, Hottinen V, Knardahl S, Örhede E. QPS Nordic. General Nordic Questionnaire for Psychological and Social Factors at Work. User's Guide. In: TemaNord 603. Copenhagen: Nordic Council of Ministers; 2000.
+12. Berthelsen H, Hakanen J, Søndergård Kristensen T, Lönnblad A, Westerlund H. A Qualitative Study on the Content Validity of the Social Capital Scales in the Copenhagen Psychosocial Questionnaire (COPSOQ II). Scandinavian J Work Organ Psychol. 2016;1(1):1–13.
+13. Ilmarinen J. The Work Ability Index (WAI). Occup Med. 2007;57(2):160.
+14. Lagerveld SE, Blonk RWB, Brenninkmeijer V, Schaufeli WB. Return to work among employees with mental health problems: Development and validation of a self-efficacy questionnaire. Work Stress. 2010;24(4):359–75.
+15. Karlson B, Österberg K. ArbetsplatsDialog för Arbetsåtergång. Användarmanual v.1.3. In: Avd för arbets- och miljömedicin: University of Lund; 2014.
+16. van Oostrom SH, van Mechelen W, Terluin B, de Vet HC, Knol DL, Anema JR. A workplace intervention for sick-listed employees with distress: results of a randomised controlled trial. Occup Environ Med. 2010;67(9):596–602.
+17. Hasselberg K, Jonsdottir I, Susanne Ellbin S, Skagert K. Self-reported stressors among patients with Exhaustion Disorder: an exploratory study of patient records. BMC Psychiatry. 2014;14(66).
+18. Lisspers J, Nygren A, Söderman E. Hospital Anxiety and depression scale (HAD): some psychometric data for a Swedish sample. Acta Psychiatr Scand. 1997;96:281–6.
+19. Melamed S, Kushnir T, Shirom A. Burnout and risk factors for cardiovascular diseases. Behav Med. 1992;18:53–60.
+20. Ware J, Sherbourne C. The MOS 36-item Short-Form Health Survey (SF-36): Conceptual framework and item selection. Med Care. 1992;30:473–83.
+21. van Beurden KM, Brouwers EP, Joosen MC, Terluin B, van der Klink JJ, van Weeghel J, et al. Effectiveness of guideline-based care by occupational physicians on the return-to-work of workers with common mental disorders: design of a cluster-randomised controlled trial. BMC Public Health. 2013;13:193.
+22. Pawson R, Tilley N. Realistic Evaluation. London: SAGE; 1997.
+23. Budd RJ, Rollnick S. The structure of the Readiness to Change Questionnaire: A test of Prochaska & DiClemente's transtheoretical model. Br J Health Psychol. 1996;1(4):365–76.
+24. Cunningham CE, Woodward CA, Shannon HS, MacIntosh J, Lendrum B, Rosenbloom D, Brown J. Readiness for organizational change: A longitudinal study of workplace, psychological and behavioural correlates. J Occup Organ Psychol. 2002;75(4):377–92.
+25. Pomaki G, Franche RL, Murray E, Khushrushahi N, Lampinen TM. Workplace-based work disability prevention interventions for workers with common mental health conditions: a review of the literature. J Occup Rehabil. 2012;22(2):182–95.

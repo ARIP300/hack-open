@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+(NO MORE THAN THREE OBJECTIVES): To demonstrate the feasibility of adopting telephone visits into a residency clinic and to measure resident utilization of these visits over a two-year period.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT
+
+(E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS): A two-year telemedicine pilot was conducted in our urban primary care residency clinic. Nine categorical medicine residents in our 36-resident program participated. Each resident had one hour of dedicated time per week templated into his/her schedule for telephone visits. Openings that went unfilled were converted into acute office visits.
+
+# MEASURES OF SUCCESS
+
+(DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION): We reviewed the number and content of the telephone visits to understand how residents utilized their telephone visit time. We also reviewed whether there was any prescription medication management, testing ordered, and/or referrals placed as a surrogate for the complexity of the visit.
+
+# FINDINGS TO DATE
+
+(IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): From October 2016-December 2018, there were 273 telephone visits scheduled, of which 152 (54.7%) were "completed", meaning the resident reached the patient and documented a note. The remainder of the appointments were categorized as a "no-show", either because the patient could not be reached (92 visits) or because there was no documentation about the visit (29 visits). The three most common reasons for visits were blood pressure check (74 visits), symptom reevaluation after an office visit (61 visits), and diabetes management (55 visits). Visit types that were most likely to be completed were patient-initiated visits (16 scheduled; 87.5% completed), symptom reevaluation visits (61 scheduled; 70.5% completed), and abnormal results review (18 scheduled; 66.7% completed). Of all completed visits, 48 (31.6%) included prescription medication management, 12 (7.9%) included ordering of laboratory or imaging testing, and 17 (11.2%) included referrals to other providers.
+
+# KEY LESSONS FOR DISSEMINATION
+
+(WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): Residents used telephone visits for a wide variety of reasons. Over half of the completed visits included prescription medication management, lab/imaging ordering, or referrals, suggesting these visits were relatively complex and may have replaced the need for in-person care. The completion rate for telephone visits was similar to the in-person show rate in our clinic of 60%. We hope to improve this completion rate through resident and patient expectation setting; limiting telephone visits to specific appointment types might also be beneficial. We found inconsistent documentation practices among residents and now reinforce documentation requirements periodically. We did not bill for telephone visits, but we do plan to do so as reimbursement opportunities for telehealth services become available.
+
+# BRIDGING THE GAP: A SUCCESSFUL INPATIENT-BASED CONTINUITY AND CARE COORDINATION INTERVENTION FOR HIGH RISK HOSPITAL HIGH UTILIZERS
+
+Kirstin Knox1; Jessica Schneider1; Heather Charboneau1; Todd Hecht2. 1Hospital of the University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA. (Control ID #3183903)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+(ONE SENTENCE): Patients who are frequently admitted to the hospital are a highly vulnerable population, facing medical, social, and behavioral health challenges that are compounded by discontinuity between hospital admissions and care settings; this discontinuity leads to unnecessary testing, ineffective/ inconsistent treatment plans, patient/provider frustration, and inability to address the underlying issues that drive repeat hospitalization.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+(NO MORE THAN THREE OBJECTIVES): For patients with the highest inpatient utilization on our general medicine service, our objectives were to 1) increase continuity and care coordination across care settings, 2) identify and address the underlying drivers of hospital utilization, and 3) reduce unnecessary health care utilization.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT
+
+(E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS): We designed and implemented a successful multidisciplinary intervention aimed at breaking the cycle of high utilization for the most frequently admitted patients on our service. A continuity team, including a hospitalist physician, nurse, and social worker, is assigned to each patient. With guidance from a multidisciplinary committee, this continuity team partners with the patient, caregivers, and providers to a) develop and implement an individualized longitudinal care plan targeting the biopsychosocial drivers of healthcare utilization, and b) coordinate and streamline care across home, outpatient, emergency, and inpatient settings. To complement this full intervention, we recently developed more targeted behavioral plans that can be rapidly implemented in situations where consistency is essential to patient care and safety.
+
+# MEASURES OF SUCCESS
+
+(DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION): Measures of inpatient utilization including hospital admissions, 30-day readmissions, total hospital days, average length of stay, and emergency department visits.
+
+# FINDINGS TO DATE
+
+(IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): We have enrolled 47 patients since 2015, and now maintain a 20-25 patient active rolling census. For patients enrolled in our full intervention, six month pre/post analysis demonstrates reduction in admissions, total hospital days, ED visits, and thirty-day readmissions of 52%, 40%, 43%, and 64%, respectively, with minimal change in LOS (n=26 patients with complete six month follow up). Twelve month pre/post data demonstrate a sustained effect, including reduction in thirty-day readmissions of 58% (n=21). For patients enrolled in our targeted behavioral plan intervention, six month pre/post analysis demonstrates modest decreases in admissions, LOS, and ED visits (21-28%), while total hospital days decrease 40% after plan implementation (n=5).
+
+# KEY LESSONS FOR DISSEMINATION
+
+(WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): A multidisciplinary and highly individualized approach is essential to developing successful interventions for patients with the highest hospital utilization. The program's greatest strengths lie in our ability to build trust, create consensus among providers, advocate for large scale interventions, and provide continuity and coordination over time and across settings. Investing in a core team to provide extensive care coordination both during and between admissions is key to program success.
+
+# BRIDGING THE GAP: THE IMPACT OF AN INPATIENT MEDICAL SUBSTANCE USE GROUP ON KNOWLEDGE GAINS AND OUTPATIENT MAT FOLLOW-UP AMONG OPIOID-USING IV ANTIBIOTIC PATIENTS
+
+Jessica Farrar5, 6; Michelle Gaffaney1, 3; Tess M. Kilwein1, 2; Sharnay Brown1, 4. 1Denver Health Medical Center, Glendale, CO; 2University of Wyoming, Laramie, WY; 3University of Colorado Anschutz Medical Center,

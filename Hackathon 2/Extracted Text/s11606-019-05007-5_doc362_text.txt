@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CASE 1
+
+of trauma, recent surgery, abdominal pain, fever, or chills. Upon admission, the patient was noted to be diffusely jaundiced over her entire body. Her liver function tests were elevated, and abdominal ultrasound demonstrated a mildly dilated common bile duct at 8mm, as well as intrahepatic ductal dilation. Magnetic resonance cholangiopancreatography (MRCP) demonstrated stomach, pancreas, small bowel and most of the colon to be above the diaphragm with abnormal orientation of the extrahepatic bile ducts extending superiorly to the duodenum located in the thorax. Computed tomography (CT) of thorax, abdomen, and pelvis revealed a large diaphragmatic hernia, and it confirmed presence of pancreas, small bowel, and colon in the thorax. Surgical repair of the defect was considered, however, due to the patient's poor functional status, the risks of surgery were determined to outweigh the benefits. Biliary decompression with stent placement was performed instead. This was accomplished percutaneously, as her anatomy was not amenable to an endoscopic approach. She tolerated the procedure well, and her jaundice and transaminitis subsequently resolved. Plan was made for stent replacement as needed for recurrence of jaundice.
+
+# IMPACT/DISCUSSION
+
+DH can be congenital or traumatic. The vast majority of congenital diaphragmatic hernias (CHD) present in infancy or childhood and occur at a rate of less than 5 per 10,000 live births. The incidence of CDH found incidentally on CT in adults is 0.17%, but the incidence of CHD leading to clinical presentation has not been reported. While several case reports of congenital DH causing obstructive jaundice can be found in the pediatric literature, only two published cases could be located describing this phenomenon in adults. One case was reported in a 19-year-old female and the other was reported in a 64-year-old female. Our patient reported no history of trauma therefore, her diaphragmatic hernia was presumed to be congenital. The treatment of choice is surgical correction of the hernia to decompress biliary obstruction while preventing bowel obstruction or ischemia and lung injuries.
+
+# CONCLUSION
+
+Painless jaundice with early satiety and weight loss can be caused by compression of the common bile duct from a complication of a diaphragmatic hernia. Newly discovered anatomic anomalies are rare in elderly patients, but nonetheless should be considered by clinicians in the differential diagnoses when evaluating patients with jaundice.
+
+# A UNIQUE CASE OF MIXED AUTOIMMUNE WARM AND COLD HEMOLYTIC ANEMIA WITH EXTRAVASCULAR HEMOLYSIS LEADING TO CONJUGATED HYPERBILIRUBINEMIA
+
+Shaheen Fatima; Adetoun Adeyemi; Eric Chang; Pooja Padigala; Muhammad Bilal; Balsam Elhammali; Nicolas Bakinde. Morehouse School Of Medicine, Atlanta, GA. (Control ID #3186576)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the unique features of mixed autoimmune hemolytic anemia
+
+# LEARNING OBJECTIVE #2
+
+Assess the need of involvement of multi-disciplinary team for management of mixed autoimmune hemolytic anemia
+
+# CASE
+
+25 year-old-female presented with fatigue, diffuse body pain, nausea/vomiting, fever for the past two days. History was significant for iron-deficiency-anemia. Labs revealed hemoglobin/hematocrit of 4.4/13.6, mean-corpuscular-volume: 107, elevated reticulocytes-count, total-bilirubin: 26.7, direct-bilirubin: 21.9, leukocyte-count: 6.3 with neutrophilic predominance, lactate-dehydrogenase: 193, haptoglobin in normal range, elevated d-dimer/fibrinogen/NR (1.6)/procalcitonin, peripheral smear showed macrocytes and toxic granulation. Coombs-auto-antibody test for both warm and cold was positive, direct-anti-globulin testing (DAT) was positive. HIV screening test, rheumatoid-factor and parvovirus- panel were negative. Hb phenotype was not consistent with sickle cell/thalassemia. Hematology was consulted and 6 units of pRBC were transfused with a poor response, she then received IVIG (3 doses), epoetin-alfa, folic acid, bortezomib and high dose steroids with improvement in blood counts and hemolysis. Gastroenterology was consulted due to conjugated-hyperbilirubinemia and recommended abdominal imaging. CT-abdomen showed no evidence of biliary obstruction/cholecystitis, showed splenomegaly. US-abdomen was negative. CT-chest revealed mildly enlarged right axillary lymph node. Lymph node biopsy was negative for malignancy, flow cytometry had no evidence of clonal process. EBV qualitative PCR and EBV IgG were positive but IgM negative indicating likely past infection, hepatitis panel was negative, Mycoplasma IgM was negative. Positive ANA IFA of 1:80 (with negative ANA screen) which was assessed to be secondary to IV immunoglobulin. She improved throughout the hospital course, hemolysis resolved, hematocrit and hemoglobin (10.3/31.6) and was discharged with prednisone taper and hematology follow up.
+
+# IMPACT/DISCUSSION
+
+This unique presentation of mixed-hemolytic-anemia with conjugated-hyperbilirubenemia points towards similarity of mixed hemolytic anemia to warm-autoimmune-hemolytic-anemia (wAIHA) than cold-hemolytic-anemia (cAIHA). The importance of recognizing this is directly proportional to patient's clinical outcome as treatment for wAIHA is different from cAIHA. Although intravascular hemolysis is 10-fold greater than extravascular hemolysis, the slowed response to blood transfusion, no signs of hemolysis on the peripheral smear and conjugated hyperbilirubinemia should shift the focus to extravascular hemolysis. Early involvement of hematology and gastroenterology is crucial in such cases.
+
+# CONCLUSION
+
+Only 7-8% of all AIHAs show a DAT positive for IgG and C3d, with the coexistence of warm autoantibodies and high-titer cold agglutinins (mixed AIHA). Further investigation is needed to delineate mixed type AIHA from wAIHA in terms of pathophysiology to better understand and treat this condition effectively.
+
+# A UNIQUE CASE OF SPOROTRICHOID-LIKE SPREAD OF AN OPPORTUNISTIC INFECTIOUS ORGANISM
+
+Jodi-Anne Wallace; Hila Miskin; Anthony Cannella; Omar Taha. University of Florida, Gainesville, FL. (Control ID #3148667)
+
+# LEARNING OBJECTIVE #1
+
+Recognize and manage severe cutaneous Mycobacterium chelonae infection
+
+# CASE
+
+A 57 year-old woman with lupus nephritis and subsequent renal transplant failure on immune suppression was admitted for right forearm cellulitis. She noticed yellow exudate near her right thumbnail that spread to erythema of her hand and antebrachium, one month prior to presentation. She was evaluated by several clinicians and finally a dermatologist who prescribed clindamycin, cephalexin and trimethoprim-sulfamethoxazole respectively. Dermatology also performed a biopsy with bacteria culture. Painful nodules began to spread up her forearm, and she presented to this hospital. She was immediately started on vancomycin. Infectious disease was consulted, who discovered she was an avid gardener and requested repeat biopsy adding AFB and fungal cultures. The first biopsy demonstrated filamentous Gram-positive organisms thought to be Nocardia. As a result, she was started on amikacin and trimethoprim-sulfamethoxazole. However five days later, the AFB culture of the repeat biopsy grew M. chelonae. Trimethoprim-sulfamethoxazole was exchanged for moxifloxacin and clarithromycin. Treatment was complicated by major side effects including QT prolongation. The regimen was adjusted with combinations of tobramycin, tigecycline, and imipenem/cilistatin. Unfortunately, control of the infection was not achieved and she expired.
+
+# IMPACT/DISCUSSION
+
+This case adds to the few reports of severe cutaneous M. chelonae in an immunocompromised patient. It reinforces the importance of having opportunistic infectious organisms high on the differential when immunocompromised individuals present with chronic cellulitis.
+
+# CONCLUSION
+
+M. chelonae is a rapidly growing species of nontuberculosis mycobacteria found in water and soil. Disseminated cutaneous M. chelonae manifests as abscesses or violaceous subcutaneous nodules. A sporotrichoid pattern in M. chelonae infections is not.

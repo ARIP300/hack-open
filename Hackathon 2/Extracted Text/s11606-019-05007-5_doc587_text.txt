@@ -1,0 +1,68 @@
+# ABSTRACTS JGIM
+
+or a recurrence, we believe his second episode was a recurrence since he remained stable for twelve days after completion of the previous treatment. Recurrent NF should be included in the differential diagnosis in patients with a previous episode. Appropriate antibiotic therapy, early diagnosis and surgical debridement are extremely important for this rare, but deadly disease.
+
+# CONCLUSION:
+
+Recurrent NF is very rare, but should be excluded in patients with a previous episode of NF.
+
+# WHAT LIES BENEATH CATATONIA
+
+Anna Apostolopoulou; Anita Leon-Jhong. UPMC, Pittsburgh, PA. (Control ID #3179070)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the signs of malignant catatonia timely
+
+# LEARNING OBJECTIVE #2:
+
+Initiate management of malignant catatonia with high doses of benzodiazepines (BZs) in the ICU
+
+# CASE:
+
+A 23-year-old female with history of autism was transferred from an outside hospital for evaluation of altered mental status. Prior to admission, she had sustained a closed-head injury with negative CT of her head, so a diagnosis of post-concussive syndrome was initially entertained. The patient was at her reported baseline: minimally interactive and not following commands. Her neurologic exam was non-focal; infectious, metabolic/endocrine workup for AMS was unremarkable. A few days later, she developed waxy flexibility, posturing, staring, and catalepsy. She was evaluated by Neurology and Psychiatry specialists, both suspecting a diagnosis of catatonia. She was challenged with lorazepam but became very sedated, so the plan was to eventually pursue elective ECT. The next morning, she was somnolent and diaphoretic and later became febrile to 39.3 C and tachycardic. Despite repeated negative infectious workup, she was empirically covered with broad-spectrum antibiotics. After 24 hours, and with no sign of improvement, she re-spiked a fever and developed diffuse rigidity. A diagnosis of malignant catatonia was made. Patient was transferred to the ICU for aggressive treatment with escalating doses of lorazepam and emergent ECT.
+
+# IMPACT/DISCUSSION:
+
+Catatonia is a clinical diagnosis suggested by a constellation of abnormal motor responses such as mutism, stupor, waxy flexibility, posturing, staring, echophenomena. Catatonia can vary in severity from non-malignant to malignant; malignant catatonia can occur as a sequela of non-malignant catatonia, or it can manifest on its own. Malignant catatonia presents with fever, AMS, dysautonomia and rigidity. Given the overlapping features of malignant catatonia with other conditions, such as neuroleptic malignant syndrome and sepsis, a high level of suspicion is required. In this case, key findings were the patient's diffuse muscle rigidity, diaphoresis and tachycardia and her second episode of fever while on antibiotics. Unquestionably, her pre-existing catatonia expedited the diagnosis, which was important given the lethality of malignant catatonia if not diagnosed and managed timely. ECT and escalating doses of BZs are the standards of care for malignant catatonia. Urgent management in an ICU setting is recommended given the autonomic instability and the potential of respiratory compromise with BZs warranting intubation for airway protection. This case gave me insight into the spectrum of catatonia, and given the possible progression of the non-malignant catatonia to the life-threatening malignant catatonia, I realized that a new diagnosis of catatonia should prompt daily surveillance for signs of malignant catatonia.
+
+# CONCLUSION:
+
+- Monitor patients with new-onset catatonia for signs of fever, dysautonomia and rigidity.
+- Malignant catatonia warrants immediate transfer to the ICU for escalating doses of BZs.
+
+# WHAT THE NECK IS THAT? EVALUATION OF A NECK MASS IN AN IMMUNOCOMPROMISED PATIENT
+
+Shirin Hemmat 1; Katherine Julian 2. 1 University of California, San Francisco, San Francisco, CA; 2 UCSF, San Francisco, CA. (Control ID #3176190)
+
+# LEARNING OBJECTIVE #1:
+
+Develop a differential diagnosis for a neck mass in an immunocompromised patient
+
+# LEARNING OBJECTIVE #2:
+
+Evaluate and treat drug-induced thrombocytopenia in the outpatient setting
+
+# CASE:
+
+A 60 year-old woman with a history of renal transplantation presented with a three-week history of enlarging, painful bilateral neck masses. Her past medical history was significant for chronic ureteral reflux resulting in renal transplantation two years prior, maintained on tacrolimus, mycophenolate and prednisone. Her family history was unremarkable. The patient was housed and originally from the Philippines but immigrated to the US more than twenty years ago. Review of systems was negative for fever or chills. Her vital signs were all within normal limits. Her exam was notable for a 3cm firm and tender submandibular mass on the left and a 3cm firm and tender mandibular mass on the right. The remainder of her exam was unremarkable. Labs were normal. An ultrasound of the neck was concerning for undrained abscesses. The patient was hospitalized and underwent a fine-needle aspiration biopsy which was positive for Mycobacterium Tuberculosis (TB). She was ruled out for active pulmonary TB. She was diagnosed with scrofula (tuberculous lymphadenitis of the cervical lymph nodes) and discharged on rifabutin, isoniazid, pyrazinamide, vitamin B6 and ethambutol (RIPE). Six weeks after initiation of RIPE, the patient platelets decreased from 298k to 124k within one week. Her rifabutin was stopped and two weeks later her platelet count returned to 240k.
+
+# IMPACT/DISCUSSION:
+
+A neck mass likely represents a lymph node, thyroid nodule, congenital or vascular malformation or dermatologic process. Lymph node enlargement can be caused by malignancy, infection or autoimmune diseases. Immunocompromised patients have greater susceptibility to infections. Infections that result in cervical lymphadenopathy include bacterial (Staph Aureus, Bartonella, TB), viral infections (Epstein-Bar Virus, HIV) and endemic fungal infections. Worldwide, it is estimated that TB accounts for almost half of the cases of lymphadenopathy. Scrofula is most often diagnosed in young patients with concurrent HIV (with CD4<300) or who are otherwise immunocompromised. Patients are typically afebrile and present with a firm, chronic, non-tender neck mass. Drug-induced thrombocytopenia in the outpatient setting can be caused by antibiotics (particularly Bactrim and rifabutin), NSAIDs, chemotherapy and H2-blockers. Cessation of the offending medication typically resolves the thrombocytopenia in 2-3 weeks.
+
+# CONCLUSION:
+
+This case demonstrates evaluation of a neck mass in an immunocompromised patient and the management of rifampin induced thrombocytopenia. It highlights the need to consider TB in the differential of lymphadenopathy, particularly in patients who are originally from countries with high TB prevalence or who have a suppressed immune system.
+
+# WHAT YOU "C" MAY NOT BE WHAT YOU EXPECT: A CASE OF SCURVY CAUSING PURPURA
+
+Rachel Snyder; Deepa R. Nandiwada; Laura Kosseim. University of Pennsylvania, Philadelphia, PA. (Control ID #3149639)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the epidemiology of scurvy in the US
+
+# LEARNING OBJECTIVE #2:
+
+Describe the clinical presentation of scurvy

@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CASE: Bowel Decompression in Ogilvie Syndrome
+
+We present a novel approach for bowel decompression in Ogilvie syndrome using a rectal Foley catheter. This case series consists of two elderly male bed-bound patients, with recurrent hospital admissions for intestinal pseudo-obstruction with resultant colonic dilation, also known as Ogilvie's syndrome. While this syndrome has been associated with trauma, infections, and abdominal surgeries, it is also frequently seen in patients with prolonged immobility or bed bound state. In such cases, we theorize that decreased abdominal pressure from abdominal muscle laxity allows for increased gaseous distention of the large bowel, resulting in sigmoid colon kinking and subsequent functional outlet obstruction. Both patients presented with severe abdominal distention, and hyperactive bowel sounds. Abdominal CT imaging in both cases showed lack of anatomic obstruction but significant colonic dilation with cecal dilation > 9 cm. Traditionally, these patients are treated with rigid rectal tubes or endoscopic decompression. Our initial patient was initially treated with a rigid rectal tube; however, due to routine patient care, the tube became dislodged resulting in reaccumulation of gaseous distention. Subsequently, a 24 French 3-way straight Foley catheter was placed into the rectum with balloon cuff inflation using 25ml of sterile water. The catheter was left to drain by gravity with standard Foley catheter tubing and frequent bag emptying. After 24 hours the bowel distention improved and serial abdominal X-rays confirmed bowel decompression. The second case was seen in the emergency department. As before, a Foley catheter was placed into the rectum and connected to catheter tubing and subsequently removed after 6 hours with marked improvement in colonic distention allowing for the patient to be discharged without hospital admission.
+
+# IMPACT/DISCUSSION
+
+The use of a Foley catheter to straighten the sigmoid colon enables an outlet for gas and stool. This procedure may be superior to a rectal tube in the ability to remain in place for enough time to successfully decompress colonic distention. Rectal Foley placement does not require advanced training and causes minimal patient discomfort. It can potentially decrease cost of patient care as it does not require advanced procedures or sedation and is cheaper than other methods of decompression.
+
+# CONCLUSION
+
+Both patients had recurrent pseudo-obstruction potentially resulting from decreased abdominal wall strength due to prolonged immobility allowing for colonic expansion in the setting of a relative decrease in intra-abdominal pressure. Both cases subsequently resolved with rectal Foley catheter decompression. Foley catheters are readily available and can be safely placed in patients with large bowel distention due to Ogilvie syndrome. The risk of the procedure is similar to that of a rectal tube and its placement does not require additional expertise.
+
+# RENAL CELL CARCINOMA PRESENTING WITH DYSPHAGIA: A CASE REPORT
+
+Zion Lamm; Andrew Dries; Kevin Humphreys; KEVIN LAMM. Carolinas Medical Center, Charlotte, NC. (Control ID #3184874)
+
+# LEARNING OBJECTIVE #1
+
+Be able to define and diagnose achalasia and pseudoachalasia.
+
+# LEARNING OBJECTIVE #2
+
+Recognize that rapidly progressive achalasia may be due to a paraneoplastic process.
+
+# CASE
+
+A 77-year-old female with history of diabetes and vitiligo presented to clinic with progressive dysphagia to solid food and twenty-pound weight loss over six months. Barium esophagram revealed prominent narrowing of the distal esophagus with tertiary contractions. Follow-up with esophageal manometry showed panesophageal pressurization >30mmHg, suggesting Type II achalasia. A puckered lower esophageal sphincter was noted on esophagogastroduodenoscopy. Subsequent endoscopic ultrasound uncovered a lobulated mass measuring 9cm in the lower pole of the left kidney. Given dysphagia and findings of achalasia by manometry thought to be due to paraneoplastic syndrome, 100u of botox was injected into the LES. Patient ultimately underwent left radical nephrectomy for unclassified renal cell carcinoma.
+
+# IMPACT/DISCUSSION
+
+Achalasia is a rare motility disorder of the esophagus in which loss of neurons traditionally lead to a slow decline of peristalsis and impaired relaxation of the lower esophageal sphincter (LES). Rapid progression of symptoms including dysphagia and unintentional weight loss suggests pseudoachalasia most often due to a malignancy. Though most cases are due to direct infiltration, primary cancers from lung, prostate, and kidney have been described to create a paraneoplastic syndrome that disrupts esophageal function by anti-neuronal and anti-cholinergic antibodies. We present a case report of a patient diagnosed with achalasia due to a paraneoplastic process from renal cell carcinoma.
+
+# CONCLUSION
+
+Rapidly progressing achalasia accompanied by unintentional weight loss is often due to secondary processes. Without controlling for symptoms, 1.5% of patients diagnosed with achalasia were found to be due to neoplasia. When infiltrative malignancies have been ruled out, imaging of the chest, abdomen, and pelvis should be considered to rule out paraneoplastic syndrome from undiagnosed malignancies.
+
+# RETURN OF A FOE OR NEW ADVERSARY?: A CASE OF RECURRENT JAUNDICE AND LIVER INJURY IN A 28-YEAR-OLD FEMALE
+
+Jesse Solomon; Hugo Kaneku; Anna K. Donovan. University of Pittsburgh Medical Center, Pittsburgh, PA; University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3180836)
+
+# LEARNING OBJECTIVE #1
+
+Be familiar with the clinical presentation of relapsing Hepatitis A Virus (HAV).
+
+# LEARNING OBJECTIVE #2
+
+Recognize the limitations of biopsy in distinguishing HAV infection from autoimmune hepatitis.
+
+# CASE
+
+A 28-year-old female presented with recurrent jaundice. She was diagnosed with acute HAV infection three months prior and had near complete resolution of her symptoms with supportive care. One month prior to her current presentation, she developed severe fatigue, nausea, vomiting, and jaundice. Her medical history included postural orthostatic tachycardia syndrome, obesity status post gastric sleeve, and anxiety. Family history was noncontributory. Initial physical examination was notable for jaundice and generalized abdominal tenderness without peritoneal signs; exam was negative for Murphy's sign, asterixis, caput medusae, or lower extremity edema. Labs were significant for AST 956 IU/ L, ALT 455 IU/L, total bilirubin 16.5 mg/dl, albumin 2.5 mg/dl, alkaline phosphatase 88 IU/L, INR 2.4, total IgG 2530, and positive ant-HAV IgM and anti-smooth muscle Ab (ASMA). Abdominal US and CT revealed an unremarkable liver morphology and hepatic vessel flow; however, the liver was noted to be hypoechoic with thickening of the portal venous wall. Differential diagnosis was relapsing HAV vs. autoimmune hepatitis (AIH). A liver biopsy revealed bridging necrosis with a plasmacytic infiltration consistent with a subacute process, such as HAV; however, AIH could not be ruled out. On hospital day 10, the patient became confused and somnolent with worsening coagulopathy. She was transferred to the ICU, where she was treated empirically with high-dose prednisone and plasmapheresis. Family successfully advertised for an altruistic donor on social media resulting in a non-related living donor liver transplant. She was discharged on post-op day 14 with normal mental status and liver function.
+
+# IMPACT/DISCUSSION
+
+This case changed our perspective of HAV infection, which is typically self-limiting and without long-term sequelae, and the

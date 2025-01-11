@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+S245
+
+# CONCLUSIONS:
+
+Achieving the advised 150 weekly minutes of PA was associated with improved HDL and BMI in females and VO2 max in males. Some relationships indicated lower marginal cardio-metabolic benefit of PA after a certain point. Future guidelines can account for the unique gender dose-response relationships among young adults.
+
+Figure 1: Dose Response Relationship between Objective Physical Activity and BMI among Young Adults, Unadjusted Models
+
+| |Male|Female|
+|---|---|---|
+|Objective MVPA per Week|100| |
+| |200| |
+| |300| |
+| |400| |
+| |500| |
+
+# HOW PRECEPTORS IN AN INTERNAL MEDICINE CONTINUITY CLINIC DEVELOP TRUST IN RESIDENTS
+
+John Penner; Karen E. Hauer; Katherine Julian; Leslie Sheu. University of California, San Francisco, San Francisco, CA. (Control ID #3186131)
+
+# BACKGROUND:
+
+Trust is a growing areas of interest because it informs supervision. Most research on trust focuses on the inpatient setting. However, trainee responsibilities, team structure, teaching, and trainee-supervisor relationships differ in continuity clinics. As medical education accreditation bodies increasingly emphasize the need for improved continuity clinic education, it is important to understand how trust develops in this setting to provide trainees developmentally-appropriate graded autonomy. We aim to understand how faculty preceptors in internal medicine continuity clinics develop trust in residents, and how trust affects supervision.
+
+# METHODS:
+
+This is a qualitative study using thematic analysis of semi-structured interviews with continuity clinic preceptors in an internal medicine residency program. Interviews address preceptors' views of trust, resident characteristics that build or erode trust, and supervisory behaviors that inform and vary with trust.
+
+# RESULTS:
+
+We have interviewed eight preceptors; data collection is ongoing. Preliminary results show preceptors determine trust through residents' knowledge of patients, clinical judgment, presentation organization, and reliability in follow-up. Longitudinal relationships and observation of residents both conducting patient encounters and handling virtual care (lab results, patient messages) inform trust. Resident openness about knowledge gaps and desire for feedback support trust development. With greater trust, preceptors promote resident autonomy by probing less about background information, patient history, and physical exam findings, providing less directive guidance on care plans, and shifting their focus towards teaching. Challenges to developing trust include preceptors' lack of familiarity and limited contact with residents' patients and limited preceptor continuity across resident clinic sessions. Despite noting their importance, preceptors cite difficulty in observing residents, especially their execution of virtual care, and engaging in feedback conversations as often as they would like to.
+
+# CONCLUSIONS:
+
+Factors unique to the continuity clinic setting, including longitudinal faculty interactions with residents and the growth of virtual care, influence trust formation. Areas of tension for preceptors lie in the fact that behaviors and interactions most conducive to trust development are also among the most difficult to observe and experience. Strategies to create continuity in oversight of in-person encounters and virtual patient care, foster longitudinal relationships, and normalize direct observation and feedback can align trust and supervision in continuity clinics of internal medicine residency programs.
+
+# HOW SHOULD WE CARE FOR PATIENTS WITH HIV AND COMORBIDITIES? A MULTISITE QUALITATIVE STUDY OF HIV CARE IN US DEPARTMENT OF VETERANS AFFAIRS
+
+Barbara G. Bokhour 1, 2; Gemmae Fix 1, 2; Steven Asch 8; Rendelle Bolton 1; Kelly Dvorin 1; Allen L. Gifford 9, 3; Justeen Hyde 1; Keith McInnes 1, 2; Amanda Midboe 7; Victoria A. Parker 1, 4; Avy A. Skolnik 1, 5; Juliet Wu 1; Michael Ohl 6. 1 Edith Nourse Rogers Memorial Veterans Hospital, Bedford, MA; 2 Boston University School of Public Health, Bedford, MA; 3 Boston University, Boston, MA; 4 U. of New Hampshire, Durham, NH; 5 University of Massachusetts Amherst, Amherst, MA; 6 Iowa City VA Healthcare System, Iowa City, IA; 7 VA Palo Alto Health Care System, Menlo Park, CA; 8 VA/Stanford, Menlo Park, CA; 9 Boston VA Healthcare System, Boston, MA. (Control ID #3185155)
+
+# BACKGROUND:
+
+HIV is a chronic manageable condition, however as patients age comorbidity management often becomes the highest priority. Whereas care for these patients previously was concentrated solely in infectious disease or HIV specialty clinics, there has been a shift towards co-management between HIV specialty care and primary care. It is unclear how patients in HIV specialty care only vs. co-management fare with regards to HIV and comorbidity quality of care. Moreover, care provided in patient-centered medical homes (PCMH) is associated with higher quality. Thus, we sought to understand how variation in HIV care delivery was aligned with PCMH-principled care, and how comorbidity and HIV care quality relate to the structures and processes of care.
+
+# METHODS:
+
+We profiled 144 US Department of Veterans Affairs Medical Centers (VAMCs) on HIV quality (viral control), physical comorbidity care quality (e.g. HbA1C) and mental health care quality (e.g. guideline concordant depression care) using medical record data. We selected a purposive sample of 8 VAMCs high and low in these quality indicators. We conducted in-depth qualitative site visits, blinded to sites' quality designation, including: 1) patient interviews (n= 60); 2) HIV care team interviews (n=60); 3) direct observation of clinic processes and team interactions (n=22); and 4) direct observations of patient-provider clinical encounters (n=45). We coded all using both a priori constructs from PCMH principles and emergent codes. We constructed individual site templates to reflect care according to PCMH principles, observed processes and structures of care. We then revealed quality profiles and examined relationships between templated descriptions and level of quality.
+
+# RESULTS:
+
+Across variation in sites' structures and process of care, three main findings emerged. First, the sites highest and lowest in both HIV and comorbidity quality demonstrated clear differences in provision of PCMH-principled care. The highest site provided greater team-based care, comprehensiveness of services, patient-centered care, data-driven care and engaged in continuous improvement. Second, sites with higher HIV care quality attended more to psychosocial needs, either via HIV clinic team-based care or through coordination with psychosocial services outside the clinic. Third, comorbidity quality was not directly related to PCMH principles. Rather, comorbidity care was better managed in sites that had explicitly created structures and consistent processes for such care, regardless of.

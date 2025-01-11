@@ -1,0 +1,60 @@
+# JGIM
+
+# ABSTRACTS
+
+# Portal vein thrombosis (PVT) and superior mesenteric vein thrombosis
+
+JAK2 V617F mutation and Protein S deficiency. Physical examination remarkable for tenderness over right and left lumbar regions. Lab tests revealed Hemoglobin 15.7 g/dL, WBC 11.9 k/μL, Platelet 402 k/μL, Lactic acid 3.4 mmol/L, Coagulation studies within normal limits. Computed tomography (CT) of abdomen revealed portal venous thrombosis, diffusely thickened colon and mild splenomegaly. Anticoagulation therapy was initiated with enoxaparin. Patient showed clinical improvement. Outpatient follow up with Hematology and Hepatology was arranged.
+
+# IMPACT/DISCUSSION
+
+Prevalence of PVT is estimated to be 1% with 0.6%-16% occurring in asymptomatic liver disease and 35% in the setting of cirrhosis with hepatocellular carcinoma. PVT can present acutely with symptoms of acute abdominal pain, fever, ascites, or splenomegaly, while chronic PVT can be asymptomatic. Laboratory studies for evaluating PVT include liver function testing, CBC for erythrocytosis and testing for prothrombotic risk factors. Ultrasound is recommended as first-line imaging with an accuracy of 88%-98% and a specificity of 60%-100%. CT and MRI additionally provide advantages of better visualization of anatomy and extension of occlusion, visualizing bowel ischemia, presence of malignancy, or cirrhosis. Treatment of PVT is directed towards reducing the advancement of thrombosis and preventing development of portal hypertension or intestinal infarction. Restoring portal venous flow in both partial and complete occlusion is achieved with anticoagulation (AC) in patients with prothrombotic states without contraindications to therapy. Because recanalization occurs between 4 to 6 months, it is recommended that anticoagulation be continued for at least 6 months, regardless of initial response to AC therapy. Choice of AC is low molecular weight heparin followed by long-term use of vitamin K antagonists with targeted INR of 2-3. Treatment beyond 6 months is dependent on patients with high recurrence risk. Endovascular interventions to restore portal flow have been utilized in patients that fail conservative management or demonstrate signs of bowel ischemia. Follow-up imaging is recommended every 6 months with ultrasound or contrast enhanced CT or magnetic resonance imaging (MRI).
+
+# CONCLUSION
+
+- PVT should be considered as one of the differential diagnosis of abdominal pain in patients with risk factors like JAK2 mutations for developing a prothrombotic state.
+- If AC is not initiated, PVT can potentially lead to fatal complications like bowel ischemia.
+
+# JUxtapapillary Duodenal Diverticulitis Masquerading as a Common Bile Duct Mass
+
+Leonard Walsh1; Andrew Groff2; Abraham Mathew3; Manpreet Singh1; Rohit Jain1. 1Hershey Medical Center, Hershey, PA; 2Penn State Hershey College of Medicine, Hershey, PA; 3Penn State Hershey Medical Center, Hershey, PA. (Control ID #3184595)
+
+# LEARNING OBJECTIVE #1
+
+Recognize duodenal diverticulitis as a differential diagnosis in patients presenting with abdominal pain, nausea, and vomiting who meet SIRS criteria and have indeterminate cross-sectional imaging since delayed treatment can lead to severe complications.
+
+# LEARNING OBJECTIVE #2
+
+Recognize that duodenal diverticulitis in the absence of a leak should be treated with broad-spectrum antibiotics and endoscopic therapy in appropriately selected patients.
+
+# CASE
+
+An 82-year-old Caucasian female with a past medical history of hypertension and coronary artery disease presented to the ED with a seven-day history of nausea, intermittent vomiting, and abdominal pain. She denied fevers, chills, or change in bowel habits. Vitals were significant for mild tachycardia and tachypnea. Physical exam revealed mild diffuse abdominal pain with normoactive bowel sounds and no rebound tenderness or guarding. Labs were notable for a mild leukocytosis of 12.0 WBC/uL. Computed tomography (CT) scan of the abdomen showed a thickened common bile duct (CBD) and 2.2 cm foci of gas in the distal CBD region that was concerning for a mass or abscess. The patient was started on IV levofloxacin and metronidazole. Gastroenterology performed an endoscopic ultrasound (EUS) and upper endoscopy, which showed a non-bleeding juxtapapillary duodenal diverticulum with purulent discharge and normal EUS findings. Disimpaction with an extraction balloon was performed followed by irrigation with normal saline. After endoscopy, the patient was transitioned to oral ciprofloxacin and metronidazole to complete a fourteen-day course of antibiotics. The patient was seen for follow-up 4 weeks after hospital discharge and was doing well with complete resolution of symptoms. Follow up abdominal CT showed an interval decrease in the size of the duodenal diverticulum with no inflammatory changes.
+
+# IMPACT/DISCUSSION
+
+Duodenal diverticulae are relatively common incidental findings in adult patients between the ages of 50-70 however rarely become symptomatic. The associated complications such as infection and free perforation have the potential to be severe and thus early management is important. Diagnosis of diverticulitis based on presentation and imaging alone is often unclear since symptoms can be nonspecific and cross-sectional imaging can mimic other disease processes such as biliary or pancreatic pathologies. In such cases that are equivocal or fail conservative management, an upper endoscopic approach in the absence of free perforation is indicated for diagnosis and allows for therapies including debridement, irrigation with normal saline, and stent placement in select cases.
+
+# CONCLUSION
+
+Duodenal diverticulitis is a rare complication of juxtapapillary diverticulae however it is important to promptly recognize and treat due to the risk of developing complications including a free perforation. Oftentimes diagnosis cannot be made by clinical presentation and cross-sectional imaging alone, and in such cases, upper endoscopy is indicated for diagnosis and treatment.
+
+# KEEP AN EYE ON YOUR BONES
+
+Mahmuda Khan1; Eileen Kim1; Robin Koshy2. 1Northwell Health, New Hyde Park, NY; 2 Northwell Health, Manhasset, NY. (Control ID #3180211)
+
+# LEARNING OBJECTIVE #1
+
+Recognize ocular adverse effects of bisphosphonate use.
+
+# LEARNING OBJECTIVE #2
+
+Manage bisphosphonate induced ocular disease with steroids.
+
+# CASE
+
+This is a 64 year-old woman with a past medical history of asthma, chronic urticaria, osteoporosis on risedronic acid who presented with acute right eye pain worsened with extraocular movements. Associated symptoms included fevers. On physical exam, she had right periorbital edema with erythema, episcleral injection with chemosis but no proptosis or resistance to retropulsion. She had leukocytosis (14.9), thrombocytosis (572k), and elevated CRP (1.9). Infectious and rheumatologic workup was negative. CT Maxillofacial revealed minimal preseptal soft tissue swelling with thickening of the conjunctiva, consistent with acute right conjunctivitis. MR of Head and Orbits showed no evidence for venous sinus or cortical vein thrombosis. She was started on ampicillin/sulbactam and linezolid without much improvement, which prompted concerns for bisphosphonate induced orbital inflammation. Only after the initiation of prednisone, she reported a significant improvement in the symptoms as well as objective examination findings of improving periorbital swelling, episcleral injection, and chemosis. Patient was discharged on a prednisone taper.
+
+# IMPACT/DISCUSSION
+
+It is important to note that the differential diagnosis of patient's presenting with fevers and orbital erythema and swelling is not limited to infectious sources. Other etiologies include vascular, trauma, autoimmune, metabolic, neoplastic, and most importantly, medication induced inflammatory response. This case has taught me to have a higher level of suspicion for medication, specifically, bisphosphonate induced ocular manifestations. Common reactions to bisphosphonates include conjunctivitis, uveitis, episcleritis, sclertis, and keratitis. The mechanism of bisphosphonate-induced inflammatory events.

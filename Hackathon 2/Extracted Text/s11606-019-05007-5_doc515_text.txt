@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# PROGRESSIVE VISION LOSS IN A PATIENT WITH ADVANCED MALIGNANCY
+
+Dame Idossa; Brian A. Costello. Mayo Clinic, Rochester, MN. (Control ID #3139290)
+
+# LEARNING OBJECTIVE #1:
+
+To highlight paraneoplastic syndromes as cause of vision loss in patients with advanced malignancy
+
+# CASE:
+
+A 49 year-old, previously healthy gentleman presented with daily progressive headaches, low-grade fevers, progressive fatigue, and abdominal pain. A thorough laboratory evaluation solely demonstrated microcytic anemia. As part of the work up for the anemia, an ultrasound of the spleen was obtained and revealed a shadow on the spleen, prompting further studies. A CT of the abdomen/pelvis revealed a mass on his left kidney with multiple lesions on the liver and extensive retroperitoneal lymphadenopathy, concerning for metastatic disease. He underwent an excisional lymph node biopsy which revealed metastatic papillary renal cell carcinoma with sarcomatoid features. After an evaluation by an oncologist, he ultimately decided not to pursue conventional treatment options. Three months after his initial diagnosis, he presented to his primary care physician with rapidly progressive bilateral loss of vision. Extensive ophthalmologic evaluation revealed melanocyte proliferation of the uvea, diagnostic of bilateral diffuse uveal melanocyte proliferation (BDUMP). This was thought to be a paraneoplastic process arising from his underlying advanced malignancy. He initiated treatment for his visual symptoms with plasmapheresis and IVIG. This transiently improved his vision, but he never regained his baseline visual capabilities. He ultimately developed bilateral retinal detachments and complete vision loss. He continued to defer treatment of his underlying malignancy and developed progression of his underlying metastatic papillary renal cell carcinoma.
+
+# IMPACT/DISCUSSION:
+
+BDUMP is a rare paraneoplastic ocular syndrome occurring in patients with systemic, often occult, but advanced carcinoma and is the hallmark of poor prognosis. Although rare, BDUMP has consistently resulted in devastating visual consequences. The five cardinal signs of BDUMP described in the literature are: (1) multifocal, faintly visible, round or oval, red, subretinal patches, with (2) associated striking pattern of associated hyperfluorescence during the early phases of angiography; (3) development of multiple, slightly elevated, pigmented and non-pigmented uveal melanocytic tumors, as evidence of diffuse thickening of uveal tract; (4) exudative retinal detachment; and (5) rapid progression of cataract. Ocular symptoms typically precede manifestation of systemic carcinoma by 3-12 months. Thus, an internist would need to have a high index of suspicion, prompt evaluation, and appropriate referral. Treatment options for BDUMP are limited and often unsuccessful. Treatment modalities include: corticosteroids, ocular radiotherapy, plasmapheresis, and treatment of the underlying malignancy.
+
+# CONCLUSION:
+
+Paraneoplastic syndromes arising from malignancy can present in myriad ways and should always remain on the differential in patient diagnosed with cancer.
+
+# CASE:
+
+A 47 year old woman presented to ophthalmology for evaluation of painless bilateral vision loss, headaches and ataxia of 1 months duration. She was initially seen for symptoms of right sided vision loss with inability to see faces or read. A brain MRI showed foci in periventricular and subcortical white matter consistent with demyelinating disease. A lumbar puncture (LP) revealed lymphocytic pleocytosis with 26 WBC and was negative for NMDA and Aquaporin-4 antibodies. CSF cultures and cytology examinations were negative. She presented at a later date and was found to have vitritis and papillitis in both eyes. Visual Acuity (VA) was 20/70 on right, 20/100 on left. She had a positive Romberg sign, unequal pupils with diminished response to light and normal accommodation. Repeat MRI showed left optic neuritis. Serologies were negative for HIV, bartonella, chlamydia, gonorrhea, and tuberculosis. FTA-Abs was positive and RPR titer was 1:128. The patient was admitted and started on intravenous penicillin. Within 48 hours, VA improved to 20/25 in the right and 20/30 in the left eye and there was resolution of her ataxia and headaches. Further questioning revealed that she had a maculopapular rash involving her palms five months prior which spontaneously resolved. On discharge (day 4) VA was 20/25 bilaterally.
+
+# IMPACT/DISCUSSION:
+
+Manifestations of syphilis are broad, warranting its nickname: "The Great Imitator." Syphilis has been increasing in incidence with 9.5 cases per 100,000 in 2017. 75-90% of cases are men and there is coinfection with HIV in 50% of cases. Emerging cases of ocular syphilis prompted advisory from the CDC in 2015, recommending LP in patient with known syphilis and neurologic symptoms. Ocular syphilis may occur in secondary or late syphilis. On average, the diagnosis of ocular syphilis is obtained 2.8 months after onset of symptoms. All structures of the eye may be affected, with uveitis being the most common presentation. It is recommended to perform an LP as if there is a concern for ocular syphilis as 1/4 of cases will have findings consistent with neurosyphilis, as seen in our patient. It is more common for HIV negative neurosyphilis to present with cognitive impairment and ataxia, rather than meningitis, stroke, and vision or hearing loss. Treatment is IV Penicillin G, 3-4 MU every 4 hours for 10-14 days.
+
+# CONCLUSION:
+
+In an era when sophisticated analyses and therapies have emphasized awareness of HIV, we may have become less suspecting of T. pallidum. Our patient experienced a delayed diagnosis since her initial brain MRI was suggestive of demyelinating disease. This case demonstrates the versatile presentation of syphilis in an unsuspected demographic, the HIV negative female. The diagnosis should be considered with unexplained neurologic or ocular symptoms, as prompt treatment of this potentially fatal condition generally leads to full recovery and successful outcomes.
+
+# PSEUDOMONAS PUTIDA CELLULITIS AND BACTEREMIA IN A PATIENT WITH CHRONIC LYMPHOCYTIC LEUKEMIA
+
+Florina Corpodean2; Crystal Xue2; Ribka Ayana1. 1Washington DC VA Medical Center, Washington DC, DC; 2George Washington University Hospital, Washington DC. (Control ID #3185038)
+
+# PROGRESSIVE VISUAL IMPAIRMENT DUE TO UVEITIS - A RETURN OF SYPHILIS AS THE "GREAT IMITATOR"
+
+Elissa Arnold; Debapria Das; Alexander Barsam; Andrew Jilwan; Kahee Mohammed; Sangeeta Khanna; Stewart Albert. Saint Louis University, St. Louis, MO. (Control ID #3186137)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the ocular and neurological presentation of Treponema pallidum infection.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize clinical spectrum of Pseudomonas putida (P. putida) infection
+
+# LEARNING OBJECTIVE #3:
+
+Recognize pathogenicity of P. putida
+
+# CASE:
+
+A 73-year-old man with untreated chronic lymphocytic leukemia and lymphedema presented with three weeks of progressive left leg swelling, erythema and pain. On admission, he was febrile and hypotensive. He had diffuse circumferential erythema with warmth and tenderness extending to his upper left leg, along with a large flaccid bulla and multiple three-centimeter lesions with purulent drainage on his posterior calf. He also had a prominent

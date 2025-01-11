@@ -1,0 +1,71 @@
+# JGIM
+
+# ABSTRACTS
+
+# thrombophilias, hypercoagulability, hypovolemia, and trauma.
+
+Nutcracker syndrome is an underdiagnosed condition and should be suspected when clinical presentation suggests left renal venous hypertension. The asymptomatic equivalent of the syndrome is referred to as nutcracker phenomenon which can be managed conservatively.
+
+# OBSCURE GI BLEED: GETTING THE "GIST" OF A TRICKY DIAGNOSIS
+
+Lydia A. Flier. Beth Israel Deaconess Medical Center, Brookline, MA. (Control ID #3185824)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the difference between occult, overt and obscure gastrointestinal bleeding.
+
+# LEARNING OBJECTIVE #2:
+
+Compare and contrast options for deep small bowel imaging to diagnose a source of bleeding.
+
+# CASE:
+
+The patient is a 74 year old woman with coronary artery disease status-post drug eluting stent to her left anterior descending coronary artery in 1 month prior to initial presentation, atrial fibrillation on Apixaban, remote breast and ovarian cancer, and CKD, who presented with a hemoglobin of 6.2 and concern for GI bleed. She was initially admitted to an affiliated community hospital with a hemoglobin of 5.6 and eventual melena. Upper endoscopy and colonoscopy showed enteritis, superficial ulceration, mucosal petechiae, left-sided diverticular disease, and scant old blood in the colon. Her Apixaban was held and aspirin 81mg was added to Clopidogrel. The next month, outpatient capsule endoscopy showed antral erythema (suggesting gastritis or GAVE) and diminutive duodenal AVMs. She was admitted weeks later with a Hgb of 6.3; repeat colonoscopy showed old blood in the left colon, red blood in the right colon, and fresh blood in the terminal ilium without a source. Repeat capsule showed bright red blood 40 minutes into small bowel, but no source. Push enteroscopy did not show a source. She then underwent balloon enteroscopy, which showed an ulcerated mass in the proximal ilium. Biopsy of this mass revealed a gastrointestinal stromal tumor. Imaging was negative for metastatic disease. She underwent a subtotal colectomy and was discharged with outpatient oncology follow up.
+
+# IMPACT/DISCUSSION:
+
+Approximately 5% of gastrointestinal bleeding (GIB) qualifies as obscure, or lacking a clear source after upper endoscopy and colonoscopy. Obscure GI bleeds (OGIB) can be occult (chronic) or overt (acute), but usually the source is located between the papilla and the ileocecal valve; consequently, terminology is shifting to call this kind of GI bleed "suspected small bowel bleeding." The source of up to 50% of OGIB can be found on repeat endoscopy and colonoscopy, but if is not successful, further workup is necessary. This can include capsule endoscopy, push enteroscopy, balloon-assisted enteroscopy (single or double), spiral-assisted enteroscopy, and CT or MR enterography. These modalities have different pros and cons, and hospitals may rely on different modalities based on resources such as advanced radiology capacity, advanced endoscopy, or anesthesiology time. This patient had a GIST as the source of her GI bleed, the treatment of which includes complete surgical resection followed by a course of imatinib.
+
+# CONCLUSION:
+
+Obscure GI bleeding refers to GI bleeding without a clear source after repeat colonoscopy and endoscopy, and can be overt/acute or occult/chronic. A systematic approach to occult OGIB may be necessary to diagnose the cause, and includes capsule endoscopy, MR/CT enterography, and push, balloon and/or spiral enteroscopy.
+
+# OCCAM'S RAZOR OR HICKAM'S DICTUM: MAKING THE DIAGNOSIS IN COMPLEX CARE
+
+Caroline Chen; Kristen Kelley; Arielle Sommer; Pourandokht S. Nourbakhsh. University of California - Los Angeles, Los Angeles, CA. (Control ID #3175641)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize atypical features of sinusitis.
+
+# LEARNING OBJECTIVE #2:
+
+Identify physician, patient, and systems factors that contribute to missed diagnoses.
+
+# CASE:
+
+A 76 year-old female with Crohn's disease, tobacco-related COPD, obesity, hypertension, and diastolic dysfunction presents to her physician with sinus pain. Antibiotics temporarily improve her symptoms but they return with hearing loss, ear pain, and fatigue. She receives several courses of antibiotics for recurrent sinusitis. During this time, she also reports dyspnea. She is encouraged to comply with her inhalers and is given diuretics for diastolic dysfunction. Nine months later, she presents to the hospital with pre-syncope. Chest x-ray shows bilateral infiltrates and CT of the sinuses shows otomastoiditis for which she is given antibiotics. She is also given diuretics for heart failure exacerbation given intermittent hypoxia. Two weeks later, she presents with 1 day of dizziness and blurred vision. On exam she is lethargic with left anisocoria, right nasolabial fold weakness, and 4/5 strength in the left upper and lower extremities. Imaging reveals an infarct of the thalamus and midbrain. Chest x-ray shows a right lower lobe opacity. She receives antibiotics for pneumonia. Further work-up of her acute stroke is unrevealing. She develops fevers and leukocytosis followed by hypoxemia and renal failure. Active urinary sediment leads to rheumatologic evaluation with positive p-ANCA, c-ANCA, and myeloperoxidase antibodies. Kidney biopsy reveals necrotizing vasculitis with giant cells, consistent with granulomatosis with polyangiitis (GPA). The patient receives steroids, plasmapheresis, and rituximab but unfortunately passes away 17 months after her symptoms began. Physicians involved in her care wondered if her diagnosis could have been made sooner.
+
+# IMPACT/DISCUSSION:
+
+Annually, 1 in 7 US adults is diagnosed with acute sinusitis while the prevalence of GPA is only 3 per 100,000. Per IDSA Clinical Practice Guidelines, patients who fail first and second line therapies for bacterial sinusitis should be evaluated for non-infectious causes including GPA, a granulomatous small-to-medium vessel vasculitis. As 5 to 12% of patients with GPA die within the first year and 6 to 13% develop CNS disease, prompt diagnosis and treatment is essential. In isolation, our patient's problems could be explained: sinusitis in a susceptible host, hearing loss due to sinusitis, dyspnea due to undertreated COPD, hypoxia due to diastolic dysfunction, stroke in an at-risk individual, pneumonia in a patient with aspiration risk, and acute kidney injury due to hypotension from sepsis. Despite Hickam's dictum's tempting explanations, hindsight favors Occam's razor and may have led to earlier diagnosis and treatment for this patient.
+
+# CONCLUSION:
+
+In complex patients with fragmented care, summarizing the case to look for a unifying diagnosis by Occam's razor may reveal new insights. When patients fail empiric therapy for acute sinusitis, an alternate diagnosis should be considered.
+
+# OCCULT TENSION PNEUMOTHORAX; A LIFE SAVED.
+
+Ali Azim; Harshit Dua; Allan Tachauer. Weiss Memorial Hospital, Chicago, IL. (Control ID #3185981)
+
+# LEARNING OBJECTIVE #1:
+
+Spontaneous tension pneumothorax is a rare entity and needs high clinical suspicion for prompt diagnosis.
+
+# LEARNING OBJECTIVE #2:
+
+Isolated physical or radiological findings are neither sensitive nor specific.
+
+# CASE:
+
+56-year-old quadriplegic female was seen in emergency department(ED) for altered mental status(AMS) and abdominal pain. She had history of multiple sclerosis(17years), recurrent urinary tract infections(UTI), dysphagia status post G-tube. Vital signs showed hypotension(97/63mmHg), tachycardia(101/min), hypothermia(95.3F). Physical exam revealed bilateral equal breath sounds with minimal crackles at right lower lung zone, profound sweating and mild epigastric tenderness. Electrocardiogram(EKG) showed sinus tachycardia. Broad spectrum antibiotics and intravenous fluid(IVF) were started. Urinalysis was suggestive of UTI. Labs showed severe hyponatremia(106mEq/L) and no

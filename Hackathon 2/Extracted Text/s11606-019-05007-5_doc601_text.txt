@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# A STREAMLINED PATHWAY FOR COMMUNITY-ACQUIRED PNEUMONIA WITH RAPID CONVERSION TO ORAL THERAPY IMPROVES HEALTHCARE VALUE
+
+Claire Ciarkowski1; Emily S. Spivak2; Tristan Timbrook4; Matthew Sanford3; Christy Hopkins5; Nathan Hatton1; Frank O. Thomas3. 1University of Utah, Salt Lake City, UT; 2University of Utah School of Medicine, Salt Lake City, UT; 3University of Utah Hospitals and Clinics, Murray, UT; 4University of Utah, SALT LAKE CITY, UT; 5University of Utah, Salt Lake City, UT. (Control ID #3171437)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How does the Initiation of a Clinical Care Pathway for Community Acquired Pneumonia (CAP) Effect Antibiotic administration and Hospital Costs?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Develop and execute a standardized electronic health record (EHR) "best practice" pathway for the treatment of CAP.
+2. Implement a stewardship team to reinforce best practices.
+3. Determine how these interventions impact intravenous antibiotic administration, hospital length of stay (LOS), and costs for patients admitted to a medical floor.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A standardized CAP order set for patients presenting to the emergency department (ED) was developed by a multidisciplinary team. A best practice alert (BPA) is triggered when orders for a chest radiograph and an antibiotic are placed. The BPA asks for confirmation of antibiotic use for pneumonia and if confirmed an order set is provided. The order set offers guidance on appropriate triage, diagnostic testing, risk assessment for drug resistant pathogens and antibiotic selection. Patients admitted to medical floors are given a single intravenous (IV) antibiotic dose, followed by automatic switch to oral antibiotics for a total duration of 5 days. Atypical coverage with azithromycin is discontinued after 24 hours unless Legionella urine antigen returns positive. Pre-implementation training and education was provided to providers, nurses, respiratory therapists and pharmacists. The antimicrobial stewardship team performed prospective audit of patients on medicine floors and provided feedback on appropriate diagnostic testing and antibiotic use for patients with CAP.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The primary endpoints were LOS, days of IV antibiotic therapy, and relative mean cost adjusted for CURB65, age and Charlson comorbidity index using interrupted time series analysis. Secondary endpoints were mortality and 30 day readmission.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The pre-implementation period was 9/1/2016 to 8/31/2017 and included 409 patients on acute medicine floors and MICU. Implementation date was 9/1/2017 followed by a one-month run in period for pathway education. The post-implementation period was 10/1/2017 to 8/31/2018 and included 457 patients. The preliminary data showed our intervention was associated with a 39% (95% confidence interval (CI): 2% to 62%, p= 0.04) reduction in monthly per visit costs. There was a non-significant reduction in both LOS (-1.8 days, 95% CI: -4.03 to 0.42, p =0.10) and IV antibiotic duration (-0.88 days, 95% CI: -2.05 to 0.28, p=0.18). There were no significant changes in 30-day readmission or mortality. Further analysis will be conducted.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+The implementation of an EHR driven CAP care pathway in the ED supplemented by education and antimicrobial stewardship review appears to improve healthcare value by reducing costs. Our preliminary data suggests our efforts may not have been sustainable, possibly related to new providers and limited stewardship program resources, however further analysis is required.
+
+# ADDRESSING LOW RECEIPT OF LIFESAVING MEDICATIONS FOR OPIOID USE DISORDERS IN MINORITY POPULATIONS: IS ENGAGEMENT IN PRIMARY CARE THROUGH PEER RECOVERY COACHING THE ANSWER?
+
+Ricardo Cruz 1; Mayowa T. Sanusi 1; Rafik Wahbi 1; Alissa Cruz 1; Michele Clark 3; Daniel Hostetler 3; Molly Higgins-Biddle 3; Daniel P. Alford 2. 1 Boston Medical Center, Boston, MA; 2 Boston University School of Medicine and Boston Medical Center, Boston, MA; 3 JSI, Boston, MA. (Control ID #3185834)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite known mortality benefit through receipt of medications for opioid use disorders (MOUD), minority populations (Black & Latino) are less likely to be engaged and retained in MOUD after completing detox and continue to experience high rates of opioid related mortality.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Peer Recovery Coaches (PRC) deliver interventions to individuals with OUD completing detox assisting them to: 1. Link to primary care and identify, manage and prevent OUD comorbidities such as HIV, hepatitis B and C, and mental illness; 2. Engage in primary care to facilitate receipt of MOUD for a minimum of 6 months; and 3. Receive overdose education and naloxone (OEND).
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Partnering with two addiction treatment programs offering detox services that serve minority populations in Boston, Project RECOVER (Referral, Engagement, Case management, and Overdose preVention Education in Recovery) uses two PRCs who are culturally diverse and in recovery from substance use disorders to support patients through the processes of post-detox linkage, engagement and retention in primary care in order to receive MOUD for up to six months. Through the use of "Recovery Wellness Plans" PRCs prioritize domains of social determinants of health that patients feel are important to their recovery.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+To determine the degree of linkage, engagement and retention in MOUD and primary care post-detox as a means of decreasing both fatal and non-fatal opioid overdoses, compared to a comparison group from the MA Chapter 55 Opiate Overdose data.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Preliminary findings after three months of implementation are: 52 patients with OUD (54% male, 54% were Black and/or Latino/Hispanic) completing detox were enrolled. Of the enrolled patients 67% have a history of incarceration, 51% self-reported Hepatitis C infection.

@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+Of 125 eligible patients approached for this study, 89 agreed to participate (response rate 71.2%). Participant mean age was 36.6 years. Most were female (50%), African-American (88.4%), and had 2 ED visits in the past year (56.6%). Also, 70% had less than a high school education, low health literacy (53.6%), and a yearly income of <$20,000 (75.3%). Most patients regarded their condition as urgent (32.6%) or emergent (33.7%). One-third reported not having a PCP (35.3%) and using the ED as a usual source of care when sick (39.7%). Patients cited long wait times (31.4%), untimely appointments (29.4%), inconvenient clinic hours (21.2%), and transportation difficulties (18.8%) as barriers to care. Patients cited improved accessibility, acceptability, provider technical quality, and getting appointments on short notice as factors that would encourage use of PC.
+
+# CONCLUSIONS:
+
+Patients in MUA commonly perceive their conditions as urgent or emergent and desire patient-centered care when they need it, in convenient locations, and at low out-of-pocket cost. Difficulty contacting providers by phone, making timely appointments, long wait times, and high out-of-pocket costs are barriers that discourage utilization of PC. Patients cite that improved PC accessibility, accommodation, acceptability, and provider technical quality increased PC attractiveness. This study provides insight for health systems on how to increase value of care for medically underserved patient populations by improving access, affordability, and quality of PC.
+
+# FACULTY DEVELOPMENT IN MEDICAL EDUCATION IMPACTS CLINICIAN EDUCATORS' ROLE IDENTITY AND SENSE OF COMMUNITY
+
+Penelope Lusk 1 ; Kevin Hauck 1 ; Verity Schaye 3 ; Neil Shapiro 4 ; Khemraj A. Hardowar 5 ; Sondra Zabar 3 ; Anne Dembitzer 2, 1 . 1 NYU Langone, Brooklyn, NY; 2 VA Health and Harbor, New York, NY; 3 NYU School of Medicine, New York, NY; 4 Dept. Of Veterans Affairs, New York, NY; 5 NYU, New York, NY. (Control ID #3183943)
+
+# BACKGROUND:
+
+Faculty development programs (FDP) in medical education can increase clinician educators' (CE) confidence in teaching and improve their teaching skills. The impact of FDP on faculty's role as educators and sense of an educator community is less well understood. Identification with a community of educators (COE) can enhance teaching in the workplace along with personal and professional growth. We evaluated the impact of participation in the Education for Educators program (E4E) on these issues. E4E is a year-long FDP designed to enhance teaching confidence and skill in a variety of venues; improve ability to assess learners; promote an environment of academic inquiry with trainees at different levels; and create a COE.
+
+# METHODS:
+
+An annual needs assessment of key stakeholders including medical school deans, program directors, and participants forms the basis for the E4E curriculum. The program begins with a Group Observed Structured Teaching Experience (GOSTE) followed by three 3-hour workshops which pair a clinical and teaching topic. After each workshop, participants complete "commitment to change" statements and take part in peer-to-peer (P2P) observations wherein participants observe each other teaching in their usual teaching environment. The program concludes with structured debriefs and an assessment of participants' perception of their role as educators and their sense of an educator community. Participants reported how participation in E4E impacted their teaching and what new skills they implemented. Structured phone conversations assessed the same information one-year after completing the program.
+
+# RESULTS:
+
+Fifty-one CEs completed the program in two cohorts (2016-17 and 2017-18), 60% of whom were women. Participants included 20 hospitalists and 31 subspecialists, averaging 8 years in practice (range 1-28) and spending an average of 63% of their time in patient care (range 10-100%). Thirty-eight participants (75%) completed the immediate post-program debrief sessions. Participants reported a renewed identification with their role as an educator. They cited a change in perspective to become more reflective and focused on teaching and recognized that their teaching skills can in fact be improved. Many reported time constraints as a barrier to teaching. They noted an increased identification with their COE, stating that they now had peers and mentors with whom to discuss teaching challenges. To date, phone interviews have been completed with three participants at one-year of follow-up. The preliminary results show a sustained impact on educators' roles and belonging to a COE. They also reported ongoing use of specific skills including resilience strategies, and planning teaching sessions.
+
+# CONCLUSIONS:
+
+Longitudinal FDP in medical education for CE can lead to a greater appreciation for the role of an educator, and identification with a COE. Investment in longitudinal FDP may have lasting impact on the clinical learning environment and the identity of faculty as an educator.
+
+# FACULTY DEVELOPMENT NEEDS FOR THE AMBULATORY CLINICIAN EDUCATOR: RESULTS OF THE AMBULATORY FACULTY RECRUITMENT, RETENTION, AND REMUNERATION IN GRADUATE MEDICAL EDUCATION SURVEY BY THE AAIM EDUCATION COMMITTEE
+
+Jonathan Tolentino 1 ; Isitri Modak 2 ; Margaret C. Lo 3 . 1 Stony Brook University, Cincinnati, OH; 2 Methodist Health System, Grand Prairie, TX; 3 University of Florida College of Medicine, Gainesville, FL. (Control ID #3186358)
+
+# BACKGROUND:
+
+With expansion of the Affordable Care Act, GME directors must create robust ambulatory teaching environments. Successful redesign of ambulatory education requires high-yield faculty development (FD) programs with clear understanding of the FD needs of ambulatory educators. While literature cites various FD programs, little exists on the FD priorities of ambulatory faculty. Tasked by AAIM, our descriptive survey reports key FD skills needed in ambulatory education.
+
+# METHODS:
+
+After several teleconferences and Delphi processes, AAIM Education committee members drafted a needs-assessment survey to address the barriers and strategies for effective ambulatory teaching and FD. Survey asked the value of 20 specific ambulatory FD skills and 5 specific venues to effectively teach these skills to residents in the ambulatory setting, based on 5-point Likert scale. Request for survey participation was posted bimonthly from August-Nov 2017 on listservs of APDIM, APM, SGIM and AAIM Ambulatory Faculty focus group. Participation was anonymous and voluntary. De-identified results were analyzed via descriptive statistics from STATA software. University of Oklahoma HSC provided IRB approval.
+
+# RESULTS:
+
+217 ambulatory faculty completed the survey. Most were core ambulatory resident educators (76%) at academic medical centers (65%). Highest-valued FD skills for ambulatory teaching were bedside teaching (77.5%); clinical reasoning (76%); and goal-setting, evaluation, and feedback (71.6%). Least-valued FD skills were concept mapping (14.3%), research methods (19%), and large group teaching (20.1%). No differences exist between respondents from academic medical centers (AMC) or community-based programs for all skills except for promotion of clinician educators (p<0.05), which held less value to community-based faculty. Respondents preferred small group workshops as the delivery mechanism for learning most FD skills over didactic sessions, webinars, online modules, or conferences.

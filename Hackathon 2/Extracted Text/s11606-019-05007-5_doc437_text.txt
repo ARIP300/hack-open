@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# Lemierre's Syndrome
+
+Common feature of this Syndrome, the patient's pelvic mass may have been a result of septic emboli due to presence of small patent foramen ovale. The development of neurologic symptoms, due to the extensive involvement of the venous sinuses, could be misdiagnosed as a primary neurologic process. Lemierre's Syndrome is now regarded as a rare occurrence due to the timely treatment of oropharyngeal infections. However, with increasing antibiotic resistance and lack of awareness of the diagnosis, a resurgence of Lemierre's Syndrome may be seen in the future.
+
+# CONCLUSION:
+
+Lemierre's Syndrome is an easily missed diagnosis due to providers unfamiliarity with Fusobacterium infections. Atypical presentations of this Syndrome may delay appropriate therapy. Systemic involvement without early treatment is potentially life-threatening.
+
+# FRIEND OR FOE? A CASE OF IMMUNOTHERAPY-INDUCED HYPOPITUITARISM AND EMPTY SELLA SYNDROME
+
+Jeremy Chang1; Jeffrey Tran1; Dina Kamel2; Arnab Basu2. 1LAC+USC, Wilmington, CA; 2 LAC + USC, Los Angeles, CA. (Control ID #3180700)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that the use of novel treatments such as immune checkpoints inhibitors (ICIs) can lead to a wide spectrum of adverse effects, including endocrinologic complications.
+
+# CASE:
+
+A 63-year-old Caucasian woman with history of stage IVA lung adenocarcinoma presented for worsening fatigue. Her symptom started 2 weeks prior to admission with associated non-productive cough, myalgias, and multiple episodes of non-bloody, non-bilious emesis. She was previously started on the immune therapy nivolumab 1 year ago for treatment of her cancer. Infectious work-up on admission including cultures and imaging were unremarkable. Subsequently, several hormonal tests were ordered to evaluate for an endocrinologic etiology of her symptoms. The results were significant for a low TSH of <0.01 mIU/L, low free T3 of 1.1 ng/dL, low free T4 of 2.4 ng/dL, low morning cortisol level of 5.6 μg/dL, and inappropriately normal adrenocorticotropic hormone (ACTH) of 8 pg/mL. An MRI of the sella was performed which showed a partially empty sella without evidence of any pituitary lesion. These findings were consistent with hypopituitarism leading to adrenal insufficiency and primary hypothyroidism. The patient was started on oral hydrocortisone 20 mg in the morning and 10 mg at night with rapid improvement in her symptoms. On discharge, she was prescribed oral prednisone 80 mg per day with a taper until follow-up with endocrinology.
+
+# IMPACT/DISCUSSION:
+
+The use of ICIs in the treatment of malignancies represents a monumental advancement in cancer therapy. However, the use of immunotherapy has also led to a wide range of adverse effects of varying severities. Endocrine toxicities occur infrequently during ICI use, but can include adrenalitis and thyroid dysfunction. Hypophysitis is an overall rare condition that refers to inflammation of the pituitary gland. While many subtypes were previously identified including lymphocytic, granulomatous, and plasmacytic, hypophysitis secondary to immunotherapy has emerged as a more recent etiology. Nivolumab-induced hypophysitis is an exceedingly rare phenomenon, occurring in <1% of patients in several prior studies. The results of our patient's hormonal work-up indicated that her hypophysitis resulted in hypopituitarism with associated adrenal insufficiency and hypothyroidism. In addition, the presence of a partially empty sella on MRI was consistent with a secondary empty sella syndrome following the pituitary inflammation.
+
+# CONCLUSION:
+
+Given the potential complications of immunotherapy including hormonal dysfunction, it is crucial for practitioners to be aware of possible adverse effects when managing patients on novel therapies.
+
+# FROM CLINIC TO THE CCU: A COMMON VIRAL SYNDROME WITH UNCOMMON MANIFESTATIONS
+
+Anne G. Montgomery. UCSF, San Francisco, CA. (Control ID #3186010)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of myocarditis and myopericarditis.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the necessary outpatient follow up for a patient with myocarditis.
+
+# CASE:
+
+A 32 year-old woman with no medical history presented to clinic with one week of flu-like symptoms and progressive myalgias. Her exam was notable for pronounced tenderness of the bilateral calves without rash, swelling, or weakness. Initial blood tests revealed a leukocytosis to 15.8, creatine kinase of 735, CRP of 284, and creatinine of 0.93 (her baseline). Given concern for a viral myositis, the patient was instructed to stay hydrated and return for repeat labs in 48 hours. Prior to follow-up, the patient called the clinic to report fever and the onset of mild pleuritic chest pain. She was instructed to present to the Emergency Department where an EKG revealed ST-segment elevation in leads I, II, and V1-V3 with depressions in II, aVR, and V1. A troponin was elevated at 4.65, and a transthoracic echocardiogram showed a small pericardial effusion and possible wall motion abnormalities. She underwent urgent coronary angiography, which showed no evidence of disease, but given concern for rapid progression of myocarditis, she was admitted to the CCU for further monitoring. Fortunately, she remained hemodynamically stable, and over the next several days her myalgias and inflammatory markers improved. She was discharged on a low-dose ACE inhibitor and beta-blocker with instructions to follow up with her primary care provider.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the fact that the initial presentation of myocarditis and myopericarditis can be overshadowed by a patient's viral symptoms. Because myocarditis can rapidly progress to depressed cardiac function and even cardiogenic shock, it is important to recognize its early manifestations. In 80-90% of cases of pericarditis and myocarditis, the etiology is idiopathic and presumed to be viral in nature. These cases are often preceded by days to weeks of vague viral symptoms. Patients may have chest pain, and those with myocardial involvement will have elevated cardiac enzymes and/or evidence of depressed left ventricular function. Those with evidence of depressed left ventricular systolic function should be started on guideline-directed heart failure therapy once stable and followed closely in the outpatient setting. While this patient was overall well-appearing during her first outpatient visit even with markedly elevated inflammatory markers, the development of mild chest pain prompted the clinician to triage her more rapidly to the Emergency Department. She ultimately required ICU-level care for what started as a viral syndrome.
+
+# CONCLUSION:
+
+Myocarditis can start slowly as a subtle viral syndrome and progress rapidly to hemodynamic instability. All patients with evidence of myocarditis require inpatient admission and close outpatient follow up.
+
+# FROM JAIL TO HOSPICE CARE
+
+Libia M. Vasquez1; Lucy M. Esteve2; Carolyn April3. 1University of Texas Health Science Center San Antonio, San Antonio, TX; 2UT Health San Antonio, San Antonio, TX; 3University of Texas Health Science Center at San Antonio, San Antonio, TX. (Control ID #3139820)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the barriers incarcerated patients face in a health care system.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize "rule of rescue" (perceived duty to save endangered lives) practices do not result in better patient outcomes.
+
+# CASE:
+
+A 61-year-old woman presented from county jail with nausea and vomiting for a week. In addition to dysuria, PO intolerance, chills, and abdominal pain. Urine and blood cultures grew E. Coli. She had bipolar disorder, type 2 diabetes, and hypertension. She lost 40-pounds in four months from early satiety and regurgitation after meals. EGD showed a friable mass at the GE junction, biopsy with poorly differentiated adenocarcinoma with signet cells. A week after diagnosis of GE cancer, she was compassionately released from the jail unit and moved to a regular floor. She was hospitalized for two months completing CT scans, PET scan, and diagnostic laparoscopy. She was diagnosed with stage IIa GE adenocarcinoma and was discharged to a homeless shelter with a 3-month supply.

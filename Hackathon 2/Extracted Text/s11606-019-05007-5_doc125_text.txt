@@ -1,0 +1,35 @@
+# ABSTRACTS
+
+# FACTORS ASSOCIATED WITH OPIOID DISCONTINUATION IN CHRONIC OPIOID THERAPY
+
+Jason M. Glanz 1, 2; Stanley Xu 1; Komal J. Narwaney 1; Susan M. Shetterly 1; Jo Ann Shoup 1; Jennifer Lyden 3, 4; Ingrid A. Binswanger 1, 4.
+
+1 Kaiser Permanente Colorado, Denver, CO; 2 Colorado School of Public Health, Aurora, CO; 3 Denver Health, Denver, CO; 4 University of Colorado School of Medicine, Aurora, CO. (Control ID #3186067)
+
+# BACKGROUND:
+
+There is limited evidence on the safety and effectiveness of opioid tapering practices in pain management. In addition, there is a lack of data describing tapering practices and outcomes in routine clinical care. We sought to examine characteristics associated with opioid discontinuation among patients receiving chronic opioid therapy (COT).
+
+# METHODS:
+
+We conducted a matched cohort study using electronic health record data from an integrated health system in Colorado. We identified health plan members 18 years between 2006 and 2017, who had 90 days continuous enrollment and received COT (3 opioid prescriptions in 90 days). Among these patients, we identified periods of opioid discontinuation, defined as 3 months without any opioid dispensings. Using calendar time, patients who had been discontinued were frequency matched to patients who did not discontinue. We conducted two logistic regression analyses examining 11 demographic and clinical characteristics. The first compared patients with 1 period of discontinuation to patients without a discontinuation. The second analysis compared patients who had a period of discontinuation but resumed opioid therapy to patients who remained discontinued while enrolled in the health plan.
+
+# RESULTS:
+
+We identified a cohort of 14,419 patients who received COT during the observation period. Over a mean follow-up of 4.8 years, 8,518 (59%) were never discontinued, 2,740 (19%) stayed discontinued, 2,234 (15%) were discontinued and resumed opioids, and 927 (6%) were discontinued and disenrolled from the health plan. In the first analysis, the following variables were positively associated with being discontinued: young age, white, history of overdose, mental health diagnosis, alcohol and drug use disorders, long acting opioids, and low opioid dose (Table). In the second analysis, the following variables were positively associated with sustained discontinuation: young age, drug use disorder, and low opioid dose. Receipt of a benzodiazepine was negatively associated with sustained discontinuation.
+
+# CONCLUSIONS:
+
+Among patients on COT, periods of opioid discontinuation were common. Discontinued patients frequently resumed opioids, and baseline patient characteristics were significantly associated with opioid discontinuation patterns. The results suggest that it may be easier to discontinue patients on low opioid doses, and sustained discontinuation may be difficult with patients prescribed benzodiazepines.
+
+# FACTORS INFLUENCING PATIENTS IN MEDICALLY UNDERSERVED AREAS TO CHOOSE THE EMERGENCY ROOM INSTEAD OF PRIMARY CARE FOR NON-URGENT CONDITIONS
+
+Rosita N. Ekem; Satya Surbhi; Leonard J. Harris; James E. Bailey. University of Tennessee Health Science Center, Memphis, TN. (Control ID #3183980)
+
+# BACKGROUND:
+
+Patients often go to the emergency department (ED) for non-urgent conditions, that can be managed in primary care (PC) settings. Past research suggests that ED care for non-urgent conditions may result in unnecessary testing, elevated costs, and missed opportunities for essential primary and preventive care. ED use for non-urgent conditions is especially prevalent in medically underserved areas (MUA). This study explored patient experiences, perceptions, barriers to PC access, and preferences regarding ED and primary care use. We also examined factors that would encourage patients with non-urgent conditions to choose primary care over ED.
+
+# METHODS:
+
+A self-administered cross-sectional survey was given to a convenience sample of adults triaged as semi-urgent or non-urgent conditions in the ED of a large non-profit healthcare system during June-July of 2018. Consent was obtained before patients completed the survey in private exam rooms. Exclusion criteria included pregnancy, cognitive impairment, non-English speaking, under police supervision, or hospital admission. The survey was designed to compare experiences in the ED and PC, collect demographics, patient perception of illness severity, and factors that affect non-urgent usage of the ED. Descriptive analyses were conducted to describe the study population, examine the most common barriers to PC access, and identify factors that would encourage patients to choose primary care over the ED.

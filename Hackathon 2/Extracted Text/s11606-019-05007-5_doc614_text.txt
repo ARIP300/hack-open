@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# OurNotes: A Patient-Driven Approach to Visit Preparation
+
+to review their visit progress notes. OpenNotes originally was developed at Beth Israel Deaconess Medical Center (BIDMC) and as a next step, the BIDMC team developed a program entitled OurNotes which is a program that invites patients to contribute information online before their office visits, thereby, co-producing their visit notes in the electronic health record. The goal is to have patients complete tasks such as reviewing prior notes, writing an interval health history, and identifying goals for an upcoming visit which could lead to more meaningful patient-doctor interactions, improved patient safety, and decreased documentation burden for doctors. As one of four sites, the General Internal Medicine primary care team at Dartmouth-Hitchcock Medical Center is conducting a pilot test of the OurNotes program using the patient portal through the Epic electronic health record. Patients who participate in the program are sent an invitation a week before a regularly scheduled visit to send an interval history and agenda items before the visit through the secure messaging system. The providers then can review this message and cut and paste the message into the patient's progress note before the visit.
+
+# MEASURES OF SUCCESS
+
+We will survey patients and providers about the following outcome measures: patient participation rate, content of information provided by patients and use of patient information by clinicians during visits.
+
+# FINDINGS TO DATE
+
+While we are in the preliminary stages of implementation, patients that have participated in the OurNotes program find it helpful to send health concerns and agenda items before visits. Providers also find it helpful to know what patients want to address before visits, prioritize agenda items and pend orders before the visit. Visits using OurNotes lead to less time reporting history and transcribing by providers which allows more time for shared decision making and reviewing treatment options.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Implementation of OurNotes was simple and straightforward using an established patient portal in an electronic health record in a general internal medicine clinic and in selected patients has improved patient experience and engagement and potentially decreases provider documentation burden during office visits.
+
+# CREATING AN EMR-BASED DATABASE TO MONITOR ADHERENCE TO THE CDC OPIOID PRESCRIBING GUIDELINE IN PRIMARY CARE PRACTICES
+
+Jaclyn Yamada2; Joanna L. Starrels1; Anna Flattau1; Iby Thomas1; Sharon Rikin1. 1Montefiore - Albert Einstein College of Medicine, Bronx, NY; 2Albert Einstein College of Medicine, Bronx, NY. (Control ID #3185566)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Primary care practices have a growing need to monitor adherence to guidelines for prescribing opioids for chronic pain, but many have not developed systematic ways to do this using electronic medical record (EMR) data.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+To create an EMR-based chronic opioid therapy (COT) database to monitor adherence to the CDC guideline in primary care settings.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+A team of primary care providers at a large, urban, academic health system in Bronx, NY selected five primary care practices, which share an Epic EMR, to pilot the COT database in 2018. In partnership with a CDC Quality Improvement (QI) Collaborative, the team developed QI metrics corresponding to seven of the CDC Guideline recommendations: regular assessment, evaluation of pain and functional status, avoid concurrent benzodiazepines, discuss risks and benefits, urine drug test, prescription monitoring program (PMP) review, and overdose risk reduction. The COT database and QI metrics were refined based on feasibility of data extraction and feedback from front-line clinicians.
+
+# MEASURES OF SUCCESS
+
+We judged success as the ability to define the COT population and QI metrics in a way that is reproducible and extractable from the EMR and acceptable to front-line clinicians.
+
+# FINDINGS TO DATE
+
+We identified 408 patients (1.9% of all patients) that (1) were seen at the clinics within 12 months and (2) were prescribed COT, defined by 4 opioid prescriptions in the last 6 months. Patients were excluded if they received treatment for opioid use disorder. Four of the seven QI metrics were directly extractable from the EMR: regular assessment (office visit < 90 days), avoid concurrent benzodiazepines (none prescribed in <6 months), urine drug test (performed <12 months), and overdose risk reduction (naloxone prescribed or dispensed). The other three QI metrics required manual chart review: assessment of pain and functional benefits (PEG scale <90 days), discuss risks and benefits (controlled substance agreement <12 months), and PMP review (documented verification <90 days). The database was shared with front-line clinicians through clinician- and practice-level reports which included the number of patients on COT and completion of QI metrics. Epic EMR enhancements are underway to improve EMR-based capture of the 3 QI metrics that required manual chart review.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Operationalizing COT guideline recommendations into EMR-based QI metrics requires collaboration and refinement with front-line clinicians, IT analysts, and subject matter experts to understand how primary care practices are documented. EMR-based QI metrics may not fully capture clinical practices. For example, completion of pain and functional assessment was satisfied with a documented PEG scale; however, this may not capture those who met the guideline through another assessment type. This initiative highlighted opportunities for standardization of processes, such as controlled substance agreements. These lessons can help others to create robust EMR-based databases to monitor adherence to COT guidelines.
+
+# DECISION SUPPORT AND OFFICE WORKFLOW CHANGES FOR INFLUENZA VACCINATION IN PRIMARY CARE
+
+Stephen Persell1, 3; Ji Young Lee2; Nora Lewin2, 3; Sonali K. Oberoi3; Erik Orelind3, 1; Philip Roemer1, 3; Michael Schachter; Kathryn Thomas; Banu Yagci3. 1Northwestern University, Evanston, IL; 2Northwestern University, Chicago, IL; 3Northwestern Memorial Healthcare, Chicago, IL. (Control ID #3182720)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Influenza vaccination rates are not optimal.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1) Improve performance on a publicly reportable influenza measure, 2) Increase rate of onsite influenza vaccination.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS.

@@ -1,0 +1,37 @@
+# ABSTRACTS JGIM
+
+# CHANGES IN ENROLLEES' HEALTH STATUS AFTER MEDICAID EXPANSION
+
+Susan D. Goold2, 1; Renuka Tipirneni2, 1; Edith C. Kieffer1, 1; Tammy Chang1; Matthias Kirch1; Corey Bryant2; Erica Solway1; Sunghee Lee1; Zachary Rowe4, 5; Erin Beathard1; Sarah J. Clark1, 1; Jennifer Skillicorn1, 1; John Z. Ayanian1, 2; Jeffrey T. Kullgren3, 1. 1University of Michigan, Ann Arbor, MI; 2University of Michigan, Keego Harbor, MI; 3Ann Arbor VA Healthcare System and University of Michigan, Ann Arbor, MI; 4Friends of Parkside, Detroit, MI; 5Urban Research Center, Detroit, MI. (Control ID #3177579)
+
+# BACKGROUND
+
+Evidence about the impact of Medicaid expansion on health has been mixed, and has largely come from comparing expansion to non-expansion states. We assessed the impact of Michigan's Medicaid expansion, the Healthy Michigan Plan (HMP), on the health of enrollees over time.
+
+# METHODS
+
+From January-November 2016, the Healthy Michigan Voices telephone survey was conducted in English, Arabic and Spanish with 4,090 HMP beneficiaries aged 19-64 with 12 months of HMP coverage and 10 months in a Medicaid health plan (RR 53.7%). Sampling was stratified by income and region. Respondents in 2016 who consented to be re-contacted (96.4%) were eligible for the 2017 HMV Follow-Up Survey, conducted from March 2017 to January 2018 (RR 83.4%). Surveys measured demographics, health status, access to and use of health care, health risks and behaviors. Analysis included weights for sampling probability and nonresponse. Comparisons between 2016 and 2017 included only those who responded to both surveys.
+
+# RESULTS
+
+Of 2017 HMV follow-up survey respondents (n=3,104), 76.8% were still enrolled in HMP ("current enrollees") and 23.2% were no longer enrolled at the time of the 2017 survey. Most enrollees reported that, in the past year, their physical health had improved (29.6%) or stayed the same (56.1%), their mental health had improved (28.4%) or stayed the same (58.6%), and their oral health had improved (21.0%) or stayed the same (60.7%). Over one-third (36.4%) reported in 2017 that their health was excellent or very good. The proportion of all enrollees who reported fair or poor health decreased from 30.7% in 2016 to 27.0% in 2017 (aOR=0.66, p<.001). The largest decreases in reports of fair/poor health from 2016 to 2017 were observed in enrollees who were Hispanic (from 28.3% to 21.5%), non-Hispanic Black (from 31.5% to 26%), from the Detroit Metro area (from 30.7% to 24.9%), and with an income 0-35% FPL (from 37.6% to 32.3%). The mean number of days of poor physical health in the past month decreased from 2016 to 2017 from 6.9 to 5.7 (Coeff=-1.32, p<.001). Fewer days of poor physical health were found in both current enrollees (from 7.0 to 5.6) and former enrollees (from 6.8 to 5.8), those with a chronic condition (from 8.2 to 6.8), those with two or more chronic conditions (from 9.9 to 8.5), those with a mental health condition (from 9.5 to 8.0), and those with a substance use disorder (from 10.0 to 8.1). There was no statistically significant decrease from 2016 to 2017 in the number of days of poor mental health or the number of days of usual activities missed due to poor physical/mental health.
+
+# CONCLUSIONS
+
+Medicaid expansion in Michigan was associated with improvements in self-reported health and days of poor physical health, including for enrollees with chronic physical and mental health conditions.
+
+# CHANGES IN HEALTH INSURANCE COVERAGE BY OCCUPATION AFTER THE AFFORDABLE CARE ACT
+
+Sumit Agarwal1; Anna Goldman2; Benjamin D. Sommers3. 1 Brigham and Women's Hospital, Somerville, MA; 2 Cambridge Health Alliance, Cambridge, MA; 3 Harvard School of Public Health, Brookline, MA. (Control ID #3185500)
+
+# BACKGROUND
+
+We sought to assess changes in health insurance coverage across occupations after implementation of the Affordable Care Act (ACA).
+
+# METHODS
+
+Using data from the American Community Survey from 2010 through 2017, we examined changes in presence and type of insurance coverage before and after the ACA. We focused on five standard occupation groups: managers and professionals (e.g. chief executives, physicians), service workers (e.g. food servers, barbers), sales and office workers (e.g. cashiers, secretaries), farming and construction workers (e.g. farmers, plumbers), and industrial and manufacturing workers (e.g. machinists, truck drivers). We used a linear regression model to estimate unadjusted and adjusted changes in the following categories of coverage: uninsured, Medicaid, employer-sponsored insurance (ESI), and directly purchased insurance (includes ACA Marketplaces).
+
+# RESULTS
+
+Uninsured rates before the ACA and coverage gains since 2014 varied significantly by occupation. Managers and professionals were the most likely to receive coverage through their employer (82.7% prior to the ACA). Those in farming and construction (56.4%) and in service (52.0%) were the least likely to receive coverage through their employer. There were modest gains in ESI among all groups, ranging from 1.9 to 3.1 percentage points. The bulk of the gains in coverage after 2014 were due to increases in Medicaid and directly purchased insurance. Service workers experienced a 4.3 percentage-point increase in directly purchased insurance and 5.8 percentage-point increase in Medicaid.

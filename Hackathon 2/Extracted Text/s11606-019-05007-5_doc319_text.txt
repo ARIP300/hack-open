@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# INCIDENTAL DIAGNOSIS OF POLYMYOSITIS IN PRIMARY CARE CLINIC
+
+Emily Fessler. Hospital of the University of Pennsylvania, Philadelphia, PA. (Control ID #3177385)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to asymptomatic abnormal liver function tests (LFTs) in the primary care setting
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the potential for depression to delay care-seeking and diagnosis
+
+# CASE:
+
+A 68 year old woman with hypertension and depression presents for a routine primary care visit. Her only complaint is discomfort with swallowing which she attributes to "chronic tonsillitis". Her exam is unremarkable and plan made for non-urgent ENT referral. In addition, her 10-year ASCVD risk is 10.6%, thus she is prescribed a high-intensity statin and ordered for baseline LFTs. Unexpectedly, her transaminases return markedly elevated with AST 322 and ALT 131 from normal 1 year prior. On further questioning, she denies alcohol use, strenuous activity, or herbal supplements. She returns for additional testing including hepatitis serologies, TSH, creatine kinase (CK), and right upper quadrant ultrasound. CK is elevated to 6196. With direct questioning she endorses several months of generalized weakness with difficulty climbing the stairs and raising her arms. Autoimmune labs reveal ANA >1:20480. She undergoes thigh MRI with signal enhancement in the musculature, followed by muscle biopsy consistent with polymyositis. Anti-Ku antibodies are positive. She is seen by rheumatology and started on 60mg prednisone daily. CK remains elevated despite 4 weeks of prednisone, thus started on methotrexate and monthly IVIG. Barium swallow shows evidence of esophageal dysmotility. Screening for occult malignancy is negative. CK normalizes after 5 months of treatment and steroids tapered over 1 year.
+
+# IMPACT/DISCUSSION:
+
+Asymptomatic LFT elevation is often encountered in primary care. The first step in diagnosis is careful history including review of medications/supplements, alcohol use, and viral hepatitis risk factors. In patients with hepatocellular injury pattern it is important to consider non-hepatic sources including hyperthyroid, strenuous exercise and muscle injury; this is associated with a disproportionate elevation of AST>ALT. Further testing should be done in a stepwise manner (Schreiner 2018). Much of this process can be completed by a general internist prior to specialist referral. In addition, while it is acknowledged that depression can manifest as somatic complaints (Tylee 2005), the opposite is also true: depression can lead to underreporting of symptoms. For example, depression is associated with delayed care-seeking in both acute myocardial infarction and decompensated heart failure (Johansson 2011, Bundle 2006). Despite months of symptomatic weakness, had this patient not warranted LFTs for preventative care her polymyositis would likely have gone unrecognized until later in the disease process.
+
+# CONCLUSION:
+
+1. Workup of abnormal LFTs should be done in a stepwise fashion based on history and injury pattern; differential should include both hepatic and non-hepatic sources. 2. Patients with depression require close attention to history and follow-up as they may delay care-seeking despite new symptoms.
+
+# KHAT GOT YOUR LIVER? A CASE OF KHAT-INDUCED LIVER INJURY
+
+Amanda Pechman; Jennifer P. Weintraub. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3163629)
+
+# LEARNING OBJECTIVE #1:
+
+Identify khat use as a risk factor for liver disease
+
+# LEARNING OBJECTIVE #2:
+
+Apply khat-use screening questions to patients from countries where khat use is prevalent
+
+# CASE:
+
+A 31-year-old male with a history of cirrhosis presented to the emergency room with the chief complaint of altered mental status. He arrived with a note from his PCP stating a history of cirrhosis and concern for hepatic encephalopathy. On arrival to the emergency room the patient was reportedly confused and drowsy, without asterixis. His initial labs were normal except for a transaminitis, elevated ammonia, and negative urine toxicology. Initial imaging showed a normal head CT. This patient's only past medical history was cirrhosis of unknown etiology; as per his PCP he had a CT and MRI showing cirrhosis and an endoscopy showing small esophageal varices, and he had an upcoming appointment with hepatology for further workup. His social history was significant for tobacco use and frequent chewing of khat leaves, a stimulant native to East Africa and the Arabian Peninsula that is a common social practice in his home country of Yemen. He was given one dose of lactulose with improvement in his mental status and by the time he was admitted to the medicine service he was at his baseline. He was found to have negative hepatitis serologies, a negative alcohol level, as well as normal ceruloplasmin and iron studies. He was discharged to home with outpatient liver follow up. The patient saw a hepatologist as an outpatient the following month and underwent a transjugular liver biopsy that demonstrated chronic hepatitis, cirrhosis, and mild steatosis. The cause of his liver disease was deemed likely secondary to his khat use, and he was recommended to stop chewing khat to prevent further liver injury.
+
+# IMPACT/DISCUSSION:
+
+Khat-induced liver disease is a rare but important side effect of this substance. Though the mechanism of hepatotoxicity is unknown, there have been case reports of khat-induced liver damage. Khat use is a common social practice with an estimated 5-10 million users worldwide, particularly in the so-called khat belt countries of Ethiopia, Somalia, and Yemen. Given that there are over 300,000 immigrants from these nations in the U.S., it is likely that providers will encounter patients who use this substance and should thus screen for its use and recognize associated health risks. Risks of chewing khat include not only liver disease but also hypertension, tachycardia, stroke, decreased sperm count, and psychiatric disease. This case underscores the importance of taking a detailed social history that is both comprehensive and culturally sensitive to identify practices that can be harmful, and shows the importance of providing culturally competent care.
+
+# CONCLUSION:
+
+Chewing khat, a common social practice in Africa and the Middle East, can cause liver damage. It is important to screen for khat use in patients from countries where this practice is common.
+
+# TB OR NOT TB: A CASE OF PLEURAL TB
+
+Nikita Fernandes; Lakshmi Priyanka Mahali; Kristin A. Swedish. Montefiore Medical Center, Bronx, NY. (Control ID #3185875)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose pleural tuberculosis (TB).
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of considering TB in the differential, even when pleural fluid may not reveal a typical presentation.
+
+# CASE:
+
+A 31 year-old woman from Honduras presented with moderate right sided pleuritic chest pain, aggravated by deep breathing for two weeks. She did not have cough, sputum production, or dyspnea. Patient reported recent travel to Honduras. Six months prior, she had a positive PPD. Chest X-Ray (CXR) at that time was normal; she did not receive any treatment. On examination, she had diminished breath sounds and dullness to percussion of the right lung field. CXR revealed moderate right pleural effusion and some sub-centimeter pulmonary nodules. A thoracocentesis revealed exudative effusion, lymphocyte predominant, and elevated Adenosine Deaminase (ADA) enzyme level; fluid cultures and cytology were negative. Patient underwent robotic video-assisted thoracic surgery (RVATS) with evacuation of the effusion and pleural biopsy. The pleural biopsy revealed multiple non-necrotizing granulomas. The acid fast bacilli stain was negative. The tissue cultures grew Mycobacterium TB. She was treated with

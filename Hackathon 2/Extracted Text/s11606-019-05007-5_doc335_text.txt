@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# IDENTIFICATION METHODS
+
+Adult TBM often presents with worsening headache with vomiting and confusion for greater than 6 days. Studies show that TBM results in increasingly abnormal CSF composition and pressure with time, typically with high opening pressure, elevated leukocytes and protein, and low glucose. Current laboratory methods include CSF smear and culture, which are most commonly used. Although the acid-fast smear is quick and inexpensive, it requires about 10,000 organisms for a positive result, resulting in poor sensitivity. Studies have shown that a majority of TBM cases have a negative CSF smear. CSF culture takes 10-14 days to result and is highly dependent on laboratory expertise. Other methods include biochemical analysis, such as measuring CSF ADA, which helps to improve the diagnosis of TBM especially when bacterial meningitis is ruled out. ADA values >10 U/L has high specificity >90% for TBM; however, for ADA <10 U/L, studies have demonstrated a wide range of sensitivities, which limit the diagnostic use of this test.
+
+# CONCLUSION
+
+Therefore, given that there is a lack of reliable and rapid diagnostic tests for TBM and late treatment of TBM leads to poorer outcomes, one should consider treating TBM empirically if there is a suspicion for the disease.
+
+# A COLD CASE OF A COLD ABSCESS
+
+Christine Park; Ian A. Downs; Rachel Simmons. Boston Medical Center, Boston, MA. (Control ID #3185774)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the broad differential of cold abscesses and utilize host risk factors in assessing a patient with an unusual infection
+
+# LEARNING OBJECTIVE #2
+
+Explore Klebsiella pneumoniae as a causative agent for a cold abscess
+
+# CASE
+
+A 47-year old Vietnamese woman with a history of latent tuberculosis treated 21 years prior was admitted for a slow growing, tender, non-erythematous right anterolateral abdominal wall mass after a brief febrile respiratory illness 6 weeks prior. She was afebrile, hemodynamically stable and exam was unremarkable aside from the mass. Hematology and chemistry were unremarkable. CT scans of the chest, abdomen and pelvis showed pulmonary nodules, right middle lobe bronchiectasis, and large pleural, abdominal wall, and right upper quadrant subperitoneal rim-enhancing collections, concerning for a tracking abscess. Two induced sputum samples were negative for acid-fast bacteria. Cultures, cytology and pathology of aspirated abdominal wall fluid were negative for anaerobes, aerobes, fungi, mycobacteria or malignancy. Percutaneous drains were placed in the abdominal wall, and IV penicillin G was initiated for empiric Actinomyces species coverage. The abdominal wall collections improved but the pleural collection remained stable. Thoracentesis 25 days after initial presentation resulted in a culture positive for Klebsiella pneumoniae. Levofloxacin was started, and the abdominal wall mass improved, but with limited follow up.
+
+# IMPACT/DISCUSSION
+
+Our patient presented with bronchiectasis and pleural effusion, which appeared to communicate with the "cold" intra-abdominal and abdominal wall abscesses. Given her history, both tuberculosis and melioidosis were considered, but testing was negative. Acintomyces spp. infection is a cause of indolent pulmonary infections that can readily cross tissue planes, and this organism can be difficult to isolate from culture. After testing was unrevealing, Actinomyces treatment was started empirically but was ineffective. K. pneumoniae was the only agent isolated from numerous cultures. It is known to cause pulmonary, blood, intra-abdominal and urinary tract infections. In Taiwan, 21% of cases of lung abscesses were found to be due to K. pneumoniae and patients presented with >30 days of symptoms in 9 of 28 cases; however, the ability to cross tissue planes is not a typical feature, absent a necrotizing infection. Our ability to assess if K. pneumoniae was the causative agent is limited due to lack of patient follow up. We would expect a response to fluoroquinolone treatment. Of note, although active pulmonary tuberculosis was ruled out and fluid and biopsy cultures were negative for mycobacteria, it is difficult to definitively rule out extrapulmonary tuberculosis.
+
+# CONCLUSION
+
+The differential for cold abscesses is broad, and may require extensive workup to confirm diagnosis. It is critical to rule out tuberculosis given the patient's immigration history, though extrapulmonary tuberculosis is difficult to exclude.
+
+# A COLD CASE OF DIGITAL ISCHEMIA
+
+Ryan Khodadadi; Muneeb Rehman; Absar Tahir; Delamo Bekele; Eric L. Matteson. Mayo Clinic, Rochester, MN. (Control ID #3171697)
+
+# LEARNING OBJECTIVE #1
+
+Recognize type 1 cryoglobulinemia as a cause of digital ischemia in addition to other more common causes of vascular insufficiency.
+
+# LEARNING OBJECTIVE #2
+
+Distinguish between the differing types of cryoglobulins, their respective associations, and unique approaches to treatment.
+
+# CASE
+
+A 59 year-old Alaskan male with a history of nicotine dependence, coronary artery disease, hypertension, hyperlipidemia and multiple amputations presented for further evaluation of recurrent digital ischemia. A year prior, he experienced progressive bluish discoloration of the lower extremities with associated pain, swelling, and eventual digital necrosis resulting in the amputation of 3 digits despite normal vascular studies. Pathology revealed pauci-inflammatory small vessel occlusion by PAS-positive homogeneous pink-purple material. Ten months after smoking cessation, he had recurrence of his symptoms with new left great toe necrosis, bilateral lower extremity ulceration, and intractable pain. Physical exam revealed amputated left 4/5th and right 5th toes, black/blue discoloration of the left great toe, and periungual infarcts most prominent in the fingers without Raynaud's phenomenon. CT imaging, echocardiogram, and repeat vascular studies were unremarkable. Autoimmune serologies were negative but further workup revealed an elevated ESR and CRP, a SPEP with an increased M-spike in the gamma globulin portion, elevated total protein with elevated kappa free light chains (2.8) and a 10% type 1 cryoglobulin component.
+
+# IMPACT/DISCUSSION
+
+Cryoglobulinemia is characterized by the precipitation of proteins including immunoglobulins and complement proteins in the blood below 37°C. Type 1 cryoglobulinemic (10-15% of cases) precipitate tends to be monoclonal in origin, related to an underlying lymphoproliferative disorder whereas a polyclonal cryoprecipitate is implicated in mixed cryoglobulinemia and classically associated with an underlying rheumatologic disorder or viral infections. Clinically, type 1 manifests with signs and symptoms of vascular insufficiency including digital ischemia, skin necrosis, and livedo reticularis. A diagnosis is established by laboratory isolation of cryoprecipitate and cryocrit measurement with treatment directed toward the underlying disorder to prevent hyperviscosity and further vascular injury.
+
+# CONCLUSION
+
+It's important for the internist to recognize common causes of vascular insufficiency as well as type 1 cryoglobulinemia which is often driven by an underlying lymphoproliferative disorder, warranting further investigation and appropriately-targeted therapy. Prognosis and complications in patients with type 1 cryoglobulinemia correlate with the underlying hematologic disorder and its treatment course. This patient's bone marrow aspirate and biopsy revealed a CD-20 negative kappa-expressing monoclonal plasma cell population. He ultimately underwent apheresis with resolution of cryoglobulinemia and treatment with prednisone followed by bortezomib for an underlying lymphoproliferative disorder (MGUS).
+
+# A COMMONLY USED ANTIBIOTIC WITH A RARE, SEVERE, CUTANEOUS ADVERSE REACTION
+
+Shahrzad Shidfar. umassmemorial, Worcester, MA. (Control ID #3186317)
+
+# LEARNING OBJECTIVE #1
+
+Recognize and distinguish clinical presentation of AGEP

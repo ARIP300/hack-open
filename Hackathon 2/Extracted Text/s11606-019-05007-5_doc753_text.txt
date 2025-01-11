@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Time to interpret through guided questions has been a success factor of the richness of conversation during discussion. The significance of the relationship between interpreting art and emotional intelligence has been documented. In the Art of Balance, individuals develop and refine their emotional intelligence. Students find the experience de-isolating, realizing they are not alone in their professional struggles. De-isolation results from conversations catalyzed by observations and reflections on art. Individual interpretations are woven together to become a shared tapestry of thoughts and feelings. This shared construction of meaning leads to empathy. Emergent expression and dialogue is a critical tool in combatting burnout. Loss of autonomy and agency are frequently cited contributors to burnout. Emergent discovery promotes autonomy and agency in a social profession such as medicine.
+
+# THE CSI (CLINICAL SCHOLARS IN INFORMATICS): A NOVEL INTERNAL MEDICINE (IM) RESIDENT-DRIVEN APPLIED INFORMATICS PATHWAY
+
+Ajay Dharod1, 1; Hal H. Atkinson2, 1; Gary Rosenthal2. 1Wake Forest School of Medicine, Winston Salem, NC; 2Wake Forest School of Medicine, Winston-Salem, NC. (Control ID #3183877)
+
+# NEEDS AND OBJECTIVES
+
+In the changing landscape of healthcare, applied informatics shapes clinical workflows and decision making. It is important to train physician leaders in applied informatics allowing for novel locally-relevant workflows targeted to improve healthcare effectiveness, efficiency, equity, and patient engagement.
+
+# SETTING AND PARTICIPANTS
+
+A single academic medical center, IM residency program. All PGY1 IM residents are eligible. Each year, two PGY1 residents are selected for the pathway to begin their PGY2 year.
+
+# DESCRIPTION
+
+The CSI is a two-year applied educational and mentorship pathway for IM residents to develop skills in applied informatics. At residency completion, CSI residents are prepared to tackle most health-system challenges with additional comprehensive understanding of informatics (CDS, workflow, change management, IT systems, EHR, database structures, SQL, regulatory issues, Security/Privacy, etc.). The pathway translates a resident derived project (addressing system pain points) into reality. The presenter will elucidate details of the CSI curriculum, timeline considerations, resources required, budgetary considerations and journal club structure in the presentation (please see online resource URL).
+
+# EVALUATION
+
+Of our inaugural class of CSI residents, both completed EHR certification, IRB protocol, workflow analysis, intervention design, baseline data analysis and intervention implementation. One CSI project has been presented at a national meeting. Projects range in scope from predictive analytics to clinical decision support to alert systems to data visualization (please see online resource URL for project details). Of our second class of CSI residents, both are in the design phase. Additionally, we received the following message excerpt from a CSI resident: "I am blown away by the enthusiasm fellowship programs have shown learning about CSI. They are excited about the skill set of a potential future fellow and are all amazed by the structure of CSI. When I applied for CSI, I had no idea the training received would be this valuable to my career, both now and long-term. Interviewers have been very impressed by the project that we have implemented. Informatics has dominated the conversation in almost all of my interviews."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+One resident plans to continue informatics-related work in the Hem-Onc and one resident plans to join general IM faculty to pursue the practice pathway clinical informatics board certification. CSI has been cited as successful by residents, mentoring faculty, and residency/departmental leadership. We continue to evaluate the impact of CSI projects and draft and disseminate CSI resident-driven innovations. CSI is overall low-cost with $20,000 in direct costs. Personnel considerations include collaboration with ITS and faculty time. CSI can be leveraged as a residency resident recruitment tool.
+
+# ONLINE RESOURCE URL (OPTIONAL)
+
+https://school.wakehealth.edu/Education-and-Training/Residencies-and-Fellowships/Internal-Medicine-Residency/Curriculum-Overview/Clinical-Scholars-in-Informatics-Pathway
+
+# THE DENVER HEALTH LONGITUDINAL INTEGRATED CLERKSHIP (DH-LIC): AN INNOVATION FOSTERING PATIENT-CENTERED ADVOCATES FOR SOCIAL JUSTICE AND HEALTH EQUITY
+
+Jennifer Adams1, 2; Vishnu Kulasekaran1; Gretchen Guiton2; Kristina Oatis2; jennifer gong2. 1Denver Health, Denver, CO; 2University of Colorado, Aurora, CO. (Control ID #3183687)
+
+# NEEDS AND OBJECTIVES
+
+The DH-LIC was established in 2014 to pilot this model at the University of Colorado School of Medicine (CUSOM) and demonstrate feasibility and comparability to rotation based clerkships (RBC). The DH-LIC aimed to increase observation and feedback, create opportunities for meaningful contribution to patient care, and maintain patient-centered values in students. The curriculum focused on social justice and health equity, reinforced by locating this program at an urban safety net hospital with a fully integrated community health system.
+
+# SETTING AND PARTICIPANTS
+
+The DH-LIC selects 10 students each year based on their commitment to underserved patients, career aspirations related to health equity, and leadership potential. Students spend one year at DH completing all core clerkships in an LIC model.
+
+# DESCRIPTION
+
+LICs share foundational elements of 1) comprehensive care of patients over time, 2) continuous learning relationships with preceptors, and 3) meeting core clinical competencies across multiple disciplines simultaneously. DH-LIC students attain all core clinical competencies expected of CUSOM students and academic achievement has met or exceeded RBC students.
+
+# EVALUATION
+
+The DH-LIC has remained the highest rated course at the CUSOM since its inception. Students rate their value as team members, experience with faculty, and ability to impact patient care especially high. Focus groups reveal themes related to the importance of longitudinal relationships with patients, mentorship and role modeling from preceptors, and sustained idealism and commitment to serving vulnerable patients. Post-graduate surveys examine career paths and durability of desire to work with the underserved. 91.3% of DH-LIC graduates report high/very high commitment to working with the underserved and 43.5% plan careers in primary care.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Focus groups have led to a deeper understanding of how the DH-LIC model and its curricular focus on social medicine influence attitudes towards caring for vulnerable patients, students' professional identity, and the career paths of student participants. Students are not selected based on an interest in primary care (PC), but choose PC fields disproportionately due to role modeling and ability to follow patients longitudinally. Students who did not choose PC careers or who describe themselves as less likely to work with the underserved described how the DH-LIC experience led them to better understand the care coordination role of primary care and recognize the importance of advocating for disadvantaged patients.

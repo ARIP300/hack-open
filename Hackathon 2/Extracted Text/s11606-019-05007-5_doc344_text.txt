@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Prophylaxis included acyclovir, fluconazole, ciprofloxacin and Augmentin.
+
+Successful PBSCT on day 7. She began having sharp, pleuritic, left-sided chest pain. CXR showed lingular infiltrate in left upper lobe. CT showed bilateral ground glass and alveolar opacities over coarse interstitial disease. Broad infectious work was negative. She was switched from fluconazole to micafungin, and antibiotics broadened. On day 13 bronchoscopy showed normal lungs. BAL negative for bacterial, viral, and fungal infection. Day 14, began requiring 1-2 L of O2. Work of breathing increased as she developed atrial fibrillation with RVR and hypotension requiring norepinephrine. Upon arrival to ICU she was sedated, intubated, and started on norepinephrine drip. Amphotericin B was started. Lingula biopsy obtained showing rhizopus. On day 25, CT surgery performed left upper lobectomy, resected pericardial fat, and pericardial window which revealed dark serous fluid. Pathology on the pericardial fat showed Rhizopus and Aspergillus, lung lobe showed Rhizopus. That night she became hypotensive, refractory to fluid, norepinephrine and vasopressin drips. Patient's family requested comfort cares only - the patient died a few hours later.
+
+# IMPACT/DISCUSSION:
+
+PBSCT patients are at high risk for infection. It is impossible to provide coverage for every possible infectious entity but being able to make quick a diagnosis can lead to early treatment and intervention. Mucormycosis is not typically the infection prioritized in prophylaxis selection. One study showed 875 patients with fungal infections: 43% with aspergillosis, 28% candidiasis, and 8% mucormycosis. The ASBMT Guidelines for Preventing Infectious Complications among PBSCT Recipients recommend prophylaxis targeted with fluconazole which has no mucor coverage. In patients at higher risks for mold infections (ie high risk for GVHD) they recommend voriconazole. Patients with voriconazole prophylaxis are actually more prone to breakthrough mucormycosis. Additionally, use of fluconazole or itraconazole therapy is associated with a fourfold increase in incidence of mucormycosis compared posaconazole. Pulmonary mucormycosis is a rapidly expanding disease that causes necrosis and can, on rare instances, invade the mediastinum and heart. Quick diagnosis can expand the window of treatment. Diagnosis requires histopathology evidence and positive cultures which often requires biopsy. Treatment involves surgical debridement and amphotericin B.
+
+# CONCLUSION:
+
+Using prophylaxis as a clue, providers can raise their index of suspicion for mucormycosis in the setting of progressive pneumonia in PBSCT patients.
+
+# A HEMATOLOGIC EMERGENCY MASQUERADING AS AN NSTEMI
+
+Andrew B. Dicks; Bess Flashner; Jonathan D. Goldman. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3177560)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize an abnormal presentation of thrombotic thrombocytopenic purpura (TTP)
+
+# CASE:
+
+A 48 year old female with history of scleroderma and vitiligo presented with chest pain. The pain was sudden onset, sharp, and radiated to her back. There was no positional or pleuritic component, and no inciting event. Presenting vital signs and physical exam were unremarkable. ECG showed T-wave inversions in leads II and V1. Troponin-T and CK-MB trended upward, peaking at 0.28 ng/mL and 16 ng/mL, concerning for NSTEMI. CTA chest demonstrated no evidence of pulmonary embolism or aortic dissection. Coronary angiography demonstrated no CAD. She was subsequently admitted to the medicine service for evaluation of her chest pain. Presenting labs were also notable for Hgb 9.5 g/ dL and platelet count 87 K/uL, down from 12.0 g/dL and 264 K/uL nine months prior. Additional work up demonstrated absolute reticulocyte count 0.18 m/uL, haptoglobin <10 mg/dL, LDH 516 IU/L, and a peripheral blood smear with 2+ schistocytes, consistent with microangiopathic hemolytic anemia. Given concern for TTP, ADAMTS13 activity level was sent. While awaiting the result, she was risk stratified for TTP using the PLASMIC score (defined by 7 variables including platelet count <30 K/uL, MCV <90 fL, INR <1.5, creatinine <2.0 mg/dL evidence of hemolysis, lack of active cancer, and lack of organ or stem cell transplant). She scored 6 out of 7, indicating high likelihood of TTP and was urgently started on plasma exchange and prednisone, with eventual addition of rituximab. Her laboratory parameters and chest pain improved with treatment, and she was discharged home with hematology follow up. ADAMTS13 activity returned at <5%, confirming the diagnosis of TTP. Her presentation of NSTEMI was felt to be the first clinical manifestation of her TTP.
+
+# IMPACT/DISCUSSION:
+
+TTP causes extensive microscopic thrombi of small blood vessels which can lead to dysfunction of nearly any organ system, including the cardiovascular system. Microvascular occlusions of the heart can result in MI, arrhythmias, heart failure, or cardiogenic shock. Cardiac dysfunction is a rare initial presentation of TTP as other sequelae are usually present, making this case an atypical and unique presentation of TTP. TTP has a high mortality rate and treatment should not be delayed if suspicion of TTP is high. ADAMTS13 activity may take several days to result, and the PLASMIC score can therefore be used to predict the likelihood of ADAMTS13 activity and guide initiation of therapy while awaiting definitive diagnosis (1). 1. Bendapudi PK, et al. Derivation and external validation of the PLASMIC score for rapid assessment of adults with thrombotic microangiopathies: a cohort study. The Lancet Haematology. 2017;4(4):e157-e164.
+
+# CONCLUSION:
+
+Patients with TTP can present with end organ damage of nearly any organ system, including the cardiovascular system. Treatment of TTP should not be delayed while awaiting definitive testing if probability of TTP is high based on PLASMIC score.
+
+# A HOLE IN OUR LOGIC: USING BAYESIAN PROBABILITIES TO OVERCOME ANCHORING BIAS
+
+Rachel P. Shah1; Meredith H. Lora2. 1Emory University School of Medicine, Atlanta, GA; 2Emory, Atlanta, GA. (Control ID #3185695)
+
+# LEARNING OBJECTIVE #1:
+
+Review anchoring bias and its effect on diagnostic error
+
+# LEARNING OBJECTIVE #2:
+
+Apply Bayesian analysis to overcome anchoring bias
+
+# CASE:
+
+A 50-year-old homeless man with a recent incarceration presented to a hospital with hemoptysis. He reported two months of productive cough, pleuritic chest pain, and B symptoms. Physical exam showed temperature 39.2 degrees C, pulse 115, oxygen saturation 96% on room air, and normal lung exam. Labs showed white blood cell count 19,000 (86% neutrophils) and negative HIV test. Chest CT revealed an 8cm RUL cavitary lesion with surrounding consolidation and no associated lymphadenopathy. The differential diagnosis included tuberculosis (TB), necrotizing bacterial pneumonia, invasive fungal infection, and malignancy. Empiric community acquired pneumonia treatment was started. Respiratory culture grew two strains of Pseudomonas aeruginosa, interpreted by the team as superimposed pseudomonas infection on a cavitary lesion. Ciprofloxacin was added. Tuberculosis workup included three negative sputum acid fast bacilli (AFB) smears, negative sputum TB PCR, and weakly positive QuantiFERON-TB Gold. Due to suspicion for smear-negative TB, the patient was started on empiric RIPE therapy. He developed drug-induced liver injury and symptoms worsened. Bronchoscopy yielded negative AFB smear and TB PCR. BAL culture grew levofloxacin-resistant Pseudomonas. Repeat CT chest showed enlargement of the cavitation to 13cm. Patient was treated with cefepime for six weeks and underwent RUL lobectomy. Pathology showed organizing pneumonia without evidence of TB.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the risk of anchoring bias in patients with classic presentations of disease. While there is a broad differential for cavitary lung lesions, this patient had a presentation typical.

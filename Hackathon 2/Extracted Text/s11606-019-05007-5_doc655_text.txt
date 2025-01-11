@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# 1) Organizational capacity to cure hepatitis C will be expanded through training of four new HCV treaters, primary care providers who prescribe direct acting antivirals (DAAs)
+
+# 2) Treatment outcomes of homeless participants on DAAs will be similar to those observed in traditional cohort studies
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+An estimated quarter of Los Angeles's Skid Row population is HCV+, though many are unaware of their diagnosis or how to access treatment. Project HEAL addressed this inequity through routine HCV screening at two sites directly serving Skid Row—an FQHC and a clinic co-located in a shelter. Project HEAL employed a care coordination model to accomplish its primary objective of enhancing linkage to care. A dedicated care coordinator received alerts of all HCV+ antibody cases in real-time via EMR integration with an internal database. This allowed the care coordinator to track and engage HCV+ patients via phone and in-person at their visits. The care coordinator served as an advocate by appealing health plan denials, pursuing treatment for the uninsured, and ensuring timeliness of medication delivery.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Project HEAL measured its progress by the number of HCV tests conducted, unique HCV+ patients identified through testing, and the proportion who were linked to care. Project HEAL monitored each participant's progress in the HCV care cascade, notably those who commenced treatment, completed therapy, and achieved sustained virologic response at 12-weeks post-treatment (SVR-12).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From 10/2016 to 11/2018, 6,760 HCV antibody tests were performed and a total of 408 HCV+ patients were confirmed. The proportion of linked participants increased 13% from 76% (187/246) in year one to 86% (140/162) in year two. From 3/2017 to 7/2018, 28 HCV+ participants had commenced treatment with DAAs, 79% of which experienced homelessness (22/28). At time of analysis, the treatment completion rate of participants experiencing homelessness was 95% (21/22), 86% had obtained SVR-12 (18/21) with three participants lost to follow-up.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+- Co-location of screening and linkage to care in nontraditional settings, such as homeless shelters, is essential to confront inequities in HCV screening and treatment.
+- EMR integration and real-time alert of HCV+ cases enhances prompt outreach and successful linkage to care.
+- Care coordination facilitates progress through the HCV care cascade by building trust and rapport with participants.
+- A primary care program with an established HCV Champion can mobilize organizational capacity to treat HCV.
+
+# ONLINE ASSESSMENTS OF MEDICATION ADHERENCE AND RISKS FOR INADEQUATE ADHERENCE TO CRITICAL MEDICATIONS IN AMBULATORY POPULATIONS
+
+Marina Arvanitis1; Amy Moore1; Scott Hur1; Laura M. Curtis1; Daniela Ladner 2; Michael S. Wolf 1. 1Northwestern University, Chicago, IL; 2Northwestern University, Chicago, IL. (Control ID #3186400)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Among patients receiving critical medication regimens, such as transplant recipients, there is a high rate of inadequate medication adherence, yet few strategies exist for assessing and addressing risk for inadequate adherence.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Leverage existing clinic technology and resources to routinely assess patients' adherence to critical medication regimens, and risk factors of inadequate adherence.
+2. Create clinic workflows to utilize survey data and intervene in real-time, in order to prevent complications related to inadequate adherence.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In two academic transplant clinics, we have implemented a medication adherence monitoring strategy - TAKE IT- which includes 1) routine, online self-reported assessments of patient adherence to medications and suspected psychological and social comorbidities that affect medication adherence; 2) direct alert notifications of the results via the electronic health record to transplant nurses; 3) quarterly adherence reports to monitor immunosuppression drug levels and summarize adherence trends; 4) deployment of adherence support tools tailored to specific adherence concerns. The online, self-reported 21-item assessment is comprised of novel questions specific to transplant patients, and the following: the Basel Assessment of Adherence - Immunosuppression Scale (BAASIS), the 2-item Patient Health Questionnaire (PHQ-2), the 4-item Consumer Health Activation Index (CHAI), the Woloshin et al. scale of Perceived Adequacy of Tangible Social Support, and the cost-item of the ASK-12 Adherence Barrier Survey. This assessment is completed completely online via a secure patient portal, and takes under 5 minutes to complete.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Completion of the online, self-report assessment.
+2. Identification of risk for inadequate adherence.
+3. Response by clinic staff to assessment results.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Among 61 patients randomized to receive the TAKE IT intervention, 75% completed the initial online self-report adherence assessment. Over the first three months, 74% of participants completed at least two assessments. In all, 51% were considered at risk of inadequate adherence. Among all identified adherence concerns, 31% were classified as cognitive (e.g. forgetfulness), 25% psychological (e.g. depression), 17% medical, 4% regimen-related (e.g. side effects), 15% social, and 8% economic. In nearly all patients with reported concerns, transplant center staff responded and resolved the issue.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Assessments of medication adherence and potential root causes of inadequate adherence, including psychological and social comorbidities, can be addressed via brief, routine online survey via a patient portal. Such regular assessments have the potential to identify problems or potential problems with adherence between clinic visits, and before adverse health outcomes develop. Future work will focus on deploying adherence support tools tailored to specific adherence barriers, and determining how to integrate these tools into existing clinic workflows without burdening clinical staff.
+
+# OUTCOMES OF A MOBILE-BASED BEHAVIORAL ECONOMIC INTERVENTION TO IMPROVE ADHERENCE AMONG HIGH-NEED, HIGH-COST PATIENTS
+
+Maria Duenas1; Sire Sow2; Yixuan Ma4; Mike Fuccillo4; Ania Wajnberg3. 1Mount Sinai Hospital, New York, NY; 2Mount Sinai, New York, NY; 3Icahn School of Medicine at Mount Sinai, New York, NY; 4Wellth, New York, NY. (Control ID #3185826)

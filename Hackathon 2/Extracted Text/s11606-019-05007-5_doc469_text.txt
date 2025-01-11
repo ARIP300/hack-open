@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# Ischemic Colitis Presenting as a Large Colonic Mass
+
+Confirmation of the diagnosis, but final pathology revealed no evidence of malignancy. Ultimately, the patient continued to have severe right lower quadrant abdominal pain and underwent robotic ileocolic resection. Surgical pathology confirmed ischemic colitis.
+
+# IMPACT/DISCUSSION:
+
+This case represents a unique presentation of ischemic colitis presenting as a large colonic mass. Colonic ischemia may have a variable presentation ranging from mild to severe lower abdominal pain with or without hematochezia. Risk factors include elderly age, recent cardiovascular procedure, myocardial infarction, hemodialysis, hypercoagulable state, and medications. High suspicion and prompt diagnosis with appropriate imaging is crucial. Evaluation with colonoscopy can be a vital tool in confirming the diagnosis and determining ultimate therapy.
+
+# CONCLUSION:
+
+Ischemic colitis is the result of decrease blood flow to the colon that can be acute or chronic in onset and can have a nonspecific presentation. Providers should have high suspicion for the diagnosis when patients present with increased risk factors.
+
+# IT'S NOT JUST A TEST QUESTION: VIBRIO VULNIFICUS NECROTIZING MYOFASCIITES
+
+Debapria Das; Andrea Ramirez Gomez; Rachna Rawal. Saint Louis University, St. Louis, MO. (Control ID #3185996)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of primary bacteremia due to Vibrio vulnificus.
+
+# CASE:
+
+A 51-year old male with a past medical history of cirrhosis due to sarcoidosis, was admitted with worsening left lower extremity pain and swelling for two days. He remembered a pop in his left leg two days ago followed by severe left lower extremity pain the morning after. Additionally, he was unable to bear weight. On arrival, he was hemodynamically unstable requiring pressor support and broad spectrum antibiotics. His physical exam was notable for an obese male with swelling, tenderness to palpation, and crepitus in the left lower extremity. His abdomen was distended and he was not altered. His labs were remarkable for a leukocytosis of 35.7, lactic acidosis 8.48, and Cr 1.98 (baseline 1). A CT of his left lower extremity revealed nonspecific soft tissue edema without subcutaneous emphysema or fluid collection. Blood cultures were positive for Vibrio vulnificus. The patient had consumed oysters for dinner 10 days ago. He was started on piperacillin and doxycycline but continued to clinically decline. He required multiple debridements and ultimately due to severe myonecrosis needed an above-knee-amputation. He clinically improved after the amputation and his antibiotics were narrowed to minocycline and doxycycline. His hospital course was complicated by kidney failure due to acute tubular necrosis. He did not have complete renal recovery by time of discharge and required dialysis.
+
+# IMPACT/DISCUSSION:
+
+This case is an example of the presentation of primary V. vulnificus bacteremia complicated by necrotizing myofasciites associated with the consumption of oysters in cirrhotic patients. Over 90% of patients with primary septicemia report a recent history of consuming raw oysters, which have increased concentrations of V. vulnificus, especially in warm temperatures or with drops in salinity. When compared to other foodborne illnesses in the United States, V. vulnificus has the highest fatality at 51.6% of cases. 86% of diagnosed cases are male. Interestingly, 75% of infected patients present with bulbous lesions, which this patient did not have. However, V. vulnificus acutely leads to shock in one-third of patients with primary septicemia with mortality up to 90%, requiring urgent diagnosis. Patient with MELD scores greater than 20 are associated with higher mortality compared to other cirrhotic patients. Although yearly reported cases are around 100, the CDC reports a 78% increase in incidence since 1992, which may be due to an increasing vulnerable population and climate change.
+
+# CONCLUSION:
+
+Cirrhotic patients are well-known to suffer from unique medical complications. Additionally, one that is readily well-known but may not be as recognized due to a low prevalence is a severe infection from Vibrio vulnificus. We need to be cognizant of exposure in this population as prompt diagnosis could potentially be life-saving. Early diagnosis is crucial due to high risk of amputations and multiorgan failure.
+
+# ITS ALL ON YOUR HEAD
+
+Alan J. Spanel; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186139)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of source control in MRSA blood stream infections
+
+# LEARNING OBJECTIVE #2:
+
+Review the treatment options when MRSA bacteremia fails to clear
+
+# CASE:
+
+A 38-year-old woman presented with a 3-day history of fevers and severe retro-orbital pain with diplopia. She was febrile to 104, had left eye proptosis, severe periorbital edema, and inability to abduct the left eye. Multiple dry, non-purulent frontal scalp lesions without associated fluctuance were noted. The patient's medical history was significant for Sjogren's syndrome and autoimmune sensory ganglionopathy on chronic immunosuppression. She had recently received a scalp steroid injection for alopecia. Orbital MRI revealed bilateral cavernous sinus thrombosis. Her initial blood cultures were positive for MRSA and she was initiated on IV vancomycin. She became hemodynamically unstable despite sensitivity of her infection to vancomycin. Her antibiotic therapy was transitioned to IV daptomycin, again without clinical improvement and persistent bacteremia. She then became tachypneic with increased oxygen requirement and was found to have bilateral septic pulmonary emboli and pleural effusions. Linezolid was added. She then experienced worsening of her cranial nerve palsy and right arm weakness. A repeat orbital MRI demonstrated multiple acute infarcts of the cerebral hemispheres and internal capsule consistent with septic embolic stroke. Her treatment was broadened to three anti-staphylococcal drugs: IV daptomycin and ceftaroline with high dose oral Bactrim DS. Her bacteremia and daily fevers persisted. A PET CT scan was performed, demonstrating multiple scalp abscesses that were subsequently drained, leading to her bacteremia finally clearing. She was continued on a prolonged course of IV daptomycin and ceftaroline.
+
+# IMPACT/DISCUSSION:
+
+MRSA bloodstream infections often may take days or even weeks to resolve. In the setting of persistently positive blood cultures, antimicrobials are often adjusted based on susceptibility data to better target therapy. In this case, even multiple anti-staphylococcal agents were utilized. There are limited randomized controlled trial data regarding treatment of persistent MRSA bacteremia. Multiple case series and reports support the use of various regimens. A preferred regimen has not yet been identified. Regardless of the agents selected, the importance of source control cannot be overstated. This patient's blood cultures finally cleared only when her benign-appearing scalp lesions were drained surgically. A meticulous search for a persistent focus of infection can sometimes be the only solution.
+
+# CONCLUSION:
+
+MRSA infection is commonly seen by the general internist and its complications are numerous. Severe MRSA infections unresponsive to initial antimicrobial therapy carry a significant morbidity and mortality and treatment plans can be difficult to formulate.
+
+# JAK2 V617F MUTATION: UNUSUAL CAUSE OF ACUTE PORTAL VEIN THROMBOSIS.
+
+Hasan Mahbub; Nikita Fernandes; Yelena Averbukh. Montefiore Medical Center, Bronx, NY. (Control ID #3186253)
+
+# LEARNING OBJECTIVE #1:
+
+Learn manifestations and management of Portal Vein Thrombosis (PVT)
+
+# LEARNING OBJECTIVE #2:
+
+Identify risk factors associated with PVT.
+
+# CASE:
+
+A 29-year-old man admitted for abdominal pain for 7 days, severe generalized pain radiating to the back associated with vomiting and constipation alternating with diarrhea. Past medical history significant

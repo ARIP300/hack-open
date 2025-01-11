@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+# Washington Hospital Center, Washington, DC. (Control ID #3185847)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation of pheochromocytoma in elderly population
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that guidelines for surgical interventions are not clear for elderly population
+
+# CASE:
+
+A 96 year female with a past medical history of coronary artery disease status post percutaneous coronary intervention, heart failure with reduced ejection fraction, hypertension, and hypothyroidism was admitted for acute hypotension and bradycardia. Vital signs on admission were blood pressure 79/42 mm Hg, heart rate 56 beats per minute, temperature 36.4 C. She was confused and drowsy on admission. Initial laboratory work up was notable for hemoglobin 8.9 mg/dl, creatinine 5.07mg/dl, elevated thyroid stimulating hormone 57.4 uIU/ml, low free thyroxine 0.35 ng/dl. EKG showed sinus bradycardia without any other acute changes. Chest X-ray did not show any acute cardio-pulmonary process. Urine and blood cultures remained with no growth. Vital signs improved with adequate fluid resuscitation. However, over the next few hours, she developed an episode of hypoglycemia (serum glucose - 41mg/dl) and hypothermia (34.2C) that resolved with administration of intravenous (IV) dextrose and brief trial on bair-hugger. Concerning for severe hypothyroidism with impending myxedema coma, she was treated with stress dose IV hydrocortisone and IV levothyroxine. Adrenal insufficiency was ruled out by elevated random serum cortisol of 41.1mcg/dl. Hospital course was complicated by labile blood pressures, systolic blood pressure ranging from 90s-270s and diastolic blood pressure ranging from 40s-130s. Review of her past medical records revealed 4 x 4 cm heterogeneous mass arising from left adrenal gland that was incidentally found on a CT scan of abdomen/pelvis in 2016 for hospitalization for nausea and vomiting. Lab work up now revealed elevated plasma metanephrines 6.12 nmol/L, elevated plasma normetanephrines 12.81 nmol/L, elevated 24 hour-urine fractionated metanephrines 3118 mcg/day, elevated 24 hour-urine normetanephrines 3291 mcg/day confirming the biochemical diagnosis for pheochromocytoma. She was discharged home on low dose alpha blocker (doxazosin) for blood pressure control. Later, patient and her family refused any surgical intervention given her age and other co-morbidities but agreed for optimal medical therapy.
+
+# IMPACT/DISCUSSION:
+
+Guidelines for surgical management in the elderly are not clear. An open discussion about surgical risks/benefits and its impact on overall quality of life is warranted. Medical therapy with regular follow up remains a reasonable choice in such patients. Our patient of 96 years at the time of diagnosis may be the oldest living individual reported with pheochromocytoma to the best of our knowledge.
+
+# CONCLUSION:
+
+A high index of clinical suspicion is needed to work up pheochromocytoma in elderly given its highly variable clinical presentation. Biochemical confirmation should be followed by radiological evaluation for the diagnosis. Medical therapy alone might be a reasonable choice in high-risk elderly patients.
+
+# RARE SUBTYPE AUTOIMMUNE ENCEPHALITIS WITH REFRACTORY NON-CONVULSIVE STATUS EPILEPTICUS: DIAGNOSTIC CHALLENGE
+
+# Yasir Loai; Riffat Sabir. Baystate Medical Center, Springfield, MA. (Control ID #3181725)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize atypical presentation of autoimmune encephalitis in patients with refractory seizures
+
+# LEARNING OBJECTIVE #2:
+
+Treat suspected autoimmune encephalitis empirically and monitor for interval change
+
+# CASE:
+
+33-year-old female with past medical history of depression, anxiety, prior alcohol and cocaine abuse, and newly diagnosed epilepsy admitted for evaluation of recurrent witnessed tonic-clonic seizures despite full adherence to antiepileptic drugs (AED). Routine labs were remarkable for significantly elevated lactate, negative urine toxicology screen, and therapeutic AED level. Computed tomography of head (CT) and magnetic resonance imaging of brain (MRI) showed no abnormal intracranial pathology. Cerebrospinal fluid (CSF) revealed normal glucose and protein levels without presence of cells or oligoclonal bands, with negative viral panel and cultures. Patient course further deteriorated by new onset psychosis, echolalia, blank stares, automatic obedience, catatonia, posturing and purposeless activity. Psychiatry was consulted for evaluation of depressive catatonia, however patient failed to respond to IV lorazepam challenge. Immediate 72-hour Video EEG recorded disorganized slowing with frequent 2 Hz spike and wave discharges consistent with diffuse epileptiform encephalopathy. With progressive decline in mentation, refractory seizure activity, and failure to respond to AED cocktail, patient was commenced on empiric therapy with high dose IV methylprednisolone and immunoglobulin (IVIG) for presumed autoimmune encephalitis. Within 24 hours patient showed remarkable response with near full resolution of neurological symptoms. Extensive autoimmune and paraneoplastic workup a week later demonstrated elevated P/Q Voltage gated calcium channel (VGCC) type antibodies, thus establishing diagnosis of autoimmune encephalitis.
+
+# IMPACT/DISCUSSION:
+
+Autoimmune encephalitis (AE) is an antibody mediated inflammation of the brain primarily involving limbic system. AE can be broadly classified into paraneoplastic and non-neoplastic with P/Q type VGCC encephalitis being a rare subtype of AE. Clinical presentation can be variable as patients may present with neuropsychiatric or neurological symptoms including seizures, cognitive impairment and autonomic dysfunction. There appears to be no single diagnostic measure that can make this diagnosis in isolation, as small subset of patients will not have any neuroimaging findings despite profound neuropsychiatric symptoms. Therefore, internists need to have high clinical index of suspicion especially in patients not responding to conventional therapy and consider early empiric initiation of corticosteroids and IVIG until disease confirmation by serological testing.
+
+# CONCLUSION:
+
+Consider diagnosis of AE in patients with neuropsychiatric presentation not improving with AED. Initiating empiric treatment with IV steroids and IVIG is warranted for management of presumed autoimmune encephalitis if high clinical index of suspicion.
+
+# RASH AND LIVER DISEASE IN A PATIENT WITH ROUX-EN-Y GASTRIC BYPASS
+
+# Julie C. Sung1; Genevieve Tuveson1; Leona Kim-Schluger2; Mayce Mansour1. 1The Mount Sinai Hospital, New York, NY; 2Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3184726)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of nutritional deficiencies in patients who have received bariatric surgery
+
+# LEARNING OBJECTIVE #2:
+
+Understand patient characteristics and clinical manifestations of zinc deficiency
+
+# CASE:
+
+A 35-year-old female with history of Roux-en-Y gastric bypass (RYGB) in 2015, alcohol use disorder in remission, and recurrent gallstone/alcoholic pancreatitis presented with abdominal pain and rash. Patient had normal vitals on presentation. Physical exam remarkable for jaundice and diffuse abdominal pain, but most notable for a palpable, painful purpuric rash over abdomen, lower back, and upper and lower extremities. Noted to have desquamation over dorsum of feet, sparing the palms and soles. Labs notable for AST/ALT 54/26 with Tbili/Dbili 4.4/3.4 with alkaline phosphatase 103. Given elevated liver function tests and rash, patient underwent infectious and

@@ -1,0 +1,67 @@
+# ABSTRACTS
+
+# HIV-ASSIST: A TOOL FOR ARV SELECTION
+
+Massachusetts General Hospital, and UCSF was conducted to evaluate concordance of HIV-ASSIST with expert prescribing practices.
+
+# DESCRIPTION:
+
+An initial literature review identified 11 key attributes pertinent to ARV selection, including viral load, mutations, tropism, HLA-B5701 status, CD4 count, comorbidities, comedications, treatment history, and factors related to adherence. The HIV-ASSIST online interface allows user input of these attributes, across which the algorithm measures and ranks all potential ARV regimens, which are presented to users, along with dosing guidelines, drug interactions, clinical trial data, and an explanation of all decision-making steps to provide tailored educational support while simultaneously improving clinical care.
+
+# EVALUATION:
+
+Ten patient case scenarios of varying degrees of complexity were distributed to 15 HIV clinicians across multiple institutions, who were asked to recommend a specific ARV regimen for each case. Among 4 cases of ARV-naïve patients with and without comedications and comorbidities there was 100% concordance between provider free responses and the top 5 HIV-ASSIST ranked outputs when guideline-contradictory responses were excluded; among 3 cases of virally-suppressed ARV-experienced patients there was 93% concordance; and among 3 cases of viremic ARV-experienced patients there was 84% concordance. Concordance was under 93% for only two cases, and for each the 15 providers suggested 9 discrete ARV regimens—demonstrating heterogeneity in clinical practice.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+HIV-ASSIST demonstrated a high degree of concordance with ARV selection by experienced HIV providers. Despite substantial variation in provider prescribing practices for ARV-experienced patients, the results suggest that HIV-ASSIST is a robust resource to aid clinical decision-making and educational support in primary care settings.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+www.hivassist.com
+
+Username: SGIM Password: SGIM
+
+# QUALITATIVE ASSESSMENT OF PRIMARY CARE EDUCATION IN AN INTERPROFESSIONAL TEAM: THEMES FROM THE IMPROVING PATIENT ACCESS, CARE, AND COST THROUGH TRAINING (IMPACCT) EXPERIENCE
+
+Don-Andre Jackson1; Lyndonna M. Marrast2; Alice Fornari1. 1Northwell Health, Great Neck, NY; 2Zucker School of Medicine at Hofstra/Northwell, Kew Gardens, NY. (Control ID #3178273)
+
+# NEEDS AND OBJECTIVES:
+
+This IP clinical training program requires integration of skills contributed by learners from across various disciplines: psychology, medicine, pharmacy and physicians assistant (PA). Now in the third year since its inception, we sought to identify the elements of this IP team that make the huddle and precepting experience effective. We anticipate this data will help design faculty development training material to improve IP participation of learners and faculty.
+
+# SETTING AND PARTICIPANTS:
+
+This is a qualitative study employing semi-structured interviews with 14 IP healthcare team members (4 pharmacists, 9 medicine attendings, 1 psychologist) to elicit experiences of conducting huddles, precepting in an interprofessional team, and educating learners of various disciplines in this model of care. Themes were identified using an iterative content analysis approach of the interviews, post transcription.
+
+# DESCRIPTION:
+
+Northwell Health has a federally funded grant from HRSA to develop and implement a longitudinal clinical program entitled Improving Patient Access, Care, and Cost through Training (IMPACcT). The goal is to provide interprofessional (IP) trainees with a mentored primary care experience integrating education and clinical skills focused on patient-centered care, quality improvement and population health in an IP team-based clinical setting. Teams interact via patient interactions, precepting and huddles. Huddles are prepared pre-visit discussions to assess the unique needs of every patient prior to each clinical session.
+
+# EVALUATION:
+
+As our population ages and medical comorbidities become more complex, there is an increasing need for IP collaborative approach to patient centered care. This analysis has demonstrated several important themes: (1) Huddles as effective tools organize patient care in an IP setting, (2) Precepting in this model of care increases interprofessional communication and camaraderie. Further interviews from all IP team members are needed to develop these initial themes into faculty development content. We plan to use this as part of our continuous quality improvement effort for IMPACcT clinic.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Eight interviews were conducted with the IP attendings who precept the IP trainees. Participants described huddles as being resident driven, prone to tangents, more effective with defined leadership. Most important is that successful huddle leaders can be team members other than physicians. Additionally, participation of pharmacy and PA learners improved when they were assigned specific tasks. Study participants reported that this model of care had unique challenges and rewards when precepting. Common themes about the precepting experience were (1) increased need to balance work flow and efficiency while educating multiple learners, (2) deeper connections with other professionals, and (3) increased reliance on other IP clinicians on the team.
+
+# RED EYE ROUNDS: KNOWLEDGE IN THE CLOAK OF DARKNESS
+
+Kimberly Indovina1, 2; Chi Zheng1, 2; Noelle Northcutt1, 2; Anna M. Munoa1, 2. 1Denver Health, Denver, CO; 2University of Colorado School of Medicine, Denver, CO. (Control ID #3185975)
+
+# NEEDS AND OBJECTIVES:
+
+At our hospital, there has historically been little interaction between residents and hospitalists during the night shift. Residents reported inadequate communication with hospitalists overnight about patient flow and triage, and identified lack of faculty-led overnight education as a programmatic weakness. In designing Red Eye Rounds (RER), our goals were 1) to increase nighttime communication between residents and hospitalists, and 2) to add structured teaching to nighttime workflow using a high-yield, sustainable curriculum.
+
+# SETTING AND PARTICIPANTS:
+
+Hospitalists and internal medicine residents working night shifts at an urban academic safety-net hospital.
+
+# DESCRIPTION:
+
+RER is a meeting of night shift hospitalists and residents that occurs every night at midnight and lasts about 15 minutes. It provides a structured framework to troubleshoot patient care or flow issues and to discuss a clinical pearl. To help our faculty facilitate RER with minimal preparation, we created a curriculum of teaching resources consisting of: 1) high-yield board review questions using MKSAP and other resources, 2) brief summaries of key practice-changing articles, and 3) a guide to clinical reasoning for common cross-cover calls. We spent 6 months developing RER prior to its launch. We first surveyed residents to understand their preferences for nighttime teaching, then developed the RER curriculum, then piloted RER and made small changes based on initial feedback. We officially integrated RER into overnight workflow in fall 2017.
+
+# EVALUATION:
+
+To evaluate the impact of RER, we gather monthly attendance data and participant feedback. Tracking attendance has increased accountability and promoted RER as standard practice. While in the first

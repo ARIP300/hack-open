@@ -1,0 +1,54 @@
+# ABSTRACTS JGIM
+
+# McKee and Nolte
+
+A generalized linear model was developed for age-adjusted health care amenable mortality in both states, adjusting for demographics including median income, gender, marital status, race, unemployment rate, and other socioeconomic factors. The average age-adjusted mortality rate for the pre-intervention period (2010-2013) was also used as a covariate in the model to ensure that the comparisons were balanced beginning with the intervention period.
+
+# RESULTS
+
+All demographic characteristics significantly varied between the two states (p&lt;0.05). Between 2010-2016, age-adjusted health care amenable mortality increased by 6.25% in Kentucky, while North Carolina saw a modest decrease of 0.7% during the same time period. Crude age-adjusted mortality rate in the post-reform period in Kentucky was 184.9 per 100,000 as compared to 176.2 in the pre-reform period. Crude age-adjusted mortality in North Carolina was 148.1 per 100,000 in the post-reform period and 147.6 in the pre-reform period. In the generalized linear model, both states showed increasing age-adjusted mortality rates with time, but Kentucky had a sharper increase (188.92 to 204.13, p-value &lt;0.0001) in comparison to North Carolina (178.61 to 181.84, p-value&lt;0.0001) during the post-reform period.
+
+# CONCLUSIONS
+
+This analysis suggests that the ACA Medicaid expansions either had no effect or resulted in increased mortality in the state of Kentucky. Given that age-adjusted health care amenable mortality has been steadily increasing in Kentucky since 2010, it is possible that increased insurance coverage has not provided the long-term medical management necessary to amend outcomes. We plan to conduct additional studies to better characterize the relationship between Medicaid expansion and mortality in the United States.
+
+# EFFECTS OF PATIENT-CENTERED MEDICAL HOMES TEAMWORK ON PRIMARY CARE STAFF SATISFACTION WITH CARING FOR HIGH-RISK PATIENTS
+
+Alexis K. Huynh1; Donna M. Zulman2; Susan E. Stockdale3; Alissa Simon1; Lisa S. Meredith5; Gulrez Azhar5; Evelyn T. Chang4. 1Veterans Affairs, Los Angeles, CA; 2 Stanford University and VA Palo Alto, Stanford, CA; 3Greater Los Angeles VA Healthcare System, Sepulveda, CA; 4VA- Greater Los Angeles, Los Angeles, CA; 5RAND Corporation, Santa Monica, CA. (Control ID #3184137)
+
+Improved satisfaction with help received to care for high-risk patients. Staff with greater perceived workload for high-risk patients had significantly decreased satisfaction with help (OR=0.80; p=0.03). PCMH cohesion (OR=4.64; p&lt;0.01) and perceived care coordination with IPC team (OR = 1.15; p=0.03) were also significantly associated with improved overall job satisfaction.
+
+# CONCLUSIONS
+
+Improving PCMH team functioning may be more important than staffing levels in improving staff satisfaction. Care coordination with IPC team that is prompt, frequent, and contains helpful communication may improve PCMH staff satisfaction. Findings suggest that interventions should focus their efforts on improving PCMH teamwork and functioning.
+
+|PCMH Neighbors|'Mental/behavioral health'|Medical subspecialists|Ease of coordination|
+|---|---|---|---|
+|PCMH Social workers and pharmacists|'Intensive primary care (IPC) teams specializing in high-risk, homeless; HIV and geriatric patients'|Availability and perceived care coordination with IPC team; value of PCMH team members| |
+|PCMH Teamlets|Clinician|'Nurses'|'Clerk'|
+
+# EFFECTS OF SODIUM-GLUCOSE COTRANSPORTER-2 INHIBITORS VS. PLACEBO AND OTHER ANTIHYPERGLYCEMIC AGENTS IN PATIENTS WITH TYPE 2 DIABETES: A META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS
+
+Jason T. Alexander 1; Erin M. Staab 1; Wen Wan 1; Melissa Franco 1; Alexandra Knitter 1; Enkhe-Tuyaa Montgomery 1; Celeste Thomas 1; Valerie G. Press; Meltem Zeytinoglu1; Elizabeth L. Tung1; Kathryn E.1 Gunter 1; Sanjay Jumani 1; Brittany Bindon 1; Shari Bolen 2; Nisa Maruthur; Elbert S. Huang1; Louis Philipson1; Neda Laiteerapong1.3 1University of Chicago, Chicago, IL; 2MetroHealth/Case Western Reserve University, Cleveland, OH; 3Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3185893)
+
+# BACKGROUND
+
+Caring for complex patients at high-risk for hospitalization may be stressful for patient-centered medical homes (PCMH) care teams. Augmenting or replacing PCMH with intensive primary care (IPC) teams may improve care for high-risk patients. IPC teams specialize in caring for vulnerable populations such as HIV, homeless, intensively managed patients, and women. Little is known about the extent to which IPC teams support PCMH staff and improve satisfaction. We examine the impact of IPC teams on PCMH staff perception satisfaction with help received to care for high-risk patients and overall job satisfaction within the context of the PCMH.
+
+# METHODS
+
+Data consisted of a cross-sectional survey of primary care providers and nurses (N = 291) at five Veterans Health Administration (VHA) PCMHs in 2016. Outcome measures: satisfaction with help received to care for high-risk patients and overall job satisfaction. Predictors: cohesion among core PCMH teamlet members, availability and perceived care coordination with IPC team and value of PCMH team members, and ease of coordination with PCMH neighbors (e.g., medical and mental health specialists). Covariates: staff exposure to high-risk patients, and staff characteristics (age, gender, provider type and primary care setting), and PCMH team staffing status. We performed bivariate and multiple logistic regressions, weighted for nonresponse.
+
+# RESULTS
+
+In fully adjusted models, team cohesion among core PCMH teamlet members (OR=1.79; p=0.01), perceived care coordination with IPC team (OR=1.29; p&lt;0.01), ease of coordination with medical subspecialists (OR=4.05; p=0.01), and spending >20 hours per week providing face-to-face care (OR=2.64; p=0.01) were significantly associated with satisfaction.
+
+# BACKGROUND
+
+Recent evidence from large randomized trials suggests that a new class of medication, the sodium-glucose cotransporter-2 inhibitors (SGLT2Is), may reduce mortality in addition to lowering hemoglobin A1c in patients with type 2 diabetes (T2D). Even with this evidence, treatment algorithms continue to list metformin monotherapy as first-line. Understanding the magnitude of benefits of SGLT2Is compared to placebo and other antihyperglycemic agents may lead to significant changes in clinical algorithms. We quantified the effects that SGLT2Is have on hemoglobin A1c and mortality by conducting a systematic review and meta-analysis of all randomized trials of this new drug class.
+
+1Davies MJ, D'Alessio DA, Fradkin J, et al. Management of hyperglycemia in type 2 diabetes, 2018. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2018 Dec;61(12):2461-98.
+
+# METHODS
+
+We searched PubMed and Scopus (inception to March 2018) for randomized trials of at least 52 weeks duration enrolling adults with T2D that compared SGLT2Is with placebo or a different antihyperglycemic agent. Two reviewers independently extracted data to ensure accuracy, and differences were resolved by third reviewer and discussion if necessary. Primary outcomes were change in hemoglobin A1c and all-cause mortality. Effect sizes and standard errors were calculated using the Hedges' g method and Mantel-Haenszel method for hemoglobin A1c and mortality, respectively. Pooled analyses with both fixed and random effect models were performed using the generic inverse variance method. Heterogeneity for each outcome was assessed with the Cochran's Q test and I² statistic.

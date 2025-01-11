@@ -1,0 +1,60 @@
+# ABSTRACTS JGIM
+
+# SGIM LEADERSHIP IN HEALTH POLICY CURRICULUM INITIATIVE
+
+Molly A. Fisher 1 ; Sarah G. Candler 2 ; Susan Lane 4 ; Colin Robinson 3 ; Latonya Riddle-Jones 5 ; Michi Yukawa 6 . 1 University of Pittsburgh Medical Center, Pittsburgh, PA; 2 Baylor College of Medicine, Houston, TX; 3 UCLA, Los Angeles, CA; 4 Stony Brook Medicine, Stony Brook, NY; 5 Wayne State University School of Medicine, Farmington Hills, MI; 6 University of California San Francisco, San Francisco, CA. (Control ID #3185098)
+
+# NEEDS AND OBJECTIVES:
+
+1. Conduct a Delphi survey of health policy and education experts to determine which health policy topics to teach to internal medicine residents
+2. Create four one-hour lessons that focus on Medicare, Medicaid, social determinants of health, and private insurance and the healthcare marketplace
+3. Implement and evaluate a pilot curriculum at participating institutions
+4. Disseminate this curriculum to medical training programs to adapt to their home institutions
+
+# SETTING AND PARTICIPANTS:
+
+This curriculum is to be taught to internal medicine and med-peds residents. We have designed the curriculum so that it can be taught in either small group or large lecture settings. There are four separate one-hour lessons that can be taught independently or as a complete curriculum.
+
+# DESCRIPTION:
+
+Several major healthcare organizations have stated the importance of educating physicians to learn about health policy. However, there are no current guidelines on what information should be taught to physicians or trainees, and how this content should be delivered. Based on a Delphi survey of health policy experts conducted by the authors, four major topics were identified as essential components of a health policy curriculum for internal medicine residents: Medicare, Medicaid, social determinants of health, and private insurance and the healthcare marketplace. Members of the SGIM Leadership in Health Policy (LEAHP) fellowship worked to create four one-hour lessons based on these topics. Each lesson consists of a didactic component and a group activity. The authors of this curriculum plan to pilot the curriculum at their home institutions during the 2019-2020 academic year. Once the pilot year is complete, a standardized evaluation tool that assesses attitudes and knowledge will help to inform the authors on how to alter the curriculum prior to dissemination. Once edited, we intend to disseminate this curriculum through the Society for General Internal Medicine Health Policy Committee. Future plans include teaching the curriculum at the medical student level and creating additional modules to teach if more curricular time is available.
+
+# EVALUATION:
+
+We developed a standardized evaluation tool that will assess the knowledge and attitudes of the residents participating in the program. It is a pre-survey and post-survey that we will administer shortly after completing the program.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Creating this curriculum has been a large multi-institutional effort with faculty members from a wide variety of backgrounds. Through the pilot project, we intend to find areas of improvement in the way the content is delivered as well as adapting the activities as needed.
+
+# SHOW ME THE MONEY! RESULTS FROM A PILOT FINANCIAL WELLNESS PROGRAM FOR INTERNAL MEDICINE RESIDENTS
+
+Patricia Ng; Rachel Wong. Stony Brook University School of Medicine, Port Jefferson Station, NY. (Control ID #3160604)
+
+# NEEDS AND OBJECTIVES:
+
+Financial wellness has become a topic of interest, with a 2012 study showing that higher educational debt is associated with lower quality of life and increased burnout rates. Our initial needs assessment identified several resident profiles with varying financial capabilities and concern for personal debt. Our aims were to pilot and assess the efficacy of a tailored financial wellness program in improving the finance planning behaviors of internal medicine residents.
+
+# SETTING AND PARTICIPANTS:
+
+Our pilot program was offered to 84 categorical and 10 preliminary internal medicine residents at a university-based program in Stony Brook, NY during the 2017-2018 academic year.
+
+# DESCRIPTION:
+
+Our pilot program was created by faculty champions and an institution hired financial advisor. The program included 90-minute interactive workshops and a mandatory mid-year financial wellness check-in with program directors. Workshops were given during intern orientation to capture new interns and in the evening to target seniors. Program topics included loan repayment, budgeting, retirement planning, and income protection. During mid-year check-ins, program directors inquired about financial stress during overall wellness screening and ensured that all residents were aware of local financial resources. Residents also received educational handouts and simplified financial planning to-do lists created by faculty developers.
+
+# EVALUATION:
+
+Residents completed surveys immediately before and after the workshop, and a follow-up survey at the end of the year. Surveys included modified questions from the FINRA National Financial Capability Survey and feedback about the intervention. Fifty-three (56.4%) residents completed the pre-workshop survey, 49 (52.1%) completed the post-workshop survey, and 40 (42.6%) completed the follow-up survey. Majority (97.9%) rated the workshops "Good/Excellent" and all requested additional didactics. At the end of the year, residents reported improvements in several positive financial planning behaviors. For debt management, more residents reported creating a student loan repayment plan (43.4% vs 58.8%) and consolidating to the public service loan forgiveness program (29.4% vs 74.1%). For savings and retirement, there was a statistically significant increase in residents being aware about their employers' retirement plans (73.6% vs 94.2%, p=0.0113) and contributing regularly to retirement (11.3% vs 35.3%, p=0.0214). Lastly for catastrophic planning, there was a statistically significant increase in residents having rainy day funds (30.8% vs 65.0%, p=0.0007).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our results suggest that a tailored financial wellness program may improve financial planning behaviors of internal medicine residents. When planning a financial wellness program, interventions should include local financial experts, simplified to-do lists, and multiple didactic sessions. We plan to assess for generalizability of our program by implementing similar financial wellness programs at 2 other internal medicine residency programs.
+
+# SMARTPHONE DEVICE FOR OPHTHALMOSCOPY SIMULATION TRAINING IN UNDERGRADUATE MEDICAL EDUCATION.
+
+Patricia Nelson2; xin lu2; Marah Hamdan2; Akaanksh Shetty2; Jessica R. Hungate2; Thwe Htay1. 1Texas Tech University HSC El Paso, El Paso, TX; 2Texas Tech University Health Sciences Center, El Paso, TX. (Control ID #3184781)
+
+# NEEDS AND OBJECTIVES:
+
+The objective of this study is to measure the effectiveness of using a reproducible smartphone imaging for ophthalmology simulation training in enhancing learners' confidence and skill technique in imaging the retina.

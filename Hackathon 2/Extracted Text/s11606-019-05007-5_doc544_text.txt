@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# CASE 1
+
+In 7/2014, he was found to have bradycardia and complete heart block, for which he received a pacemaker. At that time a transthoracic echocardiogram (TTE) showed normal left ventricular ejection fraction (LVEF) of 60-65%. Myocardial stress testing in 2014 and 2016 showed no evidence of ischemia. In late 2017, he developed orthopnea, paroxysmal nocturnal dyspnea, leg swelling, and progressive exertional dyspnea precipitated by minimal activity. TTE showed severe dilated cardiomyopathy and biventricular systolic dysfunction with LVEF of 15%. Exam was notable for bibasilar pulmonary rales and bipedal edema. Labs were notable for elevated BNP of 2762 pg/ml (normal range 0-99). Lyme and HIV serologies were negative. Cardiac MRI (cMRI) demonstrated multiple patchy areas of delayed gadolinium enhancement suggestive of cardiac sarcoidosis. Myocardial FDG PET showed extensive areas of abnormal FDG uptake in both ventricles, consistent with active disease. He lacked other clinical or radiographic evidence of extracardiac sarcoidosis aside from intrathoracic lymphadenopathy on PET. He underwent pacemaker upgrade to cardiac resynchronization therapy defibrillator (CRT-D). Signs and symptoms of decompensated heart failure improved with diuresis. Immunosuppressive therapy was initiated with prednisone and mycophenolate, with modest improvement in LVEF (25% in 10/2018).
+
+# IMPACT/DISCUSSION
+
+The majority of patients with sarcoidosis present with lung, skin, or ocular involvement, while only a small proportion (estimated 5%) have clinically-significant cardiac sarcoidosis (CS). CS has a wide range of presentations and is often diagnosed late. Arrhythmias and non-coronary distribution of wall motion abnormalities on TTE can suggest the diagnosis, but are insensitive and nonspecific. cMRI has a high sensitivity for CS; it can detect edema associated with inflammation, and fibrosis, suggested by late gadolinium enhancement. FDG PET can quantify metabolically active lesions, helping differentiate scar from active disease and permitting monitoring of treatment response.
+
+# CONCLUSION
+
+Our patient experienced a three-year delay in diagnosis of CS following presentation with complete heart block, likely due to paucity of extracardiac manifestations, CS rarity, and insensitivity of initial imaging. Had infiltrative disease been considered and evaluated with early cMRI in this young patient with unexplained conduction abnormality and no evidence of ischemia, progression to florid systolic heart failure might have been prevented.
+
+# SYMPTOMATIC COPPER DEFICIENCY IN A PATIENT WITH REMOTE GASTRIC BYPASS SURGERY
+
+Emily C. Atkinson; Morris Jrada; Myint Aye; Charles Okamura. NYU Langone Hospital - Brooklyn, Brooklyn, NY. (Control ID #3184951)
+
+# LEARNING OBJECTIVE #1
+
+Recognize vitamin deficiencies in a gastric bypass patient
+
+# LEARNING OBJECTIVE #2
+
+Treat copper deficiency
+
+# CASE
+
+A 61 year old female with a past medical history of depression, hypothyroidism, dementia, profound insomnia, and remote history of gastric bypass presented with chronic dizziness and orthostatic hypotension with recurrent falls. She had multiple hospital admissions for dizziness, gait instability and falls. Associated symptoms included nausea and vomiting, fatigue, weakness, hypotension, hypoglycemia with low insulin levels, and worsening tingling and numbness in both legs. She denied using zinc containing denture cream or cold tablets. In the ED, her vital signs were stable and blood work was significant for pancytopenia, with a WBC count of 2.2, hemoglobin of 9.4 and platelets of 137. The levels of many vitamins and minerals were checked given her history of gastric bypass and she was found to have a normal iron level with transferrin saturation of 33%, normal levels of vitamins B1, B6, B9, B12, and selenium (58) and low levels of copper, ceruloplasmin, zinc, and vitamin D. CT and MRI of the brain were negative for acute pathology but significant for severe left temporal atrophy and overall global volume loss. Following admission, she was given intravenous fluids for persistent hypotension with eventual resolution after increasing her home dose of fludrocortisone and starting her on vitamin supplementation for her noted deficiency. She was discharged on a multivitamin with minerals daily, 50,000 units of Vitamin D weekly, 220mg of zinc sulfate twice daily, and 4mg of copper three times a day with close bariatric specialist follow up.
+
+# IMPACT/DISCUSSION
+
+Copper plays an essential role in the synthesis of many proteins and its deficiency can cause a variety different symptoms. Symptomatic copper deficiency is rare but can be seen in patients with a remote history of bariatric surgeries. In these patients, absorption of many minerals, including copper, is disrupted and supplementation may be necessary to prevent deficiency. This patient had been suffering from pancytopenia with a normal iron panel, which can be due to copper deficiency. Copper is a required cofactor in iron oxidation during hematopoiesis and its deficiency therefore results in anemia. Patients with hypocupremia may present with gait abnormalities from myelopathy, as noted in our patient. Additionally, imaging showed cerebral atrophy, possibly related to demyelination, which can be seen in patients with Menkes Disease, a mutation causing defects in copper absorption. Despite having these symptoms for years, her copper levels had not been checked prior, which delayed the diagnosis of copper deficiency.
+
+# CONCLUSION
+
+Many of the symptoms of copper deficiency are non-specific, which may delay diagnosis until after many hospital re-admissions. It is essential to always consider copper deficiency in a patient with chronic neurologic symptoms and anemia with a remote history of gastric bypass surgery.
+
+# SYNTHETIC CANNABINOID USE ASSOCIATED WITH ACUTE KIDNEY INJURY
+
+Nkiru Osude1; Anthi Katsouli2. 1Loyola Medical Center, Crystal Lake, IL; 2Loyola University Medical Center, South Barrington, IL. (Control ID #3184674)
+
+# LEARNING OBJECTIVE #1
+
+Recognize acute tubular necrosis as a complication of synthetic marijuana inhalation.
+
+# CASE
+
+A 22 year old with no past medical history but with daily marijuana use initially presented to the outside hospital emergency department (ED) with severe diffuse abdominal pain and intractable nausea and vomiting. Laboratory during his ED admission was notable for a BUN/Cr ratio of 25/1.77. He was discharged home presented to our hospital four days later with similar complaints. On examination his blood pressure was 170/105, heart rate was 75, respiration rate was 20 with oxygen saturation 100% on room air. He had a loud mid systolic murmur at the left sternal border associated with a thrill; elevated jugular venous pressure with no peripheral edema. Laboratory was consistent with Cr of 14.7, BUN of 71, HCO3 of 19, and an anion gap of 15. Potassium was 5.1 with phosphorus of 5.7. Urine analysis was positive for large amount of blood, leukocyte esterase, and >180 white blood cells. Urine drug screen was positive for cannabinoids. The remaining laboratory tests including HIV, ANA, ANCA, complement levels, hepatitis serologies, extractable nuclear antigen panel were negative. Renal ultrasound demonstrated normal renal size with increased renal echogenicity. CT Abdomen and Pelvis demonstrated extensive perinephric fat surrounding the right kidney. Trans-thoracic echocardiogram demonstrated normal left ventricular ejection fraction with right ventricular enlargement. No valvular dysfunction was identified. Biopsy of right kidney demonstrated severe acute tubular injury with abundant granular casts. Due to patient's anuria with worsening acidosis dialysis was initiated. He was discharged with close nephrology follow up for daily dialysis.

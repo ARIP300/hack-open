@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+Within our study population, patients at high risk for opioid overdose rarely received prescriptions for naloxone despite numerous interactions with the healthcare system. Healthcare visits remain a missed opportunity to provide naloxone. Efforts to support prescribing in emergency, inpatient, and outpatient settings represent an important opportunity to improve naloxone access. This may include policies such as the implementation of naloxone standing orders, protection from civil liability for naloxone dispensing and use, and the addition of co-prescribing recommendations to prescription opioid labeling. Overall, prescribing naloxone as a standard-of-care for high-risk patients addresses a critical patient-care need and helps advocate for this particularly vulnerable group.
+
+# LOW PRIORITY OF OBESITY EDUCATION IN INTERNAL MEDICINE RESIDENCY PROGRAMS LEADS TO LACK OF PHYSICIANS' PREPAREDNESS TO EFFECTIVELY TREAT PATIENTS WITH OBESITY: RESULTS FROM THE U.S. INTERNAL MEDICINE RESIDENCY PROGRAM OBESITY EDUCATION CURRICULUM BENCHMARK STUDY
+
+W. Scott Butsch1; Kathryn Robinson2; Ranita Sharma3; Julianne Knecht4; B. Gabriel Smolarz4 1Cleveland Clinic, Cleveland, OH; 2Penn Medicine Princeton Medical Center, Plainsboro Township, NJ; 3Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ; 4Novo Nordisk, Inc., Princeton, NJ. (Control ID #3177809)
+
+# BACKGROUND:
+
+Despite the obesity epidemic in the U.S., physicians are presently under-prepared to treat patients with this disease. This study sought to understand how obesity is currently taught in U.S. Internal Medicine (IM) residency programs. It serves as a benchmark for measuring the degree to which IM residency curricula incorporate topics pertaining to the recently developed Obesity Medicine Education Collaborative (OMEC) obesity competencies.
+
+# METHODS:
+
+In this cross-sectional study, IM residency program directors were invited to complete an online survey about their curriculum. During the summer of 2018, invitations were sent via postal mail to 501 accredited IM programs. Only one respondent was permitted from each program.
+
+# RESULTS:
+
+81 IM residency programs, matching the geographic distribution of U.S. programs, participated in the survey. Although obesity was an intentional program objective for two-thirds of programs (67%), only 2% of respondents believed their residents are "very prepared" to manage patients with obesity with nearly half of respondents reporting their residents are only "somewhat prepared". Formal rotation opportunities in obesity are limited, with approximately one-quarter of programs offering clinical non-surgical rotations in obesity. Most IM residency programs incorporate obesity throughout the curriculum in some form; however, at best, only one-third (35%) of programs reported any one of the known core obesity competencies are covered to "a great extent". In addition, many programs reported psychosocial components of obesity (40%), weight stigma and discrimination (44%), etiological aspects of obesity (65%) and pharmacological treatment of obesity (43%) were covered only to a "very little extent" or "not at all". Competencies reportedly well-covered to are more likely to be taught during teaching rounds, while those covered to a lesser extent are most likely to be taught informally. Lack of room in the curriculum and lack of faculty expertise are the greatest barriers to integrating obesity education. Less than half (40%) of residency programs have discussed incorporating or expanding formal obesity education.
+
+# CONCLUSIONS:
+
+The obesity curriculum currently taught within U.S. IM residency programs does not adequately cover important aspects that address the growing epidemic. These results suggest obesity education is not enough of a priority for IM residency programs to evolve their curriculum to incorporate the number one leading health epidemic. Even though weight bias and stigma among medical students and practicing healthcare providers leads to suboptimal care and poor health outcomes, the topic is only covered to a limited extent within many residency programs. Recognizing the importance of providing residents with the education and skills they need to be prepared for managing and treating patients with obesity and formalizing them within IM residency programs will be helpful for graduating residents to be competent in addressing obesity.
+
+# LOW-VALUE CARE AND CLINICIAN ENGAGEMENT IN THE MEDICARE SHARED SAVINGS PROGRAM: A SURVEY OF FRONTLINE CLINICIANS
+
+Adam A. Markovitz1; Michael Rozier3; Susan D. Goold2; John Z. Ayanian2; Edward C. Norton2; Timothy Peterson1; John M. Hollingsworth2. 1University of Michigan School of Public Health, Ann Arbor, MI; 2University of Michigan, Ann Arbor, MI; 3St. Louis University College for Public Health and Social Justice, St. Louis, MO. (Control ID #3185503)
+
+# BACKGROUND:
+
+Although the Medicare Shared Savings Program (MSSP) created new organizational incentives to improve health care value, Accountable Care Organizations (ACOs) have achieved only modest reductions in the use of low-value care. It is uncertain whether this reflects organizational failure to engage the frontline ACO clinicians charged with implementing ACO objectives. In this study, we asked: Have ACOs successfully engaged frontline clinicians? Is ACO engagement associated with clinicians' reported ability to implement recommendations against low-value care?
+
+# METHODS:
+
+We designed and administered a survey to clinicians in one of the ten largest MSSP ACOs in the country. Primary exposures included clinicians' participation in ACO decision-making, awareness of ACO incentives, perceived influence on practice, and perceived quality improvement. Our primary outcome was clinicians' reported difficulty implementing recommendations against low-value care (e.g., "Don't recommend cancer screening in adults with life expectancy of less than 10 years"). We used multivariable fixed-effect models to test the relationship between ACO engagement and reported difficulty implementing recommendations against low-value care. In these models, we compared clinicians of the same specialty (e.g., urology), type (e.g., physician), and provider organization (e.g., Michigan Medicine). We used multiple imputation and calibrated survey weights to reduce bias from missing data and survey non-response.
+
+# RESULTS:
+
+The analytic sample included 1,289 ACO clinicians: advanced practice providers (29%), physician specialists (27%), primary care physicians (18%), internal medicine specialists (16%), and surgeons (10%). Response rate was 34%. We found limited ACO engagement of frontline clinicians: Few clinicians participated in the decision to join the ACO (3%). Few clinicians were aware of ACO incentives, including knowing the ACO was accountable for both spending and quality (23%), successfully lowered spending (9%), or faced upside risk only (3%). Few agreed (moderately or strongly) the ACO changed compensation (20%), practice (19%), or feedback (15%) or that it improved care coordination (17%) or inappropriate care (13%). Clinicians reported difficulty following recommendations against low-value care 18% of the time; clinicians reported patients had difficulty accepting recommendations 36% of the time. Increased ACO awareness (one standard deviation [SD]) was associated with decreased difficulty (-2.3 percentage point [p.p.], 95% confidence interval [CI]: -3.8, -0.7) implementing recommendations, as was perceived quality improvement (1 SD increase, -2.1 p.p., 95% CI, -3.4, -0.8). Participation in ACO decision-making and perceived influence on practice were not associated with recommendation implementation.

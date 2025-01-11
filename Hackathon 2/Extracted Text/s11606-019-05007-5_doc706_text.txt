@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# Evaluation of a Milestone-Based OSCE Scoring Tool
+
+scale. This tool was intended to mirror the global assessment of performance in the clinical setting. A scoring guide for each case was collectively developed. Faculty were trained in the use of the scoring instrument using practice exercises. Faculty then watched the videotaped encounters and completed the scoring tool, with one primary faculty member scoring each clinical scenario and a fifth faculty member scoring a random sample from each scenario to verify interrater reliability.
+
+# EVALUATION:
+
+Over two years, 98 IM interns participated in the OSCE, yielding 196 clinical scenarios (two per intern). Faculty evaluated 189 unique OSCE encounters (96.4%) and were successfully able to use the scoring tool. Qualitative evaluation of faculty experience with the tool revealed that it could be easily completed during OSCE observation. Interrater reliability is currently being evaluated.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A milestone-based OSCE scoring tool is feasible to develop, easy to use, and is an innovative method of evaluating an OSCE. Scoring guides helped faculty understand the application of a milestone-based scoring system for each OSCE scenario. Future analysis will include examining correlations between results from the OSCE scoring tool and other measures of resident performance.
+
+# Evaluating Residents' Impression of Preceptorship by Using Near-Peer Teaching Technique
+
+all trainees (73.3%). About 73.3% of responders believed this session changed their opinion about preceptorship in an outpatient setting.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Understanding the clinical skills and the job responsibilities of outpatient preceptors is not clear for most residents. This curriculum allowed PGY3s the opportunity to practice teaching skills in outpatient setting in a supervised environment. Also, the curriculum was successful in enhancing the trainees' interest in pursuing a teaching career in outpatient setting. The trainees' interest, the teaching opportunities, and the time efficient curriculum indicates the Near-Peer teaching technique's potential in any residency program.
+
+# EVALUATING THE ROLE OF A FORMAL CXR CURRICULUM ON HOUSESTAFF EDUCATION
+
+Angela O. Suen 1 ; Rachel Wojcik 1 ; Michael G. Simonson 1 ; Nicholas Vu 3 ; Andrew Klobuka 3 ; Richard H. Zou 1 ; Jared Chiarchiaro 2 .
+
+1 UPMC, Pittsburgh, PA; 2 University of Pittsburgh, Pittsburgh, PA; 3 University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3186009)
+
+# NEEDS AND OBJECTIVES:
+
+The Accreditation Council for Graduate Medical Education Internal Medicine Residency Review Committee (RRC-IM) requires that training programs address resident teaching skills as a part of the practice-based learning competency. This need seems to be more challenging in the outpatient setting considering the limited visit time and rapid turnover. This lack of experience might be a major factor in determining whether a trainee pursues an academic career. We designed a Near-Peer Teaching curriculum to introduce trainees to principals of clinical teaching in outpatient setting and evaluate their opinion about taking a preceptor role as a future career.
+
+# SETTING AND PARTICIPANTS:
+
+Participants were third year (PGY3) Internal Medicine Residents at an academic outpatient clinic. We implemented a curriculum emphasizing the five microskills of the one minute preceptor teaching model during the 4-week Ambulatory Rotation. A total of 15 residents have participated in this curriculum from June 2018 to January 2019.
+
+# DESCRIPTION:
+
+Senior residents were scheduled for a 4-hour session during Ambulatory Rotation. They were able to have a one-on-one teaching session with a trained faculty to discuss teaching techniques in outpatient setting and review different scenarios. PGY3s were asked to use a 4-hour protected time session to precept first year trainees on a weekly basis. Both third and first year residents were observed by a faculty preceptor and received immediate feedback after the session.
+
+# EVALUATION:
+
+A survey questionnaire was sent to all PGY3s at the end of the rotation. It included 13 questions to evaluate residents' opinion and satisfaction about this experience on a 5-point scale. Residents cohort responses compared using chi-square test. Most residents had no previous experience with a preceptorship curriculum (73%). Prior to this exposure, 46.5% of residents felt precepting is easy or very easy and just 13% planned to pursue an academic career in outpatient setting. After participating in this curriculum, the majority stated they may or most definitely will plan to work as a preceptor (88.8%, P = 0.004) although just 2 out of 15 felt it was easy or very easy to work as a preceptor (P = 0.03). Most residents agreed the visit time would be longer if preceptors see patients with.
+
+# NEEDS AND OBJECTIVES:
+
+Internal Medicine residents cite varying comfort levels with interpretation of chest radiographs (CXR) during clinical training. Being able to independently review CXRs is an important, but often overlooked, skill especially as formal interpretation may not be immediately available. The current gold standard for learning how to interpret CXRs is through clinical rotations, MKSAP, and Radiology Rounds. To the best of our knowledge, a standardized educational imaging curriculum tailored to Internal Medicine residents does not exist. In conjunction with the Department of Radiology, we created a prospective case-based chest radiograph curriculum aimed to increase clinical competency and comfort with image interpretation.
+
+# SETTING AND PARTICIPANTS:
+
+Internal Medicine interns (n=75) at the University of Pittsburgh Medical Center were randomized in 1:1 fashion into control (n=37) and intervention arms (n=38). A pre-curriculum quiz and survey were administered to all interns during their orientation. The final assessment will be conducted at an end-of-year retreat.
+
+# DESCRIPTION:
+
+The initial survey given during orientation focused on knowledge of and comfort in interpreting CXRs. Those randomized into the intervention arm were asked to anonymously participate voluntarily. Cases were sent out on a monthly basis with plans for a total of twelve months. Each of the 12 cases include a brief patient case, de-identified CXR, and a clinical-based multiple-choice question, with the focus on common clinical scenarios. Answers were accompanied by systematic image interpretation and case summaries. Those in the control arm participated in CXR interpretation as usual with clinical exposure and self-directed learning. At the conclusion of the study, all interns will participate in a post-curriculum quiz and survey to reassess knowledge, attitudes, and feedback. Educational exemption was obtained by the local Institutional Review Board (PRO17070620).
+
+# EVALUATION:
+
+Seventy-two (96%) interns completed the pre-curriculum quiz with a mean score of 75%. Through the first 4 cases of the prospective curriculum, there is a 37% response rate among interns in the intervention arm, with a mean score of 63%. The January 2019 case had a 13% (n=5) response rate with a mean score of 100%.

@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+up includes a complete blood count, liver and kidney function, peripheral smear, c-reactive protein, erythrocyte sedimentation rate and bone marrow biopsy. While investigating the above case, causes of secondary eosinophilia were examined while ruling out primary eosinophilia. With the patient's subtropical background, infectious and parasitic causes were initially ruled out. Her elevated IgE prompted investigation into allergic causes and drugs. Primary clonal eosinophilia and malignancies were ruled out with a bone marrow biopsy. The temporal association of symptoms with dialysis led us to question changes in dialysis causing her symptoms. Polysulfone diasylate membranes are associated with increased incidence of hemodialysis associated eosinophilia with resolving eosinophilia noted after membrane change. The rapid response with oral steroids as well as changing the diasylate membrane further confirmed that the patient may be having an immune mediated reaction to the Polysulfone membrane.
+
+# CONCLUSION:
+
+Eosinophilia is seen in a variety of different clinical scenarios. A meticulous history and thorough investigation is key to forming a diagnosis and carrying out appropriate treatment.
+
+# A CURIOUS CAUSE OF ABDOMINAL PAIN IN A PATIENT WITH ANAPLASMOSIS
+
+Julia Cooperman. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3173639)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose and manage atraumatic splenic rupture non-operatively.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize atraumatic splenic rupture as a complication of tickborne illness.
+
+# CASE:
+
+A 35 year old gentleman with a history notable for a spontaneous splenic hemorrhage and splenectomy in 2012 presented to the emergency department with fevers, myalgias and arthralgias 5 days after a deer tick bite. He was febrile. Initial labs were notable for a normal WBC count with neutrophil predominance. No parasites were seen on a parasite smear. He started Ceftriaxone and was admitted to the medical service. Overnight he complained of 10/10 peri-umbilical pain, diarrhea, and emesis. Labs showed bandemia of 14% and hemoglobin drop from 13.2 to 9.2. CT scan with IV contrast showed a large amount of hemorrhagic free fluid in the left upper quadrant around the splenic remnant, with a curvilinear area of hyperdense blood highly suspicious for active hemorrhage. He received 2 units of packed red blood cells and underwent emergent splenic arteriogram which did not reveal a source of active hemorrhage. He remained hemodynamically stable and required no further blood transfusions. He was found to have a positive Anaplasma PCR. Patient defervesced and felt improved. The remainder of his tickborne panel was negative. He was discharged with oral doxycycline.
+
+# IMPACT/DISCUSSION:
+
+Atraumatic splenic rupture is uncommon. Its exact incidence is unknown and there are no systematic studies defining its clinical presentation, but it is an important entity to recognize as mortality can be up to 12%. Most common causes identified are neoplastic, infectious, and inflammatory. Clinical presentation can include left sided abdominal pain and/or left shoulder-tip pain from diaphragmatic irritation and signs of hemorrhage. Rupture is confirmed by either CT scan, ultrasound, or laparotomy in hemodynamically unstable patients. With increasing availability of angiography, current practice is trending toward non-operative management. Therefore, diagnosis and management of splenic rupture is an increasingly important skill for general medical providers. Patients may not present with abdominal pain or any history of trauma, which may delay diagnosis if clinicians are not on alert for this potentially fatal complication. One case of Anaplasmosis associated with splenic rupture has been described. There are more reports of Babesiosis associated with splenic rupture. Any practitioner may encounter a patient with tickborne illness and should be familiar with its potential complications.
+
+1. Renzulli et al. (2009) 2. Miller et al. (2014) 3. Khan and Ali (2018) 4. Li et al (2018)
+
+# CONCLUSION:
+
+Atraumatic splenic rupture is a potentially fatal complication in conditions commonly encountered by general medical practitioners. Its management is increasingly non-operative, and as such, important for providers to diagnose and manage. It is also important to recognize atraumatic splenic rupture as a potential complication of tickborne illness, even in post-splenectomy patients.
+
+# A DANGEROUS WEB
+
+Nikita Agrawal1; Daniel Labovitz2. 1Montefiore Medical Center (Moses & Weiler), New York, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3184787)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize carotid web as a cause of stroke.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize imaging findings consistent with carotid stroke and other diagnosis with similar findings.
+
+# CASE:
+
+A 42-year-old woman with no known stroke risk factors woke up with slurred speech and left arm paresis. MRI brain and MRA head/neck demonstrated MCA infarction with insular cortex involvement and mild stenosis of the proximal right cervical internal carotid artery. CTA of the carotid demonstrated a low density filling defect along the posterior wall of the proximal right internal carotid artery. Carotid web (CaW) was suspected based on imaging features. She was placed on IV heparin followed by carotid enterectomy confirming the presence of a CaW, which was removed. Patient was discharged on dual antiplatelet therapy for a three month course and lifelong aspirin and statin.
+
+# IMPACT/DISCUSSION:
+
+Carotid web (CaW) is an under recognized cause of stroke in young patients without classical risk factors. This case illustrates the importance of considering CaW as a cause of anterior circulation ischemic stroke. CaW is a variant of fibromuscular dysplasia that appears in the posterior aspect of the carotid bulb at the origin of the internal carotid artery. CaW can be diagnosed using imaging including US CTA, MRI or digital subtraction angiography (DSA). On imaging CaW appears as a shelf like structure. Whereas atherosclerotic lesions are irregular with a thickening of the carotid wall, CaW is distinguished by smooth borders of the lesion itself and of the vessel wall. Moreover, CaW can be mistaken for arterial dissections as the shelf on the web can appear as a dissection flap. In comparison arterial dissections classically affect the middle or distal cervical segments of the ICA and present with irregular borders. Moreover, dissections may include enlargement of the arterial diameter whereas CaW is associated with normal bulb shape. Currently epidemiologic data on CaW is limited as it remains an underrecognized pathology. At large, CaW is more common in young women. Currently there have not been studies examining the genetic propensity for the pathology. For ischemic strokes in CaWs, there is currently no optimal secondary stroke prevention strategy. Initial data has demonstrated that antiplatelet monotherapy may be insufficient in preventing recurrent ischemic events with reoccurrence of events occurring in nearly one third of patients. Revascularization with surgical resection has increasingly been used in prevention of carotid webs with no case reports of reoccurrence following resection. Carotid artery stenting has also been described as an alternate to surgical resection with a study demonstrating no reoccurrence in a 12 month follow up.
+
+# CONCLUSION:
+
+It is important to consider CaW as an etiology of stroke in young patients with limited risk factors. Given the life altering nature of strokes, prevention of repeat events with appropriate therapy is imperative. Strokes associated with CaW may be better managed with surgical intervention.
+
+# A DEADLY MYX: HYPOTHYROIDISM AND AMPHETAMINES
+
+Syeda A. Raza. Methodist Health Systems Dallas, Dallas, TX. (Control ID #3168551)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that myxedema coma can be precipitated by amphetamine use.

@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# WNV-ASSOCIATED ACUTE FLACCID PARALYSIS
+
+continued to exhibit proximal and distal muscle weakness and an EMG was performed, which showed axonal and demyelination sensorimotor polyneuropathy. MRI of the spine showed enhancement of cauda equina consistent with Guillain Barre syndrome (GBS). Patient was started on plasmapheresis with improvement in his weakness.
+
+# IMPACT/DISCUSSION:
+
+The key aspect of this case was the atypical appearance of acute flaccid paralysis, a Guillain Barre-like picture, that developed in a case of confirmed West Nile Virus infection. Prior to 1996, WNV was associated with typical B symptoms. Following the NYC outbreak, neurological complications, including muscle weakness, became common. Another key point is the presentation difference between normal GBS and the flaccid paralysis seen in WNV infection. In standard GBS, weakness typically begins weeks after infection, while weakness in WNV occurs in the acute to subacute phase. As was present in this case, leukocytosis and elevated protein in CSF are both characteristic of WNV infection while typical GBS CSF shows elevated protein without leukocytosis, the classic albuminocytologic dissociation. While WNV-associated paralysis is a well-described phenomenon, it has not become commonplace knowledge in general medicine.
+
+# CONCLUSION:
+
+WNV often presents as a non-specific encephalitis that may be misdiagnosed as a bacterial pneumonia. It is imperative that WNV be part of the differential in an acutely ill patient presenting with muscle weakness.
+
+# FOLLOW THE GREEN BRICK ROAD: AN UNEXPECTED CAUSE OF ACUTE KIDNEY INJURY
+
+Dennis C. Shi. Oregon Health & Science University, Portland, OR. (Control ID #3186722)
+
+# LEARNING OBJECTIVE #1:
+
+Bile cast nephropathy should be considered as a possible cause when patients with liver disease present with AKI.
+
+# CASE:
+
+64-year-old man with history of polysubstance use disorder and recently discovered pancreatic head mass with liver lesions presented with progressive jaundice and acute kidney injury in the setting of several months of progressive abdominal pain, distention, and weight loss. Physical exam was notable for jaundice, lower extremity edema and a distended abdomen. On admission, his creatinine was 2.01 increased from 0.8 the day prior. AST and ALT were elevated in the 100s, total bilirubin was 11.2, and alkaline phosphatase was 822. He was started on IV fluids, however creatinine continued to increase and patient was oliguric. FeNa was consistent with prerenal etiology. Renal US showed no evidence of hydronephrosis. TTE was unremarkable for hypo- or hypervolemia. Last contrast was two weeks ago. On day three of his hospitalization, Nephrology was consulted due to concern for bile cast nephropathy in the setting of acute obstructive jaundice. Urinalysis revealed large bile-stained granular casts consistent with bile cast nephropathy. Patient was switched to albumin with improvement of renal function.
+
+# IMPACT/DISCUSSION:
+
+Acute kidney injury in a patient with severe liver disease is often thought to be due to decreased kidney perfusion from intravascular volume depletion, acute tubular injury, or hepatorenal syndrome. Liver disease is also frequently complicated by hyperbilirubinemia, which can cause renal tubular injury as bile acids can act as endogenous nephrotoxins. Bile cast nephropathy is an important pathological factor that may account for renal dysfunction in some patients with liver disease. Though less common, literature has described numerous cases of bile cast nephropathy and reports that it is likely underdiagnosed. Typically, bile-case nephropathy presents in the setting of total bilirubin greater than 20. Interestingly, our patient's total bilirubin was only 13.6. However, bile casts were noted in the urine.
+
+# CONCLUSION:
+
+In summary, this case illustrates the importance of entertaining bile-cast nephropathy in the differential of AKI in patients with liver disease. AKI in this regard is caused by epithelial cell damage and tubular obstruction secondary to bile acid accumulation. Early identification is important for treatment, as correction of hyperbilirubinemia can address AKI, preventing further progression of renal disease.
+
+# FOOD COMA: A CASE OF THYROTOXIC PERIODIC PARALYSIS
+
+Maryam Zamanian; Amanda Deis; Gena M. Walker. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185432)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing clinical characteristics of thyrotoxic periodic paralysis (TPP)
+
+# LEARNING OBJECTIVE #2:
+
+Managing initial lab abnormalities in TPP
+
+# CASE:
+
+A 20 year old male with no past medical history was admitted to the hospital after presenting to the ED with complaints of generalized weakness. He was in his usual state of health until the morning of admission when he woke up and was unable to stand up. He had some improvement over time and was able to walk to the ED with assistance. On presentation, his exam was notable for tachycardia and generalized weakness. Initial labs revealed a serum potassium of 2.2, with EKG demonstrating U waves consistent with hypokalemia. He denied any diuretic or drug use, but did note recent high carbohydrate intake. Further laboratory evaluation revealed an undetectable TSH and elevated free T4, raising concern for thyrotoxic periodic paralysis (TPP) triggered by his recent dietary changes. No thyromegaly was noted on exam. Family history was notable for Graves' disease in his aunts with no known history of Asian heritage. He received potassium replacement therapy with complete resolution of symptoms. Endocrinology was consulted and further evaluation revealed an elevated TSI, with concern for possible Graves' disease. He was started on propranolol as prevention for further attacks and methimazole for his hyperthyroidism with plans to pursue further imaging and definitive treatment outpatient.
+
+# IMPACT/DISCUSSION:
+
+TPP is more common in Asian countries, with an estimated incidence of 1.8-1.9% in thyrotoxic patients. In the US, there is significantly less exposure to this unique manifestation of hyperthyroidism. However, the incidence of TPP appears to be increasing in the US, making early recognition of this disease in all populations increasingly important. In particular, differentiation of TPP from the more common familial hypokalemic paralysis is essential to ensure appropriate treatment. Triggers of TPP attacks can include high carbohydrate meals, stress or exercise. Immediate management should involve potassium repletion to prevent cardiac complications with monitoring due to risk of rebound hyperkalemia during recovery. A non-selective b-blocker can be used in acute treatment and for recurrence prevention until a euthyroid state can be achieved. Ultimate treatment should focus on treating the underlying etiology of hyperthyroidism. References: Kung, Annie WC. "Thyrotoxic periodic paralysis: a diagnostic challenge." The Journal of Clinical Endocrinology & Metabolism 91.7 (2006) Pothiwala, Pooja, and Steven N. Levine. "Analytic review: thyrotoxic periodic paralysis: a review." Journal of intensive care medicine 25.2 (2010)
+
+# CONCLUSION:
+
+Thyrotoxic periodic paralysis should be considered as a potential diagnosis in patients presenting with sudden weakness and hypokalemia. Hypokalemia in TPP should be repleted immediately but with close monitoring to avoid rebound hyperkalemia. Non-selective B-blockers can be used in prevention of recurrent attacks until euthyroid state has been achieved.
+
+# FOR GOOD MEASURE: EXPLORING IMMUNODEFICIENCY IN PATIENTS WITH CMV RETINITIS
+
+Ryan Knodle. Boston Medical Center, Boston, MA. (Control ID #3184884)
+
+# LEARNING OBJECTIVE #1:
+
+Assess for alternative causes of immunodeficiency in non-HIV infected patients presenting with CMV retinitis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize Good's syndrome as a potential diagnosis in patients with thymoma and "immunodeficiency-defining" illness
+
+# CASE:
+
+An 82-year-old HIV-negative Chilean man with history of thymoma and bilateral retinal ischemia presented with acute loss of visual

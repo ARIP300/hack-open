@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Adult immunization information is increasingly being uploaded into Immunization Information Systems (IIS) nationally; the National Vaccine Advisory Committee has called for adult immunization documentation in IIS as part of their Standards for Adult Immunization Practice. Centralized IIS-based Reminder/Recall (C-R/R) performed by an IIS to centrally send out reminders to individuals about needed immunizations has been successful at increasing childhood immunization rates and is a promising approach to increasing adult immunization rates. Little is known about IIS managers' experiences regarding C-R/R for adult vaccines and perceived barriers to its use and sustainability.
+
+# METHODS:
+
+The objective of this study is to describe among IIS managers: 1) IIS capabilities related to performing C-R/R, 2) previous C-R/R experience and future interest in conducting C-R/R for adult vaccines, and 3) perceived barriers to C-R/R use and sustainability. A survey was developed in collaboration with the American Immunization Registry Association (AIRA). Surveys were sent electronically to all IIS managers in the U.S. and territories via AIRA's member network in July 2018. Up to 6 email and phone call follow-ups to non-responders occurred across a two-month period. A $25 gift card was offered to respondents.
+
+# RESULTS:
+
+Fifty-seven of 62 IIS managers (92%) responded to the survey. All but one IIS reported the capability of receiving adult immunization data from various immunization providers. For 24% (13/55) of IIS, immunization reporting from primary care practices and public health departments for adult immunizations is mandated. Eighty-three percent (45/54) of respondents reported they have the capability to identify eligible patients needing immunizations at a county level and 76% (41/54) at a zip-code level. Sixty-one percent (34/56) of IIS have ever conducted C-R/R. Of the 25 who responded, 9 (36%) had done C-R/R so for adult vaccines. Thirty-four percent (19/56) reported they are "very likely" to conduct C-R/R in the next 6 months; 28% (7/25) for adult vaccines. The most commonly reported barriers to performing C-R/R were lack of staff (78%), competing demands (76%), and cost (63%). Lack of support from leadership was a minor barrier (7%).
+
+# CONCLUSIONS:
+
+Most IIS have the capabilities to perform C-R/R within a geographical area and contain adult vaccination data. The majority of IIS have at least tried C-R/R, although a minority for adult vaccines. Sustaining and expanding C-R/R may require further training from successful programs regarding best practices for efficient C-R/R methods in order to limit staff involvement and costs. Successful programs for adult C-R/R should be disseminated and replicated by other IIS.
+
+# DECLINING USE OF PRIMARY CARE AMONG COMMERCIALLY INSURED ADULTS IN THE US, 2008-2016
+
+Ishani Ganguli1; Zhuo Shi2; Aarti Rao3; Kristin N. Ray4; Ateev Mehrotra2. 1Brigham and Women's Hospital, Chestnut Hill, MA; 2Harvard Medical School, Boston, MA; 3Icahn School of Medicine, New York, NY; 4University of Pittsburgh, Pittsburgh, PA. (Control ID #3183630)
+
+# BACKGROUND:
+
+Primary care is a key component of the healthcare system and U.S. healthcare reform efforts, yet per capita visit rates to primary care physicians (PCPs) are declining. Using national commercial claims data, we explored potential mechanisms underlying this decline.
+
+# METHODS:
+
+We examined 2008-2016 claims data for adults (18-64 years old) enrolled with a large commercial insurer for at least one month in a given year. We determined annual visit rates to physicians and advanced practitioners (APs) providing primary or specialty care and to alternative settings (telemedicine, urgent care, retail clinic, emergency department). We stratified results by member demographic and clinical characteristics, baseline county-level visit rates, and visit characteristics including primary diagnosis type. We estimated linear trends for each subgroup; two-sided p values were significant at <0.005 (given multiple testing) unless otherwise specified.
+
+# RESULTS:
+
+Over the 8-year-period, PCP visit rates declined by 26.2% (167.5 visits per 100 member-years in 2008, 123.6 in 2016). More adults had no visits in 2016 (32.5% of adults) than in 2008 (25.6%). The PCP visit decline was driven by problem-based visits (-40.8 visits, 26.5% decline) while preventive visit rates increased (+6.4 visits, 42.7% increase). The decline was larger for visits addressing low-acuity conditions (-15.2 visits, 45.4% decline) than for those addressing chronic conditions (-11.4 visits, 29.2% decline; p=0.01) and larger in counties with higher PCP visit rates in 2008 (-43.7 visits, 11.5% decline in top quartile of counties vs. 3.1 visits, 1.3% increase in bottom quartile p=0.69). When examining member characteristics, we found larger decline among those living in a zip code with median income 0-200% of federal poverty level (FPL) (-45.9 visits, 26.4% decline vs -22.0 visits, 14.2% decline for >400% FPL). Among members with a medical claim in a given year, the decline was greater for those without a chronic condition (-23.3 visits, 4.9% decline vs. -14.8 visits, 1.7% decline for those with a chronic condition). Over this period, a greater share of PCP visits were subject to deductible (+11.7 visits, 140% increase), while mean, inflation-adjusted out-of-pocket costs increased by $9.89 per visit (33.6% increase). We observed a rise in visit rates to other clinicians (APs, +9.6 visits; specialists, +4.1 visits p=0.98) and settings (+9.1 visits), though these increases did not fully offset the decrease in PCP visits.
+
+# CONCLUSIONS:
+
+The decline in PCP visit rates was only partly explained by greater use of alternative clinicians and settings. Declines were larger for healthy members, for low-acuity condition visits, and in regions with higher-baseline visit rates, suggesting some of the foregone visits may have been unneeded. The larger decline among low-income patients coupled with the rise in deductibles and out-of-pocket costs imply financial barriers deterring PCP visits. Further work is needed to explore mechanisms in other populations.
+
+# DEMENTIA IS AN INDEPENDENT RISK FACTOR FOR CARE FRAGMENTATION AMONG OLDER ADULTS
+
+Sara Turbow 1; Mohammed K. Ali 2; Nikkil Sudharsanan 3. 1 Emory University School of Medicine, Atlanta, GA; 2 Emory University Rollins School of Public Health, Atlanta, GA; 3 Harvard T.H. Chan School of Public Health, Boston, MA. (Control ID #3178904)
+
+# BACKGROUND:
+
+Of the over 35 million hospital admissions annually in the United States, 5 million result in readmissions, and over 25% of readmissions occur at hospitals different from the one the patient was previously discharged from. These fragmented readmissions are associated with poor outcomes including a nearly two-fold higher risk for mortality and additional $2000 in healthcare costs per admission. Patients with Alzheimer's Disease and related dementias (ADRD) are more likely to be readmitted, but it is unknown if these readmissions are more likely to be fragmented or if dementia is itself a risk factor for fragmented readmissions.
+
+# METHODS:
+
+We analyzed data from the 2014 National Readmissions Database. Our analysis included adults 65 years old with an ICD-9 diagnosis code for ADRD. We defined fragmentation of care as a readmission to a hospital different from the one the patient was previously discharged from. We limited our analysis to the first two admissions in 2014. We estimated and compared prevalence of care fragmentation among older adults with and without ADRD. We compared demographic and clinical characteristics of ADRD and non-ADRD patients using chi-squared and t-tests. We used multivariable logistic regression to examine the relationship between ADRD and interhospital care fragmentation, adjusted for demographic and clinical variables. We used SAS 9.4 (Cary, NC) for all data analysis.
+
+# RESULTS:
+
+There were a total of 1,050,660 patients aged 65 years with readmissions in 2014. Of those, 8.0% had a diagnosis of ADRD. The prevalence of fragmented readmissions was higher for individuals with ADRD than those without (26.3% v 23.0%, p<0.001) (Table 1). In unadjusted regression models, dementia was associated with 19% higher odds of fragmented readmissions (95% CI 1.17-1.21) that persisted after adjustment for clinical and socio-demographic variables (Table 1).

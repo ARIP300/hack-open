@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Vanishing Bile Duct Syndrome Associated with Hodgkin's Lymphoma
+
+Phosphatase 771 U/L; previously these were normal. Hepatic autoimmune evaluation revealed an anti-nuclear antibody titer of 1:320 (speckled pattern), ANA titer 1:80, antimitochondrial antibody M2 titer 4.1 (positive), F-Actin IgG 10 U, viral hepatitis negative, and INR 1.3. Right upper quadrant ultrasound and MRI showed hepatomegaly. Liver biopsy showed bile duct paucity with periportal fibrosis. Steroids and Ursodiol were started for presumed azithromycin induced vanishing bile duct syndrome with improvements in AST/ALT and pruritis, however, bilirubin and alkaline phosphatase continued to uptrend. Patient returned 1 month later with fevers, melena, jaundice and neck swelling. Biopsy of a neck lymph node revealed Hodgkin's lymphoma. She began chemotherapy but progressed to renal failure, liver failure and passed away.
+
+# IMPACT/DISCUSSION:
+
+Vanishing bile duct syndrome (VBDS) causes progressive destruction of the intrahepatic bile ducts leading to cholestasis. It has several case reports for the condition every year with multiple etiologies found: drug-induced, immunologic, ischemic, infectious, metabolic, and malignant (specifically Hodgkin's lymphoma). Lymphoma remains a commonly reported cause of VBDS. Patients with VBDS associated with lymphoma often present with severe cholestatic hepatitis with autoimmune features. Cholestatic symptoms include: gallstones, hyperlipidemia, malabsorption, xanthelasmas, and fat-soluble vitamin deficiencies. VBDS often manifests 1-6 months after the initial cholestatic episode and is associated with fatigue, anorexia, abdominal pain, pruritis, and weight loss. VBDS has been identified as a paraneoplastic process of Hodgkin's lymphoma (HL). And importantly, HL associated VBDS patients do not recover unless remission of the HL.
+
+# CONCLUSION:
+
+This case illustrates the importance of avoiding anchoring bias with vanishing bile duct syndrome. Although VBDS is rare and poorly understood, it has a high morbidity and mortality if the underlying cause is not treated. 50% of Hodgkin's lymphoma patients have liver infiltration and a cholestatic hepatitis with VBDS on biopsy should prompt evaluation of B symptoms and possible work up for lymphoma.
+
+# VANITY COSTING THE VEINS
+
+Ian Cormier; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186001)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the link between off label use of testosterone and risk of hypercoagulability and thrombosis.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the presentation of mesenteric venous thrombosis as a differential for acute abdominal pain.
+
+# CASE:
+
+A 52 year old man presented with one week of vague abdominal pain exacerbated by oral intake. The patient's medical history was significant for traumatic splenectomy, anabolic-steroid use and hypogonadism. His medications included testosterone, anastrozole, and human chorionic gonadotropin supplements, which were managed by a private men's clinic. On arrival, the patient was afebrile and hypertensive but otherwise hemodynamically stable. Physical exam was significant for diffuse abdominal tenderness to palpation with guarding. Labs were significant for polycythemia and leukocytosis with a normal lactic acid and lipase. Workup was significant for elevated total testosterone, free testosterone and sex hormone globulin. A computed tomography angiogram of the abdomen revealed acute thrombosis of the portal vein and superior mesenteric vein. The patient was kept nil per os, placed on intravenous fluids, and initiated on a heparin infusion. He was gradually reintroduced to oral nutrition and was discharged home on daily enoxaparin injections for anticoagulation. At the time of discharge, his home testosterone boosting supplements were stopped.
+
+# IMPACT/DISCUSSION:
+
+Mesenteric venous thrombosis is a rare but potentially life threatening cause of abdominal pain. Common causes of mesenteric venous thrombosis include intraabdominal malignancies and inflammatory processes, portal hypertension, acquired and inherited thrombophilias and myeloproliferative disorders. Certain medications and supplements, including testosterone replacement therapy (TRT) and drugs that indirectly increase levels of testosterone may promote a prothrombotic state that can lead to venous thrombosis. TRT causes an acquired prothrombotic state by stimulating erythropoiesis and inducing secondary polycythemia. The link between TRT and VTE, even in men without polycythemia, recently led to the US Food and Drug Administration (FDA) to require manufacturers to place a general warning in the labeling of all approved testosterone products regarding this risk. In the United States, there has been a sharp increase in the number testosterone prescriptions per capita within the last two decades. Many men are initiated on TRT for questionable indications such as sexual dysfunction and decreased energy, yet pathological hypogonadism remains the only indication for TRT. For men initiated on TRT, the Endocrine Society guidelines recommend checking hematocrit at baseline, 3-6 months after starting treatment, and then annually. The Endocrine Society guidelines also suggest stopping therapy if the hematocrit increases to 54 percent.
+
+# CONCLUSION:
+
+TRT is not a benign therapy and may be associated with life threatening VTE. TRT should be regulated to the standards of other prescribed medications.
+
+# VARICELLA ZOSTER VIRUS (VZV) VASCULOPATHY AS A POTENTIAL CAUSE OF ALTERED MENTAL STATUS IN AN IMMUNOCOMPROMISED HOST
+
+Ryan Handoko; Eric I. Elliott; Sameer Khan; Maricar Malinis. Yale School of Medicine, New Haven, CT. (Control ID #3162737)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the atypical presentation of varicella zoster virus (VZV) in an immunocompromised host.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize VZV vasculopathy as an etiology of altered mental status in an immunocompromised host.
+
+# CASE:
+
+This is a 48-year-old male with history of HIV/AIDS (CD4+ count=2 cells/mm3, HIV RNA=3.66 log copies/mL), nonadherence to antiretroviral therapy, 20-pack year smoking and polysubstance use, who was admitted after being found unresponsive. Diagnostic work-up identified a large right pneumothorax. His hospital course was complicated by polymicrobial pneumonia, MRSA bacteremia, and gastrointestinal bleeding (GIB). Dolutegravir, darunavir, cobicistat, and opportunistic infection prophylaxes were initiated. He was transferred to our institution to treat pneumothorax refractory to pleurodesis with endobronchial valves. On exam, he had temporal wasting, rhonchi over right lung fields, and greasy scaled skin on his face consistent with seborrheic dermatitis. On hospital day 14, he became somnolent with failure to thrive, poor oral intake, and avolition, with no focal neurological deficits. Mirtazapine was given for depression but discontinued for worsening cytopenias. Neurology and psychiatry consultants recommended methylphenidate for CNS stimulation. Contrast-enhanced MRI of the brain revealed hemorrhage in both ganglio-capsular regions and subacute to chronic hemorrhage in the left caudate. Lumbar puncture was performed and CSF revealed 3 WBC/mm3, 41 mg/dL glucose, 20.1 mg/dL protein, and 0.8 U/L adenosine deaminase. Serum TPPA was negative. CSF Cryptococcal antigen, HIV RNA, CMV DNA, JC virus DNA, EBV DNA, HSV DNA, and Toxoplasma DNA were undetected by PCR. However, CSF VZV DNA was detected. CSF VZV IgG was not detected. IV acyclovir was initiated. He subsequently had recurrent GIB and hypoxemia and was transferred to medical step-down. Chest X-ray showed right lung collapse due to mucus plug. His family decided to pursue palliative measures only, and the patient thereafter expired.

@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Patient Handoff
+
+Patient handoff, which led to wide variations in the quality of handoffs and posed a risk to patients' safety.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The primary objective was to teach residents the I-PASS model for handoff. Additionally, an electronic medical record (EMR)-based tool was provided to residents. The final goal was to assess residents' perceptions of the training, the tool, and compliance with the I-PASS format.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Residents participated in a one-hour resident-led session that included didactics and case-based practice. There were 60 internal medicine (IM) and 18 medicine-pediatrics (MP) residents. A template macro was disseminated to the residents through the electronic medical record (EMR) to standardize written handoff.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Before the sessions, residents were surveyed to assess baseline knowledge and practices. Post-intervention surveys were sent immediately and again three months following the intervention. Survey data is based on residents who responded to the surveys and is not inclusive of all residents who completed the training. The n value represents total number of respondents and includes residents in IM post-graduate years (PGYs) 1-3 and MP PGYs 1-4.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Only 18% of IM and MP residents (n=22) reported any previous training on standardized handoff. Immediately post-intervention, 92% of respondents (n=39) rated the training as valuable. At three months post-intervention, 94% of residents (n=31) selected that the EMR macro improved patient safety and streamlined written handoff creation. The EMR tool enabled 80% of residents (n=31) to quickly create a high-quality, I-PASS format written handoff. However, after three months, only 32% (n=31) of residents reported that contingency planning was always included in the written handoff.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+The education sessions were well received yet results reveal that residents omit important components of the I-PASS model after only three months. Dissemination of an EMR-based macro proved simple and effective. As we move forward, we plan to further assess uptake of the tool and the I-PASS format through random chart review of handoffs and to improve upon the training based on feedback from participants. Clearly there is room for increased adherence to standardized handoff and we hope to define the ideal timing and format of further trainings.
+
+# STANDARDIZING FRAGILITY HIP FRACTURE CARE USING AN ELECTRONIC HEALTH RECORD APPROACH
+
+Kencee K. Graves1; Polina Kukhareva1; Kensaku Kawamoto2; Logan A. Horne1; David Rothberg1; Jacob McKenna1; Steven M. Johnson1; Jeffrey Young1; Mark A. Supiano1. 1University of Utah, Salt Lake City, UT; 2University of Utah, Sandy, UT. (Control ID #3163409)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Fragility hip fractures are a devastating injury to elderly patients, resulting in significant morbidity, mortality and cost; however, in-hospital care for these patients can be variable.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Our first objective was to standardize the care for patients with fragility fracture as much as possible. Our second objective was to provide feedback to providers on the quality of their hip fracture care as defined by pre-determined metrics. Finally, we aimed to provide notification to specific providers when a patient is admitted to the hospital.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+First, we implemented a forced function hip fracture order set containing evidence-based interventions, such as treatment for osteoporosis, anticoagulation to prevent venous thromboembolism, and early physical therapy. Second, we implemented an electronic score card to provide quarterly feedback to providers, including orthopedics and internal medicine; and third, we designed an electronic alert to targeted providers notifying them of patients admitted with fragility hip fracture to allow for data analysis and follow up for these patients. This program was for patients older than 65 years of age admitted with hip fracture to a single academic medical center.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+To evaluate the effects our program, we compared adherence to components of the order set, readmissions, mortality, length of stay and total direct cost.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+For statistical analysis, we compared a pre-intervention cohort of 39 patients to two post-intervention cohorts. Post-intervention cohort 1 includes 115 patients who received care with the order set and whose providers received score card feedback. Post-intervention cohort 2 included 50 patients who received the interventions in cohort 1 and, in addition, whose providers received an electronic alert of their admission. Our primary outcome was defined as receiving all components of the order set, considered to constitute "perfect care." The percentage of patients receiving "perfect care" increased from 15.4% for the pre-intervention cohort to 33.6% for post-intervention cohort 1 and to 45.1% for post-intervention cohort 2 (p=0.012). Of our individual components, use of osteoporosis medications increased from 69.2% pre-intervention to more than 88% post-interventions (p=0.006). However, there were no significant differences seen in mortality, 30-day readmissions, or total direct cost.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Implementation of a hip fracture care improvement program with the goal of standardizing care is feasible in a single academic medical center. However, this program did not improve the outcomes of mortality, length of stay or readmission in our cohort. Future studies with larger sample size will be needed to determine if better adherence to perfect care will be associated with improved mortality, length of stay or readmission. Outcomes such as delirium incidence, mobility, or return to home may be more sensitive to assess the benefits of "perfect care." While this method may be reproducible, the benefit of dissemination is unclear.
+
+# STOP THE MADNESS: A TALE OF TWO DE-IMPLEMENTATION INITIATIVES TO REDUCE EHR BURDEN IN PRIMARY CARE
+
+Ling Chu1; Ethan Halm2; Duwayne L. Willett3. 1UT Southwestern, Dallas, TX; 2Univ of TX Southwestern Med Ctr, Dallas, TX; 3University of Texas Southwestern Medical Center, Dallas, TX. (Control ID #3179325)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Frustration with the burden of using EHRs is a major driver of physician burnout, can selective de-implementation decrease EHR burden?

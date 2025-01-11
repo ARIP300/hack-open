@@ -1,0 +1,71 @@
+# ABSTRACTS
+
+# PREVALENCE AND PREDICTORS OF IMPOSTER PHENOMENON AMONG HARVARD MEDICAL STUDENTS
+
+Alison M. Holliday1; David E. Leaf3, 1; Galina Gheihman1; Cynthia M. Cooper2, 1; Amy M. Sullivan; Rebecca Karp Leaf2, 1. 1Harvard Medical School, Boston, MA; 2Massachusetts General Hospital, Boston, MA; 3Brigham and Women's Hospital, Boston, MA. (Control ID #3179336)
+
+# BACKGROUND:
+
+The Imposter Phenomenon (IP) is a psychological construct characterized by feelings of inadequacy, drive for perfectionism, and fear of being discovered as a "fraud" by colleagues and supervisors. IP is known to limit performance and professional growth, and is associated with high rates of anxiety and burnout. Although IP is known to occur commonly among high-achieving individuals in various professional fields, limited data are available on IP among medical students.
+
+# METHODS:
+
+We conducted a cross-sectional web-based survey of all Harvard Medical and Dental School students to identify the prevalence and predictors of IP. We used the Clance Imposter Phenomenon Scale (CIPS), which is a validated instrument for assessing IP. CIPS consists of 20 questions based on a 5-point Likert scale, with a score of 62 or higher corresponding with experiencing IP and a score of 80 or higher corresponding with experiencing intense IP. The survey was distributed between June and August 2018 via an email distribution list. We collected demographic data including age, gender, race, ethnicity, medical school track (MD/PhD, Health Sciences and Technology/physician-scientist, etc.), intended medical specialty, college major, whether the student took time off prior to medical school, and whether the student had a first-degree family member in medicine. We used logistic regression to identify predictors of IP.
+
+# RESULTS:
+
+Of the 753 students surveyed, 519 (68.92%) responded, with 485 (93.45%) completing all 20 CIPS questions. Among students who completed the CIPS questions, 285 (58.76%) had a score of 62 or higher, corresponding with experiencing IP, and 72 (14.85%) had a score of 80 or higher, corresponding with experiencing intense IP. Predictors of intense IP included female gender (odds ratio [OR] 1.95, 95% confidence interval [CI] 1.15 to 3.31, p=0.01), time off prior to medical school (OR 1.77, 95% CI 1.07 to 2.93, p=0.03), and age (years, OR 1.11, 95% CI 1.02 to 1.22, p=0.02). There was no association between intense IP and Caucasian race (p=0.40), having a first-degree family member who is a physician (p=0.76), or intention to pursue a surgical specialty (p=0.99).
+
+# CONCLUSIONS:
+
+IP is widespread among students at Harvard Medical and Dental School, particularly among women. Future research is needed to understand the relationship between IP and academic performance, as well as the progression of IP over time during residency, fellowship, and attending years.
+
+# PREVALENCE AND PREDICTORS OF PLEURAL EFFUSION IN CONGESTIVE HEART FAILURE
+
+Oreoluwa Oladiran; Rashmi Dhital. Reading Hospital, Wyomissing, PA. (Control ID #3180664)
+
+# BACKGROUND:
+
+Pleural effusion is common in congestive heart failure (CHF) and usually portends a poor prognosis, however its prevalence and distribution is not well documented in literature. We sought to query a large national database to determine the prevalence, demographic and clinical factors associated with cardiogenic pleural effusions.
+
+# METHODS:
+
+We used National (Nationwide) Inpatient Sample database, the largest publicly available all-payer inpatient database in the US that contains ~20% sample of all US hospitalizations (>7 million hospital stays each year), to identify adult inpatients with the diagnosis of CHF and pleural effusion using ICD-9 codes. We excluded cases citing other possible causes of pleural effusion including liver cirrhosis, infectious and malignant effusions, and then compared various demographic and clinical factors among CHF in-patients with or without pleural effusion.
+
+# RESULTS:
+
+In the years 2012 and 2013, after excluding other common etiologies of pleural effusion, a total of 1,172,067 patients were admitted with CHF in the United States, out of which 40,319 (3.4%) were coded for as pleural effusion. Heart failure patients with a pleural effusion were older than those without (74.9 versus 72.1 years, p<0.001), more likely Caucasian (76% versus 70%, p<0.001). They were also found to have had a significantly increased length of stay (9.0 vs 5.4 days, p<0.001) and significantly higher inpatient mortality (6.2% versus 3.2%, p<0.001).
+
+# CONCLUSIONS:
+
+Among patients with heart failure, pleural effusion is uncommon, but is associated with higher lengths of stay and higher inpatient morbidity. Whether this is the reflection of poorer cardiac function or is an independent predictor of adverse outcomes is a matter for further study.
+
+|CHF with pleural effusion|CHF without pleural effusion| |P-value|
+|---|---|---|---|
+| |N= 201,595|N= 5,658,739| |
+|Mean age|74.9 + 0.9|72.1 + 0.6| |
+|Age Categories (%)| | | |
+|18-34 years|0.9|11|<0.001|
+|35-64 years|19.6|26.9|<0.001|
+|/>-65 years|79.5|72.0|<0.001|
+|Gender (%)| | | |
+|Male|48.9|48.2|<0.005|
+|Female|51.1|51.8|<0.005|
+|Length of stay (days)|9.0|5.4| |
+|Mortality (%)|6.2|3.2|<0.001|
+|Race (%)| | | |
+|Caucasians|76.8|70.2|<0.001|
+|African Americans|10.8|18.3|<0.001|
+|Others|12.4|11.5|<0.001|
+
+# PREVALENCE OF ASPIRIN USE FOR PRIMARY PREVENTION OF CARDIOVASCULAR DISEASE
+
+Colin W. O'Brien; Stephen P. Juraschek; Christina C. Wee. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3175838)
+
+# BACKGROUND:
+
+Multiple practice guidelines have recommended use of aspirin (ASA) for primary prevention of cardiovascular disease (CVD) in adults at increased risk. However, three randomized control trials published in 2018 - ASCEND, ARRIVE and ASPREE - demonstrated minimal benefits and consistent bleeding risks, particularly for older adults. Our goal was to quantify aspirin use and characterize factors associated with use among US adults who take aspirin for primary prevention.
+
+# METHODS:
+
+We used the 2017 National Health Interview Survey (NHIS), a nationally representative in-person household survey, to examine rates of self-reported aspirin use to prevent heart disease among US adults aged 40 and older without CVD. We used multivariable logistic regression to...

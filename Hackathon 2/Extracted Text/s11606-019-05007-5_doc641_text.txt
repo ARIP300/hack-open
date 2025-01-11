@@ -1,0 +1,46 @@
+# ABSTRACTS JGIM
+
+# IMPROVING MENTAL HEALTH CARE APPOINTMENT SHOW-RATES AT AN URBAN PRIMARY CARE TRAINING SITE
+
+Olufunke Adeusi2; Tamara Goldberg1. 1Mount Sinai, New York, NY; 2Mount Sinai St. Lukes's and Mount Sinai West, New York, NY. (Control ID #3180926)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Does the method of communication between care providers and on-site behavioral health integration professionals (BHI) at time of referral impact mental health appointment show-rates among an underserved patient population?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- To improve patient show-rates for initial mental health appointments.
+- To assess residents' familiarity with the collaborative care model and on-site BHI services.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This project was implemented at a Federally Qualified Health Center in New York City that serves as the primary care practice site for our internal medicine residents. We reviewed data over a three-month period regarding method of BHI referral (EMR order versus warm-handoff) and mental health appointment show-rates. Resident providers were surveyed regarding knowledge of the collaborative care model and satisfaction with their degree of engagement with BHI professionals. Next, we implemented a collaborative intervention to improve resident engagement with BHI services including: presence of a BHI team member at pre-clinic huddles and dissemination of a resource sheet describing the collaborative care model and how to conduct a real-time, warm hand-off with BHI staff. Finally, post-intervention referral data and show-rate data were obtained, and will continue to be collected through the Spring of 2019.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Metrics include BHI referral data and mental health show-rate data, pre and post intervention.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Baseline show-rates to a first mental health appointment were 23.8% (25/105) overall. Show rates were 20.7% (19/92) with EMR referral only, and 46.2% (6/13) for EMR referral with a warm handoff. Post-intervention patient show-rates were 15.1% (14/86) for EMR referrals only, and 50% (9/18) for EMR referrals with a warm handoff. 19 of 40 residents completed the baseline survey. Only 42% felt somewhat confident about their knowledge of the collaborative care model and 61% felt satisfied with their degree of engagement with BHI.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Despite on-site BHI services and overall provider satisfaction with BHI engagement, the vast majority of BHI referrals at our urban underserved clinic lacked a warm-handoff between providers, with overall show-rates less than 25% for initial mental health appointments. However, show-rates more than doubled when a warm-handoff between the primary care provider and BHI professional was performed rather than EMR alone. This suggests that open collaboration can lead to improved show-rates and patient engagement. Visibility of BHI staff at morning huddles and educational pamphlets for residents may help improve resident knowledge gaps and increase the motivation for warm-handoffs.
+
+# IMPROVING MONOFILAMENT TESTING IN UNCONTROLLED DIABETIC PATIENTS IN AN OUTPATIENT COMMUNITY CLINIC - A RESIDENT LED INITIATIVE
+
+Priya Jaisinghani; Payal Parikh. Robert Wood Johnson, Edison, NJ. (Control ID #3179963)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How to improve annual monofilament exams in diabetic patients in an underserved community health clinic.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To improve the rates of annual monofilament exam as well as resident documentation from the baseline of 44% to 70% for the cohort of diabetic patients at Eric B. Chandler Health Clinic (EBCHC).
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We identified barriers to performing annual monofilament exams by creating an in-depth root cause analysis. We charted our possible interventions on the pay-off priority matrix and enacted them in a multitude of PDSA cycles. Our goal was to ensure that a greater percentage of patients at EBCHC with uncontrolled diabetes were receiving monofilament exams during their patient encounters. Our interventions included a multidisciplinary approach involving environmental factors such as supplies, systemic factors such as the electronic medical record (EMR), provider factors such as education, communication factors, and patient factors such as increasing awareness on preventative medicine. First, it was ensured that all patient exam rooms had a full supply of monofilaments. Then, providers were educated regarding the location of the monofilaments in an exam room and the importance of regular monofilament exams in patients with diabetes.

@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# FROM PSEUDOHYPOGLYCEMIA TO DIABETIC KETOACIDOSIS
+
+Saliha Saleem; Ejaz Shah; Syed Maisam Abbas; Colette Knight. Montefiore Medical Center, Bronx, NY. (Control ID #3186254)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing peripheral arterial disease (PAD) as possible etiology of pseudohypoglycemia
+
+# LEARNING OBJECTIVE #2:
+
+Consider alternate sites/methods for glucose testing in patients with suspected pseudohypoglycemia
+
+# CASE:
+
+76 year-old man with Diabetes mellitus, Peripheral Arterial Disease (PAD), Dementia was sent from Nursing Home (NH) to Emergency department (ED) for hypoglycemia (28 mg/dl) and altered mental status. He was given 50% Dextrose (D50) and glucagon injection in NH but continued to have recurrent hypoglycemia. In ED he was given D50 again, but his finger sticks remained less than 40 mg/dl. He was otherwise hemodynamically stable. On examination he was less alert from his baseline and had decreased pulses in both upper extremities. Initial labs drawn in ED from a peripheral vein revealed Bicarbonate 12 meq/l, Anion Gap 24, Blood Glucose level 604 mg/dl, White count 17k and Ph 7.17. Chest X-ray was consistent with pneumonia. He was started on insulin drip, intravenous fluids and antibiotics. Point of care (POC) site was changed from fingers to right shoulder; subsequent readings were found to be parallel to venous blood glucose readings. Within 24 hours he was transitioned to subcutaneous insulin regimen. His prior records showed evidence of PAD in both upper extremity vessels. Patient clinical status improved back to baseline.
+
+# IMPACT/DISCUSSION:
+
+Pseudohypoglycemia can be caused by Hypovolemic shock, Hypothermia, Raynaud's, Leukemia, and Polycythemia. PAD affects millions of people in United States, yet only one published case report identifies it as a cause of pseudohypoglycemia. Although PAD most commonly affects lower extremity arteries, it is not uncommon for upper extremities to also be involved. The pathophysiology of pseudohypoglycemia in PAD is almost same as for Raynaud and hypovolemic shock: decreased blood flow. Atherosclerotic plaque formation decreases the blood flow to the respective extremity and digital microcirculation, blood stays in the capillary bed for a longer period, increasing glucose consumption, leading to finger stick glucose reading to be abnormally low. Capillary blood glucose measurement from finger tips is the main tool for the checking blood glucose levels. Other sites that can be used for POC glucose monitoring include palm, forearm, upper arm and thigh. These sites are especially useful when finger tips may be considered unreliable. Venous/arterial blood glucose measurement is the most reliable method for an accurate blood glucose reading. In cases of severe hypo/hyperglycemia, this reading should always be validated by alternate measures before aggressive management for hypo/hyperglycemia is initiated.
+
+# CONCLUSION:
+
+Pseudohypoglycemia should be considered whenever a low POC glucose is encountered. Use of alternate sites for POC glucose testing and checking venous/arterial blood samples can help differentiate between a true and pseudohypoglycemia.
+
+# FUNCTIONAL CARCINOID TUMOR ASSOCIATED WITH POLYCYTHEMIA VERA: A RARE DIAGNOSIS AND CHALLENGING MANAGEMENT DILEMMA
+
+Shawnt Tosonian1; Zenia Sattar2. 1Eisenhower Medical Center, Glendale, CA; 2Eisenhower Health, Rancho Mirage, CA. (Control ID #3181675)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize association of NET and polycythemia
+
+# LEARNING OBJECTIVE #2:
+
+Identify risks of thrombosis management in this condition
+
+# CASE:
+
+A 69-year-old woman with duodenal neuroendocrine tumor (NET) and alcoholic cirrhosis presented with diarrhea. NET had been diagnosed 3 months prior, after 2 years of unexplained isolated diarrhea. Endoscopic ultrasound (EUS) had shown a submucosal lesion, with immunohistochemistry of well-differentiated NET (carcinoid tumor). She had no metastases nor functional hormonal syndrome. One week prior to admission, she developed new nocturnal diarrhea, abdominal pain, vomiting, cutaneous flushing, diaphoresis, and pruritis. On admission, vitals were normal; labs showed WBC 16.1 K/uL and Hgb 19 g/dL. Abdominal CT revealed duodenal enteritis and cirrhotic liver. Her presentation and labs suggested carcinoid crisis. Octreotide scan revealed regional node metastasis. Symptoms improved with octreotide therapy and antacids, but facial plethora, pruritis, polycythemia, and leukocytosis persisted. Low serum erythropoietin indicated primary polycythemia vera (PV), confirmed by JAK2 mutation. She started therapeutic phlebotomy and cytoreductive hydroxyurea. Lower extremity DVTs were found, so enoxaparin was started, leading to large volume melena requiring emergent endoscopy. EGD showed bleeding from multiple duodenal ulcers and the ulcerated NET. Embolization of the gastroduodenal branch artery of the ulcer controlled the bleed; IVC filter was placed. With cirrhosis and low functional performance, she was deemed a poor surgical candidate. She was discharged and recovered well on outpatient follow up.
+
+# IMPACT/DISCUSSION:
+
+Carcinoid tumors have an age-adjusted incidence of 4.7/100,000. Increasing incidence in recent decades is likely due to improved detection. Most tumors are in the small intestine, with less than 3% of cases duodenal; only 5-7% exhibit hormonal production. Only two cases of carcinoid tumor have been associated with PV, one of which was also duodenal. Polycythemia is felt to be secondary; an association between NETs and primary polycythemias has not been established. Active functional carcinoid tumors with polycythemia have not been previously reported. Overlapping clinical manifestations of carcinoid syndrome and PV include facial plethora, pruritis, epigastric distress, and diarrhea; distinguishing these entities is difficult. Lab features can be misinterpreted; in our case, polycythemia and leukocytosis were attributed to hemoconcentration from diarrhea. Management is complicated by increased risk for thrombotic events, given malignancy and hyperviscosity. Risk for hemorrhage is also high, given carcinoid gastrin production.
+
+# CONCLUSION:
+
+Our case suggests an association between NET and polycythemia. Balancing thrombosis and hemorrhage risks is individualized; care should include multidisciplinary teams with use of serial gastrin levels, IVC filter, and early surgical evaluation.
+
+# GASTROINTESTINAL AL-AMYLOIDOSIS PRESENTING AS PROTEIN LOSING ENTEROPATHY
+
+Kavya Kelagere Mayigegowda; Rinad Tabbalat; Aditya Kalakonda. Baystate Medical Center, Springfield, MA. (Control ID #3187027)
+
+# LEARNING OBJECTIVE #1:
+
+Physicians should consider gastrointestinal amyloidosis in their differential when patients present with diarrhea and unexplained hypoalbuminemia.
+
+# LEARNING OBJECTIVE #2:
+
+Understanding the pathophysiology of different clinical syndromes seen in gastrointestinal amyloidosis.
+
+# CASE:
+
+82-year-old male with a history of CKD stage III and prostate cancer in remission presented with a four month history of worsening lower extremity edema, abdominal pain and watery diarrhea. Initial laboratory work-up was significant for a serum albumin of 2.0 and a normocytic anemia with hemoglobin of 7.5 gm/DL. A stool infectious work-up to include Clostridium Difficile was negative. A CT scan of the abdomen done on admission showed pan-colonic wall thickening suggestive of colitis and mild abdominal ascites. Colonoscopy showed diffuse continuous abnormal vascularity, congestion, erythema, friability.

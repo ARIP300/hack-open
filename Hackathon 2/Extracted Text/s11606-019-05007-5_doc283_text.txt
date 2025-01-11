@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# THE PERCEIVED HEALTH IMPACT OF SIGNIFICANT PLACES AMONG AFRICAN AMERICAN ADULTS WITH CARDIOVASCULAR RISK FACTORS
+
+Michelle J. White 1; Stephanie Hoover 2; Katelyn Holliday 1; Nicole Robinson-Ezekwe 2; Leah Frerichs 3; Kiana Bess 2; Anissa Williams 2; Giselle M. Corbie-Smith 2. 1Duke University, Durham, NC; 2University of North Carolina, Chapel Hill, NC; 3University of North Carolina at Chapel Hill, Chapel Hill, NC. (Control ID #3183908)
+
+# BACKGROUND:
+
+Environmental factors have been demonstrated to contribute to cardiovascular (CV) disparities among African American adults in the American South. Research has focused on observed built environment characteristics surrounding participants' place of residence, or pre-determined constructs (e.g., walkability). However, the built environment is perceived and experienced differently by individuals in ways that may moderate its influence on self management behaviors, yet limited research has explored such perceptions in-depth. We sought to examine African American adults' perceptions of the places that have significance in their lives and how these places impact their health.
+
+# METHODS:
+
+We conducted a thematic analysis of African American adults (N=25) in two North Carolina counties considered to be at the highest level of disadvantage based on multiple economic factors. Participants were recruited from a community-based behavioral CV risk reduction intervention. All had at least one risk factor for CV disease. We asked participants to identify significant places including where they spent the most time, meaningful places in their day to day lives, and healthy and unhealthy places on local maps. Using these maps as a reference during semi-structured interviews, participants described the health impact of each location. Data were transcribed verbatim and coded using NVivo 12.
+
+# RESULTS:
+
+The average age of participants was 63 (SD=10) and 88% were female. Places participants defined as meaningful and places where they spent the most time included churches and relatives' homes. Healthy places included their homes and local gyms. Unhealthy places included fast food restaurants and relatives' homes where unhealthy food was served. Participants illustrated the impact of these places on diet and physical activity by describing both the physical characteristics (i.e. presence of a running track; menu of healthy food) and the social characteristics and influences within the place (i.e. attending church with people who are trying to live a healthy lifestyle; caring for grandchildren at home who prefer fast food). Participants also described how they "spread the word" about lessons acquired from the intervention within their significant places.
+
+# CONCLUSIONS:
+
+Participants identified several significant places that impacted their health and described how their health behaviors within significant places were influenced by both physical and social characteristics. As we seek to improve CV interventions for African Americans in the American South, it will be important to further assess the effect of significant places beyond place of residence and how the social and physical characteristics of these places interact to influence CV outcomes. Better understanding of social influence, particularly the manner in which healthy behaviors are reinforced, hindered, and disseminated within significant places, could be leveraged to improve the reach of CV interventions.
+
+# THE POCUS SUPERVISION SAFETY GAP: ATTENDING PHYSICIAN KNOWLEDGE IN POINT-OF-CARE ULTRASOUND LAGS BEHIND INTERNAL MEDICINE RESIDENTS
+
+James E. Anstey 2; Stephanie Conner 2; Meghan T. O'Brien 3; Farhan Lalani 1; Trevor Jensen 2. 1University of California San Francisco, San Francisco, CA; 2UC-San Francisco, San Francisco, CA; 3UCSF, San Francisco, CA. (Control ID #3185369)
+
+# BACKGROUND:
+
+Point-of-Care-Ultrasound (POCUS) is increasingly recognized as a useful tool in hospital medicine. POCUS training opportunities for US Internal Medicine residents have been rapidly expanding, but education for hospitalist attendings may lag behind creating a potential safety gap in supervision. We developed a test assessing four domains of knowledge within routine applications of POCUS used in hospital medicine and compared attending and resident physician performance at a single academic teaching hospital.
+
+# METHODS:
+
+Hospital medicine faculty experienced in POCUS developed a 15-item test designed to assess the application of POCUS in hospital medicine practice. The test focused on four domains of use: basic knowledge, image interpretation, clinical integration, and understanding of limitations. The test questions were developed to address common use-cases for POCUS and be performed in a short time (&lt;10 minutes). An invitation to complete the test was sent by email to all internal medicine residents (n= 180) and hospital medicine attendings (n=97). Respondents were instructed not to guess, and each question included an option "Not sure". Test results (% correct) were compared for attendings and residents using unpaired t-tests and analysis of variance.
+
+# RESULTS:
+
+A total of 58 residents (32% response rate) and 41 (41%) attendings completed the test. The mean resident score was 55.6% (95% CI 49.8- 61.3) and mean faculty score was 45.3% (95% CI 27.9- 54.1) with a mean difference of 10.3% (95% CI 0.32 - 20.3; p = 0.022). Attendings performed significantly worse than residents in the domains of basic knowledge (mean difference 22.0% [95% CI 9.1- 34.9], p=0.001), image interpretation (mean difference 10.8% [95% CI 0.2-21.5], p=0.046), and understanding of limitations (mean difference 14.7% [95% CI 1.7- 27.8], p=0.027). Additionally, respondent's scores differed by level of clinical experience. Interns scored a mean of 45.5%, and senior residents 61.7%. Faculty of 0-3 years' experience scored a mean of 59.3%, 4-6 years 51.6%, 7-10 years 33.3%, and faculty with >10 years' experience, a mean of 23.6%, (p = 0.0002; ANOVA).
+
+# CONCLUSIONS:
+
+Our study revealed that, while resident physicians at our institution have limited knowledge and require ongoing supervision, our hospital medicine faculty had a significantly lower baseline of POCUS knowledge than the residents they supervise. Specifically, hospitalists were more deficient in domains of basic knowledge, image interpretation, and importantly, understanding of limitations. Hospitalists more recently out of training scored higher than those with more attending experience, which may reflect the recent wave of POCUS training in internal medicine resident programs. As resident physicians continue to gain valuable new skills in POCUS, this data argues for comprehensive faculty curricula with emphases on supervision, appropriate use, and knowledge of limitations of POCUS use in hospital medicine to address and prevent this supervision safety gap.
+
+# THE PREVALENCE AND CAUSES OF DELAYED ENDOSCOPIES FOR HOSPITALIZED PATIENTS
+
+Molly A. Kantor; Sara Lewin; Kendall Beck; Ryan David; Helge Eilers; Bertina Herman; Cameron Locke; Scott Pasternak; Sajan Patel; Najwa El-Nachef. University of California, San Francisco, San Francisco, CA. (Control ID #3184503)
+
+# BACKGROUND:
+
+Hospitalized patients often require urgent gastrointestinal endoscopy, and timely procedures are associated with better patient outcomes. However, there is limited literature describing the timeliness of inpatient endoscopic procedures and potential causes of delay. To address this, we conducted a single-center observational study of all inpatient endoscopies to characterize the prevalence and causes of delay.
+
+# METHODS:
+
+We identified all inpatients planned to undergo endoscopy at our 600-bed urban academic medical center using the electronic health record and paper endoscopy unit records. All endoscopies were performed as part of routine clinical care. We obtained the procedure request date and procedure completion date; a delay was defined as any difference.

@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+from our team in order to continue his HCV treatment. Our social worker spent a considerable amount of time speaking with multiple health care providers within the correctional system. At first, his providers refused to continue treatment due to the high cost and because he tested positive for non-prescribed benzodiazepines and alcohol. Our team communicated that his medication had already been paid for, could be delivered to the prison free of charge, and it was imperative to continue his regimen in order to avoid developing treatment resistance. Ultimately, our request was denied, as the prison had a firm policy on not continuing treatment in patients with active substance use. Mr. S was released from prison two months later. Surprisingly, he was found to have achieved sustained virologic response after completing only four weeks of treatment.
+
+# IMPACT/DISCUSSION:
+
+Both in MA and throughout the United States (US), there appears to be a conservative approach towards initiation/continuation of HCV treatment in the correctional system. This highlights a need for both advocacy and further education on the importance of continuing HCV treatment despite active substance use while incarcerated.
+
+# CONCLUSION:
+
+MA is one of the few states that has removed many of the barriers for initiation of HCV treatment; however, variations still remain based on the insurance payor and barriers still exist within the MA correctional system. In the US, few prisons initiate HCV treatment; some that do require patients to have at least advanced liver disease in order to start treatment. Outcomes are mixed when it comes to continuation of HCV treatment in prisons. Some providers continue treatment, but not without difficulty in terms of care coordination and the need to heavily advocate on behalf of the patient. Others may adopt an overall non-continuation approach to patients who continue to use substances, or they may altogether stop treatment due to high cost as prisons are not eligible for federal reimbursement. This case illustrates the need for further advocacy, education, and a coordinated approach towards continuation of HCV treatment for incarcerated individuals.
+
+# AEROCOCCUS URINAE: A RARE CAUSE OF MITRAL VALVE ENDOCARDITIS
+
+Mallory Myers1; Thanhnga Doan1; Daniel Gergen1; Rehaan Shaffie2. 1University of Colorado, Denver, CO; 2Denver Health Medical Center, Denver, CO. (Control ID #3175216)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Aerococcus urinae as a rare cause of infective endocarditis.
+
+# CASE:
+
+A 69-year-old man with no past medical history presented to the emergency department with two weeks of falls, difficulty urinating, and gross hematuria. On exam, he was afebrile and hemodynamically stable with a 3/6 systolic murmur, intention tremor, and shuffling gait. Labs revealed a white blood cell count of 19.4, a beta-natriuretic peptide of 2,254, and 3+ blood in his urine. Urine and blood cultures grew 10,000-100,000 colonies per mL of Aerococcus urinae. Head CT and MRI showed evidence of subarachnoid hemorrhages. Treatment began with two days of intravenous vancomycin but was switched to penicillin based on susceptibility studies in the literature. Blood cultures cleared on day three of treatment. An echocardiogram revealed a large mobile mass on the atrial side of the posterior leaflet of the mitral valve with mild to moderate regurgitation. During a right heart catheterization, the patient went into atrial fibrillation and several hours later had a stroke. MRI showed new multifocal infarcts that were likely embolic. Given the risk of additional embolic events, he was transferred to a cardiothoracic surgery center where he underwent a successful mitral valve replacement.
+
+# IMPACT/DISCUSSION:
+
+Aerococcus urinae is a gram-positive, catalase-negative coccus that produces alpha-hemolysis on blood agar. Though thought to have low pathogenicity, it is implicated in cases of urinary tract infections (UTIs), infective endocarditis (IE), and sepsis. These manifestations are rare, with an estimated UTI incidence of 54 per 1 million per year and a bacteremia incidence of 3 per 1 million per year. Risk factors for A. urinae infection include old age, male gender, and predisposing conditions such as diabetes mellitus, ischemic heart disease, urologic obstruction, and catheterization. This case illustrates A. urinae as a cause of IE with dangerous consequences. A. urinae possesses two important virulence factors for developing IE: biofilm formation and platelet aggregation. The aortic valve is most commonly affected, though the mitral and tricuspid valves can also be affected. Invasive A. urinae infections are associated with high morbidity and mortality. In a review of 29 A. urinae cases, 14 patients died within one week of hospital admission, 12 had arterial embolization events, 6 had septicemia, and 10 underwent mitral or aortic valve replacement. Therefore, prompt evaluation and treatment of patients found to have A. urinae bacteremia is crucial. The recommended treatment for A. urinae infection is penicillin or ceftriaxone. Adding an aminoglycoside has proven synergistic in numerous studies but should be weighed against the increased risk of adverse events.
+
+# CONCLUSION:
+
+A. urinae is a rare cause of infective endocarditis, especially in elderly men with predisposing health factors. In patients with A. urinae bacteremia, we recommend prompt evaluation for signs of infective endocarditis and arterial embolization.
+
+# ALTERED MENTAL STATUS: SOMETIMES IT'S MORE THAN JUST THE DRUGS
+
+syed A. abbas; rizwan zafar; Karishma Kitchloo. Montefiore Medical center, Bronx, NY. (Control ID #3186041)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize catatonia as a differential for patient presenting with altered mental status (AMS); early recognition and treatment may significantly reduce inpatient length of stay.
+
+# LEARNING OBJECTIVE #2:
+
+Neuroleptics used to manage hyperactive delirium may precipitate catatonia.
+
+# CASE:
+
+A 71-year-old man from nursing home (NH) with history of Alzheimer's dementia presented with AMS. He was recently admitted for aggressive behavior and was started on valproic acid and quetiapine. Upon his return to NH, he was found to be progressively more lethargic, bed bound, and mute. At baseline, he independently communicated and ambulated. On examination, his vital signs were stable, afebrile, lying flat in bed with arms crossed over the chest, unresponsive to verbal stimuli, minimally responsive to painful stimuli, with increased tone in all limbs. All baseline laboratory tests were negative including ammonia and valproic acid levels. Neuroimaging including CT head without contrast and MRI brain without contrast were done, both of which were negative for acute intracranial disease. His condition did not improve upon cessation of all neuroleptic and sedating agents. Electroencephalography was normal. Patient was given a lorazepam challenge, and thirty minutes later he was awake, sitting in bed, talking, and drinking water. He was started on oral lorazepam and discharged to NH with significant improvement.
+
+# IMPACT/DISCUSSION:
+
+In an acute medical setting, catatonia is seldom considered as a differential diagnosis for AMS, although prevalence ranges from 1.6 - 6.3%. Due to its remarkably similar presentation to delirium, it is often misdiagnosed and inappropriately treated. Neuroleptics used to treat delirium may precipitate catatonia, prolonging the episode of AMS, and thus lengthening hospital stay. Catatonia is a clinical syndrome characterized by psychomotor symptoms including stupor, mutism, waxing flexibility, and posturing. Historically associated with psychiatric illness, catatonia is now recognized as a systemic medical syndrome, associated with medical, neurological, and psychiatric disorders. The exact pathophysiology remains unclear; studies suggest abnormal activity at the gamma-aminobutyric acid, glutamate and dopamine receptors. Medical catatonia warrants an expedient medical workup, and if unrecognized it may progress to potentially fatal syndrome of malignant catatonia. Lorazepam is the drug of choice and, in resistant cases electroconvulsive therapy is the treatment of choice. Neuroleptics should be used with caution. Remarkable phenotypic overlap between delirium and catatonia warrants further research to establish clear diagnostic and treatment protocols.

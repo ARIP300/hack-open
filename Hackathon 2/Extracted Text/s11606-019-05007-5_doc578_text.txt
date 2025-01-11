@@ -1,0 +1,43 @@
+# JGIM
+
+# ABSTRACTS
+
+# UTILITY OF FOUR-DIMENSIONAL CORONARY COMPUTED TOMOGRAPHY ANGIOGRAPHY FOR MOBILITY OF THROMBUS IN THE ASCENDING AORTA
+
+Toshiki Kuno; Daisuke Asahara; Kiyoshi Koizumi; Takahito Ito; Yohei Numasawa; Masaki Kodaira; Kazuo Isozumi; Satoru Komatsumoto. Mount Sinai Beth Israel, New York, NY; Japanese Red Cross Ashikaga Hospital, Ashikaga, Japan. (Control ID #3186408)
+
+# CONCLUSION:
+
+Nearly one-half of new-onset seizures occur in individuals over the age of 65 years. Status epilepticus is also not infrequent in older patients. Non convulsive status epilepticus remains a challenging diagnosis as the seizures in older patients are less likely to be convulsive. NCSE can sometimes occur after a single brief convulsive seizure leading to prolonged confusional state that is sometimes mistakenly thought to be postictal. Continuous EEG is therefore needed to make the diagnosis and should be obtained for any patient with altered consciousness of unknown etiology. Detection of 14-3-3 protein in CSF should be considered as an adjunctive rather than absolute test for the diagnosis of prion diseases. The specificity of the test is around 80 percent and can be positive in non-prion diseases as well obscuring the diagnosis. It remains critical to make the right diagnosis. Whereas NCSE is treatable, CJD remains without cure.
+
+# UNUSUAL PRESENTATION OF CMV COLITIS IN AN ELDERLY IMMUNOCOMPETENT PATIENT
+
+Xixi Xu; Muhammad Fazal; Susan Phillips. Boston University School of Medicine, Boston, MA. (Control ID #3186043)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that CMV colitis should be considered in the differential diagnosis of severe colitis in older immunocompetent patients.
+
+# CASE:
+
+A 72-year-old male from Cape Verde with an unknown past medical history presented with 2 months of profuse, non-bloody, watery diarrhea that was not responsive to antibiotics. On admission, the patient had diarrhea that occurred up to 8 times per day with poor appetite, no abdominal pain, nausea or vomiting. Physical examination revealed normal abdominal exam. Laboratory studies were pertinent for WBC 10.2K/UL, potassium of 2.8 mmol/L and magnesium of 1.1 mg/dL. Inflammatory markers were elevated with CRP of 47.7 mg/L and ESR of 43 mm/Hr. Stool culture, stool ova and parasite exam, stool PCR for bacteria, parasite and Microsporidia were negative. Serology testings were negative for HIV and HTLV but positive for IgG of Cytomegalovirus (CMV). Serological viral DNA load was at 9443 IU/ml. A CT of the abdomen and pelvis showed evidence of pancolitis with dilated transverse colon. Colonoscopy showed severe inflammation in the colon with large well-demarcated patches and the edges were heaped. Biopsy showed diffuse ulceration, granulation tissue, and reparative changes. Immunohistochemistry of the biopsy was positive for CMV. Treatment with ganciclovir was started for 6 days and was transitioned to valganciclovir. The patient was discharged with valganciclovir and loperamide. Four weeks after the initiation of antiviral treatment, he reported significant improvements in symptoms. Repeated Flexible Sigmoidoscopy showed marginal improvements in the colon. Biopsies showed no CMV on immunohistochemistry but the rest of the histological findings were similar to prior biopsies.
+
+# IMPACT/DISCUSSION:
+
+Gastrointestinal involvement of CMV is usually seen in immunosuppressed patients with common presentations including diarrhea, fever, and abdominal pain. CMV colitis can mimic colitis caused by C.difficile, ischemia, malignant diseases, and inflammatory bowel diseases both clinically and radiologically. Thus, a diagnosis of CMV colitis requires positive IgM titer for CMV, CMV antigen in the blood, positive PCR in blood or urine, and positive immunohistochemistry/histological findings. CMV colitis in immunocompetent hosts is rare. Only 28 cases are reported in a meta-analysis. Most of these patients are over 55 years old, which suggests that the immune system weakens as a consequence of aging and high prevalence of comorbidities. Young and otherwise healthy patients usually do not need antiviral therapy and can recover spontaneously. For older patients.
+
+# LEARNING OBJECTIVE #1:
+
+4DCCTA is an excellent alternative without blind spots to detect and evaluate the mobile thrombus in the ascending aorta.
+
+# CASE:
+
+A 63-year-old man presented with transient left hemiplegia and disturbance of consciousness. He did not have any medical history, but smoked one pack of cigarettes per day. Diffusion weighted magnetic resonance imaging revealed high-intensity signals in the right cortex of the parietal lobe. He again experienced the same symptoms, but improved thereafter. He was diagnosed with acute ischemic stroke, and ascending aortic dissection was suspected because his symptoms fluctuated. However, a thrombus, which was protruding in the ascending aorta, and right renal infarction were detected via contrast-enhanced computed tomography (CT). He was treated with unfractionated heparin to prevent further embolization. Transthoracic echocardiography did not show the thrombus, but four-dimensional coronary computed tomography angiography (4DCCTA) revealed its shape and mobility. Therefore, we strongly considered it to be a mobile thrombus that may have been the cause of ischemic stroke and a risk for further systemic embolization. Preoperative transesophageal echocardiography (TEE) did not reveal a patent foramen ovale, atrial septal defect, or a thrombus in the left atrial appendage. TEE as well as 4DCCTA images showed mobility of the thrombus in the ascending aorta, and no remarkable arteriosclerotic change. The patient underwent a median sternotomy to remove a segment of his ascending aorta, which was replaced with a prosthetic graft material. Pathological examination revealed a thrombus with a ruptured fibrous capsule that was a cholesterol-rich atherosclerotic plaque.
+
+# IMPACT/DISCUSSION:
+
+Four-dimensional CT is a three-dimensional computed tomography volume containing a moving structure and has previously been utilized in the setting of radiation therapy planning. We performed 4DCCTA to evaluate the movement of a thrombus in the ascending aorta. Since our patient had a further risk of ischemic stroke due to the thrombus in the ascending aorta, we needed to evaluate the state of the thrombus promptly to indicate early surgical intervention. Although TEE is an effective method to evaluate the mobility of the thrombus in the ascending aorta, recent upper gastrointestinal surgery, esophageal varices are contraindications and gastrointestinal perforation, aspiration pneumonia are complications for performing TEE. 4DCCTA could provide more complete evaluations in the aorta without blind spots compared with TEE. If TEE is contraindicated, or not available, 4DCCTA is an excellent alternative to detect and evaluate the mobile thrombus in the aorta.
+
+# CONCLUSION:
+
+4DCCTA is an excellent alternative without blind spots to detect and evaluate the mobile thrombus in the ascending aorta.

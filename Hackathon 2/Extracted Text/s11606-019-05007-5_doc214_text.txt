@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# medications and how they may differ between specialties
+
+we conducted a cross-sectional survey of internists, cardiologists and geriatricians drawn from a random sample of members of the American College of Physicians (June-August 2018). Physicians were surveyed on current deprescribing practices, reasons for deprescribing, barriers to deprescribing, and discussion of deprescribing with other providers. Respondents were asked to identify medications they would consider deprescribing in hypothetical clinical cases.
+
+# RESULTS:
+
+The response rate varied between specialties: 26% for internists (182/771), 12% for cardiologists (87/717) and 26% for geriatricians (184/711). Demographics were similar across groups except for fewer female respondents among cardiologists. In the month prior to being surveyed 83% of internists, 93% of geriatricians and 85% of cardiologists reported considering stopping a CV medication for a patient. However, all specialties were less likely to report discussing discontinuing a CV medication with another provider (39%, 55%, and 41% respectively). Reported reasons for deprescribing were highly variable, with the most common reasons being medication side effects (>60% of respondents for all specialties) and among geriatricians limited life expectancy (>75% of respondents). Less frequently identified reasons for deprescribing included medication cost, polypharmacy, patient request, and lack of medication indication (all <30%). The most common barriers reported were similar across specialties and included concerns of patient reluctance and concerns of interfering with other physicians' treatment plans. In hypothetical cases, specialties were similarly likely to stop medications when patients reported specific side effects. Compared to internists, cardiologists were less likely and geriatricians were more likely to consider stopping CV medications when patients reported no concerns, a desire to decrease pill burden, a new diagnosis of metastatic malignancy, or a new diagnosis of dementia.
+
+# CONCLUSIONS:
+
+The majority of internists, cardiologists, and geriatricians reported consideration of deprescribing CV medications in their recent clinical practice, however reasons for deprescribing varied between groups which may reflect differing professional society guidelines. Common barriers included concerns of patient reluctance and concerns of interfering with other physicians' plans. These results indicate the need for additional efforts to develop communication strategies to improve the uptake of deprescribing.
+
+# PHARM-MD; AN OPEN-LABEL, RANDOMIZED CONTROLLED PHASE II STUDY TO EVALUATE THE EFFICACY OF A PHARMACIST MANAGED DIABETES CLINIC IN HIGH-RISK DIABETES PATIENTS
+
+Alexandra Halalau1, 2; Jordan Bushman1; Jaspreet Hehar1; Janna Fett; Scott1 Keeney3; Daniel Shelden4. 1Beaumont Health, Troy, MI; 2Oakland University William Beaumont School of Medicine, Rochester, MI; 3Baylor Scott & White, Kileen, TX; 4University of Michigan, Ann Arbor, MI. (Control ID #3165157)
+
+# BACKGROUND:
+
+Over 30 million Americans are currently living with diabetes and approximately 1.5 million cases are being diagnosed each year. The United States lags behind other developed countries on diabetes life expectancy and disease-related deaths. Previous studies demonstrated that for each 1% reduction in hemoglobin A1c (HbA1c), there was a corresponding 14% reduction in myocardial infarction, 12% reduction in stroke, and a 37% reduction of microvascular complications. Our retrospective data showed that patients who received care in a pharmacy managed diabetes clinic (PMDC) had a decrease at six months in HbA1c of 3.2% versus 1.2% in the standard care cohort (p=0.044). Our hypothesis is that a PMDC will have a significant positive impact on diabetes measures and will result in higher quality care at a lower price.
+
+# METHODS:
+
+This phase II trial is currently enrolling patients and randomly assigning them to one of two groups: standard of care (SOC) or SOC+PMDC. The PMDC consists of six extra visits with the pharmacists that are focused on patient-identified diabetes management gaps, goals and medication adjustments. Inclusion criteria are: patients older than 18 years of age with a diagnosis of type 2 diabetes mellitus and a HbA1c >9%, who are established with a primary care resident and who have not been seen in the PMDC within the last 3 months. A sample size of 86 patients was calculated to detect a 1.0 mean difference in HbA1c between the groups with 80% power at a p<0.05 significance. The primary outcome is the change in HbA1c, measured at 3, 6 and 12 months. Secondary outcomes include the impact on all diabetes core measures, patient quality of life, harms and cost impact related to the intervention.
+
+# RESULTS:
+
+At the time of preliminary analysis, 54 patients were enrolled, 28 in the intervention group and 26 in the control group. Baseline characteristics were not significantly different between the two groups. Mean HbA1c at baseline was 11.5 in the intervention group and 11.0 in the control group. At 3 months, the mean HbA1c decreased to 8.0 in the intervention group versus 9.3 in the control group. Difference in means from baseline to 3 months is -3.5 and -1.7 in intervention and control group, respectively. Retinopathy screening was performed in 12 v. 18 patients in the intervention and control groups, respectively (p=0.045). No significant differences in remaining secondary outcomes were observed.
+
+# CONCLUSIONS:
+
+If our study demonstrates improved patient outcomes with the utilization of pharmacists, a PMDC may become an integral part in the care of high-risk diabetic patients. This may help reduce the economic burden of the disease, improve life expectancy and disease related deaths. Complete data analysis will be presented at the conference.
+
+# PHARMACOTHERAPY FOR COCAINE USE DISORDER - A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Brian Chan1, 2; Karli Kondo4, 3; Michele Freeman4; Chelsea K. Ayers;4 jessica Montgomery4; Robin Paynter4; Devan Kansagara3, 4. 1OHSU, Portland, OR; 2Central City Concern, Portland, OR; 3Portland VA Medical Center, Portland, OR; 4Portland VA Healthcare System, Portland, OR. (Control ID #3186054)
+
+# BACKGROUND:
+
+Currently there are no accepted FDA-approved pharmacotherapies for cocaine use disorder (CUD), though numerous medications have been tested in clinical trials. We conducted a systematic review and meta-analysis of the effectiveness of pharmacotherapy for cocaine use disorder.
+
+# METHODS:
+
+We searched multiple data sources (MEDLINE, PsycINFO, and Cochrane Library) through November 2017 for systematic reviews and randomized controlled trials (RCTs) of pharmacological interventions in adults with CUD. We combined the findings of trials with comparable interventions and outcome measures in random-effects meta-analyses. We assessed the risk of bias of individual trials and the strength of evidence for each outcome using standardized criteria. Outcomes of interest comprised abstinence, defined as 2 or more consecutive weeks with negative urine drug screens (UDS); overall use, analyzed as the proportion of UDS specimens that were negative; and retention, defined as the proportion of randomized patients who completed treatment.
+
+# RESULTS:
+
+We found 7 systematic reviews and 47 RCTs that met inclusion criteria studying 66 different drugs or drug combinations. Antidepressants were the most widely studied drug class (38 RCTs) but appear to have no effect on cocaine use or treatment retention. Increased abstinence was found with bupropion (2 RCTs: RR 1.63, 95% CI 1.02 to 2.59), topiramate (2 RCTs: RR 2.56, 95% CI 1.39 to 4.73), and psychostimulants (14 RCTs: RR 1.36, 95% CI 1.05 to 1.77), though the strength of evidence for these findings was low. Antipsychotics improved treatment retention (8 RCTs: RR 1.33, 95% CI 1.03 to 1.75) and the strength of evidence was moderate.
+
+# CONCLUSIONS:
+
+Most of the pharmacotherapies studied were not effective for treating CUD. Bupropion, psychostimulants, and topiramate may improve abstinence, and antipsychotics may improve retention. Future trials of medications with behavioral interventions may be warranted.

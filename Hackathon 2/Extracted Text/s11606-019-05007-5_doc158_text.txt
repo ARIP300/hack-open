@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+Findings: A total of 86 patients were identified pre-intervention with a screening compliance of 66.2%. Post intervention, a total of 70 veterans were identified with a significant increase in screening compliance to 82.9% (p=0.0188).
+
+# CONCLUSIONS:
+
+Key Lessons: The group significantly increased AAA screening compliance after a comprehensive intervention targeting both providers and patients. By providing education to both providers and patients, we allowed for shared decision making, which increased screening rates. The veteran population is largely male with a high prevalence of smokers, making this a high impact intervention. Ultrasonography is the preferred screening test as it is noninvasive, low-cost, without radiation; with high sensitivity (94%), specificity (98%). CT was used in place of ultrasound if previously done as it has a high sensitivity (90%) and specificity (91%) for AAA, and additional ultrasound screening would be wasteful and unlikely beneficial. The USPSTF AAA screening recommendation was published in 2007. As more providers have become familiar with the guidelines, screening rates have increased. In 2012, a study at a large academic private medical center found an effective screening rate of 9.2%. A 2015 study in a primary care VA clinic similar to our population found a screening rate of 30%. Through intervention we were able to reach 82.9%. It will be important to continue to educate both patients and providers to ensure that screening for AAA continues to be maintained at high rate.
+
+# IMPROVING BLOOD PRESSURE CONTROL BY OPTIMIZATION OF GUIDELINE DIRECTED THERAPY FOR HYPERTENSION IN A PRIMARY CARE SETTING: QUALITY IMPROVEMENT PROJECT
+
+Cirous Sadeghi; Hassan A. Khan; Alexander J. Tiemeier; Smita Y. Bakhai. University at Buffalo, Buffalo, NY. (Control ID #3167676)
+
+# BACKGROUND:
+
+Our Internal Medicine Clinic (IMC) is an academic safety-net clinic, with its population comprised of 70% African Americans within an underserved region. It is estimated about 16% of the patients with hypertension (HTN) had BP at goal (less than 130/80 mmHg), according to the 2017 ACC/AHA HTN guidelines. It is estimated 70% of the patients have a diagnosis of HTN with a mean high body mass index (BMI) of 32 in IMC. The aim of this quality improvement (QI) project is to improve BP control to less than 130/80 from a baseline of 16% to 50% over 18 months in patients between 40 to 80 years old.
+
+# METHODS:
+
+A multidisciplinary QI team performed root cause analysis using fishbone diagram and identified physician, patient and system related barriers to optimal BP control. The QI team included physician champions, nursing and ancillary staff, residents, a social worker, patients; and administrative and information technology staff. We performed 4 Plan-Do-Study-Act (PDSA) cycles. The major components of interventions included: 1) Leveraging health information technology, 2) nursing education on accurate BP measurement, 3) physician education regarding ACC/AHA guidelines and medication reconciliation; and 4) patient education. The outcome measure is the percentage of patients with BP<130/80. The percentage of patients with Stage 1 and Stage 2 HTN; and HTN crisis were also monitored. Process measures included: 1) care guide use for DASH diet and lifestyle modification for patient education, and 2) completion of medication reconciliation. Balanced measures included increase patient wait time due to BP re-check and education; and time constraints for physicians during clinic visit. Data analysis was performed using a monthly run chart.
+
+# RESULTS:
+
+There was a steady increase and sustainable improvement of patients with BP nearing goal (<130/80) during various PDSA cycles. Sustainable improvement in stage 1 HTN, achieved highest at 41.5% in November 2018. There was also sustainable increase in rates of medication reconciliation and care guide use during clinic visit. Table below represents data from May to November 2018.
+
+# CONCLUSIONS:
+
+Engagement and synergy of our multidisciplinary team were the key factors for the success of this QI. Future PDSA cycles will include: 1) assessment of patient's adherence to medications, appointments and identifying barriers for non-adherence, 2) continuous education and reminders to patients and physicians regarding optimal BP goal, and 3) home BP measurements with patient logs to confirm mask and white coat HTN.
+
+# IMPROVING COMMUNICATION OF DISCHARGE PLANS AMONGST RESIDENTS, NURSES AND PATIENTS: A QUALITY IMPROVEMENT PROJECT
+
+Camille Hawkins; Arianne Clare C. Agdamag; Manya Gupta. Rush University Medical Center, Chicago, IL. (Control ID #3186779)
+
+# BACKGROUND:
+
+Discharge of hospitalized patients is a multistep process, involving communication amongst numerous healthcare providers. Delays in discharge cause a backlog of patients in the ED and ICUs, leading to prolonged patient wait times and overcrowding in the ED. Furthermore, many discharges occur in the evening hours, when there is a covering provider. Our institution has no standardized protocol on relaying discharge information from residents to nurses and patients, other than a simple EMR-generated discharge medication list. In this project, our goal was to determine the baseline perception of the discharge process and implement a mandatory, standardized discharge instruction checklist accessible to nurses, residents, and patients.
+
+# METHODS:
+
+Baseline surveys to determine problems with the discharge process were sent via email to nurses on general medicine floors and to all Internal Medicine residents. A discharge checklist was developed based on the issues identified. The checklist was launched during a resident safety conference, and we worked with our EMR representatives to make sure the list was included in patients' discharge paperwork, which is visible to all physicians, nurses, and patients. Residents were required to complete this checklist prior to printing the AVS.
+
+# RESULTS:
+
+The survey was completed by 86 nursing staff and 48 residents. For both residents and nurses, >95% have encountered discharge related issues. For nurses, 84.9% found inconsistencies in discharge related documentation, 89.5% have been contacted by patients after discharge and the most common issues were: discharge medication, transportation, and follow-up. Among residents, 91.7% had been contacted by nurses during cross cover to clarify discharge plans, 95.8% were willing to complete a discharge checklist and the most common issues were: medication refills, opioid prescriptions and follow-up. Both nurses (94.2%) and residents (81.3%) agreed that a standardized discharge template would be beneficial.
+
+# CONCLUSIONS:
+
+The majority of nurses and residents perceive a lack of standardized discharge communication. This ineffective communication can have a significant impact on a patient's health. The discharge related issues seen in the survey, specifically medication related questions, were similar to what have been reported in literature. Prior studies have also identified ineffective communication as the underlying reason for adverse events after discharge. The openness of nursing and residents in the implementation of a standardized checklist is key for improvement. Our checklist includes the reason for admission, medication changes, follow-up and contact person after discharge, all written in patient-friendly language. We hope that our checklist will provide clearer discharge plans for both patients and providers, and ultimately help prevent adverse events. To determine its efficacy, a post-intervention survey is being developed for residents and nurses.
+
+# IMPROVING SAFE OPIOID PRESCRIBING IN PRIMARY CARE: IMPACT OF A CLINIC-WIDE POLICY AND DATA DRIVEN PRESCRIBER FEEDBACK ON PRESCRIBING PRACTICE
+
+Trang Vu; Linda Wang; Eva Waite; Caroline Round; mary fishman. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3184607)
+
+# BACKGROUND:
+
+Despite the development of safe opioid prescribing guidelines, prescription opioids continue to contribute to the opioid epidemic.

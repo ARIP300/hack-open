@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# POST-DISCHARGE RESOURCE USE AND 30-DAY UNPLANNED HOSPITAL READMISSIONS IN PATIENTS ADMITTED FOR HEART FAILURE
+
+Molly J. Horstman1, 2; Javad Razjouyan1; Jacquelene Shahin2; Aanand D. Naik3, 2. 1Michael E. DeBakey VA Medical Center, Houston, TX; 2Baylor College of Medicine, Houston, TX; 3Michael E. DeBakey VAMC, Houston, TX. (Control ID #3186013)
+
+# BACKGROUND:
+
+Patients have the opportunity to interact with the healthcare system following discharge using a range of communication methods. This study seeks to examine the role of different types of post-discharge encounters on unplanned hospital readmissions in patients with an index admission for congestive heart failure.
+
+# METHODS:
+
+This is a retrospective cohort study using a national Veterans Health Administration dataset of patients admitted with a principal diagnosis of congestive heart failure from 2012 to 2014. The outcome of interest was unplanned readmissions within 30 days of hospital discharge. The independent variables were post-discharge outpatient encounters up to 30 days following hospital discharge: primary care appointments, phone calls with primary care, phone calls with a 24-hour triage nurse, phone calls with a telemonitoring nurse, and cardiology appointments. Post-discharge outpatient encounters were recorded as being absent or present following discharge (dichotomous variable). For patients with a readmission, only encounters occurring between discharge from the index admission and the readmission were recorded. We used multivariable logistic regressions to determine the impact of post-discharge outpatient encounters on unplanned 30-day readmissions while controlling for age, race/ethnicity, Charlson/Deyo comorbidity index, length of hospital admission, and number of admissions in the 12 months prior to the index admission.
+
+# RESULTS:
+
+There were 36,903 index admissions that met the inclusion criteria. The unadjusted, unplanned 30-day readmission rate was 19.2%. Veterans with a readmission were older (71.8 (11.5) vs. 72.4 (11.2), p<0.027) and had more comorbidities (Charlson/Deyo Comorbidity Index, 2.2 (2.1) vs. 2.7 (2.2), p<0.001). Post-discharge encounters between patients and the primary care team were common (non-readmitted patients: 75.9% (n=22,615) had at least one phone call with primary care, 62.4% (n=18,592) had at least one primary care appointment; readmitted patients: 71.5% (n=5078) had at least one phone call with primary care, 42.0% (n=2,984) had at least one primary care appointment). The odds of an unplanned 30-day readmission were lower for Veterans with a primary care appointment following discharge (Adjusted OR 0.44, CI 0.41-0.46), a cardiology appointment (Adjusted OR 0.50, CI 0.47-0.53), a phone call with a telemonitoring nurse (Adjusted OR 0.64, CI 0.59-0.69), or a phone call with primary care (Adjusted OR 0.77, CI 0.73-0.82). The odds of an unplanned readmission were higher for Veterans who had an ER visit (Adjust OR 30.60, CI 28.6-32.9) or phone call with a 24-hour triage nurse (Adjusted OR 1.17, CI 1.09-1.25).
+
+# CONCLUSIONS:
+
+Patients who are readmitted to the hospital use healthcare system resources differently than patients who are not readmitted. Learning Healthcare Systems may be able to use post-discharge outpatient encounters to identify patients at risk for hospital readmission.
+
+# POTENTIAL FOR UNINTENDED CONSEQUENCES: THE ASSOCIATION BETWEEN SMOKING AND BODY MASS INDEX AMONG PUBLIC HOUSING RESIDENTS IN BALTIMORE, MARYLAND
+
+Alejandra Ellison-Barnes1; Craig E. Pollack2; Jeanne M. Clark1; Kimberly Gudzune1. 1Johns Hopkins University, Baltimore, MD; 2Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3185870)
+
+# BACKGROUND:
+
+The newly implemented U.S. Department of Housing and Urban Development (HUD) rule requiring public housing to be smokefree may prompt some smokers to quit. While smoking cessation is generally desirable, it is associated with weight gain, and an excess burden of obesity already exists among public housing residents. Given little previous research on smoking and weight status in this population, our objective was to characterize the baseline association prior to the policy implementation.
+
+# METHODS:
+
+We conducted a cross-sectional analysis of survey data collected in 2014-2015 from randomly selected households of two public housing developments in Baltimore, MD (response rate 48%). Our independent variable was self-reported smoking status (current vs. former/never), and the dependent variable was measured body mass index (BMI). We used multivariate linear regression to examine the association between smoking status and BMI, adjusting for age, gender, physical activity level, added sugar intake, and housing development.
+
+# RESULTS:
+
+Respondents included 266 heads of household with mean age 44.5 (SD 12.4). Of these, 86% were women and 95% were Black. A majority (63.2%) were current smokers. Seventy-five percent were overweight or obese, with unadjusted mean BMI of 32.6kg/m2 (SD 10.1). In the adjusted regression model, the mean BMI of current smokers was significantly lower than that of former/never smokers at 34.9kg/m2 versus 37.4kg/m2 (-2.6kg/m2, 95% CI -5.0 to -0.07, p=0.044).
+
+# CONCLUSIONS:
+
+Among Baltimore public housing residents, the adjusted mean BMI of current smokers was significantly lower than that of former/never smokers after controlling for other risk factors, however it was still in the class I obesity range. Notably, nearly two-thirds of residents were current smokers and three-quarters were overweight or obese. Our results suggest that the new HUD smokefree rule has the potential to promote further weight gain that might lead to a higher risk class of obesity among smokers prompted to quit, highlighting the need to consider both of these prevalent risk factors in tandem in the setting of policy changes.
+
+# POTENTIAL IMPACT OF CHANGING PUBLIC CHARGE IMMIGRATION RULES ON CHILDREN WHO NEED MEDICAL CARE
+
+Leah Zallman1, 3; Karen Finnegan1; David Himmelstein2, 3; Stephanie Woolhandler2, 3. 1Institute for Community Health, Malden, MA; 2City University of New York at Hunter College, New York, NY; 3Cambridge Health Alliance/Harvard Medical School, Cambridge, MA. (Control ID #3184560)
+
+# BACKGROUND:
+
+In October, 2018, the Trump administration published a proposed rule change that would increase the chance of an immigrant being deemed a "public charge" and hence ineligible for legal permanent resident status or entry into the US. Under existing immigration policy, only immigrants who receive cash assistance or are institutionalized are considered to be "public charge". If these changes are finalized, immigrants' use of non-emergency Medicaid, Supplemental Nutrition Assistance Program, housing assistance and Medicare Part D low-income subsidy will be used to determine if they are "public charges". This change is expected to cause large numbers of immigrant parents to disenroll themselves and their children from safety-net programs, in large part due to fear and confusion over the rule even among immigrants to whom the rule does not apply.
+
+# METHODS:
+
+We analyzed a nationally representative sample from the 2015 Medical Expenditure Panel Survey. We estimated the number children "in need of medical care" who are at risk of disenrolling from Medicaid/CHIP and compared them with Medicaid/CHIP-enrolled children who were not at risk. We include CHIP because many states use blended funding for Medicaid and CHIP, and Medicaid and CHIP beneficiaries often do not know which program is funding their health coverage. We defined "at risk of being disenrolled" as living in a household with any non-citizen adult, whether or not the child was a U.S. citizen. We defined children as being "in need of medical care" if they 1) were diagnosed with a medical condition such as asthma; 2) were disabled (functionally limited or disabled due to mental health condition); or 3) had used care in the 12 months (were prescribed medications, received care for illness or injury, or received any.

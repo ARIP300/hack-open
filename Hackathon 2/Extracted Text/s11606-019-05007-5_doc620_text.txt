@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+# eConsults Improve Primary Care Patient Wait Times to Specialty Care
+
+Ravi Budhan; Joseph Deluca; Eric Epstein; Anna Broder; Raphael Hulkower; Joann Kwah; Sharon Rikin. Montefiore - Albert Einstein College of Medicine, Bronx, NY. (Control ID #3185225)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Primary care patients face challenges to specialty care including long wait times which are associated with increased no show rates.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To decrease the wait times for specialty care and increase the proportion of completed visits by providing an alternative to routine referrals.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+An eConsult is a standardized form of communication between a primary care physician (PCP) and a specialist within the electronic medical record. From February to July 2018, the eConsult workflow was piloted among three urban, academic primary care practices which included faculty, residents and mid-level providers. The eConsult was developed as an alternative to routine referral orders for Internal Medicine specialties. eConsult orders prompted PCPs to provide a brief summary of the patient along with a clinical question. eConsultants provided recommendations within three days with three potential outcomes: no appointment needed, expedited appointment, or non-expedited appointment. If an expedited appointment was recommended, each specialty was responsible for scheduling the patient, either by overbooking or by utilizing an appointment blocked for this purpose. If a non-expedited appointment was recommended, the same workflow as routine referrals was applied.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Average wait time to specialty appointment and proportion of completed visits were compared between routine referrals and a) expedited eConsults and b) non-expedited eConsults using student t-test for means and chi-square for categorical outcomes. For routine referrals, a random sample, stratified by specialty and month was evaluated for outcome estimates.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+During the 6 month period, PCPs requested 128 eConsults with an average wait time to initial response of 0.73 days. After the eConsult, 48.4% of patients did not require an appointment, 20.3% required expedited appointment, and 31.3% required non-expedited appointment. In this same time period, PCPs placed 994 routine referrals and 450 were sampled for estimates. For scheduled visits, the mean wait time was 29 days (SD: 32 days) for eConsult expedited, 78 days (SD: 42 days) for eConsult non-expedited, and 81 days (SD: 59 days) for routine referral (eConsult expedited vs. routine p<0.0001, eConsult non-expedited vs. routine p=0.81). The proportion of completed visits was 75% for eConsult expedited, 46.4% for eConsult non-expedited, and 50.5% for routine (eConsult expedited vs. routine p=0.02; eConsult non-expedited vs. routine p=0.68).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This eConsult intervention successfully provided a specialist recommendation in &lt;3 business days. The majority of eConsults facilitated PCPs management of care without a need for a specialty appointment. eConsults requiring an expedited appointment had decreased wait times and a higher visit completion rate when compared to routine referrals. eConsults requiring non-expedited appointments were not different in appointment outcomes; however, based on specialist recommendations, management could start prior to the appointment.
+
+# EFFECTIVENESS OF FECAL IMMUNOCHEMICAL TESTING AS THE PRIMARY SCREENING TOOL FOR COLORECTAL CANCER IN AN AMBULATORY CARE CLINIC FOR THE UNDERINSURED AND UNINSURED
+
+Maurice Marcuard1; Edward Oldfield1; David Mendel2; Sami G. Tahhan1; David Johnson2. 1EVMS, Norfolk, VA; 2EVMS, NORFOLK, VA. (Control ID #3159189)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Is the fecal immunochemical test an effective colorectal cancer screening method in a clinic for the uninsured and underinsured?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To determine the adequacy of the FIT screening program at the ACC and compliance with the core USMSTF quality measures which include:
+2. - FIT completion rate to those offered testing of 60% or greater
+- Proportion returning FIT that cannot be processed by the laboratory of less than 5%
+- Colonoscopy completion rate for those with a positive FIT of 80% or greater
+
+To determine the average time to colonoscopy from positive FIT test
+3. To determine the percentage of patients with a negative FIT test who undergo repeat annual FIT testing
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The US MultiSociety Task Force (USMSTF) guidelines for colorectal cancer (CRC) screening recommend either colonoscopy or annual fecal immunochemical testing (FIT) as the 1st tier screening methodologies. As a result, the Sentara Ambulatory Care Center (ACC) started using FIT testing as the preferred screening test. Importantly, the effectiveness of FIT testing is dependent on the quality of the FIT screening program and the ability to follow up positive tests with colonoscopy. This retrospective quality improvement project reviewed all ACC patients ordered for FIT testing during the first year (9/1/2016-8/31/2017) and one year of follow-up time (9/1/2017-8/31/2018). Information was obtained by chart review and included all patients ordered for a FIT test without any exclusion criteria. For patients with negative FIT testing, chart review determined if they were able to complete a follow-up FIT test.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+It is estimated that there are approximately 1000 cases of cardiac involvement of AL amyloidosis per year in the United States, with a median age at presentation between 55 and 60 years. Prognosis is poor, with a median survival of 6 months from the onset of heart failure in the untreated population. Swift diagnosis and treatment is therefore crucial in potentially modifying the natural history of this disease. Clinical features suggestive of amyloidosis include the disproportionate degree of BNP elevation as compared to a patient's clinical presentation, intolerance to ACE-inhibition, and nephrotic-range proteinuria. It is postulated that the degree of BNP production in cardiac amyloidosis is secondary to abnormal hormonal activation of myocytes. Similarly, intolerance to ACE-inhibition has been attributed to autonomic involvement of systemic amyloid. Proteinuria is indicative of systemic involvement of disease. An additional feature of this case that may have assisted in the diagnosis included the patient's history of MGUS, a rare precursor of AL amyloidosis. The mainstay of treatment for AL cardiac amyloidosis is diuretics, chemotherapy, and stem cell transplant in select patients. Usual guideline-directed medical therapies for heart failure with reduced ejection fraction are often poorly tolerated.
+
+# CONCLUSION:
+
+In elderly patients with new-onset heart failure without significant valvular disease, who are low risk for ischemic heart disease, should be evaluated for cardiac amyloidosis. Discrepant BNP elevation and intolerance to ACE-inhibition should be considered potential markers of cardiac amyloidosis.
+
+# CARDIOMYOPATHY UNMASKED BY PHEOCHROMOCYTOMA
+
+Younghwa Kwon; Niaz Memon; Yi Xiong. Mercy Health Jewish Hospital of Cincinnati, West Chester, OH. (Control ID #3184610)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing the rare presentations of pheochromocytoma
+
+# LEARNING OBJECTIVE #2:
+
+Understanding the pathophysiology behind pheochromocytoma
+
+# CASE:
+
+A 53-year old female presented with palpitations, headache, and chest pain. Patient reported emesis and bilateral paresthesia. She recently had flu-like symptoms that resolved 6 weeks ago. Her BP was 182/87 mmHg, and appeared diaphoretic. Labs revealed blood glucose of 497 mg/dL, troponin of 0.26 ng/mL, Lactic acid of 6.9 mmol/L, Anion Gap of 21, and WBC of 21.6 K/uL. Blood gas revealed metabolic acidosis. There were no ketones and A1c was 5.9%. EKG showed anterior and lateral ST-segment elevations, concerning for a ST-elevated myocardial infarction (STEMI). She was started on an insulin drip, heparin drip, and clopidogrel. Patient was transferred to the catheterization lab, which revealed normal coronary arteries, non-dilated cardiomyopathy with reduced ejection fraction of 40%. She continued to complain of pounding palpitations followed by a hot flash sensation. These episodes had been ongoing for seven years. CT abdomen was obtained and showed right adrenal nodule. Plasma metanephrines were tested, which showed elevated metanephrines and normetanephrine. These were elevated on repeated labs, as well as in 24-hour urine collection. She had robotic-assisted right adrenalectomy. Repeat plasma metanephrines 6 months later showed normalization.
+
+# IMPACT/DISCUSSION:
+
+Pheochromocytoma is able to present in a variety of ways. Typically, it presents as the classic triad: headache, sweating, and tachycardia. Rarely it can present as hypertension and insulin resistance. We present a case of a female who developed STEMI and underwent cardiac angiogram, which revealed clean arteries and resembled stress-induced cardiomyopathy. Further investigations showed elevated metanephrines and concern for pheochromocytoma. Though our patient had the classic triad, these symptoms were overlooked due to concerns for acute coronary syndrome and DKA (without history of diabetes mellitus). She also had leukocytosis and lactic acidemia with anion gap acidosis, suggesting infection. It is speculated that catecholamine can increase myocardial demand and cause coronary artery vasoconstriction, which may mimic ACS. Additionally, the hyperglycemia can be explained by alpha-1 and beta-2 adrenergic receptor-induced gluconeogenesis and glycogenolysis. This case highlights the various presentations of pheochromocytoma, and clinicians ought to include pheochromocytoma as a differential for acute coronary syndrome when other causes are unexplainable.
+
+# CONCLUSION:
+
+Pheochromocytoma can have various presentations due to various catecholamine induced pathways. When classic triad of sweating, headache and palpitation is present, especially in combination with hypertension, pheochromocytoma should always be on the differential diagnosis. Pheochromocytoma in the setting of "pheo crisis" can induce stroke, heart attack, organ failure, coma, and death. In this case, STEMI and DKA was demonstrated.
+
+# CARDIOVASCULAR COLLAPSE AND SEIZURES: AN UNINTENDED QUETIAPINE OVERDOSE
+
+Elena Jimenez Gutierrez1; Spencer Winters2; Siobhan Proksell3. 1The University of Texas Health Science Center at San Antonio, San Antonio, TX; 2Bronson Medical Group, Kalamazoo, MI; 3University of Pittsburgh Medical Center Presbyterian Hospital, Pittsburgh, PA. (Control ID #3145056)
+
+# LEARNING OBJECTIVE #1:
+
+Identify rare presentation of quetiapine overdose as part of differential diagnosis for shock
+
+# LEARNING OBJECTIVE #2:
+
+Recognize risks posed by concomitant use of antipsychotic agent and CYP3A4 inhibitor
+
+# CASE:
+
+A 58-year-old man presented with two days of confusion, tremors and seizures. Past medical history included schizophrenia, epilepsy, HCV infection and right hemiparesis due to ischemic strokes. He initiated dasabuvir, ombitasvir, paritaprevir and ritonavir (Viekira Pak) three days earlier. His epilepsy had been controlled on lamotrigine for years. Review of systems was unremarkable. Vital signs were notable for tachycardia to 120 and hypotension to 73/51. Physical exam revealed disorientation, miosis, dry oral mucosa, tremors in all extremities, normal reflexes, and no new focal neurologic deficits, meningeal signs, thrush, jugular venous distention or stigmata of cirrhosis. BMP was notable for hypokalemia, acute kidney injury, metabolic acidosis with high anion gap, and normal osmolal gap. VBG revealed mild respiratory acidosis. CBC showed mild anemia. Drug testing was positive for tetrahydrocannabinol. Hepatic function panel, PT/PTT, ammonia, lamotrigine, CK, troponin, cortisol, and D-dimer levels were unremarkable. Urine and blood cultures, HIV serology and CXR were negative. Head CT showed no acute process. EEG revealed only diffuse slowing. EKG showed sinus tachycardia, prolonged QTc, and no ST or T-wave changes. TTE showed hyperdynamic LV function without wall motion abnormalities (WMA) and no RV dysfunction. The quetiapine level was 1434 ng/mL (therapeutic range 100-500 ng/mL).
+
+# IMPACT/DISCUSSION:
+
+Patient presented in distributive shock due to quetiapine overdose from interaction with ritonavir. Negative infectious work-up and no fever or leukocytosis made septic shock improbable. Cortisol levels ruled out addisonian crisis. Serotonin and neuroleptic malignant syndromes were unlikely given lack of muscular rigidity, abnormal reflexes and elevated CK levels. Normal osmolal gap and unremarkable toxicology screen did not favor toxic ingestions. No arrhythmias or ischemic changes on EKG, negative troponins, and preserved EF without WMA or severe valve insufficiency on TTE ruled out cardiogenic shock. Lack of significant hemorrhage and fluid depletion made hypovolemic shock unlikely. Given no evidence of massive pulmonary embolism, pneumothorax or pericardial tamponade on imaging, obstructive shock was improbable.
+
+# CONCLUSION:
+
+The case enforced the need to exclude other causes of shock and highlighted a rare presentation of overdose due to drug interactions. Patient experienced delirium, seizures, tachycardia, hypotension, hypokalemia and QTc prolongation as manifestations of quetiapine intoxication. Since quetiapine is metabolized by cytochrome P450 (CYP).

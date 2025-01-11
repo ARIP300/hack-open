@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Better patient outcomes may be achieved by combining technology-based programs with in-person provider intervention.
+
+Several studies have shown that computer-guided, provider-delivered substance use interventions have equivalent or even better outcomes than patient self-administered computerized programs. However, most technology-based SBIRT programs described in the literature are patient self-administered and do not directly involve a healthcare provider. Therefore, because providers are an important piece of the puzzle from a clinical and technology adoption standpoint, their input on user experience is essential to the production of clinically relevant provider-focused mHealth SBIRT technology.
+
+# METHODS:
+
+The SBIRT app was designed for use by providers in conjunction with patients during a healthcare visit to assist the provider in assessing the patient's level of risk due to substances use and walk them through the steps of a brief intervention that is tailored to the patient's responses. This mixed methods study included think-aloud tasks, task-success ratings, semi-structured interviews, and usability questionnaires (e.g., System Usability Scale [SUS]) to examine user experience among 12 health coaches who provide substance use services in emergency department and primary care settings.
+
+# RESULTS:
+
+The average rate of successful task completion was 94% and the mean SUS score was 76 out of 100. Qualitative data suggested the app enhanced participants' capability to complete tasks efficiently and effectively. Participants reported satisfaction with the app's features, content, screen layout, and navigation and felt it was easy to learn, and could benefit patient interactions.
+
+# CONCLUSIONS:
+
+Overall results indicate acceptable user experience and usability for this provider-focused point-of-care mobile app for substance use screening and intervention as well as favorable potential for adoption by healthcare practitioners. Such mobile health technologies may help to address well-known challenges related to implementing substance use services in healthcare settings.
+
+# POLYPHARMACY: PATIENT AND PHYSICIAN CONTRIBUTION
+
+Niyati M. Gupta1; Bo Hu1; Luke D. Kim2; Simon W. Lam2; Giavanna Russo-Alvarez2; Michael B. Rothberg2. 1Cleveland Clinic Foundation, Cleveland, OH; 2Cleveland Clinic, Cleveland, OH. (Control ID #3180369)
+
+# BACKGROUND:
+
+Polypharmacy is common among older patients. It is associated with more primary care visits, drug-drug interactions, fall-related hospitalizations and mortality. Our objective was to study the burden of polypharmacy in an elderly population and identify patient factors associated with it, as well as assess the variation in individual provider's rates of polypharmacy.
+
+# METHODS:
+
+We conducted a retrospective cohort study of patients aged 65 years who had an ambulatory visit to an internal medicine or family medicine provider in 2015. For each patient, we extracted the following factors: demographics, comorbidities, medications (name, order date, sig and refills), and specialty visits; and details about their primary care provider (PCP). Pearson's chi-square tests were used to assess the association between polypharmacy and each patient factor. We then used linear regression to assess the association between patient factors and total medications. Using our regression model, we compared PCPs' adjusted rates of medication prescribing.
+
+# RESULTS:
+
+Our sample included 51,093 patients cared for by 681 physicians. Patients' mean age was 75.3 years, 59% were male, 84% were white, 33% had a BMI of 30 kg/m2; and 47% were former smokers. Patients took an average of 7.9 medications (median 7, IQR 5 to 10): 24% patients took <5, 45% took 5-9, 31% took 10 medications. Compared to patients taking <10 medications, those taking 10 medications were older (76 vs. 75 years), more often male (61% vs. 58%), Black (16% vs. 11%), not married (44% vs. 35%), obese (47% vs. 34%), and had more comorbidities (8 vs. 4), specialists (9 vs. 5) and specialty visits (39 vs. 15 visits in the past 2 years). (p<0.001 for all comparisons) The following factors were independently associated with number of medications: age ( = 0.10 for age 86-90 years; 0.20 for >90 years), BMI ( = 1.2 and 1.56 for BMI 35-39.9 and 40 kg/m2 respectively), and Medicaid insurance ( = 1.82). Organ transplant, cardiac and pulmonary conditions were the comorbidities most strongly associated with polypharmacy ( = 2.0, 1.9 and 1.6 respectively). Of the observed variance in number of medications, demographics accounted for 2%, insurance status for 0.6% and co-morbidities for 33%. Adjusted mean medications prescribed by physician ranged from 6.5 to 11.4 (median 8.3, IQR 7.7 to 8.9). Overall, 18% of providers had adjusted prescribing rates significantly higher and 17% had rates significantly lower than the mean.
+
+# CONCLUSIONS:
+
+Polypharmacy is common in primary care; 31% patients took 10 medications. Co-morbidities explain only 33% of the variance in number of medications, and there was extreme variation in physician prescribing rate that could not be explained by patient factors. More study is needed to understand physician attitudes that lead to polypharmacy in the elderly.
+
+# POST-DISCHARGE PATIENT-REPORTED DATA ON PAIN, APPETITE, HEART FAILURE SYMPTOMS AND MANAGEMENT AS PREDICTORS OF READMISSION OR ED VISITS
+
+Jinying Chen1; Rajani Sadasivam1; Amanda C. Blok3; Christine Ritchie2; Catherine S. Nagawa1; Elizabeth Orvek1; Kanan Patel2; Thomas Houston1. 1University of Massachusetts Medical School, Worcester, MA; 2University of California San Francisco, San Francisco, CA; 3Bedford VA Medical Center, Bedford, MA. (Control ID #3185384)
+
+# BACKGROUND:
+
+After a hospital discharge, patients with heart failure have higher rates of early repeat acute care use (i.e.: readmission or emergency department (ED) use within 30 days) than other patients. Current efforts on predicting risk of repeat acute care utilization rely on inpatient data from electronic health records. However, many changes occur after the transition to home. Post-discharge patient-generated data relevant to care transitions has had limited exploration. We examine the association between post-discharge patient-generated data and early repeat use of acute care.
+
+# METHODS:
+
+We used data from 156 patients with index hospitalization for chronic heart failure from a large tertiary hospital. For the first seven days after discharge, using a daily interactive voice response automated phone call to the home of the patient, we collected patient-reported health status, heart failure symptoms (dyspnea and edema), medication management, knowledge of healthcare follow-up plans, and other issues like pain and poor appetite. These patient-reported data from automated calls was reviewed by care transition nurses to determine whether a management call was required. Patients were also followed for 30 days after discharge to assess repeat acute care utilization. We examined the association between each patient-reported predictor variable and the 30-day outcome by using multivariable logistic regression, adjusting for race, marital status, disease burden, and also participation (number of automated phone calls completed) and the number of transition nurse's management calls.
+
+# RESULTS:
+
+Patients were on average 63 years old; 51% were African-American, 52% were women, and 18% had less than high school education. Most patients (147 (94.2%)) responded to all the automated phone surveys. At the end of 30-days post discharge, 30 (19%) patients had again used acute care. After adjustment, patient-reported dyspnea, edema, medication management issues, and lack of understanding of follow-up were not associated with early acute care use. Overall health status (OR: 3.5; 95% CI: 1.1, 11.6), pain (OR: 2.6; 95% CI: 1.1, 6.2), or poor appetite (OR: 2.8; 95% CI: 1.1, 7.4) were positively associated with 30-day acute care utilization. Among 58 reports of pain in follow-up nursing notes, 2 (3%) were cardiac pain, 39 (67%) were non-cardiac pain (e.g.: leg pain, abdominal pain, knee pain, back/hip pain and headache), and 17 (29%) with undetermined sources.
+
+# CONCLUSIONS:
+
+Patient-reported poor health status, pain (frequently non-cardiac), and poor appetite were positively associated with 30-day acute care utilization, and surprisingly, associations were stronger for these.

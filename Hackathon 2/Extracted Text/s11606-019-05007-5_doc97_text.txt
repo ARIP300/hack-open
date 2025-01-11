@@ -1,0 +1,43 @@
+# ABSTRACTS JGIM
+
+# DOES HOSPITAL TEACHING STATUS INFLUENCE RISK FACTORS AND INCIDENCE RATE OF 30-DAY READMISSION FOR DIABETIC KETOACIDOSIS?
+
+Ron T. Varghese; Diana G. Jacob; Gilbert-Roy B. Kamoga; Khaled Khasawneh; Neal Mehta. White River Medical Center, Batesville, AR. (Control ID #3184547)
+
+# BACKGROUND:
+
+Nearly 1 in 10 individuals in the United States have Diabetes Mellitus [1]. One potential preventable complication is Diabetic Ketoacidosis (DKA). Better understanding of the risk factors for readmissions of DKA will allow the development and implementation of specific patient-centered interventions to decrease future readmissions. Furthermore, previous literature suggests that teaching hospitals may have higher readmission rates compared to non-teaching hospitals [2]. We sought out to determine the 30-day all-cause readmission rate for adults (age >= 18) admitted with a principal diagnosis of DKA and compare the risk factors for teaching and non-teaching metropolitan hospitals.
+
+# METHODS:
+
+We utilized Agency of Healthcare Research and Quality's (AHRQ) 2014 Nationwide Readmission Database which includes 14.9 Million discharges across 22 states to identify admissions with a principal diagnosis of DKA related ICD-9 diagnosis (250.10 - 250.13) associated with both Type 1 and Type 2 Diabetes Mellitus. Applicable admissions were all adults (age >= 18) with an index hospitalization between January 1 to November 30, 2014. Patients who died during index admission and those with missing covariates were excluded. In addition, all index admissions to non-metropolitan hospital were excluded. All-cause readmission including DKA within 30-days of DKA were analyzed. Statistical analysis was completed with Stata 15 (StataCorp, College Station, TX) with p-values < 0.05 considered statistically significant. A univariate and multivariate analysis of data collected was completed using both odds ratio and chi square test for significance. Predictors for readmission were determined using a multivariate logistic regression model following sequential step-wise elimination of covariates including demographics, comorbidities, hospital characteristics, length of stay (LOS) for index admission, and the modified Elixhauser Comorbidity Index.
+
+# RESULTS:
+
+A total of 59,840 patients met criteria for inclusion. Of which, there was 11,635 readmissions (overall rate 19.44%) within 30-days of the index admission. Of the 11,635 readmissions, 6,329 (54.40%) had a principal diagnosis of DKA on the readmission. Metropolitan teaching hospitals had an overall readmission rate of 19.32% compared to 19.66% of non-teaching metropolitan hospitals which was not statistically significant. Multivariate analysis showed that for both teaching and non-teaching metropolitan hospitals increased odds for 30-day readmission from DKA were female, younger, leaving AMA, Medicare as payer, longer LOS, having renal failure and admitted to a hospital that was either non-profit or investor-owned compared to a government entity.
+
+# CONCLUSIONS:
+
+Almost 20% of all patients discharged with a principal diagnosis of DKA will be readmitted within 30 days. Metropolitan teaching and non-teaching hospitals have similar readmission rates and profile. Targeted interventions in patients at risk for readmission will help to decrease future morbidity and mortality.
+
+# DOES MEDICAID EXPANSION FOR VETERANS RESULT IN MORE DUAL USE OF VA AND NON-VA ACUTE HEALTH CARE SERVICES?
+
+Patrick O'Mahen 1, 2; Laura A. Petersen 1, 2. 1 Michael E. DeBakey VA Medical Center, Houston, TX; 2 Baylor College of Medicine, Houston, TX. (Control ID #3184082)
+
+# BACKGROUND:
+
+Medicaid expansion may offer multiple sources of care for Veterans eligible for the VA, which creates potential dual use and may risk poorer care-coordination and health outcomes. Our goal is to examine how pre-Affordable Care Act state-level Medicaid expansions affect how many Veterans had a hospital admission or used emergency department (ED) at both Veterans Health Administration (VA) and non-VA Medicaid funded care.
+
+# METHODS:
+
+To account for confounders, we used a difference-in-difference approach to determine associations between Medicaid expansion and utilization among low-income Veterans ages 18-64 to eliminate age-related Medicare-eligible Veterans. We studied states that expanded Medicaid (New York, Arizona) to adults in 2001 or 2002 and paired them with demographically similar non-expansion states (Pennsylvania, New Mexico, Nevada) to isolate changes in ED visits and hospital admissions. We used ordinal logistic regression to separately estimate the proportion having hospital admissions or ED visits at both VA and non-VA facilities paid by Medicaid. We stratified by gender, race, and number of comorbid conditions. We controlled for age and distance to the nearest VA. Data sources were the VA Corporate Data Warehouse and the Medicaid Analytic Extract files. The study period encompassed 1,405,667 person years and represents every Veteran age 18-64 living in one of these five states for at least one year from 1999 to 2006 and qualified for VA care due to low income.
+
+# RESULTS:
+
+For women, Medicaid expansion was associated with an increase of 0.3 percentage points in the proportion of Veterans having hospital admissions at both Medicaid and VA facilities in a given year (99% CI -0.22 to 0.83) and 1.14 points in ED visits (.62 to 1.62). Men saw increases of 0.46 points for admissions (0.24 to 0.68) and 0.87 for ED visits (0.73 to 1.01). Among whites, expansion was associated with an increase of 0.64 points in proportions of Veterans having dual admissions (0.39 to 0.87) and 1.19 points in ED visits (0.62 to 1.66). Non-whites saw decreases of 0.01 points for admissions (-0.45 to 0.43) and an increase of 0.46 for ED visits (0.23 to 0.69). Among Veterans with no comorbid conditions, expansion was associated with an increase of 0.7 points in persons having dual admissions (-0.55 to 0.85) and 0.70 points in ED visits (0.62 to 1.66). Veterans with three or more comorbid conditions saw decreases of 0.09 points for admissions (-0.55 to 0.38) and increases of 0.62 for ED visits (0.27 to 0.98).
+
+# CONCLUSIONS:
+
+Medicaid expansion associates with small or no increased dual use of VA and Medicaid-funded services, suggesting problems like care coordination arising from dual use may be limited. Further work should explore dual use among vulnerable groups. This information may help project usage for both ACA and VA Choice programs, which expand access to non-VA care.
+
+# DOES REMOVING FINANCIAL INCENTIVES LEAD TO DECLINES IN MEASURED PERFORMANCE? INSIGHTS FROM MEDICARE ADVANTAGE STAR RATINGS PROGRAM

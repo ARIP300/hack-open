@@ -1,0 +1,37 @@
+# 5.2 Implications and conclusions
+
+This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+
+The present work foments and contributes to various scholarly conversations, particularly those involving mental health or ADHD and entrepreneurship (Lerner 2016; Lerner et al. 2018b; Thurik et al. 2016; Verheul et al. 2015, 2016; Wiklund et al. 2016). It also serves as a basis for future research. For example, the finding that individuals with ADHD are almost two times more likely to venture indicates the merit of further studies on ADHD and venturing outcomes. This is particularly so once considering the otherwise squandered human capital, the costs of business failure, and/or the many adverse outcomes associated with unchanneled adult ADHD (such as absenteeism, unemployment, substance abuse, incarceration).
+
+Bolstered by the findings of our large-scale quantitative inquiry, ADHD has implications for organizational research, practice, and policy. Research implications include highlighting the need for further study of contextual factors determining under which conditions ADHD is a strength or a weakness, and is adaptive or counter-productive in venturing. In regard to practice and policy, understanding that mental health, and ADHD in particular, has dark and bright sides for entrepreneurship, has various implications. For example, it suggests the opportunity for research to help educators, clinicians, and even organizations focus on strengths (such as a willingness to act, an imperturbable focus on activities of interest) and compensate for weaknesses (such as distractibility and poor attention to detail in mundane activities). More generally, it suggests the continued opportunity for considering other predictors seen as aberrant in respect to entrepreneurship (e.g., Hmieleski and Lerner 2016; Wiklund et al. 2018).
+
+Overall, the present work contributes to theory by grounding recent research linking ADHD and entrepreneurship with a large-scale quantitative examination that squarely tests the effect of attention deficit/hyperactivity disorder. In concert with other studies, the work establishes an emergent entrepreneurship literature on ADHD. In doing so, it attests to broader emerging theory that suggests the relevance of clinical or otherwise dark constructs in entrepreneurship.
+
+# References
+
+American Psychiatric Association (APA) (2013). Diagnostic and statistical manual of mental disorders (DSM-5). American Psychiatric Publishing.
+
+Antshel, K. M. (2017). Attention deficit/hyperactivity disorder(ADHD) and entrepreneurship. Academy of Management Perspectives. https://doi.org/10.5465/amp.2016.0144.
+
+Archer, D. (2014). ADHD: the entrepreneur’s superpower. Forbes Magazine Online. http://www.forbes.com/sites/dalearcher/2014/05/14/adhd-the-entrepreneurs-superpower. Retrieved 11/22/2016.
+
+Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive functions: constructing a unifying theory of AD/HD. Psychological Bulletin, 121(1), 65–94.
+
+Barkley, R.A., Murphy, K.R., Fischer, M. (2008). ADHD in adults: what the science says. Guilford, New York.
+
+Baron, R. A. (2007). Behavioral and cognitive factors in entrepreneurship: entrepreneurs as the active element in new venture creation. Strategic Entrepreneurship Journal, 1(1–2), 167–182.
+
+Baron, R. A., Hmieleski, K. M., & Henry, R. A. (2012). Entrepreneurs’ dispositional positive affect: the potential benefits—and potential costs—of being Bup^. Journal of Business Venturing, 27, 310–324.
+
+Bozionelos, N., & Bozionelos, G. (2013). Attention deficit/hyperactivity disorder at work: does it impact job performance? Academy of Management Perspectives, 27(3). https://doi.org/10.5465/amp.2013.0107.
+
+Canits, I., Bernoster, I., Mukerjee Nath, I., Bonnet, J., Rizzo, U., & Rosique, M. (2018). ADHD (attention-deficit/hyperactivity) symptoms and academic entrepreneurial preference: is there potentially an association? Small Business Economics, this issue.
+
+Cardon, M., Foo, M.-D., Shepherd, D., & Wiklund, J. (2012). Exploring the heart: entrepreneurial emotion is a hot topic. Entrepreneurship Theory and Practice, 36(1), 1–10.
+
+de Graaf, R., Kessler R. C., Fayyad, J. et al. (2008). The prevalence and effects of adult attention deficit/hyperactivity disorder (ADHD) on the performance of workers: results from the WHO World Mental Health Survey Initiative. Occupational and Environmental Medicine; 65:(835).
+
+Douglas, E. J., & Shepherd, D. A. (2002). Self-employment as a career choice: attitudes, entrepreneurial intentions, and utility maximization. Entrepreneurship Theory and Practice, 26(3), 81–90.
+
+Frese, M. (2009). Towards a psychology of entrepreneurship: an action theory perspective. Foundations and Trends in Entrepreneurship, 5(6), 437–496. https://doi.org/10.1561/0300000028.

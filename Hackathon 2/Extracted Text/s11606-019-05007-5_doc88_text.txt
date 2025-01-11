@@ -1,0 +1,47 @@
+# ABSTRACTS
+
+the remaining 12 may require specific indications-based rules for categorization as new vs. pre-existing.
+
+# CONCLUSIONS:
+
+This analysis confirms the importance of developing and adhering to a consistent, measurable, defensible, and reproducible definition of an initial prescription because nearly half of all PCPs' prescriptions in our dataset were not actually newly-initiated by the prescribing PCP. Using EMR rather than claims data both adds clinical richness and introduces methodological challenges (since longitudinal ordering and fill data is lacking) that must be addressed—most notably, accounting for patient-reported medications, accounting for first-time visits, and medications with both acute and chronic indications. Efforts to determine the percentage of prescriptions in these challenging categories is underway. Addressing these challenges is key not only for informing a definition of a newly-initiated prescription, but also for highlighting the data elements that must be accounted for to facilitate accurate analyses.
+
+# DID THE HOSPITAL READMISSION REDUCTION PROGRAM RESULT IN DELAYED READMISSIONS JUST AFTER 30 DAYS?
+
+Joseph Martinez 1, 2; Ashwin Nathan 3, 2; Jay Giri 3, 2; Amol S. Navathe 1, 2. 1 University of Pennsylvania, Philadelphia, PA; 2 Leonard Davis Institute, Philadelphia, PA; 3 Hospital of the University of Pennsylvania, Philadelphia, PA. (Control ID #3183402)
+
+# BACKGROUND:
+
+The Hospital Readmission Reduction Program (HRRP) was enacted in March 2010 and imposed financial penalties beginning in October 2012 for hospitals with higher-than-expected 30-day readmissions for acute myocardial infarction (AMI), congestive heart failure (CHF) and pneumonia. The HRRP has been associated with reduced readmissions for these conditions, but recent evidence has also suggested an increase in mortality for heart failure and pneumonia as an unintended consequence. Because of strong hospital responses to the HRRP, we examined whether hospitals postponed readmissions around the 30-day threshold, resulting in a spike in "delayed" readmission just after 30 days.
+
+# METHODS:
+
+Hospital admissions for AMI, CHF, and pneumonia were identified between January 2007 and October 2015 using the Medicare Provider Analysis and Review (MedPAR) database, containing admissions for all fee-for-service Medicare enrollees. Stroke was studied as a falsification endpoint because it was not included in HRRP. As in prior literature, we divided the study period into three phases: the pre-HRRP phase (January 2007 to March 2009), the implementation phase (April 2009 to September 2012), and the penalty phase (October 2012 to October 2015). We used an interrupted time-series analysis to examine whether there was an increased probability of readmissions between days 31-35 compared to days 25-30. We estimated Poisson and Quasi-Poisson with slope and intercept changes and adjustments for seasonality by condition and compared the changes in slope for AMI, CHF, pneumonia and stroke in the three phases.
+
+# RESULTS:
+
+A total of 68,020,501 admissions were included in this analysis. For AMI, the slopes for readmissions between days 31 to 35 as compared to days 25 to 30 over time were -0.003, 0.001 and -0.0003 for the three phases, respectively. The change in slope between the pre-HRRP and penalty phase was 0.003 (p=0.31). For pneumonia, the slopes for readmissions between days 31 to 35 as compared to days 25 to 30 over time were 0.002, -0.0004 and 0.001 for the three phases, respectively. The change in slope between the pre-HRRP and penalty phase was -0.001 (p=0.74). For CHF, the slopes for readmissions between days 31 to 35 as compared to days 25 to 30 over time were 0.001, -0.0002 and -0.001 for the three phases, respectively. The change in slope between the pre-HRRP and penalty phase was -0.001 (p=0.29). For stroke, the changes in slope between days 31 to 35 as compared to days 25 to 30 were 0.002, 0.0004 and -0.002 for the three phases, respectively. The change in slope between the pre-HRRP and penalty phase was -0.004 (p=0.11).
+
+# CONCLUSIONS:
+
+Using a national sample of Medicare enrollees, we found no association between the start of HRRP and higher likelihood of readmissions for AMI, CHF, or pneumonia just after 30 days. This suggests that hospitals did not differentially delay readmissions from just before to just after 30-days for AMI, CHF, pneumonia or stroke in response to HRRP.
+
+# DIFFERENCES IN ED DESTINATION OF EMS TRANSPORT OF CO-LOCATED PATIENTS BY RACE/ETHNICITY
+
+Amresh D. Hanchate 1; Michael K. Paasche-Orlow 2; William E. Baker 2; Meng-Yun Lin 3; Souvik Banerjee 1; James Feldman 1. 1 Boston University School of Medicine, Boston, MA; 2 Boston University, Boston, MA; 3 Boston Medical Center, Boston, MA. (Control ID #3176475)
+
+# BACKGROUND:
+
+National evidence indicates systematic differences in hospitals where racial/ethnic minorities receive care, with most care obtained in a small proportion of hospitals. As a large proportion of patients hospitalized for acute conditions arrive by emergency medical services (EMS), we examined for patterns in emergency department (ED) destination of EMS transported patients by race/ethnicity. To adjust for residential segregation by race/ethnicity, we used a national sample of Medicare enrollees purposively sampled to enable comparison of transport destination of patients from the same zip code.
+
+# METHODS:
+
+Using administrative data for a national sample of Medicare enrollees (2006-2012), we selected zip codes with a sizable count (>10) of Hispanic, (non-Hispanic) black and (non-Hispanic) white enrollees and obtained data on all ED visits using EMS. Identifying the most frequent (modal) ED destination for EMS-transported white patients from each zip code as the "reference ED" destination, we defined concordance with reference ED as the main outcome. We estimated differences in concordance rates by race/ethnicity, overall and for subgroups by demographics, clinical condition, socioeconomic status and proximity to multiple EDs. We used zip code level fixed effects to limit comparison of patients from same zip code. A secondary outcome was EMS transport to a safety-net ED, defined as the top quartile of hospitals by Medicaid patient share in each hospital referral region. We performed similar analysis of ED visits without using EMS.
+
+# RESULTS:
+
+In our study cohort of 864,750 enrollees from 4,175 selected zip codes, there were 458,701 ED visits using EMS. Overall 61.3% of white patients were transported to the reference ED; this rate was lower among black (-5.3%; 95% confidence interval [CI], -6.0% % to -4.6%) and Hispanic (-2.5%; 95% CI, -3.2% to -1.7%) patients. A similar pattern was found among subgroup of high-risk patients with acute myocardial infarction, heart failure, pneumonia, stroke, sepsis and GI bleed. Concordance rates were lower in areas with multiple nearby EDs; in the largest 16 US cities, concordance rate was 46.1% among whites, and lower among blacks (-9.3%; 95% CI, -10.9% to -7.7%) and Hispanics (-2.7%; 95% CI, -4.5% to -0.8%). As reference ED is usually the most proximate ED, bypassing of nearest ED was common among all race/ethnic groups. In all areas, black and Hispanic EMS patients were more likely to be transported to a safety-net ED compared to co-resident white patients. Parallel analyses of concordance rates of ED visits without using EMS indicated significantly lower rates relative to those for EMS transported ED visits.
+
+# CONCLUSIONS:
+
+We found variation by race/ethnicity in destination ED for EMS transport patients, with black and Hispanic patients more likely to be transported to a safety-net hospital relative to co-resident white patients.

@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# PAINFUL NECROTIC SKIN ULCERS IN AN END STAGE RENAL DISEASE PATIENT DIAGNOSED AS WARFARIN INDUCED SKIN NECROSIS (WISN) AND CALCIFIC UREMIC ARTERIOLOPATHY (CUA)
+
+Evan R. Gordon-Wollin1; Minho Yu1, 2. 1Loma Linda Medical Center, Rancho Cucamonga, CA; 2Riverside University Health System, Moreno Valley, CA. (Control ID #3181023)
+
+# PAIN FROM BUTTOCK TO LEG, BUT IT'S NOT SCIATICA: THE UNMASKING OF EXTRA-NODAL DIFFUSE LARGE B CELL LYMPHOMA IN AN HIV-INFECTED PATIENT
+
+Jordonna Brown; Swati Vishwanathan; Carol A. Luhrs. SUNY Downstate Medical Center, Brooklyn, NY. (Control ID #3165797)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize unusual manifestations of AIDS-related diffuse large B cell lymphoma (DLBCL) in the post HAART era
+
+# LEARNING OBJECTIVE #2:
+
+To diagnose uncommon causes of common lower extremity pain presentations, avoiding anchoring bias
+
+# CASE:
+
+A 46 year old woman with HTN presented with a dull aching pain in her left hip and buttock for a few months that was initially diagnosed as sciatica. The pain worsened progressively over a 2 week period, radiated down her left thigh with associated paresthesia. Her diagnosis then changed to trochanteric bursitis but the pain became intractable while on appropriate treatment for same so she was admitted to hospital for pain control. Her vitals were normal at presentation. Physical examination revealed an obese woman (BMI 42), with exquisite left hip and gluteal region tenderness, decreased range of motion but no visible or palpable masses. Labs show Hb 9, HCT 29, WBC 5.09, PLT 260, BUN 24, Cr .92, CD4 17, viral load 129178. CT pelvis shows two discrete soft tissue lesions within the left buttock measuring 5.8 x 4.5 x 4.8 cm and 3.6 x 3.7 x 4.7 cm. Core biopsy reveals high grade neoplasm, favoring lymphoma, cMYC rearrangements on FISH along with CD20, CD10 and Bcl6 positivity and negative MUM on immunohistochemistry, consistent with DLBCL. The patient was discharged home for continued care in oncology and HIV clinics.
+
+# IMPACT/DISCUSSION:
+
+The advent of HAART has put a dent in the incidence of AIDS-related illnesses such as NHL including DLBCL. Prior to HAART, the risk of AIDS-related NHL maintained an inverse relationship with CD4 counts, the lower the CD4 count, the higher the risk. Post HAART, AIDS-related NHL is seen at higher CD4 counts but vulnerable populations such as African Americans, are disproportionately affected by HIV and are still being diagnosed for the first time with HIV/AIDS when they present with NHL and as such have markedly decreased CD4 counts akin to those seen prior to HAART. Many hospitals have adopted the "Opt-out" policy for HIV testing where patients are notified and HIV testing gets performed unless the patient declines. This policy has proven useful for diagnosing HIV in individuals who would have otherwise gone undiagnosed as is the case with our patient. DLBCL occurs in two-thirds of AIDS-related NHL cases and usually presents with lymphadenopathy with or without "B" symptoms though immunocompromised individuals tend to present with extra-nodal disease. However, the gluteus muscle is an unusual extra-nodal manifestation of DLBCL. Our patient posed a diagnostic dilemma in that she was morbidly obese which made it difficult to appreciate the gluteal mass on physical exam and her pain characteristics seemed more consistent with sciatica.
+
+# CONCLUSION:
+
+Despite significant progress in the fight against HIV/AIDS a subset of high risk individuals continue to present with an AIDS-related illness such as DLBCL at the time of diagnosis. Maintaining a broad differential even with common presentations is tantamount in preventing anchoring bias.
+
+# LEARNING OBJECTIVE #1:
+
+Identify the features of CUA/calciphylaxis and WISN in order to treat early.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the risk factors for CUA and WISN in end stage renal disease (ESRD) patients.
+
+# CASE:
+
+49-year-old female with a past medical history of ESRD on hemodialysis who was admitted for worsening necrotic skin wounds for one week. She denied fever or chills. Five months prior, she presented with leg ulcers after being on Warfarin for two months, and a punch biopsy confirmed WISN. Warfarin was discontinued, but eventually her wounds progressed and spread, prompting monthly admissions. She underwent one prior surgical debridement, which showed gangrenous necrosis on pathology. Home medications included aspirin, sevelamer, and simvastatin. Surgical history was significant for two failed renal transplants. Her family history was non-contributory. She had a prior 7.5 pack year smoking history, and she denied alcohol or drug use. Her vital signs were stable, and on exam she had multiple necrotic wounds scattered on her bilateral lower extremities and abdomen that had increased in size, number, and severity. Labs were significant for normal white count, calcium and phosphorus within normal limits, and iPTH elevated at 142.7 pg/mL. Prior hypercoagulable workup showed decreased antithrombin III activity at 78% (ref 88-138%). The patient had a second surgical debridement of her wounds, showing calcium deposits, consistent with CUA. She then underwent twenty hyperbaric oxygen sessions, local wound care, and sodium thiosulfate therapy (STS) 25gm TIW, with significant improvement after two months.
+
+# IMPACT/DISCUSSION:
+
+Ulcerating wounds among ESRD patients are common given their high prevalence of peripheral arterial disease. Although both conditions are rare, the differential diagnosis should include CUA and WISN when an ulcer is found in an atypical location (i.e. abdomen), does not resolve, the patient is on Warfarin therapy, or has risk factors such as protein C and S or antithrombin III deficiency. Warfarin has been found to increase the odds of CUA up to 10-fold, and ESRD decreases the levels of protein S. While WISN typically occurs within the first ten days of initiating Warfarin, as this case and other case reports have shown, it can present much later. Prompt Warfarin discontinuation and reversal greatly improves outcomes. Multiple biopsies and a high clinical suspicion are often necessary to diagnose CUA. Optimal treatment is largely unknown without large randomized controlled studies. However, as seen in our patient, some retrospective reviews have shown that the use of STS led to a 26% resolution and 47.2% improvement in CUA wounds (Nigwekar et al. CJASN, 2013). Similarly, An et al. (Nephrology, 2015) showed a 58% improvement in wounds with HBO therapy among 34 patients.
+
+# CONCLUSION:
+
+It is vital for a clinician to be aware of the risk factors and presentations of CUA and WISN in ESRD patients, because each diagnosis carries high morbidity and mortality. Early and appropriate treatment has been shown to improve outcomes.
+
+# PAINTING THE BIG M
+
+Navid Berenji; Abdulrahman S. Museedi; Saket Kottewar. UT Health San Antonio, San Antonio, TX. (Control ID #3185876)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize incidence of Multiple Myeloma in young patients with no genetic predisposition
+
+# LEARNING OBJECTIVE #2:
+
+Assess occupational risk factors in Multiple Myeloma

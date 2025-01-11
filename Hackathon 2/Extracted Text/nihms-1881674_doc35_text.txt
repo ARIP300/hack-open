@@ -1,0 +1,13 @@
+# Frone et al.
+
+# Table 2
+
+# Definitions of Recovery
+
+|Source|Description|
+|---|---|
+|Betty Ford Institute Consensus Panel (2007, 2009)|Recovery from substance dependence is a voluntarily maintained lifestyle characterized by sobriety, personal health, and citizenship. Sobriety refers to abstinence from alcohol and all other nonprescribed drugs. Personal health refers to improved quality of personal life. Citizenship refers to not just a cessation of socially harmful behaviors, but also the development of pro‑social behaviors (e.g., living a productive life, helping others).|
+|Office of the Surgeon General (2016)|A process of change through which individuals improve their health and wellness, live a self‑directed life, and strive to reach their full potential. Even individuals with severe and chronic substance use disorders can, with help, overcome their substance use disorder and regain health and social function. This is called remission. When those positive changes and values become part of a voluntarily adopted lifestyle, that is called “being in recovery.” Although abstinence from all substance misuse is a cardinal feature of a recovery lifestyle, it is not the only healthy, pro‑social feature.|
+|UK Drug Policy Commission Recovery Consensus Group (2008)|The process of recovery from problematic substance use is characterised by voluntarily‑sustained control over substance use which maximises health and wellbeing and participation in the rights, roles and responsibilities of society.|
+|Recovery Science Research Collaborative (Ashford et al., 2019)|Recovery is an individualized, intentional, dynamic, and relational process involving sustained efforts to improve wellness.|
+|White (2007)|Recovery is the experience (a process and a sustained status) through which individuals, families, and communities impacted by severe alcohol and other drug (AOD) problems utilize internal and external resources to voluntarily resolve these problems, heal the wounds inflicted by AOD‑related problems, actively manage their continued vulnerability to such problems, and develop a healthy, productive, and meaningful life.|

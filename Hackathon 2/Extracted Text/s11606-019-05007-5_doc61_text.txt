@@ -1,0 +1,56 @@
+# ABSTRACTS
+
+in 2015-2017 vs. 2003-2005 (6.16% vs. 12.10% p<.0001; 7.69% vs. 15.84% p<.0001). In adjusted analyses, perceptions of discrimination in healthcare decreased in 2015-2017 compared to 2003-2005 (OR 0.608, CI 0.519, 0.712, p <.0001). There was a significant race by year interaction for Latinos (OR 0.584, CI 0.422, 0.809, p=.0012), but not for Asians or African-Americans (OR 0.767, CI 0.456, 1.289, p=0.664; OR 1.11, CI 0.69, 1.794, p= 0.664). There was a significant immigrant by year interaction and LEP status by year interaction (OR 0.594, CI 0.440, 0.801, p=.0007; OR 0.671, CI 0.499, 0.902, p=.0083).
+
+# CONCLUSIONS:
+
+Perceptions of discrimination in healthcare in California decreased between 2003-2005 and 2015-2017 but only for Latinos, immigrants, and LEP individuals. African Americans reported consistently high rates of discrimination. Interventions specifically targeted at reducing discrimination are still necessary.
+
+|Year of Death|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NI_Reces| | | | | |Joinpoints|Asian & Pacific Islander|2003-2015 APC = -1.60|Joinpoints|Black NH|0|Joinpoints|Latinos|Joinpoints|2003-2015 APC = 2.73|
+|Ermite, NH| |Joinpoints|2003-2015 AFC = 33.01|2003-2015 APC = 2.93|2003-2015 AFC = 247| | | | | | | | | | |
+
+# CHANGES IN THE COLORECTAL CANCER INCIDENCE AND MORTALITY IN NEW YORK CITY IN THE CONTEXT OF INCREASED SCREENING, 2003-2015
+
+Jennifer J. Brown 3; Charles Asumeng 3; David Greenwald 2; Matthew A. Weissman 1, 2; Ann Zauber 4; Jared Striplin 3; Justin M. List 5; Shannon M. Farley 3; Sidney Winawer 4.
+
+1 Mount Sinai Beth Israel, New York, NY; 2 Icahn School of Medicine at Mount Sinai, New York, NY; 3 New York City Department of Health and Mental Hygiene, New York, NY; 4 Memorial Sloan Kettering Cancer Center, New York, NY; 5 New York City Health + Hospitals, New York, NY.
+
+(Control ID #3179909)
+
+# BACKGROUND:
+
+Incidence rates for new colorectal cancer (CRC) cases have been falling 2.6% each year over the last 10 years, while mortality rates have been falling 2.4% each year over 2006-2015, nationally. CRC screening has increased nationally during this time. The New York Citywide Colon Cancer Control Coalition (C5) in partnership with the New York City (NYC) Department of Health and Mental Hygiene promoted CRC screening from 2003 to present. Here, we report rates of change and trends in CRC incidence and mortality in the context of changes in colonoscopy screening rates from 2003 to 2015 in NYC.
+
+# METHODS:
+
+Age-adjusted CRC incidence and mortality rates were calculated using the New York State Cancer Registry and NYC Vital Statistics Data. Screening rates for CRC by colonoscopy were estimated using the NYC Community Health Survey. We used the Joinpoint Regression Program to determine annual percent change (APC) for incidence and mortality and screening curves.
+
+# RESULTS:
+
+There was a 29% decrease in age-adjusted CRC incidence from 54.1 to 38.4/100,000 and a 35% decrease in the CRC mortality rate from 21.0 to 13.7/100,000, from 2003 to 2015. In 2015 Blacks had higher CRC mortality rates (14.9/100,000), compared to Hispanics (11.2/100,000) and Asians (10.5/100,000). In 2015 CRC mortality rates were more than twice as high in Central Harlem and the South Bronx neighborhoods compared to Chelsea and Union Square. Asian/Pacific Islanders had significantly lower CRC screening, at 58.8% compared to Blacks (63.9%), Hispanics (64.3%) and Whites (64.7%). Overall, screening rates increased from 41.7% to 69.9% from 2003 to 2015. Using single point estimates, CRC screening increased at APC = 15.65, from 2005 to 2009 APC = 3.69, and from 2009 to 2015 APC = 0.80.
+
+# CONCLUSIONS:
+
+A decreasing burden of CRC was evident from lower incidence and mortality rates from 2003 to 2015. During this time screening colonoscopy rates in NYC increased after a citywide public health effort. While these inverse trends are going in the right direction, the persistent disparities for certain NYC neighborhoods and racial/ethnic groups demonstrate a need for continued targeted public health efforts in CRC prevention.
+
+# CHANGES IN VETERANS' COVERAGE AND ACCESS TO CARE FOLLOWING THE AFFORDABLE CARE ACT
+
+Alan T. Kelley 1, 2; Renuka Tipirneni 1; Helen Levy 1. 1 University of Michigan, Ann Arbor, MI; 2 VA Ann Arbor Health System, Ann Arbor, MI. (Control ID #3172950)
+
+# BACKGROUND:
+
+Insurance coverage for nonelderly veterans improved following coverage expansions of the Affordable Care Act (ACA). However, whether improvements in coverage have translated into improved access to healthcare has not been previously reported.
+
+# METHODS:
+
+Using data from the Behavioral Risk Factor and Surveillance System, self-reported insurance status and access to care among nonelderly veterans ages 18-64 were compared in the three-year periods before and after ACA coverage expansions went into effect. Measures of self-reported insurance status, general access to care (cost-related delays in receiving care), and access to primary care (report of having a usual source of care and report of having a checkup in the last 12 months) were included. Difference-in-differences analysis was used to compare changes in Medicaid expansion states to non-expansion states.
+
+# RESULTS:
+
+Among all nonelderly veterans, uninsurance decreased 4.4 percentage points (12.6% to 8.2%, P<0.05), and cost-related delays in care declined 1.9 percentage points (11.9% to 10.0%, P<0.05). Report of no checkup within 12 months declined slightly (28.1% to 26.7%, P<0.05) but there was no significant change in report of a usual source of care. Compared to all nonelderly veterans, veterans with low SES or poor health had greater declines in uninsurance and cost-related delays in care; however, differences in report of no checkup within 12 months or usual source of care were non-significant. When comparing Medicaid expansion states to non-expansion states, differences in uninsurance rates were negligible (<1%) and differences in all access measures were mixed and mostly non-significant.
+
+# CONCLUSIONS:
+
+Uninsurance and cost-related delays in care decreased, especially among nonelderly veterans with low SES and poor health. However, changes in primary care access were mixed. Additional study is needed to understand why gains in coverage among veterans did not translate into larger gains in access.

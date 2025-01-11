@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# THE INFLUENCE OF GEOGRAPHIC DISPERSION ON OUTCOMES OF HOSPITALIZED MEDICINE SERVICE PATIENTS
+
+Rachel Kohn; Michael O. Harhay; Brian A. Bayes; Hummy Song; Scott D. Halpern; Meeta P. Kerlin; S R. Greysen. University of Pennsylvania, Philadelphia, PA. (Control ID #3139478)
+
+# BACKGROUND:
+
+Specialty wards (e.g., cardiology or oncology wards) group clinically similar hospitalized patients in efforts to improve outcomes and costs. When these wards exceed capacity, subsequent patients overflow to "geographically dispersed" alternate wards. Geographic dispersion has been associated with care inefficiency and worse outcomes on specialty wards, but has not been studied in a large, diverse sample of hospitalized medicine service patients.
+
+# METHODS:
+
+We performed a retrospective cohort study in 3 diverse University of Pennsylvania Health System (UPHS) hospitals. We included all medicine, family medicine, and geriatric service patients admitted from emergency departments (EDs), intensive care units (ICUs), or other wards in 2014 and 2015. Data were obtained from Penn Data Store, a UPHS clinical data warehouse that includes all payers. The primary exposure was placement on non-medicine wards, i.e., "geographical dispersion." We excluded patients who switched from medicine to non-medicine wards and vice-versa (n=427 [2%]). The primary outcome was hospital length of stay (LOS). The secondary outcomes were hospital discharge to home and skilled nursing facilities (SNFs) and in-hospital mortality. We performed mixed effects linear and logistic regression models with a random effect to account for clustering by hospital. We first performed univariate analyses of geographical dispersion and each outcome separately. We then performed separate multivariable regression models, adjusting for age, gender, race, ethnicity, insurance type, body mass index, number of Elixhauser comorbidities, days spent in ICUs, number of ward transfers during hospitalization, number of previous inpatient, ICU, and ED visits during the prior 12 months, numbers of unique medications and procedures during hospitalization, the Centers for Medicare and Medicaid Services four-level severity risk adjustment (mild, moderate, major, severe), and hospital admission source.
+
+# RESULTS:
+
+The study population included 19,032 visits among 18,956 patients in 33 wards. Median age was 60 years, (IQR 45-74), 55% were female, and 61% were black. Thirty-three percent of patients were geographically dispersed. Median LOS was 4 days (IQR 2-6), 77% of survivors were discharged home, 14% were discharged to SNFs, and 10% died. In multivariable regression, geographically dispersed patients had longer LOS (1.1 days, 95% CI 1.1-1.2, p<0.0005) and higher odds of discharge to SNF (OR=1.1, 95% CI 1.0-1.2, p=0.04). Geographically dispersed patients had lower odds of discharge to home but this was not statistically significant (OR=0.9, 95% CI 0.9-1.0, p=0.08). In-hospital mortality did not differ between the groups (OR=1.0, 95% CI 0.6-1.5, p=0.9).
+
+# CONCLUSIONS:
+
+Geographically dispersed hospitalized medicine patients had significantly increased LOS (>1 day longer) and higher odds of discharge to SNF. Future studies are needed to confirm these findings and explore underlying mechanisms of these associations.
+
+# THE INTERACTION OF NEIGHBORHOOD ENVIRONMENTS AND GENETIC RISK FOR TYPE 2 DIABETES: RESULTS FROM MESA AND CARDIA
+
+Paul Christine1; Jennifer A. Smith1; Bhramar Mukherjee1; Sara Adar1; Kari Moore 2; Alain Bertoni 3; Penny Gordon Larsen 4; Wei Zhao 1; Mercedes R. Carnethon5; James B. Meigs6; Laura Rasmussen-Torvik5; Leslie Lange7; Myriam Fornage8; Sharon Kardia1; Ana Diez-Roux2. 1University of Michigan, Ann Arbor, MI; 2Drexel University, Philadelphia, PA; 3Wake Forest, Winston-Salem, NC; 4University of North Carolina, Chapel Hill, NC; 5Northwestern University, Chicago, IL; 6Massachusetts General Hospital, Boston, MA; 7University of Colorado, Aurora, CO; 8University of Texas Health Science Center, Houston, TX. (Control ID #3186418)
+
+# BACKGROUND:
+
+Genetic studies have documented the impact of genes on risk of type 2 diabetes (T2D). Similarly, a substantial body of research has demonstrated the impact of neighborhood environments on T2D risk by shaping health behaviors. However, no studies have examined whether genetic risk for T2D may be modified by neighborhood environments.
+
+# METHODS:
+
+We analyzed the interaction between genetic risk (summarized via genetic risk score [GRS]) and neighborhood environment in relation to T2D in 5704 individuals from the Multi-Ethnic Study of Atherosclerosis (MESA) from 2000-2012, and in 2609 individuals from the Coronary Artery Risk Development in Young Adults (CARDIA) cohort from 1985-2011. Neighborhood environment included the availability of supermarkets/fruit and vegetable markets and recreational establishments, and neighborhood socioeconomic status (SES). Interval-censored survival analyses were used to estimate hazard ratios (HRs) for pooled prevalent and incident T2D associated with neighborhood environments, GRS, and their interaction. Additive and multiplicative joint effects were estimated to examine the independent associations of genetic risk, neighborhoods, and their interaction on T2D risk.
+
+# RESULTS:
+
+In models with continuous exposures, associations between genetic risk and T2D were modestly weaker in individuals residing in neighborhoods with more supermarkets/fruit and vegetable markets and recreational establishments (multiplicative interaction p-values, 0.03 to 0.19). Models with dichotomized exposures showed similar results. For instance, MESA participants jointly exposed to above-median genetic risk (HR=1.19; 95% CI [0.99, 1.39]) and below-median availability of recreational establishments (HR=1.52; 95% CI [1.26, 1.78]) had an observed joint HR that was greater than expected under additive interaction (observed HR=2.00 [95% CI 1.67, 2.32]; additive interaction p-value, 0.02), indicating synergism between the two exposures. Results for neighborhood SES were mixed.
+
+# CONCLUSIONS:
+
+Residing in neighborhoods with more health-promoting resources may decrease the risk of T2D in genetically susceptible individuals. While much emphasis has been placed on using genetic risk to focus on individual prevention, this study suggests that T2D prevention efforts focused on modifying neighborhood environments may represent another fruitful, population-based approach.
+
+# THE INTERSECTION BETWEEN PROFESSIONALISM AND INCLUSION: A MIXED METHODS ANALYSIS
+
+Dominique Alexis 1; Matthew Kearney 2; Jaya Aysola 1; Eve Higginbotham1. 1University of Pennsylvania, Philadelphia, PA; 2Drexel University, Philadelphia, PA. (Control ID #3183100)
+
+# BACKGROUND:
+
+Little is known about how to effectively operationalize professionalism in our evolving landscape throughout healthcare systems and academic environments. Moreover, to date, how effectively inclusion is integrated into the development of policies and practice related to professionalism is unknown. Building an inclusive environment for all requires a deeper understanding of how we redefine and apply professionalism standards to meet the needs of a diverse workforce. The objective of this study aimed to examine the intersection between inclusion and professionalism.
+
+# METHODS:
+
+We examined survey data (n=3500) as well as submitted narratives (n= 56) in a mixed-methods analysis designed to evaluate professionalism within healthcare learning and working environments. We first evaluated the relationship between respondent demographic characteristics and their responses to the following professionalism questions: 1) I have considered changing jobs due to inappropriate, disruptive, or unprofessional behavior by a co-worker or supervisor; 2) I value institutional initiatives, policies, and/or educational resources related to professional behavior in the workplace; 3) My institution supports a culture of professionalism. Thereafter, we coded and analyzed a subset of submitted narratives (n=56) submitted by employees and/or students that referenced professionalism from our cultural audit of inclusion to identify emerging themes.

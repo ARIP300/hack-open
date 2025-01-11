@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+Many of our patients are residents and fellows, who carry a significant burden of stress-related symptoms and conditions, as well as reduced access to primary and preventive care due to competing demands. Given the pressures on residents and the critical roles they play in hospital operations, we sought to bridge the gap between the care residents need and the care they get. Across our institution, the average wait for a new patient visit was 44 days, and so many house staff are unable to establish care without taking a vacation. Since they tend to be medically well and health savvy, we sought to use a questionnaire to triage need for visit, and create a pathway to non-visit empanelment. We designed the questionnaire to elicit a variety of needs, including routine prevention, physical or behavioral symptoms, and sexual health. We also built in mechanisms for patients to request routine and recommended testing without needing to be seen. We intended to make the program available to all housestaff, but were limited by logistical issues to the internal medicine residents and fellows. We announced the program as part of intern orientation and through department communications.
+
+# MEASURES OF SUCCESS
+
+(DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Number of residents establishing care in the first six months of the pilot, compared to the previous year.
+2. Median time in residency before establishing care, compared to those establishing in the previous year.
+3. Proportion of patients who establish care without a visit.
+
+# FINDINGS TO DATE
+
+(IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): The program was implemented June 21st, and so we have only recently passed the six month time point. As such, the analysis is ongoing at the time of submission. Initial results show that 36 interns established care in that time period, though this likely underestimates the total, as it reflects only those actively counted by one PCP. We are currently analyzing appointment and panel data against the roster of residents. The questionnaire appeared to function well, and correctly identified a handful of patients with significant medical or behavioral health issues, based on historical vital signs or standard questionnaires.
+
+# KEY LESSONS FOR DISSEMINATION
+
+(WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): A well-designed questionnaire, applied to the right population, may be a safe alternative or supplement to the standard establishing visit. We intend to continue the program and explore expanding the questionnaire to other populations.
+
+# OD IN THE ED: A TEAM-BASED APPROACH TO THE OPIOID EPIDEMIC
+
+Divya Venkat1; James Bruce1; Bruce Ling2; Courtney Watson1. 1Allegheny General Hospital, Pittsburgh, PA; 2Allegheny Health Network, Pittsburgh, PA. (Control ID #3183904)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+(ONE SENTENCE): Opioid overdose is one of the leading causes of death in the United States.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+(NO MORE THAN THREE OBJECTIVES): To evaluate the initiation of buprenorphine in the emergency department to patients who present following an opioid overdose and high risk opioid use.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+(INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS)): This healthcare innovation occurs in a community based hospital in an urban part of Pittsburgh. This hospital serves a significant number of low-income patients with a history of illicit opioid use. Due to the hospital's location, its emergency department treats a large number of opioid overdoses and high risk patients. Within the hospital, the Addiction Medicine team collaborates with the Emergency Department on an Opioid Use Disorder Initiative to treat those with opioid use disorder. Through this initiative, patients who are seen in the emergency department and are diagnosed with opioid use disorder are offered a dose of buprenorphine to transition patients to opioid replacement therapy. This dose is given either by the Emergency Department providers or through a referral to the Addiction Medicine team. Following this dose of buprenorphine, a warm hand off is provided to the Medication Assisted Treatment (MAT) clinic via the emergency medicine physician or through the Addiction Medicine team for the transition of patients to outpatient drug recovery services.
+
+# MEASURES OF SUCCESS
+
+(DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION): Success of this intervention is measured in the amount of patients receive this intervention and subsequently follow up in MAT clinic.
+
+# FINDINGS TO DATE
+
+(IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED): This program was initiated in May 2018 with the study period consisting of May 2018 to November 2018. There were 24 patients who received buprenorphine after meeting applicable clinical criteria. As a result of this initiative, there was a median of 2.5 patients per month who received buprenorphine. The Addiction Medicine team and ED providers ordered buprenorphine with similar frequency. During this time, 12 out of 24 patients were referred to the Addiction Medicine team's MAT clinic. Seven of these patients were seen at the MAT clinic and three remain active. An additional three patients were seen at external MAT clinics and 6 out of the 24 patients were referred to a drug and alcohol treatment center. Twelve patients had repeated ER visits, half of which were opioid related.
+
+# KEY LESSONS FOR DISSEMINATION
+
+(WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?): This program shows the potential importance of initiating buprenorphine to patients with opioid use disorder while in the emergency room. While this was a small sample, a substantial amount of patients followed up with a MAT clinic or were connected to a drug and alcohol treatment center. By intervening with patients who have opioid use disorder while they are engaged in a healthcare setting such as the ED, buprenorphine can be initiated within the appropriate timeframe and patients can be transitioned to continued care in the outpatient setting. Collaborative efforts such as this between the emergency department and experts in addiction medicine may help facilitate the care of patients with opioid use disorder.
+
+# ON THE FRONTLINES OF THE SILENT EPIDEMIC: FINDINGS FROM A MULTIYEAR PROGRAM TO EXTEND COMMUNITY-BASED HEPATITIS C SCREENING AND TREATMENT IN LOS ANGELES'S SKID ROW
+
+Trista M. Benitez; Shannon Fernando. Los Angeles Christian Health Centers, Los Angeles, CA. (Control ID #3184368)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+(ONE SENTENCE): An inequitable prevalence of hepatitis C (HCV) exists within Los Angeles's Skid Row, yet screening, linkage, and treatment uptake remains marginal.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+(NO MORE THAN THREE OBJECTIVES): Project HEAL (Hepatitis C Engagement and Accessible Linkage) will reduce inequities in HCV screening and treatment through the following objectives: 1) The proportion of screened HCV+ participants who are linked to care, i.e. return for an evaluation to discuss lab results and receive initial HCV care, will increase 13% from 76% to 86%.

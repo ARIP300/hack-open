@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Evaluation
+
+Coached interns completed an average of 21/23 behaviors as graded by expert observers, while uncoached interns completed 18 (p=0.046). The average overall grade for coached interns was B+ and for uncoached interns it was B-. While no individual checklist items were performed statistically significantly more often by either group (all p>0.05), 11 of the 23 behaviors were more regularly executed among those who had been coached.
+
+# Discussion / Reflection / Lessons Learned
+
+Episodic longitudinal direct observation and coaching by experienced preceptors was associated with improved clinical performance in real patient encounters among IM interns. Previous work has shown that this type of coaching is both appreciated by learners and useful for identifying blind spots in residents' self-assessment. Longitudinal direct observation and coaching, while time-intensive, is valuable for residents' clinical growth and development.
+
+# Making the Voices of Female Trainees Heard: Year 1 Data
+
+Lisa Rotenstein1; Abeba Leveille1; Rebecca Berman2; Joel T. Katz1; Maria Yialamas1. 1Brigham and Women's Hospital, Boston, MA; 2University of California, San Francisco, San Francisco, CA. (Control ID #3185810)
+
+# Needs and Objectives
+
+While there is increasing awareness of gender-based discrepancies at a faculty level, there is less understanding of how discrepancies apply to trainees. After discovering a potential discrepancy in residency-wide, ad-hoc recognition (via email "shout-outs") of publications for male versus female trainees by program leadership as well as a perceived differential willingness of male trainees to share publishing accomplishments with residency leadership, we developed and implemented a systematic process to identify and publicize resident publications. We analyzed the year 1 data to determine any differences in publication number of female vs. male residents.
+
+# Setting and Participants
+
+This project was conducted in the Internal Medicine Residency Program at Brigham and Women's Hospital, an academic medical center affiliated with Harvard Medical School.
+
+# Description
+
+In January 2018, we adopted a process by which our residency administrative support personnel systematically search for resident publications each month via a structured query of PubMed and our hospital's compilation of lay press articles by affiliates. We also developed an online submission form for residents to notify us of publications. Our program directors then email results to the entire residency monthly.
+
+# Evaluation
+
+We assessed the number of publications identified as authored by male vs. female authors and the distribution of publication type (journal article vs. lay article) by gender in the one year after our program's implementation. We compared this to the gender distribution of publication shout-outs in the six months prior to our program's initiation. Between January and December 2018, there was no difference in the proportion of publications authored by males versus females (n=86 (47.3%) by females, n=96 (52.7%) by males, p=0.51). 10 of 24 (41.7%) lay press articles and 76 of 158 (48.1%) of journal articles were published by female authors; there was no significant difference in article type by gender. In contrast, only 1/6 (16.7%) of email shout-outs in the six months prior to program implementation were for female publications.
+
+# Discussion / Reflection / Lessons Learned
+
+We demonstrated that systematic search and dissemination of trainee publications can eliminate gender-based disparities in recognition of academic accomplishment. Through the process of implementing this program, we identified that differential self-promotion habits start early in training and are more pronounced in female trainees. The presence of a program leadership committed to advancement of female physicians and willing to engage constructive improvement was key to this program's success.
+
+# Massachusetts General Hospital Women in Medicine Trainee's Council: An Innovative Model for Female Trainee Support, Advocacy and Professional Development
+
+Ana Sofia Warner; Emily Lau; Nneka Ufere; Varsha Tanguturi; Katrina Armstrong; Nancy A. Rigotti; Doreen DeFaria Yeh. Massachusetts General Hospital, Boston, MA. (Control ID #3185708)
+
+# Needs and Objectives
+
+The Massachusetts General Hospital (MGH) is the largest hospital in New England, and is recognized as a pioneer in medical innovation, healthcare delivery, and workforce education and development. There are 386 residents and fellows within the Department of Medicine, 44.8% of whom are female. The MGH supports the professional advancement of women physicians through initiatives including the Office for Women's Careers and dedicated funding for early career female physician researchers. In response to a recognition that similar resources were lacking for trainees, the MGH Women in Medicine Trainee's Council (WIMTC) was developed in 2016 with the goal of supporting the personal and professional development of women trainees at MGH within the Department of Medicine.
+
+# Setting and Participants
+
+The WIMTC consists of a core group of 30 trainees and 20 faculty advisors. The council is made up of five working groups focused on career development and mentorship, advocacy, recruitment, research and work-life balance. The council meets monthly to discuss goals, progress and future programming.
+
+# Description
+
+The council is funded through the Department of Medicine with an annual budget of approximately $5000. To-date the council has sponsored dinners with notable female physicians, travel grants to fund childcare for trainees travelling to conferences, negotiation and micro-aggressions workshops, mock fellowship interviews, and networking events with faculty. The council has successfully lobbied for improvement in hospital lactation spaces and is working to improve access to childcare services for trainees.
+
+# Evaluation
+
+This coming year the WIMTC plans to begin evaluating our initiatives and workshops to assess the impact that these sessions have on trainees preparedness and to identify areas for improvement.
+
+# Discussion / Reflection / Lessons Learned
+
+Since its implementation in 2016, the WIMTC has become a sustainable model for female trainee professional development at MGH. The WIMTC has improved female trainees' access to important professional development activities such as networking, negotiations training and mock interviews. Additionally, the council provides a mechanism for fellows and residents to collaborate on initiatives that cross departmental lines. These types of hospital-wide initiatives provide a leadership opportunity for the trainees involved in the council. Perhaps most sustainable is the sense of community that the Council has created among women trainees and involved faculty.

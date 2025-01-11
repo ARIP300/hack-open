@@ -1,0 +1,43 @@
+# ABSTRACTS
+
+# SEEING I TO EYE TOGETHER: AN EDUCATIONAL CAMPAIGN DESIGNED TO IMPROVE PHYSICIAN-PATIENT COMMUNICATION AMONG INTERNAL MEDICINE RESIDENTS
+
+Robin Ortiz; Meron Hirpa1; Aparna Sajja1; Jesse McDermeit; Alison1 Agrawal1; Megan Tschudy1; Stephen Berry2; Kimiyoshi Kobayashi1.
+
+1Johns Hopkins University School of Medicine, Baltimore, MD; 2Johns Hopkins School of Medicine, Baltimore, MD. (Control ID #3175893)
+
+# BACKGROUND:
+
+Sitting at the bedside improves patients' perception of their interactions with their physicians and improves patient satisfaction and outcomes. Despite these data, prior work shows that medicine interns sit during only 9% of observed physician-patient interactions. We aimed to design an educational curriculum to improve physician-patient communication and decrease resistance to sitting at the bedside.
+
+# METHODS:
+
+A needs assessment among Internal Medicine residents at an urban academic medical center was conducted anonymously using an electronic survey. The survey was designed to assess knowledge gaps in residents' perceptions and self-reported behaviors around sitting during inpatient encounters. Informed by survey results, an evidence-based educational campaign was designed to address the observed deficits in resident knowledge regarding time and communication in physician-patient encounters.
+
+# RESULTS:
+
+The needs assessment yielded 96 responses of 151 residents surveyed (64% response rate). Residents who reported spending enough time at the bedside were also likely to report that their patients could identify them as their doctor (r=0.28, p=0.006). The majority of residents (63%), however, felt they rarely or never spent enough time at bedside. Although 69% of respondents felt that sitting during an admission history was important, only 30% reported doing this. Residents (26%) also felt that sitting would make the patient encounter longer, even though there was no difference in reported time completing an admission history between those who reported sitting and those who reported standing (t=-1.38, p=0.17). Therefore, an educational campaign entitled "S.I.T: Seeing I to Eye Together" was designed with the following teaching points: 1) Sitting increases patient perception of time spent at the bedside, 2) Sitting does not increase actual bedside time, and 3) Sitting enhances patient adherence and satisfaction, as well as physician communication. Education was disseminated through flyers and peer-led didactic presentations. Additionally, since 69% of residents felt sitting during attending-led rounds is important, attending physicians were asked to emphasize the teaching points during teaching rounds on inpatient Internal Medicine teams.
+
+# CONCLUSIONS:
+
+Survey results confirmed expected knowledge deficits, specifically as they pertained to time as a barrier to patient-physician communication. The learning objectives of the "S.I.T." educational campaign may address a key deficit in Internal Medicine resident education related to optimizing physician-patient communication through sitting and, further, has larger implications for improving hospital performance on patient satisfaction.
+
+# SEEKING APPLES, FINDING ORANGES: MISMATCH BETWEEN PERCEIVED BARRIERS AND GENERATED SOLUTIONS DURING THE SCOPING OF TWO CLINICAL INITIATIVES
+
+Eli Cahan1; Cati Brown-Johnson1; Nadia Safaeinili1; kimberly brunisholz2; Brenda Reiss-Brennan2; Marcy Winget1. 1Stanford University Medical School, Stanford, CA; 2Intermountain, Salt Lake City, UT. (Control ID #3185499)
+
+# BACKGROUND:
+
+Across disciplines, nearly two-thirds of efforts devoted towards organizational change fail. In healthcare, uptake of research to the clinic takes over a quarter-century, at which point significant deviations from study protocols are often required. As a result, even following uptake, patients may receive only half of recommended services, and interventions received often demonstrate low clinical response rates. The Consolidated Framework for Implementation Research (CFIR), developed to facilitate uptake of new services, defines domains salient to successful integration including features of the clinical and institutional environments, as well as individual providers. It is not clear that organizations experience barriers or generate solutions with equal frequency across domains. We characterized expected barriers and solutions proposed when preparing for implementation of two distinct initiatives across two healthcare systems.
+
+# METHODS:
+
+Initiatives for early treatment of (a) substance use and (b) physical therapy were scoped conceptually at six primary care clinics across one academic and one non-academic health system. Before introducing these initiatives, qualitative assessments of barriers to implementation were captured via interviews with clinic staff and providers. Ideas to facilitate implementation were solicited. Feedback was coded into six thematic categories, addressing: connectivity, workflow, internal resources (such as site-specific care protocols), external resources (such as system-wide electronic resources), teamwork/culture, and individual mindset. Percentages of comments on perceived barriers and ideas proposed were calculated for each of these categories.
+
+# RESULTS:
+
+For substance use treatment, 26% of barriers reported were workflow related, 16% involved internal resources, 22% involved external resources, and 22% related to individual mindsets. 40% and 30% of solutions addressed workflow and internal resources respectively, however only a combined 15% of solutions related to external resources and mindsets. Similarly, for physical therapy, while 49% of barriers arose from external resources and mindsets, only 13% of proposed solutions addressed these categories. Meanwhile, 73% of solutions addressed the 36% of problems arising from barriers in workflow and internal resources.
+
+# CONCLUSIONS:
+
+Organization of qualitative feedback following conceptual introduction of two clinical initiatives revealed a mismatch between perceived barriers and proposed solutions to implementation. While expected barriers were fairly evenly distributed amongst 4 key categories, solutions proposed by clinic providers and staff disproportionately addressed workflow and internal resources rather than mindsets and external resources. Observation of distribution and mismatch between perceived barriers and solutions can help inform institutional.

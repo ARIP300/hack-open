@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+increases. Preliminary themes highlight systems-issues as areas that limit the ability to care for of patients who are LEP, but also note areas where education interventions could be helpful (ie: working with interpreters and understanding culture in the context of medical care). Future directions include focus groups to better characterize gaps in knowledge and assess where curricular programming could be implemented to improve resident self-efficacy and the quality of care for LEP patients.
+
+# LEVERAGING COMMUNITY-BASED HEALTH PLANNING AND SERVICES (CHPS) PROVIDER INSIGHT AND EXPERIENCE FOR THE DESIGN AND IMPLEMENTATION OF AN INTERVENTION TO SCREEN AND TREAT CARDIOVASCULAR DISEASE IN NAVRONGO, GHANA: A QUALITATIVE STUDY
+
+Ethan P. Wood1; Katherine L. Garvey1; Edith Dambayi2; Denis A. Awuni2; Raymond Aborigo2; Elizabeth Jackson3; James Phillips3; Abraham Oduro2; David J. Heller1, 1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Navrongo Health Research Center, Navrongo, Ghana; 3Columbia University in the City of New York, New York, NY. (Control ID #3185082)
+
+# BACKGROUND:
+
+Cardiovascular disease (CVD) is the leading cause of morbidity and mortality worldwide as well as in the United States. CVD prevalence is rising in Ghana, and the shift in burden from communicable to non-communicable diseases poses a great challenge to fragile health systems in rural areas like Navrongo. The Community-Based Health Planning and Services (CHPS) initiative has used nurse-led primary care clinics and home visits to decrease child mortality, but does not currently screen or treat CVD or its risk factors. Our previous research in Navrongo identified lack of transportation, equipment, medicines and knowledge as barriers to CHPS CVD care. The goal of this study was to interview CHPS Community Health Officers (CHOs) and their supervisors, Sub-District Officers (SDOs), regarding locally feasible interventions to decrease CVD morbidity and mortality in Navrongo, Ghana based on these data.
+
+# METHODS:
+
+We conducted semi-structured interviews with 21 CHOs and 10 SDOs from the Kassena-Nankana District, using a qualitative descriptive approach. Participants were asked for their reactions to our previous findings regarding barriers to CVD care. We then asked them to propose and discuss potential interventions, focusing on which interventions might be most feasible and why. The interviews were audio recorded, transcribed, coded and analyzed for themes. Two coders analyzed the interviews using a general content analysis approach, in which themes and categories emerged iteratively. Coding was completed using NVivo software.
+
+# RESULTS:
+
+Suggested interventions centered on provider and community education, staffing, and logistics. Respondents proposed CVD trainings for providers; community education at durbars (community gatherings); workforce augmentation; and improved resource and equipment accessibility, as well as nurse authorization to prescribe CVD medication, as important aspects of an intervention. Provision of necessary equipment for CVD screening and management was considered the most crucial intervention. CVD training for all clinical staff, including community health volunteers, was also frequently mentioned. CHOs and SDOs expressed enthusiasm for screening and treatment of CVD and its risk factors, citing a high burden of CVD within their communities, as well as optimism regarding its feasibility.
+
+# CONCLUSIONS:
+
+Clinical staff in this nurse-led primary care program propose several specific interventions to implement CVD care in Navrongo, and feel they are feasible and appropriate. These findings suggest a CVD intervention can be piloted and evaluated through CHPS in Navrongo. This intervention, once developed, implemented and evaluated, can potentially serve as a model for programs that rely on non-physicians to deliver care to rural communities.
+
+# LIFETIME RISK OF NON-FATAL FIREARM-RELATED INJURIES IN NEW YORK STATE: RACIAL AND SEX DISPARITIES
+
+Yu-Tien Hsu1; David C. Chang1; Numa P. Perez1; Ya-Ching Hung1; Maggie Westfal1; Cassandra M. Kelleher1; Peter Masiakos1; Chana A. Sacks2. 1Massachusetts General Hospital / Harvard Medical School, Boston, MA; 2Brigham and Women's Hospital, Boston, MA. (Control ID #3179226)
+
+# BACKGROUND:
+
+Gun violence is an important public health problem in the US. While the rising national rate of firearm-related deaths is well-documented, data regarding nonfatal firearm injuries and resulting hospitalizations are limited, and the cumulative lifetime risk of nonfatal firearm injuries is unknown.
+
+# METHODS:
+
+We performed a retrospective analysis using the New York Statewide Planning and Research Cooperative System (SPARCS), which includes all inpatient hospitalizations and emergency department presentations in NY state from 2005 to 2015. We included all patients 15 years of age or older with firearm injuries, defined by ICD-9 and ICD-10 codes, and excluded in-hospital deaths. Projected lifetime risk of nonfatal firearm injuries per 100,000 persons was calculated as the sum of age-specific incidence rates across all age groups, and stratified by sex, race, and county.
+
+# RESULTS:
+
+A total of 12,699 firearm-related admissions for 12,381 unique patients were included in the study cohort. 2.9% of patients were shot more than once during the study period. The mean number of admissions was 1,155 per year (7.3 per 100,000 persons). Mean age at admission was 28.1 (+/- 11.7) years; most patients were male (90.0%) and black (65.1%). The overall lifetime risk for nonfatal firearm injuries was 87.3 per 100,000 persons. On average, males had a 9-fold increased lifetime risk of having nonfatal firearm injuries compared with females; blacks had a nearly 18-fold increased risk compared with whites. Nonfatal firearm injuries were concentrated in urban counties, such as Albany and Onondaga, which includes Syracuse (Figure 1 shows lifetime risk of nonfatal firearm injuries by county in 2015). Albany had the highest lifetime risk in the state (157.0 per 100,000 people).
+
+# CONCLUSIONS:
+
+The lifetime risk of nonfatal firearm-related hospitalization in NY state was 87.3 per 100,000 persons. These data highlight substantial disparities, with men, blacks, and residents of urban counties having higher risks. Targeting prevention strategies to these high-risk populations is essential to reducing overall firearm-related injuries.
+
+# Lifetime risk of NFI
+
+0.0
+200.0
+Vermont
+
+Ham
+
+lassacai
+
+Pennsylvania
+
+# LIMITATIONS IN USING AREA UNDER THE RECEIVER OPERATING CHARACTERISTIC CURVE TO EVALUATE MODEL PERFORMANCE FOR LOW FREQUENCY OUTCOMES: APPLICATIONS TO NONCARDIAC SURGERY
+
+Victor J. Lei1; Edward Kennedy2; ThaiBinh Luong3; Xinwei Chen1; Daniel Polsky; Kevin G. Volpp1, 4; Mark D. Neuman; John Holmes; Lee Fleisher;1

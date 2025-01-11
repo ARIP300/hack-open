@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# TAKES A LONG TIME TO GET DRESSED WHEN IT'S COLD
+
+Jennifer Shiroky; Jarratt Pytell2. 1Johns Hopkins Bayview Medical Center, Baltimore, MD; 2Johns Hopkins University, Baltimore, MD. (Control ID #3167488)
+
+# LEARNING OBJECTIVE #1:
+
+Discuss an atypical presentation of Drug Reactions Eosinophilia with Systemic Symptoms syndrome (DRESS)
+
+# LEARNING OBJECTIVE #2:
+
+Appreciate cognitive biases that lead to diagnostic delays
+
+# CASE:
+
+Mr V is a 61yo man with a history of schizophrenia, bipolar disorder, intellectual disability with a speech impediment, who presented with one week of worsening shortness of breath and cough, and one month of diffuse body rash and anasarca. Initial report was one month of dry, peeling skin despite using lotions daily. The rash was accompanied by progressive swelling throughout his body and chills, wearing 4-5 layers of clothing to feel comfortable. He denied recent changes to his home medications, which included lurasidone and aripiprazole for the last year. At presentation, his temperature of 32.5°C and his physical exam demonstrated a full body dry desquamating rash with excoriations, diffuse non-pitting edema, diffuse lymphadenopathy, and diminished breath sounds with an expiratory wheeze. Labs were notable for eosinophilia and monocytosis, a normocytic anemia, acute kidney injury, and proteinuria. CT of the chest, abdomen and pelvis revealed diffuse lymphadenopathy and right upper and lower lobe ground glass opacities. He was admitted for evaluation and management of hypothermia with initial concerns for an infectious process, drug reaction, or hematologic malignancy. He was treated empirically for pneumonia without improvement. Dermatology consult initially described skin findings as "dermatitis of neglect" with no evidence of a primary cutaneous process, findings to suggest inflammatory lesions, or drug reactions and declined to do a biopsy. Family collateral reported good personal hygiene and no changes to his lifestyle supporting "dermatitis of neglect." Concern for cutaneous T-cell lymphoma or other lymphoproliferative process prompted an inguinal node resection, which revealed necrotizing granulomatous lymphadenitis with normal lymph node architecture. Blood work revealed an IgG lambda monoclonal gammopathy, normal flow cytometry and T-Cell receptor testing consistent with polyclonality. Repeat dermatology consult resulted in a skin biopsy revealing subacute/chronic spongiotic dermatitis. In the setting of negative infectious and oncologic work up, aripiprazole and lurasidone were discontinued for presumed DRESS syndrome with full resolution of his symptoms.
+
+# IMPACT/DISCUSSION:
+
+DRESS is characterized by fever, a spectrum of rashes, eosinophilia, and multi-organ damage. Mr V experienced diagnostic delay due to an atypical presentation with hypothermia, subacute course of symptoms, and no recent medication changes. This contributed to a variety of diagnostic cognitive biases including the authority bias, attribution effect, and anchoring.
+
+# CONCLUSION:
+
+This case is a lesson in maintaining a broad differential diagnosis throughout the diagnostic and management process, and the importance of encouraging an environment where providers feel comfortable and empowered to question the diagnostic reasoning of colleagues.
+
+# TAKING HEPARIN MONITORING TO LEVEL XA
+
+John Xie. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184143)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish between the two main methods of monitoring heparin
+
+# LEARNING OBJECTIVE #2:
+
+Accurately diagnose heparin resistance using the anti-Xa level
+
+# CASE:
+
+A 42-year-old woman in the intensive care unit with chronic pancreatitis and bacteremia was found to have a massive pulmonary embolus (PE) and treated with tPA. Heparin drip was then initiated and monitored using anti-Xa levels per hospital protocol. The anti-Xa levels were measured every six hours and returned with values of 0.09 IU/mL - 0.18 IU/mL (therapeutic: 0.30-0.70 IU/mL) despite increasing doses of heparin (up to 35,000 IUs/day). Fresh frozen plasma was administered, which transiently increased anti-Xa level to 0.46 IU/mL, but then decreased to 0.17 IU/mL. Treatment was changed to argatroban and aPTT reached therapeutic levels in less than 24 hours. The ATIII activity level returned low at 26% (Ref range: 87-130%), confirming a diagnosis of heparin resistance due to antithrombin III (ATIII) deficiency.
+
+# IMPACT/DISCUSSION:
+
+Laboratory monitoring of heparin is traditionally done using the activated partial thromboplastin time (aPTT). The aPTT is a clot-based test that measures the intrinsic and common pathways of the coagulation cascade. Falsely elevated aPTT levels can result from co-administration of warfarin, antiphospholipid antibodies, and factor deficiencies. Falsely depressed aPTT levels can occur with elevated factor VIII and fibrinogen. The anti-Xa assay is a chromogenic assay that directly measures the activity of activated factor X through a spectrophotometer. It is a more specific test for measuring heparin activity than aPTT and is not affected by the other clinical factors mentioned above. Heparin resistance can be considered with a sub-therapeutic response after using 35,000 IUs of heparin per day.[1] The most common cause of heparin resistance is ATIII deficiency but can also be caused by elevated acute phase reactants, particularly factor VIII and fibrinogen. Elevated factor VIII levels are often present in critically ill patients, which will falsely shorten the aPTT level.[2] This makes it difficult to evaluate whether a low aPTT value after heparin administration is due to true resistance (ATIII deficiency) or a pseudo-resistance (elevated factor VIII).[3] Heparin administration can decrease ATIII levels by as much as 30% due to increased clearance, which can result in falsely low values.[4] Therefore, the anti-Xa level is the most specific test for detecting heparin resistance. In ATIII deficiency, fresh frozen plasma (FFP) challenge will transiently replete the low ATIII level briefly results in a therapeutic anti-Xa.
+
+# CONCLUSION:
+
+The anti-Xa level is a more specific for diagnosing heparin resistance and can also distinguish between true resistance and pseudo-resistance.
+
+# TAKOTSUBO CARDIOMYOPATHY ASSOCIATED WITH HYPO-GLYCEMIA
+
+Soumya Mamidi1; Lakshmi Priyanka Mahali2; Kristin A. Swedish2. 1Montefiore Medical Center, Bronx, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3186249)
+
+# LEARNING OBJECTIVE #1:
+
+-Recognize hypoglycemia as a potential cause of Takotsubo cardiomyopathy (TCM).
+
+# LEARNING OBJECTIVE #2:
+
+-Differentiate TCM from myocardial infarction (MI)
+
+# CASE:
+
+A 88 year old man with Type II Diabetes Mellitus (T2DM) on insulin and chronic kidney disease (CKD III) was admitted for altered mental status after being found confused on floor. Noted to be hypoglycemic by paramedics with a blood glucose level of 50 mg/dl. Initial labs showed elevated Creatinine kinase (CK) and troponins, Electrocardiogram (EKG) showed non-specific repolarization changes, raising concern for Acute Coronary Syndrome (ACS). Echocardiogram (ECHO) showed severely reduced Ejection Fraction (EF%) of 20% with a large region of apical akinesis, suspicious for TCM.

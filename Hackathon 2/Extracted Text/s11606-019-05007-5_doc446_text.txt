@@ -1,0 +1,57 @@
+# JGIM
+
+# ABSTRACTS
+
+# HEMOLYTIC ANEMIA AS AN UNUSUAL PRESENTATION OF B12 DEFICIENCY
+
+With that said, cobalamin deficiency presenting as pseudothrombotic microangiopathy with hemolytic anemia, schistocytes on peripheral smear, and thrombocytopenia is uncommon. A study of 201 patients with cobalamin deficiency showed that only 2.5% of those patients presented with pseudothrombotic microangiopathy. This particular presentation can pose a diagnostic challenge for clinicians, as it can mimic a true microangiopathic hemolytic anemia such as thrombotic thrombocytopenic purpura (TTP). An incorrect diagnosis of TTP, for example, could lead to admission to the intensive care unit and the unnecessary initiation of plasmapheresis. In patients with hemolysis, thrombocytopenia, and macrocytic anemia, cobalamin deficiency should be considered on the differential diagnosis.
+
+# CONCLUSION:
+
+Cobalamin deficiency can uncommonly present as pseudothrombotic microangiopathy with hemolytic anemia, schistocytes on peripheral smear, and thrombocytopenia. This presentation can resemble a true microangiopathic process such as thrombotic thrombocytopenic purpura. Correct diagnosis of pseudothrombotic microangiopathy is essential in avoiding mismanagement of the patient and unnecessary treatments.
+
+Margaret M. Mongare1; Arash Nafisi2, 1. 1University of Los Angeles California, Los Angeles, CA; 2Olive View - UCLA Medical Center, Encino, CA. (Control ID #3181867)
+
+# LEARNING OBJECTIVE #1:
+
+-Recognize sequelae of severe B12 deficiency, including hemolysis
+
+# LEARNING OBJECTIVE #2:
+
+-Determine the etiology of B12 deficiency
+
+# CASE:
+
+A 44 year-old woman presents to clinic with generalized fatigue, dyspnea and easy bruising for one month. She notes 40 pound unintentional weight loss and chronic diarrhea over the past one year. She is otherwise healthy, has no known autoimmune disease, endorses a well-balanced diet and denies use of medications, supplements, abdominal surgeries and recent travel. Patient was referred for hospital admission after she was found to be severely anemic. On presentation to the emergency department, her blood pressure was 126/74, pulse 70 beats per minute with an exam significant for conjunctival rim pallor, multiples areas of ecchymosis on her lower extremities, abdomen without hepatosplenomegaly and no jaundice or lymphadenopathy. Laboratory studies were significant for pancytopenia and severe macrocytic anemia - Hemoglobin 6.8, MCV 137, Platelets 77K, WBC 3.5. Liver tests showed unconjugated hyperbilirubinemia (TB 1.4, DB 0.2) and urinalysis demonstrated urobilinogen. Hemolysis labs were significant for LDH of 1398, Haptoglobin < 15, D-Dimer 0.59, coombs negative and peripheral smear with hypersegmented neutrophils, few schistocytes. Additional workup revealed B12 < 146 with a negative intrinsic factor (IF) antibody. Folate, iron studies, stool cultures, stool ova & parasites and celiac testing were normal. Hematology was consulted. Patient's severe anemia and pancytopenia with intramedullary hemolysis were attributed to severe B12 deficiency. She was treated with parenteral B12 and referred to gastroenterology for endoscopic evaluation. At three months follow up, patient was asymptomatic, felt well and all laboratory studies had returned to normal.
+
+# IMPACT/DISCUSSION:
+
+Severe anemia from intramedullary hemolysis is a rare manifestation of B12 deficiency that results from ineffective erythropoiesis, peripheral breakdown of fragile red blood cells and a pseudo-microangiopathy from homocysteine-induced endothelial damage. This patient's clinical symptoms along with her laboratory findings are supportive of the above processes. Pernicious anemia is the most likely cause of this patient's B12 deficiency despite a negative IF antibody, given IF sensitivity is only 50% and due to her responsiveness to B12 treatment, her age and lack of other identifiable causes or risk factors for B12 deficiency. Endoscopic evaluation can offer more definitive diagnosis.
+
+# CONCLUSION:
+
+-Severe B12 deficiency can cause hemolytic anemia and pancytopenia -Clinicians should maintain a high index of suspicious for pernicious anemia as the cause of B12 deficiency, even when IF antibodies are negative, particularly in the absence of other clinical risk factors for B12 deficiency.
+
+# HEMOPHAGOCYTIC LYMPHOHISTIOCYSTOSIS: A FATAL DISEASE LEADING TO POOR PATIENT OUTCOMES
+
+SUMAIRA ZAREEF MD, MPH. DAVID FERNANDES MD MONTEFIORE MEDICAL CENTRE, DEPARTMENT OF INTERNAL MEDICINE. Sumaira Zareef. Montefiore Medical Centre, Bronx, NY. (Control ID #3185643)
+
+# LEARNING OBJECTIVE #1:
+
+Hemophagocytic lymphohistiocytosis (HLH) is an aggressive and life-threatening syndrome of excessive immune activation.
+
+# LEARNING OBJECTIVE #2:
+
+Early intervention is the only tool that can help achieve better clinical outcomes.
+
+# CASE:
+
+A 52-year old Ghanaian man without significant past medical history was brought to the ER for abdominal pain, cough, and multiple fever spikes above 102. He was found to be in septic shock, liver failure and respiratory failure. He was intubated, and treated with broad spectrum antibiotics and multiple pressors. CT of chest, abdomen and pelvis revealed bilateral consolidations, hepatosplenomegaly and diffuse moderate abdominopelvic adenopathy. He had pancytopenia; Total leukocyte count was 2.4 k/μL (4.8-10.8), Red blood cell count 3.5 ml/μl (4.5-5.9), platelet count was 31 k/μL (150-400). His kidney function declined, and he was started on dialysis. His ferritin and triglycerides were elevated at 5104 ng/ml and 1071 mg/dl respectively. Microbiological testing for tuberculosis, Schistosoma, giardia, strongyloidiasis, malaria, cryptosporidium, HIV, and viral hepatitis panel were negative. He was started on dexamethasone in view of suspicion for Hemophagocytic lymphohistiocytosis (HLH) as he fulfilled five out of eight HLH 2004 criteria. He was medically too unstable to be started on platin based chemotherapy which is the definitive treatment for HLH. Bone marrow biopsy revealed trilineage hematopoiesis, without hemophagocytes. His medical condition worsened, and he passed away after cardiac arrest. His soluble CD25 level was elevated at 19475 unit/ml (45 -1105), and his natural killer cell (NK cells) function was reduced further solidifying HLH diagnosis.
+
+# IMPACT/DISCUSSION:
+
+HLH diagnosis requires molecular diagnosis/genetic testing or fulfillment of at least five out of eight variables on diagnostic criteria. HLH-2004 diagnostic criteria includes fever more than 38.5 C; splenomegaly; peripheral blood cytopenias including two of the following (hemoglobin less than 9 g/dl, platelets less than 100,000/μl or ANC 1000/μl); hypertriglyceridemia (fasting triglycerides greater than 265 mg/dl) and/or hyperfibrinogenemia (less than 150 mg/dl); Ferritin more than 500 ng/ml; hemophagocytes in bone marrow, spleen, lymph nodes or liver; low or absent NK cell activity, and elevated soluble CD25 (soluble IL2 receptor alpha). The reported incidence of hemophagocytes on bone marrow examination ranges from 25 to 100%. The sensitivity of NK cell activity and soluble CD-25 levels approaches 100% based on HLA 2004 diagnostic criteria. Therapy based on the HLH-94 protocol consists of eight weeks of induction therapy with etoposide (VP-16) and dexamethasone. If left untreated, patients with HLH survive only a few months due to progressive organ failure. Therapy should not be delayed while awaiting results of immunologic testing.
+
+# CONCLUSION:
+
+HLH is a potentially life threatening disorder of extensive inflammation which requires prompt recognition and early introduction of definitive therapy.

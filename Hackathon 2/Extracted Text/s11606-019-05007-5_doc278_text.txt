@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# THE INCIDENCE OF DIAGNOSTIC ERROR IN HOSPITALIZED ADULTS: A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Victor P. Bilan1, 2; Benjamin Rodwin1, 2; Naseema Merchant1, 2; Craig G. Gunderson1, 2. 1Yale School of Medicine, New Haven, CT; 2VA Connecticut Healthcare, West Haven, CT. (Control ID #3182980)
+
+# BACKGROUND:
+
+Achieving a correct and timely diagnosis is fundamental to medical practice, but the diagnostic process is fraught with potential for error. The National Academy of Medicine's 2015 report Improving Diagnosis in Health Care identified diagnostic error as the next "quality chasm" to be addressed by the patient safety movement. Nonetheless the actual incidence of diagnostic error remains uncertain due to difficulties in measurement and the heterogeneity of approaches used, including autopsy studies, reviews of malpractice claims, and surveys of physicians and patients. We performed a systematic review of studies that assess rates of diagnostic error using physician review of case series of hospitalized patients.
+
+# METHODS:
+
+A systematic literature search was conducted for studies that reported series of hospitalized patients and used physician review to determine the frequency of diagnostic error. Our search included MEDLINE, EMBASE, and the Cochrane library from database inception through October 3, 2018. The rates of diagnostic error from individual studies were pooled using random-effects meta-analysis. Heterogeneity was estimated using the I2 statistic.
+
+# RESULTS:
+
+6,137 studies were screened for inclusion. Twenty studies met inclusion criteria of which sixteen were of consecutive admissions representing 93,619 patients and were included in the primary meta-analysis. The pooled incidence of diagnostic error was 0.8% (95% CI, 0.5% to 1.1%).
+
+# CONCLUSIONS:
+
+Whereas previous estimates have suggested that all adults will experience clinically significant diagnostic errors during their lifetimes, the results of this study suggest that diagnostic errors are a real but relatively infrequent cause of adverse events in hospitalized patients, as determined by retrospective chart review of consecutive patient series. Most studies did not further stratify diagnostic errors according to clinical context or actual missed diagnosis; this information will be necessary to inform future efforts at improving the diagnostic process.
+
+# THE IMPACT OF THE BALANCING INCENTIVES PROGRAM ON INFORMAL CAREGIVER BURDEN IN THE UNITED STATES
+
+Rebecca E. Anastos-Wallen1; Paula Chatterjee1; Rachel M. Werner2. 1University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania and Philadelphia VA, Philadelphia, PA. (Control ID #3185793)
+
+# BACKGROUND:
+
+There are an estimated 34.2 million adults in the US who provide informal care to sick family members or friends. These caregivers are known to have higher rates of stress and poorer health than their non-caregiver peers. The Balancing Incentives Program (BIP), established under the Affordable Care Act, provided federal funding for states to shift long-term care out of institutional settings and into the home. However, the effect of BIP on informal caregivers is unknown. We compared changes in caregiving activities and measures of wellbeing among caregivers in states that participated in BIP compared to control states.
+
+# METHODS:
+
+As BIP states shifted more care into the home, we hypothesized that caregivers in those states might provide more frequent care. Given increased support services at home, we also hypothesized that caregivers might have improved wellbeing. To test these hypotheses we studied respondents to the American Time Use Survey who self-identified as caregivers and either lived in a state that participated in BIP or in a state that was eligible to participate but did not (non-BIP). We used quasi-experimental design with difference-in-difference regression to assess the likelihood of a respondent being a caretaker, frequency of caregiving, and wellbeing measures related to time slept and time spent on self-care.
+
+# RESULTS:
+
+From 2011-2017, we identified 4,311 informal caregivers in non-BIP states and 7,316 in BIP states. Caregivers in BIP states were more likely to report providing daily care after BIP implementation (3.1%, p=0.04). Consistent with the goals of the program, caregivers in BIP states had some improvement in markers of wellbeing (gains in sleep of 13.9 minutes, p=0.01; gains in time spent on self-care of 12.0 minutes, p=0.03) compared to control caregivers. These effects were more pronounced among caregivers with more than a high school education (18.3 minutes of sleep, p=0.004), annual family incomes greater than $50,000 (14.4 minutes of sleep, p=0.03), and who were employed full time (14.5 minutes of sleep, p = 0.03).
+
+# CONCLUSIONS:
+
+Caregivers in BIP states were more likely to provide daily care than caregivers in non-BIP states after BIP took effect. They also...
+
+|Author|Year|Total Admissions|Diagnostic Errors|ES (95% CI)|Weight|
+|---|---|---|---|---|---|
+|Leape|1991|30195| |0.00 (0.00, 0.00)|8.50|
+|Thomas|1999|14732| |0.01 (0.00, 0.01)|8.36|
+|Davis|2003|6579| |0.01 (0.01, 0.02)|7.66|
+|Baker|2004|3745| |0.00 (0.00, 0.01)|7.97|
+|Forster|2004|502| |0.01 (0.01, 0.03)|3.55|
+|Sari|2007|1006| |0.01 (0.00, 0.01)| |
+|Asavaroengchai|2009|576| |0.02 (0.01, 0.04)|2.47|
+|Soop|2009|1967| |0.01 (0.01, 0.02)|6.54|
+|Letaief|2010|620| |0.01 (0.01, 0.03)|3.83|
+|Wilson|2012|15548|244|0.02 (0.01, 0.02)|8.06|
+|WNang|2015|2960| |0.00 (0.00, 0.00)|8.43|
+|Wong|2015|141| |0.01 (0.00, 0.05)|1.23|
+|Rafter|2016|1574| |0.01 (0.01, 0.02)|6.18|
+|Aranaz-Andres|2017|11379| |0.01 (0.01, 0.01)|8.27|
+|Aranaz-Andres|2017|1088| |0.01 (0.00, 0.01)|6.56|
+|Halfon|2017|1007| |0.01 (0.00, 0.01)|6.32|
+|Overall (1*2 = 94.9796)| | | |0.01 (0.01, 0.01)|100.00|

@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Effects of Glucagon-Like Peptide-1 Receptor Agonists on Hemoglobin A1c and Mortality in Patients with Type 2 Diabetes
+
+Kathryn E. Gunter1; Sanjay Jumani1; Brittany Bindon1; Shari Bolen2; Nisa Maruthur3; Elbert S. Huang1; Louis Philipson1; Neda Laiteerapong1.
+
+1University of Chicago, Chicago, IL; 2MetroHealth/Case Western Reserve University, Cleveland, OH; 3Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3180182)
+
+# BACKGROUND:
+
+Recent evidence from large randomized trials suggests that a new class of medication, the glucagon-like peptide-1 receptor agonists (GLP1RAs), may reduce mortality in addition to lowering hemoglobin A1c in patients with type 2 diabetes (T2D). Even with this evidence, treatment algorithms continue to list metformin monotherapy as first-line.1 Understanding the magnitude of benefits of GLP1RAs compared to placebo and other antihyperglycemic agents may lead to significant changes in clinical algorithms. We quantified the effects that GLP1RAs have on hemoglobin A1c and mortality by conducting a systematic review and meta-analysis of all randomized trials of this new drug class.
+
+1Davies MJ, D'Alessio DA, Fradkin J, et al. Management of hyperglycemia in type 2 diabetes, 2018. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2018 Dec;61(12):2461-98.
+
+# METHODS:
+
+We searched PubMed and Scopus (inception to March 2018) for randomized trials of at least 52 weeks duration enrolling adults with T2D that compared GLP1As with placebo or a different antihyperglycemic agent. Two reviewers independently extracted data to ensure accuracy, and differences were resolved by a third reviewer and discussion if necessary. Primary outcomes were change in hemoglobin A1c and all-cause mortality. Effect sizes and standard errors were calculated using the Hedges' g method and Mantel-Haenszel method for hemoglobin A1c and mortality, respectively. Pooled analyses with both fixed and random effect models were performed using the generic inverse variance method. Heterogeneity for each outcome was assessed with the Cochran's Q test and I2 statistic.
+
+# RESULTS:
+
+A total of 31 randomized controlled trials comprising 46,912 patients were included in the primary analysis. Using a random effect model, patients who received a GLP1RA had a lower hemoglobin A1c when compared to placebo or other antihyperglycemic agent (mean effect size = -0.28, 95% CI -0.32 to -0.23), however heterogeneity was high (Cochran's Q = 144, I2 = 0.79). Patients receiving GLP1RAs also had lower all-cause mortality (OR = 0.87, 95% CI 0.81 to 0.95), and results were not heterogeneous (Cochran's Q = 14, I2 = 0).
+
+# CONCLUSIONS:
+
+In this systematic review and meta-analysis, patients who received GLP1RAs when compared to placebo or other antihyperglycemic agent had significantly lower hemoglobin A1c levels and mortality rates. Subsequent analyses of changes in cardiovascular risk factors, adverse events, and costs will be needed to help inform future healthcare policy decisions.
+
+# Effects of Intensive Primary Care on High-Need Patient Experiences: Findings from a Veterans Affairs Randomized Quality Improvement Trial
+
+Donna M. Zulman1, 3; Evelyn T. Chang2; Ava Wong; Jean Yoon3; Susan E. Stockdale4; Michael Ong5, 2; Lisa V. Rubenstein6; Steven Asch1, 3.
+
+1Stanford University, Stanford, CA; 2VA- Greater Los Angeles, Los Angeles, CA; 3Palo Alto VA, Menlo Park, CA; 4Greater Los Angeles VA Healthcare System, Sepulveda, CA; 5UCLA, Los Angeles, CA; 6RAND and UCLA, Medford, OR. (Control ID #3184123)
+
+# BACKGROUND:
+
+Intensive primary care programs have been implemented across diverse healthcare settings to address the needs of patients with medical, behavioral, and social complexity. This study sought to determine how these programs influence patient satisfaction, perceived access, care coordination, trusting relationships.
+
+# METHODS:
+
+In 2014, the VA launched a national demonstration program to augment the Patient Aligned Care Team (PACT) medical home with PACT-Intensive Management (PIM) programs for high-need patients. Veterans in five VAs were identified based on VA-based hospitalization risk scores 90th percentile and a recent hospitalization or ED visit. A random sample were allocated to PIM between 9/1/2014 and 6/1/15; the remaining patients received usual PACT care. Patients in PIM were offered services such as health coaching, medication reconciliation, care coordination with specialists, and home visits from a dedicated team staffed by primary care providers, social workers, psychologists, nurses, and/or other support staff. We contacted 2,566 PIM and PACT patients to complete a mail survey between 6/3/16 and 12/16/16. The survey included measures of satisfaction with VA services, perceived access, care coordination, patient-centered care, having a trusted provider, and the Patient Assessment of Chronic Illness Care (PACIC). Responses were compared for PIM vs. PACT patients using multivariable logistic and mixed models with site-level fixed effects, adjusting for age, sex, race/ethnicity, education, income, functional status, marital status, living alone, social support, loneliness, and health literacy. Veterans who reported participating in PIM were also queried about their experiences with the program.
+
+# RESULTS:
+
+759 PIM and 768 PACT patients responded to the survey (response rate 60%). Patients randomized to PIM were more likely than those in PACT to report that they have a VA healthcare provider who helps coordinate their care (AOR=1.17; P=0.031), that they were asked about their health goals (AOR=1.23; P=0.011), and that they have a VA provider whom they trust (AOR=1.31; P<0.001) and who respects them (AOR=1.17; P = 0.032). PIM patients were also more likely to report 10 out of 10 on satisfaction with primary care (AOR=1.20; P=0.017), however other effects on satisfaction and access did not achieve statistical significance. Among the 281 Veterans who reported current or previous enrollment in PIM, most agreed or strongly agreed that the team responded quickly to health concerns (80%), helped them get VA care that they needed (82%), helped them meet their health goals (70%), and improved their overall VA care (72%).
+
+# CONCLUSIONS:
+
+The VA's intensive primary care program was well-received by participants and had a positive influence on patient experiences with care coordination, trust, and provider relationships, but did not have a significant impact on most patient-reported access and satisfaction measures.
+
+# Effects of Medicaid Expansion on Avoidable Mortality in Kentucky in Comparison to North Carolina
+
+Maryam L. Famouri1; Julia Rushing2; Ramon Velez1.
+
+1Wake Forest Baptist Medical Center, Winston-Salem, NC; 2Wake Forest University Medical Center, Winston-Salem, NC. (Control ID #3185459)
+
+# BACKGROUND:
+
+In 2014, the Affordable Care Act (ACA) expanded Medicaid eligibility for most adults with incomes up to 138 percent of the poverty level, which resulted in large decreases in uninsured rates in both expansion and non-expansion states, especially in low income populations. Studies have indicated that Medicaid expansions prior to the ACA have led to decreases in all-cause mortality; however, the ACA Medicaid expansions' effect on health care amenable mortality is less clear. To explore this relationship, we compared health care amenable mortality rates in Kentucky, an expansion state, with North Carolina, a non-expansion state.
+
+# METHODS:
+
+All mortality data were obtained from the CDC WONDER online database, and all demographic data were extracted from the American Community Survey. We defined 2010-2013 as the pre-reform period and 2014-2016 as the post-reform period. Individuals who were not between the ages of 15-64 during the pre or post-reform period were excluded from the analysis. Demographic characteristics and health care amenable age-adjusted mortality rates were collected at the county level. The criteria for health care amenable diseases were based on a definition by

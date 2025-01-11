@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Hospital discharge is a complex and dangerous process. The emergence and rapid growth of the Hospitalist specialty with the simultaneous decline of traditional practice models complicates discharges. In light of the discontinuity, it is crucial to build reliable communication tools that facilitate transmission of critical information. The discharge summary is an essential piece of that transition and is often the only means of communication between the hospital and the outpatient provider. A well written, thorough, accurate, and timely discharge summary may help to prevent 30-day hospital re-admissions. Although the Joint Commission and the Center for Medicare and Medicaid Services both published guidelines for the structure of discharge summaries, it is unclear how outpatient providers use this information. In addition, formal training surrounding discharge summaries within residency programs has traditionally been lacking. Many studies demonstrate frequent inaccuracies or missing components from discharge summaries. They often lack information that outpatient providers may find most useful (e.g. reasoning behind medication changes) and are not completed prior to the post-hospital visit.
+
+# METHODS:
+
+To further delineate the most useful elements of discharge summaries, we conducted a multi-center, multi-specialty survey of Internal Medicine, Family Practice, and Pediatric practitioners that assessed providers' preferences and how they utilized these resources.
+
+# RESULTS:
+
+In descending order, outpatient providers considered the hospital course, medications, discharge diagnoses, follow-up instructions, and HPI to be the most important components of discharge summaries. Labs and radiology were less important while weight bearing status, wound care, ancillary services, and consults were ranked lowest. Most outpatient providers read the summary the day of the appointment and 60% of respondents said it was the only source of communication with inpatient providers.
+
+# CONCLUSIONS:
+
+Using this information, it is feasible to create a standardized template that will increase efficiency of both hospitalists and outpatient providers and help to safely transition care. The most crucial elements that should be prioritized at the beginning of the summary are hospital course, complete medication list, discharge diagnoses, and history of present illness. Based on this large data set, we strongly believe that the creation of a standardized discharge summary template will lead to a more efficient and effective discharge process, with fewer re-admissions and safer transition out of the hospital.
+
+# OPTIMIZING MEDICAL STUDENT LEARNING EXPERIENCES ON HOSPITAL MEDICINE TEAMS - A QUALITATIVE STUDY
+
+Yogita Segon; Ankur Segon; Sun Young Jeong; Riley Westein; Michael Gehring. Medical College of Wisconsin, Brookfield, WI. (Control ID #3185888)
+
+# BACKGROUND:
+
+As the landscape of healthcare changes, hospitalists are progressively at the forefront of medical training as educators for both students and residents. There is some literature suggesting that hospitalists are rated favorably by both house staff and medical students as better clinical educators on inpatient internal medicine rotation as compared to traditional non-hospitalist faculty. Some studies have raised concerns about possible negative impacts on autonomy and decision making, bedside teaching and subspecialty exposure of housestaff. However, impact of hospitalists on medical student education has received relatively less attention. Our study focuses on the educational experience of medical students and hospitalists on general inpatient hospitalist teams that are comprised of a hospitalist attending and advanced practice provider along with one to two medical students.
+
+# METHODS:
+
+This qualitative project involved one-on-one interviews with eleven third year medical students and seven hospitalist physicians who worked on a hospitalist service in last one year. A team of three third year medical students was deployed as interviewers to minimize pressure on student interviews. Hospitalist physicians were interviewed by the author (hospitalist attending). Verbatim transcription was performed by three medical students and the author. All data was coded and analyzed by the author via thematic analysis.
+
+# RESULTS:
+
+Multiple themes emerged from these interviews. Student interviews generated themes around the ideal structure and content of rounds. In addition, student perceptions around the impact of attending and team-based variability on learning experiences were elucidated. The hospitalist attendings interviewed opined on barriers to providing a better learning experience for students. In addition, several learner and rotation based changes to optimize student experience were suggested by the hospitalists.
+
+# CONCLUSIONS:
+
+Data collected so far suggests that students appreciate variability in different attending's style of working and teaching and are willing to adapt as long as expectations are discussed beforehand. They really value dynamic feedback. The hospitalist attendings perceived high patient census as the biggest barrier to providing better learning experience for students. Changes recommended by them included more proactive involvement of students in the logistics of patient care and a desire for a set of recommended best practices to optimize learning experiences on hospitalist teams.
+
+# OUTCOMES OF INTENSIVE CARE MANAGEMENT FOR VETERANS AT HIGH RISK FOR HOSPITALIZATIONS IN YEAR 2
+
+Evelyn T. Chang1, 5; Jean Yoon; Donna M. Zulman; Lisa V. Rubenstein4;2 3 Michael Ong5, 1; Susan E. Stockdale6; Angel Park2; Elvira E. Jimenez6; David Atkins7; Angela Denietolis; Steven Asch8. 1VA- Greater Los Angeles, Los Angeles, CA; 2Palo Alto VA, Menlo Park, CA; 3Stanford University and VA Palo Alto, Stanford, CA; 4RAND and UCLA, Medford, OR; 5UCLA, Los Angeles, CA; 6Greater Los Angeles VA Healthcare System, Sepulveda, CA; 7Veterans Health Administration, Washington DC, DC; 8VA/Stanford, Menlo Park, CA; 9Primary Care, Veterans Health Administration, Washington, DC, DC. (Control ID #3184217)
+
+# BACKGROUND:
+
+Like many healthcare systems, the Veterans Health Administration (VHA) is piloting programs to intensify primary care for patients at high risk for hospitalization. VHA operational leaders partnered with five demonstration sites and an evaluation team in a quality improvement initiative to determine whether augmenting primary care in a standard medical home model (called Patient Aligned Care Team, PACT) with Primary care Intensive Management (PIM) decreases healthcare costs. Thus far, PIM was cost-neutral in the first year; we further investigated health care costs in the second year after the intervention began to assess for potential cost-savings during Year 2.
+
+# METHODS:
+
+PIM programs included an interdisciplinary team, comprehensive patient assessment and evaluation, transitional care management, and care coordination services. We drew a random sample of 2210 Veterans who were at top 10th percentile of risk for 90-day hospitalization based on a validated VHA risk algorithm and allocated half to PIM (n=1105). We excluded patients not either seen in a VHA emergency department visit or hospitalized during the past six months. We used an intent-to-treat design to compare the change in mean VHA inpatient and outpatient utilization and costs (including PIM expenses) per patient for the 12-month period before allocation and 12-month period at 13-24 months after allocation. We performed difference-in-difference regression analyses to detect changes in utilization and costs (using fixed effects adjusting for patient-level covariates).
+
+# RESULTS:
+
+PIM was associated with an increase in primary care (p<0.001), care management (p<0.001), telehealth (p=0.002), mental health and substance use (p=0.01), and home care (p=0.01) encounters, both in person and by telephone, compared to usual care in PACT. PIM was associated with a decrease in triage (p=0.02) and mental health assertive community treatment (p=0.03) encounters compared to usual care in PACT. There was no significant difference in ED visits (p=0.68). The mean costs of

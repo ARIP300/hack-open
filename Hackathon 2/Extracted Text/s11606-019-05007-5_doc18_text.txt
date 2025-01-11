@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# Burnout Among Practicing Physicians
+
+Sessions were facilitated by experts in promoting discussion around work-related challenges between colleagues from different medical professions. Participants in both arms were asked to complete surveys before and after program participation which included measures of burnout, resilience, depression, and job satisfaction. Statistical analysis was performed to identify correlations of burnout and other outcomes at baseline and in relation to participation in the intervention or control arm.
+
+# RESULTS:
+
+The response rate for the baseline survey was 23/24 (96%) for the control arm and 18/19 (95%) for the intervention arm. 22/24 (92%) control arm participants and 16/19 (84%) intervention arm participants completed the follow-up survey. There were no statistically significant changes in levels of burnout in either the intervention (14/17 (82.4%) pre- v. 13/17 (76.5%) post, p=0.31) or control (17/22 (77.3%) pre- v. 18/22 (81.8%) post-, p=0.56) arms. At baseline, we did identify correlations between burnout and resilience (-0.49, p=0.002) and burnout and meaning in work (-0.30, p=0.04).
+
+# CONCLUSIONS:
+
+Participation in an inter-professional facilitated discussion group intervention showed no impact on job burnout. As has been previously demonstrated, burnout was found to negatively correlate with baseline resilience and measures of job satisfaction. Our study was limited by its small size and variable participation among colleagues from different professions. Further studies are needed with larger cohorts to better elucidate the benefits of inter-professional facilitated reflection group discussion.
+
+# A Randomized Trial of Peer Comparison Feedback to Improve Guideline-Based Primary Care
+
+Amol S. Navathe 2, 1; Kevin G. Volpp 2, 1; Amelia M. Bond 3; Kristin Linn 4; Kristen L. Caldarella 2; Andrea B. Troxel 5; Jingsan Zhu 2; Lin Yang 2; Shireen E. Matloubieh 2; Elizabeth E. Drye 6; Susannah Bernheim 6; Emily Oshima Lee 7; Mark Mugiishi 7; Kim Takata 7; Justin Yoshimoto 7; Isaac Yuen 7; Sheryl Okamura 7; Michael Stollar 7; Jeffrey Tom 7; Michael Gold 7; Ezekiel J. Emanuel 2. 1 CMC VA Medical Center, Philadelphia, PA; 2 Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA; 3 Healthcare Policy and Research, Weill Cornell Medical College, New York, NY; 4 Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA; 5 New York University School of Medicine, New York, NY; 6 Yale University School of Medicine, New Haven, CT; 7 Hawaii Medical Service Association, Honolulu, HI. (Control ID #3182764)
+
+# BACKGROUND:
+
+Peer comparisons, providing feedback on clinician performance relative to peers, have been tested successfully in narrow settings such as increasing guideline-based antibiotic and opioid prescribing. However, there are no studies evaluating the effectiveness of peer comparisons on broader quality measures in the setting of alternative payment models.
+
+# METHODS:
+
+We conducted a cluster randomized trial with the Blue Cross Blue Shield of Hawaii to examine the impact of providing peer comparison feedback to its primary care practitioners (PCPs) on the quality of care. This study included patients of 86 PCPs randomized to receiving peer comparisons plus individual feedback (intervention group) versus individual feedback alone (control group). Feedback was provided on quality, cost, and utilization performance. All PCPs were also simultaneously moved to a new population-based primary care payment system. The primary outcome was the probability of achieving national benchmark thresholds on thirteen primary care focused quality metrics that included preventative and chronic disease measures. We analyzed the primary outcome using a generalized linear model, adjusting for patient characteristics, PCP characteristics, baseline proportion of measures achieved by the patient, and a quality measure fixed-effect, clustering standard errors at the PCP.
+
+# RESULTS:
+
+The RCT included 27,930 patients and 31 PCPs in the control group and 46,694 patients and 55 PCPs in the intervention group. Patients nor PCPs exhibited large differences across groups, with small differences in demographics and panel size, respectively. In primary analysis, the patients in the peer comparisons intervention group experienced a 2.4 percentage point (pp) increase in the probability of achieving an eligible quality measure (95% CI 0.3 pp to 4.6 pp, p=0.03). Secondary analysis of individual measures indicated that Breast Cancer Screening (3.9 pp, 95% CI 0.2 to 6.0 pp, p<0.001), Cervical Cancer Screening (2.4 pp, 95% CI 0.01 to 4.8 pp, p=0.05), Colorectal Cancer Screening (2.8 pp, 95% CI 0.3 to 5.2 pp, p=0.03), Diabetes Care - Eye Exam (5.6 pp, 95% CI 1.6 to 9.5 pp, p=0.006), Diabetes Care - Medical Attention for Nephropathy (2.5 pp, 95% CI 0.4 to 4.6 pp, p=0.02) and Review of Chronic Conditions (4.9 pp, 95% CI 0.0 to 9.8 pp, p=0.05) likely accounted for the increased overall quality score. Other measures demonstrated trends toward differential improvement, but associations were not significant. Cost and utilization did not demonstrate differences between arms.
+
+# CONCLUSIONS:
+
+A peer comparisons intervention that displayed quality information in a real-time dashboard in the setting of a broad primary care payment system change improved quality scores by over 2 percentage points. This highlights the ability of peer comparisons to influence clinician practice in broad endpoints and is reassuring in light of new payment programs that have begun sharing comparative feedback.
+
+# A Retrospective Review of Epic MyChart Utilization Amongst Payer Classes Within a Federally Qualified Health Center Network in Brooklyn New York
+
+Isaac Dapkins2; Rhett Pilao1; Neil A. Pasco1. 1NYU Langone Health, New York, NY; 2NYU, Brooklyn, NY. (Control ID #3185686)
+
+# BACKGROUND:
+
+The Hitech Act of 2009 led to Federal funding on EHR incentives such as Advancing Care Information within MIPs and Meaningful Use. EPIC currently has a MyChart application which allows a patient to interface with their medical records and provider. The Family Health Centers (FHC) at NYU Langone is a network of 8 Federally Qualified Health Centers (FQHC) located in Brooklyn New York. The primary service area has a large immigrant population with 47% of the population reported as being foreign born, and a diverse payor mix with 12% of patients being self-pay/uninsured.
+
+# METHODS:
+
+Retrospective analysis was performed regarding 78,168 unique patients seen within the Family Health Center Network from January 2018 to December 3rd, 2018. Patient were identified by payor class and by utilization of MyChart. Given the diversity of healthcare plans afforded within New York State, payor classes were grouped into 7 broad categories: Medicaid/ Managed Medicaid, commercial, Medicare/ Managed Medicare, self-pay, no insurance, Child Health Plus and Medicaid Expansion (Affordable Care Act). Patient MyChart data abstraction within the EPIC Clarity database included whether the patient was enrolled and when the last date of activity occurred. Enrollment with activity versus enrollment without activity within the last calendar year was used to gauge whether the patient would be considered an active subject in this retrospective review.
+
+# RESULTS:
+
+Regarding percentage of patient enrolled in MyChart, the patient population most likely to enroll was found to be those who have commercial health plans at 41%, with Medicaid expansion plans at 37%, followed by Medicaid tied with self-pay coverage (23%) and Medicare at 18%. Utilization tells a different story with the highest utilizers found in the Medicare enrollees at 79%, followed by Medicaid expansion at 78%, then commercial plans at 77%. The next tier of active users was found to be no coverage (67%), self-pay (66%) and Medicaid (61%). Retrospective review with enrollment data was somewhat expected; high enrollment in patients with commercial plans and lower enrollment amongst Medicare beneficiaries. What was surprising was the utilization/activity data.

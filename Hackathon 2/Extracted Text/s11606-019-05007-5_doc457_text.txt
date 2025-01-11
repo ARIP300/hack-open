@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Chylothorax: A Case Report
+
+Analysis revealed exudative effusion with lymphocytic predominance and triglyceride (TG) of 1,100 mg/dl consistent with chylothorax. Pleural fluid cytology and cultures were negative for malignancy and infection. Patient was made nil per os, total parenteral nutrition (TPN) and IV octreotide were started. High-volume chyle leakage was persistent. Patient underwent lymphangiogram, which showed chyle leak from the thoracic duct (TD) at the level of T7-T8. He underwent embolization, however, output did not improve. Patient underwent video-assisted thoracoscopy (VATs) and TD ligation by thoracic surgery. Pleural biopsy was negative for malignancy. Serum LDH, alpha-fetoprotein, beta-human chorionic gonadotropin, HIV, acid-fast bacilli, fungal, and anaerobic cultures were all negative. Peripheral blood smear was negative for dysplasia and blasts. Full body CT did not show any evidence of malignancy. Output trended down, and chest tube was removed when chest x-ray showed resolution of pleural effusion. Diet was advanced to low-fat, medium chain triglyceride (MCT) diet. There was no leak recurrence at 1-month follow-up.
+
+# IMPACT/DISCUSSION:
+
+Chylothorax is the presence of chyle in the pleural space with a TG level >110 mg/dl or evidence of chylomicrons in the pleural fluid. Non-traumatic chylothorax is a rare condition and can be due to many disease processes. A thorough evaluation of the most common causes of non-traumatic chylothorax includes malignancy (lymphomas, lung and mediastinal cancers), infections (tuberculosis, fungal infections), and congenital disorders of the lymphatic system, which were negative in our case. Conservative management includes either nothing by mouth or a low-fat diet with MCTs, which are absorbed directly into the portal system, bypassing the TD to reduce chyle flow and promote healing. TPN is used to replace proteins, electrolytes, and deliver lipids directly into the bloodstream, thereby bypassing the lymphatic system and decreasing chyle flow. Octreotide is an adjunct to help reduce chyle absorption from the intestines. When conservative measures fail, there are many interventional modalities to consider, including TD embolization, TD ligation, or pleurodesis. For our patient, a combination of conservative and operative interventions was performed given high-output of chyle and absence of a clear etiology, resulting in leakage resolution.
+
+# CONCLUSION:
+
+It is crucial to perform a comprehensive assessment in non-traumatic chylothorax to exclude occult underlying etiology. Initial conservative management includes dietary modifications. If there is no improvement, interventions are available to repair TD and reduce chyle output.
+
+# IF PSORIASIS ISN'T ENOUGH - A CASE OF ERYTHRODERMIC PSORIASIS
+
+Max Ruge; Jordan Scharping; Michelle Sweet. Rush University Medical Center, Chicago, IL. (Control ID #3184916)
+
+# LEARNING OBJECTIVE #1:
+
+Describe erythroderma and some of its common etiologies.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the potential treatment options for erythrodermic psoriasis.
+
+# CASE:
+
+A 65-year-old female with a 1-year history of psoriasis presented with a worsening rash and associated chills, arthralgias, weight loss, and diarrhea. Initially the erythematous and scaly rash was localized to her arms and under her breasts, but two months ago, it began spreading and became significantly more erythematous, pruritic, and painful. Due to disease progression, she was enrolled in an experimental randomized double-blinded clinical trial where she was given either secukinumab (Cosentyx) or placebo one month prior to hospitalization. Subsequently, her symptoms continued to worsen to the point where she could not get out of bed. On admission exam, her temperature was 101.3°F, heart rate was 103, and she had diffuse confluent erythema with overlying scale covering her entire body. She was diagnosed with erythroderma due to psoriasis, likely due to medication withdrawal from starting placebo or changing to the study agent. She was prescribed triamcinolone wet wraps BID and benadryl with significant relief of her symptoms. Infectious workup and assessment for electrolyte derangements were negative. She symptomatically improved and was discharged 5 days later.
+
+# IMPACT/DISCUSSION:
+
+Erythroderma is typically defined as erythema of over 75% of the body surface area and has multiple causes including psoriasis, atopic dermatitis, drug reactions, and numerous malignancies such as Sezary syndrome and other lymphomas. Erythrodermic psoriasis is the rarest subtype of psoriasis, yet it is critical to recognize given its significant mortality (9 to 64%). Key triggers include infection or an abrupt change in steroids or anti-psoriatic agents. The severity of erythroderma is highly variable but potentially lethal as the degree of scaling and inflammation can lead to superinfection, electrolyte abnormalities, shock, or even ARDS. In cases with persistent severe symptoms or with hemodynamic or thermoregulatory instability, first-line treatment consists of either cyclosporin or infliximab along with topical steroids. In general, systemic corticosteroids should be avoided because steroid withdrawal has been associated with erythrodermic flares, although this is controversial. Supportive therapy is also critical given the risk for electrolyte and fluid abnormalities. In addition to basic labs, skin culture from open or crusted sites and blood cultures are also warranted in unstable cases. Our patient significantly improved after a 12-hour trial of topical therapy. However, if she had not improved or if her symptoms progressed, cyclosporin would have been started.
+
+# CONCLUSION:
+
+This case highlights an atypical and potentially lethal complication of psoriasis. While our patient improved with triamcinolone wraps and supportive care, severe cases that are refractory to topical therapies should be treated with cyclosporin or infliximab.
+
+# IG A VASCULITIS ASSOCIATED WITH ACTIVE MESOTHELIOMA
+
+Bradley F. Woodman1; Ami DeWaters2. 1Penn State Health/Milton S Hershey Medical Center, Hershey, PA; 2Penn State Hershey Medical Center, Hershey, PA. (Control ID #3185856)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the diagnostic signs and symptoms of adult-onset IgA vasculitis.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the evaluation and management of adult-onset IgA vasculitis.
+
+# CASE:
+
+A 74 year old man with a recent diagnosis of desmoplastic-type malignant mesothelioma with recurrent pleural effusions presented prior to starting mesothelioma treatment with a one week history of painless purple lesions on his bilateral lower extremities and hand swelling leading to an inability to make a fist. The patient endorsed loss of appetite, but he denied abdominal pain or arthralgias. On physical exam, the patient had fine inspiratory crackles on auscultation, a non-tender abdomen, bilateral pitting edema of his upper extremities, and palpable purpura extending from his feet to his thighs bilaterally. Initial laboratory results were significant for a creatinine of 1.72 mg/dL from a previous baseline of 0.86 mg/dL one week prior. His erythrocyte sedimentation rate was 9.3 mg/dL, and his c-reactive protein was 75 mm/hr. He was admitted and treated with steroids, and a skin biopsy was diagnostic for IgA vasculitis. His renal function improved and he was discharged home on a steroid taper with topical steroids.
+
+# IMPACT/DISCUSSION:
+
+IgA vasculitis is rare in adults with only ten percent of cases occurring in adult patients. The tetrad of clinical features characteristic of IgA vasculitis is acute onset abdominal pain, arthritis or arthralgias, purpura, and renal involvement in the form of hematuria or proteinuria. The causes of IgA vasculitis are poorly understood, but it has been hypothesized that it could present as a paraneoplastic syndrome. In this case, it is possible that it presented as a paraneoplastic syndrome associated with mesothelioma. To evaluate and diagnose IgA vasculitis, a skin biopsy is necessary. A positive biopsy for IgA vasculitis has either a leukoclastic vasculitis or proliferative glomerulonephritis with predominantly IgA deposition. Treatment is mainly supportive, as it is a self-limiting condition.

@@ -1,0 +1,66 @@
+# ABSTRACTS
+
+# SMV with multi-disciplinary providers to manage patients with knee or hip OA
+
+The long-term clinic goals are to decrease the gap between recommended and actual OA care and to improve self-reported and objectively assessed outcomes in these patients.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We recently implemented an innovative SMV program. Patients commit to attending six 90-minute appointments (plus optional 30-minute exercise session) twice monthly for 12 weeks. SMV care is provided by a general internist, physical therapist, dietitian, and health psychologist. During each visit, patients are given an opportunity to share their progress and challenges, learn about managing OA in an interactive format, and set treatment goals.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+At the first and last SMV, we assess:
+
+- Quality of life: Veterans Rand 12-Item Health Survey (VR-12) physical and mental subscales
+- Objectively-assessed function: Timed Up and Go (TUG) Test, 30 second Chair Stand Test
+- Weight loss
+- Satisfaction, knowledge, and confidence: (0-10 Likert scales).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From Fall 2017 to Summer 2018, 27 patients (mean age 59.6±8.4, 25 female) attended an average of 4.6 of the 6 visits. All were obese at baseline; 19 (70.4%) had a BMI over 40 kg/m2. Sixteen patients (59.2%) had 5 or more significant co-morbid conditions and the mean VR-12 Physical Health Score was low (26.60±8.35 points). At 30-56 weeks post, 6 (22.2%) patients had a weight loss of 10% or more while 4 (14.8%) lost 5-10% of baseline weight. Changes in the VR-12 were small; the Cohen's d effect size for physical and mental subscales was 0.22 and 0.24 respectively. Improvements were seen for the Chair Stand Test (2.2 rises) and TUG time (5.3 seconds). Patients valued the SMV program and would recommend it to a friend (9.16±0.80, 10-point scale). They indicated increased confidence in managing osteoarthritis (7.8± 1.61 points) and reported a high level of knowledge gained (8.6±1.76 points).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+These early data suggest that SMVs have the potential to improve quality of life and function, and facilitate weight loss, in patients with hip and knee OA. SMVs were well-liked and improved patient knowledge and confidence regarding OA and its management. Additional planned assessments include more formal tracking of SMV-associated changes, comparison to other management strategies, and determination of OA guideline adherence.
+
+# SMALL STATE, BIG CHANGE: A 5-YEAR DESCRIPTION OF VERMONT'S PRIMARY CARE TRANSFORMATION TO EMBRACE POPULATION HEALTH
+
+Jennifer Gilwee1; Halle G. Sobel2. 1University of Vermont, Shelburne, VT; 2University of Vermont Medical Center, Burlington, VT. (Control ID #3153492)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How do you transform the delivery of care across primary care disciplines in an academic medical center to positively affect outcomes for an attributed population?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- Describe the standardization of care to a population of patients across primary care specialties
+- Share successful practice of administrative/leadership coordination among three primary care specialties at our organization.
+- Summarize positive impacts of the transforming primary care process on patient outcomes
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The University of Vermont Medical Center consists of 12 ambulatory clinics which span three primary care specialties (Internal medicine, Family medicine, Pediatric medicine) and care for ~80,000 empaneled patients. There are ~160,000 visits per year which cover acute care, chronic disease management and preventive healthcare. Five years ago we realized the need to transform our care delivery to efficiently and effectively meet the comprehensive needs of our patients and providers. This led to the implementation of standardized pre-visit protocols, daily huddles and weekly care coordination meetings all designed to optimize the care delivered to patients, ensuring their preventative as well as chronic disease (including chronic opiate use) needs are met. We instituted a specific administrative structure including physician and staff supervisor representatives from each clinic site. The operational deployment and review of protocols was done by multidisciplinary groups (including MDs, RNs, medical assistants and clerical staff) to foster empowerment and adoption.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Over the course of our transformation we have had the implementation of several protocols spanning all aspects of the patient-health system interaction including pre-visit planning, rooming, medication refill, post-hospitalization follow up and specific condition RN-directed treatment protocols. As a result we have demonstrated success in measures that cut across multiple ages and conditions. These include preventive health measures including increased immunization rates and screening for hepatitis C. We demonstrated success in achieving advanced care planning documentation on our population. Most recently, we have demonstrated success in increasing the number of opiate informed consent and prescription agreements on file for those patients who are on chronic opiates.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over a 3 year span we noted a 4% increase in overall immunization rate for our entire population. Our hepatitis C screening rates went up from 66% to 71% over a 5 year timeframe. Our advance care planning documentation rates rose from 30% to 39% over a 1 year timeframe. Our percent of patients with opioid informed consent and prescription agreement has gone up to >85 %.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+- Must have leadership support and administrative champions (MD, supervisors)
+- Imperative to empower all members of the team to function at the top of their job description
+- Implementation and adoption can be hard without clear communication of why things are changing. Cannot feel "top down"
+
+# STANDARDIZED HANDOFF EDUCATION FOR INTERNAL MEDICINE RESIDENTS: AN INNOVATIVE EDUCATION AND PATIENT SAFETY INITIATIVE
+
+Morgan R. Moore1; Steven G. McKee2. 1University of Arkansas for Medical Sciences, Little Rock, AR; 2University of Arkansas, Little Rock, AR. (Control ID #3184433)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Internal medicine residents received no formal education on standardized

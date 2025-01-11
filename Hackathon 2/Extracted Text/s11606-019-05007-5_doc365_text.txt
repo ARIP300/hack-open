@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# Effects of Uncertainty on Immigrants
+
+Grace et al. (2018) call this the "violence of uncertainty." Immigration is an inherently high-stress event; thus, anxiety, depression, and post-traumatic stress disorder may occur. Shifting immigration policies affect whether and how immigrants seek care. Those worried about finances or resident status may be less likely to follow-up or pursue long-term treatment. This case made me aware of the psychological and socio-political factors that may impact care.
+
+# Conclusion
+
+Testosterone can correct hypogonadism symptoms and induce and maintain secondary sexual characteristics, but is contraindicated in those who desire fertility in the near term. Immigrant patients are often subject to social uncertainty, which can manifest as mental health disorders and difficulty with seeking and maintaining care.
+
+# Acanthamoeba Encephalitis in HIV-Infected Male Presenting with Headache and Tonic-Clonic Seizures: A Case Report
+
+Abigail C. Watts; Nonglin Mel. Emory University School of Medicine, Atlanta, GA. (Control ID #3165946)
+
+# Learning Objective #1
+
+Recognize the radiographic and pathologic features of Acanthamoeba encephalitis.
+
+# Learning Objective #2
+
+Formulate a differential diagnosis for space-occupying brain lesions in immunocompromised patients.
+
+# Case
+
+A 27-year-old man with Acquired Immune Deficiency Syndrome (with a CD4+ cell count of 5 cells/mm3) presented with tonic-clonic seizures and headache. Physical exam on admission did not reveal focal neurological deficits. Laboratory studies showed a WBC of 4.6 K/mcL (12.7% eosinophils). Magnetic resonance imaging (MRI) demonstrated a right frontoparietal peripherally enhancing lesion with mild surrounding edema and associated mass effect. Cerebrospinal fluid studies demonstrated neutrophil-predominant pleocytosis (WBC 147/mcL with 50% neutrophils) with normal protein and glucose. Broad-spectrum therapy for potential bacterial, viral, and fungal infections was initiated; nonetheless, the patient developed increasing somnolence and new focal neurological deficits. Repeat MRI six days after admission demonstrated new, enlarging edematous and peripherally enhancing lesions favored to represent multifocal cerebritis. Craniotomy and open brain biopsy with resection of dura was performed ten days after admission. Pathology revealed lymphohistiocytic inflammation with amoebic necrotizing abscesses. Immunohistochemical and PCR testing confirmed Acanthamoeba infection. Despite multidrug treatment (with miltifosine, flucytosine, pentaminidine, sulfdiazine, fluconazole, and azithromycin), the patient expired on hospital day 16.
+
+# Impact/Discussion
+
+Acanthamoeba is a pervasive protozoal species found in soil, water, air, and dust; the organism has been associated with three infectious syndromes in humans: amoebic encephalitis, disseminated granulomatous amebic disease, and keratitis (especially in contact lens users). Unlike the fulminant infection caused by Naegleria fowleri, Acanthamoeba causes a subacute encephalitis that progresses over days to months. Acanthamoeba likely causes central nervous system infection in immunocompromised hosts through hematogenous spread after initial pulmonary or skin inoculation and subsequent penetration of the blood-brain barrier. Investigational therapies for Acanthamoeba encephalitis include surgical resection of lesions and combination drug therapy.
+
+# Conclusion
+
+Amoebic encephalitis is an exceedingly rare cause of central nervous system infection with a mortality exceeding 90%. Various protozoa have been implicated in central nervous system disease, including Naegleria fowleri, Balamuthia mandrillaris, and multiple species of Acanthamoeba. Little data exists regarding the clinical characteristics, radiographic findings, and treatment of Acanthamoeba encephalitis, as fewer than 150 cases have been reported globally since the condition was first described in the 1960s. Acanthamoeba encephalitis should be considered in immunocompromised patients presenting with central nervous system infection, as delayed recognition and treatment contribute to the condition's grave prognosis.
+
+# Acquired Hemophilia A Due to Alemtuzumab Treatment for Multiple Sclerosis
+
+Jesse D. Faulk1; Dennis Sehgal1; Jorge Diaz2; Pavan Panchavati3. 1University of Alabama at Birmingham, Huntsville, AL; 2Clearview Cancer Institute, Huntsville, AL; 3Huntsville Hospital, Huntsville, AL. (Control ID #3185958)
+
+# Learning Objective #1
+
+Diagnose acquired hemophilia A.
+
+# Learning Objective #2
+
+Treat acquired hemophilia A.
+
+# Case
+
+A 66-year-old Caucasian female presented to the ED due to bruising. Her bruising began 4 days prior, beginning on her hands and feet then involving her torso. She also admitted to hematuria for 4 days but denied melanotic stools, hematemesis, hematochezia, epistaxis, or joint swelling. She denied any recent trauma or history of easy bruising or bleeding. She has a medical history significant for multiple sclerosis and was treated nine months prior with alemtuzumab. She had a prior appendectomy and cholecystectomy without any significant bleeding. She has no family history of bleeding or clotting disorders. On examination, she was afebrile and normotensive. She had diffuse bruising. Her hemoglobin was 8.1 g/dL, platelet count was 381x103/μL, and WBC was 11.7x103/μL. Prothrombin time (PT) was 13.1 s and partial thromboplastin time (PTT) was 90.2 s. Factor 8 activity was 3% (normal: 50-150%). A PTT mixing study was performed with PTT failing to correct. Lupus anticoagulant was not detected. Factor VIII inhibitor was detected. Computed tomography of chest, abdomen, and pelvis showed no malignancy. Antinuclear antibody was negative. She was diagnosed with acquired hemophilia A secondary to alemtuzumab therapy and started on prednisone and rituximab, which was changed to cyclophosphamide due to allergic reaction. Her PTT began to decrease, and she was discharged on prednisone and cyclophosphamide.
+
+# Impact/Discussion
+
+Acquired hemophilia A is an uncommon autoimmune disorder that is caused by an inhibitory autoantibody to factor VIII. Acquired hemophilia may be associated with certain medications, autoimmune disorders, or malignancy. Almost half of patients may not have an identified etiology. Alemtuzumab, a humanized monoclonal antibody targeting the surface molecule of CD52 of B and T lymphocytes, has been reported to cause autoimmune conditions, and limited case reports exist of this monoclonal antibody causing acquired hemophilia A. The usual presenting symptom is bleeding that may occur after a surgical procedure or spontaneously. Patients may present with mucocutaneous bleeding, such as epistaxis, gastrointestinal bleeding, hematuria, ecchymosis, or large hematomas. Acquired hemophilia is characterized by prolonged PTT with normal PT. A mixing test that results in uncorrected PTT differentiates acquired hemophilia from inherited factor deficiency, and a Bethesda assay diagnoses the presence of a factor VIII inhibitor. Desmopressin, factor VIII concentrates, or activated prothrombin complex concentrate can be used to control bleeding. In order to eliminate the inhibitor, immunosuppressive modalities, such as glucocorticoids, cyclophosphamide, and rituximab, may be used.
+
+# Conclusion
+
+Acquired hemophilia A is a rare but important cause of mucocutaneous bleeding and must be differentiated from inherited factor deficiencies. Alemtuzumab has been reported as a cause and must be identified to avoid re-exposure.
+
+# Acute Bacterial Myopericarditis in an Intravenous (IV) Drug User
+
+Juliann Koleszar1; Timothy Byrnes2. 1Summa Health System/Northeast Ohio Medical University Program, Akron, OH; 2Summa Health System, Akron, OH. (Control ID #3186998)
+
+# Learning Objective #1
+
+Recognize the clinical features of acute bacterial myopericarditis.
+
+# Learning Objective #2
+
+Distinguish between pericarditis and myopericarditis.

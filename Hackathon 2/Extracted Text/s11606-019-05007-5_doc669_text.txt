@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How to sustain a high-value care mindful lab ordering culture in a medicine residency program?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Recognize barriers to mindful lab ordering Engage in multi-faceted interventions to promote mindful lab ordering
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The United States is in a health quality crisis; we must transform to a high-value, low-cost healthcare culture. To achieve such a culture, trainees must learn high-value care habits. We developed a 95-week longitudinal study to promote mindful laboratory habits in an Internal Medicine residency program.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Subjects included residents and attending physicians on the general medicine inpatient service. The primary aim was to decrease total laboratory orders (BMP, CMP, CBC with and without differentials) by 15% within one academic year and to sustain these changes. Total duration was 95 weeks (control—15 weeks, interventions—80 weeks, divided into 5 16-week phases); each was cumulative. Phase 1: resident education, phase 2: EMR (Epic) changes, phase 3: interactive cases, phase 4: attending physician education, phase 5: night-float resident education and additional EMR changes. Aggregate order data was obtained from the EMR and culture change was assessed with pre/post surveys. Primary outcomes were total labs ordered, the type of laboratory panel ordered, resident attitudes of mindful laboratory ordering and money saved. Secondary outcomes included length of stay, 30-day readmission rate, case-mix index and venipuncture utilization.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Survey data showed increased resident perception of mindful lab ordering from 40% (32 weeks) to 85% (80 weeks)( p<0.05). Additionally, residents reported team discussion of laboratory ordering increased from 25% (0 weeks) to 85% (p<0.05). EMR lab frequency utilization data showed a 50% decrease in use of "daily" frequency and a 50% increase of "one-time" ordering option. By week 45, there was a 20% decrease in total labs ordered/week; this was sustained through week 95. Both BMP and CBC without differential increased while CMP and CBC with differential decreased per a thousand patient days. Hepatic panels, a balancing measure, did not significantly change. Secondary outcomes demonstrated a downtrend in 30-day readmission rate (1.18 to 0.92) and length-of-stay (LOS) (1.02 to 1.0) and uptrend in case-mix index (CMI) (1.37 to 1.83). The percentage of patients on medicine service undergoing venipuncture also decreased.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+We believe we have created and sustained a cultural change toward more mindful laboratory ordering. Residents not only perceive that they are more mindful, they have actually decreased the number of labs ordered. While we cannot attribute the downtrend in LOS and readmissions to our study, we can state that decreasing labs did NOT result in an increased LOS or readmission rate. We also know that our decrease in laboratory orders is not secondary to lower acuity patients. Additionally, in the setting of higher acuity patients we have seen a decrease in the percentage of patients undergoing venipuncture.
+
+# TEAM-BASED PROCESS FOR MEDICATION RECONCILIATION & REVIEW IN AMBULATORY CARE
+
+Celia Lu1, 2; Christine Chim1, 2; Danielle Ezzo1, 2; Nissa Mazzola1, 2; Rachel S. Kashan3; Daniel J. Coletti2. 1St. John's University College of Pharmacy & Health Sciences, Lake Success, NY; 2Northwell Health, Great Neck, NY; 3Yeshiva University, Ferkauf Graduate School of Psychology, New York, NY. (Control ID #3185199)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Discrepancies between the medications the patient is taking and those listed in the electronic medical record (EMR) can lead to medication errors and patient harm.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Develop, implement, and evaluate an interprofessional (IP) team-based medication reconciliation process, with the objectives of reducing medication discrepancies and medication errors.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+IMPACcT (Improving Patient Access, Care, and Cost through Training) is an internal medicine training practice where residents collaborate with medical students and trainees from psychology, physician assistant, and pharmacy programs. Our pharmacy-led IP medication review process consisted of four steps: "scrubbing" the chart, huddle, interview, and reconciliation. First, a pharmacy student identifies high-risk patients who need a medication review. The student then presents identified patient medication needs during the huddle and identifies team partners who can assist. Third, the student obtains a medication history with the patient and identifies discrepancies, while the partnering student focuses on adherence. During reconciliation, the team discusses identified discrepancies, updates the patient's medication list in the EMR, and communicates the plan to the patient.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+A coding system was utilized to classify medication-related problems and to record changes made to the treatment plan. We examined the frequency and types of discrepancies identified and the percentage of successfully updated medication lists.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A Plan-Do-Study-Act cycle was conducted examining 164 medication reviews. We used prior practice data to benchmark a 20% improvement in the number of identified medication discrepancies that were correctly adjusted in the patient's medical record. We identified 1 discrepancy in the vast majority of patients (n = 133; 81.1%) and found an average of 3.06 discrepancies per discrepant record (range = 1-10). A total of 95 patients (58.5%) had 1 discrepancy involving a daily prescription medication taken for a chronic condition. The most frequently identified medications included central nervous system agents (n = 38), cardiac medications (n = 31), gastrointestinal drugs (n = 26), prescribed analgesics (n= 21), and hypoglycemic agents (n = 18). The medication review team recommended a chart update to address 326 of the 407 identified discrepancies. Changes were successfully made to address 244 of these 326 discrepancies (74.8%). Of the charts for which medication reviews were completed, 68.9% were free of discrepancies by the end of the visit.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A structured IP medication review process encouraged identification and discussion of discrepancies, which improved accuracy of the medication lists. However, workflow barriers hindered successful.

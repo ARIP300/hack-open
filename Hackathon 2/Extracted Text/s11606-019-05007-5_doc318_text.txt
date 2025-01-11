@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# IMPACT/DISCUSSION
+
+There are only a few reversible causes of complete heart block: medication overdose with beta blockers, Lyme carditis and viral myocarditis. Lyme disease is a multisystem disease caused by infection with *Borrelia burgdorferi*. Cardiac involvement usually occurs within a few weeks or months of exposure. Lyme carditis is estimated to occur in approximately 1% of patients infected with Lyme. The pathophysiology of the disease is incompletely understood in humans, but animal studies have shown transmural inflammation in the connective tissue at the base of the heart, the basal interventricular septum, and perivascular regions including the aortic adventitia. The symptoms usually start within 4-6 weeks and may include palpitations, lightheadedness, syncope and chest pain. AV block is the most common manifestation of Lyme carditis ranging from 1st degree AV block to complete heart block. Other manifestations include myopericarditis, LV dysfunction, and heart failure. Diagnosis is made via serologic testing with ELISA/western blot. The management involves hospitalization with telemetry monitoring in symptomatic patients (high grade block or first degree AV block with PR > 300 msec). Lyme carditis is treated with intravenous antibiotics. Third generation cephalosporins are preferable; if patient is penicillin/cephalosporin's allergic, desensitization should be performed. Patients should remain hospitalized until resolution of symptoms/blocks. The usual resolution occurs within one week of antibiotic therapy. Patient who are asymptomatic should be treated with oral antibiotics.
+
+# CONCLUSION
+
+Detailed travel history and skin examination are important and can help pinpoint the diagnosis. Recognizing the reversible etiology of Lyme carditis helped prevent unnecessary intervention.
+
+# A CASE OF THE B'S: B1, BLURRY VISION, AND BARIATRIC BERIBERI
+
+Tina P. Kapadia; Samir Bhalla. UCLA, Santa Monica, CA. (Control ID #3186743)
+
+# LEARNING OBJECTIVE #1
+
+Recognize and diagnosis significant vitamin deficiencies in bariatric patients.
+
+# CASE
+
+A 28 year old morbidly obese female status post gastric sleeve surgery two months prior presented to the hospital with falls and double vision for two days. Her surgery had resulted in a fifty pound weight loss. Her post operative period was complicated by intermittent bouts of nausea and vomiting and she was found to have pyloric stenosis requiring balloon dilation and botox injections. She developed a recurrent episode of nausea, vomiting and insufficient oral intake requiring around the clock Zofran. Approximately 1 week later she developed unsteadiness while walking with a sensation of falling associated with double vision and inability to focus eyesite. Physical examination demonstrated nystagmus with horizontal eye movements bilaterally, dysmetria with finger-to-nose testing, as well as an ataxic gait. Her strength, sensory and reflex examinations were otherwise normal, and labs noted a microcytic anemia. She was evaluated both neurology and ophthalmology and underwent CT and MRI imaging of the head and neck which were negative for acute findings. The patient was given IV fluids, multivitamin and high dose IV thiamine. Her symptoms rapidly improved with resolution of her diplopia and ataxia by hospital day 2. Labs later resulted in low levels of vitamin A, B1, iron, and serum ferritin. She was continued on bariatric vitamin supplementation and was discharged to home.
+
+# IMPACT/DISCUSSION
+
+Micronutrient derangements are common following bariatric surgery. Thiamine (B1) deficiency is more commonly associated with malabsorptive procedures that decrease the surface area for nutrition utilization, metabolism, and absorption. B1 is typically absorbed in the duodenum, thus the mechanism for B1 deficiency in gastric sleeve surgeries has not been fully elucidated, although it is postulated that the stomach plays some key role in absorption. Some data shows that B1 can be depleted after only 20 days of inadequate supply. There have been numerous reports of acute thiamine deficiency in early post operative period in bariatric surgery patients leading to the term "bariatric beriberi." The term beriberi means "weakness" and refers to a spectrum of deficiencies in B1 including its effect on peripheral and central nervous systems. Only 16% of patients demonstrate the classic Wernicke's triad of encephalopathy, ophthalmoplegia and ataxia. Encephalopathy typically occurs more commonly than the other two features of the triad, interestingly this patient presented primarily with ataxia and ophthalmoplegia. Diagnosis mainly relies on clinical suspicion as there may be a delay in laboratory results, and brain imaging may not reveal any abnormal findings. Rapid recognition and treatment is important to prevent long term morbidity, or even mortality.
+
+# CONCLUSION
+
+Thiamine deficiency can occur after gastric sleeve surgery and requires rapid treatment to prevent morbidity as in this case.
+
+# FEVER IN A TRAVELER: DIAGNOSIS WITH THE PERIPHERAL SMEAR
+
+PRIYANKA BHUGRA 1; Abhishek Maiti 2; Richard Wu 1; Alia N. Nazarullah. 1University of Texas Health Science Center at San Antonio, San Antonio, TX; 2University of Texas MD Anderson Cancer Center, Houston, TX. (Control ID #3181679)
+
+# LEARNING OBJECTIVE #1
+
+Parasitic infections should be high on the list of differential diagnoses of fever in a returning traveler, with relapses seen weeks to years after P. vivax and P. ovale infection.
+
+# LEARNING OBJECTIVE #2
+
+Peripheral blood smears are key to diagnosis and following the response to treatment after anti-malarial therapy.
+
+# CASE
+
+A 50-year-old previously healthy woman presented with a 3 day history of fevers, chills and severe frontal headache in the evenings. She traveled from Rwanda to the United States 8 months ago. Physical examination was unremarkable. Laboratory studies were significant for thrombocytopenia (platelet count of 87 x 109/L). A peripheral blood smear showed schizonts containing merozoites and intracellular ring forms, consistent with *Plasmodium ovale* infection. The patient was treated with artemether/lumefantrine for 3 days. Her fevers, headache and thrombocytopenia resolved by third day of treatment. She was subsequently treated with primaquine for 14 days. At 3-month follow-up, the patient remained asymptomatic.
+
+# IMPACT/DISCUSSION
+
+Malaria poses an important diagnostic challenge to the physicians in United States due to unfamiliarity with the disease and lack of specific clinical features in the early phase. Majority of the cases of malaria in US are associated with history of travel to the endemic areas including Africa, South-East Asia and South America. Relapse after initial infection can occur with P. vivax and P. ovale species of *Plasmodium. This is due to the presence of the hepatic dormant hypnozoite stage that can last for weeks to several months or even years. Thus, a single infection can be responsible for series of waves of parasitemia or relapses by reactivation of hypnozoite stage. Early recognition of the disease is important to reduce mortality and prevent its spread in the community. Delay in diagnosis can lead to progression to severe disease with multi-organ failure and death. Examination of peripheral blood smear helps in prompt diagnosis of malaria, identification of the Plasmodium* species and quantification of parasitemia. The treatment of non-falciparum malaria includes use of chloroquine or artemisinin-based combination therapy. The clearance of parasitemia is confirmed by serial blood smear examination after initiation of treatment. Patients with P. vivax and P. ovale need further treatment with 2-week course of primaquine to eradicate the liver hypnozoites and prevent future relapses. Tafenoquine is a newly approved anti-relapse drug which can be used as a single dose regimen in nonpregnant individuals. Testing for glucose-6-phosphate-dehydrogenase deficiency is mandatory prior to starting the anti-relapse therapy.

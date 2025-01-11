@@ -1,0 +1,59 @@
+# THE PERFECT STORM: DISSEMINATED HODGKIN LYMPHOMA PRESENTING WITH CHOLESTATIC LIVER INJURY AND HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS
+
+Neethu E. Abraham; Nathanael Bailey; Bryan Rea; Kristen M. Livesey. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3179470)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hemophagocytic lymphohistiocytosis as a cause of acute cholestatic liver injury
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish causes of hemophagocytic lymphohistiocytosis and the impact on management
+
+# CASE:
+
+A 49-year-old women with irritable bowel syndrome presented with 2 weeks of lethargy, confusion and 3 days of jaundice, abdominal distension and lower extremity edema. Family reported a 40lb weight loss, intermittent fevers and night sweats. Examination was notable for confusion with jaundice, tender hepatosplenomegaly, left axillary lymphadenopathy and anasarca. Labwork was notable for pancytopenia, normal AST/ALT and elevated total bilirubin (17.7 mg/dL), direct bilirubin (13.2 mg/dL), alkaline phosphatase (309 IU/L), ferritin (>1500 ng/mL), triglycerides and LDH. CT of the chest, abdomen and pelvis with contrast was notable for left axillary, right paratracheal and retroperitoneal lymphadenopathy and hepatosplenomegaly with hypodense lesions throughout the liver and spleen. Workup for liver failure included negative hepatitis A, B and C, CMV, HSV and HIV serologies. EBV PCR was 41,000 copies. Left axillary lymph node biopsy revealed Reed-Sternberg cells and EBV positive cells consistent with classic Hodgkin lymphoma (HL). Bone marrow biopsy showed evidence of hemophagocytosis and extensive marrow involvement by HL. Diagnosis of HLH due to classic HL was made and she was treated with etoposide and dexamethasone. She subsequently received Cytoxan, Rituxan and dose-reduced Gemcitabine with resolution of her cholestasis.
+
+# IMPACT/DISCUSSION:
+
+HLH is a rare but fatal disease. This case offers an opportunity to highlight the high degree of suspicion required for diagnosis. Early diagnosis can alter the course and prognosis of the disease if the secondary cause is appropriately addressed. HLH is characterized by excessive inflammation due to a hyper-stimulated but dysregulated immune system. Initial signs and symptoms can mimic common infections, hepatitis or encephalitis, making prompt recognition challenging. In our patient, the cholestatic liver injury made clinical recognition of HLH challenging. While LFT abnormalities are common in cases of HLH, it is a rare cause of cholestasis. The cholestatic injury is due to portal and biliary infiltration by lymphocytes and histiocytes. HLH can occur as a familial or acquired disease; the latter thought to be triggered by infection, malignancy or connective tissue disorder. Development of HLH is rarely associated with HL and interestingly EBV is more prevalent in these cases. Moreover, HLH extension to the liver by HL is typically seen in advanced disease.
+
+# CONCLUSION:
+
+This case demonstrates the need for a high degree of clinical suspicion for the diagnosis of HLH in a patient presenting with fever, cytopenia and cholestasis with an extensive unremarkable infectious work up. The prompt initiation of treatment alters the disease course given the high associated mortality with unrecognized disease.
+
+# THE PERICARDIAL EFFUSION WITH A WORLD OF POSSIBILITIES
+
+Kaiwen Sun; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3185962)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to a patient with a pericardial effusion
+
+# LEARNING OBJECTIVE #2:
+
+Recognize indications for aggressive treatment of a pericardial effusion
+
+# CASE:
+
+A 35 year-old man presented for generalized weakness and shortness of breath for two days. The shortness of breath was worse with exertion. He denied chest pain, cough, syncope or edema. He had a history of hypothyroidism, heart failure with preserved ejection fraction, HTN and ESRD. His vitals were unremarkable. He had jugular venous distention 6cm above the suprasternal notch, muffled heart sounds, abdominal distention, mild pedal edema, and clear lung fields. He had a CHF peptide of 229, BUN of 90, anion gap of 23, unremarkable troponins and TSH. Chest x-ray remonstrated marked interval increase in cardiac silhouette size compared to a study 2 weeks ago, and TTE was significant for a large circumferential pericardial effusion with tamponade physiology and concentric LVH with ejection fraction of 35-40%. With a tentative diagnosis of uremic pericardial effusion, 1150ml of serosanguinous fluid was removed via urgent pericardiocentesis with drain placement. The drain contained 35ml of fluid and there was resolution of dyspnea and JVD. He received intensified PD with BUN improving to 72 upon discharge. Pericardial fluid demonstrated increased RBC and WBC (91% PMNs), with negative gram and AFB stains, culture, and cytology. Blood cultures were negative.
+
+# IMPACT/DISCUSSION:
+
+Confirming the presence of a pericardial effusion requires an echocardiogram, although items from the history and physical, EKG, and chest x-ray can all be suggestive. The general internist, using point of care ultrasound can most often observe a significant pericardial effusion. A formal transthoracic echo can be done to quantify the size of the effusion and to assess for cardiac tamponade. The factors that affect the impact of a pericardial effusion include rate of accumulation, size of effusion, and presence of pericardial scarring or adhesions. Establishing a cause of the effusion is often difficult and is based mostly on additional findings to guide additional evaluation. The course of most effusions tend to be benign but basic laboratory evaluation including a CBC, CMP, and thyroid studies. ANA and autoimmune evaluation should be undertaken if there are appropriate corresponding clinical factors. Pericardial fluid analysis should be performed in all cases of tamponade physiology, if an infectious or malignant cause is suspected, or if it is a large pericardial effusion. If there is no tamponade, treatment is aimed at treating the underlying cause. Asymptomatic patients with large effusion do not need immediate therapeutic drainage but it should be considered for diagnostic purposes.
+
+# CONCLUSION:
+
+It is essential for the general internist to recognize and appropriately treat pericardial effusions. The approach involves establishing the presence of an effusion, assessing the hemodynamic impact, establishing the cause of the effusion, and then initiating the appropriate treatment.
+
+# THE POSITIVE SIDE OF A NEGATIVE
+
+kohei oguni; Sandra Y. Moody; Makito Yaegashi. 1Kameda Medical Center, Kamogawa, Japan; 2Kameda Medical Center & UCSF/SFVAMC, Kamogawa City, Japan. (Control ID #3163932)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that a negative inflammatory marker can be a diagnostic clue in a patient with fever.
+
+# CASE:
+
+A 72-year-old woman with a fever for 10 days was evaluated in the outpatient clinic of our hospital. She had a mild headache, but no other associated symptoms. On examination, she was alert and oriented. Her temperature was 39.5°C, blood pressure 135/75mmHg, heart rate 93 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 95% while breathing ambient air. Her neck was supple, with a normal range of motion. Laboratory testing revealed a white blood cell count of 6300/mm3 (73% neutrophils, 21% lymphocytes, 6% monocytes, 0% eosinophil), serum

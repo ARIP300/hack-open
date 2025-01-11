@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# INITIATION OF AN ATRA-BASED REGIMEN
+
+Initiation of an ATRA-based regimen is necessary to prevent death from hemorrhagic complications. When first described in 1957, no treatment existed, and patients often died due to acute hemorrhage, with a median survival under 7 days. Even now, early mortality remains a concern; the incidence has only decreased from 22.21% in the 1990s to 17.5%. In our case, the patient presented with ocular hemorrhage; a known complication of APL and is reported at a rate of 42% of leukemic ocular findings. However, the incidence of retinal hemorrhage as a solitary finding pointing to the diagnosis of APL is rare, with only 3 cases reported in the literature. We believe that her previous pneumonia, which triggered her severe cough, had increased her propensity for retinal hemorrhage and ultimately led to the diagnosis of APL.
+
+# CONCLUSION:
+
+Our case demonstrates that maintenance of a high suspicion for APL in the setting of pancytopenia and hemorrhage is paramount, and indeed can help to save a patient's life.
+
+# THE ABC'S OF ACUTE VIRAL HEPATITIS IN A HOMELESS MAN WHO INJECTS DRUGS
+
+Ryan Bonner1; Jessica Taylor2. 1Boston Medical Center, Boston, MA; 2Boston University/Boston Medical Center, Boston, MA. (Control ID #3162846)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the risk for acute hepatitis A among patients experiencing homelessness and/or substance use disorders.
+
+# LEARNING OBJECTIVE #2:
+
+Offer HAV vaccination to patients with epidemiological risk.
+
+# CASE:
+
+A 32-year-old man with severe opioid use disorder and homelessness presented to an opioid urgent care clinic. He endorsed receptive syringe sharing. Labs showed mild transaminitis (AST 53 U/L, ALT 84 U/L, total bilirubin 0.3 mg/dL) and negative results for HCV antibody, hepatitis A (HAV) IgG, and hepatitis B (HBV) surface antigen, surface antibody, and core antibody. The patient was started on buprenorphine/naloxone. One week later, he endorsed several days of nausea, vomiting, malaise, and fatigue that began after sustaining a blistering sunburn. Exam showed partial-thickness burns of sun exposed areas, diffuse abdominal tenderness, and no jaundice. The patient was counseled on management of severe sunburn; because of the mild transaminitis, he was also evaluated for acute viral hepatitis. Labs showed a significant rise in AST (2,079 U/L), ALT (2,727 U/L), and total bilirubin (5.2 mg/dL, 4.1 direct). INR was 1.57. HCV RNA and HBV DNA were not detected, and his HAV IgM antibody returned positive, consistent with acute HAV. The patient was admitted for supportive care. His AST, ALT, and INR down-trended, and he was discharged on hospital day 5 once cleared to return to his shelter by the Department of Public Health. Follow up labs demonstrated further improvement in his liver enzymes and synthetic function.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the importance of provider awareness of local epidemiological risk and the need for intensified HAV prevention efforts, including vaccination, among people who are homeless and/or inject drugs.
+
+# CONCLUSION:
+
+People who inject drugs (PWID) are at high risk of viral hepatitis. Testing, prevention, and treatment efforts have focused on HBV and HCV, but recent outbreaks of HAV affecting homeless people and PWID have been described in at least 12 states. Unlike HBV and HCV, which can be transmitted via shared injection, insufflation equipment, or sexual intercourse, HAV is transmitted via the fecal-oral route, and the risk of transmission in communal settings like shelters is high. Nonspecific constitutional or GI symptoms and transaminitis should raise suspicion for acute HAV in individuals affected by substance use disorders or housing insecurity; providers in regions impacted by HAV outbreaks should have a low threshold to test for acute infection with HAV IgM antibody. The management of acute HAV is supportive. Fulminant liver failure is rare in patients without underlying liver disease, but hospitalization and quarantine of patients living in communal settings are often needed. As of November 2, 2018, 84% of 141 total outbreak-related cases in Massachusetts have resulted in hospitalization. Overall, PWID should be counseled on strategies to prevent all types of viral hepatitis, including safe injection practices, vaccination for HAV and HBV, food safety, and hand washing.
+
+# THE BLOODY VICE OF BRODIFACOUM AND SPICE
+
+Alexandra Rezazadeh; Kristi Maso; Marium Khan. Medical College of Wisconsin, Wauwatosa, WI. (Control ID #3175227)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the bleeding diathesis secondary to brodifacoum-associated synthetic cannabinoid (SCB) use.
+
+# LEARNING OBJECTIVE #2:
+
+Collaborate with interdisciplinary hospital and community teams to treat and arrange follow-up for patients with SCB-associated coagulopathy.
+
+# CASE:
+
+A 23-year-old African American male presented with a 3-day history of right flank pain, hematuria, and emesis. He reported SCB use 3 days prior. Vitals were stable. Exam showed right CVA tenderness. Labs revealed hemoglobin of 11.7 g/dl, platelets of 105,000, INR of > 10, and urinalysis with 3+ blood. CT abdomen and pelvis with contrast showed a right retro-peritoneal hematoma. He was admitted to the ICU and given IV Vitamin K and continued on oral Vitamin K per Wisconsin Poison Control orders. ICU stay was complicated by expanding hematoma requiring resuscitation with multiple units of fresh frozen plasma, blood transfusions, and a total of 470 mg of Vitamin K over 4 days, after which his INR was 1.6. Vascular surgery was consulted but he required no intervention. Though stable for discharge, due to Vitamin K shortage and his lack of insurance, the regimen cost over $20,000. Discharge was delayed one day until pharmacy and social work could secure charity funds. He was given a 30-day supply of Vitamin K for $5.64 with an arranged clinic visit 4 days later. He followed up and was put on a Vitamin K taper with a dose decrease of 25% each week for 4 weeks.
+
+# IMPACT/DISCUSSION:
+
+SCBs (also called 'Spice,' 'K2') are mind-altering chemicals sprayed on plant material to be smoked or sold as liquids to be vaporized and inhaled. They are chemically related to substances in plant-based marijuana. Their use is preferred due to lower cost and prosecution evasion due to undetectability in drug screens. SCBs have higher binding affinity for cannabinoid receptors than delta-tetrahydrocannabinol, the active component of traditional marijuana. In the spring of 2018, the CDC reported that some SCBs were being laced with brodifacoum, a 'superwarfarin' that binds Vitamin K epoxide reductase more strongly than warfarin, giving it a longer elimination half-life. Use of brodifacoum with SCBs is multifactorial: sources cite intentional addition to prolong SCB effects and unintentional toxicity due to its use as a rodenticide. In Wisconsin in 2018, 67 cases of brodifacoum-laced SCB use were confirmed, including one death. Recent studies describe similar outbreaks. This case reiterates those studies' findings but is unique in highlighting the public health impact. The high cost and shortage of treatment not only hinders discharge but also prevents patients from receiving proper therapy. Interdisciplinary teams were vital to facilitate affordable therapy and follow-up.
+
+# CONCLUSION:
+
+SCBs are increasing in use due to their affordability and undetectability in drug screens. Recognition of the toxicity requires a high index of suspicion. Failure to diagnose may result in significant adverse outcomes. Proper treatment and follow-up requires strong interdisciplinary cooperation.

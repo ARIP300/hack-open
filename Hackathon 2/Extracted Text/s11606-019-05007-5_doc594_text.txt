@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# YOU BOOZE, YOU LOSE… SENSATION
+
+Philip Rosenstock. UCLA-Olive View Medical Center, Sylmar, CA. (Control ID #3183745)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the physical exam and EMG differences between alcoholic neuropathy and thiamine deficiency
+
+# CASE:
+
+A 55 year old Caucasian woman with a history of chronic alcohol use complicated by cirrhosis (MELD Score 8, Child-Pugh Class A) presented to the ED with bilateral lower extremity weakness and frequent falls over 1 to 2 weeks. Patient denied recent sickness, travel, trauma, or symptoms of dysautonomia. She reported drinking two glasses of wine per day but had a history of heavy alcohol use—one liter of vodka daily for many years. The patient denied other substance abuse. On initial presentation, vital signs were stable. Exam was notable for distal bilateral extremity deficits in proprioception and vibratory sensation. She had diminished reflexes, plus numbness and hyperesthesia in a stocking glove distribution. She was unable to ambulate. Motor strength was mildly reduced against resistance in her arms. The patient was alert and oriented to person, place, time, and situation. Labs notable for a WBC 7.3, Hb 10, PLT 279, MCV 95.5, ESR 76, Mg 1.5, and otherwise normal serum electrolyte levels and renal function. Initial management included normal saline, thiamine, multivitamin, and tramadol. Neurology consultation was obtained. The patient's generalized weakness and neuropathic symptoms improved during the fourth day of hospitalization. Vitamin B6, B12, and folate levels were normal. Rheumatologic serologies were normal. Lumbar puncture did not reveal acute viral or bacterial meningitis. West Nile virus antibody titers were negative. CT head was negative for acute and chronic intracranial pathology. MRI of the thoracic and lumbar spine was without myelopathic disease. Electromyogram (EMG) showed evidence of chronic sensory-predominant polyneuropathy with predominantly axonal features in the lower extremities. There was no evidence of acute neuropathy. The diagnosis of chronic sensory axonal polyneuropathy secondary to alcohol use was made.
+
+# IMPACT/DISCUSSION:
+
+Alcoholic peripheral neuropathy (PN) is seen in up to 75% of people with chronic alcohol abuse. It is difficult to diagnose in the initial stages, often mistaken for nutritional deficiencies. In the absence of thiamine deficiency, alcoholic neuropathy can be characterized by slowly progressive symptoms, such as sensory impairment, dysesthesia, and pain. Superficial sensation, frequently nociception, becomes impaired. This is in contrast to both superficial and deep sensory impairments, as well as a motor dominant pattern, seen in thiamine deficiency. Diagnosis can be further validated with an EMG study showing reduced nerve conduction velocities and segmental demyelination. The mainstay of treatment is cessation of alcohol use.
+
+# CONCLUSION:
+
+- The prevalence of alcoholic peripheral neuropathy is directly correlated with lifetime alcohol consumption more than any nutritional deficiency. - Cessation of alcohol consumption is the only means of reversal.
+
+# YOU DON'T DIE FROM NAUSEA AND VOMITING, DO YOU?
+
+Zhihang Zhang; Emily Baumert; Erin Goss. Montefiore Medical Center, New York, NY. (Control ID #3181195)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the long-term sequelae of polyarteritis nodosa.
+
+# CASE:
+
+A 33-year-old male with a past history of polyarteritis nodosa presented to the hospital for nausea and vomiting for 5 days without abdominal pain. He was diagnosed with polyarteritis nodosa (PAN) four years ago and imaging revealed multiple aneurysms in the coronary, renal, splenic, and iliac arteries, as well as thrombosis within multiple mesenteric arteries. Treatment with cyclophosphamide and glucocorticoids followed by azathioprine induced remission. Multiple aneurysms were embolized and he was maintained on systemic anticoagulation. On admission, he denied abdominal pain, but had multiple episodes of non-bloody, non-bilious vomiting often provoked by oral intake, with no hematochezia. His symptoms were originally attributed to gastroenteritis. The patient was afebrile with BP of 110/70 and HR of 70s, and routine labs were negative for amylase, lipase, WBC count, and the infectious gastroenteritis panel returned negative. During the admission, his vomiting persisted despite conservative treatment. On hospital day 3, he developed acute epigastric abdominal pain with guarding, but remained normotensive without tachycardia. CT abdomen demonstrated acute rupture of a splenic artery aneurysm with hemoperitoneum. Patient then developed hemorrhagic shock, and despite extensive efforts, was unable to be resuscitated.
+
+# IMPACT/DISCUSSION:
+
+Polyarteritis nodosa is a systemic necrotizing vasculitis of medium sized vessels. Most cases are idiopathic, though some are associated with Hepatitis B/C, and hairy cell leukemia. The pathogenesis of PAN is poorly understood, where inflammation leads to thickening of vessel walls that cause luminal narrowing leading to tissue ischemia, as well as weakening of the walls leading to aneurysm formation. 5-year survival rates of PAN are ~80% with treatment. The French Vasculitis Study Group derived a prognostic tool that identifies risk factors associated with higher mortality including age >65, cardiac symptoms, gastrointestinal involvement, and renal insufficiency (Cr >1.7 mg/ dL). Patients with PAN require regular long-term follow up to monitor disease activity, even after remission. Major causes of death include renal failure and mesenteric, cardiac, or cerebral infarction. Disease recurrence rates are lower compared to other vasculitides but still substantial; 9% at 1 year and 24% at 5 years in one study. In addition, complications of PAN can occur when the disease is clinically inactive as the healing of inflamed vessels can narrow lumens leading to ischemia. Follow up with angiography is indicated if there is concern for recurrence, ischemia, or aneurysms that are at risk for expansion or rupture. Ligation or embolization is recommended for any aneurysm presenting with symptoms or >=2cm in diameter. Symptoms of splenic artery aneurysm include nausea, vague abdominal discomfort, or rarely acute rupture (5%).
+
+# CONCLUSION:
+
+PAN requires long term follow up for complications and recurrence.
+
+# YOU MUST REMEMBER THIS: WHEN A CYST IS NOT JUST A CYST
+
+Jason Ehrlich; Priyanka Chopra. Northwell, Great Neck, NY. (Control ID #3186246)
+
+# LEARNING OBJECTIVE #1:
+
+Develop the ability to diagnose an often overlooked disorder
+
+# LEARNING OBJECTIVE #2:
+
+Identify clinical scenarios in which presentation indicates a need to investigate associated systemic conditions
+
+# CASE:
+
+Patient is a 57 year old man with polyarthralgias who presents with fairly rapid onset of a left ear mass. The mass began appearing 1 month prior to presentation, and occupied a large aspect of the upper pinna. The mass seemed fluid-filled and produced a throbbing sensation. Upon consultation with Dermatology, the mass was initially regarded as an inflamed epidermoid cyst, and was treated with intralesional corticosteroids. The lesion briefly

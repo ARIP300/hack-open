@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# CASE REPORT
+
+which revealed a sedentary lifestyle, high consumption of carbohydrates including sugary foods and beverages. His review of systems was negative. Physical exam was notable for an elevated blood pressure of 137/87, BMI of 23, and tinea pedis. Significant Labs: Random glucose 248, Hemoglobin A1C 10.0%, Non-fasting Total cholesterol 282, Triglycerides 1,075, HDL 29. Repeat tests prior to return visit 1 week later: Hemoglobin A1c 9.7%, Random glucose 194, Serum ketones: negative, Fasting Total cholesterol 239, Triglycerides 840, HDL 25, Urinalysis: 1+ glucose, Albumin/creatinine ratio: 69.2, Glutamic Acid Decarboxylase Ab: negative, Insulin Ab: negative, IA-2 Ab: negative, C-peptide: 2.2. He was advised to start metformin, long acting insulin, an ACEi, and a statin.
+
+# IMPACT/DISCUSSION
+
+This case helps to highlight two important points: Firstly, the importance of being aware of all risk factors associated with DM, especially sedentary lifestyle and dietary composition. Without this historical component, we may not have screened this patient for DM and would have missed the diagnosis and the opportunity to reduce his risk for further complications. He was asymptomatic, with no family history, and a normal BMI, and yet had severe disease and nephropathy. Of note, current USPSTF and ADA recommendations for screening do not include people in his age category and BMI. We suggest considering screening for diabetes on a broader scale for individuals with significant risk factors, and this case highlights the importance of having a lower threshold to screen. Secondly, when the diagnosis of DM is made in a young adult, when should clinicians consider a further work up for Type 1 Diabetes Mellitus (T1DM)? We want to highlight a screening tool that was developed to identify patients who should receive further screening for antibodies associated with T1DM. This screening tool recommends antibody testing in individuals with at least 2 of the following: age of onset < 50, symptoms of hyperglycemia, BMI < 25, and personal or family history of autoimmune disease.
+
+# CONCLUSION
+
+Given the increasing prevalence of diabetes, it is crucial that we screen and diagnose the disease early. Most current guidelines may not be broad enough to diagnose new cases of diabetes, and we should consider having a lower threshold to screen for those at risk.
+
+# TYPHOID FEVER IN A NON ENDEMIC URBAN SETTING
+
+Kateryna Fedorov; Syed Muhammad Ibrahim Rashid; Johanna Daily1.1 2
+
+1Montefiore Medical Center, Bayside, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3182911)
+
+# LEARNING OBJECTIVE #1
+
+Microbiology and epidemiology of Salmonella typhi
+
+# LEARNING OBJECTIVE #2
+
+Signs, symptoms, clinical course, and therapeutic approach to Typhoid fever
+
+# CASE
+
+57-year-old male presented with one week of disabling rigors, fatigue, and myalgias. He denied any sick contacts. No travel outside the United States for himself or his close contacts. His vitals were 130/65mmHg, 79bpm, 102.5F. On exam he had mild abdominal tenderness. WBC was 5.7k/ul. Blood cultures were drawn. CT abdomen and pelvis showed small lymph nodes, likely reactive. He remained well, defervesced after one dose of Tylenol, and was discharged home. Post discharge he experienced worsening malaise, prostration, rigors, fevers, and anorexia. The patient was called to return to the hospital when blood cultures grew Salmonella typhi. On admission patient's vitals were 101.3F and 64bpm, consistent with pulse-temperature dissociation. On exam he was ill appearing, diaphoretic, with mild diffuse abdominal tenderness and had relative leukopenia with WBC of 4.5k/ul. Stool cultures grew S. typhi. The patient was treated with 3 days of IV Ceftriaxone, followed by 14 days of Cefpodoxime. He reported no recurrent fevers and increasing energy levels one week post-discharge.
+
+# IMPACT/DISCUSSION
+
+Typhoid fever is caused by Salmonella typhi, a gram negative flagellated bacillus in the family Enterobacteriaceae. There were 26.9 million cases reported worldwide in 2010; 367 cases in the US in 2015, with 82% with history of travel outside US. Remaining 18% includes those without personal history of travel to typhoid endemic areas. In such cases the transmission of typhoid could occur from an infected traveler to a non-traveler. Even asymptomatic carriers and those recovering from Typhoid fever can act as reservoirs of infection. Transmission of S. typhi is typically fecal-oral with humans being the only host. Ingested bacteria penetrate small bowel epithelium and disseminate hematogenously or through lymphatics. Typhoid fever syndrome consists of several stages. Initially, patients have rising fever secondary to bacteremia with a pulse-temperature dissociation followed by higher fevers, abdominal pain, and rose spots. Intestinal perforation, peritonitis, and sepsis can occur in week three. Advanced cases may have neurologic involvement include distorted sleep, psychosis, myalgias, and rigidity. Treatment is based on local sensitivity patterns, usually with fluoroquinolones, third-generation cephalosporins, and azithromycin. Our patient presented with signs strongly suggestive of S. typhi infection: pulse-temperature dissociation, relative leukopenia, and reactive abdominal lymphadenopathy. His diagnosis was delayed given negative travel history to typhoid endemic regions. Blood cultures allowed early diagnosis and may have prevented progression to life threatening symptoms.
+
+# CONCLUSION
+
+Typhoid fever is uncommon in the US, especially in patients without travel history. In such patients blood cultures are essential to establish the diagnosis prior to disease progression.
+
+# TYPICAL PYELONEPHRITIS TRIGGERING ATYPICAL HEMOLYTIC UREMIC SYNDROME
+
+Malavika Kapuria; Ahmed Awan; Rajeev Raghavan. Baylor College of Medicine, Houston, TX. (Control ID #3186967)
+
+# LEARNING OBJECTIVE #1
+
+Identify urinary tract infections (UTI) as a trigger of complement-mediated hemolytic uremic syndrome (HUS)
+
+# LEARNING OBJECTIVE #2
+
+Recognize the challenges related to diagnosing complement-mediated HUS
+
+# CASE
+
+A 24-year-old woman with recurrent UTIs and chronic vaginal discharge was admitted for acute pyelonephritis. She had no diarrhea, and urine cultures grew G. vaginalis. Days after initial presentation, she developed worsening anemia and thrombocytopenia, requiring multiple transfusions. Labs revealed Coombs negative, microangiopathic hemolytic anemia (MAHA), nephrotic range proteinuria, and low complement (C3, C4) levels, suggesting a thrombotic microangiopathy (TMA). Empiric treatment for thrombotic thrombocytopenic purpura (TTP) was initiated with plasma exchange (PLEX) and high-dose steroids, while awaiting ADAMTS13 levels. Thrombocytopenia improved, however there was persistent hemolysis despite continued PLEX. On eliciting additional history, the patient reported that her grandmother had required PLEX after developing acute pancreatitis, and eventually required kidney transplant for unclear reasons. Kidney biopsy confirmed TMA, and ADAMTS13 level was 100%. Consequently, complement-mediated HUS was diagnosed and Eculizumab was started, after which the hemolysis and renal function improved.
+
+# IMPACT/DISCUSSION
+
+Atypical HUS is an umbrella term describing a triad of MAHA, thrombocytopenia and renal failure, in the absence of ADAMTS13 deficiency and Shiga-toxin infection. More recently, it has come to define complement-mediated HUS - a disorder of unregulated complement activation, resulting from the primary deficiency of specific regulatory proteins. Definitive diagnosis involves measuring levels of these deficient proteins; tests which are both hard to obtain and often result too late to defer.

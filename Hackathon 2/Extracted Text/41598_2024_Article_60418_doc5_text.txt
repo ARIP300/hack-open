@@ -1,0 +1,55 @@
+# Pro-environmental intention
+
+To measure individuals’ PEI, related items should include clear commitments to environmental actions. In the current study, the measuring of hospital workers’ PEI was developed based on the study applied the theory of planned behavior. The measurement of PEI comprised four items:
+
+1. I intend to reduce the use of disposable plastic products such as disposable gloves and bottles;
+2. I intend to reduce energy consumption such as turning off lights and saving water;
+3. I intend to educate patients how to take environmental protection measures;
+4. I intend to join environmental organizations and encourage colleagues to adopt pro-environmental behaviors.
+
+Hospital workers reported these items using a seven-point Likert scale ranging from 1, “strongly disagree”, to 7, “strongly agree”.
+
+# Pro-environmental behavior
+
+Recycling and energy saving are two main behavioral categories in the field of environmental protection. According to the study of Lamm, Tosti-Kharas and Deng, Cherian, four items were applied to measure the actual PEB:
+
+1. I recycle my plastic bottles, cans, and other containers;
+2. I use scrap paper for notes instead of fresh paper;
+3. I turn off the lights in a vacant room;
+4. I power down all desk electronics at the end of the day.
+
+Hospital workers reported their behaviors via a seven-point Likert scale ranging from 1, “strongly disagree”, to 7, “strongly agree”, and the total score indicated the level of actual PEB.
+
+# Control variables
+
+According to previous research, gender and length of employment have certain impacts on actual PEB. Due to the particularity of hospital department classification, the employment department should also be taken into consideration. Hence, we regarded these three variables as control variables in this study. The specific content is shown in Table 1.
+
+# Analytical strategies
+
+# Reliability test
+
+To ensure the stability and reproducibility of the questionnaire design, we conducted the reliability test. We used SPSS 26.0 to test the reliability of each item in questionnaire by Cronbach’s Alpha coefficient ranging from 0 to 1. The result of Cronbach’s Alpha coefficients was 0.859, 0.864, 0.831, and 0.830 respectively. All results were greater than 0.7, which indicated that the questionnaire had good reliability.
+
+# Validity test
+
+Validity is the degree of agreement between measured results and actual results, and can be measured from two aspects: content validity and structural validity. In terms of content validity, most of the items took shape according to prior studies. In addition, the committee of supervisory of the study also reviewed the items, and master’s degree students majoring in translation were invited to certify the Chinese version. As for structural validity, it comprises convergent validity and discriminant validity, which was measured by AMOS 26.0 using confirmatory factor analysis (CFA). As shown in Table 2, factor load values are greater than 0.6, average variance extracted (AVE) values are greater than 0.55, and combined reliability (CR) values are greater than 0.8. All results indicate that the questionnaire has good convergent validity. As for discriminant validity, the diagonal values are the square of average variance, the non-diagonal values are the square of the correlation coefficient.
+
+# Respondents’ characteristics
+
+|Items|Frequency (N = 543)|Percentage (%)|
+|---|---|---|
+|Male|225|41.4|
+|Female|318|58.6|
+|5 years or below|112|20.6|
+|6–15 years|123|22.7|
+|16–25 years|105|19.3|
+|26–35 years|102|18.8|
+|36 or above years|101|18.6|
+|Emergency department|85|15.7|
+|Surgery department|138|25.4|
+|General medicine department|88|16.2|
+|Traditional Chinese medicine department|98|18.0|
+|Medical technology department|114|21.0|
+|Others|20|3.7|
+
+Table 1. Demographic and work profile.

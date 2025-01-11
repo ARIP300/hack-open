@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# PRIMARY CARE PROVIDER ATTITUDES AND PERSPECTIVES ON HEPATITIS C VIRUS (HCV) MANAGEMENT IN PRIMARY CARE
+
+Yvette Ryan; Aaron Null; Sopheap Na. Rocky Mountain Regional VA Medical Center, Aurora, CO. (Control ID #3184621)
+
+# BACKGROUND:
+
+The limited availability of specialists to treat the 2.4 million Americans living with Hepatitis C virus (HCV) has led to the idea of shifting HCV management to primary care providers (PCPs). Although a recent study demonstrated HCV treatment by PCPs is as safe and effective as treatment by specialists, it is not known how PCPs feel about adding HCV treatment to the burden of chronic diseases they already manage. In this qualitative study, we explored PCP attitudes and opinions towards managing HCV and how they view the role of clinical pharmacists in taking on this role.
+
+# METHODS:
+
+We performed semi-structured interviews of 10 PCPs at a VA Medical Center, representing PCPs at both the main campus and community clinics. We conducted interviews both in-person and via telephone, using purposive sampling. The interview guide addressed chronic disease management (CDM) burden in primary care, facilitators and barriers to PCPs treating HCV, and how PCPs view clinical pharmacists in CDM within the VA system. We transcribed all interviews at time of the interview and maintained field notes. We utilized open coding with all interviews coded independently by two members of the team and reconciled coding differences jointly.
+
+# RESULTS:
+
+Of participating PCPs, 20% thought that PCPs could take on HCV treatment and management in their current work environment. We identified themes of limited PCP access and provider education as the most prominent barriers to PCPs managing HCV treatment. Providers identified PharmDs as valuable partners in CDM, and most thought they can facilitate treatment of HCV in primary care. PCPs found clinical pharmacists helpful in improving patient access, patient safety, and were strong allies in team based care. Despite having HCV trained clinical pharmacists available to co-manage HCV screening and treatment in primary care, none of the participating PCPs were fully aware of this existing support structure. Some PCPs expressed concern that PharmD co-management of HCV treatment would limit their own knowledge and skill in treating HCV independently.
+
+# CONCLUSIONS:
+
+Although evidence suggests HCV treatment in primary care has similar outcomes to treatment by specialists, PCPs appear reluctant in taking on this responsibility. While HCV treatment in primary care is a promising strategy, health systems need to be cognizant of PCP access and the CDM burden PCPs already face. PCPs do value clinical pharmacist co-management of chronic diseases and further integration of such workflows may improve access, allowing more patients with HCV to be treated. Despite HCV trained PharmDs being in place at the VA, there is limited PCP knowledge about them and more effort needs to be performed to ensure dissemination and utilization of these clinical support structures.
+
+# PRIMARY CARE PROVIDER GENDER SENSITIVITY TOWARD WOMEN PATIENTS AFFECTS PATIENT CONTINUING USE OF CARE
+
+Claire Than 3; Donna L. Washington 1; Danielle Rose 2; Ismelda Canelo 4, 3; Elizabeth M. Yano 3. 1 VA Greater Los Angeles Healthcare, UCLA, Los Angeles, CA; 2 VA GLA Healthcare System, Sepulveda, CA; 3 VA Greater Los Angeles Healthcare System, Sepulveda, CA; 4 VA Greater Los Angeles Healthcare System, North Hills, CA. (Control ID #3183133)
+
+# BACKGROUND:
+
+Provider gender sensitivity means that providers are empathetic towards women patients and understand their health care needs. Gender sensitivity has assumed increasing importance in health care as it can affect women patients' experiences with care. Women veterans (WVs) are an extreme numerical minority of patients (<10%) seen at the Veterans Health Administration (VA), and about 20-25% of them discontinue using VA within three years of first VA care use. A high rate of WVs leaving VA raises concerns on their experiences with VA care. Literature suggests that WVs are more likely to report poor satisfaction with VA care and to not use VA care when VA providers are not sensitive to their needs. We evaluated whether provider gender sensitivity is associated with patient discontinuing use of VA care.
+
+# METHODS:
+
+We used cross-sectional surveys to measure primary care provider (PCP) gender sensitivity based on agreement with 10 items, e.g. "VA should not be expected to provide special health services for women". We surveyed 281 PCPs at 12 VA Medical Centers between September 2014 and June 2015. A total of 94 PCPs completed the surveys (33% response rate). We identified WV patients cared for by these PCPs in VA outpatient clinics between January 2013 and December 2014. We defined patient discontinuity from PC as having no in-person or telephone visits to any VA PC clinics within three years following their last visits to PCPs in the surveys, i.e. from their last visits between 2013 and 2014 to December 2017. Our analyses included 7,155 WVs who were seen by these PCPs between 2013 and 2014 and were alive through 2017. We used multivariate logistic regression to evaluate the relationship between PCP gender sensitivity and WV discontinuity from VA PC.
+
+# RESULTS:
+
+Overall, 32% of WVs in our sample had no visit to PC over three years. Multivariate regression showed that higher PCP gender sensitivity was significantly associated with lower odds of patient discontinuity from VA PC (Adjusted OR=0.80, 95% CI: 0.70, 0.91), but this association differed by age group. Among WVs in the 18-39 age group, higher PCP gender sensitivity predicted lower odds of WV discontinuing PC use (AOR=0.64, 95% CI:0.44, 0.95). Among WVs in the 40-49, 50-59 and 65+ age groups, gender sensitivity was not associated with care discontinuity. Among WVs in the 60-64 age group, higher gender sensitivity predicted lower odds of patient discontinuing PC use (AOR=0.59, 95% CI: 0.37, 0.95).
+
+# CONCLUSIONS:
+
+PCP gender sensitivity was associated with patient's continuing use of VA PC, especially among younger WVs. Future efforts to improve and/or maintain high PCP gender sensitivity can help ensure continuity of care for women patients. An understanding of reasons for their care discontinuity, e.g. not needing care or receiving care elsewhere, may help inform efforts to increase or maintain WVs use of VA care.
+
+# PRIMARY CARE PROVIDER PERSPECTIVES ON CALCULATED VERSUS ADJUDICATED RISK STRATIFICATION IN PRIMARY CARE: A QUALITATIVE STUDY
+
+Brian Ricci 1; David Dorr 2. 1Oregon Health and Science University, Portland, OR; 2OHSU, Portland, OR. (Control ID #3185751)
+
+# BACKGROUND:
+
+Risk stratification (RS) is a process by which a population of empaneled patients are assessed for risk of poor health outcomes by an algorithm with or without a human review process (known as adjudication). RS computer algorithms seek to predict healthcare utilization, costs, morbidity and mortality, but are often limited to only specific factors calculable in the original data, such as from an electronic health record. However, confidence in RS processes are increased when computer-derived scores are adjudicated by providers with patient-specific knowledge. Using a natural health reform experiment, our objective was to identify factors that are considered by providers during the adjudication process.
+
+# METHODS:
+
+In the Comprehensive Primary Care+ (CPC+) initiative from the Center for Medicare and Medicaid Innovation, RS with

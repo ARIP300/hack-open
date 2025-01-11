@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# PATIENT AND PROVIDER PERCEPTIONS OF DIABETES GROUP VISITS AT COMMUNITY HEALTH CENTERS
+
+Samantha Mannion1; Erin M. Staab1; Sandra Ham1; Amanda Campbell3; Cynthia T. Schaefer2; Michael T. Quinn1; Arshiya A. Baig1. 1University of Chicago, Chicago, IL; 2University of Evansville, Evansville, IN; 3Midwest Clinicians' Network, East Lansing, MI. (Control ID #3175222)
+
+# BACKGROUND:
+
+A pilot study in the Midwest with 6 community health centers (CHCs) defined diabetes group visits as shared medical appointments that include diabetes education in a group setting and individual visits with a medical provider. Providers and staff were given training and curriculum prior to implementing diabetes group visits at their health centers. This study analyzes patient and provider satisfaction with group visits, which is integral to their long-term viability and success.
+
+# METHODS:
+
+Adult patients at Midwestern health centers with an A1c of at least 8% were invited to participate in a 6-month group visit intervention. Surveys were administered to patients at baseline and at 6 months. Providers (primary care physicians, other clinicians, and non-clinical staff) were surveyed about the implementation of group visits 6 months after the first training session. Descriptive statistics were computed for survey responses using Excel. Eighteen semi-structured one-on-one interviews were conducted with providers 5-6 months and 9-10 months after the initial training session and coded for themes using HyperResearch.
+
+# RESULTS:
+
+Six CHCs had 27 total providers; 18 completed the 6 month survey. Of the 51 patients enrolled, 31 completed the 6-month survey. Ninety percent of patients reported "a lot" of overall satisfaction with group visits. Half (53%) of patients felt "a lot" of support from other patients in the group and another 30% felt "some" support. Three-quarters (77%) of patients agreed that they liked having a longer visit "a lot." Providers and staff felt that group visits improved team dynamics by boosting staff morale (89%) and fostering interdisciplinary collaboration (94%). In interviews, providers felt that patients benefitted from interacting with the group and that they received more education and attention in a longer visit, especially a visit intended to focus solely on diabetes. Providers felt that implementation of group visits improved community relations for the health center. Only 39% of providers felt provider productivity had improved. Time was cited as the biggest challenge to implementation; this was commonly attributed to the initial time investment for a new program and to study-specific tasks such as chart abstraction.
+
+# CONCLUSIONS:
+
+Patients and providers participating in a diabetes group visit pilot program reported high satisfaction with the intervention. Patients benefited from interacting with other participants who shared their condition, and they enjoyed the increased education and attention they received in a longer group visit. Providers were excited to implement group visits as a way to better serve their patients and lead the way in healthcare innovation. Providers expressed a desire to continue group visits after the pilot program was finished and to expand them to other medical conditions. Other CHCs contemplating group visits should consider the up-front time commitment needed to organize group visits for the first time.
+
+# PATIENT CENTERED MEDICAL HOME IMPLEMENTATION AND CHRONIC DISEASE CARE QUALITY IN PATIENTS WITH MULTIMORBIDITY
+
+Linnaea C. Schuttner1, 2; Edwin Wong1, 2; Ann-Marie Rosland3, 4; Karin M. Nelson1, 2; Ashok Reddy1, 2. 1VA Puget Sound Healthcare System, Seattle, WA; 2University of Washington, Seattle, WA; 3VA Pittsburgh, Pittsburgh, PA; 4University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3165031)
+
+# BACKGROUND:
+
+Improving chronic disease management is central to the patient-centered medical home (PCMH) and has been a demonstrated benefit of high-performing PCMH clinics. However, impacts on patients living with multimorbidity (3 or more diseases in 3 or more body systems) are less established. Thus, we examined the association between PCMH implementation and quality of care in multimorbid patients within an integrated health system.
+
+# METHODS:
+
+We conducted a retrospective cohort study among a sample of multimorbid adult patients (N = 318,764) seen in a Veterans Affairs (VA) primary care clinic in 2012. We measured PCMH implementation in 2012 with the validated Patient Aligned Care Team Implementation Progress Index (PI2). Higher PI2 scores indicate better performance on eight domains: access; continuity; care coordination; comprehensiveness; self-management support; patient-centered care; shared decision-making; and team-based care. Primary outcomes were binary patient-level measures of 16 quality metrics, including lipid, blood pressure, and glycemic control, medication adherence, and preventative care, 18 to 24 months after receiving care in a PCMH. We used generalized estimating equations to compare proportions of patients meeting the metric across clinics categorized by PI2 quintile, adjusting for patient and clinic characteristics, and ANOVA for tests of trend.
+
+# RESULTS:
+
+The cohort was mostly male (96%) with an average age of 64.8 years and 5.1 chronic diagnoses. Receipt of care at clinics with higher PCMH implementation was associated with progressive odds of meeting the quality metric for 7 of 16 outcomes: diabetic patients with glycemic (P<0.0001 for test of trend across PI2 quintiles of clinics) and lipid control (P=0.04); screening (P<0.005) and timely follow-up of positive screens (P=0.02) for PTSD; ischemic heart disease patients with lipid control (P<0.01); and influenza (P=0.02) and pneumococcal (P<0.005) vaccination in older patients. No care differences were found for the remaining 9 metrics (diabetics with annual foot exam or blood pressure control, depression or alcohol screening or follow-up, heart failure patients on appropriate medications, hypertensive patients with blood pressure control, or influenza vaccines in non-elderly patients).
+
+# CONCLUSIONS:
+
+We found multimorbid patients receiving primary care at VA clinics with greater PCMH implementation received better clinical care across 7 of 16 quality markers, in particular adherence-related metrics (lipids, glycemic control), PTSD-related care, and vaccine rates in older patients. Care related to distinct tasks - such as a diabetic foot exam, may be less impacted by the level of PCMH implementation. Our findings are among the first to associate greater PCMH implementation with higher quality of chronic disease care for multimorbid adults within an integrated health system.
+
+# PATIENT CONCENTRATION AMONG NURSING HOME PHYSICIANS AND POST-ACUTE CARE OUTCOMES
+
+Kira Ryskina1; Rachel M. Werner2. 1University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania and Philadelphia VA, Philadelphia, PA. (Control ID #3185285)
+
+# BACKGROUND:
+
+Post-acute care in nursing homes (NHs), is common, costly and variable in quality. More and more generalist physicians are specializing in providing NH care, but whether these physicians care for a majority of patients in one or two facilities vs. a small proportion of patients in multiple facilities is unknown. Our objective was to measure the association between the degree to which NHs concentrate their patient care among a few versus many physicians who specialize in NH practice and patient outcomes.
+
+# METHODS:
+
+We analyzed 2,731,351 discharges by Medicare fee-for-service beneficiaries over 66 years of age from acute care hospitals to 15,013 NHs between 2012 and 2014. Physicians in generalist specialties with at least 90% of claims for NH care were considered NH specialists. Patients were assigned to the NH attending physician based on plurality of claims. The degree to which NHs concentrate care of their patients among a few or many physicians was measured by calculating a facility-level Herfindahl-Hirschman Index (HHI) as the weighted sum of each attending physician's share of the NH's patient population. We estimated the

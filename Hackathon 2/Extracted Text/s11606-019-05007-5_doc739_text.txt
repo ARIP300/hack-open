@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# PRIMARY CARE QUALITY IMPROVEMENT TEACHING FOR INTERNAL MEDICINE RESIDENTS TO IMPROVE CARE GAPS
+
+kristin huang; Daniel Chandler; Deborah Blazey-Martin; Stacy Schwartz; Julie Tishler. Tufts Medical Center, Newton, MA. (Control ID #3185119)
+
+# NEEDS AND OBJECTIVES:
+
+Multiple care gaps between resident and attending patients exist in our academic primary care practice, including in colon cancer screening and HTN control. We sought to use quality improvement (QI) teaching and practice as one tool to decrease these disparities and improve health outcomes for residents' primary care patients. A systematic review of the literature has shown a paucity of data regarding effectiveness of residents' participation in QI efforts, particularly concerning patient outcomes (Patow et al). We sought to design an intervention that would improve both resident education around basic QI concepts and clinical outcomes. We hypothesized that this intervention would improve residents' familiarity with their patient panel as well as their comfort level with QI skills. We also hypothesized that this intervention would improve the residents' rates of colon cancer screening and HTN control.
+
+# SETTING AND PARTICIPANTS:
+
+Our internal medicine residency program includes 74 residents, all of whom have continuity clinic at a single academic primary care practice on the main teaching hospital campus. Residents' average panel size is 96 patients.
+
+# DESCRIPTION:
+
+Over the semester, junior and senior residents had one 3-week primary care rotation during which they participated in a 2-hour QI workshop and received individualized data on their panels regarding colon cancer screening and HTN control. They designed aim statements and plan-do-study-act (PDSA) cycles, and then implemented their PDSA cycles during their rotation. They were surveyed before and after this rotation regarding their attitudes and knowledge about QI.
+
+# EVALUATION:
+
+On a 5-point Likert scale, residents' comfort level with managing their panel rose from 3.85 (n=55) before the QI training to 3.92 (n=39) after it. Residents' comfort level with crafting an aim statement rose from 3.51 to 4.26; their comfort with designing and implementing a PDSA cycle rose from 2.80 to 3.92. Residents' interest in making QI a part of their career also rose from 3.35 to 3.56. Only 62% of residents had performed an intervention based on their panel report in the past, and this rose to 85%. 62% of residents knew the rate of HTN and colon cancer screening in their patient panels before the training, and this rose to 97% after. Only 45% of residents had performed a PDSA cycle prior to the QI training, and this rose to 77% after. Residents' baseline rate of colon cancer screening in January 2018 was 34%, which rose to 43% by July 2018. Residents' baseline HTN control rate was 65% in January 2018, and this stayed constant through July 2018.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A quality improvement workshop followed by implementation of individual, self-designed PDSA cycles focused on colon cancer screening and HTN control improved both residents' comfort with QI skills and colon cancer screening rates among resident patients.
+
+# PRIMER COURSE DURING RESIDENCY FOR IN-FLIGHT MEDICAL EMERGENCIES (PRIME): A SINGLE-CENTER RANDOMIZED CONTROLLED TRIAL
+
+Yazan Daaboul; D. Alexander Morrison; Anupama Kumar; Joseph Rencic; Laura K. Snydman. Tufts Medical Center, Boston, MA. (Control ID #3176018)
+
+# NEEDS AND OBJECTIVES:
+
+Management of in-flight medical emergency remains absent from medical curricula among residents and is an unmet need. The PRIME study will be the first randomized controlled trial that will test the hypothesis that a multidisciplinary primer course, including video series and role playing, for in-flight emergencies will improve the fund of theoretical knowledge and confidence level among first-year residents when managing in-flight medical emergencies.
+
+# SETTING AND PARTICIPANTS:
+
+First-year resident physicians at Tufts Medical Center in Boston, MA are eligible to participate.
+
+# DESCRIPTION:
+
+First-year residents will be randomly assigned to receive either 1) an educational primer course including video series and role playing for in-flight medical emergencies [intervention arm] or 2) no educational material [control arm]. The videos and role playing content will include the approach to commonly encountered emergencies, as well as aviation physiology, medico-legal considerations, familiarity of medical kits, triaging techniques, and documentation. The course will not include pediatric or obstetric emergencies.
+
+# EVALUATION:
+
+The primary endpoint of the trial is pre-specified and is defined as the mean difference in the score of the MCQ test between the intervention vs. control arm. The 20-question multiple choice question (MCQ) assessment will evaluate subjects' fund of knowledge regarding relevant clinical pearls. In addition, a retrospective pre/post survey will evaluate learners' attitudes and comfort pre-exposure to the course (all subjects) vs. their comfort post-exposure (only intervention arm).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The results of this trial will be available April, 2019 by the time of presentation at SGIM. The required sample size is N=24, which was estimated based on the two-means Student's t-test to provide a mean difference of 20% in the primary outcome. The intervention of video series and role playing, as opposed to traditional teaching, was chosen to allow replicating the course elsewhere and minimize the effect of confounding, such as teacher techniques. If the differences between the study groups are statistically significant, this trial will be the first to provide a scientifically reliable, standardized means to help physicians address commonly encountered in-flight medical emergencies.
+
+# PROSPECTIVE VALIDATION OF HIV-ASSIST, AN ONLINE EDUCATIONAL TOOL FOR HIV TREATMENT DECISION SUPPORT
+
+Nicky J. Mehtani1; Manoj V. Maddali2; Jonathan Z. Li3; Maunank Shah1. 1Johns Hopkins University School of Medicine, Baltimore, MD; 2University of California San Francisco, San Francisco, CA; 3Brigham & Women's Hospital, Boston, MA. (Control ID #3177776)
+
+# NEEDS AND OBJECTIVES:
+
+The transformation of HIV into a chronic disease has increased demand for providers proficient in HIV management, yet the supply of such providers is declining. This is in part due to a perpetually evolving landscape of HIV with continual changes in clinical guidelines and an expanding repertoire of antiretroviral (ARV) drugs. Guidelines advocate for an individualized approach to ARV selection, but synthesizing the various factors pertinent to optimal regimen selection is complex and time-consuming. There is critical need for innovations that promote increased involvement of primary care physicians in HIV care and integrate efficient learning of HIV management principles into clinical practice.
+
+# SETTING AND PARTICIPANTS:
+
+Multi-criteria design analysis was used to construct HIV-ASSIST—a free, online interactive tool to inform clinical decision-making for ARV selection. Development included construction of a multi-attribute utility function drawing upon existing literature, guidelines, expert opinion, and focus groups to refine algorithms. A prospective survey of experienced HIV providers from Johns Hopkins, Brigham & Women's,

@@ -1,0 +1,43 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND:
+
+Heart failure (HF) affects 6.6 million Americans with over 650,000 newly diagnosed cases and 330,000 deaths annually. Yet despite improvements in care, HF mortality is essentially unchanged in recent years. One potential reason is depression. It is co-morbid in nearly 40% of hospitalized HF patients and linked to reduced health-related quality of life (HRQoL) and increased mortality, but often goes untreated. The NHLBI-funded Hopeful Heart Trial is the first study to evaluate the impact of a collaborative care program for treating depression in HF patients.
+
+# METHODS:
+
+From 3/14 to 10/17, we screened inpatients with systolic HF (ejection fraction (EF) 45%) and NYHA class II-IV symptoms for depression using the Patient Health Questionnaire (PHQ-2) at 8 Pittsburgh-area hospitals. Two weeks post-discharge, we telephoned screen-positive patients (PHQ-2 (+)) to administer the PHQ-9 and randomized those who scored 10 to either their PCPs' "usual care" (UC) or to one of two nurse-provided, 12-month telephone-delivered collaborative care programs for treating: (1) HF and depression ("blended"); or (2) HF alone (attention control (AC)). Study nurses met with clinician-investigators for weekly case review sessions and then gave treatment advice to patients and their PCPs. To facilitate comparisons, we also randomly selected a cohort of non-depressed HF patients (PHQ-2(-)/PHQ-9 <5). At baseline, we collected sociodemographic and clinical data, and then monitored outcomes through periodic blinded telephone assessments and vital status determination.
+
+# RESULTS:
+
+Of the 756 HF patients recruited (629 depressed; 127 non-depressed; mean age: 64, 56% male, 73% White, mean EF 28%), those depressed had worse mental HRQoL (SF-12 MCS, mean: 40.1 vs. 60.5), physical function (Kansas City Cardiomyopathy Questionnaire): 40.5 vs. 76.8), and mood (PROMIS Depression: 60.0 vs. 41.8) than those non-depressed (all P<0.001), but were otherwise similar medically. Compared to UC, "blended" care patients reported a 0.34 ES improvement on the SF-12 MCS, our primary outcome measure (95% CI: 0.13-0.57), and 0.47 ES improvement on the PROMIS-D (0.72-0.22) at 12-months. Compared to AC, "blended" care patients also reported improved PROMIS-D (0.24 ES; 0.44-0.04), but not SF-12 MCS scores (0.09 ES; P=0.33). We confirmed 12-month vital status on all 756 patients and identified 95 deaths (82 depressed, 13 non-depressed); all-cause mortality for "blended", AC, UC, and non-depressed control patients was similar at 0.13, 0.14, 0.15, and 0.10 per person-year of observation, respectively ("blended" vs. AC: P=0.86; "blended" vs. UC: P=0.65; baseline depressed vs. nondepressed: P=0.39).
+
+# CONCLUSIONS:
+
+"Blended" collaborative care for treating both HF and depression improves HRQoL and mood symptoms more than physicians' UC at 12-months following hospitalization. Analyses are ongoing and we will present additional data on the impact of our interventions on health services utilization, mortality, and other outcomes.
+
+# METHODS:
+
+We used the Massachusetts All-Payer Claims Database to identify insurance claims for BRCA tests between January 1, 2011 and June 30, 2015 among women aged 18-64 with private insurance or MassHealth who had at least 12 months of continuous insurance enrollment before any BRCA claim. We identified whether women had breast or ovarian cancer as identified in ICD9/10 codes within 12 months before testing. We calculated monthly testing rates and mean monthly testing rates per year. We calculated absolute and relative differences in mean monthly rates between privately-insured and MassHealth-insured women and used linear trend modeling to examine trends in relative rate differences across years. Our study was considered exempt by the Boston College Institutional Review Board.
+
+# RESULTS:
+
+Overall, testing rates were lower among MassHealth-insured women compared with privately-insured women in all years, but mean monthly rates increased from 3.7 per 100,000 in 2011 to 14.7 per 100,000 in 2015 among MassHealth-insured women and from 9.3 to 18.4 per 100,000 in privately-insured women. The absolute mean monthly rate difference between privately- versus MassHealth-insured women declined from 5.6/100,000 (2011) to 3.8/100,000 (2015). The relative difference declined from 2.5 to 1.3, converging by 31% per year (p<.001). Trends and differences between groups varied by age. Among women aged 18-34, by 2015 the BRCA testing rate among MassHealth-insured women (7.9/100,000) was higher than among privately-insured women (5.1/100,000). The proportion of women without breast or ovarian cancer diagnoses obtaining BRCA testing was stable at 6% in both groups across years.
+
+# CONCLUSIONS:
+
+From 2011-2015, BRCA1/2 testing rates were lower among MassHealth-insured women compared with privately-insured women in Massachusetts. However, the difference decreased over time, and the difference was smaller among younger women. Our study suggests that in Massachusetts BRCA testing is not utilized equally among publicly- and privately-insured populations, though this gap may be narrowing. Future research should investigate contributing factors and examine other states.
+
+# BREAST CANCER SCREENING OUTCOMES USING DIGITAL BREAST TOMOSYNTHESIS: EVIDENCE FROM A CONTEMPORARY COHORT
+
+Ilana B. Richman 1 ; Jessica R. Hoag 2 ; Kelly A. Kyanko 3 ; Xiao Xu 4 ; Regina Hooley 1 ; Susan Busch 2 ; Cary Gross 1 . 1 Yale School of Medicine, New Haven, CT; 2 Yale University, New Haven, CT; 3 NYU School of Medicine, New York, NY; 4 Yale University School of Medicine, New Haven, CT. (Control ID #3185799)
+
+# BACKGROUND:
+
+Digital mammography has imperfect sensitivity and specificity for detecting breast cancer. Digital breast tomosynthesis (DBT) may improve upon 2D mammography by reducing the need for subsequent imaging (known as recall) and improving cancer detection. DBT has been rapidly adopted, but whether the benefits reported in early studies of DBT are generalizable to the broader populations in which the technology is now used is not known. The goal of this study was to compare the effectiveness of DBT versus 2D mammography for breast cancer screening in a large contemporary population.
+
+# METHODS:
+
+We identified DBT and 2D screening mammograms from administrative claims data using a validated algorithm. We used data from the Blue Cross Blue Shield Axis, a large commercial claims database accessed via secure portal. Screening outcomes included recall (defined as subsequent imaging), biopsy, and cancer detection following screening. Screen detected cancers were defined according to a validated algorithm as invasive cancers detected within 120 days of screening. We also evaluated the rate of potential interval cancers, defined as cancers diagnosed between 120 and 365 days after.

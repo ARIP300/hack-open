@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 49-year-old transgender female presented to the emergency department after a syncopal episode and reported weakness, shortness of breath, gingival bleeding, epistaxis, small red lesions and bruises on shins, and melena. She developed myalgias and foot pain three weeks prior and was taking naproxen 1-2g daily. Patient denied change in weight, upper respiratory tract symptoms, headache, vision change, diarrhea, dysuria, and hematuria. Laboratory results revealed hemoglobin of 4.9 g/dl, schistocytes 2+, and platelets of 4x103/uL. The patient was admitted to the intensive care unit where she was given 1 unit of packed red blood cells, 4 units of fresh frozen plasma and underwent plasmapheresis. She completed a 5 day course of dexamethasone and counts increased. Bone marrow biopsy performed revealed hyper cellular marrow with trilineage hematopoiesis without evidence of lymphoma and she was diagnosed with immune thrombocytopenic purpura (ITP). Human Immunodeficiency Virus (HIV) screening returned positive and CD4 count was found to be 493 cells/mm3 (21%) with a viral load of 4,390,000 copies. The patient was maintained on oral steroids until follow up with infectious disease clinic at which point highly active anti-retroviral therapy (HAART) was initiated.
+
+# IMPACT/DISCUSSION:
+
+The incidence of thrombocytopenia in HIV patients has been estimated at 6-15% though early estimates were twice as high. Estimates of thrombocytopenia at diagnosis are much lower. The clinical entity of HIV-related thrombocytopenia usually presents during chronic infection or advanced immunosuppression (CD4 <200) thus treatment of choice for this entity is antiretroviral therapy. Indeed, reports of thrombocytopenia after successful and sustained viral response is relatively uncommon. A retrospective analysis by Ambler et al. found that treatment of HIV alone was insufficient treatment of thrombocytopenia and nearly all patients treated for ITP required additional secondary treatment. Advanced age, anemia, intravenous drug use, and hepatitis infection have been indicated as risk factors for poor treatment response. Studies have found that there is no difference in risk between genders or ethnicities. Thrombocytopenia presenting early in HIV most resembles classic ITP, whereas presentation later in disease course may present more complicated. At this time, there has not been a consensus on HAART that is most effective for HIV-associated ITP.
+
+# CONCLUSION:
+
+HIV screening is part of standard preventative medicine. With advances in medication, early detection and initiation of antiviral therapy is paramount to best possible prognosis. Clinicians should consider HIV infection in any patient that presents with thrombocytopenia. Given current uncertainties as to optimal therapy, more research is warranted to establish a standard of care for HIV-associated ITP.
+
+# IMPORTANCE OF RAPID DIAGNOSIS IN RAPIDLY PROGRESSIVE DEMENTIAS: A CASE OF VITAMIN B12 DEFICIENCY
+
+Aradhana Verma2; Benjamin Li3; Michael Conte3; Katie Raffel1. 1University of California San Francisco, San Francisco, CA; 2California Northstate University, Elk Grove, CA; 3St. Mary's Medical Center, San Francisco, CA. (Control ID #3185041)
+
+# LEARNING OBJECTIVE #1:
+
+Review initial assessment for reversible causes of rapidly progressive dementia
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the neurologic sequelae and treatment trajectory of vitamin B12 deficiency
+
+# CASE:
+
+An independent 80 year-old man with well-controlled diabetes was brought in by family with a two-month history of progressively declining cognitive function, worsening vision, and visual and auditory hallucinations. The patient was no longer able to navigate city busses nor participate in basic self-care. The patient was afebrile, BP 126/48 and HR 54. On neurologic exam, he was oriented only to self, inattentive, and with deficits in all cognitive domains: executive function, abstraction, recall. He had impaired visual acuity. There were no strength or light touch sensory deficits. Reflexes were intact, and no myoclonus, rigidity, tremor, or cerebellar findings were noted. Complete blood count, chemistry panel, liver function tests, thyroid and coagulation profile were within normal limits. HIV, RPR, urine toxicology and heavy metal toxicology were negative. Infectious workup including urinalysis, blood cultures and CXR were unrevealing. MRI brain with contrast demonstrated small chronic microvascular ischemic changes. Cerebrospinal fluid analysis demonstrated protein of 49.2 mg/dL, 1 WBC/mm3, glucose 83 mg/dL, absent oligoclonal bands and normal IgG index. HSV and CMV PCR and bacterial culture were negative. Vitamin B12 was 126 pg/mL.
+
+# IMPACT/DISCUSSION:
+
+This clinical presentation constitutes a sub-acute rapidly progressive dementia that may have been caused by vitamin B12 deficiency. Cobalamin is required for the development and maintenance of myelination of the central nervous system. Deficiency leads to demyelination of the spinal cord, cranial and peripheral nerves, and white matter. While the most common neurologic complaints of vitamin B12 deficiency are paresthesia, numbness, and gait problems, our patient exhibited less common but known advanced symptoms including dementia, visual disturbances and psychosis. Notably, neurologic symptoms can occur in the absence of anemia. In adults with neurologic sequelae, parenteral administration of vitamin B12 is indicated. In contrast to relatively quick hematologic response to B12 repletion, neuropsychiatric improvement can take months to a year or even worsen transiently after treatment. Rarely, patients are reported to have residual long-term moderate to severe neurologic disability.
+
+# CONCLUSION:
+
+After sedation for lumbar puncture and MRI, the patient developed an acute on subacute encephalopathy, and the family chose to pursue comfort care. Prompt diagnosis of vitamin B12 deficiency as cause of subacute rapidly progressive dementia is critical as it is reversible and neurologic recovery is strongly associated with the severity and duration of symptoms prior to treatment. If index of suspicion for B12 deficiency is high, methylmalonic acid and homocysteine should also be sent to detect early disease.
+
+# IMPROVING MEDICATION RECONCILIATION
+
+April Ehrlich; Esther Oh. Johns Hopkins University, Baltimore, MD. (Control ID #3185680)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize potential for error in medication reconciliation
+
+# LEARNING OBJECTIVE #2:
+
+Identify ways to improve accuracy of medication reconciliation
+
+# CASE:
+
+Patient is a 79 year old woman with history of hypertension, stroke, asthma, chronic obstructive pulmonary disease, rheumatoid arthritis, myelomalacia of the cervical cord, lumbar stenosis, osteoporosis, and vitamin D deficiency who presented to a General Internal Medicine clinic for GI complaint. Her visit note mentions that she brought in her medications and a reconciliation was completed with a total of 14 medications. However, given concern for memory impairment a home visit was made. During the home visit, she presented a different list from another PCP with 12 medications and had difficulty presenting her medication bottles as there was no organization. She later came in for a dedicated medication reconciliation appointment, with her medications, and was found to have only 9 medications, was taking pills from 3 separate bottles of a single medication, and had incorrect pill counts. Further discussion revealed she frequently did not fill medications due to finances. Thus many of her medications were discontinued with the final medication list consisting of 4 medications in order to avoid polypharmacy and improve compliance.
+
+# IMPACT/DISCUSSION:
+
+According to the Institute for Healthcare Improvement adverse drug events remain a top patient safety priority. However, accurate medication reconciliation, especially in the geriatric population can be challenging. This challenge is highlighted by Project RED, a discharge intervention program at Boston Medical Center, that showed improvement in readmissions with comprehensive discharge planning including a medication reconciliation. Yet even in this structured environment, follow up phone calls by a pharmacist revealed that over 50% of those with completed reconciliations needed corrective action by a pharmacist.

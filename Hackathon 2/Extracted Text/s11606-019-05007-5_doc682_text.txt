@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# NEEDS AND OBJECTIVES:
+
+A small number of individuals with complex health and social needs drive much of the total cost of care in the US health system today. This group of patients, referred to as "high-utilizers," often receive fragmented care that poorly addresses their chronic physical and psychosocial issues. Healthcare hotspotting involves the strategic use of data to identify high-utilizer patients, understand their underlying issues, allocate resources, and design interventions to tailor care. We introduced a novel hotspotting curriculum to enhance population health training in our ambulatory resident clinic.
+
+# SETTING AND PARTICIPANTS:
+
+Wilmington Adult Medicine is an urban primary care resident clinic. Thirty-six residents in our categorical internal medicine program participated in this curriculum.
+
+# DESCRIPTION:
+
+Using data from our accountable care organization (ACO) as well as ER utilization reports, each resident was matched with a high-utilizer patient on their continuity panel. At the beginning of the academic year, a didactic session was presented that introduced basic concepts of population health management and high-value care. Each resident was then provided the name of the high-utilizer patient he/she had been assigned to follow for the year. The primary tasks were to review chart and cost of care data for the patient, to identify barriers to the patient's care, and to design and implement interventions to address the patient's unique needs. The final deliverable was a structured written reflection about the exercise.
+
+# EVALUATION:
+
+Data included the residents' reflections as well as pre- and post-intervention patient cost data from our ACO database. Twenty-two of the 36 residents (61% of participants) submitted reflection papers. Three primary themes emerged from the reflections: (1) social determinants are key; (2) early intervention is critical; and (3) resources exist to help. With regard to ACO cost data, 12 of the 36 patients were excluded from the analysis due to missing data. The mean annual pre-intervention cost per patient was $20,111.54 (range $6.87-$117,937.49) and the mean post-intervention cost for the same group was $23,121.65 (range $363.61-$177,544.74; p=0.78).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Through this curriculum, residents applied hotspotting techniques to address the health of our clinic's sickest and most vulnerable patients. Although we did not achieve cost reduction, our hope is that the exercise resulted in a deeper understanding of the costs of care, the social determinants of health, and the value of interprofessional and community resources in complex care. The curriculum was well received by residents, who described greater confidence in caring for their most medically and socially challenging patients post-intervention.
+
+# A LONGITUDINAL RESILIENCE CURRICULUM FOR MEDICAL STUDENTS DURING CLERKSHIPS
+
+Jennifer Houpy1; Sonia P. Oyola1; Amber-Nicole Bird2; Oana Tomescu2; Amber Pincavage1. 1University of Chicago, Chicago, IL; 2University of Pennsylvania, Philadelphia, PA. (Control ID #3186319)
+
+# NEEDS AND OBJECTIVES:
+
+Fostering resilience is a promising way to mitigate negative effects of difficult experiences and prevent burnout. In our needs assessment of third year medical students, mean resilience was lower than in a general population sample but higher in students who felt able to cope with difficult clinical events and who felt comfortable discussing stress and burnout with peers. We aimed to create a curriculum to help cultivate resilience in medical students during their clerkship year.
+
+# SETTING AND PARTICIPANTS:
+
+Our curriculum included three skill-building workshops interspersed during the clerkship year of seventy-four third year medical students at the University of Chicago.
+
+# DESCRIPTION:
+
+Three skill-building workshops focused on difficult team interactions, challenging patient interactions, and disappointments and setbacks. These themes were frequently identified clinical stressors based on our needs assessment. Each session encouraged students to engage in facilitated reflection on their personal experiences with the topic and theoretical cases. Cases were based upon experiences from prior clerkship reflection sessions. After group discussion, skill-building exercises were introduced and used to stimulate further discussion.
+
+# EVALUATION:
+
+The curriculum was assessed based upon surveys of student satisfaction and Connor Davidson Resilience Scales (CD-RISC 10, range 0-40), as well as focus groups. Seventy-four medical students were surveyed at the end of their third year with a 72% response rate (53/74). Compared to third year students in 2016 at the end of the third year prior to the implementation of the curriculum (n=57), the post curriculum students' CD-RISC 10 resilience scores improved (pre-mean 26.91±6.47 vs. post-mean 29.59±5.33; p=0.019). More than half of students agreed or strongly agreed that the sessions had been an open forum for reflection (55%, 29/53) and allowed them to connect with peers (51%, 27/53). Fifty-one percent (27/53) thought having time to discuss these topics was valuable. Themes in students' written comments and focus groups included connecting with peers and feeling less alone. Some students commented holding sessions with clerkship directors present was not ideal for them, and others felt they had other outlets for these discussions and sessions were not necessary. Many students appreciated that attention was paid to their wellness during clerkships.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This curriculum targeted clinical stressors highlighted by medical students as a springboard to teach resilience skills. A challenge was constructing a setting conducive to comfortable reflection for all learners, and not all students found these sessions necessary. The curriculum was valuable for half of students, and it is possible resilience was improved.
+
+# A MEDICINE CLERKSHIP CURRICULUM TO PROMOTE PATIENT ADVOCACY
+
+Nancy Choi; Sneha S. Daya; Cindy Lai. UCSF, San Francisco, CA. (Control ID #3166711)
+
+# NEEDS AND OBJECTIVES:
+
+Patient advocacy is taught in the pre-clinical medical school years as a core concept of the medical profession, yet clerkship students are rarely taught practical skills on how to translate this concept to direct patient care. We developed an advocacy curriculum teaching students to: 1) elicit how social determinants of health (SDOH) impact care of patients, 2) develop concrete skills to reduce healthcare barriers, and 3) reflect and debrief on their advocacy experience.
+
+# SETTING AND PARTICIPANTS:
+
+During the six blocks of the academic year (January-December 2018), internal medicine clerkship students (n=66) at a large, urban academic medical center were required to participate.
+
+# DESCRIPTION:
+
+The curriculum consisted of four components spanning a two-month clerkship: 1) Faculty-facilitated, interactive workshop that included the following: "Advocacy Toolkit" (handout summarizing practical tools and resources); case studies on how to apply advocacy skills during hospitalization and transitions of care; "best practices" discussion with a social worker (SW) and case manager (CM); and time to practice how to discuss advocacy concepts in team rounds. Students utilized these to practice their advocacy skills during their clerkship, and there was concurrent faculty development in this. 2) Post-discharge patient phone call to assess success of the discharge transition. 3) Written and oral reflection to medical team discussing patient advocacy. 4) Debriefing workshop at the end, discussing strategies to continue advocacy.
+
+# EVALUATION:
+
+Students (n=66) completed surveys pre- and post-curriculum regarding advocacy. Pre-curriculum, 87% of students agreed that

@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# Rapidly Progressive Pulmonary Artery Hypertension (PAH) Leading to Cor Pulmonale
+
+Bloodwork may show non specific elevations of D-Dimer and LDH. Imaging is mostly negative, although CT may show dilated pulmonary arteries, V/Q scan may reveal peripheral perfusion defects and FDG PET may show uptake in lungs, however, smaller tumor deposits are likely to be missed. Histological diagnosis may be obtained via lung biopsy or pulmonary artery catheter blood aspiration. While PTTM remains primarily a post-mortem diagnosis, there have been a few cases where early diagnosis and treatment with pulmonary vasodilators, chemotherapy and anticoagulation has led to survival in months to years. In most of these cases patients had known cancer, however, cor pulmonale as the first clinical presentation is extremely rare. Had we considered PTTM, a pulmonary artery catheter blood aspiration could have been done during his RHC which could have prompted chemotherapy.
+
+# CONCLUSION
+
+In patients with acute cor pulmonale without a clear cause, Pulmonary Tumor Thrombotic Microangiopathy from an occult malignancy should be considered.
+
+# An Unusual Case of Altered Mental Status Leading to a Diagnosis of Pancreatic Adenocarcinoma
+
+Nina Kogekar; Julie Sung; Priya Sehgal; Mona Krouss. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3178519)
+
+# LEARNING OBJECTIVE #1
+
+Recognize non-bacterial thrombotic endocarditis in patients with pancreatic adenocarcinoma or other malignancy.
+
+# CASE
+
+An 84 year old male with atrial fibrillation on apixaban and active smoker (25 pack-year history) presented with weakness and confusion for two weeks. On presentation, the patient had normal vital signs. Physical exam revealed irregularly irregular rhythm with mental status oriented only to name and place, not date. Detailed neurologic exam was notable for decreased coordination with irregular rapid alternating movements and inability to perform finger-to-nose, upward Babinski reflexes, and shuffling, wide-based gait. Laboratory studies were normal. A CT head showed no acute process. The patient continued to be increasingly altered, so MRI brain was obtained, which revealed several acute to subacute embolic infarcts in the bilateral cerebral and cerebellar hemispheres. This raised suspicion for endocarditis, and a transesophageal echocardiogram (TEE) found small mobile masses on the cusps of the aortic valve. A diagnosis of non-bacterial thrombotic endocarditis (NBTE) was made, given negative infectious work-up, and the patient was started on enoxaparin. CT angiography of the chest was performed to rule out pulmonary embolus during work-up, which incidentally showed a mass in the pancreatic head. MRCP showed a lesion at the posterior pancreatic head with upstream dilation of the main pancreatic duct. The pancreatic mass was biopsied which showed pancreatic adenocarcinoma (PAAD).
+
+# IMPACT/DISCUSSION
+
+Our case is unique as the diagnosis of NBTE was made despite a seemingly benign initial presentation. Regardless of the incidental finding of the tubular structure in the pancreatic head, this patient with NBTE should have undergone workup of possible PAAD as this association has been increasingly reported in the literature. Awareness of the association is critical, as diagnosing NBTE in the context of malignancy alters the management plan, from antibiotics to anticoagulation.
+
+# CONCLUSION
+
+NBTE, also known as marantic endocarditis, is caused by deposition of fibrin and platelet thrombi on heart valves. It occurs in the setting of a hypercoagulable state, often due to underlying adenocarcinoma. The incidence of NBTE in pancreatic cancer is not known. There have been few cases of ante-mortem diagnosis of NBTE with PAAD. Our case represents a rare instance of an ante-mortem diagnosis of NBTE as the initial presentation of underlying PAAD. The treatment of NBTE consists of anticoagulation with unfractionated or low-molecular weight heparin (LMWH). LMWH overall remains the treatment of choice over DOACs for malignancy-related thrombosis, and thus was chosen for treatment in this patient who was already on apixaban at the time of presentation. This case demonstrates that in patients with multiple cerebral infarctions, the diagnosis of NBTE and, subsequently, underlying malignancy should be included in the initial differential.
+
+# An Unusual Case of Bleeding Gastric Varices Secondary to Metastatic Ovarian Adenocarcinoma
+
+Randeep Kaur; Reena Salgia; Crystal Seudeal; Eric Scher. Henry Ford Hospital, Detroit, MI. (Control ID #3185409)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the presence and different potential causes of gastric varices in a patient that does not have liver disease.
+
+# CASE
+
+The patient is a 58-year-old Caucasian female with a history of metastatic ovarian cancer and no previous history of liver disease, who initially presented to the hospital with hematemesis, melanotic stools, lethargy and generalized weakness. She was found to have a hemoglobin of 5.7 g/dL, which dropped to 4.5 g/dL. Liver function tests at this time were within normal limits and testing for chronic liver disease was unrevealing. Abdominal ultrasound revealed patent hepatic vasculature and splenomegaly. An emergent esophagogastroduodenoscopy (EGD) was performed which showed isolated gastric varices located in the fundus (Sarin Classification, IGV1). MRI of the abdomen confirmed a hypovascular mass in the splenic hilum concerning for possible metastasis. Pathology confirmed metastatic ovarian cancer in the splenic hilum. After presentation at tumor board, the decision was made to perform splenic artery embolization (SAE) to decrease the inflow to the spleen with subsequent splenectomy. Proximal SAE and splenectomy was done without complication. The patient has continued her care with oncology for further treatment with Paclitaxol +/- Bevacizumab. Following the patient's splenectomy, she has reported no further episodes of hematemesis or melanotic stools.
+
+# IMPACT/DISCUSSION
+
+Left sided portal hypertension (LSPH) causing gastric variceal bleeding is fortunately an infrequent cause of upper gastrointestinal hemorrhage. To the best of our knowledge, there has been one published case of metastatic ovarian cancer resulting in gastric varices which occurred 21 years following ovarian carcinoma surgery and adjuvant chemotherapy. This case demonstrates progression of ovarian metastatic disease despite chemotherapy status post debunking in the peritoneum, causing significant hemorrhage with complete resolution of bleeding gastric varices by splenic artery embolization, followed by splenectomy. It highlights the need for ongoing awareness regarding the evaluation and management of IGV in patients who do not have underlying liver disease. Ultimately, the finding of IGV on endoscopy in a non-cirrhotic patient should prompt the investigation into other causative processes that could obstruct the splenic venous system.
+
+# CONCLUSION
+
+Portal hypertension generally develops in the setting of liver cirrhosis, and can result in subsequent esophageal and/or gastro-esophageal varices. LSPH, on the other hand, can arise in non-cirrhotic patients secondary to obstruction of the splenic vein, leading to isolated gastric varices. Given that most cases of LSPH remain asymptomatic, the incidence is likely <5% of all portal hypertension cases. This is an uncommon case of metastatic ovarian adenocarcinoma to the splenic vein hilum causing outflow obstruction and resultant gastric variceal hemorrhage. This patient was ultimately treated with splenic artery embolization followed by splenectomy.
+
+# An Unusual Case of Ileal Neuroendocrine Tumor Presenting as Hematochezia
+
+Ahmed A. Elkafrawy; Mahak Chauhan; Fredy Nehme. University of Missouri - Kansas City, Kansas City, MO; UMKC School of Medicine, Mission, KS. (Control ID #3186021)
+
+# LEARNING OBJECTIVE #1
+
+Recognize hematochezia as a rare presentation of Neuroendocrine Tumor of the small bowel. Assess small bowel bleeding with capsule endoscopy and double balloon enteroscopy.

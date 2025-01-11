@@ -1,0 +1,37 @@
+# ABSTRACTS
+
+# Rates of drug overdoses in Maine 2016-2017
+
+# Among Insured Patients Age 15 and older by Age Category
+
+|0.0-070|0.03578|0.03036|0.02570|0.02070|0.01570|0.01074|0.00570|0.CC07e| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|~Jan- Feb-16|~Mar-16|Apr-16|May-16|Jun-16|Jul-16|1 1-16|Oct-16|Nov-16|Dec"_|Feb-17|Mar|Apr- =|1|1 "Jul-17|1|1 Oct- =|Nov-!|
+
+# EMPLOYER AND EMPLOYEE PERSPECTIVES ABOUT A VALUE-BASED BENEFIT DESIGN: DECISION-MAKING FOR OFFERING FREE MEDICINES FOR CHRONIC ILLNESS
+
+Vanessa Simiola1; Dennis Ross-Degnan2; Connie M. Trinacty1. 1Kaiser Permanente, Honolulu, HI; 2Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, MA. (Control ID #3186146)
+
+# BACKGROUND:
+
+Failure to take medications as prescribed has been linked to several negative health consequences for patients with diabetes. To improve health outcomes for patients with chronic illness, Kaiser Permanente, Hawaii offers a value-based insurance design (VBID) to select large employer accounts that waives all copays for essential medications and supplies for patients with chronic diseases. Since most Americans under age 65 have medical coverage through their workplace, employers play a prominent role in efforts to lower healthcare costs and increase high quality care through their coverage choices.
+
+# METHODS:
+
+Using qualitative interviews, this study seeks to understand employer perspectives and decision making for offering VBIDs within their medical insurance benefit plan. Patient surveys were conducted and linked to employer interviews to assess concordance of patient and employer perceptions. We conducted 8 interviews with representatives from five employer groups currently enrolled in a VBID program. Transcribed interviews were analyzed from a grounded theory perspective. Survey data were obtained from 287 adults with diabetes actively receiving free medicines via the VBID program.
+
+# RESULTS:
+
+Diabetes prevalence in these employers ranged from 2.2-9.8% (M=5.5%). All employer groups (N=5) reported use of consultants to assist in determining benefits offered to employees and to complete cost-benefit analyses. Several employer representatives reported belief that VBIDs would be viewed differently amongst various facets of their insured members with the most interest amongst retirees (n=3) and the least interest among youngest employees (e.g., ages 18-35; n=2). Employers (n=4) also regarded the program as improving not only health behaviors within their employees but seeing effects impact families as well. Indeed, several employers provided anecdotes about how their employees demonstrated overall more confidence in their ability to manage their health and were teaching their family members how to improve health outcomes through healthy eating, health screening and overall diabetes management. These results were congruent with findings from patient surveys, where on a scale of 0-10, patients reported high confidence in their ability to maintain or improve glucose levels (M=6.64) in the next 6 months, and nearly 80% reported taking medications as prescribed daily.
+
+# CONCLUSIONS:
+
+Both employers offering the VBID program and employees using the VBID program reported positive outcomes in the presence of program use. Employers noted observable changes in employee behavior and employees identified confidence in their ability to manage their diabetes in the future. Results of this study demonstrate VBIDs can result in an intergenerational transmission of knowledge and behavior change within families. This study provides important information from both employer buyers and employee consumers on VBID plans that can shape the future development of VBID programs and increase uptake in commercial plans.
+
+# EMPOWERING PATIENTS TO ACT: USING GRAPHIC MEDICINE TO IMPROVE OUTPATIENT ENGAGEMENT WITH THE EHR
+
+Tyrone A. Johnson; Jacqueline Nichols; Meera Dhodapkar; Maria L. Alkureishi; Wei Wei Lee. University of Chicago, Chicago, IL. (Control ID #3185964)
+
+# BACKGROUND:
+
+Electronic health record (EHR) use can have positive and negative effects on the patient-doctor relationship and communication.

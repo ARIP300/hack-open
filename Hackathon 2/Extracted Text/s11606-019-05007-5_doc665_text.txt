@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+During April 2018, all patients presenting for an office visit at an academic internal medicine clinic were screened at registration for ED visits within the last 30 days. Patients who screened positive were asked to complete a survey querying all applicable reasons for ED presentation. Questions were modified from prior published surveys on the reasons for ED presentation. Survey responses were consolidated into groups based on response themes and then linked at the patient level to the ED visit. The majority of prior published work on this subject has occurred in the ED instead of in ambulatory clinics, where clinic resources can be leveraged to keep non-emergent visits out of the ED.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Measures of success include quantifying patient reasons for visiting ED and correlating patient reasons with severity of illness.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+200 surveys were delivered with a response rate of 56%. 73% of patients cited "problem severity" as a reason for seeking care in the ED. 45% of patients contacted their PCP's office prior to seeking care in the ED. 13% could not wait for an answer, 15% could not wait for the appointment, and 27% were sent by their PCP's office or another MD. 19% of patients sought care after hours, 9% perceived the need for testing only available in the ED, and 10% cited superior quality of care in the ED. 2% stated transportation was a barrier to accessing primary care and a reason for ED visit. Of the patients seen in the ED, 30% reported a subsequent hospital admission. Patient responses were then linked to electronic health record data and stratified by the Emergency Severity Index (ESI), in which lower score represents more severe illness. In our respondents, there were no patients with an ESI of 1 or 5. 100% of patients with an ESI of 2 reported severity as a reason for ED visit and 69% of these patients were admitted. 77.3% of patients with an ESI of 3 reported severity as a reason for ED visit and 34% of these patients were admitted. 60% of patients with an ESI of 4 reported severity as a reason for ED visit and 20% of these patients were admitted.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Reducing unnecessary ED visits is on the forefront of utilization and continuity initiatives. Our findings suggest that improving patient education of reasons for ED visits and of resources (testing and treatments) available in ambulatory clinics could reduce the number of ambulatory care sensitive conditions treated in the ED, allowing for cost savings and improved patient satisfaction. Other opportunities such as expansion of telehealth, expansion of case management, and establishment of ambulatory clinics within EDs should be explored.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Serious Illness Conversation Guide, a tool developed by Harvard's Ariadne Labs, has shown great promise in helping physicians and care teams to have goals of care conversations with patients in the late stages of chronic illness. Such conversations are typically difficult for both physician and patient and often never take place until the patient is terminally ill and no real choices remain. This project is designed to assess the use of the Guide in academic health centers serving an urban underserved community. In this implementation phase the project was introduced in small group meetings and in larger presentations such as Grand Rounds. Physicians, nurses, and social workers at 2 academic neighborhood health centers were trained in the use of the Guide by project leaders who attended training at Ariadne Labs. A leadership group meets monthly to assess progress and address problems. Site champions have assumed active roles in helping trained providers use the Guide with appropriate patients. Documentation and coding and billing emerged as important issues and are being addressed.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Training began in September 2018. Our goal was to train at least 5 providers at each site over a 3 month period and for each of those providers to have 1 conversation by the end of December.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The implementation phase of this project has been remarkably successful: 15 MDs, 4 RNs, and 4 SWs completed the 2 hour training in the use of the Guide over a 3 month period. Flexible workflows were developed by each site to promote the use of the Guide. 7 providers completed 14 conversations by the end of the 4 months from the beginning of training. A protocol for documentation of these visits in the EMR was established. Working groups were formed at the departmental level to address long term solutions for EMR documentation and coding and billing. Informal feedback from providers has been strongly positive.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Several factors contributed to the success of the project thus far. Project leadership by a physician champion with expertise in the field of provider-patient communication, and modest salary support for the project leader facilitated implementation. Strong support from both administrative and clinical leadership was critical. And it is likely that part of this acceptance stems from the fact that the project addresses physicians' desire to provide personalized, respectful care for their seriously ill patients.
+
+# SERIOUS ILLNESS CONVERSATIONS: HELPING CARE TEAMS TAKE THE LEAP
+
+Deborah Swiderski. Montefiore Medical Center, Bronx, NY. (Control ID #3184183)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite robust evidence of the benefits of goals of care conversations with patients who have late-stage chronic illness, and widespread agreement among both patients and physicians that such discussions are beneficial these conversations are usually infrequent, late, and limited.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To train and support care teams in 2 urban
+
+# SHARING THE BURDEN OF DISEASE: MULTI-DISCIPLINARY SHARED MEDICAL APPOINTMENTS FOR OSTEOARTHRITIS
+
+Katie Miller1; Linda Baier3; David Rabago2. 1University of Wisconsin, Madison, WI; 2University of Wisconsin School of Medicine and Public Health, Madison, WI; 3f Medicine and Public Health, Madison, WI. (Control ID #3170064)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Knee and hip osteoarthritis (OA) is a disabling condition affecting over 50% of US adults over 65. Patients often do not receive guideline-recommended care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The University of Wisconsin Knee and Hip Comprehensive Non-Surgical Management Clinic uses shared medical visits

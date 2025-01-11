@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# PTHrP-mediated
+
+In this case the low calcitriol, low PTH and elevated PTHrP is a pattern that is consistent with hypercalcemia due to ATLL. HTLV is endemic in the Caribbean islands and is a major cause of ATLL, either de novo or reactivation after an infection. Case reports have shown reactivation of HTLV after induction chemotherapy for treatment of other cancers. However, it is extremely uncommon for Hodgkin's and ATLL to exist in the same patient as was observed in this case.
+
+# CONCLUSION:
+
+Alternate diagnosis or co-existing malignancy should be suspected in cases of refractory hypercalcemia, despite optimal therapy. Hypercalcemia of malignancy occurs via different mechanisms, understanding of which helps identify the underlying malignancy.
+
+# REFRACTORY ORTHOSTATIC HYPOTENSION, WEAKNESS, & PARASTHESIAS IN A VIETNAM VETERAN EXPOSED TO AGENT ORANGE
+
+Rogelio M. Cruz. NYU, New York City, NY. (Control ID #3186278)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical manifestations of AL Amyloidosis and its association with Agent Orange
+
+# LEARNING OBJECTIVE #2:
+
+Management of refractory orthostatic hypotension
+
+# CASE:
+
+A 68 year-old man with prior Agent Orange exposure in Vietnam presents with 6 months of progressive orthostatic hypotension (OH), syncope, 60 lb weight loss, and lower extremity weakness, parasthesias, and allodynia. Prior workup found mildly elevated troponin and BNP, but a normal stress test. Midodrine had no improvement in OH, and BP on admission dropped 138/75 to 67/42. Exam showed lack of pupillary reaction to accommodation, anhidrosis, urinary retention, 3/5 strength in both legs, and decreased sensation below the knees. Routine labs were unremarkable, MRI brain, C/T/L spine was noncontributory, and CT C/A/P showed no malignancy. TTE revealed severe Bi-V hypertrophy and a small pericardial effusion. Further workup showed increased serum lambda ( ) free light chains, and urine immunofixation revealed faint monoclonal free elevation. Cardiac MRI showed LVEF 38% with diffuse subendocardial gadolinium enhancement suggestive of amyloid cardiomyopathy. An abdominal fat pad biopsy was inconclusive so a Cardiac biopsy was done, confirming AL amyloid (AL) deposition. Bone Marrow biopsy stained positive for amyloid and exhibited a population of lambda-restricted plasma cells (&lt;10%) consistent with plasma cell dyscrasia. TTR amyloid genetic testing was negative. EMG & NCS showed axonal large fiber polyneuropathy favoring amyloid over inflammatory demyelinating neuropathy. Paraneoplastic and autoimmune blood panels were negative. Controlling the OH was difficult despite a slew of non-pharmacologic interventions such as abdominal binders, and max dose Florinef & Midodrine. Addition of Droxidopa was required to control symptoms. He was discharged with plans to start chemotherapy.
+
+# IMPACT/DISCUSSION:
+
+AL amyloidosis is an accumulation of monoclonal Ig light chains into pathologic fibrils that deposit in extracellular spaces and result in tissue dysfunction and cell death, known as proteotoxicity. Our patient showed cardiac involvement as well as autonomic, sensory and motor neuropathy, but manifestations vary depending on location and amount of deposition. Also, while not causal, recognition that the Dept. of Veteran Affairs lists AL as a disease associated with Agent Orange based on limited suggestive evidence is relevant to this case. At least one study found an odds ratio of 3.02. Pharmacologic management of OH includes fludrocortisone, which increases sodium and water reabsorption, and midodrine, an alpha-1 agonist, which increases vascular resistance. Droxidopa is an oral synthetic precursor to norepinephrine and while not studied in AL, did show a benefit in OH in familial amyloid polyneuropathy and was FDA approved in 2014 for OH.
+
+# CONCLUSION:
+
+The mainstay of treatment for AL is chemotherapy directed at the plasma cell dyscrasia producing the abnormal protein. Immunotherapies targeting the amyloid deposits are currently in development.
+
+# RELAPSING POLYCHONDRITIS MASQUERADING AS INFECTIOUS CELLULITIS
+
+Stephanie C. Opusunju; Leigh K. Hunter. Methodist Dallas Medical Center, Dallas, TX. (Control ID #3162008)
+
+# LEARNING OBJECTIVE #1:
+
+1. Recognize predisposing factors for relapsing polychondritis
+
+# LEARNING OBJECTIVE #2:
+
+2. Distinguish manifestations of relapsing polychondritis from other diagnoses with similar presentations
+
+# CASE:
+
+A 40-year old African American man presented to the emergency department with three days of facial swelling and tinnitus, was initially diagnosed with facial cellulitis and treated with empirical antibiotics. After two days of minimal improvement, otorhinolaryngology consultation was requested. Physical examination revealed bilateral chondritis with swelling of the nasal tip, extension to periorbital areas and malar eminences, swelling of the cartilaginous portions of ears with sparing of lobules, and signs of conjunctivitis. Diagnosis of Relapsing polychondritis (RP) was established based on McAdam's criteria which requires three or more of the following clinical findings: bilateral auricular chondritis, non-erosive, seronegative inflammatory polyarthritis, nasal chondritis, ocular inflammation (conjunctivitis, keratitis, scleritis/episcleritis, uveitis), respiratory tract chondritis (laryngeal and/or tracheal cartilages), and cochlear and/or vestibular dysfunction (neuro-sensory hearing loss, tinnitus, and/or vertigo). Of interest, rheumatoid factor and erythrocyte sedimentation rate were also elevated and HIV antibody was positive. The patient declined biopsy but was treated with high dose glucocorticoid therapy resulting in complete resolution of symptoms. The patient was lost to follow up post-discharge.
+
+# IMPACT/DISCUSSION:
+
+Auricular chondritis, arthritis, nasal chondritis, ocular inflammation, laryngotracheal symptoms, reduced hearing, and vestibular dysfunction are the most common manifestations of RP. Diseases reported in association with RP include systemic vasculitides, rheumatoid arthritis, connective tissue diseases, spondyloarthritis, hematologic diseases, gastrointestinal diseases and other miscellaneous entities such as Sweet's syndrome, retroperitoneal fibrosis, familial Mediterranean fever, sarcoidosis, and immune restoration syndrome. It is imperative that internal medicine physicians recognize the constellation of symptoms of RP in order to avoid diagnostic and treatment delays. Optimal treatment remains an area of active investigation, but immunosuppression is the mainstay.
+
+# CONCLUSION:
+
+Relapsing polychondritis is a potentially fatal multi-system connective tissue disorder primarily involving cartilaginous structures of ears, eyes, joints, nose, laryngotracheobronchial tree, costal cartilages and proteoglycan rich structures including the heart, kidney, and blood vessels and is characterized by recurrent episodes of inflammation. Because of its rarity, the diagnosis may prove challenging for clinicians resulting in treatment delays and increased morbidity and mortality.
+
+# RELIEVING THE PRESSURE A NOVEL APPROACH TO INTESTINAL PSEUDO-OBSTRUCTION WITH RECTAL FOLEY DECOMPRESSION
+
+Dorjan Pantic; Ceena Chandrabos; Linda Kurian. Hofstra Northwell School of Medicine, Manhasset, NY. (Control ID #3140347)
+
+# LEARNING OBJECTIVE #1:
+
+Possible management for intestinal pseudo-obstruction with rectal Foley catheter placement

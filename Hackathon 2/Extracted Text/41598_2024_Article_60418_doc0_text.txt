@@ -1,0 +1,25 @@
+# The mediating role of pro‑environmental attitude and intention on the translation from climate change health risk perception to pro‑environmental behavior
+
+Tao Shen1,2, Irniza Binti Rasdi1*, Nor Eliani Binti Ezani1 & Ong Tze San3
+
+Climate change is a serious environmental issue appearing in China. As a public service institution operating around the clock, the negative impact of hospitals on the environment is evident, promoting their workers’ pro‑environmental behavior (PEB) through increasing climate change health risk perception (CHRP) is an effective method to protect the environment and achieve sustainable development. This study investigates how CHRP shapes pro‑environmental attitude (PEA), pro‑environmental intention (PEI), and pro‑environmental behavior (PEB) among hospital workers. Using structural equation modeling (SEM) to determine the chain of causation from CHRP to PEB among hospital workers. The result shows that CHRP positively affects PEA and PEI, and PEI positively affects their PEB. In addition, although CHRP has no significant direct effect on PEB, it can play a crucial indirect effect through the mediating role of PEI. Moreover, the result of multiple regression shows that there are significant differences regarding PEA, PEI, and PEB.
+
+# Keywords
+
+Pro-environmental behavior, Climate change health risk perception, Pro-environmental attitude, Pro-environmental intention, Hospital worker
+
+Climate change is an extremely serious issue threatening the sustainable development of human society. It is acknowledged that human behaviors, such as driving cars and using energy, play the crucial role leading to climate change, and meanwhile can result in its mitigation. In China, environmental issues including pollution, extreme weather, and energy crises are urgent due to the rapid development of the economy, numerous researchers have probed to settle these issues. Focusing on individual PEB and its influencing factors is prospective to improving the relatively hostile environment. Hospital workers’ health practices take core responsibilities in ensuring human health by providing diagnosis, treatment, and management of diseases. Additionally, it is noticeable that the hospital makes an excellent contribution to carbon emissions by energy consumption and delivering care. As a consequence, we examined Chinese hospital workers’ PEB and influencing factors to promote their actual PEB in medical practice.
+
+In the process of modernization, although China has carried out large-scale pollution prevention and ecological environment protection strategies, the average temperature has increased by 0.62 ℃, the average precipitation has decreased by 5%, and natural disasters such as droughts and floods still occur frequently according to the Bulletin on the State of China’s Ecological Environment. (https://www.gov.cn/govweb/lianbo/bumen/202305/content_6883708.htm). To deal with severe environmental issues, the Chinese government has commenced a series of column projects, for example, advancing the defense of the blue sky, distributing national climate change adaptation strategies, and prohibiting burning straws.
+
+# Affiliations
+
+1 Department of Environmental and Occupational Health, Faculty of Medicine and Health Sciences, University of Putra Malaysia, 43400 Serdang, Selangor, Malaysia.
+
+2 Clinical Laboratory, Jincheng People’s Hospital, Jincheng, China.
+
+3 School of Business and Economics, University of Putra Malaysia, Serdang, Selangor, Malaysia.
+
+*email: irniza@upm.edu.my
+
+Scientific Reports | (2024) 14:9831 | https://doi.org/10.1038/s41598-024-60418-7

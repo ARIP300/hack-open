@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# High Value Discharge Practices
+
+There remains variable implementation of these high value discharge practices and often little transparency surrounding roles of medical team members at discharge. Direct field observation from the perspective of the patient is critical to inform gaps in the delivery of high quality discharge care. This study is the first to capture the discharge process by the entire healthcare professional team from the patient perspective.
+
+# METHODS:
+
+Purposeful sampling was used to select patients designated for "discharge by noon" with complex care plans. On the day of discharge, a research assistant sat at the bedside of a single consented patient from 6am until time of discharge, and recorded all communication and time spent on discharge education. Field notes were deductively analyzed for how patients were educated on key domains: medications, appointments, self-management of illness, symptom expectations, red flags, teach back and patient activation.
+
+# RESULTS:
+
+To date, 15 patients with a total of 92 hours of observations have been conducted. On average, interns spent about 4.5 minutes with the patient on discharge and less than 1 minute on discharge education. Nurses had variable discharge practices, which ranged from asking the patient to read printed discharge information to reading the discharge instructions to the patient. While most patients were told about medication changes, 40% were not told the purpose of medication changes. Similarly, the majority of patients were not told the purpose of follow-up medical appointments or pending results. There was limited education surrounding the self-management of diseases, symptom expectations or red flags. When provided, discharge education was one-sided; no patients were engaged through teach-back or patient activation. One patient was asked about potential barriers to adherence with the care plan. The majority of discharge communication was on practical steps of leaving the hospital, not preparing the patient to care for themselves at home.
+
+# CONCLUSIONS:
+
+There is significant opportunity for improved discharge techniques to enhance safety and quality of care for patients leaving the hospital - including teach-back and patient engagement. Interventions must be implemented to increase patient education, particularly interprofessional ones that clarify assumptions on each other's roles. Further studies on effective communication strategies as well as systems redesign that foster patient-centered discharge education are imperative.
+
+# DISPARITIES IN COMMUNICATION AMONG THE INPATIENT HOMELESS POPULATION AT A SAFETY-NET HOSPITAL
+
+Cristina Vellozzi-Averhoff 1; William W. Thompson 2; Claudia Vellozzi 3; Ike Okosun 4; Kathy Kinlaw 1; Jada C. Bussey-Jones 1. 1 Emory University, Atlanta, GA; 2 Reproducible Scientific Solutions, LLC, Atlanta, GA; 3 Grady Memorial Hospital, Atlanta, GA; 4 Georgia State University, Atlanta, GA. (Control ID #3177752)
+
+# BACKGROUND:
+
+Homelessness in the United States has a long history of stigma with little to no objective data on communication or care quality for the homeless. This research looks at the implications of stigma to determine whether the homeless population experiences disparities in care and communication during inpatient hospitalizations in a safety-net hospital.
+
+# METHODS:
+
+We administered a modified Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey to 112 age- and sex-matched homeless and non-homeless adults at a university-affiliated safety-net hospital from December 2017 through March 2018 and performed a retrospective review of medical records of the survey participants. Linear regression models were used to assess differences in responses to survey subscales, length of stay, and other process of care measures.
+
+# RESULTS:
+
+Homeless participants trended toward poorer ratings for all HCAHPS subscales, reaching significance for the Communication about Medications subscale, with a mean score of 1.2 (95% CI 0.48 - 1.76) points lower compared to non-homeless sample. Length of stay and general process of care measures were not significantly different between homeless and non-homeless participants.
+
+# CONCLUSIONS:
+
+In an urban safety-net hospital, disparities in communications regarding medications between hospital staff and patients were found based on housing status, which may reflect systemic implicit bias of providers.
+
+# DISPARITIES IN DISPOSITION AND LENGTH OF STAY IN HOSPITALIZATIONS FOR SERIOUS INFECTIONS WITH AND WITHOUT OPIOID USE DISORDER
+
+June-Ho Kim 1, 2; Danielle R. Fine 3; Lily Li 1; Simeon D. Kimmel 4; Joji Suzuki 1; Christin N. Price 1; Matthew Ronan 5; Shoshana J. Herzig 6. 1 Brigham and Women's Hospital, Boston, MA; 2 Ariadne Labs, Brigham & Women's Hospital and Harvard T.H. Chan School of Public Health, Boston, MA; 3 Massachusetts General Hospital, Boston, MA; 4 Boston Medical Center, Boston, MA; 5 VA Boston, Hopkinton, MA; 6 Beth Israel Deaconess Medical Center, Brookline, MA. (Control ID #3185253)
+
+# BACKGROUND:
+
+Patients with opioid use disorder (OUD) and serious bacterial infections, which often require prolonged courses of intravenous antibiotics, may face disparities in hospital and post-acute care, potentially leading to more discharges against medical advice (AMA), longer hospital stays, and higher costs. We compared differences in disposition, length of stay (LOS), and hospital charges between hospitalizations of patients with serious infections with and without OUD.
+
+# METHODS:
+
+We analyzed a nationally representative cohort of U.S. hospitalizations using the 2016 National Inpatient Sample. We included all adult (age 18+) hospitalizations with a primary ICD-10 diagnosis code for endocarditis, osteomyelitis, septic arthritis, or epidural abscess. The exposure of interest was OUD, identified as a secondary code. Outcomes were LOS, discharge disposition, and total hospital charges. Baseline characteristics were compared using chi-square tests and t-tests for categorical and continuous variables, respectively. Multivariable models were adjusted for patient, hospitalization, and hospital-level characteristics. We used multivariable logistic and linear regression to estimate odds ratios for dispositions and differences in LOS and hospital charges, respectively.
+
+# RESULTS:
+
+In 2016, there were 91,015 hospitalizations in the U.S. for serious infections, 7,115 of which were associated with OUD. Patients with OUD were younger (mean age 41 vs 59), female (44 vs 35%), and white (73 vs 69%). More had Medicaid (58 vs 18%) or were uninsured (10 vs 5%, all p<0.01). Fewer hospitalizations with OUD ended in discharge to home (48 vs 66%, p<0.01); similar proportions were discharged to a post-acute care facility (30 vs 30%, p=0.96); and more were discharged AMA (20 vs 3%, p<0.01). Adjusted for covariates, hospitalizations with OUD had lower odds of discharge home (adjusted odds ratio, aOR 0.37, 95% CI 0.31, 0.43) and higher odds of discharge to a post-acute care facility (aOR 1.76, 95% CI 1.48, 2.09) or AMA (aOR 3.08, 95% CI 2.47, 3.83). Hospitalizations with OUD had longer mean lengths of stay (14 vs 8 days, p<0.01), higher average total hospital charges ($109,476 vs 74,400, p<0.01), and lower average daily charges ($8,454 vs 9,856, p<0.01). After accounting for potential confounders,

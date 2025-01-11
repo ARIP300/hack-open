@@ -1,0 +1,66 @@
+# ABSTRACTS JGIM
+
+# SICKLE CELL TRAIT, IMMOBILITY AND A CASE OF SEVERE RHABDOMYOLYSIS
+
+Michael Fattouh; Andrew Hunter; Peter C. Smith. Boston Medical Center, Boston, MA. (Control ID #3165665)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize multiple less commonly cited risk factors for rhabdomyolysis
+
+# CASE:
+
+Mr. N is a 40-year-old black male with a chief complaint of "I'm in kidney failure." The patient reported darkened urine and a subjective decrease in urine output. On the day prior, he had used intranasal heroin and woke up 5 hours later leaning on a gate with right shoulder pain. Mr. N has a history of schizoaffective disorder, for which he takes aripiprazole 20mg daily, and a longstanding history of intranasal heroin use. Exam was notable for tenderness along his right deltoid. Labs were remarkable for a creatine kinase (CK) elevated to 79,946 IU/L and a creatinine to 6.59 mg/dL. A urine tox screen was positive for only fentanyl. The patient was diagnosed with rhabdomyolysis and acute kidney injury (AKI) and started on IV fluids. The next day, the CK decreased to 41,907 IU/L, however the creatinine increased with an eventual peak three days later to 11.34 mg/dL. When asked how he knew he was in "kidney failure," Mr. N reported a similar presentation 7 months prior: after using heroin he was immobile for multiple hours and was admitted by an outside hospital for rhabdomyolysis with AKI. After accessing the outside records, it was found that his CK was 17,442 IU/L and his creatinine peaked at 19.83 mg/dL. It was unclear why a patient without a history of primary muscular/neuromuscular pathology and without any clear inciting event had two episodes of such severe rhabdomyolysis. Work up was initiated and a hemoglobin electrophoresis eventually revealed sickle cell trait.
+
+# IMPACT/DISCUSSION:
+
+Sickle cell trait is recognized as a risk factor for exertional rhabdomyolysis. Further, the use of antipsychotic medications has been reported to increase the risk for exertional rhabdomyolysis in sickle cell trait patients1. One small case series suggests heroin itself may increase the severity of rhabdomyolysis2. Here we describe a case of rhabdomyolysis and AKI – with CK and creatinine levels seen in patients with crush injury or malignant hyperthermia – secondary to mild muscle compression in an immobile patient with multiple less commonly recognized risk factors: opioid use, antipsychotic use, and sickle cell trait. With an increasing prevalence of opioid use in black patients coupled with higher prevalence of sickle cell in people of African descent, the risk for rhabdomyolysis may be of particular concern in an already vulnerable patient population.
+
+# CONCLUSION:
+
+- Sickle cell trait increases a patient's risk for exertional rhabdomyolysis - Patients with sickle cell trait may be at an increased risk for severe rhabdomyolysis even without exertion or notable trauma
+
+Citations
+
+1. Nelson, D. Alan, et al. "Sickle cell trait, rhabdomyolysis, and mortality among US Army soldiers." New England Journal of Medicine 375.5 (2016): 435-442
+2. Kosmadakis, George, et al. "Acute kidney injury due to rhabdomyolysis in narcotic drug users." The International journal of artificial organs 34.7 (2011): 584-588
+
+# SIGNIFICANT VISUAL IMPAIRMENT IN AN ALCOHOLIC PATIENT
+
+Tatsuya Fujikawa; Atsushi Taniguchi; Yuka Sogabe. Mitoyo General Hospital, Kanonji, Japan. (Control ID #3142142)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of Wernicke encephalopathy (WE), exhibiting not only typical but non-typical symptoms, such as vision loss
+
+# LEARNING OBJECTIVE #2:
+
+Treat with intravenous vitamin B1 when WE is suspected
+
+# CASE:
+
+A woman in her late 20s, who had depression and alcoholism, complained of vision loss for the past 10 days and reduced dietary intake since the last 3 months. Her clinical history includes alcoholic liver injury and depression. She experienced intermittent appetite loss, nausea, and vomiting 3 months ago, but continued consuming alcohol heavily till 2 months ago. She finally visited the Department of Ophthalmology and General Internal Medicine in our hospital on experiencing vision and appetite loss. On presentation to our hospital, her blood pressure, pulse, respiratory rate, and body temperature were 120/87, 113/min, 18/min, and 97.0 °F, respectively. She had a Glasgow coma scale score of 14 as E4V4M6. Ophthalmologic examination revealed vision loss associated with prominent optic disc edema; physical examination revealed bilateral abduction restriction, gaze-evoked nystagmus, anarthria, and muscle weakness of extremities with Manual Muscle Testing grade 3. FLAIR MRI revealed hyperintense signals in bilateral thalamus, areas around the third ventricle, and the Sylvian aqueduct. Hence, she was diagnosed with WE based on clinical history, physical examination, and MRI findings. Intravenous thiamine replacement therapy was, therefore, started. Metabolic work-up, conducted before the thiamine replacement therapy, revealed thiamine deficiency (15 ng/mL, reference range 24-66 ng/mL). Thiamine supplementation improved the patient's impaired consciousness and appetite loss within 2-3 days of treatment respectively, abducens nerve paresis within 2 weeks, vision loss over 3 weeks, optic disc edema by 8 weeks, and the nystagmus over several months.
+
+# IMPACT/DISCUSSION:
+
+WE, an acute neuropsychiatric syndrome, results from thiamine deficiency, mostly due to alcoholism. WE is characterized by a classical triad of symptoms: nystagmus and ophthalmoplegia, mental status changes, and unsteadiness of stance and gait; these conditions were observed in our case. However, optic disc edema, especially associated with vision loss, is rarely reported in WE. MRI can serve as a valuable tool in WE diagnosis; changes in the thalami, mammillary bodies, tectal plate, and periaqueductal area are typically observed. WE prognosis depends on a prompt diagnosis followed by thiamine supplementation at high doses. Early treatment prevents its evolution to Korsakoff syndrome, a chronic form of anterograde and retrograde amnesia, that responds poorly to thiamine.
+
+# CONCLUSION:
+
+Physicians must highly suspect WE when patients manifest the aforementioned characteristic symptoms. Patients may sometimes visit hospitals with vision loss. If WE is even remotely suspected, thiamine injections should be administered to achieve symptom resolution.
+
+# S L O W A N D S L E E P Y: VA L P R O I C A C I D - I N D U C E D HYPERAMMONEMIC ENCEPHALOPATHY
+
+Jake Schlemmer; Ambili Ramachandran. UT Health San Antonio, San Antonio, TX. (Control ID #3150143)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of hyperammonemia.
+
+# LEARNING OBJECTIVE #2:
+
+Identify valproic acid as a potential cause of hyperammonemic encephalopathy.
+
+# CASE:
+
+A 30 year-old man presented with two weeks of progressively worsening fatigue and psychomotor slowing. Other associated symptoms included periodic episodes of confusion, generalized weakness, fine motor deficits, and shuffling gait. The patient's medical history included a traumatic brain injury in 2016 with subdural hematoma status post decompressive hemicraniectomy and cranioplasty, with resulting seizure disorder.

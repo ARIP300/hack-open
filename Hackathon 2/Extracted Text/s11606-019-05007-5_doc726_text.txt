@@ -1,0 +1,57 @@
+# JGIM
+
+# ABSTRACTS
+
+engagement, data analysis, and quality improvement tools in their work on the projects. Each group is mentored by one of the faculty members. For the 2018/19 academic year, we incorporated feedback from students who took the course the first year. This included expanding site visits and mentoring, adding a course coordinator, and using an application system instead of a lottery for selecting students.
+
+# EVALUATION:
+
+Students were evaluated using an anonymous survey. Questions reflected learning objectives, clarity of expectations, and feedback on class sessions. For the 2018/19 academic year, we also added a pre-course questionnaire exploring student interests and baseline knowledge. For the first year of the elective, there were 20 slots in the elective. Sixty one students ranked this elective, with 34 students ranking it first on their elective list. For the second year of the elective we required short applications and 40 students applied to the elective. For the 2017/18 academic year, all students who took the course said they would recommend the course to incoming students. We received feedback that the course could be better organized and that there was not sufficient mentoring. Overall, students were positive about the class with comments about how this course was the highlight of their year and was inspiring to them. Of the four projects started during the course, one has become a student led service learning program for all students at Rush. Two others are actively ongoing even though the class ended during the last academic year.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Health equity is an interest and priority for medical students. Through this course, we were able to connect students to community leaders in meaningful ways. We learned the value of soliciting feedback from students often and changing the class based on that feedback. Student leadership has been key to this course from its inception. We learned that it was important to have sufficient faculty and course coordinator time to run the course effectively.
+
+# LEARNERS WHO STRUGGLE IN MEDICAL EDUCATION: COMMON PRESENTATIONS
+
+Melis G. Celdir1; Alexander Steeves-Fuentes4; Antoinette Schoenthaler3; Paul B. Yellin4, 5; Mack Lipkin2. 1Mayo Clinic, Rochester, MN; 2New York University School of Medicine, New York, NY; 3NYU School of Medicine, New York, NY; 4New York University School of Medicine, New York City, NY; 5The Yellin Center for Mind, Brain, and Education, New York City, NY. (Control ID #3185900)
+
+# NEEDS AND OBJECTIVES:
+
+It is common for students to struggle in the challenging academic and social environments of medical education. We posit that some who struggle are not simply the edge of a Gaussian distribution of success but present definable syndromes which are recognizable, testable, and remediable. In this first heuristic look at our hypothesis, we aimed to identify prominent learning profiles and early signs of struggle among medical students with poor academic performance and measurable factors that correlate with their struggles.
+
+# SETTING AND PARTICIPANTS:
+
+Ninety medical students with academic struggles were referred to a learning assessment center between 2006 and 2018. Reports of the assessment process were constructed to provide remediation strategies for students and educators.
+
+# DESCRIPTION:
+
+We evaluated reports of the comprehensive neurodevelopmental evaluations. Reports documented referral concerns, students' self-assessments of their competencies, academic history, neuropsychological evaluations and interviews in the assessment process to establish learning profiles of strengths and challenges of each student and recommended remediation strategies. We applied grounded theory methods to identify common patterns in students' comprehensive evaluations.
+
+# EVALUATION:
+
+Students who displayed signs of struggle earlier in medical school commonly presented after poor performance on standardized assessments (63%, 50/80). They had historically excelled in academic areas rewarding intuitive ways of learning and chosen academic degrees that played to their strengths. In medical school, rote memorization and passive study methods such as transcribing lectures, without active information processing led to inefficient learning, requiring more time for their studies. They lacked strategies to plan their studies and exams, regulate their attention, filter and systematically store information of salient details. Students experienced high rates of anxiety and depression (41%, 37/90) and some received psycho/pharmacotherapy (27%, 24/90). Social isolation and feelings of inadequacy further exacerbated their struggles.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Lack of learning and test-taking strategies appropriate for the unique and standardized medical school curriculum, combined with psychosocial stress in a competitive learning environment, expose challenges which may have been unnoticed by students in prior academic pursuits. Their patterns of presentation might alert instructors and students to seek evaluation and assistance early, receive guidance and remediation of specific learning challenges and avoid distressing, diminished academic performance.
+
+# LEAVE NO DISCHARGE BEHIND: A TRANSITIONS OF CARE PILOT PROJECT
+
+Neha Jindal; Seagram M. Villagomez. New York University, New York, NY. (Control ID #3183535)
+
+# NEEDS AND OBJECTIVES:
+
+Transitioning patients safely from the inpatient to the outpatient setting is crucial to patient outcomes and readmission rates, but residents receive little formal training to manage this. Transitions are fraught with issues, including poor communication of discharge instructions and a lack of timely follow-up with the primary care provider (PCP). In addition to the impact on patient outcomes, unsuccessful transitions have been shown to evoke strong negative reactions in student learners. We aim to improve resident education and confidence in managing transitions of care through the implementation of a Transitions of Care (TC) Team at the NY campus of the VA New York Harbor Healthcare System (NYVA NYHHS).
+
+# SETTING AND PARTICIPANTS:
+
+Our study is taking place at NYVA NYHHS. The TC Team consists of the discharging hospitalist, NYU Internal Medicine residents, and a nurse practitioner. The patients are those who are admitted with a diagnosis of CHF or COPD.
+
+# DESCRIPTION:
+
+This pilot study sets up a TC Team involving medical residents to provide experiential learning in safe and successful conversion to the outpatient setting. Just prior to the discharge of a patient, an inpatient resident caring for the patient contacts the TC Team to provide a warm hand-off. The patient is then scheduled for a follow-up home visit within 1 week. During the home visit, the patient is examined and assessed by the TC Team, medications are reviewed and follow-up instructions are discussed. Prior to completing the home visit, the TC Team resident contacts the discharging hospitalist who provides precepting and education. The TC team resident then communicates with the patient's PCP.
+
+# EVALUATION:
+
+We are studying the impact on readmissions and resident confidence in discharge planning and follow-up. The quantitative outcome measure is pre/post intervention thirty-day readmission rates for CHF and COPD. Qualitative outcomes collected through survey data include resident confidence in the discharge process: the ability to provide clear follow-up discharge planning, conduct a post-hospital discharge follow-up visit, perform accurate medication reconciliation, and reduce medical errors after discharge.

@@ -1,0 +1,24 @@
+J. Ρarviainen, J. Rantala
+
+Chatbots (and other ADMs) could lead to ‘a deep social division’, a society divided ‘between those who experience human-to-human connection and those relegated to software and machines’. Due to the rapid digital leap caused by the Coronavirus pandemic in health care, there are currently no established ethical principles to evaluate healthcare chatbots. Shum et al. (2018, p. 16) defined CPS (conversation-turns per session) as ‘the average number of conversation-turns between the chatbot and the user in a conversational session’. However, these kinds of quantitative methods omitted the complex social, ethical and political issues that chatbots bring with them to health care. As the digitalisation of health care is increasingly becoming all-encompassing, there is a pressing need to develop novel guidelines, frameworks or even rules that ensure that digital healthcare solutions are socially, ecologically and ethically sustainable and do not jeopardise the development of human capabilities.
+
+# Risks and Concerns
+
+Considering this systemic perspective in the implementation of chatbots, we found a number of risks and concerns, from the perspective of HCPs, regarding how chatbots may transform clinical capabilities and change patient-clinician relationships in clinical practices in the long run:
+
+1. Negative impacts on the acquisition and use of practical knowledge in clinical work
+2. Rapid diagnoses by chatbots can erode diagnostic practice, which requires practical wisdom and collaboration between different specialists as well as close communication with patients. HCP expertise relies on the intersubjective circulation of knowledge, that is, a pool of dynamic knowledge and the intersubjective criticism of data, knowledge and processes.
+
+The business logic behind technological solutions may start to drive health care
+3. When chatbots are developed by private healthcare companies, they usually follow the market logic, such as profit maximisation, or at the very least, this dimension is dominant. Through the rapid deployment of chatbots, the tech industry may gain a new kind of dominance in health care. AI technologies, especially ML, have increasingly been occupying other industries; thus, these technologies are arguably naturally adapted to the healthcare sector. In most cases, it seems that chatbots have had a positive effect in precisely the same tasks performed in other industries (e.g. customer service).
+
+The risks of incompleteness and the limitations of healthcare chatbots
+
+# Conclusion
+
+In this article, we employed a proactive approach to the potential chatbot breakthrough in health care in the context of the COVID-19 pandemic in order to discuss how the emergence of task-oriented chatbots can influence the nature of clinical practices and the expert-client relationship. One of the fundamental questions was the extent to which chatbots should extend the capabilities of clinicians or replace their capabilities with complex algorithmic systems. Based on the previous research on health chatbots, consultation chatbots have been found to play a beneficial role in supporting, motivating and coaching patients and streamlining organisational tasks. In particular, chatbots could become a surrogate for nonmedical caregivers. In our analysis, the following general points can be provided, although these elements are not yet grounded in evidence-based knowledge:
+
+- In general, chatbots are able to quickly provide patients with information about their health problems based on the symptoms reported on respective platforms. In addition, they can connect patients to HCPs.
+- One key aspect is that chatbots are regarded as devoid of human features (in the usual sense). This enables people to see them as more trustworthy and non-judgmental. Thus, people seem to be more willing to share medical information with them—e.g. people use chatbots to diagnose more intimate conditions, such as STDs.
+- Chatbots are more efficient in the sense that they can function 24 h per day and do not tire or fall ill.
+- It seems that trust in chatbots—when they function as they should—has positive effects on trust in HCPs. Thus, the information that chatbots provide represents very...

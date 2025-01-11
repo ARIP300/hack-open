@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSION:
+
+In this case, we report an unusual presentation of severe Takotsubo cardiomyopathy as Ventricular Fibrillation cardiac arrest with an ultra-short recovery time of 24 hours. Know a fact like this, can be reassuring for the patient`s family that as Takotsubo cardiomyopathy can develop very quickly, it can resolves and heals quickly too with supportive management, even in few hours. Like in our patient, who had full recovery of the ventricular function in less than 24 hours, confirmed by follow up an echocardiogram findings.
+
+# TAP IT OUT: A CASE OF SPONTANEOUS BACTERIAL PERITONITIS IN CARDIAC ASCITES
+
+Karen Jong. Emory University, Atlanta, GA. (Control ID #3184636)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose cardiac ascites and distinguish from other types of ascites.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize which patients with cardiac ascites are at higher risk for spontaneous bacterial peritonitis.
+
+# CASE:
+
+33 year old female with history of cor pulmonale, HIV, Clostridium difficile infection, and ESRD presented with fever, abdominal pain, and distention for five days. She was compliant with antiretroviral therapy for HIV and three times weekly hemodialysis. Exam revealed abdominal distention and diffuse tenderness. CT abdomen demonstrated moderate abdominopelvic ascites but a normal appearing liver. Liver ultrasound was unremarkable. Diagnostic paracentesis revealed ascitic fluid with 10,350 white blood cells with 87% neutrophils, SAAG of 1.4 g/dL and total protein of 4.3g/dL. She was diagnosed with ascites due to right-sided heart failure complicated by spontaneous bacterial peritonitis.
+
+# IMPACT/DISCUSSION:
+
+Congestive hepatopathy is a complication of heart failure, occurring in 15-65% of patients with significant heart failure. Any condition causing right-sided heart failure will increase central venous hypertension and lead to portal hypertension. Tricuspid regurgitation in particular can lead to severe congestion because right ventricular pressures are transmitted directly into the hepatic veins. Cardiac ascites only accounts for 3% of ascites as the majority of cases are due to cirrhosis (81%) and malignancy (10%). Cardiac ascites is diagnosed by ascitic fluid with SAAG of 1.1 g/dL or greater with an ascitic fluid total protein level of 2.5g/dL or greater. This is in contrast to cirrhotic ascites, which has ascitic total protein level less than 2.5g/dL, and also nephrogenic ascites, which has a SAAG of <1.1 g/dL. Patients with cirrhosis have known predisposing factors to spontaneous bacterial peritonitis (SBP): extra-intestinal dissemination of microbes from gastrointestinal abnormalities and decreased endogenous antimicrobial activity of cirrhotic ascites fluid. SBP is less common in patients with cardiac ascites, as they do not share these predisposing factors. In this patient, history of C diff infection may have enabled bacterial gut translocation leading to SBP. This case is a reminder that ascites occurs in conditions other than cirrhosis, and should be evaluated with careful physical exam and/or bedside ultrasound when patients with heart failure come in with abdominal pain. While less common, spontaneous bacterial peritonitis can arise as a complication of cardiac ascites, and history of intra-abdominal infections should raise concern for SBP in cardiac ascites in the appropriate clinical scenario. There are several case reports in the literature, but more remains to be known about epidemiology, risk factors, and guidelines for diagnosis and treatment of SBP in cardiac ascites.
+
+# CONCLUSION:
+
+Ascites occurs in conditions other than cirrhosis and metastatic disease. Consider diagnostic paracentesis in patients with abdominal pain and cardiac ascites.
+
+# TB OR NOT TB: THAT IS THE QUESTION
+
+Amalia Aldredge; Robin Klein. 1 2 1Emory University, Atlanta, GA; 2Emory, Atlanta, GA. (Control ID #3185251)
+
+# LEARNING OBJECTIVE #1:
+
+Create a differential for a miliary pattern seen on chest imaging.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the diagnostic importance of tissue for in an immunocompromised patient with fever of unknown origin.
+
+# CASE:
+
+A 42-year-old Hispanic man presented with three months of fevers, night sweats, weight loss, headache, shortness of breath, productive cough, and abdominal pain. Past medical history was notable for recent diagnoses of AIDS and diabetes mellitus, for which he was taking Bactrim and metformin. He was originally from El Salvador, and had spent significant periods of time all over the United States, mostly in Texas, Colorado, and Georgia. On presentation, he was febrile, tachycardic, and hypotensive. Physical exam was notable for bibasilar crackles and a tender, hyperpigmented papule over the shin. CT Head and MRI Brain were unremarkable. CT Chest showed diffuse small nodules with apical predominance, lymphadenopathy, and bilateral pulmonary effusions. He underwent lumbar puncture, which revealed mild pleocytosis with lymphocyte predominance, but was otherwise normal. Given the miliary appearance on his chest imaging and his history, he was empirically started on rifabutin, isoniazid, pyrazinamide, ethambutol, and liposomal amphotericin B. AFB sputa, bronchoscopy, and blood cultures were negative. MTB-PCR of the sputum culture was negative. QuantiFERON gold and tuberculin skin test were negative. Histoplasma and Blastomyces antibodies were negative. Coccidioides antibody was positive and antigen was negative. Thoracentesis and transbronchial biopsy were attempted and unsuccessful. He remained febrile and ultimately underwent excisional axillary lymph node biopsy, which showed spherules. His fungal tissue culture was positive for Coccidioides spp. He completed two weeks of amphotericin induction therapy, and was then transitioned to suppressive fluconazole therapy with improvement in his symptoms. Two weeks after discharge, repeat imaging showed improvement of his lung lesions.
+
+# IMPACT/DISCUSSION:
+
+A miliary pattern on chest imaging is often associated with tuberculosis, although there is a broader differential for this radiographic finding. Miliary nodules represent lymphohematogenous dissemination of a disease process, and are significantly more common in immunocompromised individuals. Generally, the differential includes infection (tuberculosis, fungal, or varicella), metastases (often of the thyroid, kidney, breast, or sarcoma), sarcoidosis, or pneumoconiosis. As in this case, despite a clear source, an underlying diagnosis of the cause of fever of unknown origin is often delayed and may be improved with early consideration of biopsy for a tissue diagnosis.
+
+# CONCLUSION:
+
+- A miliary pattern on chest imaging can be seen in infection (including tuberculosis, fungal, or varicella), metastases, sarcoidosis, or pneumoconiosis - A tissue biopsy is often essential for diagnosis in an immunocompromised patient with fever of unknown origin.
+
+# TB OR NOT TB: USE OF ADA IN DIAGNOSING TUBERCULOUS VS. LYMPHOMATOUS EFFUSION
+
+Christian Frese; Priyanka Ballal; Michael Schwartz. Boston Medical Center, Boston, MA. (Control ID #3178689)
+
+# LEARNING OBJECTIVE #1:
+
+Review the differential diagnosis of a pleural effusion in a patient with newly-diagnosed HIV.
+
+# LEARNING OBJECTIVE #2:
+
+Identify the pitfalls of using ADA to distinguish between tuberculous and malignant effusions.

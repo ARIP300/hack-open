@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# EVALUATION
+
+Data from the surveys compared pre-elective to post-elective using chi-squared statistics. Results showed a significant increase in confidence (p<0.05) in learners' ability to deliver an effective whiteboard talk (p=0.018), and in their upcoming transition to a post-residency role (p=0.025). Two other areas approached significance (p<0.10): giving effective feedback to a learner (p=0.082), and teaching at the bedside (p=0.10). 95% of learners reported they would either recommend or strongly recommend the elective to a classmate.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+This curriculum provides a unique opportunity for residents to invest time in learning evidence-based strategies and build a foundation for becoming a medical educator. Our goal was to create an elective that would fit within the current scheduling structure of our residency but allow for an individualized approach to building specific skills. Both quantitative data and narrative responses show that we have developed an effective, flexible, and learner-centered course.
+
+# CRITICAL CARE CURRICULUM FOR INTERNAL MEDICINE INTERNS TRANSITIONING TO SUPERVISING RESIDENTS IN THE MEDICAL INTENSIVE CARE UNIT- A TARGETED NEEDS ASSESSMENT
+
+Dimple Shah; Karen Friedman; Gulrukh Zaidi. Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY. (Control ID #3184858)
+
+# NEEDS AND OBJECTIVES
+
+To conduct a medical education needs assessment of internal medicine (IM) residents and critical care faculty (CCF) to determine if there is a gap in critical care knowledge in residents transitioning from internship into second year residency.
+
+# SETTING AND PARTICIPANTS
+
+Categorical IM residents (PGY 1,2,3) and CCF at Northwell Health.
+
+# DESCRIPTION
+
+We surveyed the categorical IM residents and CCF to determine 1) the perceived level of preparedness of rising second year IM residents to take on the role of a supervising resident in the medical intensive care unit (MICU) 2) whether a critical care curriculum would be beneficial for rising second year IM residents, and 3) which subject areas in a critical care curriculum would be most valuable for residents. Surveys were conducted on a 5 point Likert Scale (strongly disagree, disagree, neither agree/disagree, agree or strongly agree) to determine preparedness and necessity of the curriculum, and a ranking system to determine the topics of greatest importance (1-8).
+
+# EVALUATION
+
+42 IM Residents (41.5%) and 16 CCF (59.2%) filled out the survey. For senior resident preparedness in MICU, 41% of IM residents and 70% of CCF felt the rising second year IM residents were not adequately prepared. 90% of IM residents and 100% of CCF agreed that a critical care curriculum would be beneficial prior to IM residents taking on the role of senior resident. Both IM residents and CCF ranked (on scale from 1-8, 8 being most important) shock and vasopressor management (average score IM: 6.83, CCF: 6.44) as the most important topic to cover, followed by acute respiratory failure (IM: 6.49; CCF 6.06), ventilator management (IM: 5.55, CCF: 4.06) and acid base disorders (IM: 5.3; CCF 4.5).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+The results of our study show both IM residents and CCF felt there is a gap in critical care education for residents transitioning from internship to taking on the role of a supervising senior resident. Key areas of focus for a critical care curriculum were identified via our survey study. Based on our needs assessment, we will develop a curriculum aimed to prepare rising second year residents to take on the role of a supervising resident. The pilot curriculum will provide high yield didactic and interactive videos on the topics of shock and vasopressor management, acid/base disorders and acute respiratory failure. IM residents will be tested on practical knowledge in the form of a pre and post multiple choice test and OSCE.
+
+# DESIGNING A MEDICAL-LEGAL COLLABORATION FOR MEDICINE RESIDENTS
+
+Jo Henderson-Frost1; Aisha James1; Nancy Lorenz2; Hannah Tanabe2; Julian Mitton1. 1Massachusetts General Hospital, Newton, MA; 2Greater Boston Legal Services, Boston, MA. (Control ID #3185764)
+
+# NEEDS AND OBJECTIVES
+
+Health concerns, from disability to mental illness, impact the legal considerations of clients, while social determinants of health, from housing insecurity to criminal records, impact health outcomes. Despite this interdependence, few partnerships exist between the medical and legal professions, and training opportunities in this space are rare. To address this need, we designed a participatory, community-based, medical-legal collaboration (MLC) for medicine residents.
+
+# SETTING AND PARTICIPANTS
+
+The Massachusetts General Hospital (MGH) Department of Medicine partnered with the Greater Boston Legal Services (GBLS) to create the MLC. Eight sessions took place over the 2017-2018 pilot year, and consisted of case presentations and discussion in an interdisciplinary seminar format. Residents participated in the MLC during a physician advocacy elective.
+
+# DESCRIPTION
+
+The sessions were led by two MGH faculty, one resident, and two GBLS attorneys. In preparation for the seminar, residents were asked to identify a patient with a legal question impacting their health. Consent was obtained and background information collected to prepare a de-identified case presentation. During the seminar, attorneys provided advice and counsel, and offered resources to help address legal concerns. In turn, the GBLS attorneys prepared questions from de-identified client medical charts, or asked general medical questions relevant to case arguments. The resident reviewed the charts and presented educational tutorials during the seminar to address these questions. In the final step, learned information was relayed back to the patient and care team, and client and legal team respectively.
+
+# EVALUATION
+
+After each MLC, the residents' experience was reviewed. Additionally, all participants were asked to complete an anonymous survey regarding the utility of the session and the main learning points. Results are currently under review.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+During the MLC, participants had the opportunity to probe to the depth of the issues facing their patients and clients and share relevant, case-based expertise. The information from the legal advice frequently resulted in actionable items that impacted a patient's care. Moreover, the information from the medical advice impacted legal cases and led to client success. We anticipate participants will value the educational component of the collaboration. We expect to identify challenges in relaying salient information from the MLC to patients.
+
+# DEVELOPING AN INTEGRATED CASE CONFERENCE IN A HOMELESS VETERANS CLINIC
+
+Michael Soh1; Brianna J. Cowan3; Kerri Schutz2. 1Greater Los Angeles VA, Los Angeles, CA; 2West Los Angeles VA MC, Los Angeles, CA; 3UCLA, Los Angeles, CA. (Control ID #3186191)
+
+# NEEDS AND OBJECTIVES
+
+Research has shown that because homeless Veterans generally access care in a haphazard fashion (Tsai et al., 2017), lack consistent follow-up, and typically do not have established access to a phone or mailing address, it is imperative that a space be created for team members to prepare for these issues and provide intervention, consultation, and

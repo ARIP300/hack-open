@@ -1,0 +1,37 @@
+# ABSTRACTS
+
+# THE OBESITY PARADOX AND ACUTE KIDNEY INJURY IN ORTHOPEDIC SURGERY PATIENTS
+
+Matthew Hennrikus2; William Hennrikus6; Erik B. Lehman3; Michael Skolka4; Katelyn McCann5; Eileen Hennrikus1. 1Penn State College of Medicine, Hershey, PA; 2 Tulane University Medical School, New Orleans, LA; 3Pennsylvania State University, Hershey, PA; 4Penn State Health, Hershey, PA; 5University of Massachusetts Medical School, Worcester, MA; 6Walter Reed National Military Medical Center, Bethesda, MD. (Control ID #3163093)
+
+# BACKGROUND:
+
+The Obesity Paradox postulates that obesity, counter-intuitively, is protective against mortality in certain chronic conditions such as chronic kidney disease and congestive heart failure. This study examined the effects of obesity and acute kidney injury (AKI) on length of hospital stay and on two year mortality.
+
+# METHODS:
+
+We retrospectively reviewed the electronic medical records of all adult elective orthopedic surgery patients over two years in a large academic hospital. The 1783 patients who met inclusion criteria were divided into obese (body mass index, BMI > 30, n=1123) and non-obese groups (BMI < 30, n=660). Demographics, comorbidities, and perioperative variables were included in multivariate logistic regression analyses with AKI, LOS, and two year mortality as primary outcomes in all, obese and non-obese patients. Two-year mortality data was obtained from hospital electronic records and the social security death index.
+
+# RESULTS:
+
+AKI developed in 5% (n=90) of the post-surgical orthopedic patients. Obese patients had a 1.86 times higher odds (95% CI 1.07-3.22, p=0.028) of developing AKI than non-obese patients. AKI increased length of hospital stay in both obese (1.28±0.38 days, p=0.001) and non-obese patients (1.61±0.78 days, p=0.039). The adjusted odds of 2-year mortality were increased by AKI (OR 2.08, 95% CI 1.03-4.22, p=0.041) but decreased by obesity (OR 0.53, CI 0.33-0.85, p=0.009). Of patients who developed AKI, only the non-obese patients had statistically significant higher likelihood of 2-year mortality (OR 3.869, CI 1.26-11.84, p=0.018).
+
+# CONCLUSIONS:
+
+In adult elective orthopedic surgery patients, obese patients had an increased risk of AKI, and patients who developed an AKI had longer hospital stays. However, obesity was a protective factor for 2-year mortality for all post-surgical patients including patients who developed an AKI.
+
+# THE OPIOID EPIDEMIC AND THE HOMEBOUND OLDER ADULT: A SURVEY OF HOME-BASED PRIMARY CARE PROVIDERS
+
+Vassiliki Pravodelov. Boston University School of Medicine, Boston, MA. (Control ID #3184513)
+
+# BACKGROUND:
+
+The Centers of Disease Control and State Public Health Departments have guidelines to regulate controlled substances. Though interventions to adhere to these guidelines are available in the ambulatory setting, none exist in the home-based primary care setting. This study aims to examine the attitudes, knowledge and trends of geriatrics providers in regards to prescribing and monitoring controlled substances in home care.
+
+# METHODS:
+
+The study took place at a large urban safety-net hospital. The study team administered an anonymous 57-item survey. The subjects were 17 geriatrics providers, including registered nurses, nurse practitioners, and physicians, who practice in the home care setting.
+
+# RESULTS:
+
+The survey response rate was 100%. Approximately 60% of responders noted that >30% of their patients have chronic nonmalignant pain (CNMP). Almost all providers believed that diversion (82%) and misuse (100%) of prescription opioid pain medication in the community served by the practice is a moderate/serious problem. 82% reported that they were aware of the state regulations regarding controlled substances.

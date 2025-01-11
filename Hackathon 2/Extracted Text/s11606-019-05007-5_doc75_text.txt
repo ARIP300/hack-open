@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CONTEXTUAL AMBIGUITIES IN THE INTERPRETATION OF CODE STATUS ORDERS: AN ACTIONABLE TARGET FOR IMPROVING HOSPITAL CODE STATUS POLICIES
+
+Jason N. Batten 1; Jacob A. Blythe 1; Sarah Wieten 1; Stephanie M. Harman 1; Miriam P. Cotler 5; Joshua B. Kayser 3; Karin Porter-Williamson 4; Elizabeth Dzeng 2; David Magnus 1. 1Stanford University, Stanford, CA; 2University of California, San Francisco, San Francisco, CA; 3University of Pennsylvania, Philadelphia, PA; 4University of Kansas, Kansas City, KS; 5California State University, Northridge, Northridge, CA. (Control ID #3186011)
+
+# BACKGROUND:
+
+Code status orders (e.g., Do-Not-Resuscitate) are designed to succinctly and accurately convey patient preferences for cardiopulmonary resuscitation and other life-sustaining treatments (LSTs). Hospitals have adopted differing code status policies that vary in the number of code status options provided, their definitions, and the institutional ordering process (e.g., design of forms and menus). We sought to explore the ramifications of these differences in policy design for communication among medical team members.
+
+# METHODS:
+
+We designed a multi-institutional mixed methods study, selecting seven institutions to achieve variation in geographic location (western, midwestern, and eastern United States), type of institution (community, government, academic), and code status policy (i.e., what code status options are available and how they are defined). At each institution, we reviewed code status policies and menus in the electronic health record and conducted 60-90 minute semistructured interviews with physicians. We purposively sampled physicians based on specialty (internal medicine, palliative care, and critical care) and training level (attending physicians and trainees), for a total of 30 interviews. Using techniques from grounded theory, we analyzed transcripts to explore challenges in interpreting the intended meaning of code status orders.
+
+# RESULTS:
+
+Whether or not a physician who interprets a code status order arrives at its intended meaning (i.e., the meaning of the physician who authored the order) depends on many contextual factors outside of the order itself. We inductively identified six such contextual factors, which often remain implicit and may not be known by the interpreting physician: (1) the author's judgment of the patient's overall condition, (2) the author's intention in not addressing a potentially relevant LST, (3) the location of the patient in the hospital, (4) the clinical indication(s) for which the author intended the order to apply, (5) the purpose of the institutional code status policy, and (6) the author's identity and training level. Institutional policies and ordering practices vary in whether these contextual factors are explicitly addressed, thus aiding or hindering physicians in correctly interpreting the intended meaning of a code status order.
+
+# CONCLUSIONS:
+
+Failure to arrive at the intended meaning of a code status order is a threat to patient autonomy and a likely source of harm to patients. The contextual ambiguities that underlie these failures may be amenable to intervention through the careful design of hospital code status policies and ordering practices.
+
+# CONTRACEPTION ACCESS THROUGH DIRECT TO CONSUMER TELEMEDICINE
+
+Radhika Rastogi; Michael B. Rothberg 1; Laura D. Lipold; Mark N. Rood 2; Kathryn A. Martinez 1. 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic Foundation, Chagrin Falls, OH; 3Cleveland Clinic, Beachwood, OH; 4Cleveland Clinic Lerner College of Medicine, Cleveland, OH. (Control ID #3184250)
+
+# BACKGROUND:
+
+Direct to consumer (DTC) telemedicine connects patients with physicians via mobile applications, generally serving as a substitute for urgent care. Access to care is an often-reported barrier to obtaining hormonal contraception. Because visits are virtual and insurance is not required, use of DTC telemedicine could expand access to contraceptives. The objective of this study was to characterize requests for and provision of contraceptives in a large nationwide DTC telemedicine service.
+
+# METHODS:
+
+Data come from the AmericanWell DTC telemedicine platform and includes encounters conducted between July 2016 and July 2018. Patients accessing the telemedicine system provided gender, age and insurance information, if applicable (out-of-pocket visits cost $59). Via free-text field, patients stated their reason for accessing care. Two independent reviewers categorized patient-reported call reason based on keywords (e.g. "birth control," "refill," etc.), and also recorded if the patient cited problems with access to care for contraception. Prescriptions were determined via National Drug Codes associated with encounters, defined as drugs designated as contraceptives by the Food and Drug Administration. Promotional coupons for free or reduced cost visits on the platform are sometimes available. Whether a patient used a coupon for the visit was assessed. We described patients requesting and/or receiving contraception on the telemedicine platform in terms of patient-reported reason for accessing care, insurance information, and coupon use.
+
+# RESULTS:
+
+Of 159,033 telemedicine encounters with female patients during the study period, 652 reported their call reason was related to contraception and 718 received contraception. The mean age was 29 years (Standard Deviation=7.2). Of those with a contraception-related call reason, 78% received contraception. Based on the patient-reported call reason, 56% stated they were seeking a new birth control prescription and 33% were requesting refills. Six percent of patients reported problems with access to contraception, including insurance changes or difficulty seeing a provider. Patients requesting refills were more likely to receive contraceptives compared to those requesting new prescriptions (90% versus 79%, p<0.001). Of the 5% requesting emergency contraception, 89% received it. Patients requesting or receiving contraception were less likely to report insurance information than other telemedicine users (78% versus 85%, p<0.001) and were more likely to use a coupon for free or reduced-cost care (15% versus 8%, p<0.001).
+
+# CONCLUSIONS:
+
+Requests for contraception are relatively rare in DTC telemedicine, yet, of those seeking contraception, most received it. Greater use of coupons and lower insurance reporting suggests DTC telemedicine may be addressing access issues for some patients. While appropriateness is unknown, DTC telemedicine is likely a reasonable alternative to outpatient care for most women seeking either new contraceptive prescriptions or refills.
+
+# CONTRASTING OPINIONS BETWEEN PRIMARY CARE PROVIDERS AND HOSPITALISTS ON COMMUNICATIONS NEEDED AT HOSPITAL DISCHARGE
+
+Patrick Ryan 1, 2; Chi Zheng 3, 2; Anna Furniss 4; John Rice 4; Amy G. Huebschmann 2, 4; Elizabeth A. Bayliss 5, 4. 1Denver Health and Hospital Authority, Denver, CO; 2University of Colorado School of Medicine, Aurora, CO; 3Denver Health, Denver, CO; 4Adult and Child Consortium for Outcomes Research and Delivery Science, Aurora, CO; 5Kaiser Permanente and University of Colorado, Denver, CO. (Control ID #3184748)
+
+# BACKGROUND:
+
+Clinical care has become less integrated since the advent of the hospitalist movement in the late 1990s, and is particularly prone to errors during transitions of care. With increased use of electronic health records (EHRs), there are now more options for primary care providers (PCPs) and hospitalists to communicate. The goal of this study was to assess PCP and hospitalist behaviors and attitudes regarding communication with one another at time of discharge.
+
+# METHODS:
+
+We performed a cross-sectional, web-based survey in June 2018 of PCPs and hospitalists, employed at two tertiary care health systems with shared EHRs between inpatient and outpatient settings. The survey contained 30 items addressing provider behaviors and attitudes towards communication methods and preferences, interprofessional care, transition of responsibility, and the value of collaboration between PCPs and hospitalists.

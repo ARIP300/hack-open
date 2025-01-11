@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Isolated Pulmonic Valve Infective Endocarditis: A Case Report
+
+Heart murmur was auscultated, and transthoracic echocardiogram (TTE) showed a 3.8 x 0.5 cm pulmonic valve (PV) vegetation. Confirmatory transesophageal echocardiogram revealed a 4.0 x 1.0 cm mobile mass in the RV outflow tract attached to the base of the right cusp of the PV. Treatment with ampicillin and ceftriaxone was initiated. Moderate to severe pulmonary regurgitation and cusp prolapse into the RV outflow tract were seen on cardiac MRI. Cardiothoracic surgery (CTS) was consulted. However, given the patient's stable cardiac function, absence of heart block on EKG, and multiple medical comorbidities, CTS deferred surgical intervention. Despite ongoing treatment with IV antibiotics, the patient had recurrent febrile episodes with hemodynamic instability, and concern for septic embolization was raised. He was transferred to the affiliate hospital for a second opinion by CTS, who again deferred surgical intervention. Surveillance TTE showed decrease in size of the known mass to 2.7 x 0.6 cm, a second 1.8 x 0.3 cm mass, and severe PV regurgitation with moderate RV enlargement but normal RV systolic function. Repeat TTE two weeks later showed slight enlargement of masses. CTS again evaluated the patient, and continued to recommend medical management, given high risk and uncertain benefit of surgical intervention. He was ultimately discharged home with planned serial TTE re-evaluation.
+
+# IMPACT/DISCUSSION:
+
+Initial treatment of isolated pulmonic valve endocarditis is usually medical. Our patient's high-risk features such as vegetation size >20 mm, recurrent pulmonary emboli, severe pulmonary regurgitation and development of new, additional vegetations while on broad-spectrum antibiotics made a compelling case for surgical intervention. However, CTS did not feel that benefit of surgical intervention outweighed risk, and our patient was therefore managed medically.
+
+# CONCLUSION:
+
+Isolated PV infective endocarditis (IE) is a very rare finding. The rarity of PV IE has been attributed to the lower pressures of the right heart, lower incidence of congenital/acquired valve abnormalities, lower oxygen content of venous blood, and differences in the endothelial lining and vascularization of the valve. There are clearly defined criteria for surgery in left-sided IE. However, guidelines for surgery in right-sided IE are much less clear. Conservative medical management is often recommended, as right-sided heart valve infections are thought to be more responsive to antibiotics and better tolerated than mitral or aortic valve infections. However, further research is needed to elucidate guidelines for surgical management of PV endocarditis.
+
+# TO PLEX OR NOT TO PLEX: A CASE OF PULMONARY-LIMITED ANTI-GLOMERULAR BASEMENT MEMBRANE (GBM) DISEASE
+
+Jeffrey Lee; Justin A. Edward; Emily Waner. University of Colorado, Aurora, CO. (Control ID #3162616)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that although extremely rare, pulmonary-limited anti-GBM disease can occur in isolation.
+
+# LEARNING OBJECTIVE #2:
+
+Identify expert recommended treatment for pulmonary-limited anti-GBM disease.
+
+# CASE:
+
+A 58-year-old male with a 35-pack-year smoking history and occupational hydrocarbon exposure presented with a 3-day history of submassive hemoptysis and new onset dyspnea. Physical exam was notable for tachycardia, hypoxemia to 72% on room air, and end-expiratory wheezing bilaterally. Workup was significant for a white blood cell count of 12.1 x 109/L, negative procalcitonin, normal urinalysis, normal creatinine, and chest x-ray with bilateral hazy opacities. CT angiography was negative for pulmonary embolus and demonstrated extensive bilateral patchy ground-glass opacities. Bronchoalveolar lavage diagnosed diffuse alveolar hemorrhage (DAH) with increasingly hemorrhagic effluent seen on sequential sampling. Bacterial, viral, and fungal cultures were all negative and empiric antibiotics were stopped. Serologic testing resulted in mildly positive anti-GBM antibodies 28 EU/mL (normal <20 EU/mL) with other autoimmune serologies resulting as negative. The patient improved after a 3-day course of pulse-dose steroids and was started on plasmapheresis (PLEX) for 2 weeks. He was additionally started on induction therapy with oral cyclophosphamide and a prolonged prednisone taper with close pulmonology and rheumatology follow-up.
+
+# IMPACT/DISCUSSION:
+
+Pulmonary-limited anti-GBM disease is extremely rare and only known via case reports. In reported cases, there is a high prevalence of active smoking and exposure to inhaled agents. The proposed mechanism of pathogenesis is that inhaled agents damage the non-fenestrated pulmonary capillary endothelium allowing anti-GBM antibodies to reach the alveolar basement membrane. Patients who present with DAH without clinical renal involvement should be screened for anti-GBM disease and treatment should be initiated as soon as possible. Early recognition and treatment of pulmonary-limited anti-GBM disease with immunosuppression and PLEX can prevent progression to renal involvement. Due to the limited cases of pulmonary-limited anti-GBM disease, treatment is based on extrapolation of existing recommendations for pulmonary-renal anti-GBM disease. Historically, there has been an association between anti-GBM antibody titer and disease severity. PLEX is used to expedite the clearance of anti-GBM antibodies, and has been shown to control pulmonary hemorrhage, the leading cause of early death in anti-GBM disease. The combination of PLEX and immunosuppression has improved outcomes as compared to immunosuppression alone. PLEX is a relatively safe procedure with a low risk of serious complications.
+
+# CONCLUSION:
+
+Due its efficacy and safety, PLEX is recommended in patients with pulmonary-limited anti-GBM disease to rapidly control pulmonary hemorrhage and preserve renal function.
+
+# TO SNF OR NOT TO SNF? CHALLENGES IN DISCHARGE PLANNING FOR PATIENTS WITH A HISTORY OF IVDU REQUIRING LONG COURSES OF ANTIBIOTICS
+
+Angela O. Suen1; Tanya Nikiforova2. 1UPMC, Pittsburgh, PA; 2University Of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3175932)
+
+# LEARNING OBJECTIVE #1:
+
+Identify current evidence to support conservative versus liberal antibiotic management for patients with IVDU history.
+
+# LEARNING OBJECTIVE #2:
+
+Name risk factors that can predict failure of IV antibiotic therapy in the home setting.
+
+# CASE:
+
+A 30-year-old woman with a remote history of intravenous drug use (IVDU) presented to the hospital with progressive lower back pain. On admission, she was afebrile and hemodynamically stable. Lab work showed no leukocytosis, CRP 2.0, and ESR 89. Blood cultures grew no bacteria. A basic urine drug screen showed no illicit drugs. Spinal MRI showed T10-11 osteomyelitis. Bone biopsy was negative for bacterial growth. Infectious diseases consultants recommended 6 weeks of IV ampicillin-sulbactam. Given her IVDU history, doctors felt the patient would be at high risk for antibiotic failure and line tampering. Discharge to a skilled nursing facility (SNF) was planned but patient refused, citing barriers around child-care and financial difficulties. Patient decided to leave AMA and take oral antibiotics. She was given a prescription at discharge for oral moxifloxacin 400mg to complete a 6-week course. She was lost to follow-up.
+
+# IMPACT/DISCUSSION:
+
+Given concerns for line tampering, recurring drug use, and antibiotic nonadherence, physicians are often wary of discharging patients with a history of substance use to home to complete IV antibiotics. However, there is no conclusive evidence to support this practice. Current

@@ -1,0 +1,62 @@
+# EXPLORING PRIMARY CARE TRAINING CHARACTERISTICS OF UNITED STATES PRIMARY CARE INTERNAL MEDICINE TRAINING PROGRAMS
+
+Samantha Alonso. Emory, Atlanta, GA. (Control ID #3185247)
+
+# NEEDS AND OBJECTIVES:
+
+There is a need for primary care physicians in the United States coupled with deficiencies in ambulatory training for resident physicians. To address this, specialized Primary Care Internal Medicine (PC IM) resident training programs or tracts provide focused training in primary care and ambulatory medicine. We surveyed leaders of specialized PC IM programs with the aim of collectively assessing how PC IM programs provide training and education in primary care.
+
+# SETTING AND PARTICIPANTS:
+
+We conducted a cross sectional survey of leaders of U.S. Primary Care Internal Medicine training programs or tracks identified via search of National Resident Matching Program (NRMP), the Fellowship and Residency Electronic Interactive Database (FREIDA), and program websites.
+
+# DESCRIPTION:
+
+Please see above in Setting and Participants
+
+# EVALUATION:
+
+Forty-five of the 70 programs identified as PC IM training programs or tracks completed the survey (64% response rate). On average, PC IM programs report PC residents engage in 22.8 weeks of training in the ambulatory setting per year and 69.4 continuity clinic sessions per year. Majority report PC residents engage in more weeks of ambulatory training and continuity clinic sessions than their categorical IM peers, specifically PC residents engage in an additional 10.1 weeks of ambulatory training per year and 20.8 additional continuity clinic sessions per year than their categorical IM peers. Majority, 77%, offered multiple continuity clinic sites which included university clinics, community non-profit clinics, public hospital based clinics, Veterans Administration-based clinics, private practice clinics, and Health Department or other government clinics. Number of patient visits per continuity clinic session varied by resident level of training (PGY1 3.5 visits; PGY2 4.9 visits; PGY3 5.7 visits). Standard ambulatory clinical rotations varied across programs with majority offering rotations in geriatrics, dermatology, orthopedics, and HIV medicine.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+PC IM training programs aim to address the nation's shortage of primary care physicians by providing focused training in Primary Care. Our survey demonstrates that PC IM programs offer more ambulatory training time and continuity clinic exposure than traditional categorical IM training programs. Given their mission, more training in this setting is expected however raises the question of what level of ambulatory training should be considered standard for PC IM programs beyond what is required for ambulatory training per the Accreditation Counseling for Graduate Medical Education. PC IM programs should lean into their role as standard bearers in Primary Care training including setting expectations for PC IM training programs in terms of primary care training and education.
+
+# FAMILY FEUD MEETS SCRIPT CONCORDANCE: USING GAMIFICATION TO TEACH CLINICAL REASONING TO PRECLERKSHIP MEDICAL STUDENTS
+
+Thilan P. Wijesekera. Yale School of Medicine, New Haven, CT. (Control ID #3185772)
+
+# NEEDS AND OBJECTIVES:
+
+Prioritizing a differential diagnosis- a key step in clinical reasoning- is a challenging skill to develop, ranking last in self-reported comfort in a survey of Yale School of Medicine (YSM) rising clerkship students. As part of the YSM Clinical Reasoning Course, this educational innovation was created to:
+
+- Prepare 2nd-year medical students to prioritize a differential diagnosis for high-yield chief concerns during clerkships
+- Develop an engaging and versatile teaching modality grounded in clinical reasoning pedagogy
+
+# SETTING AND PARTICIPANTS:
+
+-Setting: As part of a larger student orientation prior to beginning clerkships, workshops took place for 70 minutes in a small conference room with a laptop connected to a large monitor to display educational content.
+
+-Participants: There were a total of 120 students and 10 faculty. Each pair of faculty (one attending and one 4th-year student) facilitated three back-to-back sessions with eight sets of 2nd-year students (two teams of four).
+
+# DESCRIPTION:
+
+-Preparation: Clerkship directors provided a list of the 10 most high-yield chief concerns for their respective rotations, which were given to students two weeks in advance. Case scenarios were created for six chief concerns (e.g., syncope, abdominal pain). These were provided to the faculty, whose answers were collected and weighted by frequency to create a consensus differential diagnosis, similar to a script concordance test. Points were assigned based on how often that diagnosis was selected. These values were uploaded into a PowerPoint formatted with the sound and visual effects of the game show "Family Feud".
+
+-During: For each round, both teams read each clinical scenario, took turns sharing their differential, explained their reasoning, and received points based on how high the diagnosis was on the faculty differential. Faculty ended each round with a 5-minute discussion demonstrating their own clinical reasoning on the case. The team wins who has the most points at the end of the six rounds.
+
+# EVALUATION:
+
+On a scale of 1-5 (i.e., poor, fair, good, very good, and excellent), students rated the workshop a 4.68, significantly higher than any of the eight clinical reasoning workshops over the past four years (range 3.27-4.25). One particularly representative student comment was: "Family Feud was INCREDIBLE! I wish we used this more during the preclinical curriculum… Creating comprehensive differentials is something I think we are all struggling with, and both the format and the clinical guidance from the student and attending present were so helpful and engaging. It was a really fun environment to make mistakes and learn."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Prioritizing a differential diagnosis is challenging, a sentiment shared before and after the session from our students. Our "Family Feud" game showed significant promise as an educational tool for teaching it by employing gamification to engage and motivate students while giving them the opportunity to learn through targeted pre-reading, discussion with colleagues, and faculty role modeling.
+
+# FEEDBACK ON A TRANSITION TO ATTENDING ELECTIVE: A NOVEL HEALTH SYSTEMS SCIENCE CURRICULUM EMPOWERING GRADUATING INTERNAL MEDICINE RESIDENTS FOR INDEPENDENT PRACTICE
+
+Andrew Orr1; Kendal Williams; Nadia L. Bennett2; Kamini Hogan1;1 Deepa R. Nandiwada2. 1Perelman University School of Medicine, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA. (Control ID #3167780)
+
+# NEEDS AND OBJECTIVES:
+
+The transition from residency to independent practice as a hospitalist is a challenging time in one's career. Residency prepares learners with much of the necessary clinical knowledge; however, exposure to autonomous decision-making, leadership training for interprofessional teams, and practical elements of attending daily work flow remain limited. Despite the increasing popularity of hospitalist medicine, only half of large academic Internal Medicine residency programs currently offer

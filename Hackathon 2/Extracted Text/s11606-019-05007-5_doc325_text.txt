@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+Abdominal pain, regurgitation of solids and liquids, and associated weight loss of 40lbs. Evaluation at an outside facility one month prior with an esophagogastroduodenoscopy (EGD) showed grade B esophagitis with hypertrophied gastric folds. Biopsies were negative for cancer. On current evaluation, her vital signs and basic laboratory data were normal, but she had some mild epigastric tenderness. Esophagram showed marked gastric slowing. CT scan of the abdomen revealed a diffuse gastric wall thickening. A repeat EGD showed worsening edematous, friable gastric folds without an obvious mass, concerning for gastric outlet obstruction. Biopsy confirmed this to be a poorly differentiated gastric adenocarcinoma. Staging laparoscopy with biopsies confirmed peritoneal metastatic disease. Her baseline performance was poor due to ataxia. Palliative chemotherapy was cautiously started on single agent 5-fluorouracil without severe side-effects and was escalated by adding a platinum agent, oxaliplatin as part of the modified FOLFOX regimen. She has been on this chemotherapy for the last 9 months (19 cycles) tolerating it well and has maintained stable disease on imaging.
+
+# IMPACT/DISCUSSION:
+
+A-T is an autosomal recessive chromosomal instability disorder characterized by cerebellar ataxia, conjunctival telangiectasias, oculomotor apraxia, choreoathetosis, immunodeficiency, and increased risk of malignancy. The defect in DNA damage repair due to mutations in the ATM (ataxia-telangiectasia mutated) gene leads to early onset of non-Hodgkin lymphoma and acute lymphoid leukemia. As patients with AT are living longer, there is an increasing, though under-recognized incidence of solid tumors including gastric cancer. In one literature review only 7 known cases of gastric cancer in patients with AT have been reported. Our patient had a diffuse gastric cancer which had metastasized to the peritoneum. Her diagnosis was delayed a few months due to her diffuse gastric involvement and she was metastatic at presentation. A heightened awareness of non-hematologic malignancies in patients with chromosomal instabilities can lead to diagnosis at an earlier, curable stage of cancer. Due to their inherent susceptibility to DNA breaks, these patients remain very sensitive to radiation and chemotherapy with toxic side-effects. Our patient has been cautiously escalated to a dual chemotherapy regimen and is tolerating treatment almost 10 months out from diagnosis.
+
+# CONCLUSION:
+
+A heightened awareness of non-hematologic malignancies in patients with chromosomal instabilities can lead to diagnosis at an earlier, curable stage of cancer.
+
+# A CASE OF CUSHING'S DISEASE SUSPECTED FROM THE EXACERBATION OF GLUCOSE INTOLERANCE AND DIAGNOSED BY SURGERY.
+
+Toyohiro Miyata1; AOI YOGO1; Masaki Maeda2; Keisuke Kadooka2; Masahiro Masuzawa 2. 1Kameda Medical Center, Kamogawa, Japan; 2Kameda Medical Center, Chiba, Japan. (Control ID #3186227)
+
+# LEARNING OBJECTIVE #1:
+
+Suspect Cushing's disease (CD) in patients with diabetes mellitus (DM) if glucose intolerance rapidly exacerbates.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize cases of CD on the basis of normal magnetic resonance imaging (MRI) findings.
+
+# CASE:
+
+A 50-year-old female with hypertension, hyperlipidemia, and type 2 DM was referred from a neighborhood clinic because of worsening HbA1c and blood pressure control. Four months before the current admission, she presented with bilateral leg edema, polydipsia, polyuria, and psychiatric symptoms, such as irritability and anxiety. Her HbA1c level increased from 6.5% to 10.4% and average blood pressure from 130/80 to 200/100 mmHg. She had no history of alcohol abuse or depression. Other signs and symptoms were suggestive of hypercortisolism, including moon face, buffalo hump, central obesity, wide purplish striae, bruising, and virilizing features. Laboratory examinations revealed elevated 24-h urine cortisol, and incomplete suppression of serum cortisol levels with low-dose (1mg) dexamethasone suppression test. Additionally, the level of plasma adrenocorticotropic hormone was markedly elevated, suggesting CD. Further endocrine tests such as the high-dose dexamethasone suppression test, corticotropin-releasing hormone stimulation test, desmopressin test indicated pituitary lesion. On the other hand, 3-Tesla MRI with gadolinium enhancement indicated no evidence of a pituitary tumor. Finally, we performed bilateral inferior petrosal sinus sampling (BIPSS), which indicated pituitary lesion. Based on the result of BIPSS, endoscopic transsphenoidal surgery was performed despite no evidence of a pituitary tumor following 6 months of metyrapone and glucocorticoid replacement therapy. Microadenoma was found across both sides of the lower portion of the pituitary. Finally, symptoms such as glucose intolerance and bilateral leg edema were improved.
+
+# IMPACT/DISCUSSION:
+
+General practitioners may miss CD among patients with DM if they do not recognize the signs of hypercortisolism. Moreover, there is no single best approach for diagnosing CD, and MRI with gadolinium contrast enhancement identifies pituitary tumors in less than half of all patients with CD. For patients with suspected CD but no detectable pituitary lesions on MRI, BIPSS is recommended for confirmation. Surgical excision is required for definitive diagnosis as well as first-line treatment.
+
+# CONCLUSION:
+
+CD should be suspected in patients with sudden exacerbation of glucose intolerance, even if MRI findings are unremarkable.
+
+# A CASE OF ERYTHEMA NODOSUM - HOW TO RESIST THE MILLION-DOLLAR WORKUP
+
+Max Ruge; Jordan Scharping; Michelle Sweet. Rush University Medical Center, Chicago, IL. (Control ID #3184922)
+
+# LEARNING OBJECTIVE #1:
+
+Discuss the various etiologies of erythema nodosum.
+
+# LEARNING OBJECTIVE #2:
+
+Describe a high value workup for erythema nodosum.
+
+# CASE:
+
+A 53-year-old female with a history of mild pancytopenia presented to the ED with fatigue, chills, decreased appetite, myalgias, non-productive cough, and a frontal headache that began 3 days prior. Shortly after symptom onset, she noticed multiple 2-5 cm, erythematous, tender and raised nodules on her lower extremities and one on her left upper arm. In the ED, she was febrile (101.9), and her labs were significant for a CRP/ESR of 130/75, white blood count of 10.7, hemoglobin of 9.4, and platelets of 87. Lumbar puncture demonstrated 13 WBCs (predominantly lymphocytes) with 82 RBCs. On the general medical floor, biopsy confirmed the nodules to be erythema nodosum. Chest CT, ANCA levels, autoimmune panel, complement levels, TSH, respiratory pathogen panel, serum protein electrophoresis, and urine protein electrophoresis had no significant abnormalities. Outpatient workup for pancytopenia had been unrevealing, so bone marrow biopsy was done that showed hypercellular marrow without evidence of malignancy. While her systemic symptoms improved, the nodules remained present and tender. She was discharged 5 days after admission with the diagnosis of idiopathic erythema nodosum.
+
+# IMPACT/DISCUSSION:
+
+Erythema nodosum (EN) typically appears as raised tender nodules in the pretibial area. Most commonly, these lesions are idiopathic (55%). However, EN can also be secondary to other diseases such as streptococcal pharyngitis (28-48%), sarcoidosis (11-25%), and drugs such as antibiotics or oral contraceptives (3-10%). Other rarer causes include pregnancy, enteropathies, malignancy, and other infections. Obtaining a complete history is critical and should include recent illnesses, associated symptoms (particularly systemic symptoms, sore throat, or cough), and medication use. A thorough physical exam to evaluate for tonsillopharyngitis, abnormal breath sounds, or ocular abnormalities can help identify the underlying condition and direct testing. Excisional biopsy can confirm the diagnosis. Initial labs and imaging should include a CBC with differential, ESR, CRP, ASO antibodies, throat culture, and chest x-ray. Further labs should be obtained only if the patient's history significantly increases suspicion for a rarer cause. For example, while malignancy is a rare cause of EN, this patient's history of cytopenia warranted a bone marrow biopsy.

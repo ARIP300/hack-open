@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# IMPACT OF WORKPLACE WELLNESS ON HEALTH AND ECONOMIC OUTCOMES: A RANDOMIZED CONTROLLED TRIAL
+
+Zirui Song1, 2; Katherine Baicker3, 4. 1Harvard Medical School, Boston, MA; 2Massachusetts General Hospital, Boston, MA; 3University of Chicago, Chicago, IL; 4National Bureau of Economic Research, Cambridge, MA. (Control ID #3186066)
+
+# BACKGROUND:
+
+Employers are increasingly investing in workplace wellness programs to improve employee health and decrease health care costs. However, little experimental evidence on the effects of such programs exists, particularly workplace-wide interventions that affect culture or norms. We examined the effect of a multi-component workplace wellness program, similar to wellness programs offered by employers in the U.S., using a randomized controlled trial.
+
+# METHODS:
+
+This randomized controlled trial spanned January 2015 through June 2016. We used random assignment at the worksite level to assess the effects both of working at an intervention worksite (intention-to-treat) and of participating in the programming (local average treatment effect). The wellness program was implemented at 20 randomly-selected treatment worksites (4,037 employees) and 140 randomly-selected control worksites (28,936 employees) at a large multi-site warehouse retail company. The program comprised 8 modules focused on areas of wellness including nutrition, physical activity, and stress reduction, with program implementation carried out by Registered Dietitians. We examined 4 pre-specified domains of outcomes: (1) self-reported health and behaviors; (2) clinical measures of health; (3) health care spending and utilization; and (4) employment outcomes. We assessed the heterogeneity of program effects by age and sex. We also conducted secondary analyses, including using a pre-specified cohort of stably-employed workers, worksite-level analyses, and alterations in the statistical model. We assessed endogenous selection into program participation and into primary data collection.
+
+# RESULTS:
+
+There were 4,037 individuals at treatment worksites, 4,106 at primary control worksites (which received surveys and biometrics, but no wellness program), and 24,830 at secondary control worksites (business as usual). About 20% of the population was black and 18% Hispanic; 60% of workers were full-time. After 18 months, the wellness program led to a higher proportion of employees who reported engaging in regular exercise (8.3 percentage-points more, p=0.03) and actively managing their weight (13.6 percentage-points more, p=0.02). These outcomes were 10.6 percentage-points (p=0.02) and 17.2 percentage-points (p=0.02) higher, respectively, for program participants. The program had no significant effects on clinical markers of health; spending or utilization; or absenteeism, tenure, or job performance. We found no evidence of differential selection into survey participation or biometrics between treatment and control on all baseline covariates.
+
+# CONCLUSIONS:
+
+This randomized controlled trial of a workplace wellness program found significant effects on self-reported health behaviors, but no significant effects on other outcomes after 18 months. Amidst a shortage of causal evidence on workplace wellness programs, these results from a randomized trial may temper the expectations of such programs to improve health or save money in the short term.
+
+# IMPACTS OF IMPROVED CONTINUITY OF CARE IN RESIDENT PRIMARY CARE CLINICS ON PATIENT OUTCOMES: A SYSTEMATIC REVIEW
+
+Margaret Connolly1; Robert J. Fortuna1; Erin D. Snyder3; William G. Weppner2. 1University of Rochester, Rochester, NY; 2University of Washington, Boise, ID; 3University of Alabama at Birmingham, Birmingham, AL. (Control ID #3186321)
+
+# BACKGROUND:
+
+Continuity of care has been established as an essential component of non-teaching primary care practices, resulting in improved patient and provider satisfaction, chronic condition management, and adherence with screening recommendations. The influence of continuity in resident practices on quality outcomes remains unclear. The goal of this systematic review is to summarize existing data addressing the effect of continuity of care in resident primary care clinic settings on measurable patient health outcomes.
+
+# METHODS:
+
+A systematic search was performed through PubMed to identify articles published prior to August 1, 2018 addressing continuity of care in resident primary care clinic settings including internal medicine, pediatrics, internal medicine and pediatrics, obstetrics and gynecology, and family medicine. Abstracts were then evaluated by two independent reviewers and excluded if not meeting strict criteria including English language, original research, focus on a primary care residency program as recognized by the American Council for Graduate Medical Education, and providing a definition and quantitative value for continuity. Through this process, 39 articles were identified as meeting all inclusion criteria and underwent full text review.
+
+# RESULTS:
+
+This review revealed significant variation in methods, definition of continuity, and endpoints measured in the existing literature. Study participants included an average of 273 residents (range 1-5000), 15 academic attending preceptors (range 4-66), and 13,021 patients (range 40-149,346). Additionally there was significant variability in the duration of time evaluated in each study, ranging from 1 week to 17 years (average 2.3 years). The Usual Provider of Care Measure, defined as an individual patient's percentage of visits with a single provider, was the most frequently used definition of continuity of care. However, this was used in only 49% of included studies. Furthermore, studies measured a variety of outcomes including diabetes and hypertension control, rates of screening colonoscopy and mammography, and emergency department utilization, and patient satisfaction. Results of multiple studies suggest improvement in diabetes control, hypertension control, and adherence to screening recommendations with improved continuity of care. However, these results were inconsistent and varied significantly between studies with multiple studies showing no effect.
+
+# CONCLUSIONS:
+
+Review of the existing literature revealed that increased continuity of care in resident primary care clinics may improve patient-specific health outcomes, most clearly in diabetes. However, significant differences in study design and outcomes make generalizing results difficult. Additional research is needed to delineate continuity's relationship to chronic medical disease management and utilization in resident clinics.
+
+# IMPLEMENTATION OF AN EHR-BASED RISK-STRATIFIED PROSTATE CANCER SCREENING PROGRAM IN A PRIMARY CARE NETWORK.
+
+Anand Shah1; Robert C. Mills2; Devon Check1; Terry Hyslop2; Thomas Polascik2; Daniel George2; Steven Patierno2; Andrew J. Armstrong2; Michael Ferrandino1; Glenn M. Preminger1; Rajan T. Gupta1; Robert Lee1; Nadine J. Barrett4; John Ragsdale1; John Anderson3; Kevin Shah3; Kevin Oeffinger2. 1Duke University, Durham, NC; 2Duke Cancer Institute, Durham, NC; 3Duke University Health System, Durham, NC; 4Duke University, School of Medicine, Durham, NC. (Control ID #3159942)

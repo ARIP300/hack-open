@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# SCREENING
+
+We used multivariable models to compare screening outcomes among women screened with DBT versus 2D mammography, adjusting for age, hospital referral region, residence in a metropolitan area, year, and time since last mammogram. We also performed age-stratified analyses.
+
+# RESULTS:
+
+Our sample included 2,460,359 women who underwent mammography between 1/1/2015 and 12/31/2016 across all 50 states. Overall, 22% of screening exams used DBT. In adjusted analyses, DBT was not associated with a difference in recall rate compared to 2D mammography (121 vs 119 per 1000 screening exams, p=0.27). DBT was, however, associated with a higher biopsy rate (23 vs 18 per 1000 exams, p<0.001) and a higher cancer detection rate (4.1 vs 3.0 per 1000 exams, p=<0.001). Despite a higher cancer detection rate, DBT was not associated with a reduction in potential interval cancers compared to 2D mammography (1.3 vs 1.2 per 1000 exams, p=0.007). In age stratified analyses, results were similar across age groups.
+
+# CONCLUSIONS:
+
+Consistent with prior studies, we found that DBT is associated with a higher cancer detection rate compared to 2D mammography. In contrast to previous studies, though, we found that DBT did not reduce recall and was associated with a higher biopsy rate. Our findings have implications for the value of DBT, which may more effectively detect breast cancer, but is more expensive than 2D mammography and may generate additional invasive testing.
+
+# BUILDING A PARTNERSHIP TO IMPROVE HOSPITAL CARE AND CARE TRANSITIONS FOR PERSONS EXPERIENCING HOMELESSNESS
+
+Sarah A. Stella 1, 2; Lisa Thompson 3; Tammy Bellofatto 3; Sarah E. Leslie 1; Ellen Sarcone 1, 2; Erin Bredenberg 2; Lilia Cervantes 1, 2. 1 Denver Health, Denver, CO; 2 University of Colorado School of Medicine, Denver, CO; 3 Colorado Coalition for the Homeless, Denver, CO. (Control ID #3162606)
+
+# BACKGROUND:
+
+Research which includes the perspectives of persons experiencing homelessness is needed to inform the development of meaningful interventions to improve hospital care and care transitions for this group. Our objective was to establish a Community Advisory Panel (CAP) to better understand the perceptions of people experiencing homelessness and key community stakeholders with respect to hospitalization and care transitions, and to develop a shared vision regarding opportunities/priorities for improvement through future programs and research.
+
+# METHODS:
+
+To establish our CAP, we partnered with leaders at the Colorado Coalition for the Homeless, a non-profit organization that provides housing, integrated healthcare, and other supportive services to those experiencing homelessness. We developed mutual partnership goals and a framework for shared oversight. We jointly recruited CAP participants, seeking to include both individuals experiencing homelessness, and community stakeholders with relevant experience providing care to this group. Additional selection criteria were: age 18 years or older; English-speaking, and able to attend the majority of 6 panel meetings. Participants received a meal and small stipend for their participation at meetings. All meetings were jointly facilitated by lead academic and community partners. Plans were developed a priori with input from community partners, and refined through analysis of emerging themes and through shared decision-making with participants. With participants' consent, meetings were audio-recorded and transcribed verbatim to assist the synthetization of information, iterative refinement of concepts, and qualitative analysis. De-identified transcripts were coded in Atlas.ti utilizing codes derived a priori from theory and inductively through identifying emerging themes.
+
+# RESULTS:
+
+A total of 12 individuals were recruited for the CAP. They included: 6 individuals with lived experience of homelessness who had direct experience with hospitalization and care transitions; and 6 community stakeholders with relevant experience caring for homeless individuals while hospitalized or in the community. The CAP met 6 times from July 2018- January 2019. We identified 4 important themes: 1) trauma encountered through the everyday experience of homelessness and/or through healthcare interactions; 2) empathy and other aspects of the patient-physician relationship; 3) moral distress and burnout among healthcare providers and other personnel caring for persons experiencing homelessness; 4) and the availability, coordination, and integration of services after discharge to respite, shelters or other locations.
+
+# CONCLUSIONS:
+
+Engaging individuals with lived experience of homelessness and key community stakeholders in research results in a better understanding community needs and priorities with respect to hospital care and care transitions, and thus more meaningful translational research to address the significant, known health inequities faced by this community.
+
+# BUILDING AN AMBULATORY INFRASTRUCTURE TO REDUCE HOSPITALIZATIONS AMONG CHRONIC KIDNEY DISEASE PATIENTS: A SYSTEM-WIDE VALUE APPROACH TO HIGH COST POPULATIONS
+
+Reshma Gupta 2, 1; Samuel A. Skootsky 1; Katherine L. Kahn 2; Lucia Chen 2; Sitaram Vangala 2; James Wilson 2. 1 UCLA, Los Angeles, CA; 2 David Geffen School of Medicine at UCLA, Los Angeles, CA. (Control ID #3161044)
+
+# BACKGROUND:
+
+Chronic kidney disease (CKD) is a leading cause of spending nationally. With an imperative to provide accountable care across ambulatory and inpatient settings, there is a shift toward risk-sharing contracts that reward reductions in total spending achieved through coordinated, quality care. The alignment of primary and specialty care teams provides strategies to facilitate patients receiving timely, needed services in the most appropriate, cost-effective setting. As part of an enterprise-wide transformation to improve healthcare value, UCLA identified condition-specific, high cost patients and adapted a new patient-centered approach to improve quality and care coordination. Recognizing that advanced (stage 4 or 5) CKD patients experienced frequent emergent hospitalizations to initiate dialysis and treat catheter dysfunction, UCLA Health implemented a pathway for advanced CKD patients attributed to the UCLA primary care network. We evaluated the impact of this initiative on health system utilization.
+
+# METHODS:
+
+Between October and December 2016, an interdisciplinary, multispecialty team co-created and implemented care pathways for the advanced CKD patient population that involved: 1) clinically meaningful longitudinal data management, 2) proactive care management to align clinical and social service care across primary and multi-specialty settings, and 3) strategies to enhance access to lower-cost interventional radiology care sites. We used internal EHR and claims data across eight payers to define utilization outcomes (i.e. hospitalizations, inpatient bed days, 30-day all-cause readmissions, and emergency department (ED) visits). Using an 18-month pre-intervention period to control for baseline bias, we conducted descriptive and interrupted time series regression analyses, to evaluate the impact of the intervention on outcomes.
+
+# RESULTS:
+
+Of 1442 advanced CKD patients, the estimated rate of hospitalizations per 1000 patient-years was 712 at the beginning of the pre-intervention period (95% CI: 610-832), and declined at

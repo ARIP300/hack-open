@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# ATORVASTATIN-TRIGGERED AUTOIMMUNE HEPATITIS
+
+M. Usman Ghani1; Harish Guddati2; Hiliary Hertan2. 1Montefiore Medical Center, Wakefield Campus, Bronx, NY; 2Montefiore Medical Center, Wakefield Campus, Bronx, NY. (Control ID #3184053)
+
+# LEARNING OBJECTIVE #1:
+
+-Recognize statins as a rare cause of autoimmune hepatitis
+
+# LEARNING OBJECTIVE #2:
+
+-To differentiate autoimmune hepatitis from drug induced liver injury
+
+# CASE:
+
+A 65 year-old woman with primary hypercholesterolemia was admitted to the hospital for generalized weakness with new onset jaundice. She was prescribed atorvastatin 80mg daily 3 months prior to the onset of her symptoms. Labs revealed Alanine transaminase (ALT): 1786 U/L, Aspartate transaminase (AST): 2763 U/L, Alkaline phosphatase (ALP): 1008 U/L, and total bilirubin 10.4 mg/dl (direct 7.2 mg/dl). Hepatitis serology was negative. Abdominal ultrasound and magnetic resonance cholangiopancreatography was negative for choledocholithiasis. Autoimmune workup was pursued at that time. Serum anti-nuclear antibody was negative; however smooth muscle antibody titers were positive at 1:80 dilutions. Immunoglobulin panel revealed increased serum IgG (3.5g). Liver biopsy was done due to persistently elevated liver enzymes, which revealed plasma cells mixed with eosinophils, neutrophils, lymphocytes, and neutrophils in the portal tracts, with focal centrilobular perivenular inflammation. There was no histologic evidence of fibrosis. Diagnosis of drug-induced AIH was made in view of absence of significant fibrosis, which was most likely triggered by atorvastatin. Atorvastatin was stopped and she was started on prednisone and azathioprine, with gradual normalization of liver tests.
+
+# IMPACT/DISCUSSION:
+
+Autoimmune hepatitis (AIH) is a chronic inflammatory disease of the liver with unknown etiology. Drugs such as minocycline, nitrofurantoin, and hydralazine are associated with AIH. Only a few cases of statin-induced AIH have been reported in literature. We describe a case of AIH that was potentially triggered by high-dose atorvastatin. Statins are commonly prescribed cholesterol lowering therapy, and are known to cause mild asymptomatic elevations in liver enzymes. In rare cases, especially with high doses, they may trigger AIH and liver failure. In this patient, presence of circulating auto-antibodies and hypergammaglobulinemia indicated an underlying autoimmune process. Liver biopsy was considered because of persistently high transaminases with bilirubin elevation despite discontinuation of atorvastatin. One of the helpful points in distinguishing AIH from drug-induced liver injury is absence of fibrosis and eosinophilic infiltration, like in our case. Treatment includes stopping the offending drug and immunosuppression with prednisone with or without azathioprine in severe cases.
+
+# CONCLUSION:
+
+Statins are rarely implicated in autoimmune hepatitis. Patients who are on statins and have persistently abnormal liver should be worked up for autoimmune hepatitis. The diagnosis is confirmed by serologic evidence of autoantibodies and gamma globulins, followed by liver biopsy.
+
+# ATYPICAL PRESENTATION OF CRYPTOCOCCAL MENINGO-ENCEPHALITIS IN A SARCOIDOSIS PATIENT
+
+Shreya Gor; Taimoor Khan; Deborah Alpert. Jersey shore university medical center, Neptune, NJ. (Control ID #3179763)
+
+# LEARNING OBJECTIVE #1:
+
+Appreciate the differential diagnosis of new neurologic symptoms in a sarcoidosis patient.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of lumbar puncture in establishing a diagnosis for neurologic symptoms in an immunocompromised patient.
+
+# CASE:
+
+41 year-old male with a history of sarcoidosis presented with right upper extremity parasthesias, facial droop and slurred speech. He was previously treated with intermittent steroids and methotrexate, but had not received immunosuppressive therapy for two years. He had a normal complete blood count, metabolic panel and inflammatory markers. CT brain revealed a curvilinear diminished attenuation within the left temporal lobe. MRI brain demonstrated an abnormal area of enhancement in the left Sylvian fissure, concerning for venous thrombosis, meningoencephalitis or focal vasculitis; there was no leptomeningeal enhancement. MR venogram was suspicious for left transverse and sigmoid sinus thrombo- ses and cerebral angiogram showed irregularity in left middle cerebral artery. Antiphospholipid antibodies were not detected. Neurological symptoms promptly resolved after empiric treatment with intravenous dexamethasone for presumed neurosarcoidosis. He refused lumbar puncture until hospital day 5. At that time, cerebrospinal fluid (CSF) demonstrated a white blood cell (WBC) count of 308/mm3 with 95% neutrophils (normal 0-5 WBC), glucose 18 mg/dl (40-60 mg/dl), protein 115 mg/dl (15-60 mg/dl) and a positive cryptococcal antigen. Opening pressure was not obtained. Serum latex agglutination and CSF cultures were positive for Cryptococcus neoformans. HIV testing was negative and flow cytometry revealed lymphopenia with an absolute CD4 count of 293. Intravenous steroids were discontinued and the patient was treated with intravenous amphotericin and flucytosine. He was discharged on oral fluconazole for eight weeks.
+
+# IMPACT/DISCUSSION:
+
+Cryptococcal meningitis typically presents as chronic meningitis with symptoms including headache, fever, lethargy, sensory and memory deficits, cranial nerve paresis, vision deficits and meningismus. Our sarcoidosis patient presented with symptoms mimicking a transient ischemic attack, and his presentation and imaging findings were initially attributed to neurosarcoidosis. Although neurologic symptoms responded to empiric high-dose steroids, CSF findings were concerning for infection and cryptococcal meningitis was diagnosed. Sarcoidosis patients are predisposed to opportunistic infections due to impairment of cell-mediated immunity and immunosuppressive therapy. Cryptococcal meningitis may be confused with neurosarcoidosis, as both may present with cranial mononeuropathy and meningeal involvement. Leonhard et al. (2016) reviewed 40 cases of cryptococcal meningitis in sarcoidosis patients and noted CD4 lymphopenia in all, similar to our patient.
+
+# CONCLUSION:
+
+It is crucial to have a high index of suspicion for infectious etiology in a sarcoidosis patient presenting with new neurological symptoms. Delay in diagnosis may lead to unfavorable outcomes.
+
+# ATYPICAL PRESENTATION OF SEVERE HYPOTHYROIDISM AS CARDIAC TAMPONADE
+
+Saliha Saleem; Ejaz Shah; Colette Knight. Montefiore Medical Center, Bronx, NY. (Control ID #3185724)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize cardiac tamponade as one of the presentations of severe hypothyroidism
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish between signs and symptoms of cardiac tamponade in a hypothyroid patient versus a classic presentation

@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# INTERNAL MEDICINE RESIDENT PROFESSIONALISM ASSESSMENTS ARE ASSOCIATED WITH PATIENTS' OVERALL SATISFACTION WITH THEIR HOSPITAL STAY
+
+John T. Ratelle; Andrew J. Halvorsen; Jayawant N. Mandrekar; Adam P. Sawatsky; Darcy Reed; Thomas J. Beckman. Mayo Clinic, Rochester, MN. (Control ID #3179008)
+
+# BACKGROUND:
+
+Successful training of internal medicine (IM) residents requires accurate assessments. Patients could provide useful assessments of IM residents in the hospital, yet there is little understanding of how contextual factors may impact on these assessments. Our objective was to explore the potential relationships between patient, resident, and hospital-related factors with standardized patient-of-resident professionalism assessment scores.
+
+# METHODS:
+
+This was a prospective cohort study of postgraduate year 1 (PGY-1) IM residents and the patients they cared for at Mayo Clinic from July 2015-June 2016. Hospitalized patients provided professionalism assessments of PGY-1 IM residents who were primarily responsible for their care using an instrument that was adapted from published measures. Assessments were obtained on hospital day #4 to optimize the number of patient-resident encounters. Associations between patient-of-resident assessment scores and characteristics of residents (including validated measures of residents' performance and professional behaviors in other settings), patients, and hospital encounters were determined with multivariable modeling using generalized estimating equations to account for repeated assessments of residents. The threshold for statistical significance was p<0.01.
+
+# RESULTS:
+
+A total of 409 unique patients assessed all 72 PGY-1 residents, with a mean (SD) of 5.7 (3.0) patient assessments per resident. Factor analysis of the 11-item instrument demonstrated two dimensions (Cronbach alpha): "Involvement and Respect" (0.95) and "Compassion and Rapport" (0.94). In the multivariable model, only patients' "top box" ratings of their hospital stay remained significantly associated with their assessments of resident professionalism ( [SE] = +0.7952 [0.0788]; p<.0001). Notably, patient-of-resident assessment scores in the hospital were not significantly correlated with assessments of resident professionalism in other clinical and educational settings.
+
+# CONCLUSIONS:
+
+Patients' assessments of resident professionalism in the hospital were positively associated with patients' overall satisfaction with their hospital stays, but were not correlated with residents' professional behaviors in other settings. Residency programs should consider the potential limitations of patient evaluations before incorporating them into multi-source assessments of trainees.
+
+# INTERNISTS' EXPERIENCE WITH TRAINING TO PROVIDE MIFEPRISTONE: A QUALITATIVE ANALYSIS
+
+Mindy Sobota; Melissa Gosdin; Jessica Beaman; Suzan Goodman; Maria Catrina D. Jaime; E. Bimla Schwarz. University of California, Davis, Sacramento, CA; Brown, Providence, RI; UC Davis, Sacramento, CA; UCSF, San Francisco, CA; University of California, San Francisco, San Francisco, CA. (Control ID #3186081)
+
+# BACKGROUND:
+
+Mifepristone (previously known as RU-486) has been a safe, and effective option for US women for almost 20 years; in 2016, the FDA issued an evidence-based update allowing use of abortion pills to terminate pregnancies less than 10 weeks gestation. Although 75% of the 1.2 million US women who seek abortion services each year do so before 10 weeks gestation, currently only 11% of US counties have a clinician who offers abortion services of any kind. As a result, many women must travel substantial distances to access abortion services, which is particularly difficult for low income women who are most likely to face undesired pregnancies.
+
+# METHODS:
+
+To understand barriers and facilitators to general internists' provision of medication abortion, a medical sociologist conducted semi-structured phone interviews with 8 general internists who have sought training on how to offer mifepristone to patients seeking medication abortion.
+
+# RESULTS:
+
+All participants reported feeling that reproductive health care is a fundamental component of primary care. Most felt comfortable offering counseling about contraception and miscarriage. However, participants reported having received limited training about abortion in medical school and even less training on abortion during Internal Medicine residency. Participating internists described medication abortion as a "simple–see one, do one, teach one" clinical service, but reported having needed to seek out independent training opportunities in order to learn how to offer medication abortion services to their patients. Participants noted that "compared to other new medications–like PrEP— mifepristone has just not been marketed to us or our patients." Participants further noted that accredited "continuing medical education (CME)" related to abortion or mifepristone was hard to find. For some participants, FDA regulations requiring that mifepristone be stocked in clinic (instead of in pharmacies) was a hurdle, while other participants noted they had been pleasantly surprised by how supportive clinic staff had been of adding mifepristone to the list of services their clinic offers. Participants noted that patients rarely asked for help managing undesired pregnancy until they routinely informed patients that "if this birth control pill fails…I have pills for that too." Internists reported that their patients greatly appreciated the convenience and privacy of obtaining mifepristone in familiar primary care settings. Participants felt that online training would be helpful to colleagues interested in offering mifepristone for medication abortion and miscarriage management.
+
+# CONCLUSIONS:
+
+Efforts are needed to increase training opportunities for general internists interested in providing mifepristone. Online training, especially if CME-accredited, may increase the number of internists able to provide mifepristone for medication abortion and miscarriage management.
+
+# INTERVENTIONS TO REDUCE AGGRESSIVE CARE IN THE LAST YEAR OF LIFE AMONG CANCER PATIENTS: A SYSTEMATIC REVIEW
+
+Nauzley C. Abedini; Rachel K. Hechtman; Achintya D. Singh; Jason Mann; Rafina Khateeb; Whitney A. Townsend; Vineet Chopra. University of Michigan, Ann Arbor, MI; All India Institute of Medical Science, New Delhi, India. (Control ID #3152624)

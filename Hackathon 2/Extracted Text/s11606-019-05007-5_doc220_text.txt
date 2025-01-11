@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+generally rely on a single composite value of total spending and have modest predictive accuracy. Newer approaches that incorporate dynamic patterns of spending could improve accuracy and therefore cost-containment efforts by healthcare organizations. We recently showed that using group-based trajectory modeling enhanced the prediction of costly patients over a one-year time horizon; however, less is known about longer-term spending dynamics and potentially-modifiable risk factors for patient intervention.
+
+# METHODS:
+
+We used group-based trajectory modeling to empirically classify a random nationwide sample of Medicare beneficiaries 65 years enrolled by their spending patterns over a two-year period. We then assessed the ability to predict membership in each trajectory group using logistic regression and split-sample validation. Models were estimated using 1) baseline clinical and demographic factors and 2) only baseline factors that are potentially-modifiable through interventions.
+
+# RESULTS:
+
+In 329,476 patients, a 6-group trajectory model best described two-year longitudinal spending patterns (Figure), including high-cost (in red) and cost-bloomer (in orange) groups. Four spending groups could be highly predicted, including high-cost (validated C-statistic [C]: 0.887), cost-bloomers (i.e., lower spendings who later became more costly) (C: 0.722), rising (C: 0.810), and low-cost (C: 0.953). For cost-bloomers in particular, the most predictive potentially-modifiable factors were patients' number of medications, number of hospitalizations, and depression.
+
+# CONCLUSIONS:
+
+Examining a two-year time horizon using trajectory modeling improved the understanding of dynamic patterns, including the identification of a group of cost-bloomers and patients who are consistently high spenders. This approach could be adapted and implemented by healthcare organizations to improve cost-containment efforts.
+
+# Figure: Two-year spending phenotypes using trajectory modeling
+
+|Months|Low cost (9.190)|Rising (11.320)|Cost-bloomers (8.790)|Declining (11.120)|Moderate (25.690)|High cost (3+.220)|
+|---|---|---|---|---|---|---|
+|0| | | | | | |
+|1| | | | | | |
+|3| | | | | | |
+|5| | | | | | |
+|7| | | | | | |
+|9| | | | | | |
+|11| | | | | | |
+|13| | | | | | |
+|15| | | | | | |
+|17| | | | | | |
+|19| | | | | | |
+|21| | | | | | |
+|23| | | | | | |
+
+# PREDICTING UNMET VA PRIMARY CARE NEED USING ECONOMIC DISEQUILIBRIUM MODELS
+
+Edwin Wong1; Christopher Wilson1; Karin M. Nelson1, 2. 1Department of Veterans Affairs, Seattle, WA; 2University of Washington, Seattle, WA. (Control ID #3184178)
+
+# BACKGROUND:
+
+One of the key goals of the Patient-Centered Medical Home model is to improve access by providing care where and when patients need it. Recent reports have identified inadequate internal capacity as a key access barrier. There is currently limited evidence using rigorous methods to measure how much additional capacity is needed to meet veterans' health care needs. The objective of this study was to jointly estimate the supply and demand of VA primary care visits using econometric disequilibrium models to quantitatively estimate unmet primary care demand.
+
+# METHODS:
+
+This observational study examined a random sample of 51 VA medical centers across the U.S. Data were derived from VA administrative databases, linked with geographically aggregated data from the Area Health Resource File and the Centers for Disease Control and Prevention over the period January 2014 through September 2018. The outcome was primary care utilization defined as visits at VA clinic locations identified to provide primary care. We modeled the supply of VA primary care as a function facility-level primary care staffing, local area characteristics and seasonality. We modeled the demand of VA primary care as a function of patient enrollment, demographics and risk scores, a geographically varying measure of flu severity and seasonality. Many VA patients are exempt from copayments or other cost sharing, therefore we applied econometric disequilibrium models [Madalla and Nelson (1974)] to estimate the magnitude of excess primary care demand. These models jointly estimate parameters of the supply and demand equations, addressing the fact that observed number of primary care visits does not represent quantity demanded by veterans when excess demand exists. Joint supply and demand models were estimated separately for each facility using a maximum likelihood estimator and the unit of analysis was facility-month.
+
+# RESULTS:
+
+The average number of primary care visits per month provided by VA facilities decreased from 3,104 (SD=1,750) to 2,654 (SD=1,557) between January 2014 and January 2018. For 34 facilities, we did not reject the null hypothesis that the estimated number of visits demanded equaled visits supplied. For 8 facilities, the estimated number of visits demanded exceeded visits supplied by an average of 32%. For the remaining 9 facilities, estimated visits demanded was less than visits supplied by an average of 22%.
+
+# CONCLUSIONS:
+
+The estimated quantities of primary care supplied and demanded were balanced at most facilities. However, model estimates suggest the level of primary care needed by veterans exceeded resources at some facilities, while at other facilities, staffing likely exceeded veterans' primary care needs. Study findings inform the level of primary care staffing needed by facilities to fully meet expected primary care demand of VA patients. Models in this study also provide the opportunity to forecast staffing needs as conditions change over time.
+
+# PREDICTORS AND FOLLOW-UP USING THE CURRENT OPIOID MISUSE MEASURE IN PRIMARY CARE
+
+Mathew Tsai 1, 2; MacLean D. Charles 1, 2. 1 Larner College of Medicine, Burlington, VT; 2 University of Vermont, Burlington, VT. (Control ID #3178274)
+
+# BACKGROUND:
+
+Misuse of prescription opioids is a growing public health issue associated with adverse health outcomes. Clinical guidelines recommend formal risk assessment tools such as the Current Opioid Misuse Measure (COMM), a validated 17 question self-report survey assessing prior 30-day behavior associated with concurrent opioid misuse. However, little is known about the COMM's clinical utility among clinicians or the predictors of a high COMM score. To address these uncertainties, this study aimed to describe the consistency of use of the COMM and the distribution of COMM responses in a primary care population; to identify sociodemographic and clinical predictors of a positive COMM score; and to explore the association between a positive COMM score and increased clinical surveillance for opioid misuse.
+
+# METHODS:
+
+We performed a cross-sectional analysis of data from

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# IMPACT OF PATIENT-CENTERED MEDICAL HOME ON FOLLOW-UP OF ABNORMAL TEST RESULTS
+
+(FOBT/FIT) and iron-deficiency anemia (IDA) for colorectal cancer (CRC); elevated serum alpha-fetoprotein (AFP) for hepatocellular carcinoma (HCC); and abnormal chest imaging for lung cancer. The VA implemented the patient-centered medical home (PCMH) model in 2010-2011 to provide patient-driven, team-based care. We hypothesized that PCMH will improve timely follow up of abnormal test results nationally across the VA.
+
+# METHODS:
+
+To identify patients with potentially missed follow-up, we applied previously validated electronic trigger algorithms to the VA's national repository of electronic health record data. The triggers included patients with newly abnormal results, excluding patients for whom follow-up was not required or was completed within a recommended timeline. Positive predictive values were previously determined to be 56%, 55%, 82% and 61% for FOBT/FIT, IDA, AFP and chest imaging, respectively, and were higher than any known measures of diagnostic care gaps. Positive triggers acted as proxies for missed test results. We applied each trigger to all patients seen at 130 VA facilities across 18 national VA networks from 2006-2015 and derived yearly counts of trigger-positive patients at each network and site. Negative binomial regression models were applied to assess overall and yearly changes in number of trigger-positive patients while accounting for clustering by VA network, over-dispersion and correlation due to repeated measures. Final models were adjusted for VA networks and PCP visits.
+
+# RESULTS:
+
+After excluding patients not meeting inclusion criteria, we identified 5,887,006 patients from 2006-2015 with + FOBT/FIT, of which 713,035 (12%) met trigger criteria (i.e. potentially missed). Of 37,762,419 patients with IDA, 424,740 (1%) met trigger criteria. Similarly, 888,033 patients received AFP tests, with 78,277 (9%) patients meeting trigger criteria. An estimate of 10,947,742 patients received chest imaging exams, with 291,250 (3%) meeting trigger criteria. The trigger positive mean proportion of potentially missed test results following PCMH implementation decreased for FOBT/FIT (37.7% pre-PACT vs. 35.8% post-PACT) and AFP tests (23.5% pre- vs. 21.1% post), but increased for IDA (33.6% pre vs. 35.1% post) and lung imaging (35.9% pre vs. 38.3% post) tests (all p values<0.001). The mean proportion of potentially missed test results overall was statistically unchanged (32.7% pre-PACT vs. 32.6% post-PACT implementation).
+
+# CONCLUSIONS:
+
+Primary care medical home implementation does not appear to improve follow-up of abnormal test results that warrant cancer evaluation. Further contextual evaluation to explore lack of impact from this teamwork-based intervention is needed.
+
+# IMPACT OF MEDICAL SCRIBES ON CLINICAL PRODUCTIVITY IN ACADEMIC PRIMARY CARE
+
+Anastasia Pozdnyakova; Neda Laiteerapong; Sandra Ham; Wei Wei Lee. University of Chicago, Chicago, IL. (Control ID #3186237)
+
+# BACKGROUND:
+
+Primary care practices have been increasingly hiring medical scribes to assist with Electronic Health Record (EHR) documentation and to address physician burnout. However, little is known about the impact of scribes on productivity in primary care. The aim was to assess the impact of scribes on clinical productivity at an academic general internal medicine clinic.
+
+# METHODS:
+
+We piloted a 3-month scribe program at an academic general internal medicine clinic with six faculty and one full-time professional medical scribe. The scribe was present during 25-80% of total clinic sessions for each provider. The scribe drafted EHR notes for providers to review and sign. All clinic sessions for 2 months prior (baseline control) and during the 3-month pilot (without scribe (concurrent control) and without scribe (intervention) were included. The main outcome was the number of patients seen per clinic session. Secondary outcomes were rates of reconciliation of external information; review of problem list, medications, and immunizations; and patient time to check-out. Interrupted time series mixed models were used to test the scribe effect, controlling for weekday, AM/PM clinic session, and provider. We compared results for the baseline, concurrent control, and intervention groups.
+
+# RESULTS:
+
+The baseline period included 789 encounters; the pilot had 1,184 encounters, 579 (48.9%) without scribe and 605 (51.1%) with scribe. At baseline, providers saw an average of 6.85 patients per clinic session (95% CI 6.27-7.48). With the scribe, this number increased non-significantly to 7.26 patients per clinic (CI 6.99-7.53, p=0.07). Rates of reconciliation of external information and review of the problem list were higher with the scribe than at baseline (77.0% (CI 65.8-85.3%) vs. 68.8% (CI 56.8%-78.7%), p=0.002 and 9.42% (CI 5.48%-15.7%) vs. 6.10% (CI 3.11%-11.7%), p<0.0001, respectively). The percentage of encounters billed as a Level 4 or 5 Professional Fee Service increased from 91.0% (CI=84.6%-94.9%) at baseline to 95.3% (CI 91.4%-97.5%, p=0.005) without the scribe and 93.4% (CI 88.8%-96.2%, p=0.003) with the scribe. The time to check-out declined non-significantly from 76.8 (CI=59.6-107.8) minutes at baseline to 70.1 (CI=58.7-86.8) minutes without the scribe and 66.4 (CI=60.2-74.1) minutes with the scribe. There were no differences for review of current medications or immunizations.
+
+# CONCLUSIONS:
+
+In this short pilot, we found evidence of more detailed review of patient charts, particularly for the problem list and reconciliation of external information. The number of patients seen per clinic session with a scribe and time to check-out suggested improvements but were not significant. These findings suggest that hiring scribes may improve productivity and documentation of care in the primary care setting; however, further research is needed.
+
+# IMPACT OF RELIGION ON MEDICAL STUDENT PERCEPTIONS AND INTENTION TOWARDS ABORTION
+
+Joseph S. Needleman1; Shenila B. Lallani2; Cynthia H. Chuang1. 1Penn State College of Medicine, Hershey, PA; 2University of Alabama School of Medicine, Birmingham, AL. (Control ID #3186077)
+
+# BACKGROUND:
+
+One in four U.S. women have an abortion during their lifetime, however 90% of U.S. counties currently do not have an abortion provider. The future of abortion care relies on a physician workforce who plans to incorporate abortion into their medical practice. This study was designed to describe medical student attitudes toward abortion and abortion provision. Religious affiliation influences attitudes toward abortion among the general public, but whether religious affiliation and religiosity is associated with abortion attitudes and practice intentions among future physicians is unknown.
+
+# METHODS:
+
+Students at the University of Alabama School of Medicine, Penn State College of Medicine, and University of Massachusetts Medical School were distributed a 26-item electronic survey designed to measure abortion attitudes, practice intentions, religious beliefs, and demographics. The main independent variable was whether religion was very important in the student's life. Logistic regressions were used to model three outcomes: 1) the belief that abortion should be legal in all/most cases, 2) career plan to incorporate abortion into practice, and 3) willingness to refer patients seeking abortion. Models controlled for religious affiliation, gender, intended specialty, intention to practice in a rural location, a rural childhood residence, in-state status, and year in school.
+
+# RESULTS:
+
+Of the 862 students who completed the survey (response rate 46%), 35% said religion was very important in their lives. The study sample was 31% Protestant, 16% Catholic, 3% Jewish, 12% other religion, and 37% had no religious affiliation. Sixty-four percent agreed that abortion should be legal in most or all cases, 25% intend to incorporate medical and/or surgical abortion into their practice, and 86% would refer patients to other providers for abortion services. In the multivariable models, religion being very important in a student's life was a strong negative predictor of all 3 outcomes; those students were significantly less likely believe abortion should be legal in all/most cases (AOR 0.17, 95% CI 0.11-0.25), plan to incorporate abortion into their practice (AOR 0.24, 95% CI 0.14-0.42), or be willing to refer patients for abortion (AOR 0.10, 95% CI 0.05-0.20). Catholic affiliation and male gender were also negative predictors of all 3 outcomes.

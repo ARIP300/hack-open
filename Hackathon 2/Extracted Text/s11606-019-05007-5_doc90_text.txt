@@ -1,0 +1,43 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND
+
+In the United States, Acute Pancreatitis (AP) is the most frequent discharge diagnosis within Gastroenterology [1]. Those that have been admitted within 30-days have increased mortality at the 1-year mark [2]. Previous literature suggests that males have higher propensity for readmission for AP [3]. We sought out to determine the 30-day all-cause readmission rate for adults (age >= 18) readmitted with a principal diagnosis of AP and compare the risk factors for males and female.
+
+# METHODS
+
+We utilized Agency of Healthcare Research and Quality's (AHRQ) 2014 Nationwide Readmission Database which includes 14.9 Million discharges across 22 states to identify admissions with a principal diagnosis of AP (ICD-9 577.0). Applicable admissions were all adults (age >= 18) with an index hospitalization discharge from January 1 to November 30, 2014. Patients who died during index admission or those with missing covariates were excluded. All-cause including AP readmissions within 30-days of an AP admission were analyzed. Statistical analysis was completed with Stata 15 (StataCorp, College Station, TX) with p-values < 0.05 considered statistically significant. A univariate and multivariate analysis of data collected was completed using both odds ratio and chi square tests for significance. Predictors for readmission were determined using a multivariate logistic regression model following sequential step-wise elimination of covariates including demographics, comorbidities, hospital characteristics, length of stay (LOS), and the modified Elixhauser Comorbidity Index.
+
+# RESULTS
+
+A total of 112,374 patients met criteria for inclusion. Of which, there was 16,939 readmissions (overall rate 15.07%) within 30-days of the index admission. Of the 16,939 readmissions, 7,180 (42.38%) had a principal diagnosis of AP. Males were readmitted for AP at a rate of 44.84% while females were readmitted at 39.48%. Multivariate analysis showed that increased odds for 30-day readmission for acute pancreatitis (both genders) were admissions on weekend, younger, disposition at discharge (other facility, short term hospital, and leaving AMA), longer LOS, and admitted to medicine compared to surgery. For males, increased odds were admissions on weekend, younger, disposition at discharge (other facility, short term hospital, and leaving AMA), LOS between 7 and 14 days, and admitted to medicine. For females, increased odds were admissions during the week, younger, disposition at discharge (short term hospital, home with home health care, and AMA), longer LOS (>7 days), and admitted to medicine.
+
+# CONCLUSIONS
+
+Male have a higher readmission rate for AP compared to females with slight differences in risk factors particularly admissions on weekend and LOS. Better understanding and development of interventions for individuals with risk factors and high-risk for readmission may help to reduce future morbidity and mortality. Sources: [1] Lankisch, Lancet, 2015. [2] Lee, Pancreas, 2016. [3] Vipperla, Clin Gastroenterol Hepatol, 2014.
+
+# BACKGROUND
+
+Evidence-based collaborative care models, such as VA's Primary Care Mental Health Integration (PC-MHI), can improve patient access to treatment of depression and anxiety, which are more prevalent among women. Access to PC-MHI care varies among women Veterans, because VA primary care organization may differ by gender (e.g., separate clinics for men and women). We examined whether greater primary care clinic penetration in PC-MHI care over time was associated with changes in healthcare utilization, particularly mental health visits, differently for women and men.
+
+# METHODS
+
+We examined 448,455 female and 4,928,638 male patients receiving primary care between October 1, 2013 and September 30, 2016 from 396 hospital- or community-based VA clinics required to offer on-site PC-MHI services. In this national retrospective longitudinal cohort study, we calculated annual clinic PC-MHI penetration as the percent of assigned primary care patients seen by a PC-MHI provider. We used clinic PC-MHI penetration in multivariate regression models to predict specialty mental health visits (including PC-MHI visits) and other healthcare visits (i.e., primary care, other non-mental health specialty care, telephone, hospital stays). Models controlled for year, clinic, level of PACT implementation, utilization-related patient characteristics (e.g., age, gender, chronic comorbidities), and an interactive effect between gender and PC-MHI penetration.
+
+# RESULTS
+
+Women, compared to men, had twice the rate of diagnosed depression (27% vs 15%; p=.04) and anxiety (17% vs 8%; p=.5). Women, on average, had higher rates of outpatient specialty mental health (1.7 times; p<.001) and primary care (1.3 times; p<.001) visits than men. Adjusted regressions showed, among women compared to men, 1 percentage-point greater clinic PC-MHI penetration was associated with a decrease in average specialty mental health visits (-38%, vs +39%), other specialty visits (-48%, vs -13%), and hospital stays (-74%, vs +2%), but an increase in primary care visits (+22%, vs +40%), for patients per year (all P's<.0001). There were no observed gender differences in PC-MHI effects on telephone care.
+
+# CONCLUSIONS
+
+Women Veterans have high rates of depression and anxiety, which can be effectively treated by PC-MHI models. Greater primary care clinic penetration in PC-MHI was associated with higher outpatient specialty mental health utilization among men, but lower utilization among women Veterans. While PC-MHI care models may increase engagement in outpatient services for men, greater clinic penetration in PC-MHI services may instead be shifting mental health care (and perhaps other non-mental health specialty care and acute care) to primary care providers for women Veterans. With increasing patient choice in where to receive care, the VA must tailor medical care to the needs of rising numbers of women patients. More research is needed to understand gender differences in mental healthcare access and utilization related to PC-MHI.
+
+# DIFFERENCES IN THE EFFECT OF PRIMARY CARE - MENTAL HEALTH INTEGRATION ON HEALTHCARE UTILIZATION AMONG MEN AND WOMEN VETERANS
+
+Lucinda B. Leung 1, 5; Lisa V. Rubenstein 2; Edward P. Post 3; Shreya P. Trivedi 1; Sara Corderman 2; Caroline Katzman 1; Mark D. Ranak Trivedi 4; Sabine Oishi 5; Alison Hamilton 5; Jean Yoon 6; Schwartz 1; Leora I. Horwitz 1. 1 NYU School of Medicine, New York, NY; 2 SUNY Downstate College of Medicine, Brooklyn, NY; 3 VA Ann Arbor Healthcare System and University of Michigan, Ann Arbor, MI; 4 VA Palo Alto Health Care System/Stanford University, Menlo Park, CA; 5 Veterans Administration, Los Angeles, CA; 6 Palo Alto VA, Menlo Park, CA; 7 Department of Veteran Affairs, Seattle, WA; 8 VA Greater Los Angeles Healthcare System, Sepulveda, CA. (Control ID #3179319)
+
+# BACKGROUND
+
+The transition of care from hospital to home is a vulnerable time for patients, often leaving individuals with a suboptimal understanding of the care plan, which can lead to post-hospitalization morbidity and readmissions. Prominent national medical societies and health services interventions have identified important domains to be addressed on discharge. Yet,

@@ -1,0 +1,50 @@
+# ABSTRACTS
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Over an 8-month period in 2018, in an urban safety-net internal medicine primary care practice, we identified patients with pre-diabetes based on diagnosis code or most recent A1c within the previous 2 years. We abstracted data from the electronic health record. As the practice is divided into 6 separate suites, we assigned patients in each of 3 suites to one of the following groups: (1) basic patient navigation: navigator called and informed patient about diagnosis of pre-diabetes, assessed interest in a DPP referral, and placed referral if desired by patient; (2) enhanced patient navigation: basic patient navigation plus motivational interviewing to assess and address barriers to DPP attendance; (3) comparison group: Providers in the suite received a 30-minute educational session about benefits of and resources to deliver the DPP.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We measured the number of completed phone calls by navigators, call outcomes (defined as spoke with patient or other, voicemail, no answer) and duration of each call in groups 1 and 2. In addition, we assessed preliminary effectiveness of the implementation strategies by comparing frequency of referral and DPP enrollment between groups. We will interview key informants including 2 patient navigators, the DPP program coordinator and a selection of primary care providers to evaluate the acceptability of the implementation strategies and explore barriers to and facilitators of implementation.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Patient navigators called 209 patients (n=171 in basic patient navigation group and n=109 in enhanced patient navigation group). The highest frequency of referral was in the enhanced patient navigation group (n=51, 47%), followed by the basic patient navigation group (n=48, 28%) and the comparison group (n=0). Few patients enrolled in the DPP from either navigation group (n=4 in basic patient navigation group and n=2 in enhanced patient navigation group). Interview of the DPP coordinator revealed several barriers, including inconvenient class times and location, and limited class capacity.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A system of proactive outreach was successful in identifying and referring patients with pre-diabetes to a DPP. Identifying and addressing barriers to program enrollment such as scheduling, location and capacity are key for facilitating program enrollment.
+
+# IMPLEMENTING A DAILY MEDICINE ROUNDING TOOL TO PROMOTE PATIENT SAFETY AND IMPROVE COMMUNICATION BETWEEN PHYSICIAN AND NURSE DURING HOSPITALIZATION
+
+Marwa Moussa1; Lisa Schwartz1; Laura Mansfield1; Tracey-Ann Knight1; Jennifer Renaud3; Meg Ferrauiola1; Sandra Thompson1; Charles Okamura1; Frank Volpicelli2. 1NYU Langone, Staten Island, NY; 2New York University, New York, NY; 3NYU Langone Hospital Brooklyn, Brooklyn, NY. (Control ID #3167999)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+As communication among patient care team members is often dangerously fragmented and effective collaboration becomes essential to provide safe hospital care for patients, we implemented the Daily Medicine Rounding Tool (DMeRT) that improved collaboration between the physician and nurse.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. We aimed to promote a patient-centered, highly reliable rounding tool to reduce hospital adverse events by streamlining real time communication between nurses and physicians.
+2. We hypothesize that this tool will decrease the need for frequent calls throughout the day, ultimately improving team productivity and overall staff satisfaction.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In our institution, the Epic's default patient dashboard columns included patient name, venous thromboemboli (VTE) prophylaxis, Medical Orders for Life Sustaining Treatment (MOLST) completion, glycemic control, and medication reconciliation completion. Expanding upon these prior default columns, we partnered with information technology and nursing to create a customized dashboard that included additional informational columns extracted from the documentation in the charts, to include the administration of intravenous fluids, oxygen supplementation, last bowel movement recorded and high risk medications (anti-coagulants, anti-epileptics, furosemide, opioids, and benzodiazepines). We then trained the physicians and nurses to discuss each patient using the customized DMeRT dashboard during interdisciplinary rounds. The average time spent on the DMeRT is 15 minutes for a total 10 patients. This helps as a reminder and the identification of potential pitfalls and safety concerns. The DMeRT was instituted on a 30 bed medical unit (5500) on June 1, 2018 with iterative improvements to content.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We will analyze data pre and post intervention to assess for impact on reducing medication errors during hospitalization, hospital acquired VTE events and improvement in glycemic control. Finally we will track MOLST completion, medication reconciliation compliance, constipation and fluid overload events added to the patient's problem list 48 hours prior to discharge.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+To date, the unit which implemented the intervention had an improvement in the Quality Hyperglycemia Scores (method used to evaluate inpatient glycemic management) from 56 in 4/2018 to 95 in 12/2018. There was an improved MOLST completion from 14% in 4/2018 to 83% in 12/2018. A Preliminary survey of 15 nurses on unit 5500 showed that 80% reported that they rarely need to call house staff within 2 hours of completing the rounding tool and 66% of nurses were satisfied with the DMeRT.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+During hospitalization, multiple aspects of patient care are overlooked while we focus on the admitting diagnosis, necessary diagnostics and treatments. Medication errors during hospitalization are commonly caused by breakdowns in communication and associated with substantial risk. This is a simple tool that utilizes information technology to efficiently and systematically review standardized aspects of care.
+
+# IMPLEMENTING A MAILED FECAL IMMUNOCHEMICAL TESTING PROGRAM FOR COLORECTAL CANCER SCREENING IN FEDERALLY QUALIFIED HEALTH CENTERS
+
+Michael Pignone1; Nicole Kluz1; Paul Rathouz1; Eda Baykal-Caglar1; Alison Brenner; Bretta Candelaria1; Jessica Trevino; Jaison John;2 1 Daniel S. Reuland2. 1Dell Medical School, Austin, TX; 2University of North Carolina, Chapel Hill, NC. (Control ID #3184379)

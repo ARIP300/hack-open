@@ -1,0 +1,27 @@
+# Table 3 Explaining venturing/ entrepreneurial action (logistic regression results)
+
+| |Dependent Variable|Venturing/Entrepreneurial Action (yes = 1)|
+|---|---|---|
+|Model|2a (main-effect)|2b (with controls)|
+|Predictor variables|Odds ratios: Exp (B)|(95% confidence interval)|
+|Constant|0.141***|0.017***|
+|Age|1.039***|(1.022–1.057)|
+|Gender (male = 1)|2.709***|(2.394–3.066)|
+|Self-employed parent(s)|1.665***|(1.469–1.888)|
+|Academic performance|1.111**|(1.041–1.187)|
+|Management study|1.355***|(1.179–1.558)|
+|ADHD Diagnosis|1.926***|1.792***|
+| |(1.510–2.457)|(1.393–2.305)|
+
+Significance levels (2-tailed) are indicated as follows: ** = 0.01; *** = 0.001. Differences in reported Ns are per missing data from some subjects (SPSS pairwise exclusion)
+
+|Model|Nagelkerke R2|Chi-square|− 2 Log likelihood|N|
+|---|---|---|---|---|
+| |.005***|24.795***|7513.90|9869|
+| |.077***|412.292***|7037.85|9770|
+
+The predictor indeed has a significant and material effect on the probability of nascent venturing. As such, the highly significant readily interpretable odds ratios indicative of a large effect are informative and meaningful. The results indicate that not only is the effect of ADHD statistically significant, it also materially increases the odds of venturing. It increases the likelihood of venturing by almost 100% (79% with covariates), which is comparable to other well-established predictors of entrepreneurship such as having self-employed parents (model 2b). Considering the research design and myriad other covariates of potential interest, the results do not illuminate causal pathways; rather, the results indicate that further research into how and why is warranted and apt to be fruitful.
+
+# 4.1 Supplemental analyses
+
+Despite the theoretical and empirical evidence of the enduring nature of ADHD (after diagnosis), particularly in relation to our research question, we nonetheless ran supplemental analyses. Acknowledging that ADHD diagnosis occurred prior to the time of data collection, we examine whether the diagnosed individuals still report to have symptoms by assessing respondents’ scores on impulsivity and mental restlessness, both of which are associated with adult ADHD (Barkley 1997; Weyandt et al. 2003). The abbreviated scale for impulsivity, supported by Webster and Crysel (2012), was composed of the most appropriate three items of the Zuckerman et al.’ (1993) longer scale. The abbreviated scale for mental restlessness was composed of the four primary items of the internal restlessness factor/scale (Weyandt et al. 2003). Examining the entire sample (N = 9869), ADHD-diagnosed individuals endorsed mental restlessness (mean: 4.8 on 7-point scale) and impulsivity (mean: 4.3 on 7-point scale) and scored significantly higher on both compared to non-diagnosed individuals (t 1,449= 10.6 and t 1,443= 12.4, respectively; equal variances not assumed, p < .001). The results were similar within the subset of venturers (n = 579). Here, the diagnosed individuals endorsed mental restlessness (mean: 4.8 on 7-point scale) as well as impulsivity (mean: 4.6 on 7-point scale) and scored significantly.

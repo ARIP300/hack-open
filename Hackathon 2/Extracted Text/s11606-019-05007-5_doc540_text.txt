@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# IV drug use, extra-articular infection, diabetes mellitus, trauma, and infected central venous catheter; however, no risk factors were present in 23% of cases.
+
+Methicillin-sensitive Staphylococcus aureus (49%) is the most common pathogen in both blood and joint aspirate, while Escherichia coli (5%) is less common. Complications include osteomyelitis, chest wall abscess, and mediastinitis. Soft tissue infection without joint involvement is amenable to medical therapy alone. One study documented a 15% failure rate for medical therapy alone, while another noted an 83% failure rate. Joint and bone involvement require surgical debridement or resection.
+
+# CONCLUSION:
+
+Early diagnosis of sternoclavicular joint septic arthritis will allow for a higher rate of success with medical management alone.
+
+# STEROIDS AND SCLERODERMA RENAL CRISIS: NAVIGATING THE UNKNOWN
+
+Bernard Mendis; Chaya Abelow. Montefiore Medical Center, Albert Einstein College of Medicine, New York, NY. (Control ID #3184230)
+
+# LEARNING OBJECTIVE #1:
+
+Review the diagnostic criteria for systemic sclerosis.
+
+# LEARNING OBJECTIVE #2:
+
+Review evidence surrounding steroid use and the risk of scleroderma renal crisis.
+
+# CASE:
+
+A 70-year-old woman with a past medical history of retinitis pigmentosa and recurrent hospitalizations for hand arthralgias of unknown etiology, on chronic Prednisone and Methotrexate, was referred to the ED by her Rheumatologist after an outpatient BMP revealed a rise from her baseline Creatinine of 0.5 to 2.1 in the setting of new onset hypertension. Prior to presentation, work up for her arthralgias had revealed a positive anti-Scl70 serology. However, given her lack of typical symptoms, she had not yet received a formal diagnosis of systemic sclerosis. On admission, the patient was treated empirically for scleroderma renal crisis with Captopril, and by withholding further prednisone therapy. Initial urine studies were remarkable for hyaline casts, hematuria, and proteinuria. Follow up renal ultrasound revealed bilateral hyperechogenicity prompting a renal biopsy, which revealed thrombotic microangiopathy, secondary renal tubular injury, and interstitial fibrosis consistent with scleroderma renal crisis (SRC). Her creatinine stabilized at 5.3 and the patient was deemed safe with a plan to closely monitor her renal function as an outpatient.
+
+# IMPACT/DISCUSSION:
+
+Systemic sclerosis (SSc) is characterized by inappropriate deposition of collagen in the skin and internal organs. The pathophysiology is not yet well understood, but has been proposed to be autoimmune, genetic, and environmental in nature. As of yet, there remains no clear consensus on the diagnostic criteria for a preliminary diagnosis of SSc. The Eular Scleroderma Trials and Research Group (EUSTAR) recently proposed a diagnostic approach requiring a combination of: a) Raynaud's Phenomenon, puffy fingers, or ANA, and b) disease specific antibodies, or microvascular changes by capillaroscopy. Initiating therapy would ultimately require a positive HRCT, PFT, or esophageal manometry study. This clinical decision making tool has not yet been validated. The role of steroids in the treatment of systemic sclerosis is controversial. Although the American College of Rheumatology cites corticosteroids (CS) as a treatment option for myalgias in systemic sclerosis, several studies have proposed an association between CS exposure and SRC. A retrospective cohort study published by Teixeira et al observed an OR of 17.4 (95% CI 2.1-144.0) at 1 month and 24.1(95% CI 3.0-193.8) at 3 months of developing SRC post-CS exposure. This observation has been supported by other literature.
+
+# CONCLUSION:
+
+-Systemic sclerosis is a diagnosis with important implications regarding choice of therapy, morbidity and mortality. A consensus on early diagnostic criteria has not yet been reached. -Delaying corticosteroid therapy in patients with suspected autoimmune or systemic processes in favor of a more stringent diagnostic work up may be reasonable in select cases.
+
+# STEVENS-JOHNSON SYNDROME: POLYPHARMACY GONE WRONG
+
+Nikhil Kolluri; Justin Brandler; Anjali Bhagra. Mayo Clinic, Rochester, MN. (Control ID #3183931)
+
+# LEARNING OBJECTIVE #1:
+
+Stevens - Johnson syndrome (SJS) is characterized as a severe widespread epidermal necrotizing disorder encompassing <10% of the total body surface with the main cause being an idiosyncratic reaction to systemic medications.
+
+# LEARNING OBJECTIVE #2:
+
+Rapid recognition of SJS is crucial as mortality can be as high as 4-10% with therapy revolving around swift removal of the offending agent and supportive cares.
+
+# CASE:
+
+A 25-year-old male presented with a 3-day history of painful oral desquamation, odynophagia, diffuse rash, and sloughing lesions on his genitals. Past medical history was significant for mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes and seizure disorder. He was recently started on lacosamide (on chronic lamotrigine) for status epilepticus and Bactrim for prostatitis. Physical examination revealed diffuse erythematous maculopapular rash, oral candidiasis, and desquamating ulcers of the lips, oropharynx, and genitals. Labs showed a hemoglobin of 9.8 g/dL, leukocytes of 6.5x10^9 cells/L, and lactate of 2.9 mmol/L. A dermatology consult was immediately placed and lesions were biopsied. Workup was negative for blood cultures, HSV, VZV, CMV, Syphilis, Chlamydia, Gonorrhea, Tick borne panel, HIV, and Mycoplasma testing. A fungal culture of his oropharynx revealed candida dubliniensis. Pathology results confirmed Stevens-Johnson syndrome. Ultimately, Bactrim and Lacosamide were thought to be the culprit medications.
+
+# IMPACT/DISCUSSION:
+
+SJS is characterized as a severe widespread epidermal necrosis causing tissue loss at skin/mucosal surfaces. Diagnosis is based on clinical presentation and biopsy showing full thickness necrosis of the epidermis and keratinocyte apoptosis. The main cause for SJS is an idiosyncratic reaction to systemic medications, with the most common culprits being sulfonamide antibiotics, anticonvulsants (phenytoin, lamotrigine), allopurinol, nevirapine, and NSAIDs. Mycoplasma pneumoniae infection has also been reported to cause SJS. Clinical presentation generally consists of a prodrome of fever and upper respiratory symptoms with progression to ulceration of mucosal areas and painful erythematous vesiculobullous rash. Treatment relies predominantly on quick recognition, prompt withdrawal of the culprit drug, and supportive care with fluids, pain control, and treatment of any superimposed infections (staph aureus and pseudomonas). Adjunctive therapies with corticosteroids, IVIG, and cyclosporine have also shown some promise. Mortality from SJS can range from 4-10% with disease severity being the main risk factor for mortality. By reporting this classic presentation of SJS, we reinforce the typical presentation and steps for diagnosis and treatment.
+
+# CONCLUSION:
+
+This case illustrates the enigmatic way SJS can present in the setting of a complex medical history, the importance of rapid identification and management of SJS which may be potentially life threatening, and exemplifies the principle of polypharmacy and its detrimental consequences to patients.
+
+# STREPTOCOCCUS PERITONITIS AND TOXIC SHOCK SYNDROME FROM OCCULT TUBO-OVARIAN ABSCESS
+
+William R. Mazalewski; John Ebone; Sean Amirzadeh. University of

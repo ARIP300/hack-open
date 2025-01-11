@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Timely Primary Care Follow-Up and 30-Day Readmission Rates: A Retrospective Analysis from a Resident-Based Primary Care Clinic
+
+Niloofar Latifi; Robert N. Stuver; Tara M. Skorupa; Jorge Fradinho; Rebecca Glassman; Kelly L. Graham. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3184619)
+
+# Background
+
+The transition in care from hospital to ambulatory setting is a vulnerable period for patients. Previous analyses on whether timely post-discharge visits with a primary care provider (PCP) reduce readmissions have shown mixed results. The primary aim of our project was to investigate the hypothesis that a primary care visit within 14 days of discharge leads to a reduction in 30-day readmission rates.
+
+# Methods
+
+We performed a retrospective analysis of all Medicare and Medicare Advantage patients discharged from our hospital from 10/1/2017 - 9/30/2018 who have a PCP at our hospital-based primary care practice. Patients discharged to rehab or a long-term care facility were excluded. Patients were evaluated for having a timely post-discharge primary care appointment, defined as occurring within 14 days of discharge, in accordance with the Medicare Transitional Care Management period. They were further categorized based on our predictor variable of having an appointment scheduled at time of discharge, and then if this appointment was kept or cancelled/missed. The primary outcome was a readmission within 30 days of discharge. We used a chi square test to determine if rates of readmissions were significantly different between groups.
+
+# Results
+
+Our study population included a total of 1069 patients. At discharge, 585 patients (55%) had a primary care visit scheduled within 14 days. The 30-day readmission rate for patients with a kept appointment was 17%, compared to 21% for cancelled/missed appointments, and 36% in patients without a scheduled appointment at time of discharge (P<0.001). For patients who saw a specialist but not a PCP within 14 days of discharge, the 30-day readmission rate was 28.8%, versus 19.5% for those who saw both a specialist and a PCP (P=0.52) (Table 1).
+
+# Conclusions
+
+A statistically significant reduction in 30-day readmission rates was observed in patients who are seen by a PCP within 14 days of discharge compared to those who do not keep their appointment or do not have an appointment scheduled at discharge. There is a decrease in 30-day readmission rates when patients are seen by a PCP in addition to a specialist that did not reach statistical significance. Our study demonstrates the importance of timely PCP follow up within the 14-day post-discharge period, as well as the benefit to scheduling appointments for patients at the time of discharge to reduce 30-day readmission rates.
+
+# Towards Viral Hepatitis Elimination: An Innovative Strategy to Screen At-Risk Populations in the Emergency Department with Linkage to Primary Care
+
+Su H. Wang1; Ruth P. Brogden1; Eric Handler2; Briana Marcantonio3; Alyssa Gallipani4, 5. 1Saint Barnabas Medical Center, Florham Park, NJ; 2Saint Barnabas Medical Center, Livingston, NJ; 3Saint Barnabas Medical Center, West Orange, NJ; 4Fairleigh Dickenson University, Madison, NJ; 5RWJBarnabas Health, West Orange, NJ. (Control ID #3184952)
+
+# Background
+
+Globally, deaths from viral hepatitis (VH) surpass HIV, malaria and tuberculosis. In the US, VH is a large driver of rising hepatocellular carcinoma rates. However, with hepatitis B vaccines & treatment and hepatitis C curative therapies, the World Health Organization has deemed that VH can be eliminated by 2030. Massive scale-up in screening is required to increase the current low diagnosis rates, and shifting of care from specialists to primary care is critical to achieving elimination. Both CDC and USPSTF recommend screening for VH in those at-risk: people born in 1945-1965 should be screened for hepatitis C (HCV) and foreign-born people from hepatitis B (HBV) endemic countries should be screened for HBV. We set up automated VH screening in the Emergency Department (ED) to reach the at-risk and vulnerable in New Jersey, where 21% of the residents are foreign-born and provided navigation and VH care in a primary-care.
+
+# Methods
+
+Electronic Health Record (EHR) modifications include an algorithm for eligibility with date of birth and country of birth. If bloodwork is ordered by a provider, VH lab test(s) are automatically generated: HCV antibody (HCV Ab) with reflex to HCV RNA and/or a hepatitis B surface antigen (HBsAg). Alerts notify nursing of patient eligibility and positive tests. The patient navigator (PN) receives real time alerts of positive tests to contact patients, meeting them in person or calling to educate and arrange follow-up. The PN has direct access to schedule patients at a primary care practice of internists trained in VH care. Team meetings of physicians, pharmacist and navigators are held to discuss patient status, including those undergoing HCV cure.
+
+# Results
+
+Since March 2018, 7,550 patients have been screened for HCV, with 243 (3.2%) HCV Ab+ and 84 (1.1%) with current infection. Fifty-six percent (47) were newly diagnosed and 54 (64.3%) linked to care. HCV RNA+ patients were 61% male with a mean HCV RNA 2,987,000 IU/mL. Twenty five HCV patients were seen at our practice with 13 initiating HCV therapy for 8-12 weeks. So far, 9 (70.0%) have undetectable HCV RNA at week 4, and 3 (12%) with confirmed cure post-therapy. For HBV, 6,466 were tested with 76 (1.2%) infected, 34 (44.7%) newly diagnosed, and 42 (55.3%) linked to care. Haiti, Jamaica and Ecuador were the top countries-of-origin for those screened, and Haiti, China and Ghana, the top countries of the HBV-infected patients.
+
+# Conclusions
+
+Automated VH testing in the ED is a model for efficient, large-scale screening of at-risk patients, many difficult to reach due to barriers in language, cultural or healthcare access. Navigation is important to provide transition-of-care from the ED to appropriate follow-up. Primary care providers can manage VH patients, and a healthcare team approach can facilitate successful HCV cures.
+
+# Toxidrome Patterns and Outcomes in a Medically-Supervised Overdose Prevention Program for Homeless People in Boston
+
+Gabriel R. Wishik-Miller1, 2; Jessie M. Gaeta1, 2; Melanie W. Racine1; James J. O'Connell1, 3; Travis P. Baggett1, 3. 1Boston Health Care for the Homeless Program, Boston, MA; 2Boston University School of Medicine, Boston, MA; 3Massachusetts General Hospital, Boston, MA. (Control ID #3183938)
+
+# Background
+
+In response to rising opioid overdose deaths among homeless individuals, Boston Health Care for the Homeless Program (BHCHP) opened the Supportive Place for Observation and Treatment (SPOT) in 2016. SPOT provides medical monitoring and harm reduction services to people who are intoxicated and sedated, often because of concurrent use of opioids and other sedating substances. To inform the development and dissemination of this unique care model, our objective was to characterize toxidrome patterns and describe care outcomes of SPOT users.
+
+# Methods
+
+We analyzed data on adult (age 18-64 yrs) visits to SPOT between 1/1/17-12/31/17 in which the following measures were recorded: blood pressure, heart rate, respiratory rate, pulse oximetry, and Inova Sedation Scale level. Other measures included self-reported age, sex, and substances consumed, including opioids, non-opioid sedatives (e.g. benzodiazepines), stimulants (e.g. cocaine), cannabinoids, and alcohol. Care outcomes included duration of visit, administration of oxygen or naloxone, and manner of discharge. We used k-means cluster analysis to characterize toxidromes based on vital sign patterns. We used multinomial logistic regression to assess the demographic and substance consumption predictors.

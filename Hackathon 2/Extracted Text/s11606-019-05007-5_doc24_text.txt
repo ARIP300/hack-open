@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# ADDRESSING SOCIAL ISOLATION TO IMPROVE THE HEALTH OF OLDER ADULTS: A RAPID EVIDENCE REVIEW CONDUCTED FOR THE AHRQ EPC PROGRAM
+
+Martha Gerrity; Stephanie Veazie; Jennifer Gilbert; Kara Winchell; Allison Schmidt; Robin Paynter; Jeanne-Marie Guise. Portland VA Research Foundation, Portland, OR. (Control ID #3185567)
+
+# BACKGROUND:
+
+Addressing social determinants that lead to poor health outcomes in the aging U.S. population is a growing public health concern. Social isolation and loneliness in older adults is associated with worsening physical and mental health. Consequences of aging such as health deterioration, loss of family and friends, and reduced mobility can lead to social isolation and loneliness. We conducted a rapid evidence review evaluating the effects of interventions targeting social isolation/loneliness in older adults.
+
+# METHODS:
+
+This topic was nominated to the AHRQ EPC Program for a rapid review by a healthcare system and was felt to be an important issue facing health systems, providers, community organizations, and the public. Streamlined systematic review methods were used, including conducting targeted searches in Ovid/Medline ®, PsycInfo®, and CINAHL® from 2013 to 2018 for systematic reviews and from 2016 to 2018 for primary studies. Studies were evaluated using pre-specified inclusion criteria and assessed for risk of bias. Study characteristics were extracted, including measurements of social isolation/loneliness, health, health care utilization, and harms, and data were synthesized into evidence tables.
+
+# RESULTS:
+
+Sixteen studies (seven randomized controlled trials, eight pre-post, and one cross-sectional with post-test survey) totaling 17,656 participants age 60 or older were included. Eight were good- or fair-quality studies. Four interventions reported a positive effect on social isolation/loneliness or health outcomes. A resistance training program that included nutrition, and psychosocial support reported improved functionality, depression, diet, and social capital, a physical/leisure activity intervention reported improved quality of life but not social support, and a group tai chi intervention and a facilitated group discussion intervention both improved loneliness but not health outcomes. Three of these four interventions reporting positive outcomes involved a health care professional and met more than once per week. Five of the sixteen studies reported on harms; none were clinically significant, and three reported on health care utilization.
+
+# CONCLUSIONS:
+
+Physical activity interventions to reduce social isolation show the most promise to improve the health of older adults, but the effects were inconsistent and the studies measured short-term outcomes. Overall we found striking variation in outcomes measured across studies and inconsistency in definitions for social isolation and loneliness. Just over a quarter of studies reported on harms and our search revealed very little information on healthcare utilization, a pressing issue for healthcare delivery systems. These findings suggest that health systems should rigorously evaluate their own programs and make their findings available in order to increase the evidence base on this pressing national issue.
+
+# ADHERENCE TO WEIGHT TELEMONITORING PREDICTS REDUCED EMERGENCY DEPARTMENT AND HOSPITAL UTILIZATION AMONG PATIENTS WITH HEART FAILURE
+
+Sarah C. Haynes1; Daniel Tancredi1; Patrick S. Romano2. 1University of California, Davis, Sacramento, CA; 2UC Davis, Sacramento, CA. (Control ID #3185710)
+
+# BACKGROUND:
+
+Weight telemonitoring may be an effective way to improve patients' ability to manage heart failure and prevent unnecessary utilization of health services. However, effectiveness of such interventions is dependent upon patient adherence to daily weighing. Adherence is complex and may change in response to triggering events, such as a hospital readmission or emergency department (ED) visit. Conversely, lower or higher adherence in a given week may help to predict events (rehospitalization, ED visits, or death) in the following week. The objectives of this study were 1) to compare adherence in the two weeks preceding an event to adherence in the two weeks following the same event and 2) to examine the relationship between adherence to daily weighing and the occurrence of events in the following week.
+
+# METHODS:
+
+The Better Effectiveness After Transition- Heart Failure (BEAT-HF) trial examined the effectiveness of an intervention involving wireless remote telemonitoring and health coaching, compared to usual care, for patients discharged to home after hospitalization for decompensated heart failure. Participants were patients aged 50 and older who were actively treated for decompensated heart failure and discharged to their home after the enrollment hospitalization at one of six academic medical centers in California. Participants were followed for 180 days and were instructed to transmit weight readings daily. For this secondary analysis we used Poisson regression to determine the within-person effects of adherence on the rate of events as well as the effect of events on subsequent adherence.
+
+# RESULTS:
+
+On average, participants adhered to daily weighing on 52.3% of possible days. 292 participants experienced at least one hospitalization or ED visit during the study period. After controlling for the number of previous events, the rate ratio for adherence decreased by a factor of 0.87 in the two weeks after an event compared with the two weeks prior to the event (95% CI: 0.83-0.92, p=0.000). Adherence also predicted events in the following week; an increase in adherence by one day decreased the rate ratio for experiencing an event by a factor of 0.88 (95% CI: 0.86-0.91, p=0.000).
+
+# CONCLUSIONS:
+
+Lower adherence in a given week is associated with increased risk of experiencing a rehospitalization, ED visit, or death in the subsequent week. Experiencing a rehospitalization or ED visit did not have the expected effect of triggering an increase in adherence; rather, events had the effect of diminishing adherence to daily weighing. Because lower adherence may in itself be a marker of heart failure exacerbation, telemonitoring programs should consider incorporating changes in adherence into the system's feedback structure in addition to changes in weight values. Furthermore, rehospitalizations and ED visits could be more effectively used as teaching moments to improve subsequent adherence to telemonitoring.
+
+# ADOPTION OF AN EVIDENCE-BASED FALL PREVENTION PROGRAM IN LARGE ACADEMIC HOSPITALS: A MULTI-SITE QUALITATIVE STUDY OF FACILITATORS AND BARRIERS
+
+Srijesa Khasnabish 1; Eileen Carter 2, 3; Jason Adelman 2; Lois Alfieri 4; Mike Bogaisky 5, 6; Ann C. Hurley 1; Mary Ellen Lindros 4; Virginia Ryan 7; Maureen Scanlan 4; Alexa Shelley 2; Shao Ping Yu 2; Patricia Dykes 1, 8. 1 Brigham and Women's Hospital, Brighton, MA; 2 New York-Presbyterian Hospital, New York, NY; 3 Columbia University School of Nursing, New York, NY; 4 Montefiore, Bronx, NY; 5 Albert Einstein College of Medicine, Bronx, NY; 6 Einstein Hospital (Montefiore Medical Center), Bronx, NY; 7 Brigham and Women's Faulkner Hospital, Jamaica Plain, MA; 8 Harvard Medical School, Boston, MA. (Control ID #3162189)

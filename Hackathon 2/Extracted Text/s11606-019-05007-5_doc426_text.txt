@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+Eczema herpeticum, also known as Kaposi varicelliform eruption, is a generalized vesiculopustular rash caused by herpes simplex virus and is usually diagnosed in children. The clinical presentation can mimic other diseases making eczema herpeticum a difficult diagnosis, but an important one, because of the high morbidity and mortality without treatment.
+
+# CONCLUSION:
+
+Eczema herpeticum presents with symptoms similar to other pathologies, and usually presents in children, it is rarely diagnosed in adults. It is even more difficult to distinguish in patients with poorly controlled eczema as in our patient. The delay in treatment can be life threatening, since the virus spreads quickly. This case illustrates the importance of quickly recognizing the presentation of eczema herpeticum to prevent delays in treatment with acyclovir.
+
+# ELEVATED VITAMIN B12 IN A CASE OF PERNICIOUS ANEMIA
+
+Marcella Tschautscher; Ryan Giddings-Connolly. Mayo Clinic, Rochester, MN. (Control ID #3164820)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose pernicious anemia as a cause of macrocytic anemia in an adult with elevated vitamin B12 levels
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that anti-intrinsic factor antibodies can lead to false elevations in serum vitamin B12 levels
+
+# CASE:
+
+A 59 year old woman with a history of chronic venous insufficiency, hypothyroidism, attention deficit hyperactivity disorder, nicotine use disorder, and traumatic brain injury presented to her outpatient visit for evaluation of a new, right>left lower extremity lace-like, non-pruritic rash and paresthesias. She denied new or worsening lower extremity pain, fevers, fatigue, urinary or abdominal symptoms. Medications included dextromethorphan and levothyroxine. Physical exam was notable for livedo reticularis involving the lower extremities that was blanchable and improved with elevation. Lab work consisting of complete blood counts, blood smear, coagulation studies, ferritin, liver function tests, creatinine, creatine kinase, thyroid function studies, vitamin B12, ANA, and ANCA was notable for hemoglobin 6.9 g/dL, MCV 124.7 FL, macrocytic red blood cells platelet count 114x109/L, and vitamin B12>1,400 ng/dL. A methylmalonic acid (MMA) level was obtained and returned elevated at 50 nm/mL (ref<0.4 nm/mL) consistent with vitamin B12 deficiency. She was started on intramuscular vitamin B12 1000 mcg/mL monthly. Three months into treatment additional blood work was performed and notable of a positive for anti-intrinsic factor antibody and anti-parietal cell antibody (59.6 U (ref:<20 U)). Her hemoglobin had improved to 12.1 g/dL with resolution of livedo reticularis.
+
+# IMPACT/DISCUSSION:
+
+Although this patient demonstrated vitamin B12 deficiency as demonstrated by elevation of her MMA level, it is intriguing that her vitamin B12 level was not only elevated, but above the upper limit of normal. Standard practice sways us to rely on the competitive-binding luminescence assay (CBLA) for quantitative cobalamin measurements. This specific assay has been shown to report false normal levels of vitamin B12 in a state of deficiency, and more specifically-in pernicious anemia. This inaccuracy is due to the assay's inability to inactivate the anti-intrinsic factor antibody which can pose as cobalamin. This finding was studied from stored serum in patients with B12 deficiency with all false normal cobalamin levels only occurring among those who tested positive for anti-intrinsic factor antibody. This case highlights the importance of measuring an MMA level when evaluating for vitamin B12 deficiency and the limitations in using the CBLA in quantifying cobalamin levels especially in the setting of pernicious anemia.
+
+# CONCLUSION:
+
+The MMA level remains essential in evaluating for vitamin B12 deficiency and should be used in routine clinical practice. The CBLA has its limitations in quantifying cobalamin levels and should be recognized for its capability of reporting false normal values in the setting of pernicious anemia.
+
+# ELSBERG SYNDROME: AN UNDER-RECOGNIZED CAUSE OF CAUDA EQUINA SYNDROME
+
+Joel Burnett1; Christopher P. Terndrup2. 1Oregon Health & Science University, Portland, OR; 2Oregon Health and Sciences University, Portland, OR. (Control ID #3186102)
+
+# LEARNING OBJECTIVE #1:
+
+Identify compressive and non-compressive causes of cauda equina syndrome.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize Elsberg syndrome - an atypical presentation of herpes genitalis.
+
+# CASE:
+
+A 62-year-old woman with chronic left lower extremity radiculopathy, chronic kidney disease, hypertension, and remote invasive ductal carcinoma in remission presented to urgent care with one week of chills, vaginal pain, dysuria, urinary retention, and constipation. She had a new sexual partner of 4 months. They did not use condoms. On exam, vitals were within normal limits. Genitourinary exam revealed vaginal erythema and multiple, bilateral ulcerative lesions of the labia. Urinalysis was unremarkable. Tests for Neisseria gonorrhea and Chlamydia trachomatis were negative. HSV culture of a genital lesion was positive. She was prescribed acyclovir and advised to follow up in one week. A week later she represented with improvement in the genital lesions and new complaints of perineal numbness and fecal and urinary incontinence. A detailed neurologic exam was not documented. CT abdomen and pelvis with contrast revealed anterolisthesis of L3-L4 causing narrowing of the thecal sac. She was referred to neurosurgery but failed to schedule an appointment. After 6 weeks, she presented to her primary care physician (PCP), reporting persistent but improved fecal incontinence and perineal paresthesia. Exam was notable for normal gait, 5/5 lower extremity strength, decreased perineal sensation, and flaccid rectal tone. She was sent to the emergency department for urgent MRI and surgical evaluation. MRI spine without contrast redemonstrated L3-L4 anterolisthesis with moderate canal stenosis. She was evaluated by orthopedic surgeons who concluded that "her degree of stenosis [did] not explain her incontinence symptoms. Other causes should be investigated" thus she was discharged. After 3 weeks, she saw her PCP and reported continued improvement in fecal incontinence and paresthesia. After careful review of primary data and consideration of etiologies of CES, she was diagnosed with Elsberg syndrome - a self-limited cause of CES due to genital HSV infection - and was continued on acyclovir.
+
+# IMPACT/DISCUSSION:
+
+In this case, a woman with chronic spinal stenosis developed subacute CES after acute HSV infection, underwent spinal imaging and surgical evaluation, and was judged to have insufficient spinal stenosis to account for CES. Over time she experienced spontaneous symptom improvement. This presentation is best explained by Elsberg syndrome, a manifestation of a primary infection or reactivation of HSV-2 consisting of acute/subacute sacral radiculitis. The syndrome presents with CES of acute/subacute onset and recent or coexisting HSV infection in the absence of alternative CES causes. The syndrome is likely under-recognized. Epidemiological data is scarce.
+
+# CONCLUSION:
+
+While managing patients with acute or chronic genital HSV, physicians should be aware that cauda equina syndrome can present as severe manifestation of HSV infection.
+
+# EMOTIONAL STRESS INDUCED SPONTANEOUS CORONARY ARTERY DISSECTION
+
+Victoria Gonzalez1; Mulham Shikh Hamdon2; Vesna Tegeltija1. 1Wayne State University, Rochester Hills, MI; 2Wayne State University, Shelby TWP, MI. (Control ID #3185229)
+
+# LEARNING OBJECTIVE #1:
+
+Spontaneous coronary artery dissection (SCAD) is an important yet often forgotten cause of ACS, especially in women presenting with acute myocardial infarction. Frequently associated with varying precipitating risk factors, we are presenting a case in which intense emotional stress alone led to dissection in the absence of other identifiable underlying predisposing risk factors.

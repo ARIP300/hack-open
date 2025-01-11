@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# HOW WELL DO NEWLY ARRIVED INTERNS INTERPRET ECG'S
+
+Leonardo L. Zelaya Castillo; Adam Horblitt; Gabriela Andries; zahava Farkas; Michael Karass; Jason Goutis; Rebecca Newman; Merita Shehu; Melissa Gennarelli; Leanne Forman; Srikanth Yandrapalli; Christopher Nabors. Westchester Medical Center, Valhalla, NY. (Control ID #3161259)
+
+# BACKGROUND:
+
+Resident physicians are often the first clinicians to review an ECG and to make critical initial management decisions. Thus, it is essential that residents are able to rapidly interpret urgent findings on ECG.
+
+# METHODS:
+
+17 ECG's which were believed to demonstrate either normality or a primary diagnosis were identified. This content was based upon the ECG types identified by Jablonover, and Stagnaro-Green. The ECG's were pilot tested by 3 chief residents and 2 faculty members for clarity and ease of diagnosis. All 34 interns were asked to take the test over a two day span during the second month of training without using any reference materials.
+
+# RESULTS:
+
+Details in table 1. Trainees rated their preparedness to interpret ECG's (1, not well to extremely well, 5) at mean 2.34 and how intensively their medical school had focused on ECG training (1, not intensively to very intensively, 5) at 2.58. In medical school 29 respondents (88%) had a moderate or considerable amount of self-learning and 28 (85%) a small or moderate amount of classroom teaching and lectures; 30 (94%) had very little to only a moderate amount of hands on clinical training or small groups sessions 32 (97%). Compared to those who had a moderate amount of classroom training in medical school, those who had very little scored lower (59%, SD 25%) versus Mean: 75%, SD 17%). Of those who rated their preparedness to interpret ECG's at the second highest or highest level on a five point scale, the mean score was 90%, SD 10%. Of those who believed their medical school focused on ECG training at the second highest or highest intensity, mean scores were 72% SD 19%.
+
+# CONCLUSIONS:
+
+In this study, the ability to accurately identify important ECG patterns varied widely. Testing of early trainees may permit a targeted approach to teaching ECG's. Further study may permit an association to be identified between types of pre-residency ECG training experiences and subsequent competence in ECG interpretation during residency training.
+
+# HUNGER IS HEALTH: THE ASSOCIATION BETWEEN FOOD INSECURITY AND TYPE 2 DIABETES IN AN URBAN, SAFETY NET HOSPITAL PATIENT POPULATION
+
+Meghana Anugu; Emily A. Kaltz; Jada C. Bussey-Jones. Emory University, Atlanta, GA. (Control ID #3185801)
+
+# BACKGROUND:
+
+Food insecurity remains a pressing public health issue. Literature suggests food insecure individuals are at greater risk for developing type 2 diabetes mellitus (T2DM), a condition associated with increasing morbidity and mortality in the United States. We aim to estimate the prevalence of food insecurity and how it relates to T2DM status in an urban, safety net hospital setting.
+
+# METHODS:
+
+We conducted a cross-sectional survey of 323 patients in the Primary Care Center at Grady Memorial Hospital (GMH), in Atlanta, GA from January 2016 to March 2017. Survey included demographic information including age, sex, race, household income, number of people in the household, and zip code, items to assess food insecurity, SNAP utilization, and diabetes status. An affirmative response to either question in the USDA 2-item food security screener was classified as food insecure, which has been previously validated as 97% sensitive. Primary outcome was a combined variable of prediabetes and type 2 diabetes.
+
+# RESULTS:
+
+The overall prevalence of food insecurity among the study sample was 53.5%. Considering diabetes status, food insecurity status was 37.5% and 62.5% among non-T2DM and T2DM patients, respectively. In multivariable logistic regression analyses, the odds of having diabetes was 2.6 times greater (95% CI 1.7-4.1) among food insecure patients compared to food secure patients. The effect remained statistically significant after controlling for sex, race, and income [2.6 (95% CI 1.5-4.4)]. Gender significantly modified the association between food insecurity and diabetes with an increased odds of diabetes among men with food insecurity [odds ratio 5.1 (95% CI 2.5-9.8)] compared to women [odds ratio 1.5 (95% CI 0.8-2.8)].
+
+# CONCLUSIONS:
+
+The prevalence of food insecurity in our sample was greater than four times the national average of 11.8%. This likely reflects the disparities and needs facing the patients of an urban, safety net hospital setting. There is a clear association between food insecurity and T2DM in the patient population studied. Further, our finding that gender significantly modified food insecurity and T2DM may reflect the differences in coping mechanisms between men and women who are in poverty and food insecure. For example, it has been suggested in the literature that men who are food insecure are less likely to access SNAP services. Given the high prevalence of food insecurity and the association between food insecurity and T2DM, we assert that initiatives to address T2DM need to consider food insecurity as an important and potentially intervenable variable. Initiatives to address this may include screening for food insecurity in patients with diabetes and food as medicine as an adjunct to diabetic treatment plans.
+
+# HYPERTENSION CARE DELIVERY IN RESOURCE-LIMITED SETTINGS: A LITERATURE REVIEW
+
+Daniel C. Mays; David J. Heller; Rose C. Nanyonga. 1 Icahn School of Medicine at Mount Sinai, New York, NY; 2 Clarke International University, Kampala, Uganda. (Control ID #3185472)
+
+# BACKGROUND:
+
+Hypertension, along with other non-communicable diseases, poses a significant burden of morbidity and mortality in low- and middle-income countries (LMICs) around the world. Health systems in LMICs are faced with the challenge of delivering care to prevent and treat such diseases with limited resources. There is a growing body of evidence on unique approaches to managing hypertension in resource-limited health systems, but these data have not been formally synthesized. This literature review aims to summarize high quality evidence through a systematic exploration of existing literature on hypertension care delivery in resource-limited settings.
+
+# METHODS:
+
+We conducted a systematic literature search using primarily the PubMed and Scopus databases along with grey literature databases. Title and abstract keywords as well as Medical Subject Heading (MeSH) terms focused the search on interventions addressing non-obstetric systemic arterial hypertension in adults in LMICs throughout the Global South. Titles and abstracts were systematically reviewed and rated according to relevance to the study aim. The most relevant publications underwent a focused in-depth analysis.

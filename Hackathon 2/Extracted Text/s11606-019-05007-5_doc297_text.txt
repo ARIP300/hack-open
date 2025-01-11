@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# EXPERIENCES OF BIAS DURING MEDICAL SCHOOL INTERVIEWS
+
+have been unsuccessful in attracting a diverse student body. Implicit bias is pervasive in medicine, including potentially in the medical school admissions process.
+
+# METHODS:
+
+We invited all 2018-2019 applicants who interviewed at one US medical school to complete the validated 8-item Everyday Discrimination Scale (EDS) asking about experiences of bias during their medical school interview experiences at any institution where they had interviewed. The survey asked participants the number of schools at which they had interviewed, and assessed covariates including their place of birth, race, ethnicity, native language, religious affiliation, sexual orientation, gender identity, disability status, veteran status and socioeconomic status.
+
+# RESULTS:
+
+Three hundred forty-seven (30%) of 1175 interviewees completed the survey. Respondents reported having had a median of three interviews (range 1-16), and had a mean age of 23 (range 19-32). One hundred ninety (54.8%) respondents reported White/Caucasian race, 83 (23.9%) reported Asian race, 31 (9.0%) reported mixed race, and 14 (4.0%) reported Black or African-American race. Sixty-seven (19.3%) reported Latino, Hispanic or Spanish ethnicity. One hundred ninety-eight (57.1%) reported female gender and 144 (41.5%) were male; 296 (85.3%) reported their sexuality as straight. Most respondents (334, 96.3%) reported having no disability, and 60 (17.3%) reported being from socially disadvantaged backgrounds. Participant demographics matching those of the broader interviewee pool. Seventy-two (20.7%) respondents answered yes to one or more items on the EDS across their interview experiences. Gender, age, race, national origin, religion, and sexual orientation were all sources of discrimination. Among those responding affirmatively to a question on the EDS, 35% reported experiencing bias at more than one institution. Those reporting bias had completed more interviews (5.2 vs. 3.9, P<0.05) and were more likely to be Latino (30.6% vs. 16.4%, P<0.05). Two (14.3%) Black/African-American respondents, 22 (33%) Latino respondents, and 44 (22%) women answered yes to at least one question on the EDS. Only three (4%) reported the incident of bias to the medical school where it occurred—many participants reported telling friends or family members (68%) or doing nothing (30%).
+
+# CONCLUSIONS:
+
+One in five medical school applicants described experiencing bias during their interview process but very few reported such incidents. Latino ethnicity was associated with a higher likelihood of reporting bias, however, many of our subgroups were too small to allow meaningful subgroup analyses. Further work exploring applicant experiences of bias, how such experiences may affect medical school student body diversity, and how to decrease the frequency of incidents of bias is warranted.
+
+# USABILITY OF M-HEALTH APPLICATIONS FOR SAFETY NET POPULATIONS
+
+Shreya Sharma1; Rebecca G. Mishuris1; Katherine Gergen-Barnett1; Jack Maypole2. 1Boston University School of Medicine, Boston, MA; 2Boston University School Of Medicine, Boston, MA. (Control ID #3183095)
+
+# BACKGROUND:
+
+The number of smartphone users among diverse, low-income communities is growing in the United States. As a result, mobile applications ("apps") are serving as an accessible means for health management. Unfortunately, little is known about how to evaluate health related apps or their usability features for diverse, low-income populations. We sought to define mobile health app features important for the needs of these populations and identify apps in the areas of chronic disease management and medication adherence that best included these features.
+
+# METHODS:
+
+In June 2018, online databases (PubMed, Embase) were searched to identify articles related to evaluating the usability of mobile applications in health and wellness. App domains evaluated in past studies were assessed to create a list of domains for rating apps relevant to diverse, low-income populations in this research study (Sarkar, Arnhold, Gordon, Stephan, Stowell, Vilardaga, Vu, Wen). The domains were categorized as: Usability, Population focus, Technology, and Clinical Impact. Each domain was given a weight related to importance in the usefulness of a mobile application by independent coders (RGM,KGB,JM) and a reviewer (SS) then adjudicated these weights. Ten apps in smoking cessation, diabetes management, and medication adherence were chosen to be rated by a coder (SS) in each domain with a score of 0 to 3. Zero was assigned if the specific domain was unavailable, and 3 was assigned if the domain had high usability for the target population. The weight of each domain was incorporated into the domain's rating; the weighted scores across all domains were added to assign each app a final overall score. The apps with the highest overall scores were considered by a local patient advisory board for final recommendation of patient use.
+
+# RESULTS:
+
+The most important domains for diverse, low income communities include: languages available, literacy, graphics, multimedia, usability, patient centeredness, data entry mode, data exportability, cost, evidence based content, platform, connectivity requirement, social support provided, cultural sensitivity, privacy, updates, and a message or reminder function. Domains such as literacy and language had greater utility value than privacy and data entry. The top weight ranked apps for smoking cessation were Smoke Free- Quit Smoking Now and QuitNow! with an average score of 149.5/201 and 156/201; the apps for diabetes management were Glucosio and MyNetDiary with an average of 147/201 and 146/201; the apps for medication adherence were Medisafe and MyMeds with an average of 137.5/201 and 126/201.
+
+# CONCLUSIONS:
+
+Our research has shown that app domains relevant to low SES populations can be identified and used to rate and validate apps which specifically address these populations' needs. The next steps of this study are to implement the suite of apps in primary care clinics as "prescriptions" for patients and to determine uptake and impact of these specific mobile apps on health-related behaviors.
+
+# USE OF A NATURAL LANGUAGE PROCESSING ALGORITHM TO PREDICT READMISSIONS AT A VETERANS AFFAIRS HOSPITAL
+
+Ryan D. Schulteis2; Joseph E. Lucas3; Joel C. Boggan1; David L. Simel2. 1Duke University Health System, Durham, NC; 2Durham VAMC and Duke University, Durham, NC; 3Duke University, Durham, NC. (Control ID #3186428)
+
+# BACKGROUND:
+
+Health systems have sought to predict hospital readmissions, with the hope of reducing readmissions through targeted interventions. The Department of Veterans Affairs (VA) developed an independently validated risk calculator with c-statistic of 0.65 used locally at Durham VA Medical Center (DVAMC) since 2010. We hypothesized including documentation from resident discharge summaries in a natural language processing (NLP) algorithm would improve the predictive accuracy for readmissions.
+
+# METHODS:
+
+All medicine discharge summaries over two academic years from 7/1/2016 through 6/30/2018 that included a calculated risk of readmission using the VA readmission risk calculator were collected from the VA electronic health record. We then extracted the calculated risk percentage of subsequent readmission within 30 days included within the summary text and excluded patients readmitted in less than 24 hours. Readmission events then were defined as subsequent admission to DVAMC within 30 days. An ROC curve was constructed to test the discriminatory power of predicted readmission risk from the calculator. For NLP, the set of discharge summaries was split into training and test sets. The text of each discharge summary was preprocessed and converted to a list of integer tokens and subsequently passed to a neural network. The network then outputs another predicted probability of readmission based upon the encoding of the discharge summary text - the "NLP Readmission Probability". We measured the predictive power of this NLP Readmission Probability with an additional ROC curve. Finally, logistic regression was used to add NLP prediction to the previous calculated risk to test for improved predictive ability.

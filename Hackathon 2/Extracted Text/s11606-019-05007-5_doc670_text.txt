@@ -1,0 +1,56 @@
+# ABSTRACTS
+
+# THE EAST BALTIMORE FARM TO CLINIC VEGETABLE INITIATIVE: A PILOT PROGRAM TO DISTRIBUTE VEGETABLES TO PATIENTS WITH CHRONIC DISEASE IN AN URBAN CLINIC
+
+Theresa R. Aguilar1; Amelia Cover2; Laura Harding-Fukushima3; Katherine Rediger2, 3; Donald R. Miles1, 3. 1Johns Hopkins University School of Medicine, Baltimore, MD; 2Johns Hopkins University School of Nursing, Baltimore, MD; 3Johns Hopkins Community Physicians, Baltimore, MD. (Control ID #3184233)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Inadequate intake of healthy foods is associated with chronic disease, and East Baltimore Medical Center (EBMC) is located in a neighborhood where one third of residents lack access to fruits and vegetables.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- Establish a partnership between an urban clinic and a local farm to provide fresh vegetables to underserved patients
+- Assess the feasibility of a Community Supported Agriculture (CSA) model to distribute fresh vegetables to adult patients at a clinic in an under-resourced neighborhood
+- Engage the EBMC patients in consumption of increased amounts of vegetables and healthy diet educational initiatives
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+EBMC, an outpatient office of Johns Hopkins, is in the Greenmount East neighborhood, which is predominantly black (96.6%) and 33.8% live in poverty. Heart disease is the leading cause of death. Primary food sources are corner stores, which have limited fresh vegetables, making it difficult to eat a healthy diet to reduce cardiovascular disease risk or contributing risk factors, like diabetes and obesity. The initiative was developed by health care professionals at EBMC and staff at Karma Farm of Monkton, Maryland. Fresh vegetable bags were distributed to patients with obesity, diabetes, or hypertension at EBMC weekly for 13 weeks during Summer 2018. Three monthly cooking classes were held.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Participants were surveyed for demographics, insurance, use of federal food assistance, and food insecurity, using a sensitive and specific 2-item screen. Those returning were surveyed for satisfaction to measure engagement. EBMC staff were surveyed to assess perception of patient food insecurity, program awareness, and likelihood of referring patients to a long-term program. Descriptive statistics and a Chi-square Test of Independence were performed with R. A focus group was conducted for qualitative feedback. In a one hour session, 7 participants were asked open-ended questions about program satisfaction and suggestions for future initiatives.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+541 CSA bags were provided to 421 participants. 75.5% were females. 44.9% had Medicaid insurance. 47.7% had federal nutrition assistance. 63% has food insecurity. Those with federal nutrition assistance were more likely to report food insecurity. 10% returned to pick up a bag. Those returning scored average satisfaction at 9.4 out of 10. 95% of those returning would want a weekly bag. Every cooking class participant would attend again. 95.7% of staff would refer patients to a long-term program. Focus group responses highlighted appreciation of vegetables, benefits of cooking classes, financial barriers to healthy eating, and desire to learn about nutrition.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Participants rated vegetable bags and cooking classes highly, corroborated by focus group qualitative data. We believe vegetable distribution and cooking classes are valuable for clinics with vulnerable patients. While the amount of vegetables provided was not enough to affect food insecurity, we believe this program fostered health behavior change among participants.
+
+# THE EFFECT OF A FRACTURE LIAISON SERVICE FOLLOWING HIP FRACTURE ON A VA POPULATION.
+
+Sean Bradley1, 2; Sarah Hall2; Yarbrough Peter2. 1University of Utah, Salt Lake City, UT; 2George E Whalen VA Hospital, Salt Lake City, UT. (Control ID #3184397)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Determine if a Fracture Liaison Service (FLS) improves treatment of osteoporosis following first time hip fractures in a single VA population.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify patients with hip fractures during hospitalization with a new diagnosis of osteoporosis.
+2. Start appropriate medical therapy for newly diagnosed osteoporosis following hip fracture.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A Fracture Liaison Service (FLS) is composed of a team of licensed practical nurses and an endocrinologist at our VA hospital. Inpatient nurses identifying high risk patients for osteoporosis on the wards with signs of fragility fractures, i.e., hip fracture by reviewing inpatient team list and referring new hip fractures to endocrinology via e-consult for appropriate management either during or post hospitalization. We performed a retrospective chart review. ICD-9 and ICD-10 codes for hip fracture and osteoporosis were queried for the fiscal year 2015 and 2016 at a single VA site (SLCVA) resulting in a total of 61 first-time hip fractures to be reviewed (31 in 2015 and 30 in 2016). Primary and secondary outcomes for each year were compared using a Chi-squared test.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Primary outcomes: 1. Referral to endocrine bone health via E-consult. 2. DEXA scan within 6 months of hip fracture. 3. Bisphosphonate/denosumab initiation within 6 months of hip fracture. Secondary outcomes: 1. Vitamin D labs drawn within 6 months of hip fracture. 2. Vitamin D/Calcium supplementation within 6 months of hip fracture. 3. 1 year mortality following hip fracture.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+There was a significant difference in increased endocrine bone referral (p = 0.03785), medication use (p = 0.000003), vitamin D level drawn (p = 0.023119), and vitamin D supplementation (p = 0.022705) following the implementation of a fracture liaison service prior to the fiscal year of 2016. There was a trend towards significance in increased DEXA screening (p = 0.058125). There was no significance noted between calcium supplementation (p = 0.822565) or mortality (p = 0.912117). Interestingly, the one-year mortality rate for the two years was noted to be 42.62%.

@@ -1,0 +1,66 @@
+# Work stress, mental health, and employee performance
+
+TYPE: Original Research
+
+PUBLISHED: 08 November 2022
+
+DOI: 10.3389/fpsyg.2022.1006580
+
+# EDITED BY
+
+Daisheng Tang, Beijing Jiaotong University, China
+
+# REVIEWED BY
+
+Essa Khan, Bahria University, Pakistan
+
+Muhammad Imran Malik, COMSATS University Islamabad, Attock, Pakistan
+
+# CORRESPONDENCE
+
+Biao Li
+lib0023@zzu.edu.cn
+
+# SPECIALTY SECTION
+
+This article was submitted to Personality and Social Psychology, a section of the journal Frontiers in Psychology
+
+# RECEIVED
+
+29 July 2022
+
+# ACCEPTED
+
+10 October 2022
+
+# PUBLISHED
+
+08 November 2022
+
+# CITATION
+
+Chen B, Wang L, Li B and Liu W (2022) Work stress, mental health, and employee performance. Front. Psychol. 13:1006580. doi: 10.3389/fpsyg.2022.1006580
+
+# COPYRIGHT
+
+© 2022 Chen, Wang, Li and Liu. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+# Affiliations
+
+1 School of Business, Zhengzhou University, Zhengzhou, China
+
+2 Henan Research Platform Service Center, Zhengzhou, China
+
+# Abstract
+
+The COVID-19 pandemic outbreak—as a typical emergency event—significantly has impacted employees’ psychological status and thus has negatively affected their performance. Hence, along with focusing on the mechanisms and solutions to alleviate the impact of work stress on employee performance, we also examine the relationship between work stress, mental health, and employee performance. Furthermore, we analyzed the moderating role of servant leadership in the relationship between work stress and mental health, but the result was not significant. The results contribute to providing practical guidance for enterprises to improve employee performance in the context of major emergencies.
+
+# KEYWORDS
+
+COVID-19, work stress, mental health, employee performance, social uncertainty
+
+# Introduction
+
+Small- and medium-sized enterprises (SMEs) are the key drivers of economic development as they contribute >50, 60, 70, 80, and 90% of tax revenue, GDP, technological innovation, labor employment, and the number of enterprises, respectively. However, owing to the disadvantages of small-scale and insufficient resources (Cai et al., 2017; Flynn, 2017), these enterprises are more vulnerable to being influenced by emergency events. The COVID-19 pandemic outbreak—as a typical emergency event—has negatively affected survival and growth of SMEs (Eggers, 2020). Some SMEs have faced a relatively higher risk of salary reduction, layoffs, or corporate bankruptcy (Adam and Alarifi, 2021). Consequently, it has made employees in the SMEs face the following stressors during the COVID-19 pandemic: First, employees’ income, promotion, and career development opportunities have declined (Shimazu et al., 2020). Second, as most employees had to work from home, family conflicts have increased and family satisfaction has decreased (Green et al., 2020; Xu et al., 2020). Finally, as work tasks and positions have changed, the new work environment has made employees less engaged and less fulfilled at work (Olugbade and Karatepe, 2019; Chen and Fellenz, 2020).
+
+For SMEs, employees are their core assets and are crucial to their survival and growth (Shan et al., 2022). Employee work stress may precipitate burnout (Choi et al., 2019; Barello et al., 2020), which manifests as fatigue and frustration (Mansour and Tremblay, 2018), and is associated with various negative reactions, including job dissatisfaction, low organizational commitment, and a high propensity to resign (Lu and Gursoy, 2016; Uchmanowicz et al., 2020). Ultimately, it negatively impacts employee performance (Prasad and Vaidya, 2020). The problem of employee work stress has become an important issue for organizations.

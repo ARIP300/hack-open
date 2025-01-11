@@ -1,0 +1,53 @@
+# JGIM
+
+# ABSTRACTS
+
+# Rachel O. Reid1, 2; Susan M. Paddock1; Cheryl Damberg1. 1RAND Corporation, Boston, MA; 2Brigham and Women's Hospital, Boston, MA. (Control ID #3167588)
+
+# BACKGROUND:
+
+As policymakers face pressure to reduce measurement burdens, understanding what happens to measure performance after de-incentivization is important. The Centers for Medicare & Medicaid Services (CMS) publishes 5-star quality ratings for Medicare Advantage plans and pays Quality Bonus Payments to highly-rated 4- and 5-star plans. The Star Ratings incorporate measures from various sources [e.g., Healthcare Effectiveness Data and Information Set (HEDIS), Consumer Assessment of Healthcare Providers and Systems (CAHPS), Health Outcomes Survey (HOS)]. CMS has added and removed Star Rating measures over time; removed measures are still monitored and reported on cms.gov, but no longer contribute to bonus payments and are not publicly-reported on Medicare Plan Finder. No prior study has examined performance on measures removed from the Star Rating program.
+
+# METHODS:
+
+We examined 201 Medicare Advantage plans that received Star Ratings (i.e., Local Coordinated Care Plan (CCP), Medical Savings Account, Private Fee-for-Service, Regional CCP), were continuously present without mergers between 2009 and 2018, and had at least 1000 enrollees each year from 2009 to 2016. We excluded Puerto Rico plans. We assessed mean plan performance on Part C HEDIS, HOS, and CAHPS measures continuously reported to CMS for the 2009 to 2018 Star Ratings, excluding measures removed from the Star Ratings before 2012 or those temporarily removed for 1 or 2 years. We identified 13 measures that continuously contributed to Star Ratings and 6 measures removed from Star Ratings in 2012 or 2013.
+
+# RESULTS:
+
+Among the 6 measures removed from the Star Ratings, performance improved over the entire measurement period from 2009 to 2018 (from +2.2 percentage-points for "Doctors Who Communicate Well" to +8.7 percentage-points for "Testing to Confirm Chronic Obstructive Pulmonary Disease") and after removing the measure from Star Ratings (from +0.9 percentage-points for "Access to Primary Care Doctor Visits" to +6.7 percentage-points for "Testing to Confirm Chronic Obstructive Pulmonary Disease"). Among the 13 measures remaining in the Star Ratings between 2009 and 2018, performance trends varied from -0.3 percentage-points for "Getting Needed Care" to +21.6 percentage-points for "Osteoporosis Management in Women who had a Fracture". We did not observe declines in performance after measures were removed from the Star Ratings, compared to before removal and to performance on measures that remained incentivized in the Star Ratings.
+
+# CONCLUSIONS:
+
+Removing measures from the Medicare Advantage Star Ratings public reporting and financial incentives program did not result in performance declines, nor did performance trends differ from measures remaining in the Star Ratings. Payers and policymakers considering remov- ing measures from public reporting or financial incentive programs should not necessarily anticipate worsening performance.
+
+# DOES TRAINING MATTER? ATTENDING PHYSICIANS' CORE CLINICAL SKILLS DO NOT APPEAR TO BE ANY BETTER THAN THOSE OF THEIR RESIDENTS.
+
+Khemraj Hardowar; Lisa Altshuler; Colleen C. Gillespie; Jeffrey Wilhite; Harriet Fisher; Sarah Chaudhary; Kathleen Hanley; Sondra Zabar. NYU School of Medicine, New York, NY. (Control ID #3185414)
+
+# BACKGROUND:
+
+Considerable resources are put into training physicians to be effective providers after residency. Practicing physicians are generally assumed to be more effective and more efficient than resident physicians who are still undergoing training. We capitalize on a unique opportunity to test that hypothesis using the controlled methodology of Unannounced Standardized Patients (USPs), Standardized Patients sent into clinical environments to systematically assess provider skills in the context of a standardized clinical scenario. Due to last minute scheduling changes, a small sample of attending physicians ended up seeing USPs we had intended to send to residents. In this study, we report on comparisons between how these attending physicians performed in terms of their patient centeredness, patient activation, assessment, and communication skills in comparison to residents.
+
+# METHODS:
+
+6 USP visits were delivered to primary care clinics in an urban safety net hospital from 2009 to 2015. Of those 700+ visits, visits were completed inadvertently with 16 attendings. We selected the 16 attendings with at least 4 years of post-graduate experience and then matched them with 2 resident visits based on hospital, time period, and USP visit type (n=32 residents). In all visits, USPs completed a behaviorally anchored post-visit checklist that assessed patient centeredness (4 items), patient activation (2 items), visit-specific assessment (10 items), and communication skills including information gathering (4 items), relationship development (5 items) and patient education (3 items). Items were rated as not done or partially done vs. well done and summary scores were calculated as % well done. Mean scores for attendings and matched residents were compared using t-tests.
+
+# RESULTS:
+
+Resident and attending scores on patient centeredness (68% vs 73%), patient activation (44% vs 38%), assessment (53% vs 51%), patient education (49% vs 52%), information gathering (71% vs 78%) and relationship development (70% vs 73%) did not significantly differ (p>.05). Nor did we see any substantial differences in variances or find any outliers.
+
+# CONCLUSIONS:
+
+In our matched sample of residents and attendings, there were no significant differences by training level for any of the assessed clinical skills. While we viewed the inadvertent scheduling of USP visits with attendings as an opportunity to investigate the impact of training, our study is limited by the small sample size and whether we were able to create good matches. Findings may reflect ceiling effects (our checklists are too hard) or expertise-reversal effects (experts can skip some elements of the interaction and still arrive at the correct diagnosis and treatment plan). Further research, if our mistakenly-assessed attending sample increases, could explore the influence of PGY level and of patient load as attendings carry substantially heavier patient panels and see more (and probably more complex) patients per day than residents.
+
+# DOES URBAN OR RURAL HOSPITAL LOCATION INFLUENCE RISK FACTORS AND INCIDENCE RATE OF 30-DAY READMISSION FOR CONGESTIVE HEART FAILURE IN THE UNITED STATES?
+
+Michael Andryka1; Ron T. Varghese1; Gilbert-Roy B. Kamoga2; Khaled Khasawneh1; Neal Mehta1. 1White River Health System, Batesville, AR; 2White River Medical Center, Batesville, AR. (Control ID #3185559)
+
+# BACKGROUND:
+
+Congestive Heart Failure (CHF) admissions continue to rise with nearly 1 Million hospitalizations annually [1]. Furthermore, previous literature suggests that hospital characteristics such as location affect CHF hospitalization outcomes [2]. We sought to determine the 30-day all-cause readmission rate for adults (age >= 18) admitted with a principal diagnosis of CHF and compare the risk factors for readmission at urban and rural hospitals.
+
+# METHODS:
+
+We utilized Agency of Healthcare Research and Quality's (AHRQ) 2014 Nationwide Readmission Database which includes 14.9 Million discharges across 22 states to identify admissions with a principal diagnosis of CHF using ICD-9 codes (402.01, 402.11, 402.91, 404.01, 404.11, 404.03, 404.13, 404.91, 404.93 and 428.XX). Applicable admissions were all adults (age >= 18) with an index hospitalization discharge between January 1 to November 30, 2014. Patients who died during index admission and those with missing covariates were excluded. Rural and Urban classification was determined using the 2013 NCHS Urban-Rural Classification Scheme. All-cause readmissions within 30-days of an index admission were analyzed. Statistical analysis was completed with Stata 15 (StataCorp, College Station, TX) with p-values < 0.05 considered statistically significant. A univariate and multivariate analysis of data collected was completed using.

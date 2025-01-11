@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+dysphagia, odynophagia, nausea, vomiting, and weight loss. She was well-appearing and had no abnormal findings on exam. Her only medication was daily famotidine. She reported strict adherence to past antibiotic regimens. She was seen in gastroenterology clinic and another salvage regimen was prescribed however her stool Ag remained positive. She was referred to infectious disease who recommended repeat endoscopy with biopsies for H. pylori culture and susceptibility testing. Her isolate was found to be resistant to macrolides.
+
+# IMPACT/DISCUSSION:
+
+H. pylori infection is prevalent and has been associated with chronic gastritis, peptic ulcer disease, and gastric malignancy. First line treatment is either clarithromycin triple therapy or bismuth quadruple therapy. Confirmation of eradication should be performed in all cases as one in five patients will experience treatment failure after initial therapy. Factors associated with successful eradication include choice of antibiotic regimen, patient adherence to therapy, and sensitivity of the organism to the medications administered. The initial regimen should be selected based on prior antibiotic exposures and allergies. Unfortunately, few data on resistance rates are available to guide antibiotic selection. Current guidelines recommend culture with antibiotic sensitivity testing after two failed treatment attempts. Ms. J underwent five failed treatment attempts over two years before she underwent more definitive testing. Ms. J may have been spared multiple rounds of antibiotics, numerous office visits, and testing with a better understanding of the guidelines for managing treatment resistant H. pylori.
+
+# CONCLUSION:
+
+Treatment failure after initial therapy and relatively common and occurs in one out of five patients. Treatment selection, patient adherence to treatment, and medication resistance are key factors that predict successful eradication of H. pylori infection. Management for treatment failure for H. pylori infection is salvage therapy and then culture and susceptibility testing to guide antibiotic selection.
+
+# TRICKY TO PINPOINT: AN UNUSUAL CAUSE OF CHEST PAIN IN A YOUNG MAN
+
+Stephen Russell; Patrick Manning; Ricardo Cruz. Boston Medical Center, Boston, MA. (Control ID #3184995)
+
+# LEARNING OBJECTIVE #1:
+
+Review etiology and diagnosis of Thrombotic Thrombocytopenic Purpura (TTP)
+
+# LEARNING OBJECTIVE #2:
+
+Recognize and manage cardiac complications of TTP including acute coronary syndromes (ACS)
+
+# CASE:
+
+A 25 year old male with no past medical history presented with two weeks of progressive dyspnea on exertion and chest pain. The pain was substernal, pressure-like, and improved with rest. He had one day of dark colored urine, abdominal pain and nausea. On exam he was tachycardic, tachypneic, hypertensive, and in moderate distress. Initial labs revealed a platelet count of 13. There was evidence of microangiopathic hemolytic anemia (MAHA) with hemoglobin 7.4, LDH 2388, haptoglobin <8, and bilirubin 3.1. Blood smear showed shistocytes. Provisional diagnosis of TTP was made and he was admitted to the medical intensive care unit for therapeutic plasma exchange (TPE). Cardiac evaluation was pursued. Initial troponin was 1.64, CK 378. An EKG showed sinus tachycardia. An echocardiogram in the emergency department showed inferolateral and anterolateral hypokinesis with mildly reduced ejection fraction (EF). The troponin peaked at 1.8 and a diagnosis of non-ST-elevation MI (NSTEMI) was made. TTP was confirmed with ADAMTS13 level <3% and antibody titer 2.1. He was transfused with packed red blood cells and treated with metoprolol to decrease cardiac demand. Captopril was added for hypertension. The patient stabilized and repeat echocardiogram five days later showed resolution of wall motion abnormalities and an EF of 65%.
+
+# IMPACT/DISCUSSION:
+
+TTP is an acquired or hereditary hematologic disorder caused by deficiency in ADAMTS13 protease activity leading to platelet aggregation and microvascular thrombi affecting any organ. Patients classically present with MAHA, thrombocytopenia, fever, renal failure, and neurologic findings. Untreated TTP has a high mortality; the therapeutic imperative is urgent plasma exchange. Though cardiac involvement in TTP is considered rare, autopsy series have demonstrated cardiac damage in a significant number of patients. In a single center series myocardial infarction occurred in 21% of cases. While NSTEMI has been reported, detailed understanding of the clinical course and optimal treatment is unknown. Use of traditional therapeutics such as antiplatelets or anticoagulation is limited by profound thrombocytopenia and bleeding risk. The literature on cardiac imaging in TTP is limited. In case series, few patients had cardiac imaging and fewer had repeat testing after TPE. This patient uniquely had both in hospital and post hospitalization echocardiogram. He had relatively rapid improvement of wall motion abnormalities and there was no evidence of cardiac abnormality on outpatient follow up.
+
+# CONCLUSION:
+
+Initial evaluation of patients with TTP and cardiac symptoms should include cardiac biomarkers, cardiac imaging, and telemetry. Prompt treatment with TPE is the current best practice for managing cardiac complications of TTP.
+
+# TWO BROKEN HEARTS
+
+lingsheng li. Johns Hopkins Bayview Medical Center, Baltimore, MD. (Control ID #3184687)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the impact of widowhood on health outcomes in older adults
+
+# CASE:
+
+Mr. M was a 71-year-old retired security agent and primary caregiver for his wife of 49 years. His past medical history was notable for severe coronary artery disease, congestive heart failure, and atrial fibrillation. He was admitted to the cardiac progressive care unit with 2 day history of dyspnea, thought to be in setting of acute decompensated heart failure. On hospital day 3, he was found to be hypotensive, bradycardic, and went into pulseless electrical activity arrest. Resuscitation attempts were unsuccessful. Four days after Mr. M's death, his wife Mrs. M was admitted to the same service with nausea, vomiting, and elevated troponin. She also had a significant cardiac history with poorly-controlled type 2 diabetes. She underwent a left heart catheterization that showed moderate to severe 2 vessel disease not amenable to revascularization. Per her request, Mrs. M was discharged on hospital day 2 to attend her husband's funeral. Mrs. M subsequently underwent 4 more hospitalizations due to diabetic ketoacidosis. Her family noted a dramatic decline in her emotional and physical health, complicated by ongoing grief, difficulty performing activities of daily living, and managing her insulin regimen. On her last admission, she was intubated for airway protection and found to have profound acidemia, hyperglycemia, acute renal failure, and shock requiring maximum dose of 2 vasopressors. Her children concluded that she would have wanted to pass peacefully and that Mr. M would have supported this decision. Her care was thus transitioned to Do-Not-Resuscitate, Do-Not-Intubate, comfort measures. Mrs. M died 41 days after her husband's death.
+
+# IMPACT/DISCUSSION:
+
+Older, widowed patients have a 48% increase in mortality risk in setting of bereavement. This phenomenon has been described as the "widowhood effect". After her husband's death, Mrs. M suffered the loss of her biggest social support, life partner, and caregiver. Their story reflects the profound association between widowhood and adverse health outcomes such as depression, cardiovascular disease, hospitalization, and death.

@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# TAFRO Syndrome: A Case Report
+
+Abdominal pain lasting for 1 week. Her vital signs were within normal range. She had mild diffuse abdominal tenderness without rebound tenderness. Laboratory tests revealed elevation of WBC (9.7×103/μL), CRP (20 mg/dL) and ALP (575 U/L). Levels of platelet count (13.9 g/dL) and LDH (231 U/L) were normal. CT showed moderate ascites without morbid lymphadenopathy or hepatosplenomegaly. She was admitted for presumed peritonitis and started on cefmetazole. On the 3rd day, she had a fever of 39 degrees. Blood and ascitic fluid culture remained negative. Additional laboratory tests for HIV, CMV, hepatitis B and C virus, EBV, and tuberculosis were unremarkable. Tumor markers and anti-nuclear antibody were also negative. Upper and lower endoscopies revealed no abnormal pathology. CT showed pleural effusion additionally. On the 9th day, platelet count dropped to 9.2×103/μL. We added methylprednisolone and performed a bone marrow biopsy for suspected TAFRO syndrome. We also started anti-DIC therapy. On the 12th day, hemodiafiltration was started but shock vital and decreasing of platelet count sustained. On the 14th day, the results of bone marrow biopsy showed reticulin myelofibrosis, leading to our diagnosis of steroid-refractory TAFRO syndrome. We started tocilizumab as well as ciclosporin. She responded well and recovered, and was eventually discharged in good condition.
+
+# IMPACT/DISCUSSION
+
+Impact: We should suspect TAFRO syndrome in patients with thrombocytopenia, anasarca, and fever. Discussion: TAFRO syndrome was first identified in 2010. Although most cases are reported from Japan, the number of Caucasian patient cases is increasing. It involves a constellation of syndromes: Thrombocytopenia (T), Anasarca (A), Fever (F), Reticulin fibrosis (R), and Organomegaly (O). The first three criteria must be present for the diagnosis of this syndrome. Our patient had a normal platelet count at initial presentation, which was atypical. We eventually diagnosed as TAFRO syndrome when a low platelet count became evident. However, abdominal pain and elevated ALP levels with normal LDH levels may also be helpful to rule in this syndrome earlier. Most patients are initially treated with corticosteroid, but only 52% of the patients respond well to it. Some refractory cases require more aggressive therapy such as tocilizumab and ciclosporin. TAFRO syndrome often progresses rapidly but is curable as with our case. Prompt diagnosis and interventions are crucial to improve the outcome of this syndrome.
+
+# CONCLUSION
+
+TAFRO syndrome was first reported in Japan and not well known in the US. However, we should consider this syndrome as a differential diagnosis in patients with more than 1 criteria of the triad.
+
+# THE IMPORTANCE OF FILLING UP THE TANK
+
+Thomas Rusher; Deepa Bhatnagar. Tulane University School of Medicine, New Orleans, LA. (Control ID #3185294)
+
+# LEARNING OBJECTIVE #1
+
+Demonstrate the cardiac manifestations of hypophosphatemia.
+
+# CASE
+
+A 46 year old woman presented with nausea, vomiting and epigastric pain for 1 day with associated poor oral intake. She had a history of peptic ulcer disease and alcohol abuse. She denied any chest pain, shortness of breath, or palpitations. Exam was significant for epigastric tenderness. Electrocadiogram showed bradycardic sinus rhythm with prolonged QTc to 537 ms as well as biphasic t-waves. Labwork was significant for severe hypophosphatemia of 0.9 mg/dL. Her potassium was 3.5 mmol/L, and magnesium of 1.8 mg/dL. Her anion gap was calculated to be 18 with positive ketones on urinalysis. The patient received IV ondansetron and promethazine in the emergency department with improvement in her nausea symptoms. Upon transfer to the observation unit, she suddenly became apneic and pulseless. Cardiac monitoring revealed ventricular tachycardia, and later, ventricular fibrillation. The patient was resuscitated with chest compressions and 2 defibrillator shocks. Emergent coronary angiogram showed no significant coronary disease. Follow-up transthoracic echocardiogram revealed decreased left ventricular function with ejection fraction of 20-25%. The patient recovered in the hospital with repletion of her phosphorous. Repeat echocardiogram 1 month after discharge showed return of normal left ventricular systolic function.
+
+# IMPACT/DISCUSSION
+
+Phosphate plays an important role in cardiac function due to the formation of adenosine triphosphate (ATP) and red cell 2,3 diphosphoglycerate, which augments the hemoglobin-oxygen dissociation curve. Depletion of ATP can lead to dysfunction in myocardial contractility as well as decreased oxygen delivery to cardiac tissue. The importance of phosphorous to cardiac function is highlighted in studies which have shown an improvement in left ventricular function with correction of severe hypophosphatemia. Hypophosphatemia has also been linked with significant ventricular ectopic activity. Studies have shown low phosphorous is associated with a higher incidence of ventricular arrhythmias in the setting of acute myocardial infarction as well as in sepsis. Hypophosphatemia is caused by a number of mechanisms including decreased dietary intake, intracellular shift, impaired absorption, and increased renal phosphate excretion. In our case, we suspect the patient's low phosphorous was secondary to decreased PO intake. Her initial metabolic derangements were attributed to starvation ketosis and an over the counter diuretic the patient was taking. Additionally, the patient‘s EKG showed a prolonged QT interval, likely exacerbated by the IV anti-emetics she received, ultimately leading to her ventricular tachycardia.
+
+# CONCLUSION
+
+Electrolyte repletion and monitoring of QT intervals are common practices in the hospital setting. This case demonstrates the dangers associated with grossly abnormal electrolyte balance as well as the need to monitor therapies to avoid possibly fatal arrhythmias.
+
+# THE KEY IS IN THE HISTO-RY: A CASE OF FEVER IN A TRANSPLANT PATIENT
+
+Eduardo Mulanovich1; Surya Bhatt2. 1University of Alabama - Birmingham, Birmingham, AL; 2University of Alabama at Birmingham, Birmingham, AL. (Control ID #3184506)
+
+# LEARNING OBJECTIVE #1
+
+Describe disseminated histoplasmosis as a cause of sepsis in the immunocompromised host.
+
+# LEARNING OBJECTIVE #2
+
+Detail the sensitivity of diagnostic tests for histoplasmosis as well as the importance of histological evaluation.
+
+# CASE
+
+A 55-year-old man from east Texas with a kidney-pancreas transplant 14 years prior on immunosuppression was transferred for 10 days of fever, abdominal pain, and dyspnea. Physical exam was pertinent for fever, tachycardia, tachypnea, hypoxemia, and bilateral diffuse crackles. CT-chest showed diffuse ground glass opacities. He quickly developed worsening dyspnea, altered mentation, and shock requiring intubation and initiation of CRRT and vasopressors. He was started on broad spectrum antibiotic coverage for hospital acquired pneumonia and PJP. Labs showed creatinine 3.2 mg/dL, lactic acid 0.8 mMol/L, WBC 22,000/cmm (96% neutrophils), ALT 146 U/L, Alk Phos 785 U/L, ferritin >30,000 ng/mL, and LDH 1,961 U/L. CT-abdomen and CT-head were unremarkable. Cryptococcal and urine legionella antigens (Ag), T2 candida, and blood and urine cultures were negative. BAL aspergillus Ag, legionella Ag, HSV, CMV, aerobic and anaerobic cultures, and AFB were negative. On hospital day 4, peripheral blood smear revealed intracellular yeast and liposomal amphotericin B was started. Urine Histoplasma Ag was positive on day 9. Cultures from BAL and fungal isolator blood were positive for Histoplasma on day 10 and 22 respectively. He deteriorated and died on day 30.
+
+# IMPACT/DISCUSSION
+
+Histoplasmosis is an endemic mycosis of the Ohio and Mississippi river valleys that may present as an opportunistic infection in immunocompromised patients.

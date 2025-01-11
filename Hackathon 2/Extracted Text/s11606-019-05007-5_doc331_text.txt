@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Hyponatremia and Pseudohyponatremia in a Patient with Cholestasis
+
+of 22 mg/dL, direct bilirubin 14.1 mg/dL, alkaline phosphatase 1,928 U/L, and serum sodium 119 mmol/L. Initial hyponatremia was attributed to hypovolemia however sodium did not improve with intravenous fluids. Urine studies were consistent with the syndrome of inappropriate antidiuretic hormone secretion but sodium did not improve with fluid restriction. The calculated serum osmolar gap was noted to be high (23 mOsm/kg) and a subsequent lipid panel showed a total cholesterol of 1,289 mg/dL, LDL 1,059 mg/dL, HDL 184 mg/dL, and triglycerides 228 mg/dL. Lipid studies three months prior were normal. The diagnosis of pseudohyponatremia was confirmed with a normal whole blood sodium level of 135 mmol/L. Ultimately, the patient underwent biliary stent placement and biopsy confirmed pancreatic adenocarcinoma. With biliary obstruction relief, the cholestatic labs improved but the hyperlipidemia (HLD) persisted. A statin was prescribed at the time of discharge and was later discontinued.
+
+# IMPACT/DISCUSSION:
+
+Hyponatremia is common in hospitalized patients and this case highlights the importance of broadening the differential diagnosis to include an otherwise relatively rare laboratory artifact of pseudohyponatremia in a patient presenting with obstructive cholestasis and secondary HLD. Furthermore, understanding that secondary HLD from cholestasis does not confer an atherosclerotic risk prevents unnecessary statin therapy. Our case highlights the importance of considering pseudohyponatremia from severe HLD in patients with hyponatremia and cholestasis. Patients with cholestatic disease may have poor oral intake leading to the assumption of hypovolemic hyponatremia. Calculating an osmolar gap can be a helpful first step, and if elevated, checking a lipid panel and whole blood sodium can help confirm the diagnosis of pseudohyponatremia. Cholestasis can be an important cause of secondary HLD. Case studies have identified an abnormal lipoprotein X (Lp-X) as the primary cholesterol carrier in patients with hepatobiliary and pancreatic cholestasis as opposed to LDL particles found in many patients with primary HLD. Lp-X is thought to have a negligible atherosclerotic effect, and thus statin therapy is not needed.
+
+# CONCLUSION:
+
+In patients with cholestasis and hyponatremia, early calculation of the osmolar gap and/or obtaining a whole blood sodium level can lead to an earlier diagnosis of pseudohyponatremia. Statin therapy is not necessary to prevent atherosclerosis in patients with secondary HLD from cholestasis.
+
+# A CASE OF RAPID NECROTIC SKIN ULCERATIONS IN AN ESRD PATIENT WITH REPORTED ANTIPHOSPHOLIPID SYNDROME ON WARFARIN
+
+Christopher Chen1; Henry C. Zheng1; Mikel Etchegaray2. 1Baylor College of Medicine, Houston, TX; 2MD Anderson Cancer Center, Houston, TX. (Control ID #3186404)
+
+# LEARNING OBJECTIVE #1:
+
+Review differential diagnosis of necrotic skin lesions
+
+# LEARNING OBJECTIVE #2:
+
+Review pathophysiology, treatments, and recent developments in calciphylaxis
+
+# CASE:
+
+A 42 year-old woman with HTN, morbid obesity, ESRD on peritoneal dialysis due to recurrent AV fistula thromboses, tertiary hyperparathyroidism, reported anti-phospholipid syndrome on warfarin, three prior strokes presents with 2 months of worsening dyspnea, fatigue, bilateral leg swelling, 1-month painful non-healing ulcer of left ankle. Vitals and exam remarkable for fever, tachycardia, mild hypoxemia, bilateral rales and lower extremity edema with left anteromedial ulcer above the malleolus with clean base and serosanguinous drainage exquisitely tender to palpation. Initial labs showed leukocytosis, azotemia, and calcium-phosphorus product of 81. Left tibial x-ray negative for osteomyelitis. Despite dialysis initiation, her ulcer rapidly worsened into widespread necrotic eschar tracking up bilateral thighs and lateral abdomen. Her ANA was >1:640 speckled pattern but extensive autoimmune and infectious work-up all negative. Punch biopsy showed extensive dermal purpura, small intravascular fibrin thrombi. Unfortunately, patient refused deep tissue biopsy for further analysis. Given clinical picture, a diagnosis of calciphylaxis was reached. She was started on pulse dose steroids, empiric antibiotics, heparin drip, continued dialysis, aggressive wound care, pain control, and sodium thiosulfate infusions. She underwent 3.5 parathyroidectomy, steroids were tapered, and was transitioned to low dose apixaban. She was discharged to long term care facility for continued wound care, IV antibiotics, and continued dialysis without significant improvement to skin ulcerations.
+
+# IMPACT/DISCUSSION:
+
+The differential for necrotic skin lesions is broad and often overlapping many body systems. Calciphylaxis, characterized by microvascular calcification, inflammation, and thrombosis in the adipose tissue layer, is even amongst dialysis patients a rare event (4%). With a 1-year mortality of 45-80%, patients are often bedbound with debilitating, uncontrollable pain. Diagnosis is mostly clinical based on risk factors, characteristic skin ulcers and eschar, and calcium phosphorus product >70. Biopsy is controversial given the need for deeper tissue sampling, pathergy risk, and high mortality rate with infection. No guidelines yet delineate standard work-up or treatments. Treatment is multifocal including aggressive wound care, pain control, electrolyte homeostasis, and sodium thiosulfate infusions. Underlying thrombophilia have been found in up to 80% of patients and highlights challenges in anticoagulation especially with co-morbid ESRD and risk of worsening with warfarin. Small studies suggest warfarin may have similar survival profiles to other anticoagulants.
+
+# CONCLUSION:
+
+Calciphylaxis is a rare but debilitating disease that is a challenge to effectively treat and in need of further trials based on recent evidence of common underlying associated thrombophilias.
+
+# A CASE OF RECURRENT SINUSITIS
+
+Rebecca Angoff1; Vimal Jhaveri2; Marisa Jupiter2. 1Beth Israel Deaconess Medical Center, Brookline, MA; 2Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3183857)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the features and epidemiology of extranodal NK/T-cell lymphoma.
+
+# LEARNING OBJECTIVE #2:
+
+Reassess the differential diagnosis when a patient's presentation no longer fits the illness script.
+
+# CASE:
+
+Mr. T is a 43-year-old male from Vietnam with a history of treated latent tuberculosis who presented with fevers, weight loss, and left facial swelling. In the weeks prior to admission, he had two Emergency Department (ED) visits due to fevers, headache, rhinorrhea, congestion, and left maxillary tenderness and was prescribed amoxicillin then subsequently amoxicillin-clavulanate without improvement of his symptoms. On his third ED visit, he also endorsed night sweats and a 6-pound weight loss. He had a CT that showed sinusitis of the left maxillary and anterior ethmoid sinuses and chest imaging that showed a 3cm cavitary lung lesion in the right upper lobe. He was admitted and underwent a tuberculosis rule out. He had three negative sputums for acid fast bacilli and a negative nucleic acid amplification test. Otolaryngology performed an endoscopy which showed nasal polyposis. A nasal sinus aspirate grew pan sensitive Klebsiella pneumoniae on culture, and the patient was initiated on ceftazidime. He continued to have fevers so was transitioned to meropenem. His fevers persisted, and he underwent a biopsy of his nasal polyp, which seven days later, resulted in extranodal NK/T-cell lymphoma, nasal type. Therefore, he was transferred to the oncology service for treatment.
+
+# IMPACT/DISCUSSION:
+
+In retrospect, his night sweats, refractory symptoms to antibiotics and lack of history of prior sinusitis made this an atypical presentation of simple bacterial sinusitis and there were clues that could have possibly put his rare diagnosis on the differential. Extranodal NK/T-cell lymphoma is an aggressive lymphoma with tropism for the nasopharyngeal and aerodigestive tracts. Rarely, it can metastasize to the lung and cavitate as it did in this case. The disease is associated with EBV and is more common in patients from Asia.

@@ -1,0 +1,71 @@
+# ABSTRACTS JGIM
+
+# INFLUENZA-A INFECTION IN A PATIENT WITH DIFFUSE ALVEOLAR HEMORRHAGE
+
+method of choice. Even with a high index of suspension, clinical diagnosis is difficult because confirmatory testing may take up to a week. Oseltamivir is the treatment of choice. If started within 48 hours of symptom onset it reduces mortality and duration of hospitalization. If initial testing of influenza is negative in patients with alveolar hemorrhage then Influenza can be easily overlooked. In patients with alveolar hemorrhage H1N1 should be considered a differential as prompt empiric treatment is required.
+
+# CONCLUSION:
+
+This case highlights the importance of suspecting Influenza-A infection in a patient with diffuse alveolar hemorrhage, particularly when vasculitis work-up is negative. Although it is rare for influenza to cause diffuse alveolar hemorrhage, it certainly is possible. The physician should have a high index of suspicion as rapid flu tests may be falsely negative. Treatment with oseltamivir should be initiated promptly.
+
+# INTESTINAL TUBERCULOSIS MIMICKING CROHN'S DISEASE
+
+Anira Iqbal1; David T. Broome2; Rishi Rikhi2; Roop Kaw2. 1Chirayu Medical College and Hospital, Bhopal, India; 2Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3184017)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and diagnose Intestinal tuberculosis(TB) mimicking Crohn's disease(CD), particularly in immigrants from TB-endemic countries.
+
+# CASE:
+
+A 73-year-old female Pakistani immigrant(1988) presented with 2 week history of bloody bowel movements, abdominal pain, fatigue, low grade fevers while on Tacrolimus and Prednisone, which she had been taking for 5 years post renal transplant. Colonoscopy showed terminal ileal inflammation with erosions, granularity, and ulcerations characterized as Crohn's disease and oral steroids were started. However, tissue biopsy demonstrated caseous granulomas consistent with TB. Steroids were discontinued after 5 days of initiation and she was switched to RIPE(Rifampin, Isoniazid, Pyrazinamide, Ethambutol), while continuing immunosuppressants, and discharged. A month later, she presented with recurrent symptoms. Pertinent findings were a fever of 39.3°C and right lower quadrant tenderness to deep palpation without signs of peritoneal irritation. Imaging displayed acute ileal inflammation of 8-10cm with progressive ulceration. Fecal testing for acid fast bacilli(AFB) was positive. Serum RIPE levels were checked to ensure proper absorption. She was instructed to continue RIPE for 9 months and to follow up closely.
+
+# IMPACT/DISCUSSION:
+
+Intestinal TB and CD are chronic granulomatous diseases presenting similarly. With the reemergence of TB in the West due to the AIDS epidemic, differentiating them is of great importance. At-risk population for TB includes immigrants from endemic regions(Asian and African countries), alcoholics, prisoners and immuno-compromised. Both conditions present with abdominal pain, fever, lethargy, bowel habit alteration and loss of appetite. CT scan in CD shows prominent ileal vasculature("comb sign"). In TB, the ileocaecal wall is asymmetrically thickened, with large nodes forming a mass. On colonoscopy, hypertrophic lesions with transverse ulcers suggest TB. CD has a cobblestone appearance with longitudinal deep ulcers and skip lesions. Fistulae are suggestive of CD. Histopathologically, caseation necrosis with large granulomas (>400μ) and AFB support TB, as compared to small granulomas (<200μ) in CD. Additional testing by stool AFB, Interferon gamma release assay for TB or Anti-Saccharomyces cerevisiae antibody for CD might corroborate diagnosis.
+
+# CONCLUSION:
+
+Physicians should be cognizant of Intestinal TB mimicking CD in at-risk population including immigrants from endemic regions, alcoholics, immunocompromised and prisoners. A combination of lab testing, imaging, colonoscopy and histopathology should be used to differentiate the two. Steroid therapy for a presumed diagnosis of CD will do more harm than good in individuals with Intestinal TB.
+
+# References
+
+Sharma R, Madhusudhan KS, Ahuja V. Intestinal tuberculosis versus crohn's disease: Clinical and radiological recommendations. Indian J Radiol Imaging. 2016;26(2):161-72.
+
+Tandon HD, Prakash A. Pathology of intestinal tuberculosis and its distinction from Crohn's disease. Gut. 1972;13:260-9.
+
+# INTRAVASCULAR LARGE B-CELL LYMPHOMA PRESENTING AS HEMOPHAGOCYTIC LYMPHOHISTOCYTOSIS
+
+Suheil Albert Atallah-Yunes1; Arthi Sridhar1; Riffat Sabir2. 1UMASS-Baystate, Springfield, MA; 2Baystate Medical Center, Longmeadow, MA. (Control ID #3186537)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that intravascular lymphoma is very rare and mainly presents with non specific signs and symptoms.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize HLH as a presentation of lymphoma which could make treatment with chemotherapy more challenging.
+
+# CASE:
+
+A 66-year-old male with a past medical history of hypertension who was admitted to the hospital after being referred by his hematologist due to worsening of fever, chills and rigors. Prior to admission patient had an extensive work up for anemia, thrombocytopenia, fatigue and 15 pounds weight loss in 5 months duration. Outpatient work up ruled out an infectious etiology. CT scan showed hepatosplenomegaly and splenic lesions. Bone marrow biopsy was performed as an outpatient and preliminary findings were highly suggestive of large B-cell lymphoma within the sinusoids of the blood vessels pointing towards intravascular large B-cell lymphoma (IVBL). Upon admission, his vital signs revealed a high grade fever of 103 F. Physical exam was positive for hepatosplenomegaly with no palpable lymph nodes. Blood work revealed a white cell count of 10.9 k/ul, hemoglobin of 8.8 gm/dl and a platelet count of 37s k/ul. Given the high suspicion for intravascular large B-cell lymphoma, transjugular hepatic biopsy was performed and biopsy results confirmed large B-cells in the hepatic sinusoids. He was started on R-CHOP therapy. His ferritin level was elevated at 2000 ng/ml while IL-2 receptor levels were elevated at 18 K raising the suspicion for HLH in the setting of his worsening anemia, thrombocytopenia and hepatosplenomegaly. Patient was started on Dexamethasone for treatment of HLH and continued receiving chemotherapy for treatment of his IVBL.
+
+# IMPACT/DISCUSSION:
+
+IVL is a rare subtype of extranodal lymphoma and results from lymphocytic cell proliferation in the luminal vessels with minimal to no involvement of the surrounding parenchyma. Intravascular diffuse large B-cell lymphoma (IVBL) is the most common subtype. IVBL is classified into two: Classical IVBL and Asian Variant IVBL. The most common is the classical IVBL which usually occurs in western countries and mainly involves the CNS and the cutaneous tissue. Thus, patients present with CNS and cutaneous manifestation. Asian Variant (AV) IVBL is rare and tend to spare the CNS and the skin. These patients present with fever, malaise, anemia, thrombocytopenia, hepatosplenomegaly, hemophagocytosis, elevated liver function tests, elevated ferritin and hence HLH as it was seen in our patient. Theories support the release of macrophage stimulating factor and inflammatory markers mainly IL-6 causing overactivation of the macrophages and so HLH. IVL is treated with the RCHOP therapy, if HLH is suspected then prednisone could be replaced with dexamethasone for treatment of HLH.
+
+# CONCLUSION:
+
+Patients with IVL tend to present with nonspecific signs and symptoms in the usual absence of palpable lymph nodes. HLH is a rare presentation of IVL and could make treatment with chemotherapy more challenging due to the commonly seen cytopenias.
+
+# IRON CLAD FEVERS OF UNKNOWN ORIGIN (FUO) IN A PATIENT WITH SICKLE CELL DISEASE
+
+Tessa Henry1; Steven G. McKee2. 1University of Arkansas for Medical Sciences, Little Rock, AR; 2University of Arkansas, Little Rock, AR. (Control ID #3184536)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose a rare cause of FUO in patients with sickle cell disease and iron excess.
+
+# CASE:
+
+A 32 year-old with sickle cell disease presented with fever and shortness of breath after multiple recent hospitalizations for pneumonia. Instead of several bouts of acute episodes, she divulged several months of

@@ -1,0 +1,43 @@
+# ASSESSING ENGAGEMENT IN USER-CENTERED DESIGN OF A TEXT MESSAGING APP IN A DIVERSE, SAFETY-NET POPULATION
+
+Sarah Nouri1; Patricia Avila-Garcia2; Anupama Cemballi1; Urmimala Sarkar1; Adrian Aguilera2; Courtney Lyles1. 1University of California, San Francisco, San Francisco, CA; 2University of California, Berkeley, Berkeley, CA. (Control ID #3184645)
+
+# BACKGROUND
+
+Healthcare systems are rapidly deploying digital tools with the goal of improving chronic disease management, yet few studies evaluate their usability by vulnerable populations. To understand barriers to lower rates of app use among low-income patients, we employed user-centered design (UCD) methods in the development of a new text messaging app. We describe here variations in engagement in design process, with specific attention on patients with limited health literacy (LHL), limited English proficiency (LEP), and limited digital literacy (LDL).
+
+# METHODS
+
+We conducted 20 in-person, in-depth, semi-structured interviews in English or Spanish with primary care patients at a safety-net healthcare system. We used open-ended interviews and card sorting tasks to seek input about mobile phones and prioritize text messaging for health behaviors. We used open coding to (1) categorize mobile phone use and (2) evaluate engagement in the interview process. Engagement was defined by the frequency and quality of (1) feedback on existing text message content and (2) novel suggestions for text messages. Based on mobile phone use, we identified participants with LDL; we then quantitatively examined mobile phone use by LHL and LEP. We also evaluated engagement by LHL, LEP, and LDL with Wilcoxon rank sum tests.
+
+# RESULTS
+
+Participants were 59 (±8) years old; 65% women, 90% non-white, 80% with limited LHL, 65% with LEP. All had depression and 70% had diabetes. Mobile phone use: Major themes related to texting networks and difficulty with basic (text messaging) and advanced (step tracking, location sharing) features of mobile phones. Nearly all had smartphones and regularly used text messaging, but 16/20 reported difficulty with text messaging due to inability to type, physical disability and low literacy. We identified 8 participants as having LDL; 7/8 also had LEP and/or LHL. Feedback: Quality of feedback ranged from yes/no answers to explanations of why a text message was liked or disliked. Frequency of comments was lower in all subgroups, with a significant difference between those with LDL vs adequate digital literacy (p=0.045). Novel suggestions: Quality of suggestions ranged from text messages that had already been presented to ideas for structural changes to the app. Frequency of suggestions made was lower in those with LEP or LDL (p=0.02 and 0.008, respectively); there was no difference by HL.
+
+# CONCLUSIONS
+
+Despite widespread mobile phone use, digital literacy barriers are common among vulnerable populations. Engagement was qualitatively and quantitatively lower among those with LHL, LEP, and LDL, suggesting traditional UCD methods (open-ended hypothetical interviews, card sorting tasks) may be less effective for those with literacy or language barriers. Different methods in UCD, such as direct observation, may be more productive in eliciting feedback and matching interventions with end users' needs and preferences.
+
+# ASSESSING KNOWLEDGE, PERCEIVED SUSCEPTIBILITY, SEVERITY, BENEFITS, BARRIERS, AND WILLINGNESS OF COLORECTAL CANCER SCREENING IN ARMENIA
+
+Nika M. Harutyunyan1; Evelyn Abrami2; Taron Torosian3; Shant Shekherdimian4; Marine Hovhannisyan5; Armen Aboulian6; Hovhannes Hovhannisyan5; Garegin Dallaqyan5. 1 UCLA, Sherman Oaks, CA; 2USC, Los Angeles, CA; 3USC, Los Angeles, CA; 4UCLA, Los Angeles, CA; 5Yerevan State Medical University, Yerevan, Armenia; 6Kaiser, Los Angeles, CA. (Control ID #3179997)
+
+# ASSESSING INTERPROFESSIONAL TEAM FUNCTIONING VIA DIRECT OBSERVATION IN A PRIMARY CARE SETTING
+
+Alana Doonachar2; Lyndonna M. Marrast1; Aubrey Rogers3; Daniel J. Coletti4. 1Zucker School of Medicine at Hofstra/Northwell, Kew Gardens, NY; 2Hofstra University, Hempstead, NY; 3Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY; 4Northwell Health, Great Neck, NY. (Control ID #3185574)
+
+# BACKGROUND
+
+Improving Patient Access, Care, and Cost through Training (IMPACcT) is an interprofessional (IP) training program developed to enhance primary care training through an interprofessional team approach. Maintaining collaborative and efficient team interactions is essential to delivering quality care to our underserved patients. We sought to systematically review and evaluate the IP process, describe team dynamics, and assess adherence to clinical workflows including: 1) pre-session huddles; 2) trainee precepting processes, and 3) patient interactions.
+
+# METHODS
+
+From March to July of 2018, four raters silently observed IMPACcT clinical sessions and rated behaviors using a tailored version of the Modified McMaster-Ottawa Scale: Team Assessment form. Raters completed quantitative assessments of team-based competency attainment in the following areas: patient communication, team collaboration, role clarification, collaborative patient-family centered approach, conflict management, and (overall) team functioning. Interactions were rated as to "below expected", "at expected" or "above expected" levels of quality. Raters also recorded field notes to add context to the ratings.
+
+# RESULTS
+
+A total of 233 team assessment forms were completed. The majority of the observation were made of precepting events (67%), compared to huddle ratings (14%) and observations of patient interactions (19%). The average huddle duration was 23 minutes and included an average of 6 IP team members. Examination of ratings indicated that 70% of the assessments were "at expected" competency level with 27% exceeding expectations. When assessing members' role and responsibilities, the results showed that 52% of the observations were at expected levels and 43% were above expected levels of competency. With regards to conflict management/resolution and team functioning capabilities, both competencies scored over 95% in meeting expectations and going above expected levels. In contrast, teams were less likely to promote a family-patient centered approach: only 43% of the observations demonstrated "at expected" levels and 30% of the assessments were rated as "below expected levels." Overall the global rating score of team assessment was 71% at expected and 28% above expected proficiencies.
+
+# CONCLUSIONS
+
+We observed high levels of IP team functioning in a majority of observed domains during team huddles, precepting, and patient interactions. Differences in observations were expected given there is one daily huddle, but multiple precepting events and patient encounters. Results suggest the need to consider ways to incorporate more of a family-systems framework for considering patient strengths and needs. High competency ratings overall, however, are one indicator of success in our faculty development and learner training efforts in team-based care. Future plans include conducting "360 degree" evaluations to permit faculty and trainees to reflect on team processes interactively and engage in self-ratings of team effectiveness.

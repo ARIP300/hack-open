@@ -1,0 +1,36 @@
+# T. Jakobi et al.: The Role of IS in the Conﬂicting Interests Regarding GDPR, Bus Inf Syst Eng 62(3):261–272 (2020)
+
+both the data subjects and the companies do not know exactly what information is contained in the data and for what purpose it can be used. Another example for this is the right of information, in which companies and authorities use a proliferation of requirements for authentication, processes, contact points and data formats that consumers have to deal with. These range from digital formats of spreadsheet programs to PDFs and paper printouts. The list could be continued.
+
+Accordingly, design-oriented business and consumer informatics should take up the ball and develop standardized formats for consumer data as well as reference models for the usable information process. On the other hand, it should conduct research with industry and consumer protection organizations on innovative solutions for access and processing control that take the interests of the various parties, including consumers, into account in an appropriate manner in the interests of multilateral security.
+
+# Funding
+
+Open Access funding enabled and organized by Projekt DEAL.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which permits any non-commercial use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc/4.0/.
+
+# References
+
+- Albrecht JP (2016) How the GDPR will change the world. Eur Data Prot Law Rev 2:287–289
+- Alizadeh F, Jakobi T, Boldt J, Stevens G (2019) GDPR-reality check on the right to access data: claiming and investigating personally identifiable data from companies. In: Proceedings of Mensch und Computer 2019. ACM, New York, pp 811–814
+- Amnesty International (2019) Surveillance giants: how the business model of Google and Facebook threatens human rights. https://www.amnesty.org/download/Documents/POL3014042019ENGLISH.PDF. Accessed 9 Feb 2020
+- Berg-Larsen E (2015) The issue of privacy in the European Union – controversies of the General Data Protection Regulation. Master’s Thesis, University of Oslo
+- Berlin Commissioner for Data Protection and Freedom of Information (2019) Berliner Datenschutzbeauftragte verha¨ngt Bußgeld gegen Immobiliengesellschaft. https://www.datenschutz-berlin.de/
+- Cvik ED, Pelika´nova´ RM, Maly` M (2018) Selected issues from the dark side of the General Data Protection Regulation. Rev Econ Perspekt 18:387–407
+- Capgemini Research Institute (2019) Championing data protection and privacy. https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/Report_GDPR_Championing_DataProtection_and_Privacy.pdf. Accessed 9 Feb 2020
+- Degeling M, Utz C, Lentzsch C et al (2018) We value your privacy… Now take some cookies: measuring the GDPR’s impact on web privacy. arXiv:180805096
+- EDPB (2016) Guidelines on data protection impact assessment (DPIA) and determining whether processing is ‘‘likely to result in a high risk’’ for the purposes of regulation. Data Protection Working Party 2016/679, 5:10. Accessed 9 Feb 2020
+- Eifert M, Hoffmann-Riem W, Schmidt-Aßmann E, Voßkuhle A (2012) Regulierungsstrategien. In: Grundlagen des Verwaltungsrechts. Bd. I ,,Methoden – Maßsta¨be – Aufgaben – Organisation‘‘, 2nd edn. Beck, Mu¨nchen
+- European Parliament and Council (2016) Regulation (EU) 2016/679 of the European Parliament and of the Council. Off J Eur Union Law 119/2016, vol 59
+- Fox G, Tonge C, Lynn T, Mooney J (2018) Communicating compliance: developing a GDPR privacy label. In: 24th Americas conference on information systems, New Orleans
+- Gartner WB (1985) A conceptual framework for describing the phenomenon of new venture creation. Acad Manag Rev 10:696–706
+- Gellert R (2018) Understanding the notion of risk in the General Data Protection Regulation. Comput Law Secur Rev 34:279–288
+- Hartog C, Van Stel A, Storey DJ (2011) Institutions and entrepreneurship: the role of the rule of law; levie, autio, regulatory burden, rule of law, and entry of strategic entrepreneurs: an international panel study. J Manag Stud 48(6):1392–1419
+- Heide D, Neuerer D (2018) Parteiu¨bergreifende Kritik am neuen Datenschutz. Handelsblatt 13 June 2018, p 9
+- Hey J (ed) (2019) Digitalisierung im Steuerrecht. Schmidt, Ko¨ln
+- Hintze M, El Emam K (2018) Comparing the benefits of pseudonymisation and anonymisation under the GDPR. J Data Prot Priv 2(2):145–158
+- Hoffmann-Riem W (2006) Innovationsoffenheit und Innovationsverantwortung durch Recht: Aufgaben rechtswissenschaftlicher Innovationsforschung. Archiv des o¨ffentlichen Rechts
+- Huth D (2017) A pattern catalog for GDPR compliant data protection. In: Ralyte´ J, Roelens B, Demeyer S (eds): Proceedings of the doctoral consortium and industry track papers presented at the 10th IFIP WG 8.1 working conference on the practice of enterprise modelling (PoEM 2017), Leeuven, pp 34–40

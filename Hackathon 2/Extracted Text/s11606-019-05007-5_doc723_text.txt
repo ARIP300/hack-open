@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# PHARMACY STUDENTS AS JUNIOR INSTRUCTORS
+
+The stations were: (1) how to use a glucometer, (2) how to use an insulin pen, and (3) how to calculate and write mixed insulin prescriptions. Each session lasted 14 minutes in duration. Equipment such as insulin pens, GLP-1 devices, glucometers and testing strips and lancets and skin models were provided by the clinical pharmacy department.
+
+# EVALUATION
+
+The program was evaluated with a brief survey of the participants' self-reported confidence performing the skills taught during the workshop. The four-point scale ranged from "not at all confident" to "very confident." 27 residents participated in the workshop, with 17 completing the pre- and post-test survey. Of those completing the survey, 94% reported at least a one-point increase in their confidence in calculating a 30-day supply of insulin pens or vials; 88% reported at least a one-point increase in converting mixed insulin to a basal-bolus regimen and teaching patients how to use a glucometer; 76% reported at least a one-point increase in confidence level using an insulin pen.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Over 80% of diabetes patients are managed by primary care physicians, many without the support of an endocrinologist. In the absence of subspecialty support, most primary care physicians are comfortable prescribing oral diabetes drugs, but practical aspects of managing insulin and glucose monitoring are often relegated to nurses or pharmacists. In this workshop, residents and students learned common and fundamental insulin management skills which will help them better care for their diabetic patients.
+
+# INTEGRATED SONOGRAPHIC COMPETENCY AT NYU (I-SCAN): PROGRAM DESCRIPTION AND EARLY EVALUATION
+
+Michael Janjigian1; Anne Dembitzer2, 1; Caroline Srisarajivakul-Klein1; Khemraj Hardowar1; Penelope Lusk1; Sondra Zabar1; Harald Sauthoff1. 1NYU Langone Health, New York, NY; 2VA NY Harbor Healthcare System, New York, NY. (Control ID #3168682)
+
+# NEEDS AND OBJECTIVES
+
+Point-of-care ultrasound (POCUS), when integrated with a physical examination, increases accuracy of diagnosis and decreases procedural complications. However, most hospitalists have not been trained to use this new technology. We developed a year-long curriculum, the Integrated Sonographic Competency at NYU (I-ScaN), to train hospitalists in POCUS.
+
+# SETTING AND PARTICIPANTS
+
+Twenty-three hospitalists from across the 4 hospitals affiliated with NYU Langone Health participated. Sixteen of the participants (72%) reported prior ultrasound training, with a range of 2-80 hours (median = 4 hours); 3 reported more than 5 hours of prior training. Three reported active clinical use of POCUS though none of them had more than 5 hours of prior training. The group averaged 4.5 years of clinical practice (range = 1-13 years).
+
+# DESCRIPTION
+
+The program began with an intensive 2-day course consisting of lectures and hands-on training on human models covering views of the heart, lungs/pleura, abdomen, and leg vasculature. We developed the remainder of the year-long program with the goal of helping participants retain and improve upon the skills acquired during the initial course. Our program included hands-on teaching sessions held at each institution by local experts, presentations at monthly conferences with the course director (HS), and online feedback on uploaded ultrasound images. To facilitate this final item, each participant was given access to portable ultrasound devices with the ability to upload ultrasound clips to a HIPAA-compliant website. Participants provided a clinical interpretation and assessment of image quality for each of their clips. The clips were then reviewed by an expert who provided feedback on both of these domains. Participants could then use these clips to create personal portfolios in accordance with national standards set by the Society of Hospital Medicine.
+
+# EVALUATION
+
+Participants rated the 2-day intensive program as very useful and satisfaction with the individual components of the program ranged from useful to very useful. Participants reported statistically significant increases in their confidence in acquiring images, interpreting images, and performing a clinical evaluation using POCUS for all domains except in performing paracentesis. Knowledge scores increased from a baseline of 58% to 83%; p<0.001. At 6 months into the program, 2 hospitalists had uploaded >400 clips each and 7 had uploaded fewer than 20 clips each.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+I-ScaN is a highly rated and effective program to train hospitalists in core POCUS competencies. The 2-day intensive program significantly improves confidence and knowledge. Monitoring of progress and scanning activity was difficult because few hospitalists uploaded clips regularly. Our focus now is on identifying barriers to using POCUS for new trainees. Future analysis will include frequency of scanning, retention of knowledge and skill, and generation of learning curves for each view.
+
+# INTEGRATING A NOVEL HIGH-VALUE CARE CURRICULUM FOR INTERNAL MEDICINE RESIDENTS
+
+Rachna Rawal1; Paul Kunnath2; Fred R. Buckhold2; Jennifer Schmidt3. 1Saint Louis University, St. Louis, MO; 2Saint Louis University School of Medicine, University City, MO; 3Saint Louis University, Saint Louis, MO. (Control ID #3183505)
+
+# NEEDS AND OBJECTIVES
+
+Understand internal medicine resident need for high-value care education Identify components of a high-value care curriculum for internal medicine residents Recognize residents improved self-awareness of high-value care.
+
+# SETTING AND PARTICIPANTS
+
+The healthcare crisis in the United States is prompting a transformation toward a high-value, cost-conscious culture. Physicians develop their ordering practices early in their training, therefore directing high-value care education at residents will have the greatest impact. A needs assessment demonstrated that only 8% of our residents could provide an adequate free-response explanation of high-value care. Only 18% of residents participated in a prior high-value care initiative. This need prompted development of a high-value curriculum.
+
+# DESCRIPTION
+
+We designed and implemented a high-value care curriculum directed at Internal Medicine residents. It included six noon didactic sessions, three afternoon school interactive case sessions, and high-value rapid-fire cases during monthly floor orientation. Objectives included defining high-value care, applying evidence-based medicine, "how-to" develop a high-value care initiative, cognitive biases, integrating pathology consults, and applying American College of Radiology (ACR) Appropriateness Criteria. Residents completed pre and quarterly post surveys consisting of Likert scale, multiple choice and free responses questions.
+
+# EVALUATION
+
+Pre-intervention data showed 85% of residents identified the definition of high-value care in a multiple-choice question. 8% and 52% of residents distinguished the definitions of "price" and "cost", respectively. 14% reported familiarity with the ACR criteria and 24% felt comfortable applying those guidelines. After the first didactic session, the number of residents who felt "very comfortable" recognizing hospital overuse increased from 27% to 52% (statistically significant, p<0.05). 96% felt encouraged to participate in a high-value care initiative in the future. Additional data is pending.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+While the majority of residents could choose the definition of high-value care from a

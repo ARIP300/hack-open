@@ -1,0 +1,40 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+The patients' median age was 70, 20% African American, 7% female. Patients had an average of 13.5 medications on their list. The mean subjective numeracy was high (5.3 on 1 to 6 scale), the mean perceived processes of care around medications was excellent (1.2 on 1 to 5 scale), and the mean engagement in health was high (6 on 0 to 7 scale). With regard to patient-centeredness and patient engagement, qualitative analyses revealed a MR process constrained by deficits in 3 areas: shared understanding, a standardized process, and tools to facilitate adequate information exchange. Patients misunderstand the purpose of the MR process, their role, and often had different goals regarding medications. Healthcare providers (HCP) did not always ask about adherence, explore biopsychosocial barriers and supports, or assess the patient's beliefs or understanding. During the medication review, generic names often confuse patients, although most providers used patient-friendly explanations to help patients understand the mechanism of action and side effects. Familiarity with the HCP, trust, and a friendly, unhurried attitude facilitated active patient participation in the conversation.
+
+# CONCLUSIONS:
+
+Engaging patient stakeholders in research as partners presents an opportunity to design, implement and disseminate patient centered research. Our review creates an overarching foundational framework to facilitate authentic and sustainable partnerships between patient stakeholders and researchers.
+
+# Figure 1: Foundational Framework Summarizing Principles and Best Practice Activities Supporting Patient Stakeholder Engagement in Research
+
+|Engagement Conceptual Principles|Respect & Equity|Trust|Empowerment|
+|---|---|---|---|
+|(Diversity; Authenticity; Integrity, & Confidentiality)|(Transparency; Honesty)|(Shared decision-making and ownership; flexibility; Institutional support)| |
+|Research Training & Education|(Training and education of researchers and patients)|(Training and education of researchers and patients)|(Training and education of researchers and patients)|
+|Engagement Budgeting & Compensation|(Partner compensation, Secure and budget for engagement activities)|(Partner compensation, Secure and budget for engagement activities)|(Partner compensation, Secure and budget for engagement activities)|
+|Evaluation & Reinforcement of Engagement Activities & Outcomes|(Ongoing monitoring and evaluation of engagement process Define scope of engagement)|(Ongoing monitoring and evaluation of engagement process Define scope of engagement)|(Ongoing monitoring and evaluation of engagement process Define scope of engagement)|
+|Overarching Engagement Structure & Model|(Patient & Family Advisory Council (PFAC) model, Subcommittee implementation)|(Patient & Family Advisory Council (PFAC) model, Subcommittee implementation)|(Patient & Family Advisory Council (PFAC) model, Subcommittee implementation)|
+|Research Team Communications & Meetings Organization|(Regular face-to-face meetings, Appoint engagement coordinator; use lay language, Neutral facilitator; Accessible meetings, Work small groups_Multiple meeting modalities)|(Regular face-to-face meetings, Appoint engagement coordinator; use lay language, Neutral facilitator; Accessible meetings, Work small groups_Multiple meeting modalities)|(Regular face-to-face meetings, Appoint engagement coordinator; use lay language, Neutral facilitator; Accessible meetings, Work small groups_Multiple meeting modalities)|
+|Engagement Sustainability & Reinforcement|(Involve stakeholders early in research study; Regular acknowledgement of stakeholder contributions, Use experienced partners as support; Allow informal networking, Allow time to build relationships, Maintain membership continuity)|(Involve stakeholders early in research study; Regular acknowledgement of stakeholder contributions, Use experienced partners as support; Allow informal networking, Allow time to build relationships, Maintain membership continuity)|(Involve stakeholders early in research study; Regular acknowledgement of stakeholder contributions, Use experienced partners as support; Allow informal networking, Allow time to build relationships, Maintain membership continuity)|
+|Research Phases|Design and preparation|Conduct & Implementation|Dissemination|
+
+# PATIENT-CENTEREDNESS OF THE MEDICATION RECONCILIATION PROCESS IN THE VA PRIMARY CARE SETTING
+
+Robin S. Mickelson; Jea Young Min; Susan Byerly; Amanda S. Mixon. 1VA Tennessee Valley Healthcare System and Vanderbilt University, Nashville, TN; 2Department of Veterans Affairs, Nashville, Monteagle, TN. (Control ID #3143013)
+
+# BACKGROUND:
+
+High quality medication reconciliation (MR) is critical to prevent medication errors. Inpatient MR toolkits have been developed, tested, and are efficacious; however, less is understood about the current outpatient MR process particularly the degree of patient-centeredness and patient engagement.
+
+# METHODS:
+
+We conducted an observational descriptive study from April to June 2018, in which we recruited 30 Veterans with non-urgent appointments and a medication list in their medical record from VA primary care clinics. We observed the primary care team conduct MR and assessed patient-centeredness, whether it (1) created a shared understanding; (2) explored the biopsychosocial context; (3) provided patient-friendly explanations; (4) encouraged active participation; (5) uncovered the patient's perspective; (6) produced decisions based on evidence, values, and feasibility; and, (7) created trust. We assessed patient-level subjective numeracy, health engagement, and interpersonal processes of care using validated measures. We conducted semi-structured interviews to evaluate patients' engagement in as well as barriers and facilitators to the MR process. Interviews were transcribed and imported into NVivo® software with the observation notes. Two researchers utilized the aspects of patient engagement and patient-centeredness to identify categories and themes.
+
+# RESULTS:
+
+From a survey population of 61,987, 17,441 respondents sought care in the past 6 months and 5,407 of those (31%) completed the survey. Respondents were generally young (86% age<45), male (67%), well-educated (57% with post-secondary degree), and urban-dwelling (68%). For their most recent care-seeking experience, respondents most often saw a specialist or primary care provider (49% and 25%, respectively). Wide inter-country variability was seen for care-seeking at private health facilities (65% in India vs 45% in Mexico). Most patients in India and Mexico reported being part of a prepayment plan (i.e. receiving medical aid or insurance) in contrast to Nigeria and Kenya. Nigeria had the most respondents reporting excellent QOC (31%) compared to only 19% in India and Mexico. In adjusted models, people living in rural areas were more likely to report excellent QOC compared to their urban counterparts.

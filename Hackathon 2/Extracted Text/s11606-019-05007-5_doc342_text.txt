@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Septic Transfusion Reaction
+
+Carcinoma. The patient was feeling well at the time of admission. Admission vitals were unremarkable and his labs were notable only for chronic thrombocytopenia. In anticipation of his upcoming procedure, two units of platelets were ordered. Shortly after initiation of the first platelet transfusion, the patient complained of chills and was noted to have a temperature of 100.8°F. The transfusion was stopped and the patient was administered acetaminophen and diphenhydramine. Approximately 1 hour later, the patient developed tachycardia, tachypnea, and hypotension. The patient was transferred to the intensive care unit where he was started on vasopressors and broad spectrum antibiotics. Within a few hours of admission to the ICU the patient developed severe disseminated intravascular coagulation (DIC). Blood cultures revealed Acinetobacter bacteremia. Cultures obtained from the unit of transfused platelets grew the same species of Acinetobacter. Antibiotic coverage was broadened to tobramycin and meropenem. Unfortunately, over the subsequent 24 hours, the patient's vasopressor requirements continued to rise. Given his clinical deterioration further aggressive treatment was felt to be unlikely to improve his condition. Aggressive care was withdrawn and the patient expired shortly after.
+
+# IMPACT/DISCUSSION:
+
+Septic transfusion reactions caused by bacterial contamination of blood products have long been known to be a problem in transfusion medicine. The risk of a sepsis is highest with the transfusion of platelets due to storage at room temperature. Bacterial contamination rate of platelets is around 1 in 5000 transfusions, with a risk of transfusion associated sepsis around 1 in 100,000 transfusions. Death related to transfusion of contaminated platelets remains rare with only 10 fatalities reported by the Food and Drug Administration from 2012 to 2015. Clinicians must be able to recognize the signs of a septic transfusion reaction which include fever, chills, hypotension, and DIC. It may be difficult to differentiate sepsis from other types of transfusion reactions such as acute hemolytic reactions. In order to assist with diagnosis, the blood bank should be contacted immediately so that proper laboratory testing can be performed, including ABO compatibility and culture of the transfused product. Administration of antibiotics should be considered in any decompensating post transfusion patient.
+
+# CONCLUSION:
+
+Septic transfusion reactions are a relatively rare but important complication of blood product administration that clinicians must be able to recognize.
+
+# A FEBRILE CASE OF PRIMARY HEPATIC NEUROENDOCRINE TUMOR
+
+Manojna Konda 1; Swathi Subramany 1; Gayathri Krishnan 2, 1; Richa Parikh 1; Kulsum Bano 1. 1University of Arkansas for Medical Sciences, Little Rock, AR; 2 UAMS, Little Rock, AR. (Control ID #3185685)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that fever could be an atypical presentation of primary hepatic neuroendocrine tumor.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that diagnosis can be challenging due to their common radiologic characteristics with other liver lesions.
+
+# CASE:
+
+A 54 year-old previously healthy male presented with one-week duration of fevers, abdominal pain, and diaphoresis. The patient was febrile to 102 F with otherwise normal vital signs. The patient was jaundiced on examination with tenderness in RUQ. Lab work showed white count of 17.4k/μl. LFTs were also elevated with total bili of 3.2 mg/dL, Direct bili 1.6 mg/dL, ALP 176 U/L, GGT: 231 U/L AST: 52 U/L ALT: 40 U/L. Abdominal CT showed multiple hypodense lesions in the liver concerning for abscesses. Empiric antibiotics were started as he was febrile with leukocytosis and imaging findings. Blood cultures, hepatitis, entamoeba and echinococcus tests were negative. Targeted FNA biopsy of one of the liver lesions was done. Final pathology revealed well-differentiated neuroendocrine tumor and was negative for any organisms. Antibiotics were discontinued. Octreotide scan showed increased activity only in the liver with no abnormal activity outside the liver. This was suggestive of the patient having primary hepatic neuroendocrine tumor with multiple liver metastases. Serum chromogranin A was high at 50ng/mL, serum serotonin was elevated at 3333 ng/ml and urine 5-HIAA was high at 156.9 mg/day. The patient was started on somatostatin analogue lanreotide and mTOR kinase inhibitor everolimus with dramatic resolution of his fevers. His most recent imaging showed improvement in the size of his liver lesions.
+
+# IMPACT/DISCUSSION:
+
+This case adds to the literature about the rare presentation of primary hepatic neuroendocrine tumor which has previously not been described. It also highlights the importance of distinguishing various liver masses. While more than 80% of neuroendocrine tumors found in the liver are metastatic, primary hepatic neuroendocrine tumors are extremely rare with less than 100 cases reported worldwide. While most of the tumors are solitary and functionally silent, less than 10% cases have been described as being functional with flushing, diarrhea and wheezing. Although hypothetical, fevers may have been a result of high levels of serotonin. Diagnosis is often challenging based on radiological appearance as it can mimic other liver masses. Biopsy can confirm the diagnosis. Octreotide scan is a useful tool in differentiating primary hepatic neuroendocrine tumors from other primary sites with liver metastases. While surgical resection is the preferred treatment, in cases of unresectable disease use of somatostatin analogues has shown to have good results with overall prognosis being better than other types of liver cancer.
+
+# CONCLUSION:
+
+Clinicians need to be aware of fever as an atypical presentation of primary hepatic neuroendocrine tumors. While challenging to diagnose by conventional imaging, exclusion of other primary lesions and liver biopsy is strongly warranted.
+
+# A GREAT IMITATOR OF POSITIONAL VERTIGO
+
+Priya Chopra 1; Ericson Stoen 1; Chi Zheng 2. 1University of Colorado School of Medicine, Aurora, CO; 2Denver Health, Denver, CO. (Control ID #3158950)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize neurosyphilis as a cause of recurrent falls.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the difference between otosyphilis and neurosyphilis.
+
+# CASE:
+
+A 73-year-old woman presented after a fall at home resulting in a forehead hematoma in the setting of a four-month history of progressive dizziness and recurrent falls. She described the dizziness as "room spinning" exacerbated by changes in position; she also had a two-year history of right-sided tinnitus and progressive hearing loss. Her past medical history was notable for atrial fibrillation, type 2 diabetes mellitus with peripheral neuropathy, and hypertension. Medications included warfarin, NPH insulin, lisinopril, metoprolol, baclofen, tizanidine, and hydrocodone. Vital signs including orthostatics were normal. Cardiopulmonary exam was normal. Neurologic examination showed terminal dysmetria and deficits in bilateral lower extremity proprioception. Hemoglobin, glucose, troponin, TSH, B12, and HIV were all normal, and her INR was therapeutic. ECG showed sinus rhythm, and interrogation of the patient's loop recorder placed for her falls was unremarkable. CT and MRI of the brain were unremarkable. A prior audiometry report showed isolated right-sided neurosensory hearing loss. Treponemal pallidum antibody was positive, with subsequently positive RPR at 1:2 and a positive confirmatory FTA-ABS. Cerebrospinal fluid (CSF) protein was elevated at 58, and CSF VDRL was non-reactive. As she had a negative RPR 11 years prior and scored 18/25 on a partially completed Mini-Mental State Examination, the patient was treated for neurosyphilis with continuous penicillin G infusion for 14 days with improvement in her vertigo and tinnitus but not hearing.
+
+# IMPACT/DISCUSSION:
+
+Over 800,000 patients are hospitalized each year due to falls, and the possible etiologies of recurrent falls are numerous. Our patient had several potential causes for her falls, and many of which were systemically excluded from the differential, but her neurologic and vestibular symptoms gave concern for neuro and oto-syphilis.

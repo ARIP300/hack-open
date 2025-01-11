@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# THE CHANGING NATURE OF MEDICINE
+
+The changing nature of medicine has required physicians to become increasingly familiar with coordinating patient care within larger health care systems. Thus, it is more important than ever that programs highlight Systems Based Practice as a core competency to emphasize an interdisciplinary approach to chronic disease management and to teach residents how to effectively navigate clinic and community resources for treatment chronic disease and addressing underlying social determinants that impact patient health.
+
+# SETTING AND PARTICIPANTS:
+
+We developed an outpatient Systems Based Practice (SBP) curriculum for interns in our internal medicine residency program at Olive View - UCLA Medical Center, a safety-net hospital in Los Angeles that cares for vulnerable, underserved patients.
+
+# DESCRIPTION:
+
+Our yearlong curriculum begins during orientation, where the concept of SBP is defined, key members of the Patient-Centered Medical Home team are introduced and their roles are reviewed. Subsequent sessions occur at the start of each outpatient block for all 10 blocks during intern year. The curriculum is presented in small groups by clinic faculty and includes topics such as inbox management, clinic/community resources and Quality Improvement. Sessions are interactive and often include guest presenters such as social workers (SW), community health workers (CHW) and dietitians.
+
+# EVALUATION:
+
+To evaluate the effectiveness of this curriculum, we developed a survey that was administered to interns before and after our intervention. We found that at the end of the intervention, interns subjectively reported significantly increased confidence in their ability to navigate system complexities (p 0.01) and utilize both clinic and community resources to help meet patient needs (p <0.001). Residents were also objectively found to navigate clinic and community systems significantly better, correctly identifying resources for alcohol use disorders (p <0.001), food and transportation insecurity (p 0.001), behavioral health (p 0.002) and referrals to community health workers (p <0.001).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We have developed an SBP curriculum to emphasize the importance of effectively navigating clinic and community resources for treatment of prevalent chronic diseases. After our intervention, interns subjectively reported increased confidence in navigating the system and objectively demonstrated significant gains in understanding and utilizing clinic and community resources to provide optimal care for patients. We also found that interns were more engaged when guest speakers were present. Though we do not have a comparison group, we believe this format has been effective in highlighting this core competency; we plan to continue adapting our SBP curriculum to engage our learners and teach them how to advocate for patients in our community.
+
+# THE ROLE OF NARRATIVE MEDICINE AS A MEANS OF REFLECTION AMONG INTERNAL MEDICINE INTERNS
+
+Louisa W. Whitesides; Meredith McAdams; Sheila Quinn; Farah Hussain. Hospital of the University of Pennsylvania, Philadelphia, PA. (Control ID #3184568)
+
+# NEEDS AND OBJECTIVES:
+
+Narrative Medicine (NM) is an activity shown to have positive effects on the emotional and professional development of healthcare professionals and has even been shown to decrease burnout. Yet, few sustainable curricula have been developed for residency-level trainees. This study integrates a longitudinal NM curriculum during intern year of an internal medicine residency program with aims to explore its role in fostering empathy and social connectedness among interns. Objective 1: to determine the feasibility and acceptability of incorporating a pilot NM curriculum into existing learning modules for internal medicine (IM) interns. Objective 2: to explore the role of NM in the development of empathy and social connectedness among IM interns.
+
+# SETTING AND PARTICIPANTS:
+
+Each intern participated in a total of 3 one-hour NM sessions embedded in protected didactic time during outpatient blocks over 6 months. Sessions included approximately 12-15 IM interns and were facilitated by a project leader. Forty-four total interns participated in the curriculum.
+
+# DESCRIPTION:
+
+Each session focused on 2-3 different pieces of media selected by the investigators (prose, poetry, visual art, or video clips). Interns were provided with the excerpts one at a time. Each excerpt was read or viewed together and followed by a group discussion of salient themes. Interns spent 5-7 minutes writing in response to a prompt. Participants then shared their writing in small groups. Each session focused on a different theme or perspective, for example, the transition from student to intern; characteristics of a "good" doctor; the Inner Critic vs Inner Coach.
+
+# EVALUATION:
+
+Participants completed an evaluation form after each session. Semi-structured in-depth Interviews are underway to study NM's role in empathy and social connectedness among interns.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This curriculum was easily integrated into the intern didactic plan, demonstrating feasibility. Forty-four interns rated the overall quality of the sessions with a mean score of 4.4/5 on a Likert scale of (1) not at all useful to (5) extremely useful. Interestingly, writing was considered to be the least useful component of the session (3.9/5), while group discussion was considered to be the most useful (4.5/5). Although this is a relatively small sample in a single setting, preliminary findings suggest that protected time for reflection and discussion among peers is an effective method of processing the challenging experiences in medical training. Reflective writing may also be useful, but preliminarily appears to be a less favorable method. We aim to further understand this concept in the qualitative portion of our study, which is currently underway.
+
+# THE TOPSY-TURVY AND WONDERFUL WORLD OF FLIPPED CLASSROOMS. UTILIZING FLIPPED CLASSROOMS IN THE INTERNAL MEDICINE CLERKSHIP AS A CURRICULAR INTEGRATION TOOL.
+
+Sherine Salib; Beth Nelson. Dell Medical School, University of Texas at Austin, Austin, TX; Dell Medical School at UT Austin, Austin, TX. (Control ID #3168241)
+
+# NEEDS AND OBJECTIVES:
+
+Curricular integration of pre-clerkship and clinical material can be challenging. We review one tool that we have found to be effective in facilitating this.
+
+# SETTING AND PARTICIPANTS:
+
+At Dell Medical School, students follow a non-traditional 4 year curriculum, entering the clerkship year in the second year (MS2) after an accelerated one year pre-clerkship (MS1) curriculum. The MS1 curriculum actively uses problem based learning and interactive large group learning. Students take the USMLE step 1 exam at the end of the second year with an average of five weeks of dedicated study time.
+
+# DESCRIPTION:
+
+All core clerkships were charged by the Curriculum Committee to incorporate active learning techniques into the clerkship didactics. During our 8-week Internal Medicine Clerkship, we utilize an interactive, case-based "flipped classroom" model to both highlight high-yield clinical curricular components, as well as vertically integrate material from the pre-clerkship and clinical years. Clinician-educators, several of whom have experience teaching in both settings, help lead these sessions. To make the flipped classrooms effective, students review pre-class material, including the systems-related items from the pre-clerkship year. Additionally, faculty who facilitate these classrooms incorporate questions and cases that help students integrate learning from the pre-clerkship and longitudinal courses such as interprofessional education, population health, and social determinants of health.

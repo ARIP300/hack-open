@@ -1,0 +1,44 @@
+# References
+
+1. Widianto, S. et al. Pro-environmental behaviour of healthcare professionals: A study applying theory of planned behaviour. Int. J. Bus. Glob. 28(3), 219–232 (2021).
+2. Coutts, C. & Hahn, M. Green infrastructure, ecosystem services, and human health. Int. J. Environ. Res. Public Health 12(8), 9768–9798 (2015).
+3. Gray, P. et al. Workplace-based organizational interventions promoting mental health and happiness among healthcare workers: A realist review. Int. J. Environ. Res. Public Health 16(22), 4396 (2019).
+4. Jans, L. Changing environmental behaviour from the bottom up: The formation of pro-environmental social identities. J. Environ. Psychol. 73, 101531 (2021).
+5. Ahmad, N. et al. Corporate social responsibility at the micro-level as a “new organizational value” for sustainability: Are females more aligned towards it?. Int. J. Environ. Res. Public Health 18(4), 2165 (2021).
+6. Ajzen, I. The theory of planned behavior. Organ. Behav. Human Decis. Processes 50(2), 179–211 (1991).
+7. Liu, P., Teng, M. & Han, C. How does environmental knowledge translate into pro-environmental behaviors?: The mediating role of environmental attitudes and behavioral intentions. Sci. Total Environ. 728, 138126 (2020).
+8. Wu, J. S., Font, X. & Liu, J. The elusive impact of pro-environmental intention on holiday on pro-environmental behaviour at home. Tour. Manag. 85, 104283 (2021).
+9. Kallgren, C. A. & Wood, W. Access to attitude-relevant information in memory as a determinant of attitude-behavior consistency. J. Exp. Soc. Psychol. 22(4), 328–338 (1986).
+10. Radaelli, G. et al. The role of managers in enacting two-step institutional work for radical innovation in professional organizations. J. Prod. Innov. Manag. 34(4), 450–470 (2017).
+11. Hussain, M. et al. Exploration of social sustainability in healthcare supply chain. J. Clean. Prod. 203, 977–989 (2018).
+12. Wang, S., Berbekova, A. & Uysal, M. Is this about feeling? The interplay of emotional well-being, solidarity, and residents’ attitude. J. Travel Res. 60(6), 1180–1195 (2021).
+13. Organization, W. H. Our planet, our health: Report of the WHO Commission on Health and Environment (World Health Organization, 1992).
+14. Li, D. et al. What influences an individual’s pro-environmental behavior? A literature review. Resour. Conserv. Recycl. 146, 28–34 (2019).
+15. Yuriev, A. et al. Pro-environmental behaviors through the lens of the theory of planned behavior: A scoping review. Resour. Conserv. Recycl. 155, 104660 (2020).
+16. Shah, K. J. et al. Green transportation for sustainability: Review of current barriers, strategies, and innovative technologies. J. Clean. Prod. 326, 129392 (2021).
+17. Yu, H. et al. A contemporary issue of micro-foundation of CSR, employee pro-environmental behavior, and environmental performance toward energy saving, carbon emission reduction, and recycling. Int. J. Environ. Res. Public Health 18(10), 5380 (2021).
+18. Heinz, N. & Koessler, A.-K. Other-regarding preferences and pro-environmental behaviour: An interdisciplinary review of experimental studies. Ecol. Econom. 184, 106987 (2021).
+19. Peng, X. & Lee, S. Self-discipline or self-interest? The antecedents of hotel employees’ pro-environmental behaviours. J. Sustain. Tour. 27(9), 1457–1476 (2019).
+20. Costa-Font, J. & Machado, S. How can policy interventions encourage pro-social behaviours in the health system?. LSE Public Policy Rev. 1(3), 2633–4046 (2021).
+21. Wolff, K., Larsen, S. & Øgaard, T. How to define and measure risk perceptions. Ann. Tour. Res. 79, 102759 (2019).
+22. Siegrist, M. Trust and risk perception: A critical review of the literature. Risk Anal. 41(3), 480–490 (2021).
+23. Whitmee, S. et al. Safeguarding human health in the Anthropocene epoch: Report of The Rockefeller Foundation-Lancet Commission on planetary health. Lancet 386(10007), 1973–2028 (2015).
+24. McMichael, A. J., Woodruff, R. E. & Hales, S. Climate change and human health: Present and future risks. The Lancet 367(9513), 859–869 (2006).
+25. Karliner & S. Slotterback. (2019) Health Care’s Climate Footprint-How the health sector contributes to the global climate crisis and opportunities for action Available from: https://noharm-global.org/sites/default/files/documents-files/5961/HealthCaresClimateFootprint_092319.pdf.
+26. Prüss-Üstün, A. et al. Preventing disease through healthy environments: A global assessment of the burden of disease from environmental risks (World Health Organization, 2016).
+27. Tian, H., Zhang, J. & Li, J. The relationship between pro-environmental attitude and employee green behavior: The role of motivational states and green work climate perceptions. Environ. Sci. Pollut. Res. 27, 7341–7352 (2020).
+28. Leiserowitz, A. Climate change risk perception and policy preferences: The role of affect, imagery, and values. Clim. Change 77(1), 45–72 (2006).
+29. Ebi, K. L. et al. Extreme weather and climate change: Population health and health system implications. Ann. Rev. Public Health 42(1), 293–315 (2021).
+30. Farrokhi, M. et al. Psychological aspects of climate change risk perception: A content analysis in Iranian context. J. Educ. Health Promot. 9(1), 346 (2020).
+31. Liu, M., Zhang, H. & Huang, H. Media exposure to COVID-19 information, risk perception, social and geographical proximity, and self-rated anxiety in China. BMC Public Health 20(1), 1–8 (2020).
+32. Le Dang, H. et al. Farmers’ perceived risks of climate change and influencing factors: A study in the Mekong Delta Vietnam. Environ. Manag. 54, 331–345 (2014).
+33. Whitmarsh, L. Are flood victims more concerned about climate change than other people? The role of direct experience in risk perception and behavioural response. J. Risk Res. 11(3), 351–374 (2008).
+34. Poortinga, W. et al. Climate change perceptions and their individual-level determinants: A cross-European analysis. Global Environ. Change 55, 25–35 (2019).
+35. Kasperson, R. E. et al. The social amplification of risk framework: New perspectives 1367–1380 (Wiley, 2022).
+36. Dawson, I. G. Assessing the effects of information about global population growth on risk perceptions and support for mitigation and prevention strategies. Risk Anal. 38(10), 2222–2241 (2018).
+37. Zhou, Y., Song, Y. & Tian, J. Risk perception of air pollution: An exploration of self-relevancy. Human Ecol. Risk Assess.: Int. J. 22(7), 1506–1518 (2016).
+38. Dong, Y., Hu, S. & Zhu, J. From source credibility to risk perception: How and when climate information matters to action. Resour. Conserv. Recycl. 136, 410–417 (2018).
+39. Wang, T. et al. Building energy efficiency for public hospitals and healthcare facilities in China: Barriers and drivers. Energy 103, 588–597 (2016).
+40. Keshta, I. & Odeh, A. Security and privacy of electronic health records: Concerns and challenges. Egypt. Inform. J. 22(2), 177–183 (2021).
+41. Bi, P., Shi, X.-M. & Liu, Q.-Y. Climate change and population health research in China: Knowledge gaps and further directions. Adv. Clim. Change Res. 11(3), 273–278 (2020).
+42. Chang, J. J. et al. Who is responsible for climate change? Attribution of responsibility, news media, and South Koreans’ perceived risk of climate change. Mass Commun. Soc. 19(5), 566–584 (2016).

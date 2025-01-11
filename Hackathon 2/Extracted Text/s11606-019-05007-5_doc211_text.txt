@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Higher Patient-Reported Quality in Four LMICs
+
+Respondents with prepayment plans (aPR 1.27, 95% CI 1.13, 1.43) and those who sought care in a private facility (aPR 1.40, 95% CI 1.23, 1.59) reported higher QOC. Mean responsiveness scores ranged from 0.64 to 0.66 on a scale of 0 to 1 in India, Kenya, and Mexico while Nigeria had a mean of 0.71. Respondents who experienced the highest responsiveness reported higher QOC than those who experienced lower responsiveness (aPR 8.38, 95% CI 7.39, 9.50).
+
+# CONCLUSIONS:
+
+Higher patient-reported quality in four LMICs was associated with seeking specialty care compared to primary care and private sector care compared to public sector; having a prepayment plan; and experiencing higher responsiveness. Targeting interventions to improve health system responsiveness in settings of care with lower patient-reported quality could improve patients' overall experience in LMICs.
+
+# PATIENTS' REPORTS OF HARM FROM FAILURES OF CARE COORDINATION
+
+Lisa M. Kern 1; Evgeniya Reshetnyak 1; Lisandro Colantonio 2; Paul Muntner2; J. David Rhodes2; Lawrence P. Casalino1; Mangala Rajan1; Michael Pesko3; Jacqueline Marino1; Laura C. Pinheiro1; Monika M. Safford1. 1Weill Cornell Medicine, New York, NY; 2University of Alabama at Birmingham, Birmingham, AL; 3Georgia State University, Atlanta, GA. (Control ID #3168018)
+
+# BACKGROUND:
+
+Previous studies show that some patients report dissatisfaction with the extent to which their providers coordinate their care. However, it has not been clear how significant any gaps in care coordination have been and whether they have led to undesirable outcomes. We sought to determine the frequency of patient-reported harm from perceived gaps in care coordination.
+
+# METHODS:
+
+We conducted a survey on care coordination within the REasons for Geographic and Racial Differences in Stroke (REGARDS) study, a population-based, ongoing, prospective cohort study of community-dwelling adults, who were recruited between 2003 and 2007. The 21-question care coordination survey module was administered to REGARDS participants 65 years old during a routine follow-up phone call between August 2017 and October 2018. The module asked about numbers of ambulatory visits and providers in the past year, perceptions of care coordination, and the occurrence of four outcomes (repeat tests, drug-drug interactions, emergency department (ED) visits, and hospitalizations). Participants experiencing outcomes were asked if they thought the outcomes were preventable with better care coordination. If a respondent reported poor care coordination in response to one or more (out of 7) questions on perceptions of care coordination, we considered the respondent to have reported a "gap" in care coordination. Among those who reported having 2 visits and 2 providers in the previous year (as a proxy for being at risk for problems with care coordination), we used logistic regression to determine associations between self-reported gaps in care coordination and self-reported outcomes that could have been prevented with better care coordination, adjusting for participants' demographic and clinical characteristics.
+
+# RESULTS:
+
+Of 13,208 REGARDS participants approached, 10,418 (79%) completed the care coordination survey module and were 65 years old. The average respondent was 77.2 years old (SD 6.9); 57% were women, and 36% were black. The average respondent reported having had 5.2 ambulatory visits (SD 6.4) across 2.8 ambulatory providers (SD 2.5) the previous year. Of those with 2 visits and 2 doctors the previous year (N = 7,075), 38% reported one or more gaps in care coordination and 10% reported at least one outcome that could have been prevented with better care coordination (3% reported repeat tests, 6% drug-drug interactions, 1% preventable ED visits, and 1% preventable hospitalizations). Participants with one or more gaps in care coordination were more likely to report preventable outcomes than those without gaps in care coordination (adjusted odds ratio 1.52; 95% confidence interval 1.24, 1.85).
+
+# CONCLUSIONS:
+
+Patients report that gaps in care coordination are common and that these gaps often lead to undesirable outcomes. Future interventions to improve care coordination should engage patients directly, as patients may be able to both identify the problem and contribute to a solution.
+
+# PEER-LED SOCIAL MEDIA BASED HEALTH CAMPAIGN: PERSONALIZED DIGITAL CONTENT AND STRATEGIES ASSOCIATED WITH HIGHER LEVELS OF ENGAGEMENT
+
+Lawrence Gross1; Minia N. Rios Gutierrez2; Keith J. Horvath3; Viraj V. Patel2. 1Albert Einstein College of Medicine, Bronx, NY; 2Montefiore Health System / Albert Einstein College of Medicine, Bronx, NY; 3University of Minnesota, Minneapolis, MN. (Control ID #3179523)
+
+# BACKGROUND:
+
+The attributes of user-driven postings to a virtual community wall can influence engagement with online health interventions to support behavior change. Because techniques for optimal engagement of Black and/or Latinx men who have sex with men (BLMSM) are unknown, we analyzed the effects of digital post characteristics on engagement levels using data from a peer-delivered, social-media based HIV prevention intervention.
+
+# METHODS:
+
+10 BLMSM peer-leaders participated in an online health intervention in New York City disseminating pre-determined tailored health messages ("posts") over six-weeks to 164 BLMSM participants from their Facebook networks in private Facebook groups. We categorized the standardized posts (developed by PLs) based on content types (video, image, infographic, text-only, or article) and engagement strategies used (posing a question, hashtag, tagging participants, emoji, celebrity references, and community [posts featuring people of color]). We calculated engagement scores by summing each post's likes and comments, and weighted by a ratio of total number of likes, comments, and potential viewers across all post. We then calculated mean engagement scores (MES) for each categorization and compared using ANOVA and multivariable regression (shown as (95%CI)).
+
+# RESULTS:
+
+There were a total of 459 posts, consisting of the following content types: 113 videos, 126 images, 67 infographics, 54 text-only and 99 articles. Distribution of engagement strategy was: 148 question, 120 hashtag, 35 tagging, 59 emoji, 10 celebrity, and 161 community. MES across all categories ranged from 8.8-59. When comparing posts by content type, text-only posts had the highest MES (23.1) and posts of articles had the lowest (8.8) (p=0.04). Among strategies, tagging participants had the greatest MES (59), while using an emoji had the lowest MES (16). MES increased with the number of strategies used (e.g., posts not using an identifiable strategy (MES=6.25) to posts using 4 strategies (MES=40.9)). In multivariable analyses of content-types, only text posts had significantly higher engagement (0.14 (0.05-0.24)) than articles. In multivariable analysis of engagement-strategies, tagging (0.49(0.39-0.58)) and questions (0.1(0.05-0.15)) were more likely to have higher MES compared to not using an identifiable engagement-strategy (p<0.01). Sensitivity analysis which considered the effect of PLs on MES did not change findings.
+
+# CONCLUSIONS:
+
+In an online health intervention for BLMSM, personalized content types and engagement strategies were most successful at eliciting greater engagement with materials. Text-only posts can be more easily tailored than other content types to address specific groups or individuals. Tagging and posing questions may increase engagement by making it socially desirable to respond to peers online. Online health interventions should consider personalizing digital contents to enhance engagement.
+
+# PERCEIVED BARRIERS AND FACILITATORS TO CONTRACEPTIVE USE AMONG WOMEN VETERANS IN THE ECUUN STUDY
+
+Tierney Wolgemuth1; Maris Cuddeback1; Keri L. Rodriguez3; Xinhua Zhao4; Sonya Borrero2. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2University of Pittsburgh and VA Pittsburgh, Pittsburgh, PA; 3VA Pittsburgh Healthcare System, Pittsburgh, PA; 4VA Pittsburgh

@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# RESULTS:
+
+156 visitors had 305 episodes of care. 72% of episodes reported opioid consumption and 63% reported consumption of a non-opioid sedative. Cluster analysis revealed 3 toxidrome patterns. Cluster A (26.6% of episodes) had mild sedation and normal vital signs. Cluster B (44.5%) had higher levels of sedation and non-hypoxic vital sign abnormalities. Cluster C (28.9%) was comparable to cluster B with the addition of hypoxia. In multivariable modeling, consumption of non-opioid sedatives significantly predicted membership in cluster B (aOR 2.75, 95% CI 1.40-5.40) or cluster C (aOR 3.38, 95% CI 1.48, 7.70) as opposed to cluster A. Older age (aOR 1.54 per 10 years, 95% CI 1.00-2.35) and female gender (aOR 2.51, 95% CI 1.03, 6.10) were significantly associated with membership in cluster C vs. A. Cluster B (mean 4.4 hrs) and cluster C (mean 4.8 hrs) episodes were longer than cluster A episodes (mean 2.3 hrs, p<0.001 for both). Cluster C episodes were more likely to require supplemental oxygen. Only 3 episodes required naloxone. Most episodes (85.7%) ended in discharge to one's own care, without differences by cluster. No deaths were observed.
+
+# CONCLUSIONS:
+
+Among patients of a medically-supervised overdose prevention program, reported use of non-opioid sedatives strongly predicted more complex clinical courses. Despite this, few episodes required hospital transfer, very few required naloxone, and no deaths occurred. The SPOT experience suggests that many drug toxidromes can be managed effectively in the outpatient setting with early identification and appropriate monitoring and intervention resources.
+
+# TRAINEES AND TRANSITIONS TO POST-ACUTE CARE: EVIDENCE FOR IMPROVEMENT
+
+Julia E. Limes1; Catherine Callister1; Robert E. Burke2; Eric A. Young2; Christine D. Jones3. 1University of Colorado, Denver, CO; 2Denver VA Medical Center, Denver, CO; 3University of Colorado, Denver, Aurora, CO. (Control ID #3186051)
+
+# BACKGROUND:
+
+A significant proportion of patients are discharged from the hospital with post acute care supports including skilled nursing facilities (SNFs) and home health care (HHC) services. These patients are often medically complex, with a higher risk of readmission and significant implications if the discharge transition does not go smoothly. Little is known about resident knowledge and perceptions of SNF and HHC transitions.
+
+# METHODS:
+
+We developed a cross-sectional survey for residents to assess their knowledge, attitudes, and experience with discharging patients to SNF or HHC. The questions were based on prior qualitative and survey studies of discharge to SNF and HHC. A 36-question survey was sent to 193 internal medicine (IM) and medicine-pediatrics residents at a large academic IM training program. Respondents selected answers on a 4-point Likert scale and entered free-text comments.
+
+# RESULTS:
+
+A total of 100 (51.8%) residents responded. Residents felt confident in their ability to effectively transition patients to SNFs (80.8% agree or strongly agree) and HHC (65.6% agree or strongly agree). Two-thirds of residents identified the discharge summary as their sole method of communicating care instructions to SNFs, but only 19.2% of respondents reported always completing a discharge summary prior to discharge. In addition, only 43.4% usually or always provide a contact number for the inpatient team. In terms of knowledge about services provided at a SNF, 36.4% of residents knew how much physical therapy (PT), occupational therapy (OT), or speech therapy is provided at a SNF and 32.3% knew how frequently nursing services are provided. The perceived method of communicating care instructions to HHC agencies was more variable, with 45.7% communicating via discharge orders, 35.1% through a discharge summary, and 19.1% with a phone call by the case manager. Only 34.4% of residents usually or always provide a contact number for the inpatient team at discharge. Residents had similar gaps in knowledge.
+
+# BACKGROUND:
+
+While barriers to physician wellness have been well detailed, concrete solutions are lacking. We looked to professionals across diverse fields whose work requires engagement and interpersonal connection with clients. The goal was to identify effective strategies from non-medical fields that could apply to preserving physician wellness.
+
+# METHODS:
+
+We conducted semi-structured interviews with 30 professionals outside the field of clinical medicine whose work involves fostering effective connections with individuals. Participants were from diverse professions, including the protective services (e.g., police officer, firefighter), business/finance (e.g., restaurateur, salesperson), management (e.g., CEO, school principal), education, art/design/entertainment (e.g., professional musician, documentary filmmaker), community/social services (e.g., social worker, chaplain), and personal care/services (e.g., massage therapist, yoga instructor). Interviews covered strategies that professionals use to initiate and maintain relationships, practices that cultivate professional fulfillment and preserve wellness, and techniques that facilitate emotional presence during interactions. Data were coded using an inductive thematic analysis approach.
+
+# RESULTS:
+
+Professionals identified self-care strategies at both institutional and individual levels that support wellness. Institutional-level strategies include scheduling that allows for self-care, protected time to connect with colleagues, and leadership support for debriefing after traumatic events. Individual strategies include emotionally-protective distancing techniques, and engagement in a bidirectional exchange that is central to interpersonal connection and professional fulfillment.
+
+# CONCLUSIONS:
+
+Across diverse fields, professionals employ common institutional and personal wellness strategies that facilitate meaningful engagement, support collegiality, and encourage processing after intense events. The transdisciplinary nature of these wellness strategies highlights universal underpinnings that support wellbeing in those engaging in people-oriented professions.
+
+# TRANSLATING CHRONIC KIDNEY DISEASE RESEARCH INTO PRIMARY CARE PRACTICE
+
+Cara Litvin; Steven Ornstein2; Paul Nietert1; Ruth Jenkins. 1Medical University of South Carolina, Charleston, SC; 2The PPRNet Foundation, Charleston, SC. (Control ID #3185329)

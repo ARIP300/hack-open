@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# THE IMPACT OF A NOVEL STEPWISE APPROACH TO PRUNING MEDICATIONS IN AN INTERDISCIPLINARY POLYPHARMACY CLINIC
+
+Guibin Li; Kelli Barnes; Sara Woods; Stuart Beatty. The Ohio State University, Columbus, OH. (Control ID #3184613)
+
+# BACKGROUND:
+
+Polypharmacy refers to the use of multiple medications by a single patient. Undesirable effects of polypharmacy include adverse drug events, medication interactions, poor compliance and increased costs. Several implicit (judgement based) and explicit (evidence based) criteria are utilized to evaluate polypharmacy (Beers, STOPP/START, and Medication Appropriateness Index). However, implicit criteria are time consuming and not feasible for routine clinical practice, while explicit criteria do not accurately evaluate medication effectiveness. A comprehensive yet personalized approach is needed. The aim of this study is to assess the impact of a step-wise approach in an Interdisciplinary Polypharmacy Clinic on reducing medication burden.
+
+# METHODS:
+
+A single institution prospective cohort study was conducted. The participants included were 18 years old and on 6 chronic medications. All terminally ill or severely demented participants were excluded. The interdisciplinary team included a geriatrician, a pharmacist and a social worker. All participants underwent a 3-step approach to evaluate polypharmacy (Figure). By the end of the visit, the participant was counseled on all medication changes and received a personalized medication record. Quality of life improvements were evaluated with the Short Form-12 Quality of Life health survey (SF-12) at baseline and 1-month follow-up. The participant's pre- and post-intervention medication usage and quality of life was compared.
+
+# RESULTS:
+
+A total of 118 patients were included in the cohort. The mean age was 62.9 years. The mean number of medical comorbidities was 10.5. Prior to intervention, participants had a mean of 15.65 medications compared to a mean of 13.44 after intervention (p&lt;0.001), with an average reduction of 2.25 medications. Among the medications discontinued, 80.0% were NSAIDs, and 31.9% had anticholinergic effects. SF-12 data was collected for 89 patients. SF-12 scores trended toward slight improvement at 1 month in both the physical component (p=0.101) and mental component (p=0.626).
+
+# CONCLUSIONS:
+
+Our study demonstrates polypharmacy can be systematically reduced through a simple stepwise interdisciplinary approach. Importantly, there were no negative effects on quality of life after medication reduction.
+
+# 3 Steps to Pruning Polypharmacy
+
+|Step 1 Review:|Perform comprehensive medication review with the pharmacist|
+|---|---|
+|Step 2 Match:|Each medication is matched to a medical condition/diagnosis|
+|Step 3 Adjust:|Identify and adjust or discontinue unnecessary & inappropriate medications|
+
+# Not indicated Or Over-prescribed
+
+|Adverse Effects|Potentially Under-prescribed|
+|---|---|
+|Not effective| |
+|Stop|Decrease dose|
+|Switch to safer alternative|Non-pharmacologic approaches|
+|Add the beneficial medication| |
+
+# THE IMPACT OF GENDER ON INPATIENT MORTALITY OF HYPERTENSIVE LATINO PATIENTS ACROSS CKD STAGE 3 TO ESRD IN THE UNITED STATES.
+
+Ricardo R. Correa1; Rodrigo Aguilar2; Carmen Cervantes3; Mark Nader2. 1University of Arizona, Phoenix, AZ; 2Marshall University, Huntington, WV; 3Aventura Hospital, Hollywood, FL. (Control ID #3167834)
+
+# BACKGROUND:
+
+Hypertension and chronic kidney disease are two of the most important risk factors for cardiovascular disease, a major cause of death in the US population. The impact of gender in this equation remains unclear, more so, on how it affects the Hispanic population. Studies comparing the outcomes and difference in inpatient mortality between male and female with hypertension and CKD are sparse. Our aim was to determine if gender in Latino population affects the inpatient survival rate among hypertensive patients across different CKD stages.
+
+# METHODS:
+
+Data was extracted from the 2005 to 2012 Nationwide Inpatient Sample (NIS). Using propensity score matching, female hypertensive with chronic kidney disease (stage 3, 4, 5 or ESRD) patients were matched with hypertensive males at a 1:1 ratio. We compared inpatient mortality, both crude mortality and mortality per CKD stage, length of stay and total hospital charges between male and females. Analyses were performed using SAS version 9.3 (SAS Institute, Cary, NC, USA).
+
+# RESULTS:
+
+Among 227,923 hospitalized hypertensive patients, 118,132 (51.83%) were males and 109,791 (48.17%) females. 18.76%, 10.31%, 3.85% and 67.17% were Females with CKD 3 to ESRD respectively. Males across CKD stages 3 to ESRD were 19.47%, 9.54%, 3.63% and 67.43% respectively. In-hospital crude mortality was significantly higher for males compared to group of females before match, (3.89 vs 3.74 p=0.05), interestingly, mortality was higher after match for females (3.85 vs 3.79 p=0.48). Mean length of stay for hypertensive females were significantly higher than males, irrespective of CKD stage (6.74 vs 6.70 days, p=0.001), however at the male group had an expense of higher hospital charges (63,686 vs 61,667 dollars, p=0.001).
+
+# CONCLUSIONS:
+
+Latino hypertensive men with any stage of CKD are more at risk of dying than their counterpart women and have higher hospital charges. Further studies are needed to explore these associated genders in difference outcomes in this population.
+
+# THE IMPACT OF MEDICARE STAR RATING ADHERENCE MEASURES ON MEDICATION ADHERENCE FOR TARGETED AND NON-TARGETED MEDICATIONS
+
+Natasha Parekh1, 2; Kiraat D. Munshi3; Inmaculada Hernandez4; Walid F. Gellad1, 5; Rochelle Henderson3; William H. Shrank2. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2UPMC Center for High-Value Health Care, Pittsburgh, PA; 3Express Scripts Holding Company, St. Louis, MO; 4University of Pittsburgh, Pittsburgh, PA; 5VA Pittsburgh/University of Pittsburgh, Pittsburgh, PA. (Control ID #3183269)
+
+# BACKGROUND:
+
+In 2012, Medicare incorporated medication adherence for oral antidiabetics, renin-angiotensin system (RAS) antagonists, and statins as highly weighted measures in star rating calculations. In the same year, health plans began receiving Quality Bonus Payments for achieving higher star ratings. It is unclear how these policy changes affected adherence to medications targeted by these policies and whether any impact spilled over to other chronic disease medications.
+
+# METHODS:
+
+We performed quasi-experimental interrupted time series analyses with multivariable segmented linear regression models to assess monthly changes in medication adherence (as measured by proportion of days covered) over a seven-year period from 2010 to 2016 using Medicare administrative claims data from a large pharmacy benefits manager. We conducted two separate sets of analyses: the first examined whether

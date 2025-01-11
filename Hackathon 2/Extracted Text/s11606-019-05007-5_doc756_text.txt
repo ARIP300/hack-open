@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+The HPT has been a product of, and catalyst for, strong collaboration and interdisciplinarity. The vivid vignette, a strategy designed to illuminate both the person and their goals, rather than just their problems - has become a fundamental part of case presentations. Additionally, the explicit nature of the HPT has put humanism at the forefront of how our trainees interact with their patients and colleagues and how our clinic culture has defined itself.
+
+# THE HYPOTHESIS-DRIVEN PHYSICAL EXAM FOR COMMON INPATIENT PRESENTING SYMPTOMS
+
+Allison Kanakis1; Deborah DiNardo2; Eliana Bonifacino3; Melissa McNeil1.
+
+1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh School of Medicine, Pittsburgh, PA; 3UPMC, Pittsburgh, PA. (Control ID #3185516)
+
+# NEEDS AND OBJECTIVES
+
+The declining emphasis on the physical exam in medical education and in clinical practice has been widely recognized. More recently, there has been a renewed interest in physical diagnosis as an essential component of medical decision-making. As opposed to the complete "head-to-toe" physical exam, the hypothesis-driven physical exam (HDPE) involves predicting and recognizing specific physical exam findings to refine differential diagnoses. However, there is a lack of consensus regarding the essential elements in a HDPE across a spectrum of disease processes and learner levels. We therefore aimed to develop a rubric for assessing the medical student HDPE for common inpatient presenting symptoms.
+
+# SETTING AND PARTICIPANTS
+
+We reviewed 248 admission notes submitted by 67 medical students for documentation of the chief complaints. The admission notes were gathered from students rotating on their third year internal medicine clerkship at the University of Pittsburgh Medical Center who submit notes for grading to a faculty facilitator.
+
+# DESCRIPTION
+
+We selected the 3 most common chief complaints as presented in the students' admission notes. The 3 most common chief complaints were shortness of breath (32 patients), abdominal pain (23 patients), and chest pain (21 patients). These 3 chief complaints comprised 76 (31%) of submitted admission notes. For each of these 3 selected symptoms, four clinical reasoning experts generated a list of the most common associated diagnoses and the relevant diagnostic physical exam maneuvers based on clinical experience and literature review.
+
+# EVALUATION
+
+We created a survey to administer to a group of clinical reasoning and physical diagnosis experts. In the first part of the survey, participants are provided with potential physical exam maneuvers for each symptom and are asked to rank how important each maneuver is to be performed on initial assessment using a Likert scale. In the second part of the survey, participants are asked to identify whether or not an exam maneuver should be performed only if a specific diagnosis is being considered using a dichotomous scale. We plan to conduct a two-round Delphi to establish a consensus list of essential physical exam maneuvers for the HDPE for the 3 selected symptoms. Based on literature review and expert group consensus as described, we will consolidate the list into physical exam maneuvers that (1) should always be performed for a particular presenting symptom and (2) should be done in a hypothesis-driven manner if a specific diagnosis is being considered.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+By developing a rubric for common inpatient presenting symptoms, the teaching and evaluation of the inpatient HDPE in medical students can be standardized. This tool has the potential to help students learn the pertinence of physical exam findings and enhance their clinical reasoning skills.
+
+# THE I-TOPC CASE-BASED CURRICULUM: A NOVEL APPROACH TO TEACHING PRIMARY CARE TOPICS TO INTERPROFESSIONAL LEARNERS
+
+Timica Campbell1; Megan McNamara2; Andrew T. Harris3; Elizabeth Painter4; Kristina Pascuzzi4; Pamela Lynch4; Mary A. Dolansky5, 4.
+
+1Louis Stokes VA Medical Center, Cleveland, OH; 2Louis Stokes Cleveland VAMC, Cleveland, OH; 3Louis Stokes Cleveland VA Medical Center, University Heights, OH; 4Louis Stokes Cleveland VA Medical Center, Cleveland, OH; 5Case Western Reserve University, Cleveland, OH. (Control ID #3185511)
+
+# NEEDS AND OBJECTIVES
+
+Traditional teaching of primary care concepts usually takes a physician-centered approach to diagnosis and management. With the advent of the Patient Centered Medical Home, we recognize the need for teaching cases that model the team-based approach that ideally happens in workplace learning. Currently, there is a paucity of ambulatory curricula that address interprofessional primary care management. Therefore, the objective of the teaching innovation was to develop and implement modules that engage learners in the collaborative nature of primary care.
+
+# SETTING AND PARTICIPANTS
+
+The Cleveland VA Medical Center is one of five original Centers of Excellence in Primary Care Education (COE-PCE) established in 2010 with funding from the Veterans Health Administration's Office of Academic Affiliations. The curriculum is an innovative interprofessional program that focuses on training future health care professionals to manage chronic conditions. The program includes Medical (MD) residents, Nurse Practitioner (NP) residents, Pharmacy residents, Psychology residents, Social Work and NP students.
+
+# DESCRIPTION
+
+A core group of interprofessional faculty from medicine, advanced practice nursing, pharmacy, behavioral health and social work developed and implemented a case-based curriculum that emphasized a team-based approach to primary care topics. In the development of this Interprofessional Transforming Out-patient Care (i-TOPC) case-based curriculum, we used an agreed upon framework and an iterative process to create modules that included interprofessional learning objectives, a content specific case, guiding questions, and a facilitator guide. Examples of topics covered included fibromyalgia, headaches, and dizziness. A team of interprofessional learners were assigned to facilitate the session. Prior to the conference, learners were coached on techniques of presenting to an interprofessional group. Following each case conference, learners were provided with real-time feedback from the core group faculty. At the end of each session all learners were provided with a copy of the facilitator guide.
+
+# EVALUATION
+
+After each conference, audience members completed an online evaluation. The evaluation consisted of a combination of Likert-scale questions and short answer questions that rated presentation style, delivery, and the interprofessional nature of the presentation. The average overall rating for the sessions was 4.69 on a 5-point scale. Examples of some of the short answer feedback include: "Fantastic! Love the new i-TOPC format." "No better way [to present information]!"
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Over the course of the development and implementation of i-TOPC cases, we learned that maintaining a small, core group of faculty members was key. After identifying the core group, we solidified into an efficient and committed team. We also recognized the utility of interprofessional faculty members attending case presentations to facilitate discussion, gauge case effectiveness and for future case improvement.

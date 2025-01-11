@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# STALLED BY STILL'S - A PUZZLING CASE OF ADULT ONSET STILL'S DISEASE
+
+S. MAHARJAN MD, A. OHRI MD, S. FERGUSON MD, M. BHARGAVA MD. HIGHLAND HOSPITAL - ALAMEDA HEALTH SYSTEM, OAKLAND, CALIFORNIA
+
+Suresh Maharjan; Ajay M. Ohri; Monica Bhargava; Sancia Ferguson. Alameda Health System - Highland Hospital, Emeryville, CA. (Control ID #3183536)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize diagnostic complexity of Adult Onset Still's Disease (AOSD). Rule out potential life-threatening coexisting disorders.
+
+# CASE:
+
+A 30-year-old healthy, Guatemalan male presented to emergency department with high fevers, headache and neck pain of more than a week. Physical exam was remarkable for a non-pruritic, diffuse, salmon-colored macular rash over his body. Extensive sepsis workup was unrevealing for a clear source of infection. Computer Tomography (CT) head and lumbar puncture were negative. Laboratory data was concerning for elevated transaminases, high C-reactive protein and ferritin of 1731 ng/ml. CT chest and abdomen showed hepatomegaly with extensive lymphadenopathy. Additional laboratory findings of high lactate dehydrogenase, bilirubin, triglycerides and low fibrinogen raised a concern for Hemophagocytic Lymphohistiocytosis (HLH). Hematology was consulted. Bone marrow biopsy ruled out HLH and flow cytometry was negative for malignancies. Multitude of serological tests for autoimmune disorders and viral infections returned negative. Rheumatology was consulted. Based on clinical presentation, workup and patient meeting more than five Yamaguchi criteria, AOSD was suspected. Prednisone was initiated which dramatically improved his symptoms supporting the diagnosis. He was eventually discharged on a tapering steroid regimen with close Rheumatology follow up.
+
+# IMPACT/DISCUSSION:
+
+George Still first described juvenile Still's disease in 1896 however much remains unknown about the exact etiopathogenesis. Involvement of a complex cytokine network mainly involving macrophages, Tumor Necrosis Factors and Interleukins (IL) is suspected. Several diagnostic criteria have been proposed but so far Yamaguchi criteria (sensitivity of 93% and specificity of 92%) has been widely accepted. There's always a possibility of an overlapping/additional clinical entity like HLH, Macrophage Activation Syndrome (MAS) which are thought to be on the same spectrum but can cause life threatening complications. Our patient did not demonstrate hemophagocytosis on bone marrow biopsy, rather, had a rapid clinical improvement in the setting of modest steroids, making these diagnoses unlikely. The goal of treatment is to resolve physical signs/symptoms and laboratory indices of inflammation. Our patient's ferritin decreased to 40 ng/ml within a week into the treatment, along with clinical improvement. Treatment modalities depend on severity of AOSD ranging from nonsteroidal antiinflammatory drugs to steroids to nonbiologic/biologic Disease Modifying Anti-Rheumatic Drugs.
+
+# CONCLUSION:
+
+AOSD is a diagnosis of exclusion. The Yamaguchi and Fautrel criteria are both very reliable diagnostic tools. Association with HLH/MAS is rare but not uncommon. Timely diagnosis and treatment is the key to reduce mortality and morbidity which is particularly higher among Asians and patients with disseminated intravascular coagulation. With recent advancement in medical research, hope is high that we might be able to stall Still's disease.
+
+# STATIN INDUCED RHABDOMYOLYSIS COMPLICATED BY ACUTE RENAL FAILURE LEADING TO DIALYSIS
+
+Dilshan Dhillon 1; Paul Nona 2; Sunjay Modi 1; Zarina Alam 2. 1 Henry Ford Hospital, Oakland, MI; 2 Henry Ford Health System, West Bloomfield, MI. (Control ID #3185617)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize life changing consequences of statin induced injury in patients with stage IV CKD
+
+# LEARNING OBJECTIVE #2:
+
+Identify statin induced muscle and kidney injury
+
+# CASE:
+
+56 year old male with presents with generalized malaise, myalgias, tea colored urine and loose stools for 2 days. He denies sick contacts, flu like symptoms, fevers, recent changes in medications, dehydration or recent strenuous exercise. He is a former smoker with 35 pack years, social alcohol consumer and denies illicit drug use. His medications include: aspirin 81mg, atorvastatin 80mg and metoprolol tartrate 25mg for coronary artery disease, amlodipine 10mg for hypertension, lantus 8 units for type 2 diabetes and lasix 60mg for stage IV chronic kidney disease. On examination he was hemodynamically stable, ill appearing obese gentleman with tenderness in the major muscle groups of his upper and lower extremities. The rest of his exam was unremarkable. Laboratory studies revealed hyperkalemia at 6.2 mEq/L, creatinine 7.70 mg/dL (baseline around 4 mg/dL), calcium 7.8 mg/dL, phosphorus 9.9 mg/dL, his serum ALT was 41 IU/L and AST was 245 IU/L. Urinalysis was significant for hematuria and proteinuria. Creatine protein kinase (CPK) peaked at 452,312. Patient was found to be in rhabdomyolysis leading to acute on chronic renal failure. Statin was removed, patient was started on continuous infusion of normal saline and furosemide drip. CPK was down trending however due to worsening hyperkalemia and hyperphosphatemia despite adequate urine output, a tunneled-cuff catheter was placed and patient was initiated on hemodialysis. Electrolytes and CPK normalized however patients renal function did not improve leading to end stage renal disease.
+
+# IMPACT/DISCUSSION:
+
+Cardiovascular disease is a major cause of morbidity and mortality in the world with the prevalence of cardiovascular diseases doubling by 2020. Statin therapy is the primary pharmacologic therapy to achieve low LDL cholesterol in efforts to improve atherosclerotic cardiovascular disease outcomes in primary and secondary prevention. High doses of statins increase the risk of rhabdomyolysis. The US FDA Adverse Event Reporting System database reports that there are .3-12.5 cases out of 1 million of statin induced rhabdomyolysis. Rhabdomyolysis is syndrome where muscle pain and weakness is caused by muscle tissue breakdown with release of intramuscular contents (enzymes, myoglobin, electrolytes) into the circulation. Myoglobin is cytotoxic to renal tubules and causing tubular cast formation and acute tubular necrosis. Cytokine induced arteriolar vasoconstriction in combination with dehydration results in decreased glomerular filtration rate and eventually acute renal failure.
+
+# CONCLUSION:
+
+This case report is aimed to highlight the risks of high dose statin therapy and to consider a medication/dose review in the setting of advanced chronic kidney disease to prolong time to dialysis, ultimately improving quality of life.
+
+# STAY THE COURSE AND DON'T PUT DOWN ANCHORS
+
+Nora Kovar; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186112)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to pancytopenia in a patient with human immunodeficiency virus (HIV)
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the role of Anchoring bias plays in the diagnosis and management of patients

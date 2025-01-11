@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# SETTING AND PARTICIPANTS:
+
+The primary stakeholders in the development process were Internal Medicine Clerkship Directors, the Acting Internship Director, the residency Program Directors and the Chair of Internal Medicine.
+
+# DESCRIPTION:
+
+Ten percent (10%) faculty effort was procured to develop EPAs. Department chairs committed to invest in upstream efforts because 20% of our medical students matriculate into our residencies. Currently, 4th year learners participate in a specialty-specific curriculum. The internal medicine faculty champion worked in partnership with department, clerkship and residency program leadership to describe specialty-specific EPAs using the AMEE EPA guide. Each IM EPA was mapped to AAMC EPAs and core competencies. Assessments for entrustment were interwoven into 4th year track requirements.
+
+# EVALUATION:
+
+The first year goal is to assign the EPA lead, establish joint meetings with clerkship and program directors, and identifying specialty specific UME EPAs for competency assessment. The 3-5 year goal is to develop a specialty specific EPA program that would be cited on the students' MSPE.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We are challenging the idea that all graduating medical students should be general practitioners. This EPA-based curriculum is specialty specific - a strength and a weakness. We gained stakeholder buy-in as 20% of graduates remain at our institution. For our learners the link between medical school and their specific experience on July 1 is clearer. Although this pilot represents a small cohort, a focused skill set improves feasibility. Institution specificity may reduce generalizability. The collaborative process of developing EPAs opens a channel for true educational continuity. Moving entrustment from a theoretical model to a pragmatic curricular blueprint is a paradigm shift for most clinician educators. We anticipate the need for faculty training in establishing a frame of reference for entrustment in Internal Medicine.
+
+# TWITTER REPORT: A NOVEL APPROACH FOR TEACHING CLINICAL REASONING ON SOCIAL MEDIA
+
+Casey N. McQuade1; Michael G. Simonson1; Kristen A. Ehrenberger1; Amar Kohli2. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2UPMC, Mars, PA. (Control ID #3178107)
+
+# NEEDS AND OBJECTIVES:
+
+Social media is increasingly popular for disseminating educational material to busy trainees. Resident report-style learning is particularly valuable, but cases take 30-60 minutes to conduct. We adapted report-style, case-based teaching into an asynchronous format using the Twitter social media platform.
+
+# SETTING AND PARTICIPANTS:
+
+We developed a Twitter profile, @MedEdPGH, starting in February 2018 to disseminate educational material. Unconditional email invitations were sent to Internal Medicine residents (n=200) and faculty (n=165) at our institution to encourage participation. The profile was viewable by any Twitter user, including those not at our institution.
+
+# DESCRIPTION:
+
+Each Friday, the authors posted a brief clinical vignette followed by the question, "What else do you want to know?" to the @MedEdPGH profile. Twitter users responded to the post asking for additional details, and the authors replied in real-time. Participants were asked to explain their clinical reasoning, when applicable, and the authors emphasized clinical reasoning pearls in reply. The authors moderated the discussion so all pertinent aspects of the case were explored, including eliciting summary statements and a differential diagnosis. After the correct answer was elucidated, the case was concluded with relevant teaching points. Online engagement was assessed using Twitter Analytics. Resident and faculty attitudes after 6 months were assessed at our institution using a post-intervention survey instrument.
+
+# EVALUATION:
+
+Over the 6-month intervention period, the 11 Twitter Report cases were viewed 21,845 times and were engaged by users 1,773 times. A total of 86 Twitter profiles spanning 22 U.S. states and 6 countries contributed to Twitter Report discussions. Participants from all training levels were present, including faculty. The most common clinical reasoning topics discussed were cognitive biases, test characteristics, and diagnostic frameworks. Moderators required 30-90 minutes of total screen-time spaced over a 24-48 hour period to lead each discussion. Of 86 trainees who responded to the post-intervention survey, 22 (15 residents, 7 faculty) reported interacting with Twitter Report. 15 of 22 respondents at least somewhat agreed that participation in Twitter Report increased their clinical reasoning skills. 16 of 22 at least somewhat agreed that Twitter Report increased their clinical knowledge.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Twitter Report is effective for engaging learners of all levels in a clinical reasoning discussion on social media. It reached a global audience using a case-based format. Participants reported favorable effects on their clinical reasoning and knowledge. The intervention required time and effort similar to in-person report-style teaching, but the asynchronous format allowed time commitments to be distributed favorably throughout the day for busy trainees and educators. Future iterations will leverage the multimedia capabilities of social media to further illustrate clinical reasoning teaching points.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://twitter.com/MedEdPGH
+
+# UCONN IMMIGRATION RIGHTS INITIATIVE: THE DEVELOPMENT OF A STUDENT RUN ASYLUM CLINIC AND AN AVENUE FOR REFUGEE ADVOCACY
+
+susan levine. University of Connecticut, Farmington, CT. (Control ID #3175910)
+
+# NEEDS AND OBJECTIVES:
+
+There are over 68 million individuals displaced globally due to human rights abuses. Of these 262,000 applied for asylum in the United States in 2016. As the caps for refugee resettlement continue to diminish and the criteria for asylum status become more restrictive, it is increasingly important that physicians become trained to advocate for this vulnerable population. An individual's likelihood of successfully attaining asylum increases from 38 to 89% when an affidavit incorporates a trained medical or psychiatric forensic evaluation. A student run asylum clinic is a way to provide critical medical testimony, to teach trainees essential clinical skills for recognizing signs of abuse, and to advocate for vulnerable populations.
+
+# SETTING AND PARTICIPANTS:
+
+The UConn Immigration Rights initiative is the advocacy arm of a 3 part entity, UConn Immigrant Health. UConn Immigrant Health also includes a faculty run refugee and Immigrant Health clinic as well as a medical student and resident curriculum in refugee health. The UConn Immigration Rights Initiative is a student run asylum clinic wherein medical students trained by Physicians for Human Rights (PHR) perform pro bono forensic evaluations for attorneys representing clients seeking asylum. In addition to providing forensic affidavits, students work directly with community partners to advocate on a wide variety of immigrant and refugee issues. Students apply the advocacy skills they learn within their medical school community.
+
+# DESCRIPTION:
+
+The asylum clinic is a collaboration between UConn Law school, PHR and UConn Health. Medical students and supervising faculty attend PHR training which reviews: legal aspects of asylum,

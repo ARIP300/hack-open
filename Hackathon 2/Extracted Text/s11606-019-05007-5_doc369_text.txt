@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# CONCLUSION:
+
+Although this is less common, abnormalities in liver function tests and acute liver failure may be the first presentation for acute HIV infection. Given that HIV is not routinely tested in patients presenting with acute liver injury, it is important to have a high index of suspicion to prevent under detection and delays in diagnosis.
+
+# ACUTE TOXIN MEDIATED RHABDOMYOLYSIS IN SETTING OF RECENT INITIATION OF SULFAMETHOXAZOLE-TRIMETHOPRIM THERAPY FOR URINARY TRACT INFECTION
+
+Dorjan Pantic; Michael Sperandeo; Linda Kurian. Hofstra Northwell School of Medicine, Manhasset, NY. (Control ID #3141559)
+
+# LEARNING OBJECTIVE #1:
+
+Identifying bactrim as a possible cause of rhabdomyolysis
+
+# CASE:
+
+A 41-year-old African American male with a past medical history of overactive bladder and benign prostatic hyperplasia presented to the ED with increasing proximal bilateral lower extremity muscle pain for 5 days and increasing difficulty with ambulation. The patient also complained of persistent hematuria, urgency and hesitancy for the 9 days. Prior to presentation, the patient saw his outpatient urologist and was diagnosed with a UTI for which he was prescribed TMP-SMX DS. On exam, patient was found to have lower extremity proximal muscle strength 4/5 without point tenderness. Abdominal exam showed mild left lower quadrant and suprapubic tenderness to palpation. Physical exam was otherwise unremarkable. Initial laboratory analysis in the ED showed an AST 274 U/L, ALT 102 U/L, and a CK 60665 U/L. Prior labs from his urologist showed normal AST/ALT and urine consistent with a UTI without laboratory evidence of rhabdomyolysis prior to initiation of TMP-SMX. The patient was admitted for non-traumatic acute rhabdomyolysis and UTI and had TMP-SMX discontinued. During the course of admission, the CK peaked on day 4 at 240000 U/L, AST at 1200U/L and AST 1600 U/L prior to normalizing by day 8. The symptomatic improvement preceded laboratory improvement by ~3 days. During admission the patient was evaluated for influenza, HIV and cocaine toxicity as possible other etiologies for rhabdomyolysis during his admission. These studies were negative. Epstein Barr Viral studies were consistent with a prior infection with immunity, without evidence of an acute viral process. Thyroid function tests and Glucose-6-Phosphate dehydrogenase studies were also normal.
+
+# IMPACT/DISCUSSION:
+
+Our patient is to our knowledge the fourth case of TMP-SMX induced rhabdomyolysis in a patient without HIV infection. Each of the three prior patients, as well as our most recent case were prescribed TMP-SMX for a presumed UTI. Our cases adds to the growing body of literature suggesting TMP-SMX as a cause of possible drug induced rhabdomyolysis and adds to the importance of a thorough medication review.
+
+# CONCLUSION:
+
+The etiology of the rhabdomyolysis is varied and may be the result of toxin-mediated mechanisms, metabolic derangements or may develop secondary to other conditions like seizures, trauma and prolonged immobilization. In this case, we present a patient with suspected acute toxin-mediated rhabdomyolysis in the setting of new Trimethoprim-Sulfamethoxazole (TMP-SMX) therapy for urinary tract infection (UTI). Based on the time course of TMP-SMX initiation and the clinical improvement with discontinuation along the elimination of other possible hypoxic, biologic or physical/traumatic etiologies of acute rhabdomyolysis in our patient, we concluded that TMP-SMX was likely the insulting agent. To our knowledge, this marks the fourth case report of an otherwise healthy patient diagnosed with rhabdomyolysis secondary to TMP-SMX, further studies may be needed.
+
+# ADRENALITIS AS A COMPLICATION OF HUMAN IMMUNO-DEFICIENCY VIRUS INFECTION.
+
+Omair Alam1; Robert Patton1; Manuel De La Rosa1; Rahul U. Nayak.2 1Inova Fairfax Hospital, Fairfax, VA; 2Virginia Commonwealth University, Richmond, VA. (Control ID #3176777)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize adrenalitis as a complication of Human Immunodeficiency virus (HIV) infection.
+
+# CASE:
+
+A 25 year old male with high risk sexual behavior presented with shortness of breath, productive cough and fevers. He was found to be in hypoxic respiratory failure with multifocal opacities on chest imaging and empirically treated for community acquired pneumonia. Upon further testing, he was found to be HIV positive with elevated viral load and significantly decreased lymphocyte T-cells. Thus, he was started on empiric treatment with bactrim and prednisone for pneumocystis jiroveci pneumonia (PJP). Five days after discharge he presented to our hospital with new onset of severe epigastric abdominal pain, nausea and vomiting. He was found to have hyponatremia and hyperkalemia on laboratory studies. Chest and abdominal imaging demonstrated diffuse ground glass opacities in both lungs consistent with PJP infection and inflammatory changes in both adrenal glands. His signs and symptoms were concerning for adrenal insufficiency secondary to adrenalitis from HIV. His abdominal symptoms improved with fluid resuscitation, prednisone (glucocorticoid) and fludrocortisone (mineralocorticoid) therapy. However, his respiratory failure progressed to acute respiratory distress syndrome and septic shock secondary to severe PJP infection requiring ventilatory support, vasopressors and extracorporeal membrane oxygenation. Despite aggressive treatment he eventually succumbed to his illness and passed away 46 days later.
+
+# IMPACT/DISCUSSION:
+
+Clinically significant adrenal insufficiency is evident when 80 to 90% of the gland is destroyed; therefore, this is not only rare but also a potentially devastating consequence of HIV infection. In general, the approach to a suspected endocrinopathy in a patient with HIV should be similar to that of an immunocompetent individual. However, due to the body's adaptive changes to HIV infection the interpretation of the diagnostic studies can be difficult. The following should be kept in mind during the work up: - Cortisol levels may be present without elevated adrenocorticotropic hormone (ACTH) in the setting of infection related cytokine release. This may manifest as a blunted response to the ACTH stimulation test. - In a patient with elevated cortisol with Addisonian type clinical picture, consider peripheral glucocorticoid resistance due to HIV. - In a patient with HIV presenting malaise and non-specific abdominal symptoms, a broad differential should be kept in mind including adrenal insufficiency secondary to adrenalitis.
+
+# CONCLUSION:
+
+HIV endocrinopathies are well documented; however, with the ubiquity of antiretroviral therapy it is increasingly rare to see these clinical manifestations in practice. This case serves as a reminder to keep a broad differential diagnosis during an evaluation of a patient with HIV who presents with nonspecific abdominal symptoms found to have adrenal insufficiency due to adrenalitis.
+
+# ADVOCATING FOR CONTINUATION OF HEPATITIS C (HCV) TREATMENT IN THE MASSACHUSETTS (MA) CORRECTIONAL SYSTEM
+
+Sarah S. Roderick1; Juhee McDougal2; Alexandra Heinz1. 1Boston Medical Center, Boston, MA; 2Boston University Medical School, Boston, MA. (Control ID #3176871)
+
+# LEARNING OBJECTIVE #1:
+
+Demonstrate the need for advocacy for continuation of HCV treatment in incarcerated patients
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the heterogeneity of access to treatment and continuation of HCV treatment in the correctional system
+
+# CASE:
+
+Mr. S is a 34 year-old male with a history of chronic HCV and opioid use disorder (OUD) on buprenorphine-naloxone who presented to primary care for HCV treatment. Initial work up demonstrated mild portal fibrosis on fibroscan. After medication counseling, he was started on a twelve-week course of sofosbuvir-velpatasvir. Over the next three weeks, Mr. S continued to be adherent to his regimen, and his OUD remained in remission. However, at his four-week follow up, our team was notified that he had been incarcerated. While incarcerated, Mr. S requested assistance.

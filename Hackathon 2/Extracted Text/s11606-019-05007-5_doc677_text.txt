@@ -1,0 +1,67 @@
+# ABSTRACTS JGIM
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Marshfield Medical Center is a 500-bed tertiary hospital in north central Wisconsin. We formed the Sepsis Committee in October 2015, at the time when CMS (Centers for Medicare & Medicaid Services) introduced the new SEP-1 core measure for adult patients with severe sepsis and septic shock. Arguably, this is the most challenging core measure ever introduced by CMS.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We obtained all adult severe sepsis and septic shock diagnoses through our coding and billing departments. We analyzed each patient case for the following metrics:
+
+- Received within three hours:
+- Sepsis lactate (will repeat in 3 hrs if >2)
+- Broad spectrum antibiotic
+- Blood cultures drawn prior to antibiotics
+- AND if SBP <90 or lactate >4:
+- Initiated within three hours:
+- Resuscitation with 30 ml/kg crystalloid fluids (may base on ideal body weight [IBW] if morbidly obese and fluids are ordered based on IBW. Documentation must be clear.)
+- AND received within six hours:
+- Repeat lactate level measurement only if initial lactate level is elevated over 2.0
+- Vasopressors for persistent hypotension
+- MD focused sepsis exam-documented
+
+All cases were brought for discussion during our monthly CME-approved meetings. For cases where the core measure was not adhered to, follow up was delegated to the appropriate team member.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The latest national average compliance rate with the SEP-1 core measure was 50%, our running average to date was 77% and our latest audit showed that we have now reached 100% compliance with the SEP-1 core measure.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Excellent sepsis care requires a multidisciplinary and system-based approach to streamline the workflow. We accomplished this by involving the appropriate representatives and leaders in our meetings to help us facilitate the required changes. We automated our laboratory system to order repeat lactate within 3 hours, without any provider having to place a separate order. We created a sepsis order set to guide providers towards meeting all the care bundle components. We invested in a cloud-based software and modified it to serve us as an early warning system, triggering alerts when a combination of parameters is suggestive of sepsis. We provided education via email, Grand Rounds, departmental meetings, resident lectures, posters, and pocket cards. We created online learning modules for different members of the healthcare team to cater to their scope of duties. Furthermore, we ventured beyond the hospital's walls to spread sepsis education. We gave talks to Emergency Medical Crews, we presented at a regional nursing conference and we provided education to all the local nursing home staff.
+
+# WELLNESS FOR PRIMARY CARE PROVIDERS: THE IMPACT OF WELLNESS COMMITTEE INTERVENTIONS ON PROVIDER SATISFACTION
+
+Stephanie Duarte1; Gabi Schiller2; Kira Y. Xie3; Lauren Peccoralo4. 1Mount Sinai Hospital, New York, NY; 2Mount Sinai Health System, New York, NY; 3Icahn School of Medicine at Mount Sinai, New York, NY; 4Mount Sinai School of Medicine, New York, NY. (Control ID #3185490)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Burnout rates in primary care providers (PCP) can be as high as 50% which can lead to mental illness, decreased morale, decreased productivity, decreased retention, and lower patient satisfaction and quality of care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To determine if implementing a number of well-being, work flow, and staffing interventions has improved faculty physician (MD) and nurse practitioner (NP) satisfaction and reduced burnout in an urban academic hospital based clinic.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A wellness committee comprised of 7 members convened individually and with leadership on a monthly basis over the course of 4 months to create a pre-intervention survey for the faculty physician and NP providers at an academic primary care clinic. Based on the results of the survey, interventions were created and instituted including hiring 3 administrative assistants, addition of IT equipment to work space, scheduling changes to evenly distribute evening clinic sessions, as well as annual bonus letters and biannual wellness grand rounds. A 1 year follow up survey was administered, mirroring the pre-survey (modified Mini-Z, 16 questions, quantitative and qualitative). The survey responses were compared to assess effectiveness of the implemented interventions.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Primary outcomes are level of provider burnout and satisfaction with current job. Secondary outcomes include sense of control, teamwork, stress, and desire to leave the practice. The quantitative data of the pre- and post-survey was compared using the Chi Squared test (nonparametric). Likert scales were dichotomized for the analysis.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Overall, 28 PCPs responded to the pre-survey (response rate 70%) and 29 PCPs to the post-survey (response rate 73%). Results showed a nonsignificant decrease in provider burnout from 43% to 24%, p 0.134, after the implemented interventions. There was no change in provider satisfaction with their job. Level of job-related stress significantly decreased after wellness interventions, 64% to 35%, p < 0.05. Meaning in work significantly increased from 37% to 93%, p <0.001. There also seemed to be a nonsignificant decrease in desire to leave practice and increase in the perceived amount of "time to provide care."
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+While the primary endpoints did not achieve statistical significance, there was a trend toward decreased burnout and significantly decreased job-related stress and increased meaning in work after the interventions. Our practice wellness committee partnered with leadership to implement various measures to promote wellness for providers. The impact assessment is limited by moderate level of participation in survey, as well as survey anonymity preventing paired analysis. Future steps will be to assess the impact of further interventions and a paired analysis, using codes to protect confidentiality.
+
+# YOU GET WHAT YOU PAY FOR: AN ANALYSIS OF PAY FOR PERFORMANCE RESULTS IN A LARGE MULTI-SITE ACADEMIC PRIMARY CARE PRACTICE
+
+Benjamin L. Ranard1; John Anderson2, 1; Kevin Shah1, 2. 1Duke University School of Medicine, Durham, NC; 2Duke University Health System, Durham, NC. (Control ID #3170979)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Does pay for performance improve statin prescribing by primary care providers (PCPs) for diabetic patients?

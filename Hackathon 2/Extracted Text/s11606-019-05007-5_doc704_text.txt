@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# NEEDS AND OBJECTIVES:
+
+Assessment of clerkship students' clinical skills is frequently based upon faculty/resident evaluations. Direct observation is challenging and evaluations are frequently unreliable. We designed a longitudinal objective structured clinical examination series, the Cross-clerkship Clinical Skills Exam (C3SE) to improve observation/feedback. We hypothesized that multiple formative skills evaluations would augment early intervention with struggling learners and Step 2CS preparation. The C3SE replaced our traditional senior year Clinical Skills Exam (CSE).
+
+# SETTING AND PARTICIPANTS:
+
+Exams are administered to all students in core clerkship year.
+
+# DESCRIPTION:
+
+Multiple clerkship directors, evaluation specialists, clinical skills center directors and standardized patient (SP) educators reviewed the school of medicine and clerkship competencies and created milestones for each C3SE. Balancing the number of competencies for evaluation and student/skills center time, we developed three exams with four SP encounters each. Cases had diversity of patient ages, genders, and medical conditions to assess competencies for interpersonal skills, interviewing, physical examination, note documentation, and clinical reasoning. We developed a remediation exam for students who did not meet milestones. Assessment tools for each case were designed. SPs were trained for role portrayal and assessment tool accuracy. Student surveys were administered after each exam.
+
+# EVALUATION:
+
+We successfully implemented the C3SE during AY17-18. Post-C3SE surveys revealed students felt confident in improvement in history-taking, physical examination, clinical reasoning, note writing, and communication skills (average response: C3SE1 = 3.1, C3SE2 = 3.0, and C3SE3 = 3.1 on 4-point Likert scale). Results did not decline throughout the year despite increasing case complexity. Periodic assessments allowed faculty to identify struggling students (n=20 of 219).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Periodic structured observation and feedback may provide sustained clinical skills development and focused Step 2CS preparation. Score comparison from cases used in previous CSE was surprisingly equivalent no matter when cases appeared on C3SE schedule. Replacement of CSE with C3SE assessments allowed students to enroll in Step 2CS earlier than past years and more effective use of the skills center. We are closely monitoring Step 2CS results for effect on pass rates. Development of a complex examination requires significant resources, so support from clerkship personnel and UME Deans is vital to successful implementation.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+[1]Carline JD, Paauw DS, Thiede KW, et al. Factors affecting the reliability of ratings of students' clinical skills in a medicine clerkship. J Gen Intern Med. 1992;7(5):506-10. 2 Plymale MA, French J, Donnelly MB, et al. Variation in faculty evaluations of clerkship students attributable to surgical service. J Surg Educ. 2010;67(3):179-83. 3Howley LD, Wilson WG. Direct observation of students during clerkship rotations: A multiyear descriptive study. Acad Med. 2004;79:276-280
+
+# ENHANCING TRAINEE EDUCATION AND PRACTICE THROUGH COMMUNITY PARTNERSHIPS: BUILDING AN INTERDISCIPLINARY, INTERPROFESSIONAL COMMUNITY HEALTH TRACK
+
+Mariecel Pilapil1; Johanna Martinez2; Lauren Block2; Daniel J. Coletti2; Barbara Keber6; Celia Lu3; Julie DiGregorio4; Alice Fornari5. 1Zucker School of Medicine at Hofstra/Northwell, New Hyde Park, NY; 2Northwell Health, Lake Success, NY; 3St. John's University College of Pharmacy & Health Sciences, Lake Success, NY; 4Northwell Health, Huntington Station, NY; 5Northwell Health, Great Neck, NY; 6Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY. (Control ID #3181815)
+
+# NEEDS AND OBJECTIVES:
+
+Achieving health equity is critical to medical training, particularly in the primary care specialties of internal medicine (IM), family medicine (FM), and pediatrics. The Institute for Healthcare Improvement proposes addressing social determinants of health (SDH) and developing community partnerships as two key components to achieving health equity. However, training in these skills is lacking in medical residency and nurse practitioner (NP) curricula. We developed an interdisciplinary, interprofessional track that provides a longitudinal community health experience for trainees.
+
+# SETTING AND PARTICIPANTS:
+
+Faculty from IM, FM, and pediatrics planned and launched our health system's first multidisciplinary community health track in July 2018. The initial cohort for the 2018-2019 year included 8 trainees: 2 pediatric residents, 2 IM residents, 2 FM residents, and 2 NP students.
+
+# DESCRIPTION:
+
+In 2016, through a professional development grant, faculty in IM, FM, and pediatrics identified the need for improved community health training among residents. The ENHANCE track (ENgaging in Health Advocacy through Neighborhood Collaboratives and Education) was developed with the vision of developing trainee skills in population health and community engagement. The goals are to teach trainees how to: (1) Evaluate SDH and address their interplay with illness, (2) Partner with community-based organizations (CBOs), (3) Develop, implement, and evaluate a longitudinal, community-based project that addresses a population health need evident from their CBO partnership, and (4) Work collaboratively with professionals across disciplines. These goals are met through workshops, online webinars, CBO visits, and a collaborative health-related project. Mentoring and communication between trainees and faculty also occurs through group chats using the social media platform What's App.
+
+# EVALUATION:
+
+The ENHANCE track evaluation plan includes: post-workshop reflective evaluations from trainees and faculty, analysis of resident comments about their CBO visits during What's App conversations, focus groups on trainee experiences of the track, and surveys to CBO partners. Long term evaluation will be an assessment and dissemination of their community based scholarly project. To date, trainee reflections suggest an increased understanding of the barriers patients face, evidence of SDH, and the risks of implicit biases.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Development of an interdisciplinary community health track for residents and NP students is needed and feasible. Trainees can integrate classroom skills, apply them through service learning experiences, and incorporate lessons learned into their own clinical practice. Establishing trust between trainees and their CBO partners can be difficult due to trainee schedules, resulting in spaced visits to the CBOs. This demonstrates a challenge of community-based work. In addition, trainees report a perceived tension between their roles as traditional volunteers and as medical professionals able to provide expertise.
+
+# EPAS TO COMPETENCIES: A ONE DAY SUB-INTERNSHIP PREPARATORY EXPERIENCE TO BRIDGE THE GAP
+
+Irsk J. Anderson1; Jeanne M. Farnan2; Diane Altkorn2. 1University of Chicago Hospitals, Chicago, IL; 2University of Chicago, Chicago, IL. (Control ID #3177909)
+
+# NEEDS AND OBJECTIVES:
+
+In early 2018, the AAIM Sub-internship Task Force published its revised Internal Medicine Sub-internship Core Curriculum 2.0 in direct response to an IM residency program director survey. Program directors identified four core skills expected of new interns: recognizing sick vs. non-sick patients, knowing when to ask for assistance, managing time wisely, and communicating effectively within healthcare teams. Only the first and fourth skills align the AAMC EPAs with ACGME Sub-

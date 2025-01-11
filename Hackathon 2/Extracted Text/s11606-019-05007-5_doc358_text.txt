@@ -1,0 +1,67 @@
+# A SECOND OPINION FROM DR. GOOGLE: A FAMILY REQUESTS NON-BENEFICIAL TREATMENTS AT THE END OF LIFE
+
+Kyle Cornell. Baystate Medical Center, Springfield, MA. (Control ID #3186416)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize a family's request for non-beneficial treatment as well-intentioned advocacy for a dying loved one.
+
+# LEARNING OBJECTIVE #2:
+
+Utilize multidisciplinary family meetings to address medical questions and provide supportive outlets for continued advocacy.
+
+# CASE:
+
+An active 56-year-old female with diet-controlled hyperlipidemia presented to our hospital after an out-of-hospital cardiac arrest secondary to anterior myocardial infarction. The time from her arrest to high-quality compressions was over 10 minutes. Subsequent interventions included coronary revascularization and targeted temperature management. There was evidence of cerebral edema on imaging and she remained comatose with progressive loss of neurologic function. She was declared brain dead by day 5 of hospitalization. The patient's family including husband, 3 teenaged children and many extended relatives were present and understandably desperate for hope. After reading through various online articles, they insisted that treatment with hyperbaric oxygen be tried for their wife/mother. In response, a multidisciplinary team was convened to help explain the futility of that treatment whilst recognizing the family's efforts in providing her the best care possible.
+
+# IMPACT/DISCUSSION:
+
+Ubiquitous internet access provides the general public with an abundance of research articles which can be misconstrued without appropriate medical expertise and context. Desperate family members are particularly vulnerable to this phenomenon. Though the use of hyperbaric oxygenation in some types of brain injury is under review, there was no evidence for benefit in this case. The persistence of such requests despite a medical explanation can be challenging. The care team's approach to such cases is critical to validate advocacy, answer medical questions, and maintain family rapport. Multidisciplinary team meetings have been shown to improve quality of patient-centered care. A consensus amongst involved providers is the most helpful approach to address such family concerns and ensure consistency and quality of care.
+
+# CONCLUSION:
+
+The emotional trauma of a sudden and unexpected critical illness can manifest in various forms of patient advocacy from grieving family members. Frequent requests for non-beneficial treatment are often inspired by readily available internet searches and require careful attention to acknowledge intentions while explaining futility. Multidisciplinary team meetings with the family are instrumental in responding to these concerns and creating an appropriate care plan. Direct reference to the family's specific internet resources and a unified consensus amongst the patient's providers has been found to be most helpful. Repetitive requests may indicate denial as part of the complex grieving process. Such delicate situations require a provider's best patience and understanding.
+
+# A SEVENTEEN-YEAR-OLD, IN HER FIRST TRIMESTER OF PREGNANCY, PRESENTING WITH A MYOCARDIAL INFARCTION
+
+Amitabh Singh1; David Evans2; Neil Evans1; Jennifer Schmidt1. 1Saint Louis University, Saint Louis, MO; 2Unity Health, Searcy, AR. (Control ID #3185862)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing myocardial infarction in low risk patients
+
+# LEARNING OBJECTIVE #2:
+
+Understanding alternate mechanisms of thrombus formation in the coronary vessels
+
+# CASE:
+
+A 17-year-old female G1P0, at eight weeks gestation, presented with severe, sharp, substernal chest pain occurring at rest. The pain began twenty minutes prior to arrival and is associated with dyspnea, diaphoresis, nausea and right arm pain and tingling. Sublingual nitroglycerin relieved her pain. Vital signs were within normal limits. Initial EKG demonstrated normal sinus rhythm at 78 bpm, with a normal axis, and ST-segment elevation in leads II, III, AvF with reciprocal changes in leads V1-3. Labs showed CPK of 12 U/L, troponin I 0.01 ng/mL. Her urine drug screen was negative. Cardiac echocardiogram demonstrated hypokinesis of posterobasal and inferolateral segment of left ventricle. Subsequent coronary catheterization showed right-dominant circulation with complete occlusion of the distal circumflex artery (underwent balloon recanalization) and normal right coronary artery, left main coronary artery and the left anterior descending arteries. Thirteen hours later troponin peaked at 29.83 ng/mL. She was discharged and experienced no further pregnancy complications.
+
+# IMPACT/DISCUSSION:
+
+Myocardial infarctions are the leading cause of death amongst adults. The pathophysiology is thought to be due to atherosclerotic plaque rupture. Once a plaque ruptures there is exposure to underlying endothelial tissue. The exposure to subendothelial collagen promotes platelet aggregation. An occlusive thrombus is formed leading to a transmural infarction which may be seen on EKG as ST-segment elevations. Plaque rupture accounts for a majority of MIs however other pathophysiological mechanisms of MI exist. The differential diagnosis for non-atherosclerotic myocardial infarctions include coronary vasospasm, vasculitis, thrombi, and coronary dissection. In the pregnant population, coronary dissection is a common cause of myocardial infarction. Roth et al. suggest the rate to be at 27% of all MIs in pregnant patients. This patient did not have coronary vasospasm, vasculitis, and coronary dissection. She had developed a thrombus in the absence of any triggering mechanisms.
+
+# CONCLUSION:
+
+We present a case of a 17-year female G1P0 at eight weeks pregnancy with no clinical risk factors, who presents for evaluation of chest pain. There is concern for misdiagnosis or failure to diagnose by Internists given her lack of risk factor.
+
+# A SHORT DIFFERENTIAL COMES UP SHORT IN A PATIENT WITH SHORTNESS OF BREATH
+
+Duy Ha; Steven G. McKee. University of Arkansas for Medical Sciences, Little Rock, AR. (Control ID #3184724)
+
+# LEARNING OBJECTIVE #1:
+
+Identify premature closure as a powerful cognitive bias when addressing common respiratory symptoms
+
+# LEARNING OBJECTIVE #2:
+
+Utilize a broad differential diagnosis as a cognitive debiasing strategy
+
+# CASE:
+
+A 41-year-old male with chronic sinusitis and lung disease presented with worsening dyspnea and productive cough and internal medicine admission was requested for an exacerbation of chronic obstructive pulmonary disease (COPD). Chart review revealed two recent admissions treated as COPD flares. His chronic lung disease and episodic dyspnea began at age 29. Workup in the past included a normal alpha-1-antitrypsin level, pulmonary function tests with mid-flow-loop obstruction plus reduced diffusion capacity, and a non-diagnostic bronchial alveolar lavage (BAL). He reported night sweats, hemoptysis, and 10-pounds of weight loss. He admitted five pack-years of smoking but quit 10 years previously. Prior to current incarceration he worked at a fertilizer factory. On examination, the patient was afebrile and thin. His respirations had a prolonged expiratory phase and polyphonic wheeze. Standard laboratory testing was unremarkable. Computed-tomography displayed central bronchiectasis. Repeat BAL cytology resulted with eosinophilia, but all other BAL tests were negative. Serum Aspergillus fumigatus IgE was positive (4.23 kU/L) and serum IgE was elevated (3868 kU/L). Allergic bronchopulmonary aspergillosis (ABPA) was diagnosed and his symptoms improved with itraconazole and prednisone.
+
+# IMPACT/DISCUSSION:
+
+Though dyspnea and wheeze are common complaints to internists, rare diseases lurk among the etiologies. If our initial differential diagnoses are not robust, physicians can fall prey to.

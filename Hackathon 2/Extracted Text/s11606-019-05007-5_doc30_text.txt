@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Vulnerable Patients and Caregiver Portal Use
+
+R. Lyles5. 1David Geffen School of Medicine @ UCLA, Los Angeles, CA; 2UCSF, San Francisco, CA; 3Harbor-UCLA Medical Center, Pasadena, CA; 4University of California San Francisco/Zuckerberg San Francisco General, San Francisco, CA; 5University of California San Francisco, San Francisco, CA; 6Colorado State University, Denver, CO. (Control ID #3186037)
+
+# BACKGROUND
+
+Vulnerable patients within safety-net settings are interested in accessing health information via patient portals, but are less likely to actually use one. Family and friends (in caregiver roles) are important resources to assist these types of patients (i.e. Medicaid recipients, older, and/or Limited English Proficient/LEP) in navigating health systems- and provider support may facilitate caregivers' portal engagement for these patients. We used qualitative methods to explore safety-net providers' perspectives on caregiver/proxy portal use.
+
+# METHODS
+
+We conducted 40-60 minute semi-structured interviews with providers from three large California safety-net health systems. The interviews focused on providers' experiences with caregivers, caregiver roles, and how the portal could be leveraged as a tool to support caregivers in their responsibilities. Two coders analyzed the interview transcripts using both deductive and inductive approaches and established consensus regarding major themes.
+
+# RESULTS
+
+Of 17 participants interviewed, 4 specialized in geriatrics, and >50% held a leadership/administrative role. The five themes highlight providers' recognition of potential benefits associated with caregiver portal use (Portal positioned to assist caregivers with healthcare tasks; Portal as a tool to directly support caregivers; Expanding portal functionality for caregiver use) and the specific challenges to caregiver portal engagement (Barriers to caregiver enrollment and use; Privacy and security in the caregiver-provider-patient triad). The table shows exemplar quotes.
+
+# CONCLUSIONS
+
+Providers recognized the potential for portals to improve information delivery and communication— helping caregivers assist socially and medically complex patients in the safety-net. Further research is needed on assessing and supporting caregivers' interest and ability to access portals across health/digital literacy and English proficiency. Health systems must also address specific strategies to uphold patient preferences while maintaining privacy and security.
+
+# ANALYSIS OF VISIT FACTORS ASSOCIATED WITH COLORECTAL CANCER SCREENING IN AN ACADEMIC OUTPATIENT CARE CENTER
+
+Kajali Mishra1; David E. Willens2; Danielle L. Heidemann2. 1Henry Ford Hospital, Detroit, MI; 2Henry Ford Health System, Detroit, MI. (Control ID #3185949)
+
+# BACKGROUND
+
+Colorectal cancer (CRC) is the third most commonly diagnosed malignancy and the second leading cause of cancer related death in the United States. CRC screening recommendations by all major organizations allow for either the use of stool-based tests such as fecal immunochemical test (FIT), fecal occult blood testing (FOBT) and multitargeted stool DNA (such as Cologuard) or visual tests such as Colonoscopy, CT Colonography, and flexible sigmoidoscopy. Prior literature has shown that screening services are inconsistently delivered across practice settings and continue to be underutilized. Most insurance cover preventative visits to accomplish screening goals and offer services in form of outreach, however, data is lacking on effectiveness of these visits. Likewise, interventions to increase CRC screening uptake have focused on modifying provider attitudes, although, studies have not addressed provider level and gender as a potential factor. Our primary objective was to assess the frequency and type of CRC screening offered by primary care doctors. Our secondary objective was to assess how type of visit and provider factors affect if screening was offered and the type of screening offered.
+
+# METHODS
+
+A retrospective chart review of 2196 patients who were seen in an outpatient academic tertiary care center was performed. Patients between the ages 50-75 years old who had a primary care doctor and were seen in clinic between July 1, 2017 and July 31, 2018 were assessed. Screening offered was defined as either stool tests (FIT, FOBT and Cologuard) or visual tests (Colonoscopy and CT colonography).
+
+# RESULTS
+
+A total of 2196 patients met our criteria. The mean age was 62.7 years; body mass index (BMI), 31.1kg/m2; females, 54.7%. Cohort was divided into Group A (62%), comprising of people who did not have CRC screening ordered and Group B (38%), who had one or more CRC screening tests ordered. In Group B, some patients had more than one test ordered: 83.1% had Colonoscopy ordered, 10.7% had Cologuard ordered, 13.5% had FIT/FOBT ordered. The rate of colonoscopy completion was 14.7%, and stool testing completion was 34-37.5%. Out of 739 visits during which CRC screening was implemented, 90% were office visits. Surprisingly, having a preventative visit was not associated with an increased likelihood of having CRC screening test ordered (p=0.91). Among patients who had either test ordered, 65.6% of Colonoscopies or 48.4% of Stool tests were ordered by residents (p<0.001).
+
+# CONCLUSIONS
+
+A significant amount of patients (62.3%) that were seen by their primary care doctor had no CRC screening ordered. Having a wellness visit was not associated with having CRC screening tests ordered. Although colonoscopy was the most commonly ordered screening test, compliance to stool testing was twice as that of colonoscopy. Residents as provider were more likely to order colonoscopy compared to senior staff.
+
+# ANEMIA PROFILE IN HEART FAILURE: HIGH PREVALENCE OF IRON DEFICIENCY AND SCOPE FOR CORRECTION. A PERFORMANCE IMPROVEMENT PROJECT
+
+Radhika Gali1; Doris Yang2; Aiman Zafar1; Beshoy Y. Adly3; Christina Elzahaby3; Fatima Sarwar; Hamza Ahsan3; Huma Ahmed3; Lakshmi3; Priyanka Mahali1; Mohamed Gabr3; Nikita Fernandes1; Pooja Hebbal4; Romaisa Wadood3; Saliha Saleem1; Saketh Parsi3; Soumya Mamidi2; Sumaira Zareef3; Swathi Pabba1; Usman Ghani3; Dharmarajan S. Thiruvinvamalai5. 1Montefiore Medical Center, Bronx, NY; 2Montefiore medical center, Bronx, NY; 3Montefiore Medical Center/Albert Einstein College Of Medicine., Bronx, NY; 4MONTEFIORE MEDICAL CENTER, BRONX, NY; 5Montefioe Medical Center (Wakefield Campus), Bronx, NY. (Control ID #3185676)
+
+# BACKGROUND
+
+In the United States, Congestive Heart Failure (HF) is a common reason for hospitalization in those aged over 65 years. Modifiable or addressable risk factors for HF include anemia, chronic kidney disease (CKD), hypertension, obesity, diabetes, arrhythmias, hypothyroidism and others. Anemia is a prognostic indicator, associated with decreased functional capacity, reduced quality of life and worsened outcomes in those with HF.
+
+# METHODS
+
+A resident team was trained to provide education to hospitalized HF patients regarding lifestyle, diet, fluids, medication adherence and more. The program participated in the CONNECT-HF multicenter trial, a PI project to track and prevent re-admissions within a month. A tool helped document data on demographics and comorbidity. 139 patients hospitalized with HF (September 2017 - December 2018) were identified; clinical profile and health outcomes were analyzed. Anemia was defined as Hb <12 g/dl in females and <13 g/dl in males (WHO criteria). Our tool identified anemia evaluation (serum iron, ferritin, iron binding capacity, vitamins B12, folate and renal function), to enable appropriate management where possible.
+
+# RESULTS
+
+Mean patient age: 70 years. Most hospitalizations occurred for age group 65 years (61%), with 52% males. 99 of 139 patients were anemic, mean Hb 11.4 g/dl. Of the 99 with anemia, 42% had iron deficiency anemia (IDA), 17% had anemia of chronic disease (ACD) and 30% had not undergone evaluation. Of those anemic, 41% had diastolic HF and 59% had systolic HF; 32% had diabetes; 48% had CKD. Among those anemic, 4% had 3 or more co-morbidities (e.g. CKD, diabetes, cognitive impairment, etc). Of those with anemia and HF, 26% were re-hospitalized, whereas the readmission rate in those with HF without anemia was 22%). Among those with iron-deficiency, the readmission rate was 14%. Those with anemia had more unplanned readmissions and longer inpatient stays (avr: 9.8 days, SD: 15), versus HF patients without anemia (avr. 6.4 days (SD: 4.33), ( P-value: 0.9).

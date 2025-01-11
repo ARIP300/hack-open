@@ -1,0 +1,37 @@
+# ABSTRACTS
+
+# Using a New Fatigability Scale
+
+Using a new fatigability scale that measures both physical and mental domains. Perceived fatigability anchors tiredness to a set of activities and has been shown to be a more sensitive measure than global fatigue.
+
+# METHODS
+
+The TRUST trial was a double-blind, randomized, placebo-controlled, parallel-group trial involving adults aged 65 and diagnosed with SHypo defined as the presence of persistently elevated TSH levels (4.6-19.9 mU/L) with free thyroxine within the reference range. The present substudy on fatigability included participants from Switzerland and Ireland. Our outcome was the between-group difference in perceived physical and mental fatigability after twelve months using the Pittsburgh Fatigability Scale (PFS), a 10-item self-administered questionnaire, that measures both physical and mental fatigability (scores range from 0 to 50, higher score=higher fatigability). Multivariate linear regression models were adjusted for levothyroxine starting dose, sex, site and baseline scores in a modified intention to treat population.
+
+# RESULTS
+
+This study included 230 participants (mean age: 73.4 years; 44.4% female). The mean±SD TSH was 6.2±1.9 mIU/L at baseline and after 1 year decreased to 3.1±1.3 mIU/L in the levothyroxine group vs. 5.3±2.3 mIU/L in the placebo group (p<0.001). At baseline, mean physical PFS score was 14.7±9.3 in levothyroxine group and 11.1 ±9.1 in placebo group; mean mental PFS score was 7.4±8.0 and 5.1±6.9, respectively. The mean physical PFS score at 12 months (adjusted for baseline score) was 13.7±0.7 for levothyroxine group and 13.6±0.7 for placebo group (p=0.88); mean mental PFS score was 5.5±0.6 and 6.5±0.7, respectively (p=0.26). After adjustment for covariates, we found no significant difference in the mean follow up scores at 1 year after levothyroxine replacement on perceived physical fatigability (between-group difference = 0.2; 95% confidence interval [CI]= -1.8 to 2.1; p=0.88) nor on mental fatigability (between-group difference -1.0; 95% CI= -2.8 to 0.8; p= 0.26).
+
+# CONCLUSIONS
+
+In a diverse urban academic clinic, the depression CCM demonstrated lower effectiveness for patients of resident PCPs compared to those with attending PCPs despite similar process measures.
+
+# Effective Teachers of Invasive Bedside Procedures: A Multi-Institutional Qualitative Study
+
+Diana J. Kelm 1; Jennifer L. Ridgeway1; John T. Ratelle1; Adam P. Sawatsky1; Alexander S. Niven1; Anna K. Brady2; Jakob McSparron4; Margaret Hayes3; Kannan Ramar1; Thomas J. Beckman1. 1Mayo Clinic, Rochester, MN; 2Oregon Health and Science Center, Portland, OR; 3Beth Israel Deaconess Medical Center, Boston, MA; 4University of Michigan, Ann Arbor, MI. (Control ID #3178534)
+
+# BACKGROUND
+
+Invasive bedside procedures (IBPs) in the intensive care unit (ICU) are often performed urgently, putting patients at substantial risk. Complications from IBPs are preventable and related to operator proficiency. Residents receive IBP education, yet there is limited research on what constitutes an effective IBP teacher. We conducted a multi-institutional qualitative study of Pulmonary and Critical Care Medicine (PCCM) faculty and fellows to better understand their perspectives on the characteristics of effective IBP teachers.
+
+# METHODS
+
+Focus groups (FGs) were conducted at Mayo Clinic and Oregon Health and Sciences University. Two FGs were held with fellows and two with faculty. FGs were facilitated by a trained investigator, audio-recorded, and transcribed verbatim for analysis. Themes were identified inductively and then compared against constructs from social and situated learning theories. Data was analyzed between and across professional groups. Qualitative research software (NVivo, QSR International) was used to facilitate data organization and create an audit trail of the analysis process.
+
+# RESULTS
+
+Seventeen fellows and eighteen faculty participated. Inductive analysis revealed 3 themes related to attributes of effective IBP teachers: observed behaviors, personal characteristics, and influence on the learning environment. Observed behaviors (representative quotes) included leading pre-procedure huddles to assess learner experience with IBPs and defining expectations ("Assess the learner… to figure whether they can proceed"), along with debriefing and providing feedback ("A good procedural teacher gives feedback after the procedure… reinforcing what you liked… and what could make it go more smoothly"). Personal characteristics included procedural competency, calm demeanor, and demonstrating trust ("I think it's just personality… some people seem to be composed," "They stay calm… especially in high-pressure situations."). Important environmental factors were creating safe learning climates, reducing distractions, and focusing on the procedure ("The best procedural teacher… no matter what was going on outside… remained focused," "In a crowded room and intense situation… I literally whisper in the learner's ear, use the needle like this").
+
+# CONCLUSIONS
+
+PCCM fellows and faculty cited a range of personal and behavioral characteristics of effective IBP teachers, such as checking in with residents and debriefing on procedures.

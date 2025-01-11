@@ -1,0 +1,43 @@
+# ABSTRACTS
+
+# THE LONG-TERM IMPACT OF SIMULTANEOUS PARTICIPA-
+
+# TION IN MEDICARE ACCOUNTABLE CARE ORGANIZA-
+
+# TIONS AND BUNDLE PAYMENTS ON OUTCOMES FOR LOW-
+
+# ER EXTREMITY JOINT REPLACEMENT
+
+Joshua M. Liao4, 1; Ezekiel J. Emanuel1, 1; Atheendar Venkataramani1, 1; Qian Huang1; Atul Gupta2; Claire T. Dinh1; Eric Z. Shan1; Dylan Small1; Norma B. Coe1, 1; Erkuan Wang1; Xinshuo Ma1; Jingsan Zhu1; Deborah Cousins1; Amol S. Navathe1, 3. 1University of Pennsylvania, Philadelphia, PA; 2The Wharton School, University of Pennsylvania, Philadelphia, PA; 3CMC VA Medical Center, Philadelphia, PA; 4University of Washington, Seattle, WA. (Control ID #3179243)
+
+# RESULTS:
+
+Of the 3500 respondents, 11%, 64%, and 10% self-identified as non-Hispanic Black, female, and LGTBQ, respectively. In comparison to white males, females and minorities placed greater value on institutional policies and educational resources related to professionalism. All respondents agreed that the institution supports a culture of professionalism, however, women, underrepresented minorities, and LGBTQ groups were significantly more likely to consider leaving after experiencing unprofessional behavior. Analysis of the narratives revealed a set of themes including causes and outcomes across a spectrum of professional-to-unprofessional experiences. Key contributors to unprofessional behaviors that emerged include a hostile environment, silent bystanders, the lack of boundaries and respect, and unequal application of standards. Narratives also revealed the effects of unprofessionalism on physical health, pressure to conform, and attrition.
+
+# CONCLUSIONS:
+
+A mixed methods analysis of survey data and submitted narratives providing an assessment of organizational inclusion revealed diverse individuals with varied cultural perspectives perceive and experience professionalism in the workplace differently compared to others. Based on the disparate responses from women, underrepresented minorities, minorities, and LGBT, there is unequal application of professional standards. Our findings highlight the need to revisit how organizations set professionalism standards, and ensure they are inclusive and applied equitably.
+
+# THE LACK OF FORMAL EDUCATION ON OUTPATIENT BILLING
+
+Azra Bhimani; Sun Yoo. UCLA, Los Angeles, CA. (Control ID #3159529)
+
+# BACKGROUND:
+
+A growing number of resident physicians are entering the primary care workforce every year. Upon graduating, they face the responsibility of independently and accurately billing for clinical services. Studies show there is inadequate training on billing for outpatient services during residency. Inaccurate billing can lead to financial repercussions and issues with compliance, and underutilization of annual wellness visits can lead to more out of pocket expenses for patients. We hypothesized that a majority of residents in the UCLA internal medicine training program lack the confidence to bill accurately in the outpatient setting and would be interested in receiving formal education on this topic. We also hypothesized underutilization of Medicare Wellness Exam (MWE) codes and Transitional Care Management (TCM) codes.
+
+# METHODS:
+
+We created two 10-question surveys for residents and faculty in the Internal Medicine program at UCLA over a 2-month period. The surveys included questions on confidence in billing encounters, differentiating 99213 and 99214 codes, utilizing MWE and TCM codes, and interest in a formal curriculum on billing. We also looked at billing data from 2,096 encounters at these clinics over a 4-month period to assess the difference in types of codes billed between PGY-levels.
+
+# RESULTS:
+
+32 residents and 15 faculty physicians working at 3 UCLA Internal Medicine clinics participated in each survey. 2,096 encounters from 2 of these clinics over a 4-month period were analyzed. Less than 10% of residents felt very or extremely confident in their ability to bill encounters accurately. Over 80% of faculty felt they needed to change resident billing codes to more accurately reflect encounters. 93% of residents and 100% of faculty felt that residents would benefit from formal education on billing. Of the 2,096 encounters billed, only 3% were billed as TCM visits and 1% as MWE visits.
+
+# CONCLUSIONS:
+
+As more residents are pursuing primary care careers, a growing aspect of their practices will include coding. Multiple studies, including ours, have shown lack of confidence and errors in practice amongst residents when it comes to coding for outpatient services. In addition, TCM and MWE codes were being underutilized. Based on our study and numerous others, it is integral for training programs to incorporate formal education on outpatient billing.
+
+# THE NET BENEFIT OF ORAL ANTICOAGULATION AMONG OLDER ADULTS WITH ATRIAL FIBRILLATION
+
+Sachin J. Shah1; Margaret Fang1; Daniel E. Singer2; Kenneth Covinsky1; Alan S. Go; Mark H. Eckman. 1University of California, San Francisco, San Francisco, CA; 2Massachusetts General Hospital, Boston, MA; 3Kaiser Permanente Northern California, Oakland, CA; 4University of Cincinnati, Cincinnati, OH. (Control ID #3178343)

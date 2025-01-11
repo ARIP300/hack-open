@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# SEVERE HUNGRY-BONE SYNDROME AFTER RESECTION OF FOLLICULAR PARATHYROID CANCER
+
+# Norman N. Aiad1, 2; Mat Kladney2, 1.
+
+1NYU Langone Medical Center, New York, NY; 2 Bellevue Hospital, New York, NY. (Control ID #3162804)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize, manage, and prevent hungry-bone syndrome (HBS)
+
+# CASE:
+
+A 46-year-old male with a history of hypertension presented with urinary hesitancy and frequency for two months. His only other complaint was aching pain in his back and bilateral legs. Physical exam was significant for tenderness of his lower extremities. Labs were significant for creatinine of 3.9 mg/dL, calcium of 12.5 mg/dL, and an alkaline phosphatase of 916 U/L. Parathyroid hormone (PTH) was 4393 pg/mL. Phosphate and 25-hydroxy vitamin D were normal, but 1,25-dihyrdoxy vitamin D was low at 9.1 pg/mL. Renal ultrasound demonstrated bilateral hydronephrosis. CT imaging revealed a left paratracheal soft tissue mass, extensive lytic bone lesions, and multiple renal calculi. Core biopsy of the mass was consistent with follicular parathyroid cancer. The patient received alendronate then underwent parathyroidectomy of the affected gland with post-operative perioral tingling and paresthesias and hypocalcemia with a nadir of 5.5 mg/dL. This patient then required 138g of oral calcium carbonate and 118g of intravenous calcium gluconate along with calcitriol and cholecalciferol over the course of thirteen days.
+
+# IMPACT/DISCUSSION:
+
+This case exemplifies the potential severity of HBS. This patient's calcium requirement was 256g or an average of 20g/day, significantly higher than reported 6 to 12g/day that a typical HBS patient requires. HBS is defined as rapid and profound hypocalcemia due to an acute withdrawal of PTH after a parathyroidectomy. This is caused by a reduction of osteoclast activity and an increase in osteoblast activity leading to unopposed deposition of bone and resultant hypocalcemia. Hypophosphatemia and hypomagnesemia may also develop. These electrolyte abnormalities will last for weeks to months, but rarely have been reported to last for over a year. Patients who develop HBS are at risk of arrhythmias, heart failure, and seizures. These problems can be prevented with regular serum testing and repletion of calcium, phosphate, magnesium, and vitamin D. Preoperative bisphosphonates and vitamin D repletion have been shown to decrease the magnitude of hypocalcemia post operatively. Patients at risk of developing HBS include those with older age, higher preoperative serum calcium, alkaline phosphatase, and PTH levels, lower preoperative serum magnesium and albumin, parathyroid mass larger than 5 cm3, and those with evidence of brown tumors or osteitis fibrosa cystica. This patient's impressive calcium requirement may have stemmed from his preoperative kidney disease, vitamin D deficiency, and extensive lytic bone lesions.
+
+# CONCLUSION:
+
+HBS is a life threatening complication that develops as a result of rapid withdrawal of PTH with subsequent electrolyte disturbances. Some evidence suggests that HBS can be prevented with preoperative administration of bisphosphonates and vitamin D. HBS can be managed with frequent electrolyte monitoring and aggressive repletion.
+
+# SEVERE LACTIC ACIDOSIS AND PERSISTENT HYPOGLYCEMIA AS A UNIQUE PRESENTATION OF BURKITT'S LYMPHOMA
+
+# Sarah Rawi1; Arundati Rao1; Bryan F. Stringer2.
+
+1University of Connecticut, Hartford, CT; 2University of Connecticut, New Britain, CT. (Control ID #3185031)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and diagnose a unique presentation of Burkitt's Lymphoma associated with electrolyte abnormalities.
+
+# LEARNING OBJECTIVE #2:
+
+Identify the Warburg Effect.
+
+# CASE:
+
+67-year-old male from Ghana with medical history significant for hepatitis B presented with six months of weakness, fatigue, weight loss, dyspnea, and abdominal distension. On physical exam his vitals were stable, he had a soft, non-tender, distended abdomen, bilateral peripheral pitting edema, and penile ulcers noted. His labs were significant for hemoglobin 7.4 g/dL, lactic acid 19.5, mmol/L, corrected calcium of 8.6 mg/dL, glucose of 60 mg/dL, and LDH of 848 U/L. Abdominal CT showed extensive stranding and abnormal density throughout the retroperitoneum, extraperitoneal, presacral and perirectal spaces.

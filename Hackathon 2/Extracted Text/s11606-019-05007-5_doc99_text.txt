@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Predictors of Readmission Following Congestive Heart Failure Hospitalization
+
+both odds ratio and chi square tests for significance. Predictors for readmission were determined using a multivariate logistic regression model following sequential step-wise elimination of covariates including demographics, co-morbidities, hospital characteristics, length of stay (LOS) for index admission, and the modified Elixhauser Comorbidity Index.
+
+# RESULTS:
+
+A total of 389,466 patients met criteria for inclusion. Of which, there was 85,831 readmissions (overall rate 22.03%) within 30-days of the index admission. Index admission to an urban hospitalization had a readmission rate of 22.22% compared to 20.94% from rural hospitals (p< 0.001). Multivariate analysis showed that admissions to rural and urban hospitals each had a higher likelihood of readmission if they were admitted on the weekend, any disposition other than "routine," adults < 65, longer LOS, renal failure comorbidity present and admitted to a medical service. In addition, Medicaid as a payer increased the odds for readmission at urban hospitals.
+
+# CONCLUSIONS:
+
+Almost 1 in 4 patients discharged with a principal diagnosis of CHF will be readmitted within 30 days. Index admissions to urban hospitals have a higher readmission rate than rural hospitals, but the risk factors appear to be similar. Further investigation is necessary to elucidate the reasons for the disparity in readmission rates between urban and rural hospitals, which may prove useful in developing interventions for populations at risk to reduce future morbidity and mortality.
+
+References: [1] Roger, Circ Res, 2013. [2] Joshi, Congest Heart Fail, 2004.
+
+# DON'T JUST DO SOMETHING, SIT THERE! ASSESSING THE IMPACT OF SITTING AT THE BEDSIDE ON PATIENTS' SATISFACTION WITH THEIR DOCTORS
+
+Anna K. Donovan1; Carla L. Spagnoletti; Scott D. Rothenberger2; Raquel1 Forsythe1; Jennifer Corbelli1. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA. (Control ID #3182767)
+
+# BACKGROUND:
+
+Improving patient satisfaction remains an important yet elusive endeavor for academic medical centers. One study demonstrated that hospitalist attending physicians in a non-teaching hospital had higher-rated communication skills when sitting compared to standing at the bedside during rounds. It is unclear whether these data can be applied to resident-led multidisciplinary team rounds, during which 7-8 providers round together. We hypothesized that if resident team leaders sat during morning rounds that patient satisfaction would improve without impacting rounding efficiency.
+
+# METHODS:
+
+We performed a cluster-randomized trial with crossover in which internal medicine (IM) and surgery residents served as their own controls. Each resident team leader (IM N=18; Surgery N=8) was assigned to sit or stand on a chair at the bedside during alternating weeks in May and June of 2018. Research assistants administered electronic surveys to 5 randomly selected patients per team per week for the study period of 8 weeks. In addition, all IM interns and residents (N=54) from participating teams were invited to complete a post-rotation survey about their perceptions of sitting vs. standing during rounds.
+
+# RESULTS:
+
+A total of 18 IM and 8 surgery resident team leaders participated. Surveys were collected from 583 patients. There was no statistically significant difference in patient perception of physician skill in giving complete information, using plain language, showing interest in patients and their problems, or giving patients time to ask questions (all p>0.05). Results from IM and surgery did not differ. IM residents (response rate 80%) felt that rounding duration did not differ. Most indicated that sitting at the bedside was already their standard practice.
+
+# CONCLUSIONS:
+
+When randomizing medicine and surgery residents to sit or stand during team rounds, we found no difference in patient perceptions of physician communication. While sitting positively impacted attending hospitalists' patient-rated communication skills when rounding alone, this was not replicated with resident-led team rounds. We suspect that one member sitting, while all others stand, is not sufficient to impact the patients' perception of the entire encounter. Further, patients rated resident communication highly in both groups, so a ceiling effect may have prevented us from detecting any difference. We speculate that sitting during one-on-one patient encounters (e.g. initial history-taking, breaking bad news), rather than team-based encounters, may have greater impact in teaching hospitals. Significance: Standing was non-inferior to sitting during rounds. Our results suggest that initiatives to optimize patient communication and satisfaction in teaching hospitals should be focused elsewhere.
+
+References: 1. Merel et al, JHM, 2016.
+
+# ECONOMIC OPPORTUNITY, AUTOMOTIVE PLANT CLOSURES, AND DRUG OVERDOSE MORTALITY: A QUASI-EXPERIMENTAL ANALYSIS
+
+Atheendar Venkataramani1; Elizabeth Bair2. 1University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA. (Control ID #3185703)
+
+# BACKGROUND:
+
+There is considerable debate over the role of economic factors in driving rising drug overdose mortality in the U.S. Recent theories suggest that drug overdose mortality may arise as a result of fading economic opportunities. However, standard economic measures, such as unemployment rates, explain little of the variation in drug overdose mortality. We examined the effects of U.S. automotive plant closures in the 2000s and onward. Automotive plant closures are salient shocks to economic opportunity that can shift future expectations around economic opportunity.
+
+# METHODS:
+
+Our primary outcome were annual, county-level, age-adjusted drug overdose mortality rates for 20-64 year old adults for the period 1999-2015 (obtained from the CDC). We identified all automotive plants in operation in 1999, whether they closed, and the year of closure. We defined exposure to automobile plant closures at the commuting zone-level, which are groups of counties where people live and work. The sample of interest consisted of counties with high shares of manufacturing workers. We used a quasi-experimental, event-study approach, comparing mortality rates in each individual year before and after a plant closure in that commuting zone to drug overdose mortality rates in counties in commuting zones where plants remained open, adjusting for county and year fixed effects. As a falsification test, we estimated the same model for non-manufacturing counties.
+
+# RESULTS:
+
+Our sample included 120 manufacturing counties in 39 commuting zones. Drug overdose mortality rose in each year following a plant closure: by ten years drug overdose mortality rates were 42% (95% CI: 25%, 59%) higher in closure vs. non-closure counties. Both sets of counties followed similar trends prior to plant closures and we found null estimates for non-manufacturing counties. The findings were driven by men, and not explained by differential migration rates.
+
+# CONCLUSIONS:
+
+Automotive plant closures had substantial effects on drug overdose mortality, explaining over 35% of the overall rise in the study counties between 1999-2015. We have currently obtained restricted mortality data to examine differences across age, gender, race, and education groups.
+
+# Event study model estimates
+
+Years Relative to Closure

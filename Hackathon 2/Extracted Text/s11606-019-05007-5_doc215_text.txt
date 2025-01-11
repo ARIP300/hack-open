@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# AMPHETAMINE USE DISORDER - A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Brian Chan 1, 2; Karli Kondo 4; Michele Freeman 4; Chelsea K. Ayers 4; Jessica Montgomery 4; Robin Paynter 4; Devan Kansagara 3, 4. 1 OHSU, Portland, OR; 2 Central City Concern, Portland, OR; 3 Portland VA Medical Center, Portland, OR; 4 Portland VA Healthcare System, Portland, OR. (Control ID #3186086)
+
+# BACKGROUND:
+
+Addiction to methamphetamine/amphetamine (MA/A) is an increasing public health problem. Currently, there are no accepted FDA-approved pharmacotherapies for MA/A use disorder, though numerous medications have been tested in clinical trials. We conducted a systematic review and meta-analysis of the effectiveness of pharmacotherapy for MA/A use disorder.
+
+# METHODS:
+
+We searched multiple data sources (MEDLINE, PsycINFO, and Cochrane Library) through November 2017 for systematic reviews (SRs) and randomized-controlled trials (RCTs) of pharmacological interventions in adults with MA/A use disorders. The outcomes of interest comprised abstinence, defined as 2 or more consecutive weeks with negative urine drug screens (UDS); overall use, analyzed as the proportion of UDS specimens that were MA/A-negative; and retention, defined as the proportion of randomized patients who completed treatment. We combined the findings of trials with comparable interventions and outcome measures in random-effects meta-analyses. We assessed the risk of bias of RCTs, and the overall strength of evidence for each outcome using standardized criteria.
+
+# RESULTS:
+
+14 RCTs and 1 SR of pharmacotherapies for MA/A use disorder met our inclusion criteria. 14 different drugs were studied, including antidepressants, antipsychotics, psychostimulants, anticonvulsants, and opioid antagonists. Although there was no evidence of benefit for psychostimulants overall, there was low strength evidence from 2 RCTs that methylphenidate may reduce MA/A use. Antidepressants had no effect on abstinence or retention based on moderate to high strength evidence. Studies of anticonvulsants, antipsychotics (aripiprazole), and opioid antagonists (naltrexone) provided either low strength evidence of no effect on the outcomes of interest, or insufficient evidence to draw conclusions. Many of the studies had high or unclear risk of bias.
+
+# CONCLUSIONS:
+
+Most pharmacotherapies were ineffective in treating MA/A use disorder. Novel pharmacotherapies specific to the neurobiology of MA/A use disorders need to be developed to supplement existing behavioral interventions for this emerging epidemic.
+
+# PHYSICIAN CHARACTERISTICS CORRELATE WITH PATIENT READMISSION RATES
+
+Eileen Hennrikus1; Michael Skolka2; Mallory Schaffer3. 1Penn State College of Medicine, Hershey, PA; 2Penn State Health, Hershey, PA; 3University of Pittsburgh, Pittsburgh, PA. (Control ID #3163053)
+
+# BACKGROUND:
+
+The 7- and 30-day patient readmission rates are tracked by hospitals and are used as a metric to measure physicians' quality of patient care. Several tools currently predict and prevent early readmission rates based on patient-specific characteristics. However, few studies have demonstrated if physician-specific characteristics play a role. The purpose of this study is to assess if physician characteristics correlate with patient readmission rates.
+
+# METHODS:
+
+In a five-year retrospective chart review, 31 internal medicine physicians and their hospital discharges were recorded for a total of 15,933 hospital discharges at one academic institution. Each physician's yearly 7-day, 8-30 day (excluding the first 7 days), and 30-day readmission rates was compared to all the other physicians' rates. Each readmission rate was also correlated with years of post-graduate clinical experience, patient discharge volume, physician gender, and fiscal year. All analyses were performed using SAS 9.4.
+
+# RESULTS:
+
+The 7-day readmission rates did not correlate with the 8-30 day rates (p=0.155). Individual physicians had significantly different rates for all readmission categories (p=0.001- 0.010). However, the rates were not related to gender or years after post-graduate training. Physician patient volume was the only identified characteristic that significantly correlated with readmission rates. Physicians who discharged 100 patients in a year had a higher 7-day readmission rate, 8.24% (6.76, 9.71), compared to physicians who discharged 101-200 (5.75%, p=0.047), 201-300 (5.83%, p=0.033), or 301 (5.49%, p=0.024) patients in a year. The volume of patient discharges did not influence physician 8-30 day readmission rates.
+
+# CONCLUSIONS:
+
+Individual physician characteristics statistically correlate with patient readmission rates. A critical level of a physician's yearly hospital activity, as reflected by the number of patient discharges per year (>100) significantly results in lower 7-day readmission rates. Gender, post-graduate years of clinical experience, and fiscal year were not significant. Physician hospital activity did not affect 8-30 day readmissions, suggesting that the unidentified physician characteristics that influence the 8-30 day readmission rate are different than those physician characteristics that influence the more immediate 7-day readmission rates.
+
+# PHYSICIAN HOME VISITS AFTER HOSPITAL DISCHARGE: A PILOT RANDOMIZED CONTROLLED TRIAL
+
+David M. Levine1; Kei Ouchi1; Mary R. Paz3; Kimberly P. Burke2; Jeffrey L. Schnipper1. 1Brigham and Women's Hospital, Boston, MA; 2Brigham and Women's Hospital, Brighton, MA; 3Brigham and Women's Hospital, BOSTON, MA. (Control ID #3184860)
+
+# BACKGROUND:
+
+Transition from acute care to home is a time marked by new or worsening symptoms, readmission, and adverse events. Many interventions have attempted to improve the transition to home, including nurse, nurse practitioner, and pharmacist home visits, with inconsistent results. To our knowledge, no recently evaluated intervention has involved a physician home visit. Decades ago, physician home visits formed the backbone of care for the most vulnerable patients. We hypothesized that a physician home visit following discharge would reduce new or worsening symptoms and readmission.
+
+# METHODS:
+
+We performed a pilot randomized controlled trial of a single physician home visit within 4 days of discharge from an acute care episode vs usual care. We enrolled patients who were being discharged to home and whose inpatient care team felt for any reason a physician home visit would be of benefit. Patients had to live within 5 miles of the hospital. After enrollment, patients were randomized 1:1 to a physician home visit vs usual care. The content of the home visit was left entirely to the discretion of the physician, although s/he was provided materials for best practices in home visits and medication reconciliation based on prior research. The primary endpoint was having at least one new or worsening symptom at 30-days post-discharge, captured by a structured phone interview used in prior research. Our secondary endpoints included 30-day readmission, 30-day emergency department (ED) utilization, 14-day PCP utilization, and readiness to transition via the Care Transition Measure (CTM)-3. We performed an intention-to-treat analysis and compared groups by Fisher exact test.
+
+# RESULTS:
+
+We enrolled 51 patients (26 home visits; 25 controls). Patients who received home visits had a median age of 65, 65% were female, 81% underrepresented minorities, and 35% had less than a high school education. The control group was similar, except it had fewer underrepresented minorities (68%). There was no difference in new or worsening symptoms at 30-days between the home visit (44%) and control (42%) group (p=0.66). The home visit group had nonsignificant trends toward fewer 30-day readmissions (23% vs 36%, p=0.37), fewer 30-day ED presentations (8% vs 12%, p=0.42), and more often saw their PCP within 14 days (31% vs 25%; p=0.39). The CTM-3 rating was the same for both groups (median, 9 out of 12). Nine intervention patients (35%) had medication changes as a result of their physician visit.

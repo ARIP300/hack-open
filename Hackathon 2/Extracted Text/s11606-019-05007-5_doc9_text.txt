@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+There were 122 participants for analysis. The mean age of participants was 50.3 (SD: 13.6) years, 82% were women, 88% were non-Hispanic white, and there were no significant differences in baseline characteristics between the intervention and control groups. Baseline HEI total score was 53.9 (SD: 15.3) in the control group and 55.1 (SD: 15.2) in the intervention group (p=.68). The intervention increased the mean HEI total score relative to the control group (4.3 points higher, 95%CI 0.5 to 8.1; p=.03). Analyses of the HEI sub-scores showed that this was driven by greater consumption of vegetables and fruits, and lower consumption of ‘empty' calories like sugar-sweetened beverages.
+
+# CONCLUSIONS:
+
+A community supported agriculture intervention resulted in clinically meaningful improvements in diet quality for health center patients. Subsidized community supported agriculture may be an important intervention for vulnerable individuals.
+
+# A CROSS-SECTIONAL STUDY USING CASE-BASED SKILLS ASSESSMENT TO MEASURE QUALITY OF INTEGRATED COMMUNITY CASE MANAGEMENT CARE DELIVERED BY VILLAGE HEALTH WORKERS IN BUGOYE, UGANDA
+
+James S. Miller1; Rapheal Mbusa2; Stephen Baguma2; Palka R. Patel3; Michael Matte2; Moses Ntaro4; Shem Bwambale5; Sara Mian-McCarthy6; Jessica Kenney1; Daniel Guiles1; Edgar M. Mulogo4; Geren Stone1.
+
+1 Massachusetts General Hospital, Cambridge, MA; 2 Global Health Collaborative, Mbarara, Uganda; 3 Indiana University School of Medicine, Indianapolis, IN; 4 Mbarara University of Science and Technology, Mbarara, Uganda; 5 Bugoye Health Center, Bugoye, Uganda; 6 UNICEF, New York, NY. (Control ID #3180333)
+
+# A COMPARISON OF APIXABAN IN PATIENTS WITH ADVANCED CHRONIC KIDNEY DISEASE AND END STAGE RENAL DISEASE
+
+Rajendrakumar C. Patel2; Kyle James1; Jason Cobb2; Traci Leong3.
+
+1 Emory University Hospital Midtown, Atlanta, GA; 2 Emory University School of Medicine, Atlanta, GA; 3 Emory University, Atlanta, GA. (Control ID #3184895)
+
+# BACKGROUND:
+
+Many patients with end stage renal disease (ESRD) or advanced chronic kidney disease (CKD) have conditions for which the appropriate treatment is anticoagulation. These conditions include atrial fibrillation/flutter and deep vein thrombosis/pulmonary embolism (DVT/PE). Classically, the oral anticoagulant of choice for patients with advanced renal disease and these conditions has been warfarin. The use of warfarin can be challenging, but newer direct oral anticoagulants are available for use. Apixaban, a direct oral anticoagulant, is potentially appropriate for use in patients with advanced renal disease as it is predominantly metabolized by the liver. Prospective studies of apixaban to date have excluded patients with advanced renal disease.
+
+# METHODS:
+
+A retrospective analysis by manual chart review was performed using data from a four-hospital system. Patients with diagnoses of either CKD 4, CKD 5, or ESRD who were ordered apixaban while hospitalized were identified. Hospitalizations occurred over 5.5 years. Patients were manually excluded if they never received a dose of apixaban or had an estimated glomerular filtration rate (GFR) greater than 30. Three independent physicians reviewed physician/provider/nursing notes, lab results, and medication administration records. Additionally, imaging reports were reviewed for therapeutic failures.
+
+# RESULTS:
+
+Of 508 encounters identified, 49 were excluded. Of the remaining 459 encounters, 171 had CKD and 288 had ESRD. There were 14 bleeding complications in the CKD group and 16 in the ESRD group (p = 0.36). The average number of red blood cell units transfused was 2.38 in the CKD group and 1.63 in the ESRD group (p = 0.027). Deaths occurred in 4 CKD encounters and 7 ESRD encounters (p = 1.0). One death was attributed to bleeding and this was in the ESRD group. Regarding therapeutic failure, there were no strokes, DVTs, or PEs in the CKD group, but there were 4 strokes observed (p = 0.30) and 3 DVTs or PEs observed (p = 0.29) in the ESRD group.
+
+# CONCLUSIONS:
+
+Our study suggests that there was no significant difference in risk of bleeding or therapeutic failure between CKD and ESRD patients. One strength of this study is its inclusion of multiple hospitals serving different populations. Limitations of this study include its retrospective nature and its restriction to the inpatient setting. An additional limitation is the use of encounter-level data rather than patient-level data. While randomized controlled trials are ultimately needed to properly address the safety of apixaban in CKD.
+
+# BACKGROUND:
+
+Village health workers (VHW) in 8 villages in Bugoye subcounty, Uganda provide Integrated Community Case Management (iCCM) care to children under 5 years old. In iCCM, VHWs assess and treat malaria, pneumonia, and diarrhea using a clinical algorithm. Study objectives included: 1) quantify VHWs' clinical performance and adherence to the clinical algorithm; 2) assess impact of formal education on skills assessment performance; 3) compare VHWs' performance as measured by the skills assessment exercise to prior clinical record review data (Miller et al. Malaria Journal 2018 17:99).
+
+# METHODS:
+
+All 36 VHWs agreed to complete the skills assessment exercise. This exercise included video cases depicting a caregiver of a sick child being interviewed, brief case vignettes portraying children with or without "danger signs" of severe illness, and reading mock rapid diagnostic tests (RDT) for malaria. Video cases were scored on completion of all steps in the clinical algorithm and a subset of "critical steps" required to achieve correct clinical management. Results were analyzed in Stata, with t-tests used to assess the association between formal education and performance.
+
+# RESULTS:
+
+Of the VHWs, 53% were women; 31% had completed primary school only and 69% some or all of secondary school. For cases of uncomplicated diarrhea and pneumonia, completion of all correct steps was low (19% and 6%, respectively), due to failure to address all recommended health education topics; completion of critical steps was high (92% and 97%, respectively). In a case of fever with a negative RDT, 100% of VHWs completed all correct steps. In a case of pneumonia with danger signs, 56% of VHWs completed all correct steps, while 89% completed all critical steps. Inappropriate use of antibiotics or antimalarials was low in all cases (0-3%). VHWs correctly classified 82% of brief case vignettes for children with or without danger signs. VHWs read 97% of mock RDTs correctly. There was no evidence of a difference in performance (measured by total correct management steps in the video cases and by a weighted overall performance metric) between VHWs with primary school education and with some or all of secondary school (p=0.76 and p=0.89, respectively). Rates of completion of critical steps in the cases were similar to prior assessment via clinical record review for uncomplicated diarrhea (92% vs. 97%) and uncomplicated pneumonia (97% vs. 95%) but quite different for fever with negative RDT (100% vs. 44%).
+
+# CONCLUSIONS:
+
+VHWs often omitted recommended health education topics, but otherwise demonstrated high quality of care in the video cases, recognition of danger signs, and reading RDTs. Level of formal education did not appear to influence performance. The difference in performance between data sources for fever with negative RDT may have resulted from training prompted by the prior results, direct observation during this present study, or incomplete clinical record-keeping.

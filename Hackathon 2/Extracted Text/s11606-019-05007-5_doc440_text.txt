@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# GASTROINTESTINAL AL AMYLOIDOSIS
+
+Inflammation and ulceration throughout the colon compatible with severe colitis. Biopsy showed diffuse mucosal and submucosal amyloidosis with a positive Congo red stain. Serum electrophoresis showed IgG kappa and lambda monoclonal gammopathy with elevated free lambda chain. Subsequent bone marrow biopsy showed plasma cell neoplasm with involvement of 9% of plasma cells and evidence of focal amyloid deposits. This was consistent with systemic AL light chain amyloidosis with likely lambda light chain deposition. Further work-up was done to evaluate for other organ involvement. Cardiac MRI showed minimal cardiac involvement and there was no evidence of proteinuria on urine analysis. Patient was initiated on chemotherapy with bortezumib and dexamethasone.
+
+# IMPACT/DISCUSSION
+
+Clinical syndromes in gastrointestinal AL and AA amyloidosis are different due to the unique patterns of tissue involvement. AA amyloidosis causes mucosal infiltration of amyloid protein, leading to diarrhea and malabsorption syndromes, while the muscularis mucosal deposition of AL amyloid often presents with constipation or pseudo-obstruction. Contrary to routine findings, our case of gastrointestinal AL amyloidosis presented with diarrhea and protein losing enteropathy. Mucosal erosions or ulcerations and submucosal hematomas are the most common endoscopic findings. The gold standard for diagnosis is with a biopsy with Congo red staining. The treatment of AL amyloidosis includes high-dose chemotherapy and hematopoietic stem cell transplantation. Patients with AL amyloidosis with gastrointestinal involvement have poor prognosis. Chemotherapy causes suppression of plasma cell clones and reduces the concentration of toxic light chains by suppression of plasma cell clones. This is necessary to improve organ function and prolong survival.
+
+# CONCLUSION
+
+Physicians should consider gastrointestinal amyloidosis in their differential when patients present with diarrhea and unexplained hypoalbuminemia as prompt recognition and treatment is crucial.
+
+# GASTROINTESTINAL BERIBERI CAUSES REFRACTORY LACTIC ACIDOSIS
+
+Zachary S. Bugos; Fnu Abhishek. UPMC Mercy, Etna, PA. (Control ID #3185860)
+
+# LEARNING OBJECTIVE #1
+
+Recognize various causes of lactic acidosis
+
+# LEARNING OBJECTIVE #2
+
+Identify major risks for thiamine deficiency
+
+# CASE
+
+44yo F w/PMHx of EtOH abuse presented to ED w/ emesis. Pt reported 4d drinking binge w/ unknown amount of vodka. By d5, she had episodes of non-bloody bilious emesis. Denied fever, chills, abd pain, diarrhea, sick contacts. While in ED, vitals 36.6*F, BP 137/59, HR 128, RR 19 satting 98% on RA. Labs revealed AG 32.4, bicarb 17, Cr 1.61 (baseline Cr 0.4); mild LFT abnormalities, unremarkable lipase and PT/INR of 21.8/1.9; leukocytosis & plt 570. UA, UCx, UDS & ethanol were all unremarkable. Pt had persistent bilious emesis & tachycardia. Received 2L NS + GI cocktail. With concern for sepsis, a lactate returned at 6.6. Pt started on D5NS + 20mEq KCl at 75cc/hr. Admitted to floors for AKI & IVF resuscitation. Following AM, pt reassessed s/p 3L IVF, appearing better w/ minimal nausea. K 2.9, AG 17.9, AKI improved w/ down-trending creatinine to 1.31. Repeat lactate still elevated to 6.6. Management revolved around EtOH keto-acidosis, however did not explain persistent hyperlactatemia. Over next 2d, lactate stayed elevated to 5.3, 5.0 and 4.0 despite receiving 7L IVF over 3.5d. By HD4, pt was asx w/ near normals lytes and resolved AKI except for refractory hypokalemia and hypomagnesemia. With suspicion for rare causes of lactic acidosis, thiamine level found to be non-existent (lab value <6; range 8-30nmol/L). Thiamine 500mg IV was given and lactate ~12hrs later normalized to 1.5. Dx of thiamine deficiency causing persistent lactic acidosis was made, and pt d/c home the following AM with thiamine.
+
+# IMPACT/DISCUSSION
+
+Hyperlactatemia, a common occurrence in critically ill pts, results from accumulation of lactate d/t impaired mitochondrial oxidation. Lactate is a marker of illness severity, higher levels correlate w/ worse outcomes. Elevated lactate is generally attributed to tissue hypo-perfusion, however other causes of cell dysfxn can result in high levels, such as infection, liver dysfunction, severe trauma, uncommon ADRs & in this rare case, d/t thiamine deficiency. Vitamin B1, aka thiamine, is a cofactor for enzymes involved in metabolism & biosynthesis of neurotransmitters. Thiamine deficiency is a clinical dx, as direct serum measurements are not indicative of thiamine status, as only 0.8% of total body stores are present in blood. Elevated blood pyruvate & lactate measurements can be useful, however false positives in setting of sepsis & cardiogenic shock are associated w/ lactic acidosis, imitating thiamine deficiency. Refractory lactic acidosis s/p glucose load supports dx of thiamine deficiency, making it more practical to give thiamine & monitor for response.
+
+# CONCLUSION
+
+Lactic acidosis is used to describe accumulation of lactate, a surrogate marker for hypo-perfusion & cell dysfxn. Major causes of elevation are attributed to hypovolemic states, sepsis or poor clearance (i.e. renal or liver failure). Thiamine, aka Vitamin B1, when deficient, causes lactic acidosis refractory to fluid resuscitation.
+
+# GENERAL PARESIS: A FORGOTTEN PSYCHIATRIC SYNDROME OF NEUROSYPHILIS
+
+Joseph Boyle1; Kelly White2. 1University of Colorado SOM, Denver, CO; 2University of Colorado SOM, Aurora, CO. (Control ID #3150083)
+
+# LEARNING OBJECTIVE #1
+
+Recognize and diagnose neurosyphilis
+
+# LEARNING OBJECTIVE #2
+
+Recognize emergent psychiatric symptoms may be due to neurosyphilis
+
+# CASE
+
+A 61-year-old woman with a history of CIN I, seasonal allergies, low back pain, and homelessness presented to primary care clinic with 3 years of worsening mood lability, paranoid delusions, and increasingly confrontational behavior toward staff with frequent missed appointments. Attempted referrals to psychiatric care were unsuccessful and an accurate psychiatric diagnosis remained elusive. At a subsequent appointment, she complained of tingling pain in her hands and feet, but declined lab testing. Months later she presented with a new chronic headache and a c-spine CT report from an outside ED showing diffuse cervical lymphadenopathy. At that time, she agreed to testing and was found to have positive RPR, with normal CBC, TSH, B12, and negative HIV Ab. Confirmatory testing showed a positive serum Treponema Ab, and LP showed 46 lymphocytes and positive VDRL. There were no notable neurological findings or palpable lymphadenopathy. The patient denied sexual contact for more than 20 years, and abstinence had been documented in the chart for at least 6 years. She was admitted to the hospital for treatment with IV penicillin. At the time of admission her MOCA was 23. She will be followed with serial cognitive exams, psychiatric evaluations, and CSF studies to document remission.
+
+# IMPACT/DISCUSSION
+
+It is known that syphilis can go undiagnosed in the early stages before entering a long latent period. Screening recommendations exist for at risk populations including MSM and HIV+ individuals. US prevalence is increasing to 31/100,000 since nadir in the year 2000. Only a small minority of cases are in women. Late symptoms were thought to have been largely eliminated since the antibiotic era but the psychiatric symptoms are frequently misdiagnosed. Late manifestations of syphilis include skin changes, neurological findings: including headache, psychiatric symptoms, and finally, dementia. The psychiatric symptoms are classically named general paresis, which can include emotional lability, memory deficits, and psychosis, as seen in this patient. Diagnosis of neurosyphilis is made by CSF with increased lymphocytes and either Treponema Ab or VDRL. VDRL is more sensitive than RPR on CSF. The goal of treatment for general paresis is to halt progression to dementia, but reversal of symptoms is uncommon.
+
+# REFERENCES
+
+1. CDC, 2016. 2. CDC, 2017. 3. Yanhua W, BMC Psychiatry. 2016;16(1):1-6. 4. Mattei PL, Am Fam Physician. 2012;86(5):433-440. 5. Marra CM, Sex Transm Dis. 2012;39(6):453. 6. Hook EW. Syphilis. Lancet. 2017;389(10078):1550-1557.

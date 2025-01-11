@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# EXECUTIVE PHYSICAL PROGRAMS AT ACADEMIC HOSPITALS
+
+recommended, non-recommended (NR), risk- or age-based (RB), and insufficient evidence (IE). For these determinations we assumed all patients were under age 65. The study was deemed exempt by the MSKCC IRB.
+
+# RESULTS:
+
+Seventeen (85%) hospitals offered executive physicals. We identified services included in 20 packages across 13 hospitals; information was unavailable for 4 hospitals. Package price ranged from $1700-$9400. The most commonly offered services were screening ECG (included in 90% of packages), hearing exam (75%), and stress testing (70%); all are NR. Across packages, cancer screening was the most common domain, with 48 cumulative services (12 [25%] NR), followed by cardiac screening (n=32, all NR), ENT/ophthalmology (n=25, all IE), and lung disease screening (n=19, all NR). Overall, among unique services offered in any package (n=16), 1 (6.3%) was recommended by USPSTF, 6 (37.5%) were NR, 5 (31.3%) were RB, 3 (18.8%) were IE, and 1 was not addressed by USPSTF. Notably, few hospitals included pap/pelvic exam (54%), which is recommended by USPSTF, or abdominal ultrasound for AAA screening (23%) (deemed RB per USPSTF), none offered lung cancer screening (RB), and 1 offered total body CT.
+
+# CONCLUSIONS:
+
+Most top academic hospitals offer executive physical programs; public information on these programs is incomplete. Price varies, non-recommended services are common, and some recommended services are omitted. With growing emphasis on value, leading hospitals should align executive physical offerings with best evidence.
+
+# EXPANDING SUPPLY OF MEDICATION ASSISTED TREATMENT TO UNDERSERVED AREAS: BUPRENORPHINE WAIVERS FOR ADVANCED PRACTICE PROVIDERS
+
+Michael L. Barnett1; Dennis Lee1; Richard Frank2. 1Harvard T.H. Chan School of Public Health, Boston, MA; 2Harvard Medical School, Boston, MA. (Control ID #3181480)
+
+# BACKGROUND:
+
+There are large segments of the country where access to evidence-based treatment for opioid use disorder (OUD) is limited by the lack of clinician supply. To help address the limits of OUD treatment capacity, the Comprehensive Addiction and Recovery Act (CARA) passed in July 2016 enabled nurse practitioners and physicians' assistants (NP/PA) to obtain federal waivers to prescribe buprenorphine, an effective medication for treating OUD, after 24 hours of training. We examined the take-up and use of these waivers by NPs and PAs and their association with scope of practice laws.
+
+# METHODS:
+
+We obtained the date and county of buprenorphine waiver approval for all clinicians including NP/PAs from 2005-2017 from the Substance Abuse and Mental Health Services Administration, merged with publicly available county demographic characteristics and 2016 opioid mortality data. We captured buprenorphine prescribing from the publicly available Drug Enforcement Agency databases. Using linear regression, we estimated the associations in characteristics of counties with the highest vs. lowest quartiles of waivered NP/PAs per capita by the end of 2017. Next, we estimated a county- or 3-digit ZIP- quarter level linear regression with geographic fixed effects to quantify changes post-CARA in buprenorphine prescribing per capita. We compared growth in these outcomes between states with fully independent vs. restricted scope of practice laws for NP/PAs as of 2016.
+
+# RESULTS:
+
+By the end of 2017, 3,682 NPs and PAs in 812 counties representing 75% of the US population obtained buprenorphine waivers, including 39 counties with no buprenorphine-waivered providers before 2017. Among counties with any waivered NP/PAs, there were 6.2 vs. 0.6 waivered NP/PAs per 100,000 in counties in the top vs. bottom quartiles of NP/PA waiver adoption. Top quartile counties had significantly higher opioid-related mortality per 100,000 in 2016 than bottom quartile counties (18.4 vs. 13.2, adjusted p<0.001). By the end of 2017, counties in states with full vs. restricted scope of practice had over twice as many waivered NP/PAs per 100,000 (2.2 vs. 0.9, p<0.001). Annual buprenorphine prescribing per capita grew faster in 2017 after CARA passage than from 2005-2016 (15.2% faster annual growth vs. national average, p<0.001), but there was no difference in growth between states with full vs. restricted scope of practice regulations (p=0.27).
+
+# CONCLUSIONS:
+
+One year after CARA passage, thousands of NP/PAs obtained buprenorphine waivers despite the 24-hour training requirement, many of whom were in counties with no prior buprenorphine providers. There was greater adoption in states where NP/PAs could practice independently, though buprenorphine prescribing did not grow faster in states with full scope of practice laws in 2017. The growth of NP/PAs as buprenorphine providers suggests that they could serve a crucial role in expanding access to OUD treatment nationally.
+
+# EXPECTATIONS AND EXPERIENCES WITH PRESCRIBING CLINICIANS AMONG SHORT-STAY PATIENTS IN SKILLED NURSING FACILITIES
+
+Kira Ryskina1; Kierra A. Foley1; Jason H. Karlawish 1; Joshua Uy1; Briana Lott2; Erica Goldberg1; Nancy Hodgson1. 1University of Pennsylvania, Philadelphia, PA; 2Veteran Affairs, Philadelphia, PA. (Control ID #3169816)
+
+# BACKGROUND:
+
+One in four Medicare beneficiaries discharged from hospitals to skilled nursing facilities (SNFs) for post-acute care (short-stay) are re-hospitalized or die within 30 days. While prescribing clinicians (physicians, nurse practitioners, and physician assistants) are considered integral to improving care coordination and transitions in care, little is known about the role of SNF prescribing clinicians in the experience of patients who transition from hospitals to post-acute care in SNFs. Our objectives in this study were: 1) to describe patient and caregiver expectations and experiences with SNF prescribing clinician care among patients receiving post-acute care in these facilities, and 2) to elicit thematic differences in patient and caregiver experiences among patients with and without cognitive impairment as well as among white patients and black patients.
+
+# METHODS:
+
+We conducted a qualitative study using semi-structured patient interviews at five diverse (i.e., size, setting, and prescribing clinician staffing) SNFs between January and August 2018. Forty-eight patients transferred to the SNFs for short-term care 5-10 days prior to the interview were eligible to participate. All participants were asked to identify a primary caregiver who was contacted by telephone to complete the interview as well. Thematic analysis of the transcripts was performed to detect recurrent themes and divergent ideas with a focus on modifiable prescribing clinician-level factors that might improve patient experience with post-acute care in SNFs. Analysis was stratified by patient cognitive impairment (measured by the Montreal Cognitive Assessment (MOCA) test) and race. Member checks were conducted as a validation technique.
+
+# RESULTS:
+
+The major theme that emerged was misleading expectations about the prescribing clinician (for example, patients expected to continue seeing the doctor who was treating them during the preceding hospitalization). A majority of subjects (85%) reported transient interactions with their SNF prescribing clinician. Most (95%) had limited knowledge of the prescribing clinician(s) in SNFs and 60% reported feeling disempowered to discuss their care with the clinician(s). Patients with lower MOCA scores and minorities were more likely to report feeling disempowered.
+
+# CONCLUSIONS:
+
+Our findings identify specific areas for improvement in the delivery of care for patients discharged to SNF for post-acute care after a hospitalization. In the context of growing reliance on SNFs as a post-acute care destination after hospital discharge, especially among patients with cognitive impairment, and increasing specialization of prescribing clinicians in SNF practice (i.e. the emergence ‘SNFists'), better understanding of patient and caregiver expectations of prescribing clinician care in SNFs is needed to inform policy and local practices related to prescribing clinicians in SNFs.

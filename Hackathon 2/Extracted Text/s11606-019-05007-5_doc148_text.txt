@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+The search yielded 857 unique and relevant publications issued between 1970 and 2018. After title and abstract review, twenty highly relevant publications were selected for in-depth analysis, and among these were twelve original research studies and eight literature reviews. The original research studies evaluated interventions including task-shifting, community-based health insurance and clinical decision-making support tools to manage hypertension. The majority of these studies demonstrated significant blood pressure reduction in the intervention groups. Seven of the eight reviews were systematic and their topics included task-shifting, health-oriented mobile technology (mHealth), lifestyle change and community-based interventions to address hypertension. The strongest evidence supports, firstly, shifting care delivery tasks to non-physician health workers who address hypertension as part of organized teams with care escalation pathways according to clinical qualification. Secondly, there is strong evidence supporting decision-support tools and standardized clinical guidelines, commonly through novel utilization of technology.
+
+# CONCLUSIONS:
+
+Regarding hypertension care delivery in resource limited-settings, published evidence notably supports task-shifting within organized care teams and utilizing clinical decision-making support tools. Where health systems face limited capacity to manage the population burden of hypertension, these approaches were both feasible and effective. Given the range of contexts in which they were implemented, these approaches are likely applicable to a variety of health system settings in both resource-rich and resource-limited countries.
+
+# HYPERTENSION MANAGEMENT IN AN INTERNAL MEDICINE RESIDENT CLINIC: A QUALITY IMPROVEMENT INITIATIVE
+
+Elaine Hutchison 1 ; Charlotte Lin 1 ; Christine Moorehead 2 ; Emily D. Fondahn 3 . 1 Washington University, St. Louis, MO; 2 Barnes-Jewish Hospital, St. Louis, MO; 3 Washington University, St Louis, MO. (Control ID #3181892)
+
+# BACKGROUND:
+
+Hypertension is an important modifiable risk factor for cardiovascular disease. The Barnes-Jewish Hospital Primary Care Medicine Clinic is an academic internal medicine resident clinic affiliated with a tertiary referral center with an average 1960 patient visits per month. Clinic data shows about 62% of our patients have a diagnosis of hypertension. Our quality improvement project sought to improve the percentage of hypertensive patients with controlled blood pressure from a baseline of 60.7% to 80.0%.
+
+# METHODS:
+
+We defined controlled blood pressure as less than systolic 140 mmHg and diastolic 90 mmHg. Baseline and post-intervention data were collected through our electronic medical record (EMR). Blood pressure data was not readily available prior to June 2018 due to a change in EMR platforms. Interventions using a Plan-Do-Study-Act (PDSA) model were developed and prioritized in several multi-disciplinary meetings. The first PDSA cycle involved changing the nurse hypertension clinic referrals from paper to electronic to increase use of this resource by residents. In this clinic, a nurse measures blood pressure, consults with a resident if blood pressure is uncontrolled, and educates patients regarding lifestyle changes and blood pressure goals. Patients can follow up weekly until they have reached their goal blood pressure. Clinic nurses, pharmacists, residents, attendings, and information technology were involved in making this change.
+
+# RESULTS:
+
+The baseline percentage of patients with controlled hypertension was 60.7% from June to mid-September 2018. In September, when the electronic referral system was implemented, the percentage of patients with controlled hypertension improved to 64.5% but dropped to 61.3% in October and 57.0% in November. The average number of visits scheduled in the nurse hypertension clinic monthly prior to EMR change was 150. Post-EMR change, there were 55 scheduled visits in June 2018, increasing to 95 in September, 139 in October, and 127 in November. Improving blood pressure control through this program is complicated by a high no-show rate to these appointments: 43.6% in June 2018 increasing to 50.3% in October and 48.0% in November. Prior to June 2018, the average no-show rate was 37%.
+
+# CONCLUSIONS:
+
+Our initial PDSA cycle increased the number of referrals to the nurse hypertension clinic to the pre-EMR transition baseline without sustained improvement in blood pressure control. We anticipate more substantial improvement as residents and staff become increasingly familiar with the referral process. The high no-show rate limits the effectiveness of this intervention and future PDSA cycles should consider this as an area for improvement. Our next PDSA cycles will focus on developing a hypertension documentation template within the EMR to facilitate communication between residents during transitions of care and distribution of ambulatory blood pressure monitors to patients.
+
+# IDENTIFYING CAUSES OF MISSED COLONOSCOPY APPOINTMENTS AT A SAFETY NET HOSPITAL
+
+Michael A. Yu; Gordon T. Robbins; Saraubh Chawla; Erica Heiman. Emory University School of Medicine, Atlanta, GA. (Control ID #3183667)
+
+# BACKGROUND:
+
+In the US, colorectal cancer (CRC) remains the 4th most common cancer among men and women, and the 2nd leading cause of cancer deaths. CRC-related mortality has decreased due to better CRC screening rates. Nationally, 65% of the population eligible are up-to-date with recommended CRC screening. Grady Health System is a large, urban safety net hospital in Atlanta, GA. Overall CRC screening rates of Grady Primary Care Center patients is 55%. In an effort to improve CRC screening rates, we have implemented multiple interventions including offering Fecal Immunochemical Tests, educating providers via resident-run teaching sessions, engaging patients in waiting room conversations about CRC screening options, and streamlining our EMR. Despite this, our screening rates are still below the national average. One issue identified was high no-show rates to colonoscopy appointments. No-show rates from 2 other safety net systems were 27-29%. We hypothesize various contributors to this including scheduling issues, socioeconomic hardship, health illiteracy, challenges with completing colon prep, and inadequate resources for transportation. We explored this further by surveying patients with incomplete colonoscopy appointments.
+
+# METHODS:
+
+After we achieved IRB determination, we worked with the Grady Outpatient Endoscopy Center to identify patients who did not complete their colonoscopy appointments. We contacted these patients and, using a scripted questionnaire with open and closed-ended questions, surveyed them about why they were unable to complete their colonoscopies.
+
+# RESULTS:
+
+Our preliminary data reflects incomplete screening colonoscopies over a one-month period. There was a total of 30 incomplete colonoscopy visits and we were able to contact and survey 25 of these patients. Of these, 92% were no-shows, whereas the other 8% were incomplete prep or wrong arrival time. 92% of patients surveyed were aware of the appointments and similarly, 92% felt that they were provided with adequate notice. Transportation was cited as a problem for 56%. 20% of patients missed due to personal health problems, while 28% missed due to family obligations or emergencies. 16% cited financial issues, including inability to afford copay or prep costs. 24% of patients had scheduling issues, such as double-booked appointments. 20% of patients had problems with prep being incorrectly prescribed or not prescribed at all.

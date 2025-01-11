@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# Social Determinants of Health in Residency Training
+
+During their ambulatory month, second-year residents attend an interactive one-hour introductory session on social determinants of health, taught by a faculty member implementing group discussion and social media. Experiential activities are then chosen by learners from a list of options, and carried out in small groups of residents during a half day of protected time. Reflective writing exercises at the end of the experience elicit resident attitudes and lessons learned from their experience.
+
+# EVALUATION:
+
+39 second year residents participated in the module. 41% of residents submitted reflective statements about their experience. Reflective responses suggest (1) enhanced appreciation for social determinants of health (2) empowerment to advocate for patient resources (3) appreciation for systems-level factors that impact social determinants of health (4) demonstrated ability to learn about community resources in a self-directed manner.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A short, experience-based module can impact resident attitudes about social determinants and improve their advocacy around providing enhanced patient resources. We believe our module to be effective; while a resident response rate of 41% for submitting written reflective statements may seem low at the outset, we believe this to be a high response rate in the context of a busy clinical environment and minimal faculty oversight, thereby demonstrating a high degree of engagement in the module.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://doi.org/10.15766/mep_2374-8265.10647
+
+# OUTPATIENT HANDOFF MATTERS, TOO! AN INTERVENTION FOR GRADUATING PGY-3 PANEL PATIENTS AND EFFECT ON RESIDENT PERCEPTION IN A SINGLE LARGE ACADEMIC PROGRAM SETTING
+
+Vanessa Scowden. University of Michigan, Brighton, MI. (Control ID #3178376)
+
+# NEEDS AND OBJECTIVES:
+
+Much attention has been paid to transition of care upon hospital discharge, although outpatient transition of care is an area perceived by many of lesser importance. Graduating residents in primary care settings experience this cycle predictably, and a paucity of evidence exists to help guide programs in best practice. Goals were to establish handoff process and standardize documentation and improve resident satisfaction with close of clinic as well as perception of importance of ambulatory handoff.
+
+# SETTING AND PARTICIPANTS:
+
+Single continuity clinic site for large academic internal medicine residency.
+
+# DESCRIPTION:
+
+Graduating PGY-3 resident PCPs and their continuity attending at a single academic continuity site (resident n=5) were selected to review their panels. Patients subjectively identified as "higher risk" were then discussed individually to identify who was best served to undergo intervention- options were to transition to an established resident (rising PGY-2) or an attending panel, or to complete a formal transition of care process. Patients identified for formal transition of care process were identified for in-office return visit prior to resident graduating. This visit note was standardized, designed to remain in the medical record. To evaluate the impact on the residents, an anonymous retrospective pre-then-post survey was completed to assess perception and sense of value for handoff in the ambulatory setting with 100% of surveys returned (n=5). There were four questions designed to evaluate perception of importance for both inpatient and ambulatory handoff, and if the resident felt current curriculum provided adequate instruction for best practice in both settings.
+
+# EVALUATION:
+
+There were a total of 331 patients identified as having a PGY-3 as PCP and individually reviewed approximately 6 months prior to resident graduation. Of these patients, 39 (11.8%) were determined to be medically or socially complex enough to be best served by intervention process. Regarding value for inpatient handoff, all PGY-3 agreed or strongly agreed that there is value. They also all agreed or strongly agreed that their current curriculum provides instruction for best practice. This study did not show any change in level of response after our intervention regarding inpatient handoff attitude or provided instruction. All respondents did also agree or strongly agree that there is value in ambulatory handoff, although 4 of the 5 disagreed or strongly disagreed that there was adequate instruction prior to this intervention regarding handoff in the ambulatory setting. After the intervention, 4 of the 5 did improve on ambulatory question metrics, ranging from one to three levels of improvement.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This study was created to address a need for improved formal handoff in an ambulatory setting during resident transition. This was formalized in recommendations both for review process, individual patient discussion as well as standardizing documentation.
+
+# PC TEACH: DEMONSTRATION OF A NOVEL PEER TEACHING TEAM MODEL IN RESIDENT PRIMARY CARE CLINIC
+
+Katherine L. Chen; Mina Ma; Antonio M. Pessegueiro. UCLA, Los Angeles, CA. (Control ID #3183166)
+
+# NEEDS AND OBJECTIVES:
+
+Whereas residents regularly teach and mentor each other on the wards, they rarely collaborate with their peers in ambulatory practice. Continuity clinic represents a missed opportunity to use peer teaching to boost primary care skills and attitudes. The PC Teach pilot program aimed to assess the feasibility and impact of a novel outpatient teaching team model.
+
+# SETTING AND PARTICIPANTS:
+
+5 residents, 6 interns, and 4 attendings in an internal medicine residency program participated in the pilot.
+
+# DESCRIPTION:
+
+One resident was paired with one intern in each PC Teach session. In the first 6 months, the resident directly observed the intern's clinic visits and helped the intern prepare for the presentation to the attending. In the second 6 months, the intern saw each patient independently and presented to the resident, who acted as preceptor; the attending supervised the teaching and then confirmed the plan. At the end of each session, participants used worksheets to guide self-assessment and feedback on the intern's clinical skills and the resident's teaching.
+
+# EVALUATION:
+
+Participants completed anonymous surveys pre- and post-intervention. The study was not powered to demonstrate statistical significance, but several trends were observed. After the intervention, interns and residents reported that they enjoyed working together in PC Teach. Interns also conveyed more positive attitudes toward primary care after PC Teach. Meanwhile, residents reported increased confidence as outpatient teachers and greater interest in pursuing primary care careers. After PC Teach, attendings were less confident in their ability to gauge residents' outpatient teaching abilities and less confident that graduating residents were ready to be outpatient preceptors. All participants agreed that future trainees would benefit from PC Teach. Trainees agreed that the impact on patient care was somewhat positive, and attendings reported that it was neutral.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The PC Teach pilot study demonstrated that an outpatient teaching team model was feasible and well received by trainees. Although any of the observed trends could reflect random error, attendings' decreased confidence in residents' outpatient teaching skills might imply that PC Teach gave faculty a novel glimpse of residents' teaching abilities, which previously they had overestimated. More rigorous evaluation of PC Teach will be possible as the program grows. Now in our second year of PC Teach, we have tripled the number of participants.

@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+included weakness and abdominal pain with exam notable for left upper quadrant tenderness. Admission labs revealed a corrected calcium level of 13.7 mg/dL and a creatinine of 2.62 mg/dL (baseline 1 mg/dL). On review of history, hypercalcemia led to his diagnosis of lymphoma. He required prior admissions for treatment with fluid, furosemide, calcitonin, and bisphosphonates. Before his diagnosis, the patient was healthy and running two miles per day. Work-up to determine the etiology of his hypercalcemia showed low parathyroid hormone intact molecule and parathyroid hormone related protein, at 9 pg/mL and 12 pg/mL respectively. His urinary calcium was 9.9 mg/dL. His vitamin D2 1,25 (OH)2 was &lt;8 pg/dL but his vitamin D3 1,25 (OH)2 was found to be elevated at 91 pg/mL. He was treated with fluids, furosemide, calcitonin and zoledronic acid. Despite these therapies, his calcium increased to abnormal levels and creatinine worsened each time fluids were stopped, requiring inpatient chemotherapy. Definitive treatment of his hypercalcemia required treatment of his lymphoma. He received rituximab, bendamustine, and high-dose steroids at the recommendation of oncology.
+
+# IMPACT/DISCUSSION:
+
+While hypercalcemia in lymphoma is rare, hypercalcemia of malignancy is common. Parathyroid hormone and Vitamin-D can be inappropriately upregulated and overproduced. The production of PTH-rP is the most common paraneoplastic syndrome leading to hypercalcemia in malignancy. Increased osteoclast activity is another cause, specifically relating to multiple myeloma. In this case, the etiology was vitamin D overproduction by macrophages associated with tumor cells in lymphoma, similar to that in sarcoidosis. The mechanism is increased production of 1-alpha-hydroxylase, the enzyme responsible for converting vitamin D to its active form, vitamin D3 1,25 (OH)2. This case highlights the importance of understanding how cancers not typically associated with hypercalcemia are still subject to this phenomenon.
+
+# CONCLUSION:
+
+Multiple phenomena can lead to hypercalcemia in malignancy, including increased production of 1-alpha-hydroxylase. Ultimately, definitive management of hypercalcemia of malignancy is treatment of the malignancy.
+
+# HYPEREOSINOPHILIA - A DIAGNOSTIC DILEMMA
+
+Prarthna V. Bhardwaj1; Nakul Ravikumar2. 1Baystate Medical Center, Springfield, MA; 2UMMS - Baystate, Springfield, MA. (Control ID #3178615)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize causes of hypereosinophilia.
+
+# LEARNING OBJECTIVE #2:
+
+To diagnose eosinophilic granulomatosis with polyangiitis when the presentation is confusing.
+
+# CASE:
+
+69yo Caucasian man with severe asthma, chronic sinusitis, nasal polyps presented with parasthesias of b/l lower extremities and hands; and diarrhea found to have eosinophilic leukocytosis (Total WBC - 42,000; Total eosinophil count - 28,700). He had a recent hospitalization flu like symptoms with transient bilateral consolidations on chest CT. He had traveled to Nicaragua 4 months prior. PE revealed subjective numbness in fingers and toes bilaterally; and an erythematous rash on his shoulder with surrounding hyperpigmentation that was grossly itchy. Strongyloides and trypanosoma Ab; blood, sputum and stool cultures were negative. Bone marrow biopsy showed extensive infiltration with mature eosinophils. ABL-BCR, JAK 2, PDGFR, FGFR, CHIC -2, flow cytometry, cANCA, pANCA and ANA were negative with normal tryptase levels. EMG was normal. Skin biopsy of the rash was diagnosed as tinea. RAST was positive for aspergillus fumigatus with positive precipitin panel. Hospital course was complicated by new CHF with significant tropinemia (peak 7.03). Cardiac cath was negative for CAD. ECHO revealed newly reduced LVEF of 30%. Cardiac MRI suggested an infiltrative process. He was put on steroids with improvement in counts and azathioprine later for steroid sparing for suspected eosinophilic granulomatosis with polyangiitis (previously Churg Strauss Syndrome) and is being followed by multiple specialties. He completed oral itraconazole for ABPA. On follow up, his symptoms have improved.
+
+# IMPACT/DISCUSSION:
+
+Hypereosinophilia is an elevation in eosinophil count above 1,500/μL. It is divided into primary, secondary and idiopathic. Secondary eosinophilia is non-clonal increase caused by infections, allergic conditions, autoimmune diseases and paraneoplastic syndromes. Main differentials were EGPA, allergic bronchopulmonary aspergillosis, clonal malignancy and idiopathic hypereosinophilic syndrome. While APBA can cause eosinophilia, involvement of organs other than the upper respiratory tract is uncommon. EGPA is classified as ANCA-positive and ANCA-negative. About 50-60% of EGPA show ANCA positivity. Based on American College of Rheumatology (ACR), patient met 4 of the 6 criteria for EGPA despite negative ANCA. Cardiac involvement including CHF, myocarditis, pericarditis, myocardial ischemia and arrhythmias are the major cause of death and poor prognosis occurring in 27-47% cases. It is more common in ANCA-negative patients and directly correlates with eosinophilia.
+
+# CONCLUSION:
+
+ABPA can result in hypereosinophilia but is limited to organs in the upper respiratory tract. Despite ANCA negativity, if patient meets ACR criteria in the right clinical setting, EGPA can be confirmed. It is important to recognize the subtle differences between these entities causing hypereosinophilia in order to clinch the diagnosis and involve appropriate specialties to institute early treatment.
+
+# HYPERGLYCEMIA, OBESITY, AND STIGMA: PHYSICIAN WEIGHT-BASED BIAS PREVENTING EARLY RECOGNITION OF RARE MEDICATION SIDE EFFECT.
+
+Pranav Shah1; Ahmed Yeddi1; Omnia Awad1; Diane L. Levine3; Ijeoma Nnodim2. 1Detroit Medical Center, Plymouth, MI; 2Wayne State University School of Medicine, Westland, MI; 3Wayne State University, Detroit, MI. (Control ID #3184572)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize how weight-based bias regarding obese patients can negatively impact health outcomes and contribute to disparities.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize iatrogenic causes of poorly controlled "lifestyle" diseases associated with obesity such as medication induced hyperosmolar hyperglycemic non-ketotic syndrome (HHNS).
+
+# CASE:
+
+22-Year-old female with medical history of well controlled type 2 diabetes mellitus (HbA1c 6.9%), morbid obesity (BMI 54) and pseudotumor cerebri status post ventriculoatrial shunt presents with worsening headaches for 3 days. A lumbar puncture showed mildly elevated opening pressure with normal cerebrospinal fluid analysis. She was started on acetazolamide 250 mg twice daily with improvement of headaches. However, her blood glucose measurements became very high: 300-500 mg/dl, requiring increasing insulin dosages. By day 4, she was requiring 490 units total dose of insulin, 7 times her home daily dose. We believed the patient was not adhering to a strict hospital ADA diet and was consuming additional carbohydrate-rich meals. However, upon further questioning, she denied this assertion. As her hyperglycemia remained resistant to insulin, multiple providers repeatedly questioned her adherence to the hospital diet. Eventually, a medication re-assessment resulted in the discovery of hyperglycemia as a rare side effect of acetazolamide, which was subsequently discontinued. Within 48 hours of cessation of acetazolamide, blood glucose levels normalized with a fasting glucose 70-120 mg/dl, and post-prandial glucose 80-180 mg/dl and remained stable on her home insulin regimen.
+
+# IMPACT/DISCUSSION:
+
+Initial consideration for the patient's poorly controlled hyperglycemia was non-adherence to the hospital diabetic diet. Her denial of non-adherence was met with incredulity by the care team. Consequently, she endured a prolonged hospital length of stay, shame, and emotional distress. We learned a lesson about self-awareness of physician bias regarding obesity and how it can negatively impact outcomes and contribute to health disparities. Obesity is escalating in epidemic proportions with rising weight discrimination (>66% over the past decade). Many healthcare providers hold strong negative attitudes and stereotypes about people with obesity. Such attitudes influence interpersonal behavior and decision-making which may negatively impact care. Physicians should be

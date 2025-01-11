@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Pseudoaneurysm of the Cystic Artery
+
+which was successfully embolized by IR. However, patient deteriorated again after successful embolization with re-bleeding that was felt to be due to his underlying liver disease, renal dysfunction, and c. diff colitis with possible disseminated intravascular coagulopathy (DIC). He was placed on CRRT and pressor support. He was not a candidate for TIPS or liver transplant, and was transitioned to comfort care per family request and deceased shortly afterward.
+
+# IMPACT/DISCUSSION:
+
+Uncontrollable bleeding post lap cholecystectomy is a serious complication with low incidence of 0.1-1.9% and usually presents intra or post-surgical with acute hemodynamic decline. Uncontrollable bleeding from lap cholecystectomy usually arise from 3 sites, the liver, arterial sources, or port insertion sites. This case is unique in that patient had acute bleeding from cystic artery 3 weeks post-procedure. A recent review identified pseudoaneurysms (PSAs) of the hepatic and/or cystic artery as a rare complication following a laparoscopic cholecystectomy that can occur several weeks after the procedure. In the cases reviewed, trans-arterial embolization had a 94.5% success rate with a 2.0% mortality. Our patient had poor prognosis due to multiple comorbid conditions including underlying liver disease with portal hypertension, renal dysfunction, and possible DIC with c. diff colitis leading to re-bleeding post embolization.
+
+# CONCLUSION:
+
+Bleeding from pseudoaneurysms is a rare complication from laparoscopic cholecystectomy that can manifest up to a month post procedure.
+
+# POST-PARTUM WOMAN WITH WORSENING DYSPNEA: WHEN YOUR EYES DO NOT SEE WHAT YOUR MIND IS NOT LOOKING FOR.
+
+Alison M. Fernandes1; Lesly Silva1; David H. Lindner2. 1NCH Healthcare system, Naples, FL; 2Naples Community Hospital, Naples, FL. (Control ID #3171914)
+
+# LEARNING OBJECTIVE #1:
+
+To illustrate post-partum dyspnea with an underlying congenital heart defect.
+
+# LEARNING OBJECTIVE #2:
+
+To characterize a rare disorder in adulthood.
+
+# CASE:
+
+LS, a 31 y.o (G1P1) without PMH was transferred to the ICU, two days after an uneventful vaginal delivery of a full-term infant, for management of acute hypoxemic respiratory failure. She was noted to have a near-syncopal episode associated with hypoxia. Physical exam revealed clear lungs; O2 sat 95% on 3L/min NC. RRR without murmur, and 1-2+ ankle edema. Labs revealed elevated troponins, and D-dimer. Right ventricular hypertrophy on EKG. CT angiogram was negative for pulmonary embolism; however, it alluded to a prominent pulmonary artery 3.86 cm in diameter. TTE showed LVEF 50%, pulmonary artery systolic pressure >120 mmHg, consistent with severe pulmonary hypertension-group I secondary to patent ductus arteriosus (PDA). Over the hospital course, her hypoxemic state worsened, requiring intubation. A right heart catheterization demonstrated pressures in the 100-110 range. It was felt with acute occlusion of the PDA that hemodynamic collapse would occur due to her Eisenmenger's physiology. She would require an assist device as a bridge to transplant, and with her significant neurologic deterioration and subsequent cardiopulmonary arrest, she was not felt to be a candidate for a heart-lung transplant. She ultimately succumbed to death two weeks after initial presentation.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates a previously undiagnosed PDA in a post-partum woman. The incidence of PDA in full term infants (0.02-0.04%) has been rising due to advances in medicine. On average, blood volume increases 50% during 20-32 weeks of gestation resulting in a high cardiac output. To compensate, the systemic and pulmonary vascular resistance decrease. In those with PAH, pulmonary pressure remains high during this period because the resistance in flow across the PA is already elevated. Recognizing the characteristic continuous flow murmur across the PA is crucial in identification of a PDA. However, there are multiple reports of undiagnosed PDAs in adulthood, as the murmur is seldom detected. Symptomatic PDA's are a common presentation during pregnancy. Kanter et al. reported a 22-week G1P1, who was treated with a transcatheter closure using an Amplatzer ductal occlude device. This device can be used in PDAs up to 12mm in diameter. In the case of our patient, the diameter of her PDA was >3cm, thereby limiting her options for intervention. Maternal mortality rate is >50%, while the fetal mortality rate is ~25%, with associated risk of sudden death at 4-6 weeks post-partum in Eisenmenger syndrome. As of yet, there has been no treatment to alleviate this mortality risk. It is therefore been strongly recommended these women terminate their pregnancy early.
+
+# CONCLUSION:
+
+It is imperative that there be a higher awareness of this issue in primigravida patients, as early detection in this population can decrease adverse outcomes and support proper family planning.
+
+# POSTERIOR PLACOID CHORIORETINITIS AS THE ONLY MANIFESTATION OF NEUROSYPHILIS IN HIV NEGATIVE PATIENT
+
+Mais Abdou 1; Nooraldin Merza1; Asrar Abdou3; Hussain Alhamza4; Kaylee J. Shepherd2. 1TTUHSC, Amarillo, Amarillo, TX; 2Texas Tech University Health Sciences Center, Amarillo, TX; 3St Joseph Mercy Oakland, Troy, MI; 4TTUHSC, Amarillo, TX. (Control ID #3184557)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the ocular manifestations of systemic diseases. Identify placoid chorioretinitis as an uncommon but distinct ocular manifestation of neurosyphilis.
+
+# CASE:
+
+A 73 year-old male with medical history of hypertension and bilateral retinal macular degeneration presented to our primary care clinic with worsening blurry vision for about 2 months. There was no headache, weakness, numbness or gait problems. Vitals were stable. Physical exam was unremarkable except for decreased visual acuity bilaterally, which was notably worse when compared to his previous visit. Complete blood counts and basic metabolic panel revealed no significant abnormality. The patient was referred for ophthalmology evaluation. Complete eye exam showed bilateral retinal vasculitis with disseminated choroiditis and posterior placoid chorioretinitis. Syphilis laboratory workup was done and revealed negative RPR but reactive FTA-ABS and TP-PA. Public health database showed a diagnosis of primary syphilis in 1981 that was treated with penicillin. HIV testing was negative. The patient was successfully treated with IV penicillin G for 14 days.
+
+# IMPACT/DISCUSSION:
+
+Syphilis is a multi-systemic sexually transmitted infection caused by the spirochete Treponema pallidum. Since the introduction of penicillin, the incidence of syphilis decreased dramatically. However, it has been increasing back in the past decade secondary to high rates of human immunodeficiency virus (HIV) co-infection. Ocular syphilis can manifest in many different forms with panuveitis being the most common finding. The diagnosis of ocular syphilis based on ophthalmic findings, is often challenging due to lack of pathognomonic findings and serological confirmation is usually needed. Acute syphilitic posterior placoid chorioretinitis is a rare but characteristic ocular manifestation of syphilis. Once it's present, the patient should be tested for a neurosyphilis and HIV, if positive. Early treatment with intravenous penicillin is usually effective with good visual results.
+
+# CONCLUSION:
+
+Physicians should be aware of the ocular manifestations of systemic diseases and infections like syphilis. Ocular signs of syphilis may be the only clinical feature of systemic disease. Early recognition and treatment with intravenous penicillin is necessary to prevent complications and vision loss.
+
+# POSTERIOR REVERSIBLE ENCEPHALOPATHY SYNDROME (PRES) AS A COMPLICATION OF RED BLOOD CELL TRANSFUSION
+
+Hayato Mitaka1; Leslie L. Seijo1; Kenji Motohashi2; Mori Nakai2; Alfred Burger3. 1Mount Sinai Beth Israel, New York, NY; 2Nerima Hikarigaoka

@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of B12 depletion
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the relationship between nitrous oxide poisoning and severe B12 depletion
+
+# CASE:
+
+A 23-year-old female Chinese university student with a one-year history of inhaled nitrous oxide (N2O) abuse in the form of "whippets" was brought to ER for progressive bilateral lower extremity weakness, dysesthesia, inability to ambulate, altered mentation, and urinary retention. Alcohol intake was infrequent. On exam, she was found to have decreased sensation distal to the ankles, inability to lift her lower extremities off of the bed, inversion of both feet, and +0/5 dorsiflexion and plantar flexion. No Babinski sign, clonus, or fasciculations were noted. Deep tendon reflexes were absent. Initial labs revealed a macrocytic anemia and B12 level was mildly decreased at 228 pg/mL. She was started on IM cyanocobalamin. A neuropathy workup was negative for HIV, syphilis, lyme disease, and heavy metal poisoning. Glucose, TSH, SPEP, hepatitis antibodies and ANA were normal. Methylmalonic acid (MMA) was normal at 0.21 nmol/L, however homocysteine was markedly elevated at 97.3 mcmol/L. MRI of the spinal cord showed pathologic enhancement of the C1-C6 dorsal columns, concerning for subacute combined degeneration. The patient had gradual clinical improvement of her lower extremity strength and sensation. She was ultimately discharged to a rehabilitation facility.
+
+# IMPACT/DISCUSSION:
+
+Nitrous oxide poisoning converts B12 from its active monovalent form to an inactive bivalent form, resulting in permanent inactivation of methionine synthase and thus inhibiting the normal production of myelin. Dorsal and lateral column spinal cord demyelination, classically known as subacute combined degeneration (SCD), can result in a severe peripheral neuropathy. Since SCD can also be seen in HIV, copper deficiency, and severe hepatic disease, these causes should be ruled out. Clinical symptoms may include paresthesia, abnormal proprioception, progressive weakness, spasticity, clonus, paraplegia, and urinary and fecal incontinence. Of note, the B12 blood level is not indicative of the extent of B12 depletion at the tissue level. Interestingly, the MMA level, which is typically elevated in B12 deficiency, was normal in our patient. For these reasons, this was a clinically difficult diagnosis. Because the relationship between N2O toxicity and Vitamin B12 depletion can result in grave neurological complications, it is important to recognize these clinical features and begin treatment promptly.
+
+# CONCLUSION:
+
+Nitrous oxide toxicity leads to inactivation of Vitamin B12, causing subacute combined degeneration of the spinal cord and peripheral neuropathy. The blood level of B12 is not always indicative of the extent of B12 depletion at the tissue level. It is important to recognize the clinical findings associated with Vitamin B12 depletion so that treatment may be started promptly.
+
+# NIVOLUMAB INDUCED ADRENAL INSUFFICIENCY (AI): RARE SIDE-EFFECT OF A NEW ANTI-CANCER THERAPY - IMMUNE-CHECKPOINT INHIBITORS
+
+Maitreyee Rai 1; Mylene Go 2. 1 Crozer Chester Medical Center, Brookhaven, PA; 2 Crozer Chester Medical Center, Upland, PA. (Control ID #3181657)
+
+# LEARNING OBJECTIVE #1:
+
+Recognise & diagnose a serious side-effect of the new immune-checkpoint inhibitor (ICPI) drugs
+
+# LEARNING OBJECTIVE #2:
+
+Manage a serious side-effect of the ICPIs
+
+# CASE:
+
+77 y old male, past medical history of renal cell carcinoma (RCC) status post right nephrectomy, metastatic to lungs, chronic kidney disease, syndrome of inappropriate anti-diuretic hormone, hypertension, presented to the office with fatigue, loss of appetite and dizziness. His blood pressure (BP) was noted 76/44 mmHg & referred to the emergency department (ED). In ED, his BP was 96/50 mmHg, heart rate 72/minute & temperature 97.3°F. He received several boluses of intravenous (IV) fluid, however, BP consistently stayed in 90s/40s. His examination was significant for orthostatic hypotension. Patient reported being on Nivolumab for metastatic RCC for last 6 months, and the current symptoms started after the last dose given 2 weeks ago. The labs showed low sodium at 128 (baseline 133-139 mmol/L), creatinine elevated 2.7 (baseline 1.1-1.4 mg/dL). In view of the hypotension not responding to fluids, a morning cortisol level was checked to look for possible adrenal insufficiency (AI) due to Nivolumab. It was low 1.3 mcg/dL. Endocrinology was consulted. Cosyntropin stimulation test revealed low basal cortisol 1 mcg/dL & only a mild increase to 10.20 mcg/dL after cosyntropin administration, findings suggestive of AI. To differentiate between primary or secondary cause, adrenocorticotrophic hormone level (ACTH) was checked that was low <5 pg/mL, favoring a diagnosis of secondary AI, deemed likely due to hypophysitis from Nivolumab. T4 & TSH were found to be normal. In the meantime, the patient was started on intravenous (IV) hydrocortisone, that improved his hypotension & acute kidney injury significantly, eventually weaned to oral hydrocortisone. The nivolumab was discontinued and oncology decided to give a nivolumab re-challenge once patient stabilizes.
+
+# IMPACT/DISCUSSION:
+
+Patient presented with manifestations of AI (fatigue, hypotension, hyponatremia) which is a rare Immune-related Adverse Event (iRAE) occurring in <1% of patients on ICPIs. These are non-specific manifestations and can be easily overlooked if iRAE is not suspected. AI is a life-threatening side-effect of ICPIs that needs to be recognized immediately and managed with IV glucocorticoids. With the increased use of these drugs in the management of advanced cancers, there is an increased number of patients presenting to offices & EDs with complications due to iRAEs. Therefore, as internists it's imperative to be able to diagnose and intervene at an early stage to prevent serious outcomes that may result in discontinuation of effective anti-cancer therapy.
+
+# CONCLUSION:
+
+ICPI drugs like Nivolumab, Pembrolizumab, Ipilimumab are increasingly being used for advanced cancers (melanoma, RCC, non-small cell lung cancer). Checkpoint inhibition comes with a wide array of side effects known as irAEs, affecting pulmonary, gastrointestinal, endocrine systems. Early recognition and management can prevent serious outcomes.
+
+# NIVOLUMAB INDUCED HYPOPHYSITIS: A RARE CASE REPORT
+
+Smile Kajal 2; Ankit Agrawal 1; Raj Moses 3. 1 Rutgers Robert Wood Johnson Medical School/Saint Peter's University Hospital, New Brunswick, NJ; 2 All India Institute of Medical Sciences, New Delhi, India; 3 Allegheny General Hospital, Pittsburgh, PA. (Control ID #3159344)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize subtle clinical clues of immunotherapy induced hypophysitis.
+
+# CASE:
+
+A 84-year old Caucasian female was diagnosed with well differentiated adenocarcinoma of the left upper lobe of lung in 2009. She underwent left upper lobe wedge resection and mesh brachytherapy in November 2009. She was started on systemic chemotherapy with pemetrexed and carboplatin. The treatment response was monitored with CT imaging of chest, abdomen and pelvis. Her CT imaging in January 2012 showed disease recurrence at the wedge resection site. She completed her systemic chemotherapy with pemetrexed and carboplatin in March 2012 and was started on oral erlotinib which was later discontinued in January 2016 due to severe gastrointestinal upset. Nivolumab immunotherapy was initiated in March 2016. The patient had completed 11 cycles of nivolumab by October 2016. At this time, she complained of intense fatigue and excessive sleepiness. Laboratory investigations revealed hypothyroidism and levothyroxine was started. She completed 14 cycles of nivolumab immunotherapy by November 2016 without any symptomatic improvement and now had additional complaints of frequent headaches, lightheadedness and nausea. Adrenocorticotropic hormone (ACTH) stimulation test was ordered and the result confirmed.

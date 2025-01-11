@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND:
+
+Daily self-weighing has been shown to be an effective component of evidence-based weight management interventions. Daily self-weighing requires regular access to a scale, however no prior research has examined what proportion of primary care patients have a scale in their home. Our objectives were to understand if patients have a scale in their home, the characteristics associated with lacking a home scale, and patient willingness to self-weigh.
+
+# METHODS:
+
+We enrolled 216 patients from three general internal medicine clinics in Baltimore, MD from Dec 2017-Feb 2018 to complete a one-time cross-sectional survey. The three clinics served three different patient populations: mixed-income urban/suburban; mixed-income urban; and low-income urban. Our primary dependent variable of interest was access to a scale in the home ("Is there a scale available to weigh yourself in your home?" (Yes/No)). Our independent variables included demographics, insurance status, clinic setting, and self-weighing. We examined the association between home scale access and these factors using t-tests and Chi2 tests, as appropriate.
+
+# RESULTS:
+
+Our sample's mean age was 53 years, 71% were women, 71% identified as minorities (predominantly African American), and the mean body mass index (BMI) was 32 kg/m2. Overall, 56% of patients had a scale in their home. There was no significant difference in home scale access by age, gender, insurance status, or BMI. Minority patients were less likely to have a home scale than white patients (46% vs 79%, p<0.01). Patients from the urban clinic serving low-income communities were less likely to have a home scale than patients from the other two clinics (35% vs 69% or 66%, p<0.01). Patients without a home scale were less likely to self-weigh at least weekly than patients who had a scale at home (13% vs 87%, p<0.01). Patients with heart failure were not more likely to have a scale at home (p=0.27). Among patients who did not own a scale, the most common reason reported for not owning a scale at home was "Scales cost too much," (32%); and 72% would weigh daily if they had a scale. Among all patients, 95% were willing to weigh weekly if a doctor recommended it, and 67% were willing to have their weights transmitted to clinic.
+
+# CONCLUSIONS:
+
+A substantial proportion (44%) of all primary care patients do not have a scale in their home, but the lack of a scale was most common among minority patients and patients from a low-income urban clinic. Cost was the most common barrier to owning a scale. Most patients were willing to self-weigh, and even to have their weights transmitted to clinic, but lacking a home scale was associated with a lower likelihood of self-weighing. Because self-weighing is an important weight-management behavior, future research addressing factors that improve home scale access for patients could enhance weight management services in the primary care setting.
+
+# MISSING PRIMARY CARE DESIGNATION IN SPECIALTY MENTAL HEALTH ELECTRONIC RECORDS CHALLENGES THE CARE COORDINATION OF PEOPLE WITH SERIOUS MENTAL ILLNESS
+
+Maria E. Garcia1; L. E. Goldman2; Marilyn Thomas1; Stephen Chan4; Fumi Mitsuishi3; Dean Schillinger3; Christina Mangurian5. 1University of California, San Francisco, San Francisco, CA; 2University of California San Francisco, San Francisco, CA; 3UCSF, San Francisco, CA; 4University of California, Davis, Sacramento, CA; 5UCSF School of Medicine, San Rafael, CA. (Control ID #3186123)
+
+# BACKGROUND:
+
+People with severe mental illness (SMI) such as psychosis, bipolar disorder, and major depressive disorder die on average 10-25 years earlier than the general population. Many people with SMI are prescribed medications that increase cardiovascular risk, yet patients with SMI are less likely to access primary care and to be screened for cardiovascular risk factors. National efforts to improve preventive care and the overall health of people with SMI have promoted care coordination between specialty mental health and primary care. In this study, we assessed whether primary care clinics are accurately identified for patients in specialty mental health care settings in the public sector.
+
+# METHODS:
+
+Electronic record review was performed for patients within a large urban specialty mental health clinic who were enrolled in an intensive care management program. Analysis was limited to individuals within an integrated healthcare system that includes psychiatric, medical and laboratory services with separate electronic health records for mental health and medical clinics. ‘Known primary care clinic' was defined as a matching clinic listed in the specialty mental health and medical electronic records. All others were designated as ‘Unknown primary care clinic.' We assessed whether patient demographic factors predicted known primary care clinic using chi-square tests and whether having a known primary care clinic was associated with increased cardiovascular risk screening (for hypertension, obesity, diabetes, and/or hyperlipidemia through lab or biometric assessments).
+
+# RESULTS:
+
+Among 229 patients (66% male; mean age 49; 36% White, 30% Black, and 39% Asian; 69% with a diagnosis of schizophrenia; 87% taking antipsychotics), 28% did not have a known primary care clinic. Sex, age, race, psychiatric diagnosis, and psychotropic medication use were not associated with primary care clinic identification. Among these patients in an intensive care management program, there was no difference in screening for cardiovascular risk factors for patients with known vs. unknown primary care clinic. Overall, patients had higher rates of biometric assessments (blood pressure= 71%, obesity= 62%) than laboratory assessments (diabetes= 47%, hyperlipidemia= 40%).
+
+# CONCLUSIONS:
+
+The high rate of unknown primary care clinic assignment in a sample enrolled in intensive care management directly challenges efforts to improve care coordination between primary care and specialty mental health for people with severe mental illness. In this sample of patients, known primary care clinic was not associated with increased cardiovascular risk screening, despite high use of medications with known cardiovascular risk factors. To improve care coordination for people with SMI, and the overall health of this vulnerable population, systems changes to ensure accurate primary care information and communication between providers will be needed.
+
+# MISSING THE DEADLINE: HIGH RATES OF ABSENT AND UNTIMELY ACCESS TO SPECIALTY PALLIATIVE CARE IN PATIENTS WITH PERI-HOSPITAL MORTALITY AS A NOVEL QUALITY METRIC
+
+Christopher Schifeling; Stacy M. Fischer. University of Colorado, Denver, CO. (Control ID #3181197)
+
+# BACKGROUND:
+
+Despite mounting evidence that specialty palliative care improves patients' symptoms, caregiver burnout and alignment of health care usage with patient preference, these services are likely underutilized. There is, however, a paucity of data on missed opportunities for specialty palliative care. This study sought to determine the rate of missed and delayed opportunities for specialty palliative care in patients who died in the hospital or within seven days of discharge.
+
+# METHODS:
+
+A retrospective analysis of patients from a large academic medical center with a Joint Commission awarded palliative care team was conducted. Included were adults who died in the hospital or within seven days of discharge and had prior encounters with the medical center in the last 12 months of life. Excluded were patients who had a sudden or obstetrics-related death. Data from the Colorado Department of Public Health linked with the electronic medical record determined time from first palliative care consultation to death. Chi squared analysis and multivariate logistic regression were used to identify patient variables (derived from the medical record) that were associated with presence of specialty palliative care.
+
+# RESULTS:
+
+The sample included 2150 patients with 81% of patients dying in the hospital. Only 34% of patients had palliative care consultation which was higher for patients with cancer (43%) than those without.

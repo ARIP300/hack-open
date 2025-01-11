@@ -1,0 +1,49 @@
+# JGIM
+
+# ABSTRACTS
+
+Prescribing, but less than half of the providers (43%) responded correctly to specific questions about the content of these regulations. 53% noted that they use the state prescription monitoring program on at least a monthly basis. 82% felt confident in their ability to identify red flags of drug use disorder in patients prescribed controlled substances. Providers seldom signed Patient Provider Agreements (10%) and rarely ordered urine/saliva drug testing (2%). 41% of providers were confident to negotiate a Patient Provider Agreement while just 17% of providers were confident to interpret urine/saliva drug tests. Pill counts only occurred when the providers suspected a problem. Providers acknowledged many barriers in adhering to current state regulations including a knowledge deficit, lack of cooperation from patients/caregivers, lack of resources, and difficulty in obtaining urine toxicology samples due to comorbidities.
+
+# CONCLUSIONS:
+
+This study highlights current attitudes and practices of geriatrics home-based primary care providers in regards to controlled substance prescribing and monitoring. It suggests that although CNMP is a common problem among patients, providers often feel that they cannot comply with all the recent federal and state regulations for several reasons. Furthermore, it suggests that though older adults have been on the margins of the opioid epidemic, primarily due to lack of data, opioid misuse and diversion is viewed as a significant problem in this population. The results of this study may serve as a stepping stone in developing efficient and effective plans for safely prescribing and monitoring controlled substances in the geriatrics home care setting.
+
+# THE OSA PATIENT AND CAREGIVER EXPERIENCE OF PAP. A QUALITATIVE ANALYSIS OF ONE-ON-TWO SEMI-STRUCTURED MOTIVATIONAL INTERVIEWS
+
+NAZIA NAZ S. KHAN1; Ade B. Olomu2; Shireesha Bottu1; Margaret Roller1; Robert C. Smith1. 1MICHIGAN STATE UNIVERSITY, East Lansing, MI; 2Michigan State University, East Lansing, MI. (Control ID #3185019)
+
+# BACKGROUND:
+
+The prevalence of Obstructive Sleep Apnea (OSA) is increasing. Positive Airway Pressure (PAP) is the mainstay therapy for OSA. Despite its several benefits that include improvement in sleep quality, daytime symptoms of fatigue, drowsiness, and quality of life, reduction in blood pressure and decrease the risk of traffic accidents, nearly 25% of patients discontinue PAP use within 2 weeks. There is some evidence that partner involvement in education regarding OSA and PAP therapy may help improve PAP adherence. The aim of this qualitative analysis was to identify OSA patients' preferences, partner experiences, barriers and facilitators to adherence to PAP, and to assess understanding of the educational content delivered during a group visit (GV).
+
+# METHODS:
+
+28 interventional arm patients (from a larger study) with a new diagnosis of OSA and their caregiver participated in the 60-90 minutes in-person GV conducted from 1-17 weeks of receiving the PAP machine. Thirteen GVs (1 to 3 patients with their caregiver/GV) were held during the course of the study. A qualitative thematic analysis was conducted on the one-on-two (Research assistant with patient and caregiver) semi-structured motivational interview, which was the fourth and last part of the intervention during the GV. The first three sessions of the GV included i) an Interactive Educational Session focused on education on OSA, its effect on health, PAP and its effects, and the importance of family/partner support; ii) peer coaching from an OSA patient; iii) hands-on experience with the PAP machine from a respiratory therapist. The 10-15 minutes interview with the patient and caregiver focused on obtaining the personal and emotional history, providing support, assessed understanding of the OSA and negotiated plan and commitment.
+
+# RESULTS:
+
+Of the 28 participants, 16 were female and 12 were male. Mean age was 58 years. Of the 28 caregivers, 21 spouses, 2 sons/daughter, 1 friend, 1 sister and 3 were identified as girlfriend/significant other/partner of the patient. The qualitative analysis considered patients' attitudes, behavior, and emotional effects of their OSA experience associated with the four themes: OSA symptom and diagnosis, using the PAP machine, perceptions about the GV, and factors that determine PAP adherence. Patients had positive, negative or mixed emotions towards the different aspects of the OSA diagnosis and PAP machine. The sense of relief and the desire to live a long life were the two positive underlying emotions; fear and frustration of the OSA diagnosis and PAP machine are the two negative emotions, experienced in varying levels of intensity.
+
+# CONCLUSIONS:
+
+We concluded that patients' and caregivers' positive experiences of PAP could be enhanced by a patient-centered interaction and that it was important to explicitly address their fears and concerns to further enhance the use of PAP.
+
+# THE PATIENT-CENTERED MEDICAL HOME IN GOVERNMENT-BASED AND INTEGRATED DELIVERY AND FINANCE SYSTEMS: A SYSTEMATIC REVIEW
+
+Clark A. Veet1; Inmaculada Hernandez5; Thomas R. Radomski3; Christopher A. D'Avella2; Charles B. Wessel4; William H. Shrank1; Elizabeth C. Swart1; Natasha Parekh2. 1UPMC, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA; 3University of Pittsburgh School of Medicine, Pittsburgh, PA; 4University of Pittsburgh, Pittsburgh, PA; 5University of Pittsburgh, Pittsburgh, PA. (Control ID #3164140)
+
+# BACKGROUND:
+
+As healthcare reimbursement moves from volume to value-focused, new delivery models aim to coordinate care and improve quality. A popular model, the patient-centered medical home (PCMH), aims to promote focused, well-coordinated, and accessible healthcare to improve outcomes and decrease costs. Prior studies have shown mixed outcomes regarding the ability of PCMHs to achieve these objectives. Additionally, it is unclear whether PCMHs operating within government-based systems or integrated delivery and finance systems (IDFS) where healthcare payers and providers are vertically integrated impact utilization and cost outcomes.
+
+# METHODS:
+
+We performed a systematic review of clinical trials and observational studies that identified PMCH or equivalent interventions. Ten reviewers performed screening, data extraction, and risk of bias assessment. Primary outcomes included emergency department (ED) visits, hospital admissions, outpatient visits, and total cost of care. We categorized PCMHs as operating within government systems (including Veterans Affairs and Indian Health Service), IDFS, and non-IDFS.
+
+# RESULTS:
+
+A systematic search of PubMed, the Cochrane Library, and Embase from 2004 to April 2017 yielded 13,939 unique publications. 64 studies were included. 29% were government systems, 24% were IDFS, and 47% were non-IDFS. Utilization outcomes were reported in 74% of studies and included ED visits, hospitalizations, or outpatient visits. Of the 35 studies reporting ED visits, 17 (48%) showed lower ED utilization. ED visits decreased in 41% of 11 government studies, 75% of 8 IDFS studies, and 38% of 16 non-IDFS studies. Of the 31 studies on admissions, 11 (35%) showed decreased admissions. Admissions decreased in 50% of 12 government studies, 28% of 7 IDFS studies, and 25% of 12 non-IDFS studies. PCP visits decreased in 8 (47%) of 17 studies. PCP visits increased in all 6 government studies while specialty visits decreased in 50% of 4 government studies. Among IDFS studies, PCP visits decreased in all 4 studies while specialty visits decreased in 1 (33%) of 3 studies. Among 7 non-IDFS studies, PCP visits increased in 42% of studies while only 14% showed decreased specialty care. Economic outcomes were reported in 25 (39%) studies, most commonly as total cost of care. Reduced costs were observed in 60% of 5 government studies, 50% of 8 IDFS studies, and 33% of 12 non-IDFS studies.
+
+# CONCLUSIONS:
+
+Our study uniquely assessed whether PCMH model effectiveness differed between government systems, IDFS, and non-IDFS. ED visits decreased most within IDFS, while hospital admissions decreased most within government systems. Notably, government systems observed an increase in PCP visits. It is unclear if this change reflects the effectiveness of the PCMH model or patient characteristics. Cost

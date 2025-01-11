@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Evaluation of a Healthcare Leadership Track for Geriatric and Palliative Care Fellows
+
+Previously distributed surveys to former Mount Sinai Geriatric and Palliative Care fellows. All interviews were audio-recorded and transcribed.
+
+# EVALUATION:
+
+A qualitative thematic analysis of all interviews was completed. Each interview was coded by two researchers to improve inter-rater reliability using the coding software NVivo. A coding dictionary, broken down by skills and knowledge categories, was created using both inductive and deductive reasoning.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Recruited participants saw the added value of a healthcare leadership track. Interviewees emphasized the need for fellows to have practical, diverse experiences during training to help prepare them for future leadership positions. Knowledge deficits emphasized were healthcare finance literacy and healthcare policy. Important skills a junior faculty should acquire included: negotiation, mentorship, and networking. Working in interdisciplinary teams and across professions was seen as a strength among Geriatricians and Palliative Care providers.
+
+# Flourishing in the Clerkship Year: A Longitudinal Curriculum Introducing Skills to Reduce Burnout and Foster Resilience in Medical Students
+
+Rachel H. Kon1; Tabor E. Flickinger1; John Schorling; Natalie May1; Justine E. Owens1; Madaline Harrison2; Margaret L. Plews-Ogan1.  1University of Virginia, Charlottesville, VA; 2University of Virginia School of Medicine, Charlottesville, VA. (Control ID #3185156)
+
+# NEEDS AND OBJECTIVES:
+
+Burnout occurs in physicians at all levels of training and leads to poor patient satisfaction and physician wellbeing. At our institution, burnout rates in medical students are highest during the clerkship year. We developed a curriculum to foster resilience and wisdom with the objective of mitigating burnout.
+
+# SETTING AND PARTICIPANTS:
+
+We recruited students prior to starting the clerkship year for an optional program of 12 monthly sessions throughout the year. Students were randomized to an intervention group receiving instruction in resilience techniques or a control group. Of 139 eligible students, 29 chose to participate and were randomized. 27 students attended the first session and consented to be part of the study. 3 later dropped out.
+
+# DESCRIPTION:
+
+Students in the program met monthly for two hours in control or intervention small groups with the same two faculty members. All sessions included debriefing on clerkship events and the intervention group also had instruction in specific techniques in four areas: reflective practice, mindfulness, appreciative practices, and narrative medicine. Each area was addressed three times during the year to reinforce skill acquisition.
+
+# EVALUATION:
+
+In pre- and post-clerkship qualitative surveys, themes were identified related to students' desires for shared experiences, peer support, mentorship, and reflection. Intervention students rated techniques in narrative medicine, mindfulness, appreciative practice, and reflective practice as high or very high value. More students in the intervention than the control group rated these aspects of the curriculum as high or very high value: having a place to process my clerkship experience (92% vs 70%), helping me manage stress and difficult emotions (77% vs 60%). 92% of intervention students would recommend the sessions to others. Students completed pre and post questionnaires including the 22-item Maslach Burnout Inventory (MBI), the 10-item Connor Davidson Resilience Scale (CD-RISC), and the 39-item 3-D Wisdom Scale. There were significant differences at follow-up in overall wisdom (3.90 vs 3.60, p=0.026), but not in MBI or CD-RISC scores between the two groups.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Students in the intervention recognized high value in the techniques taught in this curriculum and both groups valued having this setting to process their clerkship experiences. Students were able to give examples of how they used these skills in their clinical work. The positive feedback from participants is shaping an expansion of this program to all our students. A larger study is still needed to see if this training can reduce burnout and improve resilience.
+
+# Focused POCUS: How Can We Teach Ultrasound in Internal Medicine Residency?
+
+Laura Horton; Stephanie R. Eizember; Rafael Paez; Sanjay M. Salgado; Lindsey Wu. Brigham and Women's Hospital, Boston, MA. (Control ID #3184993)
+
+# NEEDS AND OBJECTIVES:
+
+Diagnostic point-of-care ultrasound (POCUS) is an ACGME requirement in emergency medicine and critical care training programs, and the American College of Physicians has formally acknowledged the important role of POCUS in internal medicine (IM). However, because few IM faculty use POCUS in their own practice, the optimal method to teach POCUS to IM residents is unclear. The immersive workshops often used for faculty training are not a feasible option for training large groups of residents. Our aim was to design and evaluate an easily-learned and high-yield POCUS curriculum that could be delivered to residents longitudinally during a clinical rotation.
+
+# SETTING AND PARTICIPANTS:
+
+Given the demands of residency, we designed a POCUS curriculum that could be taught in four one-hour sessions, delivered weekly during residents' month-long inpatient rotations. Each session was led by faculty trained in the curriculum and consisted of three to five resident learners.
+
+# DESCRIPTION:
+
+We intentionally limited the curricular content based on the teaching time allocated. We therefore focused solely on select exams in volume assessment, chosen out of over 15 exams taught in most IM POCUS courses because they are well-studied, technically straightforward, and valuable on general inpatient medicine. The four sessions included: 1) knobology/jugular venous pressure, 2) inferior vena cava, 3) pulmonary (B-lines, pleural effusions), and 4) review. The first three sessions consisted of didactics followed by directed POCUS on pre-identified and consented hospitalized patients, and the final session was spent on skill development entirely at the bedside. We piloted the POCUS curriculum on a single general medicine team over three month-long rotations. At the end of each month, all residents on general medicine (including those on the intervention team and those on control/non-intervention teams) were surveyed.
+
+# EVALUATION:
+
+Compared to the control group, residents who rotated on intervention teams reported greater POCUS comfort (1.9 versus 0.6 on a scale of 0=not comfortable to 4=extremely comfortable), frequency of use (2.7 versus 0.5 on a scale of 0=never to 4=daily), and knowledge (66% versus 42% of questions correct on an assessment of factual knowledge, i.e. ability to identify key pathology on still ultrasound images).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+POCUS is increasingly recognized as an effective tool in IM, but the time required to reach proficiency in its vast applications is a barrier to training residents. By choosing focused content, we successfully delivered a longitudinal curriculum within the timeframe of a clinical resident rotation. Using real-time patient applications of POCUS allowed both for learner skill development and garnered buy-in on the value of POCUS in the clinical setting, maximizing key principles of adult learning theory. By increasing portable ultrasound equipment and training a small group of core faculty, we hope to expand this pilot so that it becomes integrated into all inpatient general medicine rotations.

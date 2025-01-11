@@ -1,0 +1,59 @@
+# FATAL IMMUNOSUPPRESSION: A CASE OF DISSEMINATED C O C C I D I O I D O M Y C O S I S PRESENTING AS HYDROCEPHALUS
+
+Tyler J. Trahan; Diana Slawski; Ryan Eid; Patricia Greenstein; Margaret Hayes. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3176039)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish between infectious and non-infectious etiologies of granulomatous lung disease.
+
+# LEARNING OBJECTIVE #2:
+
+Describe the clinical features and diagnostic approach of disseminated fungal infection.
+
+# CASE:
+
+A 65-year-old man presented with pneumonia followed by three months of headaches after a brief stay in Arizona. Initial lumbar puncture revealed CSF with lymphocytic pleocytosis, increased protein, and low glucose. Cytology, infectious, and rheumatologic workup were unrevealing. Serum fungal cultures were negative. Serum Coccidioides IgG was negative. CSF Coccidioides tests were not sent. CT chest showed two pulmonary nodules. PET-CT revealed increased uptake in chest lymph nodes. Axillary lymph node biopsy showed noncaseating granuloma. Steroids were started for presumed sarcoidosis. After two weeks, patient developed diplopia and ataxia. CT head showed hydrocephalus. Repeat CT chest showed new reticulonodular opacities with hilar lymphadenopathy concerning for worsening sarcoid versus infection. He was transferred to a tertiary care facility for VP shunt placement and started on empiric antimicrobials. His course was complicated by worsening confusion and respiratory failure requiring intubation. Pathology from a transbronchial biopsy revealed fungal elements and he was immediately started on amphotericin and fluconazole; however he continued to deteriorate. After much discussion with the family, he was transitioned to comfort focused care, extubated, and died peacefully in the hospital. CSF and serum Coccidioides antibodies ultimately returned positive. Reevaluation of initial lymph node biopsy suggested necrotic granuloma.
+
+# IMPACT/DISCUSSION:
+
+The differential of granulomatous disease includes infectious and non-infectious etiologies. While sarcoidosis can cause granulomatous lung disease, it is a diagnosis of exclusion that relies on biopsy evidence of noncaseating granulomas and exclusion of infection. The most common organisms in pulmonary granulomas are mycobacteria and fungi. Coccioides is commonly found in the southwestern United States. Even brief exposures to endemic areas, such as changing airplanes in Phoenix or driving through the San Joaquin Valley, have been sufficient to cause infection. Thus, it is critical to obtain a detailed travel history. Serologic testing for Coccidioides should not be relied upon as it may be negative early in the course, and even persistently negative in immunocompromised patients. If meningitis is suspected in a patient with granulomatous lung disease, a lumbar puncture should be performed and CSF sent for fungal culture and antibody testing, as routine CSF and imaging abnormalities are nonspecific. The diagnosis of coccidioidal meningitis requires positive CSF antibodies, growth of the organism, or the presence of coccidioidal antigen.
+
+# CONCLUSION:
+
+Reevaluate infectious workup if a patient with granulomatous disease decompensates on immunosuppression. In suspected meningitis, test CSF for Coccidioides antigen/antibody, as serology alone may be unreliable.
+
+# FEVER AND PULMONARY NODULES IN A RETURNING TRAVELER
+
+John K. Bui; Alice Tang. New York Presbyterian/Weill Cornell Medical Center, New York, NY. (Control ID #3179254)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to fever and respiratory symptoms in a returning traveler.
+
+# LEARNING OBJECTIVE #2:
+
+Describe the diagnostic test characteristics for acute pulmonary histoplasmosis.
+
+# CASE:
+
+A previously healthy 20-year-old male recently returned from a 1-week vacation to Cancun, Mexico. Two weeks after returning, he developed fevers, chills, headache, anorexia, myalgias, and productive cough. He felt well throughout his trip and denied raw food consumption, contact with animals, or freshwater exposures. He did not have any tuberculosis risk factors. The physical exam and laboratory results did reveal any abnormalities. A chest x-ray showed bibasilar opacities. CT of the head without contrast and LP were unremarkable. He was empirically treated for community acquired pneumonia but continued to develop fevers up to 40°C despite 2 days of antibiotics. A CT chest showed bilateral lung nodules and hilar adenopathy. Laboratory tests were unrevealing, including serum beta-D-glucan, Histoplasma urinary antigen, respiratory cultures, and serologies for Blastomyces, Coccidioides, and Histoplasma. A diagnostic bronchoscopy with transbronchial lymph node biopsy was performed showing necrotizing granulomas with organisms consistent with Histoplasma. The fevers, headache, and cough spontaneously resolved and the patient was discharged home.
+
+# IMPACT/DISCUSSION:
+
+When encountering fever and respiratory symptoms in a returning traveler, it is reasonable to first rule out common etiologies including common respiratory viruses and bacteria. However, the epidemiology and exposure history are integral in guiding the differential. Histoplasma is endemic in Cancun (CDC, WHO). He did not have any animal or fresh water exposures, making zoonotic infections less likely. Absence of eosinophilia made parasitic infections such as filariasis or strongyloidiasis less likely. Lack of immunosuppression in this previously healthy, HIV-negative patient eliminated opportunistic pathogens from the differential. CT findings were suspicious for fungal pneumonia, although lymphoma and sarcoidosis were also considered. Serologic tests for Histoplasma can have limited utility in acute pulmonary Histoplasmosis, since they may take over a month to become positive. Histoplasma serum and urinary antigens have a sensitivity of ~80%. Fungal markers such as serum beta-D-Glucan has a sensitivity of 87% in disseminated Histoplasmosis, but likely lower in isolated pulmonary disease. Respiratory cultures have a sensitivity of ~41%. Although a lung biopsy helped establish the diagnosis in this case, histopathology also has its limitations, including the poor sensitivity (~35%) and non-specific morphology of Histoplasma.
+
+# CONCLUSION:
+
+Respiratory symptoms in a returning traveler should prompt work-up for common causes, while also considering epidemiologic exposures. The exposure history, presence or absence eosinophilia, immune status, and radiologic features can quickly narrow the differential.
+
+# FEVER, LEUKOCYTOSIS, AND PAINFUL SKIN NODULES: A SWEET DIAGNOSTIC CHALLENGE
+
+Patrick Twohig; Jaclyn Rivington; Jennifer Hanrahan; David Soma. Case Western Reserve University - MetroHealth Medical Center, Cleveland, OH. (Control ID #3185625)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the relationship between Sweet Syndrome and other diseases.
+
+# CASE:
+
+60-year-old female presented with 4-days of right-sided anginal chest pain, palpitations, vaginal pain, and dysuria. Past medical history included CAD, type 2 diabetes, hypertension, essential thrombocytosis (JAK 2+), tobacco use and hepatitis C. She was febrile (T 103.8F), tachycardic, and hypoxic (SpO2 80% on room air). She had tender right labial swelling without induration, fluctuance, or crepitus. The remainder of her exam was benign. Laboratory testing revealed: Leukocytosis (WBC 17,700 U/L with 22 bands), lactic acid 2.0, and D-dimer 707. CT abdomen/pelvis showed a complex 4 x 3 cm fluid collection involving the right labial fold. She was started on broad spectrum antibiotics and underwent incision and drainage. Intraoperative cultures were negative. Fevers persisted, and she developed acute respiratory distress syndrome (ARDS). Her labial lesion became increasingly necrotic with extension to the levator ani and urethra. Surgical pathology showed necrotic tissue but...

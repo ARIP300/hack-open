@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS IN THE SETTING OF SYSTEMIC LUPUS ERYTHEMATOSUS AND HISTOPLASMA CAPSULATUM
+
+Kavita Agrawal; Vijaya Kankanala; Nirav Agrawal. Overlook Medical Center, Summit, NJ. (Control ID #3163090)
+
+# LEARNING OBJECTIVE #1:
+
+Recognise hemophagocytic lymphohistiocytosis (HLH) based on clinical presentation and laboratory abnormalities
+
+# LEARNING OBJECTIVE #2:
+
+Identify secondary causes of HLH Treatment modalities for HLH
+
+# CASE:
+
+A 28-year-old female with a history of systemic lupus erythematosus (SLE) presented with high grade fevers to 104 F, right upper quadrant abdominal pain and nausea for 2 weeks. Based on the initial presentation, there was a concern for infectious etiology of the symptoms. There was no apparent source based on history and physical examination. She underwent work up including computed tomography (CT) chest, abdomen and pelvis, venous doppler, echocardiogram, tagged white blood cell scan and magnetic resonance cholangiopancreatogram (MRCP) which was negative. The symptoms were initially attributed to lupus flare. However, the hospital course was complicated by persistent fevers, pancytopenia and worsening transaminitis AST 211 IU/L and ALT 111 IU/L. Blood work showed hemoglobin (Hb) of 7.5 g/dl, platelet 79000/nl, elevated ferritin of 22,682 ng/ml, triglycerides 308 mg/dL and soluble IL-2R 12,820 pg/mL. Bone marrow biopsy showed normocellular bone marrow with hemophagocytosis. Based on the above findings, diagnosis of HLH was made. She was started on cyclophosphamide and pulsed dose steroids. Following the treatment, she had improvement of her symptoms and blood work and was discharged. However, four weeks after the discharge, she was readmitted with unremitting fevers for two weeks. She also had erythematous nodules on her back, thigh and legs. CT chest showed tree in bud nodularity pattern in left lung. Blood fungal cultures came positive for histoplasma capsulatum. She was treated with amphotericin for disseminated histoplasmosis. Blood work showed worsening serum ferritin >40,000 ng/ml, TG 291 mg/dl, pancytopenia with Hb 7.5 g/dl, platelets 13,000/ml and IL-2R 18,910 pg/ml. This was consistent with the flare of HLH in the setting of SLE and disseminated histoplasmosis in immunocompromised patient. She was started on etoposide and dexamethasone. The patient showed consistent recovery of her symptoms and blood work.
+
+# IMPACT/DISCUSSION:
+
+HLH is an aggressive and life-threatening syndrome of excessive immune activation. HLH can occur as a sporadic or familial disorder or secondary to different conditions that disrupt the immune homeostasis. The most common conditions include malignancies, immunodeficiencies, infections and rheumatologic disease such as idiopathic juvenile rheumatoid arthritis, SLE, systemic sclerosis and mixed connective disease. Common findings include fever, rash, neurologic symptoms, elevated liver enzymes and ferritin. Treatment involves etoposide and dexamethasone given at tapering doses over eight weeks and therapies for underlying cause.
+
+# CONCLUSION:
+
+HLH presents as febrile illness with multiorgan involvement HLH is a fatal disease that requires early recognition and assessment of secondary causes Urgent treatment is required and therapeutic modalities may differ accordingly to the underlying cause.
+
+# HEMORRHAGIC COMPLICATIONS OF PARACENTESIS
+
+Kayvon Sotoudeh1; Christopher Lee1; Andrew Young2. 1University of Southern California, La Crescenta, CA; 2Keck School of Medicine, Los Angeles, CA. (Control ID #3184778)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and treat a serious complication of paracentesis
+
+# CASE:
+
+A 32-year-old male with history of Child C alcoholic hepatic cirrhosis presented with worsening abdominal distension. His history was notable for alcohol and methamphetamine abuse. Vital signs were normal. Physical exam was remarkable for scleral icterus and jaundice. His abdomen was distended, without tenderness or rebound, with distended superficial abdominal veins and a positive fluid wave. Bilateral lower extremities were edematous. His initial laboratory values were notable for a sodium level of 109 mmol/L and a hemoglobin of 10.3 g/dL. Hypertonic saline, salt tablets, and diuresis were administered with resolution of hyponatremia. His ascites was managed with serial abdominal paracentesis. On hospital day 9, the patient underwent a third abdominal paracentesis with ultrasound guidance via the left lower quadrant with removal of 5 liters of sero-sanguinous fluid, consistent with his prior paracenteses. Post-procedural vital signs revealed a blood pressure of 112/63 mmHg, heart rate 98, respiratory rate 19, and saturating well on ambient air. His initial post procedure hemoglobin was 7.5 g/dL, unchanged from before the procedure. His international normalized ratio (INR) was 2.13. Sixteen hours following the procedure, he became hypotensive to 83/40 mmHg with a hemoglobin of 5.7 g/dL. The patient was transfused with 2 units of packed red blood cells and transferred to the intensive care unit where he was started on norepinephrine. He continued to require multiple transfusions with only minimal improvements in his hemoglobin. A CT scan of the abdomen and pelvis without contrast showed a dense collection of fluid within the greater omentum, likely representing a hematoma. On an angiogram performed by interventional radiology, active hemorrhage from a branch of the left inferior epigastric artery was revealed. The vessel was embolized. The patient's condition gradually improved. The patient was discharged on hospital day 16 in stable condition.
+
+# IMPACT/DISCUSSION:
+
+Severe hemorrhage as a complication of abdominal paracentesis has been shown to occur in less than 1% of cases with an average time to symptom onset between 6 to 48 hours after paracentesis, with some cases occurring up to 1 week post-procedure. Types of hemorrhage include abdominal wall hematomas, hemoperitoneum, and pseudoaneurysm formation and are usually associated with damage to the inferior epigastric artery. Complication rates have not been associated with operator experience, elevated INR or thrombocytopenia. In cases of severe hemorrhage, transcatheter intervention has been shown to have significantly lower rates of mortality than surgical intervention (25% versus 75%).
+
+# CONCLUSION:
+
+For hospitalists performing abdominal paracentesis, this case demonstrates the importance of rapid recognition of this complication. As in this case, Interventional Radiology is critical in managing the source of bleed in hemorrhage following abdominal paracentesis.
+
+# HEPATITIS IN AN IMMUNOSUPPRESSED PATIENT
+
+Joseph S. Needleman1; Austin Portolese1; Abdul Basit2. 1Penn State College of Medicine, Hershey, PA; 2Penn State Hershey Medical Center, Hummelstown, PA. (Control ID #3184394)
+
+# LEARNING OBJECTIVE #1:
+
+Consider syphilis as an etiology of acute hepatitis in immunosuppressed patients
+
+# CASE:
+
+An African-American male in his 20s with human immunodeficiency virus (HIV) infection on highly active antiretroviral therapy (HAART), end-stage renal disease on dialysis, and type 1 diabetes presented with 10 days of fevers, nausea, vomiting, abdominal pain, and pruritus. He reported high-risk sex with other men, but denied drug and alcohol use. His exam was notable for scleral icterus, periorbital edema, and right upper quadrant pain. Alanine aminotransferase (ALT) was 127u/L and aspartate aminotransferase (AST) was 106u/L, both 3x the upper limit of normal (ULN). Alkaline phosphatase (ALP) was 740u/L (5-6x ULN), total bilirubin 2.9 (2-3x ULN), and gamma-glutamyltransferase 1715u/L (28x ULN). CD4+ count was 360 cells/MM3 and HIV viral load was undetectable. Viral hepatitis serologies were negative. Abdominal CT revealed biliary sludge and periportal edema without ductal dilation. Out of concern for drug-induced hepatitis and cholangitis his HAART medications, darunavir, ritonavir, and rilpivirine, started seven months prior, were held and he received piperacillin/tazobactam. Two days after

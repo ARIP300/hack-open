@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CONCLUSION:
+
+Erysipelas can present as a severe soft tissue infection creating a challenge for physicians in both diagnosis and management. Fat herniation represents a unique local complication of Bullous erysipelas.
+
+# BULLOUS LUPUS RESEMBLING STEVENS-JOHNSON SYNDROME (SJS) AS THE INITIAL MANIFESTATION OF SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)
+
+Juhi Bhargava. Medstar Washington Hospital Center, Washington, DC. (Control ID #3176567)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize bullous lesions as the first manifestation of SLE to come to a timely diagnosis.
+
+# CASE:
+
+We describe a previously healthy 24-year-old woman who presented with vesiculobullous lesions raising concern for Stevens-Johnson syndrome (SJS) who was subsequently diagnosed with bullous lupus as an initial manifestation of SLE. 24 year old female with PMH of anxiety and depression presented with painful pruritic bullous rash for 2-3 weeks. Blisters appeared first on one of her extremities at the site of a recent tattoo and subsequently spread to her face, upper arms, abdomen and legs. The patient also endorsed fever and malaise. Of note, she presented to different ERs twice, where she was initially diagnosed with possible scabies and eventually with possible SJS and was subsequently transferred to our tertiary care facility for further management. Physical examination showed numerous tense bullae of varying sizes and circular ulcerated lesions with overlying hemorrhagic crust. Numerous oral ulcers and tongue papillitis were detected although no conjunctival or genital mucosal involvement. Symmetric inflammatory polyarthritis was present on joint exam. Infectious etiology including HSV and VZV were ruled out by negative viral serologies. Drug reaction and SJS-TEN was also considered given prior use of risperidone and involvement of skin and oral mucosa but this was thought less likely because the agent had been discontinued a month prior to onset of symptoms. Immunologic workup revealed positive ANA, anti-ds DNA, anti-Smith, anti U1RNP and low complement C3. A skin ‘punch' biopsy revealed acute cutaneous bullous lesions. Direct immunofluorescence showed strong IgG, C3, IgA and IgM deposition on basement membrane consistent with bullous lupus vs epidermolysis bullosa aquisita (EBA). The clinical presentation (skin/oral lesions, arthritis and constitutional symptoms), positive SLE serologies and biopsy findings clinched the diagnosis of bullous lupus in the setting of SLE based on fulfillment of SLICC criteria. Treatment with prednisone and dapsone led to dramatic improvement.
+
+# IMPACT/DISCUSSION:
+
+Bullous lesions are seen in known cases of SLE but only rarely do they occur as the initial manifestation of SLE. This case highlights the importance of awareness of bullous lesions as the first manifestation of SLE. Furthermore, distinguishing BSLE from SJS-TEN is essential as the treatment and prognosis differs substantially. Our patient was repeatedly misdiagnosed which led to significant treatment delay and progression of her symptoms. Dapsone leads to rapid resolution of BSLE lesions with rituximab (B-cell depletion therapy) used as a second-line agent in refractory cases.
+
+# CONCLUSION:
+
+Bullous lesions may be the first manifestation of SLE and thus it is important to be cognizant of it to come to a timely diagnosis.
+
+# BULLOUS PEMPHIGOID AS A CONSEQUENCE OF DPP-4 INHIBITORS
+
+Ryann Quinn; Frank Cacace. Northwell Health, Manhasset, NY. (Control ID #3175569)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize bullous pemphigoid as a potential consequence of DPP-4 Inhibitors in patients with Diabetes Mellitus.
+
+# CASE:
+
+A 91 year-old female with a history of type 2 diabetes mellitus presented to the emergency department with a pruritic rash worsened over the past six weeks. The rash started on her neck, progressed down her arms, chest, abdomen, back, and thighs. She also began to have tense blisters on her palms. She did not recall any triggering event prior to the rash, insect bites, new medications, or new skin products. She had previously gone to a dermatologist and was prescribed triamcinolone cream twice daily. Her medications included sitagliptin, which she had been on for 2 years, and glimepiride. Her vital signs were unremarkable. Exam revealed erythematous plaques with exfoliative scaling on her arms, back, abdomen, and legs, sparing skin folds, soles, and mucous membranes. She also had tense bullae on both palms. Labs significant for WBC 22 x 109/L with 24% eosinophils, hemoglobin A1c 7.8%. Skin biopsy of lesion on right abdomen showed superficial perivascular infiltrate with lymphocytes and eosinophils, with direct immunofluorescence showing positive IgG and C3 staining in linear pattern at the dermoepidermal junction, consistent with bullous pemphigoid. Patient was started on an oral prednisone taper, changed to mycophenolate mofetil at discharge. Her diabetes regimen was changed to insulin and repaglinide, glimepiride and sitagliptin were discontinued. At 16 week follow up, patient had clear skin and eosinophilia resolved, patient continues on mycophenolate mofetil for a 3 month course.
+
+# IMPACT/DISCUSSION:
+
+Bullous pemphigoid is an autoimmune blistering disease that is most often seen in adults over 60 years old. There is a prodromal phase that can last weeks to months where pruritic eczematous or papular lesions may precede the development of tense bullae, therefore causing a delay in diagnosis. The gold standard for diagnosis is skin biopsy with direct immunofluorescence with linear IgG and/or linear C3 staining along the basement membrane. Bullous pemphigoid is associated with neurologic disorders, malignancy, and certain drugs (spironolactone, furosemide, several antibiotics). DPP-4 inhibitors are now commonly used agents in treating diabetes. The association between bullous pemphigoid and DPP-4 inhibitors has been demonstrated in case series, case-control studies, and registry studies, although the mechanism remains unclear. In reported cases, the development of bullous pemphigoid began 10 days - 5 years after exposure, seen across different drugs in this class.
+
+# CONCLUSION:
+
+DPP-4 inhibitors are commonly used in primary care for management of diabetes. Primary care clinicians should be aware of the association between DPP-4 inhibitors and bullous pemphigoid. Patients who are taking these agents who present with a new rash suspicious of bullous pemphigoid should be referred for skin biopsy and the DPP-4 inhibitor should be discontinued.
+
+# BUPRENORPHINE/NALOXONE INDUCTION IN A PATIENT WITH SEVERE OPIOID USE DISORDER COMPLICATED BY ACUTE HEPATITIS A
+
+Devin Oller. University of Kentucky, Lexington, KY. (Control ID #3182891)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the risks and benefits of buprenorphine/naloxone (BUP/NX) in patients with acute hepatitis A (HAV) and Opioid Use Disorder (OUD).
+
+# CASE:
+
+A 32 year-old woman with OUD presented to the hospital with abdominal pain, nausea and jaundice. She reported daily IV heroin and methamphetamine use in the month prior to presentation. On exam, vitals were within normal range and no confusion, asterixis, or ascites were noted. She scored 10 on the Clinical Opioid Withdrawal Scale. She had marked AST and ALT elevations (2897 and 2203 U/L, respectively), a total bilirubin (TBili) of 7.2 mg/dL, and an INR of 1.5. HAV IgM was positive, HBV Surface Ag negative, HCV viral load negative, and acetaminophen level below assay. Urine drug screen showed amphetamine and fentanyl. Ultrasound of the abdomen revealed normal liver echogenicity and no gallstones. She was diagnosed with acute HAV. On hospital day 2, she was seen by the addiction consult team, and BUP/NX was recommended. She underwent a modified induction protocol, receiving a total of 4 mg of BUP/NX on the first day of induction. Over 3 days her dose was titrated to 8 mg daily. She tolerated the induction without.

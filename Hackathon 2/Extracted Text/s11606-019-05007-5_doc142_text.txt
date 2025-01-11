@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# HOSPITAL OPIOID USE DISORDER TREATMENT PRACTICES
+
+Sampling technique. The survey queried three domains: current OUD treatment practices, perceptions and beliefs about treating patients with OUD, and hospital barriers and/or processes for OUD management. We rated responses on a 4-part Likert scale or true/false and report descriptive statistics. Response rates are unknown due to snowball sampling techniques with online surveys.
+
+# RESULTS:
+
+Among 305 respondents, 295 completed the survey. Many respondents lived in the West (n=121, 56%) and practiced 5 years (n=130, 49%). Of the respondents, 82% (n=238) reported they "always/often" cared for patients with OUD, however 50% (n=142) "rarely/never" screened for OUD. Hospitalists reported feeling "very/somewhat unsure" using DSM-5 criteria to diagnose OUD (65%, n=186), though 63% (n=182) "strongly/somewhat agree" that they have the clinical skills to screen, diagnose and refer patients to treatment. Furthermore, 65% (n=188) reported that they "always/often" refer patients to treatment for their opioid use disorder. Hospitalists were less confident about the medical management of OUD. Only 25% (n=71) reported that they "strongly/somewhat agreed" that they were comfortable prescribing buprenorphine and 50% (n=140) "strongly/somewhat agreed" that prescribing buprenorphine was outside of their scope of practice. Hospitalists reported "rarely/never" initiating buprenorphine in the hospital (89%; n=257) and "rarely/never" prescribed or recommended naloxone for opioid overdose reversal (58%; n=168). Hospitalists reported insufficient ancillary support to arrange for treatment referrals (n=174, 6%) and lack of addiction specialty support (n=113, 43%) as barriers to hospital-based OUD treatment. However, 86% (n=86) said they would routinely screen, diagnose and initiate treatment for hospitalized patients with OUD if they had access to an addiction specialist.
+
+# CONCLUSIONS:
+
+Hospitalists are well-positioned to provide lifesaving treatment to hospitalized patients with OUD. This could be accomplished by providing hospitalists with increased education regarding OUD, greater institutional support with dedicated ancillary staff to screen and refer patients to treatment, and access to an addiction specialist.
+
+# HOSPITAL CONSERVATION STRATEGIES AND INPATIENT INTRAVENOUS OPIOID USE DURING THE CURRENT NATIONAL SHORTAGE
+
+Hemal N. Sampat; John Marshall; Christopher Fortier; Chana A. Sacks. Massachusetts General Hospital, Boston, MA. (Control ID #3183314)
+
+# BACKGROUND:
+
+Due in part to manufacturing problems, the US is experiencing a shortage of intravenous (IV) opioids. In response, many hospitals developed conservation strategies. The impact of the ongoing shortage and resulting hospital-based conservation efforts on the use of IV opioids is unknown.
+
+# METHODS:
+
+We evaluated pharmacy dispensing records for morphine, hydromorphone, and fentanyl (the three most commonly used IV opioids) for all inpatient units at a single, large academic medical center. We divided the study period into two phases: January 29 through March 7, 2018 (the "pre-shortage" period before the hospital's conservation efforts began) and March 8 through June 3, 2018 (the "shortage" period for which data are currently available). We used descriptive statistics to determine the median number of dosage units of each opioid that was dispensed each week. Conservation efforts instituted on March 7 included a warning to prescribers in the electronic health record system about the shortage and recommendations about pharmacologic and non-pharmacologic alternatives to IV opioids. We tracked three hospital-level, patient-reported quality metrics during the study period, as measured by the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey: overall patient satisfaction, communication about pain, and discussion of pain treatment.
+
+# RESULTS:
+
+During the study period, use of IV morphine decreased by 51%, from a median of 1158 weekly dispenses (IQR 870-1523) in the pre-shortage period to a median of 572 (IQR 412-742) weekly dispenses during the shortage. Use of hydromorphone decreased by 36%, from a median of 668 (IQR 568-1300) weekly dispenses to 426 (IQR 240-586) dispenses per week. The use of IV fentanyl increased by 26%, with a median of 397 (IQR 357-432) dispenses per week to a median of 501 (IQR 456-523) dispenses per week. Quality metrics (assessed by top-box survey response) were similar during the study period: overall patient satisfaction (84% pre-shortage vs. 82% during the shortage), communication about pain (77% vs. 73%), and discussion of pain treatment (80% vs. 79%).
+
+# CONCLUSIONS:
+
+During the study period, there was a substantial reduction in overall use of IV opioids, with large reductions in IV morphine and hydromorphone use and a modest increase in IV fentanyl use. A larger sample over a longer duration of the shortage will be important to understand patients' perceptions of the associated changes. Conservation efforts developed during shortages may be useful to promote use of alternatives to IV opioids during non-shortage periods.
+
+# HOSPITAL VARIATION IN DIAGNOSTIC TESTING OF PATIENTS ADMITTED WITH SYNCOPE
+
+Timothy Anderson; Grace A. Lin. University of California, San Francisco, San Francisco, CA. (Control ID #3185853)
+
+# BACKGROUND:
+
+Syncope accounts for 1% of emergency department (ED) visits with an annual cost of over $2.5 billion. Although advanced diagnostic testing for low risk patients with syncope is not recommended due to low yield, such patients are frequently hospitalized. Little is known about variation in diagnostic testing patterns between hospitals and regions.
+
+# METHODS:
+
+We used State Inpatient Databases to examine all adults hospitalized from the ED with an admitting diagnosis of syncope in 2013 from 10 states reporting detailed procedure utilization. We calculated rates of advanced cardiac testing (echocardiogram, stress test, or diagnostic catheterization) and neuroimaging (head CT or brain MRI) for each hospital. Predictors of receiving imaging were assessed using a hierarchical mixed-effect regression models adjusting for patient-, hospital-, and region-level factors. We estimated the proportion of variation in testing explained by differences among patients, hospitals, and regions using variation partition coefficients. The etiology of syncope was identified by primary discharge diagnoses.
+
+# RESULTS:
+
+We identified 45,541 patients (67% age 65, 54% female) admitted for syncope from 486 hospitals in 73 hospital referral regions (HRRs) from 10 states. Over two-thirds of patients received neuroimaging (31,381, 69%) and 20,051 (44%) received advanced cardiac testing. Hospital-level rates of advanced cardiac testing varied widely (median hospital 48% of patients received testing, IQR 16%-82%) as did neuroimaging rates (median 72%, IQR 43%-84%). There was no correlation between hospital-level rates of neuroimaging and cardiac testing (Spearmen correlation 0.09). After adjusting for case-mix, nearly half of the variation in hospital-level testing rates was explained by differences in hospital and regional practice patterns. The majority of patients were discharged with unexplained syncope (28,069, 62%) and neither receipt of advanced cardiac testing nor neuroimaging was associated with an increased likelihood of being discharged with an identified cause of syncope (P<0.001 for both).
+
+# CONCLUSIONS:
+
+The performance of advanced cardiac testing and neuroimaging in patients admitted for syncope varies widely between hospitals, with nearly half of variation explained by differences in hospital and regional practice patterns. Wide variation in testing rates suggests that Choosing Wisely campaign goals of reducing low value testing are achievable but are likely to require targeted local interventions.
+
+# HOSPITAL-LEVEL CARE AT HOME FOR ACUTELY ILL ADULTS: A QUALITATIVE EVALUATION OF A RANDOMIZED CONTROLLED TRIAL
+
+David M. Levine; Julia Pian; Karthiyayini Mahendrakumar; Agustina Saenz; Jeffrey L. Schnipper. Brigham and Women's Hospital, Boston, MA; Harvard Medical School, Boston, MA. (Control ID #3184962)
+
+# BACKGROUND:
+
+Hospitals are the standard of care for acute illness management, but hospital care can be expensive, uncomfortable, and associated...

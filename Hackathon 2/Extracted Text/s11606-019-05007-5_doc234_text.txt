@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# Provider Perceptions of Cannabis Legality and Its Impact on Practice
+
+Gender-adjusted logistic regression analyses to examine the association of cannabis legality in respondents' states with survey responses. The anonymous survey was sent electronically to primary care chiefs in the VHA nationally, who could then distribute locally to PCPs.
+
+# RESULTS:
+
+We received 263 completed surveys from PCPs in 39 states and the District of Columbia: 47% of respondents were female, 70% white, and the mean age was 50 years; 38% supported legalization of medical cannabis in all states. A substantial minority were very or somewhat uncomfortable with the following: addressing patient questions about cannabis (33%), identifying cannabis use disorder (35%), and talking to patients about recreational cannabis use (25%). There were knowledge gaps among a substantial minority in specific areas including terminology, psychoactive effects of cannabis components, VHA policy, and evidence regarding benefits and harms of cannabis. A majority of respondents (68%) were likely or very likely to taper opioids if urine drug testing was positive for THC. More respondents from states in which cannabis was illegal (OR 4.7, 95% 2.2-10.8) or was recreationally illegal (OR 5.7, 95% CI 2.3-10.8), reported being likely or very likely to taper opioids than participants residing in states where cannabis was legal for medical and recreational purposes.
+
+# CONCLUSIONS:
+
+This is the first survey to assess VHA PCPs' knowledge, attitudes, and practice regarding cannabis. We found many PCPs had knowledge gaps regarding cannabis, and felt uncomfortable discussing key aspects of cannabis use with their patients. PCPs from states in which cannabis was legal for recreational use were less likely than PCPs from non-legal states to taper opioids in patients with urine drug screens positive for THC. These results suggest a need for targeted educational efforts, as well as more robust guidance and evidence regarding management of patients using prescription opioids and cannabis concomitantly.
+
+# Provider Perceptions of Telemedicine Video Visits to Home in a Veteran Population
+
+Joseph N. Martinez2; Laura Samples2; Yodit Beru2; Meghan Rochester2; Anders Chen1, 2; John Geyer1, 2. 1VA Puget Sound, Seattle, WA; 2University of Washington, Seattle, WA. (Control ID #3183959)
+
+# BACKGROUND:
+
+To serve the geographically diverse population enrolled in primary care at VA Puget Sound Health Care System providers use several telehealth modalities including remote patient monitoring and mobile health applications. Clinical video telemedicine to home (CVTH) is a new tool offered that allows clinic-based providers to complete synchronous video clinical encounters via a smartphone, computer or VA issued iPad to patients at home. To date, few primary care providers are using CVTH. As part of a telemedicine project in the VA Center of Excellence in Primary Care Education and the University of Washington IM Residency program QI immersion block, a survey about attitudes and barriers of CVTH adoption was designed by Internal Medicine R2s and disseminated to clinicians at Seattle Primary Care Clinic.
+
+# METHODS:
+
+A 12-question Likert-type multiple choice survey was generated with input from senior clinical leadership, CVTH users from other disciplines and IT personnel. Study participants included faculty MDs and Nurse Practitioners (NPs), NP and Internal Medicine MD residents and Pharmacists. Content domains include respondent's attitudes, perceived barriers and likely patient-use-scenarios with respect to CVTH. All responses were collected electronically and anonymously via REDCap software over a period of 7 days in November 2018.
+
+# RESULTS:
+
+45 responses of 85 surveys sent were received (52%) (18 MD/NP faculty, 18 MD and 2 NP residents, 7 Pharmacists). 2 respondents had previously used video telemedicine and 35 had previously used Skype or Facetime. When asked which clinical scenarios were most amenable to CVTH, more than half of respondents were very likely to somewhat likely to use it for depression (69%), tobacco use (84%), chronic pain (67%), hypertension (89%), and diabetes (93%). 69% percent of respondents were very unlikely to somewhat unlikely to use CVTH on visits heavily dependent on physical exam techniques such as musculoskeletal (MSK) complaints. 84% of respondents somewhat or strongly agreed that internet connection or a patient's technological competence would limit implementation of CVTH. Less than 20% of respondents strongly agreed or somewhat agreed that their own technological competency would be a barrier.
+
+# CONCLUSIONS:
+
+Limited data exists about provider perceptions regarding primary care telemedicine. Our survey data will help improve adoption of CVTH in primary care. Given respondents concern about using CVTH for MSK related encounters, a training on video physical exam techniques is being developed with input from other professions that have already robustly implemented CVTH. Given respondents concern that Veterans' technological competency would limit incorporation of CVTH, a pre-visit checklist is being developed to certify patient technological familiarity before an initial CVTH primary care visit occurs. Next steps include surveying Veterans to gauge interest of CVTH, identifying administrative barriers and re-assessing provider perception overtime.
+
+# Provider Perspectives on Barriers and Facilitators of Long-Acting Reversible Contraceptive Use in a Large Health System
+
+Anna M. Leone1; Kelly Williams3; Elizabeth C. Swart3; Sonya Borrero1; Natasha Parekh2. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA; 3UPMC Center for High-Value Health Care, Pittsburgh, PA. (Control ID #3180705)
+
+# BACKGROUND:
+
+In August 2012, the Affordable Care Act's contraceptive mandate required insurance plans fully cover at least one contraceptive method type from each of 18 FDA-approved method categories. Though a primary goal of the mandate was to eliminate cost as a barrier to accessing the full range of contraceptive methods including long-acting reversible contraception (LARC) (i.e., intrauterine devices and implants), only 12% of women in the United States utilized LARC methods in 2014. Qualitative interviews were conducted with LARC providers in a large health system in Western Pennsylvania, with nationally comparable rates of LARC usage, to understand practice- and system-based barriers and facilitators to LARC access.
+
+# METHODS:
+
+We conducted semi-structured interviews with LARC providers who inserted at least three LARCs in 2017. Using claims data, we compiled a list of 107 eligible providers and conducted a total of 30 total interviews. Providers were defined as "high-uptake" if they administered more than 42 LARCs in 2017 (the median) and "low-uptake" if they administered less than 42 LARCs in 2017. Interviews were recorded and transcribed verbatim. Two coders developed a codebook based on an iterative review of transcripts and then applied themes to remaining transcripts, holding regular meetings to adjudicate coding disagreements. Directed content analysis was utilized throughout the analytic process.
+
+# RESULTS:
+
+Preliminary themes focused primarily on practice-level barriers and facilitators, as well as one system-level barrier. Providers described several practice-level barriers to LARC access, including, (1) policies requiring women to return for a second appointment to complete LARC insertion and (2) policies requiring women to return while menstruating to complete LARC insertion. Providers mentioned practice-level facilitators to LARC access, including, (1) availability of ancillary clinical staff and (2) patient education materials. Time in provider schedules and practice stocking of the LARC method were mentioned as both facilitators and challenges to LARC access, and both were practice-dependent rather than standardized across all offices represented in the sample. Requiring insurance pre-authorization prior to insertion was commonly described as a system-based barrier to LARC access.
+
+# CONCLUSIONS:
+
+Patient access to LARC methods can be complicated by clinic-level barriers that are heavily practice-dependent, in addition to system-level barriers. These preliminary findings demonstrate heterogeneity across participating providers and practices regarding their LARC provision policies. Results will provide guidance for practice- and system-

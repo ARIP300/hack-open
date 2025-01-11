@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+did not show pleocytosis, was negative for HSV and VDRL, but showed CSF to serum varicella zoster virus (VZV) IgG ratio of 1:9, consistent with positive CNS VZV infection. VZV DNA was not detected in the CSF by polymerase chain reaction (PCR). The patient was treated with a two-week course of IV acyclovir for VZV.
+
+# IMPACT/DISCUSSION:
+
+Stroke is frequently encountered by the internist, who is familiar with the classic etiologies of stroke. Less common etiologies, however, include CNS vasculitides that are difficult to diagnose, especially when not associated with systemic presentation. Recent studies illuminate the prevalence of VZV vasculopathy, also termed VZV vasculitis, caused by infection of intracranial and extracranial arteries with resultant granulomatous vasculitis. Previously characterized by large artery stroke following zoster rash in immunocompromised patients, newer studies show large and small artery involvement. Further, a third of patients have no preceding rash and even in those with zoster rash, there is a four-month interval between rash and clinical CNS involvement. ESR/CRP can be normal or high. MRI shows white and grey matter involvement and highly suggestive multifocal grey-white matter junction lesions, while cerebral angiography shows focal narrowing and beading. Given the spectrum of clinical presentations, internists should consider CNS VZV vasculopathy as an etiology of stroke not only in patients with recent zoster, but also in those without systemic findings who have multifocal strokes involving grey-white matter junction and/or multifocal narrowing and beading of cerebral vessels. If suspected, CSF should be obtained and analyzed for VZV DNA by PCR and anti-VZV IgG, with antibody analysis being more sensitive. Treatment with IV acyclovir and steroids for two weeks is recommended by consensus.
+
+# CONCLUSION:
+
+Stroke associated with VZV vasculopathy can present in otherwise immunocompetent patients without preceding zoster rash. It should be included in the vasculitis workup in patients who present with stroke and areas of narrowing and beading of cerebral vessels, as there is available and effective treatment.
+
+polyomavirus in immunosuppressed individuals. It is now increasingly recognized in patients with HIV and is an AIDS defining illness. It is seen in advanced stages of HIV disease with CD4 count <200 cells/uL and can also herald the manifestation of HIV. Clinical features overlap with stroke and include altered mental status, hemiparesis/monoparesis, gait ataxia, hemianopia and diplopia. Seizures are often seen. On neuroimaging, the lesions are bilateral, asymmetric, multifocal, preferentially involving the periventricular areas and subcortical white matter of frontal/occipital/parietal lobes and do not exhibit mass effect or contrast enhancement. On CT PML lesions appear as hypodense patchy or confluent white matter regions and on MRI brain as areas of increased signal on T2-weighted images and fluid attenuated inversion recovery (FLAIR) sequences. Although brain biopsy is gold standard for making a diagnosis, the presence of JC virus DNA in CSF using PCR and clinical and neuroimaging findings are sufficient to diagnose PML. There is no specific therapy other than improving host's immune response via continuation or initiation of an effective ART.
+
+# CONCLUSION:
+
+Strokes in patients less than 40 years old are uncommon except for patients with underlying risk factors for atherosclerotic heart disease. Other causes include vasculitis or infections such as syphilis and HIV. Since PML symptoms can overlap with stroke and initial neuro imaging findings can also be misleading, it is crucial to consider HIV testing in a young patient with no known risk factors presenting with stroke like symptoms. High clinical suspicion in the right clinical context is imperative to proper diagnosis.
+
+# SUBCUTANEOUS EMPHYSEMA AS A COMPLICATION OF PULMONARY ASPERGILLOMA
+
+Aya Shnawa1; Mohammad Almeqdadi2. 1Jordan University of Science and Technology, Allston, MA; 2St. Elizabeth's Medical Center, Brighton, MA. (Control ID #3163514)
+
+# STROKE-LIKE PRESENTATION IN A YOUNG ADULT: PML
+
+Aiman Zafar1; Mukesh Kumar1; Marilou Corpuz. 1Montefiore Medical Center, Bronx, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3185549)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize that progressive multifocal leukoencephalopathy (PML) can present like stroke
+
+# LEARNING OBJECTIVE #2:
+
+To recognize that PML can be the first manifestation of HIV/AIDS
+
+# CASE:
+
+A 32 YO man with no prior medical history presented with numbness, tingling and weakness in his left arm, slurred speech and facial muscle weakness for 1 week. His exam showed left sided facial droop, weakness of left upper extremity with decreased sensations and hyperreflexia. MRI brain showed sub-acute to chronic infarcts involving right frontal lobe, centrum semiovale, corona radiata and posterior watershed territory, hence, acute stroke was diagnosed. Extensive work up was done. He was positive for HIV 1 with a CD4 count of 73 cells/uL. Lumbar puncture was positive for JC polyoma virus PCR (3588 copies/ml). Patient was suspected to have PML although his neuro imaging features were not classic PML findings. Anti-retroviral therapy (ART) was initiated. Few weeks later he was readmitted with seizures. A contrast MRI brain performed few months later revealed findings that were more consistent with PML. The follow up MRI brain remained stable and the patient showed clinical improvement in his symptoms.
+
+# IMPACT/DISCUSSION:
+
+PML is a severe, progressive and fatal demyelinating disease of the central nervous system caused by reactivation of the JC
+
+# LEARNING OBJECTIVE #1:
+
+Pulmonary aspergilloma could rarely invade the chest wall without evidence of invasive aspergillosis
+
+# CASE:
+
+The patient is a 73-year-old male with past medical history of severe chronic obstructive pulmonary disease (COPD), coronary artery disease, 50-pack-year smoking and remote left upper non-small cell carcinoma treated with chemoradiation, who presented with one-week history of shortness of breath and hemoptysis. Patient denied any fever, chills, rigors, or night sweats. He had seen his primary care physician who prescribed him a course of antibiotics and a prednisone taper, with no improvement. On exam, he was found to be afebrile, tachycardic, tachypneic, hypoxic (oxygen saturation of 75% on 2 liters of nasal cannula), afebrile and normotensive. His lung exam was pertinent for rales and rhonchi bilaterally in all lung fields. Laboratory studies showed leukocytosis of 21.1 k/uL with 86% neutrophils, hemoglobin of 7.0 mg/dL, and platelets of 304 k/uL. Beta-1,3-D-Glucan levels of < 31 pg/mL, and galactomannan EIA test index of < 0.5. Chest x-ray showed a left apical cavitary lesion with increasing surrounding soft tissue loss. A CT of the chest showed a left apical cavity with a lobulated ring of soft tissue and a 4-cm masslike abnormality. He was stabilized and started on antibiotics for presumed pneumonia without improvement. He had an episode of excessive coughing, after which a chest x-ray showed extensive left chest wall subcutaneous emphysema. The cavitary lesion aspirate grew Aspergillus fumigatus, he was subsequently started on voriconazole therapy.
+
+# IMPACT/DISCUSSION:
+
+Aspergillomas are fungal balls arising typically within the frame of a previous pulmonary cavity. Complications may include massive hemoptysis and progression to invasive aspergillosis. Here, we present a case of a pulmonary aspergilloma which was complicated by chest wall subcutaneous emphysema. An aspergilloma consists of Aspergillus

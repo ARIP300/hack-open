@@ -1,0 +1,60 @@
+# ABSTRACTS JGIM
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVAL- UATE PROGRAM/INTERVENTION):
+
+Key outcome measures being studied include changes in blood pressure, changes in weight, adherence to medications, adoption of a low sodium diet (&lt;2g/day), cardiovascular exercise (&gt;30 mins/day), tobacco use status, and alcohol use status. A checklist survey is completed by CHWs at each home visit recording these outcomes.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+59 patients with blood pressures &gt; 130/80 were selected to be part of this quality improvement program. Average age of participants was 52.6 years (min = 19, median= 42.5 max= 80). The group comprised of 74.6% females and 25.4% males. Average blood pressure on enrollment was SBP = 148.81mmHg and DBP= 84.6 mmHg. At 6 months, average blood pressure was SBP = 126.78 mmHg and DBP = 81.19 mmHg. Mean reduction in systolic blood pressure was 22.03 mmHg. At the end of 6 months, 50.8% of patients within the quality improvement program had blood pressures at ACC goal of &lt;130/80.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+In the context of extreme poverty, this multidisciplinary community based approach led to a mean reduction in SBP of 22.03 mmHg and led to 50.8% of patients to be within the ACC blood pressure goal. These findings should encourage development of similar programs in resource deprived settings globally.
+
+# PROMOTING HIGH-VALUE PRACTICE BY STANDARDIZING COMMUNICATION BETWEEN THE HOSPITALIST AND PRIMARY CARE PROVIDER DURING HOSPITALIZATION
+
+Marwa Moussa1; Carrie Mahowald1; Charles Okamura1; Olena ksovreli1; Myint Aye2; Himali Weerahandi1. 1NYU Langone, Staten Island, NY; 2NYU Langone Hospitals- Brooklyn, Brooklyn, NY. (Control ID #3167861)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The increasing complexity of admitted patients, shorter hospital stays and post-acute care adverse events demand a more sophisticated and effective coordination of care between hospitalists and Primary care providers (PCPs).
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Standardizing communication between Hospitalist and PCP during hospitalization will lower the rate of readmission due to lack of PCP follow up and post-acute care adverse events.
+2. Implementing this practice into our daily workflow will improve PCP satisfaction and increase referrals to our institution.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We reviewed a root-cause survey of 30 day readmissions between 1/2018-4/2018 as well as readmission rates for each of our hospitalists. We surveyed our PCPs' satisfaction with communication experiences with our hospitalist group. Finally, we conducted a semi-structured interview of the hospitalist with the lowest readmission (8% vs 12% average for other hospitalists) and highest PCP satisfaction rates, Dr. A, to develop best practices for closed loop communication. Based on this data, we designed a protocol and piloted on 5/1/2018, where the hospitalist contacts the PCP via phone call on admission and delivers a discharge narrative to the PCP via our EMR's routing capability. We used a trackable smart phrase to document the communication. For the prospective phase, we will operationalize these best practices in a study group, Family Health Center PCPs. A control group (community PCPs) will receive usual practice.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVAL- UATE PROGRAM/INTERVENTION):
+
+We will compare readmission rates between the study group and control group, monitoring the proportion and absolute number of readmissions attributed to no PCP follow up or medication errors. Follow up satisfaction surveys will be sent to the PCPs 6 months after our revised communication practice. Finally, we will monitor the hospitalists' compliance with the smart phrase.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A review of our institution's 30 day readmissions between 1/2018-4/2018 found that 19% were attributed to lack of PCP/outpatient provider follow-up. Surveys of our community PCPs showed 70% reported being contacted by the hospitalist group in less than 25% of the time. Results from Dr. A's interview revealed that after her encounter with the patient, she calls the patient's PCP highlighting the admitting diagnosis, significant events, pertinent labs, imaging and medications. Dr. A then delivers a discharge narrative to the PCP on the day of discharge highlighting any medication changes, incidental findings and follow up. On a random audit of 100 charts between 5/1/2018-10/30/2018 our preliminary data show that there was 88% compliance with using the smart phrase by the hospitalists.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Using a "positive deviance" approach, we identified best practices for hospitalist-PCP closed loop communication to develop an intervention to improve this aspect of care. If we are successful in reducing readmission rates and improving PCP satisfaction, we will expand to all of our PCPs and ultimately expand to other services to implement this program as best practice.
+
+# PROTON PUMP INHIBITOR STEWARDSHIP: DEPRESCRIBING PROTON PUMP INHIBITORS IN A PRIMARY CARE CLINIC
+
+Cecilia Y. Cai1; Chiemeziem Eke1; Niharika Mallepally1; David Szafron1; Andrew S. Brown1; Derek Lin; Jerry Wong; Erica Lescinskas1; Lee Lu.1 2 1Baylor College of Medicine, Houston, TX; 2Harris Health System, Houston, TX. (Control ID #3159428)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The proton pump inhibitors (PPIs) are commonly used for treatment of upper gastrointestinal disorders; however, the rise in PPI prescriptions has led to increased prevalence of adverse drug effects and increased cost of therapy.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify rate of inappropriate PPI prescriptions at a resident-run primary care clinic.
+2. Implement a PPI taper order set.
+3. Educate residents on appropriate indications for PPI and reduce the rate of inappropriate PPI prescriptions.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We conducted an observational chart review of PPI prescriptions over a 14-month period from January 2017 to August 2018 at an Internal Medicine resident-run primary care clinic. Medical records of 315 patients prescribed PPIs were reviewed for specific indications and duration of therapy. Intervention entailed implementation of a four-week PPI taper order set to the clinic electronic health record, in addition to provider education through flyers and emails that highlighted PPI indications and consequences of long-term use.

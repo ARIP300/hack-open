@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# METHODS:
+
+HCD is a flexible, complex process utilizing evidence, intuition, and rapid, iterative prototyping to develop creative products and interventions. To approximate HCD in an academic setting while maintaining rigorous scientific standards, we leveraged a 3-stage HCD approach:
+
+- Stage 1. Inspiration:
+- a) Secondary research via a systematic review of interpersonal interventions in health care (n=77 studies);
+- b) interviews and observations of diverse primary care encounters (29 observations across 3 clinics);
+- c) interviews with professionals in non-medical fields to provide analogous inspiration (n=30).
+- Stage 2. Ideation:
+- a) Delphi panel of 14 national experts to gather additional input on our "inspiration" output;
+- b) journey mapping and framework development to scope design principles and opportunities (e.g., daily clinic flow from patient/provider lens);
+- c) co-creation sessions with 10 physicians to develop initial prototypes.
+- Stage 3. Implementation:
+- a) User feedback sessions with diverse providers inside and outside of clinic to test the feasibility and acceptability of preliminary intervention designs;
+- b) live prototyping in varied clinics to assess implementation and maintenance metrics.
+
+# RESULTS:
+
+Over 16 months, we completed preliminary design work to develop an intervention focused on primary care. Stage 1 yielded evidence-based practices that influence patient and clinician experience. Provider interviews highlighted the importance of consistent meaningful connections with patients without extending clinic visit time. Interviews with non-medical professionals illustrated universal approaches to protecting joy of practice in intense interpersonal interactions. Stage 2 highlighted key time points where intervening might positively impact connection in outpatient care, while also accommodating acutely busy periods such as just before a provider enters the room. It also surfaced the lack of opportunity for providers to exchange strategies to connect with patients. In Stage 3, HCD permitted ultra-rapid cycles of creation, piloting, evaluation, and iteration, surfacing ideas and determining feasibility of design prototypes with physician stakeholders in a matter of weeks.
+
+# CONCLUSIONS:
+
+We found that a design approach combining HCD methodology with a systematic literature review and Delphi process resulted in practical, acceptable, evidence-based intervention prototypes in less than 18 months. In the final stage of this project, the pilot intervention will be implemented and evaluated across multiple settings to determine the effect on patient and clinician experience.
+
+# USING SIGNATURE INFORMED CONSENT TO IMPROVE PRESCRIBING LONG-TERM OPIOID THERAPY FOR CANCER PAIN: PERSPECTIVES OF PATIENTS AND INTERDISCIPLINARY PROVIDERS
+
+Soraya Fereydooni2, 1; Karleen Giannitrapani2, 9; Azin Azarfar2; Peter Glassman3, 7; Maria J. Silveira4, 8; Amanda Midboe5; Maria Zenoni6, 10; Robert Pearlman11, 12; William Becker6, 10; Karl Lorenz2, 9. 1Stanford University, Stanford, CA; 2VA Palo Alto Health Care System, San Jose, CA; 3VA Greater Los Angeles HCS, Los Angeles, CA; 4Ann Arbor VAMC HSRD, Ann Arbor, MI; 5VA Palo Alto Health Care System, Menlo Park, CA; 6VA Connecticut Healthcare System, West Haven, CT; 7University of California Los Angeles, Los Angeles, CA; 8University of Michigan, Ann Arbor, MI; 9Stanford University School of Medicine, Stanford, CA; 10Yale School of Medicine, New Haven, CT; 11Seattle VA Puget Sound Health Care System, Seattle, WA; 12University of Washington, Seattle, WA. (Control ID #3185984)
+
+# BACKGROUND:
+
+Long-term opioids therapy (LTOT) for cancer pain is accompanied with numerous potential risks. As cancer survival becomes more common, the extension of written signature informed consent (SIC) for LTOT gains relevance. Our objective is to understand provider and patient perspectives on using SIC for LTOT in cancer patients.
+
+# METHODS:
+
+Design: Semi-structured interviews. Population: 20 interdisciplinary providers (primary care providers including general internists, oncologists, and advanced practice nurses) and 20 patients from two academically-affiliated Veteran Health Administration Medical Centers. Analysis: Using a priori code from the bioethics literature, we employed deductive content analysis to understand provider perspectives and inductive constant comparison to understand patient perspectives.
+
+# RESULTS:
+
+Providers believed: 1) Autonomy: SIC is an educational tool "to get the patient involved in the decision." However, it may be perceived as a restriction on autonomy when "patients have to sign this form and agree or they're not going to get opioids." 2) Beneficence: SIC can promote patient-centered care by "setting the goals and the expectations right off the bat" to effectively and safely treat pain. 3) Non-maleficence: SIC can prevent potential harm by warning patients against potential adverse effects, divergence, and misuse. Conversely, it may divert providers' focus away from cancer-related issues and damage trust by "spending a lot of time on things that don't make sense to cancer patient," distress patients by "making them feel like criminals," and delay the process "because prescribers just don't feel like doing the work" of SIC. 4) Justice: Provider may reflect their biases by "Jump[ing] right into the consent with someone who's a past drug abuser" or has had "a history of suicide attempts or thinking." Global SIC requirement may minimize "patients thinking that you're singling them out" and ease the introduction of SIC in oncology clinics when "it's part of the clinical practice." 5) Dignity: Despite agreeing that SIC should "be demanded as an educational process," providers worried about SIC as a "one size fits all" approach that is "not designed for cancer patients." Emergent themes from patient data indicated that they want SIC: 1) to explain substance use disorder in simple language 2) to cover consequences of tapering and not tapering 3) to designate someone they can contact with questions 4) to provide simple parameters 5) to have written SIC information to be verbally explained 6) to warn against sensations of euphoria and potential triggers for overuse.
+
+# CONCLUSIONS:
+
+Having SIC as a standardized process for LTOT in patients with cancer may normalize SIC conversations; however, it is important to allow some room for clinician's autonomy to do what they perceive as best for patients. A systematic requirement of SIC for all patients is a complex proposition, and SIC needs to be tailored for patients with cancer pain on long-term opioid therapy.
+
+# USING SIMULATION TO ASSESS COMPETENCY IN MEDICAL EDUCATION: OBSERVATIONS FROM AN INTERNATIONAL EXPERIENCE AT THE UNIVERSITAT INTERNACIONAL DE CATALUNYA
+
+Juan M. Salgado 1; Tiffany E. Schwasinger-Schmidt 2; Montserrat Virumbrales Cancio3. 1University of Kansas School of Medicine, Wichita, KS; 2 University of Kansas School of Medicine, Andover, KS; 3Universitat Internacional de Catalunya, Barcelona, Spain. (Control ID #3181873)
+
+# BACKGROUND:
+
+In 2014 the AAMC published new guidelines for the expectations for medical graduates to include the core Entrustable Professional Activities (EPAs). The goal of EPAs was to establish a mechanism to address competency assessment in medical education and help decrease an emerging gap in student readiness to transition from medical school into residency training. Simulation offers a unique, integrated approach for educators to be able to assess medical student competence in clinical scenarios. At the Universitat Internacional de Catalunya (UIC) in Barcelona, Spain, the medical school has utilized the Comprehensive Centre for Advanced Simulation (CISA) to formulate a competency assessment for their Objective Structured Clinical Exam (OSCE) at the completion of medical school.
+
+# METHODS:
+
+The OSCE at UIC was analyzed as a case study from a student's perspective during a month long international medical experience in June 2017. Participants included CISA educators and technical staff, standardized patients, OSCE evaluators, and medical students. Core medical competencies included taking a medical history, physical examination skills, formulation of an appropriate assessment and plan, technical procedural skills, interprofessional interactions, communication skills,

@@ -1,0 +1,57 @@
+# ABSTRACTS  JGIM
+
+# LEARNING OBJECTIVE #2:
+
+To review criteria for early intervention for lung nodules in lower risk populations
+
+# CASE:
+
+A 30 year old man who presented appendicitis underwent ab- abdominal CT scan and was incidentally found to have 12 mm irregularly bordered lung nodule. No prior chest imaging was available. Patient was discharged after appendectomy and was advised to have follow up imaging, but was thereafter lost to follow up. Two years later patient presented with productive cough and scant hemoptysis. A CT scan of the chest then revealed a 6.7 cm lung mass. Carcinoid tumor was suspected but octreotide scan was negative. A CT guided lung biopsy revealed adeno- carcinoma positive for EGFR mutation. Three weeks later patient was admitted with headache and right arm weakness. Magnetic resonance imaging (MRI) of brain revealed left sided metastases in parietal and occipital lobe, confirming stage IV disease.
+
+# IMPACT/DISCUSSION:
+
+Risk of a lung nodule being malignant depends on size, consistency and patient risk factors. The risk of malignancy in a nodule of 5 mm is < 1 %, 5-9 mm is 2-6%, 8-20 mm is 18% and > 20 mm is 50%. Solid nodules are at greater risk than semi solid and ground glass nodules. Significant risk factors include cigarette smoking, age>35 years, female gender, exposure to radiation or environmental toxins, pulmonary fibrosis, alcohol consumption and positive family history. According to Fleischner society guidelines a lung nodule > 8 mm should be either resected for biopsy in patients with risk factors for lung cancer, or followed up with CT chest in 3 months in low risk patients. In patients under 35 years old with no risk factors, the chance of a lung nodule proving to be malignant is <3%. It has also been noted that patients with nodules between 8-30 mm and concern of poor follow up (due to socioeconomic status, psychological issues, young age) should undergo either non-surgical biopsy or video assisted thoracoscopic surgery with wedge resection. Lung adenocarcinoma commonly presents as a pulmonary nodule. 5 year survival rate of stage IV lung adenocarcinoma is <10 % while for stage I it is 60-80%. The patient in this case presented 2 years after the finding of an incidental nodule with cancer that had progressed to stage IV. We suggest that timely intervention with biopsy of the nodule on first presentation could have altered this course.
+
+# CONCLUSION:
+
+Guidelines should be used in the proper clinical context as a tool to help in patient management as exceptions always exist. In any patient, including young patients with no risk factors for lung cancer presenting with nodules > 8 mm in size, there should be significant clinical suspicion of malignancy. Follow up and tissue diagnosis are essential.
+
+# A ‘LOUSY' ANEMIA: SEVERE ANEMIA SECONDARY TO LICE INFESTATION
+
+Adina Wise; Hailey Gupta; Saad Khan; Seema Quraishi; Erica Grabscheid. Mount Sinai Beth Israel, Icahn School of Medicine, New York, NY. (Control ID #3160816)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize chronic pediculosis corporis infestation as a potential cause of severe anemia.
+
+# CASE:
+
+A 26 year-old undomiciled man with an unknown past medical or psychiatric history presented with fatigue. Review of systems revealed no chest pain, shortness of breath, hemoptysis, palpitations, loss of consciousness, abdominal pain, melena, hematochezia or hematuria. Vital signs were all within normal limits (T: 98.7 F, HR: 73, RR: 19, BP: 108/72). Physical exam revealed overall poor hygiene, including an extensive infestation of pediculosis corporis (body lice). Patient's lice infestation was severe for at least several months according to documentation from prior ED visits. The patient displayed a disorganized thought process consistent with chronic mental illness. All other physical exam findings were within normal limits, including guaiac negative stool testing. Initial labs revealed hemoglobin of 2.9 g/dL, hematocrit 10.1%, mean corpuscular volume 58 fL, RDW 19%, platelet count 474 K/uL. Further workup for severe anemia revealed a ferritin of 6 ng/mL, iron 6 ug/dL, TIBC 280 ug/dL, transferrin saturation 2.14%, reticulocyte count 2%, LDH 223 U/L, haptoglobin 55 mg/dL, B12 423 pg/mL and folate 10.99 ng/ml. Peripheral blood smear, Coombs test, bilirubin, parvo b19, EBV, CMV, lead level, hemoglobin electrophoresis and urinalysis were all normal. Anti-transglutaminase antibody was 11 U/mL (nl 0-5). Upper and lower gastrointestinal endoscopy were offered, but the patient declined. Three permethrin treatments and a total body shaving were required to adequately treat the lice infestation. Patient received 5 days of intravenous iron sucrose followed by daily oral ferrous sulfate, with significant and rapid improvement in his Hgb to 10.4 g/dL.
+
+# IMPACT/DISCUSSION:
+
+Body lice infestations are particularly common among homeless and chronically mentally ill populations, and may go untreated for years while feeding off their host's blood. Thus, heavily infected individuals may suffer from clinically significant blood loss. A limited number of previous case reports have documented a possible causal relationship between severe anemia and chronic lice infestation in animals, as well as in human patients without access to adequate hygiene. This undomiciled patient presented with severe iron deficiency anemia (IDA) and chronic pediculosis corporis. A gastrointestinal bleed was unlikely given the negative fecal occult blood test and clinical presentation. Lab studies ruled out hemolytic, infectious, nutritional and hereditary etiologies (although anti-transglutaminase antibody was weakly positive, patient denied celiac disease symptoms while consuming a gluten-containing diet). This patient's IDA may, therefore, be attributable to the chronic pediculosis corporis infestation.
+
+# CONCLUSION:
+
+As body lice feed on human blood, long-term and heavy infestations could lead to severe anemia. The differential diagnosis for severe IDA should include blood loss secondary to chronic lice infestation in select patients.
+
+# A 16-YEAR DELAYED PRESENTATION OF ANTHRACYCLINE-INDUCED CARDIOMYOPATHY
+
+Ansh Johri1; Gloria Hwang1; Robert Wu1; Sally Ng1; Nicholas Duca2. 1Pennsylvania State University, Hershey, PA; 2Penn State Health Milton S. Hershey Medical Center, Hershey, PA. (Control ID #3146788)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the typical time courses and risk factors for anthracycline-mediated cardiotoxicity.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of long-term follow up of patients previously treated with anthracycline.
+
+# CASE:
+
+A 57-year-old female with breast cancer in remission, status post lumpectomy and 4 rounds of chemotherapy with doxorubicin, cyclophosphamide, paclitaxel, and a 5580 cGy dose adjuvant radiation therapy completed 16 years ago, presented with 1 week of severe exertional dyspnea. Vital signs were unremarkable, and physical exam revealed diffuse bilateral coarse crackles and jugular venous distension. Serum BNP was 7600 pg/mL. Chest X-ray showed bilateral pulmonary interstitial edema, and transthoracic echocardiogram confirmed congestive heart failure (CHF) with ejection fraction of 20-25%, a dilated left atrium and left ventricle, and diffuse hypokinesis. Further ischemic workup was deferred in the absence of CHF risk factors, such as hyperlipidemia, hypertension, smoking history, and family history of cardiovascular disease. After 4 days of diuresis with furosemide 40 mg b.i.d., the patient ambulated without dyspnea and was discharged on furosemide, lisinopril, and metoprolol for chronic CHF management.
+
+# IMPACT/DISCUSSION:
+
+Doxorubicin, an anthracycline, is commonly used to treat breast cancer, but it can also cause dilated cardiomyopathy. Cardiotoxicity typically occurs within 3 days of anthracycline therapy, but studies have shown cardiotoxicity up to 10 years later. A case report presented a 57-year-old female who developed diffuse cardiovascular dilation and CHF 17 years after doxorubicin therapy. The patient several features with our patient, such as age, gender, ejection fraction, cardiac morphology, and lack of cardiovascular risk factors. A major risk factor for anthracycline cardiotoxicity is a higher cumulative dose: one prospective study of 630 subjects found a greater incidence of CHF in patients when the cumulative dose exceeded 400 mg/m2. Concurrent cyclophosphamide chemotherapy, adjuvant radiation therapy, and female gender.

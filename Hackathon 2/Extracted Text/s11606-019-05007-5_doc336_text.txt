@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CASE:
+
+44 year-old paraplegic man was admitted for left second toe osteomyelitis. He had open wound on left second toe, normal vital signs and white blood cell counts. He was started on vancomycin intravenously and underwent amputation of left second toe on hospital day 3. His antibiotic was changed to doxycycline 100 mg by mouth every 12 hours with the first dose given evening of operative day. The next morning patient complained of mild itchiness around the neck which he attributed to "not used to hospital sheets". There were no visible rash. He had normal vital signs and minimal pain at the surgical site. CBC showed leukocytosis of 11000 per microliter which was attributed to stress. Patient was discharged home on doxycycline. Later in that evening patient noted increase pruritus around the neck and upper body. The next morning (post-operative day 2) he noted erythmatous rash around the neck spreading to extremities and trunk. He also felt swollen painful "glands" on his neck. Patient was readmitted to the hospital. He had normal vital signs. There was a diffuse pink morbilliform rash with confluent erythema and scattered pustules over the back, chest and the medial aspects of bilateral thighs. There were 2 tender enlarged right-sided cervical nodes. There were neither genital or oral mucosal involvement nor facial edema. He had a Leukocytosis of 15000 per microliter without bandemia or eosinophilia. Liver function tests were normal. Skin punch biopsy showed acute generalized exanthematous pustulosis (AGEP). Doxycycline was discontinued and patient was started on triamcinolone 0.1% topical ointment twice daily.
+
+# IMPACT/DISCUSSION:
+
+Acute generalized exanthematous pustulosis (AGEP) is a rare, severe cutaneous adverse reaction characterized by the rapid development nonfollicular, sterile pustules on an erythematous base. It is attributed to drugs in the majority of cases with Antibiotics being considered as the most common cause. Fever and peripheral blood leukocytosis are usually present. The time period from drug exposure to reaction onset is typically within 48 hours, with antibiotics having a median of 24 hours. Generally, with prompt discontinuation of the offending agent and general supportive care, prognosis for patients with AGEP is excellent. Our patient was exposed to vancomycin and doxycycline both but treatment with doxycycline started later than the treatment with vancomycin and signs and symptoms of AGEP appeared within 1 day after the start of doxycycline therapy which make doxycycline as more likely the cause of the AGEP.
+
+# CONCLUSION:
+
+Although AGEP is rare, its manifestations can be prone to misinterpretation. In contrast to most drug reactions, AGEP is manifested as pustules, thus, it is easily confused with other pustular eruptions and infectious processes. A thorough knowledge of the disease process of AGEP is important to avoid the dangerous continuation of the offending antibiotic.
+
+# A COMPLEX CASE OF MYOCARDIAL BRIDGING
+
+Omar Hadzipasic 1 ; Ahmed Nagy 1 ; Adedotun Ogunsua 2 ; Owusu Asamoah 2. 1 University of Massachusetts Medical School, Shrewsbury, MA; 2 University of Massachusetts Medical School, Worcester, MA. (Control ID #3161489)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish myocardial bridging from coronary artery disease
+
+# LEARNING OBJECTIVE #2:
+
+Manage recurrent angina in myocardial bridging
+
+# CASE:
+
+A 58-year-old man with a history of hypertension and hyperlipidemia presented to the Emergency Department with anterior substernal chest pressure which started while he was cleaning his grill. EKG was notable for ST segment elevation in the anterolateral leads with elevated troponin to 25.5. He underwent emergent coronary angiography which showed an anterolateral STEMI caused by a mid left anterior descending (LAD) 100% thrombotic occlusion and had successful thrombectomy and balloon angioplasty of the mid-LAD. He was started on Aspirin and Ticagrelor and treated with a Tirofiban IV infusion for 48 hours. Two days later, he underwent Ocular coherence tomography/Intravascular ultrasound (OCT/IVUS) of the LAD which demonstrated severe myocardial bridging in the mid-LAD. The patient presented to the hospital again two weeks later with the same chest pain. It was not relieved with nitroglycerin and he had not missed any doses of his DAPT therapy. EKG was notable for anterior lead Q waves with T wave inversions, troponin elevated to 6.02. Repeat coronary angiography again demonstrated myocardial bridging of the mid-LAD without occlusion. Recommendation was made for maximizing his Metoprolol dose and continued treatment with Aspirin, Ticagrelor, and Atorvastatin.
+
+# IMPACT/DISCUSSION:
+
+Myocardial bridging is an uncommon medical disorder that must be considered in the differential diagnosis for recurrent anginal chest pain. In this condition, the coronary artery traverses through an intramyocardial course and is compressed during systole. Although most instances are of limited clinical significance, our patient had experienced repeat infarctions over time and developed an ischemic cardiomyopathy with reduced ejection fraction of 40%. Medical therapy is aimed at reducing heart rate and myocardial contractility through the use of beta blockers and calcium channel blockers, as well as procedural intervention via coronary artery stenting. For persistent symptoms, surgical intervention with myocardial bridge resection can be performed. Importantly, nitrates are contraindicated given the risk for reflex increase in contractility. Although similar in presentation to acute coronary syndrome from classic coronary artery disease, myocardial bridging differs in medical and interventional therapy. This case highlights how crucial it is to recognize and distinguish myocardial bridging from coronary artery disease to avoid recurrence and sequelae of continued myocardial infarction.
+
+# CONCLUSION:
+
+Myocardial bridging is an uncommon condition which presents as acute coronary syndrome and can be diagnostically indistinguishable from myocardial infarction until coronary angiography is performed. Initial medical therapy is aimed at the use of beta blockers and calcium channel blockers. Nitrates are contraindicated given the risk for reflex increase in contractility.
+
+# A COMPLICATED CASE OF PSEUDOMONAS ENDOCARDITIS PRESENTING AS A SUBARACHNOID HEMORRHAGE
+
+Pedro Covas 1 ; Alexander E. Aldrich 2; Adrienne N. Poon 3 . 1 George Washington University, Washington, DC; 2 The George Washington University Hospital, Washington, DC; 3 George Washington School of Medicine and Health Sciences, Clifton, NJ. (Control ID #3149722)
+
+# LEARNING OBJECTIVE #1:
+
+Neurological sequela of infective endocarditis
+
+# LEARNING OBJECTIVE #2:
+
+Diagnosis and treatment of Pseudomonas endocarditis
+
+# CASE:
+
+A 60 year-old woman with intravenous drug use (IVDU), presented with a week of cough, shortness of breath, and lower extremity edema. The patient was afebrile, tachycardic, and tachypneic. Lower extremity edema and bibasilar crackles were present, but had a normal cardiac examination. Labs were significant for leukocytosis to 18,000, platelets of 69, hemoglobin of 7.6, creatinine of 2.9, and BNP of 11,000. CT chest revealed bilateral septic emboli to the lungs and transthoracic echocardiogram (TTE) revealed vegetations on the tricuspid valve. Trans-esophageal echocardiogram (TEE) was unable to be performed. CT head revealed a subarachnoid hemorrhage (SAH). MRA was negative for aneurysm. Broad spectrum antibiotics were initiated for infective endocarditis (IE) and after blood cultures returned positive for P. aeruginosa, antibiotics were adjusted to meropenem and ceftazidine. Blood cultures remained positive for 10 days until renal function improved and gentamicin was added. Surgical management was not pursued given SAH and she completed 6 weeks of intravenous antibiotics. She was later readmitted for reoccurrence of P. aeruginosa IE when TEE revealed an aortic vegetation and tricuspid vegetation. Her condition rapidly deteriorated and died from sepsis and multiorgan failure.
+
+# IMPACT/DISCUSSION:
+
+Pseudomonas Aeruginosa is a rare cause of IE seen most often with concomitant IVDU. Recognizing that IE may have multiple neurological sequelae is essential in management as treatment and prognosis varies significantly depending upon involvement. Ischemic

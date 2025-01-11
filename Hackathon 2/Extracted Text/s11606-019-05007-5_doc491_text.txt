@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# MYASTHENIA GRAVIS: A CASE OF LATE ONSET
+
+Benadryl, and a follow-up with Allergy. Five days later, the patient came to GIM clinic with worsening symptoms, including bilateral eyelid droop worse as the day progressed, hoarseness, difficulty swallowing, and SOB. Exam showed bilateral ptosis, and difficulty sustaining upward gaze. Neurology was consulted for suspected myasthenic crisis and the patient was admitted and started on IVIG and pyridostigmine. Nerve conduction studies showed 20% decrement in the right accessory nerve on repetitive stimulation. AChR binding antibody was 5.82 nmol/L (normal <= 0.02nmol/L). CT chest did not show a thymoma. Her symptoms improved and she was discharged on hospital day 5.
+
+# IMPACT/DISCUSSION:
+
+The classic bimodal epidemiology for Myasthenia Gravis is young women and older men. However, as this case illustrates, the incidence of MG is changing, with an increase in late onset MG (LOMG). Reasons for this changing epidemiology are unclear and may reflect an aging population, improved diagnostics, and environmental factors. LOMG can be difficult to diagnose and requires a high index of suspicion. Studies suggest that ocular MG is more common in LOMG, as seen in this patient. The initial diagnosis in this case demonstrates common cognitive biases that result in misdiagnosis and delayed care. The temporal relationship of symptoms to starting aspirin created a nidus for anchoring bias to an aspirin-related pseudoallergic reaction. Furthermore, the perpetuation of this idea between the treating physicians created diagnostic momentum. On review of the patient's initial symptoms, she had classic signs of ocular and bulbar myasthenia: bilateral ptosis, dysarthria and SOB with speech.
+
+# CONCLUSION:
+
+The incidence of late onset MG is increasing and should be considered in older patients. Clinicians are subject to cognitive biases that in hindsight are clear. Reviewing cases and exposing these biases can help practitioners become mindful of cognitive errors in an attempt to reduce misdiagnoses.
+
+# NEW-ONSET SEIZURES: LOOK FOR A PRECIPITANT, PERHAPS A DRUG?
+
+Mohamed Gabr; Radhika Gali; Dharmarajan S. Thiruvinvamalai. Montefiore Medical Center (Wakefield Campus), Bronx, NY. (Control ID #3183364)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the etiology of new-onset seizures
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the culprit medications, including SSRIs, that may precipitate seizures
+
+# CASE:
+
+A 75 year-old man presented after a first-time, witnessed, generalized seizure. Medical history included hypertension and depression; negative for prior strokes and personal or family history of seizures. Only known medications were aspirin, simvastatin and fluoxetine 40 mg daily. He did not recall symptoms or events that led to the seizure; denied alcohol or drug use. Neurological exam revealed intact motor strength, sensation and cranial nerve functions. His gait was unsteady and the finger-to-nose test was abnormal. Urine and blood toxicology were negative, including ethanol levels. Blood glucose and electrolyte levels were normal, and infectious work-up was negative. CT and MRI of the head revealed chronic microvascular ischemic changes and an old right cerebellar infarct. Transthoracic echocardiogram was normal; carotid ultrasound was negative for stenosis. An electroencephalogram (EEG) did not reveal epileptiform discharges. Fluoxetine was switched to sertraline prior to discharge due to its potential to lower seizure threshold.
+
+# IMPACT/DISCUSSION:
+
+In the initial evaluation of new-onset seizures, physicians must address personal and family history, history of head trauma, central nervous system (CNS) lesions or infections, childhood seizures, birth injury, and conduct a review of medications. Causes include hypoxia, hypoglycemia, electrolyte abnormalities, infections, drug/alcohol abuse and more. Brain MRI should be performed to rule out structural lesions. EEG helps assess for epileptic seizures, though the likelihood of routine EEG recording epileptiform discharges is 25-50%. Lumbar puncture is done when CNS infection is a possibility. Several medications may lower seizure threshold, including bupropion, tramadol, quinolones, imipenem, penicillins, meperidine, and SSRIs. SSRIs have the ability to induce seizures, especially with chronic use and in higher doses; the exact mechanism is unknown. Fluoxetine, with a long half-life, should be used with caution in the elderly and in those with kidney disease.
+
+# CONCLUSION:
+
+In our patient's case, his only known medications were aspirin, simvastatin, and fluoxetine 40 mgs/day. Prolonged use of fluoxetine in a high dose was acknowledged as a potential inciting agent for his seizure. Drugs must be a consideration as inducing factors with new onset seizures, warranting meticulous screening of medications.
+
+# NIFEDIPINE-INDUCED SHOCK IN 18 WEEK GRAVIDA WITH CONGENITAL AORTIC STENOSIS
+
+Cullen Soares; Michael Gilson. Brown University, Providence, RI. (Control ID #3183795)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the clinical importance of diagnosing aortic stenosis in pregnancy
+
+# CASE:
+
+The patient is a 31 year-old G6P2032 at 18 weeks with a history significant for moderate stenosis secondary to a bicuspid aortic valve. Her current twin pregnancy was uncomplicated until 2 weeks prior to admission when she was diagnosed with twin-twin transfusion syndrome (TTTS). On her day of presentation she had an uncomplicated ablation of placental vessels for TTTS. She received two doses of short-acting 20mg nifedipine over 30 minutes (standard prophylactic tocolytic dose) and developed hypotension (BP 80/40), chest pain, and diffuse ST segment depressions on ECG. She was started on intravenous phenylephrine and transferred to the cardiac care unit. Exam was notable for a harsh mid-peaking systolic murmur radiating to the carotids, elevated venous pressures, and normal perfusion. Phenylephrine was switched to norepinephrine and she received two liters of lactated ringers with calcium gluconate. Bedside echocardiogram showed hyperdynamic ventricular systolic function (Ejection Fraction 78%) and moderate aortic stenosis. Lactate was normal, and peak troponin was 4.2. Indomethacin was started for tocolysis. Over 8 hours, blood pressures improved to baseline and she was weaned off pressors. ECG normalized and chest pain resolved. She was discharged to home with follow up with high risk pregnancy clinic and cardiology.
+
+# IMPACT/DISCUSSION:
+
+Dihydropyridine calcium channel blockers cause peripheral vasodilation, reduced cardiac contractility, and reduced aldosterone production, which together reduce blood pressure. Nifedipine is the preferred tocolytic due to its efficacy in suppressing uterine contractions. It is also the most potent dihydropyridine antihypertensive. Its use in tocolysis is common and generally well-tolerated, but studies show it still lowers blood pressure when used for tocolysis. Heart failure and mortality are rare in pregnant women with moderate aortic stenosis (AS). The hemodynamic changes of pregnancy, including increased cardiac output (CO) and decreased systemic vascular resistance (SVR) make this population particularly sensitive to nifedipine. Our patient had compensated for these changes but could not further compensate when stressed by nifedipine due to her stenotic valve. Because obstructive coronary disease is unlikely in this young woman, her ECG changes and troponin elevation can be attributed to global ischemia due to increased myocardial oxygen demand/supply.
+
+# CONCLUSION:
+
+Nifedipine should be avoided in patients with AS, especially in pregnant women due to their baseline higher CO and lower SVR. There should be a low threshold to echocardiographically assess pregnant women with exam findings suggesting AS. They should receive alternatives for tocolysis if/when required.
+
+# NITROUS OXIDE TOXICITY: NO LAUGHING MATTER
+
+Nikita Donti; Hiba Sayed; John H. O'Neill. Christiana Care Health Systems, Wilmington, DE. (Control ID #3178606)

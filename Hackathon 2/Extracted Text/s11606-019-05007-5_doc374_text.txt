@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# AN IMMUNOHEMOLYTIC PRESENTATION OF PERNICIOUS ANEMIA
+
+Steven Omansky; Patricia Dharapak. 1Mount Sinai Beth Israel Hospital, New York, NY; 2Mount Sinai Beth Israel, New York, NY. (Control ID #3162810)
+
+# LEARNING OBJECTIVE #1:
+
+To understand the potentially overlapping etiologies for hemolysis in autoimmune pernicious anemia.
+
+# CASE:
+
+A 33 year-old US born woman with iron deficiency anemia presented after one episode of pre-syncope. She reported 3 weeks of progressive fatigue, shortness of breath, and pain in the chest, back, and hips. She denied abdominal pain, menstrual abnormalities, sick contacts, recent trauma, and blood disorders or malignancy in her family. She did not take any medications or herbal supplements and reported tolerating a normal, unrestricted diet. Her exam was remarkable for tachycardia and mucosal pallor at the conjunctiva and soft palate. Labwork revealed a hemoglobin of 4.5 g/dL, macrocytosis to 114 fL with an RDW of 30.6%, and platelet count of 108,000 per μL. Her RBC count was 1.11 M/μL with a reticulocyte production index of 0.9%. Packed red blood cells were transfused with an appropriate response. Additional work-up was significant for a markedly elevated LDH (7035 U/L) and reduced haptoglobin (&lt;8 mg/dL). A peripheral smear showed schistocytes and anisocytosis, and a direct Coombs test was positive. Pulse dosed steroids were started for suspected autoimmune hemolytic anemia (AIHA). A serum folate level was normal, but a cobalamin level was undetectable. Subsequent methylmalonic acid and homocysteine levels were elevated, so daily intramuscular methylcobalamin was initiated. At the time of discharge, her hemoglobin had improved to 9.1 g/dL and her presenting symptoms had resolved. Serum anti-intrinsic factor and anti-parietal cell antibody assays later returned positive and confirmed a diagnosis of autoimmune pernicious anemia (PA).
+
+# IMPACT/DISCUSSION:
+
+We present a case of combined AIHA and PA resulting in severe, symptomatic anemia. The prevalence of cobalamin deficiency is &lt;3% in adults 20—39 years old with about 40% attributed to PA, but the incidence of PA with concurrent AIHA is unknown. A previous study of 865 patients with a positive direct Coombs test found PA in 3 lone subjects, and only 23 other case reports of dual-diagnosis have been published since 1951. Some of these reports found transiently positive Coombs tests that resolved after cobalamin supplementation. Conversely, PA can lead to hemolysis in the absence of AIHA less than 2% of the time due to rapid and ineffective erythropoiesis. This can be detected by the reticulocyte production index; if found low, as in our case, there is evidence of lysis within the bone marrow. Although rare, these examples highlight the importance of investigating multiple etiologies of hemolytic anemia, else risking incomplete treatment of the patient.
+
+# CONCLUSION:
+
+Cobalamin deficiency caused by autoimmunity often leads to PA and can expeditiously improve with steroids and cobalamin supplementation. PA is often associated with other autoimmune conditions, although concurrent presentation with AIHA is rare. Investigating all potential etiologies for hemolytic anemia minimizes the risk for incomplete treatment and relapse.
+
+# AN INSIDIOUS ENCEPHALOPATHY: A CASE OF DISSEMINATED COCCIDIOMYCOSIS
+
+Xin Zhang; Kyle McKenzie. Mayo Clinic, Rochester, MN. (Control ID #3181400)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize signs and symptoms of coccidioidal meningitis
+
+# LEARNING OBJECTIVE #2:
+
+Manage treatment of coccidioidal meningitis
+
+# CASE:
+
+A 74 year old non-immunosuppressed, male farmer from Minnesota was hospitalized with confusion. 6 months ago, he presented to the emergency department for 1 month of non-productive cough and intermittent fevers. Coccidioides antibody testing was obtained due to frequent travel to Arizona, but he did not receive news that it was positive. Over the next few months, he developed progressive dizziness, lethargy and confusion. MRI brain showed extensive basilar meningitis. Opening pressure was normal on lumbar puncture and CSF analysis was consistent with chronic meningitis. He was diagnosed with Coccidioidal meningitis after CSF Coccidioides PCR and anti-Coccidioides antibody returned positive. Evaluation for immunosuppressive conditions was negative. He was discharged on fluconazole. Two months later, he was hospitalized due to seizures. Repeat MRI demonstrated vasculitis associated with meningoencephalitis and an acute lacunar infarct. CSF specimen was obtained and showed no evidence of persistent meningitis. He was started on levetiracetam and dexamethasone for CNS vasculitis secondary to disseminated coccidioides. Despite the above treatment, he continued to have seizures, persistent encephalopathy, and progressive functional decline. He ultimately decided to pursue comfort cares and passed away 4 months after original diagnosis.
+
+# IMPACT/DISCUSSION:
+
+Coccidioidal meningitis is a rare presentation of disseminated coccidioidomycosis. It is associated with a high mortality rate of 95% within 2 years for untreated patients. The most common sign is persistent headache, but nonspecific symptoms and subacute presentation makes diagnosis difficult. Diagnosis can be made definitively by identifying Coccidioides in the CSF or presumptively by finding anti-Coccidioides antibodies in the CSF. CNS findings include hydrocephalus, basilar meningitis and vasculitic cerebral infarction. The cerebral vasculitic infarctions occur in setting of inflammation of small and medium sized cerebral arteries and clinically affect 10% of patients. The IDSA recommends oral fluconazole 400-1200 mg as initial treatment for coccidioidal meningitis. If treatment failure occurs, clinician can increase fluconazole dose, change azole, or use intrathecal amphotericin B. Of note, lifelong azole therapy is recommended to prevent recurrence. Corticosteroid has been shown to reduce recurrence of vasculitic cerebral infarctions in a retrospective study, but its use is controversial.
+
+# CONCLUSION:
+
+1. Coccidioidal meningitis can present with hydrocephalus, basilar meningitis and vasculitic cerebral infarction. 2. Patients should remain on lifelong azole therapy. 3. In patients with cerebral infarctions, corticosteroid can be considered to prevent recurrent vasculitic infarctions.

@@ -1,0 +1,36 @@
+# International Journal for Educational and Vocational Guidance
+
+# Table 3 (continued)
+
+N = 216. F1 = first factor (human capital and professional development), F2 = second factor (social capital and networking), F3 = third factor (career identity and self-management), F4 = fourth factor (environmental monitoring)
+
+CDMSE career decision-making self-efficacy, CESE career exploration self-efficacy, Imp. Impact, Idn identification, SL satisfaction with life
+
+* p < .05
+
+** P <.01
+
+*** p <.001
+
+# Table 4 Multiple linear regression’s assumptions
+
+| |Standardized residuals’ descriptives| | | |Durbin–Watson| |Shapiro–Wilks| |Breusch–Pagan| |
+|---|---|---|---|---|---|---|---|---|---|---|
+|F1|Min. -0.36, Max. 0.59, Skew. 0.58, Kurt. 2.64| | | |1.889|0.398|0.964, Sig. 0.000**|Chi-squared 1.361, Sig. 0.243| | |
+|F2|Min. -0.52, Max. 0.56, Skew. 0.13, Kurt. 1.71| | | |2.091|0.480|0.974, Sig. 0.000**|Chi-squared 0.008, Sig. 0.927| | |
+|F3|Min. -0.34, Max. 0.41, Skew. 0.21, Kurt. 0.79| | | |1.854|0.276|0.988, Sig. 0.078|Chi-squared 0.569, Sig. 0.450| | |
+|F4|Min. -0.46, Max. 0.63, Skew. 0.13, Kurt. 1.93| | | |1.914|0.494|0.975, Sig. 0.000**|Chi-squared 0.009, Sig. 0.926| | |
+
+N = 216. F1 = first factor (human capital and professional development), F2 = second factor (social capital and networking), F3 = third factor (career identity and self-management), F4 = fourth factor (environmental monitoring).
+
+* p < .05
+
+** P <.01
+
+*** p <.001
+
+# Discussion
+
+This article introduces the MME’s validity and reliability evidence based on the internal structure and relations to other measures in a sample of unemployed persons in Algarve, Portugal. CFA indicates the MME original internal structure fit the data, with the four subscales having good-to-excellent reliability. Conversely, the social capital and networking subscale had an AVE below 0.50, which indicates low discriminant validity. In addition, the square root of AVE is below the magnitude of the correlation to human capital and professional development subscale. This suggests the two factors are indistinguishable.
+
+Social capital and networking subscale’s reduced AVE might be related to the bad performance of item 12, which reached a factor loading below 0.50. Indeed, its elimination would have improved the AVE to the expected cutoff. Item 12 assesses the degree to which one perceives social support as an added value to one’s career. Even though this is clearly a facet of social capital and networking, the expression social support in Portuguese (suporte social) is dubious, meaning also state financial support offered to socially vulnerable populations. Future versions of the MME’s

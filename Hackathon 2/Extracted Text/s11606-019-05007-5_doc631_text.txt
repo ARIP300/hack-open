@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+# IMPLEMENTATION AND ENGAGEMENT IN A HOME VISIT PROGRAM DIRECTED TOWARDS PATIENTS AT RISK FOR PREVENTABLE HOSPITALIZATIONS IN A FEDERALLY QUALIFIED HEALTH CENTER (FQHC)
+
+Ramiro Jervis; Neil Pasco; Isaac Dapkins. NYU Langone, New York, NY. (Control ID #3179156)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Can a home visit complex care management program successfully identify and engage high risk patients in a FQHC?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify patients at an FQHC who are at risk for preventable hospitalization
+2. Enroll and engage patients in a home visit based complex care management program.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Primary Care Plus program (PCP+) is a home visit based program established to address the needs of patients at risk for preventable hospitalizations within the Family Health Centers at NYU Langone. The program staff - a physician, a nurse practitioner, a social worker and 2 community health workers - coordinate as a team to identify and address the biopsychosocial needs of high risk patients. A key intervention is the home visit lead by a physician or nurse practitioner to perform the medical assessment, medication reconciliation, and identification of both medical and social impediments to optimal health. The program is not intended to replace the patient's primary care provider, but to function as an addition to the patient's care team, identifying and mitigating risk drivers, and handing off to the primary team and care management resources once the risk drivers have been addressed. Patients are referred into the program by either their primary care doctors or care management. The program is restricted to those patients who have a continuity relationship in the Federally Qualified Health Center, and who are identified as being at risk for a preventable hospitalization. Latitude is given to the referral source in how patients are identified; guidance is given to focus on patients with a history of preventable hospitalizations (as defined by PQI) or patients with advanced disease and potential palliative care needs.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The primary measure of success is patient engagement. Patient engagement is defined by both consent to the program and successful home visit by the medical provider. Other outcome metrics are patient characteristics, number of emergency department visits and number of inpatient hospitalizations in the 12 months before program enrollment.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Since program inception in August 2018 through December 31, 2018, 75 patients have been identified by care management or primary care providers as potential candidates for the program and who met criteria as defined above. Of the 75 patients, 6 (8%) declined the program, and another 10 (13.3%) could not be found. The remaining 59 patients were seen at home and assessed. Total engagement was 78.7%. Patients identified represent a cohort of patients with an average of 2.0 inpatient admissions and 3.2 emergency department visits in the preceding 12 months prior to enrollment.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Identification of a high-risk patient population in a federally qualified health center and referral into a home visit based care management program is associated with high acceptance and engagement. Future study will determine if patients enrolled in the program have an impact on risk drivers and preventable hospitalizations.
+
+# IMPLEMENTATION OF A MODIFIED COLLABORATIVE CARE (CC) MODEL FOR DEPRESSION TREATMENT FOR VULNERABLE POPULATIONS
+
+Colleen McGourty1; Brooke Welch2; Vanessa Thompson2; Margo Pumar2; Lisa Ochoa-Frongia2. 1University of California San Francisco, San Francisco, CA; 2UCSF, San Francisco, CA. (Control ID #3146811)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Significant disparities in mental healthcare exist across the United States: racial and ethnic minorities and those living in poverty have a higher burden of depression and less access to quality mental health services than their white counterparts or those with higher socioeconomic status.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Increase patient access to mental health services for depression treatment through implementation of a modified CC model of team-based depression treatment at a Federally Qualified Health Center (FQHC).
+2. Improve depression remission rates for these FQHC primary care patients, where depression prevalence is three times the national rate and only 3-5% of patients achieve remission compared to 30% in national studies.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We piloted our team-based depression treatment program at the Richard Fine People's Clinic (RFPC), an academic internal medicine FQHC that provides primary care to underserved, diverse patients in San Francisco. The team included 3 attending-level primary care physicians, a psychiatrist, a psychologist, nurses, a medical assistant (MA), and a medical student. 14 patients with depression were enrolled based on diagnosis of major depressive disorder and a Patient Health Questionnaire-9 (PHQ-9) score of >10. They were offered medication and a referral to an imbedded team of behavioral health clinicians. An MA contacted the patient within a week to verify treatment initiation. Within 2-3 weeks, the patient met with a nurse to confirm medication adherence and to assess medication side effects and titration needs. After 6-8 weeks and again at 3 months, patients were scheduled for clinic visits with a PCP to track symptoms and to determine additional interventions. Progress was tracked in a database and discussed at biweekly team meetings.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Fidelity of intervention implementation (percent of patients receiving MA phone calls, nurse visits, and PCP follow-up visits) Patient access to mental health services (rates of medication prescription and patients accessing therapy) Depression remission rates (PHQ-9 scores and qualitative symptom descriptions)

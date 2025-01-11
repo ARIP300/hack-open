@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+While TB was once a common cause of primary adrenal insufficiency, it is now most often autoimmune in the developed world, but there are rarely observed infectious causes, including TB, Fungal, and CMV. The extra-adrenal manifestations typically stem from pulmonary TB. When TB invades the adrenals, imaging of the adrenal glands initially shows hypertrophy, which progresses to fibrosis and calcification in almost half the cases. This adrenal hypertrophy is often a key marker for differentiating tuberculous adrenal insufficiency from autoimmune adrenalitis, in which case adrenals are usually atrophied. This case of primary adrenal insufficiency highlights an atypical cause that is now rare in the developed world. TB causes adrenal destruction in a gradual manner, targeting the medulla and cortex secondarily as illustrated here by this HIV-negative latent TB patient.
+
+# CONCLUSION:
+
+Tuberculous adrenal insufficiency typically presents in an insidious manner. This case demonstrates the importance of a thorough history and evaluation especially in a patient with persistent hypotension. Another key point is the importance of realizing that not all primary adrenal insufficiency is autoimmune.
+
+# ABRUPT WORSENING OF DIABETES CONTROL ASSOCIATED WITH NEW DIAGNOSIS OF ENDOMETRIAL ADENOCARCINOMA, WITH RETURN TO BASELINE FOLLOWING CURATIVE SURGERY
+
+Michael Goulet 1; Zehra Hussain 2. 1 Christiana Care, Newark, DE; 2 Christiana Care, Wilmington, DE. (Control ID #3184521)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize malignancy in the differential diagnosis of a patient with abrupt worsening of diabetes or new-onset diabetes.
+
+# CASE:
+
+A 72 year old female with diabetes mellitus presented to the primary care office in January 2017 for diabetes follow up and with complaint of vaginal bleeding. Her diabetes had been well controlled for the past 12 years on metformin and basal insulin, but at this visit her A1c had increased to 8.7%. The patient endorsed occasional dietary nonadherence but denied any lifestyle nonadherence, infectious symptoms, steroid use, or new medications. She was advised to follow a strict diabetic diet and monitor her blood sugars closely. For her postmenopausal bleeding, gynecologic workup over the next 2 months revealed a diagnosis of grade 2 endometrial carcinoma. She was scheduled for hysterectomy with bilateral salpingo-oopherectomy and staging. Over this time period, she reported persistent elevated blood sugars to the 300s-400s despite several increases in her basal insulin and the addition of mealtime insulin. Her pre-operative A1c increased to >15%. The surgical team initially hoped for improved glycemic control, but decided to proceed with surgery given the risks of delay. The patient noted improved blood sugars within days after her hysterectomy. A1c returned to 6.3% within 3 months and remained stable as her insulin was titrated down. As of January 2019 her diabetes is well controlled on metformin alone. Pathology had indicated stage 1 disease, and she remains cancer-free.
+
+# IMPACT/DISCUSSION:
+
+Our patient had a long standing history of well controlled diabetes with a clear worsening associated with a new diagnosis of endometrial cancer, and without any other known variables to explain the deterioration. Her blood sugars returned to baseline immediately following curative surgery, indicating that hyperglycemia was likely caused by her malignancy. Hyperglycemia is known to be a risk factor for the development of endometrial cancer, but to our knowledge hyperglycemia as a consequence of endometrial cancer has not been previously reported. Pancreatic malignancy is the only cancer that is known to induce insulin resistance and diabetes, and screening strategies have been suggested for older patients with new-onset diabetes. The mechanism is thought to be through hormonal mediators produced by pancreatic tumor cells. Adrenomedullin is one hormone that has been implicated in this paraneoplastic process. This hormone has also been shown to play a role in endometrial cancer, allowing for the possibility of an overlapping mechanism in endometrial cancer.
+
+# CONCLUSION:
+
+This case highlights the importance of taking a careful malignancy-focused history and physical in patients presenting with new or abruptly uncontrolled diabetes. Hyperglycemia has previously been described as an early sign of pancreatic cancer, and our case suggests it may be a sign of endometrial cancer as well.
+
+# ABSENT TESTIS IN AN IMMIGRANT PATIENT
+
+Vishnu Manoranjan 1; David Feldstein 2; Linda Baier 3; Brian Lewis 4. 1 University of Wisconsin Hospital and Clinics, Madison, WI; 2 University of Wisconsin School of Medicine and Public Health, Madison, WI; 3 f Medicine and Public Health, Madison, WI; 4 University of Wisconsin, Middleton, WI. (Control ID #3186199)
+
+# LEARNING OBJECTIVE #1:
+
+Describe reasons for and possible contraindications to starting testosterone therapy in a hypogonadal male.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the effects of social uncertainty on immigrant patients.
+
+# CASE:
+
+A 32 year-old male presents to establish care. His chief complaint is insomnia. He has difficulty falling asleep and is kept awake by racing thoughts. He and his wife are from Iran and he worries about their future in the US. He also mentions that he cannot feel his right testis. He thinks it was removed in his youth, but is unaware of the details. He also reports decreased energy and mood. Physical exam is unremarkable except for a lack of palpable testis on the right; left is present; no surgical scar. He is started on sertraline for anxiety. MRI shows absent right testis without evidence of undescended testis or previous procedure and an atrophic left testis. Testosterone levels are low and semen analysis shows azoospermia. At 6-week follow-up, sleep has greatly improved. Urology performs further evaluation and recommends karyotype testing and testosterone supplementation. Patient declines further testing and therapy, citing costs and uncertainty about future residence.
+
+# IMPACT/DISCUSSION:
+
+Endocrine Society guidelines recommend testosterone therapy in primary hypogonadism to induce secondary sex characteristics and to correct symptoms such as sleep disturbance, depression, and decreased energy, which were seen in this case. Other, more suggestive symptoms include erectile dysfunction, low libido, and low-trauma fracture. Guidelines caution against testosterone use in patients who desire fertility in 6-12 months due to suppression of spermatogenesis. Caution is also advised in those with elevated hematocrit, thrombophilia, severe sleep apnea, severe lower urinary tract symptoms, uncontrolled heart failure, prostate cancer (or increased risk), or recent myocardial infarction. This case made me aware of the adverse effects of testosterone therapy, especially the negative effect on fertility, which I will now consider prior to prescribing. This case also highlights the de-stabilizing.

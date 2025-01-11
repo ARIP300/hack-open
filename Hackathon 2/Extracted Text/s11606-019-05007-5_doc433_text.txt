@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# HISTIOCYTOID SWEET SYNDROME: A CASE REPORT
+
+was otherwise non-specific. Despite multiple courses of anti-microbial therapy, her clinical condition worsened, ultimately requiring mechanical ventilation. On her 16th hospital day, she developed new ulcerative skin lesions on her neck and R-wrist. She became increasingly hypotensive and transitioned to comfort care, with time of death called one day after skin biopsies revealed neutrophilic dermatosis consistent with Histiocytoid Sweet Syndrome (H-SS).
+
+# IMPACT/DISCUSSION:
+
+Only 100 cases of H-SS have been previously reported. We present the first case of H-SS that presented with a labial abscess. We performed a retrospective analysis using a de-identified clinical database of >50 million unique patients in the US. Odds ratios (OR) were calculated to determine the relationship between Sweet Syndrome (SS) and other diseases. Although she had no history of cancer, she did have essential thrombocytosis (ET) which increases the risk for SS (OR 19.1). SS can often manifest after infection. We suspect that the labial abscess was the sentinel event causing her SS and her ET increased her predisposition for H-SS. Our case has similarities to those in the literature and in our analysis. First, she was female (OR 3.5). Second, she had an underlying myeloproliferative disorder (OR 19.1). Third, her skin lesions were typical of H-SS - asymmetric tender red-violaceous nodules on the neck and arms. Conversely, she was the first to present with labial ulcerations and chest pain. Most patients survive long enough to be treated, which often results in resolution of symptoms. However, our patient expired prior to initiation of therapy. This severity of H-SS has not been previously documented.
+
+# CONCLUSION:
+
+Consider SS in patient's with history of hematologic disorders with constitutional symptoms, fever, and leukocytosis not responsive to antibiotics. Early identification and rapid treatment of SS can be life-saving.
+
+# FINDING A NEEDLE IN A FAT PAD: A CASE OF PRIMARY AMYLOIDOSIS COMPLICATED BY CARDIOMYOPATHY AND NEPHROTIC SYNDROME
+
+Ali Ali; Ali Saadi; Elieth Martinez; Sagar Wagle; Natasha Singh. UCSF Fresno, Fresno, CA. (Control ID #3185700)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features and diagnosis of AL amyloidosis.
+
+# LEARNING OBJECTIVE #2:
+
+Assessing for infiltrative cardiomyopathy in the absence of a biopsy.
+
+# CASE:
+
+A 66 year old male presented with 6 months of progressive weight gain, edema and paroxysmal nocturnal dyspnea. Patient was otherwise healthy and not on medications. He was born in Mexico, but currently lived in Washington state. He did not smoke, drink or use drugs. Exam notable for +3 pitting edema in all extremities. Labs notable for serum albumin 1.5 g/dl, protein 4 g/dl and corrected calcium of 8.7 mg/dl. Complete blood count, liver function and renal function labs were otherwise normal. A 24 hour urine protein of 13 g was consistent with nephrotic syndrome. HbA1c was 6. Serum immunofixation revealed trace free lambda monoclonal proteins with kappa to lambda ratio of 0.03. Fat pad biopsy was negative for amyloid. Bone marrow biopsy showed 15-20% cellularity with lambda restriction without amyloid deposits consistent with plasma cell dyscrasia. Kidney biopsy showed AL (lambda light chain) amyloidosis predominantly glomerular with focal interstitial and vascular involvement. Bone survey was negative. Patient also presented with persistent troponemia of 0.1 ng/ml without chest pain. BNP 375. EKG showed sinus rhythm with low voltage in all leads. A transthoracic echocardiogram showed ejection fraction of 60-65% with moderate left ventricular concentric hypertrophy and impaired relaxation. Cardiac MRI with and without contrast showed abnormal myocardial gadolinium tissue kinetics and delayed enhancement consistent with amyloid deposition. Patient was diagnosed with AL amyloidosis complicated by nephrotic syndrome and cardiomyopathy. He was started on chemotherapy (CyBOR-D) and referred for stem cell transplant.
+
+# IMPACT/DISCUSSION:
+
+Light-chain (AL) amyloidosis is the most common form of primary systemic amyloidosis and normally associated with multiple myeloma, but can present as isolated plasma cell dyscrasia. It is a rare disorder with an incidence of nine per one million. The clinical syndromes can manifest as nephrotic-range proteinuria with or without renal dysfunction, hepatomegaly, congestive heart failure, and autonomic or sensory neuropathy. The diagnosis of AL amyloidosis requires tissue biopsy. In cases with limited organ involvement, biopsy of uninvolved sites, like fat pad, can have low sensitivity. Careful search for other organ involvement should be done as it impacts prognosis. In this case, the unexplained troponemia and low voltage lead to further workup and diagnosis of amyloid cardiomyopathy.
+
+# CONCLUSION:
+
+Consider amyloidosis in cases of unexplained nephrotic syndrome. Unexplained low voltage with mild troponinemia is consistent with infiltrative cardiomyopathy, cardiac MRI can often be diagnostic in the absence of cardiac biopsy.
+
+# FINDING PNEUMO: AN UNUSUAL PRESENTATION OF RECURRENT SPONTANEOUS PNEUMOTHORAX
+
+Samer N. Muallem; Ami DeWaters. Penn State Hershey Medical Center, Hershey, PA. (Control ID #3184526)
+
+# LEARNING OBJECTIVE #1:
+
+Identify catamenial pneumothorax as a cause of pneumothorax.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss treatment options to prevent recurrence of catamenial pneumothorax.
+
+# CASE:
+
+A 37-year-old woman with mild asthma presented to the internal medicine clinic one week after an emergency room visit for a spontaneous right apical pneumothorax which resolved on its own. She was asymptomatic in clinic, and the decision was made to monitor her condition. One month later, she presented to the emergency room with pleuritic chest pain and was found to have another small right-sided pneumothorax on x-ray. Computed tomography of the chest was obtained, and revealed no bleb disease to explain her recurrent pneumothorax. A thoracic surgeon evaluated her and performed an elective video-assisted thoracoscopic exploration. During this procedure, her right diaphragm was noted to have multiple fenestrations at the central tendon, as well as a small nodule which appeared consistent with endometriosis. She was thus diagnosed with catamenial pneumothorax. A patch was placed over the fenestrated area of the diaphragm, and mechanical pleurodesis was performed. She was started on oral norethindrone for progestin suppression, and had no further pneumothoraces.
+
+# IMPACT/DISCUSSION:
+
+Catamenial pneumothorax is an extremely rare condition caused by thoracic endometriosis, typically involving the parietal pleura, although the visceral pleura, diaphragm, or lung itself can also be involved. During menses, the aberrant endometrial tissue creates perforations in the pleura, resulting in the accumulation of air in the potential space. Symptoms of pleuritic pain or dyspnea classically present within three days of the onset of menstruation, but do not necessarily occur with every menstrual cycle. This condition is most common in women aged 30 to 40, although it can occur in any post-menarchal woman. Given its rarity, catamenial pneumothorax is not classically taught in internal medicine training and is more often identified by subspecialists. Internists, especially primary care providers, are the patient's first point of entry into the healthcare system, so it is important for them to be aware of this entity and obtain a comprehensive gynecologic history when they suspect it. Once diagnosed with catamenial pneumothorax, patients should also be referred to thoracic surgery for evaluation. Typically, endometrial lesions will require resection, pleurodesis, and diaphragmatic repair to reduce the risk of further pneumothoraces. Following surgical intervention, these patients should be started on hormonal suppression with oral contraceptives as tolerated, and should continue medical therapy for at least 6-12 months, with close follow up.

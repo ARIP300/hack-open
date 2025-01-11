@@ -1,0 +1,42 @@
+# Curr Psychol (2023) 42:9577–9591
+
+# Table 1 (continued)
+
+|Factors|Lessons learned from Malaysia’s Experience|Recommendations|
+|---|---|---|
+|Technological|Online learning|Students switching to online learning are faced with high level of anxiety due to unstable internet connection, weak or no connection in certain areas (Borneo Post, 2021).|
+| |Airing schools’ lessons via all-day educational television can help students with no access to online home-based teaching and learning. However, parental guidance and monitoring are important to ensure that they do not switch to other channels.| |
+| |Introducing the mobile application to keep track of suspected carriers for COVID-19|A mobile app, MySejahtera was launched in April 2020 in Malaysia; the public can use it to scan the QR code when entering any premise; users can obtain the latest information: statistics of COVID-19 cases, places that the infected patients visited, location of nearest health facilities, and health guides (Malaysia Communications and Multimedia Commission, 2020).|
+| | |There should be a live chat function in the mobile application to ensure people can get the right information instantly from the right source. This can prevent people from getting information from unreliable sources during the pandemic. To combat fake news, the application can consider integrating social media features for people to obtain information during the pandemic. It is also recommended that the mobile application include information pertaining to exposed location, date and time visited by COVID-19-positive persons. This is to alert other people who have visited the same location, at a specific time and on a specific day, and go for tests if necessary.|
+
+and large, COVID-19 has impacted the society both positively and negatively. In the year 2020, a slew of key research associated with COVID-19 has been conducted particularly in the epidemiological, medical, and virological realms. Hence, there is an urgent need to carry out empirical research on social wellbeing related to the COVID-19 pandemic. Several aspects should be addressed in the future investigations: How do social distancing policies impact the landscape of social lives? Will the post-COVID-19 environment reset the standard of social happiness and wellbeing in high-context cultures? To what extent and in what manner does the volunteering during COVID-19 affect the psychological distress and life satisfaction in high-context cultures? The research ideas presented in this paper are by no means exhaustive; however, we believe these notions are likely to help future researchers to formulate problem statements and refine research questions in the social wellbeing domain. Exploring the above research questions should yield substantive and meaningful findings that can uncover the impacts of COVID-19 on various aspects of the society’s wellbeing. Lastly, we hope more studies can be carried out in the Asian countries so that the COVID-19 pandemic can be investigated in different contexts and from different perspectives. This will enable useful and generalizable findings be shared among the research fraternity. Using substantially the “Western, Educated, Industrialized, Rich, and Democratic” (WEIRD) samples, Henrich et al. (2010) noted that more social psychology research should be conducted in the under-represented regions such as Asian countries (high-context cultures).
+
+# Availability of Data and Material
+
+Not applicable.
+
+# Code Availability
+
+Not applicable.
+
+# Declarations
+
+# Ethics Approval
+
+Not applicable.
+
+# Consent to Participate
+
+Not applicable.
+
+# Consent for Publication
+
+Not applicable.
+
+# Conflict of Interest
+
+The authors declare that they have no conflict of interest.
+
+# References
+
+Abdullah, J. M., Ismail, W. F. N. M. W., Mohamad, I., Ab Razak, A., Harun, A., Musa, K. I., & Yeong, Y. L. (2020). A critical appraisal of COVID-19 in Malaysia and beyond. The Malaysian Journal of Medical Sciences, 27(2), 1–9.

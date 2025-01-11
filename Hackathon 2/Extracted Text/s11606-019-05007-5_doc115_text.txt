@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# EVALUATION OF USE OF LONG-ACTING INSULIN IN INPATIENTS PER AMERICAN DIABETES ASSOCIATION (ADA) GUIDELINES
+
+Richa Panara1; Ethan Molitch-Hou1; Erika Brechtelsbauer2; Shanza Ashraf2; Susan Henry2; Karen Robinson2; Mary Beth Clark2; Haritha Katakam2; Ingrid M. Pinzon; Dhaval Desai2; Maria Klimenko2; Hasan Shabbir2.2
+
+1Emory University School of Medicine, Atlanta, GA; 2Emory University, Atlanta, GA. (Control ID #3185690)
+
+# BACKGROUND:
+
+The current American Diabetes Association (ADA) guidelines recommend against using correctional insulin alone for inpatient blood glucose control in patients with diabetes mellitus. The use of correctional insulin alone inadequately controls hyperglycemia, leads to larger swings in blood glucose when compared to scheduled insulin use, and increases hospital complications. Basal insulin use has been recommended for inpatient glycemic control for more than a decade. We analyzed the frequency of prescribing guideline-recommended basal insulin for hospitalized patients with a blood glucose greater than 180mg/dL within our healthcare system.
+
+# METHODS:
+
+All hospital encounters at four hospitals within a quaternary healthcare system involving patients above the age of 18 admitted to the medical and surgical wards from September 1, 2017 to September 30, 2018 with an inpatient blood glucose greater than 180 mg/dL were reviewed. Information was obtained from a clinical data warehouse. Patients in critical care units, pregnant patients and patients with an admission diagnosis directly influencing insulin use such as hyperglycemia, hypoglycemia, ketoacidosis, and hyperosmolar states were excluded from the analysis.
+
+# RESULTS:
+
+A total of 11,752 patient encounters were analyzed. Of these encounters, 42% were started on basal insulin during the hospitalization (2% Basal alone, 3% Basal/Bolus, 44% Basal/Bolus/Correctional, 51% Basal/Correctional.) 39% were treated with lone correctional insulin, and 17% were not started on insulin of any kind. Basal insulin was used more commonly if admitted by a Medicine service compared to Surgical service (45% vs. 25% p < 0.01), the patient was on home basal insulin (90% vs. 60% p < 0.01), the patient had an A1c > 9% (85% vs. 43% p < 0.01), or an order set was used (70% vs. 30% p < 0.01). The use of basal insulin resulted in more patient days with hypoglycemia (<70mg/dL, 0.64d vs. 0.29d, p<0.01) and hyperglycemia (>299mg/dL, 2.3d vs. 0.5d, p < 0.01).
+
+# CONCLUSIONS:
+
+This study showed that ADA guidelines for inpatient insulin dosing are being underutilized in multiple hospitals within a quaternary healthcare system. Only 42% of patients were prescribed basal insulin during hospitalization. While hyperglycemia and hypoglycemia were worse in the basal insulin group, this group was more likely to have worse glucose control prior to admission. Implementing a guideline-derived inpatient order set could increase prescribing of a basal-bolus insulin regimen.
+
+# EVIDENCE REVIEW: MODIFIABLE RISK FACTORS AND INTERVENTIONS TO PREVENT OR DELAY LONG-TERM NURSING HOME PLACEMENT FOR ADULTS WITH IMPAIRMENTS
+
+Wei Duan-Porter 3, 2; Kristen Ullman 3; Christina Rosebush3; Lauren McKenzie3; Nancy Greer3; Kristine E. Ensrud3, 4; Edward Ratner1, 2; Tetyana Shippee4; Joseph Gaugler4; Timothy Wilt3, 2. 1Minneapolis VA Health Care System, Minneapolis, MN; 2University of Minnesota Medical School, Minneapolis, MN; 3Minneapolis VA, Minneapolis, MN; 4University of Minnesota, Minneapolis, MN. (Control ID #3185374)
+
+# BACKGROUND:
+
+To help adults with physical or cognitive impairments remain in community settings, national efforts have sought to improve access to home and community-based services (HCBS) and rebalance funding. In this review of reviews, we examined modifiable risk factors for long-term nursing home placement (NHP) and intervention effects on preventing or delaying NHP.
+
+# METHODS:
+
+Multiple databases were searched, and additional references sought from experts. Eligible systematic reviews (SR) examined frailty, other risk factors, and various interventions. Abstracted data included: study characteristics; target population; NHP ascertainment; and risk factor or intervention category. Using predetermined criteria, we prioritized a subset of SR for further abstraction of detailed results: meta-analysis or qualitative synthesis of effects, moderation effects, datasets used, NHP ascertainment, quality of included studies, and overlap in studies.
+
+# RESULTS:
+
+Of 7014 unique citations, we found eligible 67 SRs (20 on risk factors, 47 for interventions); all included older adults with impairments, or at risk for impairments due to age or medical burden. Eighteen SR were high quality, 10 were umbrella reviews, and 46 included randomized controlled trials. Few SR discussed how studies assessed NHP; those that examined this question found that most studies used participant (or family) reports or had unclear NHP ascertainment. Main results from the subset of eligible SR (6 for risk factors, 20 for interventions) are summarized in Table.
+
+# CONCLUSIONS:
+
+Comprehensive case management and caregiver support showed some benefit, although results were inconsistent. Future studies should compare effects of interventions that target similar factors in alternative settings (eg, home vs. clinic), and consider follow-up periods >2 years.
+
+# EVOLUTION OF NURSING ROLES AND NURSE-PHYSICIAN COLLABORATION DURING IMPLEMENTATION OF VA'S PATIENT-CENTERED MEDICAL HOME: KEY STAKEHOLDER PERSPECTIVES
+
+Alicia Bergman1; Danielle Rose2; Linda Kim3; Alison B. Hamilton4; Susan E. Stockdale5. 1VA Greater Los Angeles, North Hills, CA; 2VA GLA Healthcare System, Sepulveda, CA; 3VA-Greater Los Angeles, Los Angeles, CA; 4VA Greater Los Angeles Healthcare System, Los Angeles, CA; 5Greater Los Angeles VA Healthcare System, Sepulveda, CA. (Control ID #3184426)
+
+# BACKGROUND:
+
+Effective nurse-physician collaboration is essential for providing quality health care, but long-standing relationship challenges have been reported between these professions. Recent studies have explored the impacts of the patient-centered medical home (PCMH) model on primary care providers and teams, but a targeted investigation into nurses' and physicians' respective roles and interprofessional dynamics with one another is missing. Veterans Health Administration (VHA) implemented PCMH in 2010. The goal of this study was to explore primary care provider (PCP) and nurse (RN) interprofessional collaboration against the backdrop of evolving RN roles during PCMH implementation.
+
+# METHODS:
+
+Qualitative interviews were conducted with 47 key stakeholders (e.g., primary care and nursing leaders) as part of a PCMH implementation evaluation in 3 VA healthcare systems. Interviews were recorded, transcribed, and analyzed to identify major themes regarding RN roles and RN-PCP interprofessional collaboration.
+
+# RESULTS:
+
+Key stakeholders perceived that: 1) PCPs and RNs understood PCMH RN roles differently; 2) PCPs expected RNs to work above the top of their license; 3) RNs were not working at the top of their license; and 4) PCPs were coping with deviations from a traditional physician/RN model. Differences in understanding of the RN roles were perceived to derive from separate reporting structures between PCPs and RNs, and nursing roles being translated and practiced differently across different PCMH teams. With regard to perceived PCP expectations, key stakeholders noted that some nurses took on extra work (beyond their scope) in order to appease PCPs. Other key stakeholders described how RNs were not working at the top of their license for reasons including PCP territoriality, inadvertent creation of clerical work hindering dedication of sufficient time to higher functioning tasks.

@@ -1,0 +1,49 @@
+# Bus Inf Syst Eng 62(3):261–272 (2020)
+
+https://doi.org/10.1007/s12599-020-00633-4
+
+# D I SC U SS I O N
+
+# The Role of IS in the Conﬂicting Interests Regarding GDPR
+
+Timo Jakobi • Maximilian von Grafenstein • Christine Legner • Cle´ment Labadie • Peter Mertens • Ayten O¨ ksu¨ z • Gunnar Stevens
+
+Published online: 9 March 2020
+
+Ó The Author(s) 2020, corrected publication 2021
+
+# 1 Introduction
+
+Timo Jakobi, Information Systems esp. IT-Security and Privacy, University of Siegen
+
+Since May 25 2018, the General Data Protection Regulation (GDPR) regulates the handling of personal data both for companies in the European Union and European Citizens. It is part of the European Union’s Digital Single Market strategy and aims to create the conditions for an economy without barriers that would beneﬁt individuals and companies as well as society as a whole (European Parliament and Council 2016).
+
+The original online version of this article was revised due to a retrospective Open Access order.
+
+Dr. T. Jakobi (&) Prof. Dr. G. Stevens
+
+Information Systems esp. IT-Security and Privacy, University of Siegen, Siegen, Germany
+
+e-mail: timo.jakobi@uni-siegen.de
+
+Prof. Dr. M. von Grafenstein
+
+Berlin University of the Arts, Einstein Center Digital Future, Berlin, Germany
+
+Prof. Dr. C. Legner C. Labadie
+
+Faculty of Business and Economics (HEC), University of Lausanne, Lausanne, Switzerland
+
+Prof. Dr. Dr. hc. mult. P. Mertens
+
+School of Business, Economics and Society and Faculty of Engineering, University of Erlangen-Nuremberg, Nuremberg, Germany
+
+Dr. A. O¨ ksu¨z
+
+Consumer Association of North Rhine-Westphalia, Du¨sseldorf, North Rhine-Westphalia, Germany
+
+The protective purpose of the GDPR is to enable individuals, against the background of modern data processing possibilities and techniques and their risks, to decide for or against a consent to data processing on the basis of appropriate information on how their personal data are handled and in a self-determined manner. At the same time, the GDPR has established many fundamentally new concepts, thereby opening new leeway for legal, scientiﬁc and practical interpretation, providing both challenges and potential for renewal and innovation.
+
+Almost two years after the entry into force of the GDPR, it seems appropriate to reﬂect on ﬁrst effects, suggestions for improvement and future high potential research areas. With Business and Information Systems Engineering research focusing on socio-technical systems for digital data processing for commercial or social purposes, it seems that it is the natural place for a transdisciplinary examination of the possibilities and challenges that this new regulation brings along. In this regard, BISE is – maybe better than any other ﬁeld – suited to address such complex questions at the intersection of law, design, organizational research and information systems. However, with evolution of its context, maybe also the ﬁeld itself needs to adapt.
+
+One sign for this simultaneous potential need and opportunity is the vivid research surrounding GDPR in the areas concerning the interdisciplinary ﬁeld of BISE. In the vast majority of these contributions, a key question revolves around the interpretation of certain aspects of GDPR. On a more practical level, for example, there is an increasing body of practical guides or implementation guidelines, looking at how organizations will have to move forward to comply and avoid ﬁnes or negative publicity (Tankard 2016; Huth 2017; Voigt and Von dem Bussche).

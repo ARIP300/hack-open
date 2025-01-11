@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+following documented conditions: hypertension (1350, 63%), diabetes (840, 65%), hyperlipidemia (890, 73%), depression (529, 67%), anxiety (462, 68%), arthritis (344, 63%), asthma (336, 66%), anemia (260, 73%), coronary artery disease (130, 59%), cancer (147, 71%), COPD (101, 64%), CVA (102, 71%), MI (55, 63%). The average CCI for all patients was 0.84 with the CCI being 0.64 for patients seen only once, and 1.06 for patients seen for 2 or more visits. Further univariable analyses including chi-square and correlations are reported.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Uninsured patients with multiple comorbidities and elevated mortality risk continue to follow up with free clinic providers. Future public health programs should target the common diseases experienced by uninsured patients. Future studies are needed to study effective management of these multiple comorbidities in the free clinic setting. By describing the clinical characteristics of uninsured patients, we can paint a more accurate picture of the state of American health care as we struggle to pay for the price of poverty.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This course is a resident-driven initiative to improve awareness of societal determinants of health. Pre-course surveys indicate an awareness of SDH but overall lack in knowledge of how this directly impacts patient care. While our course is still ongoing, we have had anecdotal feedback on the direct applicability of content to patient care. Moreover, resident participants are actively brainstorming and creating additional initiatives to address these concerns specific to our patient population. We are encouraged that by formally introducing this new curriculum, it has resulted in self-directed learning outside of the specific lecture content.
+
+# BLOCK OF ADDICTION MEDICINE (BAM!): AN INTENSIVE RESIDENT CURRICULUM IMPROVES COMFORT WITH SUBSTANCE USE DISORDERS
+
+Hadas Reich1; Kathleen Hanley1; Lisa Altshuler2. 1NYU, New York, NY; 2NYU School of Medicine, New York, NY. (Control ID #3181811)
+
+# ASSESSMENT AND MANAGEMENT OF SOCIAL DETERMINANTS OF HEALTH IN THE PRIMARY CARE SETTING, AN INTERNAL MEDICINE RESIDENT CURRICULUM
+
+Mary McAllister1; Mark Troyer2; Lisa Kearns. 1Ohio State University, Columbus, OH; 2Ohio State University Wexner Medical Center, Columbus, OH. (Control ID #3186222)
+
+# NEEDS AND OBJECTIVES:
+
+Clinicians may see the effects of social determinants on their patients' health but often lack knowledge or confidence in addressing SDH in clinical practice. Medical training has traditionally emphasized the biomedical model over social and environmental factors, leaving physicians with few tools to address SDH. Course objectives: Learners will be able to recognize socially determined barriers contributing to health disparity in at-risk populations. Learners will apply concepts of interdisciplinary care to address barriers to health care. Learners will show consideration for societal determinants of health in care plans in the clinic.
+
+# SETTING AND PARTICIPANTS:
+
+This course takes place in an ambulatory noon lecture setting. Participants are primary care track residents in the Ohio State University Internal Medicine Residency Program.
+
+# DESCRIPTION:
+
+We have developed an interactive course to increase knowledge of social determinants of health (SDH) and increase confidence in addressing SDH in the ambulatory setting. Topics addressed include economic stability, language & health literacy, built environment, food security, addressing SDH for individual health, and community-specific resources to optimize patient outcomes. Eight 45-minute sessions are held across two months, consisting of brief didactic teaching followed by interactive activities. These include role play, attitude/bias discussion, vignette or article analysis. Learners complete virtual neighborhood visits of zip codes served by their own clinic by researching SDH metrics (ie income, crime, language) and reviewing evidence tying each metric to health outcomes and disparities. Discussions such as "what can we do?" include pharmacists, social workers, and nurses sharing available clinic resources for addressing SDH with patients.
+
+# EVALUATION:
+
+To evaluate this curriculum, we are utilizing a pre/post survey for participants. We will measure improvements in knowledge of SDH using multiple choice questions and assess improvements in attitudinal and behavioral/skills outcomes using a 5-point scale that relies on learner self-assessment of confidence in recognizing and managing healthcare barriers. Each survey question is cross-referenced to a learning objective identified in sessions 1-8. The course is currently in progress.
+
+# NEEDS AND OBJECTIVES:
+
+There is an increasing need for resident education on substance use disorders (SUDs). The purpose of our curriculum was to improve residents' knowledge, skills, and attitudes on treating patients with SUDs.
+
+# SETTING AND PARTICIPANTS:
+
+First and second year residents from NYU's Primary Care, Internal Medicine program participated in the Block of Addiction Medicine (BAM!) curriculum. Clinical settings included buprenorphine/methadone clinics and outpatient treatment programs in a large, urban safety net hospital system.
+
+# DESCRIPTION:
+
+BAM! is an intensive two week curriculum focused on SUDs. To improve residents' knowledge, we included didactic sessions on substances, including alcohol, opiates, and tobacco. Sessions covered epidemiology, biology, and treatment, including pharmacologic options, with all residents receiving buprenorphine prescribing waiver training. BAM! was delivered by an interdisciplinary faculty that included addiction medicine specialists, department of health officials, and general practitioners, nurses, and social workers who have worked extensively with patients with SUDs. Workshops built skills including screening, brief interventions, and referral to treatment (SBIRT) and motivational interviewing. Residents attended buprenorphine/methadone clinics, outpatient treatment programs, and 12-step (AA/NA) meetings. Residents shared lunch in a non-clinical setting with patients in recovery to understand their perspectives on living with addiction.
+
+# EVALUATION:
+
+Residents' attitudes and self-perceived efficacy in treating SUDs were surveyed. Pre and post data was obtained on 15 of 16 participants. Using the medical condition regard scale (MCRS), an 11 item questionnaire on biases/emotions/expectations for treating patients with SUD, we found a statistically significant improvement in the composite score, from 44.46 to 47.0 (p=0.026). Of 15 residents, 11 reported improved ability to effectively screen for SUD, 10 reported improved comfort in screening patients for SUD, 12 reported improved knowledge in using medically assisted treatment (MAT), and 14 reported improved ability to effectively treat patients with MAT (all p<.001 in Wilcoxon signed rank test). Qualitative feedback showed residents felt this curriculum was an essential part of their education; one participant commented: "this is a course that should be offered to every medical care provider."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+BAM! included a varied curriculum delivered by inter-professional faculty. Residents reported improved comfort in treating patients with SUDs and demonstrated a significant improvement on the MCRS in their already positive attitudes towards treating this patient population. Qualitative feedback indicated that

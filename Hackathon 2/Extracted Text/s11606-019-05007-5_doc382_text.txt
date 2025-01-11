@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# AN UNUSUAL CAUSE OF ABDOMINAL PAIN AND CONFUSION IN A PATIENT WITH CIRRHOSIS
+
+Michelle Knees1; Kellen Hirsch1; Jason John1; Katarzyna Mastalerz2.
+
+1University of Colorado School of Medicine, Denver, CO; 2VA Eastern Colorado Health Care System, Aurora, CO. (Control ID #3138139)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Chilaiditi sign and consider corresponding syndrome complications in any patient with cirrhosis, abdominal pain, and appropriate radiographic sign.
+
+# CASE:
+
+A 72-year-old man presented with three days of worsening confusion in the setting of known cirrhosis. Notably, he was recently treated at an outside hospital for dehydration and was discharged without his lactulose or rifaximin. Lactulose and rifaximin were restarted upon admission, with gradual improvement in his confusion. However, six days into his hospitalization, he developed acute abdominal pain, vomiting, and worsening confusion. Vital signs were within normal limits; his abdomen was distended and diffusely tender with voluntary guarding but without rebound tenderness. He was lethargic and alert only to person. An abdominal x-ray showed a distended large intestine under the right hemidiaphragm without clear signs of pneumoperitoneum. A subsequent CT abdomen/pelvis further delineated moderate stool burden and interposition of the large bowel between the diaphragm and liver. The radiologist's differential included Chilaiditi sign; given the patient's symptoms, a presumptive diagnosis of Chilaiditi syndrome leading to constipation and worsening hepatic encephalopathy was made, and the patient was treated conservatively with bowel rest, IV fluids, ondansetron, and additional lactulose. He soon had one large bowel movement with improvement of his abdominal pain and confusion.
+
+# IMPACT/DISCUSSION:
+
+Normally, the colon and liver are kept in place with suspensory ligaments; however, cirrhosis is a known risk factor for Chilaiditi syndrome due to liver atrophy disrupting the normal suspensory ligament anatomy. This can lead to intermittent bowel and liver interposition with resultant abdominal symptoms. The differential for acute abdominal pain is large. The danger of Chilaiditi syndrome resides less with the syndrome itself and more with mistaken diagnoses, which can include complete bowel obstruction, subdiaphragmatic abscesses, or pneumoperitoneum, all of which can lead to surgical intervention. When diagnosed correctly, uncomplicated Chilaiditi syndrome frequently resolves with only supportive treatment. Interestingly, our patient had a years-long history of intermittent abdominal pain and difficult-to-control hepatic encephalopathy. After diagnosing Chilaiditi syndrome, our team felt that his hepatic encephalopathy was so labile due to his inability to tolerate a consistent lactulose/rifaximin dosing regimen from symptoms related to this syndrome. To avoid unwarranted invasive interventions, recognition of this rare but important diagnosis should be kept in mind in any patient with cirrhosis, abdominal pain, and the appropriate radiographic signs.
+
+# CONCLUSION:
+
+Chilaiditi radiographic sign can indicate Chilaiditi syndrome and can be easily mistaken for pneumoperitoneum. Intermittent constipation resulting from Chilaiditi syndrome can complicate the disease course of hepatic encephalopathy.
+
+# AN UNUSUAL CAUSE OF OBSTRUCTIVE JAUNDICE
+
+Chirag Buch2; Heather L. Briggs1. 1University of Texas Health Science Center at San Antonio, San Antonio, TX; 2UT Health San Antonio, San Antonio, TX. (Control ID #3161334)
+
+# LEARNING OBJECTIVE #1:
+
+Review clinical presentation of obstructive jaundice
+
+# LEARNING OBJECTIVE #2:
+
+Recognize a rare complication of clip cholelithiasis after a laparoscopic cholecystectomy
+
+# CASE:
+
+61 y/o Hispanic male with a PMH of HTN, HLD, DMII, gallstone pancreatitis s/p cholecystectomy 3 years ago complicated by gallbladder fossa abscess s/p IR drainage presented with 3 weeks of acute onset nausea, vomiting, and abdominal pain. The RUQ pain is sharp, intermittent, worsens with food, and is relieved with vomiting. He endorses dark urine, acholic stools, chills, 10 lb weight loss, and jaundice. He denies fever, neurological deficits, pruritus, hematochezia, and any symptoms of peripheral neuropathy. His admission laboratory tests were significant for elevated liver enzymes (AST 203, ALT 354, & ALP 251) with hyperbilirubinemia (T Bili 10.0 and D Bili 5.9). CT scan showed possible migrated surgical clip. Gastroenterology was consulted and endoscopic retrograde cholangiopancreatography (ERCP) was performed, showing a prominent common bile duct with oblong distal filling defect. The patient underwent extraction of two stones (one which appeared to represent a concretion surrounding the migrated cholecystectomy clip) and subsequent ductal clearance/decompression. The following day, he was tolerating a full diet and had resolution of his post-prandial symptoms, decrease in RUQ tenderness, and a decline of his liver enzymes and bilirubin.
+
+# IMPACT/DISCUSSION:
+
+The first laparoscopic cholecystectomy was performed in 1985 in Germany. Since then, this procedure replaced the conventional open cholecystectomy and became one of the most common operations performed. There are about 300,000 of these procedures performed each year for cholecystitis, symptomatic cholelithiasis, biliary dyskinesia, acalculous cholecystitis, gallstone pancreatitis, and gallbladder masses/polyps. Complications following this procedure occur less than 5% of the time. These include bleeding, infection, and injury to surrounding structures. Most patients can be managed with close follow up, but some require extensive hospitalizations that raise mortality, morbidity, and health care costs. Less than 100 cases of clip migration following laparoscopic cholecystectomy have been reported. Though the mechanism of surgical clip migration, gallstone formation around the clip, and its obstruction is unclear, this case highlights a rare complication in a patient who presented 3 years post cholecystectomy with classic symptoms of obstruction of the biliary system.
+
+# CONCLUSION:
+
+Surgical clip migration, a rare complication of laparoscopic cholecystectomy, should be considered part of the differential diagnosis in patients that present with clinical manifestation of choledocholithiasis post procedure. Urgent imaging and management should be considered.
+
+# AN UNUSUAL CONSEQUENCE OF ALCOHOLISM AND RECURRENT PANCREATITIS
+
+MRUDULA THIRIVEEDI; Parekha Yedla. UAB, Huntsville, AL. (Control ID #3185898)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize an uncommon cause of ascites in patients with alcoholic liver disease and the treatment options available.
+
+# CASE:
+
+A 41 year old woman with history of alcoholism and recurrent pancreatitis presented with a three day history of abdominal pain and

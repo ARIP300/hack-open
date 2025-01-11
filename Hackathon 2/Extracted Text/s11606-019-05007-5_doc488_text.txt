@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# MYCOBACTERIUM IMMUNOGENUM INFECTION PRESENTING AS DISSEMINATED CUTANEOUS INFECTION
+
+Michael Yang2; Ribka Ayana1. 1Washington DC VA Medical Center, Washington DC, DC; 2Medstar Georgetown University Hospital, Washington, DC. (Control ID #3184963)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of non-tuberculous mycobacteria (NTM) infection
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the diagnostic and treatment challenges associated with Mycobacterium Immunogenum (M. immunogenum) infection
+
+# CASE:
+
+A 46-year-old man presented with a 3 cm tender, indurated lesion on the left hand five days after injecting IV cocaine into the right arm. He also had discrete, non-tender, non-erythematous nodules on the right forearm and left leg. He was exposed to gardens and fish tanks weeks prior to presentation. He had no fever or leukocytosis. All lesions were surgically drained and cultured, without bacterial growth. He was discharged on Clindamycin but returned two days later with new non-erythematous, rubbery nodules on the right forearm and the left axilla. Infectious disease (ID) was consulted and advised biopsy with AFB and fungal cultures. Mycobacterium chelonae-abscessus group was isolated from the AFB culture. Further gene sequencing at the National Institutes of Health revealed M. immunogenum with resistance to fluoroquinolones, cefoxitin, doxycycline, tobramycin, and TMP-SMX, and intermediate carbapenem sensitivity. The patient received 10 weeks of IV amikacin, meropenem, and azithromycin, followed by 6 week oral course of azithromycin and moxifloxacin.
+
+# IMPACT/DISCUSSION:
+
+NTM are found in soil, fresh water, and tap water. They include the M. chelonae-abscessus group, M. fortuitum, and M. marinum. M. immunogenum is a NTM first described in 2001 and added to the M. chelonae-abscessus group in 2007. NTM SSTIs have been linked with skin trauma, cosmetic procedures, surgeries, tattoos, piercings, and acupuncture, often in the setting of immunosuppression. The distal extremities are the most common sites of infection. Susceptibility patterns vary by species. M. fortuitum is the most susceptible; M. chelonae-abscessus group is susceptible to aminoglycosides with varying susceptibility to carbapenems, fluoroquinolones, tetracyclines, and linezolid. Widespread penicillin and cephalosporin resistance mitigate their use. Macrolide susceptibility is common, but inducible macrolide resistance exists. Our case adds to the limited number of case reports in literature describing infection with M. immunogenum. M. immunogenum infection can cause substantial morbidity due to clinical under recognition resulting in delayed diagnosis as well as diagnostic challenges as definitive identification requires gene sequencing at a specialized center. Management is further complicated by extensive drug resistance.
+
+# CONCLUSION:
+
+NTM infection should be considered in all patients in whom bacterial cultures are negative, especially those with distal extremity involvement, immunodeficiency, or the appropriate environmental exposures. M. immunogenum is a difficult-to-treat pathogen. The optimal treatment for disseminated cutaneous M. immunogenum infection remains unknown and is complicated by extensive drug resistance. Management involves AFB culture, ID consultation, where available, and prolonged courses of multiple antibiotics.
+
+# MYCOBACTERIUM TUBERCULOSIS IN A PATIENT FROM AN ENDEMIC REGION. WHAT ELSE COULD IT BE?
+
+Behnam Laderian; Takaaki Kobayashi; Jason H. Barker. University of Iowa Hospitals and Clinics, Iowa City, IA. (Control ID #3181737)
+
+# LEARNING OBJECTIVE #1:
+
+Differential diagnosis in patients suspected to be infected with mycobacterium tuberculosis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the clinical manifestation, diagnosis and treatment for blastomycosis
+
+# CASE:
+
+A 33 year-old man from Honduras with no significant past medical history arrived for evaluation of refractory pneumonia. Patient's symptoms of dry cough, malaise, night sweats, and fevers mostly occurring at night started a month prior to presentation. Multiple visits to local emergency room resulted in receiving treatment for community-acquired pneumonia. Patient's symptoms continued despite completing appropriate antibiotics. Upon presentation, computer tomography of the chest was obtained with intravenous contrast revealing extensive pneumonia in the right lung with a collapsed right middle lobe bronchus, extensive mediastinal and hilar lymphadenopathy, and numerous pulmonary nodules. The constellation of patient's symptoms, background, and imaging findings prompted testing for pulmonary tuberculosis (TB). Acid fast bacillus stain of sputum, and PCR were negative for TB. Blastomyces urine antigen was elevated at 4.27 ng/mL. Histoplasma urine antigen was also mildly positive at 1.91 ng/mL due to cross-reaction. Patient was diagnosed with blastomycosis pneumonia and appropriate treatment was initiated.
+
+# IMPACT/DISCUSSION:
+
+TB should be considered if a patient from an endemic region presents with fevers, night sweats, weight loss, and respiratory symptoms or refractory pneumonia despite adequate treatment with antibiotics. Once TB has been ruled out, consideration must be given to other causes such as viral infection, fungal infection or even malignancy. Blastomycosis is a systemic pyogranulomatous infection that arises after inhalation of conidia of Blastomyces dermatitidis. The fungus lives in the midwestern, south-central, and southeastern states. The clinical manifestations of blastomycosis include asymptomatic infection, acute or chronic pneumonia, and extrapulmonary disease. Symptoms include cough, sputum production, shortness of breath, weight loss, fever, and night sweats. The lungs are the most common site of infection, followed by the skin, bones, and genitourinary system. Chest imaging may show nodules and consolidation with or without cavitation. While culture and cytopathology remains the gold standard for definite diagnosis, the detection of fungal antigen in urine has proven useful. The sensitivity is 89-93%, whereas specificity is 79% due to cross-reaction to histoplasmosis. The antigen level is also useful for evaluating response to treatment. For patients with mild to moderate disease, itraconazole is recommended, whereas severe disease requires amphotericin B.
+
+# CONCLUSION:
+
+Blastomycosis can mimic other diseases including community-acquired pneumonia, malignancy or TB and is often misdiagnosed due to the variability of presentation and its relative rarity. A high index of suspicion is needed when the diagnosis is uncertain and patients live in or have traveled to areas endemic for blastomycosis.
+
+# MYCOPLASMA PNEUMONIAE INFECTION PRESENTING AS STEVEN-JOHNSON SYNDROME-TOXIC EPIDERMAL NECROLYSIS IN AN ADULT
+
+Ashley Thompson; Minni Shreya Arumugam; Jivan Lamichhane. SUNY Upstate Medical University, Cayuga, NY. (Control ID #3185854)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that SJS-TEN is a rare dermatologic manifestation of Mycoplasma pneumoniae infection in the adult population
+
+# CASE:
+
+A 43-year old man with history of smoking and alcohol abuse, and recent upper respiratory illness presented with altered mental status, rash, and severe oropharyngeal bleeding. The patient denied any medication use. Physical exam was notable for maculopapular rash of abdomen with significant desquamation and hemorrhagic bullae of eyelids, nares, oropharynx, extremities, and glans of penis. Vitals were notable for tachycardia, hypertension, and hypothermia. Labs showed leukopenia, thrombocytopenia, mild transaminitis, high-normal lactate, and electrolyte abnormalities. Chest X-ray noted increased interstitial markings. CT chest was remarkable for tree-in-bud appearance and ground glass opacities. M. pneumoniae PCR was positive, which was confirmed with positive IgM serology. Other infectious work up was negative. The patient was started on Azithromycin and Prednisone and transferred to the ICU.

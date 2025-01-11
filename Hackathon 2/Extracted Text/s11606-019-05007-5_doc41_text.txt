@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Medicare fully pays for post-acute care provided by skilled nursing facilities (SNFs) for the first twenty days within a benefit period. However, on the twenty-first day, patients become responsible for a daily copayment of over $150. This may represent a significant financial burden for some patients, motivating discharge from SNFs based on finances rather than recovery. SNFs may also prematurely discharge some patients to avoid the risk of providing partially uncompensated post-acute care and bad debt. However, patterns of SNF discharge as they relate to these Medicare payment policies are unknown.
+
+# METHODS:
+
+We performed a retrospective cohort study of Medicare beneficiaries continually enrolled in fee-for-service Medicare with acute care hospital stays resulting in discharge to SNF from 2012-2016. For each SNF discharge, we computed the SNF benefit day on discharge based on the number of SNF benefit days used in that benefit period. We compared patient characteristics across benefit days, including age, sex, race/ethnicity, a count of 31 Elixhauser comorbidities, and ZIP-code-level socioeconomic status (from the American Community Survey), including median household income, poverty rate and unemployment rate. We compared differences using two-tailed t-tests.
+
+# RESULTS:
+
+More patients are discharged from SNF on day 20 compared to days 19 or 21 (2.93% on day 19, 5.01% on day 20, and 2.69% on day 21). Patients discharged from SNF on benefit day 20 were younger (79.0 years among patients discharged on day 20 compared to 80.0 years on day 19 and 81.3 on day 21, p<0.01). They were also more likely to be Black/Hispanic (12.6% on day 20 compared to 8.1% on day 19 and 7.5% on day 21, p<0.01), and live in areas of high poverty (15.3% on day 20 compared to 13.8% on day 19 and 13.4% on day 21, p<0.01) with lower median household incomes ($56,586 on day 20 compared to $60,443 on day 19 and $61,619 on day 21, p<0.01).
+
+# CONCLUSIONS:
+
+Medicare beneficiaries are more commonly discharged from SNFs on benefit day 20 than days 19 or 21, and those discharged on day 20 are more likely to be racial/ethnic minorities and of lower socioeconomic status compared to beneficiaries discharged either before or after benefit day 20. SNFs may be preferentially discharging vulnerable patients to avoid the risk of assuming responsibility for defaulted payments. Whether these practices impact patient outcomes remain unknown, but nonetheless raises concerns about the implications of this practice.
+
+# ASSOCIATION OF NUMBER OF UNIQUE HOSPITALISTS AND WORKLOAD WITH PATIENT OUTCOMES: AN ADMINISTRATIVE DATA ANALYSIS ACROSS 4 HOSPITALS
+
+Henry J. Michtalik1, 2; Peter J. Pronovost2; Jill A. Marsteller1, 3; Joanne E. Spetz4; Daniel E. Ford2, 3; Eric Howell1, 2; Daniel Brotman2. 1Johns Hopkins Medicine, Baltimore, MD; 2School of Medicine, Johns Hopkins University, Baltimore, MD; 3Johns Hopkins School of Public Health, Baltimore, MD; 4University of California, Los Angeles, San Francisco, CA. (Control ID #3180462)
+
+# BACKGROUND:
+
+Hospitalists play a central role in patient care but little research has considered whether their workload or handoffs affect care quality. This study examined the impact of hospitalist workload and number of unique hospitalists involved in the patient's care on quality of care and patient communication.
+
+# METHODS:
+
+Measured in 4 hospitalist programs within a regional healthcare network, the main outcome was hospitalist workload averaged over a patient's hospitalization as determined from billing data. For example, if a patient had a 2-day hospitalization and was seen by a hospitalist with 12 patients day 1 and a different hospitalist with 14 patients day 2, the average workload the patient was exposed to was 13 patients and 2 unique hospitalists. Adjusting by site, we used regression to analyze average workload and its association with all-cause 30-day readmissions, hospital-acquired conditions, in-hospital mortality, and the 3 HCAHPS physician communication questions. We adjusted for patient demographics (age, race, sex), severity of illness (APR-DRG SOI; range 1-4), observed length of stay (LOS), percentage of weekdays, and number of hospitalists. We also examined the effect of number of unique hospitalists involved in the patient's care on outcomes.
+
+# RESULTS:
+
+We analyzed 26,661 admissions at 4 hospitals from July 1, 2016 to June 30, 2017. The median patient LOS was 3 days [interquartile range (IQR): 2, 5]. The patient population was 60% Caucasian, 28% African American, 53% female with median age of 67 years [IQR: 52, 80] and APR-DRG severity of illness 3 [IQR: 2, 3]. The median number of unique hospitalists was 2 [IQR: 2, 3] with workload of 11 patients per day [IQR: 8, 13]. All-cause 30-day readmissions, hospital-acquired conditions, and in-hospital mortality were 13.2%, 1.4% and 1.2% respectively. We found no significant association between hospitalist workload and readmissions, in-hospital mortality, or patient communication after adjustment. Counterintuitively, a higher workload was associated with a lower odds of hospital-acquired condition (p<0.001). In contrast, even a small increase in the number of unique attending hospitalists increased the odds of having a hospital-acquired condition (OR: 1.23; 95% CI: 1.14, 1.34; p<0.001). The odds of patients reporting that the hospitalist carefully listened or clearly explained care also significantly decreased (p<0.01, p<0.05 respectively).
+
+# CONCLUSIONS:
+
+There was no significant association between hospitalist workload and the outcomes, except for hospital-acquired conditions. In contrast, increased number of unique hospitalists was associated with an increase in odds of a hospital-acquired condition and adversely affected listening and understanding. This suggests that transitions of care and communication, not necessarily workload, are associated with some adverse outcomes. Potential practice interventions to mitigate this may include standardizing handoffs and communication, and improving continuity with longer scheduling blocks.
+
+# ASSOCIATION OF PRIMARY CARE CLINIC APPOINTMENT TIME WITH CLINICIAN ORDERING AND PATIENT COMPLETION OF BREAST AND COLORECTAL CANCER SCREENING
+
+Esther Y. Hsiang2, 3; Shivan Mehta2, 1; Dylan Small2; Charles Rareshide2; Christopher K. Snider2; Susan C. Day; Mitesh Patel2, 1. 1Crescenz VA Medical Center, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA; 3John Hopkins Medical School, Philadelphia, PA. (Control ID #3139446)
+
+# BACKGROUND:
+
+Early cancer detection can improve clinical outcomes, but cancer screening rates in the United States are often suboptimal. As clinic days progress, primary care providers (PCPs) may fall behind schedule resulting in shorter rushed interactions with patients scheduled later in the day, and face increased decision fatigue. Our objective was to evaluate the association of primary care clinic appointment time with clinician ordering and patient completion of breast and colorectal cancer screening.
+
+# METHODS:
+
+We performed a retrospective analysis of 33 primary care practices in Pennsylvania and New Jersey. We evaluated adults eligible for breast or colorectal cancer screening and visiting with their PCP between September 1, 2014 and August 31, 2016. Primary outcome was clinician ordering of the screening test during the visit. Secondary outcome was patient completion of the tests within 1 year of the visit. To evaluate the outcomes by clinic appointment time, we grouped appointment times by the hour. In the adjusted analysis of patient-visit level data, we used PROC LOGISTIC in SAS to fit a conditional logistic regression, where the conditioning was on the PCP. The models were adjusted for patient demographics, insurance, Charlson comorbidity index, clinic visit type, fixed effects by practice site, year and calendar month, and a covariate for each appointment hour.
+
+# RESULTS:
+
+Among the 19,254 patients eligible for breast cancer screening, the mean age was 60.2 years, 60.7% were white, and 28.5% were black. Screening test order rates were highest at 8am at 63.7%, declined throughout the morning to 48.7% at 11am, increased to 56.2% at 12pm, and then

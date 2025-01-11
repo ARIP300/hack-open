@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+MA performance of reviewing current tobacco status was high and remained high. TIP improved performance of MAs asking current tobacco users if they are ready to quit. Clinician documentation is trending up at two practices and trending down at one, who has had the least amount of time with the TIP. During this implementation period, the practices who accessed the reports saw improvement in their clinician documentation. This project is on-going so will include an additional practice site and data at the time of presentation.
+
+# UNCOVERING BARRIERS TO PRESCRIBING POST-DISCHARGE NICOTINE REPLACEMENT THERAPY FOR HOSPITALIZED SMOKERS
+
+John Landefeld 1, 2; Scott Goldberg 1, 2; Joseph Clement 1, 2; Maya Vijayaraghavan 1, 2. 1 ucsf, San Francisco, CA; 2 Zuckerberg San Francisco General Hospital, San Francisco, CA. (Control ID #3184785)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite guidelines recommending that all hospitalized smokers receive tobacco-cessation counseling and nicotine replacement therapy (NRT) during hospitalization, low-income patients who have high rates of smoking and who are frequently cared for in public hospitals often do not receive this treatment.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Our hospital implemented an Alcohol and Tobacco Treatment Team (ATTT), comprised of licensed vocational nurses overseen by a Clinical Nurse Specialist to deliver tobacco and alcohol cessation interventions to hospitalized patients upon admission. The focus of this abstract is on tobacco cessation interventions.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The ATTT is an inpatient service that provides at least one-time, in-person tobacco cessation counseling, outpatient referrals for cessation, and medication recommendations during the inpatient stay and upon discharge to all smokers on admission.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+While the ATTP achieved near complete success in reaching all hospitalized smokers for counseling, the rates of receiving discharge NRT was substantially lower. We examined characteristics associated with lower rates of being prescribed NRT on discharge. Our analysis included 1577 hospitalized smokers, seen for a single visit by the ATTT in 2017. We extracted the following data from the electronic health record in order to examine factors associated with receiving discharge NRT: patient demographics, insurance status (Medicaid, Medicare, private, uninsured), English proficiency status (English-speaking vs non-English-speaking), and service type (Medicine, Cardiology, Family Practice, Neurology, and Surgery/Surgical subspecialties). We also conducted six in-depth, semi-structured interviews of Internal Medicine housestaff.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Of the patients, 75% were male, 90% were English-speaking, and 93% were covered by public health insurance (i.e. Medicaid or Medicare). Whereas 26.2% of patients received NRT on discharge, 56.2% refused NRT, and 17.2% were recommended to receive NRT but were not prescribed. Younger patients and non-English-speaking patients were more likely to be recommended to receive NRT but not receive a prescription (p<0.03). Patients on the medicine and family practice services were more likely to receive discharge NRT than patients on other services. In interviews, housestaff identified several barriers to prescribing NRT: 1) ATTT recommendations are often communicated via text page later in the day when the primary medical team is off; and 2) ATTT recommendations are not documented in the same area of the EHR used for inpatient care.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A single-enterprise EHR may enable improved communication around cessation care between the ATTT and primary MDs, and could facilitate automatic prescribing of NRT for eligible and interested patients at discharge. Additional quantitative and qualitative analyses are necessary to understand the reasons behind the lower screening and prescribing rates of discharge NRT for non-English-speaking patients as well as patients on non-medicine services.
+
+# USE OF ASSESSMENTS AND FACILITATION TO REDESIGN AN INTEGRATED HEALTH SYSTEM
+
+Stella Safo; Brooke Gogel. Icahn School of Medicine Mount Sinai, New York, NY. (Control ID #3174062)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Redesigning an urban primary care network to deliver value-based care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To review an approach to large scale primary care redesign. To evaluate how an assessment tool and facilitation impacts primary care redesign.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Mount Sinai Health System (MSHS) in New York is an integrated health system aiming to become a population health management center. As part of these efforts, 47 primary care practices are undergoing comprehensive assessment and implementing improvements around technology, quality improvement (QI) infrastructure, and operational workflows. Practice facilitators, individuals trained in QI and project management, are paired with practices to guide them through redesign initiatives. The Redesign Team developed an assessment tool to determine the amount of practice facilitation needed for each practice. The tool evaluated physical space, technology efficacy, population health management capabilities, accessibility, culture of transformation, staffing/workflows, and patient population. Assessments were administered over visits at the first 8 sites through a series of observations and key informant interviews with practice leadership and staff. Facilitators were then assigned to practices based on the results.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Each practice is evaluated by metrics defined broadly by workflow optimization, quality improvement, and technology. Measures of success include evaluating staff satisfaction, teaching.

@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# INTEGRATING GROUP THERAPY FOR BEHAVIORAL HEALTH INTO A PRIMARY CARE PROGRAM FOR PATIENTS WITH COMPLEX MEDICAL AND SOCIAL NEEDS: A PILOT
+
+Venkatesan R. Krishnamoorthi; Nicole Gier; Emily Perish; David Meltzer. University of Chicago, Chicago, IL. (Control ID #3186262)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Individuals with complex medical and social needs often have behavioral health (BH) problems that impair their ability for self-care, but rates of referrals for and attendance at BH specialists' appointments are low.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Develop a group therapy approach to BH integrated into and led by members of the primary care clinic.
+2. Improve the rate of BH care through attendance at group therapy sessions, over conventional referrals to BH specialists outside of the clinic.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Comprehensive Care Program (CCP) at the University of Chicago provides continuity care for Medicare patients at high risk for hospitalization in both outpatient and inpatient settings. The team includes a licensed clinical social worker with training in BH care. Multi-disciplinary rounds occur daily, allowing referral patients for BH care via warm hand-offs. Noting the common challenges among CCP patients in attending appointments, a BH group therapy program was created due to several advantages over individual therapy: a safe space for those not comfortable with psychotherapy; support from peers with similar health and social problems; more efficiency for providers. Patients who expressed interest were enrolled and scheduled into a 5 week group therapy module. Participants are encouraged to establish personal goals and are taught skills of mindfulness, emotion regulation, distress tolerance, interpersonal effectiveness, and self-compassion. In order to accommodate barriers to attendance (e.g. illness, transportation) participants are allowed to drop in to the group throughout the year.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We compared the attendance rate of enrollees in the CCP group therapy program to the same enrollees' referral rate and attendance rate to BH specialists' appointments outside of the CCP program (psychiatry or psychology at Univ of Chicago or other institutions). We performed a retrospective chart review of those enrollees to investigate 1) who attended at least one CCP group session, 2) who had been referred to a BH specialist in the prior 12 months, and 3) who had attended at least one BH specialist appointment in the prior 12 months.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Twelve patients expressed interest and were scheduled into a 5-week group therapy program. Ten were female, the average age was 61, all were African-American. Of these, six (50%) attended at least one group session. Of the twelve, six had been previously referred to a BH specialist outside of CCP in the prior 12 months, but only two (33%) had attended an appointment. Of the six who attended a group session, only two had been previously referred for outside BH care (33%), and only one attended their appointment (17%). Among the six who enrolled in CCP group therapy but did not attend, four had been previously referred but only one actually attended an outside BH specialist (17%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Integrating a group therapy approach to BH care into a program for high-risk patients with high rates of BH problems may improve attendance for at least their first experience with BH care.
+
+# INTEGRATING PREDICTIVE ANALYTIC RISK TOOLS FOR IMPROVEMENT IN UTILIZATION OF CARE MANAGEMENT RESOURCES IN THE PRIMARY CARE SETTING
+
+Bethany D. Corbin; Shalom Schlagman; Alice Baker; Enrico Caiola; Angela K. Nagel; Amanda M. Ramos; Robert J. Fortuna. University of Rochester, Rochester, NY; St John Fisher College, Rochester, NY. (Control ID #3185814)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The average primary care physician cares for about 1,700 patients, but has limited access to finite care management resources, leading to a necessary area for improvement on how to evaluate risk within large populations, and identifying potential tools and processes to efficiently guide the allocation of care management resources to most appropriately meet patients' needs.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Implement a system for identifying patients for whom care management may improve clinical outcomes, using predictive analytic tools in addition to clinical judgment.
+2. Monitor the average aggregate risk score for patients under care management.
+3. Decrease the number of ED visits and hospitalizations for patients under care management.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In our outpatient residency practice, we implemented an operational process and predictive analytic tool to identify patients at risk for ED visits or hospitalization, for whom early intervention with care management may reduce this overall risk. This predictive analytic model was developed by Epic over 7 years using data from 345,000 patients. The model identified 19 variables that were predictive of a patient's risk for ED visits or hospitalization, and provides a score between 0 to 100 that correlates to the risk of ED visit or hospitalization within the next year. Validation of the tool yielded an average C-statistic of 0.71. In conjunction with this analytic tool, the operational process engages clinical teams to assess the potential of care management to impact the outcome (impactability). This impactability aspect includes consideration of a patient's medical factors (e.g. health conditions, adherence) and social determinants (e.g. health literacy, housing, transportation).
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Process measures include number of patients enrolled in care management, risk score of enrolled patients, and improved monitoring parameters of medical condition (e.g. A1c, BP control).
+2. Outcome measures include increasing the average risk score of patients under care management, and decreasing the number of managed patient ED visits and hospitalizations.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Currently, 134 patients are enrolled with care management. The baseline average risk score of patients enrolled in November, 2018 was 33.4%. More than half of enrolled patients had a score less than 30%. Over the first 2 months of this intervention, the average risk...

@@ -1,0 +1,44 @@
+# References
+
+1. Thaker, J., Richardson, L. M. & Holmes, D. C. Australians’ perceptions about health risks associated with climate change: Exploring the role of media in a comprehensive climate change risk perception model. J. Environ. Psychol. 89, 102064 (2023).
+2. La Trobe, H. L. & Acott, T. G. A modified NEP/DSP environmental attitudes scale. J. Environ. Educ. 32(1), 12–20 (2000).
+3. Milfont, T. L. & Duckitt, J. The environmental attitudes inventory: A valid and reliable measure to assess the structure of environmental attitudes. J. Environ. Psychol. 30(1), 80–94 (2010).
+4. Gao, L. et al. Application of the extended theory of planned behavior to understand individual’s energy saving behavior in workplaces. Resour. Conserv. Recycl. 127, 107–113 (2017).
+5. Wang, S., Lin, S. & Li, J. Exploring the effects of non-cognitive and emotional factors on household electricity saving behavior. Energy Policy 115, 171–180 (2018).
+6. Lamm, E., Tosti-Kharas, J. & Williams, E. G. Read this article, but don’t print it: Organizational citizenship behavior toward the environment. Group Organ. Manag. 38(2), 163–197 (2013).
+7. Lazaric, N. et al. Determinants of sustainable consumption in France: The importance of social influence and environmental values. J. Evolut. Econ. 30, 1337–1366 (2020).
+8. Renwick, D. W. et al. Contemporary developments in Green (environmental) HRM scholarship. Int. J. Human Resour. Manag. 27(2), 114–128 (2016).
+9. Dormann, C. F. et al. Collinearity: A review of methods to deal with it and a simulation study evaluating their performance. Ecography 36(1), 27–46 (2013).
+10. MacKinnon, D. P. & Pirlott, A. G. Statistical approaches for enhancing causal interpretation of the M to Y relation in mediation analysis. Personal. Soc. Psychol. Rev. 19(1), 30–43 (2015).
+11. Vancouver, J. B. & Carlson, B. W. All things in moderation, including tests of mediation (at least some of the time). Organ. Res. Methods 18(1), 70–91 (2015).
+12. Preacher, K.J. and G.J. Leonardelli, Calculation for the Sobel test. Retrieved January, 20, 2009, (2001).
+13. Smeds, E. & Acuto, M. Networking cities after Paris: Weighing the ambition of urban climate change experimentation. Global Policy 9(4), 549–559 (2018).
+14. Lamm, A. E., McCann, R. G. & Howe, P. D. I could but I don’t: What does it take to adopt pro-environmental behaviors in the United States?. Energy Res. Soc. Sci. 93, 102845 (2022).
+15. Stikvoort, B., Bartusch, C. & Juslin, P. Different strokes for different folks? Comparing pro-environmental intentions between electricity consumers and solar prosumers in Sweden. Energy Res. Soc. Sci. 69, 101552 (2020).
+16. Suárez-Varela, M. & Dinar, A. The role of curtailment versus efficiency on spillovers among pro-environmental behaviors: Evidence from two towns in Granada, Spain. Sustainability 12(3), 769 (2020).
+17. Punzo, G. et al. Assessing the role of perceived values and felt responsibility on pro-environmental behaviours: A comparison across four EU countries. Environ. Sci. Policy 101, 311–322 (2019).
+18. Yang, J. et al. Heatwave and mortality in 31 major Chinese cities: Definition, vulnerability and implications. Sci. Total Environ. 649, 695–702 (2019).
+19. Pinzone, M. et al. Effects of ‘green’ training on pro-environmental behaviors and job satisfaction: Evidence from the Italian healthcare sector. J. Clean. Prod. 226, 221–232 (2019).
+20. Bradley, G. L. et al. The role of climate change risk perception, response efficacy, and psychological adaptation in pro-environmental behavior: A two nation study. J. Environ. Psychol. 68, 101410 (2020).
+21. Carducci, A. et al. Pro-environmental behaviors: Determinants and obstacles among Italian university students. Int. J. Environ. Res. Public Health 18(6), 3306 (2021).
+22. Ataei, P. et al. An analysis of farmers’ intention to use green pesticides: The application of the extended theory of planned behavior and health belief model. J. Rural Stud. 81, 374–384 (2021).
+23. Chin, J. et al. The investigation of consumers’ behavior intention in using green skincare products: A pro-environmental behavior model approach. Sustainability 10(11), 3922 (2018).
+24. Wang, H. & Mangmeechai, A. Understanding the gap between environmental intention and pro-environmental behavior towards the waste sorting and management policy of China. Int. J. Environ. Res. Public Health 18(2), 757 (2021).
+25. Zeng, J., Jiang, M. & Yuan, M. Environmental risk perception, risk culture, and pro-environmental behavior. Int. J. Environ. Res. Public Health 17(5), 1750 (2020).
+26. Yu, T.-K. et al. A pro-environmental behavior model for investigating the roles of social norm, risk perception, and place attachment on adaptation strategies of climate change. Environ. Sci. Pollut. Res.arch 26, 25178–25189 (2019).
+27. Maartensson, H. & Loi, N. M. Exploring the relationships between risk perception, behavioural willingness, and constructive hope in pro-environmental behaviour. Environ. Educ. Res. 28(4), 600–613 (2022).
+28. Visschers, V.H. & M. Siegrist, Differences in risk perception between hazards and between individuals Psychological perspectives on risk and risk analysis: theory, models, and applications, 63–80, (2018).
+29. Lee, K. et al. Youth perceptions of climate change: A narrative synthesis. Wiley Interdiscip. Rev.: Clim. Change 11(3), e641 (2020).
+30. Wang, S. et al. Public perceptions and acceptance of nuclear energy in China: The role of public knowledge, perceived benefit, perceived risk and public engagement. Energy Policy 126, 352–360 (2019).
+31. Azadi, Y., Yazdanpanah, M. & Mahmoudi, H. Understanding smallholder farmers’ adaptation behaviors through climate change beliefs, risk perception, trust, and psychological distance: Evidence from wheat growers in Iran. J. Environ. Manag. 250, 109456 (2019).
+32. Dhir, A. et al. Why do retail consumers buy green apparel? A knowledge-attitude-behaviour-context perspective. J. Retail. Consum. Serv. 59, 102398 (2021).
+33. Meng, X. et al. Investigation on decision-making mechanism of residents’ household solid waste classification and recycling behaviors. Resour. Conserv. Recycl. 140, 224–234 (2019).
+34. Okumus, F. et al. How do hotel employees’ environmental attitudes and intentions to implement green practices relate to their ecological behavior?. J. Hosp. Tour. Manag. 39, 193–200 (2019).
+35. Genc, M. & Akilli, M. Modeling the relationships between subdimensions of environmental literacy. Appl. Environ. Educ. Commun. 15(1), 58–74 (2016).
+36. Xu, X., Wang, S. & Yu, Y. Consumer’s intention to purchase green furniture: Do health consciousness and environmental awareness matter?. Sci. Total Environ. 704, 135275 (2020).
+37. Wei, S. et al. Improving the environmental footprint through employees: A case of female leaders from the perspective of CSR. Int. J. Environ. Res. Public Health 18(24), 13082 (2021).
+38. Vogt, J. & Nunes, K. R. Recycling behaviour in healthcare: Waste handling at work. Ergonomics 57(4), 525–535 (2014).
+39. Carfora, V. et al. Moderating effects of pro-environmental self-identity on pro-environmental intentions and behaviour: A multi-behaviour study. J. Environ. Psychol. 53, 92–99 (2017).
+40. Sabri, M., Razak, N. & Wijekoon, R. The mediation effect of intention in the pro-environmental workplace (PEW) behavior of Malaysian public employees. Manag. Sci. Lett. 9(10), 1567–1576 (2019).
+41. Lunenburg, F. C. The decision making process. Natl. Forum Educ. Adm. Superv. J. 27(4), 2010 (2010).
+42. Swim, J. K., Gillis, A. J. & Hamaty, K. J. Gender bending and gender conformity: The social consequences of engaging in feminine and masculine pro-environmental behaviors. Sex Roles 82(5), 363–385 (2020).

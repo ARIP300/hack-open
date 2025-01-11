@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+recommendations. We estimated times for a panel of 2500 patients with the age, gender, and racial distribution and chronic disease prevalence of the 2014 adult U.S. population. For preventive care, we used the list of United States Preventive Services Task Force Grade A/B recommendations for non-pregnant adults. We performed a literature review to ascertain the time necessary for a PCP and/or team member (e.g., nurse, medical assistant) to provide evidence-based care. We also collected evidence about population-level strategies for completing recommendations (e.g., mailers). For chronic care, we compiled a list of the 10 most prevalent diseases in adult primary care and performed a literature review to determine the number of PCP visits per year and time required per visit for each condition. We assumed that each chronic disease would require 10 minutes per visit if a specific time was not found.
+
+# RESULTS:
+
+For a panel of 2500 US patients, it would take a PCP 13.9 hours/day to complete preventive (10.6 hours/day) and chronic care (3.3 hours/day). If team-based and population-level strategies were employed, then PCPs would require 5.3 hours per day to complete preventive (2.0 hours/day) and chronic care (3.3 hours/day). Preventive care counseling tasks formed the majority of physician time saved, with that time shifted to Dieticians (5.7 hours/day) and Counselors (1.7 hours/day). Population based interventions only saved 0.2 hours/day.
+
+# CONCLUSIONS:
+
+We found that providing high quality primary care in the U.S. continues to require direct patient contact for longer than the average workday. However, incorporating evidence-based team-based strategies would reduce the work necessary to more feasible levels and allow PCPs to have time to complete administrative tasks, conduct shared decision-making and care for patients with complex medical illness.
+
+Washington were given access to the website. 407 and 123 views of the home and password protected content pages occurred, respectively, from 1/1/18 - 12/28/18. Session duration averaged 1 minute and 49 seconds. Video content was viewed by 29 users with average view duration of 48 seconds per video. 21 users downloaded curricula resources. There have been positive reviews among a national cohort of medical educators. Comments include "easy to use interface" and "approachable content." One physician educator requested further clarification of one component of the curriculum regarding the integration of inter-professional providers.
+
+# CONCLUSIONS:
+
+About a fourth of users who visited the home page entered the password protected content domain. Current website restricted access likely limits the ability for users to access content due to password protection. Only a third of users viewed video content or downloaded resources. However, video content was viewed by many users at local and national COE teleconferences. To be determined will be how de novo users interact with site content. Comments, while positive, have directed efforts to clarify key points of curriculum. Future endeavors include broadening population for dissemination by removing password protection, revising content to increase user engagement and developing additional web-based curricula for other topics.
+
+# HOW MUCH IS ENOUGH? PHYSICAL ACTIVITY FOR YOUNG ADULT CARDIOMETABOLIC HEALTH
+
+Heather R. Frank 1 ; Hillary Mulder 2 ; Karishma Sriram 1 ; Taruni Santanam 1 ; Asheley C. Skinner 3 ; Eliana M. Perrin 3 ; Sarah C. Armstrong 3, 3 ; Eric Peterson 2 ; Charlene A. Wong 3, 2 . 1 Duke University, Durham, NC; 2 Duke University Hospital, Durham, NC; 3 Duke University School of Medicine, Durham, NC. (Control ID #3175938)
+
+# HOW MEDICAL EDUCATORS USE ONLINE CURRICULA: DATA ANALYTICS FROM A GRADUATE MEDICAL EDUCATION CURRICULUM DISSEMINATION WEBSITE
+
+John Geyer 2, 1 ; Anna Golob 2, 1 ; Cassandra Song 3 ; Mayuree Rao 1 ; Joyce E. Wipf 2, 1 . 1 University of Washington, Seattle, WA; 2 VA Puget Sound, Seattle, WA; 3 VA Puget Sound Health Care System, Seattle, WA. (Control ID #3183346)
+
+# BACKGROUND:
+
+Web-based asynchronous applications are increasingly used for dissemination of complex undergraduate and graduate medical curricula. Online analytic applications can provide curriculum developers with valuable data about usage, guiding future content revisions. A population health panel management medical education curriculum, developed at the Seattle Center of Excellence in Primary Care Education at VA Puget Sound (COE), includes electronic medical record best practice, inter-professional case-based discussions and chronic disease didactics. The curriculum, including competency domains and evaluation results of the curriculum, was ported to a website in December 2017 and has been disseminated to a limited group of national and international medical educators for the past 12 months with protected site access.
+
+# METHODS:
+
+Curriculum content was derived from a previously established population panel management series described elsewhere and in practice with VA-based residents in Internal Medicine and other health professions since 2011 in Seattle primary care and women's clinic. A web development software package was used to generate an HTML5/CSS website with video content hosted on YouTube and embedded in the site. Resources such as didactic PowerPoints, curricula handouts and computer screen shots were placed alongside 1-2 minute video clips. Google Tag Manager and Google Analytics were deployed to track user usage. Content was protected with SSH basic password protection.
+
+# RESULTS:
+
+8 local and national sites at the VA and University of Washington were given access to the website.
+
+# BACKGROUND:
+
+The 2018 Physical Activity (PA) Guidelines recommend 150 minutes weekly for adults. It is unclear if this activity level matches cardiovascular benefits for young adults (YA) transitioning from adolescence. We aim to determine the dose-response of PA measures on cardiometabolic health measures in YA.
+
+# METHODS:
+
+We examined YA (20-29 years) in the 2003-2016 National Health and Nutrition Examination Survey. Primary exposures were objective (accelerometer) and self-report weekly mean minutes of moderate/vigorous physical activity (PA). Primary cardiometabolic outcomes were systolic blood pressure (BP), diastolic BP, total cholesterol, high-density lipoprotein (HDL), body mass index (BMI), and maximal oxygen uptake (VO2 Max). The dose-response relationship between each PA exposure and cardiometabolic outcome was assessed with unadjusted spline analyses; each pairing was tested for non-linearity using natural cubic splines, with non-linear relationships converted to 2-part piece-wise linear splines. Sex stratified outcomes were modeled using multivariable linear regression adjusting for sociodemographic characteristics. Mean estimated change is presented for 150-minute PA dose increases.
+
+# RESULTS:
+
+YA (N=6587) were 50% female, 59% white, 13.4% black. Among females, a slope change of the unadjusted dose-response curve for self-report PA occurred at 600 minutes for HDL, 725 minutes for BMI. With adjustment, a 150-minute increase in objective PA was associated with increased HDL of 5.4 mg/dL (p=0.04) and reduced BMI of 1.8 kg/m2 (p<0.001); a 150-minute increase in self-reported PA was associated with increased HDL of 0.98 mg/dL (p=0.01) and reduced BMI of 0.23 kg/m2 (p=0.02). Among males, the unadjusted dose-response curve slope changed for objective PA and BMI at 100 minutes. With adjustment, a 150-minute PA increase was associated with a VO2 max increase of 5.4 ml/kg/min (p<0.001). We found inconsistent associations between PA and systolic BP, diastolic BP, and total cholesterol for males and females.

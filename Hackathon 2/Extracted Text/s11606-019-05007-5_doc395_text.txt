@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# THYROID STORM: A CASE OF CARDIAC ARREST
+
+Science Center, Amarillo, TX; 2Texas Tech Univ HSC Amarillo, Amarillo, TX. (Control ID #3147482)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize thyroid storm as a potential cause of cardiac arrest.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the potential risk of administering Intravenous beta blockers in thyroid storm.
+
+# CASE:
+
+A 24-year-old female with no past medical history was brought from jail due to altered mental status and abdominal pain for several days. She was febrile, tachycardic, tachypneic, drowsy and restless. She had dry mucous membranes and proptosis. CBC showed WBC 33.3x103, 88% neutrophils, Hb 11 g/dl. pH 7.08, PCO2 5, anion gap 24, beta-hydroxybutyrate 78 (0.2 - 2.8), lactate 1.2, free T3 23 pg/ml (2.2-6.2), free T4 4.7 ng/dl (0.2-2.0), TSH<0.01 units/ml. EKG showed sinus tachycardia with early repolarization. A diagnosis of thyroid storm was made. She was intubated for airway protection and resuscitated with intravenous fluids, she also received hydrocortisone and propylthiouracil to block conversion of T4 to T3 and reduce synthesis of thyroid hormones respectively. Intravenous propranolol 1 mg IV push was given, immediately after receiving propranolol, she went into asystole. ROSC was achieved after 4 minutes of cardiopulmonary resuscitation. She required more intravenous fluids and vasopressor support. Bicarbonate infusion was started for severe metabolic acidosis. Echocardiogram showed ejection fraction 70% with no hypokinesia; and Troponin I 1.3 ng/ml and trended down afterwards. Thyroid stimulating immunoglobulin and thyrotropin receptor antibodies were significantly elevated, confirming Graves' disease. Thereafter, she was stabilized and successfully extubated and was discharged on propranolol, methimazole and prednisone.
+
+# IMPACT/DISCUSSION:
+
+Although there is no definite diagnostic criteria for thyroid storm, Burch-Wartofsky score 45 is highly suggestive of thyroid storm. Our patient's score was 45. No acute coronary syndrome was evident, despite the elevated troponin I, no ST-T changes were seen in EKG. The likely mechanism of Asystole is myocardial depression due to profound acidosis, worsened by propranolol-induced hypotension and bradycardia. Unlike most of the reported cases of cardiac arrest in thyroid storm after propranolol administration, when impaired left ventricular function was evident; our patient had a good left ventricle function with no hypokinesia.
+
+# CONCLUSION:
+
+Thyroid storm is a rare but a life-threatening condition with significant mortality rate. Beta blockers should be used cautiously in this setting due to potential circulatory collapse. It should be considered as a cause of cardiac arrest in the absence of other identifiable etiologies.
+
+# BETWEEN THE BULLETS: A CASE OF MISSED OPPORTUNITY IN PRIMARY CARE
+
+Brittany Badesch1; Ivy Sledge2; Katherine Shaw2. 1Johns Hopkins Hospital, Baltimore, MD; 2Johns Hopkins Community Physicians East Baltimore Medical Center, Baltimore, MD. (Control ID #3184104)
+
+# LEARNING OBJECTIVE #1:
+
+Identify young adults who are at acute risk of death by gun violence.
+
+# LEARNING OBJECTIVE #2:
+
+Describe the need to develop evidence-based strategies to minimize risk of death by gun violence for young adults in urban settings.
+
+# CASE:
+
+A 32 year-old African-American male with history of chronic left lower extremity pain after a gun shot wound and prior substance use disorder presents to establish primary care. He complains of a burning pain in his left lower extremity, radiating from his knee to his foot, associated with muscle spasms, hyperalgesia and allodynia. He takes Ibuprofen. Recently released from a year of incarceration, he is living with his girlfriend. He has a four year-old daughter. He is not working due to pain. He has 4/5 strength of left foot plantar and dorsiflexion and a painful tingling sensation with touch of the medial left ankle. He endorses anxiety, but denies homicidal or suicidal ideation. He continued to follow in the clinic monthly and was referred to pain management. Adjustments to his medications improved his pain. He returned to work and increased involvement in his daughter's life. Six months after initial presentation, he was shot and killed.
+
+# IMPACT/DISCUSSION:
+
+Unfortunately, this is not a unique clinical presentation or outcome. In 2017, the year this patient was killed, there were 39,773 gun deaths in the U.S. Homicide is leading cause of death in 15-34 year old black males, accounting for 49% of deaths for 15-24 year-olds compared to 7-8% in same-aged white males. The ACP's recent update of their Position Statement on reducing firearm deaths largely focused on prevention of mass casualty events and regulation of assault style weapons. Less guidance exists for prevention of everyday gun violence in urban settings, where poverty, unemployment, transiency, addiction, institutional racism and criminalization contribute to increased risk of death by firearm. The patient not only experienced many of these risk factors, but had elevated risk simply based on his previous gunshot wound. His enhanced risk and multiple visits to clinic before the fatal re-injury indicate potential missed opportunity to intervene.
+
+# CONCLUSION:
+
+Primary care teams are uniquely positioned to serve as navigators for community resources, yet care is limited by a lack of evidence-based practices aiming to address the complex social conditions that generate violence. Since this patient's death, the authors of this vignette, a medical assistant and resident doctor team, continue to encounter young black men who are at acute risk of death, but feel helpless to treat them without coordinated approaches to individualized intervention, community care, and policy change. The authors hope this case will highlight how primary care clinics could be potential staging grounds for interdisciplinary teams, including members of the community who have been affected by gun violence, to fight against this epidemic of young violent death.
+
+# BEWARE THE DANGERS OF HOME REMEDIES
+
+Syeda A. Raza. Methodist Health Systems Dallas, Dallas, TX. (Control ID #3185718)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the dangers of common home remedies in the immunocompromised patients.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize Burkholderia cepacia as an opportunistic pathogen in immunocompromised patients.
+
+# CASE:
+
+A 68-year-old African-American woman with known history of refractory IgG kappa multiple myeloma presented with fever, congestion, and purulent drainage from both ears that had been progressively worsening over the past week. She initially attributed her symptoms to sinus infection and self-treated with a Neti Pot using non-sterile water. The Neti Pot was several months old and had not been disinfected since purchase. Physical examination revealed an acutely ill-appearing woman with obstructed visualization of both ears due to purulent drainage. The remainder of her physical examination was unremarkable and she did not have indwelling intravascular access. Computed tomography (CT) and magnetic resonance imaging (MRI) of the head and sinuses demonstrated fluid in the tympanic cavities and mastoid air cells bilaterally with paranasal sinus mucosal density and air fluid levels in the maxillary sinuses. Blood cultures grew Burkholderia cepacia susceptible to piperacillin-tazobactam and meropenem. She was treated with four weeks of intravenous (IV) piperacillin-tazobactam along with micro-debridement of both ears. She responded well to therapy, repeat blood cultures were sterile, and she made a complete recovery.
+
+# IMPACT/DISCUSSION:
+
+Burkholderia cepacia is an aerobic gram-negative bacillus commonly seen in soil and moist environments and has propensity to survive in aquatic environments. Most cases of B. cepacia bacteremia reported in the literature are in patients with cystic fibrosis. However, B. cepacia has recently been identified as an important opportunistic pathogen in hospitalized and immunocompromised patients. There have been several studies reporting hospital outbreaks of B. cepacia emerging from a single contaminated source such as nebulizer.

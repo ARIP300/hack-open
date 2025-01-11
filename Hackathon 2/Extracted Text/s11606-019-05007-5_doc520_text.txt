@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# RHEUMATOLOGIC WORK-UP
+
+Rheumatologic work-up which was unrevealing. Liver biopsy showed evidence of both biliary fibrosis and alcoholic steatohepatitis, with no evidence of cirrhosis. Urine testing came back positive for alcohol. Skin biopsy of rash showed necrolytic acral erythema. Zinc level was then obtained which showed a low level of 29. Given otherwise negative work up, rash was likely caused by a zinc deficiency. At discharge, patient was started on zinc supplementation and referred as an outpatient to liver medicine for follow-up of her alcoholic steatohepatitis and to surgery for cholecystectomy.
+
+# IMPACT/DISCUSSION
+
+Gastric bypass surgery, especially RYGB, can put patients at risk for numerous side effects related to changes in absorption. A particularly unique aspect to this case is the purpuric rash. Initial presentation with palpable purpura and new-onset liver disease was concerning for possible vasculitis, however skin biopsy showed necrolytic acral erythema. Necrolytic acral erythema is a rare condition first described among a small cohort of hepatitis C carriers in Egypt in 1996. It is described as a pruritic, hyperkeratotic, and erythematous eruption that affects acral surfaces. However, a few case reports in the literature have described this skin finding in zinc deficiency. Interestingly, the incidence of zinc deficiency occurs almost five times more frequently in RYGB patients than in gastric sleeve patients. RYGB is well-known to be associated with increased risk of iron and B12 deficiencies; however, this case demonstrates other micronutrient deficiencies that should be recognized by practitioners. This is especially critical in complex patients who may have alternative and highly plausible etiologies for possible disease processes.
+
+# CONCLUSION
+
+Patients with history of RYGB are at high risk of zinc deficiency. Zinc deficiency can manifest as a purpuric and desquamating rash known as necrolytic acral erythema.
+
+# RECTAL PAIN IN A YOUNG MAN
+
+Rand Dadasovich. University of California, San Francisco, San Francisco, CA. (Control ID #3183212)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the clinical presentation of lymphogranuloma venereum (LGV)
+
+# LEARNING OBJECTIVE #2
+
+Describe the changing epidemiology of LGV
+
+# CASE
+
+A previously healthy 29 year-old man presented to an urban public health clinic with 4 days of dyschezia, bloody rectal discharge, and tenesmus. He reported no fevers, chills, abdominal pain, diarrhea, anal pruritis, rash, arthralgias, or other systemic symptoms. He had no history of hemorrhoids and no family history of IBD or other autoimmune diseases. The patient identified as a gay man and reported unprotected receptive anal sex with a new male partner ten days earlier. His only medication was PrEP, started two years earlier. Vital signs were within normal limits. Examination revealed normal external genitalia, no visible lesions or rash, and no inguinal lymphadenopathy. Anoscopy revealed a thin milky discharge and several small linear non-bloody mucosal ulcerations on the posterior rectal wall. Specimens were collected and sent for testing of chlamydia, gonorrhea, HSV, LGV, syphilis, and HIV. The patient was treated empirically with IM ceftriaxone and a 7-day course of doxycycline. LGV PCR returned positive and the course of doxycycline was extended to 21 days.
+
+# IMPACT/DISCUSSION
+
+LGV is caused by 3 serovars of Chlamydia trachomatis that are more invasive than those that cause common chlamydial infections. In the classical presentation, primary LGV infection presents as a small painless genital ulcer at the site of inoculation approximately 3 to 30 days after exposure. Secondary infection appears two to six weeks later as a result of direct extension of the infection to regional lymph nodes, which then leads to lymph node necrosis and abscess formation. In contrast to the classic urogenital presentation, LGV can also produce an anorectal syndrome characterized symptoms of proctocolitis: rectal discharge, anal pain, constipation, fever, and tenesmus. The presentation can be mistaken for IBD and complications include chronic colorectal fistulas and strictures if untreated. LGV was previously considered a tropical disease, endemic among heterosexuals in East and West Africa, India, Southeast Asia, and the Caribbean. There have been increasing reports of LGV since 2003 in temperate climates, including large outbreaks seen in UK and NYC, primarily among MSM. Among 327 cases of LGV identified in the UK from 2004-2006, the major symptoms included rectal discharge (79%), pain (69%), rectal bleeding (58%), tenesmus (29%), and constipation (25%). Only four percent of patients had concomitant urogenital LGV. Risk factors included HIV-positivity, history of recent unprotected anal sex, and MSM (Ward et al, 2007).
+
+# CONCLUSION
+
+Contrary to the classic urogenital presentation mostly observed in the developing world, LGV can also present as an anorectal syndrome characterized by rectal discharge, anal pain, constipation, fever, and tenesmus. Consider LGV in patients presenting with acute proctocolitis, especially if MSM and reporting recent unprotected anal sex.
+
+# REFRACTORY HYPERCALCEMIA AS A KEY TO THE DIAGNOSIS OF A RARE CASE OF CO-EXISTING HODGKIN'S LYMPHOMA AND ADULT T-CELL LEUKEMIA/LYMPHOMA
+
+Lakshmi Priyanka Mahali; Nikita Fernandes; Colette Knight. Montefiore Medical Center, Bronx, NY. (Control ID #3184554)
+
+# LEARNING OBJECTIVE #1
+
+Identify that refractory hypercalcemia can be a marker of both disease progression and also development of a new malignancy.
+
+# LEARNING OBJECTIVE #2
+
+Recognize HTLV1-associated ATLL as a cause of relapsing hypercalcemia of malignancy.
+
+# CASE
+
+63 year old Jamaican woman presented with generalized bone pain, headache, nausea and mild abdominal pain. The patient was diagnosed with Hodgkin's lymphoma two years ago and was treated with 6 cycles of ABVD (doxorubicin, bleomycin, vinblastine and dacarbazine) which resulted in marked reduction of adenopathy. Post-treatment Positron Emission Tomography (PET/CT) scan showed resolution of disease. Nearly 1 year after completing chemotherapy, the patient had several admissions for hypercalcemia that was refractory to the usual treatment. During this admission, labs were significant for calcium (Ca): 16 mg/dl, white blood cell count: 26,000 k/ul with lymphocytosis, 1,25 hydroxy vitamin D (calcitriol): 10 pg/ml, parathyroid hormone (PTH): 10 pg/ml, parathyroid hormone-related protein (PTHrP): 32 pg/ml and alkaline phosphatase (ALP): 328 U/l. PET scan showed no increase in adenopathy. The recurrent episodes of hypercalcemia despite no increase in tumor burden raised concern that there was an alternate cause of hypercalcemia. Further evaluation included peripheral blood flow cytometry which was consistent with Adult T-cell Leukemia/Lymphoma (ATLL). Human T Lymphotropic Virus type 1 (HTLV-1) infection was confirmed by western blot.
+
+# IMPACT/DISCUSSION
+
+Persistent hypercalcemia that fails to respond to standard therapy may represent worsening of the primary cause or a co-existing disease process. Hypercalcemia of malignancy occurs by several mechanisms, which include tumor secretion of PTHrP, tumor production of 1,25-dihydroxyvitamin D and local release of cytokines by osteoclasts (OCLs). Increased production of 1,25-dihydroxyvitamin D due to increased expression of 1-alpha hydroxylase is the cause of almost all cases of hypercalcemia in Hodgkin's lymphoma. Hypercalcemia in ATLL is due to marked bone resorption by osteoclasts via receptor activator of nuclear factor kappa-ligand (RANK-L) over-expression, but in some cases can also be.

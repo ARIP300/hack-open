@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# Adjudication of High Needs Patients
+
+Adjudication was required to identify high needs patients, especially those at risk of exacerbations leading to hospitalization or ED utilization. For our study we used the Epic Risk Score tool which has been validated to specifically predict hospitalizations and ED utilization (AUC 0.63-0.78 at three different sites). Participating primary care providers in one CPC+ practice received instruction on the RS tool prior to participation in this study. We used a think aloud protocol and structured interviews with providers as they adjudicated their own patient panels. We used a modified immersion/crystallization approach to analyze responses into factors and themes.
+
+# RESULTS
+
+Ten PCPs participated, adjudicating a total of 2500 patients. Overall providers felt that RS was helpful in identifying patients at risk for ED visits or hospitalization. Providers cited self-management skills (health literacy, engagement with care plans, adherence to medications, etc.), availability of support systems and severity of disease as factors that were considered in the risk adjudication process. Providers felt that the computer algorithm did not accurately predict risk among patients with a history of psychological trauma, intimate partner violence, substance use disorders or mental health diagnoses. According to providers, the number of preventable and actionable emergency department (ED) visits and hospital admissions was not always accurately predicted by RS, leading to inappropriate elevation in calculated risk scores. Providers felt that human review/adjudication is required to predict what patients would benefit from additional clinic resources (e.g., nurse care management).
+
+# CONCLUSIONS
+
+Though providers described benefit of RS in terms of identifying those patients at risk for ED utilization or hospitalizations, they felt that RS did not accurately identify severity of disease or social support systems. Human review is required for consideration of the social determinants of health and to identify high need patients that would benefit from additional clinic resources.
+
+# PRIMARY CARE PROVIDERS' PERSPECTIVE ON IMPLEMENTING RISK-BASED LUNG CANCER SCREENING FOLLOWING ACADEMIC DETAILING
+
+Sarah E. Skurla1; Julie Lowery1; Nathan J. Leishman1; Angie Fagerlin1, 3; Tanner Caverly1, 2. 1Department of Veterans Affairs, Ann Arbor, MI; 2University of Michigan Medical School, Ann Arbor, MI; 3University of Utah, Salt Lake City, UT. (Control ID #3184252)
+
+# BACKGROUND
+
+Tailoring lung cancer screening (LCS) discussions based on individualized lung cancer risk (risk-based screening) is inherently patient-centered and prevents lung cancer mortality while avoiding excessive testing. However, this approach is new to most primary care providers (PCPs). To understand barriers to and facilitators of implementing a provider tool to aid risk-based LCS, we conducted academic detailing and follow-up qualitative interviews with PCPs.
+
+# METHODS
+
+We detailed 105 PCPs at 7 VAs from Jun-Oct 2018. Detailing visits focused on the rationale for taking a risk-based approach to LCS and how to use the web-tool with eligible patients to inform risk-based screening discussions. The detailer took notes of PCP feedback during the visit and we conducted follow-up semi-structured phone interviews with 29 PCPs, 2-4 weeks following the visit. Audio recorded interviews lasted ~20 minutes and were transcribed verbatim. We used NVivo v12 to conduct a rapid content analysis and created comprehensive summaries to identify themes/patterns.
+
+# RESULTS
+
+During the detailing visit, PCPs expressed major concerns about the lack of organizational direction/support regarding LCS, though many felt the tool seemed useful for selecting appropriate candidates. Of the PCPs completing follow-up interviews, many saw value in the tool's ability to 1) shape clinician feelings about LCS and 2) guide a useful approach to LCS discussions. They also felt the tool enhanced their ability to share information about individualized risk and the pros/cons of screening. However, at follow-up few PCPs (6 of 29) had used the tool with an actual patient. Limited time in clinic was perceived as a key barrier by almost all PCPs. Most PCPs reported needing only 1 to 2 minutes to discuss LCS but voiced frequently not having even 1-2 minutes during a visit, due to patient-specific needs that were higher priority (e.g., acute complaints), or organizational priorities (e.g., performance measures). Even small additions to workflow (e.g., inputting risk factors into the tool) were too time consuming. As well, some PCPs maintained a dichotomous view of the LCS decision (i.e. screen if eligible vs don't screen if not), so they did not see a need for a risk-based approach to LCS. PCPs supported several ideas to overcome barriers. They had firm opinions about cutting tool content substantially, better integrating the tool into the EMR, and automating the risk calculation. Engaging non-PCP providers or patients in data entry and initial tool use could help, but there are concerns it may not fit into team workflows and that only a minority of patients would participate.
+
+# CONCLUSIONS
+
+Even when PCPs see value in a risk-based approach to LCS and a tool to support that approach, they have major challenges implementing it in clinic. Future risk-based tools need to better integrate into workflows and help PCPs understand how to prioritize LCS among other competing demands.
+
+# PRIMARY CARE SATISFACTION WITH COLLABORATIVE CARE SERVICES: THE ROLES OF CARE MANAGEMENT AND TECHNOLOGY
+
+Lucinda B. Leung 1, 2; Alexander S. Young 3; Leonie Heyworth 4, 5; Danielle Rose 2; Susan E. Stockdale 2; A. Laurie Graaff 6; Timothy Dresselhaus7, 4; Lisa V. Rubenstein8. 1UCLA David Geffen School of Medicine & West Los Angeles VA Medical Center, Los Angeles, CA; 2VA Greater Los Angeles Healthcare System, Los Angeles, CA; 3VA & UCLA, Los Angeles, CA; 4VA San Diego Healthcare System, La Jolla, CA; 5Office of Connected Care/Telehealth, Washington, DC; 6VISN 22 (VA Desert Pacific Healthcare Network), Gilbert, AZ; 7VA San Diego Healthcare System, San Diego, CA; 8RAND and UCLA, Medford, OR. (Control ID #3179140)
+
+# BACKGROUND
+
+Aiming to improve access to mental health care, collaborative care models embed nurse care managers and mental health specialists to provide services in primary care. A decade after initiation of the Veterans Health Administration's (VA) Primary Care - Mental Health Integration (PC-MHI), representing the nation's largest implementation of such models, we know little about primary care perceptions of these services. Coordination between primary care and mental health specialties is crucial to collaborative care models, and PC-MHI care management and technologies may facilitate specialist communication and urgent care coordination. We examined primary care clinic leader satisfaction with care for various mental and behavioral health conditions and its relationships with key PC-MHI program features - traditional care management and newer information communication technology.
+
+# METHODS
+
+This is a cross-sectional key informant organizational survey about PC-MHI among VA primary care clinic leaders (e.g., physicians, nurse practitioners) in Southern California, Arizona, and New Mexico (VA region with the greatest penetration of PC-MHI services) from February to May 2018 (n=65, 94% response rate). The survey assessed primary care clinic leaders' satisfaction with PC-MHI care, care management availability, and sufficiency of PC-MHI information communication technology (telemedicine, electronic referral/consultation, instant messaging). Using Chi 2 tests and regressions, we examined relationships between PC leaders' satisfaction and PC-MHI features of care management and of information communication technology (3-item scale, =0.81), controlling for clinic size, location, and case-mix.
+
+# RESULTS
+
+Primary care clinic leaders were often "very satisfied" with care for target PC-MHI conditions of anxiety (71%) and depression (69%), but not for other conditions (37% alcohol misuse, 19% pain). Availability of PC-MHI care management was significantly associated with satisfactory depression (p=.02) and anxiety.

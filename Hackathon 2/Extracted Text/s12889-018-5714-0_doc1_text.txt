@@ -1,0 +1,29 @@
+# Björk et al. BMC Public Health (2018) 18:838
+
+# Background
+
+Work-related stress occurs when the demands of the job exceed a worker’s ability to cope with them. It is the second most frequently reported work-related health problem in Europe; about one fourth of European workers say they experience work-related stress for all or most of their working time [1]. The considerable costs of stress-related disorders can be found at all levels: loss of health and income for the sick listed employee; loss of productivity, high levels of absenteeism and turnover for the employer and strained health care services and social security systems for the society [2, 3]. To prevent stress at work and to increase work capacity in employees with stress-related disorders is a challenge on a national as well as on the European level.
+
+In Sweden, psychiatric diagnoses are the most common cause to sickness absence (SA), among both women and men [4], and the number of new cases of sick-leave periods in psychiatric diagnoses rose from 16 cases per 1000 employees in 2010, to 28 cases per 1000 employees in 2016 [5]. Tackling these increasing sick-leave rates is high up on the Swedish political agenda. Exhaustion disorder (ED) is a recognized diagnosis in Sweden since 2005, which justifies compensation from the social security system. Adjustment disorders and reactions to severe stress (Table 1) represent about 50 % of sick-leave cases due to psychiatric disorders [6].
+
+Work-related factors such as high job demands, low job control, and low social support, increase the risk for sickness absence (SA) due to common mental disorders (CMD) in general [7], and for the development of burnout symptoms in particular [8]. For most people, a period of sickness absenteeism ends with the patient returning to work. Apart from a number of important variables at the individual level, such as symptom severity and a strong expectation to return to work (RTW), workplace level factors such as a sufficient social support from colleagues and supervisor are important determinants for a successful RTW process in CMD patients [7, 9]. Employees with low work demands and a strong RTW self-efficacy and work ability have also been shown to be more likely to RTW after a period of SA due to a CMD [10].
+
+# Table 1 The International Classification of Disease 2010 F43: Reaction to severe stress, and adjustment disorders
+
+|F43.0|Acute stress reaction|
+|---|---|
+|F43.1|Post-traumatic stress disorder|
+|F43.2|Adjustment disorders|
+|F43.8|Other reactions to severe stress|
+|F43.8Aa|Exhaustion disorder|
+|F43.9|Reaction to severe stress, unspecified|
+
+aThis diagnosis has been added to the Swedish ICD-10 scheme
+
+In the past years, several reviews and meta-analyses have been concluding the evidence from a growing number of studies on both clinical and workplace interventions for RTW in patients with CMD. These studies include a plethora of operationalizations of sickness absenteeism and RTW and are conducted on patients with different mental afflictions- most commonly anxiety and/or depression. To reduce sickness absenteeism and/or enhance RTW for workers with specific diagnoses, we find support for problem solving therapy (PST) for people with adjustment disorders [11]; for cognitive behavioral therapy (CBT) and work-directed measures for workers with depression [12]; and physical activity [13] and work-directed interventions (such as exposure therapy, CBT- and PST- based RTW programs) in patients with anxiety and/or depression [14]. In a systematic review and meta-analysis focusing on tertiary interventions in clinical burnout, the authors conclude that successful interventions incorporate the employer in rehabilitation [15].
+
+When CMD is more broadly defined, scholars have recommended a cohesive and work-focused rehabilitation program, involving several stakeholders [16], as well as work-focused CBT and interventions including a combination of health focused interventions, service coordination interventions and work modification interventions [17].
+
+But there are also recent reviews where no, or very limited, support for work-directed interventions for improving RTW in workers with CMD were found [18–20]. Thus, there are no univocal conclusions to be drawn from these reviews and any effort to improve RTW in workers with CMD must be done with a careful consideration to the specific institutional context where it is taking place.
+
+In Sweden, the average time (median for all diagnoses) to end a sick-leave case is 44 days. However, for patients with adjustments disorders and reaction to severe stress it takes on average 57 days to end a sick-leave case [6]. The effect of employer involvement in stress rehabilitation has been studied in a Swedish context, and beneficial effects on RTW have been shown [21, 22], also over time for younger patients [23]. In a recent study, CMD patients (out of which over 70 % suffered from exhaustion or adjustment disorder) receiving primary health care were randomized to either CBT; an workplace intervention including early contact with the employer and graded exposure to the workplace; or a combination of the two [24]. One year after intervention however, there was no difference in days on sick leave between the three treatment groups. Research on workplace involvement in the rehabilitation of patients with stress-related disorders are thus inconclusive also in a Swedish context.

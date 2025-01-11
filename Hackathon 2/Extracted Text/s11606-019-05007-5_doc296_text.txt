@@ -1,0 +1,62 @@
+# UNMET MATERIAL AND SOCIAL NEEDS AND PRE-EXPOSURE PROPHYLAXIS (PREP) FOR HIV PREVENTION ADOPTION: WHAT IS THE ASSOCIATION?
+
+Tyler Andriano1; Minia N. Rios Gutierrez2; Julia H. Arnsten1; Viraj V. Patel1. 1Albert Einstein College of Medicine, Bronx, NY; 2Albert Einstein, Bronx, NY. (Control ID #3185146)
+
+# BACKGROUND:
+
+Young Black/Latinx men who have sex with men (YBLMSM) have the highest rates of new HIV infections but low uptake of pre-exposure prophylaxis (PrEP)-a highly effective HIV prevention tool. While unmet material/social needs are associated with low uptake of biomedical prevention for diverse conditions, this association is unknown for PrEP. We investigated the effects of unmet needs on PrEP adoption in a sample of YBLMSM.
+
+# METHODS:
+
+We surveyed HIV-negative YBLMSM aged 18-29 in New York City at high-risk of HIV (eg, recent STI) recruited online (n=143). Primary outcomes were 1) intention to use PrEP in the next month and 2) current PrEP use. We used the 17-item Family Resource Scale to measure unmet needs in three domains: basic (housing/food), health/social services, and economic, using a Likert scale ranged from 1=needs never met to 6=needs always met. For the full scale and each domain, we calculated the mean score and used bivariate logistic regression to test associations between outcomes and unmet needs (dichotomizing scores at having any unmet needs vs. needs always met).
+
+# RESULTS:
+
+Participants' mean age was 24.1(SD±3) years. Most identified as male (87%), gay (76%), and Non-Hispanic Black (63%) or Latinx/Hispanic (37%). Some (19%) had no health insurance and among the insured (79%), 42% had Medicaid. Of those not on PrEP, 48% (69/114) intended to start in the next month; 20% (29/143) were currently on PrEP. In the full scale, 75 participants (52%) had some unmet needs. Among the three domains, 36%(n=52) had unmet basic needs, 59%(n=85) had unmet health/social needs, and 64%(n=92) had unmet economic needs. In bivariate analysis of the scale, participants were more likely to intend to use PrEP if they had more unmet needs in the full scale (p=0.03), basic (p=0.01), and economic (0.04) domains. Yet, for health/social needs, regardless of the level of unmet needs, participants had similar intentions to use PrEP. Likewise, regardless of unmet need levels overall or in each domain, current PrEP use was similar.
+
+# CONCLUSIONS:
+
+A high prevalence of unmet material/social needs existed among YBLMSM. Those with more unmet needs had a higher intention to use PrEP, but similar rates of PrEP use as those with met needs. Given the significant interest in PrEP use, reaching YBLMSM with greater unmet needs may help improve PrEP uptake.
+
+# Table. Association of PrEP intention and current PrEP use with unmet needs.
+
+| |Mean (SD)|Mean (SD)|OR (95% CI)| | |
+|---|---|---|---|---|---|
+|Intending to take PrEP in next 30 days (N=69)| |4.5 (1.4)|Not Intending to take PrEP in next 30 days (N=45)|5.0 (1.0)|0.7 (0.5,0.9)*|
+|Full Scale|4.7 (1.3)|5.3 (1.0)|0.6 (0.4, 0.9)**| | |
+|Health Needs|4.1 (1.8)|4.3 (1.6)|0.9 (0.7, 1.2)| | |
+|Economic Needs|4.0 (1.7)|4.6 (1.3)|0.8 (0.6, 1.0)*| | |
+|Currently Taking PrEP (N=29)|4.6 (1.3)|Not Taking PrEP (N=114)|4.7 (1.3)|0.9 (0.7, 1.3)| |
+|Basic Needs|4.8 (1.5)|4.9 (1.3)|0.9 (0.7, 1.3)| | |
+|Health Needs|4.0 (1.7)|4.2 (1.7)|0.9 (0.7, 1.2)| | |
+|Economic Needs|4.2 (1.6)|4.2 (1.6)|1.0 (0.8, 1.3)| | |
+
+#p&lt;0.05, **p&lt;0.01
+
+# UNMET MENTAL HEALTH NEED AMONG CHINESE AND LATINO PATIENTS IN PRIMARY CARE: THE INTERSECTION BETWEEN LANGUAGE, ETHNICITY, AND GENDER
+
+Maria E. Garcia1; Ladson Hinton3; Steven Gregorich1; Jennifer Livaudais-Toman1; Celia P. Kaplan2, 1; Leah S. Karliner4, 1. 1University of California, San Francisco, Greenwich, CT; 2University of California San Francisco, San Francisco, CA; 3University of California, Davis, Sacramento, CA; 4UCSF, San Francisco, CA. (Control ID #3186068)
+
+# BACKGROUND:
+
+Although racial and ethnic minorities are more likely than whites to seek care for mental health symptoms in primary care, they are less likely to receive depression treatment. While prior studies have studied the independent contributions of race/ethnicity, gender and language on mental health disparities, the intersecting effects of these factors are unknown. This study examines the intersecting contributions of these factors to unmet mental health need among Chinese and Latino patients in primary care.
+
+# METHODS:
+
+As part of a study of communication and health outcomes in primary care, patients were interviewed via telephone in English, Chinese, or Spanish within 1 week of a visit. Two mental health outcomes were assessed: whether in the past year the patient 1) perceived a need for help with emotional or mental health symptoms (‘mental health need'), and 2) had seen a primary care physician or a mental health professional for these symptoms. Among those who reported ‘mental health need', we defined ‘unmet mental health need' as those who had not used services for their symptoms. Main predictor variables included English proficiency (English proficient [EP] vs limited English proficient [LEP]), race/ethnicity, and gender. Descriptive statistics and chi-square tests estimated the prevalence of outcomes and examined differences by English proficiency and race/ethnicity. Regression models explored interaction effects among English proficiency, race/ethnicity, and gender on the 2 mental health outcomes, controlling for additional patient characteristics.
+
+# RESULTS:
+
+Among the 1149 participants (62% women; 262 Chinese EP, 532 Chinese LEP, 172 Latino EP and 183 Latino LEP), 33% reported mental health need. Women were more likely to report need than men (aOR 1.35, 1.03-1.79) regardless of race/ethnicity or English proficiency. There was a significant interaction between race/ethnicity and language proficiency. Among Chinese participants, those with LEP were more likely than those with EP to report mental health need (aOR 2.55, 95% CI 1.73-3.76). While there was a trend in the opposite direction among Latinos, it was not statistically significant (aOR 0.64, 0.40-1.04). Among patients reporting mental health need, 41% had unmet mental health need. While there were no racial/ethnic differences in unmet need, there was a significant interaction between English proficiency and gender. Men with LEP, compared to those with EP, were more likely to have unmet need regardless of race/ethnicity (aOR 2.53, 1.06-6.04).
+
+# CONCLUSIONS:
+
+In a population of Chinese or Latino primary care patients, we found both high levels of mental health symptoms and unmet mental health need. Our results affirm the importance of universal depression screening that is inclusive of all populations and suggest that attention to intersecting patient characteristics can help identify those at highest risk of untreated symptoms (such as men with LEP) who would benefit from targeted interventions to ensure linkage to treatment.
+
+# US MEDICAL SCHOOL APPLICANT EXPERIENCES OF BIAS ON THE INTERVIEW TRAIL
+
+Avik Chatterjee1, 2; Charlotte Greif3; Robert Witzburg4; Lori Henault5; Kristen Goodell4; Michael K. Paasche-Orlow6. 1Harvard Medical School, Cambridge, MA; 2Boston Health Care for the Homeless Program, Boston, MA; 3UT Southwestern, Dallas, TX; 4Boston University School of Medicine, Boston, MA; 5Boston Medical Center, Boston, MA; 6Boston University, Boston, MA. (Control ID #3169424)
+
+# BACKGROUND:
+
+A diverse physician workforce will be necessary to meet the needs of the United States population, but US medical schools

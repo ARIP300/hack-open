@@ -1,0 +1,63 @@
+# ABSTRACTS
+
+# CONCLUSIONS
+
+Recommendations for de-intensifying medical care can be systematically developed and validated using evidence curated by existing guideline efforts. These findings set the stage for planning implementation approaches to stop or scale back unnecessary services.
+
+# ASSESSMENT OF INTERNAL MEDICINE RESIDENT PREPAREDNESS TO CARE FOR LESBIAN, GAY, BISEXUAL, TRANSGENDER, AND QUEER/QUESTIONING PATIENTS
+
+Carl G. Streed1; Helene F. Hedian2; Amanda Bertram2; Stephen Sisson2.
+
+1 Boston Medical Center, Boston, MA; 2 Johns Hopkins University, Lutherville, MD. (Control ID #3148706)
+
+# BACKGROUND
+
+Recognizing the unique health needs of sexual and gender minorities (i.e. lesbian, gay, bisexual, transgender, queer/questioning individuals) is critical to providing competent and comprehensive health care. We aimed to assess resident knowledge of health care issues uniquely affecting sexual and gender minorities as well as the role of online case-based didactics to measure and improve knowledge in the diagnosis and treatment of these patients.
+
+# METHODS
+
+We designed a multicenter online education intervention from December 2016 to April 2018. The study population consisted of 833 PGY1-3 residents at 120 internal medicine residency programs in the United States who completed 1018 tests. We developed a one-hour online module addressing sexual and gender minority (SGM) health. The test evaluated each resident in four categories: 1) terminology relevant to SGM patients; 2) health disparities and preventive care issues affecting SGM patients; 3) substance use and mental health issues unique to SGM patients; and 4) common sexually transmitted illnesses affecting SGM populations. Participants completed a pretest assessing sexual and gender minority (SGM) health knowledge. A didactic module reviewing diagnosis and management of these diseases was then completed, followed by a posttest.
+
+# RESULTS
+
+Among 1018 resident responses, there was no difference between post-graduate year pre-test performance (PGY-1 52%, PGY-2 50%, PGY-3 51%; p = 0.532) or post-test performance (PGY-1 80%, PGY-2 82%, PGY-3 82%; p =0.285). Pre-test and post-test performance of an online didactic module was the same across test categories and patient populations for PGY-1 vs. PGY-2 vs. PGY-3. Residents demonstrated an improvement between pre- and post-test knowledge.
+
+# CONCLUSIONS
+
+Baseline knowledge of health issues of sexual and gender minorities, as assessed by pre-test performance, did not change during residency training. An online didactic module introduced trainees to critical issues regarding the care of these vulnerable populations until such curricula are required in training. Health disparities in LGBTQ communities may improve with improved physician training on clinical care of LGBTQ patients and families.
+
+# ASSOCIATION BETWEEN ANTIBIOTIC USE AND ACUTE KIDNEY INJURY IN PATIENTS HOSPITALIZED WITH COMMUNITY-ACQUIRED PNEUMONIA
+
+Phuc H. Le1; Pei-Chun Yu1; Preethi Patel2; Andrei Brateanu2; Peter Imrey1; Michael B. Rothberg1.
+
+1 Cleveland Clinic, Cleveland, OH; 2 CCF, Cleveland, OH. (Control ID #3185606)
+
+# BACKGROUND
+
+Acute kidney injury (AKI) is common during hospitalization for community-acquired pneumonia (CAP) and may be associated with specific antibiotics. The risk of AKI associated with vancomycin and piperacillin-tazobactam have been reported, but the association with other antibiotic classes is unknown. We aimed to estimate and compare the risk of AKI for various antibiotic combinations in a large sample of adults hospitalized for CAP.
+
+# METHODS
+
+The study was a retrospective cohort analysis of the Premier Healthcare Database containing all admissions for 660 US hospitals from 2010-2015. We included adults aged 18 years hospitalized with CAP, defined as either a principal ICD-9 code of pneumonia or a principal diagnosis of sepsis or respiratory failure and a secondary code of pneumonia. We considered 8 different antibiotic combinations based on continuous use in the first 3 hospital days. Primary outcome was AKI, defined by ICD-9 codes 584.X. We excluded patients who were admitted to the ICU any time during hospitalization, had AKI codes documented on admission, or had dialysis in the first 2 days. We used mixed logistic regression with hospital as a random effect and adjusted for patient demographics, comorbidities, other treatments on day 0/1, and hospital characteristics.
+
+# RESULTS
+
+The total sample included 418,408 patients, 1.2%-3.6% of whom developed AKI. Compared to those without AKI, patients with AKI were older and more likely to be male, Black, and have Medicare, sepsis or aspiration pneumonia as principal diagnosis, and immune suppression. Patients with AKI also had a higher rate of in-hospital dialysis (2.4% vs. 0%), discharge to hospice (8.6% vs. 4.1%), longer median length of stay (7 vs. 4 days) and higher mortality (12% vs. 2.4%). Compared to a macrolide plus 3rd generation cephalosporin, all other combinations except quinolones were positively associated with developing AKI. The combination of pipperacillin/tazobactam and vancomycin with or without quinolones was associated with the highest odds ratio (OR, 95% CI: 2.55 (2.29- 2.83) and 2.46 (2.23- 2.72) respectively).
+
+# CONCLUSIONS
+
+Broad spectrum antibiotics were associated with a higher odds of developing AKI compared to narrow spectrum regimens. The choice of empiric regimens for patients hospitalized with CAP should take into account this potential complication.
+
+# ASSOCIATION BETWEEN BURNOUT AND INTELLIGENCE MINDSET IN INTERNAL MEDICINE TRAINING PHYSICIANS
+
+Justin Chen1; Angela Fink2; Regina F. Frey2; Erin Solomon2; Stephen Fuest1; Rakhee Bhayani1; Patricia Kao1.
+
+1 Washington University in St. Louis School of Medicine, St. Louis, MO; 2 Washington University in St. Louis, St. Louis, MO. (Control ID #3180399)
+
+# BACKGROUND
+
+Carol Dweck's theory of intelligence differentiates learners as individuals who characterize intelligence as a trait that can be increased through effective practice and perseverance (growth mindset) or one that is immutable and pre-determined (fixed mindset). Studies show that curriculums promoting a growth mindset have improved the academic performance of elementary to college learners, but its effect on graduate medical education is still not defined. This study aims to characterize the intelligence mindset of internal medicine (IM) residents, identify demographic risk factors associated with intelligence mindset, and ascertain if growth mindset education reduces burnout scores.
+
+# METHODS
+
+This is a randomized control trial to study a four-phase educational intervention for IM residents at Washington University in St. Louis School of Medicine/Barnes-Jewish Hospital from 6/2018-6/2019. IM residents were randomized to receive an educational intervention on general wellness (control) or growth mindset (experimental). Participants will complete a survey including demographics, burnout risk factors, burnout measured by the Maslach Burnout Inventory (MBI) subscales, and intelligence.

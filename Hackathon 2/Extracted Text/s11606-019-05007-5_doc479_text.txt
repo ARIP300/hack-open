@@ -1,0 +1,64 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Recognize GHB withdrawal signs and symptoms
+
+# LEARNING OBJECTIVE #2:
+
+Manage GHB addiction and withdrawal
+
+# CASE:
+
+A 40-year-old man slipped at home and presented to the ED after feeling his right leg snap. Imaging with X-ray and CT-angiography showed spiral shaft fractures of the distal tibia and fibula complicated by entrapment of the anterior tibial artery. His medical and social history were significant for HIV (CD4 484), bipolar disorder, chronic pain, polysubstance use (reported cocaine, cannabis, MDMA, and crystal methamphetamine use), severe alcohol use disorder in remission for two years, and osteoporosis (of unknown origin). Home medications included alprazolam 0.5mg TID prn, asenapine 10mg, baclofen 20mg BID and hydroxyzine 25-50mg prn. He is sexually active with men. Surgical repair was delayed when he became increasingly hypertensive, tachycardic, and agitated. Despite receiving alprazolam 1.5mg, hydroxyzine 25mg, baclofen 20mg, and lorazepam 1mg, his symptoms persisted, and he developed visual hallucinations. A workup for organic causes of delirium including serum toxicology was negative. Urine toxicology was positive only for medications given and substances reported in the patient's history. During an additional addiction-focused history, he denied alcohol use but reported daily GHB. His agitation required ICU care. He was initiated on a phenobarbital protocol for GHB withdrawal, with additional haldol and dexmedetomidine for his protracted delirium. On hospital day 4, he underwent a successful intramedullary nailing of the femoral and tibial fractures. He received his last dose of phenobarbital on day 7 and was transitioned to home baclofen, a recommendation by the addiction consult service given its potential utility for GHB treatment.
+
+# IMPACT/DISCUSSION:
+
+GHB is a central nervous system depressant used recreationally (mainly in a liquid oral form) as a party drug for its effects of euphoria, sedation, amnesia, and sex-stimulation. While there is low use (&lt;1%) in the general population, high rates (up to 20%) have been reported among club-going gay and bisexual men. GHB withdrawal includes autonomic nervous system hyperarousal and hallucinations. It remains difficult to treat: GHB is a GABA-B receptor agonist, while alcohol and its withdrawal treatments (benzodiazepines and phenobarbital) are GABA-A agonists. Long-acting benzodiazepines are the mainstay of treatment for GHB withdrawal, with barbiturates considered in withdrawal resistant to benzodiazepines or complicated by psychosis. While originally prescribed to our patient for pain, baclofen—a GABA-B agonist—is currently being studied for its potential to treat GHB use disorder.
+
+# CONCLUSION:
+
+- GHB withdrawal is similar in presentation to alcohol, presenting with tremor, diaphoresis, and agitation—though with a more rapid onset of neuropsychiatric symptoms.
+- GHB withdrawal is life-threatening. A thorough addiction history is required for patients with suspected substance use and acute delirium, as GHB is not identified in standard toxicology screening.
+
+# MASQUERADE OR MISS? A CASE OF UNDIAGNOSED NEUROSYPHILIS
+
+Justin Nichols1; Nikita Donti2; Jennifer N. Goldstein3; Ribu Mathew4.
+
+1Christiana Care Health System, Philadelphia, PA; 2 Christiana Care Health Systems, Wilmington, DE; 3Christiana Care Health System, Newark, DE; 4Sidney Kimmel Medical College, Jefferson University, Philadelphia, PA. (Control ID #3180821)
+
+# LEARNING OBJECTIVE #1:
+
+Rule out reversible causes of psychosis.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose neurosyphilis in individuals with significant risk factors.
+
+# CASE:
+
+A 35-year-old African American previously healthy male presented with progressive waxing and waning encephalopathy, confusion, delusions, hallucinations, and amnesia. One year prior to presentation, he had been diagnosed with schizophrenia, hospitalized and started on antipsychotics without improvement. The patient developed difficulty with activities of daily living, night sweats, weight loss, ataxia, tremors and visual changes. Social history was significant for unprotected male sexual encounters, prompting STD testing by his primary care provider. Testing returned positive for HIV (CD4 count of 169), high RPR titers (1:2048 dilutions) and a positive Treponema pallidum particle agglutination assay (TPPA). He was admitted to the hospital for workup and treatment of suspected neurosyphilis. On exam, the patient was alert and oriented only to person with fine hand tremors and a narrow-based shuffling gait. A lumbar puncture revealed elevated protein, leukocytosis, positive Treponema pallidum antibody and elevated VDRL titer (1:16), confirming neurosyphilis. Cryptococcal antigen, JC virus and meningoencephalitis PCR panel were negative. Brain MRI showed cortical atrophy. The patient was treated with a fourteen-day course of IV penicillin G, followed by one dose of IM benzathine penicillin G with improvement in mental status and affect. He was started on antiretroviral therapy and discharged with follow up at the HIV clinic.
+
+# IMPACT/DISCUSSION:
+
+Neurosyphilis is a great imitator, and early neurological involvement may be seen more frequently in individuals with HIV. Before making a diagnosis of schizophrenia or other psychiatric conditions, reversible causes must be ruled out. A thorough social history is required to assess for risk factors such as HIV status, male gender, and men who have sex with men. Our patient was ultimately diagnosed with AIDS and late-stage neurosyphilis, likely general paresis, after appropriate testing. Since neurosyphilis can occur during any stage of syphilis, a lumbar puncture should be performed when neurological and ophthalmic signs are present or the index of suspicion is high. Elevated protein (&gt;45 mg/dL), white blood cells (&gt;5 cells/microL) and a positive CSF-VDRL confirms the diagnosis of neurosyphilis. Patients should be promptly treated with IV penicillin with test of cure lumbar puncture every six months after treatment until resolution of CSF pleocytosis. Patients with HIV are at increased risk for treatment failure.
+
+# CONCLUSION:
+
+Strongly consider neurosyphilis on the differential in patients who present with neuropsychiatric symptoms and appropriate risk factors. Confirm the diagnosis of neurosyphilis with a lumbar puncture. Treat neurosyphilis with IV penicillin G for 10-14 days, with subsequent confirmatory testing.
+
+# MASQUERADING MYOSITIS
+
+Nirav Antao; Andrea Ramirez Gomez. St.Louis University Hospital, St Louis, MO. (Control ID #3186835)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the different types of idiopathic inflammatory myositis (IIMs) and diagnostic criteria for the new classification
+
+# LEARNING OBJECTIVE #2:
+
+Review the clinical presentation of anti-synthetase syndrome
+
+# CASE:
+
+A 53 year old woman presented with one month of diffuse myalgias, generalized weakness and shortness of breath. She had previously presented to an outside hospital ER on three separate occasions where she was initially treated with multiple antibiotic courses for suspected bronchitis and then briefly admitted for "double pneumonia" due to CT findings of multifocal bilateral reticulonodular pulmonary infiltrates. However, her symptoms never really improved, which prompted evaluation at our institution. Here, physical exam revealed coarse bilateral breath sounds with 3/5 bilateral grip strength and 3/5 strength in proximal and distal bilateral lower extremities. Labs revealed elevated CK 1276, LDH 584, aldolase 34, ESR 91, CRP 11.7 and ANA 1:320 speckled pattern. As her labs, imaging and constellation of symptoms were suggestive of an underlying autoimmune/rheumatologic process, a myositis panel was ordered which revealed +anti Jo-1 and + anti SSA. Due to concomitant persistent shortness of breath and hypoxemia in the setting of above CT, she underwent a bronchoscopy which showed diffuse alveolar hemorrhage. She was thus diagnosed with overlap myositis and more specifically "antisynthetase syndrome" which is the most representative form of this group. She was started on steroids after which azathioprine was added as an outpatient with significant improvement in her symptoms.

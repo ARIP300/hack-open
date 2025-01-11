@@ -1,0 +1,43 @@
+# International Journal for Educational and Vocational Guidance
+
+Bezuidenhout, M., & Coetzee, M. (2010). Preliminary exploratory factor analysis: Student employability scale [Non-published research report]. University of South Africa.
+
+Bock, R. D., & Aitkin, M. (1981). Marginal maximum likelihood estimation of item parameters: Application of An EM algorithm. Psychometrika, 46(4), 443–459. https://doi.org/10.1007/BF02293801
+
+Brown, T. A. (2006). Confirmatory factor analysis for applied research. The Guilford Press.
+
+Campos, K. C. L. (2011). Construção de uma escala de empregabilidade: definições e variáveis psicológicas [Employability Scale construction: Definitions and psychological variables]. Estudos De Psicologia, 28(1), 45–55. https://doi.org/10.1590/S0103-166X20110001000005
+
+Cheng, G.H.-L., Chan, D.K.-S., & Au, W. T. (2020). Profiles of employability and their career and psychological implications among unemployed youth. Applied Research in Quality of Life. https://doi.org/10.1007/s11482-020-09869-4
+
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences. Routledge.
+
+Coscioni, V. (2021). A comprehensive theory of life projects [Non-published doctoral dissertation]. Universidade de Coimbra & Universidade Federal do Rio Grande do Sul. https://hdl.handle.net/10316/95434
+
+Coscioni, V., Teixeira, M. A. P., & Paixão, M. P. (2021). The construction of two transcultural psychological measures for the assessment of Future Time Orientation and Life Project [Conference presentation]. IV Seminário Internacional Desenvolvimento de Carreira e Aconselhamento, online.
+
+Coscioni, V., Paixão, M. P., & Teixeira, M. A. P. (2023). A theoretical model of projects in motivated behavior. Theory & Psychology, 33(1), 59–77. https://doi.org/10.1177/09593543221126950
+
+Di Fabio, A. (2017). A review of empirical studies on employability and measures of employability. In K. Maree (Ed.), Psychology of career adaptability, employability and resilience (pp. 107–123). Springer. https://doi.org/10.1007/978-3-319-66954-0_7
+
+Diener, E. D., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The satisfaction with life scale. Journal of Personality Assessment, 49(1), 71–75. https://doi.org/10.1207/s15327752jpa4901_13
+
+Drosos, N., Theodoroulakis, M., Antoniou, A.-S., & Rajter, I. C. (2021). Career services in the post-COVID-19 Era: A paradigm for career counseling unemployed individuals. Journal of Employment Counseling, 58, 36–48. https://doi.org/10.1002/joec.12156
+
+Ferrão, J., Pinto, H., Caldas, J. M. C., & do Carmo, R. M. (2022). Territorial vulnerabilities, pandemic and Employment: an exploratory analysis of municipal socioeconomic profiles and impacts of COVID-19 in Portugal. Revista Portuguesa de Estudos Regionais. Retrieved from https://vulnerabilidades-territoriais.datalabor.pt
+
+Field, A. (2013). Discovering statistics using IBM SPSS statistics. Sage.
+
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and Measurement error. Journal of Marketing Research, 18(1), 39–50. https://doi.org/10.2307/3151312
+
+Fox, J., Weisberg, S., Adler, D., Bates, D., Baud-Bovy, G., Ellison, S., Firth, D., Friendly, M., Gorjanc, G., Graves, S., Heiberger, R., Laboissiere, R., & Monette, G. (2012). Package ‘car’ (p. 16). R Foundation For Statistical Computing.
+
+Fuertes, V., McQuaid, R., & Robertson, P. J. (2021). Career-first: An approach to sustainable labour market Integration. International Journal for Educational and Vocational Guidance, 21, 429–446. https://doi.org/10.1007/s10775-020-09451-2
+
+Fugate, M., & Kinicki, A. J. (2008). A dispositional approach to employability: Development of a measure and Test of implications for employee reactions to organizational change. Journal of Occupational and Organizational Psychology, 81, 503–527. https://doi.org/10.1348/096317907X241579
+
+Fugate, M., Kinicki, A. J., & Ashforth, B. E. (2004). Employability: A psycho-social construct, its dimensions, and applications. Journal of Vocational Behavior, 65(1), 14–38. https://doi.org/10.1016/j.jvb.2003.10.005
+
+Gamboa, V., Carvalho, C. L., Rodrigues, S., Taveira, M. C. & Silva, A. D. (2022, November 30). Psychometric Evidence of the Multidimensional Measure of Employability in Portuguese Adults [Online poster presentation]. EUROGUIDANCE NETWORK CONFERENCE - Meeting the future today: Competence development for the European guidance community, Prague.
+
+Gamboa, V. M., Rothwell, A., Monarca, M. A., & Gomes, J. (2022). Validación de la Self-Perceived Employability Scale en estudiantes universitarios portugueses y su relevancia en la búsqueda de empleo. Revista de Estudios e Investigación en Psicología y Educación, 9(1), 97–116. https://doi.org/10.17979/reipe.2022.9.1.9014

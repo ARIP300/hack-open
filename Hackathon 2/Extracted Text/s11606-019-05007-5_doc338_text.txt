@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# CASE: A 61-year-old man presented with two weeks of cough.
+
+His cough was productive of yellow sputum with associated shortness of breath. He was initially diagnosed with a viral syndrome and treated conservatively. His symptoms worsened, and he developed new onset frontal headaches, fevers up to 103F, myalgias and chills. He had a past medical history of malignant melanoma excised in 2006 and pyogenic liver abscess (PLA) treated in 2008. The patient was afebrile with normal vitals. He had normal cognition, poor dentition, and diminished breath sounds with crackles noted in the right lung base. His white blood cell count was elevated with bandemia and a procalcitonin of 12. Chest x-ray revealed bilateral lower lung and right midlung infiltrates. The patient was given intravenous vancomycin and piperacillin-tazobactam and was admitted for community acquired pneumonia (CAP). He was transitioned to intravenous levofloxacin for CAP. Overnight, the patient became febrile to 102.8, tachycardic and tachypneic. Vancomycin and piperacillin-tazobactam were restarted. Blood cultures were drawn and a computed tomography (CT) of the chest, abdomen and pelvis revealed multiple bilateral pulmonary nodules with early cavitation concerning for septic emboli and a large multilocular hepatic hypodensity in the right lobe of the liver concerning for liver abscess. Gram stain of the abscess was positive for gram-negative rods. Anaerobic cultures grew Fusobacterium nucleatum. Blood cultures were negative. A peripherally inserted central catheter line (PICC) was placed and the patient was discharged on ampicillin-sulbactam along with an outpatient colonoscopy to evaluate for occult malignancy.
+
+# IMPACT/DISCUSSION:
+
+Pyogenic Liver abscesses, which are typically polymicrobial. Other causes of liver abscess include malignant, iatrogenic, and other infectious sources with overlap between the three categories being common. Many pyogenic liver abscesses result from portal vein pyemia, usually related to bowel leakage and peritonitis. Biliary, Pelvic, and other intraperitoneal sources are the most common source of infection in hepatic abscesses along with hematogenous spread. Fusobacterium spp. are anaerobic gram negative rods that occur as normal oral flora and have been associated with periodontal infections. However, they are uncommon causes of pyogenic liver abscesses. Pyogenic liver abscesses have a known association with GI malignancies and Fusobacterium nucleatum has recently been shown to promote colorectal carcinogenesis by affecting genes associated with the adenoma-carcinoma sequence. The oral cavity could be a potential source of infection for this patient, however, occult GI malignancy must be ruled out.
+
+# CONCLUSION:
+
+The general internist must diagnose and treat a pyogenic liver abscess and understand its implications for evaluation for malignancy.
+
+# A CURIOUS CASE OF CARDIAC TAMPONADE WITHOUT TACHYCARDIA
+
+LU CHEN 1 ; Uta Guo 3 ; PARAG MEHTA 2 ; Tristan Tanner 4 . 1 NEW YORK PRESBYTERIAN - BROOKLYN METHODIST HOSPITAL, Brooklyn, NY; 2NewYork-Presbyterian BMH Hospital, Brooklyn, NY; 3SUNRISE GME CONSORTIUM, LAS VEGAS, NV; 4New York Presbyterian - Brooklyn Methodist, Brooklyn, NY. (Control ID #3186251)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnosing and managing subacute cardiac tamponade
+
+# CASE:
+
+A 67-year-old female with a past medical history of hyperthyroidism and total thyroidectomy, presented with progressive confusion and respiratory distress over the past three months. Patient became more lethargic and confused over the past month, with episodes of hallucination. She became bed bound a week prior to admission. Patient stopped taking her levothyroxine over a year ago. On admission, she was afebrile at 98.0F, with blood pressure of 147/84 with heart rate of 70. Physical exam was significant for lethargy, facial swelling, and macroglossia. Decreased breath sounds in the left lung base were noted along with bibasilar crackles. No murmurs, clicks, gallops or rubs were appreciated on the cardiac exam. Laboratory finding was significant for a serum sodium level of 133 mmol/L, Thyroid Stimulating Hormone (TSH) at 58.5 ng/dL, and Free Thyroxine (T4) of 0.19 ng/dL. Electrocardiogram (EKG) showed low voltage QRS complexes with electrical alternans. Chest Radiography (CXR) was significant for consolidation, atelectasis or effusion in the area of left middle and lower lung region. Patient was started on levothyroxine and hydrocortisone. Echocardiogram (Echo) showed normal systole function of the left and right ventricles. No valvulopathy was identified. A large pericardial effusion with swinging of the heart in the pericardial sac was noted. Significant chamber collapse of both atria, as well as the right ventricle, was also noted. Inferior Vena Cava was dilated and showed no decrease in size with inspiration. Patient received pericardiocentesis with 1300ml serous straw-colored fluid drained. Analysis of pericardial fluid was negative for malignant cells. Acid-fast bacilli stain and culture were negative. Patient was discharged on levothyroxine. Serial TSH and T4 measurements over two months showed normalization of both hormone levels. Repeat echo showed diminishing pericardial effusion.
+
+# IMPACT/DISCUSSION:
+
+Subacute Cardiac Tamponade (SCT) develops over weeks to months and can have a subtle presentation. The most common sign of SCT is sinus tachycardia. Due to the slow development of the pericardial effusion, patients may not be hemodynamically compromised despite the presence of a large effusion. In our patient, tachycardia was possibly masked by baseline bradycardia from myxedema coma secondary to hypothyroidism. Additional physical findings associated with SCT include hypotension, pulsus paradoxus, and elevated jugular venous pressure. EKG, CXR, and Echo should be obtained to aid diagnosis and facilitate treatment.
+
+# CONCLUSION:
+
+Thorough physical exam and a high level of clinical suspicion are needed to prevent a delay in diagnosis of subacute cardiac tamponade, especially in the setting of myxedema coma.
+
+# A CURIOUS CASE OF EOSINOPHILIA
+
+Elizabeth Thottacherry1; Ali Hassoun2. 1University of Alabama School of Medicine, Huntsville, AL; 2Alabama Infectious Diseases Center, Huntsville, AL. (Control ID #3186072)
+
+# LEARNING OBJECTIVE #1:
+
+Recognise rare presentations of eosinophilia
+
+# LEARNING OBJECTIVE #2:
+
+Differentiating infectious, immunological and hematological causes of eosinophilia
+
+# CASE:
+
+A 62 year old female from India on dialysis for 2 years presented with chest pain occurring in dialysis. Chest pain was midsternal, occurring with dialysis and had started the week prior. Examination revealed an alert female, comfortable on room air and afebrile. Her cardiac exam was normal and no rashes or lymphadenopathy were noted. Labs reflected a white count of 43.7 x 103/uL (reference: 4.1-12.2 x 103/uL) and absolute eosinophil count of 37.2 x 103 (reference: 0.0-0.5 x 103/uL). Her cardiac enzymes were unremarkable and her kidney function was at baseline. Blood and stool cultures, ova and parasite screens and IgE levels were sent as well as a strongyloides and filarial panel given her Indian background. While cultures and parasite screen were negative, her IgE levels resulted grossly elevated. Peripheral smear and flow cytometry were inconclusive. Cardiac investigation revealed nonobstructive coronary disease. Bone marrow biopsy resulted showing eosinophilia and neutrophilia lacking malignancy. The patient attempted to continue dialysis, however again experienced chest pain. At this point a variety of differentials were considered with a discussion about recent lifestyle changes. The patient noted that she recently changed dialyzer membranes from polyarylethersulfone to polysulfone. Steroid therapy was started and her dialyzer membrane was changed back with immediate cessation of symptoms. Her eosinophilia improved and a polysulfone allergy was recorded.
+
+# IMPACT/DISCUSSION:
+
+Eosinophilia can be categorised into primary/clonal, secondary/reactive or idiopathic. Diagnosis can be challenging due to the differentials present. After a detailed history is obtained, initial work

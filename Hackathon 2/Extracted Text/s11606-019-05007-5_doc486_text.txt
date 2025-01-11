@@ -1,0 +1,63 @@
+# MIXED BACTERIAL AND FUNGAL INFECTION IN A CASE OF EFFUSIVE CONSTRICTIVE PERICARDITIS IN ESRD
+
+Satyaki Chakrabarty2; Aya Shnawa1; Michael Maysky2. 1Jordan University of Science and Technology, Irbid, Jordan; 2St. Elizabeth's Medical Center, Tufts University School of Medicine, Boston, MA. (Control ID #3184704)
+
+# LEARNING OBJECTIVE #1:
+
+Careful assessment of etiology in pericarditis in patients with end-stage renal disease.
+
+# LEARNING OBJECTIVE #2:
+
+Management of effusive constrictive pericarditis due to Candidal infection of pericardium.
+
+# CASE:
+
+A 79 year old male with a past medical history significant for end stage renal disease and hypertension experienced an episode of near syncope during a hemodialysis session. Vital signs included a body temperature of 98.2 F, blood pressure of 74/60 mmHg, heart rate of 119 beats/min, respiratory rate of 24/min and oxygen saturation of 90% on room air. Physical examination was notable for muffled heart sounds along with jugular venous distension which increased on inspiration. Initial laboratory findings were significant for: white blood cell count of 16,100/mm3 with 87.0% neutrophils; BUN, 31 mg/dL; serum creatinine, 5.5 mg/dL; lactic acid, 2 mmol/L; NT pro B-NP, 4380 pg/mL. There was no evidence of growth on blood cultures. An Echocardiogram showed evidence of pericardial effusion along with diastolic collapse of the right atrium and ventricle, suggesting tamponade physiology. A right heart catheterization confirmed equalization of intracardiac pressures after which 675 mL of serosanguinous pericardial fluid was removed though pericardiocentesis. Right atrial pressure remained elevated at 28 mm Hg, confirming an effusive-constrictive physiology. Pericardial fluid demonstrated heavy growth of Candida albicans along with many white blood cells. A further 400 mL was removed though a pericardial drain. The patient's clinical condition improved significantly and he was started on an oral regimen of Flucanazole and Colchicine, which he continued for 6 weeks. Prior to his follow up, we noted that the pericardial fluid was also growing Mycobacterium avium. At follow up, a repeat Echocardiogram showed complete resolution of the pericardial effusion and we decided to refrain from further medical therapy.
+
+# IMPACT/DISCUSSION:
+
+Purulent pericarditis caused by Candida species is a rare condition with high mortality rates despite treatment. Our patient was immunocompromised due to his ESRD and Candidal infection of an already uremic pericardium added more insult to injury. What was unusual in this case is the concomitant infection with M. avium. Tuberculosis happens to be a frequent cause of ECP in immunosuppressed patient populations. Our patient's clinical condition resolved with just large volume pericardiocentesis, anti-fungal therapy and anti-inflammatory therapy, negating the need for pericardiectomy.
+
+# CONCLUSION:
+
+To our knowledge, this is the first reported case of ECP caused by mixed bacterial and fungal infection in a patient with ESRD. This argues towards careful assessment of etiology while treating pericarditis in chronic kidney disease. Also, we demonstrate how candidal infection of the pericardium can be successfully treated with oral fluconazole and percutaneous drainage.
+
+# MORE THAN DIABETIC NEUROPATHY: A PINS AND NEEDLES CASE OF ANTI-LGI1 AND ANTI-CASPR2 ASSOCIATED LIMBIC ENCEPHALITIS
+
+Sagar Wagle; Simarjeet S. Lamba; Ali Saadi; Elieth Martinez. UCSF Fresno, Fresno, CA. (Control ID #3183723)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical manifestations of anti-LGI1 and anti-CASPR 2 limbic encephalitis.
+
+# LEARNING OBJECTIVE #2:
+
+Identify treatment modalities for limbic encephalitis.
+
+# CASE:
+
+A 78-year-old male with diabetic neuropathy presented with worsening neuropathic pain with stocking-glove pattern. Further history revealed a 30 lb weight loss over 3 months. CT Chest was notable for a 4 cm thymoma. The thymoma was resected resulting in partial resolution of neuropathic symptoms. Six weeks later, the patient was re-admitted for generalized weakness, confusion, visual hallucinations, and agitation. Vitals were unremarkable and exam was notable for bilateral temporal wasting. He had slurred speech, was oriented only to self, and had poor short-term memory recall. Strength was intact. Workup including MRI brain, EEG, EMG, and lumbar puncture were unremarkable. Serum antibodies were positive for anti-CASPR 2 (contactin-associated protein-like 2) at 1:160 titer, anti-LGI1 (leucine-rich glioma-inactivated1) at 1:10 titer, and VGKC (voltage-gated potassium channel) at 257 pmol/L (normal < 80). The patient received 5 days of methylprednisolone 1g daily followed by 5 sessions of plasmapheresis. He had resolution of confusion, hallucinations, and neuropathy.
+
+# IMPACT/DISCUSSION:
+
+Limbic encephalitis is an autoimmune inflammation of the limbic system. It usually occurs as a paraneoplastic syndrome and can precede a diagnosis of malignancy. Clinical manifestations of anti-LGI1 positive limbic encephalitis include seizures, psychiatric symptoms, neuropathy and memory problems. MRI findings include signal changes in the temporal lobe and hippocampus. Immunotherapy (IVIG, steroids, and plasmapheresis) remains the mainstay of treatment. Most anti-CASPR 2 positive patients with limbic encephalitis are elderly male and thymoma is the most common tumor. Patients with tumor have symptomatic recovery after surgery or chemotherapy, and patients without tumor often have recovery after immunotherapy. With an annual incidence of less than 1 in one million, this case contributes to the literature of autoimmune encephalitis given its broad clinical presentation before a diagnosis is made. While most anti-CASPR 2 patients have full neurological recovery after tumor resection, our patient had transient improvement and subsequent encephalopathy. His symptoms improved only after immunotherapy was started. Currently, there are no set treatment guidelines. Further investigation is required to assess the benefit of sequential use vs concomitant administration of steroids with PLEX. While some providers add other immunotherapies including rituximab and cyclophosphamide, our patient will continue with plasmapheresis in the outpatient setting.
+
+# CONCLUSION:
+
+Limbic encephalitis presents with memory loss, confusion, seizures, and psychiatric symptoms like personality change, irritability, anxiety, and depression. Its treatment includes immunotherapy and treatment of underlying malignancy (if present).
+
+# MULTIPLE ABSCESSES AND RED HERRINGS
+
+Stephen Sexauer; David O'Dell; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186340)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an evaluation and treatment approach to multiple abscesses.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the Streptococcus anginosus group as the potential causative agent for multiple abscesses and common treatment pitfalls.
+
+# CASE:
+
+A 52 year-old man presented with fevers, intractable headaches, photophobia, and SOB that had progressed over the period of one week. He had a history of psoriasis treated with etanercept and who worked as a pig butcher and had a pet squirrel. He was afebrile and hemodynamically stable. There was nuchal rigidity, however, the remainder of the physical exam was unremarkable, including a clear oropharynx. Brain MRI revealed small cerebral abscess and Chest X-ray revealed a lower lobe cavitary lesion. He underwent lumbar puncture that revealed elevated protein, consistent with a viral meningitis. He was treated supportively. He subsequently underwent CT of his chest to further evaluate the lesion seen on X-ray which confirmed the presence of an abscess. He was started on empiric coverage for Nocardiosis with ceftriaxone and his headaches were treated symptomatically. He underwent lung abscess biopsy which was unrevealing and did not grow any organisms. He failed to improve symptomatically after several.

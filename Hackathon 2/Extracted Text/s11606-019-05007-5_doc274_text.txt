@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# RESULTS:
+
+Over 2 years of implementation, Americans earning &lt;400% FPL compared to &gt;=400% FPL received more high-value diagnostic and preventive testing (DiD, +1.8%; p&lt;0.01), but no difference in cancer screening, diabetes care, counseling, or medical treatments. Americans earning &lt;400% FPL had similar low-value antibiotic use and medical treatments, but worse low-value imaging (DiD, -3.1%; p=0.04), improved global health care ratings (DiD, +2.2%; p=0.04), and improved physician communication ratings (DiD, +2.8%; p&lt;0.01) with non-significantly better access to care (DiD, +2.1%; p=0.14). There were no significant differences in utilization of preventive visits (DiD, +2.1%; p=0.06), inpatient, outpatient, emergency, or pharmacy services, nor in the cost of care (total cost DiD, +$233; p=0.38; total out of pocket cost, -$47; p=0.15).
+
+# CONCLUSIONS:
+
+In its first 2 years among Americans earning &lt;400% FPL, the ACA improved diagnostic and preventive testing and patient experience, worsened low-value imaging, and had minimal to no impact on other quality composites, cost, or utilization. Despite decreasing the uninsurance rate by over 25%, the ACA to date has had a relatively limited impact on the quality of care experienced by lower income Americans. Future efforts are needed to assure access and quality for this population as significant disparities in quality persist.
+
+# THE HIGH COST OF LOW VALUE CARE
+
+Thomas McGinn1; Stuart Cohen1; Sundas Khan1; Safiya Richardson2; Michael Oppenheim; Jason J. Wang1. 1Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY; 2Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY. (Control ID #3186288)
+
+# BACKGROUND:
+
+A fundamental problem with health care delivery in the United States is that a large percentage of the care delivered is not indicated and often harmful. In many clinical situations there is readily available evidence to inform proper decision making to reduce unnecessary testing and treatments, but that evidence is not utilized. Our research team developed a clinical decision support (CDS) tool based on the Wells' criteria for pulmonary embolism (PE) in which computed tomography pulmonary angiography (CTPA) is not recommended in low probability patients. As part of a cost analysis, we retrospectively characterized the rate of incidental findings on CTPAs performed despite the CDS recommendations.
+
+# METHODS:
+
+A retrospective analysis was conducted on patients evaluated for suspected PE in the emergency department at two tertiary academic hospitals between August 1, 2015 to July 31, 2017. A fellowship trained cardiothoracic radiologist performed a manual review of the reports of low and very low risk CDS patients with a CTPA result to account for incidental findings. Low risk patients were defined as a negative D-dimer during the visit (&lt;500 ng/mL) and very low probability patients was determined based on a negative D-dimer and discharged home. For each follow up test recommended, the cost was estimated through their current procedural terminology (CPT) code using the 2018 Medicare physician fee schedule for area 2.
+
+# RESULTS:
+
+There were 12,759 patient visits representing 11,836 patients. For the 11,836 patients, 5,068 were patients in the low probability category and 3,645 were in the very low probability category. Of the very low probability group, 877 had a CTPA within 24 hours after a negative D-dimer. Review of the follow up recommendations for the 877 low probability patients resulted in 79.8% (700/877) with no follow up, 17.6% (154/877) had 1 item follow up recommended, 2.5% (22/877) had 2 items recommended, and 0.1% (1/877) had 3 items follow up recommended. The total costs of performing 877 CTPAs was $317,140.74 and the follow up recommendations cost was $53,619.79. If all tests were performed it represented an additional 17% cost increase compared to only performing the initial CTPA.
+
+# CONCLUSIONS:
+
+Avoiding unnecessary medical testing is important for several reasons including cost to the patient, health systems, and country. A more concerning issue regarding expense and harm is the potential for unnecessary follow up tests performed which could have been avoided if the initial test had never been performed. The cost estimates were limited by using Medicare standard fees which may underestimate the actual procedure cost and additional evaluation is needed to establish the true cost of unnecessary follow up testing. In addition, CDS tools built to estimate pretest probability of PE and discourage the CTPA use in low-risk patients have been shown to improve the CTPA yield. Seamlessly integrating evidence into care is imperative in the reduction of unnecessary tests.
+
+# THE I-HOPE STUDY: IMPROVING HOSPITAL OUTCOMES THROUGH PATIENT ENGAGEMENT
+
+James D. Harrison1; Esther Avitia6; Michelle Archuleta2; JIm Banta3; Joy Benn; Marisha Burden2; Vineet Chopra5; Rebecca Coker6; Shaker Eid;4 7 Margaret Fang1; Kathlyn Fletcher8; Julie K. Hagan7; Jawali Jaranilla9; Monalisa Mullick 10; Christopher Nyenpan 11; Lali Silva 4; Melissa Wurst10; Georgiann Ziegler5; Luci Leykum6, 12. 1University of California San Francisco, San Francisco, CA; 2Denver Health, Denver, CO; 3Intensive Care Unit Patient & Family Advisory Council, University of California San Francisco, San Francisco, CA; 4Minnesota Hospital Association, Saint Paul, MN; 5University of Michigan, Ann Arbor, MI; 6University of Texas Health at San Antonio, San Antonio, TX; 7Johns Hopkins Bayview Medical Center, Baltimore, MD; 8 Medical College of Wisconsin/Milwaukee VAMC, Tbd, AL; 9HealthEast Care System, Saint Paul, MN; 10Washington University in St. Louis, Saint Louis, MO; 11Society of Hospital Medicine, Washington DC, DC; 12South Texas Veterans Health Care System, San Antonio, TX. (Control ID #3162633)
+
+# BACKGROUND:
+
+Issues with the quality and safety of hospital care have been well-documented. However, what is less understood are the perspectives of patients, families, caregivers, and other stakeholders regarding what they feel are the most important targets of improvement research. We systematically engaged a broad sample of these groups to solicit their input on important questions and to develop a prioritized agenda to drive Hospital Medicine research and quality improvement.
+
+# METHODS:
+
+The study was led by 9 researchers, 8 patients, and 2 administrators recruited from 8 academic medical centers, who formed a Steering Committee that managed the project. We applied a collaborative and consultative approach to stakeholder engagement based on validated methods from the James Lind Alliance. This included multiple and iterative stages to our project such as: 1) a multi-pronged, inclusive patient and stakeholder engagement strategy; 2) an online survey of patients and stakeholder organization leadership and members; 3) rigorous qualitative thematic analysis; 4) a two-day in-person meeting with patients and stakeholders to prioritize the submitted survey questions and plan dissemination efforts.
+
+# RESULTS:
+
+In total, 499 respondents (including 267 healthcare providers, 244 patients and caregivers and 63 researchers) from 47 organizations submitted a total of 782 high-priority research questions and suggestions for improving hospital care. These questions were categorized into 73 distinct topics, 53 that were health-system related and 20 disease-specific. Thematic analysis of categories revealed 36 commonly submitted question domains. Following a two-step prioritization process involving the study team and representatives from 30 stakeholder organizations, 11 questions were identified as top priorities (Table 1).
+
+# CONCLUSIONS:
+
+Through a dynamic and collaborative stakeholder engagement process, key patient and family-centered research questions have been identified and developed. These results can help drive a national conversation in the Hospital Medicine community about how to address these priority areas and should inform stakeholder agencies about key areas of research focus.

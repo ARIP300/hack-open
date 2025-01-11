@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+An 80-year-old man with a history of Type 2 diabetes and chronic lumbar radiculopathy presented to the emergency room after four days of left thigh pain radiating from the groin and progressive left leg weakness, now needing a wheelchair. On exam, he had decreased strength in hip flexion and knee extension, decreased sensation to touch along his medial calf, and a muted patellar reflex. He also had decreased vibrational sense in the toes bilaterally. Labs revealed a hemoglobin A1C of 9.8%. An MRI showed diffuse, extensive degenerative disease in the lumbar-sacral spine but no focal structural lesions such as epidural abscess or osteomyelitis. Electromyography showed evidence for diabetic amyotrophy as well as moderate polyneuropathy. After two months of strict glycemic control and physical therapy, the patient recovered some function and was ambulatory with a cane.
+
+# IMPACT/DISCUSSION:
+
+Diabetic amyotrophy is also known as diabetic femoral neuropathy, diabetic proximal neuropathy, diabetic lumbosacral radiculoplexopathy, and Bruns-Gardland syndrome. Patients with this entity typically present with acute or subacute, severe unilateral pain and weakness in the proximal lower extremity, and may often have muscle wasting. While distal polyneuropathy is the most common type of diabetes-induced neuropathy that can affect more than 20% of all diabetic patients, diabetic amyotrophy is much rarer and affects less than 1% of patients. Because of its low prevalence, it is often misdiagnosed as lumbosacral radiculopathy. In this case, our patient's neurologic symptoms were initially assumed to be due to known lumbar radiculopathy, but a thorough exam localized the lesion to the left femoral nerve, which did not correlate with the imaging finding. The diagnosis of diabetic amyotrophy depended on a high level of suspicion, recognition of poorly controlled diabetes, and confirmatory testing with electromyography. Treatment mainly consists of pain management and glycemic control, but studies on steroids and immunoglobulin are ongoing. The majority of patients spontaneously improve over months.
+
+# CONCLUSION:
+
+Diabetic amyotrophy is a rare yet debilitating complication of diabetes. Because diagnosis relies heavily on clinical recognition, it is important for internists to keep a high level of suspicion when diabetic patients present with asymmetric proximal neuropathy.
+
+# DIABETIC MUSCLE INFARCTION: A CASE OF MISTAKEN IDENTITY
+
+Kirsten Salline; Lily Belfi; David Pisapia; Sydney Katz. Weill Cornell Medicine, New York, NY. (Control ID #3181712)
+
+# LEARNING OBJECTIVE #1:
+
+Review common etiologies of muscle pain and edema in diabetic patients.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the presentation, diagnosis, treatment, and prognosis of diabetic muscle infarctions.
+
+# CASE:
+
+A 47-year-old woman with poorly controlled T1DM (HbA1c 12-14%) presented to the ER for the third time in two weeks with persistent right thigh pain and swelling despite a seven-day course of cephalexin for presumed cellulitis. She denied lacerations, trauma, fevers, or recent immobilization. On exam, she was afebrile and the right thigh was edematous and indurated without erythema. Labs were notable for WBC 9.9/uL, CRP 9.3 mg/dL, ESR >130 mm/hr, and CK 771 U/L. A thigh ultrasound showed soft tissue edema without drainable fluid collection or DVT. She was treated with IV vancomycin and piperacillin/tazobactam for a working diagnosis of pyomyositis. A right knee effusion was noted on hospital day three which raised concern for septic arthritis in the setting of adjacent pyomyositis. Synovial fluid revealed no organisms, a normal nucleated cell count, and negative cultures. MRI of the right knee and thigh showed increased T2 signal of the quadriceps musculature. Blood cultures drawn on admission were sterile. Despite imaging suggestive of pyomyositis, the patient did not improve clinically with broad-spectrum antibiotics. A muscle biopsy was performed. Biopsy revealed diffuse myonecrosis consistent with diabetic muscle infarction (DMI). Muscle tissue cultures were sterile. Antibiotics were stopped and aspirin was started.
+
+# IMPACT/DISCUSSION:
+
+DMI is a rare and morbid complication of poorly controlled diabetes. Diagnosis can be delayed due to its rarity and similar presentation to soft tissue infections and VTE. DMI is an infrequent complication of diabetes that presents with acute pain and swelling of large muscle groups without constitutional symptoms, prior trauma, or simultaneous infection. Patients often have complications of poorly controlled diabetes at diagnosis. Diabetic microangiopathy or ischemia-reperfusion injury is thought to cause the muscle infarction. Associated knee effusions have been described a handful of times in cases of DMI. Diagnosis is made via imaging in association with clinical context. Routine labs are nonspecific, though ESR and CRP are often elevated. MRI is the imaging modality of choice, and on T2-weighted images infarcted muscle appears heterogeneous and hyperintense. Definitive diagnosis is made with muscle biopsy; however, this has been associated with increased recovery time. Antiplatelet agents have been associated with a shorter recovery time and lower recurrence rate compared to surgery. Recurrent infarctions and increased mortality make for an overall poor prognosis.
+
+# CONCLUSION:
+
+DMI is an under-recognized and often misdiagnosed cause of muscle pain and edema in poorly controlled diabetic patients. Prognosis of DMI is poor and treatment is largely supportive, though antiplatelet agents are associated with better outcomes.
+
+# DIAGNOSING A RARE CASE OF METFORMIN INDUCED LACTIC ACIDOSIS
+
+Evan R. Gordon-Wollin1; Minho Yu1, 2; Ilho Kang1, 2. 1Loma Linda Medical Center, Rancho Cucamonga, CA; 2Riverside University Health System, Moreno Valley, CA. (Control ID #3168756)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the features of Metformin Induced Lactic Acidosis (MILA).
+
+# LEARNING OBJECTIVE #2:
+
+Treat MILA promptly and aggressively to improve patient outcomes.
+
+# CASE:
+
+This is a 65-year-old female with a history of hypertension and well-controlled diabetes mellitus type 2 on Metformin, who presented with non-bloody diarrhea 2-3 times per day, poor oral intake, and no urine output for 3-4 days. She denied any abdominal pain or fever. Despite not producing any urine for days, she continued to take her Metformin daily. Social, family, and surgical history were negative. Her other medications included Furosemide, Simvastatin, and Lisinopril. On physical exam she was afebrile with stable vital signs. The patient was in no acute distress, her abdominal exam was benign, and the rest of the physical exam was normal. Laboratory studies revealed a leukocytosis of 13.5, lactate 13.3 mmol/L, procalcitonin 0.6 ng/mL, creatinine 10.6 mg/dL, bicarbonate 5 mmol/L, anion gap 35, and a pH of 6.85. Glucose was 56 mg/dL, lipase 1,043 U/L, and beta-hydroxybutyrate 5.2 mmol/L. Point of care ultrasound suggested that the patient was not in distributive shock. The most likely explanation for the severe lactic acidosis was a Type B lactic acidosis due to toxic Metformin accumulation in the setting of acute renal failure precipitated by a pre-renal state. No severe infection was identified, and other causes of a Type B lactic acidosis were ruled out. The patient was admitted to the ICU not on antibiotics, not on vasopressors, and immediately underwent emergent hemodialysis. There was a rapid reduction of lactate to 1.6, and a return of renal function by the end of hospital day two. The patient was discharged home four days later.
+
+# IMPACT/DISCUSSION:
+
+While a Type A lactic acidosis due to systemic hypoperfusion is often at the top of the differential, one must consider a Type B lactic acidosis when the clinical picture and objective data do not fit. Although controversial, rare, and without standard diagnostic criteria, a severe lactic acidosis in the setting of Metformin use and renal failure should prompt consideration of MILA. In a large cohort study of 258,539 patients on Metformin, Eppenga et. al. (Diabetes Care, 2014) found a six-fold increase in lactic acidosis with eGFR <60 mL/min/1.73m2, and Lazarus et. al. (JAMA, 2018) found among 75,413 patients a two-fold increase in lactic acidosis.

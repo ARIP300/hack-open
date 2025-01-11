@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# LOW-VALUE CARE FOR 4 COMMON CONDITIONS WITHIN THE VETERANS HEALTH ADMINISTRATION
+
+Thomas R. Radomski1, Yan Huang1; Seo Young Park1; Carolyn T. Thorpe2; Joshua M. Thorpe2; Michael J. Fine2, Walid F. Gellad2, 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA. (Control ID #3182678)
+
+# BACKGROUND
+
+Low-value care is a major driver of wasteful health care spending and exerts physical, psychological, and financial harm upon patients. Whereas low-value care affects up to 43% of Medicare beneficiaries, less is known about its prevalence within VA. Our objective was to quantify the frequency and facility-level variation in the use of low-value diagnostic testing for Veterans managed within the Veterans Health Administration (VA).
+
+# METHODS
+
+Among a 20% random sample of all Veterans continuously enrolled in VA in Fiscal Year 2015 (n=1,022,987 Veterans), we applied a claims-based metric used in Medicare to identify unnecessary diagnostic testing for 4 uncomplicated conditions: 1) low back pain, 2) acute sinusitis, 3) headache, and 4) syncope. Examples of such low-value care include low back imaging within 6 weeks of an initial back pain diagnosis without red-flag symptoms and maxillofacial CT imaging for acute uncomplicated sinusitis. For headache, we separately assessed low-value head imaging and electroencephalography (EEG). For syncope, we separately assessed low-value head imaging and carotid ultrasonography. For each condition, we determined the overall percentage of eligible Veterans who received low-value care and the range of low-value care use across 127 VA Medical Centers (VAMCs), adjusting for sociodemographic and VAMC characteristics. We used Pearson's correlation coefficient to determine the correlation between Veterans' use of different types of low-value care for the same condition within VAMCs, focusing on uncomplicated headache and syncope.
+
+# RESULTS
+
+Of the 343,024 Veterans who had non-specific low-back pain in FY15, 19,736 (5.8%) received low-value care, with a VAMC range of 3.6-7.7%. Of the 52,889 Veterans who had acute sinusitis, 1,305 (2.5%) received low-value care, with a VAMC range of 1.3-5.1%. Of the 79,176 Veterans with uncomplicated headache, 6,904 (8.7%) received low-value care (head imaging 6,786 (8.6%) and EEG 167 (0.2%)), with an overall VAMC range of 6.2-14.6%. Lastly, 23,776 Veterans experienced uncomplicated syncope, of whom 3,300 (13.9%) received low-value care (head imaging 2,393 (10.1%) and carotid ultrasound 1,390 (5.9%)), with an overall VAMC range of 11.3-16.8%. Undergoing different forms of low-value care for the same condition was weakly, but significantly, correlated for uncomplicated syncope (Rho 0.21, p<0.019) but not headache (Rho 0.13, p=0.157).
+
+# CONCLUSIONS
+
+In a national random sample of Veterans, we identified 2 to 5-fold variation in the use of low-value diagnostic testing for 4 common conditions across VAMCs, after adjusting for differences in patient and VAMC characteristics. Veterans' receipt of low-value diagnostic testing for headache and syncope was weakly correlated within VAMCs. These findings highlight the importance of further characterizing the degree to which Veteran and facility-level factors drive these variations as a first step in developing facility-specific policies to mitigate the provision of low-value care.
+
+# BACKGROUND
+
+Prostate specific antigen (PSA) screening for prostate cancer is of low value in men with a limited lifespan. Because most patients managed in the Veterans Health Administration (VA) are older males, low-value PSA screening in VA is likely to be common and expose Veterans to excessive costs and unnecessary risks without measurable benefits. Our objective was to quantify the frequency and variation of low-value PSA screening across VA Medical Centers (VAMCs).
+
+# METHODS
+
+We examined a national 20% random sample of Veterans aged 75 using VA data from fiscal years (FY) 2014-2015. Using a claims-based algorithm originally developed for use in Medicare, we defined low-value PSA screening as screening among men aged 75 without a history of prostate cancer. We calculated rates of low-value PSA screening in FY15 by VAMC, adjusting for sociodemographic and VAMC-level factors from FY14. We characterized variation across VAMCs using the adjusted median odds ratio (OR). We divided VAMCs into deciles of low-value PSA screening and calculated the adjusted OR of undergoing low-value screening for Veterans within each decile. To increase the specificity of our claims-based algorithm, we determined the prevalence of low-value PSA screening after excluding Veterans who underwent prostatectomy, had a prior PSA elevation, or had a clinical reason for PSA testing, such as hematuria. In subgroup analyses, we assessed the frequency of low-value PSA screening in Veterans at greatest risk of mortality based on a Gagne Comorbidity Index Score 3.
+
+# RESULTS
+
+Among 214,480 Veterans aged 75 who received care in 127 VAMCs, 37,866 (17.7%) received low-value PSA screening, with adjusted VAMC rates ranging from 3.3% - 38.2%. The adjusted median OR was 1.88, meaning the median odds of receiving low-value PSA screening would increase by 88% were a Veteran to transfer his care to a VAMC with more low-value testing. Veterans at VAMCs in the top decile had an adjusted OR for receiving low-value PSA screening of 12.9 (CI 11.0-15.2) compared to those in the lowest decile. After excluding Veterans with a prior prostatectomy, PSA elevation, or acute symptoms, 31,556 (14.7%) received a low-value PSA test, ranging from 2.0% -49.9% across VAMCs. Among Veterans with the greatest comorbidity burden (n=23,377), 3,496 (15.0%) received a low-value PSA screening test (1.7% - 46.3% across VAMCs).
+
+# CONCLUSIONS
+
+In a national cohort of older Veterans, more than 1 in 6 received low-value PSA screening, with greater than 10-fold variation across VAMCs. The frequency of low value PSA screening remained high even among Veterans without a clinical indication for testing and in those with the clearest limit to life expectancy. The overall prevalence and degree of VAMC-level variation we observed highlights the need to accurately identify and account for unique VAMC-level factors when developing interventions to mitigate the provision of low-value care.
+
+# LOW-VALUE PROTON PUMP INHIBITOR PRESCRIPTIONS AMONG OLDER ADULTS AT A LARGE ACADEMIC HEALTH SYSTEM
+
+Michelle Chong1; Folasade May1; Katherine L. Kahn2; Edgar Corona1; Liu Yang1; Margaret M. Mongare1; Vishnu Nair1; Eric Esrailian1; Catherine Sarkisian3; John N. Mafi2, 4. 1David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA; 2David Geffen School of Medicine at UCLA, Los Angeles, CA; 3UCLA and Greater Los Angeles VA, Los Angeles, CA; 4RAND Corporation, Santa Monica, CA. (Control ID #3184539)
+
+# LOW-VALUE PROSTATE CANCER SCREENING WITHIN THE VETERANS HEALTH ADMINISTRATION
+
+Thomas R. Radomski1, Yan Huang1; Seo Young Park1; Carolyn T. Thorpe; Joshua M. Thorpe; Michael J. Fine2, Walid F. Gellad2, 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA. (Control ID #3182875)
+
+# BACKGROUND
+
+Proton pump inhibitor (PPI) drugs are associated with complications such as pneumonia or fractures. Older adults are particularly vulnerable to complications from long-term PPIs, which can also exacerbate polypharmacy and financial toxicity. In this context, we sought to characterize the prevalence of low-value PPI prescriptions among older adults, in order to inform a future randomized-controlled quality improvement (QI) intervention.

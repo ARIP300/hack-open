@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+pain was reoccurring hourly and through the night. He had 3/5 flexion and extension strength in left upper and lower extremities and 4/5 flexion and extension in right upper and lower extremities. Reflexes were 1+ bilaterally. He had a left-sided facial droop and was unable to open his left eye. There was whitish pus-appearing material in the right orbit but without orbital or periorbital erythema. Potassium was 7.7 mmol/L, creatinine 1.19 mg/dL (baseline of 0.7-0.8 mg/dL) and normal creatine kinase. Hyperkalemia resolved after receiving insulin, normal saline bolus, and furosemide. His presenting symptoms also improved in severity and he no longer felt the twitching nor the weakness. A more detailed review of his medications revealed that he had recently been started on Bactrim for presumed eye infection in the enucleated right eye a week prior to admission. He was evaluated by ophthalmology and otolaryngology and they concluded that presumed pus was in fact old necrotic tissue at the base of right orbit likely secondary to chronic osteomyelitis of his frontal bone which didn't require antibiotic treatment. His Bactrim was discontinued. Potassium level remained within normal limit.
+
+# IMPACT/DISCUSSION:
+
+Bactrim is commonly prescribed for a wide range of infections in the outpatient setting and is generally well tolerated. Given its ubiquity, it is important to recognize its many and varying adverse drug reactions. Hyperkalemia is a well-known side-effect of administering Bactrim though it happens less commonly than gastrointestinal upset or rash. Previous studies have demonstrated that hyperkalemia is much more likely to occur in patients receiving ACE inhibitors.
+
+# CONCLUSION:
+
+Hyperkalemia is a serious adverse event associated with Bactrim and clinicians should consider laboratory monitoring of serum creatinine and potassium concentrations at baseline and during therapy in outpatient setting with concomitant use of ACE inhibitors. This case exemplifies the importance of detailed history taking, medication administration, a thorough physical exam, as well as judicious antibiotic treatment to avoid patient harm.
+
+# BAD TO THE BONE: A CHALLENGING DIAGNOSIS
+
+Letisha Ferris; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3185811)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to sterile osteomyelitis
+
+# LEARNING OBJECTIVE #2:
+
+Understand the diagnostic criteria and therapeutic options for SAPHO in order to prevent unnecessary and painful testing and treatments
+
+# CASE:
+
+A 76-year-old woman with past medical history of sero-negative polyarthritis presented with bilateral wrist pain and swelling. She had failed multiple immune-modulators. Synovial wrist biopsies were consistent with synovitis and osteomyelitis. She developed increased swelling, warmth, and a purulent drainage from her right wrist shortly after the biopsies prompting antibiotic treatment that resolved the purulence but joint pain and swelling persisted. She ultimately received multiple courses of antibiotics. There was never any significant culture growth. Wrist x-rays revealed polyostotic destructive changes. MRI confirmed extensive osteolytic and cystic changes in multiple bones of both upper extremities. Ultrasound of her sternoclavicular joint revealed erosive disease without synovitis, effusion, or hyperemia, highly suggestive of SAPHO. There was hesitation to diagnose due to her lack of skin manifestations but given her lack of culture results and her clavicle imaging findings, Anakinra (an IL-1 inhibitor) was initiated. Disease progressed to involve bilateral elbows and left shoulder but when last seen, approximately one year since initiation of Anakinra, symptoms had completely resolved.
+
+# IMPACT/DISCUSSION:
+
+CNO or CRMO (thought to be the severe form of CNO) is an auto-inflammatory disorder characterized by painful sterile bone inflammation that most commonly presents early in life and predominantly in females. SAPHO is a variant of this disease that exhibits skin manifestations prior to bone involvement. SAPHO is classically thought to be the adult version of CNO/CRMO but has been described in adolescents. Reliable serum markers for this disease have yet to be identified and routinely checked inflammatory markers may be elevated. Diagnosis is made by imaging, most reliably MRI. Whole body imaging is recommended when CNO/CRMO or SAPHO are suspected as it can identify non-symptomatic lesions. To the same effect, whole body imaging is used for treatment surveillance. Biopsy is warranted when the diagnosis is unclear. First-line therapy is non-steroidal anti-inflammatory drugs. Second-line therapies include steroids, bisphosphonates, and immunosuppressive agents. All these treatments have had mixed results, related to the fact that the pathogenesis of this disease remains unclear but likely involves multiple inflammatory pathways.
+
+# CONCLUSION:
+
+SAPHO, CNO, and CRMO are essential for the general internist to be aware of as these conditions are often misdiagnosed as bone cancer or infection leading to inappropriate interventions that carry morbidity and mortality risk. Conversely, bone sclerosis and subsequent deformity with disability can result when appropriate treatment is not provided.
+
+# BARKING UP THE WRONG TREE: A CASE OF STREPTOCOCCUS CANIS AND ANCHORING BIAS
+
+Josue R. Flores Balderas1; Evelyn C. Chan2. 1Medical College of Wisconsin and Affiliated Hospitals, Wauwatosa, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3186044)
+
+# LEARNING OBJECTIVE #1:
+
+Appreciate that S. canis is a rising zoonotic pathogen in humans.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that anchoring bias can delay a correct diagnosis and lead to overlooking the significance of a physical exam finding.
+
+# CASE:
+
+A 67-year-old man presented with three days of progressive dyspnea at rest. On day four, over breakfast, he panted with no response to albuterol. He had a history of obstructive sleep apnea, asthma, and chronic venous insufficiency. His medications included fluticasone/salmeterol, montelukast, and furosemide. In the ED he had a fever to 102.7 F, tachypnea to 34, and hypoxemia to 80. Distressed, he spoke in short sentences. He had a neutrophilic leukocytosis to 19. Chest X-Ray and CT pulmonary angiography were unrevealing. His admission diagnosis was asthma exacerbation and sepsis due to community-acquired pneumonia. He was treated with BiPAP, broad-spectrum antibiotics, steroids and nebulizers. Two days later he reported pain in the medial right leg proximal to the ankle so sharp that he required support for transfers. On exam he was noted to have erythema in the lower right leg that was somewhat obscured by the hyperpigmentation seen in venous stasis dermatitis. Once blood cultures grew S. canis/dysgalactiae, the team asked if he had pets. He reported that he lived with four dogs who licked his legs. At that point that the team realized that the respiratory symptoms had arisen from sepsis due to S. canis cellulitis and sepsis with the portal of entry being the venous stasis dermatitis. Infectious disease discouraged dog removal since the bacteria had likely colonized him. He went home on ceftriaxone to complete 14 days of antibiotics. Compression stockings and emollients were recommended. At follow-up his skin flaked as the cellulitis resolved.
+
+# IMPACT/DISCUSSION:
+
+As this case shows, anchoring bias can lead to errors in clinical judgment. Biased toward finding a pulmonary source for the respiratory distress, the team overlooked the significance of erythema on the leg and pet exposures in the social history. Anchoring bias is one of many cognitive errors such as premature closure and confirmation bias, an area of clinical reasoning that merits more attention as it can impact patient safety. This case also raises awareness of S. canis as a zoonotic pathogen. It is a commensal pathogen in the canine oral and genital flora that can cause opportunistic infections in humans such as cellulitis, pneumonia, urinary tract infections, osteomyelitis and infective endocarditis. The first case of S. canis was reported in 1997. As such, it is a relatively new pathogen that ought to be kept in mind as a potential source of infection in dog owners.

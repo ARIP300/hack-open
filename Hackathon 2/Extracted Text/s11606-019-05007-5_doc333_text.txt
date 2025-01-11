@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+Staphylococcus-associated GN is an uncommon cause of renal failure that can manifest as LCV, most commonly with methicillin resistant staphylococcus aureus. While most of these patients have C3, IgG, or IgM glomerular immune complex deposition, there is a less common IgA dominant or co-dominant form that has been increasingly recognized in the literature. Optimal evidence based treatment is unclear, but some data suggests that up to 70% of patients have a favorable response. Satoskar et al reported IgA dominant post-infectious GN should not be treated with steroids, but by removing offending infectious agents, whereas other limited evidence supports short steroid courses if renal failure persists.
+
+# CONCLUSION:
+
+Our patient suffered with an atypical presentation of acute proliferative IgA-mediated GN and LCV related to MSSA infection ultimately leading to HD. This clinical constellation was identified near the end of her treatment course, progressing despite appropriate antibiotic coverage, source control with amputation and a course of high-dose steroids. We raise awareness to the limited recognition of this clinical entity, as earlier identification of this ambiguous syndrome may have led to improved recovery of her renal function by initiating earlier source control and steroids. Further awareness and recognition of this clinical entity may lead to stronger evidence-based guidelines on its management.
+
+# A CASE OF SWELLING IN A FORGOTTEN JOINT
+
+Shane Murray; Ana B Arevalo; Gustavo Contreras Anez; Geeta Varghese. Mount Sinai St Luke's - West, New York, NY. (Control ID #3183582)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of native joint Cutibacterium septic arthritis
+
+# CASE:
+
+67-year-old Hispanic Male with a history of treated Hepatitis C presented to clinic with 6 months of chronic dull left shoulder pain. Pain was located over the medial shoulder, radiated to the neck and was associated with enlarging tender lump over the left clavicle. Social history revealed he was born and raised in Puerto Rico, and a history of heroin, cocaine and tobacco use. No prior surgery or history of trauma to the left shoulder. He denied symptoms consistent with an infectious or inflammatory process. Examination revealed a 2cm tender, non-erythematous hard mass over medial third of the left clavicle. Ultrasound confirmed a nonspecific hypoechoic mass in the clavicle. MRI showed marked enlargement of the left sternoclavicular joint (SCJ) with effusion, synovitis, subchondral erosions and marrow edema consistent with an inflammatory arthropathy. Laboratory tests revealed an elevated ESR and CRP with otherwise normal CBC, QuantiFERON gold, CCP antibody, ANA, HIV 1/2 4th, Lyme antibody titers and Uric acid. The patient was subsequently referred to Rheumatology and Infectious Disease for further evaluation. Bone biopsy of the clavicular head was performed. AFB smear, culture and fungal culture tests were negative. Tissue cultures grew Cutibacterium Acnes. The patient was treated with Ceftriaxone two grams daily for a total of six weeks.
+
+# IMPACT/DISCUSSION:
+
+Cutibacterium species are a documented cause of joint infection following surgery but its role in native joint infections has only recently become established. Recent literature suggests that the species is underdiagnosed as a cause of septic arthritis due to its indolent course, frequent dismissal as a contaminant and specific culture requirements. One study looking at a group of patients with synovitis, acne, pustulosis, hyperostosis, osteitis syndrome (SAPHO), which frequently involved the SCCJ, found Cutibacterium acnes on bone cultures in two thirds of patients. While further research is needed to determine a role for the species in diseases specific to the SCJ, this case adds to the increasing body of literature that suggests that Cutibacterium infections are more prevalent than once thought. Cases usually lack signs of acute infection and have a prolonged course often leading to misdiagnosis. Infection should be suspected in patients presenting with atypical osteoarthritis symptoms or features of monoarticular chronic inflammatory arthritis. Arthrocentesis/biopsy and culture may prevent unnecessary invasive procedures in these patients.
+
+# CONCLUSION:
+
+Cutibacterium acnes septic arthropathy is an underdiagnosed entity that typically lacks symptoms of acute infection. One should consider the diagnosis in a patient with atypical osteoarthritis or chronic monoarticular inflammatory symptoms.
+
+# A CASE OF THE FEEBLE LEG.
+
+Yulia Khodneva1; Meghan K. Black2. 1University of Alabama Birmingham, Birmingham, AL; 2University of North Carolina, Durham, NC. (Control ID #3185085)
+
+# LEARNING OBJECTIVE #1:
+
+Identify vitamin B12 deficiency presenting with unilateral pain and weakness.
+
+# CASE:
+
+A 61 year-old previously healthy African American man presented with a 5-week history of sharp, shooting pain in his right thigh, exacerbated with weight bearing, and not relieved with symptomatic treatment. Additionally, 2 weeks prior to presentation, he began experiencing difficulty holding onto things with his right hand. He also described multiple falls upon standing and inability to ambulate. He reported current cocaine and alcohol use. Vital signs were within appropriate limits. Cardiopulmonary and abdominal exam were unremarkable. He had limited range of motion in his right hip with tenderness to palpation. Sensation to light touch was diminished up to T2/T3 level bilaterally, with hyperreflexia and negative Babinski reflex. Strength was decreased in his right upper extremity in biceps, triceps, and wrist to 2/5 and in the right lower extremity to 2/5 throughout. Left extremities had intact strength. Muscle atrophy in both hands was noted. Hemoglobin and hematocrit were 13.1g/dL and 39.2% respectively with mean corpuscular volume (MCV) of 87.9 fL. White blood count and electrolytes were normal. Multiple imaging modalities were negative for stroke, but showed areas of nerve root compression with radiculopathy, without cord compression. There were degenerative changes in hip and spine. Further testing revealed vitamin B12 level was 268 mmol/mL and methylmalonic acid (MMA) was 396 mmol/mL. Folic acid was normal and antibody to intrinsic factor was negative. The patient was started on intramuscular cyanocobalamin and after 7 days had marked improvement in his pain and weakness and was able to walk with assistance.
+
+# IMPACT/DISCUSSION:
+
+Vitamin B12 deficiency is commonly encountered by the internist, but seldom does it become severe enough to present with extensive neurologic manifestations. It is especially difficult to recognize when it presents with asymmetrical extremity pain and weakness without megaloblastic anemia. While the differential for extremity pain and weakness is broad, the key components of this case leading to a diagnosis of B12 deficiency were the subacute onset, progressive weakness, sensory ataxia and bilateral hand muscle atrophy. Due to demyelination of the dorsal and lateral column of the spinal cord, vitamin B12 deficiency typically manifests with symmetrical combined motor and sensory deficits. However, like our case there have been reports of unilateral findings. The diagnosis of vitamin B12 deficiency is most often made by low serum levels, megaloblastic anemia and an elevated MMA. However, 5-10% patients have normal or low normal B12 levels and 15% have a normal MCV.

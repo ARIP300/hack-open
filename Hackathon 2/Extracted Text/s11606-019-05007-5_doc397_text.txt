@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #2:
+
+Recognize treatment and outcomes for hepatic sarcoidosis
+
+# CASE:
+
+A 59 year-old African-American male presented to clinic with a several week history of pruritis, jaundice, nausea and weight loss. He had a medical history of hypertension and no history of significant alcohol, drug, or herbal supplement use. Physical examination revealed jaundice without signs of chronic liver disease and a benign abdomen without hepatosplenomegaly. Labs showed elevated liver chemistries including alkaline phosphatase (475 U/L), alanine aminotransferase (88 U/L), aspartate aminotransferase (82 U/L), total bilirubin (3.6 mg/dL) and direct bilirubin (2.2 mg/dL). Extensive hepatic workup was negative including viral hepatitis panel, alpha-1 anti-trypsin, carbohydrate antigen 19-9, as well as negative workup for IgG-4 related disease and other infectious causes for hepatitis. Ultrasound showed only hepatic steatosis, though further abdominal computed tomography (CT) showed an enlarged celiac axis lymph node (>1cm) and portal lymphadenopathy. He underwent endoscopic ultrasound which was negative for bile duct dilatation, and fine needle aspiration cytology of the enlarged lymph node was non-diagnostic. An ultrasound-guided liver biopsy was therefore performed. This showed non-caseating granulomas and bile duct injury, highly suggestive of sarcoidosis. Sarcoidosis was further confirmed with CT of the chest showing mediastinal and hilar lymphadenopathy. There was also high activity of angiotensin converting enzyme in the blood. The patient was started on budesonide and 6-mercaptopurine therapy and responded well to treatment.
+
+# IMPACT/DISCUSSION:
+
+Sarcoidosis is a multi-system disease characterized by non-caseating granulomas in various organs. Hepatic involvement is common and seen in around 50-80% of patients, but the vast majority of those affected are asymptomatic. Approximately 35-40% of all cases may have abnormal liver chemistries. In some cases, however, hepatic sarcoidosis may present suddenly with symptoms and signs including jaundice, abdominal pain, nausea and vomiting. Hepatic sarcoidosis can lead to cholestasis, portal hypertension and cirrhosis. Extrinsic compression of the biliary tree due to sarcoid granulomas has been reported, as well as an association with increased risk of hepatobiliary cancers. Liver biopsy is the gold standard for diagnosis. Steroids are the mainstay of treatment though their efficacy is variable with only about one-third of patients achieving a complete clinical response. Definitive treatment is liver transplantation; however, recurrence of granulomatous disease is still possible in the transplanted organ.
+
+# CONCLUSION:
+
+Hepatic sarcoidosis is a common entity that may occasionally present as obstructive jaundice and other signs of liver injury.
+
+# BONES AND STONES: RECOGNIZING HYPERPARATHYROIDISM AS A SECONDARY CAUSE OF OSTEOPOROSIS
+
+Callie Plafkin1; Elaine Pelley2. 1University of Wisconsin Hospital and Clinics, Madison, WI; 2University of Wisconsin School of Medicine and Public Health, Madison, WI. (Control ID #3150221)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize primary hyperparathyroidism as a secondary cause of osteoporosis
+
+# LEARNING OBJECTIVE #2:
+
+Suspect hyperparathyroidism in cases with disproportionate loss of bone at the distal radius, which can represent PTH-mediated loss of cortical bone
+
+# CASE:
+
+A 74-year-old woman with a history of osteoporosis, erosive seronegative arthritis, osteoarthritis status post bilateral hip arthroplasty, and a single bout of nephrolithiasis in 2010 presented to Osteoporosis Clinic in 2017 for further evaluation and management of bone health. Her initial dual-emission X-ray absorptiometry (DXA) scans in 2003 and 2009 had demonstrated only mild osteopenia, with spine T-scores of -0.7 and -1.1, respectively. Due to intervening bilateral hip replacements, her next scan in 2013 measured bone density at the lumbar spine and, for the first time, the distal radius. The spinal bone density was statistically unchanged, but the distal radius had a T-score of -3.4. She was diagnosed with osteoporosis and started on therapy with weekly alendronate and supplementation with calcium and vitamin D. Labs were notable for intermittent mild hypercalcemia dating back to 2010. The reported worsening in T-score from 2009 to 2013 represented a function of the new measurement site, rather than a true decline in overall bone mineral density. The discrepancy in bone mineral density between the distal radius (primarily cortical bone) and the lumbar spine (primarily trabecular bone), in conjunction with her hypercalcemia and nephrolithiasis, was highly concerning for primary hyperparathyroidism. Further testing revealed an elevated parathyroid hormone (PTH) of 124 pg/mL, normal renal function, normal 25-hydroxy-vitamin D level, and normal 24-hour urine calcium, consistent with a diagnosis of primary hyperparathyroidism (PHPT). She underwent left inferior parathyroidectomy, with subsequent normalization of PTH and serum calcium levels.
+
+# IMPACT/DISCUSSION:
+
+While the majority of cases of PHPT in the United States are diagnosed prior to the development of obvious skeletal manifestations via incidentally-noted lab abnormalities, PHPT remains an important secondary cause of bone mineral density loss. Excess PTH causes preferential demineralization of cortical bone, frequently manifesting as low bone density at the distal radius site. Such discrepancies should raise suspicion for hyperparathyroidism even in the absence of persistent hypercalcemia.
+
+# CONCLUSION:
+
+Disproportionately low bone density at the distal radius site compared to axial (spine, hip) sites should prompt evaluation for hyperparathyroidism. Early in its course, primary hyperparathyroidism can manifest as high-normal or intermittent hypercalcemia. Complications of bone loss and nephrolithiasis can occur prior to the development of persistent hypercalcemia.
+
+# BRADYCARDIA: THE ONLY PARENCHYMAL MANIFESTATION OF RARE HSV-2 ENCEPHALITIS
+
+Daymon Peterson; Tanaz Salimnia. Wayne State University, Shelby Township, MI. (Control ID #3183051)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize atypical presentations for improved outcomes of common central nervous system infections.
+
+# CASE:
+
+A 39-year-old male presented with debilitating headache and fever. Exam demonstrated overt meningismus, however extensive neurologic exam was unremarkable. He was febrile and bradycardic with significant leukocytosis. Lumbar puncture revealed lymphocyte predominate pleocytosis, and indices consistent with viral pathogen. He was hospitalized for empirical antimicrobial therapy, including Acyclovir. Over the first 48 hours, his clinical condition worsened. He developed profound bradycardia consistently in the 20's and serial neurological exams remained unchanged. The following day he began exhibiting severe neuropsychiatric disturbances, lethargy, and loss of gustatory function. CSF testing confirmed HSV-2 by PCR. Patient ultimately responded to Acyclovir therapy in the following days, with parallel resolution of neuropsychiatric symptoms and bradycardia, however had permanent gustatory changes.
+
+# IMPACT/DISCUSSION:
+
+Although encephalitis often presents with easily identifiable phenotypes, diagnostic challenge arises when encephalitis is encountered in the setting of atypical parenchymal manifestations. Here we present bradycardia as a sign of parenchymal infection associated with pathognomonic involvement of the temporal lobes in HSV encephalitis. Bradycardia is not conceptualized as having relation to encephalitis or temporal lobes, however, bradycardia has previously been linked to temporal lobe dysfunction in other disease processes. Ictal bradycardia syndrome, is a rare event seen in epilepsy, where seizures are accompanied by cardiac arrhythmias, specifically bradycardia. This phenomenon almost exclusively is seen in epileptic disease localized to the temporal lobes and there is no evidence to suggest that this effect is limited to epileptiform activity. Additionally, HSV encephalitis can lead to seizures, suggesting the inflammation of encephalitic disease shares provoking features on temporal lobe neurons, and can trigger a similar cardiac response. Comparable temporal lobe insults with parallel results support a mechanism for which the parenchymal disruption of encephalitis manifests as brady-arrhythmias.

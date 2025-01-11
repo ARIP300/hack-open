@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+Oxygen via ventimask (VM) to maintain saturation of 88%. Chest radiograph was unremarkable, and an arterial blood gas revealed a PaO2 of 48mmhg on 100% oxygen via VM, therefore she was placed on non-invasive ventilation. A ventilation/perfusion scan of the lungs was found to be unremarkable. Further testing ruled out acute coronary syndrome, heart failure and pneumonia. She had no prior history of any lung disease, smoking or other inhaled illicit substances. Her history of work as a mechanical engineer in Ukraine generated a suspicion of interstitial lung disease, leading to a high resolution CT scan that revealed mild lung base dependent atelectasis. On day 3 of admission, it was coincidentally noticed, after a portable pulse oximeter was left on the patient's finger that, her hypoxia had significantly improved in the supine position. Subsequently, a diagnosis of POS was entertained and a transthoracic echocardiogram (TTE) with bubble study was ordered, which was positive for significant intra-atrial shunting. A trans-esophageal echocardiogram that followed confirmed the size and location of an atrial septal defect. Subsequently she was transferred to the tertiary center for repair, where she underwent successful trans-catheter repair, and was then discharged home in a stable condition as her hypoxia had resolved.
+
+# IMPACT/DISCUSSION
+
+This case demonstrates how a rare diagnosis such as POS, which can result in severe hypoxia, can be neglected unless physicians are mindful of it. POS is a condition characterized by dyspnea and hypoxemia in an upright position that resolves when in supine position. The etiology of the condition is believed to a combination of anatomic and functional components. The former includes intracardiac shunting, intrapulmonary shunting, ventilation-perfusion mismatch or a combination of these. Functional components such as cardiac, pulmonary, abdominal and vascular disease further contribute to result in POS. Its pathognomonic finding of orthostatic dyspnea and hypoxia, which improve in the recumbent position, were present in our patient. Diagnosis started with establishment of a relationship between hypoxia and upright position, and further confirmed by echocardiography, although the gold standard for diagnosis remains angiography. The condition is usually only suspected when other causes of hypoxia are ruled out due to its rarity, and in many cases etiology cannot be identified with certainty.
+
+# CONCLUSION
+
+The possibility of cure, via an anatomic repair of intracardiac shunt, makes identification of POS crucial. Physician awareness of the disorder, timely diagnosis, and treatment can prevent further morbidity and mortality.
+
+# PLOT TWIST IN AN INPATIENT CELLULITIS CASE
+
+Mohamed Diop; William Turner; Kelsey B. Bryant. Columbia University Medical Center, New York, NY. (Control ID #3183357)
+
+# LEARNING OBJECTIVE #1
+
+Identify components of a focused physical exam from HPI
+
+# LEARNING OBJECTIVE #2
+
+Diagnose AIDS and CNS Opportunistic Infections
+
+# CASE
+
+Male, 55, with no known history presented to the emergency department (ED) with 3 weeks of right lower extremity pain (RLE) and swelling. Progressive pain and difficulty ambulating prompted his presentation. He denied history of trauma; fracture and deep vein thrombosis were ruled out in the ED. He was initially febrile and tachycardic (though remarkably well appearing) and was dosed broad-spectrum antibiotics just prior to hand-off to the hospitalist team. Upon our evaluation, the patient verified his initial history and, and as a casual aside, mentioned he had been experiencing subtle numbness on his right side in addition to double vision. He denied any other neurologic symptoms. Family history was noncontributory. Social history notable for home country of Brazil, sexually active with only wife, no drug use, rare alcohol use, and current smoking. His exam was consistent with RLE cellulitis with warm-to-touch-erythema from foot to mid-calf and small punctate areas with purulent drainage. Neurologic exam confirmed sensory deficit over the entire right half of his body. White blood cell count was 6.7. Given systemic signs of infection and inappropriately normal WBC count, an HIV test was sent. While awaiting results, he underwent brain MRI revealing several patchy lesions with rim enhancement in the left corona radiata concerning for toxoplasmosis, lymphoma, or another infectious vs inflammatory process. Lumbar Puncture was quickly performed. At the same time, we received a preliminary (+) HIV test. CSF returned positive for toxoplasma, and lymphoma was ruled out with both central and peripheral flow cytometry. Confirmatory HIV assay returned (+) and CD4 count resulted at 56 confirming a diagnosis of AIDS complicated by CNS toxoplasmosis and cellulitis.
+
+# IMPACT/DISCUSSION
+
+Though unrelated to his chief complaint, a thorough neurologic exam was the turning point in a workup for a life-altering diagnosis. This highlights the importance of a broad differential and systematic approach to physical exam directed by the HPI and, even if the diagnosis seems obvious. Internists are often the first to notice abnormalities leading to specialty involvement, thus maintaining knowledge of things like common CNS lesions is important for workup initiation.
+
+# CONCLUSION
+
+This patient did, in fact, have cellulitis, but a systematic approach to the HPI and physical, allowed for the diagnosis of AIDS and an opportunistic infection. Internists should be comfortable with HIV testing and counseling, and familiar with common etiologies of CNS findings to initiate appropriate workup. Throughout this patient's admission, our rapport with him grew. This allowed us to disclose his diagnosis in a way that felt comfortable for him, and assist in his transition to outpatient HIV care which he continues to engage in.
+
+# PML-IRIS: SEIZE THE OPPORTUNITY
+
+Julieta Rodriguez; Benison Lau; Deirdre Lewis. Baystate Medical Center, Springfield, MA. (Control ID #3186673)
+
+# LEARNING OBJECTIVE #1
+
+Define PML-IRIS
+
+# LEARNING OBJECTIVE #2
+
+Management of IRIS in the setting of PML
+
+# CASE
+
+A 28-year-old male with perinatal acquired immunodeficiency syndrome (AIDS) prescribed highly active antiretroviral therapy (HAART), complicated by progressive multifocal leukoencephalopathy (PML), recurrent herpes, and Hodgkin's lymphoma in remission presented in status epilepticus. Seizure activity was terminated by levitiracetam and lorazepam soon after onset. Exam was notable for decreased consciousness, asymmetric pupils minimally reactive to light, bradycardia, and asymmetric reflexes with intact muscle tone bilaterally. Labs were remarkable for a normocytic anemia, and a lactate of 3.4. CT head revealed decreased white matter attenuation, without evidence of mass effect or hemorrhage. He was managed empirically for meningoencephalitis with acyclovir, ceftriaxone, vancomycin, and ampicillin while being monitored on continuous VEEG. Once a full septic workup was negative for an active infection, he was treated with steroids and HAART (CD4 count 22) for a presumed diagnosis of PML- Immune reconstitution inflammatory syndrome (IRIS). Refractory symptoms (continued seizures and unresponsiveness) necessitated initiation of a dexamethasone taper, valproic acid, and mirtazapine with resultant clinical improvement and a repeat CD4 count up to 105.
+
+# IMPACT/DISCUSSION
+
+IRIS refers to an acute inflammatory process that occurs due to rapid regeneration of CD4 cells after initiation of HAART therapy in the setting of an ongoing or preexisting infection. It presents with constitutional symptoms which may be consistent with worsening of the existing infective process, including following the treatment for tuberculosis or leprosy. More than 90% of patients were admitted to the hospital at the time of IRIS diagnosis. Supportive care is generally adequate therapy, however steroids may be required to blunt immune response. In the presence of PML, IRIS further lowers the seizure threshold predisposing patients to epileptiform activity as severe as status epilepticus. PML-IRIS onset after HAART treatment can range from 1 week - 26 months with most cases occurring within 4-8 weeks. Up to 1/3rd

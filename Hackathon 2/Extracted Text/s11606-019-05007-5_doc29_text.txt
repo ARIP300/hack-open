@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# PWID
+
+This study assessed the perceived healthcare needs and healthcare utilization of a population of PWID and assessed the acceptability of providing preventative services and care through a mobile outreach van. In 2016 - 2017 we conducted a survey of PWID who utilize a mobile outreach van. We interviewed adult individuals with a history of recent IDU from various parts of the city of Chicago. A brief 5-10 min questionnaire was used to collect data.
+
+# RESULTS:
+
+67 persons were enrolled in the study - 59 participants from the west side and 7 from the south side of Chicago. Mean age was 37 and 74.6% were male. 73% of respondents had recent contact with the medical system for conditions such as skin and soft tissue infections (SSTI), mood disorders, and drug and alcohol treatment. SSTIs were a major factor for seeking healthcare with many individuals requiring hospitalization and antibiotics. Mental health disorders were highly prevalent in this population. 91% of participants surveyed were attracted to receiving healthcare services in a mobile outreach setting.
+
+# CONCLUSIONS:
+
+Healthcare utilization is high in PWID for acute and chronic illness. Services aimed at reducing SSTIs and managing psychiatric illness may be especially effective at reducing healthcare costs and improving quality of life for PWID. This project demonstrates that it is acceptable and desired by a population of PWID to provide quick preventative services and healthcare through a mobile outreach vehicle.
+
+# AN ANALYSIS OF HEALTHCARE UTILIZATION AMONGST UNDOCUMENTED PATIENTS 2014-2018
+
+Joseph Nwadiuko1; Jashalynn German2; Kavita Chapla2; Frances Wang2; Sarah Polk2. 1University of Pennsylvania School of Medicine, Philadelphia, PA; 2Johns Hopkins School of Medicine, Baltimore, MD. (Control ID #3180753)
+
+# BACKGROUND:
+
+The deportation of undocumented immigrants has increased since the 2016 presidential election. The increased rate of immigration enforcement might discourage undocumented patients from receiving healthcare.
+
+# METHODS:
+
+The following study analyzes primary care utilization amongst a pool of low-income, Medicaid ineligible patients and Medicaid controls across eight adult and pediatric clinics in a mid-Atlantic health system between 2014-2018. Medicaid ineligible patients were identified by membership in charity and sliding scale programs sponsored by the health system that provide primary care access to a predominantly (92%) undocumented immigrant pool. Using a difference-in-difference approach, our goal was to determine whether there were any changes in the number of scheduled primary care visits between November 9, 2016 (the 2016 general election) and May 31, 2018, with January 1, 2014-November 8, 2016 serving as a reference period. To be included in analysis, patients must have had a single visit between January 1, 2014-October 31, 2015 covered by Medicaid or the charity/sliding program and not have died before the election. Visit records were drawn using the health system's electronic record system. Estimates were calculated using linear and Poisson mixed effect models, controlling for age and gender.
+
+# RESULTS:
+
+There are 17,504 patients in the sample, 1,429 (8%) in the cohort group and 16,075 (92%) in the control group. The average pre-election number of visits per person per year was 4.54 in the control group and 2.55 in the cohort group. Compared to before the election, there was a decline to an average of 1.28 (-49.6%) visits amongst cohort patients and an average of 3.06 (-32.7%) visits amongst controls, for an adjusted difference-in-difference relative decline of -13.3% (95% CI -21.9%, -3.77%, p=0.007). This effect was exaggerated in adults (difference-in-difference -34%, 95% CI -37.4%, -29.4%) and sliding-scale patients (-20.4%, 95% CI -34.9%, -0.27%). An adjusted time trend analysis showed however that visits in the cohort group fell from an average of 1.82 visits/quarter during the first quarter of 2014 to 0.34 visits per quarter in the final quarter of 2015 with little change between late 2016 and 2018. There was no significant difference-in-difference in no-show rates between groups (+3.38%, 95% CI -0.40%, +7.18%).
+
+# CONCLUSIONS:
+
+There is a larger decline in the number of visits in undocumented patients than Medicaid patients between 2014 and 2018, but it is not associated with changes around the 2016 election/2017 inauguration period. The true cause for the decline is unclear and needs further investigation. While there is no difference in clinic visits attributed to the election, the results do shed insight into substantial differences in the care trends of Medicaid and undocumented patients.
+
+# AN AUDIT SURVEY OF ACCESS TO OFFICE-BASED BUPRENORPHINE TREATMENT IN STATES WITH HIGH RATES OF OPIOID-RELATED MORTALITY
+
+Tamara Beetham; Brendan Saloner3; Sarah E. Wakeman; Marema Gaye; Michael L. Barnett1. 1Harvard T.H. Chan School of Public Health, Boston, MA; 2Massachusetts General Hospital, Charlestown, MA; 3Johns Hopkins University, Baltimore, MD. (Control ID #3181457)
+
+# BACKGROUND:
+
+While it is widely acknowledged that access to treatment for opioid use disorder (OUD) is a challenge for patients, little is understood about the diverse barriers that patients encounter in the process of seeking treatment due to appointment availability, wait times, and cost. Understanding the nature of these patient-facing barriers is crucial to design effective policy. To study these barriers, we contacted clinicians as "secret shoppers" requesting buprenorphine, a highly effective medication for OUD treatment.
+
+# METHODS:
+
+We performed an audit survey from August-October 2018 contacting randomly chosen publicly-listed buprenorphine prescribers twice, posing as uninsured or Medicaid-covered patients with active heroin use seeking buprenorphine treatment at the next available appointment. We used public directories of buprenorphine prescribers located in the six states/jurisdictions (Massachusetts, Maryland, New Hampshire, West Virginia, Ohio, and the District of Columbia) with the highest opioid-related mortality in the United States in 2016 to define our sample. Rates of new appointments offered, whether buprenorphine prescription was possible at the first visit, wait times, and out-of-pocket cost for the first appointment were measured. We used linear regression models with clinician random effects to account for the clustering of outcomes within clinicians contacted twice.
+
+# RESULTS:
+
+Among 1,092 contacts with 546 clinicians, schedulers were reached for 849 calls (78% response rate), of whom 58% were offered a new appointment with a buprenorphine prescriber and 34% were offered an appointment with the possibility of buprenorphine prescription at the first visit. Callers with Medicaid coverage were less likely than uninsured/self-pay callers to be offered any appointment (54% vs. 62% of contacts, p=0.02) or possible buprenorphine at the first visit (27% vs. 40% of all contacts, p<0.001). The median wait time to first appointment was 5 days (IQR 2-10) while the median additional wait to buprenorphine availability was 6 days (IQR 2-14). The median cost of appointment(s) up to induction for a patient paying cash was $250 and 52% of contacts reported additional charges necessary for urine or other laboratory tests prior to induction.
+
+# CONCLUSIONS:
+
+Many buprenorphine prescribers did not offer new appointments or rapid buprenorphine access for callers with active heroin use, particularly those with Medicaid coverage. For self-pay patients, high out-of-pocket costs and recurring charges for laboratory testing were common. Unexpectedly, the primary barrier to buprenorphine access in this survey was not long wait times, but finding a clinician accepting new patients for rapid treatment. The co-existence of poor access with short wait times suggests that improving access to buprenorphine treatment may require efforts beyond increasing the number of waivered providers, such as better connecting patients to the existing supply of prescribers.
+
+# AN UNTAPPED POTENTIAL FOR AN INVISIBLE ECONOMY IN PRIMARY CARE? MAKING PATIENT PORTALS WORK FOR CAREGIVERS IN THE SAFETY-NET
+
+Alejandra Casillas1; Anupama Cemballi2; Anshu Abhat3; Jennifer Portz6; Shobha Sadasivaiah; Neda Ratanawongsa; Wagahta Semere5; Courtney4

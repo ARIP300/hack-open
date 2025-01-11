@@ -1,0 +1,27 @@
+# Chen et al.
+
+# 10.3389/fpsyg.2022.1006580
+
+bankruptcy (Adam and Alariﬁ, 2021). Hence, the competition among enterprises has intensiﬁed; managers may transfer some stress to employees, who, in turn, need to bear this to maintain and seek current and future career prospects, respectively (Lai et al., 2015). In this context, employee work stress stems from increased survival problems of SMEs, and such an external shock precipitates greater stress among employees than ever before (Gao, 2021). Stress more frequently manifests as hindrance stress (LePine et al., 2004), which negatively aﬀects employees’ wellbeing and quality of life (Orfei et al., 2022). It imposes a burden on employees, who need to spend time and energy coping with the stress. From the perspective of stressors, SMEs have faced serious survival problems during the COVID-19 pandemic, and consequently, employees have faced greater hindrance stress, thereby decreasing their performance. Hence, we propose the following hypothesis:
+
+# H1. Work stress negatively inﬂuences employee performance in SMEs during the COVID-19 pandemic.
+
+# Work stress and mental health
+
+According to the demand–control–support (DCS) model (Karasek and Theorell, 1990), high-stress work—such as high job demands, low job control, and low social support at work—may trigger health problems in employees over time (e.g., mental health problems; Chou et al., 2015; Park et al., 2016; Lu et al., 2020). The DCS model considers stress as an individual’s response to perceiving high-intensity work (Houtman et al., 2007), which precipitates a change in the employee’s cognitive, physical, mental, and emotional status. Of these, mental health problems including irritability, nervousness, aggressive behavior, inattention, sleep, and memory disturbances are a typical response to work stress (Mayerl et al., 2016; Neupane and Nygard, 2017). If the response persists for a considerable period, mental health problems such as anxiety or depression may occur (Bhui et al., 2012; Eskilsson et al., 2017). As coping with work stress requires an employee to exert continuous eﬀort and apply relevant skills, it may be closely related to certain psychological problems (Poms et al., 2016; Harrison and Stephens, 2019).
+
+The COVID-19 pandemic has disrupted the normal operating order of enterprises as well as employees’ work rhythm. Consequently, employees might have faced greater challenges during this period (Piccarozzi et al., 2021). In this context, work stress includes stress related to health and safety risk, impaired performance, work adjustment, and negative emotions, for instance, such work stress can lead to unhealthy mental problems. Hence, we propose the following hypothesis:
+
+# H2. Work stress negatively inﬂuences mental health in SMEs during the COVID-19 pandemic.
+
+# Mediating role of mental health
+
+Previous research has found that employees’ mental health status signiﬁcantly aﬀects their performance (Bubonya et al., 2017; Cohen et al., 2019; Soeker et al., 2019), the main reasons of which are as follows: First, mental health problems reduce employees’ focus on their work, which is potentially detrimental to their performance (Hennekam et al., 2020). Second, mental health problems may render employees unable to work (Heﬀernan and Pilkington, 2011), which indirectly reduces work eﬃciency owing to increased sick leaves (Levinson et al., 2010). Finally, in the stress context, employees need to exert additional eﬀort to adapt to the environment, which, consequently, make them feel emotionally exhausted. Hence, as their demands remain unfulﬁlled, their work satisfaction and performance decrease (Khamisa et al., 2016).
+
+Hence, we propose that work stress negatively impacts mental health, which, in turn, positively aﬀects employee performance. In other words, we argue that mental health mediates the relationship between work stress and employee performance. During the COVID-19 pandemic, work stress—owing to changes in the external environment—might have caused nervous and anxious psychological states in employees (Tan et al., 2020). Consequently, it might have rendered employees unable to devote their full attention to their work, and hence, their work performance might have decreased. Meanwhile, due to the pandemic, employees have faced the challenges of unclear job prospects and reduced income. Therefore, mental health problems manifest as moods characterized by depression and worry (Karatepe et al., 2020). Negative emotions negatively impact employee performance. Per the aforementioned arguments and hypothesis 2, we propose the following hypothesis:
+
+# H3. Mental health mediates the relationship between work stress and employee performance in SMEs during the COVID-19 pandemic.
+
+# Moderating role of servant leadership
+
+According to the upper echelons theory, leaders signiﬁcantly inﬂuence organizational activities, and their leadership behavior inﬂuences the thinking and understanding of tasks among employees in enterprises (Hambrick and Mason, 1984). Servant leadership is a typical leadership behavior that refers to leaders exhibiting humility, lending power to employees, raising the moral level of subordinates, and placing the interests of employees above their own (Sendjaya, 2015; Eva et al., 2019). This leadership behavior provides emotional support to employees and increase their personal conﬁdence and self-esteem and thus reduce negative eﬀects of work stress.

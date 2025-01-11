@@ -1,0 +1,37 @@
+or hinder individuals’ green purchasing behavior. At hospital, human health is an important driving factor of PEI and PEB since ensuring human health is the core responsibility of medical workers 97. However, the existence of intention-behavior gap is nonnegligible, what can explain this gap is numerous barriers including lack of environmental knowledge, lack of role models, and lack of economic support impede the adoption of PEB 98. How to overcome aforementioned difficulties and make contributions to the implementation of PEB become the focus of future research. Even so, the TPB is still an ideal theory to explain and speculate the relationship between hospital workers’ PEI and PEB. In the light of above discussions, the following hypothesis is proposed:
+
+# Hypothesis 5
+
+Hospital workers’ pro-environmental intention has a significant positive effect on pro-environmental behavior.
+
+Figure 1 depicts our conceptual framework with hypotheses.
+
+# Research design
+
+# The research population and sample
+
+For the sake of obtaining an overall understanding of hospital workers’ health risk perception resulting from climate change, we conducted a questionnaire survey through simple random sampling. All experimental protocols were approved by the Ethics Committee for Research involving Human Subjects of University Putra Malaysia (JKEUPM), and the reference number is JKEUPM-2023–567. All experimental methods were performed in accordance with the relevant guidelines and regulations, and the informed consent was obtained from each participant. The target population of this study was workers at hospital in Shanxi Province, China, and the research period was from October to November 2023. The regional characteristics and current economic development status of Shanxi Province were the reasons for selection. Specifically, Shanxi Province, located in central China, has a temperate, continental, monsoonal climate with four distinct seasons, which contributes to the susceptibility of this region 99. Additionally, burning coal is the main source of energy in Shanxi Province, hence, air pollution and greenhouse gas release are increasingly severe 100,101. Meanwhile, Shanxi’s relatively backward economic development cannot deal with these environmental issues and can cause more serious health problems 100,102. Therefore, we chose Shanxi Province to conduct this research. In addition, considering the differences in regional differences in climate, Datong, Taiyuan, and Jincheng were selected as research sites.
+
+To ensure the accuracy and representativeness of the samples, we calculated the sample size using OpenEpi (https://www.opene pi.com/Menu/OE_Menu.htm). According to the statistics of Shanxi provincial government, the population size of hospital workers is 281,533 at the end of 2021, which requires 384 participants at a minimum (95% confidence level). In formal study, 10 hospitals were randomly selected from each city, and 20 questionnaires were distributed to each hospital. During the research period, 600 questionnaires were distributed, and 543 valid questionnaires were obtained.
+
+# Variable measurement
+
+# Climate change health risk perception
+
+Based on the study of Wang, Jiang 103, Hathaway and Maibach 104, Thaker, Richardson 105, and others, CHRP was assessed using four items (1. I will be at risk to get physical harm from extreme weather events such as severe storms or flooding; 2. I will be at risk to get health stroke from extreme heat waves; 3. I will be at risk to get asthma and/or other lung diseases due to increasingly severe pollution; 4. I will be at risk to get diseases carried by insects). This four-item measure has two main aspects: physical harm and mental health. According to hospital workers’ responses to these four items, we measured the level of their CHRP using a seven-point Likert scale ranging from 1, “strongly disagree”, to 7, “strongly agree”.
+
+# Pro-environmental attitude
+
+PEA was assessed using four items (1. I feel responsible to save resources whenever possible; 2. I feel responsible to reduce energy consumption whenever possible; 3. I feel responsible to consider the environmental effects of
+
+|Pro-environmental attitude (PEA)|Pro-environmental intention (PEI)|
+|---|---|
+|H2| |
+| |H5|
+|Climate change health risk perception (CHRP)|Pro-environmental behavior (PEB)|
+|H3| |
+| |H4|
+
+Figure 1. Conceptual framework.
+
+Scientific Reports | (2024) 14:9831 | https://doi.org/10.1038/s41598-024-60418-7 5 Vol.:(0123456789)

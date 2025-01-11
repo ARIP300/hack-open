@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# Social Risk Screening in Health Care Settings
+
+11 University of Chicago, Chicago, IL; 12 UCSF School of Medicine, Berkeley, CA; 13 La Familia Medical Center, Santa Fe, NM; 14 University of Arkansas for Medical Sciences, Little Rock, AR; 15 Boston Medical Center, Burlington, VT; 16 Kaiser Permanente, Seattle, WA; 17 Hennepin Healthcare, Minneapolis, MN. (Control ID #3180063)
+
+# BACKGROUND
+
+As research supporting potential benefits of social risk screening in health settings continues to emerge, there is little data on the patient perspective on social screening. The aim of this study is to describe the perspectives and preferences of patients and caregivers on being screened for social risks in diverse health care settings.
+
+# METHODS
+
+As part of a larger mixed methods multi-site study, we conducted semi-structured interviews lasting approximately 30 minutes with patients or caregivers who had completed the Center for Medicare and Medicaid Innovation (CMMI) social risk screening tool. After completion of the screening questions, 5 randomly selected respondents from each of 10 study sites were invited to participate in an interview. Interviews were conducted in English or Spanish. The interview guide asked about reactions to social risk screening and screening acceptability, preferences on screening administration, prior experiences that informed perspectives, and expectations for social assistance. Interviews were recorded, transcribed and translated. Two coders used basic thematic analysis and constant comparative methods to identify codes, group codes into unified themes and map themes into domains of screening acceptability.
+
+# RESULTS
+
+Fifty adult patients or caregivers participated in semi-structured interviews across all study sites, which included 6 primary care clinics and 4 emergency departments. Respondents were 78% female, 36% Black, 32% Hispanic, 20% caregivers, and 71% reported having one or more social risk factor. There was broad consensus among interviewees across all clinical sites that social risk screening was acceptable. Several themes emerged: (1) respondents felt screening was the "right thing to do;" (2) respondents identified framing and compassionate approach as the most important aspects of administration; (3) respondents had insight into the connections between social risks and physical and mental health. Despite overall agreement that social risk screening is appropriate, respondents did not expect their health care team to address or resolve all of the identified issues. Interviewees felt referrals out to social services and resource sheets were adequate, and that there was benefit to the act of screening itself. Patients emphasized that screening should be done with empathy while protecting patient confidentiality.
+
+# CONCLUSIONS
+
+Respondents agree that social risk screening is important, acceptable, and relevant to health. Respondents believed social risk screening would be most acceptable when implemented by a clinic staff member trained to ensure privacy and compassion. Despite published concerns about futility of social risk screening when social resources are inadequate, respondents expressed that they did not expect the health care system, and physicians in particular, to solve unmet social problems. Done appropriately, screening for social risk can build trust and strengthen relationships between patients and health care providers.
+
+# Sexual Harassment of Providers by Patients
+
+# METHODS
+
+We used a mixed-method approach combining a survey and qualitative, semi-structured interviews at a Midwestern academic medical center and affiliated VA. The survey assessed provider characteristics, forms of sexual harassment experienced as well as a Likert-scaled assessment of the degree the behavior was bothersome. Semi-structured interviews assessed provider experience with sexual harassment, how they dealt with it, whether they reported it, and strategies they used to mitigate harassment. We used purposive sampling, grounded theory and duplicate coding to generate themes.
+
+# RESULTS
+
+The average participant was 43 years old and graduated medical school 17 years ago (range 2-45). Some forms of verbal harassment were nearly universal (being mistaken for a nurse, remarks on appearance, questions about marital status, sexist jokes). Physical harassment was less common (90% had experienced leering and standing too close, 44% had experienced suggestive exposure of patient's body). The commonly experienced forms of harassment were mostly rated as "bothered a little," while physical forms of harassment were nearly universally rated as "extremely bothersome." During interviews, respondents described predisposing factors that made harassment more likely, such as patient factors (cognitive impairment, older age), provider factors (experience), and cultural factors. Harassment took many forms and occurred across a spectrum, from compliments/comments about appearance to addressing questions to the males in the room rather than the female attending physicians, to sexual propositions or actual grabbing. These episodes impacted not only the targeted women, but also other patients who witnessed the events, other staff, and learners. The respondents identified several strategies for dealing with patient-initiated sexual harassment. These strategies included preventing it (modifying dress, having only male providers for certain patients), terminating it (using humor, redirecting the patient) and coping with it (debriefing with colleagues). Respondents often used nonconfrontational methods for diffusing situations, but later regretted not being more direct.
+
+# CONCLUSIONS
+
+Some forms of verbal sexual harassment by patients are nearly universal, though are experienced as minimally bothersome. More serious forms of harassment are less common, and respondents rated these as extremely bothersome. Participants identified a number of factors that increase the likelihood of experiencing harassment as well as strategies for mitigating and managing it.
+
+# MAY I PLEASE SEE YOUR INSURANCE CARD AND ID?
+
+# HOW PATIENTS WITH LIMITED-ENGLISH PROFICIENCY COMMUNICATE WITH ANCILLARY STAFF DURING THE PRIMARY CARE VISIT
+
+Lily Kornbluth 1; Celia P. Kaplan 2; Leah S. Karliner 1. 1 UCSF, San Francisco, CA; 2 University of California San Francisco, San Francisco, CA. (Control ID #3165795)
+
+# LAUGH AND BACK OUT OF THE ROOM:
+
+# FEMALE PHYSICIAN STRATEGIES FOR DEALING WITH SEXUAL HARASSMENT BY PATIENTS
+
+Amy H. Farkas2, 1; Cecilia Scholcoff2, 1; Cynthia Kay1, 2; Julie Lucas2, 1; Sarah Nickoloff2, 1; Kathlyn Fletcher2, 1; Jeffrey L. Jackson1, 2. 1Zablocki VAMC, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3183047)
+
+# BACKGROUND
+
+Sexual harassment of providers by patients has not received as much attention as harassment from other sources. Our purpose was to assess the types of harassment encountered, level of discomfort and strategies used by providers to deal with patient sexual harassment.
+
+# BACKGROUND
+
+Limited English Proficiency (LEP) is associated with health disparities which can be ameliorated with use of professional interpretation. Numerous studies have investigated communication between clinicians and patients with LEP. However, little is known about communication between ancillary staff and patients with LEP. This study describes communication patterns between front desk staff and medical assistants (MAs) and patients with LEP in an academic primary care setting.
+
+# METHODS
+
+This descriptive study is part of the Language Access Systems Intervention (LASI) study on communication for patients with LEP conducted at a large, urban, academic primary care practice. In the LASI study, 735 patients with LEP (Spanish, Cantonese, and Mandarin-speaking) completed a telephone survey.

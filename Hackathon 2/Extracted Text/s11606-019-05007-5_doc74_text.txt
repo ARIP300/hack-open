@@ -1,0 +1,41 @@
+# ABSTRACTS
+
+# CONSOLIDATION IN THE DIALYSIS INDUSTRY AFTER BUNDLED PAYMENT REFORM
+
+Caroline Sloan 1, 2; Abby Hoffman 1, 3; Matthew Maciejewski 2, 1; Cynthia Coffman 1, 2; Linda L. Sanders 1; Richard Hirth 4; Shoou-Yih D. Lee 4; Virginia Wang 1, 2. 1 Duke University, Durham, NC; 2 Durham VA Medical Center, Durham, NC; 3 University of North Carolina Gillings School of Global Public Health, Chapel Hill, NC; 4 University of Michigan, Ann Arbor, MI. (Control ID #3183020)
+
+# BACKGROUND:
+
+Dialysis facilities currently treat almost 500,000 patients with end-stage renal disease (ESRD) and have experienced accelerating consolidation over the last two decades. By the late 2000s, two for-profit chains controlled over 70% of the dialysis market, leading to concerns about further market concentration. The impact of Medicare's 2011 prospective payment system (PPS) for dialysis on consolidation in the dialysis industry is largely unknown. We evaluate whether rates of acquisition among dialysis facilities that were independently-owned or affiliated with small chains were higher in the post-PPS period compared to the pre-PPS period.
+
+# METHODS:
+
+We conducted a retrospective cohort study of non-federal US outpatient dialysis facilities that were independently-owned or affiliated with small chains (<20 facilities) for at least one year between 2008 and 2013. These facilities were deemed to be at highest risk of acquisition by large dialysis organizations. We used data from the Center for Medicare and Medicaid Services, the US Renal Data System and the Area Health Resource File to evaluate facility and market characteristics before (2008-2010) and after (2011-2013) the PPS. The outcome of interest was change in dialysis facility ownership (i.e. acquisition) before and after implementation of the PPS. We used a generalized estimating equation with a logit link to examine the association between the PPS and facility acquisition, adjusting for dialysis facility and regional demographic characteristics.
+
+# RESULTS:
+
+Overall, 1686 dialysis facilities (27% of all facilities in the US) were at risk of acquisition for at least one year of the entire study period; 59% were independently-owned and 41% were affiliated with small chains. Almost a quarter of at-risk facilities (23%) were new to the dialysis market during the study period. The rate of acquisitions increased from 4% (66/1495 facilities) before PPS to 8% (106/1412 facilities) after PPS. After adjusting for all covariates, the odds of acquisition increased after the PPS was introduced (odds ratio 1.72, 95% confidence interval 1.24-2.39).
+
+# CONCLUSIONS:
+
+Medicare payment reform was associated with increased acquisition of independent and small chain-affiliated facilities by large chains, possibly because large dialysis organizations are better poised to bear the financial risk associated with the PPS. Consolidation in the dialysis industry may be acting as a buffer against reduced revenue and increased financial risk in the post-PPS era. As the number of non-chain-affiliated dialysis facilities has dwindled in recent years, two large dialysis organizations have gained an increasing amount of market power. Closer scrutiny and additional policy interventions are needed to ensure sufficient diversification and competition in the dialysis industry.
+
+# CONSUMER EXPERIENCES WITH PRIVATE HEALTH INSURANCE PROVIDER NETWORKS
+
+Kelly A. Kyanko1; Susan Busch2. 1NYU School of Medicine, New York, NY; 2Yale University, New Haven, CT. (Control ID #3181557)
+
+# BACKGROUND:
+
+Provider networks are an important tool for private health insurers to control costs and ensure quality care for their enrollees. However, provider networks have been criticized for inaccurate directories, limited or narrow choice of providers that omit highly rated "star" hospitals and may lead to undesired or surprise out-of-network care, and disruption of continuity of care if a provider leaves the network or a patient changes plans. We conducted a nationally representative survey to examine consumer experiences and preferences with provider networks in private health insurance plans.
+
+# METHODS:
+
+Internet survey conducted in 2018 with participants in the GfK KnowledgePanel®, a probability-based online research panel designed to be representative of the U.S. population. The sample included 2,059 English-speaking US adults aged 18 to 64 years enrolled in private health insurance with a provider network and used an outpatient health care provider in the last year.
+
+# RESULTS:
+
+74% agreed that their insurer had made enough in-network providers available. A significantly greater proportion of respondents rated protection from inpatient surprise bills as extremely important or very important from their plan as compared to inclusion of top rated "star" hospitals in the plan network (77% versus 59%, p<0.01). Among those with a choice of plan, 60% of respondents tried to determine if a specific provider was in-network before choosing a plan, and just over half (57%) reported that the result of the search affected their choice of plan. Of the 46% who used the provider directory once enrolled in the plan, 36% reported a problem either with inaccurate provider contact information or with a listed provider not actually taking their insurance or not taking new patients. Among the 16% who had a provider leave their network, 62-66% had their relationship with the provider disrupted and switched to a new provider. Another 10-12% simply stopped treatment.
+
+# CONCLUSIONS:
+
+Consumers in private insurance plans report satisfaction with the breadth of their provider networks, however problems remain in the accuracy of provider directories and disruption in care from provider turnover. More respondents rated protection from surprise inpatient out-of-network bills as an important plan attribute compared to inclusion of top rated hospitals in the network. Insurers may consider in their product design strong consumer preferences for protections from surprise out-of-network bills and the inclusion of a specific provider in the network in their choice of a plan. In addition to monitoring network adequacy and accuracy of provider directories, additional policy efforts may be needed to ensure continuity of care due to providers leaving a network. Addressing these provider network issues can preserve their function as a cost saving tool without compromising access and the consumer experience.

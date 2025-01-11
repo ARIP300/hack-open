@@ -1,0 +1,62 @@
+# ABSTRACTS JGIM
+
+# Myxedema Coma: A Rare Presentation of Hypothyroidism
+
+was 6.3ug/dL. Patient was administered 8mg IV dexamethasone and 200mcg IV levothyroxine with noted improvement in both vitals and mental status with cessation of seizures.
+
+# IMPACT/DISCUSSION:
+
+Myxedema coma is a rare, life-threatening, emergent presentation of hypothyroidism. It commonly presents in elderly females as depressed mental status along with hypothermia, hypotension, bradycardia and/or hypercapnia. Rarely, uncontrolled hypothyroidism can lower seizure threshold and contribute to onset of seizures as seen in this case. Laboratory indices that support the diagnosis, apart from elevated TSH with low free thyroid hormones, include hyponatremia, macrocytic anemia and elevated transaminases. Of note, the decreased AM cortisol level in our case was likely directly related to hypoalbuminemia, rather than adrenal insufficiency. Alteration in consciousness may be difficult to observe in patients with baseline impairment in cognition. However, this case elucidates the importance of recognizing and treating myxedema coma based on the characteristic presentation described above to avoid catastrophic and potentially fatal outcomes.
+
+# CONCLUSION:
+
+Myxedema coma is a rare, life-threatening, emergent presentation of hypothyroidism, making it important to recognize and begin treatment promptly to avoid sequela and death. Subtle clinical findings include hypothermia, hypotension, bradycardia and rarely, induction of seizure activity. Subtle lab findings suggestive of diagnosis include hyponatremia, elevated transaminases and macrocytosis.
+
+# FAILING TO DELIVER: IMPROVING TRANSITIONS OF CARE FOR PERIPARTUM WOMEN WITH MEDICAL COMORBIDITIES
+
+Chelsea Wiltjer1; Meredith H. Lora2, 1. 1Emory University, Atlanta, GA; 2Emory, Atlanta, GA. (Control ID #3176067)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the disparity which exists among African American women in the United States regarding postpartum mortality rates.
+
+# LEARNING OBJECTIVE #2:
+
+Recommend a systems-based approach for addressing transitions of care between obstetrics and primary care to improve health care outcomes.
+
+# CASE:
+
+A 38-year-old African American female G1P0102 with past medical history of poorly-controlled hypertension, anxiety and chronic kidney disease underwent an emergent caesarian section to deliver identical twins due to pre-eclampsia. In the weeks following, while attending to her breastfed infants in the Neonatal Intensive care units, she continued to take her pre-partum antihypertensives. Six weeks after delivery, she was discharged from her obstetrician's office without adjustment of antihypertensives. Several days later, she was seen in urgent care for uncontrolled hypertension and her medications were adjusted. One week later, despite medication adherence and careful monitoring, she presented to the emergency department (ED) due to anxiety and uncontrolled hypertension. Her blood pressure reading upon arrival was 218/128 and she had evidence of a new acute kidney injury in addition to worsened proteinuria. She was admitted for intravenous anti-hypertensives. Over the next two months, she was hospitalized two additional times for uncontrolled hypertension.
+
+# IMPACT/DISCUSSION:
+
+This case highlights a woman who was actively engaged in her medical care, yet experienced a life-threatening complication of chronic hypertension due to a lack of primary care in the post-partum period. In recent years, high maternal morbidity and mortality rates within the United States have made national headlines. According to the Centers for Disease Control, black women within the U.S. have a three to four times higher maternal mortality rate, in comparison to their white counterparts. Cardiovascular and hypertensive disorders of pregnancy cause over one-fifth of these deaths. Management of chronic disease in the peripartum period can be challenging for new mothers and warrants close monitoring by a primary care provider. New mothers often struggle to navigate the system during this stressful period of their lives, and less than a third of women successfully establish with primary care in the year following childbirth. Small studies have demonstrated a significant improvement in establishment of primary care in postpartum women through a systems-based approach involving patient education and assistance. Improving this transition of care remains an important area of study to further determine how to best care for postpartum women with chronic medical disease.
+
+# CONCLUSION:
+
+- Among already high maternal mortality statistics affecting all women in the United States, a large disparity exists in the United States for African American Women.
+- Facilitating transitions of care between obstetrics and primary care through a systems-based approach remains an important step for providing quality care to those with complex medical disease.
+
+# FALLING THROUGH THE CRACKS: A CASE OF SUBCLAVIAN STEAL SYNDROME
+
+Matthew J. Klebanoff2; Ashutosh Pathak2; John J. Chang4; Shaili Gupta1, 3. 1Yale University School of Medicine, West Haven, CT; 2Yale School of Medicine, New Haven, CT; 3Veterans Healthcare System of CT, West Haven, CT; 4Yale, West Haven, CT. (Control ID #3160428)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize subclavian steal syndrome (SSS) as an uncommon but important cause of syncope.
+
+# LEARNING OBJECTIVE #2:
+
+Identify signs of SSS that necessitate early surgical intervention.
+
+# CASE:
+
+A 63-year-old man with history of recurrent syncope and atrial fibrillation (AF) on warfarin presented to our hospital with headache. Within the last year, he had suffered several falls from syncope, which resulted in serious injuries, including jaw fracture and subdural hematomas (SDH). He used alcohol and marijuana daily. Prior workup for seizure activity, orthostatic hypotension, and vestibular dysfunction was negative; Holter monitor showed 0.4% AF burden and rare supraventricular tachycardia. On our exam, the patient had regular heart rhythm, with no orthostatic changes or focal neurologic deficits. Laboratory findings were notable only for an INR of 4.9. CT head did not show any pathology. His medical record revealed a prior carotid ultrasound showing retrograde flow in the left vertebral artery, raising suspicion for SSS. The patient disclosed that minimal exertion (e.g., unloading a few items from the dishwasher) caused left arm pain and paresthesias, accompanied by headache and lightheadedness. He had interarm systolic blood pressure (BP) difference of >40mmHg. CTA neck confirmed total occlusion of the left proximal subclavian artery and patent bilateral internal carotid arteries. We sought revascularization, which was deferred in favor of further evaluation of arrhythmia and substance use as causes of syncope. One month later, the patient sustained more falls, leading to multiple vertebral fractures and SDH. An event monitor revealed many syncope events without arrhythmia. He later died in neurology ICU.
+
+# IMPACT/DISCUSSION:
+
+Our patient's history suggested multiple possible causes of syncope. Several prior workups failed to recognize SSS as a likely etiology. Our case underscores the importance of assessing each patient with fresh eyes and avoiding anchoring bias. It also highlights SSS as an uncommon but important cause of syncope. SSS results from steno-occlusion of proximal subclavian artery with subsequent retrograde flow in the ipsilateral vertebral artery. Radiological SSS is usually asymptomatic, but can present with dizziness, syncope, ataxia, and arm claudication. Symptomatic patients often have additional disease in anterior vasculature (e.g., carotid stenosis), causing inadequate collateral circulation. Severe symptoms can occur despite patent carotid arteries and should dictate the urgency of surgical intervention, which has a high success rate with low morbidity (AbuRahma et al. J Vasc Surg. 2000 Sep). Arm BP discordance >40mmHg also correlates highly with the need for intervention (Labropoulos et al. Ann Surg. 2010 Jul).
+
+# CONCLUSION:
+
+In a patient with recurrent syncope, SSS should be included in the differential. Symptomatic SSS can occur despite patent carotid arteries. Clinicians should determine the urgency of revascularization in SSS based on clinical symptoms and signs, particularly arm BP discordance.

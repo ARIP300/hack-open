@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+At Grady, patients failed to attend colonoscopy appointments despite possessing knowledge of the schedule and adequate reminders. Patients cited transportation, personal health problems, finances, and family obligations as barriers. However, double booking or failure to prescribe prep suggest that improvements can be made in execution from the health system perspective. Furthermore, providing financial aid may benefit those unable to afford visit copay and colon prep costs. We hope to expand on this data and use it to implement changes to reduce no-shows and increase CRC screening rates.
+
+# IDENTIFYING OUTLIER PRIMARY CARE PRACTICES TO REDUCE HIGH-COST UTILIZATION: A POSITIVE DEVIANCE APPROACH TO UNDERSTANDING THE PERSISTENCE OF HIGH-PERFORMANCE IN THE PATIENT-CENTERED MEDICAL HOME
+
+Ashok Reddy 2, 1; Linnaea C. Schuttner 2, 1; Eric Gunnink 2; Karin M. Nelson 2, 1. 1 University of Washington, Seattle, WA; 2 Department of Veterans Affairs, Seattle, WA. (Control ID #3173936)
+
+# BACKGROUND:
+
+Veterans Health Administration (VHA) and Medicare measure primary care clinic performance based on rates of high-cost utilization including emergency department (ED) visits and hospitalizations. Yet, our understanding of high performing primary care clinics ("positive deviants") associated with low utilization rates is limited. Our primary objectives were to determine: (1) how positive deviant clinics who exhibited low rates of ED visits or hospitalizations in the baseline year persisted in subsequent years (2) the impact of adjusting for patient or clinic characteristics on the persistence of high performance among VHA primary care clinics.
+
+# METHODS:
+
+We used a cross-sectional design using annual data from 2012-2017 from the VHA Corporate Data Warehouse. We first calculated the observed over expected (O/E) ratio of hospitalizations (or ED visits) by clinic site for a baseline year. Expected utilization was calculated as patients per site multiplied by the national mean hospitalization or ED visits per year. We limited ED visit analysis to clinics with on-site EDs. We defined high-performance as the lowest 10% of clinics by O/E ratio in a baseline year. Next, we determined the number of high-performing clinics that persisted in the top decile in the following 5 years. Finally, we used a mixed effects model to determine the impact of patient (age, sex, race/ethnicity, co-morbidity) and clinic (size, location) characteristics.
+
+# RESULTS:
+
+We analyzed hospitalizations at 899 clinics and ED visits at 144 clinics. A greater proportion of patients at high-performing clinics were younger, white, urban residents, and were cared for at community-based outpatient clinics. Of clinics initially identified as high-performing in 2012, we found 40 of 89 clinics for hospitalizations, and 9 of 25 clinics for ED visits were persistent high-performers. For this baseline year, high-performing clinics had on average 18 hospitalizations per 1000 patients and 229 ED visits per 1000. Between 2013-17, high-performing clinics had on average 14 hospitalizations and 221 ED visits per 1000. In 2012, clinics consistently below the top performers had 123 hospitalizations per 1000 patients and 661 ED visits per 1000. Between 2013-17, these clinics had 116 hospitalizations and 668 ED visits per 1000. After adjusting for patient and clinic characteristics, we did not find persistent primary care clinic performance outliers in either outcome of ED visit or hospitalizations.
+
+# CONCLUSIONS:
+
+Our findings suggest that many clinics persist as high-performing outliers with persistent low ED and hospital utilization. However, most of this persistence is related to non-modifiable patient and clinic-level characteristics. This implies that the usual next step in a positive deviance approach - qualitatively studying high performers to generate hypotheses about why these practices are successful - may not be useful in identifying strategies to reduce high-cost utilizations.
+
+# IDENTIFYING RACIAL/ETHNIC DISPARITIES IN INTERHOSPITAL TRANSFER
+
+Evan Shannon1; Jeffrey L. Schnipper1; Stephanie Mueller2. 1Brigham and Women's Hospital, Boston, MA; 2Brigham and Women, Boston, MA. (Control ID #3185287)
+
+# BACKGROUND:
+
+Racial/ethnocultural inequities have been demonstrated throughout our health care system. Their presence among patients who undergo interhospital transfer (IHT) to receive more specialized care is poorly understood. We evaluated the association between patient race/ethnicity and IHT to identify potential disparities in this care transition.
+
+# METHODS:
+
+We performed a cross-sectional analysis of 2016 data from the National Inpatient Sample (NIS), the largest publicly available all-payer inpatient health care database in the United States which yields national estimates of hospital inpatient admissions. All adult patients were included. The primary outcome was IHT, defined as transfer to another acute care facility. The primary predictor was race, categorized as traditionally underserved racial/ethnic minority groups (Black, Hispanic, Native American) versus other (White, Asian, Other). We used logistic regression models to obtain odds ratio IHT by race, adjusting for patient and transferring hospital characteristics, including patients' age, sex, and insurance, median household income by zip code, mortality risk by diagnosis-related group (DRG), Elixhauser comorbidity index, hospital teaching status, region and bedsize. We performed secondary analyses using individual race/ethnicity categories.
+
+# RESULTS:
+
+There were a total of 6,037,727 unique admissions in the cohort representing 25,238,650 admissions nationally. 120,396 (2.4%) patients were transferred to an acute care facility. Among those transferred, 46.2% were female, 72.7% were white, 13.3% were Black and 8.4% were Hispanic. Minority patients had a lower odds of transfer compared to other groups (OR 0.75, 95% CI 0.72-0.78). Multivariable logistic regression adjusting for patient characteristics also revealed a lower odds of transfer (OR 0.83, 95% CI 0.79-0.86). However, when further adjusted for hospital characteristics, this association was no longer significant. In secondary analysis, Hispanic ethnicity was associated with lower adjusted odds of transfer compared to White patients (OR 0.94, 95% CI 0.90-0.98).
+
+# CONCLUSIONS:
+
+In this nationally representative sample of patients, we found that minority race/ethnicity, and Hispanic ethnicity in particular, was associated with lower odds of IHT. These findings remained after adjusting for patient characteristics, but lost significance after also adjusting for hospital characteristics, suggesting that existing racial disparities may be mitigated in part by factors affecting the hospitals to which minority patients present. Additional research is needed to further explore the drivers of these inequities.
+
+# IDENTIFYING RISK FACTORS FOR HYPOGLYCEMIA TO PREVENT ADVERSE OUTCOMES AMONG HOSPITALIZED PATIENTS
+
+Corinne F. Levitus3; Julie Anne L. Gemmill3; Leena Shah1; Marissa A. Wolfe3; Alexander Gee3; David T. Harris 2; Nancy A. Wichtendahl 2; Barbara M. Mills2; Joshua D. Miller. 3 1Montefiore Medical Center - Albert Einstein, Paramus, NJ; 2SUNY Stony Brook University Hospital, Stony Brook, NY; 3Renaissance School of Medicine at Stony Brook University, Stony Brook, NY. (Control ID #3162799)
+
+# BACKGROUND:
+
+Diabetes affects 30.3 million people in the US, and 25% of total hospital days are incurred by patients with diabetes. Among hospitalized adults, diabetes is considered a chronic secondary diagnosis. As the population of patients with diabetes grows, so does the potential for adverse events during hospitalization. Previous studies have shown that both hyper- and hypoglycemia are associated with poor outcomes in broad populations of hospitalized patients, including increased morbidity.

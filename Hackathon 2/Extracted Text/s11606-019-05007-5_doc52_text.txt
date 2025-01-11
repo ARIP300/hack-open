@@ -1,0 +1,47 @@
+# ABSTRACTS
+
+an estimated monthly rate of 2% during this period (95% CI: 0.8%-3.2%). By contrast, the estimated rate of hospitalizations per 1000 patient-years declined at an estimated monthly rate of 5% during the post-intervention period (95% CI: 3.4%-7.4%). This acceleration in the monthly rate of decline after the intervention was statistically significant (p=0.004). CKD patients also had a nonsignificant 4% faster reduction in monthly inpatient bed days (4.8% [95% CI: 2.5%-7.0%] versus 8.6% [95% CI: 4.7%-12.3%], p = 0.10) and 2% faster reduction in ED visits (0.9% [95% CI: -0.1%-2.0%] versus 2.7% [95% CI: 0.9%-4.3%], p = 0.09) from pre- to post-intervention periods. There was no difference in 30-day readmissions (p= 0.26).
+
+# CONCLUSIONS:
+
+By creating care pathways that link primary and specialty care teams with increased ambulatory infrastructure, health systems have potential to enhance care coordination in association with reductions in health costs.
+
+# CAN A LARGE SCALE QUALITY IMPROVEMENT INTERVENTION DESIGNED TO REDUCE CARDIOVASCULAR RISK ALSO ATTENUATE BLACK-WHITE DISPARITIES IN HYPERTENSION CONTROL?
+
+Samuel Cykert 1; Crystal W. Cene 1; Darren Dewalt 1; Justin Trogdon 2. 1 University of North Carolina, Chapel Hill, NC; 2 UNC Gilling's School of Global Public Health, Chapel Hill, NC. (Control ID #3183099)
+
+# BACKGROUND:
+
+Hypertension affects more than 70 million people in the US and increases the risk of all-cause mortality, heart disease, stroke, and chronic kidney disease. There are significant racial disparities in hypertension control. Compared to Whites, Blacks have a higher prevalence of hypertension (40.1% vs. 27.4%). Additionally, they are less likely to achieve blood pressure control. The lack of control in the Black population accounts for half the excess cardiovascular disease (CVD) mortality observed in Blacks and 5% of the overall racial difference in potential life-years lost. Heart Health Now (HHN) is an AHRQ sponsored initiative designed to reduce CVD risk for adults served by small, North Carolina primary care practices. This report examines the effect of this intervention on hypertension disparities.
+
+# METHODS:
+
+We conducted a pre-post evaluation of change in blood pressure control comparing White with Black patients. Clinical data were derived from daily electronic health record uploads from 219 practices. To be eligible, practices had to have 10 or fewer clinicians. The intervention consisted of provision of onsite practice facilitation to implement QI strategies and use of a CVD population management dashboard. Adult patients with an ICD-9 or ICD-10 diagnosis of hypertension aged 18 to 85 years were included. We examined the overall hypertension control (SBP < 140 and DBP < 90) gap between Black and White patients at baseline, the percentage of practices that had gaps, and whether these differences changed after the 12-month intervention. The analyses controlled for practice demographics, patient centered medical home status, practice disruptions, and measured change capacity.
+
+# RESULTS:
+
+219 practice sites caring for 116,952 White and 46,406 Black hypertensive patients. Average # providers per site was 7. Fifty-nine% of practices were clinician-owned; 29% were federally qualified health centers; 52% were rural. The average payer mix was Medicare 28%, Medicaid 16%, dual 10%, uninsured 12%, commercial insurance 30%, and "other" 4%. Clinicians averaged 21 patient visits per day. At baseline, 57.8% of Black patients' hypertension was controlled compared to 64.2% of Whites (p < 0.001). Post-intervention these proportions were 60.1% and 66.3%, respectively (p < 0.001). While hypertension control for Blacks improved (over 1000 individuals newly controlled), racial disparity remained. On the practice level, there was no racial difference in hypertension control in 22% of practices at baseline; the majority (78%) of practices had a disparity favoring Whites (p < 0.001) that was unchanged post-intervention.
+
+# CONCLUSIONS:
+
+Although widespread implementation of an intensive, practice-based, QI intervention improved hypertension control for Black and White patients, it did not reduce disparities. Within practice disparities were predominant. Research examining practices with no disparities and devising socio-culturally tailored strategies appear to be necessary next steps to close racial gaps.
+
+# CAN AN INTENSIVE AMBULATORY CARE INTERVENTION IMPROVE THE EXPERIENCE OF HIGH-UTILIZING PATIENTS?: 6-MONTH OUTCOMES OF THE SUMMIT RANDOMIZED CONTROLLED TRIAL.
+
+Brian Chan1, 2; Samuel T. Edwards4, 1; Matthew Mitchell2; Christina Nicolaidis3, 5; Devan Kansagara4, 5; Philip T. Korthuis5; Somnath Saha4. 1OHSU, Portland, OR; 2Central City Concern, Portland, OR; 3Portland State University, Portland, OR; 4Portland VA Medical Center, Portland, OR; 5Oregon Health & Science University, Portland, OR. (Control ID #3186182)
+
+# BACKGROUND:
+
+People experiencing homelessness, co-morbid chronic medical conditions, and substance use disorder (SUD) make up a disproportionate number of high-cost, high-need patients at risk of frequent acute care utilization. Intensive ambulatory care unit ("A-ICU") interventions aim to improve patient engagement, patient experience and quality of care, and reduce high-cost utilization.
+
+# METHODS:
+
+This is a preliminary analysis of a randomized trial of SUMMIT, an A-ICU for high-utilizers at a federally qualified health center that serves patients with high rates of homelessness and substance use. SUMMIT is a stand-alone A-ICU team consisting of care coordinators, an addictions-boarded physician, social workers, complex care nurse, pharmacist, and team manager, with a low staff-to-patient ratio and increased appointment flexibility. Patients were eligible to be referred to SUMMIT if they had 1+ hospitalizations in the prior 6 months, or had 2+ chronic medical conditions and/or active substance use or a mental health condition. After consent and a baseline survey, patients were randomized to enroll in SUMMIT immediately or to join the SUMMIT wait list while remaining in usual care (patient-centered medical home model). We assessed patient experience and functional status using ambulatory consumer assessment of healthcare providers and systems (CAHPS) and the 12-item short form survey (SF-12) at baseline and at six months. We also examined average number of hospital admissions at 6 months, average length of stay (LOS), emergency department (ED) visits, primary care visits, and behavioral health visits.
+
+# RESULTS:
+
+Of the first 102 patients enrolled, 52% (n=53) were randomized to SUMMIT immediately. Average age was 53.8 years (+/-10.1), the majority (64.7%) were male, 87.3% had experienced homelessness, 56.9% had a SUD history. Baseline utilization for enrolled patients was 3.0 admissions, 4.5 ED visits, 8.1 primary care visits, and 2.9 behavioral health visits in the prior 6 months. At six months patients in SUMMIT reported improved CAHPS ratings in communication (81% "top-box" vs 63%, P=.001) and care coordination (60% vs 43%, P=0.01), and improved mental health composite SF-12 scores (48.1 vs 41.8, P=0.006) versus control patients. The SUMMIT patients had more PCP visits (14.1 vs 5.8, P<.001) and tended to experience fewer hospitalizations (1.8 vs 2.1, P=0.25), shorter LOS (13.0 vs 16.0, P=0.2), more ED visits 3.7 vs 2.8, P=0.36), and more behavioral health visits (5.8 vs 5.1, P=0.1).
+
+# CONCLUSIONS:
+
+The SUMMIT program improved patient experience, improved mental health symptoms, and increased primary care engagement at six months. We did not observe significant changes in inpatient or ED utilization, possibly due to our small sample size and limited time frame. Future analyses will evaluate 12-month outcomes and will assess whether certain subgroups of high-utilizing patients benefit most from A-ICU care.

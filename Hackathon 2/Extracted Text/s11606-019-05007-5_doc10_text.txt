@@ -1,0 +1,49 @@
+# A DECISION AID ON MAMMOGRAPHY SCREENING FOR WOMEN AGED 75 AND OLDER REDUCES SCREENING
+
+Mara A. Schonberg 1 ; Roger B. Davis 1 ; Mary Beth Hamel 1 ; Gianna Aliberti 1 ; Alicia R. Jacobson 1 ; Maria Karamourtopoulos 1 ; Michele Hayes 2 ; Christina C. Wee 1 ; Edward R. Marcantonio 1 ; Carmen L. Lewis 3 ; Christine Kistler 2 .
+
+1 Beth Israel Deaconess Medical Center, Boston, MA; 2 University of North Carolina at Chapel Hill, Chapel Hill, NC; 3 University of Colorado, Denver, CO. (Control ID #3168057)
+
+# BACKGROUND:
+
+The utility of breast cancer screening in later life varies according to women's life expectancy, breast cancer risk, and preferences. To improve informed, value-concordant breast cancer screening in later life, we conducted a clustered randomized trial to test the effectiveness of a mammography decision aid (DA) containing information on outcomes of screening, life expectancy, competing mortality risks, and a values clarification exercise.
+
+# METHODS:
+
+We recruited English speaking women ages 75-89 years with an upcoming appointment with their PCP without a history of breast cancer or dementia from 11 diverse primary care practices in Massachusetts (MA) and North Carolina (NC). Eligible women were screened in the past 24 months but not in the past 6 months. A research assistant (RA) administered a pre-visit questionnaire to participants on their intentions to be screened, health, breast cancer risk factors, and sociodemographic characteristics. Before the visit, the patient's PCP was randomized to either the pamphlet DA (intervention arm) or to a home safety pamphlet (HS, the control arm); subsequent participants from each PCP remained in the same arm. After the visit, the RA administered a post-visit questionnaire on screening intentions and knowledge. Participants were followed for 18 months for receipt of screening (i.e., at least 2 years since last mammogram). To examine the DA's effects, we fit marginal logistic regression models using generalized estimating equations to allow for clustering by PCP. We included PCP panel size, site, patient life expectancy, and 5-year Gail breast cancer risk in our models.
+
+# RESULTS:
+
+Of 1,031 eligible women contacted, 541 (53%) from 136 different PCPs consented to participate; 281 patients received the DA and 260 received HS. Patients in each arm were well-matched; 80% were from MA; 54% from community (vs. academic) sites; 38% had <10 year life expectancy; mean 5-year breast cancer risk was 2.2% (+/- 1.1%); 79% were non-Hispanic white; and 62% were college graduates. Post-visit, 87% of women who received the DA found it helpful and 95% would recommend it to a friend. Women in the DA arm were more likely to lower their intentions to be screened from pre to post visit (25% of women in the DA arm lowered their intentions vs. 17% in the HS arm, p=0.03), were more knowledgeable about screening (mean knowledge score 6.1 vs. 5.3 [out of 10 questions], p<0.001), and were more likely to have a discussion on mammography's pros and cons documented by their PCP (30% vs. 12%, p=0.001). After 18 months, 4% fewer in the DA arm were screened (57% vs. 61%, p=0.03). In MA where 74% of women in the control arm were screened, the DA was associated with a 12% reduction in screening (p=0.006); we found no difference in NC where screening in the control arm was low (23%).
+
+# CONCLUSIONS:
+
+Our mammography DA was perceived as helpful, improved older women's knowledge and discussions about screening, and led to fewer women aged 75-89 years being screened with mammography.
+
+# A FLUID DISCHARGE: LIQUID OPIOIDS AND OTHER RISK FACTORS THAT CONTRIBUTE TO EXCESSIVE OPIOID PRESCRIPTIONS FROM A HOSPITAL MEDICINE SERVICE
+
+Nicholas Iverson; Nader Najafi; Yumiko Abe-Jones; Margaret Fang; Kirsten Kangelaris; Priya A. Prasad; Catherine Lau. UCSF, San Francisco, CA. (Control ID #3173256)
+
+# BACKGROUND:
+
+Recently enacted policies in multiple states have placed restrictions on opioid prescription days given the risk of development of chronic opioid therapy with prolonged opioid prescriptions. However, there are still patients who receive an excessive number of opioid prescription days after discharge from the hospital. We studied this population retrospectively to understand which patient-level risk factors contribute most to being an outlier of excess opioid prescribing on discharge from a hospital medicine service.
+
+# METHODS:
+
+We used the electronic health record to identify all patients hospitalized on the acute care medical service at a 600-bed tertiary care hospital from years 2012-2018. Patients were included if they received an opioid prescription both while hospitalized and on discharge and data were obtained on patient demographics, medication administration, and diagnosis codes. All opiate prescriptions were standardized to morphine milligram equivalents (MMEs). Days of opioids prescribed on discharge was calculated by the discharge prescription signature and number of pills. Patients were excluded if ICD9 or 10 codes for cancer-related pain or sickle cell disease were documented, or who were on hospice or followed by the palliative care service. Patients were categorized as receiving <=14 days of opioids, 14 to 30 days of opioids, or >30 days of opioids. We then performed a multivariable logistic regression to assess for factors associated with longer opiate prescriptions.
+
+# RESULTS:
+
+We identified 9,275 medical inpatients prescribed opioids both during the hospitalization and on discharge who were eligible for the analysis. By the discharge prescription signature, 6,001 (64.7%) patients were prescribed less than 14 days, 2,688 (29.0%) received 14-30 days, and 586 (6.3%) received >30 days. Factors associated with receiving a >30 day supply include: being discharged with liquid opioids (OR 4.3 [3.4-5.4]), being on benzodiazepines prior to admission (OR 1.9 [1.6-2.6]), being male (OR 1.4 [1.1-1.6]), and having non-metastatic cancer (OR 1.3 [1.1-1.7]). The maximum number of days prescribed was 1,875 days.
+
+# CONCLUSIONS:
+
+Patients prescribed liquid formulations of opioids were substantially more likely to have a prolonged duration of opiates supplied at discharge.
+
+# A MIXED METHODS ANALYSIS TO EVALUATE EMERGENCY DEPARTMENT (ED) WAIT TIME DISPARITIES
+
+Jaya Aysola; Sean Foster; Mira Mamtani; Justin Clapp; Matthew Kearney; Eve Higginbotham. University of Pennsylvania, Philadelphia, PA. (Control ID #3185263)
+
+# BACKGROUND:
+
+We identified a significant disparity in ED wait times among patients eventually admitted to the hospital. Evidence reveals ED wait times influence patient satisfaction, length of stay, care quality, and hospital costs. This study aimed to identify key contributors to this inequity.

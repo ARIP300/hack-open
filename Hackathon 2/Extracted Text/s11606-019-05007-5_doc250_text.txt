@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+S349
+
+Vaccines may improve adult immunization rates. 0.45 [95% CI: 0.08 - 2.70]. Patients who received AAs had more days of diarrhea (4.94 vs. 2.20, p < 0.001), though this was not significant in the adjusted analysis (relative risk 1.14 [0.94 - 1.37]). There were no significant differences in the number of fluid boluses given, the total volume of IV fluid given, or the number of wound care consults in adjusted or unadjusted analyses.
+
+# SAFETY OF ANTIMOTILITY AGENT USE DURING TREATMENT FOR CLOSTRIDIOIDES DIFFICILE INFECTION IN MALIGNANT HEMATOLOGY INPATIENTS
+
+David Sterken; Carla Kuon; Rae Wannier; Jeffrey Wolf; Priya A. Prasad. UCSF, San Francisco, CA. (Control ID #3183429)
+
+AAs were administered to 27% of patients in the first 14 days after CDI diagnosis and were not associated with a significantly increased risk of gastrointestinal adverse events. This evidence suggests that it is safe to use AAs in malignant hematology inpatients who are being treated for CDI, even soon after CDI diagnosis.
+
+# Table 1
+
+# Physician Reported Use of Strategies to Improve Adult Vaccination, 2013 and 2015/2016 Surveys
+
+| | |2013|2015/2016|P value*| |
+|---|---|---|---|---|---|
+|Standing orders|Seasonal influenza|72|84|0.0001| |
+| |All other recommended adult vaccines|10|16|0.002| |
+|Assessment and feedback|Seasonal influenza|11|16|0.02| |
+| |All other recommended adult vaccines| |12|0.63| |
+|Use IIS to assess vaccination status|Seasonal influenza|19|26|0.006| |
+| |All other recommended adult vaccines|23|25|0.30| |
+|Use IIS to record vaccination|Seasonal influenza|21|32|0.0001| |
+| |All other recommended adult vaccines|23|32|0.0005| |
+|Written CDSS|Seasonal influenza|21|17|0.19| |
+| |All other recommended adult vaccines|18|15|0.19| |
+|Electronic CDSS|All other recommended adult vaccines|52|51|0.0020| |
+|Reminders sent to all patients due for vaccine|Seasonal influenza|14|24|0.0001| |
+| |All other recommended adult vaccines| | |0.16| |
+
+*p-value represents a comparison between responses from the two survey time periods using chi-square analysis: IIS-Immunization Information System (a.k.a immunization registry) CDSS-Clinical Decision Support System
+
+# SCOPE AND CORRELATES OF CHRONIC NON-CANCER PAIN IN PRIMARY CARE
+
+Alexander Chaitoff; Glen B. Taksler; Anita D. Misra-Hebert; Belinda Udeh; Michael B. Rothberg. Cleveland Clinic, Cleveland, OH. (Control ID #3185076)
+
+BACKGROUND: Up to 100 million adults in the United States (US) suffer from chronic pain. However, prevalence estimates from older national samples may not reflect the population of chronic pain patients in primary care who would be affected by policies aimed at curtailing opioid use. The objective of this study was to identify patient factors correlated with reporting chronic pain during primary care visits.
+
+METHODS: This retrospective study used data extracted from the electronic health record at a large integrated health system in the US. Participants were adults treated between January 2014 and December 2015. Patients with metastatic cancer were excluded. The main outcome measures–self-report pain duration, location, and severity as measured by the numeric ranking scale-10--are routinely documented during primary care visits. Chronic pain was defined as lasting >3 months. Predictor variables included demographics, health insurance status, substance use, and comorbidities. Frequencies were used to describe the scope of chronic non-cancer pain in the cohort. Multivariable regression models were used to assess the patient factors associated with reporting chronic pain.
+
+RESULTS: The dataset included 820,028 visits made by 141,635 patients, 24,127 (17.0%) of whom reported at least one period of chronic pain. Patients with chronic pain had more primary care visits during the study period than those who did not report chronic pain (7.2 vs. 4.6, p<0.001). Pain was most commonly reported in the back (n=7293), the lower extremities (n=7194), and the upper extremities (n=5190). The median pain severity was 6/10 (interquartile range (IQR)=4.0-8.0), and 39% involved a severity 7. Pain differed significantly by location; it was highest when reported as generalized and lowest when reported in the breast (p<0.001). In a multivariable model, chronic pain was associated with being female (OR=1.16, 95%CI=1.13-1.20), Black vs. White (OR=1.66, 95%CI=1.59-1.73), older age (per 10 years, OR=1.05, 95%CI=1.03-1.06), lower income (per $10,000; OR=0.98, 95%CI=0.97-0.99), and being divorced (OR=1.10, 95%CI=1.05-1.16) or married (OR=1.10, 95%CI=1.06-1.14) vs. single. Those with chronic pain were more likely to have Medicare (OR=1.87, 95%CI=1.76-1.99) or Medicaid (OR=1.11, 95%CI=1.07-1.16) vs. private insurance. Certain health behaviors, including being a current smoker vs. never smoker (OR=1.35, 95%CI=1.28-1.41) and illicit drug use (OR=1.24, 95%CI=1.14-1.35), were associated with chronic pain, but any alcohol use was associated with lower odds of reporting chronic pain (OR=0.87, 95%CI=0.84-0.89). Finally, having a mental health comorbidity (OR=1.52, 95%CI=1.48-1.57) or higher Charlson comorbidity index (per point; OR=1.08, 1.07-1.09) was associated with chronic pain.
+
+CONCLUSIONS: In a large health system, nearly one in five primary care patients reported chronic pain. Patients historically subjected to disparities are more likely to have chronic pain and to be affected by policies related to its treatment.

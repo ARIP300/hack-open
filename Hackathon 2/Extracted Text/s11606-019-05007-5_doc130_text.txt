@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+interviews with non-medical professionals whose jobs involve intense inter- personal interactions (n=30). After synthesizing the evidence, we identified 13 preliminary presence practices. We then conducted a 3-round modified Delphi process with 14 national experts, including researchers, physicians, patients, caregivers, and health system leaders. The experts reviewed and rated the practices on three 9-point Likert scales [range -4 to +4] that reflected the potential impact on patient experience, potential impact on clinician experience, and implementation feasibility. We prioritized practices with median ratings 2 for all three criteria.
+
+# RESULTS:
+
+Eight practices received high ratings for implementation feasibility and the potential to positively impact patient and clinician experience:
+1. Come prepared (review patient information before the encounter to focus and familiarize yourself with the patient you are about to see);
+2. Take a moment to focus (incorporate a brief ritual into clinical practice to focus your attention on the impending patient encounter);
+3. Position yourself (use positive open body language, e.g., sit down, lean in, orient your body towards the patient);
+4. Listen without interrupting (avoid interjecting during a patient's opening description of health issues);
+5. Elicit patient priorities and incorporate these priorities into the visit agenda;
+6. "Walk in the patient's shoes" (consider a patient's sociocultural and life circumstances);
+7. Focus on the positive (acknowledge specific patient efforts in a genuine and positive manner); and
+8. Attend to patient emotions (assess and acknowledge patient feelings).
+
+# CONCLUSIONS:
+
+Through a novel process that combined a systematic literature review with human-centered design and Delphi methodology, we identified simple and concrete practices that facilitate clinician presence and connection with patients, and have the potential to improve patient and physician experience.
+
+# FREQUENCY OF INPATIENT DEATHS DUE TO MEDICAL ERROR: A SYSTEMATIC REVIEW AND META-ANALYSIS
+
+Benjamin Rodwin1, 2; Victor P. Bilan1, 2; Naseema B. Merchant1, 2; Catherine G. Steffens2; Lori A. Bastian1, 2; Craig G. Gunderson1, 2. 1Yale School of Medicine, New Haven, CT; 2VA Connecticut Healthcare System, West Haven, CT. (Control ID #3138948)
+
+# BACKGROUND:
+
+Since the Institute of Medicine report To Err Is Human in 1999, preventable inpatient deaths in the United States have been estimated as between 44,000 and 98,000 annually. A more recent review concluded that the number of preventable deaths was over 250,000 annually. Because inpatient deaths are believed to be commonly due to medical error, and therefore preventable, mortality rates are used for hospital rankings by the Centers for Medicare and Medicaid services (CMS) and the Veterans Administration. Given the uncertainty in reported rates of preventable mortality, we undertook a systematic review and meta-analysis of studies that directly assess rates of preventable mortality in hospitalized patients.
+
+# METHODS:
+
+A systematic search was conducted for studies that reported case series of hospitalized patients who died and used physician review to determine the number of deaths due to preventable medical errors. Our search included MEDLINE, EMBASE, Web of Science, and the Cochrane library. Study quality was assessed using the Newcastle-Ottawa Quality Assessment Scale. Mortality rates were pooled using random-effects meta-analysis.
+
+# RESULTS:
+
+1,086 studies were screened for inclusion. Six studies including 11,455 deaths met study inclusion criteria. The overall pooled rate of mortality due to preventable error was 3.4% (95% CI 2.7% - 4.2%) (figure 1). Two studies reported rates of preventable mortality limited to patients expected to live longer than three months, which was 0.8% (95% CI 0.3% - 1.9%). In the United States, these estimates equate to approximately 21,450 preventable deaths annually and 5,720 deaths among patients with greater than three-month life expectancy.
+
+# CONCLUSIONS:
+
+The number of deaths due to medical error is much lower than previously reported. Furthermore, most of these preventable deaths appear to occur in patients with less than three months life expectancy. Because the vast majority of inpatient deaths are not due to medical error, overall hospital mortality rates are unlikely to be valid quality measures. Variation is more likely to reflect differences in patient characteristics and location of patient death. Our results also question the validity of using disease-specific mortality rates for quality measures and reimbursement, as currently done by CMS.
+
+# Proportion of Deaths Due to Medical Error
+
+|Preveria:|Amncr|Deaths (0)|Deaths (n)|ES (85* Ci)|Weight|
+|---|---|---|---|---|---|
+|Sorne|3|2012|(0.02, 0.0b)|10.57| |
+|Hogan|2012|ICCo|0.04 (0.03, 0.05)|18.31| |
+| | |2015|5280|0.04 (0.04, 0.05)|21.59|
+|Hoain|2015|2400|0.03 (0.02, 0.04)|20.25| |
+|Fljten|2017|1135|0.03 (0.02, 0.04)|17.07| |
+|2017| | |0.02 (0.01, 0.09)|14.01| |
+| |11,455| |0.03 (0.03, 0.04)|100.00| |

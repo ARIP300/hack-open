@@ -1,0 +1,57 @@
+# CONCLUSIONS:
+
+Without agreed upon rationales as to how CM should be provided and scaled, CM may actually add complexity and cost to the CBO ecosystem. A framework for investment in CM as a tool for brokering clinical-community linkages may be warranted.
+
+# CHALLENGES AND OPPORTUNITIES IN ENGAGING PRIMARY CARE PROVIDERS IN BRCA TESTING: EARLY RESULTS FROM THE BFOR STUDY
+
+Lydia E. Pace1; Nadine Tung2; Jada G. Hamilton3; Camila Gabriel4; Yeonsoo S. Lee1; Sahitya Raja1; Colby Jenkins4; Anthony J. Braswell7; Kelly Morgan3; Jeffrey Levin3; Jeremy Block3; Susan Domchek6; Katherine Nathanson6; Heather Symecko6; Beth Karlan5; Daniella Kamara7; Kenneth Offit3; Judy Garber4; Nancy L. Keating8.
+
+1Brigham and Women's Hospital, Boston, MA; 2Beth Israel Deaconess Medical Center, Boston, MA; 3Memorial Sloan Kettering Cancer Center, New York, NY; 4Dana-Farber Cancer Institute, Boston, MA; 5David Geffen School of Medicine at UCLA, Los Angeles, CA; 6Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA; 7Cedars-Sinai Medical Center, Los Angeles, CA; 8Harvard Medical School, Boston, MA. (Control ID #3182765)
+
+# BACKGROUND:
+
+Engaging primary care providers (PCPs) in genetic testing could increase access to these services. The BRCA Founder Outreach (BFOR) study offers online education and no-cost BRCA1/2 founder mutation testing to individuals of Ashkenazi Jewish descent in 4 U.S. cities, with results review and management by participants' PCPs or genetics specialists. We sought to understand participants' interest in engaging PCPs in results disclosure, PCPs' willingness to disclose results, and PCPs' attitudes about and experience with genetic testing.
+
+# METHODS:
+
+BFOR participants were asked if they wished to receive BRCA results from their PCP or BFOR-affiliated genetics specialists; negative results with no further evaluation needed were disclosed via mail. We are surveying the first 125 invited PCPs from each city about their experiences and preferences for involvement in genetic testing and the first 100 PCPs who disclose results about their disclosure experience. We used descriptive and Chi-square statistics.
+
+# RESULTS:
+
+By December 2018, of 2497 participants enrolled, 792 (33%) requested their PCP disclose results; the others requested a BFOR genetics specialist. Of 763 invitations sent to 585 unique PCPs (some PCPs had >1 patient enrolled), PCPs agreed to disclose results 45% of the time (237 PCPs). Among 471 PCPs surveyed to date, 214 (45%) have responded. Respondents were more likely than non-respondents to agree to disclose results (59% vs. 30%, p<0.001). Most respondents (91%) had been asked by patients about BRCA testing in the past year. Overall, 76% reported feeling very or somewhat well-qualified to recommend BRCA testing, 60% felt very or somewhat well-qualified to share results, and 60% noted genetic testing was or could be easily incorporated into their practice. The most frequently identified major obstacles were genetic testing costs, lack of insurance coverage for testing, and lack of counseling experience. Most PCPs (78%) were interested in further education in BRCA risk assessment and testing. Among the 68 respondents who reported declining to share results with their patients, the most common reasons were limited knowledge and belief this should be done by a specialist. In the post-disclosure survey, of 81 PCPs who disclosed positive results or negative results requiring further evaluation, 42 (53%) have responded. Most (74%) felt very comfortable sharing results; 26% felt somewhat comfortable. Among the subset who disclosed positive results (n=5), 4 felt somewhat and 1 felt very comfortable.
+
+# CONCLUSIONS:
+
+Early BFOR results suggest challenges and opportunities for engaging PCPs in genetic testing. Only one-third of participants nominated their PCP to disclose their BRCA results, and over half of those PCPs declined. PCPs described barriers to integrating genetic testing in their practice, but most who disclosed results felt comfortable doing so. Ongoing work will examine factors associated with participants' and PCPs' preferences to guide interventions to educate and support PCPs.
+
+# CHALLENGES TO ABNORMAL MAMMOGRAM FOLLOW-UP: PERSPECTIVES FROM PRIMARY CARE PROVIDERS
+
+Leah S. Karliner1; Karla Kerlikowske2; Nancy Burke3; Sarita Pathak1; Steven Gregorich1; Jennifer Livaudais-Toman1; Celia P. Kaplan1.
+
+1University of California, San Francisco, Greenwich, CT; 2University of California San Francisco, San Francisco, CA; 3UC Merced, Merced, CA. (Control ID #3186174)
+
+# BACKGROUND:
+
+Timely follow-up of an abnormal mammogram result can help avoid a delay in breast cancer diagnosis and, in turn, a more advanced cancer. Our prior research demonstrated that facilities with longer follow-up times have the expectation that the referring provider is primarily responsible for communication of abnormal results and ensuring women undergo appropriate follow-up. We set out to understand the primary care physician (PCP) perspective on communication responsibility and abnormal mammogram follow-up.
+
+# METHODS:
+
+Survey of all PCPs in San Francisco (SF) about their experiences with communication and care coordination of abnormal mammogram results and diagnostic follow-up. We used names and emails of PCPs practicing in academic, public health, and Veterans Affairs Medical Center settings combined with searches of publicly available health plan websites to identify PCPs actively practicing in SF. PCPs completed the survey online or by mail.
+
+# RESULTS:
+
+Of 588 eligible PCPs, 300 (51%) completed the survey: 64% were general internists; 33% were in private practice, 25% public safety net, 26% academic practice, and 16% staff model HMO (Kaiser or VA). Participants graduated from medical school on average 21.9 ± 11.8 years previously. PCP patient panels had a mean of 65% (range 0-100%) minority and 33% (range 0-100%) LEP patients. Only 24% of PCPs felt they were solely responsible for notifying a woman of her abnormal mammogram result and need for follow-up, 20% felt radiology was solely responsible, and 56% felt it was a shared responsibility of the PCP with radiology. This was similar with regard to perceived responsibility for notifying a woman of her radiology-guided biopsy results (33% PCP only, 47% shared PCP & radiology; 20% radiology only). Forty-four percent reported having no formal system for tracking the need for—and completion of—diagnostic testing after an abnormal mammogram. Important barriers were cited as impacting PCPs' ability to track women for follow-up: no formal tracking system (33%), competing time demands (34%), no dedicated staff to support tracking (26%). Only 25% of PCPs felt well equipped to explain to a woman what to expect during a core biopsy; 60% reported women sometimes/very often asked questions about breast biopsy that they lacked the expertise to answer. A third (31%) of PCPs found it somewhat/very difficult to discuss abnormal mammogram or biopsy results with women who have a low education level, 23% with women from a very different cultural group from their own, and 47% with non-English speaking women.
+
+# CONCLUSIONS:
+
+Our data suggest the need for 1) standardized protocols to optimally delineate responsibilities of PCPs and radiologists, and 2) health system investment in formal tracking and dedicated staff to ensure timely, equitable care for all women after an abnormal mammogram or breast biopsy. Additionally, many PCPs would benefit from education on breast biopsy and training on communication across differences.
+
+# CHANGES IN ECONOMIC AND CLINICAL OUTCOMES UNDER CMS MANDATORY BUNDLED PAYMENTS FOR JOINT REPLACEMENTS
+
+Derek A. Haas1, 2; Xiaoran Zhang1, 2; Robert S. Kaplan2, 1; Zirui Song3, 4.
+
+1Avant-garde Health, Boston, MA; 2Harvard Business School, Boston, MA; 3Harvard Medical School, Boston, MA; 4Massachusetts General Hospital, Boston, MA. (Control ID #3186135)
+
+# BACKGROUND:
+
+In 2016, CMS launched its first mandatory bundled payment model, the Comprehensive Care for Joint Replacement (CJR) model, through randomizing metropolitan statistical areas (MSAs) into the program.

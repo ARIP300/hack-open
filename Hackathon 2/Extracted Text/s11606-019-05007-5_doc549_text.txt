@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A previously healthy 54-year old man who had recently immigrated from Uganda presented with 3 weeks of pleuritic chest pain, dyspnea, and B-symptoms. He denied productive cough, high-risk sexual activity and intravenous drug use. Examination revealed a cachectic man with decreased breath sounds and dullness in the left lung fields. A chest x-ray and subsequent chest CT revealed a large left-sided pleural effusion with right mediastinal shift and hilar lymphadenopathy. He was subsequently found to be HIV positive with a CD4 count of 164. He underwent a thoracentesis with chest tube insertion and pleural fluid analysis revealed an exudate with lymphocytic predominance, negative cytology and culture, and adenosine deaminase (ADA) of 59.6 U/L (normal <9.2 U/L). A Quantiferon Gold was positive but all mycobacterial studies including AFB smear, mycobacterial cultures, and tuberculosis PCR of the pleural fluid and induced sputum were negative. Based on the clinical history, positive Quantiferon Gold, and elevated ADA, the leading diagnosis was pleural tuberculosis, but lymphoma could not be definitively excluded. Due to the technical challenges of an excisional biopsy, the decision was made to treat empirically with 4 drug anti-tubercular therapy and monitor the clinical response. While a follow-up CT scan showed resolution of the pleural effusion, there were multiple pleural-based lesions with central cavitation and persistent lymphadenopathy. Due to concern for missed malignancy, a pleural biopsy was obtained which was negative for lymphoma, Kaposi sarcoma, and bacterial, mycobacterial, or fungal infections. Pathology revealed non-caseating granulomatous inflammation. The patient has since completed 8 weeks of four-drug directly observed therapy and is currently on isoniazid and rifabutin with excellent response. He was also started on anti-retroviral therapy and currently has an undetectable viral load.
+
+# IMPACT/DISCUSSION:
+
+This case shows the complexity of diagnosing extra-pulmonary TB in the absence of positive cultures. Additionally, while ADA is an important tool for diagnosing tuberculosis when cytology and culture are negative, it is important to note that lymphoma can also cause elevated ADA values.
+
+# CONCLUSION:
+
+Extra-pulmonary TB and lymphoma are both common in immunocompromised patients and can present with similar signs and symptoms. It is important to perform a thorough work-up for such presentations to ensure timely initiation of the appropriate therapy. While tuberculosis almost always causes an elevated ADA, it is important to note that the same can be true for lymphomatous effusions, which in rare cases can exceed 250 U/L. When the diagnosis is equivocal, ADA should be interpreted with caution and a biopsy may be needed to confirm the diagnosis.
+
+# CASE:
+
+Electrocardiogram showed anterior ST-segment elevation. Emergent coronary angiography revealed diffuse 90% stenosis of proximal to mid segments of the left anterior descending coronary artery and total occlusion of the second diagonal branch. Intravascular ultrasound revealed a large intramural hematoma compressing the true lumen, consistent with spontaneous coronary artery dissection (SCAD). Primary percutaneous coronary intervention was performed with balloon angioplasty to left anterior descending artery and the second diagonal branch, resulting in good antegrade coronary flow. We placed intra-aortic balloon pump to provide hemodynamic support during cesarean section, which was successfully performed on the following day. Follow-up coronary angiogram was performed one week later, which showed almost complete resolution of intramural hematoma. Another follow-up coronary angiogram three months later showed complete resolution of intramural hematoma.
+
+# IMPACT/DISCUSSION:
+
+SCAD is defined as a non-traumatic and non-iatrogenic separation of the layers of the coronary arterial wall by which a false lumen is formed. SCAD affects women in more than 90% of cases and is most prevalent in young women. Pregnancy is one of the key risk factors of SCAD. The large majority of pregnancy-related SCAD occur in the first postpartum month, especially in the first week. Although SCAD is increasingly recognized as an important entity of myocardial infarction in young women, it remains a challenge to promptly diagnose SCAD, especially when presenting without obvious electrocardiographic changes. Prompt recognition and appropriate intervention are essential to achieve favorable maternal and child outcomes. Thus, it is important to have a high index of suspicion for SCAD when encountering a pregnant woman presenting with chest pain. The optimal management of SCAD remains undetermined. Percutaneous coronary intervention for SCAD has a significantly low procedural success rate and high rate of complications. Thus, a conservative approach is preferred. Urgent intervention may still be indicated in cases of ongoing chest pain or persistent ST-elevation.
+
+# CONCLUSION:
+
+We experienced a young pregnant woman who developed SCAD and was successfully treated with balloon angioplasty, resulting in favorable maternal and child outcomes. It is important to have a high index of suspicion for SCAD in pregnant women presenting with sudden chest pain.
+
+# TERRIBLE THORACIC TRANSIT: ACUTE KIDNEY INFARCTION DUE TO A PARADOXICAL EMBOLUS
+
+Ye Aung1; Holli T. Sadler2. 1Dell Medical School at the University of Texas Austin, Austin, TX; 2Dell Medical School, Austin, TX. (Control ID #3183360)
+
+# TEARING CHEST PAIN IN A PREGNANT WOMAN WHILE WATCHING OLYMPIC GAMES.
+
+Yu Yaegashi1; Mitsunori Iwase1; Hiroshi Miyake2. 1TOYOTA memorial hospital, Toyota, Japan; 2TOYOTA Memorial Hospital, Aichi, Japan. (Control ID #3182620)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize spontaneous coronary artery dissection as a potential cause of chest pain in pregnant women.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize clinical features and management of spontaneous coronary artery dissection.
+
+# CASE:
+
+The patient is a 34 year-old pregnant woman, non-smoker without cardiovascular risk factors. Her pregnancy had been uneventful until one day prior to her due date, when she developed sudden-onset severe "tearing" chest pain while watching the Olympic games on TV. She called emergency medical service and presented to our hospital.
+
+# LEARNING OBJECTIVE #1:
+
+Recognize unusual complications of an unprovoked Pulmonary Embolism.
+
+# CASE:
+
+The patient is a 38 year old African American man with a PMH of cocaine abuse and asthma who presented to the ED due to a witnessed episode of syncope and altered mental status. Upon arrival he was hypoxic, hypotensive and agitated. On physical exam, the Patient had clear lung sounds bilaterally and intact pulses. Severe left flank tenderness was noted. Labs were remarkable for an elevated serum creatinine of 1.3mg/dL compared to a baseline of 0.8mg/dL. Urinalysis revealed mild proteinuria and microscopic hematuria. Urine toxicology was positive for cocaine. Due to concern for pulmonary embolus, computed tomography angiogram of the chest was ordered, which showed massive bilateral PE. The patient was also found to have no perfusion of the Left Kidney. CT head was negative for acute CVA or lesion. Following fluid resuscitation the patient achieved hemodynamic stability and no thrombolysis was indicated.

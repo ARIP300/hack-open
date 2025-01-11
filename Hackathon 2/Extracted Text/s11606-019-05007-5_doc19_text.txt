@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+revealed an entirely different picture. Activity usage reflected two tiers. Patients who have Medicare utilize the application as much as patients who have commercial plans and Medicaid expansion. Despite connotations on patients who are self-pay or who have no coverage at all, these patients still use the application, with greater than 50% of those enrolled, actively using MyChart within the last calendar year.
+
+# CONCLUSIONS:
+
+As medical care becomes more immersed in web-based technologies, attention and opportunities exist for patients who traditionally were viewed as not having access nor inclination to use such technologies. Continued efforts should be maintained regarding enrollment regardless of the payor class or age.
+
+# A SCOPING LITERATURE REVIEW OF PHYSICIAN SUICIDE
+
+Sima Pendharkar; Tiffany I. Leung2; Chwen-Yuen A. Chen3. 1Mount Sinai Health System, Brooklyn, NY; 2Maastricht University, Maastricht, Netherlands; 3Stanford University, Palo Alto, CA. (Control ID #3142595)
+
+# BACKGROUND:
+
+Physician suicide is a global issue with significant consequences for workforce sustainability and for public health and disproportionately affects women physicians [1]. A clearer understanding of physician suicide is needed. A literature review would enable community learning towards preventing physician suicidal behaviors. The aim of this scoping review was to map the landscape of published research and perspectives on physician suicide.
+
+# METHODS:
+
+This scoping review was conducted following the Arksey and O'Malley framework as expanded upon and outlined within the Joanna Briggs Institute Reviewers' Manual. A broad research question was crafted by our team. The protocol was registered with PROSPERO. For the purposes of this review, the research question was broadly designed for gathering and analyzing all citations in scholarly journals which mentioned physician suicide specifically. The initial searches were executed on August 21, 2017 in Ovid MEDLINE, and October 11, 2017 in Ovid PsycINFO. Team members contributed seed articles which were analyzed by the librarian coauthor. Search terms and databases were selected and tested before the search strategy underwent a peer review process with two additional medical librarians. A subsequent sweep of the citation index, Scopus, was conducted on April 28, 2018. Inclusion criteria were English-language journal publications, including opinion/perspective publications, that focus primarily on physician suicide. Exclusion criteria were non-English or media publications. Data extraction was performed and topic annotations were applied to citations.
+
+# RESULTS:
+
+Query results totaled 1,596 citations; 348 studies passed the full-text review round. The earliest article is an editorial from 1903; more than 60% of articles were published in 2000 or later. There were 142 opinion articles (40.8%). Of the remaining 206 articles, a variety of study designs were used; 84 used a cross-sectional study design, which was most common. Authors from 37 countries were represented, although authors from the U.S. (n=51) are the largest subset. Only 13 publications described interventions. Unexpected subpopulations described included immigrant physicians, physician pilots, and physicians who experienced war either as victims (e.g. Holocaust survivors who were physicians) or as wartime medics. One investigator studied the interpersonal psychological theory of suicidal behavior in physicians, which posits three necessary and sufficient precursors to death by suicide: (1) thwarted belongingness, (2) perceived burdensomeness, and (3) acquired capability.
+
+# CONCLUSIONS:
+
+Most journal articles about physician suicide were published recently – a promising reflection of growing awareness. Limitations include excluding non-English language articles, interventions that mitigate only burnout, and other media. Further research and advocacy is needed in support of interventions specifically targeted for physician suicide prevention. [1] Leung et al. SGIM Forum 41 (9): 4-5, 14
+
+# A SINGLE CENTRE RETROSPECTIVE STUDY COMPARING POST-OPERATIVE OPIOID PRESCRIBING PRACTICES BETWEEN CAESAREAN SECTIONS AND OPEN GENERAL SURGERY PROCEDURES
+
+Tanya Girard1; Emily G. McDonald1; Natalie Dayan1; Miriam Harris1; Amira El-Messidi2; Todd C. Lee1; Sophie Gosselin2; David Fleiszer2; Andre Bonnici2; Eric Villeneuve2. 1McGill University, Montréal, QC, Canada; 2 McGill University, Montreal, QC, Canada. (Control ID #3181947)
+
+# BACKGROUND:
+
+Physician prescribing practices are contributing to the North America opioid crisis. Identifying practice variability may be an important step towards addressing the problem. The objectives of this study were to compare postoperative opioid prescribing practices between selected open abdominal and pelvic surgeries and highlight variations in practice.
+
+# METHODS:
+
+A retrospective cohort study of 927 patients who underwent a caesarean section (CS) or one of four open general surgery (GS) procedures performed between January and November 2017 at a university health centre in Montreal, Canada. Open GS procedures included appendectomy, cholecystectomy, hernia repair, and laparotomy for lysis of intra-abdominal adhesions. Post-operative opioids in daily morphine equivalent doses (MED) in hospital and at discharge were compared between CS and open GS procedures with similar expected post-operative pain and length of admission. Factors associated with the odds of receiving more than 50mg MED daily at discharge were explored via logistic regression.
+
+# RESULTS:
+
+927 patients were included; 689 women underwent a CS and 238 (180 men and 58 women) underwent an open GS procedure. Patients undergoing CS were more likely to receive higher doses of daily post-operative opioids in the hospital than GS patients and the difference was more pronounced for men than women (80mg MED (IQR 80-80) for CS vs 15 mg MED (IQR 0-60) for GS men and 45mg MED (IQR 0-90) for GS women; p&lt;0.001). At discharge, patients who underwent a CS received lower median doses of opioids than GS patients (20mg MDE (IQR 20-20) vs 45mg MDE (IQR 40-60); p&lt;0.001). The odds ratio of exceeding the Centre for Disease Control's (CDC) recommended daily maximum of 50mg of MED was 19.8 (CI 6.2-63.1) for GS men and 19.3 (CI 5.4-68.1) for GS women, with CS as the reference group.
+
+# CONCLUSIONS:
+
+In a study of post-operative opioid prescribing practices, when compared to general surgeons, obstetricians prescribed lower doses of opioids at hospital discharge and were less likely to exceed the CDC's safe dosing recommendations. Prescribing variability and discordance with recommended safe doses could be minimized by using pre-printed discharge prescriptions for given procedures.
+
+# A STUDY OF STANDARD DEVIATION OF NEXT AVAILABLE APPOINTMENTS
+
+Sumeet Brar; Michael Hopkins; David Margolius1. 1The MetroHealth System, Cleveland, OH; 2Case Western Reserve University, Cleveland, OH. (Control ID #3177863)
+
+# BACKGROUND:
+
+Days until third next available appointment is a metric that describes backlog for appointments by counting the number of days until the third next available appointment on a clinician's schedule. The metric is widely used by health care systems as a measure of access to care. Third next is considered a more reliable metric because last-minute cancellations might distort the days until the first or second next. We tested this assumption by comparing the variability over time of days until first, second, third, and fourth next available appointments.
+
+# METHODS:
+
+We collected four variables - the number of days until first, second, third, and fourth next available appointments - for clinicians over a 20-week period, in weekly increments. Clinicians were included if we had complete appointment data for all values. For clinicians who worked

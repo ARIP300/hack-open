@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# NATIVE VALVE ESCHERICHIA COLI ENDOCARDITIS IN A PATIENT WITH NEWLY DIAGNOSED SYSTEMIC LUPUS ERYTHEMATOSUS
+
+Rachel A. Sibley; Michael Rosman; Verity E. Schaye. NYU Langone Medical Center, New York, NY. (Control ID #3183518)
+
+# LEARNING OBJECTIVE #1:
+
+Identify non-HACEK gram-negative endocarditis early in its clinical course.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the morbidity and mortality of Escherichia coli endocarditis.
+
+# CASE:
+
+A 54 year-old Hispanic man with no known past medical history presented with one month of constitutional symptoms: unintentional weight loss, anorexia, fatigue, and arthralgias. On admission, he was febrile, tachycardic, and breathing comfortably on room air. The exam was otherwise significant for a thin stature with temporal wasting, thrush, a lateral tongue ulcer, a raised non-blanching erythematous macular rash on sun-exposed areas of the extremities, and erythematous papules on the hands. There were no murmurs detected on cardiac auscultation. Initial labs were significant for anemia and leukopenia. A broad differential diagnosis initially included malignancy, rheumatologic disease, and systemic infection. Work-up revealed positive anti-Smith and anti ds-DNA antibodies, C3/C4 hypocomplementemia, and a pericardial effusion on transthoracic echocardiogram (TTE). He was diagnosed with systemic lupus erythematous (SLE), and started on hydroxychloroquine and steroids with improvement. On hospital day three, blood cultures grew Escherichia coli (E. coli) in four bottles, with an unclear source with aseptic urine and no localizing symptoms. CT scans of the head, chest, abdomen, and pelvis were notable for multiple peripherally located pulmonary airspace opacities concerning for septic emboli. A TTE was negative for vegetation, but given the high clinical suspicion for endocarditis, notwithstanding the rarity of E. coli as a pathologic organism, transesophageal echocardiogram (TEE) was pursued. TEE revealed a mobile echodensity on the aortic valve consistent with vegetation. The patient completed four weeks of ceftriaxone to treat E. coli endocarditis.
+
+# IMPACT/DISCUSSION:
+
+E. coli bacteremia is common; however, due to decreased adherence of the organism to the endocardium, infective endocarditis from E. coli is rare, accounting for 0.51% of cases. Risk factors include immunocompromised states. Our patient was leukopenic from SLE. Sources of infection are often gastrointestinal and urinary. However, as in our patient, initial source is unclear in approximately half of cases. Murmur is often absent, and the disease is more common in native valves than prosthetic or degenerative valves. For these reasons, diagnosis is difficult. One study reported at least one month from onset to clinical diagnosis in 90% of patients with non-HACEK gram-negative endocarditis. However, given its high surgical intervention rate (42%), high complication rate (including heart failure and abscess), and high mortality rate of 21% (drastically higher than the 4% from HACEK gram-negative endocarditis), clinicians should maintain a high degree of suspicion to make this diagnosis early.
+
+# CONCLUSION:
+
+E. coli endocarditis is rare, occurs in immunocompromised patients, and is difficult to diagnose. However, given its high morbidity and mortality, timely recognition is critical.
+
+# NECROTIZING FASCIITIS: AN UNUSUALLY COMMON PRESENTATION
+
+Claire Drolen; Emily Sandberg. University of Pennsylvania, Philadelphia, PA. (Control ID #3181518)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize early clinical presentations of necrotizing fasciitis (NF)
+
+# LEARNING OBJECTIVE #2:
+
+Incorporate tools to assist in diagnosis of early NF
+
+# CASE:
+
+A 62-year-old man presented after a syncopal episode. He endorsed two months of weight loss, fevers and night sweats. Past medical history included atrial flutter, prostate cancer with recent brachytherapy, and a recent pulmonary embolism (PE) on Rivaroxaban. Physical exam was notable for fever, tachycardia, and bilateral pitting edema to mid-shin. Labs showed elevated NTproBNP; ECG, echocardiogram and telemetry were unrevealing. CT chest revealed a small, acute PE for which he was started on heparin. On hospital day two he developed scrotal swelling and erythema; exam revealed pitting edema without crepitus or tenderness to palpation. Scrotal ultrasound showed cellulitis for which he was started on Vancomycin and Cefepime given continued fevers. On hospital day four he developed worsening fevers, tachycardia, and increased scrotal swelling, pain and discoloration. CT pelvis showed gas throughout the scrotum and perineum. Antibiotics were changed to Vancomycin, Piperacillin-Tazobactam and Flagyl. He underwent emergent surgical debridement and was found to have a rectoprostatic fistula complicated by Necrotizing Fasciitis (NF). He was discharged one month later and is expected to make a full recovery.
+
+# IMPACT/DISCUSSION:
+
+Necrotizing fasciitis (NF) is a rare, life-threatening infection of the skin, fascia and subcutaneous tissue, with in-hospital mortality as high as 34%. It is typically polymicrobial; E. Coli and Staph species are isolated in most cases. Early recognition and debridement are major determinants of outcome, however diagnosis is often delayed due to nonspecific initial presentation. Classically NF is red, swollen, frankly necrotic, and exquisitely painful. While fulminant cases can present like this, subacute cases are often less obvious with non-specific fever, fatigue and skin changes that can be mistaken for cellulitis or dependent edema. Pathognomonic findings (bullae, crepitus) occur late and in less than 25% of patients. Localized anesthesia can replace pain if nerve damage has occurred, masking the classic pain out of proportion to exam. Existing risk tools have high diagnostic accuracy and can assist in differentiating NF from other soft tissue infections. Had we used one for our patient, we would have found a 50-75% risk of NF which may have prompted earlier CT imaging and diagnosis. Diabetes, immunocompromise, trauma and local instrumentation, such as our patient's recent brachytherapy, should serve as red flags. Cross-sectional imaging is the diagnostic study of choice; antibiotics and surgical debridement are definitive treatment.
+
+# CONCLUSION:
+
+Early, non-fulminant NF can present nonspecifically, without skin necrosis or pain out of proportion to exam. A high index of suspicion and use of diagnostic tools facilitate timely diagnosis of sub-acute NF.
+
+# NEVER TOO OLD FOR MYASTHENIA
+
+Kyle T. Jones; Roshini Pinto-Powell. Dartmouth Medical School, Hanover, NH. (Control ID #3181205)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the changing incidence of myasthenia gravis
+
+# LEARNING OBJECTIVE #2:
+
+Identify cognitive biases that result in delayed diagnosis or misdiagnosis
+
+# CASE:
+
+A 74-year-old with a history of asthma, 5 weeks post hip arthroplasty, presented to the ED with 2 days of eye-lid droop, dysarthria and shortness of breath. She noted getting winded when speaking. The rest of her review of symptoms was negative. Post-op course had been uneventful, however she began taking aspirin 3 days prior to presentation. FHx was unremarkable. Meds: aspirin, Symbicort and Albuterol. Allergic to sulfa drugs. On Exam: Afebrile, HR 83, BP 148/61, RR 22, SpO2 99%. Mild tongue swelling, left eyelid droop, mild periorbital edema. Lungs clear, no wheezes. Cranial nerves intact, mild dysarthria, normal strength in all extremities. She was thought to have angioedema and asthma exacerbation due to aspirin allergy. Flexible laryngoscopy showed no laryngeal edema. She improved with epinephrine, Benadryl, and IV solumedrol, and was discharged on a 6-day steroid taper, cetirizine.

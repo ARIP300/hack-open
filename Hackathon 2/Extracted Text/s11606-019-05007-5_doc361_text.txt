@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# LOCATION
+
+Presenting complications of large ASDs include right ventricular dilatation, tricuspid regurgitation, right heart failure, and pulmonary hypertension that can lead to right-to-left shunting. Indications for ASD closure include an embolic-appearing cryptogenic ischemic stroke and/or a large shunt (Qp:Qs ratio > 2) without pulmonary hypertension. Although his stroke was unfortunate, timely surgical correction of his ASD will prevent him from developing the more advanced complications.
+
+# CONCLUSION
+
+Superior sinus venosus is a rare form of ASD that can have unique presentations, including cryptogenic stroke. Providers should be aware of the findings that are highly suggestive of superior sinus venosus ASD on electrocardiography as it can aid in the timely diagnosis and management of this rare cardiac condition.
+
+# A SUBTLE PRESENTATION OF ADVANCED SMALL CELL LUNG CANCER
+
+Sara Vidovic; Pakhadi Buddhadev. Medical College of Wisconsin, Wauwatosa, WI. (Control ID #3181473)
+
+# LEARNING OBJECTIVE #1
+
+Recognize when to suspect ectopic Cushing's syndrome (ECS)
+
+# LEARNING OBJECTIVE #2
+
+Distingish ECS from other etiologies of Cushing's syndrome (CS)
+
+# CASE
+
+A 66-year-old woman was admitted for hypokalemia (1.6 mmol/L) with associated metabolic alkalosis and hyperglycemia. She noted a few weeks of fatigue, generalized muscle weakness, and weight loss. She was a smoker and had a past medical history of chronic obstructive pulmonary disease and hypertension. Vital signs were significant for blood pressure of 197/87 mmHg. Physical examination showed skin atrophy and large bruises on the right hip. Remainder of exam was normal. Throughout admission patient was hypertensive despite increasing doses of three blood pressure medications. She was persistently hypokalemic requiring 120 mEq potassium and 150-200 mg spironolactone daily. Renin activity and aldosterone level were normal. Adrenocorticotropic hormone (ACTH) (136.1 pg/ml), morning cortisol (99.1 ug/dl), and 24-hour urine free cortisol (11,081.1 ug) were markedly elevated as were adrenal hormones dehydroepiandrosterone-sulfate, testosterone, and androstenedione. MRI brain showed no evidence of pituitary lesion. Low dose dexamethasone suppression test was positive. CT chest, abdomen, and pelvis showed bulky necrotic mediastinal and right hilar adenopathy and possible lymphatic obstruction without discrete pulmonary mass. In the abdomen and pelvis were innumerable low-density hepatic lesions and a soft tissue nodule in the subcutaneous fat overlying the right gluteus musculature concerning for metastatic disease of unknown origin. High dose dexamethasone suppression test was positive suggesting ectopic ACTH secretion. Ultrasound-guided liver biopsy was consistent with small cell lung cancer (SCLC); salt and pepper chromatin with immunostaining positive for synaptophysin, chromogranin, and cytokeratin AE1/AE3.
+
+# IMPACT/DISCUSSION
+
+CS occurs when the body is chronically exposed to high levels of glucocorticoids. CS can be divided into primary and secondary hypercortisolism depending on whether excess cortisol is dependent on ACTH. The differential diagnoses for secondary hypercortisolism include pituitary hypersecretion of ACTH and ectopic ACTH secretion from a neuroendocrine tumor. Ectopic ACTH secretion is responsible for 10% of all CS cases. Of these, 50% are attributed to neuroendocrine lung tumors including SCLC. Although it is well known that SCLC can secrete ACTH, only up to 5% of SCLC cases are associated with ECS. As in this case, ECS may present with electrolyte disturbances and resistant hypertension rather than classic cushingoid traits like central obesity, acne, striae, facial plethora, and enlarged supraclavicular fat pads. This makes the diagnosis of ECS easy to miss, requiring high clinical suspicion. This suspicion is warranted as ECS may be the first manifestation of malignancy and is a poor prognostic factor in SCLC.
+
+# CONCLUSION
+
+Diagnosis of ECS requires high clinical suspicion ECS may be the first sign of malignancy SCLC is a common culprit of ECS
+
+# A TREATABLE MIMICKER OF METASTATIC PANCREATIC ADENOCARCINOMA
+
+John Xie; Mazen Zaarour. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184086)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the clinical features of EBV-positive DLBCL with pancreatic involvement
+
+# LEARNING OBJECTIVE #2
+
+Differentiating prognosis of EBV-positive DLBCL with pancreatic involvement from pancreatic adenocarcinoma
+
+# CASE
+
+A 62-year-old previously healthy man presented with a five-month history of worsening appetite, epigastric pain, and 10-lb weight loss. He had a 40-pack year smoking history. Labs revealed normal blood counts and liver enzymes, mildly elevated CA 19-9 at 49.7 (REF: <35.1 U/mL) and lactate dehydrogenase (LDH) level of 278 U/L (REF: <201 U/L), with normal CEA. Chest and abdominal CT revealed a 12 cm pancreatic mass, a 1.4 cm left upper lobe lung mass, numerous splenic lesions, two hypodense liver lesions, peritoneal carcinomatosis, and a large retroperitoneal mass. Given his clinical presentation, radiographic findings with peritoneal involvement, and elevated CA 19-9, the preliminary diagnosis was metastatic pancreatic adenocarcinoma. Surprisingly, biopsy of one of the liver lesions revealed Epstein-Barr virus (EBV)-positive diffuse large B cell lymphoma (DLBCL). Rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) was immediately initiated, leading to an impressive clinical response with resolution of most of the patient's symptoms after just one cycle. A PET/CT after 2 cycles of treatment showed a significant decrease in size of the pancreatic and lung masses, along with resolution of the liver and spleen lesions.
+
+# IMPACT/DISCUSSION
+
+EBV-positive DLBCL is a rare subtype of B-cell neoplasm found in immunocompetent patients usually over 50 years of age. It accounts for 8%-15% of DLBCL in the Asian population and less than 5% in the Western population. EBV-positive DLBCL is an aggressive lymphoma subtype, as roughly 80% of patients present with extra-nodal involvement, which can include the stomach, eyelid, liver, lung, female genital tract, kidney, and testis. Although EBV-positive DLBCL of the pancreas is a known entity, only one case reported with isolated pancreatic involvement was identified. Based on earlier studies, it was believed that patients with EBV-positive DLBCL had a worse clinical course and survival compared to EBV-negative cases, especially in the Asian populations. However, recent data suggests that EBV positivity does not affect survival in North American patients with DLBCL. Median overall survival was 129 vs. 143 months for the EBV-positive and negative groups, respectively. Although there is no uniformly accepted treatment for EBV-positive DLBCL, the standard treatment for DLBCL is R-CHOP and recent studies suggest a better prognosis than originally believed, especially for North American patients with EBV-positive DLBCL.
+
+# CONCLUSION
+
+Given the limited treatment options associated with metastatic pancreatic adenocarcinoma, tissue diagnosis is critical as alternative underlying pathology such as EBV associated DLBCL have a better prognosis with an appropriate chemotherapy regimen.
+
+# A TWISTED CASE OF JAUNDICE
+
+Hung Hoang; Tara Norris. Methodist Dallas Medical Center, Dallas, TX. (Control ID #3180005)
+
+# LEARNING OBJECTIVE #1
+
+Diaphragmatic hernia (DH) causing obstructive jaundice in the elderly is extremely rare, but it can occur.
+
+# LEARNING OBJECTIVE #2
+
+This condition can be managed surgically or non-surgically.
+
+# CASE
+
+A 71-year-old woman presented to the hospital after her granddaughter noticed two days of worsening jaundice. The patient reported a one-week history of fatigue, early satiety, poor appetite, nausea, and vomiting. She also noted having tea-colored urine and a 30-pound unintentional weight loss during the previous eight months. She denied history.

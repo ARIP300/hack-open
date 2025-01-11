@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+PCMH teams may be able to adopt certain IPC practices for high-risk patients, such as more frequent contact, psychosocial support, and intensive management of care transitions, but are less suited for services such as home visits and co-attending appointments. PCMH teams need full staffing, enhanced collaboration with existing home care services, and training in use of existing tools and resources to optimally manage high-risk patients.
+
+# WHAT DO PROVIDERS WANT TO KNOW ABOUT MEDICAL LEGAL PARTNERSHIP?
+
+Claire Popplewell1; Johanna Martinez2; Anthony C. Serrano3; Omolara T. Uwemedimo; Joseph Conigliaro4; Eun Ji Kim5, 6
+
+1Northwell Health, Manhasset, NY; 2Northwell Health, Lake Success, NY; 3Maurice A. Deane School of Law at Hofstra University, Forest Hills, NY; 4North Shore LIJ Health System, New Hyde Park, NY; 5Northwell Hofstra School of Medicine, Lake Success, NY; 6Northwell Health, New Hyde Park, NY. (Control ID #3170065)
+
+# BACKGROUND:
+
+Medical legal partnerships aim to address social determinants of health that require legal interventions to manage. Our healthcare system and an affiliated law school have recently partnered to create a Medical Legal Partnership (MLP) to assist our diverse patient population with various legal needs, including immigration, housing, and public benefit procurement. The MLP program was implemented in 2018 at ambulatory clinics where more than half of patients are racial/ethnic minorities with Medicaid/Medicare or who are uninsured. We conducted a qualitative study using an open-ended survey to identify providers' experience with and need for MLP.
+
+# METHODS:
+
+We created a short survey to assess medical providers' attitudes about and previous exposure to MLPs. Participants were asked to complete this short survey during a departmental Grand Rounds session. We collected information about their role in the health system (attending physician, nurse practitioner, etc.) and years they had been in practice. The survey included items about previous exposure to medical-legal partnerships, what providers would like to learn about the Medical Legal Partnership, and how the Medical Legal Partnership could help their clinical practice. A qualitative analysis was performed to identify themes that arose from participants' responses.
+
+# RESULTS:
+
+34 participants completed the survey. The majority of participants were attending physicians (n=19, 56%); other participants included residents/fellows (n=10, 29%), nurse practitioners (n=2, 6%), a student, and a pharmacist. Only one participant had previous experience with medical legal partnerships. Topics of interest about the MLP to participants included: (1) which patients were appropriate to refer, (2) what was the process to refer patients to the MLP program, and (3) what specific services were offered by the MLP. Three main themes emerged when participants were asked how the MLP would help their clinical practice: (1) assistance with immigration issues, (2) addressing social determinants of health through increased access to services, and (3) improving patient wellness.
+
+# CONCLUSIONS:
+
+Most clinical providers in our health system had no exposure to medical legal partnerships in the past but they were interested about learning more about them and what the logistics were of our newly-developing MLP program. Providers were hopeful that the MLP would be able to address social determinants of health that impact many of our patients as well as provide support to patients dealing with immigration concerns or other legal issues.
+
+# WHAT DO WOMEN IN THE UNITED STATES THINK OF ANNUAL VERSUS BIENNIAL SCREENING MAMMOGRAPHY? RESULTS OF A NATIONAL SURVEY.
+
+Mia Djulbegovic2, 3; Jessica R. Hoag1, 7; Jenerius Aminawung1, 7; Susan Busch4, 1; Xiao Xu1, 7; Kelly A. Kyanko5; Cary Gross.
+
+1Yale University6 School of Medicine, New Haven, CT; 2National Clinician Scholars Program, Yale University School of Medicine, New Haven, CT; 3Veterans Affairs Connecticut Healthcare System, West Haven, CT; 4Yale University School of Public Health, New Haven, CT; 5NYU School of Medicine, New York, NY; 6Yale School of Medicine, New Haven, CT; 7Yale Cancer Outcomes, Public Policy, and Effectiveness Research (COPPER) Center, New Haven, CT. (Control ID #3183852)
+
+# BACKGROUND:
+
+In the United States, clinical practice guidelines (CPG) provide conflicting recommendations on whether screening mammography (SM) should be annual versus biennial. We assessed whether women who receive annual SM are aware that some CPG recommend biennial SM and whether they would be willing to change from annual to biennial SM.
+
+# METHODS:
+
+This is a cross-sectional study of women aged 40-59 years with no history of breast cancer and 1 SM. Women recruited by GfK KnowledgePanel® (a survey research firm that uses probability-based sampling) participated in an online survey in 2018. Survey items assessed whether women who reported annual SM use were aware that some CPG also recommend biennial SM and if they would be willing to change to biennial SM if their doctor recommended it. Women who were unwilling to switch to biennial screening were asked why. We used multivariable logistic regression to estimate sociodemographic factors associated with 1) awareness that some CPG recommend biennial screening, and 2) willingness to change from annual to biennial SM. The model adjusted for age, race, education, income, health insurance, history of dense breasts and geographic region. We conducted all analyses in Stata using poststratification weights to generate nationally representative estimates.
+
+# RESULTS:
+
+Of the women invited to participate, 68.2% completed the survey, of whom 60.7% reported receiving SM annually. Of these women, 50.9% were aware that some CPG also recommend biennial SM, and 42.8% were unwilling to switch to biennial SM. In adjusted analysis, women who were younger (age 40-49 versus 50-59 years, OR 0.66 [95% CI 0.49, 0.88]) and those with lower levels of education versus those with graduate degrees (did not graduate high school, OR 0.36 [95% CI 0.14, 0.93]; graduated high school, OR 0.31 [95% CI 0.19, 0.50]; completed some college, OR 0.41 [95% CI 0.26, 0.66]) were significantly less likely to be aware that some CPG recommended biennial SM. However, we found no significant association between any sociodemographic factors with willingness to change from annual to biennial SM, including awareness that some CPG recommend biennial SM. The most common reasons cited by women who were unwilling to transition to biennial SM were that annual SM: is superior at detecting breast cancer (46.1%), eases their mind (22.9%), or is part of a regular health routine that they wouldn't want to change (17.8%).
+
+# CONCLUSIONS:
+
+In this nationally representative survey, the majority of women received SM annually, approximately half of whom were unaware that some CPG recommended biennial SM, and half were unwilling to adopt biennial SM even if it was recommended by their physician. Future attempts to modify the frequency of SM use may depend on an improved understanding of the beliefs that hinder willingness to change from the existing annual approach to screening.
+
+# WHAT FACTORS IMPACT PATIENT PERCEPTIONS OF PRIMARY CARE ACCESS?: QUALITATIVE ANALYSIS OF VETERAN PATIENT INTERVIEWS
+
+Susan E. Stockdale1, 3; Alicia Bergman1; Danielle Rose1; Michael McGowan1; Lisa Edwards1; A. Laurie Graaff4; Timothy Dresselhaus2.
+
+1VA GLA Healthcare System, Sepulveda, CA; 2VA San Diego Healthcare System, San Diego, CA; 3University of California, Los Angeles, CA; 4Veterans Health Administration, Gilbert, AZ. (Control ID #3179169)
+
+# BACKGROUND:
+
+The 2014 "access crisis" within the Veterans Health Administration (VHA) revealed that some administrative access measures (e.g., appointment wait time in days) may be susceptible to "gaming", and emphasis has since shifted to performance measures based on patient perception surveys. Although some research shows patient survey-based

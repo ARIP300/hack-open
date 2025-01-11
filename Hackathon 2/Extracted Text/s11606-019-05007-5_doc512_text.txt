@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# Hospital, Tokyo, Japan; 3Mount Sinai Beth Israel, Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3185470)
+
+# LEARNING OBJECTIVE #1:
+
+- Recognize that PRES can develop after RBC transfusion
+
+- Recognize that rapid correction of chronic anemia is the risk factor for developing PRES
+
+# CASE:
+
+A 46-year-old woman with iron deficiency anemia presented with headache, right hand weakness, and "difficulty texting and folding clothes," two weeks after being hospitalized for symptomatic anemia with shortness of breath and hemoglobin of 2.9 g/dL. During her previous admission, she received transfusions of 3 units of red blood cells and was discharged home with a hemoglobin level of 7.5 g/dl. She now presented to the ED with 3-days of constant, non-localized headache and 1-day history of clumsiness and weakness of the right hand. On exam, her BP was 179/78 mmHg, and there was numbness, reduced dexterity and apraxia of her right hand. Routine labs were unremarkable and her hemoglobin was 7.5 g/dl. An MRI of the brain showed multiple subcortical high-intensity lesions on bilateral anterior, parietal, and occipital lobes on T2-FLAIR images. Pregnancy test, hypercoagulable work-up, RF, ANA, and ANCA were negative. The hospital course was complicated by a brief episode of tonic convulsive seizure which self-resolved. Given her neurologic symptoms and radiologic findings, the clinical diagnosis of Posterior Reversible Encephalopathy Syndrome (PRES) secondary to blood transfusion was made. Her headache and neurological symptoms of the right hand gradually improved after starting oral calcium channel blocker. A follow-up MRI 4 weeks after discharge showed resolution of the high-intensity lesions.
+
+# IMPACT/DISCUSSION:
+
+PRES is a neurologic syndrome characterized by acute onset of headache, altered mental status, seizure, and visual disturbances, with radiographic findings of symmetrical white matter edema in the posterior cerebral hemispheres, particularly in the parieto-occipital regions. Rapid correction of anemia with transfusion is a rare cause of PRES with only 10 cases described in literature as of April 2016, according to Cevallos CA and Berman BS. The pathogenesis of PRES after transfusion remains unclear, but it has been proposed that a rapid rise in the hematocrit results in both increased blood viscosity and a loss of hypoxic vasodilation, leading to disordered cerebral autoregulation and endothelial dysfunction. Most of the cases develop from several days to 2 weeks after transfusion, and more likely to occur when the chronic anemia is rapidly corrected. Moderate hypertension as seen in this patient has been described as a complication of PRES. The prognosis is mostly benign and PRES is fully reversible within days to weeks, after removal of the inciting factor (rapid correction of hematocrit in this case) and blood pressure control with vasodilator if hypertensive.
+
+# CONCLUSION:
+
+Physicians should have a high index of suspicion for this rare but serious condition if a patient with chronic anemia develops neurological symptoms after RBC transfusion, and should avoid rapid correction of chronic anemia without hemodynamic instability.
+
+# POTASSIUM CHLORIDE AS TRIPLE THERAPY
+
+# Ammara A. Khan. Creighton University, Omaha, NE. (Control ID #3185798)
+
+# LEARNING OBJECTIVE #1:
+
+1. Diagnose acute severe metabolic alkalosis
+
+# LEARNING OBJECTIVE #2:
+
+Safely treat profound hyponatremia without sodium chloride
+
+# CASE:
+
+A 48 year old male with a past medical history of chronic pancreatitis, chronic pain and alcoholism presented with a 7 day history of vomiting and diarrhea. At the time of presentation, he was tachycardic with heart rate in 110s and hypotensive with blood pressure 90s/60s. Physical exam was notable for dry mucosal membranes, tremulousness, tangential thought processes and visual hallucinations. His metabolic panel was significant for multiple abnormalities; AKI with a creatinine of 4, severe hypochloremia with a chloride of 51, severe hyponatremia with a sodium of 118, severe hypokalemia with a potassium of 2.2, metabolic alkalosis with a bicarbonate of 40 and a coexisting high anion gap metabolic acidosis with an anion gap of 29. ABG showed metabolic alkalosis with partial respiratory compensation. His pH was 7.6 with a bicarbonate of 56 and pCO2 of 58. The patient initially received a liter of lactated ringer's in the ER and his sodium began to overcorrect. His IV fluids were discontinued, and he was placed on a continuous Potassium chloride infusion for the next 24 hours by nephrology. The patient's ketones were metabolized once he received dextrose, and his anion gap began to narrow. With volume repletion and cessation of vomiting, his renal function began to improve as well as his alkalosis. His sodium, as well, appropriately corrected over 48 hours.
+
+# IMPACT/DISCUSSION:
+
+Our patient developed a pre-renal AKI due to persistent GI losses causing dehydration. Reduced blood flow to the kidneys led to secondary hyperaldosteronism, causing further retention of bicarbonate and excretion of hydrogen, potassium and chloride. Despite the nephron's attempts to retain sodium the increased ADH led to a relative excess of water as compared to sodium leading to a relative hyponatremia. Simultaneously the patient had HAGMA due to lactic acidosis and starvation ketosis. Metabolic alkalosis (MA) is a relatively common, although rarely severe disorder, characterized by elevation in body pH secondary to elevation of plasma bicarbonate. MA is associated with life threatening complications like arrhythmias due to electrolyte disorders and tissue hypoxia from compensatory respiratory acidosis. MA can lead to hypokalemia, hypernatremia and hypocalcemia. Several studies have shown that mortality with MA increases proportionate to the pH: 41% with pH 7.55 to 7.56, 47% with pH 7.57 to 7.59, 65% with pH 7.6 to 7.64, and 80% with pH 7.65 to 7.7. Our patient with a pH of 7.6 had an expected mortality rate of 65%.
+
+# CONCLUSION:
+
+In the setting of acute kidney injury, metabolic alkalosis can be severe enough to cause life threatening complications. Secondary hyperaldosteronism due to profound GI fluid loss can complicate acute kidney injury. Metabolic alkalosis, profound hypo-osmolar hyponatremia and hypochloremia can be safely treated with potassium chloride.
+
+# PREMATURE CLOSURE IN CLINICAL DECISION MAKING:
+
+# A CLASSIC PRESENTATION OF LYMPHOMA IS AN UNUSUAL CASE OF DABSKA TUMOUR
+
+Hoang-long Huynh 2; Christine Chan 2; Doris Zavaro 1; Amarpreet S. Bains 2; Sheetal Desai-Oghra 3; Marwa Moussa 1. 1NYU Langone, Staten Island, NY; 2NYU Langone Health, Brooklyn, NY; 3NYU, Brooklyn, NY. (Control ID #3183224)
+
+# LEARNING OBJECTIVE #1:
+
+Avoid premature closure when a patient presents with classic lymphoma symptoms. Our case was given a diagnosis of lymphoma by the emergency department and the hematologist oncologist consulted on the case. While the first impression was lymphoma, there is a very rare, locally invasive neoplasm of the lymphatic vascular origin called papillary intralymphatic angioendothelioma (PILA), also referred to as Dabska tumor. Recognize that although PILA commonly presents as a slowly growing, asymptomatic (without B symptoms), violaceous patch or nodule, arising from a preexisting lymphatic or vascular anomaly that occurs typically in young adults, it may also affect the elderly and present with typical B symptoms.
+
+# CASE:
+
+A 36 year-old otherwise healthy female presented with six days of acute flu-like symptoms, myalgias, persistent fever and chills associated with abdominal bloating and vomiting for three days. Physical exam was notable for temperature of 103 F, sinus tachycardia and mild tenderness at the left upper quadrant on deep palpation. Labs were notable for a normal WBC count, mildly elevated alkaline phosphatase and total bilirubin. The flu swab was negative. All infectious workup including a quantiferon-TB gold test was negative. The Chest CT showed confluent 9 x 5 cm anterior mediastinal and 2 x 2 cm sub carinal lymphadenopathy extending to the

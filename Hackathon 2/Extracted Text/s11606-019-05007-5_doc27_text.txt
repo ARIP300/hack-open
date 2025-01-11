@@ -1,0 +1,56 @@
+# ABSTRACTS
+
+# AIMING FOR EQUITY: EXPLORING PATIENT PREFERENCES FOR ASSISTANCE WITH SOCIAL DETERMINANT OF HEALTH (SDOH) BARRIERS IN PATIENTS WITH UNCONTROLLED TYPE 2 INSULIN-DEPENDENT DIABETES (IDDM) SEEKING CARE AT A SAFETY-NET HOSPITAL
+
+Natalie K. Levy1; Agnes Park1; Daniela Solis; Binhuan Wang3; Aisha Langford3; Lu Hu2; Erin Rogers4. 1NYU School of Medicine, Bellevue Hospital, New York, NY; 2New York University Langone Medical Center, New York, NY; 3New York University, New York, NY; 4NYU School of Medicine, New York, NY. (Control ID #3180675)
+
+# BACKGROUND:
+
+Health equity can broadly be defined as giving people the opportunities and resources needed to maximize health regardless of socially determined circumstances. SDoH are economic and social conditions that lead to differences in health status. We practice medicine at a mission driven safety-net hospital and provide care to patients with uncontrolled type 2 IDDM. Understanding not only these patients' SDoH barriers, but also their preferences for assistance, is the first step in providing equitable help.
+
+# METHODS:
+
+We used surveys and interviews to learn about 3 themes: SDoH barriers that impacted the ability to care for one's diabetes, desirable service features of any assistance program, and the types of services patients feel are needed.
+
+# RESULTS:
+
+We learned that 84% of patients had >1 barrier to health care access, 54% were unable to pay for >1 essential item when it was needed, 53% reported >1 barrier in their built environment, 47% reported >1 issue with health literacy, and 37% shared that they only saw or talked to someone that they cared about or felt close to <2 times per week. In the process of defining SDoH barriers, we also learned about unhealthy behavior patterns: 69% of patients have inadequate fruit and vegetable consumption, 57% get no leisure-time physical activity, 48% sometimes or often miss a day of checking their blood sugar, 35% sometimes or often miss doses of their medications and 30% are unable to follow up with their doctor in the time frame they are given.
+
+# CONCLUSIONS:
+
+Patients with uncontrolled type 2 IDDM at our safety-net hospital have significant SDoH barriers, multiple service feature preferences, and are interested in programs currently available and under development. Understanding patient preferences for assistance is a key step in creating solutions that provide equity for underserved patients in need.
+
+# ALL-CAUSE MORTALITY AND NEUROLOGICAL OUTCOMES OF TARGETED TEMPERATURE MANAGEMENT AFTER CARDIAC ARREST: META-ANALYSIS
+
+Mohammed Abdalla1; Abdelnasir Mohamed1; Wiam Mohamed2; Khlwd Khtab2. 1Saint Francis Hospital, Evanston, IL; 2University of Khartoum, Khartoum, Sudan. (Control ID #3185541)
+
+# BACKGROUND:
+
+Cardiac arrest carries a high mortality and morbidity. Different studies showed conflicting data regarding outcomes of targeted temperature management (TTM) for cardiac arrest. The purpose of this meta-analysis is to systematically determine the effect of TTM on all-cause mortality and neurological outcomes post cardiac arrest.
+
+# METHODS:
+
+We conducted a systematic search for randomized controlled trials in Pubmed, Cochrane & ScienceDirect. Primary outcomes were neurological outcome and all-cause mortality.
+
+# RESULTS:
+
+Nine randomized controlled trials utilizing data for in-hospital and out-of-hospital cardiac arrest were selected for the meta-analysis. Number of patients included was 1,592. Mortality was lower in targeted temperature management group (OR 0.637, 95% CI 0.436-0.93, p-value 0.019, I2=44.78%, n=1,592). These results were statistically significant. Therapeutic hypothermia group also demonstrated reduction with regard to poor neurological outcomes (OR 0.582, 95% CI 0.363-931, p-value 0.024, I2=56.79%, n=1567). We conducted subgroup analysis after we excluded in-hospital cardiac arrest patients and results showed statistically significant reduction in poor neurological outcomes (OR 0.562, 95% CI 0.331-0.955, p-value 0.033, I2=61.78%, n=1480) and also showed mortality reduction in out-of-hospital cardiac arrest (OR 0.674, 95% CI 0.454-999, p-value 0.049, I2=43.8%, n=1,505).
+
+# CONCLUSIONS:
+
+Targeted temperature management after cardiac arrest may be associated with improvement in all-cause mortality and reduction in poor neurological outcome.
+
+# Study name
+
+|Statistics for each study|Mortality Total|Odds ratio and 95% CE|
+|---|---|---|
+|Bernard et al 2002|0.245|0.350|
+|Bernard et al 1997| | |
+|HACA 2002| | |
+|Hachimi-Idrissi et al 2005|0.563|0.126|
+|Hachimi-Idrissi et al 2001|0.333|0.159|
+|Laurent et al 2015|1.753|0.381|
+|Look et al 2018|0.409|1.056|
+|Nielsen et al 2013|1.023|0.792|
+|Tiainen et al 2007|0.524|0.182|
+| |0.637|0.01|

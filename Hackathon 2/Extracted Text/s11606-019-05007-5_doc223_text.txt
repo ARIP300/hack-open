@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Predictors of Super-Utilization in Medicaid Patients
+
+Mental health condition, chronic pain, active cancer, high Charlson comorbidity score, alcohol use disorder, and drug use disorder (Figure 1a). Among first-year super-utilizers, chronic pain, 2+ Charlson comorbidities, and schizophrenia were associated with second year super-utilization in adjusted models (Figure 1b).
+
+# CONCLUSIONS:
+
+Diagnoses of mental health conditions, substance use and other comorbid medical conditions at enrollment for Medicaid patients can predict super-utilization over the first year. Among super-utilizers, only patients with schizophrenia, chronic pain and comorbid medical illness showed significantly increased odds of long-term super-utilization over the second year. Focusing similar interventions on super-utilizer patients with risk factors for long-term utilization identified in this study could lead to improved quality and decrease of avoidable utilization.
+
+# Predictors of Mortality in Patients Treated with Buprenorphine for Opioid Use Disorder
+
+Danielle R. Fine; Yuchiao Chang; Virginia Triant; Travis P. Baggett; Joshua Metlay. Massachusetts General Hospital, Boston, MA. (Control ID #3179036)
+
+# BACKGROUND:
+
+Opioid replacement therapy (ORT) has been shown to reduce mortality in patients with opioid use disorder (OUD), yet mortality in those receiving ORT remains higher than in the general population. While several studies have evaluated risk factors associated with mortality in patients treated with methadone, there is limited research evaluating individuals treated with buprenorphine. The objective of this study was to identify risk factors for mortality in patients treated with buprenorphine for OUD.
+
+# METHODS:
+
+We conducted a retrospective cohort study utilizing a centralized clinical data registry within a multi-hospital health system in Boston, MA to identify adult (≥ 18 years) patients who were prescribed 2 consecutive buprenorphine prescriptions from January 1, 2007 to December 31, 2017. We abstracted baseline demographic, socioeconomic, and clinical characteristics from the clinical data registry. The primary outcome was all-cause mortality occurring by October 31, 2018. We identified deaths by linking the clinical data registry to both the National Death Index and the Massachusetts Registry of Vital Records and Statistics. We performed multivariable Cox regression to identify baseline characteristics independently associated with all-cause mortality.
+
+# RESULTS:
+
+Of the 5,951 patients prescribed 2 consecutive buprenorphine prescriptions, the majority were white (80.7%), male (59.7%), with a mean age of 38.2 years at study entry. The all-cause mortality rate was 2.24 deaths per 100 person years. Baseline characteristics independently associated with an increased risk of all-cause mortality were: age (adjusted hazard ratio [aHR]=1.25 per ten years of age; 95% confidence interval [CI]=1.17, 1.33), male gender (aHR=1.34; 95% CI=1.12, 1.60), congestive heart failure (aHR=1.92; 95% CI=1.49, 2.47), pulmonary disease (aHR=1.23; 95% CI=1.02, 1.47), hepatitis C (aHR=1.60; 95% CI=1.28, 2.01), chronic kidney disease (aHR=2.12; 95% CI=1.17, 3.83), malignancy (aHR=1.31; 95% CI=1.03, 1.68), and a concurrent opioid prescription within 90 days of entering the study (aHR=1.28; 95% CI=1.07, 1.53). In addition, patients initially treated with buprenorphine as inpatients (vs. outpatients) had an independently increased risk of death (aHR=1.44; 95% CI=1.20, 1.74). Similarly, patients who entered the study from 2014-2015 (aHR=1.48; 95% CI=1.09, 2.01) and from 2016-2017 (aHR=1.70; 95% CI=1.20, 2.41) had an independently increased risk of death compared to those who entered from 2007-2009.
+
+# CONCLUSIONS:
+
+In a large cohort of patients with OUD treated with buprenorphine, older age, multiple medical comorbidities, a concurrent opioid prescription, and initial treatment as an inpatient were independently associated with mortality. Consistent with trends in national opioid-related deaths, mortality in our cohort was significantly higher from 2014 to 2017. Clinicians should be aware of these risk factors when treating patients with buprenorphine and take steps to mitigate risk in this vulnerable population.
+
+# Preliminary Findings from the Hispanic Secondary Stroke Prevention Initiative (HISSPI)
+
+Olveen Carrasquillo1; Jose G. Romano2; ChuanHui Dong2; Sonjia Kenya1; Stuti Dang. 1University of Miami Miller School of Medicine, Miami, FL; 2University of Miami, Miami, FL. (Control ID #3186396)
+
+# BACKGROUND:
+
+Latinos face a disproportionate stroke burden and are less likely to have stroke risk factors under adequate control. The objective of this randomized controlled trial is to evaluate the effectiveness of a Community Health Worker (CHW) intervention among Latino patients at risk of recurrent stroke.
+
+# METHODS:
+
+This is a randomized clinical trial of 200 Latino stroke patients in South Florida who had had a stroke within the last 5 years and were ambulatory (MRS ≤3). Participants randomized into the CHW intervention receive health education, health care navigation and social services assistance through home visits and phone calls. Participants also receive daily text messages and are asked to send CHWs their daily home blood pressure readings. The primary outcome is change in systolic blood pressure at 12 months as assessed by trained RA using an automated cuff. Other secondary outcomes include changes in LDL, A1C and adherence to antithrombotic/antiplatelet medications.
+
+# RESULTS:
+
+Baseline characteristics were similar with respect to age (61±19.6 yrs), gender (68% male), proportion having Medicaid (44%), BMI (28.1±15.0) and baseline BP (127±118 mmHg). Intervention participants were more likely to have not completed high school (41% versus 28%). On average over one year, intervention participants received a mean of 7.7 home visits and 31.2 phone calls. Tabulated data on CHW activities showed the majority of CHWs interventions were focused on assistance with social service needs and patient navigation. 68% of patients in the intervention group agreed to receive text messages, and of those, 42% responded to at least 50% of their daily text messages. In intention to treat analysis, at one year, of the first 131 enrolled participants, mean SBP was 7.7±13.5 lower in the intervention group (p=0.02) and DBP was 5.0±1.9 mmHg lower (p=0.01). Adjusting for age, gender and baseline BP yielded similar results (SBP 6.4 mmHg and DBP 3.1 lower, P=0.04 and 0.03, respectively). At baseline over 50% of participants had an A1c under 6.5% and LDL under 100 mg/dl. There were no changes in these two outcomes at one year.
+
+# CONCLUSIONS:
+
+HISPPI adds to the existing body of literature showing CHWs are an evidence-based approach to improving health outcomes among minority and underserved populations.
+
+# Prep RRT: Using the Hospital as a Site to Identify, Educate and Refer Hospitalized Minority Patients with Advanced CKD
+
+Milda R. Saunders2; Akilah King2; Eric Robinson1; Monica E. Peek3. 1University of Chicago Medical Center, Chicago, IL; 2University of Chicago, Chicago, IL; 3The University of Chicago, Chicago, IL. (Control ID #3186059)
+
+# BACKGROUND:
+
+Education for patients with advanced chronic kidney disease (CKD) delays progression to ESRD and improves outcomes in renal replacement therapy (RRT) selection. Yet many minority patients face barriers in receiving pre-ESRD education. The hospital is an important site for patient education and linkage to care for patients with advanced CKD. Over 62% of patients are hospitalized in the year prior to dialysis initiation, and the hospitalization rate rises sharply in the three months prior to dialysis initiation. Thus, we developed and implemented an in-person education intervention for hospitalized African American patients with advanced CKD.
+
+# METHODS:
+
+Our pilot intervention, the Patient Referral and Education Program prior to Renal Replacement Therapy (PREP-RRT), was developed for hospitalized African American patients and was implemented at a minority-serving academic medical center where the inpatient general medicine population is more than 80% African American. We included hospitalized general medicine patients aged 18-75 who self-identified as African American and who had an estimated glomerular filtration rate (eGFR) <45 mL/min/1.73 m². Participants were recruited through the...

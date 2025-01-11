@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical manifestations and diagnosis of thrombocytopenia
+
+# LEARNING OBJECTIVE #2:
+
+Understand the approach to adult with unexplained thrombocytopenia
+
+# CASE:
+
+33 year-old female with past medical history of bipolar disorder on lithium and buproprion presented with one month of petechia rash evolving into ecchymoses without known trauma and several days of bleeding gums. On admission, CBC showed WBC 8.1, hemoglobin/hematocrit 11.6/33.5, and platelet 11. Patient was started on dexamethasone and later switched to high dose 1mg/kg prednisone based on working diagnosis of immune mediated thrombocytopenia. Bupropion was discontinued because of its implication in platelet antibody production and subsequent thrombocytopenia. Platelet did not improve with steroid; therefore a course of 5 days of IVIG-Privigen was started. Patient had intermittent epitaxis requiring transfusions. She also experienced menorhagia and was started on medroxyprogesterone acetate. Her platelet remained low, and she received one dose of romiplostim. Her hospital course was complicated with acute intracranial hemorrhage along tentorium and posterior interhemispheric fissure likely subdural in location. Given the subdural hemotoma, patient was given one dose of rituximab. Bone marrow biopsy was performed. In the interim, she became agitated and not directable concerning for side effect of steroid and cessation of buproprion. She was also found to have emphysematous cystitis and Escherichia coli bacteremia that might have contributed to the thrombocytopenia. Pathology from bone marrow was consistent with metastasis from breast cancer negative for progesterone, estrogen, and HER2/neu. Patient was started on chemotherapy of gemcitabine and carboplatin and steroid was stopped.
+
+# IMPACT/DISCUSSION:
+
+The case highlights the importance of recognizing uncommon cause of thrombocytopenia. On presentation, patient was severe thrombocytopenic with platelet about 11,000. Even though, thrombocytopenia is most often due immune mediated in relatively young and healthy individuals, alternative explanations should be investigated when the platelet does not improve with steroid or IVIG, which are considered first-line treatments. Patient's hospital course was complicated by acute intracranial hemorrhage, which is a rare, but can have devastating consequences. Therefore, any new headache in patients with severe thrombocytopenia should warrant a thorough neurological exam and likely an immediate CT head to rule out bleeding.
+
+# CONCLUSION:
+
+-Evaluate for wide range of explanations in patients with thrombocytopenia
+
+-Perform bone marrow biopsy in patients with persistent anemia and thrombocytopenia
+
+# HIDE AND GO SEEK: A CASE OF VANCOMYCIN-RESISTANT ENTEROCOCCUS IN THE BONE MARROW
+
+Joannie M. Ivory1; Khadeeja Ashai1; Jennifer Schmidt2. 1Saint Louis University School of Medicine, St. Louis, MO; 2Saint Louis University, Saint Louis, MO. (Control ID #3179388)
+
+# LEARNING OBJECTIVE #1:
+
+Describe a case of VRE isolated in the bone marrow of a fungemic patient
+
+# LEARNING OBJECTIVE #2:
+
+Recognize VRE in the bone marrow as a potential cause of fever of unknown origin
+
+# CASE:
+
+We present a 67-year-old woman with history of recurrent urinary tract infections (UTI) initially admitted to the intensive care unit (ICU) with sepsis secondary to Escherichia coli (E. coli). She completed a 14-day course of ceftriaxone for E. coli bacteremia. Despite adequate treatment, her cognitive function declined. The patient was somnolent, less talkative, stopped following commands, and often had a blank stare. Repeat blood cultures from hospital day six turned positive for Candida glabrata after five days. The patient was started on micafungin; she remained febrile without improvement in mental status. Subsequent blood cultures were negative. Due to her prolonged fever the team began a workup for fever of unknown origin (FUO) including evaluation for encephalitis, pulmonary, abdominal and pelvic infection sources, and malignancy. A left ureteral lesion (unable to biopsy due to active infection), was concerning for possible malignancy vs fungal ball. In addition, she was neutropenic with a white cell count of 3,200 per microliter, so we obtained a bone marrow biopsy. Bone marrow culture grew Vancomycin-resistant Enterococcus (VRE) at 11 hours. Once we obtained the bone marrow results, we immediately started daptomycin and patient fever resolved within 24 hours of first dose, along with improvement in mental status.
+
+# IMPACT/DISCUSSION:
+
+VRE emerged as an organism of importance in the 1980s, largely due to its prevalence as a hospital-acquired infection. It is most commonly found in the gastrointestinal tract, as well as the genitourinary tract, skin, and oral cavity. It can also cause bloodstream infection (i.e. bacteremia). The factors most associated with a high risk of VRE bacteremia include bone marrow and solid organ transplants (due to immunosuppression), cancer, prior antibiotic exposure and ICU admission. Healthy individuals are at low risk of VRE infection; however, healthy individuals can spread disease to those who are critically ill through contact or contaminated objects. In the hospital, VRE accounts for ~35.5% of enterococcal infections, making it the second most common nosocomial infection in the United States. VRE bacteremia is typically treated with daptomycin or linezolid, with the former being preferred due to its bactericidal nature and low drug-to-drug interactions.
+
+# CONCLUSION:
+
+On review of the literature, there are no cases reported of VRE being isolated from the bone marrow of a non-transplant patient. However, clinicians should be aware of this organism's affinity for hematopoietic tissue. The work up for FUO can include a bone marrow biopsy, but does not always lead to a diagnosis. However, it is helpful when clinicians suspect the source of fever is malignancy, as it can detect limited production of cell lines, or even yield a source of infection.
+
+# HIDING AMONGST THE RASHES—A CASE OF ECZEMA HERPETICUM IN A PATIENT WITH ACTIVE BENIGN FAMILIAL PEMPHIGUS
+
+Rachael A. Gordon1; Rebecca E. Mancoll2. 1University of Pittsburgh, Pittsburgh, PA; 2UPMC, Pittsburgh, PA. (Control ID #3170197)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize eczema herpeticum in adults with underlying dermatological disorders.
+
+# CASE:
+
+A 75-year-old man with a history of benign familial pemphigus presented with a diffuse rash and fever. Eight days prior to admission, the patient developed pruritic, erythematous lesions on his genitals and inguinal folds, which he attributed to a benign familial pemphigus exacerbation. He applied topical clotrimazole/betamethasone dipropionate without improvement. Three days later, he developed a blistering rash over his right eye and mouth, along with worsening crusting plaques on his neck. The patient sought care at a local ED. He was given one dose of IV steroids and discharged on 40mg of prednisone for a presumed flare of his chronic disease. At follow-up with his PCP, he had a fever of 102.5°F and was referred back to the ED. There, his WBC was 8.5, with 80.5% neutrophil predominance, but laboratory studies were otherwise unremarkable. Blood and urine cultures were obtained. He received ampicillin/sulbactam and vancomycin for presumed bacterial superinfection prior to admission. On arrival, he reported bilateral blurry vision, headache, nausea, and diarrhea. Physical exam was notable for multiple small ulcers under the tongue, buccal mucosa, and soft palate with tender, erythematous, crusted plaques over his head, neck, and groin. Vesicular lesions with red bases were superimposed on the aforementioned lesions. Ophthalmological exam was unremarkable. He was started on IV acyclovir due to concerns for disseminated varicella (VZV) and continued on both antibiotics for possible bacterial superinfection. Blood and urine cultures remained negative. PCR of unroofed blisters at two different sites tested positive for herpes simplex virus (HSV)-1, suggesting a diagnosis of eczema herpeticum (EH). Antibiotics were discontinued on hospital day three. He was discharged on hospital day eight on valacyclovir to complete a total of 14 days of therapy.

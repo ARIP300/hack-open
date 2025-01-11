@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# Family Education on Opioid Overdose and Use/Implementation of Naloxone
+
+HBPC patients actively prescribed opiates were educated on the above by their assigned nurses. Once the education was complete, an intranasal naloxone kit was mailed to the patient's home (at the time of the project, there was no active patient need for another delivery system).
+
+# Measures of Success
+
+15 trainings were completed out of 22 eligible patients. Five trainings were unable to be completed due to external factors: opiates weaned off/naloxone no longer indicated (1), patient discharged from program for various reasons prior to training able to be completed (4). Two trainings were not completed by staff despite requests/reminders. This intervention was successful in increasing the amount of naloxone training and opioid overdose education. This, in turn, increases the safety of our urban and rural home-bound Veterans who are treated with chronic opioid therapy.
+
+# Findings to Date
+
+Naloxone has not been used and/or needed in our home based primary care patient population as of yet. Patients and their family/friends are interested in hearing about opioid overdose and what they can do. Many have already heard overdose and naloxone in the news given the current opioid epidemic.
+
+# Key Lessons for Dissemination
+
+Home bound Veterans do not always have the ability to come to a facility in order to obtain training and education. It is important to develop sustainable programs to "meet patients where they are" in order to best serve their needs.
+
+# Implementation of Nurse Driven Clinical Decision Support to Improve Primary Care Management of Sore Throat
+
+David Feldstein1; Linda S. Park2; Paul Smith3; Joseph Palmisano7; Rachel Hess; Simon Jones5; Sara K. Chokshi; Thomas McGinn; Devin M.46 Mann6. 1University of Wisconsin School of Medicine and Public Health, Madison, WI; 2University of Wisconsin Madison, Madison, WI; 3University of Wisconsin-Madison, Oregon, WI; 4University of Utah, Salt Lake City, UT; 5NYU, NY, NY; 6NYU School of Medicine, New York, NY; 7Boston University, Boston, MA; 8Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY. (Control ID #3179759)
+
+# Statement of Problem or Question
+
+Underutilization of clinical prediction rules and poor uptake of provider-oriented clinical decision support (CDS) has contributed to overuse of antibiotics for sore throat.
+
+# Objectives of Program/Intervention
+
+1. Adapt CDS for registered nurses (RNs) to evaluate and treat patients with sore throat
+2. Demonstrate the feasibility of RN visits using CDS to evaluate and treat patients with sore throat
+
+# Description of Program/Intervention
+
+We performed a 12-week pilot study to evaluate the feasibility of RN visits using an integrated clinical prediction rule (iCPR) tool to determine patient risk for strep throat and provide appropriate treatment at a family medicine clinic in a Midwest academic healthcare system. iCPR, originally developed for use by primary care physicians (PCPs), includes a risk calculator using Centor strep throat criteria and ordersets based on patient's risk for strep throat: education for low-risk, testing for intermediate-risk, and testing or antibiotics for high-risk. To adapt the process for RN visits, we developed triage protocols so appropriate patients received nurse visits, very low risk received education and more complex patients received provider visits. No major changes were made to the risk calculator or ordersets. Four RNs, with 2-24 years of experience, received a 10-minute online training session on sore throat evaluation followed by a 45-minute in-person training on physical examination and iCPR use. RNs triaged patients by phone and conducted RN visits using iCPR and following orderset recommendations. RNs could transition to a PCP visit if they were uncomfortable evaluating the patient.
+
+# Measures of Success
+
+Electronic health record data was used to determine the number of nurse visits, frequency of tool use and antibiotic and diagnostic test ordering. RNs completed a self-efficacy survey prior to training and 8-weeks after implementation. At 12 weeks, we interviewed RNs to understand barriers and facilitators to using the tool.
+
+# Findings to Date
+
+162 triage calls for sore throat resulted in 77(48%) patients with RN-only visits, 45(28%) with provider visits, 38(23%) with no visit. Only 2 RN visits (<3%) converted to provider visit due to patient complexity. RNs completed the risk calculator for 99% of visits and followed recommendations in all cases except for ordering antibiotics in 1 high-risk patient with a negative rapid strep. RN confidence in their ability to evaluate and treat a patient with sore throat was 85 (SD 5.8) (0 cannot do at all; 100 highly certain I can do) prior to training and 97.5 (SD 5.0) at 8-weeks. RNs felt the tool decreased provider visits and strep testing in patients. RN's also felt that the tool increased patient and RN satisfaction.
+
+# Key Lessons for Dissemination
+
+This pilot study demonstrates that RNs can use CDS to appropriately triage, evaluate and treat acute low-complexity sore throat patients. Implementation of an RN-driven iCPR tool shows promise to reduce inappropriate antibiotic prescribing and represents a potential model for expanding RN practice using CDS.
+
+# Implementation Strategies to Increase Use of Community-Based Diabetes Prevention Programs by Primary Care Patients at an Urban Safety-Net Hospital
+
+Jonathan Berz1; Lisa M. Quintiliani2; Ve Truong1; Jennifer Murillo3; Karen E. Lasser1. 1Boston Medical Center, Boston, MA; 2Boston University, Boston, MA; 3Boston Medical Center, Boston, MA, MA. (Control ID #3180276)
+
+# Statement of Problem or Question
+
+Primary care practices refer few patients with pre-diabetes to diabetes prevention programs (DPP), and few have systems in place to identify such patients. Little is known about how to implement such systems of care among primary-care practices serving high-risk populations.
+
+# Objectives of Program/Intervention
+
+1. Assess the feasibility of implementing a system of identification and referral of patients with pre-diabetes to a community-based YMCA DPP.
+2. Compare effectiveness of 3 implementation strategies to link patients with pre-diabetes to DPPs by comparing frequency of referral and DPP completion.

@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+Little is known about the situations that result in moral distress among medical students and its impact. The literature is silent on the response to medical students' moral distress. Deepening our understanding of the causes, impact and response to moral distress among medical students is imperative to promote student wellness.
+
+# A TRANSFORMATIVE APPROACH: MOTIVATIONAL INTERVIEWING CURRICULUM IMPROVES PATIENTS' HEALTHY BEHAVIORS WHILE ENHANCING LEARNING
+
+Chavon Onumah 1 ; Mihir Patel 2 ; Matthew Mintz 1 ; Namarik Alenezy 3 .
+
+1 George Washington University, Washington, DC; 2 George Washington University, Washington, MD; 3 George Washington University SMHS, Washington, DC. (Control ID #3184308)
+
+# BACKGROUND:
+
+Modifiable risk behaviors account for a considerable amount of morbidity and mortality. Motivational interviewing is a patient-centered method of guiding patients to modify health behaviors that can help address health disparities. As few as one MI session may be effective in enhancing readiness to change and promoting action towards change. MI curricula is being implemented in medical training, however, data regarding curricular outcomes is limited to knowledge and confidence gained by students through the use of standardized patients and role-play exercises. Data is lacking on the student experience with MI curricula involving live patients and patient outcomes with one student-led MI session.
+
+# METHODS:
+
+Using Kolb's Experiential Learning Cycle as a Model, a 4-part MI curriculum, "Promoting Healthy Behaviors," was implemented in our longitudinal primary care clerkship to enhance learning in motivational interviewing. The curriculum includes self-directed learning, small-group exercises, standardized patient practice, AND a real-life clinical intervention (medication adherence, lifestyle modification, or substance cessation) with patient follow-up and reflection. The curricular initiative was implemented as a core requirement for all clinical clerkship students (N=155). Students completed anonymous surveys regarding their experience with the project and their respective patient's goal progress at the time of follow-up. Data was analyzed via quantitative and qualitative methods. Three faculty members coded qualitative responses independently through open coding. Disagreement was resolved by discussion and data recoded by a final coding scheme. The authors discussed the coded data to arrive at a final set of themes.
+
+# RESULTS:
+
+78% of patients reported progress towards their self-directed health behavioral change goal established in the student-led MI encounter at 4 to 6 weeks post-encounter. From student reflections, the following themes across the knowledge, skills, and attitudes learning domains emerged: Meeting patients "where they are at" on the Stages of Change scale is key in promoting change. Behavioral change is difficult and takes considerable support and follow-up. Incremental changes, tapping into internal motivation, and addressing barriers aid in success. Motivational interviewing is an impactful way to promote healthy behaviors and important skill to learn.
+
+# CONCLUSIONS:
+
+The Promoting Healthy Behaviors project is an effective method of enhancing multi-dimensional medical student learning in motivational interviewing and engaging patients in behavior change and health promotion. A clinical intervention with follow-up helped students appreciate their potential impact, recognize the difficulties patients experience in moving towards behavioral change, and provided "immediate applicability" for skills learned through the in-class and standardized patient exercises. The high rate of patients reporting successful goal progress is encouraging, however, more outcome data is warranted.
+
+# ACCEPTABILITY OF SOCIAL RISK SCREENING TO PATIENTS AND CAREGIVERS
+
+Emilia De Marchis 1 ; Danielle Hessler 1 ; Nancy E. Adler 1 ; Elena Byhoff 2 ; Alicia Cohen 3 ; Kelly M. Doran 4 ; Stephanie Ettinger de Cuba 5 ; Eric Fleegler 6 ; Nicholas Gavin 10 ; Amy G. Huebschmann 7 ; Stacy T. Lindau 8 ; Maria C. Raven 1 ; Elizabeth L. Tung 8 ; Caroline Fichtenberg 1 ; Susan Jepson 11 ; Wendy Johnson 12 ; Cara C. Lewis 13 ; Eduardo Ochoa 14 ; Ardis L. Olson 15 ; Aric Prather 1 ; Megan Sandel 5 ; Richard Sheward 16 ; Laura M. Gottlieb 9 .
+
+1 University of California, San Francisco, San Francisco, CA; 2 Tufts Medical Center, Boston, MA; 3 University of Michigan, Ann Arbor VA, Ann Arbor, MI; 4 NYU School of Medicine, New York, NY; 5 Boston University School of Medicine, Boston, MA; 6 Boston Children's Hospital, Boston, MA; 7 University of Colorado School of Medicine, Aurora, CO; 8 University of Chicago, Chicago, IL; 9 UCSF, San Francisco, CA; 10 Columbia University Vagelos College of Physicians and Surgeons, New York, NY; 11 Hennepin Healthcare, Minneapolis, MN; 12 La Familia Medical Center, Santa Fe, NM; 13 Kaiser Permanente Washington Health Research Institute, Seattle, WA; 14 University of Arkansas, Little Rock, AR; 15 Dartmouth Medical School, Hanover, NH; 16 Boston Medical Center, Boston, MA. (Control ID #3141279)
+
+# BACKGROUND:
+
+Despite the health care sector's growing interest in systematic collection of social risk data, little is known about patient acceptability of health care-based social risk screening. Acceptability to patients and caregivers has implications for adoption, utility and sustainability. We aimed to explore acceptability of the Center for Medicare and Medicaid Innovation's (CMMI) social risk screening tool, which covers 5 actionable social domains: food, housing, utilities, and transportation security, and personal safety.
+
+# METHODS:
+
+Cross-sectional analysis of patients or caregivers of pediatric patients recruited from 6 primary care clinics (PCCs) and 4 emergency departments (EDs). Participants completed a tablet-based survey that included the CMMI social risk tool and questions related to both acceptability of social screening and predictors of acceptability. The primary acceptability measure was perceived appropriateness of screening in health care settings; a secondary outcome was comfort with including social risk data in electronic health records (EHRs). Multilevel mixed-effects logistic regressions were used to evaluate acceptability measures, clustering by site.
+
+# RESULTS:
+
+969 patients/caregivers completed the survey; 952 (98%) answered survey questions about acceptability. 72% of participants screened positive for at least 1 of 5 social risks. 80% of respondents reported screening was very or somewhat appropriate; 7% reported screening was very or somewhat inappropriate. 65% of participants reported being completely or somewhat comfortable with social risk data being included in EHRs; 18% reported being completely or somewhat uncomfortable. In the primary multivariable model, participants reporting higher acceptability of social risk screening had higher odds of previous social risk screening in a health care setting (aOR 1.80 [95% CI 1.31-2.47]); not endorsing prior discrimination in a health care setting (aOR 1.45 [95% CI 1.07-1.97]); being from a safety-net setting (aOR 1.85 [95% CI 1.11-3.10]); and being recruited in a PCC (aOR 2.10 [95% CI 1.01-4.32]). Participants who were more comfortable with including social risk data in EHRs had higher odds of previous social risk screening in a health care setting (aOR 1.56 [95% CI 1.17 to 2.09]). There were no associations between specific social risk domains or cumulative number of social risks with either measure of acceptability. No additional respondent-level characteristics were associated with acceptability.
+
+# CONCLUSIONS:
+
+Across PCC and ED settings, a majority of respondents found social risk screening acceptable. Acceptability levels did not differ across individual health care settings or level of social risks, though we identified some potentially modifiable factors associated with.

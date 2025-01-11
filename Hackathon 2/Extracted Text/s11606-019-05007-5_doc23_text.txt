@@ -1,0 +1,37 @@
+# ABSTRACTS JGIM
+
+# ADDRESSING OVERTREATMENT IN OLDER ADULTS WITH DIABETES: LEVERAGING BEHAVIORAL ECONOMICS AND USER-CENTERED DESIGN TO DEVELOP CLINICAL DECISION SUPPORT
+
+Devin M. Mann; Sara K. Chokshi; Hayley Belli; Saul Blecker; Caroline Blaum; Roshini Hegde; Andrea B. Troxel. NYU School of Medicine, New York, NY. (Control ID #3184949)
+
+# ADDRESSING LATENT TUBERCULOSIS INFECTION TESTING AND TREATMENT IN ORANGE COUNTY, CALIFORNIA: BASELINE ASSESSMENT AT A LOCAL HEALTH CENTER
+
+Fayette K. Nguyen Truax 1; Setie Asfaha 2; Tessa Mochizuki 2; Setie Asfaha; Julie Low3; Michael Carson3; Duc Nguyen4. 1Loma Linda University, Wildomar, CA; 2California Department of Public Health, Richmond, CA; 3County of Orange Health Care Agency, Santa Ana, CA; 4Nhan Hoa Health Center, Garden Grove, CA. (Control ID #3185388)
+
+# BACKGROUND
+
+Of the 3.2 million individuals in Orange County, California, an estimated 240,646 (7.5%) are Vietnamese. Of these, 153,329 are non-U.S.-born individuals. In 2017, of the TB cases in Orange County, 89% were among non-U.S.-born individuals, of whom 42% were born in Vietnam. In Orange County, the estimated percentage of non-U.S.-born individuals with latent TB infection (LTBI) is 17.3% as compared to 1.6% in U.S.-born individuals. A key strategy to eliminate TB is to increase LTBI testing and treatment in non-U.S.-born populations at community clinic settings. We conducted a baseline assessment of barriers, facilitators and current practices surrounding LTBI care to identify opportunities for improvement.
+
+# METHODS
+
+A local community clinic serving primarily Vietnamese individuals was chosen. To identify barriers and facilitators to LTBI care, Likert-type scale surveys were given to providers, 1(strongly agree) to 7(strongly disagree). To understand current LTBI practices, we abstracted charts for patients who had a TB test in 2017 and a subset of charts for patients who had a physical exam during August 1-14, 2017. Data were entered into REDCap and analyzed using SAS.
+
+# RESULTS
+
+Eight of 10 (80%) providers completed the survey. All respondents agreed that testing and treating patients born in countries with an elevated TB rate for LTBI will improve their patients' long-term health. Only four (50%) providers were comfortable with LTBI drug regimens other than 9 months of isoniazid therapy. Four (50%) providers were confident in their ability to convince patients to accept treatment. Three (38%) providers did not feel they customarily had enough time to assess patients for LTBI. A query of the electronic health record showed a total of 270 patients had a tuberculin skin test (TST) ordered in 2017. Of these, 220 (82%) had results documented: 42 (19%) were positive, of whom 40 (95%) had chest x-rays ordered, all of which were negative. Of the 40, 3 (8%) started preventive treatment, but no treatment completion was documented. Of the 124 patients who had a physical exam during August 2017, the median age was 54 (range 5-72) and 110 (89%) were Asian. Of the 110, 102 (93%) spoke Vietnamese as their primary language, and of those, 97 (95%) had no prior treatment documented. Of those with no prior treatment, 8 (8%) were tested for LTBI; of the 8, 3 (38%) had positive results; 2 had chest x-rays completed; 2 started treatment and 1 had treatment completion documented.
+
+# CONCLUSIONS
+
+Our community clinic serving a high-risk population could improve on screening and treating patients for LTBI. Following these results, LTBI training for providers and ancillary staff were provided. Further, a new process for documenting TB risk factors has also been implemented. Further barriers should continue to be examined and addressed through training and provision of educational materials from local public health agencies. An ongoing partnership among key partners is encouraged to foster best practices.
+
+# BACKGROUND
+
+Older adults with diabetes continue to be overtreated despite current guidelines recommending less aggressive target A1c levels based on life expectancy. The suboptimal management of this vulnerable population could be due to physicians having conflicting beliefs regarding this guideline or simply lacking awareness, and changing these behaviors is challenging. Clinical decision support (CDS) within the electronic health record (EHR) has the potential to address this issue, but effectiveness is undermined by alert fatigue and poor workflow integration. Incorporating behavioral economics into CDS tools is an innovative approach to improve adherence to these guidelines while reducing physician burden, and offers the promise of improving care in this population.
+
+# METHODS
+
+We applied a systematic, user-centered approach to incorporate behavioral economic "nudges" into a CDS module and performed user testing in six pilot primary care practices in a large academic medical center. To build the nudges, we conducted: (1) semi-structured interviews with key informants (n=8); (2) a two-hour design thinking workshop to derive and refine initial module ideas; and (3) semi-structured group interviews at each site with clinic leaders and clinicians to elicit feedback on the module components. Clinicians were observed using the module in practice; detailed field notes were collected and summarized by module idea and usability theme for rapid iteration and refinement. Frequency of firing and user action taken were assessed in the first month of implementation via EHR reporting to confirm that module components and reporting were working as expected, and to assess utilization.
+
+# RESULTS
+
+Insights from key stakeholder and clinician group interviews identified the refill protocol, inbasket lab result, and medication preference list as candidate EHR CDS targets for the module. A new EHR navigator section notification and peer comparison message, derived from the design workshop, were also prototyped and produced. User feedback from site visits confirmed compatibility with clinical workflows, and contributed to refinement of design and content. The initial prototypes were first piloted at two sites, refined, and then activated at an additional four additional sites. Preliminary results for the six clinics indicate that...

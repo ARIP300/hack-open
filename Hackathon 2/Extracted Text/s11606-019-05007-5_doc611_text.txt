@@ -1,0 +1,60 @@
+# ABSTRACTS JGIM
+
+# FINDINGS TO DATE
+
+After six months, the number of phone visit encounters increased by 114% (120 vs 56 appointments) when compared to the same time interval the previous year. Repeat survey results showed residents had improved knowledge of when appointments were scheduled (80% vs 57% were able to see their schedule in advance). 84% of residents indicated they plan to utilize the phone clinic going forward. We have identified additional opportunities for improvement. Future plans include working with providers and administrative staff to further streamline the scheduling process, and developing a curriculum to improve comfort with conducting a visit over the phone. Through these changes we hope to continue to increase phone clinic utilization and better serve our patients' healthcare needs.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Using simple quality improvement methodology, we have dramatically increased resident participation in telephone clinic with continued enthusiasm for the project. Through doing so, we have increased resident exposure to a valuable health care tool that is likely to remain a vital component of primary care going forward.
+
+# CAN CONDITION-SPECIFIC EDUCATIONAL VIDEOS ACTIVATE PATIENTS PREPARING FOR DISCHARGE?
+
+Meghan L. Rudder1; Theresa Fuller1; Nicholas Piniella1; Catherine Yoon1; Stuart R. Lipsitz2; Jeffrey L. Schnipper; Anuj K. Dalal. 1Brigham and 2Women's Hospital, Brookline, MA; 2Brigham and Women's Hospital, Boston, MA. (Control ID #3182281)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+At discharge, care responsibilities shift from clinician to patient; yet due to rising volume of care transitions, shorter hospital stays, increasing demands on physician time, lack of standardized educational content, and poor patient comprehension, many patients are ill-prepared for this transition.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Activated patients-those with the knowledge, confidence, and skills to manage their health-are more likely to execute a discharge plan. We hypothesized that educational discharge videos may increase patient activation. Our goals were to determine: the acceptability and feasibility of implementing condition-specific educational discharge videos for general medicine inpatients, and whether video education is associated with patient activation.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+We conducted a sub-study of patients enrolled in the Patient-centered Discharge Toolkit (PDTK) study on general medical units at an academic medical center in Boston, MA. Patients were eligible if they had a discharge diagnosis for which one of 19 condition-specific educational videos (Telesofia Medical, Inc) was available. Patients who agreed to participate were invited to view the video on a tablet before discharge. All patients (viewers and non-viewers) were asked to complete a 13-Item Patient Activation Measure survey (PAM-13, Insignia Health) at discharge and during a 30-day follow-up call.
+
+# MEASURES OF SUCCESS
+
+We analyzed demographic and clinical data and compared PAM scores at, and 30 days after, discharge as well as 30-day readmission rates between viewers and non-viewers. We also compared patients who viewed the videos to a principle component-matched cohort of patients from the PDTK study.
+
+# FINDINGS TO DATE
+
+Of 115 patients screened, 45 (39.1%) were eligible to participate; of the 36 patients who were approached, 18 (50.0%) consented to view the video. Viewers were younger than non-viewers (56.2 versus 68.9 years of age, P=0.02) and more likely to be male (72.2% versus 38.9%, p=0.04). Viewers had significantly higher mean PAM scores compared to non-viewers (75.5 vs 60.2, p=0.05). A greater proportion of viewers than non-viewers had PAM levels 3 (66.7% vs 38.9%, p=0.09). At 30 days, viewers had higher PAM scores than non-viewers (71.16 vs 58.9, p=0.32) and fewer readmissions than non-viewers (5.6% vs 11.1%, p=0.55), but these were not statistically significant.
+
+# KEY LESSONS FOR DISSEMINATION
+
+1. Many general medicine patients are willing to watch condition-specific educational videos at discharge, but a video specific to the clear, accurate discharge diagnosis must be available.
+2. Videos were more acceptable to younger and male patients which may be due to greater comfort with technology, presence of a single discharge diagnosis, or lack of clarity in relevant diagnoses for older patients with co-morbidities.
+3. Viewing condition-specific discharge videos may increase patient activation, or more activated patients may elect to view these videos.
+4. Future studies should evaluate pre- and post-intervention PAM scores and outcomes for patients randomized to condition-specific videos.
+
+# CAN PATIENTS HUMANIZE THEIR ELECTRONIC HEALTH RECORD TO FACILITATE STRONGER CONNECTIONS WITH CARE TEAMS?
+
+Jeana Holt1; Rachel Cusatis2; Onur Asan3; Joni S. Williams2; Kathryn E. Flynn2; Bradley H. Crotty1. 1Medical College of Wisconsin, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI; 3Stevens Institute of Technology, Hoboken, NJ. (Control ID #3185284)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Electronic health records (EHR) contain lists of medications, problems, and other healthcare transactions, but the representation of who an individual patient is, their context, and their preferences are poor.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Empower patients to provide their contextual data (needs, values, preferences, and barriers) to their care team through the EHR. Provide tools for care teams to more efficiently develop meaningful connections with patients.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+We implemented a web-based consumer informatics application that creates a patient profile of contextual data using questions derived from communications research. The application was tested in five primary care clinics where patients were invited by email ahead of visits. Patients provide information about "My Self," "My Health," and "My Care" through free-text and checklist entries related to their health, preferences, care, and agenda for their next visit. Data are summarized into a one-screen dashboard that is available for view within the EHR.
+
+# MEASURES OF SUCCESS
+
+To assess if patients felt empowered and care teams felt more connected, we conducted a qualitative.

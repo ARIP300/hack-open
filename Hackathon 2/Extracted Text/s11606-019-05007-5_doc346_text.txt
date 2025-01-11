@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the increased risk of solid subsequent malignant neoplasms (sSMN) in patients that have received chest irradiation.
+
+# CASE:
+
+A 50 year old female presented for a routine exam and was noted to have new, painless abdominal distention. She had a previous history of Hodgkin's Lymphoma (HL) treated with mantle radiation therapy (RT) and chemotherapy (treated at age 24) and triple negative breast cancer treated with bilateral mastectomy and chemotherapy (treated at age 44). She had no exposure to tobacco, and the rest of her history was non-contributory. Her exam was notable only for a protruding soft abdomen without mass and a palpable liver edge. An abdominal and pelvic ultrasound identified a hypoechoic 2.6 x 2.4 x 2.1 cm mass separate from the liver within the right upper quadrant adjacent to the region of the pancreatic head. A CT of the abdomen and pelvis revealed a gastrohepatic node increased in size compared to prior imaging. Biopsy of the gastrohepatic mass suggested lung adenocarcinoma. A staging PET CT scan showed disease localized to the lymph node without evidence of a lung primary tumor, other lymph node involvement, or distant metastases, so she underwent local therapy via surgical resection of the lymph node only and was monitored with imaging every 3 months. CT scans of the chest, abdomen, and pelvis at 3, 6, and 9 months were negative for evidence of progression; at 12 months, however, surveillance PET CT scan showed a new perihilar foci in the right lung with post-obstructive atelectasis suspicious for malignancy and FDG-avid enlarged lymph nodes in the infrahilar paraesophageal and portocaval regions. Biopsy of the infrahilar lymph node confirmed the diagnosis of metastatic lung adenocarcinoma. She was started on carboplatin, pemetrexed, and pembrolizumab.
+
+# IMPACT/DISCUSSION:
+
+This case highlights that survivors of childhood cancers who undergo RT are at high risk of developing solid subsequent malignant neoplasms, and that new symptoms or signs on physical exam should be investigated carefully. The cumulative incidence of developing sSMN at 40 years after diagnosis of HL is about 26.4%. Women who receive chest RT are at high risk for breast cancer, with a cumulative incidence of breast cancer of about 45.3% by age 50. Chest RT also increases the risk of lung cancer, with an estimated cumulative incidence of 2.2% by 40 years from diagnosis of HL. Though the risk of lung cancer conferred by RT appears to be higher than that of smoking in the general population, there is insufficient evidence at this time to recommend low-dose CT-imaging based screening in these patients. Notably, due to absence of a primary lung mass at the time of diagnosis, screening our patient with lung imaging would have proved unhelpful.
+
+# CONCLUSION:
+
+Cancer survivors exposed to RT should communicate and engage with their providers if they have new findings that may warrant investigation of disease reoccurrence or new sSMN, even in the absence of other traditional risk factors.
+
+# A MYSTERY DIAGNOSIS IN A PATIENT WITH ALTERED MENTAL STATUS
+
+Cristina Nguyen. Alameda Health System - Highland Hospital, Oakland, CA. (Control ID #3184741)
+
+# LEARNING OBJECTIVE #1:
+
+Assess when to treat bacterial meningitis with adjunctive Dexamethasone.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize when to give antimicrobial chemoprophylaxis for bacterial meningitis.
+
+# CASE:
+
+A 51 year-old homeless man with a past medical history of methamphetamine use presented for altered mental status after being found lying in a bathtub. While en route, he complained of a headache. He had a temperature of 103.2 F, heart rate of 112 beats per minute, and oxygen saturation of 98% on room air. Exam was notable for nuchal rigidity and decreased level of consciousness. His WBC count was 22,000. CT head revealed chronic bifrontal encephalomalacia and multifocal paranasal sinus fluid and mucosal thickening. Lumbar puncture revealed an opening pressure of 55 cm H2O. Cerebrospinal fluid analysis was remarkable for 1750 WBC's, 92% neutrophils, protein 578, and glucose <5. Urine toxicology was positive for methamphetamine. The patient was stated empirically on intravenous Ceftriaxone and Vancomycin for presumed bacterial meningitis. Dexamethasone and Rifampin were also added as adjuncts for Streptococcal pneumonia treatment. All staff members treating the patient received a single dose of Ciprofloxacin for prophylaxis. On hospital day 5, the patient's altered mental status improved. He was also found to have a reactive, reactive trepenemal antibody, a serum RPR titer 1:64, and reactive CSF VDRL. However, the patient left against medical advice without treatment.
+
+# IMPACT/DISCUSSION:
+
+Understanding cognitive biases for the vulnerable population affects physicians' decisions. Implicit bias also plays a major role in health care settings in regards to socioeconomic disparities which affect clinical judgment and decision-making. Thus, considering the patients' perspectives, advocating for the vulnerable, and maintaining a broad differential for patients presenting with altered mental status will lead to improved health outcomes. Our patient had many possible causes of altered mental status, including intoxication, neurosyphilis, and bacterial meningitis. Based on studies, adjunctive Dexamethasone should be given at the same time or prior to antibiotics if there is a likelihood of pneumococcal meningitis to decrease the rate of hearing loss and mortality. It has no benefit if given after antibiotics. Unlike Vancomycin, Rifampin is not limited in crossing into the CSF by the decrease in inflammation with Dexamethasone and is often added when Dexamethasone is started. Both Vancomycin and Rifampin can be discontinued if the organism is susceptible to the cephalosporin. Postexposure chemoprophylaxis can prevent the spread of N. meningitidis, but not pneumococcal disease. It is indicated for those in close contacts with patients and is most effective within 24 hours of the exposure. Although healthcare workers are at increased risk of exposure, the absolute increase in risk is very small. Thus, prophylaxis is not recommended for those who have not had direct exposure to respiratory secretions.
+
+# CONCLUSION:
+
+See above.
+
+# A NEARLY-MISSED OPPORTUNITY: DIAGNOSING EPIDURAL ABSCESS DURING RESOLVING ENCEPHALOPATHY
+
+Steven Omansky1; Patricia Dharapak2. 1Mount Sinai Beth Israel Hospital, New York, NY; 2Mount Sinai Beth Israel, New York, NY. (Control ID #3161458)
+
+# LEARNING OBJECTIVE #1:
+
+To understand the incidence, risk factors, warning signs, and diagnostic process of spinal epidural abscess in the hospital setting.
+
+# CASE:
+
+A 59 year-old woman with uncontrolled diabetes mellitus and end-stage kidney disease on hemodialysis presented with altered mental status and a suprapatellar abscess. Following irrigation and debridement, her course was complicated by septic shock. She was found with high-grade methicillin-sensitive Staphylococcus aureus bacteremia, and her blood cultures ultimately sterilized with IV cefazolin therapy. Despite hemodynamic stabilization and resolution of leukocytosis, the patient remained stuporous. Further investigation revealed septic emboli on brain MRI as likely culprits. In the following days, her mental status gradually improved such that she could answer questions. While she had been evaluated by five different providers on weekend coverage, a new complaint of left lower extremity paralysis was only identified by the primary team. An emergent MRI of the spine revealed osteomyelitis and an epidural abscess at C5-6. Resultant cord compression and edema were also noted. The patient was urgently transferred to an affiliate hospital with the capability of neurosurgical intervention.
+
+# IMPACT/DISCUSSION:
+
+Finding S. aureus bacteremia in the hospital setting should provoke vigilance for its sequelae, especially in patients.

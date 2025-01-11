@@ -1,0 +1,54 @@
+# ABSTRACTS JGIM
+
+Patient's hospital course was complicated by recurrent episodes of hypoglycemia as low as 27 mg/dl. Myocardial perfusion scan obtained on Day 7 of hospitalization showed significant improvement in EF to 45% and showed only a small area of apical akinesis. Based on above findings, patient was diagnosed with Takotsubo cardiomyopathy associated with hypoglycemia.
+
+# IMPACT/DISCUSSION:
+
+TCM known as stress induced cardiomyopathy (SICM) is a syndrome characterized by transient regional systolic dysfunction of the left ventricle, mimicking MI. The pathogenesis is not well understood. One of the mechanisms suggest that it may be caused by diffuse catecholamine-induced microvascular spasm or dysfunction, resulting in myocardial stunning or by direct catecholamine-associated myocardial toxicity. Hypoglycemia is thought to be one of the physical stresses triggering catecholamine release. In patients with T2DM and CKD, hypoglycemia can be due to the potentiating effect of insulin in the setting of impaired renal function. Hypoglycemia is a relatively common case in emergency department (ED); However, wall motion abnormalities are not usually expected in these patients. Thus, undiagnosed self-limited TCM cases are possible among them. This might warrant an ECHO as not to overlook TCM in the ED. TCM can be differentiated from MI by absence of obstructive coronary disease. If coronary disease is found, the diagnosis of stress cardiomyopathy can still be made if the wall motion abnormalities are not in the distribution of the coronary disease. Management of patients with SICM is overall supportive and conservative. The prognosis for SICM is good without management and cardiac function recovers during less than 1 month.
+
+# CONCLUSION:
+
+1. Careful history taking is important in evaluation of patients presenting with positive cardiac bio-markers.
+2. Insulin should be used cautiously in patients with CKD to prevent hypoglycemic episodes, which can lead to severe adverse effects including SCM.
+
+and background slowing with no active seizures. An MRI head showed diffuse confluent T2 hyperintensity in the bilateral white matter consistent with Binswanger's Disease. The patient was pre-emptively treated with acyclovir for herpes encephalitis, but discontinued when HSV was negative in the CSF from a lumbar puncture. She recovered well and was discharged un-eventfully with levetirecetam.
+
+# IMPACT/DISCUSSION:
+
+Seizure-related Takotsubo cardiomyopathy can lead to sudden unexpected death in epilepsy (SUDEP), and is frightening underdiagnosed and worked-up in the neurocritical population. Injury to the myocardium can occur due to neurogenic stunning; there is no myocardial infarction (no coronary vessel block) but rising catecholamine levels are believed to be directly toxic to cardiac myocytes as well as vasospasm of the coronary vessels. Here there was transient severe systolic dysfunction after convulsive seizure with completely clean coronaries after the patient stabilized.
+
+# CONCLUSION:
+
+There has been increasing interest in the neurocardiology community in routine monitoring with ECGs and echocardiograms in hospitalized patients with ischemic strokes, hemorrhagic strokes, and epileptic events. Takotsubo's has a reasonably high 8% mortality rate, and this case elucidates the need importance for controlling the cardiotoxic stressor (seizures) in order to prevent cardiac damage.
+
+# TAKOTSUBO CARDIOMYOPATHY UNEXPECTEDLY RECOVERS IN 24 HOURS
+
+Kirolus Sourial1, 2; Saif M. Borgan1, 2; Hiren Patel1; George Yazigi1, 2; Jooby John1, 2; Ali Ashraf1. 1University of Central Florida College of Medicine, Orlando, FL; 2Central Florida Cardiac & Vascular Institute at Osceola Regional Medical Center, Kissimmee, FL. (Control ID #3184263)
+
+# TAKOTSUBO CARDIOMYOPATHY FROM METHAMPHETAMINE RELATED SEIZURE
+
+Hanyuan Shi; Hania Adib. Tulane University, New Orleans, LA. (Control ID #3186376)
+
+# LEARNING OBJECTIVE #1:
+
+1. Diagnose seizure related takotsubo cardiomyopathy, and the dangers leading to sudden death.
+
+# LEARNING OBJECTIVE #2:
+
+1. Recognize the importance of recognizing cardiac complications such as neurogenic stunned myocardium in the ICU setting.
+
+# CASE:
+
+A 62-year old postmenopausal female with a history of hypertension and COPD initially presented with seizures to an outside hospital. Was loaded with levetirecetam and midazolam but became apneic and was emergently intubated. Drug screen positive for benzodiazepines and mass spectrometry positive for methamphetamine. Initial laboratories significant for leukocytosis (WBC at 16), lactate of 2.1, and troponin of 0.7. EKG showed normal sinus rhythm, 1mm ST elevation in V2, 1.5 mm ST elevation in V3, T-wave inversions in inferolateral leads. There was concern for acute coronary syndrome so the patient was aspirin loaded (600 mg), clopidogrel loaded (300 mg), and started on heparin drip. Transthoracic echocardiogram showed severely decreased ejection fraction < 20%, apical akinesis and ballooning, with only the base of the left ventricle contracting. Troponin peaked at 1.15 and Takotsubo was strongly suspected. When the patient was hemodynamically stable and extubated, a right and left heart catheterization was done for ischemic work-up. RHC showed normal PA pressure (26/8), and wedge (15). LHC showed right dominant coronary system, patent left main, patent LAD and diagonal, as well as patent circumflex and right coronary artery. 24-hour EEG was done by neurology that showed focal periodic epileptiform discharges over the anterior temporal region, focal polymorphic delta activities.
+
+# LEARNING OBJECTIVE #1:
+
+We describe a case of Takotsubo cardiomyopathy (TTC) presenting as Ventricular Fibrillation (V-fib) cardiac arrest with an acute recovery of left ventricular (LV) systolic function within 24 hours.
+
+# CASE:
+
+A 71 year old woman with past medical history of CAD with prior CABG was brought to the hospital in V-fib cardiac arrest after an intense argument with her daughter. Return of spontaneous circulation with conversion to normal sinus rhythm was achieved after 15 minutes of effective chest compressions and defibrillator use, followed by amiodarone and norepinephrine drips, along with mechanical ventilation. Emergent coronary angiography revealed widely patent grafts with native vessel disease, unchanged from a prior angiogram several years ago. Transthoracic echocardiogram (TTE) revealed left ventricular ejection fraction (LVEF) of 15% with severe hypokinesia of the mid and apical segments consistent with TTC. Despite escalation of inotropic support with norepinephrine, dopamine and milrinone drips, hemodynamic and electrical deterioration ensued warranting a percutaneous Left Ventricular Assist Device (pLVAD). A 24-hour interval TTE revealed dramatic improvement of the LVEF to 60% with resolution of the apical ballooning. At 48 hours from admission the patient was weaned off the pLVAD and inotropic support. Later, she was extubated with excellent hemodynamic parameters, followed by complete recovery.
+
+# IMPACT/DISCUSSION:
+
+Takotsubo cardiomyopathy (TTC), or Stress cardiomyopathy, is an acute transient worsening of left ventricular (LV) systolic function secondary to catecholamine surge. The diagnosis is based primarily on typical echocardiographic criteria in absence of significant epicardial coronary stenosis. Usual presentation of TTC is chest pain, dyspnea or syncope. The typical recovery of LV function in TTC can be quick and takes about 1-4 weeks, with the fastest recorded recovery within 36 hours of the inciting event. Predictors of delayed recovery include elevated brain natriuretic peptide, elevated LV end diastolic diameter, serious comorbidities and complicated disease course.

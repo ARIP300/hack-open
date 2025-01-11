@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# AN INTERESTING PRESENTATION OF "HEART FAILURE"
+
+Priyanka Ballal; Albin Oh. Boston Medical Center, Boston, MA. (Control ID #3183312)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize a formidable diagnosis masquerading as acute decompensated heart failure.
+
+# CASE:
+
+A 61-year-old-female with a history of diastolic heart failure and atrial fibrillation presented to the emergency room with progressively worsening lower extremity edema, shortness of breath and orthopnea as well as a 15 kg weight gain over the last eight weeks. She noted the above symptoms despite faithfully taking her home diuretic as prescribed and adhering to a salt restricted diet. Her heart failure had been previously well controlled, with no hospital admissions for decompensation. Physical exam was consistent with volume overload as evidenced by jugular venous distention to 14 cm, crackles over bilateral lung bases, marked abdominal distention, and pitting peripheral edema extending to mid-thigh bilaterally. Importantly, she was noted to have a large abdominal mass with ill-defined borders, palpable in all quadrants. A CT abdomen and pelvis was then obtained which revealed a large complex cystic structure measuring 15 x 28 cm encompassing most of the abdomen and pelvis, compressing the inferior vena cava and abutting the inferior margin of the liver. Origin of the mass was unclear. This was followed by a dedicated MRI pelvis with contrast which did not visualize the left ovary, making the mass concerning for an ovarian primary. The patient was admitted to the medicine service, with general surgery and gynecology-oncology services consulted for operative management. On hospital day 2, the patient developed liver dysfunction with direct hyperbilirubinemia, elevated transaminases and alkaline phosphatase, concerning for congestive hepatopathy. After pre-operative cardiology clearance, she underwent exploratory laparotomy with left salphingo-oopherectomy, excision of the pelvic mass with omental dissection and lysis of adhesions. Patient tolerated the surgery with no major complications. Post operatively, however, she developed volume overload, thought to be due to peri-operative fluid resuscitation. She was diuresed with furosemide boluses over 4-5 days till she attained euvolumia. Her liver dysfunction completely resolved after surgery. The pathology report revealed benign mucinous cystadenoma with no evidence of malignancy in the omentum. Patient was discharged with physical rehabilitation services and is currently doing well.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates the varied clinical presentation of an adnexal mass and the importance of a detailed physical examination, even when the diagnosis may seem apparent with just a thorough history. It is important to note that ovarian tumors do not present with menstrual symptoms, with the exception of sec cord tumors, and are often asymptomatic until their sheer size causes pressure related symptoms, like described in our case. Prognosis of benign ovarian tumors after operative management is excellent.
+
+# CONCLUSION:
+
+Timely diagnosis and operative management is key to avoid adverse outcomes in benign ovarian tumors.
+
+# A N OFFAL ABSCESS: NON-ENDOCARDITIS ERYSIPELOTHRIX BACTEREMIA AND ABSCESS FORMATION
+
+Kathryn Snyder1; Jennifer Keen2; LeeAnn M. Cox2. 1Indiana University School of Medicine, Carmel, IN; 2Indiana University School of Medicine, Indianapolis, IN. (Control ID #3182931)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize patient characteristics that increase the risks for systemic infection with the zoonotic organism Erysipelothrix.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that while initial non-operative management of epidural abscesses may be reasonable, close monitoring with early re-imaging for changing numbness, weakness or pain is necessary.
+
+# CASE:
+
+A 60 year old male with history of multiple myeloma (MM), alcohol abuse, and treated Hepatitis C was admitted to the hospital for unintentional acetaminophen overdose secondary to attempts at relieving three days of severe right-sided lower back pain. The pain became progressively worse over the prior three days with radiation down his right leg and an associated perception of "weakness" in his lower extremities. He denied fevers or any trauma/injury. He presented to the ED due to increased pain despite attempts to self-treat with large doses of acetaminophen, ibuprofen, and significant amounts of alcohol. Incidentally, he noted that about one week prior to his admission he had a generalized "purplish" rash that spontaneously resolved. On admission he was initially afebrile and without leukocytosis. His physical exam did not demonstrate any sensory deficits or overt asymmetrical weakness, though the exam was limited by his pain and intoxication. While his MM had been monitored and stable for a long time, his back pain was concerning and an MRI was obtained. Concurrently, he developed fevers, and blood cultures were drawn with initiation of broad spectrum antibiotics. The MRI was notable for a paravertebral and epidural abscess with osteomyelitis. Cultures from blood and the abscesses were initially reported as "diphtheroids" but later identified as E.rhusiopathiae. The infection progressed despite initial drainage thus urgent L3-5 laminectomy with debridement was completed. A transesophageal echo demonstrated no endocarditis, and the patient was treated with continuous IV Penicillin for eight weeks. Patient later shared he was a chef with frequent work-related hand injuries. He recalled a "cellulitis" of his left hand after making "head cheese" from a raw pig head a month prior to admission. This had been treated outpatient with a course of clindamycin and apparent clinical resolution. His bacteremia and abscesses were likely related to butchering the pig head.
+
+# IMPACT/DISCUSSION:
+
+This case demonstrates a rare presentation of Erysipelothrix infection manifesting as bacteremia with paravertebral and epidural abscesses, but lacking endocarditis. It additionally emphasizes the importance of appropriate surgical management and consideration of occupational exposures in the patient history.
+
+# CONCLUSION:
+
+Erysipelothrix is a rare, invasive pathogen in humans. It remains an important consideration in patients with relevant exposure history. A detailed, chronologic history is important to identify potential exposures. Non-operative management for epidural abscess is reasonable, but close monitoring and early re-evaluation is necessary.
+
+# AN UNCOMMON CASE OF COMPLETE HEART BLOCK
+
+Anisha Contractor1; Deirdre Lewis2; Jason Phillippi2. 1UMMS-Baystate Medical Center, Easthampton, MA; 2Baystate Medical Center, Northampton, MA. (Control ID #3185684)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize non-specific presentations of sarcoidosis.
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish isolated cardiac sarcoidosis from systemic disease.
+
+# CASE:
+
+A 59-year-old African American male with past medical history of recurrent palpitations and hypertension on nadolol presented to the hospital with syncope, bradycardia, and new onset complete heart block. Laboratory data significant for pro-BNP elevation to 1254 pg/mL, and rising ACE and ionized calcium levels to 75 U/L and 1.39 mM respectively. Lyme C6 antibody negative. The patient failed emergent stabilization and required a permanent pacemaker. Electrophysiological and radiological evidence present prior to patient's presentation guided medical decision making to obtain cardiac PET. This study confirmed active sarcoid involvement of the distal aspect of the anterior wall of the heart, intraventricular septum, and inferior aspect of the right ventricle.
+
+# IMPACT/DISCUSSION:
+
+Sarcoidosis is an autoimmune disease characterized by non-caseating granuloma formation within multiple tissues, commonly affecting the lymphoreticular system, lungs, eyes and skin. Peak incidence of systemic disease among adults occurs between 20 and 39, with female predominance. Though uncommon, sarcoidosis can

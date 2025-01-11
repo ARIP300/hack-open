@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# DETERMINANTS OF PRIMARY HEALTHCARE UTILIZATION AMONG LGBT INDIVIDUALS IN HUDSON VALLEY REGION
+
+Suman Pal; Nicole Zagelbaum; Anila Kumar; Alina Kifayat; Christopher Nabors; Rebecca Newman. Westchester Medical Center, Valhalla, NY. (Control ID #3184495)
+
+# BACKGROUND:
+
+The Lesbian, Gay, Bisexual and Transgender (LGBT) community represents a vulnerable population that has historically faced disparities in healthcare. Young adult members of the LGBT community are more likely to have mental health issues such as anxiety, depression and substance abuse, attempt suicide, be homeless, and have high rates of transmission of sexually transmitted infections including human immuno-deficiency virus (HIV). They also face barriers to primary healthcare and preventive services due to fear of bias, social isolation, and fear of victimization. The United States department of health and human services Healthy People 2020 initiative aims to reduce disparities and improve LGBT health. In keeping with that goal, we aim to understand the facilitators and barriers to primary healthcare utilization for LGBT community in the Hudson Valley region.
+
+# METHODS:
+
+We utilized a cross-sectional study design using an anonymous online survey modified from the Gelberg-Anderson model of healthcare utilization among vulnerable populations. The survey was administered to a convenience sample of volunteers from the mailing list of the "LOFT" LGBT Community Services Center, a local LGBT organization, via email link to an online survey (SurveyMonkey ®). Data were analyzed using descriptive statistics. The study was approved by the New York Medical College Institutional Review Board (IRB).
+
+# RESULTS:
+
+In the first two weeks the survey was open, 26 persons responded. Of these, self-reported gender identities were: cisgender male (55%), cisgender female (33%), transgender (5%, FTM), transgender (5%, MTF) and 8 individuals who chose not to reveal their gender identity. With respect to sexual preferences, 20% identified as lesbian, 40% as gay, 12% as bisexual, 16% as asexual and 12% as heterosexual. While 87% of respondents believed that they should follow up with a primary care provider (PCP) regularly, 30% did not currently have a PCP. Of respondents who had a PCP, 35% were not comfortable discussing their sexual orientation and sexual well-being with that provider. In choosing an LGBT friendly PCP, the most important factors were prior positive experience with a provider and positive reference from friends or family. Access to mental health services was the second most important factor in choosing a LGBT friendly clinic. Other important factors were the use of appropriate gender and LGBT friendly language in verbal and written communication. Distance to LGBT friendly PCP and fear of discrimination were identified as key barriers to accessing healthcare by our respondents.
+
+# CONCLUSIONS:
+
+The results of this study indicate that factors related to LGBT community access to and comfort with primary care identified in prior published reports are also present in the Hudson Valley of New York. Data from this study will be utilized to make changes to the Patient Centered Medical Home (PCMH) at the Westchester Medical Center Adult Primary Care Center to better serve the local LGBT population.
+
+# DEVELOPING CHRONIC OPIOID USE AND OPIOID USE DISORDER FOLLOWING THE FIRST OPIOID PRESCRIPTION IN A POPULATION OF EMERGING ADULTS
+
+J. Deanna Wilson1; Kaleab Abebe1; Kevin Kraemer2; Elizabeth Miller3; David Kelley4; Julie M. Donohue5. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA; 3Children's Hospital of Pittsburgh of UPMC, Pittsburgh, PA; 4 Pennsylvania Department of Human Service, Harrisburgh, PA; 5University of Pittsburgh Graduate School of Public Health, Pittsburgh, PA. (Control ID #3179164)
+
+# BACKGROUND:
+
+As one out of every five deaths among young adults is now a result of opioid-related morbidity and mortality, it is critical to understand prescription opioid use in adolescent and young adult (AYA) populations as it is the first exposure to opioids for many young people. We aim to characterize a population of AYA following the first opioid prescription to identify risk factors for chronic opioid use and time to opioid use disorder (OUD).
+
+# METHODS:
+
+We conducted a retrospective cohort analysis using data from Pennsylvania Medicaid enrollees from 2007-2016. We used National Drugs Codes in pharmacy claims to identify those age 10-21 years at time of the first opioid prescription. We included those with 6 months of continuous enrollment in Medicaid before and 12 months following the initial prescription. We used International Classification of Diseases, Ninth/Tenth Revision codes to define depression, anxiety, attention deficit disorder, and substance use disorders, including OUD, in the year following the initial prescription. Chronic opioid use was defined as receiving three or more opioid prescriptions. We used a mixed effects logistic regression model to estimate odds of chronic opioid use following the initial opioid prescription, and frailty time-to-event models to estimate time to first OUD diagnosis after accounting for county-level clustering using SAS. This study was deemed exempt by University of Pittsburgh IRB.
+
+# RESULTS:
+
+Among the 189,477 AYA who received an initial opioid prescription, the mean age at first prescription was 16.52 years (SD 2.80). Enrollees had high rates of comorbid mental illness with 24,637 (13%) diagnosed with depression, attention deficit hyperactivity disorder (N=25,681;14%), or anxiety (10,719;6%). By 12 months, approximately 14.3% (n=18,864) received two or more prescriptions following the initial opioid prescription and 6.2% (n=8,087) were given a diagnosis of OUD. Racial and ethnic minorities were less likely to both receive chronic opioids (OR 0.627 for Hispanic and OR 0.691 for Non-Hispanic Black) and develop OUD (HR 0.396 for Hispanic and 0.403 for Non-Hispanic Black). Females were more likely to receive chronic opioids (OR1.316) but less likely to be given a diagnosis of OUD than males (HR 0.887). Increases in duration of first opioid script from mean of 4.51 days and dosage from mean of 57.7 morphine milligram equivalents per day were associated with increased odds of chronic opioid use and also elevated risk of OUD.
+
+# CONCLUSIONS:
+
+Our findings demonstrate even short opioid prescriptions in a population of previously opioid-naive young people are associated with high rates of chronic opioid prescribing. Over 1 in 20 AYA received an OUD diagnosis within 12 months of the first opioid prescription suggesting rapid escalation of opioid use and misuse in this population. Even short, low-dose opioid prescriptions seem to infer risk to vulnerable populations of emerging adults.
+
+# DEVELOPMENT AND EVALUATION OF A PREDIABETES DECISION AID ON PATIENT-CENTERED OUTCOMES
+
+Matthew J. O'Brien1; Kenzie A. Cameron1; Namratha Kandula1; Geoffrey C. Williams2; Angie Fagerlin3; Ronald T. Ackermann1. 1Northwestern University, Chicago, IL; 2University of Rochester, Rochester, NY; 3University of Utah, Salt Lake City, UT. (Control ID #3185982)
+
+# BACKGROUND:
+
+Eighty four million American adults have prediabetes, making diabetes prevention a public health priority. Despite the availability of two evidence-based treatments to prevent diabetes in this population—intensive lifestyle interventions (ILI) and metformin—neither is widely used. Patient-level barriers to initiating treatment include limited awareness or knowledge about prediabetes, inaccurate perceptions of their risk of developing diabetes, and low motivation to adopt treatment. Decision aids are the most widely studied method for communicating risk information and presenting treatment options, yet examples do not exist for prediabetes.

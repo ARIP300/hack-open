@@ -1,0 +1,51 @@
+# MASTERING CO-MANAGEMENT: A CURRICULUM FOR HOSPITALISTS
+
+Aron Mednick 1 ; Anne Dembitzer 2 ; Adin Nelson 4 ; Shreya P. Trivedi 3 ; Anand Viswanathan 1 . 1 NYU Langone Health, New York, NY; 2 NYU School of Medicine, New York, NY; 3 NYU, New York, NY; 4 Rutgers New Jersey Medical School, Newark, NJ. (Control ID #3184475)
+
+# NEEDS AND OBJECTIVES:
+
+The U.S. surgical population is becoming increasingly medically complex, increasing the risk of post-operative complications. Surgeons have traditionally consulted internists and subspecialists for medical management during inpatient admissions, but this has failed to decrease complications or healthcare costs. To address this issue hospitalists have taken on the role of co-managing patients admitted to surgical services. However, internal medicine residencies don't adequately prepare trainees for this role. Safe and effective modern medical care requires training in medical co-management (MCM), yet there exists no robust theory- and evidence-based curricula to teach these competencies. We designed a curriculum to fill this need.
+
+# SETTING AND PARTICIPANTS:
+
+Thirteen hospitalists with 0-7 years' clinical experience in an academic medical center in New York, NY. Hospitalists spend 50% of their clinical time on an MCM service covering general surgery, vascular surgery, neurosurgery, general neurology/epilepsy, and orthopedic surgery.
+
+# DESCRIPTION:
+
+We developed a yearlong curriculum based on the Society for Hospital Medicine's guidelines on creating MCM teams and other published frameworks. We applied evidence-based learning theories including: Adult Learning Theory, Cognitivism, Constructivism, and Ericsson's Theory of Expertise. We developed a conceptual framework incorporating key stakeholders in MCM (medical attending, surgical attending, PCP, mid-levels, and patients/families) and 6 core content topics (Roles & Responsibilities, Communication Strategies, Trust & Respect, Common Complications, Transitions of Care, and Deliberate Practice). The curriculum includes two parts: a week-long intensive orientation with Objective Structured Clinical Examinations (OSCEs) and workshops in the main content areas, and a series of monthly continuing professional development (CPD) sessions to facilitate deliberate practice and improve skills needed to manage niche patients on surgical services. These CPD skills are based upon needs identified by the hospitalists and surgical teams.
+
+# EVALUATION:
+
+Effectiveness will be measured at the program and hospitalist level. The program will be assessed by patient quality metrics (eg, LOS and readmission rates) and satisfaction by the surgical teams yearly. We will evaluate the impact on hospitalists using retrospective pre-post surveys to measure changes in clinical knowledge, confidence and engagement. Assessments will be collected using Qualtrics® survey software.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+In the early stages of this curriculum, 79% of participants found the CPD sessions "very or extremely helpful." Participants have shown increasing engagement in the curriculum as evidenced by proposals of future session topics and attendance. Data collection is ongoing.
+
+# NEEDS AND OBJECTIVES:
+
+The Accreditation Committee for Graduate Medical Education requires residency training programs (RTPs) to minimize tension between inpatient and outpatient responsibilities. However, RTPs struggle to balance these arenas while ensuring breadth and depth in internal medicine training. Many programs now use "X+Y" scheduling patterns to balance inpatient and ambulatory time. The Duke Internal Medicine Residency transitioned to a "4+2" schedule in 2016. In the fall of 2017, we collectively engaged residents and faculty across all divisions in a review of the ambulatory education mission. Faculty and residents desired continuity in the ambulatory learning environment in order to achieve learning goals. Residents also requested a formal curriculum bridging clinical experience with didactics. In response, we developed the Ambulatory Threads model described here, allowing residents to experience continuity in the clinic environment in every subspecialty of medicine over the course of two years.
+
+# SETTING AND PARTICIPANTS:
+
+First and second year Duke internal medicine residents were included in the intervention, which was implemented in July 2018 and leveraged our broad base of faculty in all subspecialties.
+
+# DESCRIPTION:
+
+The Ambulatory Threads consist of weekly templates made up of grouped clinical sub-specialties such that each template contains 1-2 sessions with each subspecialty, along with continuity clinics, academic half day, and self-care half days. Templates remain consistent across all of the ambulatory blocks in a six-month period, allowing for continuity with sub-specialty faculty throughout that time. Residents migrate to a new thread every six months. Intern threads include "nephrology-rheumatology-endocrine" and "gastroenterology-infectious diseases", allowing early exposure in these fields which do not have inpatient ward services at Duke. The second year threads are "pulmonary-oncology", and "cardiology-hematology". Through a collaborative effort with education leads in all of the divisions, the academic half day content is matched to the clinical thread. In the academic half day teaching, all faculty are encouraged to utilize innovative educational strategies that optimize interactive, engaging learning techniques while meeting their subspecialty's core educational objectives.
+
+# EVALUATION:
+
+Of the 162 rotation evaluations sent out between July-October 2018, 122 were completed, for a response rate of 75%. Feedback has been tremendously positive, noting an enriching learning environment enhanced by a strong faculty commitment to teaching. Constructive feedback regarding errors in the complex schedule and geographic locations of clinics have been addressed in revised templates.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Beyond simply implementing a 4+2 system with regularly spaced ambulatory time, linking together those ambulatory blocks with longitudinal exposure to multiple subspecialties has substantially improved the ambulatory educational experience at Duke. Faculty and residents have commended the improved learning environment.
+
+# MAXIMIZE THE X+Y: LONGITUDINAL AMBULATORY THREADS
+
+Daniella A. Zipkin; Dinushika Mohottige; Lynsey Michnowicz; Aimee K. Zaas. Duke University, Durham, NC. (Control ID #3185054)
+
+# INTERDISCIPLINARY INTERACTIONS WITH PHARMACY STUDENTS: A STUDENT-RUN FREE CLINIC PERSPECTIVE
+
+Mark N. Alshak 2 ; Jason Harris 2 ; Alexandra H. Miller 2 ; Pamela Charney 1 . 1 Weill Cornell Medical College, New York City, NY; 2 Weill Cornell Medicine, New York, NY. (Control ID #3186032)

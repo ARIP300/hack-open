@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# DESCRIPTION:
+
+After performing a survey-based needs assessment of residents, we developed six, hour-long sessions covering topics on burnout, wellness, and resilience. Each session includes 1) introductory exercises, 2) open discussion, and 3) teaching of specific coping tools. Designated resident "Wellness Leaders" (peer-elected upper-level residents) facilitate the sessions.
+
+# EVALUATION:
+
+We collected resident baseline scores of burnout, wellbeing, and self-efficacy in Spring 2018 using the Oldenburg Inventory (OBI), Short Flourishing Scale (SFS), and General Self-Efficacy Scale (GSE), respectively. Residents will complete a post-intervention survey in Spring 2019. All residents receive post-session surveys utilizing Likert scales and narrative comments to obtain feedback on curriculum content and format and to evaluate the subjective usefulness of the sessions and their activities.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+At baseline, 77% scored high on the OBI overall (n=62) with 90% and 63% scoring high on the exhaustion and disengagement subscales, respectively. 33% scored low-to-moderate (&lt;45) on the SFS (n=59), and 17% scored low-to-moderate (&lt;30) on the GSE (n=59). Although we await post-intervention data to quantify curriculum impacts on these indices, 85% of respondents on average report leaving sessions with increased coping tools (n=72). Common themes from feedback surveys include the benefits of having space to discover shared experiences across all years and learning specific coping strategies from peers for the demands of residency. Challenges raised are how to keep sessions relevant to third-year residents and the difficulty of sharing personal challenges in a group setting.
+
+# A ROBUST FACULTY DEVELOPMENT PROGRAM FOR MEDICAL EDUCATORS: A DECADE OF EXPERIENCE
+
+Sarah B. Merriam1, 2; Rachel Vanderberg3; Melissa McNeil1; Tanya Nikiforova4; Carla Spagnoletti5. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2VA Pittsburgh Healthcare System, Pittsburgh, PA; 3UPMC, Pittsburgh, PA; 4University Of Pittsburgh Medical Center, Pittsburgh, PA; 5University of Pittsburgh, Pittsburgh, PA. (Control ID #3185591)
+
+# NEEDS AND OBJECTIVES:
+
+Faculty development programs (FDPs) foster learning communities and enhance professional identity formation for medical educators. Recent work has highlighted the need to consider competency-based frameworks when designing FDPs, to both identify deficiencies in existing curricula and to drive skill development across clinical practice, teaching, and scholarship domains. We aim to outline the components of a novel FDP in the context of established medical educator competencies, describe its outcomes to date, and identify steps for implementation and sustainment of similar programming.
+
+# SETTING AND PARTICIPANTS:
+
+The FDP consists of 4 one-hour-long conferences held weekly since 2007 at the University of Pittsburgh SOM, open to all health sciences faculty, fellows, and others interested in medical education. Evaluation data is available for faculty attendees and presenters in four consecutive academic years from 2014 to 2018.
+
+# DESCRIPTION:
+
+The overarching goal of the FDP is to support the advancement of educator faculty, promote curricular innovation and teaching excellence, enhance educational scholarship, and cultivate a community of educators. The FDP includes four rotating conferences: Academy of Master Educators Seminar Series, Medical Education Research Conference, Medical Education Journal Club, and Medical Education Research Methods and Innovative Design Conference.
+
+# EVALUATION:
+
+We outlined the relationship of these FDP conferences to established medical educator competencies by consensus. We also evaluated 1) presenter and attendee rank and department, 2) average conference attendance over 4 academic years (2014-2018) and 3) impact of this program on faculty presenters.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Collectively, this well-attended (average # of attendees per conference = 20) internally-driven FDP meets all established competencies for educator faculty. Presenters and attendees were diverse in terms of academic rank and represented 12 clinical departments, 7 basic science departments, dental medicine and physical therapy. Of research "works in progress" from 2014-2017, 14 peer-reviewed fellow and faculty publications resulted, with an additional 5 manuscripts in revision or under review. Of those projects presented during the past academic year (2017-2018), 2 have gone on to peer-reviewed publication and 4 others are currently in revision or under review. We report data from the most recent academic year separately, given the expected lag time prior to publication. Because presenters and attendees are volunteers, the FDP's 10-year track record is evidence of faculty satisfaction with the programming. We have identified key factors for implementation and sustainment of similar FDPs at other institutions: establish a clearly defined mission statement that meets the needs of the target audience and engenders engagement and ownership, identify champion(s) to lead the effort, capitalize on local talent and expertise, and secure institutional backing.
+
+# A TEACHER, A LEARNER AND A SET OF OBJECTIVES. SAME PLAYERS, DIFFERENT GAME. INNOVATING MEDICAL EDUCATION THROUGH CHANGING FOCUS.
+
+Shahnur Saiyad 1; Jennifer Velasco 1; Amar R. Chadaga 2; Armand Krikorian3. 1UIC/Advocate Christ Medical Center, Oak Lawn, IL; 2Advocate Christ Medical Center, Oak Lawn, IL; 3University of Illinois at Chicago/ Christ Medical Center, Oak Lawn, IL. (Control ID #3186073)
+
+# NEEDS AND OBJECTIVES:
+
+As residents, we have the responsibility to teach medical students beyond the books during their wards rotation. A Dedicated Teaching Resident (DTR) has the ability to influence medical students' learning. - To provide a framework for the DTR to enhance students' learning experience; explore his/her own style of teaching, practice creativity and flexibility in approaching medical topics; practice leadership and mentorship. - To facilitate active learning; provide opportunities to research and learn how to learn effectively. - To practice consistent teaching amongst the inpatient teams, with set objectives.
+
+# SETTING AND PARTICIPANTS:
+
+An ACGME-accredited Internal Medicine Program in a tertiary care center An inpatient team consists of a DTR with students on their internal medicine rotation.
+
+# DESCRIPTION:
+
+3 components of this initiative: 1) DTR, 2) dedicated teaching curriculum, 3) implementation of curriculum via exploration of various teaching strategies Every month, each team has a DTR who is responsible for the medical education of 2-3 students. Each day, the DTRs have the flexibility to teach any topic the students are interested in based on their teaching style and the students' learning styles. For each topic, the DTR and students are encouraged to find a patient with the specific diagnosis and learn through incorporating the history and physical exam, clinical presentation, labs, differential diagnosis and management in their learning.
+
+# EVALUATION:
+
+- Qualitative survey for the students, assessing knowledge checks and overall learning experience - Weekly DTR meetings for formative feedback with the program director and development of his/her teaching portfolio.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The curriculum provides structure and specific objectives, thus serving as a focused framework for the DTR for the concrete delivery of medical topics.

@@ -1,0 +1,85 @@
+# FACTORS ASSOCIATED WITH INCREASED RISK PERCEPTION FOR DEVELOPING TYPE 2 DIABETES IN WOMEN WITH RECENT GESTATIONAL DIABETES
+
+Jacinda M. Nicklas 1 ; Geraldine Skurnik 2 ; Ellen W. Seely 2 . 1 University of Colorado School of Medicine, Aurora, CO; 2 Brigham and Women's Hospital, Boston, MA. (Control ID #3184760)
+
+# BACKGROUND:
+
+Women with gestational diabetes (GDM) have a 30-70% risk for developing type 2 diabetes. Although women with a history of GDM can decrease their risk for type 2 diabetes through weight loss and increased physical activity, prior studies indicate that many women with a history of GDM do not engage in risk reducing behaviors. Perception of personal risk for type 2 diabetes may influence participation in these risk reduction behaviors. We sought to identify factors associated with increased risk perception for developing type 2 diabetes in women with recent gestational diabetes.
+
+# METHODS:
+
+For the Balance After Baby Intervention 2 (BABI-2) trial, we recruited women with GDM during pregnancy or just after delivery. We asked participants to come in at 6 weeks postpartum for a baseline study visit. We measured weight and height, and women completed questionnaires detailing demographic, family history and medical history, as well as the Edinburgh Postnatal Depression Scale and the Risk Perception Survey for Developing Diabetes. All measurements and questionnaires were conducted before randomization into the intervention trial. For this analysis we included all women answering a risk perception question about their risk for getting diabetes within the next 10 years. We then categorized women into almost no or slight perceived chance vs. moderate or high perceived chance for developing diabetes. We conducted univariate analyses, and modeled the odds of increased risk perception for type 2 diabetes using multivariable logistic regression. We included all variables with a p value <.2 from the univariate analyses in the initial model, and then used backward selection to fit a final model.
+
+# RESULTS:
+
+Our study included 181 women (mean 33±5.3 years; 48% White, 17% African-American, 22% Asian, 13% other race, with 35% Hispanic). 48% of women spoke a primary language at home that was not English and 54% of women had graduated from college. 31% of women reported household incomes of <$35,000 per year. 28% had had GDM in a previous pregnancy, and 43% had a first degree relative with type 2 diabetes. The mean BMI at the study visit was 31.3 (±5.9) kg/m2. Factors included in the final model associated with a moderate to high perception of risk for diabetes included having a first degree relative with type 2 diabetes (OR 2.9, 95% CI 1.5-5.5) and identifying as Hispanic or Latino (OR 2.5, 95% CI 1.3-4.9). Having a history of GDM in a previous pregnancy and education status were not retained in the final model.
+
+# CONCLUSIONS:
+
+Among women with recent gestational diabetes, identifying as Hispanic/Latino and having a first degree relative with type 2 diabetes were associated with increased risk perception for developing diabetes. Further research should address how risk perception in this population influences participation in interventions designed to reduce risk for type 2 diabetes and whether employing unique strategies addressing risk perception can improve outcomes.
+
+# BACKGROUND:
+
+The average length of opioid agonist therapy with buprenorphine (BUP) for opioid use disorder is less than 6 months. We conducted a systematic review to determine what treatment level factors (dose, treatment setting and behavioral therapies) were associated with longer retention in BUP treatment.
+
+# METHODS:
+
+We searched Medline, Embase and the Cochrane Database of Systematic Reviews in February 2018. Articles were restricted to randomized-controlled trials on human subjects, written in English, and contained >24 weeks of objective data on retention in BUP treatment. We assessed whether dose of BUP, treatment setting, or co-administration of behavioral therapy were associated with retention rates.
+
+# RESULTS:
+
+Over 14,000 articles were identified. Twenty-two articles met final inclusion criteria, describing a total of 13 studies (Figure 1). There was significant heterogeneity in the measurement of retention. Measures included days in treatment (n=10), urine drug testing for BUP (n=2), and a combination of days in treatment and plasma level testing for BUP (n=1). Three studies compared doses of BUP between 1-8mg and showed significantly higher rates of retention with higher doses (p-values <0.01). All other studies in our review utilized maintenance BUP doses between 8mg-24mg daily, without comparison. No study found a significant difference in retention between BUP alone and BUP plus behavioral therapy (p-values > 0.05). Starting BUP prior to initiation in outpatient treatment programs (inpatient induction or within criminal justice settings) was significantly associated with retention in BUP treatment (p-values 0.009 and 0.005 respectively).
+
+# CONCLUSIONS:
+
+Setting of treatment initiation and higher BUP dose are associated with improved long-term treatment retention. More data on BUP treatment programs is needed as well as a standardized approach to defining retention in BUP treatment programs.
+
+# Records identified through database search
+
+(n = 20,928)
+
+# Additional records identified through other sources
+
+(n = 2)
+
+# Records after duplicates removed
+
+(n = 14,098)
+
+# Titles screened
+
+(n = 14,098)
+
+# Records excluded
+
+(n = 9,897)
+
+# Abstracts screened
+
+(n = 4201)
+
+# Records excluded
+
+(n = 3,591)
+
+# Full-text articles assessed for eligibility
+
+(n = 610)
+
+# Full-text articles excluded
+
+(n = 588)
+
+# FACTORS ASSOCIATED WITH LONG-TERM RETENTION IN BUPRENORPHINE BASED ADDICTION TREATMENT PROGRAMS: A SYSTEMATIC REVIEW
+
+Amy J. Kennedy3; Jessica S. Merlin3; Charles B. Wessel2; Rebecca Levine1; Iman Hassan3; Kendall Downer1; Megan Raymond4; Deborah Osakue1; Jane M. Liebschutz3. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA; 3University of Pittsburgh, Pittsburgh, PA; 4University of Pittsburgh School of Medicine, Pittsburgh, PA. (Control ID #3170853)
+
+# Articles included in qualitative synthesis
+
+(n = 22)
+
+# Studies included in qualitative synthesis
+
+(n = 13)
+
+# Figure 1. Flow diagram of the selection process for study inclusion.

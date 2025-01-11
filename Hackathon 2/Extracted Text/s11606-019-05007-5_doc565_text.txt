@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# THREE'S A CROWD: A CASE OF HEPATITIS B, C, AND D CO-INFECTION IN A PERSON WHO INJECTS DRUGS
+
+Jill Harrington1; Jessica Taylor2. 1Boston Medical Center, Boston, MA; 2Boston Medical Center, Boston, MA. (Control ID #3185769)
+
+# THIRD TIMES THE CHARM: A RARE CASE OF RECURRENT PANCREATITIS AND THE IMPORTANCE OF MEDICATION RECONCILIATION
+
+Rusdeep Mundae; Seth J. Lichtenstein; Ashley Shah. Rush University Medical Center, Chicago, IL. (Control ID #3186221)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the challenges in identifying drug-induced pancreatitis
+
+# LEARNING OBJECTIVE #2:
+
+Perform a thorough history and medication review
+
+# CASE:
+
+A 57-year-old woman with a past medical history of diabetes mellitus type 2 presented with a two day history of sharp epigastric pain radiating to the back, associated with nausea and vomiting. She denied alcohol, smoking, or drug use. She denied any previous abdominal surgeries. Her vitals on admission were stable. Her exam was notable for epigastric tenderness with deep palpation. Labs showed a serum creatinine 1.2 mg/dL, calcium 9.8 mg/dL, and lipase 2,539 U/L. An abdominal ultrasound was negative for gallstones and a triglyceride level was normal. Upon review of home medications, she was prescribed trimethoprim-sulfamethoxazole (TMP/SMX) for a urinary tract infection (UTI) 5 days prior to admission. On further investigation, the patient was noted to have two admissions in 2015 and 2018 for acute pancreatitis, previously thought to be of unknown etiology. However, thorough review revealed that the patient was prescribed TMP/SMX for a UTI prior to each of these admissions. She was treated with fluid resuscitation, pain control, and diet advancement. She improved clinically and was discharged without sequelae after several days. Patient was educated on the etiology of her recurrent pancreatitis and TMP/SMX was added to the patient's allergy list.
+
+# IMPACT/DISCUSSION:
+
+Drug induced pancreatitis (DIP) is a rare entity. The true incidence of DIP remains unclear as evidence primarily consists of isolated case reports; however it is estimated to account for approximately 0.1-2% episodes of acute pancreatitis. The diagnosis of DIP is particularly challenging because it rarely presents with clinical or laboratory evidence that would differentiate it from other causes of acute pancreatitis. DIP is typically a diagnosis of exclusion and is established by assessing the temporal relationship between drug administration and development of acute pancreatitis, or a positive re-challenge with the suspected drug given the lack of other causes. A thorough history, physical, and medication review, is essential in guiding medical decision-making and reducing hospital readmissions for DIP. TMP/SMX is a relatively rare cause of DIP, but there have been several case reports, including one documented report of a re-challenge. This suggests a causal relationship; however, the pathologic mechanism remains unknown. While other sulfonamides have been implicated in causing DIP, it is unclear if the sulfa-moiety of TMP-SMX is in fact the offending agent.
+
+# CONCLUSION:
+
+DIP is a very rare, but potentially life-threatening diagnosis that is best established by a thorough history and review of a patient's past medical history and medication use. Early identification, initiation of appropriate treatment, and withdrawal of the offending agent can aid in preventing worsening disease progression, reducing morbidity, and decreasing hospital readmissions.
+
+# LEARNING OBJECTIVE #1:
+
+Test for hepatitis D in patients with hepatitis B at increased risk for co-infection.
+
+# LEARNING OBJECTIVE #2:
+
+Describe the treatment and prognostic implications of viral hepatitis co-infection.
+
+# CASE:
+
+A 49-year-old man with a history of substance use disorder and injection drug use presented to the Emergency Department (ED) for musculoskeletal back pain. Labs were ordered; because of an ED initiative to identify cases of hepatitis C (HCV), an HCV antibody assay was sent and returned reactive with a viral load of 20,774 IU/mL. He was diagnosed with genotype 1A HCV, likely chronic, and outpatient follow-up was arranged. At his next visit, the patient reported no symptoms of HCV and was interested in treatment. Additional lab tests and imaging were ordered to stage his liver disease and inform selection of direct acting antiviral therapy (DAA). Hepatitis B virus (HBV) serologies suggested HBV co-infection. Follow-up labs confirmed active, e antigen positive, e antibody negative HBV with a high viral load of >170,000,000 IU/mL. Because of the patient's history of injection drug use, a hepatitis D virus (HDV) antibody was sent and returned positive. Although the patient's primary care physician manages HCV, this patient was referred to Hepatology for management of possible HBV, HCV, and HDV co-infection. Fortunately, his HDV viral load was undetectable, indicating cleared HDV. Because of the risk of a HBV flare during and after DAA therapy for HCV, the patient was started on tenofovir for his HBV with the plan to start HCV treatment once an adequate HBV viral load response is achieved.
+
+# IMPACT/DISCUSSION:
+
+The development of DAAs for HCV has revolutionized treatment and expanded access to high risk populations. Testing for viral co-infection is a crucial component of the HCV pre-treatment evaluation. HDV is an RNA virus that requires the presence of HBV surface antigen (HbSAg) for replication; patients with HBV/HDV co-infection have higher mortality and a more rapid progression to cirrhosis, which underscores the importance of recognizing HDV. The American Association for the Study of Liver Disease recommends testing for HDV in patients with a positive HbSAg at increased risk, including PWID, MSM, people with HIV or HCV co-infection, and people from endemic areas. Studies have estimated that up to one third of HbSAg positive PWID also have chronic HDV. However, HDV testing is not done consistently. When HBV or HBV/HDV are identified in a patient with chronic HCV, the treatment implications are significant. Due to risk of a HBV flare during or after DAA therapy, patients with HBV co-infection may need to begin HBV treatment or undergo additional monitoring. The treatment approach for patients with HBV/HCV/HDV co-infection is more complex as interferon is the only agent with known HDV activity.
+
+# CONCLUSION:
+
+Screening for HBV co-infection is an essential part of the HCV pre-treatment evaluation. Patients with a positive HbSAg who have a history of injection drug use or other risk factors for HDV, should be screened for HDV.
+
+# THYROTOXIC PERIODIC PARALYSIS RESULTING IN ACUTE RESPIRATORY FAILURE
+
+Charit Taneja1; Gorav Sharma1; Bryan Blase1; Lubna B. Munshi2. 1Icahn School of Medicine, Mount Sinai Beth Israel, New York, NY; 2The Ohio

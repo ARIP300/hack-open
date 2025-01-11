@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# AN UNUSUAL PRESENTATION OF GOUT: CHRONIC BACK PAIN
+
+JACOB L. THOMAS1; Scott Friedberg2; Emmanuelle B. Yecies2. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3186384)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize the symptoms and presentation of advanced gout
+
+# LEARNING OBJECTIVE #2:
+
+To assess how bias limited the differential diagnosis of this patient
+
+# CASE:
+
+Mr. C is a 68 year old white veteran with a history significant for diabetes mellitus, chronic kidney disease, gout, and chronic back pain who presented with acute worsening of his back pain. Patient reported 9/10 pain in his upper back that radiated with a burning sensation down his right arm and over his right rib cage. The pain interfered with his sleep and he was unable to tolerate laying flat. He denied any other neurologic symptoms. Physical exam was notable for an obese male with mild diffuse thoracic paraspinal tenderness with otherwise normal, non-focal neurological exam. In terms of relevant medications, he was taking allopurinol and furosemide. Non-contrasted CT scan of the cervical and thoracic spine were obtained. Formal Radiology interpretation described a lesion adjacent to T8/9 with erosion into the bone, suspicious for a malignancy, but the evaluation was limited due to lack of contrast. Follow-up MRI with contrast revealed the erosion was smooth suggesting possible neurofibroma. Biopsy demonstrated tophaceous lesions consistent with gout.
+
+# IMPACT/DISCUSSION:
+
+Gout is a relatively common disease that affects between 3-6% of men and 1-3% of women in the developed world. It is caused by the deposition of monosodium urate crystals into joints and soft tissues which can cause an inflammatory response and pain. Risk factors for gout include obesity, chronic kidney disease, diuretic use, heavy alcohol use, and hyperuricemia, nearly all of which were present in our patient. As gout progresses, patients can develop tophi, granulomatous nodules that form in response to the crystalline deposits. Classically, tophi form in the joints of the hands, elbows, and feet, but they can form in any bone or soft tissue. Although the spine is an uncommon location, there are many case reports of spinal gout that can cause symptoms as severe as cord compression and radiculopathy. One review by Ribeiro da Cunha (2018) found over 100 reported cases of spinal gout. Despite this patient's known history of gout, it was not considered in the differential until the pathology report. Part of this can be attributed to authority bias and premature closure. In our case, authority bias manifested after the initial imaging when both Radiology and Neurosurgery expressed concern for malignancy. With malignancy being common and specialists suggesting this was a consistent presentation, premature closure was reached and no other diagnoses were considered. Representative restraint bias contributed as well. With his use of allopurinol and a lack of classic joint symptoms, we did not consider this unusual presentation of a common problem, and our illness script for gout was not triggered.
+
+# CONCLUSION:
+
+Gout is a common problem that can present with many atypical symptoms and should be considered for patients at risk.
+
+# AN UNWELCOME SOUVENIR: RARE MYCOBACTERIUM INFECTION IN PATIENT WHO RECEIVED ABDOMINOPLASTY ABROAD
+
+Ann Wang; Alexa Yuen; Priya Nori; Matthew Shaines. Montefiore Medical Center, Bronx, NY. (Control ID #3186304)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the growing incidence of rare infections in patients participating in medical tourism
+
+# LEARNING OBJECTIVE #2:
+
+Manage patients presenting with mycobacterium infections after undergoing surgical procedures abroad
+
+# CASE:
+
+A 49F presented to the hospital with abdominal pain and drainage. She had received an abdominoplasty and liposuction in the Dominican Republic 7 months prior. She reported normal healing until about 6 months post-operatively, when she began noticing a bump in her lower abdomen, and yellow drainage from her bellybutton. She then had worsening lower abdominal pain and presented to the hospital. Computed tomography scan of the abdomen and pelvis showed an intra-abdominal abscess measuring 7.2cm at the largest dimension. She underwent ultrasound-guided drainage of the abscess and was empirically started on a 2 week course of amoxicillin-clavulanate at discharge. Cultures from the abscess were then found to be growing Mycobacterium senegalense. The Department of Health was notified, and the cultures were sent for sensitivity testing. Approximately 1 month later, she returned to the hospital with worsening abdominal pain and drainage. She was found to have a re-accumulation of the abscess. She again underwent drainage. By this time, sensitivities of the M. senegalense returned. The organism was found to be pan-sensitive, and she was started on a course of oral doxycycline and levofloxacin. She was discharged with a planned 6 week course, and follow-up in Infectious Disease clinic.
+
+# IMPACT/DISCUSSION:
+
+Up to 750,000 US residents per year travel abroad for medical care. This number will likely increase due to increasing ease of travel and perceived cost savings. The American Medical Association recommends that patients seek out internationally accredited medical facilities. However, standards for accreditation vary, and there is no evidence to suggest that outcomes are improved in accredited facilities. An outbreak of mycobacterial infections has been associated with medical tourism, particularly to the Dominican Republic. A report published in 2016 identified 21 cases in 6 US states in medical tourists to the Dominican Republic. Mycobacterium associated with medical tourism often have significant drug resistance, requiring long courses of multiple anti-microbials for effective treatment. In addition, surgical debridement is often necessary. Mycobacterium senegalense has primarily been identified as a bovine pathogen affecting cattle in East Africa. There have been rare case reports of human infection by M. senegalense, but primarily in immunosuppressed patients.
+
+# CONCLUSION:
+
+Patients who are considering obtaining surgical procedures abroad should be counseled on the risks of infection even in accredited facilities. Clinicians should maintain a high level of suspicion for mycobacterium infection for patients who present with wound infections after receiving surgeries abroad. As the medical tourism industry expands, rate of rare infectious complications will likely also increase.
+
+# ANCHORING AND CONFIRMATION BIAS IN TERMINAL DIAGNOSES
+
+Matthew Lipinski1; Ronald Miller2. 1Penn State University at Hershey Medical Center, Hummelstown, PA; 2Penn State University at Hershey Medical Center, Hershey, PA. (Control ID #3185714)
+
+# LEARNING OBJECTIVE #1:
+
+Review anchoring and confirmation bias.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the importance of ruling out reversible causes before diagnosing a terminal illness.

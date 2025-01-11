@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+CBD is one of many cannabinoids found in marijuana and marijuana-derived products. It is generally considered safe unlike its more psychoactive counterpart, THC, which has been linked to seizures, respiratory depression, and cardiovascular complications. CBD has surged in popularity recently, being marketed in oils, capsules, and candies as a health supplement, claiming to treat everything from glaucoma to pain to preventing cancer. Most studies currently available do not look at isolated CBD nor their synthetic equivalents, and purity is not guaranteed, thus leading to unforeseen side effects and toxicities. Moreover, these compounds do not show on traditional toxicology screens, posing a diagnostic dilemma for physicians. This case of respiratory depression and cardiovascular compromise in a relatively healthy man is just one example of the importance of considering synthetic CBD toxicity in the differential, as little data is currently available for diagnosis or treatment. Furthermore, misleading marketing of such products poses a risk to public safety; thus educating patients when prompted is vital.
+
+# CONCLUSION:
+
+CBD toxicity is likely to be seen more frequently as access to unregulated products surges and given their enticing claims of safety and health benefits. Clinicians should be aware of the potential for serious harm for both diagnostic and patient-counseling purposes as well as to fuel further research in the area.
+
+# HAVE YOU SEEN LIVER ENZYMES THIS HIGH IN CONGESTIVE HEPATOPATHY: A CASE REPORT
+
+Laith Numan; Ahmed A. Elkafrawy; Andrew Tomaw; Khalil Abuamr. University of Missouri-Kansas City, Kansas City, MO. (Control ID #3163001)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that congestive hepatopathy can present with liver enzymes higher than three times the normal levels.
+
+# LEARNING OBJECTIVE #2:
+
+Treat as soon as the etiology is identified to avoid irreversible damage to the liver, and trend the liver enzymes to assess the response.
+
+# CASE:
+
+A 33-year-old male previously healthy presented to the emergency department with epigastric pain of two weeks duration. At the same time, he noticed yellowish discoloration of his eyes. He denied acetaminophen use. On review of systems, he was complaining of increased shortness of breath and new lower limbs swelling. He denied any illicit drug use, excessive alcohol intake, recent travel, or mushrooms consumption. On physical examination, he had scleral icterus, bilateral crackles on auscultation, and lower limbs pitting edema. On labs, his liver function test was trending up: AST(U/L) 883 > 2251, ALT (U/L) 1334 > 2527, and total bilirubin (mg/dL) 3.2 > 3.6. Acetaminophen level was negative at presentation and 4 hours after presentation. International randomized ratio (INR) was trending up as well: 3.2 > 3.6. Chest x-ray showed cardiomegaly. Computed tomography (CT) of the abdomen with contrast showed volume overload with small right pleural effusion, ascites and anasarca. There were no signs of liver ischemia or infarct on CT scan. Ultrasound Doppler of the liver showed patent vasculature and congestion of the inferior vena cava. Throughout his hospitalization, he remained normotensive. Hepatology team recommended to trend his liver enzymes, INR and to do neuro checks every 2 hours. Given his fluid overload, an echocardiogram was done, and it showed severely dilated left ventricle, ejection fraction of less than 20%, severe global hypokinesis of the left and right ventricles, severe aortic regurgitation and bicuspid aortic valve. Cardiology team recommended to start the patient on intravenous furosemide twice daily, and then he underwent left heart catheterization which showed normal coronary arteries. After the first dose of furosemide, his liver enzymes and INR started trending down till they reached normal levels. He was diagnosed with congestive hepatopathy that was due to congestive heart failure secondary to severe aortic insufficiency. The patient improved and was discharged on Spironolactone, Carvedilol, and Torsemide. He was scheduled for an outpatient aortic valve replacement.
+
+# IMPACT/DISCUSSION:
+
+Congestive hepatopathy is common with congestive heart failure, especially with right-sided heart failure. Typically, the liver enzymes will be elevated but not higher than three times the normal value. It is rare for congestive hepatopathy to present with liver enzymes as high as this case. However, you always have to rule out other causes of acute transaminitis.
+
+# CONCLUSION:
+
+Identifying the cause of acute transaminitis is time sensitive, as the outcome could be catastrophic. Do not exclude congestive hepatopathy if the liver enzymes are very high, think about it if other physical signs of congestive heart failure are present.
+
+# HE WHO STILL KNOWS SYPHILIS KNOWS MEDICINE
+
+Samantha R. Pop. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3186045)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical manifestations of secondary syphilis.
+
+# LEARNING OBJECTIVE #2:
+
+Consider empiric treatment of patients with high clinical suspicion of secondary syphilis at risk for poor follow-up prior to laboratory confirmation of diagnosis.
+
+# CASE:
+
+A healthy 22-year-old woman presented to a primary care clinic requesting screening for sexually transmitted infections. She reported unprotected sexual intercourse with a male partner three months prior to presentation. On review of systems, she reported a new rash involving her palms and soles, patchy hair loss, and a painless genital lesion. She reported a recent history of fever, myalgias, and sore throat that had since resolved. Her exam was notable for multiple 0.5 to 1.5 cm annular red-brown erythematous papules and plaques with collarette of scale located on her palms and soles. She had bilateral mobile, non-tender anterior cervical and inguinal lymphadenopathy. Gynecologic exam showed a 0.5 cm gray-white papule on the left labia minora. Her physical exam findings and sexual history raised a high clinical suspicion for secondary syphilis and she was treated empirically with 2.4 million units of penicillin G benzathine intramuscularly during the initial encounter. Laboratory studies were significant for a rapid plasma reagin that finalized after 72 hours as reactive with a 1:64 titer. A reflexive treponemal antibody test was reactive confirming the diagnosis. HIV antibody testing was negative. Cervical specimens sent for nucleic acid amplification testing were positive for Chlamydia trachomatis and negative for Neisseria gonorrhea. She was treated with 1 gram of azithromycin PO for chlamydia co-infection. The diagnosis was reported to local and state departments of public health. The patient was scheduled for follow up at one month to monitor for resolution of symptoms and unfortunately was lost to follow up.
+
+# IMPACT/DISCUSSION:
+
+William Osler suggested "he who knows syphilis knows medicine" reflecting how common the disease caused by the spirochete Treponema pallidum was during his tenure in the early 20th century. The manifestations of secondary syphilis are varied and include constitutional symptoms such as fever, myalgias, pharyngitis, a generalized papulosquamous eruption involving the palms and soles, lymphadenopathy, condyloma lata (gray, moist anogenital lesions) and patchy alopecia or telogen effluvium. Now it is often thought of as a rarity, however, the reported rates of syphilis in the United States are rising. While, mostly attributed to an increased number of cases among men who have sex with men, within the last five years, the rates of primary and secondary syphilis among women have more than doubled. This increase is of particular concern given its association with congenital syphilis.
+
+# CONCLUSION:
+
+Syphilis is making a return and clinicians must recognize the manifestations of secondary syphilis and administer early treatment, especially in women of child-bearing age.

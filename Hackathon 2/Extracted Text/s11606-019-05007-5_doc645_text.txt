@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Our aim was to increase metformin use in eligible patients &lt; 60 years old with prediabetes to 15% from November 2017 to April 2018.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This quality improvement project was implemented at an outpatient IM clinic associated with University of Iowa Hospitals and Clinics. Participants included both IM residents (N=37) and IM faculty (N=19) who had their primary care clinics at this site. Our interventions consisted of teaching sessions to other IM residents including a brief didactic on the impact of prediabetes and current ADA guidelines. Residents viewed a video clip explaining how metformin works, as well as how to prescribe and titrate the medication. We also placed bright pink placards with information regarding the diagnosis and treatment of prediabetes on computers in the outpatient clinic workstations as a visual reminder to consider prescribing metformin for prediabetes if appropriate.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We searched our electronic health record database for all patients aged 18-60 seen in our clinic from October 1, 2016 to October 1, 2017 that met criteria for prediabetes as defined by A1c level between 5.7-6.4, and who did not have a diagnosis of type 1 or type 2 diabetes mellitus in their problem list (N=410). The same method was used for selection of patients post-intervention from November 1, 2017 to February 1, 2018 (N=229). A two proportional Z test was used to compare the proportion of patients with prediabetes who had metformin listed on their medication list before and after the intervention.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+There were no significant differences between the pre- and post-intervention groups in gender, median age, BMI and mean hemoglobin A1c. The total percentage of patients with prediabetes prescribed metformin increased from 8.3% pre-intervention to 13.5% post-intervention (p=0.048). In a separate analysis for patients with a BMI greater than 35, metformin prescriptions increased from 11.4% pre-intervention to 16.5% post-intervention, although this result did not reach statistical significance (p=0.330).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Although we did not reach our aim of 15%, we did observe a significant increase in the percentage of patients &lt; 60 years old with prediabetes treated with metformin at our IM clinic. By increasing the number of patients treated for prediabetes, we hope to decrease the rate of progression to diabetes. It is also possible that raising provider awareness of prediabetes will lead to improved screening and improved early interventions. Strengths of our study include a large pre- and post- sample size and the ease of obtaining A1c levels from the electronic health record. Also, our interventions were easy to implement and could be adopted by other clinics and/or institutions.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The objectives of this resident-driven QI project were to 1) improve resident knowledge and awareness of PrEP, 2) identify high-risk individuals seen in residency clinic, and 3) refer them to a designated PrEP counselor to ultimately increase PrEP implementation rates.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Initially, a 3-year retrospective chart review was performed at a federally qualified urban community clinic to identify patients seen who were likely to benefit from a referral for PrEP initiation. Subsequently, an educational intervention, including a comprehensive lecture on the CDC clinical practice guidelines, was carried out over a 6-week period. The action phase entailed identifying patients that would benefit from PrEP at routine health visits, using the NYC-DOHMH sponsored HPLUS screening form. If the patient was identified as high risk, the provider discussed PrEP. Residents were provided with a simple PrEP initiation algorithm. Those patients amenable were then referred to a PrEP counselor and obtained initial lab testing. A follow-up provider visit was then scheduled to initiate Truvada.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The educational intervention was meant to assess and improve resident knowledge and comfort level with offering PrEP by using pre and post intervention resident surveys. During the action phase, the initiation of PrEP in high-risk patients over a 6-month period was documented in one HIPAA compliant, password secured Excel file. The initial pre-intervention retrospective chart review was then used as a comparison to this data to assess an improvement in implementation rates.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Compared to pre survey, residents surveyed post intervention (n=20) demonstrated expanded knowledge of proper candidates for PrEP (59% vs. 90%) and mandatory initial testing (34% vs. 95%). 90% felt more comfortable discussing PrEP with their patients. After initiating the action phase, 6 individuals in the first 6 months were referred to begin PrEP, representing a 6-fold increase from the 1 patient who was referred in the 6 months prior including the educational phase. This is also in stark contrast to the 3 years prior where at least 117 high-risk patients were seen and none were referred to begin PrEP. Subsequently, all 7 patients referred to the PrEP counselor were initiated on Truvada. To date, each of the patients are still taking PrEP without adverse effect and have negative follow-up HIV testing.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This QI initiative reveals that a vast majority of our high-risk population is not being offered PrEP. Our easily reproducible multimodal intervention increased PrEP referral and implementation rates.
+
+# INCREASING PREP IMPLEMENTATION IN HIGH-RISK PATIENTS SEEN BY RESIDENTS IN A PRIMARY CARE CLINIC
+
+Heather Viola; Devorah Edelman; Surksha Sirichand; Dipal R. Patel. Mount Sinai St. Luke's-West, New York, NY. (Control ID #3174348)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The CDC estimates that approximately 1.2 million U.S adults may benefit from HIV pre-exposure prophylaxis (PrEP), a preventive measure that has been shown to significantly reduce HIV transmission among at-risk populations, but only a minority are using; PrEP initiation should largely originate from primary care providers (PCP's) however their knowledge of PrEP initiation guidelines and comfort in prescribing PrEP remains low.
+
+# INNOVATIONS IN TEAM-BASED PRIMARY CARE: PHYSICIAN ASSISTANT AND INTERNAL MEDICINE RESIDENT PANEL CO-MANAGEMENT
+
+Alev Atalay 1, 3; Christina M. Meade 1; Caroline Cupelo 2; Michele Elms 2; Teresa Zhang 2; Richard S. Gitomer 1; Bonnie Southworth 2. 1 Brigham and Women's Hospital, Jamaica Plain, MA; 2 Brigham and Women's Hospital, Boston, MA; 3 Harvard Medical School, Boston, MA. (Control ID #3182838)

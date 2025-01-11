@@ -1,0 +1,23 @@
+# Entrepreneurship and attention deficit/hyperactivity disorder: a large-scale study involving the clinical condition of ADHD
+
+Daniel A. Lerner & Ingrid Verheul & Roy Thurik
+
+Accepted: 1 December 2017 / Published online: 15 May 2018
+
+# The Author(s) 2018
+
+# Abstract
+
+A growing conversation has emerged linking ostensibly dark or pathological individual-level characteristics to entrepreneurship. Attention deficit/hyperactivity disorder (ADHD) is among the most central and emblematic. Recent studies have made great strides—articulating the theoretical relevance of ADHD-type behavior in entrepreneurship and suggesting a positive link consistent with narratives in the popular press. However, quantitative studies have yet to empirically examine ADHD in line with its theoretical roots and definition—as a clinical disorder. The present paper contributes by providing a theoretically–empirically aligned test of the connection between the condition of ADHD and entrepreneurial intention and action. Based on a large-scale data collection effort (N = 9869) and cross-sectional methodology, the results find a positive connection between clinical ADHD and entrepreneurial intentions as well as entrepreneurial action. This grounds prior research on ADHD and entrepreneurship, indicating that individuals with ADHD are indeed more likely to not just espouse entrepreneurial intentions, but also to initiate business venturing. Considering the design, it suggests a self-selection toward entrepreneurship in individuals with ADHD (before potentially being a choice of last resort).
+
+# Keywords
+
+Attention deficit/hyperactivity disorder . ADHD . Nascent venturing . Entrepreneurial intentions . Entrepreneurial action . Entrepreneurship
+
+# JEL Classification
+
+L26
+
+# 1 Introduction
+
+By the end of the twentieth century, the entrepreneurship literature had built a body of knowledge on logical, generally positive, factors associated with business venturing such as human capital, financial capital, cognitive biases, and traditional traits differentiating entrepreneurs (Shane 2003). Building on that tradition, in the twenty-first century, scholars have made great strides in advancing entrepreneurship theory—covering many other

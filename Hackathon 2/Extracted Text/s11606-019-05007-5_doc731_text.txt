@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# NEEDS AND OBJECTIVES:
+
+The Weill Cornell Community Clinic (WCCC) has recently expanded early interprofessional exposure (IPE) for medical students by integrating pharmacy students and their supervising pharmacists into clinic practice. We decided to explore the impact of this program on the knowledge and attitudes of clinical medical students towards IPE while they rotated in WCCC for six weeks as part of their required Ambulatory Medicine clerkship.
+
+# SETTING AND PARTICIPANTS:
+
+The Weill Cornell Community Clinic (WCCC) is a medical student developed and run comprehensive primary care clinic that cares for uninsured New Yorkers with Medical, Women and Mental Health clinics. Within the Medicine clinic both clinical and pre-clinical medical students with attending Internal Medicine physicians provide care. Social workers and social work students have been integrated for years. Additionally, nutritionists and a Nurse Practitioner educator have volunteered. More recently a Pharmacy school approached about providing on-site pharmacist evaluations within our medical practice.
+
+# DESCRIPTION:
+
+Using the pre-validated Student Perceptions of Physician-Pharmacist Interprofessional Clinical Education Instrument (SPICE-R2), surveys were distributed to third year medical students at the beginning and end of their 6-week rotation within the clinic. Attitudes towards interprofessional exposure were assessed on a 1-5 scale (1=strongly disagree, 5= strongly agree). Interprofessional exposure was provided in clinic where pharmacy students worked alongside medical students to provide medication reconciliation and counseling. Pre- and post-intervention data was analyzed using 1-way ANOVA across categories and two-tailed paired t-tests within three categories based on SPICE-R2 designations: interprofessional teamwork and team-based practice, roles/responsibilities for collaborative practice, and patient outcomes from collaborative practice. Twenty medical students were assessed.
+
+# EVALUATION:
+
+Overall SPICE-R2 score improved from 4.04 to 4.35 (7.67% increase) (p=0.01). The biggest change in category score was observed in the overall roles and responsibilities section, which increased from 3.27 to 3.91 (19.5% increase) (p=0.0001) with the understanding of the course taken by and training requirements of other health professionals showing the largest area of improvement of any question with an improvement in score of 34% (p=0.0058). Overall teamwork scores increased 4.5 to 4.7 (4.7% increase) (p=0.0026). Overall outcome scores did increase, although not significantly (p=0.62).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Early exposure for medical students to pharmacy students demonstrated improved teamwork and a better understanding of the roles, responsibilities, trainings, and courses required by other professions. Interprofessional exposure in medical school student run free clinics provides an excellent opportunity to foster interprofessional growth and collaboration.
+
+# MEETING PATIENTS WHERE THEY ARE: ENHANCING COMPETENCE IN ADDRESSING SOCIAL BARRIERS TO CARE THROUGH A MEDICAL STUDENT PATIENT NAVIGATOR PROGRAM
+
+Priscilla Wang1; Lorenzo R. Sewanan2; Eamon Duffy3; Matthew Meizlish2; Juliana Berk-Krauss4; Sophia Gamez2; Emily L. Coleman2; Pinar Oray-Schrom2. 1Brigham and Women's Hospital, Brookline, MA; 2Yale University, New Haven, CT; 3Johns Hopkins, Baltimore, MD; 4Mount Sinai, New York, NY. (Control ID #3186291)
+
+# NEEDS AND OBJECTIVES:
+
+Research consistently demonstrates that health outcomes are determined largely by what happens outside of the walls of hospitals and clinics. Yet medical student training predominantly occurs in health care settings and focuses on addressing biological mechanisms of health. To be effective future clinicians, medical students must understand the context in which patients live and make health-related decisions. The objective of this medical student-initiated patient navigator program (PNP) was to utilize a service-learning model to provide medical students with the knowledge, skills and experience needed to help patients overcome social barriers to health.
+
+# SETTING AND PARTICIPANTS:
+
+Teams in New Haven, CT were formed, each with 2 Yale School of Medicine medical students (1 MS1, 1 MS4+) working with a preceptor (chief resident / attending) supervising multiple teams. In 2016-2017, 8 teams participated; in 2017-2018 the program expanded to 16 teams across 4 sites (2 primary care centers, a diabetes clinic, the Connecticut Mental Health Center).
+
+# DESCRIPTION:
+
+Recruitment of high-need patients (identified by a care provider) occurs in July and August, with one patient assigned to each team. Teams perform a health/social needs-related intake and form health goals with patients via shared decision making. From September to May, medical student patient navigators (PN) contact patients weekly and help them navigate the health care system and address socioeconomic barriers to health goals, via home visits, attending medical appointments, and other means. This service component is coupled with didactic sessions twice a month teaching means of addressing social determinants of health (e.g. food insecurity, motivational interviewing) and group solicitation of ideas to advance patient care.
+
+# EVALUATION:
+
+Pre- and post-intervention surveys were conducted assessing knowledge and skills relating to addressing social determinants of health, such as comfort level conducting a home visit and understanding how to obtain transportation to an appointment. Paired analysis demonstrated statistically significant improvement in the majority of areas assessed. PN rated the program very highly and clinicians reported improvements in patient care outcomes (e.g. decreased HgbA1C).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Patient navigation is a powerful means of teaching medical students critical skills for addressing social determinants of health. It enables students to regularly apply learning in context, while serving their community and increasing patient contact.
+
+# MIND THE GAP: ENHANCING RESIDENT-DELIVERED FORMATIVE FEEDBACK
+
+Malavika Kapuria1; Shira A. Sachs2, 1. 1Baylor College of Medicine, Houston, TX; 2Weill Cornell Medicine, New York, NY. (Control ID #3185682)
+
+# NEEDS AND OBJECTIVES:
+
+Delivering feedback is challenging for clinicians at all levels. Residents face unique barriers to providing feedback given their limited training in this area and their near-peer status to fellow trainees. This has a significant impact on medical students, who rely on feedback from residents to further their professional development. Objectives: (1) Design an intervention to coach residents in providing effective feedback (2) Assess the impact of this intervention on the frequency and quality of resident-delivered feedback.
+
+# SETTING AND PARTICIPANTS:
+
+Over a six-month period, 48 upper-level residents and 96 medical students rotating on Internal Medicine wards at the Michael E. DeBakey VA Hospital were enrolled in the study.
+
+# DESCRIPTION:
+
+We designed a tool with a four-step model for giving feedback. The steps were as follows: setting (identifying a time and venue for feedback), assessment (soliciting the learner's self-assessment before providing feedback based on direct observation), action plan (assisting the learner in...

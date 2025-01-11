@@ -1,0 +1,59 @@
+# JGIM
+
+# ABSTRACTS
+
+# Outcomes for Implementation Research Framework
+
+We recruited participants until thematic saturation was achieved.
+
+# RESULTS:
+
+Fourteen providers participated in interviews. In general, providers found the CDS triggered for appropriate patients, provided the right information to determine appropriateness of recommendations, and had good usability. At least four providers believed they were not the right person to receive the alert, reporting that they primarily participated in cross-coverage, worked in a setting where these medications were typically contraindicated, or were already fully compliant with evidence-based medications. Providers complained that the interruptive alert led to workflow disruption and that frequently they would "just need to click through all of this." Nonetheless, many providers still preferred the interruptive version of the alert because they were either: 1) unaware of the non-interruptive alert in the checklist; 2) "don't use the provider checklist" where the non-interruptive alert resided; or 3) were unaware of the provider checklist.
+
+# CONCLUSIONS:
+
+We found that CDS was generally found to be acceptable, although the interruptive version of the alert was limited by disruptions in workflow. The interruptive alert was ultimately more successful as providers were unaware of the existence of the non-interruptive alert. Furthermore, they infrequently used the provider checklist, a native EHR feature for non-interruptive alerts and messages. Our findings suggest that incorporating user-centered design features can lead to success of an interruptive alert. Furthermore, future efforts to implement non-interruptive alerts must incorporate approaches to increase awareness of the alert and encourage changes in workflow to monitor alert lists.
+
+# QUALITATIVE STUDY OF PRIMARY CARE PHYSICIANS' REASONS FOR NOT FOLLOWING GERIATRIC CHOOSING WISELY RECOMMENDATIONS
+
+Theresa A. Rowe1; Tiffany Brown2; Ji Young Lee1; Stephen Persell3.
+
+1Northwestern University, Chicago, IL; 2Northwestern University Feinberg School of Medicine, Chicago, IL; 3Northwestern University, Evanston, IL. (Control ID #3184036)
+
+# BACKGROUND:
+
+The Choosing Wisely Campaign identifies several areas to reduce unnecessary testing and treatment in older adults seen in primary care. Objective: To examine clinicians' views on the decision to: (1) screen asymptomatic men aged 76 using prostate specific antigen (PSA) (2) order urine studies in women aged 65 years without genitourinary specific symptoms and (3) de-intensify insulin or oral hypoglycemic medications in type 2 diabetes with a hemoglobin A1C <7.0%.
+
+# METHODS:
+
+Design, Setting, Participants: In this semi-structured interview study, we interviewed primary care physicians caring for adults aged 65 years recruited from primary care clinics within a large academic health system. Main Outcome and Measure: We transcribed the audio-recorded discussions and analyzed the transcripts using standard techniques of qualitative content analysis to identify major themes.
+
+# RESULTS:
+
+Fourteen participants were interviewed, 57% were women. We identified several themes. First, most clinicians reported knowledge of these recommendations and could state reasons for not ordering these tests or for de-escalating treatment. Second, physicians relied heavily on patient preference when considering a potentially unnecessary test or treatment. This was particularly true for prostate cancer screening. For example, one physician stated, "Some patients are very insistent or expectant that they would want to continue to get testing." Another said, "If I couldn't educate him enough to reason with him then I think I would order it to make sure patient is less anxious." Third, there appeared to be an underestimation of harm associated with potentially unnecessary testing or treatment and potentially over-valuing clinical benefits. Most participants reported the concern of not wanting to miss a diagnosis when deciding whether to order testing, but few clinicians verbalized the harms associated with these tests. For example, clinicians voiced the concern of missing urosepsis or early prostate cancer, but few acknowledged the downsides of identifying a prostate cancer early in an older man with limited life expectancy or harms associated with using antibiotics for asymptomatic bacteriuria. Fourth, there was an acknowledgment of the lack of time needed to adequately discuss not performing a test like a screening PSA. Finally, clinicians were resistant to change. For example, clinicians articulated not wanting to deescalate medication for diabetes if the patient was doing well, despite understanding the harms associated with over treatment.
+
+# CONCLUSIONS:
+
+Although the Choosing Wisely campaign provides guidance on reducing over testing and treatment in older adults, clinicians may not follow these recommendations because of underlying psychological drivers. Understanding these drivers and developing approaches to physician behavior change that address these issues may help to improve evidence-based care for older adults.
+
+# QUALITY AND SPENDING IN THE FIRST YEAR OF THE POPULATION-BASED PAYMENTS FOR PRIMARY CARE (3PC) SYSTEM IN HAWAII
+
+Amol S. Navathe2, 1; Ezekiel J. Emanuel2; Amelia M. Bond3; Kristin Linn4; Kristen L. Caldarella2; Andrea B. Troxel5; Jingsan Zhu2; Lin Yang6; Shireen E. Matloubieh2; Elizabeth E. Drye7; Susannah Bernheim7; Emily Oshima Lee8; Mark Mugiishi8; Kim Takata8; Justin Yoshimoto8; Isaac Yuen8; Sheryl Okamura8; Michael Stollar8; Jeffrey Tom8; Michael Gold8; Kevin G. Volpp2, 1.
+
+1CMC VA Medical Center, Philadelphia, PA; 2Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA; 3Weill Cornell Medical College, Healthcare Policy and Research, New York, NY; 4Biostatistics, Epidemiology and Informatics, University of Pennsylvania, Philadelphia, PA; 5New York University School of Medicine, New York, NY; 6University of Pennsylvania, Philadelphia, PA; 7Yale University School of Medicine, New Haven, CT; 8Hawaii Medical Service Association, Honolulu, HI. (Control ID #3183125)
+
+# BACKGROUND:
+
+In response to modest impact from quality programs, we worked with the Blue Cross Blue Shield of Hawaii to design and implement the Population-based Payments for Primary Care (3PC) system. This system was designed using behavioral economic insights and implemented in a staggered rollout across all Medicare, Medicaid, and commercial members starting in April 2016.
+
+# METHODS:
+
+We analyzed 2012-2016 claims and quality registry data for 77,225 HMSA members attributed to 107 primary care physicians (PCPs) and 4 organizations (POs) participating in the 1st wave of the 3PC and for 222,233 members attributed to 312 PCPs in 14 POs that continued in fee-for-service in 2016 but had staggered 3PC start dates thereafter. We used a propensity-weighted, difference-in-differences design to compare risk-adjusted changes in quality, cost, and utilization among patients in the 3PC group to those in the non-3PC group - after confirming parallel pre-intervention trends. We used generalized linear models with an identity link for quality, log link and gamma distribution for cost, and log link and negative binomial distribution for utilization, with standard errors clustered by PCP.
+
+# RESULTS:
+
+The groups exhibited small baseline differences in demographics, risk scores, and socioeconomic characteristics. Adjusted analysis indicated an association between the 3PC group and increases in quality in 2016 (differential change in risk-standardized quality scores of 2.3 percentage points (p.p.), 95% CI 2.1 to 2.6 p.p., p<0.001). In secondary analyses, performance on 5 quality measures improved, 2 measures worsened, with no changes for six measures (see Figure). There were significant differential reductions in primary care cost (-3.9%, 95% CI -4.8% to -2.9%, p<0.001), but not total cost of care (1.0%, 95% CI -1.3% to 3.4%, p=0.39). Prescription drug cost differentially increased by 20.1% (95% CI 10.2% to 32.5%, p<0.001). Changes in utilization by category were similar in magnitude to changes in cost by category.
+
+# CONCLUSIONS:
+
+The 3PC was associated with improvements in quality in its first year. Reduction in primary care visits and costs indicate shifts in practice patterns away from visit-based care. This study offers early evidence on the feasibility and effectiveness of shifting to a population-based primary care payment system across commercial, Medicare, and Medicaid.

@@ -1,0 +1,60 @@
+# ABSTRACTS
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our study shows that a simple intervention of sending a letter was able to successfully increase the number of PFTs in our residency clinic. Like prior studies, our intervention also showed that many of our patients with a diagnosis of asthma did not meet criteria for asthma by PFTs in 32% of the population that underwent testing. Those who were identified to have alternative diagnosis were able to be placed on more appropriate treatment, thus reducing both cost and harm in this population.
+
+# DISMANTLING A BARRIER TO MINDFUL LAB ORDERING: THE ATTENDING PHYSICIAN
+
+Rachna Rawal1; Paul Kunnath2; Oluwasayo Adeyemo1; Hala Saad3; Jennifer Schmidt4. 1Saint Louis University, St. Louis, MO; 2Saint Louis University School of Medicine, University City, MO; 3Saint Louis University Hospital, Saint Louis, MO; 4Saint Louis University, Saint Louis, MO. (Control ID #3183489)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Improve resident-attending communication regarding mindful laboratory ordering to create a high-value care culture.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Recognize the attending physician as a barrier to resident mindful laboratory ordering
+2. Identify discrepancies between attending/resident perceptions of laboratory ordering communication
+3. Understand benefits of educating attending physicians and residents on communication
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Unnecessary laboratory orders are a well-known contributor to healthcare cost. Our residents identified "fear of attending" as a barrier to more mindful lab ordering. This project focused on educating attending physicians on high-value care and promoting resident-attending ordering discussions.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Data was collected via anonymous pre and post-intervention survey (designed by study team). Participants included resident and attending physicians on the inpatient Medicine service. Multiple interventions targeting attending physicians occurred over a 16-week period including presentations at monthly hospitalist meeting (included resident lab-ordering data and resident perceptions of attendings). Electronic requests asked attendings to voluntarily submit a message of support for the project; these were then shared with residents. An attending project champion was identified and emailed attendings on service with reminders to discuss lab ordering with their teams. Surveys assessed sustainability at 6 months and 1 year.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Initially, 70% of residents reported worrying about repercussions from attendings if daily labs were not ordered; at 6 months, only 24% reported this (statistically significant, p<0.05). Residents receiving "pushback" from attendings for not ordering daily labs increased from 25% to 54% (statistically significant, p<0.05), sustained at 6 months. At 6 months, 71% of interns and 51% of senior residents reported receiving "pushback" from attendings. At 16 weeks, 62% of attending physicians reported residents are appropriately mindful of laboratory orders (sustained at 6 and 12 months).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our data shows a discrepancy in the perception of mindful ordering discussions between resident and attending physicians. Attendings have a higher perception of attending-initiated discussions and a lower perception of resident-initiated discussion. Interestingly, between 6 and 12-month follow-up, attendings report a decrease in resident-initiated discussions. We hypothesize that this is secondary to a new academic year or may indicate a new barrier. The increased resident-reported discussion of lab ordering has sustained through 6-months. This is further supported by the attendings perceiving the residents as being appropriately mindful of laboratory orders. However, residents have reported receiving more pushback from attendings. This may suggest that attendings are more resistant to mindful lab ordering than they perceive or may reflect increased effort by residents to change lab ordering practices. Despite pushback, fewer residents fear attendings' repercussions.
+
+# DISTANCE MAKES THE HEART GROW FONDER
+
+Hannah Pyle; Ravali R. Inja; Hiral Choksi. St. Louis University, Saint Louis, MO. (Control ID #3162430)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Why do patient's not attend their post-hospital discharge follow-up appointments?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify correlations of patient demographics to likelihood of attending a post hospital discharge follow-up appointment
+2. Determine opportunities to create interventions to improve show rates
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A retrospective analysis was performed on adult patients admitted to SSM Saint Louis University Hospital, a 356 bed tertiary care facility between February 5, 2018 and February 28, 2018. Only patients who had follow-up appointments scheduled with Saint Louis University affiliated-physicians were included. Patient charts were accessed through our EMR to acquire demographic and follow-up appointment information. It was sought to examine the effect of multiple available predictors on appointment attendance: distance between clinic and their house, discharge location (home vs facility), length of stay, chronic comorbidities, lead time to appointment, discharge diagnosis, follow-up service, and number of follow-up appointments.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Although the dataset contained some repeated measures, a fixed model logistic regression was employed because an exceedingly small intra-class correlation coefficient indicated no violation of independence. The empirically best fit model based on AIC value via stepwise regression was identified.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The chosen model suggested two significant effects. For every additional mile in distance from the facility, the odds of attending are 2.76% higher (p = .0248). For every additional day of lead time, the odds of attending decrease by 1.45% (p = .0416). The model also suggested two marginally significant effects. Firstly, having heart disease reduces the probability of attendance by 56.18% (p = .0795). Secondly, having hyperlipidemia increases the probability of attendance by 262.29% (p = .0577).

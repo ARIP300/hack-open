@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# IMPACT/DISCUSSION:
+
+Prosthetic joint infection is a serious clinical entity associated with significant morbidity and mortality. The cutoff value for identifying patients with prosthetic joint infections is lower than in a native joint; a synovial fluid leukocyte differential of >65% neutrophils or a leukocyte count of >2x103/L is highly predictive of prosthetic joint infection. Capnocytophaga canimorsus is a rarely encountered pathogen in humans but commonly part of canine oral flora. Infection with Capnocytophaga spp. can progress rapidly to sepsis and death if not appropriately diagnosed and treated.
+
+# CONCLUSION:
+
+Capnocytophaga spp. are capnophilic gram-negative rods that can be difficult to grow under standard microbiology lab conditions. Infection with these organisms has been noted to appear initially ‘culture-negative,' without sufficient proinflammatory response, later rapidly progressing to sepsis, arthritis, DIC, and death. Septic arthritis due to Capnocytophaga in the immunocompetent patient without trauma is rare. There has previously been one report of prosthetic joint infection of the hip with Capnocytophaga, however infection in that instance was described as indolent, which is atypical for this organism. To our knowledge, this is the first case reported of acute septic polyarthritis with preferential involvement of prosthetic joints by Capnocytophaga in humans.
+
+# PURPURA FULMINANS: A RARE CONDITION WITH A POOR PROGNOSIS
+
+Munther M Queisi1; Sehar Zulfiqar; Shazia Samanani2; Mary Jo Farmer1.  1University of Massachusetts - Baystate (UMMS), Springfield, MA; 2Baystate Medical Center, Springfield, MA. (Control ID #3186012)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize early signs and symptoms of Purpura Fulminans in the acute setting
+
+# CASE:
+
+A 64-year-old female with a complicated past medical history including ischemic colitis with partial resection, rheumatoid arthritis, methotrexate induced interstitial lung disease, Graves' disease post thyroidectomy, and CKD presented to the hospital with right upper quadrant abdominal pain. While in the ED she became hypoxic and suffered a PEA arrest. After resuscitation, she was admitted to the ICU and work up revealed septic shock from ascending cholangitis with E. coli bacteremia. She underwent ERCP and sphincterotomy and required pressor support for hypotension. Over the next few days she began complaining of pain in her distal extremities and developed necrotic skin lesions over her acral surfaces described as hyperpigmentation with dusky and necrotic appearing fingers and toes as well as bullous ulcerations and surrounding purpura. DIC and heparin-induced-thrombocytopenia were both ruled out as the cause. Vascular Surgery was consulted and advised discontinuing vasopressors, but despite this her lesions rapidly worsened. Shortly after, she was diagnosed with Purpura Fulminans. A few days later despite discontinuation of pressors and aggressive wound care, her necrotic lesions worsened, and she underwent bilateral below the knee amputations.
+
+# IMPACT/DISCUSSION:
+
+Pupura fulminans (PF) is rare life threatening emergency among critically ill patients, characterized by the appearance of purpuric rash predominantly in the distal extremities. The rash progresses into sharply demarcated, symmetric, blue or purple discoloration that further evolves to black. These then become larger, confluent ecchymotic lesions and later on, haemorrhagic bullae leading to hard eschars of necrotic tissue. This condition occurs due to dermal microthrombosis and disseminated intravascular necrosis of the venules and capillaries, eventually evolving into deep skin necrosis. Multi-organ failure is common secondary to microthrombi in vessels supplying the organs. Management of PF is supportive with adequate hydration, discontinuation of vasoconstrictors and treating the inciting issue. The most common pathogens of sepsis-induced PF are N. meningitides, S. pneumoniae, S. Aureus, and Clostridia species, and if the organism is unknown broad-spectrum antibiotics are usually initiated to include coverage of these organisms. Anticoagulation may be started to prevent further necrosis. In severe cases, surgical debridement can be done in situations of skin necrosis, and this has shown to reduce mortality. Despite these interventions PF is associated with a poor prognosis with mortality exceeding 50%. In those who survive, one-fourth require a quadruple limb amputation.
+
+# CONCLUSION:
+
+The purpose of this abstract is to raise awareness on the importance of recognizing and managing cases of rare purpura fulminans with immediate action as to avoid limb amputations and death in the setting of septic shock.
+
+# PYLEPHLEBITIS IN A WOMAN WITH DIVERTICULITIS
+
+Rachael Stovall; Chongjia Chen. Boston University Medical Center, Boston, MA. (Control ID #3185999)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the subtle presentation of pylephlebitis
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish the risk factors for developing pylephlebitis
+
+# CASE:
+
+An 86-year-old woman with a history of congestive heart failure, hypertension, chronic kidney disease and diverticulosis presented with three days of fever, anorexia, weakness, nausea and non-bloody diarrhea. She denied vomiting or abdominal pain. She recalls eating a steak and cheese sandwich 24 hours prior to the onset of her symptoms. She denied recent travel, sick contacts, and prior abdominal surgery. She had no alcohol, tobacco or illicit substance use. In the emergency department, she had no flatus or bowel movements. Vitals were notable for a temperature of 100.9 F, blood pressure of 120/56 mm Hg, heart rate of 76 beats per minute, respiratory rate of 16 breaths per minute, and oxygenation of 98% on ambient air. On examination she had abdominal distention and hypoactive bowel sounds, but no abdominal tenderness. Her laboratory results showed a normal white blood cell count, chronic anemia with a hemoglobin of 9.1 g/dL, low platelets of 91,000 per microliter of blood (baseline 210,000 per microliter of blood), an elevated creatinine level of 2.82 mg/dL (baseline 1.92 mg/dL) and normal liver function tests. An abdominal radiograph was without evidence of obstruction or colonic dilatation. On hospital day one, her temperature rose to 102 F. A CT abdomen and pelvis showed diverticulitis in the sigmoid colon and a concentric thrombus within the inferior mesenteric vein, superior mesenteric vein and portal vein. Blood cultures grew Bacteriodes fragilis and Eggerthella lenta. She was diagnosed with sigmoid diverticulitis causing pylephlebitis and completed four weeks of antibiotics, ultimately on ceftriaxone. She was bridged on a heparin drip to warfarin and continued warfarin treatment for three months. One year later she is doing well.
+
+# IMPACT/DISCUSSION:
+
+The patient presented with non-specific symptoms, which is common for pylephlebitis and include fevers, chills, myalgias, weakness, nausea, vomiting, abdominal pain and diarrhea. Physical exam can be benign or include abdominal distention concerning for ileus. Laboratory results may show a leukocytosis and mild transaminitis. The patient's low platelets were atypical and may have been from the thrombus as it resolved with treatment. The most common risk factors for development of pylephlebitis are diverticulitis, appendicitis and.

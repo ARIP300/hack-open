@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+Anti-synthethase syndrome is characterized by autoantibodies targeting aminoacyl tRNA synthetases, such as anti-Jo1, and is predominantly associated with interstitial lung disease. Diagnosis is achieved by a combination of clinical manifestations, presence of autoantibodies and biopsy findings. Other studies like EMG and muscle MRI are also useful in diagnosis. Treatment for inflammatory myopathies remains a challenge due to their heterogeneity, thus a multidisciplinary approach is warranted.
+
+# CONCLUSION:
+
+Inflammatory myopathies are a group of autoimmune disorders characterized by muscle inflammation, but often accompanied by extra-muscular involvement including skin, joints and lung, as seen in our patient. Recent discovery of autoantibodies and advances in pathophysiology have led to the development of a new classification criteria subgrouping IIMs in 5 types. These share some clinical presentations, but also have specific patterns of muscle involvement, distal organ affection or paraneoplastic syndrome association, which makes accurate diagnosis of upmost importance for adequate treatment and prognosis.
+
+# MASS EFFECT: A CASE OF BILIARY OBSTRUCTION
+
+Alexander Katz1; Michael Crawford1; Deepa Bhatnagar2. 1Tulane University School of Medicine, New Orleans, LA; 2Tulane University, New Orleans, LA. (Control ID #3184480)
+
+# LEARNING OBJECTIVE #1:
+
+Demonstrate a rare cause of biliary obstruction
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the clinical spectrum of IgG related disorders
+
+# CASE:
+
+A 71-year-old man presented with 3 days of intermittent abdominal pain and nausea. His past medical history was pertinent for a recent episode of biliary pancreatitis. He did not report alcohol abuse or a history of gallstones, and his only medications included hydrochlorothiazide, rosuvastatin and losartan. Vitals were normal and epigastrium was tender. Liver enzymes revealed AST 220, ALT 320, alkaline phosphatase of 508 with total bilirubin of 2.8. Lipase was normal. Ultrasound revealed gallstones and common bile duct dilation of 6-7mm but without clear obstruction. CT abdomen/pelvis revealed a 1 cm pancreatic mass and terminal ileum thickening with ileocolic lymph nodes. CA-19 was 264 and IgG was elevated to 1907. MRI and EUS were done to further evaluate pancreatic lesion and showed no evidence of pancreatic mass. Liver biopsy showed no fibrosis or malignancy. Lower endoscopy showed no intraluminal mass in the ileum. Ultimately, the mesenteric nodule biopsy was performed along with cholecystectomy which revealed IgG related sclerosing disease of both the gallbladder and mesenteric nodule. ERCP with stent placement was performed for biliary drainage. The patient was treated with steroids with improvement in symptoms.
+
+# IMPACT/DISCUSSION:
+
+Internists frequently encounter hepatobiliary pathology when caring for patients. In this case, the patient's clinical picture was more consistent with biliary obstruction. After more common causes were ruled out, including autoimmune hepatitis, an obstructive pancreatic lesion and gallstones, more advanced diagnostics were performed. IgG related disease was suspected based on elevated IgG, recent history of pancreatitis and CT imaging findings. However, primary sclerosing cholangitis and cholangiocarcinoma can also present with biliary obstruction. Therefore, tissue samples were obtained from both the gallbladder and mesenteric nodules. This biopsy revealed a plasma cell infiltrate and storiform fibrosis, characteristic histology of IgG disease. IgG related diseases represents a spectrum of disorders that most commonly include autoimmune pancreatitis and IgG related sclerosing cholangitis, but it can affect most other organs. The clinical presentation is variable depending on the organ involved but when it involves the biliary system, it often mimics more common causes of cholecystitis, cholangitis and pancreatitis. While our patient presented without pancreatitis, which occurs in up to 30% of cases of IgG related sclerosing cholangitis, it is likely that his most recent episode represented autoimmune pancreatitis as well.
+
+# CONCLUSION:
+
+IgG related sclerosing cholangitis is the most common extra-pancreatic manifestation of autoimmune pancreatitis and is an important syndrome for internists to recognize, as it frequently mimics more common manifestations of biliary pathology.
+
+# MASSIVE ABDOMINAL WALL HEMATOMA
+
+Eric H. Lee; Andrew Lai. UCSF, San Francisco, CA. (Control ID #3144128)
+
+# LEARNING OBJECTIVE #1:
+
+To identify abdominal wall hematoma as a hemorrhagic complication of paracenteses.
+
+# CASE:
+
+A 45-year-old man with decompensated alcoholic cirrhosis presented to the emergency department with abdominal pain following a routine outpatient paracentesis. Physical examination revealed a distended abdomen with diffuse left lower quadrant tenderness. Initial laboratory tests revealed a hemoglobin level of 9.3 grams per deciliter (reference range, 14-18). Computed tomography of the abdomen and pelvis revealed a new abdominal wall hematoma (22 x 9 x 6.5 cm). He was initially admitted to an inpatient medicine wards service for monitoring. However, within 24 hours he was transferred to the intensive care unit for hemodynamic monitoring and large volume blood product transfusions. Due to evolving disseminated intravascular coagulation and new renal replacement therapy requirement, he was transferred to another hospital for expedited liver transplantation evaluation. On arrival, the patient's Model for End-Stage Liver Disease (MELD-Na) score was 39. Repeat imaging (Panel A, black arrow) showed a rapidly expanding hematoma (35 x 28 x 18.5 cm) with abdominal mass effect. He underwent successful embolization of the left inferior epigastric artery, but later developed a spontaneous perihepatic hemorrhage (Panel B, white arrow) that led to hemodynamic collapse. He was subsequently transitioned to comfort care and died five days after transfer.
+
+# IMPACT/DISCUSSION:
+
+Paracentesis is a core internal medicine bedside procedure. While paracentesis complications are rare (1%), hemorrhagic complications can be life-threatening, especially in those with end-stage liver disease. IR-guided embolization of the inferior epigastric artery may halt hemorrhagic progression.
+
+# CONCLUSION:
+
+Abdominal wall hematomas are the most common hemorrhagic complication of paracenteses.
+
+# MECHANICAL TRICUSPID VALVE THROMBOSIS PRECIPITATED BY INCARCERATION
+
+Daniel Brady; Aaron W. Sweeney. Tulane University School of Medicine, New Orleans, LA. (Control ID #3180130)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose mechanical valve thrombosis with appropriate imaging modalities
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that incarceration can precipitate medical illness
+
+# CASE:
+
+An incarcerated 36 year old woman presented with acute onset, substernal chest pain. It was constant, sharp and radiated to the left axilla. Taking a deep breath and laying flat made it worse, while sitting forward provided relief. She denied cough, lightheadedness, leg swelling and dyspnea. Medical history included tricuspid valve endocarditis as a result of intravenous heroin use for which she received mechanical valve replacement four years prior. She denied drug use for three years. Her medications included warfarin; however, she was incarcerated four days prior and had not received any medications since. Her physical exam was unremarkable with no murmur or click. Laboratory data was relevant for a subtherapeutic INR and negative serial troponins. Her electrocardiograms had no changes from prior. She was started on a heparin drip. A transthoracic echocardiogram revealed moderate regurgitation and severe stenosis of the tricuspid valve. Leaflet motion was not well visualized; however, a transesophageal echocardiogram the following day revealed immobility.

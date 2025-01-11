@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+of TB. Empiric treatment for TB was initiated and continued despite mounting evidence that decreased the probability of cavitary TB. This patient suffered from iatrogenic liver injury and a high-risk surgery that potentially could have been avoided through earlier diagnosis. About 75% of diagnostic errors have a cognitive component. Anchoring bias is the tendency for clinicians to stick with a diagnosis even as new contradictory information becomes available. To avoid anchoring, clinicians can employ Bayesian reasoning. While calculation of post-test probabilities using likelihood ratios can be daunting, a practical nomogram can aid in rapid utilization. If the pretest probability of TB in this patient was 70%, the posttest probability of TB after three negative sputum AFB smears and PCR dwindled to 20%, necessitating additional workup. Increased cognitive awareness through utilization of these probabilities can overcome anchoring bias and decrease errors.
+
+# CONCLUSION:
+
+1. Cavitary lung lesions may result from microorganisms including but not limited to TB.
+2. Anchoring bias can delay correct clinical diagnosis and increase risk of morbidity.
+3. Bayesian analysis can be used to minimize the effects of anchoring bias.
+
+# A HORSE IN A ZEBRA COSTUME
+
+Elaine Buckholtz; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186127)
+
+# LEARNING OBJECTIVE #1:
+
+Develop a systematic approach to the work-up for hypoglycemia.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the importance of early detection of factitious hypoglycemia.
+
+# CASE:
+
+A 20 year-old woman presented with extreme lethargy and was found to have a blood sugar of 49. She was admitted for recurrent and profound hypoglycemia of unknown etiology that had been ongoing for several months. She also had admissions for seizures related to hypoglycemia in the past. Due to increased sensitivity to even small doses of insulin, the patient reports that she stopped taking basal insulin altogether three weeks ago, which was interesting given her history of type 1 diabetes and hereditary pancreatitis which required a pancreatectomy. She was found to have undetectable levels of pro-insulin and c-peptide, but an elevated level of insulin. Insulin antibody levels were also elevated. IGF-1 and IGF-2 were normal. ACTH stimulation test was normal. A CT abdomen showed a mass suspicious for a neuroendocrine tumor. A DOTATE scan was also mildly positive which increased suspicion for a neuroendocrine tumor. An exploratory laparotomy yielded a tissue sample of the mass that was negative for neuroendocrine tissue. The patient improved without further intervention and tolerated a modest regimen of insulin without recurrence of hypoglycemia. The patient suffered from severe depression with prior suicide threats in addition to difficult social circumstances. It became evident that she had several risk factors and exhibited signs concerning for factitious hypoglycemia.
+
+# IMPACT/DISCUSSION:
+
+Recurrent hypoglycemia, outside of an acutely ill patient, requires a systematic approach from the general internist. It is important to implement a methodical approach to hypoglycemia as the differential is vast and work-up can become complicated as well as costly. Certain drugs and alcohol should be ruled-out first as a cause. Adrenal insufficiency will usually present with symptoms outside of what would be typical for hypoglycemia. Distinguishing between endogenous versus exogenous insulin will also be a helpful clue, which can be assessed by measuring insulin and c-peptide levels in the blood. C-peptide levels will be high with endogenous secretion of insulin. A common cause of exogenous insulin would be accidental or surreptitious administration of insulin. If there is suspicion for factitious behavior, it is important to rule-out an insulinoma, as labs will appear similar when compared to excessive sulfonyurea administration. Identifying a person with factitious disorder can be elusive and the implications of missing this diagnosis are serious. Complications of hypoglycemia include seizures, coma, and even death. Additionally, the cost of searching for an alternative cause can be high and it may lead to invasive, unnecessary procedures.
+
+# CONCLUSION:
+
+The general internist needs to have an approach to hypoglycemia that minimizes unnecessary testing and interventions in order to rapidly diagnose and treat the appropriate etiology.
+
+# A LEGION OF THEIR OWN: A CASE OF LEGIONNAIRE'S DISEASE
+
+William Chastant1; Phillip S. Bell1; Robert Miller2. 1Tulane University School of Medicine, New Orleans, LA; 2Tulane University Health Sciences Center, New Orleans, LA. (Control ID #3184473)
+
+# LEARNING OBJECTIVE #1:
+
+Discuss the rationale behind Legionella urine antigen testing.
+
+# LEARNING OBJECTIVE #2:
+
+Describe the severity of Legionnaire's disease.
+
+# CASE:
+
+A 67-year-old native Hawaiian with a history of COPD and diet-controlled diabetes presented with one week of progressively worsening dyspnea and weakness. He reported associated subjective fevers, a non-productive cough, and episodes of drenching sweats. Additionally, he experienced multiple episodes of watery, non-bloody diarrhea for several days, which resolved the day prior to presentation. His dyspnea and weakness resulted in an inability to get out of bed. He denied drug or alcohol use. He worked as a groundskeeper at a naval base. On physical exam his temperature was 103, HR 102, BP 159/90, RR 20, O2 % 95 on 2L NC. He exhibited increased work of breathing, diffuse rhonchi bilaterally and was extremely diaphoretic, with pools of sweat forming behind his clavicles. His hemoglobin was normal. WBC count was 11.7 (4.8-10.8) with 19% bands. His sodium was 131, and his AST and ALT were 148 and 105. CRP was 24.01 (nl 0-0.6). Rapid flu was negative. The rest of the chemistry panel was normal. Patchy, multi-focal, bilateral, lobar opacities were noted on initial chest x-ray. Piperacillin/tazobactam was initiated and Medicine was consulted for admission. Legionella and S. pneumoniae urine antigen, sputum cultures and blood cultures were ordered. Chest CT demonstrated multi-focal pneumonia with emphysematous changes and bronchiectasis. Given his structural lung disease, risk factors & toxic appearance, levofloxacin was added for additional antipseudomonal coverage. He improved initially but later became increasingly dyspneic and required intubation. Legionella urine antigen resulted positive. His coverage was narrowed to levofloxacin. Blood and sputum cultures had no growth. The patient was subsequently extubated and discharged home with a diagnosis of Legionnaire's pneumonia.
+
+# IMPACT/DISCUSSION:
+
+The severity of Legionnaire's disease warrants consideration of Legionella spp. as the etiology of any pneumonia that presents to the hospital. Radiographically there is no distinction with typical pneumonia. The commonly taught distinguishing features of diarrhea, hyponatremia and elevated transaminases, while helpful, are often absent. Sputum culture remains the gold standard for diagnosis. However, up to 50% of patients with legionella pneumonia do not produce sputum, making a culture difficult to obtain. Legionella urinary antigen has a sensitivity of 70-80% with a specificity approaching 100%. Therefore, multiple organizations recommending Legionella urine antigen testing in all patients with severe pneumonia.
+
+# CONCLUSION:
+
+In 2015, pneumonia was the 5th most common principal diagnosis leading to hospitalization in the United States. 1-10% of these cases were caused by Legionella spp. with mortality rates reaching up to 10% even with treatment.
+
+# A MALIGNANT CURE: SECONDARY NEOPLASM PRESENTING AS A CANCER OF UNKNOWN PRIMARY IN A HODGKIN'S LYMPHOMA SURVIVOR
+
+Carlos A. Lopez1; Nirupa J. Raghunathan2. 1Memorial Sloan Kettering Cancer Center, New York City, NY; 2Memorial Sloan Kettering Cancer Center, New York, NY. (Control ID #3186118)

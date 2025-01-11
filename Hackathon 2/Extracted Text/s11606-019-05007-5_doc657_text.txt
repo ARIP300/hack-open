@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# PATIENT CARE OUTCOMES FROM A RESIDENT SUBOXONE CLINIC
+
+Melanie Woodward1; Deepa R. Nandiwada1; Marc Shalaby2; Benjamin Larson3.
+1University of Pennsylvania, Philadelphia, PA;
+2Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA;
+3Main Line Health, Philadelphia, PA. (Control ID #3181600)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Incorporating suboxone treatment into the resident clinic provides unique challenges of frequent handoffs, varying provider input into care decisions, and fragmented continuity in the patient-doctor relationship which may affect patient outcomes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The intent of the program is to treat opiate use disorder in an educational environment with treatment outcomes equivalent to those of primary care based programs.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The START (Solutions To Addiction Recovery and Treatment) Clinic was embedded in a resident-based practice in late 2017 with four rotating attendings which attend on a 6 week rotation and residents which rotate in 1-2 week rotations. The half day clinic occurs weekly based on referrals from across the healthcare system with the goal of providing primary care and suboxone services. Policies are in place to ensure appropriate prescription and urine drug screen monitoring, address relapses, refer to mental health care, and screen for chronic illnesses. However, there is variation in how these policies are carried out amongst providers which may ultimately affect patient success.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We reviewed patient records of those seen in the START program to assess demographics, types of substance abuse, referral modality, and retention with appropriate urine drug screens. The number of relapses and attention to primary care treatment was secondarily measured. Given the unique nature of embedding the program within a resident clinic, special attention was paid to whether these measures were comparable to non-resident outcomes and whether there was unexpected variation in these parameters as a result of breaks in provider continuity.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In the first 14 months of the program, 39 patients were successfully inducted. 3 failed home inductions and did not return. Of those successfully inducted, 59% remain active in the program with average retention of 21.9 weeks and 35.8% retention at 24 weeks. 41% of patients experienced a relapse with an average of 4 appropriate urine drug screens prior to relapses. Variable responses to relapse included signing recommitment contracts, returning to weekly office visits, requiring mental health treatment, engaging partners/family members in care, and retaining wrappers. 88% of patients had routine HIV, HCV screening with 9 patients referred for initial HCV or HIV treatment. Patients received care from an average of 6 residents and 3 attendings.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+The resident-based clinic with referral from a health system presents unique issues created by involvement of multiple providers which may lead to decreased rates of retention when compared to other primary care based programs that refer from within their own practice. However, the resident-embedded model has the capacity to increase the number of patients served by suboxone exponentially, caring for patients immediately and training waivered providers of the future. It will continue to grow in success with time and experience and should be considered for expansion to other residency programs.
+
+# PATIENT EXPERIENCE AND CULTURALLY COMPETENT CARE FROM THE PERSPECTIVE OF AFRICAN AMERICANS/BLACKS IN DENVER, COLORADO
+
+Beza Jobira1, 3; Terri Richardson3; Virginia Visconti2; Cerise Hunt2, 3.
+1University of Colorado Denver, Denver, CO;
+2Colorado School of Public Health, Denver, CO;
+3Colorado Black Health Collaborative, Denver, CO. (Control ID #3164479)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+African Americans/Blacks (Blacks) have higher rates of morbidity and mortality than other races and ethnicities, and a lack of culturally competent healthcare hinders effective healthcare delivery and increases the likelihood of poor clinical outcomes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Assess Black patients' experience of culturally competent care in outpatient primary care through facilitated focus group discussions.
+2. Conduct qualitative analysis of themes related to cultural competency.
+3. Disseminate patients' experience and perception of culturally competent care to healthcare providers.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This study used focus groups to understand patient experiences and perceptions of healthcare providers' cultural competency. Blacks that receive healthcare from three different primary care clinics settings—HMO, federally qualified health center, and center for uninsured patients—were recruited from the Denver Metropolitan area. A flyer was distributed for participation in community centers and an email outreach was done through a community organization. A total of 28 patients participated in one of the three focus groups.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+All focus groups were facilitated by a trained research assistant using a semi-structured protocol, and were recorded and transcribed verbatim. Framework Analysis was used to analyze and identify convergent themes.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Patient experiences were influenced by the dynamic interaction between the healthcare system, clinic environment, and healthcare providers. At the system level, patient experiences were shaped by cost, time spent with providers, and providers' cultural competence training. At the clinic level, location and workforce diversity affect patient experiences. At the healthcare provider level, patients highly value the quality of the patient-provider interaction. This interaction was not only influenced by the providers' quality of engagement, cultural competency and communication skills, but also by the patients' ability to advocate for their healthcare.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Regular diversity and inclusion training can support the enrichment of healthcare staff and providers' cultural competency. Integrating culturally competent care appropriate to patients' cultural backgrounds is imperative in improving patient satisfaction and engagement in healthcare.

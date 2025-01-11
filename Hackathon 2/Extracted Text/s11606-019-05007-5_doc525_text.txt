@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+Due to patient preference, he was discharged with close follow-up. Outpatient endocrinology workup showed elevated plasma aldosterone concentration (PAC = 27) to plasma renin activity (PRA = 0.7) > 15. Saline infusion test and abdominal computed tomography are pending.
+
+# IMPACT/DISCUSSION:
+
+Primary aldosteronism (PA) is a rare disease affecting 1% of hypertensive patients. PA is the most frequent cause of secondary arterial hypertension, and it is often due to aldosterone-producing adenomas or adrenal hyperplasia. PA classically presents with hypertension, hypokalemia, and metabolic alkalosis. Hypokalemia can commonly lead to muscle weakness, but, in rare cases, it can lead to rhabdomyolysis. In the literature, there are only a few cases of rhabdomyolysis as the presenting symptom of PA. In our patient, the rhabdomyolysis was incidentally noted on labwork in the setting of atypical chest pain without muscle weakness or pain. Frank rhabdomyolysis often does not occur unless the serum K levels are below 2.0 mEq/L. To prevent further progression of symptoms, large amounts of K supplementation are necessary as well initiation of an anti-aldosterone receptor drug including spironolactone or eplerenone. PAC/PRA > 15 is highly suggestive of PA, but diagnosis should be confirmed with aldosterone suppression with sodium loading or saline infusion test. In addition, imaging is needed for evaluating the cause of PA.
+
+# CONCLUSION:
+
+Rhabdomyolysis may not present with typical symptoms of muscle weakness or pain, so there should be a high suspicion for PA if rhabdomyolysis occurs in the setting of chronic hypokalemia and medication refractory hypertension. In these cases, initiation of an anti-aldosterone receptor drug can help with supplementation-resistant hypokalemia.
+
+# RHINOVIRUS INFECTION A TRIGGER OF SEVERE HYPONATREMIA
+
+omar kousa; Dana Awad; abdallah qasim; Bailey Waters; Mohsin Mirza. Creighton University, Omaha, NE. (Control ID #3186065)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the role of rhinovirus in causing hyponatremia.
+
+# LEARNING OBJECTIVE #2:
+
+Present hyponatremia as a poor prognostic factor in rhinovirus infection in adults.
+
+# CASE:
+
+A 52-year-old Caucasian woman with a medical history of hypertension on Lisinopril-Hydrochlorothiazide and anxiety on Sertraline, presented with shortness of breath, productive cough, fatigue, confusion and diarrhea of few days. On physical exam; she was mildly distressed and looked dehydrated. Vital signs were significant for a blood pressure of 100/70 mmHg, Heart rate of 110/minute, respiratory rate of 35/minute, a temperature of 100 F and oxygen (O2) saturation of 85% requiring 2 Liters (L) of O2 via nasal cannula. Chest exam revealed diffuse bronchial breathing sounds. Chest X-ray showed consolidation consistent with pneumonia. Metabolic profile was significant for hyponatremia at 101 mmol/L (normal is 135-145). She was admitted to the intensive care unit as a case of severe sepsis with severe hyponatremia. Further work-up showed low urine sodium at 5 mmol/L, elevated urine osmolality at 736 mOsm/kg, along with low serum osmolality at 230 mOsm/kg which supported a diagnosis of Syndrome of Inappropriate Anti-Diuretic Hormone Secretion (SIADH) as a cause of her hyponatremia. Renal team was consulted and she was started on hypertonic saline and levofloxacin, in addition to holding all home medications. She was subsequently intubated due to increased work of breathing. Respiratory pathogen screen came positive for Rhinovirus. Her severe hyponatremia was corrected slowly, her mental status improved and she was eventually extubated.
+
+# IMPACT/DISCUSSION:
+
+The patient had been taking hydrochlorothiazide and sertraline for many years. Sodium six months prior to was normal. We think her severe hyponatremia multifactorial, with Rhinovirus infection being the major contributing factor. Previous studies have shown that respiratory tract infections can induce hyponatremia due to an unknown mechanism, most likely SIADH. When rhinovirus present with hyponatremia, it is associated with a worse course. Multiple previous studies showed the link between rhinovirus and hyponatremia in the pediatric population, but no sufficient data has been reported for the adult population.
+
+# CONCLUSION:
+
+Rhinovirus can induce severe hyponatremia in high risk patients and low serum sodium at initial presentation is associated with worse clinical outcome in adults. However, larger studies are needed to elucidate the exact mechanism.
+
+# RING AROUND THE ENHANCING LESIONS
+
+Justine Phifer; Andrea Porrovecchio. Montefiore Medical Center, Bronx, NY. (Control ID #3186330)
+
+# LEARNING OBJECTIVE #1:
+
+Identify etiologies of ring enhancing lesions in brain.
+
+# LEARNING OBJECTIVE #2:
+
+Understand legal and ethical consent process for obtaining HIV testing.
+
+# CASE:
+
+A 60 year old woman from Ghana with unknown HIV status presented with altered mental status of four days and weight loss with trouble ambulating of a few months. On presentation patient was inattentive, disoriented, and had left upper and lower extremity weakness. CT head revealed mass effect in right temporal lobe and right caudate head and a MRI brain revealed 30 predominantly ring enhancing lesions in cerebrum/cerebellum. Patient was started on dexamethasone given the mass effect of her brain lesions and treated empirically for toxoplasmosis given high clinical suspicion. CSF was eventually positive for toxoplasmosis and HTLV. Although initially unable to provide consent for HIV testing due to her altered mental status, she was eventually able to provide informed consent and was found to have new diagnosis of AIDS with a CD4 count of 29. Given her AIDS status and unusually high number of lesions on MRI, she was thought to potentially have concurrent CNS lymphoma. Brain biopsy was deferred until full malignancy workup had been performed and follow up imaging had been obtained to assess for improvement in lesions with toxoplasmosis treatment.
+
+# IMPACT/DISCUSSION:
+
+The differential for ring enhancing lesions in the brain may be narrowed based on degree of patient's immunosuppression as well as whether lesions cause mass effect. In immunocompetent patients as well as those with CD4 count >500, benign and malignant brain tumors and metastases predominate. Moderately immunosuppressed patients or HIV positive patients with CD4 count 200-500 rarely present with focal brain lesions. Severely immunosuppressed patients and those with CD4<200 most likely have an opportunistic infection or AIDS-associated tumors. CNS lesions with mass effect are most often caused by Toxoplasma encephalitis and primary CNS lymphoma in the developed world, and in developing world, tuberculomas. One study of HIV positive persons who underwent brain biopsy for the diagnosis of focal CNS lesions revealed that 6 percent had more than one etiology of a lesion. Laws regarding HIV testing differs amongst states, but in New York, verbal consent must be obtained prior to testing. The law mandates that all patients are offered HIV testing (an "opt-out" program). Certain exceptions do exist, such as for newborns, when testing blood or organs for donation, for instances of occupational exposure, certain cases of indicted sex offenders, etc. While HIV status would have possibly helped narrow the differential in our patient, legal and ethical considerations must be made and under most circumstances, patients have the right to decline testing.
+
+# CONCLUSION:
+
+Toxoplasmosis should be empirically treated if clinical suspicion is high enough, even if HIV status is unknown. In some states,

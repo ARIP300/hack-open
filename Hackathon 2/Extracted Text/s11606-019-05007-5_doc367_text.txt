@@ -1,0 +1,69 @@
+# ABSTRACTS JGIM
+
+# MALIGNANCY
+
+Pelvic ultrasound is a critical tool for evaluating female patients. Transvaginal ultrasound has been shown to be superior even to pelvic MRI for delineating cervical tumor (Alcazar 2014). Therefore, although CT is an easily-obtainable imaging modality, a transvaginal ultrasound is necessary to adequately evaluate a woman with urinary obstruction for gynecologic malignancy.
+
+# CONCLUSION:
+
+Malignancy accounts for nearly 75% of cases of obstructive uropathy in women. To better evaluate for gynecologic malignancy, a transvaginal ultrasound is more useful than CT or MRI.
+
+# ACUTE ONSET TYPE 1 DIABETES MELLITUS IN A 95-YEAR-OLD PATIENT WITH METASTATIC MELANOMA
+
+Damond B. Ng1; Sara-Megumi Naylor2, 1David Geffen School of Medicine at UCLA, Los Angeles, CA; 2Department of Veterans Affairs, Los Angeles, CA. (Control ID #3162607)
+
+# LEARNING OBJECTIVE #1:
+
+Demonstrate that T1DM is a rare, but critical side effect of anti-programmed cell death-1 (PD-1) antibodies. Endocrine disturbances can contribute to the morbidity of patients with malignancy.
+
+# LEARNING OBJECTIVE #2:
+
+Appreciate that primary care providers can play a role in managing the side effects and weighing the benefits and risks of immune checkpoint inhibitors.
+
+# CASE:
+
+A 95 year-old man with a history of metastatic melanoma presenting for surveillance imaging was incidentally found to have a serum glucose of 428 mg/dL. He had no past medical history of diabetes or known evidence of pancreatic metastases. His family history was notable for a daughter with type 1 diabetes mellitus (T1DM) diagnosed at a young age. For metastatic melanoma, he received 7 cycles of pembrolizumab (200mg every 3 weeks) for palliation. He reported polyuria, polydipsia, and weight loss for the last 3 months. He denied abdominal pain, nausea, and vomiting. His physical exam was pertinent for hypotension (80/40 mmHg), normal respiratory effort, normal mentation, a normal abdominal exam without tenderness, and poor skin turgor. Laboratory evaluation revealed a normal anion gap and serum osmolality. There were no ketones in his urine and serum. Further studies demonstrated a hemoglobin A1c of 9.5%, an inappropriately low serum C-peptide at 0.56 ng/mL (0.8-3.85), and an undetectable anti-GAD titer. Pembrolizumab was held and the patient was started on basal-bolus subcutaneous insulin. He successfully obtained glucose control with a follow-up hemoglobin A1c of 7.2% and normalization of his C-peptide.
+
+# IMPACT/DISCUSSION:
+
+Although pembrolizumab, a monoclonal antibody against PD-1, has improved survival in patients with metastatic melanoma, descriptions of endocrine disturbances are accumulating. Fortunately, most side effects are reversible, but early recognition and proper management are crucial.
+
+# CONCLUSION:
+
+Checkpoint inhibitor therapy has been associated with the acute onset of T1DM in approximately 0.2% of cases with a range of 1-52 weeks after initiation. This patient had the following glucose trend: 186 mg/dL at week 15, 329mg/dL at week 18, and finally 428 mg/dL at week 21. There was no investigation or intervention until week 21. Timely evaluation might have led to pembrolizumab cessation and evaluation for T1DM rather than a presentation of a hyperglycemia crisis. Per recent guidelines, serum glucose should be measured at baseline and with each treatment cycle during induction for 12 weeks, then every 3 to 6 weeks thereafter. In a series of five cases of pembrolizumab associated T1DM, patients initially presented with hyperglycemia or diabetic ketoacidosis. All required insulin at diagnosis and remained insulin-dependent for diabetic control. The patient's advanced age, Do-Not-Resuscitate status, visual impairment and poor social support made this new diagnosis challenging. He was admitted overnight for insulin therapy and endocrine consultation. The risks and benefits of pembrolizumab were discussed and the drug was discontinued.
+
+# ACUTE RENAL AND SPLENIC INFARCTIONS AS THE INITIAL MANIFESTATION OF PAROXYSMAL ATRIAL FIBRILLATION (PAF)
+
+Liangbo (linus) L. Shen1; Wei Qi1; Jose C. Duarte1; Anil Nagar1, 2; Naseema B. Merchant1, 2. 1Yale University School of Medicine, New Haven, CT; 2VA Connecticut Health Care, West Haven, CT. (Control ID #3184327)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose uncommon embolic presentations of paroxysmal atrial fibrillation (PAF).
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of cardiac monitoring and appropriate imaging studies in patients presenting with visceral emboli.
+
+# CASE:
+
+A 73-year-old man with a history of hypertension and diverticulosis presented to the emergency department with one day history of severe left lower quadrant (LLQ) abdominal pain and nausea. He denied dizziness, chest pain, palpitations, shortness of breath, hematuria, fever or diarrhea. Vitals were notable for hypertension (187/104 mmHg). Physical exam including cardiac was normal except for tenderness in LLQ. Results of WBC, creatinine, LFT's and urinalysis (1+ protein, 1 white blood cell, and 4 red blood cells) were normal. Initial EKG showed normal sinus rhythm. A non-contrast abdominal CT showed no calculi in the urinary tract. Due to concern for acute diverticulitis and intestinal ischemia, he underwent a contrast enhanced abdominal CT scan showing acute infarctions in the left kidney and spleen. Anticoagulation was initiated due to a high suspicion of cardioembolic events as an underlying etiology. Subsequently, continuous telemetry showed occurrence of PAF, confirmed by a subsequent EKG. Patient's symptoms quickly improved, and he was discharged 3 days later in normal sinus rhythm on anticoagulation.
+
+# IMPACT/DISCUSSION:
+
+In patients with PAF, brain is a common site for cardiac emboli. Embolization to other organs is low (extremities: 1.22%, mesenteric: 0.58%, pelvic artery: 0.18%, aorta: 0.14%, renal: 0.04% - Frost 2001). Splenic infarcts are rare and true incidence is unknown. AF is a common underlying etiology in patients presenting with renal infarction. Symptoms include flank or abdominal pain, nausea, vomiting, and fever. Lab abnormalities include elevated levels of LDH and WBC, hematuria and proteinuria. The common causes of splenic infarction include hematologic diseases (e.g. malignancy and sickle cell) and cardioembolic causes (Antopolsky 2009). Symptoms of splenic infarcts include left-upper-quadrant pain, fever, chills, nausea, vomiting, pleuritic chest pain, and left shoulder pain. Our patient presented with a normal cardiac exam, EKG, lab data and non-contrast abdominal CT but high clinical suspicion for a serious underlying abdominal condition prompted a contrast CT scan which confirmed the diagnosis and subsequent telemetry monitoring helped establish the diagnosis of PAF as a cause of his visceral infarctions.
+
+# CONCLUSION:
+
+Acute renal and splenic infarctions are rare, but can manifest as the first and only presentation of PAF even in the absence of arrhythmia on initial cardiac exam or EKG. Hence for patients presenting with acute renal and splenic infarction, continuous telemetry monitoring is very important to diagnose PAF. Lastly, this case also demonstrates the value of using intravenous and oral contrast in patients suspected of having visceral embolic or ischemic events in the abdomen.
+
+# ACUTE RENAL INFARCT A DELAYED OR MISSED DIAGNOSIS
+
+Anthi Katsouli. Loyola University Medical Center, South Barrington, IL. (Control ID #3168568)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing acute renal infarct in patients with lower abdominal or flank pain and with risk factors for thromboembolism.
+
+# CASE:
+
+A 68-year-old man with past medical history of coronary artery disease with multiple stents placement, ischemic cardiomyopathy with...

@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# Present in patients over 60 with a similar gender predilection.
+
+Ethnic prevalence is higher among African American, Scandinavian and Japanese populations. Sarcoidosis can encompass diverse clinical presentations and as such lend itself to delayed diagnosis. Furthermore, there is no established diagnostic criterion; diagnosis relies on clinical and radiological evidence, pathology consistent with noncaseating granulomas, and exclusion of disorders with similar presentation and histopathology. Among patients diagnosed with sarcoidosis 5% will clinically manifest cardiac sarcoidosis (CS). The extent of left ventricular dysfunction is the most important predictor of prognosis among patients with clinically manifest CS, guiding treatment with steroids or assisted devices. CS may be further defined as systemic or confined to the heart, known as: isolated cardiac sarcoidosis (ICS). The rate of ICS is about 25% among cases of CS. Diagnosis of ICS involves excluding extra-cardiac involvement combined with cardiac MRI and PET. It is important to identify because patients with ICS have worse left ventricular systolic function at presentation compared to patients with systemic sarcoidosis and CS. Prognosis for patients with ICS is poor as patients are prone to ventricular arrhythmias and less event-free survival.
+
+# CONCLUSION:
+
+Sarcoidosis can be difficult to diagnose due to variable presentation. Early recognition of isolated cardiac sarcoidosis and extra-cardiac disease is crucial for prevention of critical complications.
+
+# A N UNCOMMON CAUSE OF TERTIARY ADRENAL INSUFFICIENCY
+
+Zachary Reese; Shoshana J. Herzig; Gila Kriegel. Beth Israel Deaconess Medical Center, Brookline, MA. (Control ID #3177781)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the physiology and causes of tertiary adrenal insufficiency
+
+# LEARNING OBJECTIVE #2:
+
+Recognize common symptoms of carcinoid syndrome of neuroendocrine tumors
+
+# CASE:
+
+A 60-year-old female with history of hypertension presented with asymptomatic hypotension of 70/50. She noted a 10-pound weight loss in the preceding 6 months, and worsening diarrhea. Medications included lisinopril daily. She had a 60-pack year smoking history, and quit 6 months prior to admission. Family history was notable for metastatic melanoma in her mother. While inpatient, she was found to have orthostatic hypotension. A morning cortisol level was low at 1.7 ug/dL (nL 2-20 ug/dL), and responded appropriately to cosyntropin stimulation test (20.2 ug/dL, 60 minutes after cosyntropin administration). Serum ACTH was low-normal at 6 pg/mL (nL 6-50 pg/mL). A CT scan of the torso revealed hilar lymphadenopathy, bilateral lung masses, and retroperitoneal lymphadenopathy, all concerning for malignancy. MRI brain showed masses in the hypothalamus and parieto-occipital lobe. Biopsy of the hilar lymphadenopathy revealed well-differentiated neuroendocrine tumor. She was discharged on hydrocortisone. For treatment of her neuroendocrine tumor, she underwent radiation to the brain metastases, and was started on octreotide and everolimus. In follow-up, her orthostatic hypotension had resolved.
+
+# IMPACT/DISCUSSION:
+
+This case highlights an uncommon cause of tertiary adrenal insufficiency. Tertiary adrenal insufficiency arises when there is interference with secretion of corticotropin-releasing hormone (CRH) from the hypothalamus, leading to lower ACTH from the pituitary gland, and a decrease in cortisol release from the adrenal gland. Tertiary adrenal insufficiency is most commonly caused by abrupt cessation of chronic steroid administration, but can also be caused by invasion of the hypothalamus, as seen in this case. Treatment is aimed at treating the underlying cause, and administering glucocorticoids. Neurendocrine tumors (NETs) are neoplasms arising from epithelial cells of the gastrointestinal and/or bronchopulmonary tract. NETs release serotonin, histamine, and prostaglandins into the circulation. These can cause a constellation of symptoms, called carcinoid syndrome, which most commonly manifest as cutaneous flushing (85%), and diarrhea (80%). Carcinoid syndrome is commonly seen in metastatic neuroendocrine disease. While well-differentiated NETs typically metastasize to the liver, lymph nodes, and bones, they metastasize to the brain only 10% of the time. Treatment of metastatic NETs includes somatostatin analogues (e.g. octreotide) and mTOR inhibitors (e.g. everolimus), in addition to stereotactic radiation to brain metastases.
+
+# CONCLUSION:
+
+Metastatic disease to the hypothalamus can cause tertiary adrenal insufficiency, which is treated with steroids and treatment of the underlying malignancy. Cutaneous flushing and diarrhea are the most common symptoms of carcinoid syndrome, arising most commonly with metastatic neuroendocrine tumor.
+
+# AN UNCOMMON CULPRIT OF NECK PAIN
+
+Islande Joseph1; Nida Waheed2; Keely Fischbach1. 1University of Florida, Gainesville, FL; 2University of Florida, Gainesville, FL. (Control ID #3183332)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the clinical features and risk factors for Salmonella Osteomyelitis (OM)
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and manage Salmonella OM
+
+# CASE:
+
+A 59 year-old female with a medical history of scoliosis, depression, and ADHD presented to her PCP for bilateral neck pain after cleaning her home ceiling fan. Due to persistent neck pain and new numbness, tingling, and dull pain in her right index finger, an MRI was ordered and showed abnormalities in C3, C4, C6, and C7 concerning for OM. She was transferred to our tertiary care center for a neurosurgical evaluation of C-spine OM. She denied any prior spinal trauma, IV drug use, diarrhea/foodborne illnesses, other weakness or numbness as well as changes in gait, bowel, or bladder function. Repeat cervical spine imaging showed C5-C7 with phlegmon involving the epidural space, narrowing the spinal canal and extending to her paravertebral soft tissue. Physical exam did not reveal point tenderness along her cervical spine, but she was placed in a c-collar per neurosurgery recommendations and routine neurological checks demonstrated no neurological deficit. Patient's labs revealed WBC and CRP values within normal limits, but her ESR was elevated at 48. Infectious disease was consulted and she was started on vancomycin and cefepime after interventional radiology performed a CT guided cervical disc aspiration. Aspiration biopsy culture was positive for pan-sensitive salmonella. TTE and abdominal ultrasound did not demonstrate concern for endocarditis or aortic aneurysm, respectively. Her antibiotics were de-escalated to ceftriaxone 2gm daily. She was discharged with continued administration of ceftriaxone for 6-8 weeks with weekly CBC with diff, creatinine, AST, ALT, ESR and hs-CRP as well as outpatient follow up with neurosurgery and infectious disease.
+
+# IMPACT/DISCUSSION:
+
+Salmonella OM is rare especially in an otherwise healthy individual. Salmonella is the causative organism in 0.45% of OM cases and salmonella OM itself accounts for as few as 0.8% of all salmonella infections. Salmonella typically affects the diaphysis of long bones, predominantly the femur and humerus. Histopathology of OM reveals necrotic bone with extensive resorption adjacent to an inflammatory exudate. It is predominantly seen in patients with hemoglobinopathies, including sickle cell disease or thalassemia. Due to the rarity of Salmonella OM, there are standardized antibacterial therapy regimes or surgical procedures. But chloramphenicol, third generation cephalosporins and fluoroquinolone are commonly used antimicrobials. Salmonella OM can be chronic, relapsing and difficult to treat.
+
+# CONCLUSION:
+
+Salmonella OM is rare. Further studies are needed to solidify treatment modalities. Early diagnosis and multidisciplinary management are necessary.
+
+# AN UNCOMMON PRESENTATION OF SPLENIC MARGINAL ZONE LYMPHOMA AS SPLENIC INFARCTION
+
+David Daniel2; Ribka Ayana1. 1Washington DC VA Medical Center, Washington DC, DC; 2George Washington University Hospital, Washington, DC. (Control ID #3186075)

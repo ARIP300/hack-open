@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+# image assessment to evaluate quality; 4) tests to assess knowledge, image interpretation, and clinical application.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+POCUS is not meant to replace radiology or cardiology expertise, but using POCUS as an extension to the physical exam is becoming an essential skill in general medicine. Our "teach the teacher" model overcomes the obstacle of having limited faculty who are comfortable using and teaching ultrasound by distributing the responsibility for POCUS education to the stakeholders themselves. Upper level residents perpetuate a continuous cycle to teach POCUS and interns have the opportunity to learn while simultaneously taking care of their hospitalized patients. This helps produce a cultural shift towards using POCUS within IM.
+
+# TEACHING DIGITAL PROFESSIONALISM AND ASSESSING PHYSICIAN BEHAVIOR CHANGE
+
+Katherine Wrenn; Kelly L. Graham. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3181078)
+
+# NEEDS AND OBJECTIVES:
+
+Social media use has rapidly grown and is high among medical trainees. Their use raises privacy issues and concerns about boundaries in the patient-physician relationship. There is an emerging body of literature about social media use among medical trainees and physicians, leading the AMA, ACP, and FSMB to publish guidelines on appropriate use. However, there is minimal evidence or guidance about how best to teach medical trainees about digital professionalism. Therefore, we aim to (1) develop a novel curriculum for IM residents on digital professionalism, and (2) assess whether participation in the curriculum leads to changes in attitudes, behavior, and social media use among this population.
+
+# SETTING AND PARTICIPANTS:
+
+All residents in the IM Residency Program at Beth Israel Deaconess Medical Center were invited to participate in our study, which took place during their ambulatory medicine curriculum. While attending the didactic session was required, participation in the study was voluntary.
+
+# DESCRIPTION:
+
+The case-based curriculum is delivered in a 90-minute small group session. Residents discuss cases related to patient and physician privacy, the patient-doctor relationship, and professionalism. During discussion, we present guidelines on digital professionalism and social media use, along with data on unprofessional behavior among medical trainees and its implications. Prior to participating, residents complete a pre-survey, which includes demographic information, confounding variables such as previous exposure to digital professionalism training, an assessment of specific behaviors relating to digital professionalism, and attitudes about these behaviors. Following the session, residents complete a post-survey. This presents the same checklists of attitudes and behaviors, and asks whether they are likely to change their behavior after participating in the curriculum. Two months later, residents receive a second post-survey, asking them to identify whether or not they changed these specific behaviors. The BIDMC IRB deemed the study exempt.
+
+# EVALUATION:
+
+Data collection is ongoing. We will compare responses from pre- and post-surveys to determine if residents' attitudes about social media use and digital professionalism change after participating in the curriculum, and how likely residents feel they are to change behaviors after participating. By incorporating a delayed post-survey, this will also be a durability study, to assess whether residents indeed changed their behaviors. We will conduct analysis of attitude and behavior change pre/post using McNemar's test for paired data.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+With a growing number of studies citing unprofessional behavior among medical trainees, there is a need for enhanced training in digital professionalism. We developed and implemented a novel, case-based curriculum for residents to help meet this need. Initial feedback has been positive, and we will perform an analysis to determine if residents' attitudes and behavior change after participating in the curriculum.
+
+# TEACHING HAND OFFS TO JUNIOR MEDICAL STUDENTS: IMPACT OF AN EDUCATIONAL INTERVENTION
+
+Diane L. Levine; Omar M. Saaed. Wayne State University, Detroit, MI. (Control ID #3185930)
+
+# NEEDS AND OBJECTIVES:
+
+Handoff is the process of transferring medical information from one healthcare provider to another and is crucial for safe patient care. A survey of Medicine Program Directors found an important skill for incoming interns was the ability to provide a prioritized and organized written hand off and conduct an organized verbal hand off. This provides impetus to educate medical students and provide opportunities to practice and develop handover skills. Although studies on hand-overs have been published (Acad Med.2009;84,1775-87), few focus on students. We delivered educational training to medical students to prepare them to handover independently.
+
+# SETTING AND PARTICIPANTS:
+
+Students on the Medicine clerkship viewed material about handovers including the importance of sign-out, consequences of inadequate sign-out, content of oral and written sign-out, and use of I-PASS. They completed a formal written sign-out using I-PASS, observed resident's handovers, and completed surveys about their perceptions of the safety of handovers and how prepared they felt to provide a handover in the future. Student written sign-outs were evaluated using a scoring system we developed; 2 points were assigned for each component of IPASS (0-missing/inadequate/non-actionable; 1-unnecessary, nonspecific information, limited detail, hard to follow; 2- appropriate detail, specific information, actionable, easy to follow,) for a potential score of 8.
+
+# DESCRIPTION:
+
+123 students rotated on the clerkship. Sign-outs were submitted by 123; 2 were illegible; 121 were analyzed. 19% scored 8, 5% scored 7, 17% scored 6, 35% scored 5, 11% scored 4, 7% scored 3, and 2% scored 2. Analyzing only by Action List (AL) and Situation Awareness (SA) resulted in 23% scoring 4, 61% scoring 2, 7% scoring 1 and 6% scoring 0. Students who scored 2 on AL all scored 2 on SA. 93% of students who scored 2 AS scored 2 on AL. Average sign-out scores were calculated by rotation block. Students on the first 8 week block scored 5.2, 5.4 on the second block and 5.8 on block 3. 117 completed the sign-out observation survey; 108 completed sign-in survey. Approximately one third observed handovers that had elements that decreased safety (distrac-tions, interruptions). More than half felt prepared or very prepared to provide a handover. Approximately 40% felt somewhat prepared, 3% did not feel prepared.
+
+# EVALUATION:
+
+Introducing students to hand overs during a clinical clerkship is feasible, however, students require additional practice to develop competency in this skill.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+An educational intervention to teach junior students to handover and perform sign-outs demonstrated students were able to complete sign-outs using IPASS. Although most felt prepared to perform sign-outs only a quarter included crucial information necessary for safe handovers. A single educational intervention was sufficient to train students to perform sign-outs but was not sufficient to ensure competency for all students. Performance increased with each block possibly due to clinical experience.

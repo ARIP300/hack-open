@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# PRECEPTING MEDICAL INTERNS (JUNIOR PRECEPTING)
+
+Although the concept of "junior precepting" is not new, the idea of a facilitated direct observation to better prepare residents for the junior precepting experience is novel.
+
+# METHODS:
+
+Residents and attendings in an internal medicine primary care track were involved in the development of a reverse direct observation precepting curriculum. During resident observation of attendings, an assessment tool was created to evaluate the attending's preceptor "toolkit" highlighting microskills from the one-minute preceptor as well as a guided one on one discussion with the preceptor about their personal practices. Residents were then asked to commit to trying something they observed during their scheduled junior precepting sessions. The assessment tool included open ended questions regarding attending precepting style on topics such as attending chart review time/verification, presence vs absence of documentation during precepting, and use of electronic for teaching.
+
+# RESULTS:
+
+Six attendings were observed by six different senior residents in the primary care program for a total of 30 observed encounters. In analysis of the attending preceptor toolkit, the median attending practice was to seek a commitment to plan as well as reinforce clinical decisions done well with correction of mistakes in half of the cases. Probing learner thought process for arrival of plan commitment was not done during the majority of encounters. Qualitatively attending style at this clinic was split between writing notable past medical history and listening to the resident while reviewing the chart. The majority of attendings spent less than 5 minutes chart reviewing. The tech most often used centered around EMR optimization tips to streamline guidelines into management. Under the tips and behaviors section, resident observers most often cited specific phrasing that helped to elicit further information from the learner without creating a negative atmosphere for learning. In this single site assessment of this novel reverse direct observation precepting curriculum, initial data suggests that resident observers may benefit from observation sessions both prior to and following their own mock-precepting sessions to better prepare them for a junior precepting experience.
+
+# CONCLUSIONS:
+
+In this single site assessment of this novel reverse direct observation precepting curriculum, initial data suggests that resident observers may benefit from observation sessions both prior to and following their own mock-precepting sessions to better prepare them for a junior precepting experience.
+
+# THE ASSOCIATION BETWEEN OPIOID DOSE FLUCTUATION AND INCIDENT HEROIN USE
+
+Ingrid A. Binswanger1, 2; Komal J. Narwaney1; LeeAnn M. Quintana;1 Stanley Xu1; Susan M. Shetterly1; Jennifer Lyden4, 2; Jo Ann Shoup1; Jason M. Glanz1, 3. 1Kaiser Permanente Colorado, Aurora, CO; 2University of Colorado School of Medicine, Aurora, CO; 3Colorado School of Public Health, Aurora, CO; 4Denver Health, Denver, CO. (Control ID #3185991)
+
+# BACKGROUND:
+
+Opioid guidelines recommend tapering opioids for chronic pain if the risks of treatment outweigh the benefits. However, attempts to taper opioids can lead to dose fluctuation. Tapering attempts can cause increased pain and withdrawal symptoms, which may lead providers to increase the dose again or prompt individuals to seek illicit opioids to control their pain. Dose increases could enhance the euphoric effects of opioids, increasing the risk for addiction and heroin use. Thus, dose fluctuations may increase the likelihood that individuals seek heroin. We sought to examine the association between opioid dose fluctuation and incident heroin use.
+
+# METHODS:
+
+We conducted a matched nested case-control study in a Colorado-based integrated health system. We first defined a cohort of health plan members 18 between January 2006 and May 2018 on chronic opioid therapy (COT; 3 opioid dispensings in 90 days). The date of the 3rd opioid dispensing was the index dose date. Within the cohort, we identified heroin use that came to medical attention in the electronic health record using text string searches. This was followed by detailed medical record review by trained abstractors to verify heroin use and estimate the date of heroin onset, which represented the index date. Incident cases of heroin use after COT initiation in continuously enrolled patients were matched to up to 20 controls who did not have evidence of heroin use on milligrams morphine equivalents (MME), calendar time, and length of follow-up. The exposure of interest was dose fluctuation, defined as greater than the median of the standard deviation of the dose over each control patient's follow-up (8.6 MME). Conditional logistic regression was used to estimate matched odds ratios (mOR) and 95% confidence intervals (CI), adjusting for age, sex, race/ethnicity, insurance type, mental health diagnosis, and mean MME in the 3 months prior to the index date.
+
+# RESULTS:
+
+In the cohort of 23,144 patients receiving COT, the text string search identified 1,731 (7.5%) patients with mention of heroin use. After medical record review, we identified 261 confirmed cases for whom we could estimate a heroin onset date. Among these, the first occurrence of heroin use occurred after COT started in 52 cases. Three cases could not be matched to a control. Cases (n=49) were more likely than controls (n=866) to be young, male, Latino, and insured by Medicaid. Dose fluctuation was strongly and independently associated with the risk of heroin use (mOR=5.87, 95% CI, 2.05-16.27).
+
+# CONCLUSIONS:
+
+Among patients prescribed COT, we identified a strong association between opioid dose fluctuation and the risk of heroin use. Our measure of heroin use was based on documentation in addiction treatment and other medical settings. We did not evaluate whether fluctuation in dose exacerbated prior or current heroin use. When managing COT, physicians should consider heroin use as a potential sequela of dose fluctuation.
+
+# THE ASSOCIATION BETWEEN SLEEP OPPORTUNITY AND INCIDENCE OF DELIRIUM IN GENERAL MEDICINE INPATIENTS
+
+David Sterken1; Rae Wannier2; Priya A. Prasad2; Yumiko Abe-Jones1; Nader Najafi1; Margaret Fang1; Kirsten Kangelaris1; Stephanie E. Rogers1; Sara C. LaHue1; Vanja Douglas1; Ari Hoffman1. 1UCSF, San Francisco, CA; 2UCSF, Berkeley, CA. (Control ID #3184403)
+
+# BACKGROUND:
+
+Overnight interruptions in the hospital are thought to worsen sleep and increase patients' risk of delirium, but this relationship has not been well-quantified. Our group has developed a novel metric of overnight interruptions called "sleep opportunity." Using this metric, we conducted a single-center retrospective analysis to describe the association between overnight interruptions and the incidence of delirium in general medicine inpatients.
+
+# METHODS:
+
+Using our Epic-based electronic health record, we identified all admissions to the adult general medicine service at an 800-bed urban teaching hospital from April 9, 2017 to November 30, 2018. We excluded patients who were delirious on admission, had a Glasgow Coma Scale < 10 within 24 hours of admission, or were in the intensive care unit during admission. The primary outcome was incident delirium, defined as the first positive score on the Nursing Delirium Screening Scale (NuDESC), which is a validated delirium screening tool that is assessed each shift as part of routine nursing care with score 2 defined as positive. The primary predictor was sleep opportunity per night, defined as the longest continuous block of time without interruptions by hospital staff between 10:00 PM and 6:00 AM, calculated using timestamps for tasks such as vital signs, medications, and procedures. We developed a multivariable mixed-effects logistic regression model to assess the relationship of quartiles of sleep opportunity to the incidence of delirium during the following 24 hours and adjusted for confounders using a propensity score for quartiles of sleep opportunity. This propensity score included age, Elixhauser Comorbidity Index, diagnosis-related group weight, admission AWOL score (screening tool for risk of developing delirium), prior diagnosis of dementia by ICD codes in previous encounters, whether vital signs were ordered to be checked overnight, and whether a delirium-prevention order set had been ordered. We also included level of care as a fixed effect in our model.
+
+# RESULTS:
+
+We identified 8,913 eligible admissions during our study period with 20,278 eligible patient-nights. The mean sleep opportunity per patient-night was 4.98 (SD = 1.75) hours. The incidence of delirium was

@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# WHEN LESS IS MORE: EVALUATION OF POST-PARACENTESIS ALBUMIN DOSAGE AND ADVERSE EVENTS IN HOSPITALIZED PATIENTS
+
+James E. Anstey3; Claire Bainbridge2; Wendi Zhao1; Yumiko Abe-Jones3; Marissa Hom2; Anthony Wong2; Priya A. Prasad2; Margaret Fang4; Andrew Lai3. 1University of California San Francisco, San Francisco, CA; 2 UCSF, San Francisco, CA; 3 University of California at San Francisco, San Francisco, CA; 4University of California, San Francisco, San Francisco, CA. (Control ID #3185261)
+
+# BACKGROUND:
+
+Large volume paracentesis is commonly performed in patients with refractory ascites but can induce hypotension and kidney injury. There is evidence that administering albumin at 6-8 grams per liter (g/L) of ascites removed during paracentesis can reduce these adverse events. Guidelines recommend this practice when >2 liters are removed in high-risk patients or >5 liters in any patient. Despite these guidelines, clinical practice varies widely potentially resulting in albumin overuse. We retrospectively analyzed the association of albumin dose and adverse events following large volume paracentesis in hospitalized patients at a single academic teaching hospital.
+
+# METHODS:
+
+Patient data were obtained from a registry of all procedures performed by a hospitalist procedure service at an academic teaching hospital from June 2013 to July 2018. We identified all patients who received large volume paracentesis (>2 L) and obtained electronic health record data on vital signs, laboratory tests, patient demographics, severity of illness, and albumin administration. We excluded patients with severe chronic kidney disease (serum creatinine [Cr] >3), for whom albumin was not indicated, or who received >25 g/L of albumin (considered treatment for hepatorenal syndrome). Albumin administration was categorized as 6-8 g/L vs >8g/L. We used multivariable logistic regression to test the association between albumin dose and acute kidney injury (AKI), defined as >30% increase in serum creatinine over 72 hours post-procedure. We also examined mean change in systolic blood pressure (SBP) 24 hours post-procedure.
+
+# RESULTS:
+
+A total of 452 patients underwent >2L paracentesis (182 with >5L removed) and were eligible for analysis. One hundred fifty-four (34%) were on the medicine service, 226 (50%) on the liver transplant service, and 72 (16%) on all other services. In all, 85 (19%) patients received 6-8 g/L, and 367 (81%) received >8 g/L of peri-procedural albumin. Patients who received >8 g/L of albumin were more likely to have a higher baseline Cr (1.18 vs 1.41; mean difference 0.23 [95%CI: 0.08-0.37] p=0.003), higher MELD score (18.5 vs 21.3, mean difference 2.8 [95% CI: 0.48-5.06] p=0.018) and be on the liver transplant service (p <0.001). Multivariate analysis showed albumin dosage was not associated with post-procedure AKI (10.4% in 6-8 g/L vs 16.9% in >8 g/L, adjusted OR 1.24 [95% CI: 0.52-2.99], p=0.625). Post-paracentesis mean change in SBP also did not differ by albumin dose (mean SBP drop of 2.95 in 6-8 g/L vs 4.36 in >8 g/L, Coefficient = 0.71 [95% CI -1.92 - 3.34], p=0.594).
+
+# CONCLUSIONS:
+
+Patients undergoing large volume paracentesis at our institution received widely varying doses of albumin, with the majority of patients receiving >8 g/L. Albumin doses above current guidelines were not associated with a lower incidence of AKI or mean drop in SBP following paracentesis. Given the high cost of albumin and potential for volume overload, guideline-recommended dosing should be more consistently adopted.
+
+# WHEN THE TEAM WINS, YOU WIN: RESIDENT PERSPECTIVES ON IDENTITY FORMATION IN INTERPROFESSIONAL TEAMS AND LESSONS FOR GENERAL MEDICAL EDUCATION
+
+Katarzyna Mastalerz1, 2; Sarah Jordan2; Nikki Townsley2. 1Rocky Mountain VAMC, Aurora, CO; 2University of Colorado, Aurora, CO. (Control ID #3171551)
+
+# BACKGROUND:
+
+Forming team-oriented professional identities is essential to becoming effective team members in healthcare settings. However, little is known about how medical residents form professional identities in the context of interprofessional teams. In order to inform lessons for graduate medical education, we sought to understand residents' perspectives on and experiences with forming professional identities while working with interdisciplinary teams.
+
+# METHODS:
+
+We conducted a qualitative study using in-depth, semi-structured interviews with medical residents working on Accountable Care Units (ACU, a geographic team-based unit) at one community teaching hospital between July 2017 and March 2018. Interviews explored perceptions of teamwork and professional roles and identities. All residents that rotated on the ACU were eligible for inclusion. Interviews were audio-recorded, transcribed, and entered into qualitative software for organization (Atlas-ti.v8). During regular group meetings, we systematically analyzed interview transcripts and identified emerging themes using inductive thematic analysis. Saturation was reached.
+
+# RESULTS:
+
+Twenty-five interns and 16 senior residents were interviewed (n=41). Resident participants were predominantly male (65%) and Caucasian (65%). Three key themes emerged: 1) negotiating new roles in team structures, 2) learning to self-advocate and integrate personal expertise into hierarchical team settings, and 3) bolstering professional identities by incorporating interprofessional expertise. Senior residents described new tensions in their identities as both learners and experts; interns described feeling ‘responsible but powerless.' Interns and residents both practiced strategies to integrate their own growing expertise into interprofessional teams and to ‘find their voice.' Senior residents recognized their dependence on interprofessional team members and sought out ways to defy existing hierarchies that constrained interdisciplinary teamwork. Interns struggled with balancing their lack of experience with the tenure of others, and with responding to the implicit expectation for physician leadership. Residents felt that their constant movement between rotations impaired authentic teaming. These perspectives inform several strategies for medical education that could support the creation of team-oriented professional identities for residents: longitudinal integrated programs, purposeful interprofessional shadowing experiences, and explicit leadership curricula.
+
+# CONCLUSIONS:
+
+Understanding resident professional identity formation provides insight into how residents integrate into interprofessional teams. Based on our study, residency is a time of a growing awareness of interprofessional work and its challenges. We suggest several education strategies that may improve resident interprofessional teaming skills and the formation of team-oriented professional identities.
+
+# WHERE IS ALL THE MIXING HAPPENING? A VENUE-BASED ANALYSIS OF SEX NETWORKS IN BALTIMORE, MD
+
+Benjamin Meza2; Ian McCulloh2; Marc A. Johnson1; Ravikiran Muvva3; Carla Tilchin2; Jacky M. Jennings2. 1Johns Hopkins University, Laurel, MD; 2Johns Hopkins University, Baltimore, MD; 3Baltimore City Health Department, Baltimore, MD. (Control ID #3185626)
+
+# BACKGROUND:
+
+Baltimore has some of the highest numbers of new HIV and syphilis cases in the country. Nationally, STI prevention strategies often target specific priority populations (i.e., men who have sex with men [MSM], individuals who inject drugs [IDU], commercial sex workers [CSW], youth under 25 years old), yet studies show that transmission frequently occurs between different priority populations. Our objective was to use social network analysis to map the extent to which different physical and online spaces serve as sites of mixing and identify venues to focus limited prevention resources.
+
+# METHODS:
+
+We employed data from the Baltimore City Health Department on all new cases of HIV and syphilis reported in Baltimore City from 2009 to 2015. Data included the type of STI, demographic characteristics, priority population classification, self-reported high-risk behaviors, and sex partner meeting venues visited in the last 12 months. We created a

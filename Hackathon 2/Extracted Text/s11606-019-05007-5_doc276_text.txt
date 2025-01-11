@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# Policy Changes and Medication Adherence
+
+Policy changes affected medication adherence for the 3 targeted therapy classes, and the second assessed the association of policy changes with improvements in adherence to five chronic disease therapy classes not considered in star ratings calculations (thiazides, beta blockers, calcium channel blockers, non-statin anti-hyperlipidemics, and levothyroxine). For the second analysis, we further compared adherence between beneficiaries who concomitantly used and did not use star rating medications.
+
+# RESULTS
+
+We studied 240,811 Medicare beneficiaries on oral antidiabetics, 500,958 on RAS antagonists, 471,135 on statins, 464,910 on beta blockers, 392,762 on thiazides, 397,359 on calcium channel blockers, 165,151 on non-statin anti-hyperlipidemics, and 323,803 on levothyroxine. There was a significant increase in monthly adherence for all star rating and non-star rating medications after 2012 (p<0.001). Adherence for oral antidiabetics, RAS antagonists, and statins was 11.2%, 8.1%, and 3.7% higher than it would have been in the absence of star ratings policy changes, respectively (p<0.001). The change in adherence for non-star rating anti-hypertensives and anti-hyperlipidemics was higher among those concomitantly on star ratings medications compared with those who were not (p<0.001). Levothyroxine adherence trends did not significantly differ between those using and not using star rating drugs.
+
+# CONCLUSIONS
+
+Incentivizing medication adherence in the star rating program was effective in increasing adherence to medications targeted by the policy change and also non-targeted medications that treat the same diseases. As policymakers seek to determine the optimal number and type of quality measures for improving health services delivery without increasing administrative burden, it is important to consider that incentives not only can improve performance of targeted measures, but can also spill over to promote improved performance in related outcomes. Our findings can ultimately inform future approaches to quality measure development and implementation.
+
+# The Impact of Overlap Between Medicare's Voluntary Accountable Care Organizations and Bundled Payments on the Costs and Quality of Care
+
+Amol S. Navathe1, 3; Sarah Dykstra2; Joshua M. Liao1, 1; Rachel M. Werner3, 1. 1University of Pennsylvania, Philadelphia, PA; 2The Wharton School, University of Pennsylvania, Philadelphia, PA; 3CMC VA Medical Center, Philadelphia, PA. (Control ID #3179179)
+
+# BACKGROUND
+
+While both voluntary accountable care organizations (ACOs) and bundled payments have demonstrated promising early results, it remains unclear to what extent outcomes are affected when the two models overlap (i.e., when patients receive care from organizations participating in both models).
+
+# METHODS
+
+Our analysis focused on episodes for lower extremity joint replacement surgery (LEJR) and 5 medical conditions (acute myocardial infarction, congestive heart failure, chronic obstructive pulmonary disease, sepsis, pneumonia). We used 2011-2016 Medicare claims and program data to categorize beneficiaries attributed to Medicare Shared Savings Program (MSSP) ACOs into those who were hospitalized for 1 of the 6 episodes at hospitals in the Bundled Payments for Care Improvement (BPCI) initiative (Overlap) versus non-BPCI hospitals (MSSP-only). We used a difference-in-differences method and hierarchical generalized linear models among 68,548 Overlap and 988,933 MSSP-only patients receiving care at 529 ACOs, 402 BPCI hospitals, and 3,114 non-BPCI hospitals to evaluate differential changes with respect to 90-day episode outcomes: (1) post-discharge institutional care spending (combination of skilled nursing, inpatient rehabilitation, and acute hospital facilities) (2) discharge to an institutional post-acute care (PAC) provider, and (3) readmissions. Spending models used a log link and gamma distribution while others used an identity link and normal distribution. Covariates included patient characteristics (age, sex, Elixhauser comorbidities) as well as hospital, ACO, and quarter fixed effects. We clustered standard errors by hospital and used an α=0.05.
+
+# RESULTS
+
+Across 6 episodes, mean beneficiary age and sex did not vary between Overlap and MSSP-only groups, while differences in mean Elixhauser mortality score were significant, but small. For LEJR episodes, institutional post-discharge spending was 8.1% lower (95% CI -12.9% to -3.4%, p<0.001) and institutional PAC provider use was 2.6% lower (95% CI -3.3% to -1.8%, p<0.001) among Overlap patients compared to MSSP-only patients. Readmissions were unchanged (0.3%, 95% CI -0.2% to 0.9%, p=0.20). Across medical condition episodes, Overlap patients had 7.1% greater post-discharge institutional spending (95% CI 2.8% to 11.3%, p<0.001) and 2.1% more readmissions (95% CI 1.4% to 2.8%, p<0.001) compared to MSSP-only patients, but no differential changes in discharge to institutional PAC (0.2%, 95% CI -0.4% to 0.7%, p=0.59).
+
+# CONCLUSIONS
+
+Among ACO-attributed patients, admission to a BPCI hospital was associated with lower post-discharge institutional spending and PAC utilization for LEJR but not medical conditions. This suggests that ACOs may benefit when attributed beneficiaries are admitted to bundled payment hospitals for some episodes (i.e., LEJR), but not others.
+
+# The Impact of Pennsylvania's Mandated Prescription Drug Monitoring Program Portal on New-Start Opioid Prescribing to Opioid-Naïve Primary Care Patients Without Cancer
+
+Jonathan Arnold; Scott D. Rothenberger; Kevin Kraemer; Janel Hanmer. University of Pittsburgh, Pittsburgh, PA. (Control ID #3184972)
+
+# BACKGROUND
+
+Prescription drug monitoring programs (PDMPs) are in use by most states to identify patients at high-risk for adverse events from opioid prescribing. Pennsylvania (PA) deployed a PDMP portal in August 2016 and mandated its use by prescribers as of January 2017. Behavioral economics suggests that increasing the burden of prescribing will decrease the prescribing rate, independent of patient risk, a concern shared by patient and provider groups. Our objective was to evaluate the impact of PA's PDMP mandate on opioid prescribing in an opioid-naïve patient population by primary care providers (PCPs).
+
+# METHODS
+
+We conducted an interrupted time-series study of ambulatory opioid prescribing at a large regional health system. We included 14 months prior to the PA PDMP portal availability (July 2015-August 2016) and 14 months following its mandated use (January 2017-February 2018). We included all patient visits to an internal or family medicine practice with a pain-related diagnosis by patients who had been previously established in primary care. We excluded patients with a cancer diagnosis or evidence of a prior opioid prescription within 12 months. We used generalized linear mixed models including random effects at the provider and practice levels and fixed-effects for baseline trend, post-PDMP offset and post-PDMP trend change. The CDC released its guideline for prescribing opioids in chronic pain in March 2016 and we included fixed effects in our analysis as post-CDC offset and post-CDC trend change. We evaluated several outcomes included percentage of visits with an opioid prescription, quantity of opioids prescribed per visit in milligram morphine equivalent (MME), and quantity of opioids prescribed per prescription. A review of state and institutional policies did not identify other significant policy changes occurring at the same time as the PDMP portal deployment and mandate.
+
+# RESULTS
+
+We included 384,440 patient visits with 808 providers at 272 practices. Opioids were prescribed in 3.6% of all visits, an average of 18.3 MME per visit and 509 MME per prescription. The prescribing rate was decreasing at a relative 2.6% per month prior to the PDMP (p<0.001) without a change associated with the PDMP mandate. The PDMP mandate was not associated with any change in the quantities of opioid prescribed per visit or per prescription. The CDC guidelines were associated with a relative 8.5% decrease in the rate of opioid prescribing (p=0.045), no change in the baseline trend in prescribing rate, and no change in the quantities of opioid prescribed per visit or per prescription.

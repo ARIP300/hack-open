@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+Unfortunately, providers receive little training on EHR-related communication behaviors, and no prior studies have assessed if advocacy interventions can increase patient-EHR engagement. Given that graphic art has been effective in health education, our study aimed to evaluate the impact of graphic medicine comics in promoting patient-centered EHR use and patient engagement during outpatient office visits.
+
+# METHODS:
+
+Educational comics for patients and providers were developed using best practices from a systematic review on the effects of EHR use on doctor-patient communication, and qualitative studies on patient perceptions of the EHR. Each comic highlighted three best practices for patient-centered EHR use; patient comics advised asking to see the screen, being involved with computer use, and calling for providers' attention during periods of EHR-related distraction. Provider comics were made visible in provider workspaces for the duration of the study and highlighted three best practices: screen sharing, valuing the EHR, and utilizing patient educational resources. Patients attending appointments at the University of Chicago Primary Care Group were recruited for the study. Comics were given to patients at check-in and they were asked to complete a post-visit survey. Participants were randomly selected to complete a follow-up phone survey 1-2 months after the visit.
+
+# RESULTS:
+
+Response rate of the initial post-visit survey was 84% (198/236). 79% rated provider communication behaviors positively, 67% agreed provider communication improved compared to prior visits, and 70% agreed the comic effectively encouraged patient-EHR involvement. Decreased education level was positively correlated with increased engagement in self-advocacy behaviors, including asking to see the screen (rs=.273, p<.001), asking to be involved (rs=.244, p =.003), and calling for providers' attention (rs=.162, p =.049). Female patients were more likely to ask to be involved with their doctor's computer use (z=2.18, p=.030). On phone follow-up, 90% (45/50) remembered the comic; 46% recalled at least one best-practice communication behavior. When asked about subsequent doctors' visits, patients reported increases in asking to see the screen (median 3 vs. 4, z=2.746, p=0.010).
+
+# CONCLUSIONS:
+
+This is the first study to evaluate the impact of graphic medicine on adult patients' EHR-related impressions and behaviors. Comics were effective in encouraging patient involvement, and follow-up indicates lasting impacts over time. The comic may be especially effective with female patients and populations of low-to-average educational level.
+
+# ENDOSCOPIC ULTRASOUND-GUIDED FINE NEEDLE ASPIRATION OF PANCREATIC METASTASES: A RETROSPECTIVE STUDY
+
+KEVIN LAMM; Andrew Dries; Jason Lewis; Tarun Narang. Carolinas Medical Center, Charlotte, NC. (Control ID #3184882)
+
+# BACKGROUND:
+
+Metastatic lesions to the pancreas are an uncommon but increasingly prevalent problem, accounting for 2% of pancreatic malignancies. Surgical resection is often recommended for medically fit patients with a single lesion, but in an era with rapid emergence of new chemotherapies and biologic agents, it has not been well established which modality offers the best survival. Lung, breast, renal, skin, and gastrointestinal origins are the most common metastatic primaries. It is postulated that pancreatic metastases may directly invade the ductal epithelium, causing patients to present similarly to pancreatic adenocarcinoma. We report a cohort of cases at a single medical center that utilizes endoscopic ultrasound-guided fine needle aspiration (EUS-FNA) for diagnosis of metastatic lesions to the pancreas.
+
+# METHODS:
+
+Medical records were abstracted for patients who underwent EUS-FNA with a diagnosis of pancreatic mass. Data regarding demographics and clinical outcomes were recorded from patients with metastatic primaries.
+
+# RESULTS:
+
+There were a total number of 1,472 EUS-FNA procedures performed for evaluation of pancreatic mass from 2007-2017. Twenty-two (1.5%) of the masses were found to be from metastatic primaries. Nineteen were diagnosed with immunocytology after EUS-FNA. Small cell carcinoma of the lung was the most common histopathology (7 of 22; 32%). In the remaining patients, the primary histopathology was lung adenocarcinoma (n=5), renal cell carcinoma (n=4), adenocarcinoma of the breast (n=1), liposarcoma (n=1), neuroendocrine tumor of the rectum (n=1), melanoma (n=1), osteosarcoma (n=1), and squamous cell carcinoma of the lung (n=1). EUS-FNA generated 7 new diagnoses of cancer including small cell carcinoma of the lung and adenocarcinoma of the lung. The most common location for metastatic lesions was the pancreatic head (8 of 22; 36%). Four masses were found in the tail of the pancreas, and all were found to be small cell carcinoma of the lung. Five of the patients have documented one year survival and one with five year survival. Surgery was performed in three patients. Hospice was pursued by nine of the patients, all with metastases from the lung.
+
+# CONCLUSIONS:
+
+Pretherapeutic diagnosis of pancreatic masses due to metastatic primaries is necessary for proper management by the multimodal treatment team. As the treatment of cancer continues to rapidly evolve, EUS-FNA with immunocytology can assist with the diagnosis of pancreatic metastases and have a major clinical role.
+
+|Renal cell carcinoma|Primary Cancer|Age (yrs)|Cases (%)|
+|---|---|---|---|
+|4 (18)|Average Size of Mass (cm)|2.2|New Cancer Diagnosis (%)|
+|0 (0)|Surgery (%)|2 (50)|Hospice (%)|
+|Breast Adenocarcinoma|Lung Adenocarcinoma|5 (23)|2.5 x 2.8|
+|0 (0)|2 (65)|2 (50)| |
+|Liposarcoma|Neuroendocrine of Rectum| | |
+|Melanoma|Small Cell Carcinoma of Lung|3.6 x 4.0|7 (86)|
+|Squamous Cell Carcinoma of| |2.8 x 2.9| |
+
+# ENGAGING PATIENTS TO PROMOTE DEPRESCRIBING OF POTENTIALLY INAPPROPRIATE MEDICATIONS
+
+Amy Linsky1, 2; Nancy R. Kressin1; Barbara Bokhour3; Amy Rosen2; Kelly Stolzmann2; Steven R. Simon2. 1Dept of Veterans Affairs and Boston University, West Roxbury, MA; 2VA Boston Healthcare System, Boston, MA; 3ENRM Veterans Affairs Medical Center, Bedford, MA. (Control ID #3185250)
+
+# BACKGROUND:
+
+While efforts exist to prevent initiation of medications with low likelihood of benefit, fewer initiatives target medication dose reduction or discontinuation, a process known as deprescribing. While some believe providers have primary responsibility for deprescribing, patients can also facilitate deprescribing. We sought to understand how medication-specific brochures activate Veterans to discuss medications with their primary care providers and affect deprescribing of targeted medications.
+
+# METHODS:
+
+We identified Veterans at one Veterans Affairs Medical Center (VA) with primary care appointments over a 3-month period eligible for one of two cohorts: 1) chronically prescribed a proton pump inhibitor (PPI), or 2) diabetes (DM) at risk of hypoglycemia and prescribed either insulin or a sulfonylurea. Each subject was mailed a VA-tailored EMPOWER ("Eliminating Medications through Patient Ownership of End Results") brochure two weeks prior to their appointment. Patients who did not attend their appointment were excluded from analyses. Chart review identified our two outcomes: 1) documentation of discussion about the target medication (possible vs. no), and 2) target medication prescription changes (dose increase or no change vs. dose decrease or discontinuation ["deprescribing"]). Control subjects were patients seen in primary care in the month prior to the intervention who would have been eligible. Additional variables included demographics and select comorbidities and medications. Descriptive statistics examined patient characteristics and prevalence of the two outcomes. Chi-square tests examined the association of receiving brochures with discussions and deprescribing. Within each cohort, we used chi-square tests to assess relationships between patients' characteristics with each outcome.
+
+# RESULTS:
+
+There were 254 Veterans who received a brochure and attended their primary care appointment (217 in PPI, 37 in DM) and 95 Veterans in the control group (80 in PPI, 15 in DM). Subjects were predominantly male (94%), age >65 years (80%), and white (82%). There was a possible discussion for 1/95 (1.1%) control vs. 32/254 (12.6%) intervention subjects (p=0.001). Target medications were deprescribed for 4 (4.2%) control vs. 37 (14.6%) intervention subjects (p=0.008). No medication or comorbidity was statistically associated with deprescribing except within the PPI cohort.

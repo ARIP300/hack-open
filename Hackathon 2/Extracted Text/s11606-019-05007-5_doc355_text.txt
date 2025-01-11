@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# A RARE COMPLICATION OF DIVERTICULITIS
+
+Brenden S. Ingraham; Maryam Mahmood. Mayo Clinic - Rochester, Rochester, MN. (Control ID #3159402)
+
+# LEARNING OBJECTIVE #1:
+
+Pylephlebitis should be considered when there is pain inconsistent with the primary site of infection or when the pain or fever persists despite treatment.
+
+# LEARNING OBJECTIVE #2:
+
+Recognition is critical as pylephlebitis requires a prolonged duration of antibiotic therapy and sometimes systemic anticoagulation to prevent significant morbidity and mortality.
+
+# CASE:
+
+59-year-old female with minimal medical history presented to the ED with severe left lower quadrant abdominal/pelvic pain and nausea. CT of the abdomen/pelvis showed findings of acute diverticulitis. She was admitted and managed medically with bowel rest and IV ciprofloxacin and metronidazole. She was discharged on oral antibiotics. Unfortunately, two days after discharge she returned to the ED with right upper quadrant pain and fever. Labs were notable for leukocytosis and transaminitis. CT showed portal venous gas, thrombus in the portal vein and inferior mesenteric vein (IMV), and a small abscess in the pelvis. She was initiated on IV ciprofloxacin, metronidazole, and heparin. Blood cultures grew candida albicans and C. dubliniensis, and anidulafungin was initiated. Despite antimicrobials, the pain worsened over the subsequent days with persistent fevers. She was broadened to meropenem and daptomycin. Repeat imaging showed septic thrombophlebitis, phlegmon around the IMV, and bowel ischemia without perforation. She was urgently taken to the OR for washout, colectomy, colostomy, and drain placement. Fluid collections drained intraoperatively grew Streptococcus anginosis, Lactobacillus rhamnosus, L. paracasei, and C. albicans. She was discharged on piperacillin-tazobactam IV for 3 weeks, anidulafungin for 6 weeks, and apixaban for 6 months.
+
+# IMPACT/DISCUSSION:
+
+Mesenteric pylephlebitis is suppurative thrombophlebitis of the portal vein. It is a rare diagnosis that complicates only 0.6% of intraabdominal infections. It is usually nonobstructive but can result in extension of the thrombus to the mesenteric and splenic veins, bowel ischemia, hepatic abscess, septic pulmonary emboli, and, rarely, acute portal hypertension with variceal hemorrhage. Bacteremia occurs in 44-88% of cases, and it is usually polymicrobial. The most common organisms are E. coli, Bacteroides fragilis, and streptococcus. CT with IV contrast is the best study for diagnosis and monitoring. Treatment includes 4-6 weeks of antibiotics. Anticoagulation is controversial but usually unnecessary. It may be considered if there is progression of the thrombus or persistent fevers/bacteremia. Mortality ranges between 11% and 32%.
+
+# CONCLUSION:
+
+Pylephlebitis is an exceedingly rare complication that can occur following infection of any portion of the GI tract drained by the portal system. It typically presents with right upper quadrant abdominal pain and fever in a patient with another intraabdominal infection. Recognition is critical as the infected thrombus requires a prolonged duration of antibiotic therapy and sometimes systemic anticoagulation to prevent significant morbidity and mortality.
+
+# A RARE COMPLICATION OF EPIDIDYMOORCHITIS AND MANAGEMENT
+
+Jaepil E. Yoon2; Meghana Anugu1; Dave R. Gupta1; Rafael L. Jurado1. 1Emory, Atlanta, GA; 2Emory University School of Medicine, Atlanta, GA. (Control ID #3186331)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation, workup, and treatment of acute epididymoorchitis.
+
+# LEARNING OBJECTIVE #2:
+
+Identify symptoms of testicular infarction and its management options.
+
+# CASE:
+
+A 64 year old male presents with acute onset, severe, left scrotal pain. Medical history was notable for benign prostatic hypertrophy requiring intermittent catheterization and prior urinary tract infections (UTIs). He denied nausea, vomiting, fever, urinary frequency, dysuria, or hematuria. Exam revealed left scrotal tenderness and edema. Laboratories were notable for Cr 1.2, WBC 14,000, and urinalysis with WBC 36 and RBC 111. Scrotal ultrasound (US) revealed a heterogeneous left epididymis with increased vascularity. Ceftazidime was initiated for presumed UTI. Urine culture grew Klebsiella pneumonia. He continued to report intermittent left scrotal pain and was diagnosed with acute epididymoorchitis. On hospital day four, he developed suprapubic tenderness. Repeat US revealed decreased echogenicity of the left testis with diminished, nearly absent vascular flow, consistent with testicular infarction. Surgical intervention was not recommended as continued fertility was not a concern and his right testis could provide adequate testosterone levels. He was treated with a two week regimen of oral Levofloxacin. Following resolution of his epididymoorchitis, urology recommended suprapubic catheter for prostatic rest and an open prostatectomy.
+
+# IMPACT/DISCUSSION:
+
+Acute epididymoorchitis (EO) is the most common cause of scrotal pain in men, accounting for 600,000 cases per year in the U.S. It presents as acute, unilateral scrotal tenderness and edema. EO is a clinical diagnosis, but Doppler US may reveal increased blood flow to an enlarged, thickened epididymis. In sexually active men aged 14 to 35 years old, Neisseria gonorrhea and Chlamydia trachomatis are the most common pathogens. In older men, pathogens are often enteric bacteria that have migrated into the vas deferens by retrograde flow of urine due to obstruction. Most episodes of EO resolve with appropriate antibiotic treatment. However, progression to testicular infarction may occur due to inflammation in the epididymis or spermatic cord, causing compression of the arterial supply to the testicle. While there are no standard guidelines for treatment of infarction due to EO, most episodes resolve with outpatient treatment. Therefore, clinicians must be aware of rare complications like testicular infarction in the treatment of EO, given its consequences on fertility. Serial or periodic examination of testicular blood flow by US can enable early detection of infarction. Once diagnosed, treatment recommendations are not clear, but urology should be consulted for consideration of surgical decompression.
+
+# CONCLUSION:
+
+EO can progress to testicular infarction in patients with persistent symptoms despite antibiotic therapy. Serial US assessment may allow early detection of infarction. Urology should be consulted.
+
+# A RARE COMPLICATION POST-TRANSPLANT ATYPICAL HEMOLYTIC UREMIC SYNDROME (HUS)
+
+Seda Babroudi1; Cindy Varga2. 1Tufts Medical Center, Lincoln, MA; 2Tufts Medical Center, Boston, MA. (Control ID #3179428)

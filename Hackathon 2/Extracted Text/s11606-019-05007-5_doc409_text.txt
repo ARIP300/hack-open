@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# CLOZAPINE: AN UNDER-RECOGNIZED CULPRIT
+
+Deeva Berera1; Peter Ting; Benjamin Bier2. 1Icahn School of Medicine at Mount Sinai Hospital, New York, FL; 2Mount Sinai Hospital, New York, NY. (Control ID #3186660)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of clozapine cardiotoxicity.
+
+# LEARNING OBJECTIVE #2:
+
+Manage suspected clozapine cardiotoxicity.
+
+# CASE:
+
+68 YOF with PMH of schizophrenia who was involuntarily admitted to inpatient psychiatry for worsening psychosis, unresponsive to titration of her outpatient medication regimen. She was started on clozapine for treatment of refractory schizophrenia with significant improvement. PMH: Obesity, osteoarthritis, schizophrenia PSH: None; Meds: Haldol 10mg BID, benztropine 1mg BID, clonazepam 1mg QHS. SH: Lives with husband and son, no EtOH, tobacco, or illicit drug use. Employed as a part time supermarket clerk. On day 21 of admission, she was febrile to 103.1 F, other VS stable. She denied cough, rhinorrhea, N/V/D. CBC WNL. Infectious work-up including blood and urine cultures, and viral respiratory panel were negative. On day 22, she developed chest pain and shortness of breath. EKG was normal, however troponin 1.34. CXR showed mediastinal widening, follow-up CTA showed bilateral ground glass opacities concerning for pulmonary edema. She became acutely hypoxemic requiring HFNC and was transferred to medicine for management of suspected NSTEMI. Medicine course was complicated by worsening mental status and intubation for hypoxemic respiratory failure. She became acutely hypotensive during intubation requiring vasopressor support. A bedside echo showed poor LV function and severe mitral regurgitation. Her ScvO2 was 30% consistent with cardiogenic shock. Follow-up TEE post dobutamine initiation was negative for endocarditis and showed normal LV function with moderate MR. Psychiatry and cardiology collectively determined her acute decompensation was most likely secondary to clozapine induced cardiotoxicity.
+
+# IMPACT/DISCUSSION:
+
+Clozapine induced cardiotoxicity is a well known phenomenon in the psychiatric community, often limiting its use. However, data is limited to case reports and there are few systematic reviews or guidelines for clinicians on how to recognize and manage clozapine induced toxicities. In retrospect, this case was classic for clozapine toxicity, which usually occurs at a median of 3 to 8 weeks from drug initiation. Cardiotoxicities (ranging from myocarditis to cardiogenic shock) are thought to be secondary to up regulation of IL-2 and TNF mediated pathways causing a systemic inflammatory response. Clinicians should have a high suspicion for clozapine cardiotoxicity in patients with acute cardiac decompensation without any other risk factors and a low threshold for performing urgent echocardiograms. Clozapine should be discontinued and cases should be reported to expand the existing body of literature.
+
+# CONCLUSION:
+
+-Clinical features of clozapine toxicity include fevers, tropinemia, and acute cardiac decompensation within 3 - 8 weeks of drug initiation. -The mainstay of treatment of clozapine-induced cardiotoxicity is cessation of clozapine, early echocardiography, and appropriate medical management of the resultant toxicity.
+
+# COCAINE AND ALCOHOL MISUSE INDUCED RHABDOMYOLYSIS
+
+Claire Huang Lucas2; Geeta Varghese1; Paul El Tomb2; Joshua Berookhim2. 1Mount Sinai Beth Israel, New York, NY; 2Mount Sinai Saint Lukes-Roosevelt, New York, NY. (Control ID #3175204)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose and distinguish cocaine and alcohol use as common differentials of rhabdomyolysis.
+
+# CASE:
+
+60 yo male with history of chronic alcohol misuse (1 pint of vodka 3-4 times per week), daily cocaine inhalation, DM2, hyperlipidemia, presented with fatigue and proximal muscle weakness of all extremities for 4 weeks. His medication list was noteworthy for daily Atorvastatin 40 mg, ASA 81 mg, Lisinopril 40 mg and Metformin 1,000 bid. He denied trauma, infection, strenuous exertion, prolonged immobilization, LOC and seizure. Physical exam revealed 4/5 strength in all extremities and no skin rash. Labs showed CPK > 35,000, transaminitis (AST 4,555, ALT 447), and normal BMP, TSH, ESR, CRP. UA positive for protein 1+, blood 2+, and no RBC. The patient was then directed to the ER and received IV and PO hydration and underwent muscle biopsy. Statins were ceased and a progressive steroid taper was started. At hospital discharge, CPK trended down to 6,000 with clinical improvement, however after resuming cocaine and alcohol use, CPK rose to 11,000 while on steroids. Muscle biopsy showed moderate myophagocytosis with no inflammatory infiltrate. Serology was negative for ANA, anti RNP, anti Smith, anti Jo, anti SSA, anti SSB, anti MSA. Final diagnosis was drug induced rhabdomyolysis.
+
+# IMPACT/DISCUSSION:
+
+Cocaine and alcohol abuse is a public health issue encountered in our daily practice. These patients are at greater risk of developing severe conditions, such as cardiovascular, CNS and liver diseases. Cocaine and alcohol use are rarely perceived as common differentials of rhabdomyolysis unless they are associated with a history of syncope, seizure, fall or focal muscle pain, none of which was reported by our patient. These rhabdomyolysis differentials are often overshadowed by statin use and extreme exertion. Cocaine and alcohol nefarious health effects are well documented. Specifically, cocaine has been reported to induce rhabdomyolysis in multiple case reports and one study on eel found a correlation between cocaine exposure and muscle swelling-breakdown. Alcohol misuse, acute or chronic, leads to pathological changes in the muscle, called alcohol-induced myopathy, found in over half of the alcohol abusers. Clinically, rhabdomyolysis is difficult to diagnose, half of biologically-proven rhabdomyolysis had no muscle related complaints and cocaine-induced rhabdomyolysis has been shown to poorly correlate with symptomatic muscle related complaints.
+
+# CONCLUSION:
+
+Given the significant potential complications induced by rhabdomyolysis, such as renal insufficiency, and electrolytes disturbances with risk of fatal cardiac arrhythmia and death, it is vital to learn to diagnose and distinguish cocaine and alcohol use as common differentials of rhabdomyolysis. Such cocaine and alcohol use should trigger a specific inquiry about any complaints of fatigue and muscle discomfort, and warrant a lower threshold to order CPK as part of the lab workup.
+
+# COLITIS ON THE CAPE - RECOGNIZING RESISTANCE PATTERNS IN SHIGELLA ENTEROCOLITIS
+
+Timothy M. Bober1; Furkan Ertem2; Amar Kohli3. 1UPMC Presbyterian-Shadyside, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA; 3UPMC, Mars, PA. (Control ID #3186230)
+
+# LEARNING OBJECTIVE #1:
+
+Emphasize antibiotic treatment in Shigella enterocolitis.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize resistance patterns among Shigella infections among men who have sex with men.
+
+# CASE:
+
+This was a 54 year-old male with history of HIV with undetectable viral load on HAART, diverticulosis, Hepatitis C, and chronic inflammatory sensory polyneuropathy who presented with 5 days of large loose bowel movements with small clots and neurological symptoms. He had traveled to Cape Cod, where he explored marshes and ate "bad tasting" lobster. He had unprotected receptive anal intercourse with two male partners. Patient denied fever/chills, excessive NSAID use, recent antibiotic treatment, or family history of inflammatory bowel disease. Review of systems was notable for 4 pound weight loss and neurologic complaints including headache, diplopia, and patchy numbness. The patient was afebrile (36.8°C) and normotensive at 112/72 with a heart rate of 72 beats per minute. Abdominal exam showed a soft, non-tender, non-distended abdomen with right lower quadrant tenderness, normal liver span, no splenomegaly, and hyperactive bowel sounds. The differential included bacterial, viral, fungal, and parasitic etiologies.

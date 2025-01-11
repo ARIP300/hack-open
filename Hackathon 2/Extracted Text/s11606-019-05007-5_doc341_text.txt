@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# A FATAL BUT UNCOMMON CAUSE OF HEADACHE
+
+Matthew Langston2; Michael T. Vest1. 1Christiana Care Health System, Wilmington, DE; 2Christiana Care Health System, Newark, DE. (Control ID #3185766)
+
+# A FAILING HEART: A NEW DIAGNOSIS OF HEART FAILURE DUE TO HYDROXYCHLOROQUINE-INDUCED CARDIOMYOPATHY
+
+Alexander Ghincea1; Justin Allsop2; Daniel W. Groves6; Mona Rizeq4; Monica P. Revelo5; Sridharan Raghavan3. 1 University of Colorado School of Medicine, Denver, CO; 2University of Colorado, Aurora, CO; 3Denver VA Medical Center, Denver, CO; 4VA medical Center (ECHCS), Denver, CO; 5University of Utah, Salt Lake City, UT; 6University of Colorado School of Medicine, Aurora, CO. (Control ID #3180736)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose hydroxychloroquine-induced cardiomyopathy in patients with complex multi-organ-system medical history.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of early diagnosis and medication cessation in hydroxychloroquine-induced cardiomyopathy.
+
+# CASE:
+
+A 43-year-old woman presented with acute shortness of breath, dry cough, and chest pain. She had a history of seronegative inflammatory arthritis treated with hydroxychloroquine (HCQ) 200 mg twice daily for 8 months and cystic lung disease. Pulse was 128 bpm and oxygen saturation 89% on room air. She had distant heart sounds and diffuse inspiratory crackles. White cell count was 12.7 x 109/L, hemoglobin 15.2 g/dL, and platelets 297 x 109/L. Comprehensive metabolic panel was normal. Pro-Brain Natriuretic Peptide (pBNP) was 3539 pg/mL, and troponin peaked at 0.05 ng/mL. Infectious and autoimmune workup was negative. Ferritin was 91 ng/mL and thyroid stimulating hormone was 0.35. She had sinus tachycardia with inferior T-wave flattening and lateral T-wave inversions on electrocardiogram (ECG). Computed tomography revealed ground glass opacities and bilateral pleural effusions. Echocardiography revealed global systolic dysfunction without ventricular hypertrophy and an ejection fraction of 20-25%. Cardiac magnetic resonance imaging (CMR) revealed dilated cardiomyopathy, and no focal inflammation, edema, infarction, or fibrosis. HCQ was discontinued, and her oxygen requirement resolved with diuresis. Coronary angiography was normal and endomyocardial biopsies (EMB) taken. She discharged in stable condition after optimization of guideline directed medications for heart failure. Histopathology and electron microscopy revealed non-specific myocyte hypertrophy, no evidence of iron or amyloid deposition, and no lymphocytic or granulomatous infiltrate, but did show myelinoid bodies consistent with HCQ toxicity.
+
+# IMPACT/DISCUSSION:
+
+HCQ is commonly used in patients with connective tissue diseases. Cardiotoxicity is rare, and is thought to be underrecognized. We present a patient without prior cardiac history who developed severe heart failure after only 8 months of HCQ therapy. High doses, long-term exposure, female sex, and pre-existing heart disease are risk factors. Cardiac complications include conduction disease and restrictive or dilated cardiomyopathy. EMB with histopathology and electron microscopy is essential to the diagnosis, and should be undertaken in any patient receiving HCQ presenting with new or unexplained cardiac abnormalities. CMR and echocardiography are important adjuncts to the diagnosis. Withdrawal of HCQ is the cornerstone of management owing to potential reversibility of cardiac complications.
+
+# CONCLUSION:
+
+Identification of adverse drug reactions and timely intervention are paramount for internists. Screening with ECG and echocardiography should be performed in all patients receiving HCQ. HCQ should be discontinued in all patients with confirmed or suspected cardiotoxicity to reduce the morbidity and mortality of these devastating complications.
+
+# LEARNING OBJECTIVE #1:
+
+Consider etiologies of headache with potentially serious consequences.
+
+# LEARNING OBJECTIVE #2:
+
+Treat cerebral venous thrombosis.
+
+# CASE:
+
+A 57-year-old female was brought to the emergency department found unresponsive at home. She missed work due to a headache the day of admission. She had a history of breast cancer diagnosed in 2007 and treated with chemotherapy and mastectomy. A bone scan three months prior revealed a sclerotic left parietal lesion suspicious for metastatic disease. She was having headaches for several months. Her outpatient evaluation included magnetic resonance (MR) imaging of head four months prior, revealing sinus opacification. She was felt to have sinus headaches and underwent a right maxillary antrostomy and ethmoidectomy one week prior to admission. She was intubated in the emergency department for airway protection, where a urine drug screen was positive for cocaine, cannabinoids, and benzodiazepines. Head computed tomography with angiography (CTA) showed lack of opacification of the intracranial dural venous sinuses with enhancement of cortical veins. Further evaluation with MR venography revealed venous hypertension and ischemia of the deep grey nuclei secondary to extensive venous thrombosis involving the torcula, deep venous system, and bilateral transverse sinuses. Anticoagulation with intravenous heparin was started. An emergent thrombectomy was performed and the evacuated thromboses were felt to be chronic due to their density. Despite this intervention, she developed progressive neurologic deterioration due to increased intracranial pressure and ultimately died.
+
+# IMPACT/DISCUSSION:
+
+Headache is the most frequent symptom of cerebral venous thrombosis (CVT). High clinical suspicion for CVT is needed as general neuroimaging not protocolled appropriately may not detect this diagnosis and early diagnosis improves outcomes. Retrospective studies have indicated an incidence of cerebral venous thrombosis higher than previously expected. We suspect that her months of headaches were the result of CVT rather than sinus disease. Metastasis of recurrent malignancy could have played a role in her presentation. Treatment focuses on anticoagulation, however more recent endovascular therapies are being employed, as in our patient. This case underscores the importance of not prematurely attributing altered mental status entirely to substance abuse without searching for other causes in patients with positive urine drug screens.
+
+# CONCLUSION:
+
+Cerebral vein thrombosis is a challenging diagnosis as an uncommon etiology of headache. The inclusion of CVT remains an important consideration in the differential of an obtunded patient with headache history.
+
+# A FATAL CASE OF SEPTIC SHOCK CAUSED BY ACINETOBACTER BACTEREMIA ACQUIRED FROM A PLATELET TRANSFUSION
+
+Christopher Nevala-Plagemann1; Patrick Powers1; Mustafa Mir-Kasimov2; Richard Rose2. 1University of Utah, Salt Lake City, UT; 2Veterans Affairs, Salt Lake City, UT. (Control ID #3182679)
+
+# LEARNING OBJECTIVE #1:
+
+Prompt initiation of broad spectrum antibiotic therapy is essential in suspected septic transfusion reactions.
+
+# LEARNING OBJECTIVE #2:
+
+Septic transfusion reactions are most commonly associated with platelet transfusion.
+
+# CASE:
+
+A 67 year old male with a history of type II diabetes and alcoholic cirrhosis was admitted for medical optimization prior to a transarterial chemoembolization procedure for recently diagnosed hepatocellular.

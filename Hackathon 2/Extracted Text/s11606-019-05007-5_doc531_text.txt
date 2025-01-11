@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Ocular Toxoplasmosis
+
+Ocular toxoplasmosis usually resolves spontaneously, but atypical presentations, such as our patient with concomitant ON, are an indication to treat with antibiotics.
+
+# CONCLUSION:
+
+Young adult patients with acute unilateral painful vision loss can be diagnosed clinically with ON, but atypical features such as bilateral findings should prompt workup and treatment of alternative systemic inflammatory or infectious processes, especially given the importance of avoiding consequences in vision-related safety, career, and quality of life.
+
+# SEGMENTAL ARTERIAL MEDIOLYSIS (SAM) AS A MIMIC OF SYSTEMIC VASCULITIS
+
+Bilal Saqi. Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3186314)
+
+# LEARNING OBJECTIVE #1:
+
+To diagnose SAM in a patient being treated primarily as vasculitis resulting in harm
+
+# LEARNING OBJECTIVE #2:
+
+To recognize dissections, aneurysms, hemorrhage or ischemia in the celiac, superior mesenteric and other abdominal arteries as features of SAM
+
+# CASE:
+
+A 44 year old male with history of hypertension and gout who initially presented with chest and epigastric pain. Initial workup was negative for myocardial infarction and pulmonary embolism, but subsequently on worsening of the pain and elevation of white count and liver enzymes, CT angiography was performed and revealed extensive mesenteric thrombosis including hepatic, splenic and gastroduodenal artery occlusion, portal venous air involving the left lobe of the liver and gastric wall pneumatosis. Heparin was started but ensuing CT revealed new splenic and bilateral kidney infarcts. Furthermore he developed flank pain, thrombocytopenia and anemia. Repeat imaging revealed new right perinephric and retroperitoneal hematomas and increased number of bilateral renal infarcts. Heparin was held and initial workup revealed Heparin Induced Thrombocytopenia but confirmatory test was negative. Angiography revealed dissection in the celiac artery but no active bleeding. His course was further complicated by large left main and segmental right lower lobe pulmonary embolism in the setting of new atrial fibrillation, but his echo was negative for vegetation, thrombi or shunt. Treatment with Argatroban was started and extensive hypercoaguable and rheumatological workup including test for Ehlers-Danlos was negative. He was treated primarily as a patient of vasculitis with steroids and cyclophosphamide and discharged with warfarin. He presented again for flank pain and hematuria and was found to have new interval occlusions of the common hepatic artery and evolving bilateral renal and left hepatic infarcts. In light of celiac dissection and diffuse arterial thrombosis, lack of an inflammatory picture, findings on CTA and Angiography, and exclusion of hypercoagulable state, he was diagnosed with SAM. He was treated with Bivalirudin and discharged on Fondaprinux.
+
+# IMPACT/DISCUSSION:
+
+SAM is an arteriopathy characterized by vacuolization and lysis of the arterial smooth muscle cells, arterial gaps, separation, and reparative fibrosis. The pathogenesis of SAM is still unknown. Presentation can range from abdominal pain due to acute intestinal ischemia from thrombosis or dissection to intra-abdominal hemorrhage. Systemic vasculitis, connective tissue diseases, congenital vascular diseases such as Ehlers-Danlos syndrome should always be excluded. Misdiagnosis and treatment directed towards vasculitis can lead to harm such as in our patient. Appropriate therapy with angiography and transcatheter embolization should be performed immediately when indicated.
+
+# CONCLUSION:
+
+In patients presenting with abdominal pain, flank pain, hematuria and arteriopathy, SAM should not be forgotten.
+
+# SEIZE THIS PAIN: A CURIOUS CASE OF ACUTE INTERMITTENT PORPHYRIA
+
+Hongyang Pi1; Benjamin Sprague1; Akshata Moghe2. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA. (Control ID #3185807)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of acute intermittent porphyria (AIP)
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose and treat an AIP attack
+
+# CASE:
+
+A 34 yr-old woman with migraines presented with two weeks of severe, intensifying, diffuse abdominal pain. For the past year, she had experienced sporadic abdominal and back pain. Three weeks prior to presentation, she was treated for a urinary tract infection with trimethoprim-sulfamethoxazole. She reported nausea with occasional emesis, without fevers or changes in bowel habits. Family history was notable for functional abdominal pain in her father. She did not use alcohol, tobacco, or illicit drugs. Home medications included acetaminophen-hydrocodone and cyclobenzaprine. She was afebrile, with BP of 179/118 mmHg, HR of 144 bpm and RR of 18/min. She was alert with dry mucus membranes. Her abdomen was soft, nondistended, diffusely tender without rigidity or guarding, with reduced bowel sounds. Neurological exam was non-focal. The day after presentation, she had a witnessed generalized tonic-clonic seizure. At that time, her serum sodium level had fallen to 110 mEq/L, from 136 mEq/L on presentation. Liver function tests were normal. CT of the abdomen was unremarkable. EEG showed mild diffuse encephalopathy. Her urine was reddish-orange but urinalysis showed no RBCs. Differential diagnosis included AIP, cyclobenzaprine toxicity and vasculitis. Urine porphobilinogen (PBG) level returned at 100 mg/24hr (normal < 2.4) clinching the diagnosis of AIP. Daily hematin infusions were initiated with gradual resolution of abdominal pain and normalization of vital signs.
+
+# IMPACT/DISCUSSION:
+
+AIP is an autosomal dominant metabolic disorder caused by deficiency of the enzyme porphobilinogen deaminase (a.k.a. hydroxymethylbilane synthase) from the heme biosynthesis pathway. Diagnosis of AIP is challenging as i) symptoms can be intermittent & vague, ii) abdominal pain has a large differential diagnosis, and iii) as a rare disease, AIP is often not considered or appropriate testing is not performed. Presentation of AIP is highly variable, however most attacks begin with abdominal pain and neurological symptoms. Tachycardia and limb paresthesias are common signs of autonomic and peripheral neuropathy, respectively. Hyponatremia is the most common electrolyte abnormality, and can lead to seizures. Urine appears red-brown due to the presence of porphyrins. As in the case of our patient, drugs are common triggers of AIP. Other triggers include dehydration, alcohol, infections, starvation, and hormonal changes of menses or pregnancy. Spot urine PBG is the best diagnostic test, and if elevated, is sufficient to diagnose AIP. Treatment includes daily infusions of hematin in severe attacks, while mild symptoms can be alleviated with carbohydrate loading with IV dextrose.
+
+# CONCLUSION:
+
+Consider AIP in a patient with abdominal pain, neurological symptoms & electrolyte abnormalities. Spot urine PBG is the preferred diagnostic test. Treat with hematin in severe cases, or carbohydrate loading in mild cases.
+
+# SEPTIC KNEE MONOARTHRITIS DUE TO HISTOPLASMA CAPSULATUM AFTER BONE MARROW TRANSPLANT IN AN APLASTIC ANEMIA PATIENT
+
+Bhavyaa Bahl; Lourdes Corman. UAB Huntsville Regional Medical Campus, Huntsville, AL. (Control ID #3186107)

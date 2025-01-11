@@ -1,0 +1,54 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+Of 368 respondents (54% female), 84% reported having knowledge of CRC, however only 22% percent had heard of tests that can detect CRC. Despite this, 91% of respondents felt that getting checked regularly increases the chances of finding CRC early, and that early detection leads to "excellent" or "good" outcomes. 19% of respondents (n=68) have worried about the possibility of having CRC, and of those, only half (n=35) sought the consultation of a physician regarding this concern. When asked whether they would be afraid of CRCS, 46% answered "yes" (n=87) or "unsure" (n=81). The most common reasons for not undergoing screening were "I don't think it is necessary" (n=221), "I didn't know I should get it" (n=166), "If I don't have symptoms I won't pursue it" (n=156), "I will do it later" (n=156) and "Screening and treatment costs would be too much" (n=153). Only 7% of those surveyed stated that a provider has ever mentioned CRCS screening to them, but 76% were willing to undergo CRCS if their doctor recommended it. There was no strong preference towards any screening modality, however 78% would only undergo screening if free (n=189) or less than 10,000AMD/~$20USD (n=96).
+
+# CONCLUSIONS:
+
+Despite the high self-reported familiarity with CRC, knowledge of CRCS in Armenia remains low. While most respondents were willing to undergo CRCS if they were advised to do so, significant barriers to voluntary screening exist. These findings suggest that targeted interventions to directly increase awareness of CRC and CRCS among the population, encouraging healthcare providers to discuss CRCS with patients, and keeping out-of-pocket costs for CRCS and CRC treatment at a minimum should be considered when designing organized CRCS in Armenia.
+
+# ASSESSING THE ASSOCIATION OF CRIMINAL JUSTICE CONTACT WITH WELLBEING
+
+Ram Sundaresh1; Brita Roy1; Youngmin Yi2; Carley Riley3, 4; Christopher Wildeman2; Emily A. Wang1. 1Yale School of Medicine, New Haven, CT; 2Cornell University, Ithaca, NY; 3University of Cincinnati College of Medicine, Cincinnati, OH; 4Cincinnati Children's Hospital Medical Center, Cincinnati, OH. (Control ID #3185988)
+
+# BACKGROUND:
+
+Research has shown that mass incarceration has wide reaching effects on health and mortality. However, the impact of mass incarceration on broader emotional and social wellbeing has not been closely studied. The aim of this study is to assess how exposure to the criminal justice (CJ) system is associated with wellbeing.
+
+# METHODS:
+
+We used data from the 2018 FamHIS study, a nationally representative cross-sectional study of incarceration among family members (N=2815). Of 4,401 who completed the screening about family incarceration, 1,806 individuals with- and 1,009 without- family incarceration experience were included in the study. CJ exposure was classified by each individual's highest level of personal CJ contact: none, stopped by police, stopped and frisked, arrested, incarcerated, or incarcerated multiple times. We measured wellbeing using the 100 Million Healthier Lives Adult Wellbeing Assessment, a set of validated items that measures thriving or suffering within five domains of wellbeing: physical health, mental health, social wellbeing, spiritual wellbeing, and overall life evaluation. We report frequencies of thriving and suffering at each level of CJ contact, and use logistic regression to compare wellbeing across CJ exposure levels, controlling for confounding by age, gender, race, income, housing type, employment status, education, and marital status.
+
+# RESULTS:
+
+Compared to those without personal CJ exposure (N=1,575), any CJ exposure (N=1,229) was associated with lower rates of thriving (74% vs 61%, p<0.001) and higher rates of suffering (4% vs 8%, p=<0.001). Across all five domains of wellbeing, there was a progressive decrease in thriving and increase in suffering with increasing exposure to the system (table, p<0.001 for each trend). In adjusted models, a strongly decreased odds of overall thriving was only seen in those with any police stop (AOR 0.59, 95% CI 0.41 - 0.87) or any incarceration (AOR 0.59, 95% CI 0.4 - 0.85), compared to those without CJ exposure.
+
+# CONCLUSIONS:
+
+Increasing exposure to the criminal justice system is associated with a dose dependent decrease in wellbeing in every domain. This highlights the need for clinical interventions in diversion and CJ reform to not only focus on incarceration, but also on reducing police contact to achieve population-level improvements in health.
+
+# Figure:
+
+Average weight loss adjusted for demographic and health care utilization characteristics for the PSMFF and Control diet participants
+
+|1 year|2 years|3 years|4 years|5 years|
+|---|---|---|---|---|
+|26|1|076|1|3%|
+|36|-6%|1|-0-8%|42|
+
+# ASSESSING WHEN TO STOP OR SCALE BACK ROUTINE MEDICAL SERVICES: THE ASSURES STUDY
+
+Eve A. Kerr1, 2; Mandi L. Klamerus1; Adam Markovitz1, 2; Tanner Caverly1, 2; Jeremy Sussman1, 2; Sameer D. Saini1, 2; Lillian Min1, 2; Steven J. Bernstein2; Roger Chou3; Shannon E. Lohman1, 4; Whit Froehlich1, 2; Sarah E. Skurla; David E. Goodrich1; TImothy Hofer1, 2. 1VA Center for Clinical Management Research, Ann Arbor, MI; 2University of Michigan, Ann Arbor, MI; 3Oregon Health and Science University, Portland, OR; 4Wayne State University, Detroit, MI. (Control ID #3184286)
+
+# BACKGROUND:
+
+Recommendations in current guidelines primarily focus on intensifying medical services. While Choosing Wisely (CW) has encouraged specialty groups to develop recommendations about overuse, to date no one has developed a systematic approach to identifying and validating recommendations for stopping or scaling back (de-intensifying) tests or treatments. We designed such an approach and applied it to a set of common ambulatory conditions.
+
+# METHODS:
+
+The identification of candidate recommendations for de-intensification began with a systematic scan of guidelines/recommendations developed by selected specialty societies, the USPSTF, and CW. We limited our search to the following common clinical areas in routine ambulatory primary care: prevention and treatment of cardiovascular disease (CVD) and diabetes (DM), screening (non-CVD), and inappropriate medication use in adults. Each candidate recommendation was reviewed by physician investigators to: 1) verify it related to de-intensification and was relevant to routine primary care; 2) assess whether it would likely improve outcomes, impact patients, and be feasible to measure. An external advisory council prioritized the resultant recommendations. The prioritized recommendations, and supporting evidence, were considered by two multidisciplinary expert panels of physicians. Panel 1 (N=13 members) had expertise in CVD and DM; Panel 2 (N=12 members) had expertise in screening and medication use. We adapted the RAND/UCLA Appropriateness Method of two rounds of ratings with discussion between by employing virtual group participation via an internet collaboration tool plus teleconferences. The primary rating criterion was validity (1-9; 9=recommendation definitely based on high-quality scientific evidence). The recommendations were classified according to the panel's median final rating and level of disagreement among panelists.
+
+# RESULTS:
+
+The systematic scan resulted in 947 potentially relevant recommendations. 538 were excluded by physician investigators as not meeting study criteria. 409 were grouped into 178 similar recommendations, with 37 prioritized by the advisory council. Following refinements to the recommendations, the two expert panels rated 44 de-intensification recommendations. 37 (84%) were rated as valid (median validity rating between 7-9) without substantial disagreement. Recommendations classified as appropriate.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LESSONS LEARNED IN CLERKSHIP INNOVATION: A QUALITATIVE STUDY OF THE DESIGN AND IMPLEMENTATION OF LONGITUDINAL INTEGRATED CLERKSHIPS
+
+Michael Chilazi1; Dana G. Callahan1; Galina Gheihman1; David Hirsh2; Mark A. Schuster3. 1Harvard Medical School, Boston, MA; 2Harvard Medical School, Cambridge, MA; 3Kaiser Permanente School of Medicine, Pasadena, CA. (Control ID #3184593)
+
+# NEEDS AND OBJECTIVES:
+
+Longitudinal Integrated Clerkships (LICs) offer an opportunity to advance health equity through medical education reform. LIC students participate in the comprehensive care of patients over time, maintain continuing learning relationships with preceptors, and meet clinical competencies across disciplines simultaneously. Compared to traditional block rotations, LICs are more likely to cultivate patient-centeredness, promote work in health advocacy, and address community needs. Despite the growing number of LICs nationally and internationally, the current literature lacks an empirical review of best practices in LIC implementation. Our study aims to fill this gap in order to provide a resource to medical educators and institutional leadership contemplating, implementing, or expanding LICs.
+
+# SETTING AND PARTICIPANTS:
+
+We interviewed LIC leaders (clerkship directors, discipline directors, administrative coordinators) across the United States, Canada, and the United Kingdom.
+
+# DESCRIPTION:
+
+Using convenience sampling, we conducted in-depth, semi-structured interviews with leaders of established LIC programs to explore experiences related to designing and implementing LICs.
+
+# EVALUATION:
+
+We interviewed 29 participants representing 20 LICs. We performed qualitative thematic analysis, which identified 4 key challenges in LIC implementation and possible solutions: (1) Administration: facilitating continuity between learners and patients requires administrative support and technological solutions; (2) Buy-in: outcomes data and shared professional values promote engagement of key stakeholders; (3) Comparability: rigorous program evaluation enables demonstration of comparable or improved outcomes for learners and patients; and (4) Growth: LICs face structural and cognitive barriers to expansion. Our analysis also highlighted that LICs meet key goals for modern undergraduate medical education by: (1) Providing meaningful continuity with patients and providers; (2) Integrating curricula related to community engagement and systems improvement; and (3) Addressing workforce needs of underserved communities.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Program leaders experienced similar challenges during the design and implementation of LICs, highlighting future opportunities for research towards shared solutions. Rogers' theory of "Diffusion of Innovation" provides a framework for organizing these challenges and identifying LIC features that promote successful adoption and spread.
+
+# LET'S TALK ABOUT THE FUTURE: RESIDENT COMFORT AND EXPERIENCE WITH OUTPATIENT ADVANCE CARE PLANNING
+
+Kaylan Christianer. Columbia University Medical Center, New York, NY. (Control ID #3181317)
+
+# NEEDS AND OBJECTIVES:
+
+Advance care planning (ACP) allows patients to communicate their goals for future care and appoint surrogate decision makers. Holding these discussions early in the outpatient setting allows for comprehensive planning. Prior studies have identified several barriers in accomplishing outpatient ACP, notably lack of time and provider training. However, in 2016 the Centers for Medicare and Medicaid Services added payment codes to reimburse for ACP conversations, incentivizing their integration into routine primary care. While many residency programs have implemented curricula to improve residents' comfort delivering bad news and discussing goals of care with inpatients, these skills do not necessarily translate to the outpatient setting. This project seeks to assess resident experiences facilitating outpatient ACP which can guide development of future curricula.
+
+# SETTING AND PARTICIPANTS:
+
+Second- and third-year Internal Medicine residents on a 2-week ambulatory rotation at NewYork-Presbyterian Columbia resident clinic serving a largely Spanish-speaking Medicaid patient population.
+
+# DESCRIPTION:
+
+Participants were invited to complete a survey assessing their comfort facilitating care planning, as well as their familiarity with common documents. They were also asked to quantify their prior experience facilitating ACP among their outpatient panel, and to identify motivations and barriers to initiating these discussions.
+
+# EVALUATION:
+
+Preliminary results from 17 participants (100% response rate) reveal residents are significantly more comfortable addressing care planning with inpatients as compared to outpatients (mean 4.2 vs. 2.9 out of 5, p<0.001). Participants had variable comfort with common documents including Out-of-Hospital DNR/DNI (mean 3.9 out of 5), NY State Health Care Proxy (mean 3.4), MOLST/POLST (mean 3.4), and Living Will (mean 2.4). A majority (76%) of residents report discussing ACP with less than 10% of their total outpatient panel, and only 17% of residents report discussing ACP with at least half of their "very old or seriously ill" outpatients. Common barriers identified included lack of time (82%), lack of access to forms (41%), inability to implement (29%), lack of training or experience (24%) and language barriers (24%).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This assessment reveals an important discordance in residents' ability to conduct care planning in the outpatient as compared to inpatient setting, as well as low rates of addressing ACP among resident panels.
+
+# LIFELONG LEARNING FOR FACULTY: THE CREATION OF A CLINICAL RESEARCH USING SECONDARY DATA COURSE AT AN ACADEMIC CENTER
+
+Halle G. Sobel1; Abigail Crocker2; Charles D. MacLean2; Benjamin Littenberg2. 1University of Vermont Medical Center, Burlington, VT; 2University of Vermont, Burlington, VT. (Control ID #3181461)
+
+# NEEDS AND OBJECTIVES:
+
+1. Deans and department chairs at academic medical centers want to increase academic productivity at their institutions. A faculty development course in designing and implementing clinical research can help achieve this goal. 2. Faculty at academic institutions are surrounded by secondary data through electronic medical records (EMRs) and can benefit by learning how to use this data for scholarly research. 3. Clinicians who better understand and perform clinical research can promote improved quality and

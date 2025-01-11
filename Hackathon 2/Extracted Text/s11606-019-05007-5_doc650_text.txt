@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# MEASURES OF SUCCESS
+
+Key features of success when using a participatory approach are enhanced participant involvement, production of meaningful results, confirmation of mutual values, and increased commitment to future action. We successfully recruited at least 15 participants per stakeholder group (total n =104): patients and families (18%); IM faculty (22%), IM residents (29%); nurses and other ancillary staff (e.g. unit coordinator, 15%); and care managers (16%). Future success measures include validating thematic analysis with stakeholders and utilizing data to drive improvement work in the inpatient setting.
+
+# FINDINGS TO DATE
+
+Stakeholders identified several themes related to interdisciplinary communication: 1) patient and family inclusion; 2) shared mental models and expectations; 3) execution of communication (modalities); 4) access to essential information; 5) cultural and behavioral components of an optimal environment; 6) role of communication in patient outcomes. Further evaluation will look specifically for overlap and divergence of themes and subthemes.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Understanding current state of effective interdisciplinary communication will allow the design of contextually-relevant interventions to improve patient care and outcomes on inpatient IM teams. Demonstrating feasibility of using a structured participatory approach in the inpatient setting shows that this method can be employed and adapted at other institutions to facilitate interdisciplinary collaboration and engagement.
+
+# INTERPROFESSIONAL MANAGEMENT OF OBSTRUCTIVE LUNG DISEASE IN AN URBAN PENNSYLVANIA FREE CLINIC FOR THE UNINSURED
+
+Christopher C. Marino; Theo Pham; Sharon E. Connor; Mary Herbert; Thuy Bui; Faraaz A. Shah. University of Pittsburgh Medical Center, Pittsburgh, PA; University of Pittsburgh, Pittsburgh, PA. (Control ID #3163115)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Low-income uninsured patients face numerous barriers to optimal management of obstructive lung disease and have a higher prevalence of asthma and chronic obstructive pulmonary disease (COPD).
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+The Birmingham Free Clinic (BFC) aims to provide access to high-quality care and timely diagnosis for uninsured patients with obstructive lung disease in an interprofessional free clinic setting.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+Comprehensive pulmonary care at BFC includes a smoking cessation program, pharmacist-driven medication therapy management clinic, medication assistance programs, and a specialty pulmonary clinic with on-site spirometry offered every three months. This project identified patients with poorly-controlled obstructive lung disease and explored associated contributing factors.
+
+# MEASURES OF SUCCESS
+
+A retrospective chart review was performed for all patients seen at the clinic with a diagnosis of asthma or COPD from January 2016 to June 2018. Cases were identified using ICD-10-CM diagnostic codes. A case report form was applied to abstract data on demographics, tobacco use, spirometry, medications, emergency department visits, and hospitalizations. Patients were classified as uncontrolled if chart review revealed: (1) daily albuterol inhaler use, (2) nighttime awakening, (3) functional limitations, or (4) emergency department visits or hospitalizations due to obstructive lung disease within the past year.
+
+# FINDINGS TO DATE
+
+A total of 106 adults (age 45 ± 15 years, 51% female) presented with obstructive lung disease over the 30-month period (asthma 75%, COPD 21%, combined asthma-COPD 4%). Seventy (66%) had no documented spirometry testing, demonstrating spirometry underutilization and reliance on clinical assessment for diagnosis. Forty-six (43%) reported ongoing tobacco use and nineteen (18%) reported former tobacco use. Twenty-nine (27%) had uncontrolled disease. Factors associated with poor control included active tobacco use (p=0.04), older age (p=0.03), male sex (p=0.01), and a diagnosis of COPD or combined COPD-asthma (p<0.01). Race and body mass index did not significantly differ between controlled and uncontrolled groups. Suboptimal control of obstructive lung disease resulted in 58 emergency department visits and 15 hospitalizations. A minority of patients (27%) continued to follow regularly at the clinic into 2018.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Management of obstructive lung disease in an uninsured population presents unique challenges as patients are at high risk of fragmented care and have limited access to diagnostic spirometry and appropriate therapy. This quality improvement study identified targets to optimize care in a free clinic setting including enhanced inter-visit follow up, pharmacist-assisted management, improved access to on-site spirometry, increased tobacco cessation efforts, and incorporation of validated assessment tools in asthma and COPD care.
+
+# IT TAKES A VILLAGE—AMBULATORY INTERDISCIPLINARY ROUNDS TO ADDRESS HIGH COST-HIGH NEED PATIENTS
+
+William Carroll; Sun Yoo. UCLA, Los Angeles, CA. (Control ID #3185880)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+High cost-high need patients require intensive care coordination to address medical and social complexity, but traditional primary care models do not provide an efficient structure for interdisciplinary discussion to craft comprehensive care plans that address drivers of utilization.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Perform a root cause analysis to determine underlying drivers of inpatient hospital admissions and emergency room visits. Provide a venue for interdisciplinary development of individualized complex chronic care management plans for high risk patients in order to decrease preventable hospital admissions and 30-day readmissions. Stratification of specific tasks to appropriate team member who will serve as the point of contact between the medical team, community stakeholders and the patient to minimize redundancy and allow members maximize clinical licenses.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+An interdisciplinary team consisting of 4 internal medicine extensivist physicians, 1 nurse practitioner, 1 registered nurse (RN), 1 clinical pharmacist, 1 comprehensive care coordinator (CCC), 2 patient service representatives (PSR), 1 hemodialysis coordinator, and 1 social worker meet weekly to evaluate previously identified cases to evaluate pertinent social determinants of health to stabilize chronic disease management in patients identified as a high utilizer.

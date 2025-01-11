@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# of housing and health, public housing authorities have a
+
+‘health in all policies' perspective, yet many have not fully investigated the needs of their older residents. In partnership with a local housing authority, we conducted a qualitative study to better understand older residents' concept of health and healthcare, including what helps them maintain health and wellness.
+
+# METHODS:
+
+We conducted semi-structured interviews with English and Spanish-speaking adults 65 years residing in one of two public housing complexes. Questions were designed to elicit resident's thoughts and perspectives on health, healthcare, housing, problem-solving, and community. Participants were recruited in person at each site with personal invitations and at resident council meetings. Interviews were conducted in participant's homes or private meeting places, audio-recorded, and transcribed verbatim. Spanish interviews were translated into English. We used grounded theory to analyze the data.
+
+# RESULTS:
+
+We interviewed 23 residents. They ranged in age from 65-85 years; 12 identified as Hispanic, 5 African American, and 6 non-Hispanic white; 43% were men. We identified multiple themes. First, older adults residing in public housing equate health with their ability to move and ‘feel good'; the presence of multiple chronic conditions does not, for them, define health. Instead, they frame health questions in terms of what they are able to do for themselves, including choices in eating, moving, interacting with others, or following doctor's recommendations. Additionally, the majority stated they have no challenges in getting what they need for their health, despite the fact that all have three or more chronic diseases. They attribute the lack of challenge to provision of public health insurance for older adults and supportive services now available to them, highlighting the difference from when they were younger. Those who mentioned challenges focused primarily on money and transportation, especially out-of-pocket costs they can't afford.
+
+# CONCLUSIONS:
+
+We found that the older adult public housing residents in our study defined health as maintaining autonomy and mobility. Though socioeconomically limited, their approach to healthcare is independent; health challenges are framed in management terms with the self as the primary mover. Surprisingly, they identified few challenges to getting what they need for their health. Future efforts to improve older adult public housing residents' health should take into account their independence and resilience. Housing-health system partnerships that aim to impact this population will be best served by understanding their independent, management-oriented mentality.
+
+# ONLINE DECISION AID USE LEADS TO DESIRE FOR LESS AGGRESSIVE MEDICAL TREATMENT AMONG PATIENTS WITH ADVANCED CANCER
+
+Michael J. Green1; Lauren J. Van Scoy2; Andrew J. Foy1; Anne Dimmock1; Erik B. Lehman3; Theresa Smith1; Benjamin Levi1. 1Penn State College of Medicine, Hershey, PA; 2Penn State University, Hershey, PA; 3Pennsylvania State University, Hershey, PA. (Control ID #3185851)
+
+# BACKGROUND:
+
+To help ensure that patients receive medical treatment consistent with their desires, advocates of advance care planning (ACP) encourage individuals to articulate their wishes for medical treatment in advance of illness. While many patients prefer less rather than more treatment at the end of life, in the absence of clear documentation to the contrary, the medical profession's default position is to provide more aggressive treatment. Directive videos can alter decisions, but it is not known whether a nondirective, robust, online educational decision aid can affect treatment choices.
+
+# METHODS:
+
+This was a secondary analysis of a single center, single-blind RCT of an advance care planning intervention among patients with Stage IV cancer. Participants were randomized to an Intervention Group (Making Your Wishes Known, a values-neutral, non-directive, multimedia online decision aid) or Control Group (standard living will form plus an educational brochure). Subsequently, participants were provided 6 clinical vignettes and asked to indicate whether they would want or not want specific medical/surgical interventions in each situation. The primary outcome was participants' preferences for receiving 11 medical treatments (dialysis for < 1 month; dialysis for > 1 month; CPR; ventilator support for <24 hours; vent for up to 1 month; vent for > 1 month; feeding tube for up to 1 month; feeding tube for > 1 month; medicine; surgery; and transfusion). Data were analyzed by summing responses to the 11 questions about the paradigmatic vignette (a moderate/severe stroke that would not improve after 1 year). A total treatment preference score was calculated and the median number of desired treatments was compared between groups using a Wilcoxon Rank Sum test. Logistic regression was used to compare between-group likelihood of wanting each specific treatment.
+
+# RESULTS:
+
+200 individuals participated in the study. Overall, participants in the Intervention Group desired fewer life-sustaining interventions than those in the Control Group. With the opportunity to choose as few as 0 and as many as 11 interventions, the median number of interventions desired was 1 in the Intervention Group versus 5 in the Control Group (p < 0.001). For 7 of the 11 specific interventions, the Intervention Group was significantly less likely than Control to want aggressive treatment. Most notably, compared to Control, Intervention Group participants were less likely to want: CPR (OR=3.2); short-term ventilator (OR=3.0); short-term dialysis (OR=2.6); surgery (OR=2.7); and transfusion (OR=2.6).
+
+# CONCLUSIONS:
+
+Individuals who use a robust, nondirective, educational ACP decision aid desire less aggressive medical treatment than those completing standard non-educational living will forms. These findings have implications not only for helping families and clinicians make end-of-life treatment decisions, but also potentially for reducing costs at the end of life.
+
+# ONLINE PORTAL USE BY ADULT GENERAL INTERNAL MEDICINE PATIENTS AT AN ACADEMIC MEDICAL CENTER
+
+Alejandro Plana; Neda Laiteerapong. University of Chicago, Chicago, IL. (Control ID #3185800)
+
+# BACKGROUND:
+
+Patient portals have the potential to improve patient-provider communication, increase patient satisfaction with care, and augment the efficiency and quality of healthcare. However, failing to sufficiently account for the work required to respond to portal messages will lead to underinvestment in staff and increase the risk of provider and staff burnout. This study sought to describe portal use across a healthcare system by adult patients seen at an academic general internal medicine clinic and assess associations between patient portal use and patient characteristics.
+
+# METHODS:
+
+All healthcare encounters for any adult patient with at least one encounter at an urban, academic general internal medicine faculty practice between June 2014 to February 2018 were collected. Patients were categorized as MyChart users if they had at least one MyChart encounter. We compared sociodemographics between MyChart users and non-users using analysis of variance, chi-square tests, and multivariate logistic regressions.
+
+# RESULTS:
+
+During the 3.75-year period, there were 968,484 encounters from 59,973 unique patients. 24% (N=14,737) had at least one MyChart encounter and there was a mean 7283 MyChart encounters per year. 21% (N=12,346) patients had used MyChart to request medical advice. 6% (N=3,647) requested an appointment and 4% (N=2,559) patients requested a medication refill. Over half (55%) of MyChart users (N=7939) had 1 encounter. 3,668 patients (25%) had 2, 1,719 patients had 3 (12%), and 1,401 patients (10%) had 4 MyChart encounters. MyChart encounters were distributed across a total of 1671 healthcare providers; 1380 (83%) had completed 10 encounters, 174 (10%) had completed 10 to 50 encounters, 35 (2%) had completed 50-100 encounters, 43 (3%) had completed >100 MyChart encounters. In multivariate regression, patients >65 years were less likely (23.3%, 95% CI 22.0-24.6) and patients aged 35-50 years were more likely (33.0%, CI 31.9-34.0) to use MyChart than patients less than 35 years old (28.4%, CI 27.3-29.4). Men were less likely (14.7%, CI 13.8-15.7) than women (23.3%, CI 22.0-24.6) to use MyChart.

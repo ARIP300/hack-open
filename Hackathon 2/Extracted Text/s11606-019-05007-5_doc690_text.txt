@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# SETTING AND PARTICIPANTS:
+
+Our study was conducted at a large regional teaching hospital in New Jersey that recently adopted EPIC in both ambulatory and inpatient settings. Participants included 52 Internal Medicine residents (15 PGY-1, 9 preliminary, 15 PGY-2, and 13 PGY-3) supervised by Internal Medicine and Clinical Pharmacy teaching faculty.
+
+# DESCRIPTION:
+
+This was a 6 month longitudinal study. Program faculty identified 6 functions in EPIC considered essential for the coordination of patient care but underutilized based on previous year's experiences. Trainees completed a survey to self-report their confidence level for writing a result note and result letter, completing a phone encounter, writing a letter to a patient, posting an out-of-office notification, and writing a remind-me note. Residents were provided a one-hour training session on how to accomplish these skills. For the next six months, when trainees performed these tasks in their outpatient clinic, they were required to demonstrate their proficiency for a faculty member and record it in a central skills log. All residents were surveyed again six months later to self-report their confidence level.
+
+# EVALUATION:
+
+42 residents completed the initial survey and as of this time 28 residents completed the post survey. Results were stratified by PGY level and interpreted using weighted averages. Confidence levels for completing a phone encounter, posting an out-of-office notification, and posting a remind-me note, increased in at least two of the PGY levels; meanwhile, writing a result note, result letter and letter to a patient, decreased in at least two of the PGY levels. The greatest improvement in confidence level was seen in the PGY-2 class. To date, 59% of the residents completed the EPIC skills log.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Using our novel "3D" approach, our residents reported increased confidence in performing more than 80% of essential EPIC skills. Direct observation of residents utilizing EPIC functions provided opportunity for evaluation as well as feedback and instruction. Due to the anonymous nature of the post-survey, we were unable to tell which respondents had actually completed the skills log thus we were unable to determine if there was a correlation between log completion and confidence level.
+
+# APPLYING DESIGN THINKING PRINCIPLES TO AN ETHICAL IMPERATIVE: LIVER TRANSPLANTATION
+
+Amanda Simone1; Lauren Block2; David Marcus3. 1Northwell Health, Manhasset, NY; 2Northwell Health, Lake Success, NY; 3Northwell Health, New Hyde Park, NY. (Control ID #3184936)
+
+# NEEDS AND OBJECTIVES:
+
+Design thinking (DT) has been used in business to generate practical ideas to solve problems, but has only recently been applied as a tool in medical education. Here, it has been described as a tool for curricular design and problem solving, but there are no published instances of it being used in a medical ethics context. We used the DT model to redesign a session on the ethics of liver transplantation at one medical school. DT was chosen to allow students to draw on their own experiences in proposing solutions to a real-world problem within the lens of ethics and professionalism.
+
+# SETTING AND PARTICIPANTS:
+
+Content was delivered to 100 first year medical students in a 150-minute session as part of their ethics curriculum.
+
+# DESCRIPTION:
+
+The session began as a group discussion on challenges of organ donation in the US and the issue of developing a fair system to allocate limited resources. Students transitioned to groups of 5 to begin the design thinking challenge. Groups were asked to consider alternative solutions to improve patient wait times and fairness of organ distribution and the ethical impacts of changing the current model. Facilitators led students through DT steps of empathizing on the problem, defining the team's point of view, ideating on potential solutions and ideas, prototyping a specific idea, and testing the idea through oral presentation. The session ended with presentations by the teams on their proposals, with questions and answers by peers and faculty.
+
+# EVALUATION:
+
+The curriculum was evaluated with a mixed methods design, with confidential pre-and post-surveys including quantitative and qualitative items. Unpaired t-tests and chi-square tests compared survey data, and thematic analysis was used on qualitative items. After the session, students reported an increased understanding of the current liver transplant allocation system (p <0.01) and an increased appreciation of shortcomings of the current organ allocation system in the US (p-<0.01). Before the session, 75.3% of students never had any practical experience with DT, highlighting the novel nature of this teaching modality in medical education. After the session, 73.8% of students felt that DT could be used to approach complex health system problems.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Design thinking is a tool for generating and exploring ideas from multiple stakeholders to solve problems. We used these principles to encourage medical students to engage with the ethical problems inherent to organ donation. Students displayed improved knowledge and attitudes towards organ donation and design thinking. These results indicate that design thinking is a novel, effective and useful learning framework to use when addressing ethical problems in healthcare.
+
+# ASSESSING BURDEN OF CHRONIC DISEASE AMONG THE UNINSURED: AN INTERDISCIPLINARY COMMUNITY OUTREACH
+
+Sayeef Mirza1; Shams Rahman2; Noura Ayoubi1; Laurie Woodard1; Rahul Mhaskar1. 1University of South Florida, Tampa, FL; 2Bethune Cookman, Daytona Beach, FL. (Control ID #3186402)
+
+# NEEDS AND OBJECTIVES:
+
+1. Define specific socioeconomic factors that impact chronic disease morbidity and mortality among the uninsured frequenting free clinics. 2. Integrate the concepts of interprofessional community outreach, health services research, student mentorship, with biostatistics/epidemiology didactics as a part of medical education curricula.
+
+# SETTING AND PARTICIPANTS:
+
+A retrospective chart review was conducted to collect data on chronic diseases from electronic and paper-based medical records at 9 free clinics in the Tampa Bay area. Charts containing clinic visits from January 2016 to December 2017 were included and analyzed. Redcap was used to organize a comprehensive chart review.
+
+# DESCRIPTION:
+
+There are over 1,200 free clinics managing uninsured and under-insured patients throughout the United States. Only about 10% of these clinics are affiliated with a medical school where students are involved with operational management. However, data is rarely recorded systematically that would facilitate statistical analysis and outcomes research. Assessing the burden of chronic disease (ABCD) may be an elementary step in assessing the health of a largely 'undocumented' population. A multidisciplinary effort can unite different professions in order to study, analyze and report data about uninsured patients.
+
+# EVALUATION:
+
+From January 1, 2016 to December 31, 2017, a total of 8857 patients were managed at 9 free clinics. After omitting missing variables, 5074 (58%) were women, 3408 (54%) were Hispanic, and 2019 (46%) were unemployed. In terms of follow-up, 4207 (48%) were seen more than once, and 2613 (30%) were seen more than twice. The mean number of visits was 2.51. Follow-up visits were most common among patients with the

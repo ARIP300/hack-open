@@ -1,0 +1,63 @@
+# ABSTRACTS
+
+free water. This phenomenon, termed the electrolyte exclusion effect, is common with the use of flame photometry or indirect potentiometry. However, this artifact does not occur with the use of direct potentiometry, as this method directly measures the concentration of electrolytes in the water phase of serum. Point-of-care-testing is more accurate in the setting of severe hypertriglyceridemia as it utilizes direct ion-selective electrodes. This can be used in the setting of hypertriglyceridemia or hyperproteinemia to obtain more precise results.
+
+# CONCLUSION:
+
+Hypertriglyceridemia is a necessary part of a systematic approach to evaluating patients with pancreatitis.
+
+# WATERSKIING GONE WRONG: HAMSTRING INJURY FOR THE INTERNIST
+
+Lily Kornbluth1; Carlin Senter2. 1UCSF, San Francisco, CA; 2University of California San Francisco, San Francisco, CA. (Control ID #3165778)
+
+# LEARNING OBJECTIVE #1:
+
+Determine when imaging is indicated for hamstring injuries
+
+# LEARNING OBJECTIVE #2:
+
+Define indications for orthopedic referral for hamstring injuries
+
+# CASE:
+
+HPI: A 50-year-old healthy gentleman presents to urgent care after a waterskiing accident with posterior right thigh pain. As he tried to stand on water skis, his right leg was thrust in front of him with significant force. He immediately felt a tearing pain down the back of the right thigh and subsequently was unable to bear weight on the right lower extremity. Focused physical exam: Gait: ambulates with crutches, unable to bear weight on the right leg. Inspection: hematoma of the posterior right thigh. Palpation: tenderness of the posterior thigh just distal to the ischial tuberosity. No soft tissue defect. Range of motion: pain with flexion of the right hip. Strength: 4/5 strength on resisted right hip extension and right knee flexion. Strength otherwise 5/5. Sensation: intact.
+
+# IMPACT/DISCUSSION:
+
+Hamstring injuries are common and may first present to the internist. The most common injury is a mid-muscle strain or tear that is managed with rest and physical therapy. A less common but more concerning injury is a tear of the proximal hamstring tendons. Suspect proximal hamstring tendon tear based on the severity of the mechanism of injury, as in this vignette where the patient's leg was thrust forward with high speed and force. Physical exam in tendon rupture may reveal a hematoma over the posterior thigh accompanied by loss of hamstring muscle function. Palpation is a key exam finding: the more proximal the tenderness of the hamstring (i.e. the closer to the ischial tuberosity), the more concerning for tendon injury. Imaging is indicated if tendon rupture is suspected. Urgent AP pelvis X-ray and hamstring MRI are standard for evaluating for tendon rupture. MSK ultrasound can be a useful alternative to MRI in the acute setting to characterize the injury. Urgent referral to orthopedics is indicated for proximal hamstring tendon rupture as patients with rupture of two or three of the hamstring tendons have better functional outcomes with prompt operative repair. Non-urgent referral to orthopedics is indicated for other hamstring injuries that do not improve with rest and physical therapy.
+
+# CONCLUSION:
+
+Given the traumatic mechanism of injury for this patient and large posterior thigh hematoma, MRI was ordered to evaluate for hamstring rupture. Unfortunately, the MRI was not covered by the patient's insurance and so was not performed. He was subsequently evaluated by a Primary Care Sports Medicine physician who performed a point-of-care ultrasound. This showed hamstring muscle tear without tendon involvement. He was treated with a 12-week course of physical therapy with gradual improvement.
+
+# WE CAN'T AFFORD NOT TO TREAT: THE COSTS OF WITHHOLDING OPIOID USE DISORDER (OUD) TREATMENT DURING INCARCERATION
+
+Samantha Siskind; Karen Hannon; Jessica Taylor. Boston Medical Center, Boston, MA. (Control ID #3184851)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the clinical, human rights, and financial costs of interrupting OUD treatment during incarceration
+
+# LEARNING OBJECTIVE #2:
+
+Counsel patients on the elevated risk of overdose in the post-incarceration period
+
+# CASE:
+
+A 64-year-old man with prior incarceration, severe OUD, and cocaine use disorder relapsed with a single use of crack cocaine. A urine drug screen performed by his parole officer returned positive and he was incarcerated for two weeks. His prescribed buprenorphine/naloxone was withheld, as per jail policy, and he experienced severe withdrawal. Shortly after release, he overdosed and was immobile for > 24 hours. He presented to the emergency department with leg pain and urinary retention. Exam revealed fever, tachycardia, a 10 x 4 cm wound on his right thigh, and crackles at his lung bases. Labs showed leukocytosis, acute kidney injury (AKI), and a creatinine kinase of 7,116 U/L. He was admitted for six days with pneumonia, AKI, pressure necrosis, and rhabdomyolysis. Non-healing of his thigh wound led to a second admission. The complications of his overdose resulted in $25,853 billed to his state Medicaid program.
+
+# IMPACT/DISCUSSION:
+
+Criminal justice exposure is common among people with OUD. Although opioid agonist therapy (OAT) reduces relapse and overdose, it is prohibited in many correctional settings due to concern for diversion and safety, logistical barriers, and stigma. Less than one percent of U.S. jails and prisons offer OAT. This patient suffered a feared consequence of OUD in the post-release period: overdose. Due to decreased tolerance after a period of abstinence and the post-release community context, which often includes low social and economic support, exposure to drug use, isolation and hopelessness, the overdose death rate post-release is 120 times that of the general population. A growing body of evidence shows that treating incarcerated individuals with OAT decreases the risk of overdose. Policies denying OAT to inmates have recently been challenged in court as violations of the Eighth Amendment and the Americans with Disabilities Act. Corrections officials have cited cost as a barrier to OAT provision. While the cost of medication, secure storage, and observed administration are important considerations, medication costs at wholesale pricing would likely have been less than $20/day, contributing to total costs far below the $25,853 that resulted in this case.
+
+# CONCLUSION:
+
+Withholding evidence-based treatment for OUD during periods of incarceration is associated with significant harms. Physicians should counsel patients on the high risk of overdose in the post-release period and discuss strategies to reduce overdose, including OAT and intranasal naloxone. Physicians should also continue to advocate for access to OAT in correctional facilities. Including financial arguments may increase support for this evidence-based treatment.
+
+# WE MUST ALWAYS ASK "WHY" — A CASE OF HYPERTRIGLYCERIDEMIA-INDUCED ACUTE PANCREATITIS
+
+Abdul Rehman1; Manasa Ayyala2. 1Rutgers-New Jersey Medical School, Newark, NJ; 2Rutgers New Jersey Medical School, Newark, NJ. (Control ID #3171723)
+
+# LEARNING OBJECTIVE #1:
+
+Identify hypertriglyceridemia as a cause of acute pancreatitis

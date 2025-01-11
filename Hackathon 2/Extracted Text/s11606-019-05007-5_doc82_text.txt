@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+Older adults with ADRD, who are already at risk for poor outcomes post-hospitalization, are at higher risk for readmissions to nonindex hospitals compared to those without ADRD. Further research on the causes and effects of fragmented care for patients with ADRD is needed to reduce the health and economic burden for this important and growing patient population.
+
+# BACKGROUND:
+
+Antibiotic resistance is a major concern for patients hospitalized with community-acquired pneumonia (CAP). Risk factors for organisms resistant to recommended CAP therapy are known, but there are few validated risk assessment models for identifying such patients. We derived a risk assessment model using a large sample of CAP patients with blood or respiratory cultures. We then validated our model and compared it to the Drug Resistance in Pneumonia (DRIP) score.
+
+# METHODS:
+
+This cross-sectional study assessed adult patients admitted with pneumonia from 2010-2015 to 168 US hospitals that provided administrative and microbiologic data to Premier, Inc. Patients were identified by a combination of ICD-9 codes, chest x-ray, and antibiotic treatment. We also required patients to have blood or respiratory cultures performed by hospital day 1. We used stepwise multiple logistic regression to screen potential predictors of infections resistant to CAP therapy (ceftriaxone/azithromycin or levofloxacin): sociodemographics (age, sex, race, marital status); admissions, antibiotics and drug resistance in the past year; comorbidities, and severity of illness. For parsimony, we culled predictors based on prevalence, odds ratio, and clinical and statistical judgment. We developed our models in an 80% derivation set, reserving a 20% simple random sample for model validation. We then compared our model's receiver operating curve characteristics in the validation set to those of the DRIP score.
+
+# RESULTS:
+
+The derivation set contained 110,087 patients, of whom 2985 (2.7%) had cultures that grew organisms resistant to CAP therapy. A 21-predictor stepwise model was reduced to a 14-predictor model. Factors associated with antibiotic resistance in the reduced model were previous admission to hospital or cultured organism resistant to CAP therapy in the past year; admission from a skilled nursing facility; pressure ulcer or wound care; low functional status; chronic pulmonary disease; paralysis; ICU admission; SOFA score; vasopressors; mechanical ventilation; and male sex. Alcohol abuse predicted lower risk of resistance. The model had a c-statistic of 0.70 in the derivation set. In the validation set the model's c-statistic was 0.69 vs. 0.61 for the DRIP score. Predicted probabilities across deciles of risk ranged from 1.5% to 8.5% and calibration was good.
+
+# CONCLUSIONS:
+
+A risk assessment model with 14 predictors had good calibration and moderate discrimination. It outperformed the DRIP score in the validation set. After further validation, the model could be used in clinical practice to identify patients who would benefit from empiric broad spectrum antibiotic coverage.
+
+# DEPRESSION SCREENING OF ADULT ASIAN PATIENTS IN AN URBAN SAFETY-NET PRIMARY CARE CLINIC
+
+Jennifer Dong1, 2; Mamadou Bah3; Sarika Modi1, 2. 1NYU Langone Health, New York, NY; 2Bellevue Hospital, New York, NY; 3Monroe College, New York, NY. (Control ID #3186002)
+
+# BACKGROUND:
+
+Depression and suicide rates among Asian Americans are high, making them the only racial group in New York City for whom suicide is one of the top ten causes of death. The underutilization of mental health services by Asians compared to other ethnic groups is a disparity likely attributed to the strong stigma around mental illness and poor self-recognition of depression. Universal depression screening in primary care has led to increased detection and treatment of depression in all patients. We sought to understand the prevalence of depression through completion of the Patient Health Questionnaire (PHQ2) screener among Asian primary care patients at a large, urban, tertiary safety-net medical center.
+
+# METHODS:
+
+In our cross-sectional study we analyzed a registry of patients who identified their race as "Asian" and visited our primary care clinic (Bellevue Hospital Adult Primary Care Clinic) from July through December 2016. Chart review was performed to assess the completion and response rates of the Patient Health Questionnaire (PHQ2) and determine prevalence of depression. When possible, we identified countries of origin for each patient.
+
+# RESULTS:
+
+We identified a total of 1105 Asian patients. Regions of origin included East Asia (27.7%), Indian Subcontinent (29.3%), Southeast Asia (25.2%). Countries most represented were China, Bangladesh, the Philippines, and Tibet. For 11% of patients, there was no documentation of country of origin. PHQ2 completion rates by country were comparable to our overall clinic screening rate of 64%: China 65.0%, Bangladesh 67.5%, Philippines 64.1%, Tibet 61.3%. The rates of positive PHQ2 scores were: China 6.4%, Bangladesh 7.3%, Philippines 4.9%, Tibet 7.4%, comparable to the national depression rate of 8%. For English-speakers compared to non-English speakers, the rates of PHQ2 completion varies: China 65.8% vs. 64.9%, Tibet 68.8% vs. 57.1%, Bangladesh 64.0% vs. 70.8%, Philippines 63.1% vs. 80.0%. Of the positive PHQ2 screens, 72.7% of the Chinese patients had PHQ9 scores 10 or higher, indicating moderate depression or worse, as did 92.3% of Bengali, 16% of Tibetan, and 60% of Filipino patients.
+
+# CONCLUSIONS:
+
+Disparities in mental health screening and treatment continue to affect the Asian immigrant population, in part driven by culture and language differences. In our large, safety-net primary care clinic, the completion rate for depression screens among Asians are similar to the clinic's overall monthly PHQ2 screening rate of 64%. This analysis indicates that Asian patients in our clinic who screen positive on the PHQ9 may have moderate to severe depression, consistent with the phenomenon that depression in Asians is often under-detected, and therefore undertreated. Further studies are needed to assess the role of culture and language on depression screening for each Asian sub-group. We are conducting further analysis to review the rates of depression diagnosis and treatment patterns in this population.
+
+# DESCRIBING THE CLINICAL APPROACH TO DIAGNOSIS AND TREATMENT OF PATIENTS WITH HYPOACTIVE SEXUAL DESIRE DISORDER
+
+Sharon J. Parish1; Zainab Shahpurwala2; Rahul Ravindranath2; Amod Athavale2; Nandini Hadker2; Michelle Lim-Watson3. 1Weill Cornell Medical College, New York, NY; 2Trinity Partners, Waltham, MA; 3AMAG Pharmaceuticals, Inc., Waltham, MA. (Control ID #3184893)
+
+# BACKGROUND:
+
+Hypoactive sexual desire disorder (HSDD) is defined as persistent diminished or lack of sexual desire accompanied by distress and affects approximately 10% of US women aged 18-44 years. Despite the high prevalence of HSDD, there is a limited understanding of the condition among physicians. The aim of this study was to understand the clinical approach to diagnosis, treatment, and unmet needs of patients with HSDD.
+
+# METHODS:
+
+Data from 312 medical charts from 103 US board-certified obstetricians/gynecologists (OB/GYNs), psychiatrists, and primary care physicians, which included family and internal medicine physicians, were collected and analyzed using an IRB-approved case report form that mimicked a typical patient chart. Physicians also completed an IRB-approved web-based questionnaire. Physicians treated/managed 2 patients diagnosed with HSDD and 5 patients diagnosed with female sexual dysfunction (FSD) each month. Inclusion criteria for medical charts were females 18 years old who had been diagnosed with HSDD.
+
+# RESULTS:
+
+Among the 103 physicians, 41% were OB/GYNs, 18% were family medicine physicians, 14% were internal medicine physicians, and...

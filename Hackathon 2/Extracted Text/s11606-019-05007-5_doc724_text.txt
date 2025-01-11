@@ -1,0 +1,67 @@
+# ABSTRACTS
+
+list, they could not generate a free-response definition. This discrepancy highlights that while residents have some basic knowledge of high-value care, they lack the skills to apply and generalize it. Residents were unfamiliar with radiology guidelines.
+
+# INTEGRATING SCIENTIFIC RESEARCH INTO MEDICAL EDUCATION THROUGH A COMPREHENSIVE SCIENCE SCHOLARS ELECTIVE COURSE
+
+Yasmin Kamal; Marek Svoboda; Roshini Pinto-Powell. Dartmouth Medical School, Hanover, NH. (Control ID #3185873)
+
+# NEEDS AND OBJECTIVES:
+
+One of the goals of evidence-based medical education is to familiarize future physicians with the scientific method in order for them to comprehend scholarly literature, and communicate an evidenced based plan of care to their patients. However, many medical students lack the skills necessary to participate in scholarly research. We describe the implementation of a comprehensive elective course designed to equip interested students with these skills through a series of workshops, one-on-one mentorship, and pursuit of a summer research experience. The program aims to provide medical students with the knowledge and skills required to incorporate research into their medical training and contribute to their synthesis and increased use of evidence-based medicine as future physicians.
+
+# SETTING AND PARTICIPANTS:
+
+Course participants are first-year medical students at the Dartmouth Geisel School of Medicine.
+
+# DESCRIPTION:
+
+This year-long course consists of four main parts: scientific mentorship meetings, small group workshops, final research project, and a summer research experience. Each M1 student is assigned a mentor - MD-PhD, PhD, or senior MD student, based on their research interests. Mentors help students navigate the research environment at Dartmouth and obtain summer research positions. The instructional portion of the course comprises a series of ten workshops taught by the program coordinators (MD-PhD students) and Dartmouth faculty. At course completion, all participating medical students write a research aims page to effectively communicate the goals of their research project when they apply to local as well as national competitive external research funding opportunities for a first year summer research experience.
+
+# EVALUATION:
+
+Nine students participated in the first year of the elective (2017-2018). All students secured a research position for the summer following their first year of medical school and four of the nine students obtained nationally competitive funding. 78% of the students indicated that participation in the elective significantly helped them find and secure these positions and 88% said they learned valuable research skills not taught in the medical curriculum.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+M1 participation in a well-designed research elective has the potential to provide immediate value in the acquisition of a summer research position and to stimulate a lifelong interest in scientific inquiry.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://geiselmed.dartmouth.edu/mdphd/links/science/
+
+# INTEGRATING TRAINEES TO TELEHEALTH INFRASTRUCTURE IN PRIMARY CARE IN THE DEPARTMENT OF VETERANS AFFAIRS
+
+Sarai Ambert-Pompey1; Leoni Heyworth3; Janeen E. Smith2; Ijeoma Kene-Ewulu. 1VA, Boise, ID; 2San Francisco VA Health Care System, San Francisco, CA; 3VA, San Diego, CA; 4VA, Atlanta, GA. (Control ID #3186353)
+
+# NEEDS AND OBJECTIVES:
+
+The next generation of healthcare professionals must become competent in delivering clinical services remotely. Nationally, however, little standardized telehealth education exists in training programs. The Department of Veterans Affairs (VA) is working to provide a formalized model of telehealth education for its more than 120,000 trainees. The VA has already delivered over 12 million telehealth encounters and has developed extensive educational materials for its clinicians. Now the VA is using its clinician telehealth curriculum and telehealth best practices to design a telehealth education infrastructure for all healthcare trainees who rotate through primary care in its more than 150 facilities. The intervention to provide national standardized telehealth education for trainees is: 1) Using existing VA Telehealth Training Curricula for clinicians and making it available to all trainees; 2) Developing an inventory of telehealth trained clinicians and pairing them with trainees; 3) Cataloguing best practices in telehealth training at VA facilities; 4) Addressing policy obstacles.
+
+# SETTING AND PARTICIPANTS:
+
+This intervention focuses on the 120,000+ healthcare professional trainees that rotate through over 150 VA healthcare facilities throughout the nation. The development of standardized national telehealth education began with an assessment of the scope of telehealth training and found 69% of all medical centers were providing individualized telehealth training opportunities for trainees.
+
+# DESCRIPTION:
+
+Graduate, undergraduate and associated health trainees are receiving telehealth didactics, participating in live interactive telehealth simulation sessions, and work-based learning across healthcare facilities and to the patient via mobile devices. Clinicians from different states met once a month via video conferencing technology to discuss different components of the curriculum to adjust to the local resources and time constraint from other competing educational opportunities. The curriculum addresses common and interprofessional components in addition to individual profession-directed components that are within the scope of license.
+
+# EVALUATION:
+
+Evaluation of the development of a national standardized telehealth education model for trainees will be measured quantitatively and qualitatively. The numbers and expansion of didactic web-based trainings completed by trainees are tracked along with their simulation sessions. Each facility will provide data on the numbers and types of telehealth trainee opportunities they are offering. Telehealth satisfaction surveys for providers and patients will be expanded and accreditation body competencies evaluations.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Many of the lessons learned across the different sites were shared and new challenges particularly challenges in common were tackled amongst the group as a whole. We noted there were small things in one site that work well other sites incorporated those like simulations, participation in established team virtual meetings and huddles.
+
+# INTERPROFESSIONAL QUALITY IMPROVEMENT PROJECTS: USING QI PRINCIPLES TO DEVELOP A ROBUST QI CURRICULUM
+
+William G. Weppner1; Rick Tivis2; Sarah Naidoo2; Lisa Inouye1; Michael F. Krug1; India C. King3. 1University of Washington, Boise, ID; 2Boise VA Medical Center, Boise, ID; 3Family Medicine Residency of Idaho, Boise, ID. (Control ID #3184460)
+
+# NEEDS AND OBJECTIVES:
+
+The goal of this project was to apply QI principles to improve a QI curriculum for interprofessional trainees.
+
+# SETTING AND PARTICIPANTS:
+
+The Boise VAMC serves as the host to a Center of Excellence in Primary Care Education, as well as multiple graduate health care training programs from internal medicine, psychology, pharmacy.

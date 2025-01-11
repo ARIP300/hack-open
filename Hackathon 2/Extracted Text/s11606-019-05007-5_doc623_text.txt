@@ -1,0 +1,67 @@
+# ABSTRACTS JGIM
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Reduction in the average number of ED visits among frequent visitors with 1 or more mental health discharge diagnoses.
+
+2. Reduction in the average number of patients who present to the ED with a mental health chief complaint and are not admitted.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In August 2018 13,356 patients were identified as frequent ED visitors within the associated 11 month period. 1098 of these patients had at least one ED visit associated with an ICD code that contained one or more of the following diagnoses: anxiety or panic, depression, intentional self-harm, adjustment disorder, alcohol, bipolar or schizoaffective or manic disorder, personality disorder, psychosis or schizophrenia, substance use and suicidal ideation. This subgroup was more likely than their peers without these diagnoses to be male (51% vs. 40%, p &lt; 0.005), have Medicaid (29% vs. 25%, p &lt; 0.005) or commercial insurance (43% vs. 38%, p &lt; 0.005), and be younger (average age 44 vs. 53, p &lt; 0.005). They were less likely to be in a high-risk care management program (15% vs. 17%, p &lt; 0.05). They also had more ED visits on weekends (average 0.72 vs 0.60, p &lt; 0.005) and after hours (average 0.77 vs 0.68, p &lt; 0.005) that did not result in a hospital admission. In the 11 month period they had more ED visits than their peers with no mental health chief complaint (average 3.19 vs. 2.28, p &lt; 0.05) but no difference in the number of inpatient stays (average 0.63 vs 0.66, p = 0.521).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Other health systems may be able to similarly assess for differences in ED utilization among patients with mental health chief complaints. In particular, other systems can consider investigating alternatives to ED care for patients with urgent mental health needs, and/or expanding care management programs to include more patients with mental health disorders in order to reduce ED utilization among this population.
+
+# ESTABLISHING AN ORTHOPEDICS OBSERVATION UNIT - A NOVEL STRATEGY FOR CONTINUITY OF ORTHOPEDIC CO-MANAGEMENT
+
+Frances J. Mao; Sonia Siu1; Eric L. Hume; Michele Fang1. 1University of Pennsylvania, Wynnewood, PA; 2University of Pennsylvania, Philadelphia, PA; 3Perlman School Medicine, U Pennsylvania, Philadelphia, PA. (Control ID #3186429)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Hospitalists play a key role in orthopedic co-management during the peri- and post-operative period by providing guidance on common internal medicine issues; therefore, we sought to extend hospitalist support after hospital discharge by establishing an orthopedics observation unit for the care of total joint arthroplasty patients.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Objective 1: To develop standard evidence based protocols for common postoperative problems to standardize care and avoid unnecessary tests.
+
+Objective 2: To develop an orthopedic observation unit where patients fitting criteria can receive expedited and standard treatment with their orthopedic and comanagement teams.
+
+Objective 3: To measure the outcomes of an orthopedic observation unit on length of stay, readmission rates, and complications.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In October 2017, we established a hospital based orthopedics observation unit that included patients who underwent total knee arthroplasty (TKA), total hip arthroplasty (THA), revision TKA, and revision THA within the past 90 days. We developed evidence-based interdisciplinary protocols in conjunction with orthopedic surgery and emergency medicine for the work-up of fever, shortness of breath, anemia, and joint dislocation. Patients were triaged to the appropriate service (orthopedics observation, orthopedics inpatient, hospitalist observation, or hospitalist inpatient) based on acuity of illness and anticipated length of stay.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We will collect data metrics agreed upon by key stakeholders, including length of stay, readmission rate, complication rate, and mortality. Measures of success will focus on the number of patients who were able to be discharged on observation status (&lt;48 hours) without complications or readmissions.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Preliminary data shows that approximately 17 patients were admitted under orthopedics observation status, of which joint dislocation (n=5, 29.4%), infection (n=3, 17.6%) and urinary tract infection or retention (n=3, 17.6%) were the most common complaints. These patients were able to be discharged to home or skilled nursing facility without increase in complication. Also, traditionally the majority of these patients would have been admitted to general medicine services thereby disrupting continuity of care.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Orthopedic observation units may decrease readmissions, streamline care, and improve continuity of care for total joint replacement patients. There is no added cost to such a program, and these programs may become more common especially with bundled payments. Close communication with general internists, orthopedics, emergency medicine, and social work is necessary for successful implementation of orthopedic observation units. Further studies will need to be conducted to see if orthopedic observation units will improve outcomes and decrease costs.
+
+# EVALUATING THE IMPACT OF A MULTIDISCIPLINARY GASTROINTESTINAL MALIGNANCY CLINIC ON THE DELIVERY OF CARE AT THE DALLAS VA MEDICAL CENTER
+
+Namrah Siddiq1; Monicah Gichinga2; Sanjai Sabu4; Thai H. Pham3; David Wang1. 1University of Texas Southwestern Medical Center, Dallas, TX; 2Dallas VA Medical Center, Dallas, TX; 3North Texas Dallas Veterans Affairs Medical Center, Dallas, TX; 4University of Texas Medical Branch, Galveston, TX. (Control ID #3180921)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Can a biweekly Multidisciplinary Gastrointestinal Malignancy Clinic (MGMC) reduce the time from diagnosis to initiation of definitive treatment in patients with gastrointestinal cancer?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+-To reduce the time between oncologic consult and first definitive therapy in patients with gastrointestinal cancer
+
+-To reduce the time the between diagnosis and first definitive therapy in patients with gastrointestinal cancer
+
+-To improve the efficiency in which patients with gastrointestinal cancer complete their staging following diagnosis
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The outpatient MGMC was established at the Dallas VA in 2016. Prior to the

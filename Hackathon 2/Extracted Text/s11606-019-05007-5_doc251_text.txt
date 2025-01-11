@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# SCREENING FOR IMMIGRATION-RELATED HEALTH CONCERNS IN A FEDERALLY QUALIFIED HEALTH CENTER: A MIXED METHODS STUDY
+
+Elena Byhoff 1, 5 ; Emilia De Marchis 2 ; Sofia Halperin-Goldstein 5 ; Laura M. Gottlieb 3 ; Amy LeClair 1 ; Keith Nokes 4 . 1 Tufts Medical Center, Boston, MA; 2 University of California, San Francisco, San Francisco, CA; 3 UCSF, San Francisco, CA; 4 Greater Lawrence Family Medical Center, Lawrence, MA; 5 Tufts University School of Medicine, Boston, MA. (Control ID #3180137)
+
+# BACKGROUND:
+
+Changes to the public charge rule may make undocumented immigrants less likely to present for health care or report unmet social needs for fear of losing benefits. Immigration-related concerns can impact health and are an important consideration while caring for an immigrant community. We aim to examine the acceptability of screening for immigration-related health concerns within the context of social risk screening in a Federally Qualified Health Center (FQHC) serving a predominantly immigrant (Central America and Caribbean) patient population.
+
+# METHODS:
+
+This study used a mixed-methods approach. Participants were randomly screened with one of two social risk screening tools. Both tools asked about housing stability, food security, material hardship and transportation. One tool included a question about "any health or stability concerns related to immigration status." The other tool, developed by the Center for Medicare and Medicaid Innovation, did not include an immigration health question. Patients or caregivers waiting for a non-urgent primary care visit were asked to participate. After completing the social risk assessment, respondents were invited to participate in a 30-minute semi-structured interview. The interview focused on patients' understanding of the screening questions, acceptability and comprehensiveness of the screening tool, and perceptions about appropriateness of social risk screening in a health care setting. Interviews were transcribed, translated, and coded to identify themes. Patients were recruited until thematic saturation was reached. All study activities were conducted in either English or Spanish.
+
+# RESULTS:
+
+A total of 201 screens were completed (100 included immigration question), and 20 patients (10 in each arm) agreed to an interview. There were no significant differences between groups in age, gender, race/ethnicity, or caregiver status. Of those screened for immigration, 11% reported an immigration-related health or stability concern, with no skipped responses. Interview themes showed high acceptability for immigration-related screening, including specific mentions of heightened political concern, health relevance, and the doctor as a trusted ally. In both arms, interviewees felt that social risk screening generally was acceptable in a clinic setting. Those not in the immigration arm mentioned that screening for immigration-related concerns was important. Respondents saw clinics as a "safe space" to discuss immigration concerns in comparison to "government" spaces, like WIC, SNAP, and Medicaid offices.
+
+# CONCLUSIONS:
+
+Social risk screening is acceptable in an FQHC serving a predominantly immigrant community. Questions about immigration are timely, important, and relevant, and can be considered when implementing social assessments in communities where there are high levels of trust in providers. With proposed changes to public charge, FQHCs may serve as meaningful allies in serving immigrant patients with social risk.
+
+# SECURE MESSAGING THROUGH POSITIVELINKS: EXAMINATION OF ELECTRONIC COMMUNICATION IN A CLINIC-AFFILIATED SMARTPHONE APP FOR PATIENTS LIVING WITH HIV
+
+Tabor E. Flickinger; Sabrina Swoger; Marika Grabowski; Karen S. Ingersoll; Rebecca Dillingham. University of Virginia, Charlottesville, VA. (Control ID #3182989)
+
+# BACKGROUND:
+
+Keeping patients engaged in care may require provider communication between visits. Electronic patient portals are available, but often underutilized. However, many patients now use smartphones daily and patient-provider messaging using these phones may be a promising option. PositiveLinks (PL) is a clinic-affiliated smartphone-based platform, designed to enhance retention in HIV care and tailored to our socio-economically disadvantaged non-urban population. PL includes a secure messaging feature to connect patients to their HIV care team. Our aim was to analyze messages exchanged between patients, staff, and HIV care providers through PL to determine the usage, content, and function of communication through secure messaging between clinic visits.
+
+# METHODS:
+
+We examined messages exchanged through PL from November 2017 through January 2018. The initial codebook was developed using an open coding strategy, then applied independently by two coders and refined until excellent reliability was achieved with a kappa statistic of 0.89. Topic codes categorized messages as app-related or care-related, which could be medical or social. Function codes categorized messages by their purpose of information exchange or rapport-building. Qualitative analysis was performed using Dedoose software with descriptive statistics of code frequencies and code co-occurrence.
+
+# RESULTS:
+
+Of the 1474 PL messages analyzed, 44% were sent by PL staff, 38% by patients, and 18% by providers, while 61% were received by patients, 22% by providers, and 17% by PL staff. Message topics included app-related (57.6%), medical care (34.3%), and social concerns (12.4%). App-related messages addressed technical difficulties, software updates, or coordinating phone payments. Medical messages included information, medications, appointments, outreach, and care coordination for physical and mental health. Social messages related to insurance, transportation, housing, food, utilities, disability, finances, and work. Function coding showed that 87.3% of messages contained information exchange and 33.8% contained rapport-building. Information exchange messages were utilitarian in nature while rapport-building messages included psychosocial components, such as addressing emotions, offering thanks or appreciation, or providing personal content beyond information-sharing. Messages sent by providers were most likely to contain rapport-building at 54.8%.
+
+# CONCLUSIONS:
+
+PL messaging was used to address medical and social needs in a vulnerable population and to connect patients with care providers. Electronic communication offers an opportunity to exchange practical information and also to strengthen patient-provider relationships. Next steps include further analysis of socioemotional tone in the messaging and impact on engagement in care, provider attitudes, and patient outcomes. Secure messaging through a clinic-affiliated smartphone platform could enhance patient-centered care between clinical visits.
+
+# SEEING I TO EYE TOGETHER: AN EDUCATIONAL CAMPAIGN DESIGNED TO IMPROVE PHYSICIAN-PATIENT COMMUNICATION AMONG INTERNAL MEDICINE RESIDENTS
+
+Robin Ortiz3; Meron Hirpa1; Aparna Sajja1; Jesse McDermeit; Alison1 Agrawal1; Megan Tschudy3; Stephen Berry2; Kimiyoshi Kobayashi1. 1Johns Hopkins Hospital, Baltimore, MD; 2Johns Hopkins School of Medicine, Baltimore, MD; 3Johns Hopkins University School of Medicine, Baltimore, MD. (Control ID #3175978)
+
+# BACKGROUND:
+
+Sitting at the bedside improves patients' perception of their interactions with their physicians and improves patient satisfaction and outcomes. Despite these data, prior work shows that medicine interns sit during only 9% of observed physician-patient interactions. We aimed to design an educational curriculum to improve physician-patient communication and decrease resistance to sitting at the bedside.
+
+# METHODS:
+
+A needs assessment among Internal Medicine residents at an urban academic medical center was conducted anonymously using an

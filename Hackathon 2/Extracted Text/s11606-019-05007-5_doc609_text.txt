@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. The home visit is an ideal way to connect with frail individuals and the nurse practitioner consult model expands access to this service.
+
+2. Key services performed during a visit include F2F documentation for DME/home health, identification of medication issues and advanced care planning.
+
+# BUILDING A PRIMARY CARE COLLABORATION BETWEEN A COMMUNITY MENTAL HEALTH CENTER AND SAFETY NET MEDICAL CENTER: A QUALITY IMPROVEMENT APPROACH
+
+Bijan Ghaffari1; michelle cleeves2. 1University of Colorado, Denver, CO; 2Denver Health, Denver, CO. (Control ID #3185551)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How do we improve access to and engagement in primary care for patients with severe mental illness (SMI)?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Increase enrollment and engagement for patients with SMI in a co-located primary care clinic.
+
+2. Implement referral and communication guidelines between a community mental health center (CMHC) and primary care clinic to optimize access and utilization.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Noting the disparity in mortality and morbidity for patients with SMI compared to the general population, Denver Health and the Mental Health Center of Denver (MHCD) collaborated on a primary care clinic (PCC at MHCD) to improve primary care access for MHCD clients. Co-location within the MHCD clinic reduces barriers such as travel and unfamiliarity for patients needing primary care. Both organizations are safety net care systems serving Denver. 79% of MHCD's clients reported having no PCP, despite having the PCC at MHCD in the same building. An assessment of access barriers was performed through chart review, reimbursement data, provider surveys, and interviews. The first intervention cycle used reimbursement data to target clients of both organizations that had lapses in primary care and encouraged reengagement. The next intervention includes developing and disseminating training materials for case managers to promote best practices for supporting engagement in primary care.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Monthly reports allow us to monitor patients with lapses in care at the PCC at MHCD. The outreach intervention is evaluated through quantitative measures and countermeasures, including patient contact, agreement to schedule, and attendance of appointments. MHCD staff participated in a pre-intervention survey to elicit practices, beliefs, and challenges with primary care engagement. A similar survey will be distributed after the training intervention to evaluate changes in perceptions and practices.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Survey responses of MHCD staff revealed that a majority believed primary care would benefit their patients, yet there was variability in practices. Identified challenges include lack of knowledge, navigation of healthcare systems, and higher priority given to psychosocial factors. From September to November, 18 PCC at MHCD patients (4% of clinic empanelment) had lapses in primary care longer than 9 months. Direct patient outreach resulted in 7 patients scheduled, and an 86% attendance rate. Of 27 emails sent to notify case managers of engagement lapses, 9 patients were scheduled, and 56% of appointments were attended. A focus group identified best practices that will be compiled into training materials for case managers. In collaboration with MHCD leadership, PCC at MHCD will have formal orientations with new case managers.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This project has illuminated the logistic challenges of an interinstitutional collaboration and the cultural differences between a large medical center and a CMHC. The rapid cycles of QI allow for brief interventions that target the highest need patients while also improving the partnership between organizations.
+
+# BUILDING COMMUNITIES AND ALLEVIATING BARRIERS: TRAUMA SENSITIVE YOGA FOR FEMALE IMMIGRANTS IN THE PRIMARY CARE SETTING
+
+Katherine Rizzolo1; Sean Lena1; Maha Jaber2; Adriana Eurich2; Diana Stade2; Brian King1; Lesley Gordon1. 1Maine Medical Center, Portland, ME; 2Tufts University School of Medicine, Boston, MA. (Control ID #3185631)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+There are significant barriers and limitations to the wellness resources currently available to the immigrant communities in Portland, Maine.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Improve healthcare delivery to immigrants by alleviating barriers to care.
+
+2. Improve social isolation of female immigrants through community based programming.
+
+3. Integrate community resources for immigrants into the primary care setting.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Maine Medical Center's Internal Medicine Resident Clinic serves a large number of Southern Maine's immigrant population. For many, traditional services such as physical therapy, nutrition, and counseling carry logistical obstacles such as cost, lack of transportation, and unmet childcare needs. Our pilot program is a novel community trauma-sensitive yoga program for immigrant women. The program is low cost (sliding scale) with transportation and childcare included. Women from Iraq, Syria, and Somalia were selected for participation due to their underrepresentation in traditional referral based programs given the aforementioned barriers as well as significant social isolation in the community. A thorough review of community resources indicated this group is underrepresented in nonclinical community programming. A patient focus group of Arabic-speaking women noted the exact issues of social isolation and barriers to attendance noted by providers. Participants were self-referred from our outpatient resident clinic via providers and social workers. Inclusion criteria included women over age 18 and history of immigration.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Participants of one or more class completed an anonymous post-intervention survey focused on barriers to class attendance and feedback on how the class affected their pain and quality of life.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The first session had 12 total participants from Iraq, Djibouti, Afghanistan, and Somalia. 40% had barriers to attendance including transportation and childcare. 100% of participants felt...

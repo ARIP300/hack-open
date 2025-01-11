@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# RESULTS:
+
+Beneficiaries attributed to health system POs had less spending on primary care than those attributed to non-health system POs (e.g., 2.5% versus 3.3% for the narrow PCP and service definition). Among health systems, the primary care spending percentage varied according to the definition used (from 2.5% of total spending for the narrow PCP and service definition to 6.0% for the broad definitions), did not vary with the number of physicians in a system, and increased with the percentage of system physicians who were PCPs (ranging from 1.7% of spending for systems with less than 25% PCPs to 3.3% for systems with at least 75% PCPs, for the narrow PCP and service definition).
+
+# CONCLUSIONS:
+
+Compared to health system POs, non-health system POs have lower proportions of total spending on primary care. Health systems with greater primary care specialty composition have higher proportion of medical spending on primary care. As state policymakers working to establish minimum thresholds for the proportion of health care spending on primary care can be informed by information about the variation in primary care spending among health systems. Describing the proportion of spending devoted to primary care among POs can enable future research examining the relationship between primary care spending and the quality and efficiency of care.
+
+# VARIATIONS IN THE USE OF SAFETY MEASURES AMONG HARVARD-AFFILIATED HOSPITALS
+
+Hojjat Salmasian; Laura C. Myers; Merranda Logan; David M. Levine; Christopher Roy; Michelle Frits; Lynn A. Volk; Ruth Akindele; Juliette Randazza; Sevan Dulgarian; David Shahian; Elizabeth Mort; David W. Bates. Brigham and Women's Hospital, Boston, MA; Massachusetts General Hospital, Boston, MA; Mount Auburn Hospital, Cambridge, MA; Partners HealthCare, Wellesley, MA. (Control ID #3178489)
+
+# BACKGROUND:
+
+The field of safety reporting has evolved since the Harvard Medical Practice Study was performed decades ago. As part of the new Harvard Safe Care Study, which is designed to emulate and expand upon that seminal study, one aim was to catalog the measures and triggers different Harvard-affiliated hospitals use to identify and monitor safety events, and to study variations in these processes by organization characteristics.
+
+# METHODS:
+
+Electronic surveys were sent to the designated quality/safety leaders of 10 Harvard-affiliated hospitals that deliver both inpatient and outpatient care. The surveys asked if and how they collect and monitor an extensive list of 134 safety measures endorsed by regulatory bodies, expert groups, specialty boards, and/or the National Quality Forum. The measures were grouped by clinical domain into adverse drug events, critical care, deep vein thrombosis/pulmonary embolus, falls, general inpatient, general outpatient, hospital-acquired infections, maternal/perinatal, pressure injuries, surgical, and transitions in care. We analyzed within- and between-group agreement using Fleiss' kappa (using 0.3 and 0.6 as cutoffs for moderate and high agreement), stratifying sites based on hospital size (>400 beds vs <400 beds) and academic status (non-teaching, graduate teaching, and major teaching). The consensus method was used for the between-group comparison. We also performed subgroup analysis of measures that are "required" to be reported to a regulatory agency such as the Center for Medicare and Medicaid Services (CMS) or a specialty board.
+
+# RESULTS:
+
+Overall, agreement among sites for measures they collected was low (κ=0.148). Highest agreement was observed for measures related to pressure injury (κ=0.554) and hospital-acquired infections (κ=0.382). Lowest agreement was observed among maternal/peripartum (κ=0.040) and surgical measures (0.048). Agreement was weak but larger within the group of large hospitals (κ=0.272) and within the subgroup of major teaching hospitals (κ=0.265). Of the 23 measures reported to governing agencies other than the CMS, sites reported that they actively collect an average of only 77% (range = 48-100%, κ=0.006, p-value = 0.40).
+
+# CONCLUSIONS:
+
+We observed high variation among the studied Harvard-affiliated hospitals regarding which safety measures they collect, including those reported to governing agencies, which could not be simply explained based on hospital size and teaching status. This could be due to different monitoring needs and priorities at different sites, different institutional goals at the time of the survey, or disagreements about the usefulness of various measures. Notwithstanding the measures required by all payors and regulatory agencies, hospitals vary in the scope of metrics used to advance quality and safety in their institutions. Understanding the reasons behind the difference may inform the approach to improvement across sites.
+
+# VETERAN PERSPECTIVES ON CANCER CARE COORDINATION
+
+Willi L. Tarver; Edward J. Miech; David Haggstrom. Roudebush VA Medical Center, Indianapolis, IN. (Control ID #3186391)
+
+# BACKGROUND:
+
+Coordinating cancer care can prove especially challenging because of the complexity of both the disease and its treatment. Typically, the care of cancer patients involves multiple types of therapies and providers (surgery, radiation therapy, chemotherapy) and ongoing treatment of cancer and other health conditions. Cancer care coordination depends upon effective, regular communication among physicians, support staff, and the patient. The objective of this study is to explore Veteran patients' experiences of cancer care coordination in order to develop a deeper understanding of the issues Veterans consider important and actionable.
+
+# METHODS:
+
+Semi-structured interviews were conducted among patients diagnosed with cancer types and stages that commonly receive interdisciplinary care (e.g., colorectal [stage II and up], prostate [high risk], head and neck [all stages], and lung [all stages] cancer) were eligible to participate in the study. The constant comparison technique was used to identify emerging themes in the data.
+
+# RESULTS:
+
+Twenty-five Veteran cancer patients participated in this study. Our analysis identified four general categories representing different parts of the trajectory of the patient cancer care experience in need of coordination. Each phase had a distinct set of needs and challenges. Diagnosis: After receiving a diagnosis of cancer, Veterans reported initial feelings of shock and fear. Pre-Treatment: This phase was characterized as busy and chaotic, consisting of many appointments in different locations, and ultimately left many Veterans feeling a lack of control. Veterans repeatedly expressed an interest in having an early explicit understanding of their care, including the next steps and expectations. Onset of Treatment: Uncertainty about what to expect when receiving advanced treatments, like radiation and chemotherapy, was often exacerbated by poor provider-provider communication issues. Some participants identified novel solutions, such as proactively viewing the treatment area in advance. Ongoing Treatment: As treatment progressed, many Veterans experienced a growing familiarity with their routine, and simultaneously, began to regain a sense of control. Care Team: Nurse navigators were considered vital to cancer care coordination. This also marked a shift where many Veterans experienced a decrease in anxiety and worry. Veterans valued honesty and transparency from their providers which built a sense of trust.
+
+# CONCLUSIONS:
+
+Veterans expressed a need to have care coordination needs and steps more explicitly addressed early, as well as active mechanisms to meet those needs. The patient experience of coordination gradually improved over the course of the care trajectory, often facilitated by relationships fostered with members of the healthcare team. Exploring the perspectives of Veteran cancer patients can offer invaluable insight to aid cancer care providers and policy makers in developing programs to improve care coordination.
+
+# VIDEO INTERVENTION TO IMPROVE INCIDENT REPORTING AMONG MEDICAL TRAINEES
+
+Jose R. Valery; Haythem Helmi; Aaron Spaulding; Xinxuang Che; Gabriel Prada; Natalia Chamorro Pareja; Pablo Moreno Franco; Fernando Stancampiano. Mayo Clinic Florida, Jacksonville, FL. (Control ID #3184649)

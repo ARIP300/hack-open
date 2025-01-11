@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# OUTREACH TO PROMOTE MANAGEMENT OF CARDIOVASCULAR RISK IN PRIMARY CARE AMONG RHEUMATOID ARTHRITIS PATIENTS SEEN IN RHEUMATOLOGY PRACTICE
+
+Dawid Lipiszko 1; Ji Young Lee 1; Darcy Majka 2; Yaw A. Peprah 1; Michael Schachter 3; Eric Ruderman 1, 3; Stephen Persell 1, 3.
+
+1 Northwestern University, Evanston, IL; 2 DuPage Medical Group, Westmont, IL; 3 Northwestern Memorial Healthcare, Chicago, IL. (Control ID #3182867)
+
+# BACKGROUND:
+
+Cardiovascular disease (CVD) is the leading cause of death in rheumatoid arthritis (RA) with CVD risk increased 1.5-2.0-fold above the general population. Despite recommendations for aggressive risk factor management in RA, physicians identify and manage cardiovascular risk factors less often in RA patients compared to patients without RA. Previously, we tested a multifaceted quality improvement intervention consisting of clinician education, clinical decision support at the point-of-care, performance measurement and feedback to rheumatologists, and individualized mailed recommendations to patients to measure CVD risk factors and to address hypertension, cholesterol treatment, or smoking when applicable. This combined intervention led to considerable increases in the proportion of RA patients with all major CVD risk factors assessed but did not lead to significant improvements in CVD risk factor management or control. Therefore, we added a proactive outreach intervention aimed at promoting primary care treatment of CVD risk factors among RA patients to an existing set of interventions in order to attempt to improve primary care treatment of CVD risk factors in RA patients. We tested the impact of this strategy among RA patients identified through their rheumatology practice.
+
+# METHODS:
+
+Through electronic health record searches, we identified RA patients who were potential candidates for hypertension treatment initiation or intensification, statin therapy (based on age and risk) or a smoking cessation intervention. A non-clinician care manager contacted RA patients by phone and mail on behalf of the patients' rheumatologists, provided information about the identified CVD risk factor(s), recommended follow up with primary care physicians (PCPs), sent correspondence to PCPs, and followed up with patients approximately 4 weeks later to see what actions had been taken or barriers encountered. Information was shared with the patient's rheumatologist via EHR. We repeatedly measured preventive cardiology quality indicators from electronic health record data and compared pre-intervention to intervention time periods using interrupted time series methods.
+
+# RESULTS:
+
+During the 6-month intervention period, the proportion of RA patients age 40 to 75 prescribed a statin rose from 18.4% to 23.8%, and the rate of increase was significantly greater than during the preceding time period (1.06 percent per month greater than the prior period, P<0.001). Rates of increase in hypertension diagnosis and control also improved more rapidly during the intervention time period (1.05 and 2.09 percent per month greater, P<0.001 for each) and reversed preceding negative trends.
+
+# CONCLUSIONS:
+
+Implementing proactive non-clinician phone and mailed outreach to encourage primary care-based treatment of CVD risk factors was associated with measurable increases in statin prescribing, hypertension diagnosis, and hypertension control. Smoking was not affected.
+
+# OVERDOSE IS COMMON AMONG HOMELESS-EXPERIENCED VETERANS: NEW NATIONAL SURVEY DATA
+
+Stefan Kertesz 1, 4; Adam Gordon 2, 3; Aerin DeRussy 1; April E. Hoge 1; Ann E. Montgomery 1; Kevin R. Riggs 1, 4; Sally Holmes 1; Erika L. Austin 1; Lillian Gelberg 5, 6; Sonya Gabrielian 5, 6; Allyson Varley 1, 4; Adiseshu Gundlapalli 2, 3; Young-il Kim 1, 4; Audrey Jones 3.
+
+1 Birmingham VA Medical Center, Birmingham, AL; 2 VA Salt Lake City Health Care System, Salt Lake City, UT; 3 University of Utah, Salt Lake City, UT; 4 University of Alabama at Birmingham, Birmingham, AL; 5 VA Greater Los Angeles Health Care System, Los Angeles, CA; 6 UCLA, Los Angeles, CA. (Control ID #3184324)
+
+# BACKGROUND:
+
+Overdose (OD) is a frequent cause of death among homeless individuals. Prevention of overdose in primary care (PC) could depend on identifying people who have survived or witnessed OD. We measured the prevalence of both events among homeless-experienced veterans (HEVs) in primary care and assessed risk factors for overdose in the largest survey of HEVs conducted to date.
+
+# METHODS:
+
+A stratified, random sample of 5,666 homeless-experienced users of Veterans Administration primary care services was recruited for survey through sequential mailings (pre-notification letter, survey, postcard reminder) followed by telephone outreach (recruitment pool 14,352, with 40% response rate). The survey queried OD "where you needed to go to the emergency room or get medical care right away" in the past 3 years, and separately, witnessing such an event. Additional items assessed current homelessness, substance use problems based on the Two-Item Conjoint Screener, and validated measures for social support, mental distress, chronic pain, receipt of psychiatric medication, count of medical conditions, and general self-reported health. Bivariate analyses (chi-squared and t-tests) and multivariable logistic regression were used to identify characteristics associated with self-reported overdose.
+
+# RESULTS:
+
+Among HEVs, 15.1% (n=869) reported witnessing an OD and 6.6% (n=378) reported experiencing OD. The latter (ODs experienced) more commonly involved alcohol (3.4% of total, 51% of ODs) than drugs (2.6%); however, 1.4% didn't endorse a substance, and 0.7% endorsed both alcohol and drugs. Among drugs, opioids were reported by 1.4% (22% of all ODs), and cocaine by 1.0% (15%). The following differences were significant at p<0.001: Persons reporting OD were more likely than those without OD to be white (54.2% vs 40.9%), currently homeless (20.4% vs 12.4%), to receive psychiatric medication (57% vs 33%), and to have witnessed another person OD (37% vs 14%). Additionally, patients with OD reported higher mental distress (11.0 vs 6.8, scale 1-24), lower social support (3.8 vs 4.3, scale 0-6), and a greater prevalence of alcohol (55% vs 26%) and drug problems (31% vs 12%). In multivariable-adjusted models, characteristics associated with overdose included: white race (Odds Ratio, OR=2.3), current homelessness (OR=1.4), receipt of a psychiatric medication (OR=1.7), elevated mental distress (OR=1.1 for +1-point on 24-point scale), and having witnessed overdose (OR=2.5); all p's<0.05.
+
+# CONCLUSIONS:
+
+Compared to samples suggesting that 0.01-0.1% of adults have experienced overdose, HEV's in PC report high rates of OD, and 1 in 7 report having witnessed OD. Opioids are present in nearly ¼ of these events and alcohol in over ½.

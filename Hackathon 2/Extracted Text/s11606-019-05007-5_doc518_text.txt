@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# RARE CASE OF RHEUMATOID ARTHRITIS MEDIATED CARDIAC TAMPONADE
+
+Nikhila Kethireddy1; Navya Kuchipudi2. 1University of Connecticut, Hartford, CT; 2University of Connecticut, Farmington, CT. (Control ID #3157854)
+
+# RAPID-ONSET QUADRIPARESIS AND RESPIRATORY FAILURE IN A PATIENT THAT WALKED IN TO THE HOSPITAL
+
+Ellen Murray1; Juan N. Lessing1; Andrew Levy2; Miranda E. Merrill1. 1University of Colorado, Denver, CO; 2University of Colorado Denver, Denver, CO. (Control ID #3184374)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the subtle presentation of SEA and the importance of early recognition
+
+# LEARNING OBJECTIVE #2:
+
+Consider SEA as a diagnosis for acute quadriparesis
+
+# CASE:
+
+A 75-year-old man presented with 1-week of progressive generalized fatigue and weakness. He reported confusion, slurred speech and difficulty standing, dressing and bathing. He denied numbness, tingling, pain, focal weakness, fever, chills, dyspnea, dysuria or diarrhea. Medical history included type II diabetes mellitus, chronic kidney disease, and eczema with frequent skin wounds. Two weeks earlier he had been treated for leg cellulitis. On exam, he had normal vital signs and his cardiopulmonary exam was normal. He had erythema and a shallow ulcer on his left leg. Strength, sensation and reflexes in all extremities were normal. White blood cell count was 10.8x103/μL, sodium 126 mg/dL, blood urea nitrogen 83 mg/dL, creatinine 2.8 mg/dL and lactate 2.1 mg/dL. Urinalysis was bland. Chest x-ray and CT-head were normal. He received intravenous fluids and cefazolin for cellulitis. Two hours later, he developed dense paresis in bilateral lower-extremities with 1/5 strength and hyporeflexia. Corticosteroids and broad-spectrum antibiotics were administered. While awaiting further neurologic imaging the weakness progressed to his upper-extremities and respiratory muscles requiring intubation. MRI demonstrated a spinal epidural abscess (SEA) extending from C1 to L3 with multi-level spinal cord compression, vertebral osteomyelitis and discitis. Blood cultures and abscess grew MRSA. He developed refractory septic shock and despite aggressive neurosurgical interventions he expired.
+
+# IMPACT/DISCUSSION:
+
+Extensive SEA is a rare and emergent diagnosis that can lead to quadriparesis and death. Despite being uncommon (2 of 10,000 hospitalizations), the devastating implications of missed or delayed diagnosis of SEA necessitates all clinic and hospital-based internists be aware of this disease. Immune compromised patients, diabetics and intravenous drug users are at risk, however, SEA most frequently occurs from spine instrumentation or bacteremia. Presenting symptoms are subtle: generalized malaise, fevers, back pain, and in some cases, neurologic symptoms. Leukocytosis and elevated ESR are suggestive, however, MRI is diagnostic. Prognosis is poor; 4-20% of cases result in irreversible paraplegia and 5% progress to uncontrolled sepsis and death. Management includes broad-spectrum antibiotics and early surgical intervention. Antibiotic coverage should include Staph Aureus (60%) as well as Strep and gram-negative species. Prompt recognition of this disease and early intervention are keys to its successful treatment.
+
+# CONCLUSION:
+
+Here we present a case of rapidly progressive paralysis and respiratory failure due to an extensive SEA in a patient presenting with non-specific symptoms. It is critical to include SEA, although rare, in the differential for generalized weakness and back pain in order to prevent a potentially grave outcome.
+
+# LEARNING OBJECTIVE #1:
+
+Differential diagnosis for cardiac tamponade including rheumatoid arthritis.
+
+# LEARNING OBJECTIVE #2:
+
+Promptly stabilize and treat cardiac tamponade due to rheumatoid arthritis.
+
+# CASE:
+
+60 year old male with recent diagnosis of seropositive rheumatoid arthritis presented with sudden onset substernal sharp stabbing chest pain without radiation. He denied dyspnea, lightheadedness, recent upper viral respiratory illness or sick contacts. He was tachycardic to 130-150's and hypotensive to 90/70. Physical exam is pertinent for reduced heart sounds, normal JVP, negative for distended neck veins. White count of 37,500, platelets 528. Troponins peaked at 0.12, elevated ESR 118 and CRP at 1.6 (reference <0.8). EKG showed sinus tachycardia. Transthoracic echocardiogram showed a pericardial effusion with tamponade physiology. Pericardiocentesis with pigtail catheter placement was performed. Pericardial fluid analysis showed turbid yellow fluid with elevated inflammatory cells (60000 nuclear cells with 90% polys), high LDH 1188, low glucose at 35. Bacterial gram stain, culture, cytology for malignant cells, adenosine deaminase (ADA) and mycobacterium tuberculosis culture and smear were negative. This was consistent with an inflammatory effusion due to RA. He was started on colchicine, IV solumedrol which was transitioned to oral prednisone. The hydroxychloroquine was restarted and methotrexate was added. Upon follow up, his pericardial effusions subsided upon repeat TTE and he remains asymptomatic.
+
+# IMPACT/DISCUSSION:
+
+Rheumatoid arthritis is a chronic autoimmune disease with 1% prevalence among the general population. Incidence of pericardial effusion in individuals with RA on autopsy varies from 11% to 50%. Silent pericardial effusion is seen more frequently than acute symptomatic pericarditis. Symptomatic rheumatoid pericardial effusions are uncommon and seen in older individuals with long standing RA. RA is one of the least common causes of cardiac tamponade with a prevalence of 0.22% to 0.5%. There are multiple etiologies for pericardial effusions including viral, bacterial, uremic, neoplastic, tuberculosis, connective tissue diseases, traumatic, medications and idiopathic. Underlying pathophysiology that leads to pericardial effusions in rheumatoid arthritis includes vasculitis via immune complex deposition with inflammatory cell infiltration. Pericardiocentesis with fluid analysis can provide detailed information which can help narrow the diagnosis. In rheumatoid pericardial effusion the pH is low, high white count, high LDH, very low glucose concentration. In this case, his history of rheumatoid arthritis provided a clue and pericardial fluid analysis being consistent with effusion due to RA further helped establish the etiology.
+
+# CONCLUSION:
+
+In conclusion, rheumatoid arthritis causing pericardial effusion with cardiac tamponade should be in the differential in individuals who present with acute cardiac chest pain even in those without long standing rheumatoid arthritis.
+
+# RARE DIAGNOSIS OF PHEOCHROMOCYTOMA AT AN UNCOMMON AGE OF 96 YEARS
+
+Shiva Shankar Vangimalla; Srinivasa Kasina; Hussam Ammar. Medstar

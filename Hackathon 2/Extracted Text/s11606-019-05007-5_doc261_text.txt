@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# SPREADING PRIMARY CARE 2.0: A QUALITATIVE EVALUATION OF READINESS FOR A TEAM-BASED CARE MODEL IN AN ACADEMIC MEDICAL SYSTEM
+
+Nadia Safaeinili1; Cati Brown-Johnson2; Jonathan G. Shaw3; Megan Mahoney4; Marcy Winget5. 1Stanford University, Stanford, CA; 2Stanford School of Medicine, Stanford, CA; 3Stanford University School of Medicine, Stanford, CA; 4Stanford University, Palo Alto, CA; 5Stanford University Medical School, Stanford, CA. (Control ID #3185635)
+
+# BACKGROUND:
+
+In 2016, Stanford Healthcare developed a new model of primary care called Primary Care 2.0, which includes: 1) medical assistants (MAs) taking on advanced roles including scribing, population health management, and care-coordination; 2) team-based care, including an advanced practice provider and additional MA resources; and 3) an extended interdisciplinary care team (i.e. behavioral health, pharmacy, nutrition). The model has been implemented in one clinic with plans to spread to four additional primary care clinics. We conducted a qualitative assessment of perceived barriers and facilitators to implementation to inform the planned spread of the model.
+
+# METHODS:
+
+We collected data via semi-structured interviews with staff and providers (n=26) and day-long observations of clinic teams and workflows at five primary care clinics. Detailed field notes were taken. Interview audio, transcripts, and notes were analyzed and synthesized in a rapid qualitative approach, the Lightning Report. We used the Consolidated Framework for Implementation Research (CFIR) to structure the coding of the data and predictions about factors for successful implementation.
+
+# RESULTS:
+
+Providers and staff reported factors related to the CFIR construct networks and communication to be most supportive of spread, including: strong clinic management, medical assistant wellness, and open communication within teams. Interviewees also felt that an explicit commitment to open and nonjudgmental communication may be protective against change fatigue during spread. Regularly scheduled times for teams to debrief and surface concerns were described as essential. All levels of the team reported benefits when the forum for debriefs took place as interprofessional "case conferences", allowing all to ask questions and receive support. Finally, providers perceived medical assistant wellness as critical for implementing and spreading a successful team-based care model. Providers and staff anticipated barriers that mapped primarily to the CFIR constructs available resources and access to knowledge and information. Reported barriers to spread included perceived inequality of workload distribution among team members of the same level, lack of understanding of workflows and roles within the new model, and instability of staffing for medical assistants and clinic management. Additional barriers focused on: 1) operations, including space needed for a co-located team environment; 2) time available for regularly-scheduled case conferences; and 3) difficulty recruiting appropriate staff in a compressed timeframe.
+
+# CONCLUSIONS:
+
+Based on our analysis, we predict that the following CFIR constructs will be key factors in spread success: networks and communication, specifically practices around open interprofessional communication and support of medical assistant wellness; access to knowledge and information about spread workflow and role changes, and available resources.
+
+# STATINS FOR PRIMARY PREVENTION: WE'RE NOT DOING IT ALL THE TIME
+
+Connie Park; Jeffrey Le; Rebecca Mazurkiewicz. Hofstra Northwell Lenox Hill Hospital, New York, NY. (Control ID #3185008)
+
+# BACKGROUND:
+
+Atherosclerotic Cardiovascular Disease (ASCVD) is the leading cause of death worldwide and its complications remain expensive to treat. As per the 2013 American Heart Association and American College of Cardiology guidelines on the treatment of hypercholesterolemia to reduce ASCVD risk in adults, in patients without existing ASCVD, LDL cholesterol over 190, and diabetes, a moderate intensity statin is recommended if the 10-year ASCVD risk is 7.5% or greater using the ASCVD risk calculator. Given the complicated nature of this guideline, our hypothesis was that many of our patients are not appropriately on statins for primary prevention.
+
+# METHODS:
+
+This study consisted of chart review of patients seen by internal medicine residents from Lenox Hill Hospital from October 2017 to December 2017, aged 40-79 with a lipid panel resulted within the past year. We excluded patients with pre-existing ASCVD, LDL over 190, diabetes, documented statin allergy, AST or ALT three times upper limit of normal, HIV, end stage renal disease, and duplicate encounters within our date range. Variables collected included age, gender, race, lipid panel results, blood pressure reading on the date of lipid panel, current anti-hypertensive medications, smoking history, current statin therapy, and reasons documented in the visit note for why patient was not on a statin. In addition, Lenox Hill medicine categorical residents were surveyed anonymously and electronically, asking what they believed to be the barriers to prescribing statins. The answer choices were as follows: time constraints, knowledge that a statin was necessary, other, or patient refusal.
+
+# RESULTS:
+
+Of the 113 patients who met inclusion criteria and did not meet exclusion criteria, 31 (27.5%) were not on appropriate statin therapy for primary prevention of ASCVD. Of the 31 patients, 74% did not have a reason documented as to why they were not on appropriate statin therapy. For those who did have documentation, reasons included patient decision, conservative measures first for risk reduction, statin to be addressed at a follow up visit, and patient lost to follow-up. Twenty-three residents answered the survey. Residents most commonly cited time constraint (n=13, 56.5%) as the reason why they did not prescribe statins to patients. Others were patient refusal (n=5, 21.7%), knowledge that a statin was necessary (n=3, 13.0%), or other (n=2, 15.4%).
+
+# CONCLUSIONS:
+
+Our chart review confirmed that the main barrier at our clinical site to having patients on statin therapy for primary prevention appears to be from the clinician's side. This was confirmed by surveying a group of residents. This is in contrast to what is in the literature, which is a more patient-centered issue of compliance. We will explore possible interventions to increase the rates of statin therapy in the future. One idea would be to include documentation of ASCVD risk score for every patient aged 40 and 79 at every visit, with the corresponding statin recommendation.
+
+# STETHOSCOPE HYGIENE: USING CULTURES AND REAL-TIME FEEDBACK WITH RAPID BIOLUMINESCENCE SCORES TO CHANGE BEHAVIOR
+
+Jurgen Holleck1, 2; Sheldon Campbell1, 2; Hedib Alrawili3; Cynthia Frank1, 2; Naseema Merchant1, 2; Benjamin Rodwin4; Shaili Gupta1, 2; Daniel G. Federman1, 2; John J. Chang1, 2; Mario F. Perez. 1Yale University School of Medicine, Southbury, CT; 2VACT Healthcare System, West Haven, CT; 3Quinnipiac University, Hamden, CT; 4Yale School of Medicine, New Haven, CT; 5UConn Health, Farmington, CT. (Control ID #3149573)
+
+# BACKGROUND:
+
+Stethoscope contamination is comparable to that of our hands. Guidelines recommend disinfection between patients, yet this is rarely done. Previously, an educational intervention at our institution did not improve low rates of disinfection. Therefore, we aimed to 1) gain a better understanding of beliefs and barriers to stethoscope hygiene and 2) determine whether showing providers what is growing on their stethoscopes via culture or bioluminescence technology alters perceptions and improves stethoscope hygiene.
+
+# METHODS:
+
+Our study utilized a pre/post intervention design involving

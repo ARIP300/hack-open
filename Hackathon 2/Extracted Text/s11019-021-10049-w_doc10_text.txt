@@ -1,0 +1,57 @@
+# Chatbot breakthrough in the 2020s? An ethical reflection on the trend of automated consultations…
+
+Employment 47/2017. Accessed 15 January 2021.
+
+Shum, H.-Y., X.-D. He, and D. Li. 2018. From eliza to xiaoice: Challenges and opportunities with social chatbots. Frontiers of Information Technology & Electronic Engineering 19: 10–26.
+
+Mittelstadt, B. 2019. Principles alone cannot guarantee ethical AI. Nature Machine Intelligence. Accessed 15 January 2021.
+
+Montgomery, K. 2006. How doctors think: clinical judgment and the practice of medicine. Oxford: Oxford University Press.
+
+Morley, J., C.C.V. Machado, C. Burr, J. Cowls, I. Joshi, M. Taddeo, and L. Floridi. 2019. The Debate on the Ethics of AI in Health Care: A Reconstruction and Critical Review (Unpublished). Accessed 15 January 2021.
+
+Nordheim, C.B., A. Følstad, and C.A. Bjørkli. 2019. An initial model of trust in chatbots for customer service—Findings from a questionnaire study. Interacting with Computers 31 (3): 317–335.
+
+Oakley, J., and D. Cocking. 2001. Virtue ethics and professional roles. New York: Cambridge University Press.
+
+Palanica, A., P. Flaschner, A. Thommandram, M. Li, and Y. Fossat. 2019. Physicians’ perceptions of chatbots in health care: cross-sectional web-based survey. Journal of Medical Internet Research 21 (4): e12887.
+
+Paredes, M. 2018. Can Artificial Intelligence help reduce human medical errors? Two examples from ICUs in the US and Peru. Accessed 15 January 2021.
+
+Pasquale, F. 2020. New laws of robotics. Defending human expertise in the age of AI. Cambridge: Harvard University Press.
+
+Pellegrino, E.D., and D.C. Thomasma. 1993. The virtues in medical practice. Oxford: OUP.
+
+Powell, J. 2019. Trust Me, I’m a Chatbot: How artificial intelligence in health care fails the turing test. Journal of Medical Internet Research 21 (10): e16222.
+
+Prior, L. 2003. Belief, knowledge and expertise: The emergence of the lay expert in medical sociology. Sociology of Health & Illness 25: 41–57.
+
+Pryce, J., A. Yelick, Y. Zhang, and K. Fields. 2018. Using Artificial Intelligence, Machine Learning, and Predictive Analytics in Decision-Making. Florida Institute for Child Welfare Accessed 15 January 2021.
+
+Pynnönen, T., K. Rantala, and R. Räsänen. 2020. Kokemuksia Omaolo-palvelusta (Experiences with the Omaolo Service). Bachelor’s thesis. Tampere: Tampere University of Applied Sciences.
+
+Rigby, M.J. 2019. Ethical dimensions of using artificial intelligence in health care. AMA Journal of Ethics 21 (2): E121-124.
+
+Snow, T. 2019. Decision-making in the Age of the Algorithm. Three key principles to help public sector organisations make the most of AI tools. Nesta. Accessed 15 January 2021.
+
+Suarez-Villa, L. 2012. Globalization and technocapitalism. The political economy of corporate power and technological domination. Surrey: Ashgate.
+
+THL—Finnish institute for health and welfare. 2020. Omaolo—Instructions for use. Accessed 21 November 2020.
+
+Tiirinki, H., L.-K. Tynkkynen, M. Sovala, S. Atkins, M. Koivusalo, P. Rautiainen, V. Jormanainen, and I. Keskimäki. 2020. COVID-19 pandemic in Finland—Preliminary analysis on health system response and economic consequences. Health Policy and Technology 9 (4): 649–662.
+
+Toon, P. 2014. A flourishing practice? London: Royal College of General Practitioners.
+
+Topol, E.J. 2019. Deep medicine. New York: Basic Books.
+
+Wachter, R. 2015. The digital doctor: hope, hype and harm at the dawn of medicine’s computer age. New York: McGraw-Hill Education.
+
+Weizenbaum, J. 1966. ELIZA—A computer program for the study of natural language communication between man and machine. Computational Linguistics 9 (1): 36–45.
+
+Wulff, H.R., S.A. Pedersen, and R. Rosenberg. 1986. Probability and belief. In Philosophy of medicine, ed. H.R. Wulff, S.A. Pedersen, and R. Rosenberg, 89–104. Oxford: Blackwell Scientific Publications.
+
+Zerilli, J., A. Knott, J. Maclaurin, and C. Gavaghan. 2019. Algorithmic decision-making and the control problem. Minds and Machines 29 (4): 555–578.
+
+Zhou, J., S.Z. Arshad, S. Luo, and F. Chen. 2017. Effects of uncertainty and cognitive load on user trust in predictive decision making. In Human-computer interaction—INTERACT 2017, ed. R. Bernhaupt, G. Dalvi, A. Joshi, D.K. Balkrishan, J. O’Neill, and M. Winckler, 23–39. Cham: Springer.
+
+Publisher's Note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

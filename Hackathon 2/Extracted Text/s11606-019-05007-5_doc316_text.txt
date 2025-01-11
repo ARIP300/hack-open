@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Worry About Paying Medical Expenses and Quality of Life in End-of-Life Cancer Care
+
+Medical care. A growing body of literature suggests that financial burden, or financial toxicity, has harmful effects on well-being and health-related quality of life (QoL). This study investigates patients' worry about paying medical expenses (WAPME) and its association with their QoL in end-of-life (EoL) cancer care.
+
+# METHODS
+
+The sample includes patients (N=343) who participated in Coping with Cancer-II (CwC-II), a multi-site observational cohort study between 2010-2015 to examine racial and ethnic disparities in EoL cancer care. Measures included assessments of patients' sociodemographic characteristics (age, sex, race, ethnicity, education and health insurance status), degree of WAPME, and QoL (using the multi-domain McGill QoL Questionnaire). Unadjusted and adjusted odds ratios between patient WAPME and patient sociodemographic characteristics were estimated using ordinary and multiple ordinal logistic regression, respectively. Odds ratios between dichotomized patient QoL outcomes and patient worry about paying medical expenses, adjusted for patient sociodemographic characteristics (and, for some models, patient psychological well-being), were estimated using multiple logistic regression.
+
+# RESULTS
+
+Patients who were less than 65 years of age (OR=2.67, p<0.001), female (OR=1.60, p=0.037), Black (OR=1.69, p=0.039), Latino (OR=2.52, p=0.003) and uninsured (OR=3.40, p<0.001) were more likely to have WAPME. Adjusting for other sociodemographic characteristics, only patients' sex (female vs. male; AOR=1.65, p=0.038) and insurance status (uninsured vs. insured; AOR=2.46, p=0.012) remained significantly associated with patients' WAPME. Adjusting for sociodemographic characteristics, patients' WAPME was associated with worse psychological (AOR=0.66, p<0.001) and existential (AOR=0.75, p<0.002) well-being, as well as worse physical symptoms (AOR=0.77, p<0.025) and worse overall QoL (AOR=0.70, p<0.001). Patients' psychological well-being mediated the effects of WAPME on their existential well-being, physical symptoms QoL and overall QoL.
+
+# CONCLUSIONS
+
+Health insurance disparities may explain racial and ethnic disparities in worry about paying medical expenses in EoL cancer care. Advanced cancer patients' WAPME has a direct, adverse association with their psychological well-being, and has indirect, adverse associations with their existential well-being, physical symptoms QoL and overall QoL. This investigation extends findings on financial toxicity in that it highlights the importance of patients' psychological well-being as a key (modifiable) mediator of the effects of financial distress on patients' physical and spiritual well-being.
+
+# Worth the Weight? Resident Attitudes Toward Diet and Exercise Counseling
+
+Adam Prince; Yashvi Patel; Rebecca Mazurkiewicz. Lenox Hill Hospital, New York, NY. (Control ID #3185201)
+
+# BACKGROUND
+
+Recent studies suggest nearly 80% of chronic diseases can be prevented through regular exercise, maintaining a healthy weight, healthy diet, and not smoking. We aimed to assess the attitudes, knowledge, and confidence of medicine residents toward lifestyle risk factor modification counseling in the outpatient setting.
+
+# METHODS
+
+We sent an electronic, anonymous survey to categorical internal medicine residents of PGY1, PGY2, and PGY3 levels at Lenox Hill Hospital, a community hospital in New York, NY. This ten question survey was sent in February 2018, and assessed importance placed on lifestyle risk factor counseling, frequency of discussions in appropriate patients, comfort with counseling, familiarity with evidence-based behavioral change techniques, and confidence that patients would make changes based on counseling interventions.
+
+# RESULTS
+
+Our survey received 41 out of 77 resident responses, including 10 PGY1, 16 PGY2, and 15 PGY3 residents; 23 respondents were male and 18 were female. Lifestyle counseling was rated as very or extremely important to 95% of respondents. Similarly, 78% stated that they usually or always discuss lifestyle risk factors in the outpatient clinic. With regard to comfort in providing counseling, 69% responded that they were very or extremely comfortable, but 32% rated their comfort as somewhat or slightly comfortable. For duration of counseling, 71% indicated that they spent 3-10 minutes providing counseling per intervention. When asked about techniques for counseling, only 12% stated that they were familiar with evidence-based methods for behavior change. Lastly, only 7% of residents rated themselves as very or extremely confident that patients would make changes based on counseling, while 78% were slightly or somewhat confident, and 15% were not at all confident.
+
+# CONCLUSIONS
+
+Residents at our institution place high importance on lifestyle risk factor counseling interactions and most feel comfortable having these conversations with applicable patients in the outpatient setting. However, residents do not appear to have a ready repertoire of evidence-based behavior change techniques, and do not feel that their counseling will be effective in leading to actual behavior change. This highlights the importance of teaching internal medicine residents evidence-based behavior change techniques. We are in the process of developing an educational intervention to provide our residents with tools for lifestyle risk factor modification counseling.
+
+# You Are What Your Social Network Eats: Public Housing Social Networks and Fast Food Consumption
+
+Benjamin Meza; Craig E. Pollack; Kimberly Gudzune. Johns Hopkins, Baltimore, MD; Johns Hopkins University School of Medicine, Baltimore, MD; Johns Hopkins University, Baltimore, MD. (Control ID #3162713)
+
+# BACKGROUND
+
+High sodium diets, such as those that include fast food, are associated with cardiovascular disease (CVD), illnesses which occur at twice the rate among public housing residents as the general population. Perceived dietary patterns of one's social network members are theorized to set dietary norms and model practices that influence one's own dietary behaviors. As a basis for using social network principles as part of dietary interventions among public housing residents, our objective was to determine the association of high fast food intake among one's social network members and an individual's own fast food consumption.
+
+# METHODS
+
+We conducted a cross-sectional survey of randomly selected households in public housing complexes in Baltimore, MD from August 2014 to August 2015. Adult survey respondents answered an in-person survey of questions regarding their own diet, perceived dietary habits among their social network members, and the frequency of interaction with and among their social network members. Our dependent variable was self-reported frequency of fast food intake, dichotomized to eating fast food at least once daily or less than once daily. Our independent variable was the proportion of the respondent's social network who were perceived to consume fast food at least once daily. We used multivariable logistic regression to examine the association between the respondent's fast food consumption and consumption among their social network members, adjusted for individual demographic and health covariates as well as social network factors.
+
+# RESULTS
+
+The sample included 266 respondents (response rate 48%). Mean age was 44.5 years, 86.1% were women, 95.5% were Black, and 58.3% had a history of CVD (hypertension, myocardial infarction, cerebrovascular accident, or congestive heart failure). On average, 7.1% of respondents ate fast food daily themselves and the perceived proportion of network members who ate fast food daily was 10.5%. After adjustment, there was a significant positive relationship between respondents eating fast food daily and a greater proportion of their social network members eating fast food daily (OR 1.18, 95%CI [1.00, 1.38], p=0.034).

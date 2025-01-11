@@ -1,0 +1,23 @@
+# Scientific Reports
+
+# (2024) 14:9831
+
+# Path diagram of the structural equation model
+
+|Path|Standardized coefficient|S.E|C.R|P|Hypothesis|Supported|
+|---|---|---|---|---|---|---|
+|PEB &lt; ---CHRP|0.204|0.256|0.730|0.466|H 1|No|
+|PEA &lt; ---CHRP|0.772|0.140|5.054|***|H 2|Yes|
+|PEI &lt; ---CHRP|0.803|0.155|5.463|***|H 3|Yes|
+|PEB &lt; ---PEA|0.206|0.186|1.110|0.267|H 4|No|
+|PEB &lt; ---PEI|0.894|0.208|3.747|***|H 5|Yes|
+
+Table 5. Results of the structural equation model and hypothesis test. P: *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001.
+
+CHRP and PEA was 0.772 (P &lt; 0.001), indicating a positive relationship between them, and hypothesis 2 was supported. The standardized coefficient between CHRP and PEI was 0.803 (P &lt; 0.001), indicating a positive relationship between them, and hypothesis 3 was supported. In addition, PEI had a significant positive effect on PEB (standardized coefficient = 0.894, P &lt; 0.001), thus, hypothesis 5 was supported. CHRP (standardized coefficient = 0.204, P &gt; 0.05) and PEA (standardized coefficient = 0.206, &gt; 0.05) had no significant impacts on PEB, P therefore, hypotheses 1 and 4 were rejected. Although there was no significant direct effect between CHRP and PEB, the indirect effect can be achieved by the mediating role of PEI. Hence, we conducted further analysis to test the mediating effect of PEI.
+
+# Mediating effect analysis
+
+The mediating effect refers that the independent variable influences the dependent variable through the mediating variable, which deepens the understanding of the relationship between variables and reveals the specific pathways from the independent variable to the dependent variable 114. The causal-step method and the product of coefficients are common approaches to test mediating effects. Recently, more and more controversies come into existence with extensive use of the causal-step method, low statistical efficiency and unable to directly provide confidence intervals are obvious defects of this method 115. The product of coefficients includes the Sobel test and the Bootstrap method. The Sobel test requires that the sampling distribution of the indirect mediating effect is normal, but in reality, the distribution is asymmetric, which limits the application of the Sobel test when conducting mediating analysis 116. Therefore, the bootstrap method was used in this study, and the confidence interval did not include 0 indicating the existence of mediating effects.
+
+We conducted the bootstrap analysis using the Process plugin in SPSS 26.0 to analyze the indirect effect of PEI between CHRP and PEB. To achieve this, we chose Model number 4, specified a 95% confidence interval, and selected 5000 as the number of bootstrap samples. As shown in Table 6, the mediating effect of PEI is 0.2235, the direct effect between CHRP and PEB is 0.2615, and the total effect of the independent variable on the dependent variable is 0.4849, in brief, the total, direct, and indirect effect are significant (P &lt; 0.001). Additionally, the 95% confidence interval of indirect effect does not contain zero, the conclusion is that PEI can serve as a significant.

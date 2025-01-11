@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# 1. PURSUING THE DIAGNOSTIC ODYSSEY: PATTERNS OF RESIDENT TEST UTILIZATION DIFFER FOR PREVENTIVE VERSUS DIAGNOSTIC WORK-UP
+
+Eli Cahan2; Kathleen Hanley2; Barbara Porter2; Andrew B. Wallach1; Lisa Altshuler2; Sondra Zabar2; Colleen C. Gillespie2. 1 Bellevue Hospital, New York, NY; 2 NYU School of Medicine, New York, NY. (Control ID #3185316)
+
+# BACKGROUND:
+
+Low-value tests, defined as inappropriate for a given clinical scenario, are ordered in one in five clinic visits. Residents tend to over-order diagnostic tests to "minimize uncertainty" of presenting cases, even though these tests are not useful according to Bayesian statistics; a pursuit deemed the "Ulysses syndrome". Simultaneously, evidence suggests residents misuse preventive tests in half of relevant clinical scenarios. We sought to quantify ordering behaviors in urban primary care clinics across three unannounced standardized cases.
+
+# METHODS:
+
+Unannounced standardized patients (USPs) were trained for standardized simulation of three clinical scenarios: a "Well" visit, a chief complaint of "Fatigue," and a diagnosis of "Asthma." USPs were introduced into medicine residents' clinics in an urban, safety-net hospital. All electronic orders were extracted via chart review. Scenario-specific appropriateness of diagnostic testing was determined by referencing United States Preventive Services Task Force (USPSTF) and society clinical practice guidelines (CPGs). "Preventive" tests (such as lipid panels or hemoglobin A1C) were derived from USPSTF guidelines whereas "Diagnostic" tests (such as pulmonary function testing for Asthma or heterophile antibodies for Fatigue) were from CPGs. "Excessive" tests were those not explicitly indicated for a given scenario in either USPSTF or CPGs (versus "indicated" tests).
+
+# RESULTS:
+
+Indicated tests were ordered in 29% of Well (124 encounters), 16% of Fatigue (148 encounters), and 12% of Asthma (170 encounters) cases. One or more excessive tests were ordered in 44%, 22%, and 17% of Well, Fatigue, and Asthma encounters respectively. The distribution of indicated and excessive tests for preventive versus diagnostic purposes varied by case: In Well visits, the majority (71%) of excessive testing was in pursuit of a diagnosis, while three-quarters of indicated testing was for preventive purposes. In Fatigue and Asthma visits, the reverse patterns were true: the majority of indicated tests ordered were diagnostic (81% and 68%, respectively) while the majority of excessive tests were preventive (78% and 63%, respectively).
+
+# CONCLUSIONS:
+
+Introducing USPs to resident clinics revealed that, for patients presenting without a chief complaint (Well visit), residents successfully ordered less than one-third of indicated tests, and over 75% of inappropriately ordered tests pursued a diagnosis. For patients presenting with chief complaints (Fatigue and Asthma), rates of appropriate ordering were even lower (16% and 12%), and tended to overlook preventive care. In these cases, inappropriate tests tended to be ordered for preventive purposes. Awareness of resident mis-utilization of preventive and diagnostic testing in distinct clinical circumstances can guide educational efforts towards evidence-based care and resource stewardship.
+
+# 2. QUALITATIVE ANALYSIS OF A SOCIAL DETERMINANTS OF HEALTH (SDH) FOCUSED HOME VISIT CURRICULUM FOR INTERNAL MEDICINE RESIDENTS
+
+Iman Hassan1; Amy J. Kennedy1; Flor de Abril Cameron2; Megan E. Hamm2; Thuy Bui2; Carla L. Spagnoletti1; Maggie K. Benson1. 1 University of Pittsburgh Medical Center, Pittsburgh, PA; 2 University of Pittsburgh, Pittsburgh, PA. (Control ID #3186303)
+
+# BACKGROUND:
+
+Few categorical internal medicine residencies offer curricula on SDH, despite its impact on patient health. We sought to enhance residents' awareness of SDH via a home visit curriculum. Following a small group session on neighborhood health effects and electronic tools to address SDH, residents identified one of their clinic patients for which they conducted a virtual and physical neighborhood assessment and SDH-focused home visit.
+
+# METHODS:
+
+To assess curriculum impact, we conducted five 60-min focus groups of 3 to 5 residents within 2 weeks of the home visit. A total of 19 residents participated. An independent, trained facilitator guided the discussion with a question script. Sessions were audio-recorded and transcribed. Using the Editing approach, a codebook was developed along with a qualitative expert. Two coders independently applied the codes to all transcripts using ATLAS.ti 8.0. Discrepancies were adjudicated until full agreement reached. Themes were then identified.
+
+# RESULTS:
+
+(1) Residents reported the curriculum offered a unique, experiential opportunity to see how patients' neighborhood and SDH impact their health. A resident said, "doing a home visit, you get to see it and that makes it really come to the forefront of your mind, you don't have to imagine, you see it and then you realize ‘oh I should be thinking about xy and z'. This is more helpful than someone saying think about social determinants." (2) Residents cited the neighborhood-mapping component of the virtual assessment as applicable to future patients. They said, "The benefit…was to get us thinking about the patient in the context of his surroundings, rather than just in the context of his or her home" and in clinic "actually seeing how far away [the neighborhood] is from the clinic would probably inform my care a little bit better without taking any extra time." (3) Residents felt the curriculum enhanced their conceptualization of SDH and offered concrete tools applicable to other patients. A resident said, "I think this entire exercise was useful in that now I feel like I know some resources better…feeling like I have something to offer them I think will increase the likelihood that I will bring these things up, with anybody." Another said, "I feel that the home visits do give me such a different, a better sense of my patients in general, that now in my clinic after having done these, I do spend so much more time just being like, 'Okay what neighborhood do you live in? Do you live in a house, an apartment?...I ask all sorts of weird questions that I didn't used to ask. Just because I do feel like it's helpful to have a better sense of who they are and where they are."
+
+# CONCLUSIONS:
+
+Our curriculum prompted greater reflection on and engagement with SDH among residents. They valued the experiential nature and identified components applicable to other patients. Neighborhood and home visits, with an emphasis on local resources, can be successfully used to help residents incorporate SDH into clinical care.
+
+# 3. QUALITATIVE ASSESSMENT OF TWO APPROACHES TO IMPLEMENTING CLINICAL DECISION SUPPORT
+
+Susan Stork1; Jonathan Austrian2; Saul Blecker1. 1 NYU School of Medicine, New York, NY; 2 NYU, New York, NY. (Control ID #3186048)
+
+# BACKGROUND:
+
+Clinical decision support (CDS) systems can be valuable resources in chronic disease management, but provider utilization of these tools and their integration into workflow remains suboptimal. We used a user-centered design approach to build a CDS recommending evidence-based therapy for heart failure in an inpatient setting. We implemented two versions of the CDS: an interruptive (pop-up) alert and a non-interruptive alert displayed in a provider checklist activity. In a prior study, we found that the interruptive alert was more effective than the non-interruptive alert but suffered from a high dismissal rate. The purpose of this study was to understand provider's perceptions of factors impacting CDS utilization following its implementation.
+
+# METHODS:
+
+We performed a qualitative study following implementation of two versions of a CDS at an academic medical center. We recruited providers who had either version of the CDS triggered in the prior 24 hours and obtained feedback through semi-structured interviews. Interviews were recorded, transcribed, and double-coded. We performed a constant comparative analysis of the transcripts and developed a coding scheme informed by the Five Rights of CDS combined with Proctor's.

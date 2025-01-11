@@ -1,0 +1,15 @@
+# Frone et al.
+
+# Table 3
+
+# Dimensions of Recovery Capital (Cloud & Granfield, 2008; White & Cloud, 2008)
+
+|Dimension|Description|
+|---|---|
+|Human capital|Individuals’ internal assets, such as genetic inheritance, knowledge, skills, education, employability, self‑esteem and self‑efficacy, motivation to change, functional coping styles, spirituality, sense of meaning in life, as well as a lack of comorbid physical and mental health issues and higher physical and mental well‑being.|
+|Social capital|The sum of resources, reciprocal obligations, and benefits that accrue to an individual by virtue membership in social networks, such as social norms, availability of various types of social support, and access to opportunities through family, friends, coworkers, and employers.|
+|Physical capital|Tangible economic or financial assets, such as income, savings and investments, stable housing, food security, transportation, and insurance, which provide financial stability and access to other important resources and life options.|
+|Cultural capital|Cultural values, beliefs, norms, and perceptions that support conformity to dominant social behaviors.|
+|Community capital|Attitudes, policies, and resources in a community related to SUDs and the promotion of recovery, such as efforts to reduce SUD and recovery‑related stigma, visible and diverse recovery role models, acute and long‑term systems of SUD treatment, accessible and diverse recovery mutual aid resources, recovery community support institutions (e.g., recovery centers, schools, and homes; recovery industries and sheltered workplaces; and recovery ministries and churches), and sources of sustained recovery support and early re‑intervention (e.g., recovery checkups in treatment programs, employee assistance programs, professional assistance programs, drug courts.|
+
+Occup Health Sci. Author manuscript; available in PMC 2023 May 18.

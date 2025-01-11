@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Valproic Acid-Induced Hyperammonemia
+
+and mood disorder. He had had a recent bone flap excision two months prior that had been complicated by coagulase negative Staphylococcus infection for which he completed 6 weeks of vancomycin. Current medications included brivaracetam, valproic acid, and risperidone. All vital signs were within normal limits. The patient was fully oriented but slightly confused. Strength and sensation were globally intact with normal reflexes and no asterixis. An antalgic, shuffling gait was noted. CT head revealed recent craniectomy changes but was otherwise unremarkable. Electrolytes, cell counts, and liver enzymes were within normal limits. Serum ammonia was 100 micromoles/liter. On further questioning, the patient revealed that he was switched from quetiapine to risperidone a few weeks prior to symptom onset. The patient initially improved with lactulose, levocarnitine, and vitamin B6. Risperidone dose was decreased, and valproic acid was eventually discontinued. At clinic follow-up one month later, patient was improving and eventually reached his baseline at three months after discharge.
+
+# IMPACT/DISCUSSION
+
+Altered mental status involves a wide range of etiologies and is a problem commonly encountered by the internist. Determining the etiology of symptoms is key to minimizing morbidity and mortality, especially when the etiology is a patient's own medications. Hyperammonemia can occur in roughly 28% of patients on valproic acid, even in the absence of liver dysfunction. In patients with elevated ammonia from any cause, presenting symptoms may include gait instability, changes in behavior, slurred speech, excessive sleepiness, and gastrointestinal disturbances. Antipsychotic drugs, including risperidone, have been shown to be an independent risk factor for hyperammonemia in patients on valproic acid, as demonstrated in this case. While treatment may not require immediate cessation of valproic acid, prompt measures to reduce serum ammonia should be taken. Initial treatments may involve lactulose, levocarnitine, antibiotics such as metronidazole, and B vitamins. Continuous renal replacement therapy or hemodialysis may be required in severe cases.
+
+# CONCLUSION
+
+Valproic acid-induced hyperammonemia can manifest as acute encephalopathy or other symptoms such as gait instability. Internists should be adept in identifying acute encephalopathy due to medications and medication interactions.
+
+# SLOW BUT DEADLY
+
+Alexandra Valdrighi; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3185928)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to risk stratify patients for an aortic dissection
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the varied clinical presentations of aortic dissections
+
+# CASE
+
+An 87-year-old woman presented with chest pain on inspiration and shortness of breath which came on suddenly. The pain was located on the left side of her chest and in the substernal region, described as a 4/10 "dull ache" and a "pressure sensation." She also reported a mild, nonproductive cough for the past 2-3 days. She denied any previous chest pain episodes and her past medical history included hypertension, left bundle branch block, dementia, and tricuspid regurgitation. She had stable vital signs. She had a known 2/6 murmur along the left sternal border and pain over the xiphoid process with palpation or with deep inspiration. An EKG did not show any changes. Cardiac enzymes, pro-BNP, comprehensive metabolic panel, and complete blood count were all unremarkable. She continued to have a dull aching pain in the same location with a minimal increase in her cardiac enzymes to 0.268 ng/L but decreased to 0.098 ng/L. She continued to complain of some shortness of breath at rest and general chest discomfort. Vitals continued to remain stable until she spiked a temperature of 101.3 and developed atrial fibrillation with rapid ventricular response. A D-dimer was found to be 4,670 ng/mL. CT angiogram showed abnormal dilation of the aortic root with an aortic dissection. She unfortunately coded and was unable to be resuscitated.
+
+# IMPACT/DISCUSSION
+
+Aortic dissections often have varied clinical presentations and thus they can be difficult to diagnose. Subsequently, delays in treatment can lead to fatalities. Since aortic dissections are not encountered frequently, it is important for physicians to consider them in the evaluation of chest pain, especially when it is of sudden onset. The majority of patients describe the pain as "sharp." Neurologic symptoms also occur in approximately 50% of patients. Some patients may present with painless dissections or more chronic onset of dissections. Other unusual initial presentations include congestive heart failure, stroke, or syncope. Elderly are more likely to present with an atypical presentation which may complicate diagnosis in this age group; yet the mean age of dissection is also 65. There are twelve history and physical exam findings that have a high sensitivity for detection of an aortic dissection and can be used to risk stratify patients. A D-dimer score of less than 500ng/mL can be used as a screening test.
+
+# CONCLUSION
+
+Although aortic dissections have a relatively low incidence, they have a high mortality rate acutely and it is essential for the general internist to diagnose rapidly.
+
+# SMALL CELL LUNG CANCER PRESENTING AS LIMBIC ENCEPHALITIS
+
+Muqsita Nashat1; Sheetal Patel2; M.Azam Mohiuddin2. 1Mercy Nazareth Hospital, Hamilton, NJ; 2Mercy Nazareth Hospital, Philadelphia, PA. (Control ID #3184442)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize limbic encephalitis as a paraneoplastic syndrome secondary to malignancy.
+
+# CASE
+
+A 58 year old female presented with sudden onset of impaired short term memory of few days duration. Past history includes prediabetes and hyperlipidemia. She is a smoker since age 17 and drinks three glasses of wine every weekend. Her only medication is multivitamin once daily. Physical exam was normal except for a right Hoffman and left extensor plantar reflex and her Folstein score was 25/30. Chest x-ray was normal. MRI brain showed mild small vessel ischemic change without acute intracranial abnormality. She was discharged with a clinical diagnosis of TIA of bilateral posterior cerebral arteries affecting temporal lobes and hippocampus. She was readmitted 48 hours later with new onset seizure and worsening memory. Repeat MRI brain showed hyperintense signal abnormality involving the medial temporal lobes and para hippocampal regions suggestive of infectious or limbic encephalitis. Her CSF showed normal WBC, protein and was negative for JC virus, HSV, Lyme disease and malignant cells. A CT chest showed enlarged right precarinal and paratracheal lymph nodes and biopsy confirmed metastatic small cell neuroendocrine carcinoma. She was discharged home and had outpatient chemotherapy with improvement in memory and remission of cancer.
+
+# IMPACT/DISCUSSION
+
+Limbic encephalitis represents a group of autoimmune conditions characterized by inflammation of the limbic system and is commonly associated with paraneoplastic process, infection or autoimmune diseases. Paraneoplastic limbic encephalitis (PLE) can present with acute or subacute onset of mood changes, memory loss, seizure or cognitive dysfunction. The neuropsychiatric symptoms can be present without tumor cell invasion which is caused by an immune response directed to the central nervous proteins which are similar to tumor antigens leading to perivascular.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# DISSEMINATED HISTOPLASMOSIS IN IMMUNOCOMPROMISED PATIENTS
+
+Disseminated histoplasmosis occurs mostly in immunocompromised patients. Fever, weight loss, hepatosplenomegaly, lymphadenopathy, and mucocutaneous lesions are common presenting findings. Common labs include pancytopenia, transaminitis, and elevated ferritin and LDH. Chest X-rays can have a miliary pattern. Diagnosis is made by blood or tissue cultures in 65% of cases, but this may take 2-8 weeks. Histoplasma urine and serum Ag combined have 95% sensitivity. Rapid diagnosis may be made from buffy coat or peripheral smear of blood in up to 50% of cases, as in our case. Histologically, Histoplasma capsulatum appear as intracellular round yeast in leukocytes and are associated with disseminated disease and worse prognosis. Standard treatment is liposomal amphotericin B and should be started immediately as the disease is usually fatal within 2-12 weeks.
+
+# CONCLUSION
+
+Suspect disseminated histoplasmosis in immunocompromised patients from endemic areas with sepsis, bilateral pulmonary infiltrates, pancytopenia, and elevated LDH and ferritin. Direct examination of blood through smear or buffy coat is a specific test that can provide a rapid diagnosis when positive since Histoplasma Ag, cultures, or tissue biopsy have a long turnaround time. Empiric therapy should be considered in immunocompromised patients with a clinical picture consistent with disseminated Histoplasmosis before laboratory confirmation.
+
+# THE LIMITS OF RELIGIOUS AND MEDICAL BELIEF: AN ETHICAL LESSON
+
+Kevin Liu. Beth Israel Mount Sinai, New York, NY. (Control ID #3186411)
+
+# LEARNING OBJECTIVE #1
+
+In the chronic setting, severely anemic levels can be tolerated as long as no signs of organ failure or hemodynamic instability are present.
+
+# LEARNING OBJECTIVE #2
+
+In the chronic setting, severely anemic levels can be tolerated as long as no signs of organ failure or hemodynamic instability are present.
+
+# CASE
+
+A 35 year old female with past medical history of CKD stage 5, and intellectual disability presented to the hospital with menorrhagia and severe anemia of a hemoglobin of 2.6 g/dL and undetectable reticulocyte count. Patient vital signs did not show signs of hemodynamic instability. On physical exam patient was not showing signs of distress, pale, but otherwise unremarkable exam. The parents had legal guardianship papers, which stated that they were Jehova's Witnesses and refused blood products for their child. The intensive care unit was consulted, and brought the patient into the critical care unit for further observation of decompensation. The parents provided paperwork stating they could withdraw life-sustaining measures: Because their request to withhold blood was on a religious basis, and the patient had an intellectual disability that prevented her from expressing religious belief, the particular life-saving measure of blood transfusion was religious rather than out of futility, blood could not be held from the patient in life-saving circumstances. The patient began showing signs of liver damage through rising liver enzymes, and troponin rose from 0.139 to 0.200, showing signs of possible organ damage secondary to severe anemia. Given continued hemodynamic stability and no overt signs of organ failure, no transfusion was given at this time. The patient's labs eventually trending towards recovery, and the patient was eventually able to be discharged with gynecology follow-up for the initiation of a contraceptive.
+
+# IMPACT/DISCUSSION
+
+Cognitive function tends to decline at around hemoglobin of 5 g/dL in the acute setting, in chronic states allowing time for compensation, lower hemoglobin levels can be achieved. The resilience of the human body in these extreme circumstances has been seen in other case reports, mainly of Jehova's Witnesses. Adults with decision-making capacity have the right to refuse life-saving therapy. In this case, the patient is a protected population due to intellectual disability. In the case of HCA Inc v Miller, where life-sustaining treatment was provided for a child despite parents wishes, and ultimately the court ruled in favor of the physicians who helped the child. This case demonstrates that in a population that cannot speak for itself, if there is a life-saving treatment without demonstrated futility, it should be provided.
+
+# CONCLUSION
+
+The practice of medicine should blend science and humanity together in order to make the best possible outcome. But, the most important thing is the patient's life and wishes, and if he/she cannot speak for themselves, we must take it upon ourselves as physicians to protect them.
+
+# THE MYSTERY COUGH: UNCOMMON CAUSES OF CHRONIC COUGH
+
+Hassan A. Raza; Adam Hines; Arineh Melkonian; Cindy Sadikot. New York Presbyterian Queens, Dix Hills, NY. (Control ID #3175692)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the differential diagnosis of a chronic cough, including its uncommon causes.
+
+# LEARNING OBJECTIVE #2
+
+Recognize anchoring and availability biases as significant causes of delays in diagnosis.
+
+# CASE
+
+A 53-year-old man with no smoking history presented to the primary care clinic with persistent productive cough with white sputum and wheezing of 3 months duration. He initially presented to an urgent care center and our ED, was diagnosed with sinusitis and treated with steroids and antibiotics without relief. He had been using an albuterol inhaler with some relief of symptoms. He was suspected to have some form of reactive airway disease, exacerbated by his exposure to dust particles during his work as a mechanic. He was recommended to wear a mask at work, continue albuterol as needed, and to obtain pulmonary function testing when his symptoms resolve. One week later, his symptoms progressed with worsened wheezing and scant hemoptysis. As he had a history of latent tuberculosis (TB) and unresolved symptoms, a computed tomography scan of the lung without contrast was pursued. It showed a linear radiopaque density identified within the bronchus intermedius, extending into the right lower lobe bronchus, consistent with a radiopaque foreign body. He subsequently underwent flexible bronchoscopy and had the foreign body removed. On pathology, it was noted to be consistent with a fishbone. After the procedure, his symptoms completely resolved.
+
+# IMPACT/DISCUSSION
+
+Chronic cough affects roughly 12% of the general population on a daily or weekly basis, significantly decreasing a patient's quality of life. Respiratory diseases, including chronic cough, is the most common reason for an adult to visit their primary care physician. The 3 most common causes of chronic cough include: post-nasal drip syndrome, asthma, and gastroesophageal reflux disease. Less common causes include: bronchiectasis, lung cancer, and aspiration (food in adults, foreign bodies in children). Our patient did not recall coughing or choking during any of his meals prior to onset of symptoms. This missing piece of information made this diagnosis more of a challenge. In one study, the most common symptoms of foreign body aspiration were chronic cough, hemoptysis, fever, and dyspnea, and only 7% of patients presented with choking. This case also demonstrates anchoring and availability bias, problems of which are common in the primary care setting. His partial response to bronchodilators, and the high prevalence of TB in our community delayed his diagnosis, leading to significant morbidity. We feel this case adds to the medical literature by emphasizing the less common causes of chronic cough.
+
+# CONCLUSION
+
+Chronic cough is associated with significant morbidity and decline in quality of life for patients, in which it is imperative for a general internist to maintain broad differential diagnoses. An absence of a history of choking during meal ingestion does not effectively rule out a foreign body aspiration as the etiology for chronic cough.

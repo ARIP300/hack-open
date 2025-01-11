@@ -1,0 +1,35 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+The sample included 15,201 patients; 56% female, 70% white and mean age was 70 years (Standard Deviation (SD): 16); 54% had a history of chronic pain, 38% had a history of a psychiatric diagnosis, and 16% had prior opioid use. The average maximum pain score was 6.3 (SD=3.7). Overall, 66% of patients received opioids during their hospitalization. In the overall mixed effects model, opioid receipt was associated with male gender (OR: 1.16, 95% CI: [1.08 - 1.25]), maximum pain score (OR per point: 1.31, CI: [1.29 - 1.33]), history of chronic pain (OR: 1.45, CI: [1.25 - 1.68]), and prior opioid use (OR: 1.84, CI: [1.58 - 2.14]). Black patients were less likely to receive opioids than whites (OR: 0.67, CI: [0.59 - 0.77]) and patients 65 years and over were less likely to receive opioids than those under 50 years (OR: 0.76, CI: [0.66 - 0.86]). Patients with a history of a psychiatric diagnosis were less likely to receive opioids than without (OR: 0.78, CI: [0.72 - 0.84]). In the model stratified by prior opioid use, there was no difference by race in the odds of opioid receipt for those with prior use, but among those without prior use, black patients were less likely to receive opioids than whites (OR: 0.55, CI: [0.49 - 0.63]).
+
+# CONCLUSIONS:
+
+Receipt of opioids during an acute medical hospitalization varies by clinical and patient characteristics, including race and gender. Guidelines to support evidence-based opioid prescribing during medical hospitalizations are needed to promote appropriate pain management for all patients.
+
+# RESULTS:
+
+There was geographic variation in participation, with BPCI-Advanced engaging 66 new markets. Most were located in central rather than coastal US regions. New and continuing PGP participants differed with respect to several characteristics. New groups were less likely to be multispecialty (96.9% versus 99.9%), hospital-affiliated (91.2% versus 97.3%), and urban (96.4% versus 98.1%) (p<0.001 for all). New PGPs also employed different and more diversely represented specialty types than continuing groups. Among BPCI-Advanced hospitals, new participants were smaller (mean hospital beds 276 versus 341, p=0.001), lower volume (mean annual Medicare admissions 4,740 versus 6,861, p<0.001), and less likely to be not-for-profit (62.1% versus 71.6%, p=0.04) and teaching (58.7% versus 76.9%, p<0.001) (Table). New and continuing hospitals did not vary with respect to safety-net status, financial measures, or readmission rates.
+
+# CONCLUSIONS:
+
+Differences between new and continuing PGP and hospital participants suggests that BPCI-Advanced at least in part prompted some new organization types to engage in Medicare bundled payments rather than only attracting "more of the same".
+
+# CHARACTERISTICS OF USE OF SELF-MONITORING OF BLOOD GLUCOSE IN PATIENTS WITH NON-INSULIN DEPENDENT TYPE 2 DIABETES
+
+Kaitlin Keenan; Elizabeth Pfoh; Anita D. Misra-Hebert; Michael B. Rothberg. Cleveland Clinic, Cleveland, OH. (Control ID #3185182)
+
+# BACKGROUND:
+
+For patients with Type 2 Diabetes (T2D) not on insulin, self-monitoring of blood glucose (SMBG) does not reduce HbA1c, and has been identified by SGIM as low value care. Knowing which patients are using SMBG and whether rate of use differs across physicians can inform interventions to reduce its use.
+
+# METHODS:
+
+This retrospective study included adults with T2D who had a primary care visit at an integrated health center between 2013 and 2015. Patients were excluded in years they received an insulin prescription. Each year, we defined SMBG use based on receiving 1 prescription for blood glucose strips. We calculated the number of strips prescribed per day by multiplying the quantity of strips by the number of refills and dividing by 365. A hierarchal multivariate logistic regression clustered within patient and physician tested the relationship age, sex, race, smoking status, insurance, duration of diabetes, HbA1c value, Charlson comorbidity index and use of SMBG. To assess provider variation, we calculated the mean and 95% confidence interval (CI) for the rate of SMBG prescriptions for each provider with 30 patients. Physicians were classified as low prescribers if their 95% CI was below the mean prescribing rate and high prescribers if their 95% CI was above.
+
+# RESULTS:
+
+Our sample included 41,257 people who had a mean age of 63, were 51% female and 75% white. Use of SMBG increased slightly from 26% in 2013 to 29% in 2015 (p<0.01). In 2015, 48% of SMBG users were prescribed less than one strip per day. SMBG users had a higher HbA1c than non-users (7.2 vs 6.7, p<0.01) but had been diagnosed with diabetes for a similar number of years (3.6 vs 3.5). In the regression model government insurance (vs private adjusted odds ratio (AOR) 1.52, 95%CI:1.39-1.65), years with diabetes (AOR: 1.03, 95%CI: 1.02-1.04 per 1 year), increased HbA1c (AOR: 1.50, 95%CI: 1.46-1.52 per 1 point) and higher Charlson comorbidity index (AOR: 1.08, 95%CI: 1.05-1.11 per 1 point) were significantly associated with SMBG. Among patients with newly diagnosed with T2D in 2013, SMBG use was similar in 2013 and 2015 (26% vs 28%, p=0.12). SMBG users had higher HbA1c values than nonusers (difference = 0.42 in 2015, p<0.01). On average, physicians prescribed SMBG to 29% of their T2D patients not using insulin (range: 0.03% to 73%); 30% of physicians were high.

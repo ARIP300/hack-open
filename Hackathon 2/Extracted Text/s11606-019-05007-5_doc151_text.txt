@@ -1,0 +1,62 @@
+# ABSTRACTS JGIM
+
+# Monthly emergency department visit rates before and after creation of an urgent care clinic (UCC) for cancer patients
+
+| |Before UCC|After UCC|
+|---|---|---|
+|Slope|0.43|0.19*|
+|Slope|0.08|0.05|
+
+2009Jan 2010 2011 2012 Year 2013 2014 2015 2016Jan 2016Dec
+
+Observed Weekend emergency department visit rate
+
+Predicted baseline trend before UCC
+
+Modeled trend before and after UCC
+
+Observed Weekday emergency department visit rate
+
+Predicted baseline trend before UCC
+
+Modeled trend before and after UCC
+
+# IMPACT OF A STATE OPIOID PRESCRIBING LIMIT AND ELECTRONIC MEDICAL RECORD ALERT ON ACUTE OPIOID PRESCRIPTIONS: A DIFFERENCE-IN-DIFFERENCES ANALYSIS
+
+Margaret Lowenstein 1, 2; Erik Hossain 3; Wei Yang 1; David Grande 1, 4; Jeanmarie Perrone 1; Mark D. Neuman 1; Michael Ashburn 1; M. Kit Delgado 1, 1. 1 Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA; 2 C. Michael J. Crescenz VA Medical Center, Philadelphia, PA; 3 Penn Medicine, Philadelphia, PA; 4 Leonard Davis Institute of Health Economics, Philadelphia, PA. (Control ID #3155039)
+
+# BACKGROUND:
+
+One strategy thought to prevent chronic opioid use and misuse is judicious opioid prescribing for acute pain. Over half of US states have passed legislation limiting the duration of new opioid prescriptions for acute pain, but there is limited evidence about the impact of these policies. In May 2017, New Jersey enacted a required five-day limit on new opioid prescriptions. In response to the law, the University of Pennsylvania Health System (UPHS) also implemented a non-mandatory electronic medical record (EMR) alert in NJ to notify providers if prescriptions did not meet the five-day requirement. Our aim was to understand the impact of the policy and EMR alert on characteristics of new opioid prescriptions and potential unintended consequences.
+
+# METHODS:
+
+We evaluated changes in prescription characteristics for initial opioid prescriptions written for adults in UPHS ambulatory practices in both NJ and PA from one year prior to the implementation of the NJ prescribing limit (5/15/16-5/15/17) through 10 months after (5/16/17-3/15/18) using EMR data (Epic Systems). We excluded prescriptions for patients with cancer or enrolled in hospice or palliative care. The primary outcome was change in morphine milligram equivalent (MME) for new opioid prescriptions following the implementation of the law plus EMR alert. We also examined tablet quantity/initial prescription, refills within 30 days, utilization (clinic, ED, inpatient visits) and communication (telephone encounters) for these periods. We performed a difference-in-differences analysis comparing outcomes in NJ practices with control practices in PA, adjusted for patient and clinic characteristics and clustering by provider.
+
+# RESULTS:
+
+There were a total of 668 new prescriptions in NJ and 4368 in PA. Prior to the intervention, median MME/prescription was 225 mg in NJ and 150 mg in PA, and median quantity was 30 tablets in both states. After implementation, median MME in both states was 150 mg, and median quantity was 20 in NJ and 30 in PA. After adjustment for patient and practice characteristics, there was a greater decrease in both mean MME and tablet quantity in NJ relative to PA after implementation of the policy plus alert (-82.99 MME/prescription, 95% CI -148.15 to -17.84 and -10.41 tabs/prescription, 95% CI -19.70 to -1.13). There were no significant differences for change in refills, telephone calls, ambulatory or emergency department visits, or admissions based on exposure to the policy and alert.
+
+# CONCLUSIONS:
+
+Implementation of a state prescribing limit accompanied by an EMR alert was associated with a 30% greater decrease in volume of opioids per new prescription in NJ compared to controls in PA without changes to rates of refills, calls, or visits. The combination of prescribing limit policies and EMR alerts may be an effective strategy to influence prescriber behavior. Further evaluation will be needed to evaluate the impact on downstream outcomes.
+
+# IMPACT OF AN INTEGRATED CLINICAL PREDICTION RULE ON ANTIBIOTIC PRESCRIPTION RATES FOR ACUTE RESPIRATORY INFECTIONS IN DIVERSE PRIMARY CARE SETTINGS.
+
+Devin M. Mann 1; Rachel Hess 5; Thomas McGinn 2; Simon Jones 1; Joseph Palmisano 3; Safiya Richardson 2; Sara K. Chokshi 1; Catherine Dinh-Le 1; Linda S. Park 4; Rebecca G. Mishuris 3; Paul Smith 4; Ainsley Huffman 5; Sundas Khan 2; David Feldstein 4. 1 NYU School of Medicine, New York, NY; 2 Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY; 3 Boston University School of Medicine, Boston, MA; 4 University of Wisconsin School of Medicine and Public Health, Madison, WI; 5 University of Utah School of Medicine, Salt Lake City, UT. (Control ID #3185043)
+
+# BACKGROUND:
+
+Clinical decision support (CDS) tools which incorporate clinical prediction rules (CPRs) have the potential to successfully deliver accurate information and guide decision-making at the point of care. Our previously validated integrated clinical prediction rule (iCPR) was designed to guide evidence-based treatment within an electronic health record for streptococcal pharyngitis and pneumonia based on chief complaints of sore throat, cough or upper respiratory infection. In initial testing at a single site, it resulted in high provider tool adoption (58%) and decreased antibiotic prescribing rates (35%) for acute respiratory infections. Our objective for this study was to assess the impact of this tool when adapted and implemented in diverse primary care settings.
+
+# METHODS:
+
+This was a randomized controlled trial including 33 primary care practices at two large academic health systems in Wisconsin and Utah. Between October 2015 and June 2018 providers in the intervention group were prompted to complete either Centor Score or Heckerling Rule for Pneumonia based on the chief complaint of the patient encounter. EHR data on provider and patient demographics, tool use rates, and antibiotic order rates from 541 providers and 100,573 monitored patient encounters were collected for analysis. Risk ratios, CIs, and P values are calculated from a generalized estimating equation log-binomial model adjusting for clustering of orders or visits by provider and using robust standard error estimators.
+
+# RESULTS:
+
+The tool was triggered 42,126 times among 214 intervention providers and was completed in 6.9% of eligible visits. The intervention and control groups prescribed antibiotics in 35% and 36% of visits respectively and were not significantly different. There were no differences in rates for rapid streptococcal test or chest x-ray orders between groups (Strep: relative risk, 1.0; P=.11; Pneumonia: relative risk, 1.8; P=.64).
+
+# CONCLUSIONS:
+
+In diverse primary care settings, the tool was not effective at reducing unnecessary antibiotic prescription and diagnostic testing. This outcome was possibly driven by low overall use of CDS tools highlighting the growing impact of "alert fatigue" and the need for further evaluation.

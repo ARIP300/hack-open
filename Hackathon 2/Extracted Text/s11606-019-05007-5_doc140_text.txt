@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# discontinuation and actual discontinuation.
+
+Thereafter, residents were provided real-time statistics of their individual performance relative to peers at the clinic and residency level. Next, they were given the opportunity to set specific goals and methods for improvement. In Phase 2, chart review was re-performed with repeat real-time data presentation to assess whether audit-and-feedback methods and goal setting increased rates of medication discontinuation conversations and actions.
+
+# RESULTS:
+
+Overall, 1,559 unique patient encounters were reviewed during the study period (853 pre-intervention and 706 post-intervention) by a total of 72 residents. On average, patients in both phases were receiving similar numbers of medications prior to their reviewed visit (11.1 meds in Phase 1 vs. 10.9 in Phase 2, p=0.58). There were no statistically significant differences in the proportion of patients over the age of 65 years in each phase (42.7% vs. 47.0%, p=0.09), nor the proportion deemed by resident primary care physicians to be at-risk for polypharmacy (55.9% vs. 55.7%, p=0.92). While rates of discussing cessation of a medication within a clinical encounter increased by 32.3% between phases (28.1% in Phase 1 vs. 37.2% in Phase 2, p<0.01), no similar increase in actual medication discontinuation was found (19.1% vs. 20.8%, p=0.39).
+
+# CONCLUSIONS:
+
+Audit-and-feedback QI methods led to an increase in conversations regarding medication discontinuation in resident primary care encounters; however, rates of actual medication discontinuation did not increase. These findings may suggest that, even in patients deemed at high risk of medication complications, many medications may be necessary to manage chronic medical conditions. Alternatively, patients may require multiple conversations or encounters to reduce or eliminate certain medications (such as proton pump inhibitors or opioids) given chronic symptoms.
+
+# HIGHER PERCEIVED SOCIAL SUPPORT CORRELATED WITH LOWER BURNOUT IN MEDICAL STUDENTS
+
+Brittany Smith; Justine E. Owens; Tabor E. Flickinger; John Schorling; Margaret L. Plews-Ogan; Rachel H. Kon. University of Virginia, Charlottesville, VA. (Control ID #3185641)
+
+# BACKGROUND:
+
+Each year, medical educators dedicate more effort towards preventing burnout in their medical trainees. The Maslach Burnout Inventory (MBI) assesses emotional exhaustion (EE), depersonalization (DP), and low sense of personal accomplishment (PA) as the three main determinants of burnout. Previous papers hypothesize personal life events, such as illness or death of family members may contribute to EE, and that workplace cynicism toward the chronically ill may be contributory to the development of DP. Other studies show social support from family, friends, fellow students, teachers, and social groups correlate negatively with mental health problems. We conducted a study to assess the relationship between perceived social support and burnout levels in medical students during each year in school to determine importance of structured social opportunities to promote trainees' wellness and reduce likelihood of burnout.
+
+# METHODS:
+
+All medical students at the UVA School of Medicine were sent an annual online survey from 2014-2018. The survey included the 22-item MBI, demographic information, and five items using a 5-point Likert scale to assess students' perception of support provided by their family, friends, faculty members, administration, and deans. Pearson correlation was used to measure the relationship between perceived support and burnout domains (EE and DP) for each year of training.
+
+# RESULTS:
+
+Of 2509 students eligible, 1371 surveys were completed for all years with response rates of 48%, 42%, 45%, and 44% for each year in school respectively. Fifty-two percent of participants who completed the survey were female. In year 1, of the five categories of support, perceived support from friends had the strongest inverse correlation with EE (r= -0.312, p <0.000). In year 2, perceived support from administration and faculty had a moderate inverse correlation with EE (r= -0.353, p <0.000 and r= -0.330, p<0.000, respectively). In year 3, perceived support from faculty and administration had moderate inverse correlations with EE (r= -0.403, p <0.000 and r= -0.398, p<0.000, respectively). In year 4, perceived support from faculty and administration had moderate inverse correlations with EE (r= -0.401, p <0.000 and r= -0.317, p<0.000, respectively). Similarly categories of social support were significantly inversely correlated with DP, but were more strongly correlated to EE.
+
+# CONCLUSIONS:
+
+During the first year of training, perceived social support from friends seems to most strongly mitigate EE in medical students. However, as medical students enter their 3rd and 4th years in training, particularly when burnout is highest, perceived social support from faculty and administration seems to counter EE more. Further studies investigating students' specific definitions of social support from faculty, administration, and friends, may give educators insight into which social interactions are beneficial at lowering burnout levels at each stage of medical school.
+
+# HOME HEALTHCARE DELIVERY IN HEART FAILURE: WORKFLOW, CHALLENGES, AND POTENTIAL SOLUTIONS
+
+Madeline R. Sterling1; Nicola Dell2; Benedetta Piantella3; Jacklyn Cho4; Harveen Kaur1; Emily Tseng2; Fabian Okeke2; Mikaela Brown2; Peggy B. Leung1; Ariel F. Silva1; Amy L. Shaw1; Faith Wiggins5; Lisa M. Kern1. 1Weill Cornell Medicine, New York, NY; 2Cornell Tech, New York, NY; 3New York University, New York, NY; 4Cornell University, Ithaca, NY; 51199-Home Care Industry Education Fund, New York, NY. (Control ID #3181586)
+
+# BACKGROUND:
+
+Reducing hospital readmissions for heart failure (HF) patients is a national priority. Data suggest that readmission rates are particularly high among HF patients who require home healthcare (HHC) after discharge. One possible reason is that the workflow of HHC may not be optimized. Since the exact workflow of HHC is not well described, pinpointing opportunities for interventions has been difficult. To better articulate the workflow of HHC for HF patients and identify challenges and opportunities for improvement, we elicited the perspectives of key stakeholders, including home health aides, who—despite being the minute-to-minute observers of HF patients—have not been included in research.
+
+# METHODS:
+
+We conducted a qualitative study using a combination of interviews and focus groups with home health aides, nurses, HF patients, family caregivers, physicians, social workers, home care agency leaders, and policy experts in NYC. We used a combination of purposeful and convenience sampling. To elicit participants' experiences with HHC in HF, we used a semi-structured topic guide. We also asked selected participants to draw their understanding of HHC post-hospitalization workflow for HF patients. Interviews were recorded, transcribed and analyzed thematically. Drawings were synthesized into a final image.
+
+# RESULTS:
+
+80 participants were recruited from 10 home care agencies, 1 academic medical center, and 1 nonprofit organization. Participants described HHC for HF patients occurring in 6 steps, with home health aides playing a main role: 1) Transitioning from hospital to home; 2) Recognizing clinical changes; 3) Making decisions; 4) Managing symptoms; 5) Asking for help; and 6) Calling 911. For each step, challenges and solutions were identified. In Step 1, participants reported that care was poorly coordinated among providers, with information lost in translation: "I send the discharge summary to the agency, but it never gets to the patient's aide." To address this, they proposed a handoff process between hospital and home providers. The leading issue for Steps 2, 3, and 4 was that despite providing the most patient care, home health aides do not receive HF training: "Picking up on symptoms and knowing what to do requires training." Participants recommended a HF training course for home health aides. In Step 5, participants were frustrated by communication: "I call the agency or the hospital, but I can't get through so I call 911!" Due to this, many felt tech-based innovations could improve connectivity for the escalation of care. Lastly, participants felt that tackling these issues could reduce 911 calls (Step 6) and potentially readmissions.
+
+# CONCLUSIONS:
+
+Our findings suggest that HHC for HF patients occurs in a series of discrete steps, each plagued with different challenges. Rather than a one-size-fits all approach, it is likely that a variety of different interventions will be required to optimize HHC delivery for HF patients in the post-discharge period.

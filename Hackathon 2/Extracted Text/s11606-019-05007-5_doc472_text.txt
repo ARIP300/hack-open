@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #2:
+
+Assessment and management of intoxication, withdrawal and detoxification of kratom Recognize the legality and regulation of kratom in the U.S.
+
+# CASE:
+
+We present a case of a 25 year old male who presented to an inpatient rehabilitation and detoxification center requesting help for an addiction to kratom. He disclosed a history of IV heroin use 2 years earlier, which he stated he was able to wean himself from using kratom. He endorsed ingesting kratom powder up to 40 grams twice daily for the last 2 years. The patient recognized his tolerance and ultimately his addiction, but attempting to quit "cold turkey" caused him to develop symptoms of myalgias, chills, diarrhea, rhinorrhea, arthralgias and fatigue. Given his apparent tolerance and withdrawal symptoms similar to that of a true opioid withdrawal, he was managed with a buprenorphine taper, which adequately allowed him to successfully complete detoxification.
+
+# IMPACT/DISCUSSION:
+
+The substance called kratom has recently gained more recognition on the streets and in admissions to detoxification centers. Kratom (Mitragyna speciosa) is a plant indigenous to Southeast Asia and Thailand. At different concentrations of its leaves, ingestion will produce both stimulant and opioid-like effects, with studies showing its mode of action by binding mu opioid receptors. One online "Kratom User Guide" suggests that 1-5 grams elicit a stimulant effect and higher doses of 5-15 grams cause opioid-like effects. Intoxication at higher doses in long-term users or in acute toxicity has been reported to cause seizures and hepatotoxicity. The CDC has even traced kratom to a multi-state outbreak of salmonella. There is a noticeable increase in the number of articles referencing kratom, as well as an increasing amount of vendors and general information websites for kratom in the past few years which may suggest a greater overall demand.
+
+# CONCLUSION:
+
+Kratom is an addictive substance whose use has actually been outlawed in many Southeast Asian countries. In the US, kratom is legally regulated as an herbal product under US law, FDA and DEA policies, and is therefore considered a legal substance in the United States. That being said, the Drugs and Chemicals of Concern list states, "There is no legitimate medical use for kratom in the U.S." In 2016, the DEA planned to classify kratom as a schedule I drug; however the DEA received significant challenges from the public and ended up releasing a withdrawal of notice of intent. In the time of writing this, kratom is still not a scheduled drug. As it remains easily accessible in local tobacco shops and online, we must be aware of its existence and use pattern as well as its effects, abuse potential and addictive properties.
+
+# LACTIC ACIDOSIS: WHO IS TO BLAME?
+
+Mohamed Gabr; Isaac Leader. Montefiore Medical Center (Wakefield Campus), Bronx, NY. (Control ID #3183342)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize lactic acidosis as a common finding in inpatient settings
+
+# LEARNING OBJECTIVE #2:
+
+Identify causes of lactic acidosis and rule out serious etiologies
+
+# CASE:
+
+A 68 year-old man presenting with chest pain was found incidentally to have lactic acidosis. His past history included diabetes mellitus, ischemic heart disease, chronic hepatitis C, alcohol abuse, and cocaine abuse. His last reported cocaine use was two days prior to presentation and last alcohol use was the morning of presentation. Physical examination was unremarkable except for mild abdominal tenderness. Myocardial infarction was ruled out with negative troponins. Lactic acid level was 13.2 mmol/L (normal <2), with a pH of 7.2 and a sodium bicarbonate level of 15 mmol/L (normal 22-28). Blood glucose level was normal and the anion gap was 36. Liver function tests revealed an AST of 76 U/L (normal <50) and ALT of 50 U/L (normal <40). Urine drug screen was positive for cocaine and blood ethanol level was normal. Computed tomography scan revealed no evidence of bowel ischemia. Review of systems and bloodwork were not suggestive of any infectious processes, and vital signs were normal except for elevated blood pressure. Home medications were aspirin, atorvastatin, amlodipine, famotidine, and metformin; metformin was held at admission. His symptoms gradually improved and lactic acid levels returned to normal. He was counseled regarding alcohol and cocaine cessation and metformin was discontinued.
+
+# IMPACT/DISCUSSION:
+
+Lactic acidosis is defined as serum pH of less than 7.35 with a lactate level greater than 4 mmol/L. It is commonly classified into type A acidosis, occurring as a result of tissue hypoxia with overproduction of lactic acid, or type B acidosis due to causes unrelated to hypoxia. Causes of type A acidosis include sepsis, shock, cardiac failure, hypovolemia, and other causes of hypoperfusion. Physical examination, vital signs, and other signs of tissue perfusion such as urine output and mental status may provide hint. Type B acidosis may be present in ethanol intoxication, hepatic dysfunction due to chronic alcoholism, malignancy, mitochondrial dysfunction, or due to medications (e.g. beta agonists, antiretrovirals, linezolid, and propofol). It may also occur in diabetes mellitus, whether in the setting of diabetic ketoacidosis or due to medications such as biguanides. D-lactic acidosis is another rare cause that occurs as a result of fermentation of carbohydrates by gut bacteria in cases of malabsorption or short bowel syndrome. In our patient's case, it appeared that several factors might have contributed to his type B acidosis, including alcohol use, drug use, liver disease, and metformin.
+
+# CONCLUSION:
+
+Physicians should promptly aim to identify the etiology of lactic acidosis. Type A lactic acidosis may indicate the presence of a more serious process that warrants urgent treatment. After confidently ruling out Type A, Type B acidosis can be considered through a careful review of patients' medical histories, habits, and medications.
+
+# L A M B L ' S E X C R E S C E N C E S M A S Q U E R A D I N G A S ENDOCARDITIS
+
+Navid Berenji1; Abdulrahman S. Museedi1; Ermias Sori1; Omar Sheikh1; Rushit Kanakia 2. 1 UT Health San Antonio, San Antonio, TX; 2UTHSCSA, San Antonio, TX. (Control ID #3186025)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize importance of anticoagulation in Lambl's excrescences
+
+# LEARNING OBJECTIVE #2:
+
+Assess role of Positron Emission Tomography scans in complex cases of infective endocarditis
+
+# CASE:
+
+A 58-year-old woman with hypertension and multiple cerebrovascular accidents presented with fever and headache. Patient had recently presented with left upper extremity weakness, headache and blurry vision for which evaluation led to revealing several foci involving bilateral hemispheres on brain MRI. As part of the work up, trans-esophageal echocardiography (TEE) revealed small echodensities on aortic and mitral valves concerning for vegetations in setting of septic emboli. Thorough work up for infectious endocarditis, including blood cultures and serology, as well as autoimmune work up was negative. Diagnosis of culture-negative endocarditis was given and patient was started on broad-spectrum antibiotics with termination of anticoagulation therapy, as she was previously on Apixaban. She continued to have episodic fevers and a new rash, which biopsy revealed to be due to medication reaction secondary to antibiotics. Repeat TEE one month later revealed stabilized sub-centimeter echodensities in aortic and mitral valves, suspecting Lambl's excrescences (LE) over septic or thrombotic emboli. Positron emission tomography (PET) scan was negative on the vegetation and potential metastatic sites to include brain lesions. Patient was started on warfarin.
+
+# IMPACT/DISCUSSION:
+
+Lambl's excrescences are small filamentous strands, which extend from the margins of the valves, especially mitral and aortic valves. LE, previously thought to be benign due to degenerative process, have been associated with few cases of embolic strokes. Given risks associated with surgery and obtaining a biopsy of these lesions, echocardiography remains a valuable tool in distinguishing LE. LE is a diagnosis of exclusion thus thorough work up is granted for every patient. In our patient, nonbacterial thrombotic endocarditis such as marantic.

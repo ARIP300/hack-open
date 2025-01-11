@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+A total of 26 randomized controlled trials comprising 43,119 patients were included in the primary analysis. Using a random effect model, patients who received a SGLT2I had a lower hemoglobin A1c when compared to placebo or other antihyperglycemic agent (mean effect size = -0.29, 95% CI -0.38 to -0.20), however heterogeneity was high (Cochran's Q = 297, I2 = 0.92). Patients receiving SGLT2Is also had lower all-cause mortality (OR 0.77, 95% CI 0.67-0.90), and results were not heterogeneous (Cochran's Q = 23, I2 = 0).
+
+# CONCLUSIONS:
+
+In this systematic review and meta-analysis, patients who received SGLT2Is when compared to placebo or other antihyperglycemic agent had significantly lower hemoglobin A1c levels and mortality rates. Subsequent analyses of changes in cardiovascular risk factors, adverse events, and costs will be needed to help inform future healthcare policy decisions.
+
+# EFFICACY, CLINICALLY MEANINGFUL RESPONSE, AND EARLY EFFECT OF FREMANEZUMAB IN PATIENTS WITH CHRONIC MIGRAINE
+
+Stephen D D. Silberstein 1; David W. Dodick 2; Joshua M. Cohen 3; Ronghua Yang 3; Melissa Grozinski-Wolff 3; Xiaoping Ning 3; Andrea Hinds 3; Verena Ramirez Campos 3. 1 Jefferson Headache Center, Philadelphia, PA; 2 Mayo Clinic, Phoenix, AZ; 3 Teva Pharmaceuticals, Frazer, PA. (Control ID #3185665)
+
+# EFFICACY OF A MULTI-LINGUAL MOBILE APP TO INCREASE HEPATITIS B AND C SCREENING AMONG ASIAN AMERICANS
+
+Tung T. Nguyen 1; Mandana Khalili 1; Janice Y. Tsoh 1; Judith M. Walsh 2; L. E. Goldman 1; Arcadi Kolchak 3; Ginny Gildengorin 1; Ching Wong 1; Ivy Lau 1; Vi-Van Nguyen 1. 1 University of California San Francisco, San Francisco, CA; 2 UCSF, San Francisco, CA; 3 San Francisco Hep B Free, San Francisco, CA. (Control ID #3185711)
+
+# BACKGROUND:
+
+There are few studies of technological interventions to address health promotion and patient-provider communication for Asian Americans, who have significant health disparities, including high rates of chronic hepatitis B but low screening rates. There are also few interventions to promote screening for hepatitis C among the appropriate risk groups in this population.
+
+# METHODS:
+
+Using stakeholder-engaged methods, we developed an iPad app in English, Cantonese, Mandarin, and Vietnamese with: questions about personal risks and beliefs related to hepatitis B and C and their screening; tailoring audio-visual messages delivered by doctors to address patient's responses; and a printout summarizing the patient's situation and recommendations to give to primary care providers (PCPs). PCPs and their patients at two health systems were cluster randomized by provider to the intervention or comparison arm. Eligible patients were Asian Americans age 18+, spoke one of the languages, and had no history of hepatitis B screening. In both arms, PCPs received a list of patients with no testing for hepatitis B every 6 months. Prior to a PCP visit, intervention participants used the app while comparison participants learned about nutrition and physical activity. Data sources included electronic health record (EHR) and surveys conducted prior to, immediately after, and 3 months after the visit. Analyses were conducted using an intent-to-treat approach and accounting for provider clusters. The dependent variables were. Generalized linear mixed-effects models (GLMM) were constructed to test the hypotheses that the intervention increased patient-provider discussion and receipt of hepatitis B or C screening in the appropriate risk groups.
+
+# RESULTS:
+
+The intervention (N=270) and comparison (N=182) participants were similar at baseline, with an overall mean age of 56.8 years (64.0% female, 79.7% foreign-born, 44.8% limited English proficient). At post-visit, intervention patients were more likely to report discussing hepatitis B (70.4% vs. 16.5%) or C (62.6% vs. 12.6%) with their providers. At 3-month, EHR data showed higher test receipt (p<0.001) among intervention participants for hepatitis B (37.8% vs. 7.7%) and hepatitis C (30.3% vs. 6.0%). In multivariable analyses, the intervention was very effective in increasing.
+
+# BACKGROUND:
+
+Migraine is a highly prevalent and disabling neurological disorder. Chronic migraine (CM), defined as 15 or more headache days per month, at least 8 of which are migraine days, has a substantial negative impact on patients' lives. Preventive migraine treatment is recommended in patients with CM, and preventive therapeutics with an early onset of efficacy may improve the outcomes of patients with CM. Fremanezumab is a fully humanized monoclonal antibody (IgG2 a) that selectively targets calcitonin gene-related peptide (CGRP) and is approved for the preventive treatment of migraine in adults. This analysis of the HALO CM trial assessed the onset of efficacy of fremanezumab for the preventive treatment of CM.
+
+# METHODS:
+
+HALO CM was a multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase 3 study evaluating the efficacy and safety of fremanezumab for the preventive treatment of CM. A diagnosis of CM was confirmed during a 28-day pre-treatment period. Adults with CM were randomized to receive either subcutaneous fremanezumab quarterly (675 mg at baseline and placebo at Weeks 4 and 8), fremanezumab monthly (675 mg at baseline, and 225 mg at Weeks 4 and 8), or matching placebo over a 12-week period. The primary endpoint was the mean change in the average number of headache days of at least moderate severity: a day in which headache pain lasted 4 consecutive hours and had a peak severity of at least a moderate level, or an acute migraine-specific medication (triptans or ergots) was used to treat a headache of any severity or duration.
+
+# RESULTS:
+
+A total of 1130 patients were randomized to receive either fremanezumab quarterly (n=376), fremanezumab monthly (n=379), or placebo (n=375). Fremanezumab significantly reduced the mean number of monthly headache days of at least moderate severity during the 12-week treatment period, for both fremanezumab quarterly (least-squares mean change: -4.3 days; P<0.0001) and fremanezumab monthly (-4.6 days; P<0.0001) compared with placebo (-2.5 days). Response to treatment was seen during the first week of treatment (all-fremanezumab group [n=750]: -1.1 days; P<0.0001 vs placebo: -0.5 days). During the 12-week treatment period, there were reductions in the number of days with any acute headache medication use (quarterly: -3.7 days; monthly: -4.2 days; both P<0.0001 vs placebo: -1.9 days) and the number of migraine days (quarterly: -4.9 days; monthly: -5.0 days; both P<0.0001 vs placebo: -3.2 days), and a greater proportion of patients who received fremanezumab achieved at least a 50% reduction in headache days of at least moderate severity (quarterly: 38%; monthly: 41%; both P<0.0001), as compared with those who received placebo (18%).
+
+# CONCLUSIONS:
+
+Fremanezumab is effective for the preventive treatment of CM, with responses seen within the first week of treatment.

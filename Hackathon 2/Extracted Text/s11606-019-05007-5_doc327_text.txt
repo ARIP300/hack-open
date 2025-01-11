@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# HERBAL INDUCED CHOLESTASIS BY KRATOM
+
+Transaminases; alanine aminotransferase (ALT) 371, aspartate aminotransferase (AST) 171. Her ALT increased to 606 on recheck. Other labs included total bilirubin 3.3, alkaline phosphatase 298 and INR 0.97. Ultrasound of the abdomen showed a thickened gallbladder wall without Murphy's sign and a normal evaluation of the liver. On initial questioning, she denied a previous history of liver disease, alcohol use, or Tylenol use. Autoimmune liver panel, hepatitis and HIV screen was negative. Epstein-Barr virus and cytomegalovirus was negative. Alpha-1-antitrypsin, iron, ceruloplasmin were within normal limits. Upon further questioning of home medications, she reported kratom use for treatment of her chronic pain secondary to her past history of polio. Her duration of use of kratom was 4 months with her last use 4 weeks prior to presentation. She was diagnosed with herbal induced cholestasis by kratom. Her jaundice improved, liver enzymes trended down and she was discharged. Her one month outpatient follow up revealed normal liver enzymes with no further reported kratom use.
+
+# IMPACT/DISCUSSION:
+
+The herbal remedy kratom has been long used in traditional medicine most commonly for depression, anxiety and pain since the nineteenth century, however its impact on the liver is not well known. The mechanism by which kratom induced liver injury in this patient is unknown. The pattern of liver injury was mixed between hepatocellular and cholestatic suggesting that there might be multiple mechanisms of injury. Injury can present with generalized symptoms which can often times be mistaken for other pathologies which is why a thorough history is required to further understand and discontinue offending agents such as kratom. Although kratom was helping to alleviate pain in this patient, discontinuation was necessary to allow complete resolution of liver injury.
+
+# CONCLUSION:
+
+This case represented short term use of kratom which induced liver injury with subsequent resolution upon discontinuation. There are many oral agents that are still not fully understood or well known which cause liver injury. With this lack of knowledge, it remains important for internists to obtain thorough histories of everything that is ingested prior to presentation. With this information, better understanding and insight can be obtained to which agents should be avoided in the general population.
+
+# A CASE OF LEVOFLOXACIN INDUCED PSYCHOSIS IN A YOUNG HEALTHY PATIENT
+
+Michael Muradian; Kaitlin Annunzio; Zachary Kaczmarek; Shaheena Khan; Kavita Naik; Pinky Jha. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185210)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize levofloxacin as a cause of acute psychosis.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the course and treatment of antibiotic induced psychosis.
+
+# CASE:
+
+A 23 year old African American female with a history of recurrent submandibular abscesses treated with antibiotics presented to the hospital emergency department with anxiety, paranoia, visual hallucinations, and psychosis. She had been recently discharged from the hospital 4 days prior following incision and drainage with prescriptions for levofloxacin and metronidazole. Two days following discharge she developed paranoia and insomnia which progressively became more severe and the following day she developed visual hallucinations. On admission drug and toxicology screens were negative and a head CT showed no signs of intracranial pathologies. Labs showed no evidence of metabolic causes for altered mental status such as electrolyte abnormalities, hypoglycemia, or encephalopathies. The patient had no psychiatric history and her symptoms were not consistent with a primary psychiatric disorder. Given the lack of evidence for other causes of psychosis this raised concern it may be due to her antibiotics. The levofloxacin and metronidazole were promptly discontinued and she was then prescribed ceftriaxone. Over the following days additional testing including EEG were negative and no other causes of psychosis could be identified. She gradually improved and 3 days after discontinuing the antibiotics she had returned to baseline mental status.
+
+# IMPACT/DISCUSSION:
+
+Levofloxacin is in the fluoroquinolone class antibiotics and has activity against a wide range of organisms making it a commonly prescribed antibiotic. This medication is generally well tolerated; gastrointestinal distress is the most common adverse effect reported but the medication has an otherwise favorable side effect profile. Neuro-psychiatric side effects are very rare and poorly described in the literature with psychosis only being reported in a few cases. It is believed that this effect may be related to possible inhibition of GABA receptors and some have reported that renal disease may increase the risk for these effects. The time of symptom onset in relation to the initiation of antibiotic treatment is highly variable which makes identifying the cause more challenging. These effects can be severe, but they are reversible within a few days of discontinuation of the drug. We present a case that highlights how otherwise healthy individuals with no significant risk factors or psychiatric history are susceptible. Medical providers should consider these poorly understood effects in any patient receiving levofloxacin who develops altered mental status or psychiatric symptoms.
+
+# CONCLUSION:
+
+Antibiotics should be considered as a cause of psychosis in patients with new symptoms. Patients with no significant risk factors can develop drug induced psychosis.
+
+# A CASE OF LOSARTAN-ASSOCIATED GENERALIZED ERYTHRODERMA WITH FEVER
+
+Ruth Jobarteh; Emily Peng; Allan C. Gelber; Paul O'Rourke. Johns Hopkins University, Baltimore, MD; Johns Hopkins Bayview Medical Center, Baltimore, MD. (Control ID #3185819)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features of a delayed-type drug reaction, including erythroderma, fever, transaminitis and eosinophilia (including DRESS syndrome).
+
+# LEARNING OBJECTIVE #2:
+
+Manage a new diagnosis of DRESS syndrome.
+
+# CASE:
+
+A 74-year-old disabled woman with multiple sclerosis and prior pulmonary embolism presented with a prominent truncal erythematous rash of 5 days duration. The rash spread to her arms, palms, buttocks and legs, became pruritic and desquamating, sparing only her face. On the day of admission to the Medicine Service, she developed a fever of 102.5°F/39.2°C and was hospitalized. Home medications were warfarin, simvastatin, fluoxetine, methenamine, baclofen, tizanidine, furosemide and losartan, the latter begun the prior month. Examination was notable for BP 129/67 mmHg, HR 88 beats/min, Temp 36.7 °C, RR 22 breaths/min and SpO2 of 96% on 2L of O2. There was marked diffuse blanchable erythroderma over the back, chest, scalp, breasts, abdomen, arms and legs. There was no mucositis, conjunctivitis, axillary or supraclavicular lymphadenopathy. Laboratory findings were significant for WBC 22.64 (peak eosinophil level 5%), alkaline phosphatase 289, AST 299, ALT 230, bilirubin 0.4 and ESR 79. Urine and blood cultures were negative. Viral hepatitis serologies were negative. Upon admission, losartan was discontinued. Skin biopsy revealed focal neutrophilic infiltrate, dyskeratotic keratinocytes, diffuse spongiosis and subtle vacuolar alteration, without eosinophils. Oral prednisone 30 mg thrice daily was commenced. Liver function tests trended down. By the third day of steroid therapy, the rash had substantially improved. She was discharged on a steroid taper with instruction to never resume losartan.
+
+# IMPACT/DISCUSSION:
+
+Delayed-type drug hypersensitivity reactions range in severity from skin eruptions alone, to the DRESS syndrome, to toxic epidermal necrolysis and can be life-threatening. Symptoms typically manifest 1-3 weeks after exposure to an inciting drug. Rash, fever, leukocytosis, eosinophilia and abnormal liver enzymes are hallmark findings. Skin manifestations in DRESS syndrome include diffuse erythroderma but can have various morphologies. It is critical to consider prescribed medication in the differential diagnosis of fever, skin rash and transaminitis. The next step is to terminate use of the putative culprit drug, consider steroid administration and furnish supportive skin care. Losartan has been linked to...

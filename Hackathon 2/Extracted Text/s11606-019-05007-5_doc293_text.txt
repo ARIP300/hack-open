@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# METHODS:
+
+We conducted a cross-sectional study at public-sector hospitals throughout Uganda, utilizing a parallel-convergent mixed methods design. We surveyed a convenience sample of patients at 20 hospitals that offer HTN/DM clinics and conducted in-depth interviews and focus group discussions with a purposive sample of patients at six of these clinics. All participants were adults presenting for HTN and/or DM care. Quantitative and qualitative findings were analyzed separately, their results compared and merged for interpretation. Survey data were analyzed using descriptive statistics. We defined the Prescribing-Dispensing Gap as prescribed doses minus dispensed doses divided by prescribed doses x100. Interviews were transcribed and coded and emergent themes were identified using the Framework method.
+
+# RESULTS:
+
+We surveyed 637 patients and interviewed 164 patients (36 in-depth interviews and 128 in 14 focus group discussions). Surveyed patients were prescribed a total of 82,591 doses, of which 47,300 (57.3%) were not dispensed. 84% of patients (n=535) did not receive all of their prescribed doses and 90 of 253 (36%) patients contacted in follow-up had not obtained any remaining doses elsewhere. Interviewed patients reported medicines being out of stock and being dispensed less than what was prescribed. Patients noted that some medicines, primarily insulin, were often of low quality, leading to distrust and non-adherence. Patients were consistently advised to purchase non-dispensed medicines from private pharmacies, though financial barriers often prevented them from doing so. As a way of mitigating the frequent shortage of medicines, some patients reported organizing themselves to form informal "patient associations", localized to a few hospitals.
+
+# CONCLUSIONS:
+
+In this study, we found that 57.3% of prescribed doses of HTN and DM medicines are not dispensed at public-sector hospitals in Uganda due to stockouts and rationing and that many patients do not obtain remaining doses from private pharmacies due to financial barriers. This large Prescribing-Dispensing Gap has profound implications for patients' ability to consistently manage their chronic conditions. Future research should focus on improving access to medicines for chronic conditions, including through innovative patient-centered and patient-driven approaches.
+
+# UNDERSTANDING GEOGRAPHIC VARIATION IN SYSTEMIC OVERUSE AMONG THE PRIVATELY INSURED
+
+Allison H. Oakes2; Aditi Sen2; Jodi B. Segal1, 2. 1Johns Hopkins University School of Medicine, Baltimore, MD; 2Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD. (Control ID #3184881)
+
+# BACKGROUND:
+
+Overuse of services contributes importantly to the high spending on health care in the US. Annually, 14-25% of Medicare beneficiaries and 4-8% of commercially-insured adults experience services that can be considered wasteful. We demonstrated that overuse within regions is stable longitudinally, which suggests that there are regional drivers of overuse. We aimed to characterize these drivers to inform interventions.
+
+# METHODS:
+
+We analyzed commercial insurance claims from 18-64 year olds. We calculated a Johns Hopkins Overuse Index (JHOI) score, semi-annually, for each of the 375 Metropolitan Statistical Areas (MSA) in the U.S, from January 2011 to June 2015. The JHOI is a normalized measure of systemic health care services overuse that can describe overuse across the adult lifespan. To estimate associations between regional characteristics of the health care system and systemic overuse, we fit an OLS regression to model the JHOI as a function of regional characteristics with state and year fixed effects, clustered at the MSA. Regional characteristics were constructed from the Area Health Resource File and the American Hospital Association Survey. Each regional characteristic was conceptualized as describing: 1) resource availability, 2) healthcare services configuration, 3) market competition, or 4) prevailing local clinical practices. We controlled for demand-side covariates using data from the American Community Survey.
+
+# RESULTS:
+
+Across all years, the normalized JHOI identified 37 regions that were stable, markedly-overusing regions (>2 S.D. above average) and 47 that were > 2 S.D. below the average. Regional characteristics associated with higher JHOI scores, indicating more systemic overuse, included the total number of physicians per 1,000 residents (p=0.006) and a higher Medicare malpractice geographic price index, representing higher spending on malpractice insurance (p<0.001). Conversely, regions with a higher density of primary care physicians (p=0.006) and those with more hospital-based providers (p=0.029) had lower JHOI scores, indicating less systemic overuse. Relative to regions with lower competition in both the hospital and insurance markets, results diverged when there was discordance in market power. Trending toward significance, areas with a competitive hospital market and a less competitive insurer market were associated with a 0.25 point increase in the JHOI (p=0.072) while areas with the inverse were associated with a 0.32 point decrease in the JHOI (p=0.053).
+
+# CONCLUSIONS:
+
+Regional variation in the clinician workforce and drivers of "practice culture" are associated with variation in systematic overuse of health care. Additional research is needed to understand the relationship between the JHOI and market competition. The role of primary care doctors in reducing health care overuse deserves further attention; new models of primary care delivery as stimulated by Centers for Medicare and Medicaid Services (CMS) may prove impactful on overuse of resources.
+
+# UNDERSTANDING PRIMARY CARE PHYSICIAN'S INFORMATION NEEDS DURING INBOX MESSAGE PROCESSING
+
+Daniel R. Murphy1; Tyler Satterly1; Dean F. Sittig2; Hardeep Singh1. 1Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, TX; 2University of Texas, Houston, TX. (Control ID #3168062)
+
+# BACKGROUND:
+
+Primary care physicians spend a sizable portion of each day performing non-face-to-face care. Much of this activity involves processing notifications delivered via Electronic Health Record (EHR)-based inboxes. Improving EHR inbox designs to better match information displays with physician's information needs and workflows can greatly improve the efficiency of notification processing. However, research on this topic is limited. To identify recommendations for future EHR inbox designs, we performed a study to understand the information physicians access and actions physicians take while processing inbox notifications.
+
+# METHODS:
+
+We conducted a task analysis by directly observing physicians at four large clinical practices as they processed their inbox notifications. During each session, we asked physicians to verbalize what actions they were taking in response to the messages and the rationale for these actions. We additionally recorded the information they viewed in the EHR. During analysis, notification types and actions taken were categorized (e.g., "test results," and "review medication list," respectively). The data was then analyzed to determine the actions most frequently performed while processing alerts.
+
+# RESULTS:
+
+We observed 25 physicians as they processed 147 notifications in their EHR inboxes. Notifications included 53 test results, 31 messages from staff members, 21 messages from other clinicians, 15 messages from patients, 13 refill requests, 5 system messages that a patient had not read a message sent to them, 4 co-signature requests, 3 inpatient records, and 2 self-reminders. While processing messages, physicians most frequently (10% of messages) performed the following actions: reviewed test results (37%), send patient portal messages (24%), documented in the patient's record (22%), signed existing orders or notes (20%), sent a message to another clinician or staff (18%), called patients (14%), reviewed their last progress note (13%), review lab trends (10%), and reviewed medications (10%). Other activities (e.g., placing new orders), occurred in <10% of messages. Physicians entered the full chart only 12% of the time.
+
+# CONCLUSIONS:
+
+We found that physicians performed a variety of actions while processing EHR-based notifications in their inboxes.

@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# Preliminary stool studies were negative but stool culture revealed Shigella species resistant to ampicillin-sulbactam and Bactrim.
+
+CT Abdomen/Pelvis with contrast demonstrated severe pan-colitis with trace pelvic fluid. Patient was treated with one day of ciprofloxacin and metronidazole and supportive treatment. He was then discharged to home.
+
+# IMPACT/DISCUSSION:
+
+This case highlights growing resistance patterns among Shigella species in the United States - especially among men who have sex with men. Shigella species cause 500,000 diarrheal illnesses annually in the US1 with growing resistance to ciprofloxacin, azithromycin, and bactrim.2 Empiric treatment for diarrhea is not generally advised, but Shigella infections merit treatment with 7-10 days Bactrim (7-10 days) or azithromycin (5 days).3,4
+
+# CONCLUSION:
+
+# References:
+
+1. Scallan, E., et. al. (2011). Foodborne illness acquired in the United States—major pathogens. Emerging infectious diseases, 17(1), 7.
+
+2. Heiman, K. E., et. al. (2014). Notes from the field: Shigella with decreased susceptibility to azithromycin among men who have sex with men-United States, 2002-2013. Morbidity and Mortality Weekly Report, 63 (6), 132-133).
+
+3. Shane, A., et. al. (2017). 2017 Infectious Disease Society of America clinical practice guidelines for the diagnosis and management of infectious diarrhea. Clinical Infectious Diseases, 65 (12), e45-e80.
+
+4. AIDSinfo Guidelines for the prevention and treatment of opportunistic infections among HIV-exposed and HIV-infected children, 2013. Available at: http://aidsinfo.nih.gov/guidelines/ Accessed 16 January 2019
+
+# COMPASSIONATE USE OF A NEW INVESTIGATIONAL PATENT FOR A PATENT OVALE CLOSURE DEVICE FOR PLATYPNEA-ORTHODEOXIA SYNDROME
+
+Bilal Saqi. Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3186329)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize role of Patent foramen ovale (PFO) closure devices not just for cryptogenic strokes, but for the treatment of hypoxic conditions.
+
+# LEARNING OBJECTIVE #2:
+
+Managing a patient with an investigational PFO closure device on basis of compassionate use.
+
+# CASE:
+
+69 year old male with history of squamous cell carcinoma of the right lung status post pneumonectomy, mid-tracheal recurrence, pulmonary aspergillosis complicated by recurrent pleural effusions, rectal adenocarcinoma, COPD, transient ischemic attack (TIA) and left lower lobe subsegmental pulmonary embolus presented for a surveillance bronchoscopy. Upon arrival, he was hypoxic and found to have platypnea-orthodeoxia syndrome. Echo with agitated saline revealed a PFO. Ejection fraction was 55% with mild right ventricular (RV) dilation with low normal systolic RV function. In the setting of large intracardiac shunt with hypoxia as well as history of prior TIA, we elected to close the PFO. His transesophageal echo images suggested a large defect with PFO diameter of 21mm and a very mobile/aneurysmal septum and borderline aortic rims anteriorly, therefore we favored the Gore Cardioform 30mm device over an Amplatzer septal occluder (ASO) device to minimize long term risk of erosion. During the procedure, the device was seen to dislodge from the septum and migrate into the left atrial cavity. Unfortunately, the defect was too large and this procedure was unsuccessful, and the devices were retrieved. He was not deemed to be a surgical candidate due to multiple comorbidities, but we were able to get Gore's investigational Cardioform device on compassionate use (currently only available in clinical trials, for which patient would not be a candidate). Patient was approved and successful PFO closure with a 44mm Cardioform device was performed with marked improvement in oxygen saturation.
+
+# IMPACT/DISCUSSION:
+
+Patent foramen ovale (PFO) closure devices for cryptogenic strokes have been well debated leading to FDA approval, but they also have a role in treating hypoxic conditions. This was a unique example of using a new investigational device that the patient would not otherwise qualify for, but asking for its use under compassionate basis. In the end, patients improvement in oxygen saturation was remarkable. This case shows the impact new PFO closure devices can play in Platypnea-Orthodeoxia Syndrome patients as well.
+
+# CONCLUSION:
+
+Use of the new Cardioform closure device for patients with PFO and hypoxia due to right to left shunt and anatomy leading to failure of older closure devices leads to functional improvement.
+
+# CONCURRENT PRESENTATION OF ALL 3-STAGES OF LYME DISEASE
+
+Sona Franklin; Manisha Naik. St Mary Medical Center, Langhorne, PA. (Control ID #3186215)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize 3-stages of Lyme disease may present concurrently.
+
+# CASE:
+
+A 57-year-old Caucasian male, with no reported past medical history, presented to the Emergency Department complaining of intermittent subjective fevers for three-weeks and drenching night sweats, associated with an erythematous "splotchy" rash over his abdomen and legs, joint pain, swelling, and muscle aches. He also had diplopia two days prior to arrival with no improvement. He did not recall tick, mosquito or animal bites and denied previous episodes of similar symptoms. He had recently traveled to Florida and had spiking fevers prior to that trip. He admitted to outdoor garden work and denied sick contacts. The rash initially presented on his left ankle with swelling and minimal pain, but no pruritus. Family history was significant for father with rheumatoid arthritis and daughter with Celiac disease. Initial vital signs were blood pressure: 144/94, pulse: 77, respiratory rate: 16, temperature: 36.7 centigrade, oxygen saturation of 98% on room air. Physical exam was significant for left eye lateral gaze palsy, rightward gaze nystagmus, circular rash with central clearing on the abdomen, and erythematous rashes without central clearing on left lower back and bilateral thighs. Neurological exam revealed slight left eye droop but was otherwise unremarkable. Chest radiograph, magnetic resonance imaging and magnetic resonance angiogram of the brain, were all unremarkable. Swab for influenza A and B was negative, and urinalysis was negative for infection. Complete blood count revealed a leukocyte count of 12.1K/UL with 81% neutrophils. C-reactive protein was 45.30mg/L. He was started on intravenous ceftriaxone awaiting Lyme serology analysis. Cerebrospinal fluid array was negative. Lyme panel revealed a positive Lyme IgG and IgM, Western Blot was positive for six IgG antibodies, and reactive for three IgM antibodies. He was subsequently discharged home to complete a 28-day course of intravenous ceftriaxone and methylprednisolone.
+
+# IMPACT/DISCUSSION:
+
+Lyme disease is prevalent in Bucks County, Pennsylvania, and is caused by Borreliella species, with B. burgdorferi as the primary agent in the United States. Stages of Lyme disease occur in three phases: early localized, early disseminated and late disease. Most often the phases occur in succession. Overlap may occur, with later stages of Lyme as the initial presentation. There are case reports of simultaneous presentation of two stages,1,2 but no published cases of all three stages presenting concurrently. We present a unique case where all three stages of Lyme disease present simultaneously.
+
+# CONCLUSION:
+
+Our case is an unusual presentation of all three stages of Lyme disease presenting concurrently in a patient located in a region with a high prevalence of Lyme. It is imperative to bring light to this unique phenomenon of Lyme disease, as unawareness of this presentation may lead to misdiagnosis. Greater attention will help ensure prompt and appropriate treatment of these patients.
+
+# CONGENITAL HERNIA MAY NOT BE CONGENITAL ANYMORE
+
+Ravi K. Thimmisetty; Kiran Chintam2; Venu Madhav Chirunomula2,1; Matthew Shoemaker2. 1Nephrology Associates, Cape Girardeau, MO; 2Southeast hospital, Cape Girardeau, MO. (Control ID #3186369)

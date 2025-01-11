@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# THE ROOT OF THE PROBLEM: A CASE OF SEVERE META- BOLIC ALKALOSIS AND HYPOKALEMIA
+
+Matthew R. Mohorek; Elizabeth R. Jacobs. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3183266)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize glycyrrhizic acid (GZA) toxicity from licorice root as a cause of non-aldosterone mineralocorticoid excess.
+
+# LEARNING OBJECTIVE #2:
+
+Review clinical ramifications of non-aldosterone mineralocorticoid excess including secondary hypertension, hypokalemia, and metabolic alkalosis.
+
+# CASE:
+
+A 73-year-old male presented to outpatient bronchoscopy lab for transbronchial needle aspiration. One month prior, the patient had a CT-chest for lung cancer screen which revealed a right apical spiculated lesion later found to be FDG avid. Upon arrival, the patient was asymptomatic but hypertensive with blood pressure 190/108 mmHg. Work-up was remarkable for potassium 1.6 mmol/dL, bicarbonate 52 mmol/dL, pH 7.655, and QTc 748 ms. He was admitted to the ICU for management of metabolic derangements. In ICU, history elicited no prescription medications, but the patient was taking a 4,000 mg daily "liver supplement" with active ingredient Glycyrrhiza glabra better known as licorice root. The patient received electrolyte supplementation and was started on spironolactone titrated to 100mg twice daily. He was hospitalized for five days. Follow-up labs eight days after admission revealed complete resolution of metabolic and ECG derangements. Post-discharge bronchoscopy ultimately revealed stage IIIA non-small cell lung cancer.
+
+# IMPACT/DISCUSSION:
+
+The patient presented with clinical features suggestive of non-aldosterone mineralocorticoid excess due to glycyrrhizic acid (GZA) toxicity. GZA is a constituent of licorice root (Glycyrrhiza glabra). Its distinctive sweet flavor makes it a popular sweetener for beverages, gum, and tobacco products. It is also used as an herbal supplement for various medical claims. This patient was consuming approximately 800 mg/day of GZA whereas <100 mg/day is generally considered safe. GZA inhibits 11-β-hydroxysteroid dehydrogenase, an enzyme that catalyzes the conversion of cortisone to cortisol. Compared to aldosterone, cortisol has equivalent avidity to the mineralocorticoid receptor, so inhibition leads to a mineralocorticoid excess state. Clinically, this excess produces a constellation of abnormalities including hypertension, hypokalemia, and alkalosis. Unique to this case is the severe metabolic alkalosis present which is likely due to enhanced H+ secretion by intercalated cells in the collecting ducts of the nephron - a direct result of the luminal electronegativity created by the mineralocorticoid receptor mediated Na+/K+ ATPase. Mineralocorticoid antagonists like spironolactone are the cornerstone of treatment.
+
+# CONCLUSION:
+
+GZA is a constituent of licorice root which remains a popular ingredient in sweetened products and herbal supplements. The latter is of particular interest as recommended doses may contain a dangerous level of the substance, as in this case. GZA can cause a non-aldosterone mineralocorticoid excess state leading to hypertension, hypokalemia, and alkalosis. Treatment of GZA toxicity is centered on mineralocorticoid receptor antagonism, most commonly spironolactone.
+
+# THE UNEXPECTED FLIGHT DETOUR WITH FEVER AND AN ABDOMINAL MASS
+
+Jun Chih Wang; George DiSeSa; Daniel Matassa; Joshua Kra. Rutgers New Jersey Medical School, Newark, NJ. (Control ID #3171095)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features of lymphoma in patients with HIV.
+
+# CASE:
+
+A 30-year-old Liberian woman with untreated HIV presented with one-day history of generalized weakness and fever that started while flying from Liberia to the United States. She complained of lower abdominal discomfort, weight loss and oligomenorrhea over several months. She denied recent sick contacts or recent infections. She had a fever of 102.7F, pulse 132 bpm, blood pressure 105/64 mmHg. On exam she had a mildly tender lower abdominal mass on palpation, clear lungs and no murmur. Laboratory studies showed WBC 7,000/uL, Hb 4.4 g/dl, platelets 42,000/uL, LDH 878, CD4 243 and a normal chemistry profile. EKG showed sinus tachycardia. Chest x-ray and UA were unremarkable. CT abdomen/pelvis with contrast revealed a 11x7x9cm heterogeneous solid, cystic mass in the pelvis with surrounding hemorrhagic fluid and lymphadenopathy. Despite initial fluid resuscitation, blood transfusion and antibiotics, she continued to be hypotensive and febrile. Due to persistent cytopenia, a bone marrow biopsy was performed but was negative for infectious or neoplastic processes. The pelvic mass was initially thought to represent an incidental finding of a benign mass or a hemorrhagic complex cyst. However, due to minimal improvements with treatments and a non-revealing additional infectious work-up, the patient was eventually taken for a diagnostic laparoscopy and salpingo-oopherectomy. After the operation, the patient's condition stabilized with resolution of hypotension, fevers, and cytopenia. Interestingly, the result of the tissue biopsy of the pelvic mass revealed diffuse large B-cell lymphoma of the ovary.
+
+# IMPACT/DISCUSSION:
+
+Fever and cytopenia in patients with HIV is often associated with an infectious process; however, autoimmune, malignancy and drug reactions need to be considered. Lymphadenopathy with elevated LDH can be non-specific in this population. In our patient, the association between the septic clinical features and the pelvic mass likely represent a hemorrhagic process with a large tumor burden. Tissue diagnosis remains critical. Lymphoma of the ovary accounts for 0.5% of all non-Hodgkin lymphoma (NHL) and 1.5% of all ovarian neoplasm. The risk of NHL in patients with untreated HIV is as high as 100-fold; despite the use of anti-retroviral therapy (ART), the risk of NHL remains elevated. HIV-related primary ovarian lymphoma has only been reported twice in the literature. Despite its rarity, NHL of the ovary should be considered as a differential diagnosis in patients with untreated HIV presenting with fever and an abdominal mass given the potential to alter treatment. The use of adjuvant chemotherapy after resection is not well-studied but may be of benefit to prevent relapse.
+
+# CONCLUSION:
+
+Ovarian lymphoma is rare but should be considered in patients with HIV presenting with fever and an ovarian mass. Patients with HIV have an increased risk of HIV-related lymphoma, which remains elevated despite the use of ART.
+
+# THE WOMAN WHO MISTOOK HER HOSPITAL BED FOR A CANOE
+
+Anna C. Watkins. Brookwood Baptist Health, Hoover, AL. (Control ID #3183973)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that amyloid B-related angiitis is a rare disorder with diagnostic imaging and histopathological findings.

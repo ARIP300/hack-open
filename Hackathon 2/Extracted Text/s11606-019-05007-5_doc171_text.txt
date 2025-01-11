@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+# Staphylococcus Aureus (MRSA) and reduce bacterial contamination on stethoscope diaphragm surfaces.
+
+# METHODS:
+
+This was a prospective pilot study using a randomized, controlled, single-blinded, crossover trial design, evaluating the effect of daily stethoscope disposable diaphragm covers vs. uncovered stethoscopes. Upon recruitment, residents on clinical rotations were randomized to receive one of two sealed opaque boxes. If a resident was randomized to the intervention arm, the package included instructions to begin with the covers. If a resident was randomized to the control arm, instructions were to begin with no covers. We instructed the participants to switch arms at 7 days. Laboratory methods: A sterile swab was rolled over the surface of the stethoscope's diaphragm from side to side in a streaking method. We used the chromagar MRSA plates (MRSASelect™II agar plates) to grow oxacillin resistant, non-enterococal gram positives and the non-selective blood agar plate. Cultures were obtained from each resident's stethoscope diaphragm at the end of every 7 day period. We performed a colony count in 24 hours and 48 hours of incubation.
+
+# RESULTS:
+
+We enrolled 37 residents, of whom 29 (70%) completed both weeks of the trial. On the log-10 scale, the mean (range) colony count on plain agar was 1.5 (0.0–3.7) during control and 1.6 (0.0–3.0) using covers. For MRSA, the mean (range) log-10 colony count during control was 0.1 (0.0-2.7) and 0.1 (0.0–1.2) under covers. Overall, 7 (11%) cultures were positive for MRSA during control and 6 (9%) using covers. Using mixed models to account for within-subject and within-culture correlation, the covers increased colony count by 0.47 (95% confidence interval, -0.37–1.31) in mean log-10 overall colony count, and increased risk of MRSA+ culture by 0.2 percent (95% confidence interval, -10.0–10.3).
+
+# CONCLUSIONS:
+
+This well designed study shows disposable diaphragm covers inadequate in reducing bacterial load. It is likely that this study was hindered by a small sample size, therefore a larger study to evaluate the ability of other methods to prevent cross transmission of MRSA and subsequent infections from the stethoscope diaphragm is needed.
+
+# LET'S TALK CANNABIS: A QUALITATIVE STUDY OF VETERANS AFFAIRS PROVIDER AND CANNABIS DISPENSARY EMPLOYEE VIEWS ABOUT DISCUSSING CANNABIS WITH PATIENTS
+
+Vivian Christensen 3; Shannon Nugent 3; Emilio Sulpizio 2; Devan Kansagara1, 2. 1Portland VA Medical Center, Portland, OR; 2Oregon Health and Science University, Portland, OR; 3VA Portland Health Care System, Portland, OR. (Control ID #3185489)
+
+# BACKGROUND:
+
+Medical and recreational use of cannabis has become increasingly common, and VA clinicians are asked to be prepared to engage in discussions about cannabis with their patients. This qualitative project sought to better understand provider attitudes, beliefs, and knowledge gaps regarding patients' use of cannabis with the ultimate goal of developing educational tools for clinicians to help them discuss cannabis use with their patients.
+
+# METHODS:
+
+We conducted in-depth, semi-structured interviews with 18 key informants (14 VA employees and 4 cannabis dispensary employees). Interviews were transcribed and analyzed using a predetermined/deductive framework. An inductive approach was then used to identify themes within each thematic framework.
+
+# RESULTS:
+
+The most common reasons patients seek advice about cannabis from their physicians is for chronic pain, nausea, depression, anxiety, PTSD, and sleep disorders. While clinicians feel comfortable having basic discussions about cannabis, their lack of specific knowledge about terminology, dose, modality, and strain results in hesitation to have in-depth discussions. Moreover, the continued federal distinction of cannabis as a Schedule 1 drug has led some providers to not engage in the topic altogether. While views vary, clinicians are generally open to the potential benefits of cannabis, though none view cannabis as risk free and most cite a need for more evidence from controlled clinical trials. Potential risks discussed include potential abuse, impact on comorbidities and/or mental health, and forgoing known effective treatments. Clinicians view medicinal cannabis through a traditional pharmacotherapeutic lens and cite lack of regulation regarding product quality and potency, and uncertainty about the potential for interaction with other prescription drugs as concerns. Dispensary employees are comfortable with the imprecise nature of cannabis as a therapeutic agent, believe that cannabis use is largely risk free, and believe that patient stories and employee experience are valuable sources of evidence that support the effectiveness of cannabis in treating symptoms of common diseases and conditions. Dispensary employees were eager to partner more with clinicians and wanted their customers to obtain guidance for cannabis use for medical purposes from their physicians.
+
+# CONCLUSIONS:
+
+Cannabis has become widely available without the pharmacotherapeutic standardization and evidence to which clinicians are accustomed. The resulting uncertainty along with federal policy are barriers for clinicians to having discussions about cannabis with their patients. Many clinicians are open to the idea of medicinal cannabis, but have mixed feelings and concerns about safety. There are stark differences in how clinicians and dispensary employees view the use of medicinal cannabis, though dispensary employees appear open to collaboration with clinicians to improve patient safety.
+
+# LET'S WORK TOGETHER: RESIDENTS' PERCEIVED ABILITY TO COMMUNICATE MANAGEMENT OF CHRONIC DISEASE WITH PATIENTS WITH LIMITED ENGLISH PROFICIENCY
+
+Mia Williams1; Brian Lewis2; Karen E. Hauer1; Alicia Fernandez1. 1University of California San Francisco, San Francisco, CA; 2University of Wisconsin, Middleton, WI. (Control ID #3175486)
+
+# BACKGROUND:
+
+In the US there are ~21 million individuals with limited English proficiency (LEP) who are at risk for challenges in health care communication. These challenges can affect health outcomes. Although there is limited data on the ability of residents to communicate effectively with LEP patients, a previous study suggests that IM residents are dissatisfied with their ability to communicate with LEP patients. Determining local experience is important, as training hours and extent of exposure to LEP patients vary greatly across the country.
+
+# METHODS:
+
+We conducted a focused needs assessment to ascertain UCSF IM residents self-perceived patterns, strengths, and self-efficacy in communication with LEP patients via a vignette-based survey. The survey contained closed and open-ended questions. The latter were analyzed for themes by two researchers.
+
+# RESULTS:
+
+41 (77%) Internal Medicine residents responded to the questionnaire. Residents reported receiving little training in skills to communicate with LEP patients in spite of the fact that 45% of residents reported that >25% of their outpatient encounters were with LEP patients. When residents compared their confidence in executing key tasks such as ‘Identify patient's agenda' (100% confident to very confident with English speakers vs. 74% with LEP patients) which increased in magnitude as tasks became more nuanced i.e. ‘Understand patient's beliefs about diabetes' (87% vs. 18%); this difference was statistically significant across all communication tasks. In the qualitative analysis, the most common barrier residents identified was time, followed by concern about cultural differences and uncertainty in working with the interpreter.
+
+# CONCLUSIONS:
+
+Our study found that UCSF IM residents have a significant lack of self-efficacy and satisfaction in the care of LEP patients; this gap worsens as the communication complexity of the task increases.

@@ -1,0 +1,76 @@
+# ABSTRACTS JGIM
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Monthly reporting metrics enabled us to provide more than 11,000 patients access to diabetic eye exam services, and identify 1800 patients whose vision was saved.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Results to date include the identification of 4,000 patients with some form of pathology that would not have been known without this service, and the more than 1,800 patients whose vision was saved as a result of this program. We have maintained the percentage of non-readable photos at less than 5% across the PCC.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. Investment and collaboration with external organizations enhances delivery of preventive services in the primary care center.
+2. Ancillary team member involvement improves efficiency of services delivered with minimal impact to the PCP's time and engagement of staff.
+3. Integrating services within the PCC provides equitable care to populations who struggle with navigating healthcare systems.
+
+# IMPROVING ACCURACY OF INTERNAL MEDICINE RESIDENT PATIENT PANELS IN AN ACADEMIC PRIMARY CARE SETTING
+
+Laura Hallett1; Gertrude Manchester1; Richard M. Forster2. 1University of Massachusetts Medical Center, Worcester, MA; 2University of Massachusetts Medical School, Worcester, MA. (Control ID #3185613)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Internal medicine (IM) residents are assigned to be the primary care provider for certain patients in their continuity clinic, but when a patient's PCP is listed incorrectly in the electronic medical record, it can lead to communication delays, lack of continuity for patients, and lower resident satisfaction.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Using an electronic medical record (EMR) displaying pairings of resident PCPs with faculty preceptors, we sought to:
+
+1. Reduce the percentage of resident-owned patients with no co-attending listed in the EMR
+2. Expand resident patient panels to include previously inaccurate patient/PCP pairings
+3. Initiate a curriculum for residents to work with faculty preceptors on active panel management
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+To address inaccuracies in resident patient panels, we met with 20 PGY-2 and PGY-3 residents who had continuity clinic at our residency program's largest primary care site, which serves a diverse, medically complex urban patient population. We created a list of patients currently assigned to each resident and a list of all patients they had seen in their clinic in the previous year. Residents went through both lists to identify patients who were incorrectly assigned and identified corrections to be made. We then addressed these corrections in the EMR and ensured the correct resident PCP and academic PCP were listed for all resident-assigned patients. We created a list of resident patients designated as incorrectly assigned to be distributed to faculty preceptors to ensure accuracy.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Our metrics to evaluate this intervention were:
+
+1. Percentage of resident-owned patients with resident PCP and attending preceptor listed correctly in EMR
+2. Change in resident panel size post-intervention
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+After our intervention, we found:
+
+1. Percentage of resident-owned patients with incorrect resident PCP and faculty pairing listed in EMR decreased from 54% to 26%
+2. Resident panels expanded by 15% overall through correct identification of resident-owned patients
+3. Residents identified 21% of patients assigned to them as incorrectly assigned (i.e. patients they had never seen but were listed as their PCP)
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Conducting a panel review with residents allowed for a significant increase in panel accuracy and expansion of their patient panels. Complex decision-making is required about patients who residents identified as not theirs, and we solicited preceptor input to determine the correct ownership of those patients. We noted anecdotal increased resident satisfaction following this intervention, and hope to collect survey data to further explore resident satisfaction. Correct identification and maintenance of resident patient panels is a labor-intensive process that needs oversight from residents, attendings, nurses, and staff. Our next step is the development of a curriculum focusing on active panel management, in which residents will meet multiple times per year with their faculty preceptors to address panel accuracy and performance on quality metrics.
+
+# IMPROVING COLORECTAL CANCER SCREENING RATES WITH ELECTRONIC MEDICAL RECORD INFORMED CARE MANAGEMENT.
+
+Joseph Daprano1, 2; David Mansour4; David Margolius; James Misak3 4 1MetroHealth Medical Center, Willoughby Hills, OH; 2Case Western Reserve University, Cleveland, OH; 3MetroHealth, Cleveland, OH; 4MetroHealth Medical Center, Cleveland, OH. (Control ID #3185864)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Colorectal cancer is the third most common cancer diagnosed among men and women and the second leading cause of cancer death in the United States: however, nearly one-third of eligible adults in the United States have never been screened for colorectal cancer.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Create an EMR based population health process to improve colorectal cancer screening in an urban and suburban outpatient practice setting.
+2. Develop care management processes that can be implemented by any staff in urban and suburban outpatient practice settings.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Patients eligible but not yet screened for CRC were identified with the use of an EMR dashboard. Patient Service Representatives (in the suburban practice) and Community Health Worker students (in the urban practice), were educated on the importance of CRC screening and trained to contact patients in need of CRC screening. Bulk orders for all eligible patients in a practice were created by physicians via EMR. Patient Service Representatives and Community Health Worker students used telephone and in person contact with eligible patients for both the initial and follow up of patients who had not yet completed CRC screening. Contact events were recorded in a paper and eventually EMR file to allow for continued follow-up to completion as needed.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. A more than 10 % increased percentage of eligible patients screened for colorectal cancer at each of the two sites.
+2. Uptake of the EMR based Care Management process in each of the two sites.

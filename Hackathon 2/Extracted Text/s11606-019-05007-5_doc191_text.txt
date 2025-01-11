@@ -1,0 +1,29 @@
+# ABSTRACTS
+
+# MOTIVATIONS FOR AND USE OF COMPLEMENTARY AND ALTERNATIVE MEDICAL MODALITIES FOR ACUTE PAINFUL CONDITIONS
+
+Erica Morse1; Colleen Ross1; Stanley Xu1; Scott Clemensen2; Shaweta Babar3; Heidi Clune2; Leonard Wisneski4; Melissa de Picciotto2; Ingrid A. Binswanger1. 1Kaiser Permanente, Aurora, CO; 2Kaiser Permanente, Boulder, CO; 3Kaiser Permanente, Denver, CO; 4University of Colorado, Aurora, CO. (Control ID #3168415)
+
+# BACKGROUND
+
+Balancing autonomy and supervision is one of the most difficult goals for residency training programs to achieve. Night time rotations historically have been opportunities for residents to experience greater autonomy, but increasing patient acuity and volume in many hospitals, coupled with greater awareness of the importance of resident supervision to ensure patient safety, have led to a rise in the number of teaching hospitals that employ in-house overnight hospitalists ("nocturnists"). We sought to understand residents' perspectives on the adequacy of overnight supervision and barriers to contacting their overnight supervising attendings.
+
+# METHODS
+
+The Internal Medicine In-Training Examination (ITE) is a national voluntary examination administered annually in August and September. Each year, a select group of survey questions is administered at the end of the exam. In 2017, the ITE contained 7 questions about overnight supervision. We provide descriptive statistics of closed-ended questions. We performed content analysis of the open-ended questions and sorted the responses into categories based on the Systems Engineering Initiative for Patient Safety (SEIPS) model which identifies contributors to patient safety problems related to 5 factors: Tasks, tools/technology, people, organization, and environment.
+
+# RESULTS
+
+There were 20,744 respondents, with 34% PGY1s, 35% PGY2s and 31% PGY3s. Fifty-seven percent were male, 93% were categorical internal medicine or primary care residents, and 62% were US medical graduates. Over half (53%) reported having a supervising attending in the hospital overnight. Most residents (83%) reported that their supervision at night was adequate to ensure patient safety "always" or "most of the time;" 11% reported "sometimes" and 6% said "rarely" or "never." The 3 most common barriers to contacting attendings at night were: 1) wanting to make their own decisions, 2) not wanting to wake up an attending, and 3) the attending not being in the hospital. We asked what other barriers exist and categorized free text responses into each of the SEIPS categories. Programmatic culture discouraging residents from asking attendings for help (Organizational) was common. Other barriers included having access to other resources (e.g., fellows) (Organizational), being too busy to call (Task), believing they would not receive helpful input (Person), and previous attending behavior ("toxic, condescending, rude") discouraging calling (Person).
+
+# CONCLUSIONS
+
+About half of medicine residents in 2017 reported access to in-hospital attending supervision overnight. Substantially more than half of residents feel adequately supervised at night. Many barriers to contacting attendings were identified. Program leaders should explore their program's culture to understand their residents' perceived barriers to seeking attending level supervision. Attending behavior and a culture that suggests it is "weak" to involve attendings when residents feel that they need them should be addressed.
+
+# NATURAL LANGUAGE PROCESSING TO IDENTIFY PATIENTS WITH COGNITIVE IMPAIRMENT FROM THE ELECTRONIC HEALTH RECORDS
+
+Khalil Hussein1; Tielman Van Vleck1; Lili Chan1; Girish Nadkarni1; Parul Agarwal; Monica Mindt2; Alex Federman; Juan P. Wisnivesky1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Fordham University, New York, NY. (Control ID #3186148)
+
+# BACKGROUND
+
+As the U.S. population ages, the prevalence of cognitive impairment among adults will rise, and early detection of persons with cognitive impairment will become a public health imperative to allow for early interventions to reduce the risk of progression to dementia and to facilitate the enrollment of persons with dementia into care programs. While ICD9/10 codes are highly specific for cognitive impairment, they have low sensitivity. Therefore, alternative tools to identify people at highest risk of developing cognitive deficits are needed. Natural language processing (NLP) is an automated process that can be applied to electronic health records (EHR) to search for patterns of words. Our aim was to determine the sensitivity and specificity of a NLP algorithm for identifying cognitive impairment in adults.

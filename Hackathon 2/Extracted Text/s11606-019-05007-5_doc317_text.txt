@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+# YOU CAN'T SCALE UNICORNS: EXPLORING COMMUNITY BASED ORGANIZATIONS' PERSPECTIVES ON HEALTH CARE'S SOCIAL DETERMINANTS OF HEALTH PROGRAMMING
+
+Elena Byhoff1; Lauren A. Taylor2. 1Tufts Medical Center, Boston, MA; 2Harvard Business School, Boston, MA. (Control ID #3183013)
+
+# BACKGROUND:
+
+Policymakers are interested in the appropriate role for health care organizations in addressing social determinants of health (SDOH). Recent changes in Massachusetts Medicaid policy encouraged health care organizations to screen for and address SDOH deficits through Medicaid ACO models. Little is known about how community-based organizations (CBOs) view this new policy, nor how it may impact the social service delivery landscape.
+
+# METHODS:
+
+We conducted semi-structured interviews lasting 1 hour with representatives of health care systems participating in the Massachusetts Medicaid Accountable Care Organization (ACO) program and representatives from Massachusetts CBOs. We recruited representatives from the health care sector based on publicly available information on participation in the Medicaid ACO program. CBO recruitment focused on SDOH domains identified by health care interviewees as priorities. We used a snowball sampling strategy for recruitment until achieving thematic saturation. Interviews were transcribed and inductively coded to identify themes. We empaneled an advisory board of CBO representatives, academics, and health care representatives to provide feedback and ensure findings accorded with participant experiences.
+
+# RESULTS:
+
+Participants included health care executives (n=8) at Massachusetts Medicaid ACOs and leadership (n=46) from CBOs across Massachusetts. Health care interviewees were consistent in prioritization of SDOH domains (housing, food, transportation), concerns about scale and accountability among potential CBO partners, and ambivalence towards "owning" responsibility for SDOH. On the contrary, CBOs were highly varied in their perspectives of health care's entry into SDOH programming. This variation presented both within and between SDOH domains. The CBOs expressed variation along key dimensions: (1) awareness of policy incentives to promote health care entering the SDOH space, (2) duration of experience in partnering with health care to provide social services in the community, (3) enthusiasm for partnership with health care, and (4) estimation of CBO's value to health care. CBOs with more experience partnering with health care were more skeptical of the potential for successful partnership, expressing specific concerns about conflicts of interest and misalignment of targeting priorities (covered lives vs whole community).
+
+# CONCLUSIONS:
+
+CBOs varied in identifying benefits of partnership with the health care sector to provide social services. Several cited concerns of medicalizing social services. CBO's limited partnership experience with the health care sector suggests that financial incentives may be necessary but insufficient to bridge the gap between the sectors. Expectations of what could be achieved through partnership diverged considerably. Our findings urge policymakers to carefully consider both stakeholder positions if and when they (a) devise policies for and (b) provide incentives to health care organizations to move into SDOH programming.
+
+# CLINICAL VIGNETTE
+
+# "WHEN CLAP GETS YOUR HAND"
+
+Sarabjeet S. Suri; Justine Phifer; Andrea Porrovecchio. Montefiore Medical Center, Bronx, NY. (Control ID #3184768)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize disseminated gonococcal infection (DGI) as a cause of polyarticular septic arthritis and more rarely, osteomyelitis.
+
+# LEARNING OBJECTIVE #2:
+
+Assess all sexual risk factors, including oral sex as a source of gonococcal infection.
+
+# CASE:
+
+A 37-year-old man with well controlled HIV (undetectable viral load) presented with pain in his right wrist and left shoulder for 4 weeks. He never had fever, chills, rash, dysuria, or penile discharge. He endorsed having sex with men, but denied any sexual activity in the past year. On presentation, pertinent exam findings included swelling and tenderness of right wrist with limited active and passive range of motion. Left shoulder had tenderness with decreased range of motion. X ray of right wrist revealed erosion of the palmar aspect of the distal radius. Labs were significant for sedimentation rate of 110, c reactive protein of 5.9, and a negative immunologic work up. Right wrist aspiration revealed a white count of 43 K with intra-op cultures revealing growth of Neisseria gonorrhoeae. Antibiotics were initiated and left shoulder fluid aspiration revealed a white count of 850K. On repeat questioning, patient revealed he performed oral sex approximately 7 weeks prior to onset of his wrist pain. MRI right wrist revealed osteomyelitis of the distal radius and ulna. An echocardiogram revealed no vegetation, blood cultures had no growth, and urine NAAT was negative for gonorrhea. He was treated with IV ceftriaxone & clinically improved.
+
+# IMPACT/DISCUSSION:
+
+The most common etiologies of infectious arthritis in HIV patients include S. aureus and Streptococcal species. DGI is a far less common etiology of septic arthritis. It is usually seen in male patients under age of 40 with an estimated incidence of 0.5-3% in people infected with N. gonorrhoeae. The incubation period is around 1-2 weeks with hematogenous spread occurring within 2-3 weeks post primary insult. Internists should be aware of risk factors for DGI, including complement deficiency, HIV, postpartum state, lupus, or any immunocompromised state and should take a thorough sexual history. DGI presents as arthritis dermatitis syndrome (tenosynovitis, dermatitis and polyarthralgia) or as purulent arthritis and results from intermittent bacteremic spread of gonorrhea (blood cultures may be negative). Synovial fluid analysis and anogenital/oral swabs should be obtained. Imaging of involved joints should also be performed to determine the extent of disease, as osteomyelitis is an uncommon but important sequela of DGI. Treatment in DGI involves joint drainage and 1-2 weeks of parenteral therapy with a third generation cephalosporins and a dose of azithromycin, with some requiring longer duration of parenteral therapy.
+
+# CONCLUSION:
+
+DGI is on the differential diagnosis for polyarticular septic arthritis even in a patient with well controlled HIV. It is important to obtain complete sexual history and recognize that DGI may rarely lead to osteomyelitis.
+
+# "WHEN A TICK GETS THE TICKER"
+
+Sarabjeet S. Suri1; Kristin A. Swedish2. 1Montefiore Medical center, Bronx, NY; 2 Montefiore Medical Center, Bronx, NY. (Control ID #3183953)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that Lyme carditis can manifest from weeks to months after exposure.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss how conduction abnormalities due to Lyme are variable and can include AV block, QT prolongation, bundle branch blocks and Ventricular tachycardia.
+
+# CASE:
+
+A 34-year old man presented with dyspnea and palpitations for one week. He had no significant past medical history. He reported trouble walking up one flight of stairs, which was atypical, as he was otherwise an avid gym goer and outdoorsman. He had no significant family history, did not smoke or use drugs. He was bradycardic but otherwise hemodynamically stable. Physical exam was significant for irregular rhythm, bradycardia, and fading circular rash on left thigh. EKG revealed complete heart.

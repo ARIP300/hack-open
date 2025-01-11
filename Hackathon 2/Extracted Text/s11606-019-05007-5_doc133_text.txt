@@ -1,0 +1,33 @@
+# ABSTRACTS
+
+# GENDER AND ACADEMIC HOSPITALISTS
+
+Carrie A. Herzke1; Joanna M. Bonsall4; Amanda Bertram3; Hsin-Chieh Yeh2; Arielle Apfel3; Joseph Cofrancesco2. 1Johns Hopkins, Baltimore, MD; 2JHUSOM, Baltimore, MD; 3Johns Hopkins University, Baltimore, MD; 4Emory University School of Medicine, Atlanta, GA. (Control ID #3180219)
+
+# BACKGROUND:
+
+As payment models shift from fee-for-service to value-based, health systems are seeking evidence-based strategies for managing population health. The U.S. Centers for Medicare & Medicaid Services is currently assessing an Accountable Health Communities (AHC) model which uses a standardized screener to assess and address, during clinical visits, health-related social needs (HRSNs) including food, housing, rent/utility support, interpersonal safety, and social support. The purpose of this study is to examine gender differences in acceptability of the AHC HRSNs screener and patterns of HRSNs among adult primary care patients.
+
+# METHODS:
+
+Participants were enrolled in the primary care waiting room of an urban, academic medical center 09/2017-07/2018. Study participants included adults ages 18 and older who spoke English or Spanish, were seeking primary care and were randomized to complete the AHC HRSNs screener and related acceptability questions via a tablet. Sociodemographic and health care characteristics, acceptability of the AHC screener, and self-reported HRSNs were described by gender and differences were examined using Student's t-test (continuous variables) or Chi-squared statistics (categorical variables).
+
+# RESULTS:
+
+Study participants were predominantly non-Hispanic black (65.9%) and aged 35-64 years old (50.5%). There were no significant differences in sociodemographic characteristics between men and women. The majority of women and men reported excellent, very good or good health (82.4% and 64.3%, respectively, p-value=0.06). Acceptability of the AHC screener was high and similar among gender groups. Only a third of all participants had previously been asked about at least 1 HRSNs during a clinical visit in the last 12 months. Nearly two-thirds (63.4%) of men and 44.6% of women reported at least 1 HRSN (p-value, 0.10). Men were significantly more likely than women to report that they would like assistance with 1 social need (39.3 versus 16.4, p-value 0.02). The most common needs were food (28.8 and 40.7, women and men) and housing (28.4 and 42.9, women and men).
+
+# CONCLUSIONS:
+
+Acceptability of the AHC HRSNs screener and rates of HRSNs are high among men and women. As screening is adopted into clinical practice, low-intensity, scalable solutions to address HRSNs are needed. Men may be more receptive to assistance.
+
+# GENERAL PRACTITIONER PERCEIVED WORKLOAD OF PATIENT CHARACTERISTICS
+
+Justin A. Charles; Peder Ahnfeldt-Mollerup; Jens Søndergaard2; Julia Logan1; Troels Kristensen2. 1Stony Brook University School of Medicine, Stony Brook, NY; 2University of Southern Denmark, Odense, Denmark. (Control ID #3184696)
+
+# BACKGROUND:
+
+It is well known that patients with certain sociodemographic characteristics provide additional challenges to patient care and add to general practitioner (GP) workload. However, updated measurements of perceived workload in general practice are lacking. Understanding the contribution of different sociodemographic patient types to GP perceived workload may inform planning and resource allocation in general practice. This study aims to measure perceived workload from patients with different sociodemographic characteristics in general practice, and to reduce patient characteristics into underlying constructs and global, rounded measures of perceived workload.
+
+# METHODS:
+
+A web-based survey was distributed to a random, stratified sample of 1,196 Danish GPs. A part of it contained

@@ -1,0 +1,51 @@
+# EFFICACY, CLINICALLY MEANINGFUL RESPONSE, AND EARLY EFFECT OF FREMANEZUMAB IN PATIENTS WITH EPISODIC MIGRAINE
+
+David W. Dodick 1 ; Stephen D D. Silberstein 2 ; Joshua M. Cohen 3 ; Ronghua Yang 3 ; Melissa Grozinski-Wolff 3 ; Xiaoping Ning 3 ; Sissy Easo-Joseph3; Carolina Burgos-Vega3. 1Mayo Clinic, Phoenix, AZ; 2Jefferson Headache Center, Thomas Jefferson University, Philadelphia, PA; 3Teva Pharmaceuticals, Frazer, PA. (Control ID #3185671)
+
+# BACKGROUND:
+
+Migraine is a prevalent and disabling neurological disorder. The most common form of migraine is episodic migraine (EM), defined as fewer than 15 headache days per month. Patients with 3 or more headaches per month are at risk for progression to chronic migraine (CM). Preventive migraine treatment is recommended in EM patients with 4 or more headache days per month with some impairment, and preventive therapeutics with early onset of efficacy may improve patient outcomes. Fremanezumab is a fully humanized monoclonal antibody (IgG2 a) that selectively targets calcitonin gene-related peptide (CGRP) and is approved for the preventive treatment of migraine in adults. This analysis of the HALO EM trial assessed the onset of efficacy of fremanezumab for the preventive treatment of EM.
+
+# METHODS:
+
+HALO EM was a multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase 3 study evaluating the efficacy and safety of fremanezumab for the preventive treatment of EM. Adults with EM, confirmed during a 28-day pre-treatment period, were randomized to receive either subcutaneous fremanezumab quarterly (675 mg at baseline and placebo at Weeks 4 and 8), fremanezumab monthly (225 mg at baseline, Weeks 4 and 8), or matching placebo over a 12-week period. The primary endpoint was the mean change from baseline in the monthly average number of migraine days: a day with 2 consecutive hours of a headache meeting criteria for migraine, probable migraine, or when acute migraine-specific medication (triptans or ergots) was used to treat a headache.
+
+# RESULTS:
+
+A total of 875 patients were randomized to receive either fremanezumab quarterly (n=291), fremanezumab monthly (n=290), or placebo (n=294). Fremanezumab significantly reduced the mean number of monthly migraine days during the 12-week treatment period, for both fremanezumab quarterly (least-squares mean change: -3.4 days; P<0.0001) and fremanezumab monthly (-3.7 days; P<0.0001) compared with placebo (-2.2 days). Response to treatment was seen during the first week of treatment (quarterly: -0.8 days; monthly: -0.9 days; both P<0.0001 vs placebo: -0.3 days). During the 12-week treatment period, there were reductions in the number of days with any acute headache medication use (quarterly: -2.9 days; monthly: -3.0 days; both P<0.0001 vs placebo: -1.6 days), and a greater proportion of patients who received fremanezumab achieved at least a 50% reduction in migraine days (quarterly: 44%; monthly: 48%; both P<0.0001), as compared with those who received placebo (28%).
+
+# CONCLUSIONS:
+
+Fremanezumab is effective for the preventive treatment of migraine, with responses seen during the first week of treatment.
+
+# ELDERLY PATIENTS' AND THEIR CAREGIVERS' PERSPECTIVES ON MEDICATION VALUE: A QUALITATIVE STUDY
+
+Aimee N. Pickering1; Megan E. Hamm2; Joseph T. Hanlon2, 3; Carolyn T. Thorpe3; Walid F. Gellad3, 2; Thomas R. Radomski2, 3. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh School of Medicine, Pittsburgh, PA; 3VA Pittsburgh Healthcare System, Pittsburgh, PA. (Control ID #3184453)
+
+# BACKGROUND:
+
+Health systems are increasingly implementing deprescribing interventions to reduce elderly patients' use of unnecessary or harmful medications. Shared decision making between prescribers and patients is an essential component of successful deprescribing, yet patients' and caregivers' perspectives on medication value and their willingness to stop a medication are poorly understood. Our objective was to identify the most significant factors that impact the perceived value of a medication from the perspective of patients and caregivers.
+
+# METHODS:
+
+We conducted 6 focus groups (3 of patients; 3 of caregivers), each consisting of 6-8 community-dwelling adults aged 65 years, or their respective caregivers, who had been prescribed 5 medications in 2018. We sampled participants with diverse sociodemographic backgrounds and varying forms of health insurance. We explored participants' views on factors that enhance or diminish their perception of a medication's value and motivate their decision to discontinue its use. Focus groups were audio-recorded and transcribed verbatim. We developed a codebook that 2 members of the research team independently applied to each transcript, with discrepancies adjudicated by the principal investigator. We then conducted a thematic analysis to identify salient themes.
+
+# RESULTS:
+
+We identified 3 key themes. First, participants cited effectiveness as the primary factor that caused them to consider a medication to be of high value and worth taking. Patients appraised effectiveness based upon their perceived improvement in symptoms, such as pain, or objective improvement in clinical values, such as blood pressure. Caregivers considered these factors but also based their assessment upon a prescriber's recommendation without directly observing clinical improvement. Second, patients and caregivers considered a medication to be of low value and would stop taking it if it adversely affected their quality-of-life. Participants most frequently cited severity of side effects, discomfort associated with administration, or inconvenience in taking the medication. One caregiver noted, "if it's causing… debilitating pain or nausea… then I don't know if it is worth it… it's sacrificing your quality of life in your older years…." Third, while factoring less prominently, participants also cited a medication's cost as a consideration in determining its value, especially if it caused them to make other material sacrifices.
+
+# CONCLUSIONS:
+
+We identified a complex interplay of factors, including perceived effectiveness, impact on quality of life, and cost as playing central roles in patients' and caregivers' views of a medication's value and their willingness to discontinue its use. Our findings will allow health systems to incorporate a patient-centered assessment of value into systems-based deprescribing interventions and enable prescribers to more meaningfully engage older patients in shared decision making when deprescribing unnecessary or harmful medications.
+
+# ELECTIVE HIP AND KNEE REPLACEMENT: IMPACT OF SOCIAL DETERMINANTS ON POST-ACUTE CARE USE AND OUTCOMES
+
+Shawna N. Smith 1 ; Ashley Snyder 1 ; David Ratz 2 ; Laurence F. McMahon1; Jennifer Meddings1. 1University of Michigan, Ann Arbor, MI; 2Veterans Affairs, Ann Arbor, MI. (Control ID #3182513)
+
+# BACKGROUND:
+
+The Hospital Readmissions Reduction Program (HRRP) includes elective total knee and hip arthroplasty (TKA/THA). We assessed how claims-based variables used for Medicare risk-adjustment and pre-procedure measures of social determinants of health, mobility, activities of daily living (ADL), and pain are associated with the post-acute care (PAC) type first provided after discharge and post-procedure outcomes.
+
+# METHODS:
+
+Retrospective cohort study of Medicare claims was performed for index TKA/THA admissions 2010-2014 as defined by HRRP, and all PAC 90 days post-discharge for adults age 65 years with elective primary TKA/THA, merged with the closest biennial Health and Retirement Study (HRS) survey waves to measure pre-procedure social determinants of health, and pre- and post-procedure self-reported mobility limitations, ADL limitations, and pain. We examined social and clinical determinants as well as pre-post procedure changes in mobility, ADLs, and pain associated with 3 categories of PAC: home health rehabilitation (HH), outpatient rehabilitation (OutptRehab), and skilled nursing facility.

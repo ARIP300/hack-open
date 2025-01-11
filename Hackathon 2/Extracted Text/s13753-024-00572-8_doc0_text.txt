@@ -1,0 +1,21 @@
+# Stakeholder Theory, Public Engagement, and Epistemic Injustice: The Case of Covid-19 Vaccine Hesitancy in Scotland’s African, Caribbean, and Black Communities
+
+Josephine U. Adekola1 · Robert Chia1
+
+Accepted: 30 June 2024 / Published online: 26 August 2024
+
+© The Author(s) 2024
+
+# Abstract
+
+The adoption of a stakeholder approach to public engagement within the public sector has been extensive. However, there remain critical gaps in the understanding of stakeholder participation arising from hidden disparities that contribute to unequal access to communication channels, information, and hence ultimately knowledge and decision making. The term “epistemic injustice” has been used to describe such inequality of access and consequently, the outcome that ensues. Epistemic injustice is much overlooked in stakeholder theory. This article shows how epistemic injustice can act as a barrier to effective stakeholder engagement and hence to successful public policy formulation and implementation. We use the case of vaccine hesitancy among Scotland’s African, Caribbean, and Black (ACB) communities to illustrate this problem of unequal participation. The study drew on primary data involving 85 participants and secondary data sources from extant literature and explored salient factors shaping barriers to vaccine uptake during the recent pandemic. The findings demonstrate how the failure to grasp epistemic injustice undermines the effectiveness of the stakeholder approach, even with the most well-intentioned efforts. We argue that epistemic injustice is a critical barrier to effective stakeholder approaches.
+
+# Keywords
+
+Covid-19 vaccine hesitancy · Epistemic injustice · Public engagement · Scotland · Stakeholder theory
+
+# 1 Introduction
+
+The effective delivery of public services, especially in healthcare initiatives, relies heavily on the active engagement of all stakeholders (Brugha and Zwi 1998; Riege and Lindsay 2006). Stakeholder engagement is instrumental in shaping public health policies, programs, and services and directly influences public perceptions, understanding, and participation and hence the choices made regarding appropriate health-related behaviors (Rowe and Frewer 2005; Aguilar-Gaxiola et al. 2022). However, despite the recognized significance of stakeholder engagement in public service provisions, disparities in stakeholder engagement practices associated with the diversity of communities within a society have become increasingly evident (Brandt et al. 2018). These disparities often derive from differences in the ability of each community member to access communication channels and healthcare information and thus to actively participate in public policy decision-making processes. As a result, perceptions of healthcare priorities and needs vary significantly among different communities. Such differences, in turn, can ultimately influence the effectiveness of healthcare policies and shape the overall quality of healthcare services provided.
+
+This stakeholder approach now widely adopted in the public sector has been influenced by stakeholder theory, formulated initially within a business context (Freeman 2010) that emerged as an alternative to the orthodox view of corporate governance as essentially self-interested contractual relationships between owners/shareholders and those appointed to manage the corporation. It challenges traditional shareholder theory by recognizing that the impact of an organization extends well beyond its direct shareholders (Pfarrer 2010) to those who are nevertheless affected by the organization’s operations and hence have a “stake” in it.

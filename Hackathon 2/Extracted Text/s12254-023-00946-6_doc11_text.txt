@@ -1,0 +1,45 @@
+# iwCLL 2023
+
+# CLL relapse during venetoclax therapy
+
+Blood 2022; 140(20): 2127-2141
+
+- 10 Blombery P et al., Acquisition of the recurrent Gly101Val mutation in BCL2 confers resistance to venetoclax in patients with progressive chronic lymphocytic leukemia. Cancer Discov 2019; 9(3): 342-353
+- 11 Wang et al., Mechanisms of resistance to noncovalent Bruton's tyrosine kinase inhibitors. N Engl J Med 2022; 386(8): 735-743
+- 12 Zhang D et al., NRX-0492 degrades wild-type and C481 mutant BTK and demonstrates in vivo activity in CLL patient-derived xenografts. Blood 2023; 141(13): 1584-1596
+- 13 Abdel-Wahab O et al., Kinase dead BTK mutations confer resistance to covalent and noncovalent BTK inhibitors but are susceptible to clinical stage BTK degraders. ASH 2022, abstract 750
+- 14 Noviski M et al., NX-5948 promotes selective, sub-nanomolar degradation of inhibitor-resistant BTK mutants. AACR 2023, abstract 2850
+- 15 Noviski M et al., NX-5948 and NX-2127 potently degrade a broad array of clinically-relevant BTK mutants that display resistance to inhibitors and other BTK degraders. iwCLL 2023, poster 2020
+- 16 Huynh T et al., NX-2127 and NX-5948, two clinical stage cereblon-recruiting BTK degraders, facilitate T-cell functionality in CLL. iwCLL 2023, poster 1050
+- 17 Mato AR et al., NX-2127-001, a first-in-human trial of NX-2127, a Bruton's tyrosine kinase-targeted protein degrader, in patients with relapsed or refractory chronic lymphocytic leukemia and B-cell malignancies. Blood 2022; 140 (Supplement 1): 2329-2332
+- 18 Shadman M et al., Zanubrutinib in patients with previously treated B-cell malignancies intolerant of previous Bruton tyrosine kinase inhibitors in the USA: a phase 2, open-label, single-arm study. Lancet Haematol 2023; 10(1): e35-e45
+- 19 Shadman M et al., A phase 2 study of zanubrutinib in previously treated B-cell malignancies intolerant to ibrutinib and/or acalabrutinib: preliminary results for patients with CLL/SLL. iwCLL 2023, poster 2009
+- 20 Zhu H et al., Integrating multi-omics to reveal the heterogeneous clonal evolutionary characteristics in CLL patients with zanubrutinib resistance. iwCLL 2023, poster 1102
+
+# CLL treatment in the real world: insights from across the globe
+
+# Second- and later-line therapies in the USA
+
+The analysis reported by Davids et al. at iwCLL 2023 examined the characteristics, treatment patterns and outcomes of a cohort of 1,102 real-world US patients with CLL receiving two or more lines of therapy [1]. Data were obtained from the COTA real-world database. Second-line treatment was initiated between 2014 and 2021. The median patient age at diagnosis was 64 years, 61 % were males, and 88.1 % were treated in the community setting.
+
+Second-line regimens predominantly included ibrutinib, bendamustine plus rituximab (BR), rituximab monotherapy, acalabrutinib, and investigational regimens. In the third line, patients most commonly received ibrutinib, acalabrutinib, and BR. Fourth-line regimens were mainly ibrutinib, rituximab plus venetoclax, and acalabrutinib. In cases, the reasons for discontinuation were classified as “other”. Approximately 18 % of patients died after the initiation of second-line therapies and prior to the start of the third line; 25.5 % of all patients died prior to the initiation of the fourth line. From the start of second-line treatment, median real-world progression-free survival (PFS) was 31.4 months, and median real-world overall survival (OS) was 79.0 months. The authors noted that innovative treatment options and novel mechanisms of action are required to improve outcomes in patients with CLL.
+
+Although targeted agents have improved patient outcomes, the findings suggested that there is still an unmet need. Second-line therapies were discontinued in 77.5 %. Toxicity was the reason for this in 29.0 %, physician preference in 9.4 %, progression in 6.4 % and death in 6.8 %. In almost half of the cases, the reasons for discontinuation were classified as “other”.
+
+# Observations from China
+
+In light of the scarcity of empirical evidence on the usage of BTK inhibitors in China, a retrospective cohort study in-
+
+| |BTK inhibitors|BCL-2 inhibitors|Anti-CD20 antibodies|Chemotherapy and anti-CD20 antibodies|Chemotherapy|HSCT – Hematopoietic stem cell transplantation|Investigational agents|PI3K inhibitors|PI3K inhibitors and anti-CD20 antibodies|Other treatments|
+|---|---|---|---|---|---|---|---|---|---|---|
+|2014|39.9|0.0|9.2|37.9| | | | | | |
+|2015|48.9|34.0|25.5|6.4| | | | | | |
+|2016| | | | | | | | | | |
+|2017| | | | | | | | | | |
+|2018| | | | | | | | | | |
+|2019| | | | | | | | | | |
+|2020| | | | | | | | | | |
+|2021| | | | | | | | | | |
+|2022| | | | | | | | | | |
+
+Figure 1: CLL treatment regimens administered in the USA between 2014 and 2022

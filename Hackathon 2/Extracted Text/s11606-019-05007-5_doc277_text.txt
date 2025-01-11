@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# THE IMPACT OF PRICE CHANGES ON PROVIDER BEHAVIOR: EVIDENCE FROM SHARP CHANGES IN MEDICARE PROFESSIONAL AND FACILITY FEES
+
+Zirui Song. Harvard Medical School, Boston, MA; Massachusetts General Hospital, Boston, MA. (Control ID #3186116)
+
+# BACKGROUND:
+
+Understanding how providers respond to fee changes is central to health policy. The price of medical care differs by site of care—services delivered in a facility setting garner a "professional fee" for the physician and a "facility fee" for the hospital, the sum of which typically exceeds the single fee paid in an office setting. This study evaluates a natural experiment in Medicare prices using a sharp change in fees for coronary stents.
+
+# METHODS:
+
+In 2013, Medicare lowered the professional fee for a patient's initial stent, while raising the professional fee for additional stents. Simultaneously, Medicare raised the facility fee for all stents. This study examines its effect on multiple margins of physician response—spending, volume, site of care, stent choice, patient selection, offsets on inpatient stenting, and spillovers onto the commercially-insured population 4 years into the policy. It uses 2009-2016 Medicare claims and segmented regression adjusted for age, sex, risk, secular trends, seasonality, cost-sharing, and geography. Standard errors were clustered by MSA.
+
+# RESULTS:
+
+The population included 405,836 Medicare beneficiaries nationwide and 9,222,719 individuals with employer-sponsored insurance. On average over 4 years, the Medicare policy led to an increase in spending of $2.36 per beneficiary per year on cardiac stents, a 15.6% increase over pre-intervention spending levels (p<0.001). This was driven by increased spending on drug-eluting stents in the facility setting ($2.02 per beneficiary per year increase, p<0.001). The volume of stents placed increased, on average, 0.63 stents per 1,000 beneficiaries per year (7.9% increase, p<0.001), with drug-eluting stents in the facility setting explaining this growth. The quantity of patient-days during which stenting took place increased by 52 days per 1,000 beneficiaries per year (1.1% increase, p=0.001), and stents placed per patient-day increased by 0.28 per year (p=0.008) over the 4 years. The share of patients stented without active chest pain increased, whereas that with active chest pain declined. Beneficiary cost-sharing remained stable. In terms of offsets, inpatient volume decreased by 0.04 hospitalizations per 1,000 beneficiaries per year (p<0.001). Commercially-insured populations saw an increased spending of $0.47 per enrollee per year (10.4% increase vs. pre-intervention, p<0.001)—smaller than the Medicare effect due to lower volume and price increases.
+
+# CONCLUSIONS:
+
+Medicare's cut in physician fees and increase in facility fees led to increased spending, driven by changes in site of care, treatment choice, treatment intensity, and share of patients with stable coronary artery disease stented. Moreover, Medicare faced the full costs of this policy; hospitalizations were partially offset, and smaller increases in spending and volume among commercially-insured populations took place. Altering Medicare prices exerts multiple downstream effects on provider behavior with potentially important unintended consequences.
+
+# THE IMPACT OF SOCIAL MOVEMENTS ON TEAM-BASED PRIMARY CARE: A QUALITATIVE ASSESSMENT OF PERCEPTIONS OF #METOO AND #BLACKLIVESMATTER
+
+Cati Brown-Johnson 1; Nadia Safaeinili; Jonathan G. Shaw 1; Marcy Winget 3; Megan Mahoney 4. 1Stanford University School of Medicine, Stanford, CA; 2Stanford University, Stanford, CA; 3Stanford University Medical School, Stanford, CA; 4Stanford University, Palo Alto, CA. (Control ID #3185638)
+
+# BACKGROUND:
+
+Social movements such as #metoo and #blacklivesmatter can impact the practice environment. Implementation science frameworks posit that the environment surrounding interventions can impact them. Studies of the impact of national policy and social movements on workplace culture have been conducted in medical contexts, but systematic reports are limited. These national conversations may be particularly relevant to team-based primary care interventions, which bring together healthcare staff with diverse training and backgrounds, and may be primarily supported by female medical assistants (MAs). To our knowledge, this project is the first research-based exploration of the impact of #metoo and #blacklivesmatter on team-based primary care.
+
+# METHODS:
+
+Qualitative interviews (n=26) were conducted as part of an evaluation of team-based care across 5 academic practices. Interviewees (providers, including nurse practitioners/physician assistants n=12; MAs n=10; management n=4) were asked how, if at all, #metoo or #blacklivesmatter impacted interactions with staff or patients. Interviews were recorded; audio files and transcripts were coded for emergent themes by two researchers.
+
+# RESULTS:
+
+Interviewees were predominately women (n=22), as these clinics were largely staffed by women. Some interviewees had not heard of #metoo or #blacklivesmatter (n=6). Perceived impacts of #metoo included team meetings to discuss sexual harassment, implementing protocols to curb harassing behavior by patients, and utilizing case conferences to debrief the emotional toll of hearing "sad stories" from female patients who had experienced trauma. A small minority of interviewees reported perceiving that male colleagues were dismissive of female staff concerns, or "just didn't understand." Providers reported noticing increased clinical focus on supporting transgender and non-binary patients as a possible outgrowth related to the #metoo movement. Perceived impacts of #blacklivesmatter were reported less frequently. The majority of interviewees responded to questions about #blacklivesmatter by noting that they treat everyone the same. A mix of MAs and providers reported tailoring their behavior for non-white patients, with one provider noting that she is more likely to attend to complaints from both non-white patients and women as a result of these national conversations. Another provider reported asking new patients "How has healthcare been for you? Have you had barriers in the past?" due to awareness that race/ethnicity can impact healthcare access.
+
+# CONCLUSIONS:
+
+Our novel exploratory study demonstrates that national movements can impact team-based primary care. Next steps include investigating how conversations around movements like #metoo or #blacklivesmatter might be leveraged to contribute to safer working environments for staff and more equitable care for patients.
+
+# THE IMPACT OF THE AFFORDABLE CARE ACT MEDICAID EXPANSION ON RACIAL/ETHNIC AND SEX DISPARITIES IN HIV TESTING: NATIONAL FINDINGS FROM THE BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
+
+Anitha Menon; Payal Patel; Renuka Tipirneni. University of Michigan, Ann Arbor, MI. (Control ID #3180729)
+
+# BACKGROUND:
+
+More than half of Americans have not been tested for HIV in their lifetime, and over a third of all HIV diagnoses are made less than a year before the progression to AIDS. While the cause of low testing rates is multifactorial, a major barrier to universal HIV testing is lack of universal access to healthcare. The Affordable Care Act (ACA) Medicaid expansion led to large coverage gains in states that expanded, which may translate to improvements in health outcomes. Prior work has shown that overall HIV testing rates increased after the ACA. This study assessed the differential impacts of ACA Medicaid expansion on racial/ethnic (e.g. Black race) and racial/ethnic-sex (e.g. white females) disparities in HIV testing.
+
+# METHODS:
+
+The group primarily targeted by the 2014 Medicaid expansion - low-income (138% of the federal poverty level) adults ages 19-64 who are non-pregnant and non-disabled - was studied using the Behavioral Risk Factor Surveillance System (BRFSS) data from all 50 States and the District of Columbia. A quasi-experimental study design was used with triple difference-in-differences (DDD) logistic regression analyses to...

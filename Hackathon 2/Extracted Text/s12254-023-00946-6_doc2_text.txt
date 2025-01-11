@@ -1,0 +1,33 @@
+# Special Issue
+
+# iwCLL 2023
+
+# Table
+
+# Pros and cons of various first-line treatment options
+
+|Continuous BTK inhibitors|Venetoclax/obinutuzumab|Venetoclax/BTK inhibitors|
+|---|---|---|
+|Pros|Pros|Pros|
+|+ Easy to start and take|+ 1-year treatment duration|+ Fixed duration|
+|+ Highly effective in TP53-disrupted disease|+ No cardiovascular side effects|+ All-oral treatment|
+|Cons|Cons|Cons|
+|+ Indefinite duration|+ Difficult to start (tumor lysis syndrome risk)|+ Difficult to start (tumor lysis syndrome risk)|
+|+ Cardiovascular and bleeding adverse events|+ Unsuitable for patients with renal disease or unable to tolerate hydration|+ Unsuitable for patients with renal disease or unable to tolerate hydration|
+| |+ Anti-CD20 antibody has risks| |
+
+als such as the randomized E1912 study in which ibrutinib/rituximab outperformed the most effective chemoimmunotherapy regarding overall survival, reducing mortality by more than 50% (HR, 0.47; p = 0.018) [3]. In the RESONATE-2 trial, ibrutinib monotherapy, as compared to chlorambucil, gave rise to a sustained significant progression-free survival (PFS) advantage, with 7-year PFS rates of 59% vs. 9% [1].
+
+# Outcome improvement in patients with TP53 aberration
+
+Importantly, BTK inhibitor treatment confers significant benefits in TP53-disrupted CLL. In the Alliance A041202 trial, ibrutinib ± rituximab induced superior PFS compared to bendamustine/rituximab (BR), which was independent of the presence of TP53 abnormalities [4]. Fixed-duration treatment with venetoclax/obinutuzumab, on the other hand, did not abrogate the adverse effect of TP53 aberrations, as was shown by the CLL14 study [5]. Dr. Rogers pointed out that these findings support continuous BTK inhibitor therapy as the preferred option for patients with TP53-disrupted CLL. Nevertheless, according to real-world data, the presence of del(17p) still affects the overall survival obtained with first-line ibrutinib, although these outcomes are certainly improved compared to the previous treatment standard of chemoimmunotherapy [6].
+
+Another advantage of BTK inhibitors results from the possibility of combinations with anti-CD20 monoclonal antibodies. While BTK inhibition is continuous, anti-CD20 therapy is commonly restricted to 6 cycles. The choice of agents appears to make a difference. Rituximab plus ibrutinib did not improve PFS over ibrutinib alone in the Alliance A041202 trial [4], whereas obinutuzumab plus acalabrutinib was shown to increase PFS compared to acalabrutinib alone.
+
+Randomized comparisons across covalent BTK inhibitors in pretreated patients have revealed diverse results. While the ELEVATE-RR study did not show a significant PFS difference between ibrutinib and acalabrutinib [8], zanubrutinib prolonged PFS vs. ibrutinib in the ALPINE trial (HR, 0.65) [9]. In both ELEVATE-RR and ALPINE, the rates of atrial fibrillation/flutter were higher with ibrutinib than with the next-generation BTK inhibitors acalabrutinib and zanubrutinib. Hypertension occurred less commonly with acalabrutinib vs. ibrutinib. However, not all adverse events (AEs) are reduced with the newer drugs; for bleeding events, the reduction is unclear, and specific AEs such as headache for acalabrutinib and neutropenia for zanubrutinib have been reported. Nevertheless, the availability of several agents allows for some tailoring of treatment and for switching in the setting of intolerance, thus enabling some patients to continue BTK inhibitor therapy after the emergence of unacceptable AEs.
+
+In addition, BTK inhibitors represent a convenient therapy for both patients and physicians. Oral daily regimens are easy to administer and can be used in a wide variety of settings. While venetoclax confers a considerable risk of tumor lysis syndrome, the initiation of BTK inhibition requires only limited monitoring.
+
+Generally, BTK inhibitors are well-tolerated drugs, and many patients are hardly impaired with regard to their daily activities. Current questions in the setting of BTK inhibition relate to the ideal timing of discontinuation of continuous monotherapy and the definition of differences between covalent BTK inhibitors in terms of efficacy, toxicity, and resistance. Another issue is optimal sequencing of the next CLL treatment(s) in case of progression.
+
+memo © Springer-Verlag GmbH Austria, part of Springer Nature Vol. 16 ∙ Suppl 10/2023 S165

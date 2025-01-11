@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# CENTRAL ADRENAL INSUFFICIENCY
+
+Glucocorticoid therapy was started and significant clinical improvement was noted on follow-up clinic visit.
+
+# IMPACT/DISCUSSION:
+
+Hypophysitis is an acute or chronic inflammation of pituitary gland. It is a rare condition and the incidence has not been quantified. Immunotherapy associated hypophysitis often presents with headache and anterior hypopituitarism. Anterior hypopituitarism shows a characteristic but atypical pattern of deficiency of ACTH followed by thyroid stimulating hormone (TSH), gonadotrophins and prolactin deficiency or hyperprolactinemia. In a study conducted at MD Anderson Cancer Center in Houston, immunotherapy induced hypophysitis was defined as 1 pituitary hormonal deficiencies (either ACTH or TSH) plus MRI abnormality OR 2 pituitary hormonal deficiencies plus headache or MRI abnormality. Our patient had developed hypothyroidism and central adrenal deficiency. MRI of brain was also obtained which did not show any significant finding but she did report headaches, excessive sleepiness and nausea. Therefore, she was diagnosed with nivolumab induced hypophysitis based on clinical grounds and abnormal hormonal profile. She was started on glucocorticoids to which she responded well symptomatically further supporting our diagnosis.
+
+# CONCLUSION:
+
+Immunotherapy induced hypophysitis is a rare entity. This is the first case of nivolumab induced hypophysitis in a patient with recurrent non squamous non small cell lung carcinoma. Due to rarity of this condition, a high degree of suspicion and a multimodal approach is required for its timely diagnosis.
+
+# NO ALL HEADACHES ARE MIGRAINES
+
+Priyanka Majety; Seda Babroudi. Tufts Medical Center, Boston, MA. (Control ID #3183546)
+
+# LEARNING OBJECTIVE #1:
+
+The significance of evaluating red flags in cases of acute headache.
+
+# LEARNING OBJECTIVE #2:
+
+Importance of a high clinical index of suspicion for diagnosing cavernous sinus thrombosis.
+
+# CASE:
+
+A 20-year-old African American female with past history of migraine presented to us with a 9-day history of left-sided throbbing headache associated with nausea, similar in presentation to prior migraine exacerbations but had negligible relief with NSAIDs. She was afebrile with normal complete blood count and was treated with intravenous pain medications including NSAIDs and anti-emetics with only minimal relief. She was diagnosed with "Status migrainosus" that was relieved after multiple IV pain medications, Sumatriptan and Magnesium sulfate and eventually was discharged. Two days later, she re-presented with high-grade fever, blurry vision in her left eye and WBC was elevated to 32,000. She was started on antibiotics for bacterial meningitis & a CT head showed extensive left sided maxillary, sphenoidal and ethmoidal sinus disease. Lumbar puncture studies were consistent with bacterial meningitis. Cultures from blood and ethmoid sinus grew Streptococcus constellatus sensitive to Ceftriaxone. Upon careful examination, left-sided 6th cranial nerve palsy (limited abduction by Lateral rectus) was noted and she underwent MR Venography that confirmed the diagnosis of cavernous sinus thrombosis with left-sided ophthalmic vein thrombosis, likely in the setting of infection.
+
+# IMPACT/DISCUSSION:
+
+This is a case of septic cavernous sinus thrombosis (CST) that underscores the importance of a systematic approach and the evaluation of the red flags of headache with detailed neurologic exam in cases of acute headache. The prevalence of migraine in the community is high (15%) & occasionally life-threatening diseases like CST can masquerade as an acute migraine attack. Attention to the danger signs including systemic symptoms (fever, weight loss), abnormal neurologic signs, new onset of headache (especially for age >50), previous history of headache that has changed in severity and history of trauma is critical, necessitating neuroimaging. Given its location, 6th cranial nerve is the first nerve compressed with increased intracranial pressure. Clinical presentation of CST is highly variable with acute, subacute or chronic onset and can resemble migraine. Infections are responsible only for 6-12% of cases but are associated with high mortality (30%) and morbidity (30%), warranting an early diagnosis. Neuroimaging is valuable in diagnosing CST. The mainstay of treatment is antibiotics, surgical drainage along with anticoagulation, although there is limited data on anticoagulation given the rarity of the condition.
+
+# CONCLUSION:
+
+Red flags need to be assessed in every case of headache. CST needs to be considered in patients with sinusitis and cranial nerve palsies. Early diagnosis and treatment are essential. Randomized controlled trials are needed to determine the optimal therapy for this condition.
+
+# NO KIDDING AROUND: A CASE OF CUTANEOUS PARAPOX VIRUS INFECTION
+
+Michael George; Andrea Carter. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3164946)
+
+# LEARNING OBJECTIVE #1:
+
+Avoid premature closure in patients with intravenous drug use (IVDU).
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the typical presentation of cutaneous zoonotic infections.
+
+# CASE:
+
+A 23 year-old woman with a history of opioid use disorder presented with one day of right hand swelling and redness. She was otherwise asymptomatic and afebrile. The patient had been abstinent from IVDU for one year, and her urine drug screen was consistent with use of prescribed buprenorphine without any illicit substances. A point-of-care ultrasound was performed in the Emergency Department and due to concern for thrombophlebitis, broad spectrum antibiotics were initiated for presumed septic thrombophlebitis caused by relapsed IVDU. On arrival to the medicine floor, examination of right hand demonstrated two isolated vesicular lesions on the index finger with associated erythema and swelling of the hand. Formal venous dopplers of the right upper extremity were negative for thrombus. Further review of history found that patient had been to a county fair several times over the previous week and had been petting animals including sheep and goats. Dermatology performed a punch biopsy of the ulcer which showed intraepidermal vesicles and a mixed cellular infiltrate without evidence of bacteria or neutrophilic predominant infiltrate seen with typical bacterial cellulitis. Based on the patient's history of animal exposure, biopsy findings, and the typical appearance of the lesion, a presumptive diagnosis of parapox virus was given. Antibiotics were discontinued, and after one day of observation, the patient was discharged home.
+
+# IMPACT/DISCUSSION:
+
+Parapox (or Orf) virus is a pathogen belonging to the Poxviridae family. It is generally limited to cutaneous infection, although patients may experience fever or lymphangitis and immunocompromised hosts are at risk for disseminated or "giant" pox. The true prevalence of Orf is unknown and is likely limited by limited recognition and incomplete reporting. Transmission occurs from direct contact with a lesion on a vector–typically sheep or goats, and can be facilitated by any damage to the skin barrier. The hallmark of cutaneous infection is a vesicular lesion, often solitary or with 1-2 satellite lesions that progress over weeks to develop a necrotic center and finally dry out to create a papilloma. These lesions typically resolve without treatment within 6 weeks. Confirmatory testing may be performed by examination under electron microscopy or polymerase chain reaction but with limited availability and expense may not be feasible and is unlikely to alter clinical course.
+
+# CONCLUSION:
+
+This case highlights the distinguishing historical and physical exam features of the cutaneous zoonotic infection parapox virus. This case serves as a reminder of the importance of taking a thorough history and avoiding premature closure, especially in the context of the national opioid epidemic and associated biases clinicians may have when treating patients with opioid use disorder.

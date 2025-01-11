@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# Aspirin Use Among Adults 40+ Without CVD
+
+characterize demographic and clinical factors associated with aspirin use. Analyses were weighted and adjusted using SAS 9.4 to account for the complex NHIS sampling design.
+
+# RESULTS:
+
+The mean age of our study sample was 57.5 years. Of this sample, 54% were women and 33% were non-white. There were 23.4% of adults 40 years without CVD taking a daily aspirin for the prevention of heart disease, representing approximately 29 million people. Among this population, 22.8% did so without a physician's recommendation. Aspirin use was higher with greater age: 7% of those aged 40-49 without CVD reported aspirin use, compared to 46.2% aged 80 or older. After adjustment, older age and male sex were significantly associated with aspirin use (see table), as were Asian race (compared to white), diabetes, hypertension, hyperlipidemia, obesity, smoking, and having seen a doctor in the previous year. Peptic ulcer disease was not significantly associated with aspirin use, OR 0.90 (95% CI 0.74 - 1.09).
+
+# CONCLUSIONS:
+
+Over 29 million US adults aged 40 and older without CVD use aspirin to prevent heart disease, including many octogenarians and adults with a history of peptic ulcer disease. This study highlights an important role for physicians to discuss the latest aspirin trials' findings with US adults to minimize risks and optimize benefits from aspirin use.
+
+|Characteristic of Interest|Prevalence of ASA Use (%)|Odds of ASA Use (AOR* 95% CI)|
+|---|---|---|
+|Sex|Men|25.5% 1.32 (1.18 - 1.48)|
+| |Women|21.8% 1.00|
+|Age|40-49|7.0% 1.00|
+| |50-59|18.4% 2.52 (2.11 - 3.01)|
+| |60-69|34.7% 5.55 (4.59 - 6.71)|
+| |70-79|44.6% 7.71 (6.35 - 9.35)|
+| |80+|46.2% 9.62 (7.56 - 12.25)|
+
+*Also adjusted for race, BMI, HTN, HLD, DM, ulcer disease, smoking, and seeing a physician in the last year.
+
+# PREVALENCE OF INTERNAL MEDICINE RESIDENTS WITH AN ESTABLISHED PRIMARY CARE PROVIDER
+
+Mark Connor; Robert L. Fogerty. Yale School of Medicine, New Haven, CT. (Control ID #3185782)
+
+# BACKGROUND:
+
+The benefits of having an established primary care provider (PCP), especially in regards to decreased all-cause mortality and improved mental illness outcomes, is well established. CDC data indicates that the national averages for US men and women without a primary care physician are 28% and 17%, respectively, and 19% and 10% in Connecticut. Recent healthcare trends have highlighted that millennials, those born between 1981 and 1996, are opting for more expedited and convenient access to medical care, thereby moving away from establishing and maintaining a primary care provider. The prevalence rate of resident physician trainees, the majority of whom are millennials, that have established care with a primary care doctor as well as their opinion towards having a PCP are currently unknown.
+
+# METHODS:
+
+An electronic twenty-question survey of privately insured, internal medicine residents with a response rate of 67.3% at a large academic center in Connecticut was utilized to determine various aspects of resident wellness including whether or not residents established care with a local primary care physician and their opinion regarding the utility of establishing care with a local primary care physician.
+
+# RESULTS:
+
+While 90% of the survey responders believe it is worthwhile to establish care with a local primary care physician, the survey found that 57% of resident physicians (57.3% women, 57.1% men) had not established care with a local primary care provider. Per the CDC, the prevalence rates of Connecticut adults aged 25-34 years and 35-44 years not having a PCP are 30.6% (CI 26.7-34.4%) and 17.9% (CI 15.0-20.9%), respectively. These data suggest that internal medicine residents are establishing with primary care providers at a lower rate than age and geographically matched peers.
+
+# CONCLUSIONS:
+
+The survey suggests that although internal medicine residents believe it is valuable to establish care with a primary care provider, residents may be establishing with a primary care provider at a lower rate than age and geographically matched peers. These findings are of interest to residency programs directors due to concerns for wellbeing, including physician burnout of internal medicine residents. Additionally, these data suggest that there may be barriers to establishing care that warrant further investigation.
+
+# PREVALENCE OF MULTIPLE CHRONIC CONDITIONS BY US STATE, 2017
+
+Daniel Newman; Erica Levine; Sandeep Kishore. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3162709)
+
+# BACKGROUND:
+
+Understanding the prevalence of multiple (two or more) chronic conditions (MCC) is increasingly being recognized as a public health imperative. MCCs are associated with increased cost, increased burden of illness, and decreased quality of life. The objective of this research is to describe the prevalence and distribution of adults with MCC across the United States using 2017 data from the Behavioral Risk Factors Surveillance System (BRFSS).
+
+# METHODS:
+
+Prevalence of MCC (defined as having two or more of 12 diagnosed chronic conditions) was calculated for each U.S. state and territory overall as well as by sex and age.
+
+# RESULTS:
+
+Statewide prevalence of MCC ranged from 37.9% in the District of Columbia to 64.4% in West Virginia. Females had a higher prevalence than males in 47 of 53 (89%) states and territories, and MCC prevalence increased with age in every state and territory.
+
+# CONCLUSIONS:
+
+The relative geographic and demographic distribution of MCC prevalence is largely consistent with prior research using data from the National Health Interview Survey (NHIS); however, overall prevalence estimates are noticeably higher due partly to the inclusion of high cholesterol, obesity, and depression as chronic conditions. This analysis is, to our knowledge, the first to analyze MCC prevalence across the United States using BRFSS data. Further, it extends and expands on prior research into the nationwide prevalence of MCC by incorporating more chronic conditions and using the most recent data available. These findings help to build an accurate and granular picture of the prevalence of multiple chronic conditions across the United States and will aid public health officials in creating programs targeted to their region.
+
+# PREVALENCE OF POLYPHARMACY IN OLDER ADULTS - A CROSS-SECTIONAL ANALYSIS
+
+Michael I. Ellenbogen1; Peiqi Wang1; Heidi Overton1; Christine Fahim2; Angela Park1; William Bruhn; Jennifer L. Carnahan; Amy Linsky4;1 3 Seki Balogun5; Martin Makary1. 1Johns Hopkins School of Medicine, Baltimore, MD; 2Health Policy and Management, Baltimore, MD; 3Indiana University Center for Aging Research/Regenstrief Institute, Indianapolis, IN; 4VA Boston Healthcare, Boston, MA; 5University of Virginia, Charlottesville, VA. (Control ID #3180213)
+
+# BACKGROUND:
+
+Polypharmacy in older patients increases the risk of medication-related adverse events and can be a marker of unnecessary care. We sought to describe the prevalence of polypharmacy among patients 65 years of age or older and identify factors associated with patient-level and physician-level polypharmacy prescribing.

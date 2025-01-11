@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+# Implementation of Preventative Medicine and Medical Ethics
+
+This exam comprised 50% of the medical students' grade in his or her final year of medical school. Assessment of student competency was evaluated by a review of student performance assessed by standardized checklists on the 20 different OSCE cases.
+
+# Results
+
+UIC has utilized the OSCE as a method of competency-based assessment since the 2013-2014 academic year. Overall class averages on the OSCE from 2014 to 2018 were 79%, 74%, 73%, 71%, and 74%, respectively. Assessment and Plan scores were 81%, 63%, 73%, 77%, and 76%, respectively. Medical Ethics scores were 58%, 81%, 82%, 85%, and 67%, respectively. Interprofessional Interaction scores were 72%, 84%, 65%, 62%, and 70%, respectively. A standardized overall OSCE score determined by the Medical Simulation director was used as a metric to determine competency.
+
+# Conclusions
+
+This observational case study highlights the power of simulation to assess student competency with regards to skills necessary for residency training. As medical schools transition to EPA based assessments, the need for standardized measures to determine competency will become essential. The lessons learned from this case study of UIC's utilization of the OSCE at the completion of medical school can serve as a template for measuring medical students readiness for residency. Educators can track student performance and implement changes to curriculum to enhance student performance and ease the transition to clinical practice. From a student's perspective, simulation affords one the opportunity to translate classroom knowledge into clinical practice, and confidence can be instilled upon completion of competencies prior to entering residency training.
+
+# Utility of Point-of-Care Ultrasound as a Tool for Medical Decision Making in a Resource-Limited Setting
+
+Michelle Fleshner1; Ayako W. Fujita2; DIVYA BHAMIDIPATI1; Steven Fox1; Thuy Bui3. 1UPMC, Pittsburgh, PA; 2University of Pittsburgh Medical Center, PITTSBURGH, PA; 3University of Pittsburgh, Pittsburgh, PA. (Control ID #3185226)
+
+Management, mostly by adding or removing medications. Efficacy of PoCUS scans was stratified by clinical question (Image 1). Data collection is ongoing through April 2019.
+
+# Conclusions
+
+PoCUS is underutilized and has the potential to be extremely useful for medical decision making in areas with limited resources. PoCUS curricula for residents should focus on answering patient-specific clinical questions. Future directions include creating a peer-to-peer network for securely sharing and discussing PoCUS images and expanding this analysis to higher-resource settings in an internal medicine context.
+
+# Efficacy of PoCUS by Clinical Question
+
+|EPTB?|LV Function?|Pericardial effusion?|Pleural effusion?|Evidence of cirrhosis?|Hydronephrosis?|
+|---|---|---|---|---|---|
+|Total Scans|Total Scans|Total Scans|Total Scans|Total Scans|Total Scans|
+|Answered Clinical Question|Answered Clinical Question|Answered Clinical Question|Answered Clinical Question|Answered Clinical Question|Answered Clinical Question|
+|Prioritized Differential Diagnosis|Prioritized Differential Diagnosis|Prioritized Differential Diagnosis|Prioritized Differential Diagnosis|Prioritized Differential Diagnosis|Prioritized Differential Diagnosis|
+|Changed Diagnosis|Changed Diagnosis|Changed Diagnosis|Changed Diagnosis|Changed Diagnosis|Changed Diagnosis|
+|Changed Management|Changed Management|Changed Management|Changed Management|Changed Management|Changed Management|
+
+# Utilization of Allogeneic Hematopoietic Cell Transplantation in New York State, USA and Ontario, Canada
+
+Samantha Hershenfeld 1; Vicki Ling 2; John J. Matelski 1; Matthew Cheung; Michael Paterson2; Peter Cram3. 1University of Toronto, Toronto, ON, Canada; 2Institute for Clinical Evaluative Sciences, Toronto, ON, Canada; 3University of Iowa, Toronto, ON, Canada. (Control ID #3184706)
+
+# Background
+
+Hematopoietic Cell Transplantation (HCT) is a potentially curative treatment for multiple hematological and oncologic diseases. However, HCT is costly and resource-intensive. There is a general perception that the United States (US) offers improved access to many advanced therapies such as HCT, but also suffers from overtreatment. Alternatively, Canada is thought to suffer from protracted wait times and treatment delays, with advantages of greater equity and reduced disparities. Canada and the US share close geopolitical relationships and similar HCT indications. There have been no studies to our knowledge comparing utilization of HCT in the US and Canada.
+
+# Methods
+
+We used population level administrative health data from New York State (NY) and Ontario (ON) to identify all adults (≥ 18 years) who underwent inpatient allogeneic HCT between 2012-2015 using ICD9CM codes (NY) and CCI codes (ON). We compared ON and NY with respect to patient demographic characteristics, patient neighborhood income quintile (based on postal code of residence), and hospital characteristics using univariate techniques. We examined indications for HCT in NY and ON using ICD9 and ICD10 diagnosis codes. We compared HCT utilization rates in NY and ON.
+
+# Results
+
+We identified 1361 HCT procedures performed in NY and 593 procedures in ON. HCT recipients in NY were older than ON (mean age 51.5 vs 49.0 years; p<0.001). A significantly higher percentage of HCTs in NY were repeat procedures relative to ON. The most common indication for HCT in ON and NY was acute myeloid leukemia (41.2% and 22.3%). A higher percentage of HCT recipients in NY resided in affluent neighborhoods (defined as neighborhoods in the highest income quintile) compared to ON (32.0% vs 26.9%; p=0.026). Mean hospital HCT volumes were similar in NY and ON (34.8 vs 32.4 HCTs per-year;

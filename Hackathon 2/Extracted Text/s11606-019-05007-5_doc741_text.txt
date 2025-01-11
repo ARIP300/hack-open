@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+month RER occurred only 48% of nights, frequency of attendance has increased steadily, and has consistently been above our goal of 90% since month 7. Participant feedback has been overwhelmingly positive. Hospitalists commented, "It's a really good thing. It's changing the dynamic between us and the residents literally overnight!" and, "There is more of a sense that the residents should feel free to call us anytime they have questions or concerns." The chief resident noted, "The residents have really enjoyed the opportunity to ask faculty clinical questions and discuss admission flow. It's been the most successful project implemented this year."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We've found that RER improves resident-attending nighttime communication and encourages frequent dialogue, increases hospitalist awareness of unstable patients and logistic problems, facilitates high-yield learning, and boosts overall night shift satisfaction for both residents and hospitalists. We are now partnering with colleagues at our affiliated teaching sites (university and VA hospitals) to expand RER and standardize the curriculum across sites. Our framework could easily be adapted to other programs, and we hope that structured nighttime communication and education will become a national standard among internal medicine residencies.
+
+feedback included a desire to keep attendance optional and to maintain the hands-on format of scanning patient volunteers. Trainees also expressed a desire to facilitate attendance by creating protected time for the ultrasound sessions.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A resident-driven ultrasound initiative was an effective educational model in IM residency as shown by a significant improvement in knowledge scores and confidence ratings globally across all training levels. Future directions for this program include integration with inpatient medicine rounds or morning report, studying the effect of POCUS on patient satisfaction, and testing residents for diagnostic accuracy.
+
+# RESIDENT REPRESENTATION ON HOSPITAL COMMITTEES: A MODEL FOR ADVOCACY, QUALITY IMPROVEMENT AND PROFESSIONAL GROWTH
+
+Nathan C. Nowalk 1 ; June Kampangkaew 1 ; Diana Stewart 2 ; Erica Lescinskas1; Charlie Lan1. 1Baylor College of Medicine, Houston, TX; 2Baylor College of Medicine/Michael E. DeBakey VA Medical Center, Houston, TX. (Control ID #3186257)
+
+# RESIDENT INITIATIVE FOR AN ULTRASOUND CURRICULUM
+
+Raymond Lam; Artin Galoosian; Ingeborg Schafhalter-Zoppoth; Iris Ma. California Pacific Medical Center, San Francisco, CA. (Control ID #3184673)
+
+# NEEDS AND OBJECTIVES:
+
+Internal medicine (IM) physicians are increasingly using point of care ultrasound (POCUS) to aid in bedside diagnostics. However, ultrasound education in IM residency programs is lacking. Only 25% of surveyed IM residency programs offer formal ultrasound training. We evaluate a resident-driven ultrasound curriculum to address this educational need.
+
+# SETTING AND PARTICIPANTS:
+
+IM residents and medical students at the California Pacific Medical Center participated in the ultrasound curriculum between October 2017 and May 2018. Two Sonosite X-Porte and two handheld GE Healthcare V-Scan ultrasound machines were used in the study. Motivated residents volunteered to develop workshops under the guidance of fellows and attending physicians with expertise in bedside ultrasound. These residents led weekly one-hour ultrasound rounds consisting of brief didactics followed by hands-on mentored scanning of inpatient volunteers. The curriculum included core topics in cardiac, pulmonary, hepatobiliary, venous, and renal ultrasound.
+
+# DESCRIPTION:
+
+Baseline knowledge of trainees was assessed anonymously through a written evaluation administered before and after each session. Each evaluation included the basics of ultrasound physics, scanning technique, and interpretation of clinically relevant ultrasound images. Residents were anonymously evaluated on a 10-point confidence scale at the start and end of the program. Qualitative feedback was also solicited. Our primary outcome was the change in performance in the written evaluation score assessing ultrasound knowledge, and a secondary outcome was the change in resident confidence level.
+
+# EVALUATION:
+
+A total of 56 residents and 9 medical students completed the ultrasound knowledge assessment. Their average score increased from 55.2% (standard deviation [SD] 27.4) before teaching to 83.6% (SD 18.5) after the teaching, with a significant increase of 28.5% (p<0.001, paired t-test). There were 69 residents who completed the confidence assessment. Their average confidence score increased from 2.6 (SD 1.7) at the beginning of the year to 4.2 (SD 2.2) at the end of the year, with an increase in average confidence levels by 16% (p < 0.001, two-sample t test). The qualitative feedback included a desire to keep attendance optional and to maintain the hands-on format of scanning patient volunteers.
+
+# NEEDS AND OBJECTIVES:
+
+Needs: Resident representation on hospital and institutional committees allows residents to learn how the leaders of their institution approach systems-based issues and implement change. We have developed a framework within our institution to increase resident representation at hospital committees to facilitate resident advocacy, involvement in quality improvement, and resident empowerment. Objectives: To provide residents opportunities to participate in quality improvement initiatives through committees To develop a sustainable model for meaningful resident participation on committees.
+
+# SETTING AND PARTICIPANTS:
+
+Hospital committees were selected from four hospitals in the Texas Medical Center. Participants included all 2nd year residents from Baylor College of Medicine's Internal Medicine Residency (n = 51).
+
+# DESCRIPTION:
+
+There is a universal expectation for physicians to serve on institutional committees after their training. However, no similar expectation exists for the resident in training. Only recently did the Clinical Learning Environment Review (CLER) suggest training programs involve residents in committee participation to integrate trainees into quality improvement. When hospital committees involve residents, there is a mutual benefit between hospital leadership and the trainee. Thus, we aimed to develop a sustainable framework for ensuring residents have the opportunity to serve on hospital committees in an impactful way. Seventeen committees were identified among the VA, county hospital, private hospital and large oncology center. A group of 3 to 4 PGY-2 residents were assigned to one hospital committee with a committee administrator as a point of contact. Examples of some of these committees include: Code Blue committee, Quality Review, Infection Prevention, Pharmacy and Therapeutics and Antibiotic Stewardship. A monthly electronic survey was used to confirm attendance, receive feedback from residents, and demonstrate meaningful impact.
+
+# EVALUATION:
+
+Early qualitative data suggests our initiative is succeeding in involving residents in hospital processes. A Patient Flow Committee member has reported that the residents have been "very helpful in providing valuable insight into the process map for admissions from the emergency room." Other residents have standardized code blue notes while serving on the CPR committee. We continue to collect monthly surveys to monitor compliance, resident contributions, and obstacles encountered while serving on these committees.

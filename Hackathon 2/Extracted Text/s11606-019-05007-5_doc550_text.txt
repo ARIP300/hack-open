@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Paradoxical Embolism Leading to Acute Kidney Failure
+
+Patient was started on heparin drip and his clinical and mental status improved and returned to his baseline within a few hours. Further workup was ordered to determine the cause of left kidney ischemia. Venous ultrasound of the lower extremity showed a large right lower extremity deep vein thrombosis. A nuclear perfusion study showed almost no perfusion to left kidney so function could not be salvaged via endovascular procedure. The patient was discharged on rivoroxaban indefinitely and he was advised to quit cocaine use and smoking. Outpatient hyper-coagulability workup is pending.
+
+# IMPACT/DISCUSSION:
+
+We believe that this patient's acute kidney failure was caused by his large deep vein thrombus in his right lower extremity entering the systemic circulation via his trivial right to left atrial shunt and causing an infarction of the left renal artery. Although the patient's right to left shunt under normal physiologic circumstances is too small to allow a thrombus to pass, we hypothesize that in the context of a massive pulmonary embolism, a temporary increase in pulmonary pressure would cause enlargement of the shunt and allow the passage of a clot. Paradoxical emboli leading to acute unilateral kidney failure is a clinically rare event. This is primarily because there is a requirement for both the existence of a patent cardiac shunt as well as a hyper-coagulable state. We have found one similar case in literature. This case demonstrates the importance of keeping a broad differential and that mild or silent physiologic abnormalities can cause significant morbidity in unique circumstances.
+
+(1). R. Schmitt, M. Westhoff-Bleck, H. Haller, A.D. Wagner; Paradoxical renal embolism in a patient with congenital cardiac malformation, QJM: An International Journal of Medicine, Volume 104, Issue 10, 1 October 2011
+
+# CONCLUSION:
+
+In any patient with risk factors for hypercoagulability such as cocaine use and unexplained kidney injury, paradoxical embolism is a rare yet important possibility that must be considered.
+
+# TERRIFIED OF INSULIN: USING A PATIENT-CENTERED, MULTI-DISCIPLINARY APPROACH TO TREAT A CASE OF SEVERE TYPE 2 DIABETES
+
+Michael S. Tzeng; Jill Allenbaugh. Temple University, Philadelphia, PA. (Control ID #3184867)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical signs and lab evidence of severe, catabolic diabetes
+
+# LEARNING OBJECTIVE #2:
+
+Utilize a patient-centered, multi-disciplinary approach to improve patient outcomes in the outpatient setting
+
+# CASE:
+
+A 59 year-old female with type 2 diabetes, hypertension, hyperlipidemia, and obesity presented to the outpatient clinic complaining of worsening fatigue, thirst, urinary frequency, unintentional weight loss, and intermittent abdominal pain. She had lost 15 pounds over six months, and her glucose was 408 mg/dL. Labs revealed a HbA1c of 12.3% and microalbuminuria, concerning for severe, catabolic diabetes with early evidence of nephropathy. Prior treatment had been complicated by difficulty with lifestyle changes and intolerance of oral diabetic agents. She repeatedly refused subcutaneous insulin, citing a fear of side effects, terror of using needles, and a sentiment that using insulin meant personal failure. After a discussion about alternative therapy, she chose to initiate dulaglutide injections based on its side effect profile and lower frequency of injections. Since she was terrified of needles, she agreed to have her medicine administered by staff during weekly pharmacy clinic visits. Additionally, she was enrolled in diabetic education classes, scheduled for nutritionist visits and encouraged to sign up for a fresh food initiative.
+
+Over the next few months, she reported that diabetic education class and nutritionist visits provided her with the knowledge to make healthier food choices. With skills learned from pharmacy clinic, she began closely documenting her glucoses and noticed when certain foods made her sugars spike. Additionally, she began administering her own dulaglutide in clinic and soon graduated to self-administration at home. With her newly acquired skills and continued support, she eventually reported a resolution in her symptoms. Repeat labs five months later revealed a dramatically improved A1c at goal: 6.4%.
+
+# IMPACT/DISCUSSION:
+
+In patients with severe diabetes, the failure of lifestyle changes and oral therapy commonly prompts initiation of subcutaneous insulin regimens. However, treatment may be limited by patient preference and poor adherence. This patient was offered an injectable non-insulin medication combined with multi-disciplinary care, diabetic education, and better access to healthy foods, altogether culminating in an A1c at goal and resolution of symptoms.
+
+# CONCLUSION:
+
+Successful treatment of severe diabetes in the outpatient setting requires not only medical knowledge, but also shared decision making, taking into consideration patient preferences and social determinants of health. Improving patient access to resources and multi-disciplinary care can ultimately prevent the development of hyperglycemic crises or vascular complications.
+
+# THAT COUGH SAVED YOUR LIFE: OCULAR MANIFESTATIONS OF ACUTE PROMYELOCYTIC LEUKEMIA
+
+Naomi Habib; suman misra1; Santi Karnam1; Jaya Raj. 1St. Joseph's Hospital and Medical Center, Phoenix, AZ; 2St. Joseph's Hospital, Phoenix, AZ; 3St Joseph's Hospital and Medical Center/Creighton University Medical School, Phoenix, AZ. (Control ID #3186545)
+
+# LEARNING OBJECTIVE #1:
+
+To identify early signs and symptoms of acute promyelocytic leukemia (APL)
+
+# LEARNING OBJECTIVE #2:
+
+To recognize the propensity of APL for causing disseminated intravascular coagulation (DIC) and fatal, systemic hemorrhages
+
+# CASE:
+
+A 58-year-old woman with a history of an intracranial aneurysm presented to her ophthalmologist after 1 day of bilateral vision loss following 1 month of worsening floaters. She was then sent to our ED for imaging due to concern for Terson syndrome. Her history includes hypertension, a congenital paraclinoid internal carotid artery aneurysm and a bout of severe pneumonia treated one month ago. Her vitals were normal and stable (T:36.7C, HR: 94, RR:16, BP:144/69). Ophthalmologic exam showed bilateral pre-retinal and intra-retinal hemorrhages with heme covering the fovea in the left eye. PERLLA, EOMI. The rest of her exam was normal. A CBC showed WBC: 0.5, Hgb: 4.3, Hct: 12.7, Plt: 47. BMP was normal. CT angiogram showed an intact 2x3mm paraclinoid ICA aneurysm. MRI of the brain and orbits was grossly negative. A peripheral blood smear showed pancytopenia with >20% blasts and a bone marrow biopsy showed virtually 100% cellular bone marrow with >70% blasts. FISH analysis detected the PML-RARalpha translocation which is pathognomonic for APL. She was immediately transfused with pRBCs and started on steroids, ATRA and arsenic. On day 16, she developed dyspnea and leukocytosis. CXR showed evidence of pulmonary edema, and the ATRA was stopped due to concern for retinoic acid/differentiation syndrome. Her leukocyte count normalized and she resumed ATRA therapy with no complications through the rest of her hospital stay. Patient is in remission at 10mo after initial presentation and showed cleared bilateral retinal hemorrhages.
+
+# IMPACT/DISCUSSION:
+
+The initial presentation of APL is similar to those of patients with other forms of acute myeloid leukemia: including fatigue, easy bruising and epistaxis. However, APL is unique in that it can manifest as hemorrhages and/or DIC in up to 61% of patients. Early

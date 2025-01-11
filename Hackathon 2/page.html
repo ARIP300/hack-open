@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OptiLife AI Assistant</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
+    <style>
+        :root {
+            --primary: #3b82f6;
+            --secondary: #475569;
+            --accent: #06b6d4;
+        }
+        body {
+            font-family: -apple-system, system-ui, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f8fafc;
+            color: var(--secondary);
+            display: flex;
+            height: 100vh;
+        }
+        .left-section, .right-section {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            position: relative;
+        }
+        .left-section {
+            background: linear-gradient(45deg, #3b82f6, #06b6d4);
+            overflow: hidden;
+        }
+        .left-section::before {
+            content: '';
+            position: absolute;
+            top: 20%;
+            left: -10%;
+            width: 150%;
+            height: 300px;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+            transform: rotate(-30deg);
+        }
+        .logo {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: white;
+            width: 120px;
+            height: 120px;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3em;
+            margin-bottom: 30px;
+            box-shadow: 0 0 10px 2px white;
+            opacity: 0;
+            transform: translateY(-50px);
+            animation: fadeIn 1s forwards;
+        }
+        .brand, .tagline {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        .brand {
+            color: #ffffff;
+            font-weight: bold;
+            font-size: 3em;
+            animation: fadeInText .3s 1s forwards;
+        }
+        .tagline {
+            margin: 20px 0 0 0;
+            font-size: 1.5em;
+            color: #ffffff;
+            text-align: center;
+            animation: fadeInText .3s 1.5s forwards;
+        }
+        .right-section {
+            background: radial-gradient(circle at top, rgba(59, 130, 246, 0.05), rgba(6, 182, 212, 0));
+            justify-content: flex-end; /* CHANGED: Content aligned to the bottom */
+            padding-bottom: 40px; /* CHANGED: Added padding at the bottom */
+        }
+        .input-container {
+            display: flex;
+            gap: 20px;
+            width: 80%;
+        }
+        input {
+            flex: 1;
+            padding: 20px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1.5em;
+            transition: border-color 0.2s;
+        }
+        input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        button {
+            padding: 20px 40px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.5em;
+            font-weight: 600;
+            transition: opacity 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        button:hover {
+            opacity: 0.9;
+        }
+        .response {
+            padding: 30px;
+            background: #f8fafc;
+            border-radius: 8px;
+            min-height: 100px;
+            line-height: 1.8;
+            font-size: 1.5em;
+            margin-top: 20px;
+            text-align: center;
+            width: 80%;
+        }
+        .typing-indicator {
+            display: none;
+            align-items: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .dot {
+            width: 12px;
+            height: 12px;
+            background: var(--secondary);
+            border-radius: 50%;
+            animation: bounce 1.4s infinite;
+        }
+        .dot:nth-child(2) { animation-delay: 0.2s; }
+        .dot:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-8px); }
+        }
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        @keyframes fadeInText {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="left-section">
+        <div class="logo">
+            <i class="fas fa-lightbulb"></i>
+        </div>
+        <h1 class="brand">OptiLife Assistant</h1>
+        <p class="tagline">Empowering Growth, Balance, and Well-Being.</p>
+    </div>
+    <div class="right-section">
+        <div class="response" id="aiResponse">Welcome to OptiLife! How can I assist you today?</div>
+        <div class="typing-indicator" id="typingIndicator">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Ask about workplace policies, career growth, or well-being..." onkeypress="handleKeyPress(event)">
+            <button onclick="getResponse()">
+                <i class="fas fa-paper-plane"></i>
+                Send
+            </button>
+        </div>
+    </div>
+
+    <script>
+        async function getResponse() {
+            const input = document.getElementById('userInput').value.trim();
+            const responseDiv = document.getElementById('aiResponse');
+            const typingIndicator = document.getElementById('typingIndicator');
+            
+            if (input === '') return;
+
+            // Show typing indicator
+            typingIndicator.style.display = 'flex';
+            responseDiv.style.opacity = '0.5';
+
+            try {
+                const response = await fetch('http://127.0.0.1:5000/query', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ user_prompt: input }) // Match the Flask API's expected JSON structure
+                });
+
+                const data = await response.json();
+                if (response.ok) {
+                    responseDiv.textContent = data["Model Response"] || "Sorry, I couldn't find an answer.";
+                } else {
+                    responseDiv.textContent = `Error: ${data.error}`;
+                }
+            } catch (error) {
+                console.error("Error:", error);
+                responseDiv.textContent = "Unable to connect to the server.";
+            } finally {
+                typingIndicator.style.display = 'none';
+                responseDiv.style.opacity = '1';
+                document.getElementById('userInput').value = '';
+            }
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                getResponse();
+            }
+        }
+    </script>
+</body>
+</html>

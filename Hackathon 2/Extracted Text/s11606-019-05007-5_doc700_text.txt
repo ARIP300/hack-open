@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+IMG 13.0% vs. USMG 5.0% vs. unknown 18.2%, p=0.03) but also more likely to report intention to prescribe generic OCPs as a result of the module (non-white 78.7% vs. white 57.3%, p<0.01, IMG 76.1% vs. USMG 50.3% vs. unknown 77.3%, p=0.03).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our study demonstrated an effective way to promote generic medications and educate providers using a brief web module disseminated on a national scale. Future interventions such as ours should target groups with low knowledge of generic drugs as well as those with high generic skepticism.
+
+# DEVELOPMENT OF A MEDICAL STUDENT CLINICAL ELECTIVE FOCUSING ON HEALTH EQUITY: "EXPLORING SOCIAL DETERMINANTS OF HEALTH AT AN URBAN COMMUNITY HOSPITAL." A LOOK AT IMPACTS ON STUDENT ATTITUDES AND READINESS TO SERVE A DIVERSE PATIENT POPULATION.
+
+Amanda Ramsdell. Weill Cornell Medical College, New York, NY. (Control ID #3164992)
+
+# NEEDS AND OBJECTIVES:
+
+The importance of health equity is gaining awareness throughout every level of the healthcare system. Medical providers bear witness to some of the most severe downstream effects of health inequity in a community. Serving our patients involves taking a closer look at the root cause of disease and health disparities long before a patient enters the hospital. How we address these upstream factors in our clinical practice is evolving, and the question of how we explicitly teach our approach to medical students in the clinical setting needs to be explored. Our goal is to allow medical students the time to focus on and explore these issues through both lectures and real-time clinical encounters. In doing so, we hope to reinforce the importance of social determinants of health in their future practice of medicine.
+
+# SETTING AND PARTICIPANTS:
+
+Students qualify to take this elective after having completed the core clinical clerkships in internal medicine, pediatrics and family medicine, which typically occurs during their third or fourth year. The clinical portion of the elective involves patients admitted to the Hospitalist service, referred by Hospitalist providers.
+
+# DESCRIPTION:
+
+The core experience of the course centers around student interviews of patients at the bedside, exploring the patients' experience and discussing prior history and root causes of disease and wellness. Working backwards from this knowledge, the students and preceptor explore upstream factors of observed downstream outcomes. Elective team then presents information to the primary inpatient team, and brainstorms current actionable interventions. Topics of didactics include relevant areas related to housing, immigration, implicit bias involving race and incarceration which are common areas of concern for many of our patients. Learning is reinforced by targeted field visits to housing/homelessness advocacy groups, methadone clinics and community centers. Continued discussions extend to our patients' political determinants of health and areas of opportunity for advocacy as physicians.
+
+# EVALUATION:
+
+IRB approval pending for upcoming students for qualitative research project, details to be determined.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+While Health Equity is often addressed in the pre-clinical years explicitly, modeling addressing these important factors into real-time clinical work remains largely implicit and dependent on the attending of service for most medical students. Explicitly speaking about health equity in the clinical setting is often lacking at many levels of medical training (i.e. medical students, Physician Assistants, and Attendings.) During our pilot elective, students appreciated being able to directly focus on these factors and felt they added value to the primary clinical team. The preceptor and medical team on service also benefited from greater explicit communication about social determinants of health and considering broader systems based interventions that may be of benefit to their patients in the longer term.
+
+# DEVELOPMENT OF AN EVALUATION FRAMEWORK FOR COMMUNITY HEALTH WORKERS IN A MEDICAID ACO
+
+Salina Bakshi2, 3; Kayt Kitt4; Sarah Oo5; Danelle Marable; Maryann5 Vienneau4; Amy O. Flaster1, 4. 1Brigham and Women's Hospital, Brookline, MA; 2Massachusetts General Hospital, Boston, MA; 3Harvard Medical School, Boston, MA; 4Partners Healthcare, Boston, MA; 5Massachusetts General Hospital, Chelsea, MA. (Control ID #3186004)
+
+# NEEDS AND OBJECTIVES:
+
+1) To learn how to leverage and implement a community health worker (CHW) model to assist in managing patients' social determinants of health (SDOH) needs. 2) To develop key performance indicators to ensure the operational success and to support the evaluation of a CHW model. 3) To encourage the continued use of CHWs as a resource supporting the success of a Medicaid Accountable Care Organization model.
+
+# SETTING AND PARTICIPANTS:
+
+This study was an observational quality assessment completed by Partners Healthcare, a health system located in Boston, MA. This assessment was conducted at two academic medical centers, specifically Massachusetts General Hospital and Brigham and Women's Hospital, both in Boston, MA. The participants included CHWs hired by both institutions and the Partners Community Health Worker Executive Committee.
+
+# DESCRIPTION:
+
+One of the great imperatives in patient education is to develop superior methods of educating patients on their condition and to better empower patients to improve their health. Community Health Workers (CHWs) are a potential solution to this challenge. CHWs are public health workers who can help provide and augment the care received by patients. Their roles include, but are not limited to, patient outreach and education, cultural mediation, providing direct patient services, and patient advocacy. CHWs have previously been demonstrated to reduce barriers to healthcare while simultaneously decreasing medical spending and unneeded healthcare utilization. However, there is no consensus framework detailing the key operational metrics for the work done by CHWs, and the metrics organizations should employ in evaluating their own CHW programs.
+
+# EVALUATION:
+
+Herein, we propose a series of metrics that seek to critically and comprehensively assess CHW performance. These metrics include (1) CHW workflow (2) average interactions per patient per month (3) methods of contact with patients (face-to-face, telephone, etc.) and (4) type and number of contacts per CHW per month. Furthermore, we plan to tie these metrics to relevant clinical outcomes, including ED visits, primary care physician (PCP) visits, primary care no-show rate, and total medical expenditure.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+These metrics have been internally piloted and validated. Collectively, we feel the outlined framework of metrics can provide a structure for operational oversight of CHWs, as well as criteria for evaluating the impact of a CHW within an ACO setting. They are generalizable and may be readily repurposed for implementation within other health systems.

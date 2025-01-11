@@ -1,0 +1,49 @@
+# EXPERIENCES OF SEX TRAFFICKING VICTIMS IN HEALTHCARE SETTINGS
+
+Joseph Shin 1 ; Vivian Pender3; Karen Mathewson4; Monika M. Safford2.
+
+1Weill Cornell Medicine, Brooklyn, NY; 2Weill Cornell Medical College, New York, NY; 3Weill Cornell Medicine, New York, NY; 4New York University, New York, NY. (Control ID #3183293)
+
+# BACKGROUND:
+
+It is estimated that up to 88% of sex trafficking victims in the United States have had contact with one or more health professionals during the period of time they were trafficked. As victim identification remains low, little is known about the characteristics of these healthcare encounters or the experiences of victims. The purpose of this study is to explore the experiences of domestic sex trafficking victims in order to identify potential barriers to and opportunities for improved victim identification, disclosure, and linkage to appropriate services.
+
+# METHODS:
+
+A qualitative study involving a series of focus groups with survivors of domestic sex trafficking was conducted. Study participants were English-speaking women, age 18 years or older, survivors of child and adolescent domestic sex trafficking. Participants were recruited from a single community-based organization in New York City. Transcripts of the focus groups were analyzed using a grounded theory approach, and key concepts and themes were identified.
+
+# RESULTS:
+
+Four focus groups were conducted including a convenience sample of 28 total participants with a mean age of 22 (range: 18-27), and an average age of initiation into trafficking of 14.8 years (range: 11-18). Participants were mostly Black (n=13), Hispanic (n=5), and Mixed-race (n=8). They reported seeking healthcare from a wide variety of locations and practice settings, for a variety of medical problems and symptoms: 1) physical trauma/injuries, 2) mental health, 3) gynecologic and reproductive health, 4) substance-use related and 5) neurologic. Six key themes emerged that characterized their healthcare experiences. Generally, trafficking victims experience high levels of 1) healthcare fragmentation; 2) stigma and disrespect during healthcare visits; 3) high burdens of disclosing trafficking experience; 4) narrowed expectations for effective assistance; 5) conflict between self-perception of agency and victimization; and 6) a greater receptivity to peer support.
+
+# CONCLUSIONS:
+
+Although sex trafficking victims appear to have frequent contact with healthcare providers, these encounters are often characterized by negative experiences and interactions. These may represent major contributors to the current gaps in care and limited effectiveness of screening and service linkage strategies for trafficking victims. Interventions that enhance trauma-informed care, stigma-free engagement, and peer support while reducing the personal, legal and administrative burdens of disclosure and perceived threats to agency or security may lead to improved victim identification and assistance.
+
+# EXPERT RECOMMENDATIONS ON IMPROVING TRAUMA-SENSITIVE PRIMARY CARE DELIVERY FOR WOMEN VETERANS WITH HISTORIES OF MILITARY SEXUAL TRAUMA
+
+Alicia Bergman1; Elizabeth M. Yano; Joya G. Chrystal3; Bevanne Bean-2 Mayberry4; Alison B. Hamilton3. 1VA Greater Los Angeles, North Hills, CA; 2VA Greater Los Angeles Healthcare System, Sepulveda, CA; 3VA Greater Los Angeles Healthcare System, Los Angeles, CA; 4VA Greater Los Angeles HSR&D Center, Sherman Oaks, CA. (Control ID #3184446)
+
+# BACKGROUND:
+
+The rate of military sexual trauma (MST) among regular primary care (PC) women Veteran (WV) users in the VA is high. History of sexual trauma is associated with depression, anxiety, PTSD, adverse impacts on medical management of chronic conditions, and discomfort with routine preventive exams. Ensuring delivery of VA's medical home care that is sensitive to sexual trauma histories is therefore critical. However, there is a need for additional expert guidance for primary care providers on the delivery of trauma-sensitive primary care. Our goal was to explore VA subject matter expert (SME) perspectives on critical aspects and best practices of trauma-sensitive primary care.
+
+# METHODS:
+
+We conducted interviews with 30 VA SMEs (Women's Health Medical Directors [n=10], Military Sexual Trauma Coordinators [n=10], and Women's Mental Health Champions [n=10]) in 10 VA Medical Centers regarding their experiences with and expertise on trauma-sensitive PC. Interviews were recorded, transcribed, and analyzed to identify trauma-sensitive best practices for PCPs to promote feelings of physical and psychological safety during general PC exams.
+
+# RESULTS:
+
+Participants discussed various verbal and non-verbal strategies PC providers can use in general exams to promote feelings of physical safety and psychological safety among WV patients who have histories of sexual trauma. Strategies for physical safety included ensuring the patient is fully clothed during discussions, giving the patient a wide girth of space, asking permission before any physical contact, not coming up to the patient from behind, and proactively asking about the patient's comfort regarding specialty procedures before making a referral (e.g., if sedation is ok). Participants also shared numerous strategies that PC providers can use to facilitate feelings of psychological safety. For example, displaying good bedside manners was described as important to building a foundation of trust and positive emotions (e.g., making eye contact, greeting patient in a comforting manner), as was giving the patient options for how to proceed with care (e.g., "If you prefer that a female provider do A, B, and C, that's ok with me"). Additional strategies for encouraging emotional comfort included calling patients by name, using shared decision-making, making sure the patient is ok with medical students observing exams or procedures, and employing careful and intentional (non-judgmental) phrasing for asking questions and recommending tests (e.g., STD or HIV test).
+
+# CONCLUSIONS:
+
+Participants highlighted various concrete trauma-sensitive tips and strategies for how VA PC providers can promote feelings of physical and emotional safety among WV patients who have histories of sexual trauma. Increasing awareness of pragmatic trauma-sensitive care strategies can improve PC provider sensitivity and care delivery. The translation of recommended strategies into practice-wide changes will require multilevel action to operationalize and implement them.
+
+# EXPLORING HOW SCREENING AND REFERRAL FOR SOCIAL DETERMINANTS OF HEALTH AFFECTS USAGE OF HOSPITAL AND COMMUNITY RESOURCES THAT HELP WITH SOCIAL NEEDS: A PILOT STUDY
+
+Pablo Buitron de la Vega 1 ; Kelsi Carolan 2 ; Marna Stack 4 ; Nancy R. Kressin 5 ; Stephanie Losi 3 ; Linda Sprague Martinez 2 ; Alana Ewen 3 ; Haeyeon Hong 7 ; Daniel Sylvester 7 ; Heloisa DeCarvalho 6 ; Arvin Garg 3 . 1 Boston Medical Center / Boston University, Dorchester, MA; 2 Boston University School of Social Work, Boston, AL; 3 Boston Medical Center, Boston, MA; 4 Boston University School of Medicine, Boston, MA; 5 Dept of Veterans Affairs and Boston University, West Roxbury, MA; 6 Boston University School of Medicine, Chelsea, MA; 7 Boston university, Boston, MA. (Control ID #3172757)
+
+# BACKGROUND:
+
+Social determinants of health (SDOH) affect risk and outcomes from chronic diseases. Yet, there have been few systematic and sustained clinical strategies and processes for addressing SDOH. An Electronic Health Record-based SDOH screening and referral model called THRIVE, adapted from the WECARE model for pediatrics, has been implemented at Boston Medical Center (BMC) adult primary care since October 2017. This study examined the potential impact of THRIVE on usage of

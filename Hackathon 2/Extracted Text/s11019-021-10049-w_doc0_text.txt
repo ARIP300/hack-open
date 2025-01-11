@@ -1,0 +1,27 @@
+# Medicine, Health Care and Philosophy (2022) 25:61–71
+
+https://doi.org/10.1007/s11019-021-10049-w
+
+# SCIENTIFIC CONTRIBUTION
+
+# Chatbot breakthrough in the 2020s? An ethical reflection on the trend of automated consultations in health care
+
+Jaana Parviainen1 · Juho Rantala1
+
+Accepted: 30 August 2021 / Published online: 4 September 2021
+
+© The Author(s) 2021
+
+# Abstract
+
+Many experts have emphasised that chatbots are not sufficiently mature to be able to technically diagnose patient conditions or replace the judgements of health professionals. The COVID-19 pandemic, however, has significantly increased the utilisation of health-oriented chatbots, for instance, as a conversational interface to answer questions, recommend care options, check symptoms and complete tasks such as booking appointments. In this paper, we take a proactive approach and consider how the emergence of task-oriented chatbots as partially automated consulting systems can influence clinical practices and expert–client relationships. We suggest the need for new approaches in professional ethics as the large-scale deployment of artificial intelligence may revolutionise professional decision-making and client–expert interaction in healthcare organisations. We argue that the implementation of chatbots amplifies the project of rationality and automation in clinical practice and alters traditional decision-making practices based on epistemic probability and prudence. This article contributes to the discussion on the ethical challenges posed by chatbots from the perspective of healthcare professional ethics.
+
+# Keywords
+
+Chatbot · Health care · Expertise · Professional ethics · COVID-19
+
+# Introduction
+
+The emergence of COVID-19 as a global pandemic has significantly advanced the development of telehealth and the utilisation of health-oriented chatbots in the diagnosis and treatment of coronavirus infection (AlgorithmWatch 2020; McGreevey et al. 2020). COVID-19 screening is considered an ideal application for chatbots because it is a well-structured process that involves asking patients a series of clearly defined questions and determining a risk score (Dennis et al. 2020). For instance, in California, the Occupational Health Services did not have the resources to begin performing thousands of round-the-clock symptom screenings at multiple clinical sites across the state (Judson et al. 2020). To limit face-to-face meetings in health care during the pandemic, chatbots have been used as a conversational interface to answer questions, recommend care options, check symptoms and complete tasks such as booking appointments. In addition, health chatbots have been deemed promising in terms of consulting patients in need of psychotherapy once COVID-19-related physical distancing measures have been lifted.
+
+Many health professionals and experts have emphasised that chatbots are not sufficiently mature to be able to technically diagnose patient conditions or replace health professional assessments (Palanica et al. 2019). Before the outbreak of the COVID-19 pandemic, the development of digital services and the integration of artificial intelligence-driven solutions, including chatbots, into public health care was sluggish, although the EU, for instance, had showed its willingness to invest heavily in the adoption of AI technologies in the healthcare sector (Ministry of Economic Affairs and Employment 2017). Although some applications can provide assistance in terms of real-time information on prognosis and treatment effectiveness in some areas of health care, health experts have been concerned about patient safety (McGreevey et al. 2020). Recent studies have indicated that health organisations have intensified their collaboration with the technology industry to scale up digital solutions for health professionals, patients and their families and capitalise on existing social media and health.

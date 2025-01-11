@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# A HEALTHCARE SYSTEM'S COORDINATED APPROACH TO PATIENTS ON CHRONIC OPIOIDS
+
+Joel Sawady3, 6; Emily Benedetto1; Gina Stenhouse2; David Roll1; Emily Hanson 3; Aaronson Y. Chew 4; Randi Sokol 5; Barbara Ogur 6; Ellie Grossman1; Janice F. Kauffman2. 1Cambridge Health Alliance, Somerville, MA; 2Cambridge Health Alliance, Cambridge, MA; 3Cambridge Health Alliance, Brighton, MA; 4Cambridge Health Alliance/Harvard Medical School, Somerville, MA; 5Cambridge Health Alliance, Malden, MA; 6Harvard Medical School, Cambridge, MA. (Control ID #3185600)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+A multidisciplinary, coordinated approach is needed to design and implement treatment programs for patients with chronic pain.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Develop multidisciplinary expertise in the treatment of chronic pain, including long-term opioid therapy, in an academic safety-net healthcare system.
+2. Design and implement a primary-care-based program that supports providers and patients in safe and evidence-based treatment of chronic pain.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Cambridge Health Alliance (CHA) is a safety-net academic health system with 13 outpatient primary-care practices serving 120,000 patients, with integrated behavioral health (BH) staff at all sites. We brought together a multidisciplinary task force of primary care providers, BH and addiction specialists, and a clinical pharmacist to focus on developing a chronic pain program. We performed a needs assessment by:
+
+- Reviewing evidence-based chronic pain treatment modalities, including their availability in our community.
+- Assessing the extent of opioid prescribing in our system.
+- Speaking with providers and patients about their needs.
+
+We piloted interventions at several sites, including:
+
+- Improved workflows to support compliance with guidelines and regulations.
+- Pharmacist-led medication management.
+- Enhanced mental health supports.
+- Group visits.
+- Multidisciplinary review of complex patients.
+
+We are now in the process of spreading these interventions across all 13 sites, with attention to educating clinical staff on the biopsychosocial model of chronic pain and leveraging existing integrated BH staff.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Each pilot site monitors measures specific to their intervention. System-wide, we monitor rates of utilization of controlled substance agreements, urine drug screens, and brief functional assessments.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Bringing together a multidisciplinary team has allowed us to deploy a systemwide program, building on primary care's strengths in patient-relationship-building and motivational enhancement, while folding in cognitive-behavioral strategies taken from the psychology world and made feasible for use in primary care. System-wide, we have seen increases in the rate of controlled substance agreements and urine drug screens. Pilot interventions have shown:
+
+- Reduction in high-dose opioid prescribing, and in benzodiazepine co-prescribing, in the pilot of workflow supports.
+- Stable-to-improving functional status among patients undergoing opioid tapers in the pharmacist-led intervention.
+- High patient satisfaction, and improvement on multiple quality measures, in the group visits.
+- High provider satisfaction with multidisciplinary case reviews.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Creation of a multidisciplinary task force has been instrumental in improving patient care and increasing provider support. Our team's focus on revising processes of care, educating providers, supporting the development of local expertise, and providing new venues of treatment and consultation services has helped shape a more comprehensive, integrated, and evidence-based community of practice around chronic pain management.
+
+# A MULTIDISCIPLINARY TEAM APPROACH FOR PHARMACOLOGIC TREATMENT OF ALCOHOL USE DISORDER AT HOSPITAL DISCHARGE
+
+Shirin Hemmat2; Joseph Clement1; Erica Bass2; Rand Dadasovich2; Margaret Gray2; Michael Incze; Nadine Pardee; Michael A. Thomashow2; Marlene2 Martin2. 1Zuckerberg San Francisco General Hospital, San Francisco, CA; 2University of California, San Francisco, San Francisco, CA. (Control ID #3185647)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Alcohol use disorder (AUD) affects up to 12% of the population and contributes billions of dollars in societal costs, but the use of pharmacotherapy for treatment of AUD is underutilized, particularly at hospital discharge.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Increase the total number of prescriptions for AUD treatment at discharge for patients who are diagnosed with AUD.

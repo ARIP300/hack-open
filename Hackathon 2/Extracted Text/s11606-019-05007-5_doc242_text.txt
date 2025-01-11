@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+# BACKGROUND
+
+Tobacco remains the leading cause of preventable death and disease in the U.S. Tobacco users are at increased risk of food insecurity, and the co-occurrence of tobacco use and food insecurity may place individuals at especially high risks of poor health. The objective of this study is to identify rates and socio-demographic correlates of food-insecurity among low-income tobacco users in the New York City area.
+
+# METHODS
+
+We used baseline survey data from a large randomized controlled trial testing a smoking cessation intervention for smokers living below 200% of the federal poverty level (FPL) to calculate the proportion of smokers experiencing food insecurity, as measured by the USDA 6-item food security model. We used bivariable and multi-variable logistic regression to identify participant factors associated with food insecurity.
+
+# RESULTS
+
+Overall, 55% of participants were food insecure, with 27% reporting very high food insecurity. Food insecurity did not significantly differ by gender, race, education, or employment status (p>.05). Marital status tended to be a protector against food insecurity. Participants who reported being separated, widowed, or divorced, were more likely to be food insecure than those who reported being married or cohabitating (AOR = 2.24, 95% CI: 1.07-4.72). Additionally, participants who reported being never married had almost three times greater odds of experiencing food insecurity than married or cohabitating participants (AOR = 2.90, 95% CI: 1.40-6.00). Participants who fell below 100% of the FPL were almost two times more likely to experience food insecurity than those with income above the FPL (AOR = 1.95, 95% CI: 1.12-3.40).
+
+# CONCLUSIONS
+
+Most low-income tobacco users were experiencing food insecurity. Having been separated, divorced, widowed or never married is a significant predictor of food insecurity. Social networks and removing social isolation may be a protector against food insecurity among this unique sample of low-income NYC smokers. Future interventions which seek to alleviate food insecurity may benefit from targeting the poorest and socially isolated smokers.
+
+# RATES OF NO-SHOWS IN AN URBAN PRIMARY CARE CLINIC: DEFINING THE PROBLEM
+
+Elizabeth Pines; Patty McGraw; Vishal Patel; Gretchen Rickards
+
+1. Christiana Care Health System, Newark, DE; 2. Christiana Care Health System, Kennett Square, PA; 3. Christiana Care Health Services, Newark, DE. (Control ID #3156677)
+
+# BACKGROUND
+
+No-show rates among primary care practices in the United States vary from 5% to 55%. Missed appointments have been associated with increased acute care utilization, reduced access for other patients, worse health outcomes, and decreased provider productivity. Continuity clinic is a required component of residency training and missed appointments translate into missed educational opportunities. Few studies have looked at the differences between no-shows among residents and attendings as well as internal medicine (IM) residents and family medicine (FM) residents in the context of primary care. The aim of this study was to examine the association between no-show rates at an urban IM and FM residency continuity clinic based upon provider characteristics (i.e., specialty type and postgraduate year) and appointment type as well as the financial implications no-show appointments have on our clinic.
+
+# METHODS
+
+We performed a retrospective chart review of all scheduled appointments from July 1, 2016 to December 4, 2017 of adult patients at an urban IM and FM residency continuity clinic. Data was obtained from a single large regional mid-atlantic health care system. A no-show appointment was defined as an appointment where the patient failed to appear and did not cancel prior to the appointment time. Lost clinic revenue was calculated based on the following billing codes: 99204, 99213, 99214, 99243, 99396. Chi-square test was employed to analyze differences between IM providers and FM providers.
+
+# RESULTS
+
+During the study period, there were 58,890 discrete visits. The overall no-show rate was 18.9% (n=11,137), which differed by provider type with IM residents having the highest no-show rate (29.0%) when compared to FM residents (26.3%), IM nurse practitioners (19.1%), and all attendings (17.9%). No-show rate by postgraduate year was significantly different only among categorical IM residents with the later postgraduate years having lower no-show rates (p < 0.0001). For both the IM and FM practices, hospital discharge follow-up appointments had the highest no-show rate (34.7% and 38.5%, respectively) while pre-operative appointments had the lowest (9.1% and 17.6%, respectively). The clinic had an estimated $2,092,260 in lost revenue from no-show appointments during the 18-month study period.
+
+# CONCLUSIONS
+
+This study identified significant differences in no-show rates between residents and attendings as well as IM residents and FM residents. Hospital discharge follow-up appointments had the highest no-show rates among all residents. The next step of this project is to develop and implement a survey to assess patient barriers to attending appointments with emphasis on transportation, financial, and scheduling concerns. Subsequently, the chart review and survey data will be combined to develop targeted interventions to reduce no-show rates.
+
+# RE-FRAMING OPERATIONAL DECISIONS IN A VALUE-BASED FUTURE: HOW THE LARGEST U.S. PUBLIC HEALTH SYSTEM IS THINKING ABOUT CAPITAL FOR QUALITY IMPROVEMENT INITIATIVES
+
+Hannah B. Jackson; Jeremy O'Connor; Theodore Long. NYC Health + Hospitals, New York, NY. (Control ID #3185494)
+
+# BACKGROUND
+
+With ongoing payment reform, there is a continued movement away from fee-for-service to value-based payment (VBP) systems. Often, large hospital systems only account for direct service revenue when deciding whether or not to implement a program. However, with newer payment models such as ACOs as well as Medicaid value-based initiatives, a newer paradigm is emerging that determines program viability based on direct impact on metrics tied to payment. In this exercise, we examined whether it would be feasible to hire new clinical pharmacists to help with medication management for patients with uncontrolled diabetes in five of our outpatient clinics. To assess this, we modeled the capital costs and net income associated with program implementation with and without inclusion of VBPs.
+
+# METHODS
+
+We did a cost analysis study to ascertain the feasibility of implementing a diabetes quality improvement (QI) initiative across five clinical sites within the NYC Health + Hospitals public health care system, which cares for a population that is largely uninsured or publicly insured. We defined our population as the number of patients with uncontrolled diabetes (defined as A1c>8.0, "quality metric") at each site. We identified nine metric-linked payment opportunities within our Medicaid managed care plans or linked to state incentive programs and determined the number of our defined population that was eligible for each measure. Next, we calculated the required percent change in a quality metric for the system to be eligible for the VBPs and compared this to the expected impact of our pharmacist program, using conservative estimates from other implementation studies of ambulatory clinical pharmacist integration. With these numbers, we assessed the net operating income/cost with versus without the addition of various potential VBPs.
+
+# RESULTS
+
+When we accounted only for direct revenue (without VBPs), we predicted the pharmacy program to generate a net income of $764,429 in one year. In contrast, with VBPs, we predicted the program to generate up to $40,195,906 in one year. As an example, in a subset of patients eligible for one of the VBPs, improvements of

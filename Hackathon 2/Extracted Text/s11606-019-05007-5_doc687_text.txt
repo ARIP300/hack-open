@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+In addition, strategic guidance from the faculty allows the DTR to explore their own style of teaching, identify roadblocks to knowledge, and sharpen their leadership and mentorship skills. It is not enough to just work on facts or recite guidelines. Becoming a good clinician requires a solid foundation of medicine, but equally requires the application of this knowledge in the context of a patient. Hence, the actual process of learning is integral to becoming a good clinician. Through this initiative, we hope to facilitate learning for the students, and help our educators realize their own potential. We are still in the initial phases of our project and hope to achieve feedback through the surveys and weekly meetings in the coming months.
+
+ONLINE RESOURCE URL (OPTIONAL): https://drive.google.com/file/d/1nig_BADE7t0GI_mh3maAygmySvRZDBRa/view?usp=sharing
+
+# A TELEHEALTH CURRICULUM FOR INTERPROFESSIONAL TRAINEES AND STAFF
+
+Janeen E. Smith 1, 2; Bridget C. OBrien 3; Maya H. Dulay 4; Leonie Heyworth 5; Omar Aljundi 1; Rebecca L. Shunk 6; Christopher Sha 1, 2; William B. Smith 2; Amy D. Lu 7. 1San Francisco VA Health Care System, San Francisco, CA; 2University of California, San Francisco, San Francisco, CA; 3Univ of California, San Francisco, San Rafael, CA; 4UCSF/VA, San Francisco, CA; 5VA San Diego Healthcare System, La Jolla, CA; 6UCSF, San Francisco, CA; 7San Francisco VA Medical Center, San Francisco, CA. (Control ID #3174741)
+
+# NEEDS AND OBJECTIVES:
+
+Access to medical care for rural and underserved patients is adversely affected by distance associated time and cost burdens. Telehealth has expanded access to care for many patients, allowing them to see their providers from the convenience of their own homes. However, telehealth home visits are underutilized because providers lack the confidence and skills necessary to conduct such visits. To address this training gap, we designed a curriculum to teach trainees and staff to perform safe video visits, employ virtual physical exam techniques, utilize peripheral devices and develop new care pathways.
+
+# SETTING AND PARTICIPANTS:
+
+The Department of Veterans Affairs introduced VA Video Connect (VVC) in July of 2017. VVC connects Veterans to their care team via a secure online platform. Residents, students and staff from medicine, nursing, pharmacy and psychology participate in the curriculum.
+
+# DESCRIPTION:
+
+The curriculum consists of 3 hour-long sessions delivered over 6 months. The first session covers equipment, technology, safety, contingency planning, documentation and completion of national VAVVC training requirements to perform video visits. Learners take turns role playing providers and Veterans to learn the functions of the virtual medical room. In the second session learners use VA issued tablets and peripheral devices and practice a virtual physical exam in simulated cases. The third session focuses on appropriate health concerns for video visits and integration into clinic workflow.
+
+# EVALUATION:
+
+Thirteen trainees and staff participated in the first session. Their average self-assessed ability to do a video visit, rated from 1=poor to 5=excellent, increased from 1.9 (±1.3) pre-session to 3.5 (±1.1) post-session. Participants rated their likelihood of incorporating video visits into practice as a result of the session 4.7 (±0.75), on average. As implementation continues, we will track the percentage of learners who conduct at least one video visit within 6 months and conduct focus groups to identify what content and educational strategies are most and least effective.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+As early adopters of VVC, we recognize the barriers socioeconomic status and limited facility with telecommunication technologies pose to Veterans, so we added education on use of VA provided technology and devices into the curriculum. By including real-time practice, learners experience some of the technology challenges encountered in real patient visits. In contrast to most telehealth orientations, our transformative curriculum moves beyond a tour of technology to address integration of technology into routine patient encounters.
+
+# ABSTRACT TITLE: FACILITATING REFLECTION ON THE PATIENT DISCHARGE PROCESS: AN EDUCATIONAL INTERVENTION AT THE VA
+
+Matthew H. Zegarek 1; Seonaid F. Hay 2; Rebecca Brienza 3. 1Yale University School of Medicine, West Haven, CT; 2West Haven VA Hospital, Madison, CT; 3VA Connecticut Healthcare System, West Haven, CT. (Control ID #3178921)
+
+# NEEDS AND OBJECTIVES:
+
+Adverse events occur frequently after patients are discharged from the hospital. Successfully orchestrating care transitions is a core milestone for internal medicine residents as defined by the ACGME and ABIM; however, focused education on discharge planning is rare. A 2009 survey showed that only 16% of internal medicine residencies have formal curricula on the topic. Reflection on practice is also a key competency of physicians. The ACGME outlines the needs for residents to investigate, evaluate, and improve their practice. Prior interventions to increase resident reflection on patient discharges have either not been based in the patient care that the learner directly participated in or have required significant investment from institutions and the learner. We designed an interactive session to foster reflection on the post-discharge course of patients that learners directly cared for using easily accessible data at the VA. Our goal is to design an educational program to engage learners in reflection on the discharge process in order to help increase their skills in managing care transitions.
+
+# SETTING AND PARTICIPANTS:
+
+The intervention consisted of a one-hour educational session at the end of a two-week inpatient internal medicine rotation for residents and students.
+
+# DESCRIPTION:
+
+Emphasis was placed on reviewing cases that resulted in readmissions or "near misses," using data from the electronic medical record at the VA. The facilitator guided the participants in reflection by reviewing salient themes that arose from the case reviews and assisted participants in identifying practices that they could adopt to prevent future errors or near misses in patient discharges. The participants were asked to complete a survey immediately before and after the educational session to assess its effect.
+
+# EVALUATION:
+
+After participating, learners had more agreement with the statement "following up on patients improves my understanding of how health systems function." More learners commented on the importance of communication with other providers and with patients in preventing adverse events after discharge after the session. Learners indicated that the session helped them to reflect on the process of discharging patients and helped them create specific goals to change their process of discharging patients. Further statistical analysis is underway.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+A major goal of medical training is to prepare students and residents to independently and safely design discharge plans. This educational intervention was unique in that it leveraged the electronic medical record of the VA to facilitate learner reflection. The survey results indicate that learners found the session helpful in reflecting on their practice in discharging patients and increased their appreciation of the impact of health systems. Learners reported increased appreciation for the role of communication during the discharge process.

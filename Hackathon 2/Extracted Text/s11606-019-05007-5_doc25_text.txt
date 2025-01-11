@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Inpatient falls lead to adverse outcomes and prolonged hospital stays. Fall TIPS (Tailoring Interventions for Patient Safety) is a patient-centered fall prevention program that provides clinical decision support. We previously tested this tool in a randomized control trial and demonstrated a 25% reduction in falls. We used qualitative methods to explore the facilitators and barriers to the adoption of Fall TIPS across three large academic health systems (Partners HealthCare, Montefiore Medical Center, and New York-Presbyterian).
+
+# METHODS:
+
+A semi-structured interview guide based on the RE-AIM framework (reach, effectiveness, adoption, implementation, and maintenance) was used. We interviewed 50 patients and families and 71 staff members in focus groups in 2 phases (Phase 1: July-Sept 2017 and Phase 2: May-June 2018 to validate Phase 1 themes). Upon verbal consent from participants, interviews were recorded, transcribed, and reviewed for accuracy. Transcripts were analyzed in NVivo (QSR International, London) using basic content analysis.
+
+# RESULTS:
+
+Of the 50 patients and families interviewed, 30 (60.0%) were 65 years, 30 (60.0%) were female, and 22 (40.0%) were white. Of the 71 staff members interviewed, 66 (93.0%) were nurses; the mean (SD) age was 38.62 (1.57), 64 (90.1%) were female, and 25 (35.2%) were white. Fall TIPS changed the paradigm of fall prevention. Pre-implementation, fall prevention consisted of one-size fits all approaches that were staff-driven and lacked actionability (e.g., falls bracelets for "high" risk fall patients). Post-implementation, patients were engaged in the identification and implementation of interventions to address individualized fall risk factors (e.g., walking assistance for patients with medical equipment). Dominant facilitators to the adoption of Fall TIPS included 1) staff motivation and engagement, driven by leadership's prioritization of fall prevention and recognition that prior fall prevention programs were ineffective; 2) patients welcoming their role in fall prevention and Fall TIPS bedside posters that facilitated patient engagement; and 3) information technology (IT) that supported the integration of Fall TIPS into staff workflows (e.g., clinical decision support tools that linked evidence-based interventions to fall risk factors). Dominant barriers included: 1) workarounds that threatened program sustainability (e.g. educating not engaging patients in fall prevention); and 2) difficulty engaging willful patients or those with cognitive impairments in fall prevention.
+
+# CONCLUSIONS:
+
+Barriers and facilitators to Fall TIPS included staff-level, patient-level and system-level (IT) considerations. Hospitals interested in adopting Fall TIPS should use hospital leadership to motivate staff in fall prevention, harness patients' intrinsic desire to be engaged in their care, and use IT to support the integration of Fall TIPS into staff workflows.
+
+# ADVANCE CARE PLANNING IN ADULTS AGED 85 AND OLDER IN A CONTINUING CARE RETIREMENT COMMUNITY.
+
+Rebecca Mullan; Christina Tieu. University of Virginia, Charlottesville, VA. (Control ID #3186018)
+
+# BACKGROUND:
+
+Advance care planning (ACP) is a process in which patients, in partnership with family and their healthcare team, discuss end of life care and make decisions regarding treatment preferences. These preferences are often documented in an advance directive (AD), with the goal being that patients receive care consistent with their values if they are unable to make decisions for themselves. This is particularly important in an older geriatric patient population (age 85 and older), who are at high risk of hospitalization. However, there is little information in the current literature regarding ACP and patient values in this population. We investigated the completion rates and qualitative components of advanced directives in a geriatric patient population aged 85 and older.
+
+# METHODS:
+
+We performed a cross-sectional chart review of a geriatric primary care practice based in a continuing care retirement community. Eligible patients were 85 years and older, living within the ambulatory and assisted living community, and receiving care at the clinic. Data abstracted included age, gender, comorbidities, hospitalization or emergency department visit within 90 days, and AD completed. Patients were considered to have an AD if there was a document uploaded and indexed in the Electronic Medical Record (EMR).
+
+# RESULTS:
+
+There were 192 patients who met the inclusion criteria. The mean age was 91.1 (SD 4.2), and 132 (69%) were female. In terms of comorbidities, 51 (26%) had coronary artery disease, 36 (19%) had congestive heart failure, and 22 (11%) had diabetes. There were 24 (12%) patients who had been hospitalized or presented to the emergency department within 90 days. Of the 192 patients, 24 (12%) had an AD uploaded in their EMR. In 4 of 24 patients, the AD included only a designated power of attorney (POA). In 18 of 24 patients (75%), the AD included language directing a focus on comfort-based treatment in the event of imminent death. Two patients (8%) included information about values to guide treatment decisions.
+
+# CONCLUSIONS:
+
+Advance directives were documented in the EMR in only a small percentage of patients age 85 and older. The majority of these directives included instructions for comfort-based care in the event of imminent death / medical futility, but only two included information regarding the patient's values to help direct medical care.
+
+# ADVANCING EVIDENCE SYNTHESIS FROM EFFECTIVENESS TO IMPLEMENTATION: RECOMMENDATIONS FOR THE INTEGRATION OF IMPLEMENTATION MEASURES INTO EVIDENCE SYNTHESIS APPROACHES
+
+Aaron A. Tierney1, 2; Marie Haverfield3; Mark McGovern4; Donna M. Zulman5. 1Stanford University School of Medicine, Mountain View, CA; 2Palo Alto VA Health Care System, Menlo Park, CA; 3Stanford University, Menlo Park, CA; 4Stanford School of Medicine, Palo Alto, CA; 5Stanford University and VA Palo Alto, Stanford, CA. (Control ID #3168121)
+
+# BACKGROUND:
+
+The field of implementation science aims to address the time lag and quality chasm between discoveries that could improve health, and the widespread dissemination and adoption of those findings. To close this gap, there is a need for greater attention to the factors that influence dissemination and implementation of evidence-based practices. Evidence synthesis projects (e.g., systematic reviews) could contribute to this effort by collecting and synthesizing data relevant to dissemination and implementation. The objective of this paper is to recommend implementation measures and outcomes that should be considered in evidence syntheses of intervention studies and illustrate the application of these recommendations through a systematic review of doctor-patient communication interventions.
+
+# METHODS:
+
+Drawing on the implementation science literature, we describe ten implementation measures that should be considered when conducting evidence synthesis: acceptability, adoption, appropriateness, feasibility, fidelity, implementation cost, intervention complexity, penetration, reach, and sustainability. We describe opportunities to assess these constructs, for example by examining clinician satisfaction with an intervention (acceptability), participation/attrition rates (adoption), intervention complexity and time/resource demands (feasibility), the degree to which an intervention is implemented as planned (fidelity), and resources and time required to implement an intervention (implementation cost). As a case example, we describe a systematic review of 29 studies of interventions aimed at improving clinician-patient communication in clinical settings. Using the 29 studies, we illustrate opportunities to abstract the implementation measures using data that are frequently reported.
+
+# RESULTS:
+
+Among the 29 studies, there was variation in the proportion that reported information relevant to acceptability (48%), adoption (86%), appropriateness (66%), feasibility (62%), implementation cost (79%), intervention complexity (100%), penetration (76%), reach (86%), and

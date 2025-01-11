@@ -1,0 +1,73 @@
+# ABSTRACTS JGIM
+
+# MEASURES OF SUCCESS
+
+Descriptive statistics was used to characterize the project results to answer the above listed objectives for the project. Continuous outcomes was expressed in mean and standard deviation or median and interquartile range, depending on the distribution. Categorical outcomes was reported as count and frequency.
+
+# FINDINGS TO DATE
+
+A total of 308 patients had a FIT test ordered during the study period (26 positive, 230 negatives, and 52 incompletes). The FIT completion rate was 83.1% (256/308). The colonoscopy completion rate for positive FIT tests was 65.4% (17/26), and all patients with a positive FIT had a surgery appointment. The average time to colonoscopy was 3.5 months in these patients. For patients with a negative FIT test, only 18% (38/207) of patients completed a follow-up FIT test within one year. Of completed tests, there were 2 FIT tests (0.7%) that could not be processed.
+
+# KEY LESSONS FOR DISSEMINATION
+
+-We found successful adoption of FIT testing for CRC screening with respect to an initial completion rate of 83.1%
+
+-We did not meet colonoscopy goals for positive FIT tests
+
+-There was a significant drop-off in the repeat FIT testing with only 18% of patients completing it.
+
+-This highlighted the need for a closely monitored and adjusted system for FIT testing.
+
+# EFFECTIVENESS OF NURSE-DRIVEN PROTOCOL FOR BLOOD PRESSURE MANAGEMENT
+
+Yusuf N. Alalwan; Miriam Jaziri; Alexis C. Haftka-George; Joseph Miller. Henry Ford Hospital, Detroit, MI. (Control ID #3163465)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Is the nurse-driven protocol more effective in controlling blood pressure in patients with hypertension in the outpatient setting than the traditional physician-driven approach?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Improve blood pressure control with dedicated follow-up visits performed by nurses
+
+Improve access to health care in traditionally underserved patient populations
+
+Utilize a team-based approach in the management of chronic diseases
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+The nurse-driven protocol is based on the MUPD campaign (Measure Up Pressure Down) using a team-based approach to improve blood pressure control and counteract clinical inertia in the ambulatory outpatient clinic setting. After patients are referred to the program by their physician, the MUPD nurse will follow up with the patient during cost-free appointments for blood pressure measurements, patient education, and medication titration based on a set protocol. The patients continue in the program until their blood pressures are controlled. The Henry Ford Clinics traditionally treat a disproportionately high number of medically underserved patients from the Detroit City area. The majority of the patients identify as African American.
+
+# MEASURES OF SUCCESS
+
+This was a retrospective case-controlled study including all adults (>18 years) with hypertension (SBP >140 and/or a DBP >90) that presented to a Henry Ford internal medicine clinic between 1/2015 and 9/2017 and who participated in the nurse-driven protocol. The control consisted of a matched cohort who only followed up with their physicians. Blood pressures at 6 months and 1 year following enrollment in the nurse-driven HTN program were obtained from electronic medical records. Categorical variables were compared using chi-square tests. Crude and adjusted odds ratios were obtained using generalized estimating equations with a logit link function presence of blood pressure control as the dependent variable.
+
+# FINDINGS TO DATE
+
+The rate of controlled blood pressure (BP) at 6 months is significantly higher in patients who were in the program as compared to those who were not (61% versus 45%, p<0.001). Similarly, the rate of medical management change was significantly higher in patients who were in the program as compared to those who were not (30% versus 21%, p<0.001). However, for both endpoints, the rates were similar at all other time points. Patients with at least 1 MUPD visit had 1.46 times the odds of having controlled BP in later visits compared to those with no MUPD visits. When controlling for gender, race, baseline systolic BP, and ratio of the medication change, patients with at least one MUPD have 1.48 times the odds of having controlled BP in later visits compared to those with no MUPD visits.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Nurse-driven clinic visits seem to be more effective in controlling blood pressures in the primary care setting than traditional physician visits. This project furthermore showed that this is also true in outpatient settings with a high proportion of underserved patients with multiple other comorbidities and complex social backgrounds.
+
+# EFFECTS OF A COLLABORATIVE FRAMEWORK FOR CHRONIC PAIN MANAGEMENT AT ROSEBUD INDIAN HEALTH SERVICE UNIT
+
+Stephanie Sun; Hannah Wenger. Massachusetts General Hospital, Boston, MA. (Control ID #3185879)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+How does the initiation of a committee-based framework affect chronic pain management at Rosebud Indian Health Service (IHS) Unit in rural South Dakota?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+The pain committee is intended to:
+
+(1) streamline safe opioid prescribing at Rosebud IHS Unit,
+
+(2) improve chronic pain management as guided by its outpatient providers,
+
+(3) create a collaborative environment for outpatient providers to discuss chronic pain patients.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+The Rosebud IHS Unit is a rural community-based site on Rosebud Indian Reservation in South Dakota. Its clinical staff launched a pain committee in October 2018 to create a framework for managing patients with chronic pain, including those receiving long-term opioids. Primary care providers first place a pain consult in the electronic record, and then the primary care provider discusses the case and receives recommendations for pain management at the weekly committee meeting, which includes providers and representatives from administration, pharmacy, behavioral health, and other support services in the hospital.

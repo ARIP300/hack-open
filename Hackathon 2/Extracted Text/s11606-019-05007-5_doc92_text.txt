@@ -1,0 +1,49 @@
+# JGIM
+
+# ABSTRACTS
+
+hospitalizations with OUD still had an average 3.3 days longer length of stay (p<0.01).
+
+# CONCLUSIONS:
+
+U.S. hospitalizations in 2016 for serious infections in patients with OUD had significantly longer lengths of stay and greater associated costs, along with higher odds of discharge to a post-acute care facility or AMA as opposed to home, compared to those without OUD. Further studies elucidating the source of these disparities and interventions to address them (such as more access to post-acute care facilities, inpatient substance use treatment, transitional addiction clinics, and outpatient parenteral antibiotic therapy) may improve equity of care and lower costs.
+
+# DISPARITIES IN PHYSICIAN-PATIENT NONVERBAL COMMUNICATION AND INFLUENCE ON PATIENT ADHERENCE
+
+Kedous Mekbib; Carol Oladele; Marcella Nunez-Smith. Yale University, New Haven, CT. (Control ID #3186084)
+
+# BACKGROUND:
+
+Physician-patient communication is a quality of care indicator that has demonstrated associations with patient experience, satisfaction, and healthcare outcomes. Findings show that physician-patient communication varies across patient sociodemographic groups and contributes to healthcare disparities. This body of research has primarily focused on verbal physician-patient communication. Few studies have investigated the influence of nonverbal physician-patient communication on healthcare disparities. This study aimed to examine differences in physician nonverbal communication among diverse patient groups and to determine the relationship between nonverbal communication and patient adherence.
+
+# METHODS:
+
+Data from the Patient-reported Experiences of Discrimination in Care Tool (PreDict) Study was used for the current analysis. The PreDict study includes a self-administered survey of recently discharged adult patients from a sample of US hospitals. Patients were asked about their most recent inpatient experiences using de novo items and previously validated scales. Nonverbal communication was measured by asking patients if their doctors were distracted when talking, stayed physically distant, and made eye contact with them. Our outcome, patient adherence, was measured using items that assessed whether patients were following discharge instructions or taking medications as prescribed. Chi-square tests were used to compare differences in nonverbal communication by race, ethnicity, total household income, and level of education. Logistic regression models were used to determine associations between nonverbal communication and patient adherence, adjusting for potential confounders.
+
+# RESULTS:
+
+Ninety-one percent of respondents reported their doctor was not distracted, 71.8% reported their doctor was not physically distant, and 88.6% of respondents reported their doctor made eye contact. Ninety-seven percent of respondents said they followed discharge instructions and 89.2% of patients took their prescribed medications. Bivariate analyses showed that lower income and non-white patients reported physicians maintained less eye contact and were distracted when talking to them. Multivariate results showed that patients who reported that doctors maintained less eye contact had 2.54 times lower odds of adhering to discharge instructions. Findings for medication adherence were not statistically significant.
+
+# CONCLUSIONS:
+
+These findings demonstrate that nonverbal communication matters to patients and is an important factor to consider in efforts to improve patient adherence. Findings also suggest the potential role of implicit bias in disparate physician-patient communication experiences among low-income and minority patients. This study highlights the need for increased provider awareness of nonverbal behaviors that contribute to poor healthcare outcomes and disparities.
+
+# DO CLINICIAN-EDUCATORS FEEL THEY ARE ADEQUATELY MENTORED: A MIXED-METHODOLOGY STUDY
+
+Attila Nemeth 1; Alia Chisty 2; Carla Spagnoletti 3; Corrie A. Stankiewicz 4; Subha Ramani 5. 1 Case Western Reserve University, Cleveland, OH; 2 Temple, Philadelphia, PA; 3 University of Pittsburgh, Pittsburgh, PA; 4 University of Pennsylvania SOM, Narberth, PA; 5 Brigham and Women's Hospital, Harvard Medical School, Boston, MA. (Control ID #3184642)
+
+# BACKGROUND:
+
+Being mentored is key to professional advancement, job satisfaction and institutional faculty retention. While many institutions have formal mentoring programs, it is unclear if clinician-educators (CE) feel that such programs adequately address professional development.
+
+# METHODS:
+
+A mixed methods approach explored the mentoring experiences and perceptions of general internal medicine CEs, focusing on the adequacy and quality of being mentored. To gather quantitative and qualitative data, an online survey was distributed to self-identified CEs within the Society of General Internal Medicine (SGIM) in the fall of 2017, and two in-person focus groups of interested survey respondents were held at the SGIM Annual Meeting in 2018. Pearson Chi-squared analysis was used for quantitative data and thematic analysis was conducted on qualitative data.
+
+# RESULTS:
+
+192 CEs completed the survey. 64% of respondents were women, 79% were between 30-55 years, 68% were at the Assistant or Associate professor rank. 81% of women vs 59% of men had at least 1 active mentor (p<0.001). 40% had >3 active mentors, and 28% had none. 66% of respondents agreed or strongly agreed that they received adequate mentoring, and 94% agreed or strongly agreed that mentoring was beneficial for career advancement. 80% agreed or strongly agreed that being mentored contributed to increased academic products. 79% either agreed or strongly agreed that mentoring challenged them to be better CEs. Gender comparisons of results indicated more women faculty sought out their own mentors (64% vs 44%, p<0.01), had mentors outside of their home institution (34% vs 18%, p<0.05), and used peer mentoring (33% vs 16%, p<0.01). Women used mentoring sessions to discuss career advancement (71% vs 42%, p<0.001), job satisfaction (48% vs 28%, p<0.01), developing educational products (66% vs 41%, p<0.01), personal/professional life balance (45% vs 27%, p<0.01), negotiating tactics (28% vs 4%, p<0.01), and deciding which opportunities to pursue (66% vs 46%, p<0.01). Gender congruence between mentor and mentee was important. 70% of responding women had a primary mentor who was female, and 68% of men had a primary mentor who was male (p<0.01). We discovered the following key themes from our qualitative data: (1) an effective mentor is vital for career advancement; (2) peer mentoring offers unique benefits for professional growth; (3) there are distinct challenges in mentoring CEs; and (4) it is unclear whether mentoring is a teachable skill.
+
+# CONCLUSIONS:
+
+Female CEs appear to be significantly more proactive in seeking mentors inside and outside their institutions and engaging in peer mentoring. Even if institutions have formal faculty mentoring programs, mentoring that addresses unique needs of clinician educators is necessary for their career advancement and job satisfaction.

@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# IMPROVING SAFE PRESCRIBING OF OPIOIDS FOR HOSPITALIZED OLDER ADULTS WITHIN AN ELECTRONIC HEALTH RECORD (EHR) BASED PRESCRIBING CONTEXT
+
+Kathleen Drago; Jackie Sharpe; Bryanna De Lima; Abdulaziz S. Alhomod; Elizabeth Eckstrom. Oregon Health & Science University, Portland, OR. (Control ID #3183324)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Hospitalized older adults are at risk of being prescribed medications at inappropriate doses and medication-related adverse events are a common hazard in acute care, driven in part by provider reliance on age-independent dose defaults within EHR medication orders.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+We developed an EHR-based, age-triggered set of alternate dose defaults to enhance thoughtful, age-appropriate prescribing without significant alterations to normal prescriber workflows.
+
+# IMPROVING TREATMENT OF PREDIABETES WITH METFORMIN IN AN INTERNAL MEDICINE OUTPATIENT CLINIC
+
+Kelly Koehn 1; Natalie Cohen 2; Ankit R. Parikh 1; Gudbjorg Jonsdottir 1; Melissa B. Ludgate 4; Heidi Ahmed 3; Nanmeng Yu 1; Robert Szalewski 1; Hashim Chaudhry 4; Rebecca S. Davis 1; Krista M. Johnson 4. 1 University of Iowa Hospitals and Clinics, North Liberty, IA; 2 University of Iowa Hospital and Clinics, North Liberty, IA; 3 The University of Iowa Hospitals and Clinics, Iowa City, IA; 4 University of Iowa, Iowa City, IA. (Control ID #3184097)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+The American Diabetes Association (ADA) recommends metformin in addition to lifestyle modifications in patients with prediabetes <60 years old to prevent progression to type II diabetes; however, a recent study found only 3.7% of eligible patients with prediabetes were prescribed metformin.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Within our academic internal medicine residents' clinic, we screened all patients presenting for an appointment over the course of one month for a history of penicillin drug reactions and interest in penicillin allergy testing. Excluding patients who reported tolerating multiple, subsequent episodes of penicillin exposure, we offered referral for penicillin allergy testing to interested patients. Additionally, written educational material was provided to patients. Prior to project initiation, we partnered with colleagues in the division of allergy/immunology to ensure appropriate referral workflow and availability of testing. Internal medicine residents also received academic detailing on the impact of penicillin allergy testing and the quality improvement project.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Measures of success include the response rate of screened patients and the proportion of candidates for penicillin allergy testing who received a referral for testing.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+412 out of 800 outpatients completed screening over one month, providing a response rate of 52%. According to chart documentation the prevalence of penicillin allergy among our outpatients is 4%, however 17% (71) screened patients reported a history of penicillin reaction. 10% (7) of patients who reported a history of penicillin reaction also reported continued penicillin use without consequence. 35% (22) of patients reporting history of penicillin reaction were interested in penicillin skin testing. 36% (8) of interested patients were referred for testing.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Implementation of a standardized screening protocol can quickly identify appropriate candidates for penicillin allergy testing, in line with American Academy of Allergy, Asthma, and Immunology and Infectious Diseases Society of America recommendations. However, less than half of patients reporting interest in penicillin allergy testing received a referral for testing. Further data is needed to determine the drivers of penicillin allergy testing referral. Additionally, it is unclear why a larger percentage of patients reported a history of penicillin reaction compared to chart documentation of allergy.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Geriatric Prescribing Context (GPC) is an Epic-based set of alternate dose defaults triggered for patients 75 and over. It offers pre-set age-sensitive dose and regimen defaults for 74 medications compiled by a geriatrician and pharmacist team using evidence-based tools. GPC went live in Epic at our Level 1 tertiary care academic medical center in July 2017 and is active only for inpatients, not Emergency or outpatients. Development & implementation by the core team took approximately 50 hours. There was no formal training of prescribers.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+This analysis compared average dose, total daily dose and doses per day for oxycodone, oral & IV hydromorphone for 6 months before and after GPC went live in July 2017. The data were retrieved from the EHR database retrospectively; including patients 75 and older with an inpatient encounter within the study time frame and who received at least one dose of any of the three medications of interest as a standing order, not from an order set. Unpaired T-tests assuming the unequal variance were performed via STATA 15 to determine statistical significance.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Data from pre and post-GPC implementation revealed the following changes:
+
+| |Pre|Post|p-value|
+|---|---|---|---|
+|Oxycodone (n = 1646)|Average Dose: 6.34 mg|5.92 mg|0.008|
+| |Doses per Day: 2.71|2.89|0.003|
+| |Total Daily Dose: 19.72 mg|19.19 mg|0.51|
+|Oral Hydromorphone (n = 162)|Average Dose: 2.88 mg|1.8 mg|< 0.05|
+| |Doses per Day: 2.99|3.07|0.65|
+| |Total Daily Dose: 9.92 mg|5.84 mg|0.0001|
+|IV Hydromorphone (n = 714)|Average Dose: 0.42 mg|0.38 mg|0.02|
+| |Doses per Day: 2.74|2.55|0.1|
+| |Total Daily Dose: 1.24 mg|1.13 mg|0.17|
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+These results suggest that an EHR-based set of alternate dose defaults for a high risk population of older adults may be effective at aligning prescribing practice with population-specific recommendations with relatively little time or cost investments. This simple and potentially effective intervention in resource-limited environments may minimize risk to hospitalized older adults.

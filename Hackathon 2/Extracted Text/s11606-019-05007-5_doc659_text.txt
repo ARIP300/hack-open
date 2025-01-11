@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+financial benefits for clinics, and improved care delivery for 8200 patients. Comments from project participants as noted on project closing documents include improved understanding of quality improvement approaches as well as enhanced participant self-efficacy at problem solving.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Institutions can catalyze front line problem solving by creating a structure of supportive leadership, trained coaches, and regular check-ins.
+
+# PICC-ING AWAY THE WASTE: A MULTIDISCIPLINARY APPROACH TO VASCULAR ACCESS IN PATIENTS WITH CHRONIC KIDNEY DISEASE
+
+June Kampangkaew; Nathan C. Nowalk; Maulin Shah; Charlie Lan. Baylor College of Medicine, Houston, TX. (Control ID #3186219)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+At the Michael E DeBakey VA Medical Center, the current process for obtaining renal approval for placement of Peripherally Inserted Central Catheters (PICCs) in patients with Chronic Kidney Disease (CKD) 3-5 is complicated by work task redundancy and delays in PICC placement.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- To review PICC approval patterns in patients with CKD 3-5 at MEDVAMC
+- To reduce redundant work in the current PICC approval process to improve provider experience
+- To reduce delays in PICC placement in patients with CKD 3-5
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Michigan Appropriateness Guide for Intravenous Catheters (MAGIC) was developed in response to the increasing use of peripherally inserted central catheters (PICCs) to help physicians choose the appropriate catheter for the indication. In June 2017, the Michael E Debakey Veteran Affairs Medical Center (MEDVAMC) implemented MAGIC through a new vascular access team (VAT). The responsibilities of VAT include teaching nursing staff proper PICC maintenance and independently determining the appropriateness of type of catheter placed when consulted for access. This latter role ultimately reduced the number of PICCs placed. In patients with Chronic Kidney Disease (CKD) 3-5 who may be a candidate for dialysis in the future, there is particular concern that PICCs can damage large veins and thus make them unusable for dialysis access in the future. At the MEDVAMC, before a PICC line can be placed for all patients with CKD 3-5, the current process requires: an order for PICC, VAT confirming appropriate indication, and renal consultation for documented approval in electronic medical record. We used a multidisciplinary team approach (renal, medicine, VAT) to evaluate the current process using quality improvement (QI) tools to improve work flow, reduce redundancy, and to decrease time to PICC placement.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+- Number of hours to place PICC
+- Number of tasks required by team requesting PICC
+- Surveys assessing provider burnout
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Between September 2017 and October 2018, MEDVAMC cared for 23 patients who had an indication for PICC with CKD 3-5. Seventy-eight percent (n=18) were age > 65 years old. Indications for PICC included 57.5% (n=13) for vasopressors or inotropes, 13.0% (n=3) for venous access, 17.4% (n=4) for long-term intravenous (IV) antibiotics, 4.3% (n=1) for chemotherapy. One year all-cause mortality rates were 60.9% (n=14). After consultation with renal, 100% (n=23) of PICCs were approved. To date, no patients from our cohort are undergoing evaluation for dialysis access.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Although there are likely gaps in physician knowledge and practice for PICCs, the VAT has successfully modified requests for PICCs to midline or ultrasound-guided IV catheters. This autonomy has decreased the total number of PICCs placed in all patients, including patients with CKD 3-5. Post-implementation process analyses can identify other areas of potential waste, which can be later reduced by a multi-disciplinary intervention.
+
+# PREDICTING RISK OF CLINICAL DETERIORATION: A CLOSER LOOK AT RESIDENT HANDOFFS AND RAPID RESPONSE
+
+Khaled Sanber; Rachael Jacobson; Sarah Tuthill; Bhavika Kaul; Vagish Hemmige; Elizabeth Guy; Chirayu Shah; Stephen B. Greenberg. Baylor College of Medicine, Houston, TX. (Control ID #3187119)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+A key component of the I-PASS handoff includes assigning each patient an illness severity, which is categorized into three groups in order of increasing severity: "stable", "watcher", "unstable" (renamed as "star" in this study). To our knowledge, the utility of these categories as a means of predicting clinical deterioration has not been evaluated.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+The main objective of this study was to evaluate whether the illness severity category was predictive of overnight clinical deterioration, defined as a rapid response team (RRT) activation, after resident handoff.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This study is a retrospective chart review of in-patients at Ben Taub Hospital (Houston, Texas) who were under the care of internal medicine teaching teams during a 12-month period (April 2016 through March 2017). Patients who had an RRT activation between 6PM and 7AM (after resident hand-off and during the care of a cross-covering night team) were analyzed. The data were collected by accessing a previously developed list of rapid response events documented by rapid response nurses. Resident-generated I-PASS Excel handoff sheets and the electronic medical records for all patients with RRTs during the 12-month study period were retrospectively reviewed. Prior to starting residency, BCM residents received training on performing an effective handoff using the I-PASS bundle including patient classification based on perceived clinical stability.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+A total of 5,176 patients met inclusion criteria. For these patients, 28,235 handoffs and 98 RRTs were analyzed. Of the 98 RRTs, 5 (5%) patients were labeled as "star", 35 (36%) as "watcher", and 58 (59%) as "stable". When analyzing all patient handoffs, 377 (1.3%) were categorized as "star", 5,309 (19%) as "watcher", and 22,549 (80%) as "stable". When compared to patients listed as "stable" during handoff, patients listed as "watcher" had an odds ratio of 2.6 (95% CI 1.7-3.9, p < 0.001) and patients listed as star had an odds ratio of 5.2 (95% CI 2.1-13.1, p < 0.001) of an overnight RRT activation. Overall hospital mortality for patients with an RRT was 28%.

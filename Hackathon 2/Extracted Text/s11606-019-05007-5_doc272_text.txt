@@ -1,0 +1,35 @@
+# JGIM
+
+# ABSTRACTS
+
+# THE EFFECT OF A PATIENT DECISION AID ON DECISIONAL QUALITY AMONG PATIENTS WITH LUMBAR DISC HERNIATION
+
+O. Kenrik Duru 1; Christopher Saigal 1; Sylvia Lambrechts 1; Richard Hwang 2; Aaron Reyes 2; Lorna Kwan 1. 1 UCLA, Los Angeles, CA; 2 David Geffen School of Medicine, Los Angeles, CA. (Control ID #3185687)
+
+# BACKGROUND:
+
+Among patients with low back pain and sciatica, the most common underlying condition is lumbar disc herniation (LDH). As there are several potential first-line treatments, LDH is considered a preference-sensitive condition such that providers should elicit patients' goals and values to help them select the treatment option that best aligns with their preferences. In this study, we compared decisional conflict in patients with lumbar disc herniation who completed an internet-based Patient Decision Aid (PDA) prior to their treatment consultation with patients not using a PDA.
+
+# METHODS:
+
+Patients seeking treatment for LDH at L4-L5 and/or L5-S1 were offered an internet-based PDA prior to their specialist consultation with a spine surgeon or physiatrist, while patients in usual care were not offered the PDA. All patients completed a post-visit questionnaire, either in person or by phone, which included validated questions from the SURE test for clinical practice, Decisional Conflict Scale (DCS) and the Shared Decision Making Questionnaire. We performed bivariate analyses to examine the association between decisional conflict and measures of decisional quality.
+
+# RESULTS:
+
+Overall, 40% in the implementation group (n=87) and 47% in the usual care group (n=174) reported decisional conflict after their visit (p=0.253), and the implementation group was more likely to know the treatment options than the usual care group (91% vs. 83%, p=0.004). Among patients who reported decisional conflict, the implementation group was more likely to know benefits and risks of the treatment options compared to the usual care group (72% vs. 41%, p=0.003). However, no differences were seen in other comparisons, including satisfaction with the decision, discussion of treatment options with the doctor, or inclusion in the treatment decision. Within the implementation group, patients without decisional conflict were more likely to...
+
+# THE EFFECT OF RED BLOOD CELL TRANSFUSION ON FATIGABILITY IN HOSPITALIZED PATIENTS WITH ANEMIA
+
+Micah T. Prochaska; Rilwan Babajide; Sarah Bradbury; David Meltzer. University of Chicago, Chicago, IL. (Control ID #3160994)
+
+# BACKGROUND:
+
+Anemia is a common condition in hospitalized patients, and fatigue is the primary symptom of anemia. Anemia-related fatigue is associated with decreased health-related quality of life and poor functional outcomes. Therefore, an important objective of treating anemia with red blood cell transfusion may be to reduce fatigue and increase patient activity. While data from previous studies suggests that transfusion improves fatigue in hospitalized patients with anemia, these studies did not examine whether transfusion and changes in fatigue may also affect patient's activity levels. This is important because if transfusion reduces fatigue, patients may become more active. Thus, the effect of transfusion on patients' fatigue in the context of their activity, a measure known as fatigability, may be a more accurate measure of the benefit of transfusion than fatigue alone. To date, there are no data on the effect of transfusion on fatigability. The objective of this study was to determine whether transfusion during hospitalization improves fatigability 30 days post-discharge.
+
+# METHODS:
+
+From June 2017-January 2018 hospitalized general medicine patients with a Hemoglobin (Hb)<10g/dL were approached for an inpatient interview and a 30-day post-discharge phone interview. Fatigability was measured using the Pittsburgh Fatigability Scale (PFS) at both times points. PFS scores range from 0-50, with higher scores indicating greater fatigability (more fatigue at lower activity levels). Patients were categorized into 4 groups based on their inpatient level of fatigability (high or low) and Hb (<8g/dL or 8g/dL). A "change in fatigability" score was calculated by subtracting PFS scores obtained during the post-discharge phone interview from the inpatient PFS score. Clinical and demographic data were obtained from hospital administrative data. Independent sample t-tests were used to compare changes in fatigability within each of the 4 groups between patients who received a transfusion and those who did not.
+
+# RESULTS:
+
+140 participants completed both the inpatient and post-discharge interview. There were no significant baseline differences between those who were transfused and those who were not [(age 53 vs. 53; p=0.94), (female 67% vs. 59%; p=0.39), (African American 74% vs. 69%; p=0.76), (Charlson Comorbidity Index 2 vs 2, p=0.59), (median in-hospital PFS 32 vs. 32; p=0.97). For patients with high in-hospital fatigability (PFS<32) and a Hb<8g/dL, transfusion was associated with improvement in fatigability 30 days after hospital discharge, compared to patients not transfused (14.8 vs 2.2, p=0.02). The effect of transfusion was not statistically significant in any other group.

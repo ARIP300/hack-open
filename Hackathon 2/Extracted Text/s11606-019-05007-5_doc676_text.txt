@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# MEASURES OF SUCCESS
+
+Decrease in number of patients receiving greater than 90 MEDD and co-prescription of opioid and benzodiazepines.
+
+# FINDINGS TO DATE
+
+Nationally in the VA in 2018, the percentage of patients with greater than 90 morphine equivalent daily doses (MEDD) decreased from 1.13 to 0.86%. Regionally at the SFVA, >90 MEDD scripts decreased from 1.5 to 1.2%. The Rural Clinic A panel covered by the single, in-person continuous PCP, >90 MEDD scripts decreased from 0.97 to 0.61%. Rural Clinic A panels covered by TelePCPs >90 MEDD scripts decreased from 4-7% to 1.2-1.8% over 12 months. Eleven months after implementation, of the 27 patients on > 90 MEDD written in 1 month: 4 prescriptions (15%) were written by PCP (1 in-person, 1 virtual) of 925 paneled patients; 17 prescriptions (63%) by gap providers (3 locums, 1 virtual) of 973 paneled patients; and 6 prescriptions (22%) written by medical director for his panel and unassigned patients. After integration of the virtual PCP teams to Clinic A, the number of patients with co-prescription of benzodiazepines and opioids decreased from 2.2% to 1.3%, compared to VA national level of 1.14% to 0.86% and SFVA level of 1.25% to 1.03%. These trends were also observed at the other 2 rural clinics that were assigned TelePCPs.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Adequate pain assessment and opioid management requires continuity of primary care to patients in rural communities. Consider virtual primary care providers for management of chronic pain patients.
+
+# VIDEO VISITS IN PRIMARY CARE: A FEASIBLE AND CONVENIENT ADDITION TO TRADITIONAL CARE
+
+Kathryn L. Hughes 1; Susan B. Glick 2; Anthony J. Perry 2; Marisa Truesdell2; Amanda Tosto2; Lisa Ravindra2. 1Rush University Medical Center, Highland Park, IL; 2Rush University Medical Center, Chicago, IL. (Control ID #3163533)
+
+# MEASURES OF SUCCESS
+
+Success was assessed via number of VVs completed, number of patients utilizing the program, net promoter score (NPS), relative value units (RVU), and a post-visit patient survey (PVS).
+
+# FINDINGS TO DATE
+
+During the pilot, 2 physicians completed 8 VVs in the course of a normal workday with 8 patients (7 women, 1 man). One 19-year-old man rescheduled due to lack of internet access. VVs were scheduled with the patient's PC physician. Mean age was 39.2±17.7 years. Maximum VV time was 15 minutes. Conditions addressed included anxiety, acute sinusitis, travel advice, contraception, urinary tract infection, low back pain and follow up (herpes labialis and hydrocele). Each visit earned 0.97 RVUs. 6 patients completed PVS. All (6/6) completed visits without needing further care and reported the visit was easy to complete. Were VVs unavailable, 2/6 respondents would have seen a doctor in person, 2/6 would have visited a retail clinic, and 1/6 would have visited another medical center. All (6/6) rated VV quality equal to that of an in-person visit. NPS was 60% (n=5). Key challenges were privacy, internet connection, and protocols for refunds and rescheduling. Physician concerns included continuity of care, reimbursement, and inability to examine patients.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Incorporating VVs in PC is both feasible and acceptable to patients. Were VVs unavailable, half of our patients would have sought care outside of our organization. For our VVs, the NPS, a measure of customer loyalty, was comparable to that of Apple laptops (63%), iPhones (60%), and Netflix (62%). Implementing a VV program requires attention to privacy, connectivity, and protocols for rescheduling.
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Can the addition of video visits enhance a fee for service practice environment?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1. Explore patient interest in video visits for low acuity convenient care
+
+2. Maintain continuity of care for patients with non-urgent medical conditions
+
+3. Evaluate the feasibility and acceptability of video visits in primary care
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+We initiated a video visit (VV) program for established primary care (PC) patients at a large urban academic medical center. A committee of clinicians, information technologists, and administrators met twice weekly for 3 months to develop workflows, acquire hardware, train staff, and set goals. Patients were notified of VVs via email and flyers. We used an established video platform in the electronic medical record. Physicians used a tablet in an exam room and a headset with a microphone. Patients accessed VVs via their online portal using smartphones or computers with a camera. 9 medical assistants and 3 nurses were trained in VV execution. VVs were piloted by 2 physicians for 23 acute, non-urgent conditions, including urinary tract infection, cough, contraception, and follow up at physician's discretion. After a free 6-week pilot, patients paid $49 per visit. Patients received a 5-question post-visit survey regarding convenience, satisfaction, need for additional care, alternative care options, and comparison to an in-person visit.
+
+# WANT 100% SEPSIS BUNDLE COMPLIANCE?
+
+Ali Al-Hilli1; Michaela Wilsmann1; Joanna Pluta2; Jonathan A. Schiller1. 1Marshfield Medical Center, Marshfield, WI; 2Marshfield Clinic, Marshfield, WI. (Control ID #3171799)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Early recognition and treatment of sepsis continue to be a major local, national and global challenge.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1. Identify factors that contribute to delays in early recognition and treatment of sepsis
+
+2. Implement interventions to improve compliance with the recommended sepsis care bundle
+
+3. Measure outcomes as percentage of care bundle compliance and mortality

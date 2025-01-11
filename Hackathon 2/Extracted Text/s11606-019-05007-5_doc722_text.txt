@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# SETTING AND PARTICIPANTS:
+
+Dell Medical School has a robust 4 year clinical skills, leadership and value-in-healthcare curriculum. These skills are explicitly taught and assessed throughout the 4 years of medical school, including the core clerkships.
+
+# DESCRIPTION:
+
+Dell Medical School incorporates several longitudinal themes into its mission, including clinical skills, leadership and value and safety in healthcare. Creating an environment within the core clerkships where these competencies can be applied is challenging, both for students to demonstrate, and for faculty to recognize and assess. We have implemented several strategies and tools to assess those competencies in the clerkships. These tools align with the competencies outlined in the clerkship clinical performance assessment form, which includes competencies such as leadership, initiative, value and safety considerations, amongst others.
+
+# EVALUATION:
+
+At the end of the MS1 year, students rated themselves on their level of attainment of each DMS core competency. During the MS2 Clerkship, faculty assess students using the Clinical Performance Assessment Form. 1212 forms were completed for 50 students during clerkship rotations 1-3 of the 2017-2018 academic year. On the student self assessments, students assessed themselves the highest in the areas of "Emotional Intelligence & Situational Awareness", "Continuous Personal Improvement" and "Interprofessional Care". On the clinical performance assessment forms completed by faculty & residents, "Performance exceeds expectations" was selected in the highest percentages for Clinical Curiosity (40%), Emotional Intelligence and Situational Awareness (29%), Continuous Personal Improvement (25%) and Patient Safety (24%). Several items stood out as being difficult for faculty to assess, with "Not enough information to evaluate" being selected in responses for Patient Safety (35%), Problem Solving & Innovation in Healthcare (34%), and Healthcare System Context (31%) being the most challenging. Our data indicate that, with these tools, along with clear grading rubrics and ongoing faculty development, faculty are able to reliably and confidently assess most competencies, although some challenges remain.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Creating experiences to practice specific skills in the clinical setting, and implementing tools to observe and assess those behaviors and skills is imperative, but not always easy. This is particularly challenging with sub-competencies such as initiative, clinical curiosity, problem-solving and value and safety considerations.
+
+# INNOVATIONS IN POPULATION HEALTH MANAGEMENT: IMPROVING CERVICAL CANCER SCREENING RATES AMONG INTERNAL MEDICINE RESIDENT PATIENT PANELS
+
+Phillip Yun1; James Doolin1; Jeanne Gosselin2; Rebecca Glassman2. 1Beth Israel Deaconess Medical Center, Cambridge, MA; 2Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3178425)
+
+# NEEDS AND OBJECTIVES:
+
+In June 2017, we identified a significant disparity in the cervical cancer screening rates among patients seen by internal medicine residents and faculty attendings, 66% and 80%, respectively, at Beth Israel Deaconess Medical Center's ("BIDMC") ambulatory clinic, Healthcare Associates ("HCA"). Our objective was to improve cervical cancer screening rates among patients seen by BIDMC's internal medicine residents. The first phase of our quality improvement project included a needs assessment and the development of our curricular intervention. Here, we report on the second phase of our project: preliminary outcomes from the first 12 months of our curricular intervention.
+
+# SETTING AND PARTICIPANTS:
+
+Our intervention was conducted within the internal medicine residency program at BIDMC's main primary care clinic, HCA, in Boston, Massachusetts. We delivered our curricular intervention to 2nd and 3rd year residents during their ambulatory blocks in six-week cycles from November 2017-January 2019.
+
+# DESCRIPTION:
+
+After surveying residents on their understanding of cervical cancer screening, we designed a curricular intervention targeting perceived barriers. The curriculum was co-created by residents and attendings. The primary care track residents led the weekly sessions. The content included increasing awareness of ancillary support staff at HCA and proper navigation of population health tools and documentation. The intervention also included guided panel management time alongside HCA's outreach team to help identify and reach out to patients in need of pap smears.
+
+# EVALUATION:
+
+In order to evaluate the impact of the intervention, we focused on the residents who were in their 2nd year in June 2017. We tracked changes in the cervical cancer screening rates among their patients into September 2018. From June 2017 to September 2018, the cervical cancer screening rate for this group of residents increased from 63% to 70%. In addition, we administered a post intervention survey to 2nd and 3rd year residents beginning in December 2018. Preliminary results included responses from eighteen 3rd residents and seventeen 2nd year residents. When asked if they were more comfortable with population health after attending the curricular intervention, 33/35 (94%) agreed. When asked if they would recommend the curricular intervention to other internal medicine residency programs, 32/35 (91%) agreed. When asked if they were more comfortable with cervical cancer screening after attending the curricular intervention, 18/35 (51%) agreed.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We believe the increase in cervical cancer screening rates among resident patients from June 2017 to September 2018 is largely due to our curricular intervention, as no other large-scale intervention or practice change at HCA occurred during this time period. Our post intervention survey also supports this hypothesis as a majority of residents responded positively to our intervention.
+
+# INSULIN PRESCRIBING WORKSHOP: A BRIDGE BETWEEN PHARMACY AND PRIMARY CARE
+
+David Kuo1; Anthony J. Longo4; Olesya Taylor2, 3; Christine Lam3, 1; Rebecca A. Griffith2. 1Atlantic Health System, Morristown, NJ; 2Atlantic Health/ Morristown Medical Center, Morristown, NJ; 3Fairleigh Dickinson University, Bedminster, NJ; 4Atlantic Health, Little Falls, NJ. (Control ID #3176518)
+
+# NEEDS AND OBJECTIVES:
+
+Internal Medicine residents and medical students often have a strong conceptual knowledge about prescribing insulin but are often uncomfortable with real life skills required in managing insulin. Such skills include using proper insulin injection technique, proper glucometer technique, and being able to convert between different forms of insulin. Since the practical aspects of these skills are not routinely taught in medical school or even residency, we implemented a workshop to teach these skills to our medical students and residents.
+
+# SETTING AND PARTICIPANTS:
+
+Morristown Medical Center Internal Medicine Residency is a moderate sized program with 15 categorical residents each year and a clinical training site for three medical schools. The target audience for the workshop consisted of the residents and medical students currently rotating at the hospital. The workshop faculty consisted of ambulatory Internal Medicine faculty and an academic clinical pharmacy department which also has pharmacy residents and students from two schools. The one-hour workshop took place in lieu of a morning report session.
+
+# DESCRIPTION:
+
+The workshop consisted of three stations each led by either a primary care or pharmacy faculty member, with senior residents or...

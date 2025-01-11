@@ -1,0 +1,55 @@
+# JGIM
+
+# ABSTRACTS
+
+# FINDINGS TO DATE
+
+A modified I-PASS handoff bundle was effective in predicting which patients on an internal medicine teaching service were at risk of clinical deterioration after patient handoff. This helps the night cross-covering team focus care on high-risk patients who are more likely to require closer monitoring and intervention. We have instituted new interventions, including modifications to the I-PASS handoff bundle, that are aimed at enhancing the ability of residents to identify high-risk patients and improving patient outcomes. This will be followed by another round of data collection and analysis.
+
+# KEY LESSONS FOR DISSEMINATION
+
+A modified I-PASS handoff bundle was effective in predicting which patients on an internal medicine teaching service were at risk of clinical deterioration after patient handoff. This helps the night cross-covering team focus care on high-risk patients who are more likely to require closer monitoring and intervention.
+
+# PRESCRIPTION REPORTING WITH IMMEDIATE MEDICATION UTILIZATION MAPPING (PRIMUM) IMPLEMENTATION: DO NO HARM
+
+Animita Saha1; Rachel B. Seymour2. 1Atrium Health, Charlotte, NC; 2Atrium Health, Charlotte, NC. (Control ID #3175511)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+An important step to reduce the number of people who are associated with prescription medication abuse, misuse and diversion is identification of at risk patients prior to narcotics prescription.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+To assess the changes in prescribers' behavior when presented with immediate feedback through an electronic alert system based on searchable objective data on EMR on potential misuse of prescription narcotics in acute and chronic pain patients.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+The study was conducted at Atrium Health, Charlotte, NC. We used PRIMUM, which is a computerized alert system to identify patients at high risk for misuse, abuse, and diversion of prescription narcotics and to provide critical information to the prescriber at the point of care to help clinical decision making. Evidence-based triggers were built in to EMR to fire within when a prescription for a narcotic was initiated. The following indications prompted the alert to the prescriber: 1. Current prescription of a narcotic with >50% remaining expected; 2. 2+ visits to ED or Urgent Care with onsite treatment for narcotics (excluded visits led to admission) within past 30 days; 3. 3+ prescriptions for narcotics within past 30 days and 4. Previous presentation for overdose; 5. Positive screen for alcohol, cocaine and marijuana.
+
+# MEASURES OF SUCCESS
+
+Baseline data were collected for one month by running the alert algorithm silently (no alert) followed by five months of live data when the prescribers received the alerts. Following outcomes were measured: 1. Number of alerts; 2. Number of cancellations of narcotic prescriptions following alert; and 3. Overrides of the alert system.
+
+# FINDINGS TO DATE
+
+During the test period, our system had 5,133,278 encounters. For opioid (n=282,870), the alert was triggered in 71,498 (25.3%) cases, of which 13.7% were temporarily cancelled, however, ultimately 5.4% (n=3,860) were resulted in no prescription. For BZD (n=96,999), the alert fired in 21,810 (22.5%) cases, of which 23.4% were initially cancelled (n=5,104) and 13.1% resulted in no prescription (n=2,857). Altogether, cancellations resulted a reduction of 6,717 prescriptions. Rates of cancellation and no prescription significantly differed by specialty (p<0.0001). Cancellation for opioid prescription was most when patients received more than 3 prescriptions over last 30 days (p<0.0001) and for BZD, it was early refill request (p<0.0001).
+
+# KEY LESSONS FOR DISSEMINATION
+
+The PRIMUM-generated alert system presented an opportunity to utilize EMR to provide targeted clinical-decision support for appropriate prescribing. This platform laid the groundwork for further clinical decision support, which included evidence-based guidelines for acute and chronic pain management, including risk assessment prior to prescribing and providing a streamlined method to drug monitoring programs. There was a high rate of cancellation still a huge number of patients with risk factors received a prescription. Although these may have been clinically indicated this system presents an opportunity to train providers as many alerts were ignored.
+
+# PRIMARY CARE & COMMUNITY HEALTH WORKER BASED QUALITY IMPROVEMENT PROGRAM IMPROVES HYPERTENSION OUTCOMES IN URBAN INDIAN SLUMS
+
+Turja Chakrabarti; Debolina Pramanik; Arpan Pramanik2; Karthik Man3; Sourav Mondal3; Paul O'Rourke4. 1John Hopkins University School of Medicine, Baltimore, MD; 2Medical College Kolkata, Kolkata, India; 3Pratit International, Kolkata, India; 4Johns Hopkins University, Baltimore, MD. (Control ID #3185843)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Hypertension management is especially challenging in the context of extreme poverty found in Urban Indian Slums.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+The purpose of this Quality Improvement (QI) program serves to build a multidisciplinary effort to manage hypertension in multiple slum communities. The program aims to combine evidence-based pharmacotherapy with counselling on lifestyle modifications to bring patients living in extreme poverty to meet the American College of Cardiology (ACC) defined blood pressure goal < 130/80 mmHg.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+A mobile health clinic that provides routine primary care in three underserved slum areas in Kolkata, India was selected for a QI program for hypertension management. The population of these slum communities live in extreme poverty with an average per capita daily income of $1.05 US. A team comprised of 2 Primary Care Physicians (PCP) and 5 Community Health Workers (CHW) participated in this QI program which involved 59 patients. PCPs and CHWs underwent a workshop on hypertension guidelines and specialized counseling for patients with hypertension. PCPs treated hypertension in clinic with 4 available drug classes (Thiazide diuretics, ACE Inhibitors, ARBs and CCBs) while also providing initial guidance and counseling on lifestyle modifications. Patients were routinely followed up in clinic at 1 to 2 month intervals. CHWs visited hypertensive patients in their homes on a weekly basis to measure blood pressure, teach medication management and counsel on dietary and lifestyle modification. CHWs also reported back to the PCP from the patient's home on abnormal blood.

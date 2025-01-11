@@ -1,0 +1,43 @@
+# CHARACTERISTICS AND INJURY MECHANISMS OF VETERAN PRIMARY CARE SUICIDE DECEDENTS WITH AND WITHOUT DIAGNOSED MENTAL ILLNESS; 2000-2014
+
+Joseph A. Simonetti 1, 2 ; Rebecca I. Piegari 3 ; Charles Maynard 4 ; Lisa Brenner 1, 6 ; Alaina M. Mori 4 ; Edward P. Post 7, 8 ; Karin M. Nelson 4, 9 ; Ranak Trivedi 5, 10 . 1 Veterans Health Administration, Denver, CO; 2 University of Colorado School of Medicine, Aurora, CO; 3 Department of Veterans Affairs, Canandaigua, NY; 4 VA Puget Sound Healthcare System, Seattle, WA; 5 Center for Innovation to Implementation, Palo Alto, CA; 6 University of Colorado, Aurora, CO; 7 VA HSRD, Ann Arbor, MI; 8 University of Michigan Medical School, Ann Arbor, MI; 9 University of Washington, Seattle, WA; 10 Stanford University, Palo Alto, CA. (Control ID #3184627)
+
+# BACKGROUND:
+
+Suicide is the 10th leading cause of death in the United States, and rates increased among most groups from 1999-2014. Suicide prevention programs largely focus on identifying and treating mental health diagnoses (e.g., depression) because they are well-known, prevalent, and potent predictors of suicide. However, no study has assessed what proportion of suicide decedents lacked such diagnoses within a primary care population.
+
+# METHODS:
+
+We conducted a retrospective cohort study of Veterans Health Administration (VHA) primary care patients who died by suicide from 2000-2014. We identified Veterans receiving primary care using data from the VHA Corporate Data Warehouse (CDW). These records were then linked to the US Department of Veterans Affairs and Department of Defense Joint Suicide Data Repository to identify those who died by suicide (ICD-10 codes: X60-X84, Y87.0) and their mechanism of suicide (e.g., firearm injury). Using ICD-9 codes available in the CDW, we categorized suicide decedents by whether they had a history (yes/no) of any of the following mental health diagnoses: depression, post-traumatic stress disorder, anxiety disorder, substance use disorder, schizophrenia or bipolar disorder. CDW data were also used to characterize decedents' sociodemographic and clinical characteristics, including total physical health diagnoses and healthcare utilization. We compared differences between those with and without any mental health diagnosis using chi-square or Student's T-tests.
+
+# RESULTS:
+
+Of the 9,550,726 veterans identified, 28,812 (1.1%) died by suicide. Of those, 12,740 (44.2%) had no history of a mental health diagnosis. In comparison to those with mental health diagnoses, decedents with no mental health diagnoses were more likely to be older (68 vs. 57 years, p<0.01), male (98.2% vs. 95.4%, p<0.01), and married or partnered (49.4% vs. 35.9%, p<0.01), were less likely to have a service-connected disability (57.4% vs. 72.8%, p<0.01), and had a higher number of physical health diagnoses (2.63 vs. 2.59, p<0.01). In the year prior to death, decedents without mental health diagnoses had fewer primary care visits, mental health visits, emergency department visits, and hospitalizations. Those without mental health diagnoses were more likely to die by firearm injury (78.8% vs. 59.9%, p<0.01).
+
+# CONCLUSIONS:
+
+From 2000-2014, nearly half of VHA primary care patients who died by suicide did not have an antemortem mental health or substance-related diagnosis. Veterans without mental health diagnoses who died by suicide were more likely to be older, married, male, without service-related disability benefits, and had a high number of physical health diagnoses and were more likely to die by firearm injury. Suicide prevention efforts within primary care relying solely on the identification of mental health or substance-related diagnoses may be insufficient in preventing a large proportion of veteran suicides.
+
+# CHARACTERISTICS AND QUALITY OF ROTATION-SPECIFIC RESIDENT LEARNING GOALS: A PROSPECTIVE STUDY
+
+Adam P. Sawatsky; Andrew J. Halvorsen; Paul Daniels; Sara Bonnes; Meltiady Issa; John T. Ratelle; Christopher Stephenson; Thomas J. Beckman. Mayo Clinic, Rochester, MN. (Control ID #3175489)
+
+# BACKGROUND:
+
+Identifying learning goals is part of self-directed learning, and is triggered by the revelation of gaps in knowledge. While learning goals are part of self-directed learning, residents struggle with setting learning goals. Faculty can support self-directed learning through supporting resident learning goal development. We sought to characterize the topics and quality of residents' learning goals.
+
+# METHODS:
+
+We conducted a prospective mixed-methods study of 153 internal medicine residents, assessing 455 learning goals for general medicine inpatient rotations during the 2016-2017 academic year. For each learning goal, we coded themes, competencies and learning domains, and categorized themes into topic categories. We assessed quality using the Learning Goal Scoring Rubric (LGSR), an instrument with evidence of validity for content, internal structure and relationship to other variables. It has 4 items (specific goal, important goal, realistic multisource plan, and measurable outcome), each scored from 0-3, with a total possible score of 12. We compared learning goal topic categories, competencies, learning domains, and quality between first and second months of postgraduate (PGY) 1 residents and between PGY-1 and PGY-3 residents. For PGY-1 residents, we compared mean overall and item scores between month 1 and 2 using a paired t-test. To compare PGY-1 and PGY-3 mean overall and item scores, we used an independent 2-sample t-test. We assessed factors associated with learning goal completion and coded themes regarding barriers and facilitators to learning goal completion.
+
+# RESULTS:
+
+The overall response rate was 80%. The top three learning goal categories were patient management, specific diseases related to general medicine, and teaching skills. There were no significant changes in learning goal characteristics between PGY-1 months (p 0.04). There were differences between PGY-1 and PGY-3 residents' learning goals in patient management (28% vs 6%; p<.001), specific disease conditions (19% vs 3%; p<.001), and teaching skills (2% vs 56%; p<.001). There was no difference in the LGSR score between PGY-1 months (1.63 vs. 1.67; p=0.82). The PGY-3 learning goals were of higher quality than PGY-1 learning goals for the "specific goal" item (1.38 vs. 0.98, p=0.005), but not for other items or overall (all p 0.02). Residents reported 85% (297/347) learning goal completion, with main drivers being experience (88, 28%), intentional effort (128, 41%), and external guidance (98, 31%).
+
+# CONCLUSIONS:
+
+Residents identified a broad array of topics for learning goals. While PGY-1 residents developed learning goals in medical knowledge and patient care, PGY-3 residents developed learning goals for more integrative abilities like team management and teaching skills. Residents' learning goal quality was low, reflecting the need for more guidance from faculty members and residency programs to support residents' self-directed learning.
+
+# CHARACTERISTICS OF CANCER SURVIVORS IN OUT-PATIENT SAFETY NET CLINICS
+
+Megan Hoopes 1 ; Teresa Schmidt 1 ; Nathalie Huguet 2 ; Kerri Winters-Stone 2 ; Heather Angier 2 ; Miguel Marino 2 ; Jackilen Shannon 2 ; Jennifer DeVoe 2 . 1 OCHIN, Portland, OR; 2 Oregon Health & Science University, Portland, OR. (Control ID #3179117)

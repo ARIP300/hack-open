@@ -1,0 +1,17 @@
+# International Journal for Educational and Vocational Guidance
+
+(2022) used the MME with a sample of unemployed persons. Nevertheless, no validity and reliability evidence were introduced besides full-scale Cronbach’s alpha (α = 0.94).
+
+# Objectives and hypotheses
+
+This article introduces the MME’s validity and reliability evidence based on the internal structure and relations to other measures in a sample of unemployed persons in Algarve, Portugal. The specific goals are: (1) to test the MME’s internal structure, (2) to identify the factors’ reliability, and (3) to identify the associations of the MME’s dimensions with other measures of motivational and emotional features.
+
+Motivational and emotional features are personal features related to the means through which objectives become valued or expected (motivation) and the evaluative reactions of a person during the interaction with the environment or the self (emotion) (Coscioni et al., 2023). We considered seven additional constructs assessed in four questionnaires, which are next described. The additional measures were selected based on the validity and reliability evidence identified in previous studies with Portuguese samples.
+
+Career exploration self-efficacy and career decision-making self-efficacy are assessed in the Career Exploration and Decision-Making Self-Efficacy Scale (CEDSE; Lent et al., 2016). Career exploration self-efficacy is the perceived ability to identify and engage with information about the self and the environment related to career development, whereas career decision-making self-efficacy is the perceived ability to successfully complete tasks to make significant career decisions (Lent et al., 2016). The strengthening of employability beliefs may improve self-efficacy beliefs (Berntson et al., 2008). In turn, self-efficacy beliefs may predict employability resources (Taveira et al., 2017) and other career prospects (Wujema et al., 2022). Therefore, we expect the two dimensions of career self-efficacy beliefs to predict all dimensions of the MME.
+
+Secondly, we considered two life project constructs assessed in the Life Project Scale (LPS; Coscioni, 2021). Identification entails awareness of one’s intended future and involvement refers to the enactment of plans and behavior in favor of one’s intended future (Coscioni, 2021). We expect the two LP dimensions to predict career identity and self-management as it is a dimension of employability related to the importance of future career awareness.
+
+We considered two constructs related to future time orientation assessed in the Future Time Orientation Scale (FTOS; Coscioni et al., 2021). Impact assesses the extent to which one’s psychological future influences current decisions and behavior, whereas distance entails perceptions of time distance into the future (Coscioni et al., 2021). We expect the two FTOS dimensions to predict environmental monitoring as this is the dimension of the MME related to the ability to situate oneself in the present and be aware of one’s actions in the future.
+
+Finally, we considered life satisfaction as assessed in the Satisfaction with Life Scale (SWLS; Diener et al., 1985). Life satisfaction is a key indicator of mental

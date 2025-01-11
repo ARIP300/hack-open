@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Complement-Mediated HUS: A Diagnostic Challenge
+
+Management. Clinically, complement-mediated HUS presents with a HUS-like triad that frequently overlaps with, and is occasionally indistinguishable from other TMAs. Furthermore, its association with infection results in its misdiagnosis as a secondary TMA caused by an infection, as opposed to a hereditary disorder unmasked by the infection. Treating the infectious trigger therefore does not limit the disease process, and missed diagnoses have substantial implications for patient outcomes and family counseling. Our case is particularly interesting as UTIs are seldom reported triggers of complement-mediated HUS; and when associated, the UTIs are almost exclusively due to E. coli, and almost never due to G. vaginalis.
+
+# CONCLUSION:
+
+Complement-mediated HUS is a diagnostic challenge due to its nonspecific clinical presentation and limited complement testing. Delays in recognition however can have devastating patient outcomes, including irreversible end-stage kidney failure. Clinicians must therefore maintain a high index of suspicion: consider infectious triggers and family history, and promptly initiate complement-inhibiting Eculizumab to halt hemolysis and potentially reverse kidney injury.
+
+# Uncommon but Life-Threatening: Persistent Encephalopathy Due to Prolonged Hypoglycemia
+
+Faiza Javed; Charu Ramchandani; Colette Knight. Montefiore Medical center, Wakefield campus, Bronx, NY. (Control ID #3181453)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that untreated hypoglycemia can result in prolonged neurological sequelae.
+
+# LEARNING OBJECTIVE #2:
+
+Assess the role of neuroimaging in diagnosing hypoglycemia-induced encephalopathy.
+
+# CASE:
+
+A 73-year-old woman with type 2 diabetes mellitus and hypertension was brought to the emergency department after being found unresponsive at home. She was last seen in good health 24 hours earlier by her family. Home medications were insulin glargine, repaglinide, and metformin. On examination, vital signs were normal, but glucose finger stick was low at 24mg/dL. Glasgow coma scale score was 3/15, brain stem reflexes were present, and limbs had a flaccid tone with absent reflexes. She was given Dextrose 50% and was started on Dextrose 5% infusion but continued to have hypoglycemic episodes over the next 48 hours. Head CT ruled out stroke or hemorrhage. Brain MRI revealed nonspecific restricted diffusion involving bilateral corona radiata, centrum semiovale, white matter, and splenium of the corpus callosum, concerning for hypoglycemic injury. Infectious etiology and seizures were ruled out. Urine toxicology studies were negative. Hypothyroidism, adrenal insufficiency, and insulin hypersecretion were ruled out. Repeat MRI brain five days after presentation revealed resolution of restricted diffusion in the cerebral white matter; however, the patient did not improve clinically.
+
+# IMPACT/DISCUSSION:
+
+Severe hypoglycemia can cause encephalopathy. Areas of high energy consumption in the brain, such as cerebral cortex, hippocampus, cerebellum, caudate nucleus, and pallidum, are first to be affected by hypoglycemia. Hypoglycemia causes extensive denaturation, necrosis of neurons, and infiltration of glial cells. Insulin, sulfonylureas, alcohol abuse, renal dysfunction, old age, and infection can all precipitate hypoglycemia. Our patient was taking a combination of insulin, metformin, and repaglinide for many years; infection, drugs, alcohol or renal dysfunction were ruled out. Reversible hypoglycemic encephalopathy has been mentioned in case reports in patients whose hypoglycemic episodes lasted 12-72 hours. In this patient, hypoglycemia was observed for 48 hours after presentation, but it was not known for how long she was hypoglycemic at home. Irreversible, diffuse lesions involving extensive areas of cerebral cortex, hippocampus, and basal ganglia on MRI are associated with worse outcomes. Patients with reversible lesions on MRI were observed to recover either completely or with lingering deficits, such as aphasia. This patient had reversible, restricted diffusion on MRI, but failed to show any clinical improvement after five months.
+
+# CONCLUSION:
+
+Early diagnosis and treatment of hypoglycemia can prevent irreversible encephalopathy. Resolution of MRI findings due to hypoglycemic brain injury may not always predict recovery from encephalopathy.
+
+# Unconscious and Unresponsive: Syncope or Something Else?
+
+Jimmy Feeney; Susan Wlodarczyk. UCSF, San Francisco, CA. (Control ID #3180813)
+
+# LEARNING OBJECTIVE #1:
+
+Differentiating syncope from other causes of transient loss of consciousness (TLOC).
+
+# LEARNING OBJECTIVE #2:
+
+Identify clinical features that suggest a neurologic cause of TLOC.
+
+# CASE:
+
+A 74 year-old man with a history of eosinophilic granulomatosis with polyangiitis was found slumped over in his chair during a routine rituximab infusion. The patient was unresponsive to sternal rub, did not localize to pain, and had a GCS of 3. His initial vital signs were normal. Labs including glucose, CBC, chemistry panel, Utox, troponin and ABG were unremarkable. ECG showed sinus bradycardia with HR of 52. Non-contrast CT of the head was normal. After 30-minutes, the patient abruptly returned to his normal baseline mental status without intervention and was alert, conversant and had a non-focal neurologic exam. He then had a second episode of TLOC, again with spontaneous return to baseline, and was admitted for further evaluation. Given a negative workup for common causes of syncope, including orthostatics, ECG, and TTE, the differential was expanded to include non-syncopal causes of TLOC. A brain MRI/MRA showed multiple punctate infarcts involving the posterior circulation, including the pons, likely from a cardioembolic source given their distribution. The patient was ultimately diagnosed with a posterior circulation TIA as the cause of his episodes of TLOC.
+
+# IMPACT/DISCUSSION:
+
+Syncope, defined as TLOC from global cerebral hypoperfusion, is the most common cause of TLOC, accounting for 6% of hospitalizations in the US. Current evidence and guidelines recommend avoiding unnecessary brain imaging in the routine diagnostic workup of syncope. However, this case demonstrates the importance of clinically differentiating true syncope from neurologic causes and recognizing when a broader diagnostic workup is indicated. The hypercoagulability that occurs in eGPA increased this patient's likelihood of having a neurovascular cause of TLOC. Further, the key feature distinguishing this case from true syncope was the prolonged nature of his TLOC with normal vital signs, which is more characteristic of coma. In contrast, syncope is typically brief, self-limited and with rapid recovery. Sudden onset of coma suggests a vascular origin, such as a brainstem stroke involving the reticular activating system. While rare, lesions to the pons are known to cause TLOC and coma. This patient's brain MRI revealed multiple posterior circulation infarcts suggesting that he most likely had a transient basilar artery occlusion. While vertebrobasilar TIA is a rare cause of TLOC, it is crucial that internists recognize when a patient's presentation may point to a neurologic cause that requires a different diagnostic approach compared to true syncope.
+
+# CONCLUSION:
+
+Clinical features such prolonged duration and complete unresponsiveness distinguish true syncope from neurologic causes of TLOC. Vertebrobasilar TIA that causes ischemia in the brainstem, especially the pons, is a rare but important cause of TLOC.

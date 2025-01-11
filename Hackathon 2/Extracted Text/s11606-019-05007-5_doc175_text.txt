@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Treatment burden, and specifically polypharmacy, increases with age. Older patients are increasingly being prescribed complex drug regimens that are challenging to self-administer safely and appropriately. Yet few studies have investigated the ability of older patients to correctly interpret and accurately dose multi-drug regimens over time. We sought to investigate whether medication self-management skills are maintained over a decade among a cohort of older primary care patients and what factors might predict declines in one's ability to self-manage complex drug regimens.
+
+# METHODS:
+
+An NIA-funded cohort study, known as ‘LitCog,' was leveraged for this investigation. Beginning in 2008, LitCog enrolled 900 English-speaking adults, ages 55-74 at baseline, all receiving care at either an academic general medicine practice or one of 5 federally qualified health centers in Chicago, IL. At baseline (T1), subjects participated in a structured interview during which were given a standardized seven-drug medication regimen and asked to demonstrate how and when they would hypothetically take all of the medicine within a 24-hour period. To date, 273 LitCog participants have completed the same seven-drug regimen dosing assessment 10 years post-baseline (T4). We compared the mean number of dosing errors at T1 and T4 using a paired t-test and conducted a generalized linear model to assess the change in number of dosing errors over this decade-long period, adjusting for patient demographics, health literacy level, and key covariates. Patient health literacy skills were measured using the Newest Vital Sign.
+
+# RESULTS:
+
+Participants on average made 2.8 dosing errors (SD, 2.4; range, 0-21) out of 21 potential errors at T1 and 5.0 dosing errors at T4 (SD 2.05; range 0-18) at T2 (p<0.001). In a multivariate model controlling for relevant covariates, low and marginal health literacy (low: =1.86; 95% confidence interval [CI]: 1.15 - 2.56, p<0.001; marginal: =.55, 95% CI: 0.15-1.09, p=0.04), number of chronic conditions at baseline ( =0.16, 95% CI: 0.15, 0.30, p=0.03), and baseline dosing errors ( =-0.79, 95% CI: -0.88, -0.70, p<0.001) were all significant, independent predictors of changes in dosing errors over 10 years. Other sociodemographic variables (e.g. age, sex, race) were not significantly associated with dosing errors in bivariate or multivariate analyses.
+
+# CONCLUSIONS:
+
+Results indicate that regimen dosing errors were common among older patients and increased significantly over a decade of follow-up. Patients with limited literacy skills and those contending with multi-morbidity are at greater risk of making more errors, and consequently becoming less independent in their ability to self-manage multi-drug regimens over time. Findings emphasize the importance of routine counseling for older patients on appropriate medication use to ensure complex drug regimens are taken correctly and safely.
+
+# LOW LIBIDO IN OLDER WOMEN: A QUALITATIVE STUDY
+
+Holly N. Thomas1; Megan Hamm1; Rachel Hess2; Sonya Borrero3; Rebecca C. Thurston1. 1University of Pittsburgh, Pittsburgh, PA; 2University of Utah, Salt Lake City, UT; 3University of Pittsburgh and VA Pittsburgh, Pittsburgh, PA. (Control ID #3183183)
+
+# BACKGROUND:
+
+A majority of older women are sexually active and consider sex an important part of life. Low libido affects nearly half of women over 60 and is associated with poorer health, quality of life, and relationship satisfaction. The causative factors of low libido in older women are not well understood. In this study, we used a qualitative approach to explore factors that affect libido in older women with low sexual desire.
+
+# METHODS:
+
+We conducted 15 individual interviews and 3 focus groups (total N=36). Included women were aged 60 years or older, were sexually active with a partner in the prior year, and screened positive for low libido using a validated instrument. Interviews and focus groups were led by trained facilitators using a semi-structured guide with open-ended questions regarding sex and desire. Interviews and focus groups were audio recorded and transcribed. A codebook was developed and refined by two analysts. Five interviews were double-coded to ensure accuracy. Codes were then assigned to all data and key themes were identified.
+
+# RESULTS:
+
+Mean age was 64.2 (range 60-71). All but two women were non-Hispanic White, 83% were married or living with a partner, and all but one identified as heterosexual. Women highlighted multiple factors that affected libido: (1) physical health, (2) life stressors, (3) psychological factors, and (4) partner factors. In terms of (1) physical health, women detailed how medical problems, low energy, bodily pain, prior gynecologic surgery, and menopause negatively impacted libido. Especially common were vaginal symptoms, including dryness, tightness, and pain. Women often used lubricants or vaginal hormone therapy to adapt to these symptoms, but voiced concerns about messiness, cost, and potential side effects. In terms of (2) life stressors, concerns regarding adult children and dying parents were common. In contrast, some women noted that retiring from work and children leaving the home gave them more time and freedom, resulting in a positive impact on libido. In terms of (3) psychological factors, women discussed concerns about attractiveness, body image, and mood that negatively impacted libido. In terms of (4) partner factors, higher intimacy and relationship satisfaction fostered increased libido, while partner erectile dysfunction (ED) had a negative impact. ED led to less satisfying sexual encounters for women, which in turn decreased their sexual interest. Fear of offending partners or partner defensiveness made communicating about ED challenging. The women noted that older women's sexuality is not discussed enough in our culture, and that speaking with peers about these issues is beneficial.
+
+# CONCLUSIONS:
+
+Healthcare providers should be aware that there are many factors that affect libido in older women, including physical health, life stressors, psychological factors, and partner issues. Assessment and treatment of low libido in this population requires a multifactorial approach.
+
+# LOW NALOXONE PRESCRIPTIONS AMONG INDIVIDUALS AT HIGH RISK OF OPIOID-RELATED OVERDOSE DESPITE HEALTHCARE INTERACTIONS
+
+Sarah Follman1; Christopher Lyttle1; Vineet M. Arora2; P. Quincy Moore2; Mai T. Pho2. 1University of Chicago, Chicago, IL; 2University of Chicago Medical Center, Chicago, IL. (Control ID #3168608)
+
+# BACKGROUND:
+
+As opioid-related mortality continues to rise, naloxone remains a critical intervention in preventing overdose death. Expanding access should be optimized to promote equity. Engaging providers to regularly prescribe naloxone is important to advocate for this vulnerable population. The primary goal of our analysis was to determine the extent to which patients at high risk of opioid overdose receive naloxone.
+
+# METHODS:
+
+Using Truven Health MarketScan®, a national database of commercial insurance claims, we investigated naloxone prescriptions among high-risk patients accessing emergency, inpatient, and outpatient care. We identified patients between October 1, 2015 - December 31, 2016 and grouped them into three categories using ICD-10 codes: 1) patients with opioid misuse or dependence, 2) patients with opioid overdose, and 3) patients with both opioid misuse or dependence and overdose. We then linked patients in each group to their outpatient pharmacy claims. We compared naloxone pharmacy claims by opioid risk group using a Chi-Square test. Additional Chi-square tests characterized the groups across various demographic and healthcare utilization variables. We performed a multivariate logistic regression model to test the association between opioid risk group and naloxone claim, controlling for various demographic and healthcare utilization variables.
+
+# RESULTS:
+
+Of the 138,108 individuals identified as high-risk opioid users, 2,135 had naloxone claims, or 1.5% of the eligible patients identified. Differences in naloxone claims across opioid risk group were statistically significant (p<0.001). Only 1.5% of those with a diagnosis of opioid misuse/dependence and 0.8% of those with an opioid overdose diagnosis received naloxone. Of those with both an opioid misuse/dependence diagnosis and an opioid overdose diagnosis, only 4.6% received naloxone. Overall, 98.5% high-risk patients did not receive naloxone, despite many.

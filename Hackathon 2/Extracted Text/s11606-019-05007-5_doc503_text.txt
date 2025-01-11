@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE:
+
+A 39-year-old Hispanic man presented with four weeks of dry cough. The cough was associated with minimal dyspnea on exertion, low grade intermittent fevers, back pain and pleuritic chest pain related to frequent coughing, and recent unintentional weight loss of 20 pounds over 2 months due to anorexia. Patient denied dyspnea at rest, night sweats, fatigue, recent travel or incarceration, or sick contact. Physical exam was unremarkable except for conjunctival pallor. Labs were significant for Hemoglobin 5.9 g/dl, Hematocrit 19.6%, MCV 96.6 fl, MCH 29.1 pg, MCHC 30.1 g/dl, reticulocyte 3.8%, and peripheral smear revealed rouleaux formation. Complete Blood Count with differential, Basic Metabolic panel including serum Calcium and Creatinine, and Urine studies including urine protein were unremarkable on admission. However, patient was found to have a higher total protein to albumin gap of 12.4 g/dl. Further investigations revealed kappa/lambda ratio of 17 and beta-2 microglobulin of 4.9 mg/L. Serum protein electrophoresis and immunofixation did not demonstrate a monoclonal spike. Skeletal survey revealed diffuse lytic lesions in the axial and appendicular skeleton. We proceeded with Bone marrow biopsy, which revealed 78% plasma cell population, and fluorescence in-situ hybridization revealed hyperdiploid clone. Patient was started on chemotherapy for Multiple myeloma.
+
+# IMPACT/DISCUSSION:
+
+Multiple Myeloma (MM) is a disease of older adults with mean age of 68 years old. MM occurs in all races, but the incidence is variable by ethnicity: higher in African Americans, while lower in Mexicans and Japanese. While some cases appear to be familial, there are studies showing an increased incidence of MM with occupational exposure. This is a case of a young patient with non-measurable free light chain only MM that is very rare in patients younger than 40 years of age. Our patient did not have risk factors for MM given his young age, Mexican heritage, and lack of family history. His painting occupation, however, is a concerning risk factor for occupational exposure leading to MM.
+
+# CONCLUSION:
+
+Few case reports have suggested a higher incidence of MM in patients with Chlorinated solvent exposure, which is commonly found in paint thinners. This relationship is however not well studied. This case serves to make physicians aware to recognize MM in young patients with appropriate clinical suspicion and laboratory findings, while assessing for occupational risk factors.
+
+# PARAGLOTTIC FUNGAL ABSCESS IN A PATIENT WITH UNCONTROLLED DIABETES
+
+Ayah A. Megahed1; Lenar Latypov1; Jose Amaya Suarez2. 1Lincoln Medical and Mental Health care Centre, New York, NY; 2Lincoln Medical and Mental Health Centre, New York, NY. (Control ID #3165587)
+
+# LEARNING OBJECTIVE #1:
+
+To maintain a high clinical index of suspicion for diagnosing paraglottic abscess as a cause of upper airway obstruction, as prompt and urgent treatment is required to prevent potentially lethal outcome.
+
+# CASE:
+
+The patient is a 26 years old female with PMH of DM II, GERD and hyperthyroidism with repeated admissions for DKA with history of multiple intubations. She was admitted due to progressively worsening dyspnea, productive cough, low grade fever, sore throat and hoarseness. Laryngoscopy showing unilateral vocal fold immobility. She was admitted to the medical floor for monitoring of her respiratory status. The patient reported pain in the right side of the neck radiating to the right ear. The pain was not controlled with NSAIDs and the patient was started on opioids. Subsequently, she developed stridor, for which she received prednisone. ENT were consulted. Laryngoscopy was done repeatedly evidencing progressive worsening of vocal cord paralysis, which warranted a CT scan of the neck. CT scan showed right glottic abscess compressing the laryngeal airway. Patient underwent tracheostomy for worsening stridor and drainage of the fluid, culture was positive for C. albicans. She was started on IV Fluconazole. Post-operative CT scan revealed multi-loculated mass that required a surgical re-intervention with Penrose drains, it showed clear purulent discharge. The patient's condition improved, and she was discharged with the tracheostomy, to follow up with ENT as an outpatient.
+
+# IMPACT/DISCUSSION:
+
+Laryngeal abscess is usually seen in patients with immunosuppression, underlying malignancy, trauma due to airway instrumentation, and external beam radiotherapy. It usually presents as hoarseness, dysphagia, dysphonia, odynophagia, stridor and respiratory distress. The most common isolated organisms are Haemophilus Influenzae, Methicillin-resistant Staphylococcus aureus, Streptococcus Pneumoniae, Meningococci, Haemophilus parainfluenza, Kleibsella pneumoniae, Nocardia species and Candida albicans. Treatment decisions should be dictated by the severity of the obstruction of the patient's airway and the size of the abscess. Laryngeal abscess treatments include airway management, surgical drainage of the abscess and IV antibiotics. Airway obstruction can require the immediate establishment of an airway-either by intubation or acute surgical intervention (e.g. a tracheostomy or cricothyroidotomy). Surgical drainage of the abscess is recommended if indicated.
+
+# CONCLUSION:
+
+Despite being a rare condition, laryngeal abscess should be considered as a differential diagnosis in the presentation of upper airway obstruction in patients with history of poorly controlled diabetes or other medical condition associated with immunosuppression, and history of airway instrumentation.
+
+# PARATHYROID CRISIS IN A PATIENT WITH A PARATHYROID ADENOMA
+
+Nicholas Ojile1; Georges Elhomsy 2. 1University of Kansas Wichita, Wichita, KS; 2Kansas University-Wichita, Wichita, KS. (Control ID #3184259)
+
+# LEARNING OBJECTIVE #1:
+
+Manage Parathyroid Crisis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the underlying causes for significantly elevated parathyroid hormone levels
+
+# CASE:
+
+A 72 year old female was admitted for hypercalcemia. Family members reported that over the past several days the patient had become more confused, lethargic, and weak; she fell the day of her admission. Initial laboratory evaluation showed serum calcium of 14.7 mg/dl (normal 8.5-10.1 mg/dl) and phosphorus of 2.5 mg/dl (normal 2.5-4.9 mg/dl). A serum intact PTH was 1351 pg/ml (normal 14-85 pg/ml). Her renal function was normal. The patient was volume resuscitated with crystalloid fluids and subsequently treated with intravenous furosemide. She was also given 4mg of zoledronic acid. A Sestamibi scan was suggestive of a parathyroid adenoma, and her serum calcium normalized prior to parathyroidectomy. A right inferior parathyroid gland mass was resected and was consistent with a parathyroid adenoma on pathology. The first fragment measured 4x 2x 1.3 cm and had a mass of 3.175 g; the second fragment measured 3x1.4 x.9 cm with a mass of 1.286 g. Postoperatively, the patient developed hypocalcemia and required calcium supplementation.
+
+# IMPACT/DISCUSSION:
+
+Parathyroid crisis is a rare complication of primary hyperparathyroidism, occurring in 1.6% to 6% of primary hyperparathyroidism cases. Patients usually present with markedly elevated PTH levels and a calcium level greater than 14 mg/dl with symptoms of hypercalcemia. The laboratory evaluation of parathyroid crisis from an adenoma can be confused with parathyroid malignancy as both can present with markedly elevated PTH levels and should be included in the differential diagnosis. Despite the significantly elevated laboratory values associated with parathyroid carcinoma, parathyroid adenomas are the usual pathology found. These patients are at high risk for multi-organ decompensation due to the severe hypercalcemia including oliguria, coma, cardiac arrhythmias, or even cardiac arrest if the serum calcium level is not decreased prior to surgery with fluid resuscitation and loop diuretics. The use of bisphosphonates prior to parathyroidectomy as in this case is controversial, as parathyroidectomy is the definitive treatment for parathyroid crisis and bisphosphonates could potentially worsen.

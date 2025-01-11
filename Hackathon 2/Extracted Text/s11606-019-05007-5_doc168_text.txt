@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# When grouping teaching and non-teaching teams together into a mean length of stay
+
+Teaching teams again had a longer length of stay after adjustment (mean difference of 1.4 days higher). Based on quartile regression, there were no differences between teaching and non-teaching teams in the lowest quartile (mean stay of 1.34 days), however, teaching teams had longer lengths of stay in the middle and upper ends of the distribution (encounters with mean of 2.74 days and higher).
+
+# CONCLUSIONS:
+
+Based on these results, process improvement opportunities exist within teaching teams regarding length of stay. Hospitalists have begun discussions regarding differences in discharge process and ways to increase efficiency across teams.
+
+# INVESTIGATING THE IMPACT OF VHA CLINICIAN BURN-OUT ON PATIENT-REPORTED ACCESS TO PRIMARY CARE
+
+Taona P. Haderlein1; Danielle Rose1; Lisa V. Rubenstein2; Susan E. Stockdale1.  1VA Greater Los Angeles Healthcare System, Sepulveda, CA; 2RAND and UCLA, Medford, OR. (Control ID #3183108)
+
+# BACKGROUND:
+
+Burnout among healthcare professionals is associated with diminished job performance, poor mental and physical health, and increased employee attrition. While the Patient Centered Medical Home Model (PCMH) is associated with positive patient outcomes, the model requires the restructuring of primary clinic workflow and job roles. Past research has shown that organizational changes such as PCMH transformation heighten the risk for employee burnout. However, little is known is about subsequent impacts of clinician burnout on patients' experiences. The present study examines VHA clinician-reported burnout as a predictor of patient-reported access to primary care.
+
+# METHODS:
+
+We merged primary care clinician (PCC) data from the Veterans Assessment and Improvement Laboratory baseline clinician survey, collected from November 2011 through March 2012, with data from the Survey of Healthcare Experiences of Patients (SHEP) administered by RAPID. We included scores from three subscales of the Maslach Burnout Inventory - emotional exhaustion (EE), cynicism (CY), and professional efficacy (PE) - as our primary predictor variables. We used data from patients who were identified as members of the PCCs' patient panels. Our dependent variables were three SHEP items that assessed patient-reported access to 1) routine appointments, 2) urgent appointments, and 3) tests and treatments. Variable responses were dichotomized as 1=always and 0=sometimes, usually, or never. For each outcome variable, we conducted multilevel mixed-effect logistic regression analyses with patient data at Level 1 and PCC data at Level 2. EE, CY, and PE burnout subscales were included in the model as predictor variables. We also included provider and patient characteristics as fixed-effect covariates. We used a robust clustering method to address intercorrelation within healthcare systems.
+
+# RESULTS:
+
+We analyzed data from 161 primary care clinicians, and 4,171 Veteran patients. Patients of clinicians reporting high CY were less likely to report that they always obtained an urgent appointment (OR: .95, 95% CI: .95-.96) or routine appointment (OR: .96, 95% CI:.92-.99) when needed. Patients of clinicians reporting high EE were more likely to report always getting urgent (OR: 1.02, 95% CI: 1.01-1.03) and routine appointments (OR: 1.01, 95% CI: 1.00-1.02) when needed. Low PE was associated with reduced patient-reported access to routine appointments (OR: .96, 95% CI:.93-.99). No association was found for access to tests and treatments.
+
+# CONCLUSIONS:
+
+The influence of burnout on patient-reported access to primary care appointments varies among burnout dimensions. CY and low PE had a negative impact on patient-reported access to primary care appointments, while EE was positively associated with patient-reported access. As past research has linked EE with increased workload, more work is needed to elucidate mechanisms of the relationship between clinician burnout and perceived access to care.
+
+# IS DIABETES OCCURRING AT YOUNGER AGES? SURPRISING RESULTS FROM NHANES 2001-16
+
+Phuc H. Le1; Lu Zhang2; Anita D. Misra-Hebert1; Glen B. Taksler1; Michael B. Rothberg1. 1Cleveland Clinic, Cleveland, OH; 2University of Texas School of Public Health, Houston, TX. (Control ID #3185652)
+
+# BACKGROUND:
+
+Diabetes affects 9.4% of US adults. The American Diabetes Association recommends screening asymptomatic patients at no later than 45 years old and overweight or obese adults with risk factors at any age. There is a common belief that diabetes is occurring more frequently in young adults, but whether the age at diagnosis has changed is unknown. We aimed to describe population-based trends in mean age at diabetes diagnosis from 2001-2016 among US adults.
+
+# METHODS:
+
+We conducted a retrospective analysis of National Health and Nutrition Examination Survey (NHANES) data from 2001-2002 through 2015-2016. We included participants aged 18 years and defined diabetes as having ever been told they had diabetes, HbA1C >6.4%, or fasting plasma glucose >125 mg/dL. Pregnant women and participants with missing data were excluded. Age at diabetes diagnosis was self-reported. For patients with previously undiagnosed diabetes, we assigned age at the interview as age at diagnosis. Diabetes duration was calculated as the difference between age at interview and age at diagnosis. Mean age at diagnosis and diabetes duration were estimated for each 2-year period and also stratified by patient characteristics and risk factors. Trends were assessed using linear regression. We used Stata 14.2, accounting for the complex survey design of NHANES.
+
+# RESULTS:
+
+The sample included 46,668 adults, 7,059 (15.1%) of whom had diabetes. Mean age at diagnosis was 48.2 years and mean diabetes duration was 11.3 years, neither of which changed over time (p for trend>0.05). In all years, age at diagnosis was younger for those who were severely obese, poor, uninsured, Hispanic, or Black; had a family history of diabetes; or were current smokers or excessive alcohol users. Compared to 2001-2006, the number of patients diagnosed in 2013-2016 was 2x, 1.8x and 1.7x higher for ages 30, 50, and 70 years, respectively.
+
+# CONCLUSIONS:
+
+Mean age at diagnosis did not vary throughout the study period. However, the absolute number of 30-year-olds diagnosed doubled, creating the appearance that diabetes was occurring at younger ages.
+
+|Age at diagnosis, years|2001-2006|2007-2012|2013-2016|
+|---|---|---|---|
+|0-10| | | |
+|10-20| | | |
+|20-30| | | |
+|30-40| | | |
+|40-50| | | |
+|50-60| | | |
+|60-70| | | |
+
+# IS TAPERING OR DISCONTINUATION OF OPIOID THERAPY ACCELERATING OR TARGETING VULNERABLE POPULATIONS?
+
+EVIDENCE IN MEDICARE FROM 2011-2016
+
+Michael L. Barnett1, 3; Marema Gaye1; Hannah Neprash2. 1Harvard T.H. Chan School of Public Health, Boston, MA; 2University of Minnesota School of Public Health, Minneapolis, MN; 3Brigham and Women's Hospital, Boston, MA. (Control ID #3181472)
+
+# BACKGROUND:
+
+Intense scrutiny of opioid prescribing from regulatory agencies and state governments has coincided with a 29% drop in opioid prescribing volume since 2011. Many observers fear that this trend reflects increasing rates of tapering or discontinuation of long-term opioid.

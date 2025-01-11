@@ -1,0 +1,39 @@
+# Entrepreneurship and attention deficit/hyperactivity disorder: a large-scale study involving the clinical...
+
+# Table 1 Descriptive statistics and correlations
+
+| |Mean|SD|Min.|Max.|1|2|3|4|5|6|7|8|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1. ADHD diagnosis|.04|.20|0|1| | | | | | | | |
+|2. Self-employed parent(s)|.31|.46|0|1|.02| | | | | | | |
+|3. Academic performance|4.92|.93|1|7|− .04|.02| | | | | | |
+|4. Management study|.21|.41|0|1|− .01|.06|.02| | | | | |
+|5. Age|22.40|3.39|17|40|.04|− .06|.03|− .05| | | | |
+|6. Gender (male = 1)|.38|.49|0|1|.04|− .01|−.005|.09|.08| | | |
+|7. Entrepreneurial intentions (dichotomous)|.05|.21|0|1|.03|.03|.000|.03|.05|.09| | |
+|8. Entrepreneurial intentions (continuous)|3.28|1.76|1|7|.03|.14|.005|.18|− .03|.16|.25| |
+|9. Venturing/Entrepreneurial action|.13|.33|0|1|.05|.08|.03|.06|.05|.18|.43|.37|
+
+N = 9749; All correlations ≥ |.02| are significant at 5%. All correlations ≥ |.03| are significant at 1%. Dichotomous variables are dummy coded (0 = no, 1 = yes)
+
+# Table 2 Explaining entrepreneurial intentions (OLS and logistic regression results)
+
+|Dependent variable| | |Entrepreneurial Intentions| |
+|---|---|---|---|---|
+| |Continuous DV (Linan and Chen 2009)| | |Dichotomous DV (Verheul et al. 2015)|
+|Model|1a (main-effect)|1b (with controls)|1c (main-effect)|1d (with controls)|
+|Predictor variables|B Estimates|(standard errors)|Odds ratios: Exp (B)|(95% confidence interval)|
+|Constant|3.268***|(0.019)|0.048***|(0.009***|
+|Age|− 0.015*| |1.053***|(1.028–1.078)|
+|Gender (male = 1)|0.536***|(0.037)|2.151***|(1.778–2.602)|
+|Self-employed parent(s)|0.495***|(0.039)|1.429***|(1.177–1.736)|
+|Academic performance|0.001|(0.019)|0.998|(0.904–1.101)|
+|Management study|0.688***|(0.044)|1.322**|(1.068–1.636)|
+|ADHD diagnosis|0.231*|(0.095)|1.802**|(1.247–2.605)|
+| |0.200*|(0.092)|1.625*|(1.119–2.360)|
+|Model R2, Nagelkerke R2|.001*|.071***|.003**|.036***|
+|F-statistic, Chi-square|5.970*|115.768***|8.511**|113.849***|
+|− 2 Log likelihood| |3770.50| |3631.53|
+|N|9211|9124|9869|9770|
+
+Significance levels (2-tailed) are indicated as follows: * = 0.05; ** = 0.01; *** = 0.001. Differences in reported Ns are per missing data from some subjects (SPSS pairwise exclusion)

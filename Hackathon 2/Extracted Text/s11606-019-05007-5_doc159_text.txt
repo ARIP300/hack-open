@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# IMPROVING SHARED DECISION MAKING FOR ASIAN AMERICAN PACIFIC ISLANDER SEXUAL AND GENDER MINORITIES
+
+Stephanie Bi1; Kathryn E. Gunter1; Fanny Y. López Benítez2; Seeba Anam1; Judy Y. Tan3; Danielle J. Polin1; Justin L. Jia4; Neda Laiteerapong1; Mai T. Pho1; Karen Kim1; Marshall Chin1. 1University of Chicago, Chicago, IL; 2Dominican University, River Forest, IL; 3University of California San Francisco, San Francisco, CA; 4Stanford University, Stanford, CA. (Control ID #3180367)
+
+# BACKGROUND:
+
+Asian American Pacific Islander (AAPI) sexual and gender minorities (SGM) experience substantial mental health burden and face unique intersectional challenges in mental health burden and accessing high-quality mental healthcare. Shared decision making (SDM) values patient preferences and could be used to improve care for this population, but evidence is scant to inform SDM practices. We aimed to identify barriers and facilitators in SDM for AAPI SGM individuals, especially surrounding mental health, and to provide recommendations for providers.
+
+# METHODS:
+
+We conducted individual interviews (n=40) and focus groups (n=10) in Chicago and San Francisco to explore SDM experiences in the context of mental health, and multiple identities. An extensive codebook was iteratively amended by eight team members, and the transcripts were each randomly assigned to two coders. After secondary analysis, we developed a conceptual model through an inductive approach guided by a review of the literature.
+
+# RESULTS:
+
+Fifty-four percent of participants were gay, 33% were queer, 10% were bisexual, 2% were asexual, and 2% did not use labels to describe their sexual orientation. Seventy-four percent of the participants were cis men, 6% were cis women, 8% were trans men, 2% were trans women, and 8% were gender nonconforming or two-spirited. Several racial/ethnic groups within AAPI were represented. Our conceptual model elucidates the patient, provider, and encounter-centered factors that may inform into SDM for AAPI SDM. Some participants shared the stigma of SGM identities and mental health in their AAPI families. Their AAPI and SGM identities were intertwined in impacting mental health. Some providers inappropriately controlled the visibility of the patient's identities, ignoring or overemphasizing them. Participants varied on whether they preferred a provider of the same race, and how prominently their AAPI and/or SGM identities affected SDM.
+
+# CONCLUSIONS:
+
+Providers can improve the care they provide to AAPI SGM patients if they understand their identity-specific challenges in engaging in SDM. Providers should self-educate about AAPI and SGM history and intracommunity heterogeneity before the encounter, create a safe environment conducive to patient disclosure of SGM identity, and ask questions about patient priorities for the visit, pronouns, and mental health.
+
+# IMPACT OF A CLINIC-WIDE SAFE OPIOID PRESCRIBING POLICY AND DATA DRIVEN PRESCRIBER FEEDBACK ON OPIOID PRESCRIBING PRACTICE
+
+|Patient factors|Encounter factors|Provider factors|
+|---|---|---|
+|Racial concordance or discordance between patient and provider|Familial influences on experience of SGM identity and mental health|Controlling the degree of visibility of the patient's identities (ignoring or overemphasizing them)|
+|Prominence of AAPI and SGM identities in affecting mental health|Prominence of AAPI and SGM identities in affecting SDM|Allowing the patient to set them|
+
+# Opioid Prescribing Activity
+
+| |Total Opioid Rx|Total Non Bupe Rx|Rx with MME >50|Rx with MME >90|Concomitant Benzo - Opioid Rx|Pts with PPA|Pts with urine toxicology screen|
+|---|---|---|---|---|---|---|---|
+|Jan-18|294|221|59|38|5|28|41|
+|Nov-18|300|207|48|34|9|33|122|
+
+# IN-HOME TECHNOLOGY TRAINING TO REDUCE SOCIAL ISOLATION AND IMPROVE TABLET USE AMONG OLDER ADULTS: FINDINGS FROM THE TECH ALLIES PROGRAM
+
+Jessica Fields1; Anupama Cemballi1; Cathy Michalec2; Debbie Uchida2; Heather DeSmidt; Jacqueline Cuellar; Anna H. Chodos1; Courtney Lyles1,3.
+
+1UCSF, San Francisco, CA; 2Little Brothers Friends of the Elderly, San Francisco, CA; 3Community Tech Network, San Francisco, CA; 4University of California, Berkeley, Berkeley, CA. (Control ID #3180546)
+
+# BACKGROUND:
+
+Technology has the potential to increase feelings of social connectedness among older adults, but 1/3 do not use the internet. We formed a community partnership called Tech Allies to provide iPads, internet access, and 1:1 technology training to isolated older adults. Our objective was to evaluate whether participation in the Tech Allies program affected loneliness and technology use among participants.

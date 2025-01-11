@@ -1,0 +1,75 @@
+# ABSTRACTS JGIM
+
+# Syphilis and Its Complications
+
+Syphilis can present with both hearing loss and vertigo. This occurs when T. pallidum invades the cochleovestibular system resulting in otosyphilis, or the cerebrospinal fluid (CSF) resulting in neurosyphilis. In neurosyphilis, extra-otic symptoms such as impaired proprioception, stroke, and dementia may also be present. To differentiate neurosyphilis from otosyphilis, a lumbar puncture should be performed. Making this distinction is important, as the treatment may differ. The literature currently suggests intravenous penicillin G treatment for neurosyphilis; however, there is controversy regarding treatment for otosyphilis. Some studies suggest that three doses of intramuscular penicillin is sufficient, while other experts recommend the same treatment as neurosyphilis due to concerns of incomplete eradication.
+
+# CONCLUSION:
+
+This case exemplifies the importance of a thorough diagnostic evaluation after recurrent falls and peripheral vertigo, including ruling out "the great imitator."
+
+# A HARBINGER OF MALIGNANCY: PARANEOPLASTIC CEREBELLAR ATAXIA
+
+Michael H. Nguyen. California Pacific Medical Center, San Francisco, CA. (Control ID #3185948)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical features that suggest a paraneoplastic process in patients with ataxia
+
+# LEARNING OBJECTIVE #2:
+
+Manage patients with paraneoplastic ataxia
+
+# CASE:
+
+A 73 year old female with a remote 25 pack per year smoking history presented to an emergency room 12/26 with 3 weeks of headache, blurry vision, and slurred speech. She was discharged home with negative workup including a CT scan. She received an outpatient MRI on 12/29 that was negative for acute pathology and subsequent work up with an ophthalmologist was also unrevealing. One week later, she presented to CPMC on 1/2 with progressive bilateral upper extremity weakness and ataxia. Lumbar puncture (LP) was only remarkable for elevated protein. She received a PET CT 1/3 that showed evidence of a 1.4 cm left upper lobe (LUL) nodule and hypermetabolism in her mediastinal lymph nodes. She underwent biopsy on 1/5 that revealed nonsquamous cell lung cancer that is subsequently positive for PD-L1 expression (20%). Her CSF also later comes back positive for Purkinje cell cytoplasmic antibody (PCA-1). At this point she was diagnosed with paraneoplastic cerebellar ataxia (PCA).
+
+PCA Over the ensuing months, she underwent plasma exchange 1/5-1/7, external radiation 1/25-3/7, and chemotherapy 1/31-4/4 with no remission in her symptoms and was now wheelchair bound. A PET CT 4/10 reveals resolved hypermetabolism in her mediastinal lymph nodes but persistence of her 1.4 cm LUL nodule. A MRI 5/31 reveals cerebellar atrophy consistent with cerebellar degeneration. The patient underwent another round of plasmapharesis 6/12-6/20 with no improvement of her symptoms and she was discharged to hospice.
+
+# IMPACT/DISCUSSION:
+
+Ataxia is a common complaint in the ER. When imaging and initial laboratory tests are negative, differentials must be widened to include autoimmune and malignant processes. The cause of ataxia can even be a combination: in PCA, there is severe loss of cerebellar Purkinje cells as a result of onconeural antigens. This case demonstrates the diagnostic challenge of PCA and the devastating consequences of late treatment. The patient's negative MRI, negative LP, and acute presentation delayed her diagnosis of PCA. While it is a rare complication of malignancy, PCA often precedes the diagnosis of cancer and is a clue to diagnose malignancy at an early treatable stage. If given early enough, there is evidence for immunotherapy. However, in most cases the diagnosis is delayed rendering treatment ineffective. A patient with worsening ataxia over weeks with unremarkable brain imaging and laboratory tests must be considered for an autoimmune process. If there are any risk factors for malignancy, a paraneoplastic process should be considered.
+
+- PCA commonly precedes the diagnosis of cancer, marking a critical time to diagnose malignancy.
+- It is thought the cerebellar damage is irreversible in PCA because interventions are too late.
+- If a patient presents with worsening ataxia with negative imaging and lab tests, an autoimmune process should be considered.
+
+# A HEALTHY HEART?
+
+Magued W. Haroun; Vladyslav Dieiev; Pakhi Goel; Karishma Kitchloo. Montefiore Medical Center, Bronx, NY. (Control ID #3185968)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize prevalence of early repolarization pattern (ERP) on electrocardiogram (ECG) among young, healthy athletes
+
+# LEARNING OBJECTIVE #2:
+
+Distinguish between ERP and ST segment elevation myocardial infarction (STEMI)
+
+# CASE:
+
+A 40 year-old Hispanic man presented with two episodes of palpitations. He had no significant past medical history; he was an athlete who ran three marathons during the preceding two-weeks period. Palpitations were non-exertional, lasted for ten minutes and resolved by the time of presentation. His initial ECG revealed STE in leads V3 and V4 that extended to lead V5 twelve hours later, and T-wave inversions (TWI) in leads III and V3 that extended to leads V4 and aVF six hours later and completely resolved on EKG at twelve hours. There were no ST depressions in reciprocal leads. Serial Troponin T was <0.01. Patient remained asymptomatic throughout the admission. Echocardiography revealed no abnormalities. Coronary angiography and left heart catheterization revealed patent coronary arteries.
+
+# IMPACT/DISCUSSION:
+
+Dynamic changes in ST segments is a worrisome clinical finding which raises suspicion for an acute coronary process but it is important to consider these findings in clinical context and to use specific ECG criteria. In our case, the ECG pattern and morphology, lack of chest pain, electrolyte disturbances or troponin elevation were consistent with ERP in anterior leads. Invasive evaluation confirmed absence of an underlying disease process which may have caused the changes described. ERP has always been considered a normal ECG variant. It is characterized by J-point ST elevation and manifests either as terminal QRS slurring (the transition from the QRS segment to the ST segment) or notching (a positive deflection inscribed on terminal QRS complex) associated with concave upward ST-segment elevation and prominent T waves in at least two contiguous leads. ERP is more prevalent in competitive athletes and its prevalence increases after intense physical training. ERP is not associated with structural left ventricular measurement, including chamber volume or wall thickness, both of which are well-established components of the "athlete heart" suggesting that exercise-related ERP may be an isolated electric phenomenon that develops parallel to, but not as a result of, structural myocardial remodeling.
+
+# CONCLUSION:
+
+While STE may reflect occlusion of the coronary artery and ongoing necrosis of myocardium, in the appropriate clinical scenario other etiologies should be considered. Internists need to be able to discern ERP from STEMI and to expect a higher prevalence of ERP in athletes.
+
+# A HEARTY INFECTION
+
+MATTHEW WEBER 1; Pinky Jha 2. 1Medical College of Wisconsin, Wauwatosa, WI; 2medical college of wisconsin, Milwaukee, WI. (Control ID #3185978)
+
+# LEARNING OBJECTIVE #1:
+
+Report a case of disseminated mucormycosis involving lungs and heart in an immunocompromised patient.
+
+# LEARNING OBJECTIVE #2:
+
+Show prophylaxis choice can be a clue for earlier diagnosis of mucormycotic infections.
+
+# CASE:
+
+57 YO F diagnosed with myelodysplastic syndrome. Admitted for pre-transplant chemotherapy and matched unrelated allogenic PBSCT.

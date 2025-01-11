@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# PML-IRIS in HIV Patients
+
+Of PML infected HIV patients developed IRIS after starting HAART with 1/3rd of those developing IRIS requiring steroid therapy. Thus hospitalists should have a high index of suspicion for IRIS and steroid management. While steroids have become the primary treatment, it is important to note that while steroids attenuate immune response it may allow JCV to replicate and lead to initial worsening of neurologic symptoms.
+
+# CONCLUSION
+
+PML-IRIS is a rare condition where worsening neurologic symptoms, including seizures, can occur. Steroids may blunt the immune response but may cause a paradoxical worsening of neurologic symptoms initially.
+
+# POINT-OF-CARE ULTRASOUND FOR THE DETECTION OF CLINICALLY SIGNIFICANT ELEVATED INTRACRANIAL PRESSURE IN THE PRIMARY CARE CLINIC
+
+Kang Zhang; Justin Chen; Greg Heinicke. Internal Medicine Residency Spokane, Spokane, WA. (Control ID #3167221)
+
+# LEARNING OBJECTIVE #1
+
+Highlight the usefulness of ocular POCUS for evaluation of elevated intracranial pressure (ICP).
+
+# CASE
+
+A 32-year-old female presented to the primary care clinic for management of persistent headaches that has worsened in frequency and severity for the past two years. The headache etiology was multifactorial attributed to migraines, and suspected obstructive sleep apnea. She previously declined polysomnography study. NSAIDs and acetaminophen provided limited relief. The patient was reluctant to try triptan therapy. Previous neuroimaging excluded secondary causes of headaches. Neurological examination revealed no focal deficits. The patient refused direct fundoscopic examination, though previously documented fundoscopic examination did not reveal papilledema. Ocular POCUS performed in clinic demonstrated an increased optic nerve sheath diameter of (ONSD) 5.7 mm suggestive of elevated ICP. IIH was suspected and lumbar puncture showed an opening pressure measured of 300 mmH2O. A diagnosis of IIH was made based on the modified Dandy criteria. The patient was started on carbonic anhydrase inhibitor and counselled on weight loss. Her daily symptoms improved significantly with initial medical therapy. At 3-month follow up, the patient was headache free.
+
+# IMPACT/DISCUSSION
+
+The implications of ocular POCUS to estimate ICP may have large clinical impact in the outpatient setting where headache is a common complaint. It is critical for physicians to determine primary and secondary headaches as it dichotomizes the need for potential neuroimaging. The traditional direct fundoscopic exam is an essential skill in general internal medicine. However, a survey of general internists showed the nondilated fundoscopic examination ranked the lowest in self-confidence rating (2.5 on a 5-point Likert scale) compared to 13 other core physical examination maneuvers. Moreover, self-confidence scores of the nondilated fundoscopic examination declined throughout medical training. Ocular POCUS may be an alternative method for evaluating elevated ICP by measuring the ONSD. In the neurocritical care setting, an ONSD >4.8mm had a sensitivity of 98% and specificity of 94% and area under the curve (AUC) 0.98 when compared to invasive ICP measurement. Similar results are reported in the emergency room literature using an optimal cut-off value of the ONSD >5.00mm. More specifically, in patients proven IIH, the optimal cut-off value for ONSD was 6.3mm had a sensitivity, specificity of 94.7% and 90.9% respectively. A systematic review and meta-analysis of ocular POCUS showed that depending on pre-test probability, an ONSD > 5mm had a positive, negative likelihood ratio of 12.5, and 0.05 respectively.
+
+# CONCLUSION
+
+Depending on the pre-test probability, ocular POCUS (ONSD >5mm) may be an accurate surrogate marker for the detection of elevated ICP in patients with headache. This non-invasive point-of-care method can have a large clinical impact in the primary care setting.
+
+# POST-BABESIOSIS WARM AUTOIMMUNE HEMOLYTIC ANEMIA IN AN ASPLENIC PATIENT
+
+Muhammad Z. Khan1; Pragya Shrestha1; Daniel Forman2, 1. 1Reading Hospital - Tower Health, Wyomissing, PA; 2Tower Health, Reading, PA. (Control ID #3155361)
+
+# LEARNING OBJECTIVE #1
+
+Recognize warm autoimmune hemolytic anemia (WAHA) as a complication of Babesiosis.
+
+# LEARNING OBJECTIVE #2
+
+Consider screening for WAHA in patients diagnosed with babesia with worsening anemia not responding to anti-parasitic therapy.
+
+# CASE
+
+An 84-year-old male with history of splenectomy post motor vehicle accident presented with one-month history of fatigue and unintentional weight loss of 20 pounds. He endorsed spending time in woods and cutting trees for the last 10 years. He was afebrile with blood pressure 99/57 mmHg with mild tachypnea. Labs were significant for hemoglobin 7.6 mg/dl, LDH 989 IU/L, total bilirubin 2.9 mg/dl with indirect hyperbilirubinemia. Transaminase and platelets were normal. Blood parasite smear revealed parasitic inclusions morphologically consistent with Babesia. Direct Coombs test was positive with warm autoantibody (IgG). Titers were negative for Lyme antibody, Ehrlichia & Anaplasma. After initiation of azithromycin and atovaquone for babesiosis, blood parasitemia load decreased from 4.8% to 0.2%. However, even with low parasitemia, hemolysis remained persistent with high LDH and further drop in hemoglobin. Immunosuppression was initiated with prednisone 60 mg daily after which a significant improvement in blood counts as well as symptoms was evident.
+
+# IMPACT/DISCUSSION
+
+Babesiosis is a tickborne zoonotic disease that is caused by intraerythrocytic protozoa of the genus Babesia with endemic prevalence in the northeastern and midwestern regions of the United States. Presentation can be variable from flu-like illness to a life-threatening state with severe anemia. Older age, asplenia, immunodeficient conditions are risk factors for severe disease process. Post-babesiosis warm autoimmune hemolytic anemia (WAHA) can be a detrimental complication of babesiosis especially in asplenic patients.
+
+# CONCLUSION
+
+Screening for WAHA should be considered in cases of worsening anemia despite appropriate treatment for babesiosis. Post-babesiosis WAHA responds to immunosuppressive treatment rather than antiparasitic treatment.
+
+# POST-CHOLECYSTECTOMY BLEEDING COMPLICATION
+
+Dung Mac; Farzana Harji. University of New Mexico, Albuquerque, NM. (Control ID #3185648)
+
+# LEARNING OBJECTIVE #1
+
+Recognize cystic artery pseudoaneurysm as a post-cholecystectomy bleeding complication.
+
+# CASE
+
+37 year-old male with history of alcoholic cirrhosis with portal hypertension, peri-esophageal and gastric varices, Mallory-Weiss tear s/p clipping, ITP s/p steroids and IVIG therapies, and recent hospitalization for acute cholecystitis s/p laparoscopic cholecystectomy, with subsequent post-op elevated total bilirubin and normal MRCP, re-admitted one week later for spontaneous bacterial peritonitis (sbp), decompensated cirrhosis with new ascites, alcoholic hepatitis, and c. diff colitis. CT showed absent gallbladder with free air in the fossa and no biloma. HIDA scan did not show tracer into the biliary tree. Patient completed sbp treatment, and subsequently placed on prophylaxis antibiotics with worsening of his c. diff colitis and therefore antibiotics were discontinued. 11 days into hospitalization, he acutely decompensated with tachycardia, hypotension and worsening anemia. GI was consulted and EGD and ERCP done emergently did not reveal bleeding source. Over the course of the day, patient's abdomen became more distended. Paracentesis confirmed hemoperitoneum. Arterial phase CT showed arterial bleeding in gallbladder fossa and gastro-hepatic region.

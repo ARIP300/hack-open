@@ -1,0 +1,57 @@
+# JGIM ABSTRACTS
+
+# FINDINGS TO DATE
+
+During the thirteen month period from December 2017 through Dec 2018 an average of 5000 persons were eligible to be screened for colorectal cancer with approximately 4000 of those patients in the suburban practice and 1000 of those patients in the urban practice. The suburban practice achieved a 12% increase in colorectal cancer screening rising to 73% of eligible patients screened and the urban practice achieved an 11% increase in colorectal cancer screening rising to 81% of eligible patients screened. Although initially only Patient Service Representatives and Community Health Worker students were trained in the process of EMR based care management, Medical Team Assistants and Nurses also began using the process. This uptake by all staff allowed for more consistent follow-up on patients who had been started on the CRC screening pathway but were not completing CRC screening. This persistence in follow up, facilitated by the EMR dashboard, in turn greatly increased CRC screening rates.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Patients responded to repeated encouragement to complete colorectal cancer screening. A population based, EMR facilitated care management process can quickly and greatly increase colorectal cancer screening in a diversity of practice settings.
+
+# IMPROVING ENGAGEMENT IN DEPRESSION TREATMENT AT AN ACADEMIC MEDICAL CENTER THROUGH A TELEPHONE-BASED DEPRESSION NAVIGATOR PROGRAM
+
+Juliana Macri1; Maria E. Garcia1; Hannah Rapp2; Maki Aoki1. 1University of California, San Francisco, San Francisco, CA; 2School of Public Health, University of Washington, Seattle, WA. (Control ID #3184395)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Can targeted outreach by a Depression Navigator at an academic primary care office increase rates of depression response/remission by improving receipt and maintenance of evidence-based depression care?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+- Outreach to all patients recently prescribed an antidepressant to assess for concerns and adherence
+- Provide coaching around common reasons for early non-adherence (e.g. side effects, "not working", distrust)
+- Link patients to behavioral health (therapy/psychiatry) and ensure primary care depression follow-up
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+In a diverse, academic general practice, we initiated universal depression screening (using the PHQ-2 followed by the PHQ-9 if positive) in October 2017. A clinic-based Depression Navigator began calling patients with a PHQ-9 > 9 who had been newly prescribed an antidepressant. Calls aimed to engage patients in their depression treatment plan by assessing medication adherence and coaching around common reasons for early non-adherence. The Navigator also performed care coordination, linking patients to behavioral health (therapy/psychiatry) and scheduling 4-6 week follow-up with PCP/primary care team.
+
+# MEASURES OF SUCCESS
+
+The primary goal of the pilot program was to increase depression response (defined as a decrease in PHQ9 score by 2+ points) and remission (defined as a >50% score decrease or score <5). To achieve this goal, process measures included: 1) Increased medication adherence at 1 month, 2) Scheduled depression follow-up visit within 4-6 weeks, and 3) Decreased proportion of program-eligible patients who were not contacted or lost to follow up.
+
+# FINDINGS TO DATE
+
+Over the first 4 months of this pilot program, 53 patients with newly prescribed antidepressants were enrolled. Of these, 45 (85%) patients had at least one contact with the Navigator and 29 (55%) had more than one contact. Among patients with repeat PHQ-9s (n = 26), 11 (42%) achieved response, 6 (23%) achieved remission, and 9 (35%) had no improvement in PHQ9 score. Medication adherence dropped from 84% at 1 week (n=45) to 66% at 1 month (n=38). The Depression Navigator made 19 follow-up appointments for 14 individual patients, though only 6 patients (11%) had a repeat PHQ-9 within 6 weeks of anti-depressant initiation. The program's impact was limited primarily by high rates of eligible patients never reached or lost to follow up (30%, n=16) and secondarily by patients declining medications and/or participation (13%, n=7).
+
+# KEY LESSONS FOR DISSEMINATION
+
+Proactive outreach to patients recently initiated on an anti-depressant in their primary care office may better engage a large portion of this vulnerable population in their depression treatment plan. Further implementation success depends on increasing in-office follow up rates, and reducing the proportion of patients never reached and lost to follow up. Systems-level interventions with innovative approaches to patient outreach and improved scheduling access may help resolve these barriers.
+
+# IMPROVING LATENT TUBERCULOSIS SCREENING IN A COMBINED INTERNAL MEDICINE AND PEDIATRICS RESIDENCY OUTPATIENT CLINIC AT DENVER HEALTH - A RESIDENT DESIGNED AND IMPLEMENTED QUALITY IMPROVEMENT PROJECT
+
+Timothy P. Newton2; Jonathan S. Schultz1; Amy Beeson1; Joshua M. Gannon; Anne Frank; Julie Venci1. 1University of Colorado, Aurora, CO; 2University of Colorado School of Medicine, Englewood, CO. (Control ID #3185338)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+There is a large proportion of new and established Denver Health (DH) primary care adult and pediatric patients who meet the criteria for screening of latent tuberculosis infection (LBTI) and have never been screened and may be at high risk for development of active TB and possible transmission.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+- Identify patients who are foreign born and at risk of TB.
+- Discuss screening with those identified, and if positive, treatment options.
+- Perform QFT testing on consenting patients who are at risk.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+In 2016, 64 new cases of active tuberculosis (TB) were reported in Colorado, for a case incidence rate of 1.6 per 100,0000 in Denver. Over half of these cases could have been prevented with appropriate screening and treatment. More than 70% of patients were born outside of the US; 24% were from Mexico and the rest from 22 other countries. The Med-Peds residency clinic at DH is located within the Federico F. Peña Southwest Family Health Center in Southwest Denver, a primarily Hispanic and low-income community. Med-Peds residents identified that high risk patients, including those who were...

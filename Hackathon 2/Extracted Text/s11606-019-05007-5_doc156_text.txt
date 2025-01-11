@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# BACKGROUND:
+
+Prostate cancer screening recommendations and the proportion of men undergoing screening with a prostate specific antigen (PSA) test varies widely across the U.S., due largely to controversies regarding the harms and benefits of screening. As a consequence, screening rates are decreasing while the incidence of advanced stage prostate cancer is increasing, particularly among African American men. A multi-disciplinary group developed an age- and race-specific risk-stratified screening algorithm, combined with shared decision making, and using varying intervals of PSA follow-up testing. Our overarching goals were to identify clinically significant cancer while minimizing treatment of indolent cancer through a standardized practice model.
+
+# METHODS:
+
+We evaluated the impact of implementing this risk-stratified screening algorithm in February 2017 in the health maintenance section of our health system-wide EHR (electronic health record; Epic). We used a pre-post implementation study design, comparing the percent of men who met up-to-date screening criteria, based on the algorithm, from 2/1/16-2/1/17 (pre-implementation) to 2/2/17-2/21/18 (post-implementation). Men were defined as ‘met screening' if they had a PSA value recorded in our EHR within 27 months prior to their visit with their primary care provider (PCP). Descriptive statistics were performed followed by a one-sample pre-post test for binomial proportion and a two-proportion z test.
+
+# RESULTS:
+
+During the pre- and post-implementation periods, 49,058 and 49,988 men, respectively, aged 40-74 were seen by 290 PCPs across 26 clinics (20.6% African American, pre and post). Overall, the percent of men who met screening criteria based on the algorithm increased from 48.9% (pre) to 67.5% (post) (p<0.0001); for African Americans it increased from 54% (pre) to 71.5% (post). The percent of men who met screening criteria increased across all age groups: age 40-45, 17% to 46%; age 45-49, 31% to 55%; age 50-69, 60% to 73.8%; and age 70-74, 51% to 67%. Similarly, the percent of men who met screening criteria increased across all clinic sites and all PCPs. Importantly, while screening according to the algorithm increased, the volume of PSA test ordering did not change. In the pre- and post-implementation period, 27,100 and 27,500 PSAs were ordered, respectively. This stability in PSA volume was largely due to a decrease in annual testing among men in the pre-implementation period.
+
+# CONCLUSIONS:
+
+With the implementation of an EHR-based risk-stratified algorithm, we observed a significant increase in meeting our screening criteria while avoiding a net increase in PSA test volume. This approach was successful in standardizing our network-wide approach to prostate cancer screening. Future efforts will evaluate costs and downstream outcomes of this strategy.
+
+# IMPLEMENTATION OF FOOD INSECURITY SCREENING IN ADULT PRIMARY CARE PATIENTS
+
+Arjun Janardhan; Michael W. Latreille; Charles D. MacLean; Michelle Cangiano; Claudia Berger. The Robert Larner, MD College of Medicine at the University of Vermont, Burlington, VT. (Control ID #3184866)
+
+# BACKGROUND:
+
+Social determinants of health (SDH) are increasingly recognized for their importance in driving health outcomes. Food insecurity (FI), a lack of regular access to adequate food, is prevalent in the United States, impacting an estimated 12% of households in 2017. The two-item Hunger Vital Sign (HVS), has demonstrated validity in identifying FI, though there is not agreement on how best to address FI in a healthcare setting. This study aimed to evaluate the implementation of a screening protocol for FI in adult primary care patients, and to investigate any downstream impacts on services delivered in patients who screened positive for FI.
+
+# METHODS:
+
+In December 2017, our institution added functionality for entering and tracking SDH via an Epic-based EMR. The tool, which incorporated the HVS, was developed based on the Health Related Social Needs Screening Tool by CMS. We instituted protocols for administering and entering the HVS component at two academic primary care sites in Vermont: a semi-urban adult internal medicine practice and a rural family medicine practice. Implementation plans were developed at both sites, each involving education for providers and staff, and pairing of the HVS with annual behavioral health screening. We then identified patients who screened positive for FI from January 1 through April 30, 2018 and retrospectively analyzed charts for services in place prior to positive screens, as well as for documentation and actions taken in response to positive screens.
+
+# RESULTS:
+
+A total of 1,188 patients were screened for FI during the study period, and 79 (7%) screened positive. Of patients with FI, 41 (48%) had some documentation of food or financial insecurity prior to screening. A total of 32 (37%) were documented to have prior access to food insecurity services such as food stamps, food bank etc., and 19 (22%) had been previously seen by a social worker embedded in the practice. At the time of positive screen, 26 (31%) provider notes included documentation of FI. In response to a positive screen, 16 patients (19%) were offered social work referral, of whom 12 (14%) completed a visit.
+
+# CONCLUSIONS:
+
+In this brief pilot study, we found the implementation of a process for FI screening in primary care to be relatively straightforward, made so by pairing it with other annual health screening protocols and the presence of a function for entering SDH in Epic. The HVS screening tool was also successful in newly identifying FI, as evidenced by the absence of prior documentation in nearly half of food insecure patients. However, the paucity of subsequent documentation and the small fraction of patients who received targeted intervention, despite the education for providers and staff at both practices, indicate a need for further investigation around the best approach to addressing FI in a primary care setting, once it is identified.
+
+# IMPLICATIONS OF USING AN ALTERNATIVE MEASURE TO ASSESS OPIATE DAYS SUPPLIED AT DISCHARGE
+
+Nicholas Iverson; Nader Najafi; Yumiko Abe-Jones; Kirsten Kangelaris; Margaret Fang; Priya A. Prasad; Catherine Lau. UCSF, San Francisco, CA. (Control ID #3184807)
+
+# BACKGROUND:
+
+Development of opiate use disorder has been associated with prolonged opiate prescriptions. Conventionally, opiate-days supplied has been calculated by the discharge prescription signature. However, it is not clear whether the number of days supplied reflects the actual needs of the patient. We compared the days supplied using two metrics: one based on the discharge signature, and one adjusted for the amount of opiates required during the hospitalization.
+
+# METHODS:
+
+We used the electronic health record to identify all patients hospitalized on the acute care medical service at a 600-bed tertiary care hospital from 2012-2018 who received opiates during hospitalization and were discharged on an opiate. We excluded patients with ICD9 or 10 codes for cancer-related pain, sickle cell disease, or who were on hospice or followed by the palliative care service. We ascertained the total amount of opiates administered for each hospital day, standardized to morphine milligram equivalents (MMEs). The number of opiate-days supplied was first determined using the discharge prescription, based on the prescription signature and number of pills ordered. We then determined the number of opiate days supplied adjusted for the amount of opiates required by the patient during the last 24 hours of hospitalization. The difference in days supplied between the two measures was compared using t-tests.
+
+# RESULTS:
+
+We identified 6,902 patients with a baseline opiate prescription and 2,373 patients without opiates as an admission medication who were discharged on an opiate. The median MME per day of hospitalization was 57.7 mg [IQR 21.1, 150.4], and 60 mg [IQR 24, 165] for the last 24 hours. Using the metric adjusting for the opiate needs on the last 24 hours of hospitalization resulted in a mean days supplied of opiates that was 3.6 days longer than when using a standard days supplied metric (11.9 vs 8.3 days, p<0.001). Patients with a baseline opioid prescription were prescribed a median of 10 days on discharge by prescription signature, and 14 days based on hospital requirements (p<0.001). Patients without a baseline opioid prescription were prescribed a median of 5 days on discharge by

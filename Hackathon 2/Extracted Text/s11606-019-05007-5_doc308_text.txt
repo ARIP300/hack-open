@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# WASTE IN THE MEDICARE PROGRAM: 2015 NATIONAL ESTIMATES OF LOW-VALUE SERVICE USE AND SPENDING
+
+Rachel O. Reid1, 2; John N. Mafi3, 4; Cheryl Damberg4. 1RAND Corporation, Boston, MA; 2Brigham and Women's Hospital, Boston, MA; 3David Geffen School of Medicine at UCLA, Los Angeles, CA; 4RAND Corporation, Santa Monica, CA. (Control ID #3185307)
+
+# BACKGROUND:
+
+Low-value health care services that offer no clinical benefit but expose patients to risk and expense are common in the US health care system. The Choosing Wisely campaign and other efforts have focused attention on waste since low-value service use and spending were last estimated in Medicare nationally. In this study, we provide updated national estimates of low-value service use and spending in the Medicare population using a broad set of low-value care measures.
+
+# METHODS:
+
+We included 100% of fee-for-service Medicare beneficiaries aged 65 and older who were continuously enrolled in Parts A, B, and D for at least 2 years in 2015: 14,024,927 beneficiaries. Using Medicare enrollment, medical claims, and prescription drug event data, we used the Milliman MedInsight Waste Calculator to assess 36 claims-based measures of low-value services applicable to the Medicare population, reflecting recommendations from the Choosing Wisely Campaign, the USPSTF, and other professional guidelines. We defined as low-value those services deemed "wasteful" or "likely wasteful" based on a sufficient claims history without a clinical rationale for the service, and calculated wasteful spending on those low-value services as the total allowed amount for the claim for that service.
+
+# RESULTS:
+
+Among included beneficiaries, 11,554,997 (82.4%) had at least one service that could be considered potentially low-value (45.9 million services, 4.0 per capita). Of these, 6,307,792 (54.6%) had at least one service ultimately deemed low-value, accounting for 13.5 million distinct services (2.1 per capita) and $4.7 billion in wasteful spending ($740 per capita). The 3 low-value services most frequently received were: eye imaging testing without significant eye disease (3.4 million services, 25.5% of low-value services), baseline laboratory studies before elective low-risk surgery (2.8 million services, 21.1% of low-value services), and opioids for acute back pain (2.5 million services, 18.4% of low-value services) - comprising nearly two-thirds of wasteful services (64.9%). The 3 services representing the greatest fraction of wasteful spending were: eye imaging testing without significant eye disease ($1.5 billion, 32.5% of wasteful spending), baseline laboratory studies before elective low-risk surgery ($1.1 billion, 24.0% of wasteful spending), and renal artery revascularization ($528 million, 11.3% of wasteful spending) - comprising more than two-thirds of wasteful spending (67.8%).
+
+# CONCLUSIONS:
+
+Delivery of low-value services remains common and costly in Medicare: most beneficiaries received at least one low-value service. However, utilization and spending are concentrated among a small subset of the measures assessed, suggesting targeted opportunities for waste-reduction. These findings suggest that targeted interventions to reduce this subset of low-value services could substantially reduce waste in Medicare and highlight the need for understanding of how best to design and implement such interventions.
+
+# WELLNESS BEHAVIOR PROFILES OF INTERNAL MEDICINE AND PSYCHIATRY RESIDENTS
+
+Milad Memari; Margaret S. Chisolm; Sean Tackett; Anne Ruble; Scott Wright. Johns Hopkins Bayview Medical Center, Baltimore, MD. (Control ID #3181174)
+
+# BACKGROUND:
+
+The ACGME requires that residency training programs (RTP) establish or bolster interventions that facilitate resident well-being, promote resilience, and guard against burnout. There is, however, limited data characterizing residents' participation or engagement in wellness promoting behaviors during their training to guide these initiatives.
+
+# METHODS:
+
+We surveyed a cohort of internal medicine and psychiatry residents regarding 16 self-care or wellness promoting behaviors over the preceding 30-days in December of 2017, dividing them into those done alone and those involving others.
+
+# RESULTS:
+
+101 residents were invited to share their behavioral profiles, and most residents completed the entirety of the survey (86%, n=87). Getting a good night's sleep (sleeping >7 hours consecutively) was the most frequent wellness supporting behavior that did not require others (averaged 14 times in prior 30 days). The most frequent wellness activities involving others included "cuddling" with another adult (16 times), calling family members (13 times), and sharing a meal with friends or family (11 times). Of the 16 behaviors studied, 13 were performed more frequently among residents compared to interns; two of these reaching statistical significance (sleeping >7 hours consecutively and attending a special event [e.g. sporting event, play, concert…], both P < 0.05).
+
+# CONCLUSIONS:
+
+This study offers a glimpse into the midyear self-care activities of interns and residents in 2 training programs. The wellness behaviors that were most commonly endorsed necessitated the involvement of friends and family. These basic wellness behavioral profiles of interns and residents may serve to inform the development of curricula and guidance from RTPs as mandated by the ACGME.
+
+# WERE THE 2015 HYPERTENSION SCREENING RECOMMENDATIONS TAKEN WITH A GRAIN OF SALT? A RETROSPECTIVE STUDY ON CHANGES IN PHYSICIAN BEHAVIOR BEFORE AND AFTER THE UPDATE TO THE 2015 USPSTF HYPERTENSION GUIDELINES
+
+Deborah Fung1; Amani Allen2; Rosio Ramos3; Erica Phillips; Nathalie3 Moise4; Jacob Julian4; Ian Kronish4. 1New York Presbyterian Weill Cornell, New York, NY; 2Cornell University, Ithaca, NY; 3Weill Cornell Medical College, New York, NY; 4Columbia University Medical Center, New York, NY. (Control ID #3179309)
+
+# BACKGROUND:
+
+Hypertension (HTN) is a major modifiable risk factor for cardiovascular disease (CVD) and is highly prevalent in the United States. Traditionally, two elevated office blood pressure (BP) measurements have been the mainstay of diagnosing HTN; however, many patients with elevated office BP do not have elevated out-of-office BPs. This phenomenon, known as white-coat HTN, confers lower risk of CVD, may lead to over-diagnosis of HTN, increased stress and anxiety for patients now labeled with a chronic illness, and unnecessary healthcare costs. In 2015, the U.S. Preventive Services Task Force (USPSTF) updated its HTN screening recommendations to emphasize the importance of ruling out white-coat HTN by obtaining ambulatory BP monitoring (ABPM) or home BP monitoring (HBPM) in adults with elevated office BP. The goal of this study is to evaluate the utilization of out-of-office BP monitoring via ABPM or HBPM by primary care providers before and after this update.
+
+# METHODS:
+
+We conducted a retrospective electronic health record review of scheduled visits between primary care providers from three diverse, urban academic-based clinical practices involving adult patients with elevated office BP but no prior diagnosis or treatment for HTN. Patient inclusion criteria were: age 18, office systolic BP 140 mmHg and/or diastolic BP 90 mmHg, and no prior history of HTN or white-coat HTN. Exclusion criteria were:

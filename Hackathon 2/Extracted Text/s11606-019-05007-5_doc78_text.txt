@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# METHODS:
+
+Data for this study come from the AmericanWell DTC telemedicine platform. Encounters with patients 18 years and older were conducted by board-certified physicians between July 2016 and July 2018. ARTI diagnoses were identified based on ICD10 codes. Encounters resulting in an inhaler prescription or coded with an asthma and/or COPD diagnosis were excluded. Oral corticosteroid and/or antibiotic receipt was determined by National Drug Codes associated with each encounter. Patient and physician geographic location were categorized by U.S. Census region, based on state of residence. To ensure stability of estimates at the physician level, physicians with &lt;10 RTI encounters were excluded. Mixed effects logistic regression was used to assess differences in the odds of corticosteroid prescription, accounting for clustering by physician and geographic region. Models included specific ARTI diagnosis, patient age and geographic region, and physician specialty and geographic region. The model also accounted for antibiotic receipt.
+
+# RESULTS:
+
+The sample included 96,152 ARTI visits with 472 physicians, the majority of whom (58%) were board certified in Family Medicine. Most encounters were for sinusitis (45%), followed by pharyngitis (12%). Overall, 11% of ARTI visits resulted in a corticosteroid prescription. Of those, 33% also received an antibiotic. The mean prescribing rate for individual physicians ranged from 0% (7% never prescribed a corticosteroid) to 63%. In the adjusted model, compared to ARTI encounters with Northeastern physicians, those with Southern physicians had higher odds of resulting in a corticosteroid prescription (OR:4.37;95%CI:2.75-6.93). Compared to visits with Family Medicine physicians, those with Internal Medicine physicians were more likely to result in a corticosteroid prescription (OR:3.89; 95%CI:3.17-4.78). Receipt of a corticosteroid was associated with lower odds of antibiotic receipt (OR: 0.29;95%CI:0.28-0.31).
+
+# CONCLUSIONS:
+
+Prescription of corticosteroids for ARTIs in DTC telemedicine varied widely by physician. Regional variation suggests that prescribing is driven by physician preference rather than patient demand. Some physicians appear to substitute corticosteroids for antibiotics, but given adverse effects of corticosteroids, this practice should be discouraged.
+
+# COST & UTILIZATION OUTCOMES FOR A TELEMEDICINE-BASED URGENT CARE CLINIC OFFERED TO EMPLOYEES AT A LARGE ACADEMIC MEDICAL CENTER
+
+Krisda H. Chaiyachati 1, 2 ; Christopher K. Snider 2 ; Nandita Mitra 2 ; Ann Marie Huffenberger 3 ; Bill Hanson 2, 3 ; Gregory Kruse 3 ; Katy Mahraj 2, 3 ; Shivan Mehta 2, 2 ; David A. Asch 1, 2 . 1 The University of Pennsylvania, Philadelphia, PA; 2 University of Pennsylvania, Philadelphia, PA; 3 University of Pennsylvania Health System, Philadelphia, PA. (Control ID #3185179)
+
+# BACKGROUND:
+
+Employers are increasingly turning to telemedicine services to address low acuity urgent care needs among their insured employees. These efforts aim to reduce costs, but their effectiveness is unknown. Since July 2017, Penn Medicine has offered a free telemedicine-based urgent care clinic (FirstCall) to all health system insured employees and adult dependents, an estimated 50,000 covered lives. FirstCall is staffed 24/7, 365 days per year by Penn Medicine nurse practitioners who conduct live-telemedicine appointments and coordinate follow-up care. We evaluate the impact of FirstCall on health care costs.
+
+# METHODS:
+
+This study is a retrospective claims-based analysis comparing per episode costs for employees using FirstCall with employees treated conventionally for the same diagnoses between July 2017 to September 2018. To account for selection bias, we conducted 1:3 nearest neighbor matching between FirstCall and non-FirstCall encounters using propensity scoring based on the encounter diagnosis, season, and employee's gender, age, employee or beneficiary status, median income of employee's ZIP code, and Charlson Comorbidity Score. Once matched, an employee's future encounters were excluded from matching. We used a generalized linear regression model to estimate per episode cost differences incurred within 3 days adjusting for employees' prior costs and utilization. As sensitivity analyses, we repeated these measures within 7-day and 30-day time windows. To estimate whether FirstCall substituted for conventional care, rather than inducing unnecessary care, we compared encounter rates for respiratory tract infections (the top diagnosis at 39% of all visits) before and after FirstCall was available using an interrupted time series analysis.
+
+# RESULTS:
+
+Our cohort included 1,335 FirstCall and 3,965 matched non-FirstCall users. Each FirstCall encounter avoided an average of $215 ($161 to 269; p&lt;0.001) due to fewer visits to conventional care settings such as outpatient clinics, urgent care centers, and emergency departments. Results were unchanged with extended time windows. Rates for respiratory tract infection visits did not increase after FirstCall was offered.
+
+# CONCLUSIONS:
+
+FirstCall visits resulted in significant per episode cost savings. FirstCall's operational costs are fixed, therefore FirstCall's per episode costs are volume sensitive (i.e., more visits, lower per episode costs). Based on these estimates, FirstCall is budget neutral for Penn Medicine when 13 or more visits occur per day. These favorable per episode costs might be undermined if FirstCall's convenience induced utilization for symptoms that otherwise would have been ignored. However, these concerns are not supported given similar utilization rates for respiratory tract infections before and after FirstCall. Telemedicine services may be financially promising for academic medical centers with employer-sponsored health plans who offer in-house telemedicine services and care coordination as an employee benefit.
+
+# COST COMPARISONS OF OPIOID USE DISORDER TREATMENT PATHWAYS
+
+Marc Larochelle 1 ; Omid Ameli 2 ; Sarah E. Wakeman 3 ; Christine Chaisson 2 ; Jeffrey McPheeters 2 ; Francisca Azocar 4 ; Darshak Sanghavi 2 ; William Crown 2 . 1 Boston University School of Medicine and Boston Medical Center, Boston, MA; 2 OptumLabs, Cambridge, MA; 3 Massachusetts General Hospital, Charlestown, MA; 4 Optum Behavioral Health, San Francisco, CA. (Control ID #3185417)
+
+# BACKGROUND:
+
+Nearly 3 million Americans have opioid use disorder (OUD). The relative cost of initial OUD treatment strategies is unknown. We aimed to compare total cost of care across common OUD treatment pathways in a large, nationally representative sample.
+
+# METHODS:
+
+We conducted a retrospective cohort analysis using the OptumLabs® Data Warehouse of de-identified claims for privately insured and Medicare Advantage enrollees in a large U.S. health plan. We included individuals 16 years with OUD and contiguous enrollment for three months before and after index OUD diagnosis date. We identified OUD as 1 inpatient or 2 outpatient claims for opioid dependence or 1 claims for opioid dependence/use/abuse plus experiencing an overdose, medication for opioid use disorder, detox, or injection-related infection. We examined treatments received in the 12 weeks after cohort entry and clustered subjects into one of six pathway designations: 1) no treatment, 2) inpatient detox/rehab with/without medication for OUD, 3) buprenorphine/methadone, 4) naltrexone, 5) only behavioral health inclusive of intensive outpatient (BH - intensive), and

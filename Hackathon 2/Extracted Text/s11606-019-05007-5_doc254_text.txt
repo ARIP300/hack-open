@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+# 1. SIMPLE PREDICTORS OF MORTALITY IN ACUTE PANCREATITIS
+
+Ashley M. Scott1; Mohammad Baidoun1; Naureen Farook1; Harold Gomez Acevedo1; Sandeep K. Bhatti1; Jeffrey Dueweke1; Vidhya Nair1; Hadi Mohammed 1; Angie Adhami 1; Guneet Ahluwalia 1; Sudarshan Hebbar 2; Joseph Miller 1, 1 Henry Ford Hospital, Detroit, MI; 2Calcimedica, La Jolla, CA. (Control ID #3178613)
+
+# BACKGROUND:
+
+Various historical studies have found that hypoxia portends a poor prognosis in patients hospitalized with acute pancreatitis. The objective of this study is to test early respiratory compromise on hospital presentation as a mortality predictor in acute pancreatitis. Secondary aims of the study were assessing prognostication abilities of the quick sequential organ failure assessment (qSOFA) and hypoalbuminemia in acute pancreatitis.
+
+# METHODS:
+
+This is a retrospective observational study based on adult patients hospitalized for acute pancreatitis. The data were collected from eight standalone emergency departments and five hospitals within Henry Ford Health System of Southeast Michigan. Patients with lipase levels less than three times the upper limit of the normal laboratory range were excluded. The primary outcome was inpatient mortality. Univariate and multivariate logistic regression was performed to determine predictors of adverse outcomes. The main variable of interest was respiratory compromise, defined as an initial SpO2 of 92% on presentation. We combined other key variables on presentation to derive an area under the curve (AUC) for predicting mortality.
+
+# RESULTS:
+
+The study included 2,090 patients, mean age 55.5 years (SD 17.5) and 51.5% female. The median presenting lipase was 976 U/L (IQR 281-2500). Death was uncommon (n=34, 1.6%). Via univariate analysis, highly significant predictors of mortality were SpO2 92%, qSOFA score 2, and low albumin. Patients with a presenting SpO2 92% had 9.2% mortality, in contrast to a 1.3% mortality rate among those with an SpO2 above 92% on presentation (OR 7.5, 95% CI 3.1-17.7). Those with a qSOFA score 2 suffered 9.8% mortality, compared to an average 1.3% mortality rate among those with a qSOFA of 0 or 1 (OR 8.6, 95% CI 3.9-18.9). Adjusting for age, gender, race, leukocytosis, hematocrit, and major comorbidities, qSOFA 2 remained a significant predictor of mortality (OR 2.6, 95% CI 1.7-4.1, p <0.001). Low albumin (OR 2.7, 95% CI 1.2-6.2, p 0.02) and SpO2 92% (OR 2.6, 95% CI 1.0-7.1, p 0.05) also remained significant predictors. By combining qSOFA with the presence of low albumin and SpO2 92% into a novel early acute pancreatitis score (EAPS), the EAPS score had good accuracy for predicting mortality (AUC 0.80, 95% CI 0.72-0.89).
+
+# CONCLUSIONS:
+
+Independent predictors of mortality on initial presentation include low albumin, SpO2 92%, and a qSOFA score 2. Perhaps these simple prognosticators can guide clinical practice by more precisely identifying those with acute pancreatitis who are more critically ill and could benefit from closer monitoring.
+
+# 2. SMOKING CHARACTERISTICS AND QUIT BEHAVIORS AMONG HEALTH CENTER ATTENDEES WITH SUBSTANCE USE DISORDERS: A NATIONAL STUDY
+
+Danielle R. Fine; Benjamin Bearnot; Travis P. Baggett. Massachusetts General Hospital, Boston, MA. (Control ID #3169220)
+
+# BACKGROUND:
+
+Despite high smoking rates in patients with substance use disorders (SUDs), tobacco dependence in this vulnerable population has been undertreated. While current clinical practice guidelines recommend simultaneous treatment of substance use and tobacco dependence, there is limited research evaluating adherence to this guideline on a national level. The objectives of this study are to (1) describe smoking characteristics in patients with and without SUDs at US safety-net health centers, (2) assess differences in smoking-related quit behaviors between individuals with and without SUDs, and (3) evaluate the association between SUD treatment and receipt of advice to quit smoking.
+
+# METHODS:
+
+We analyzed data from 5,592 adult (≥ 18 years old) respondents to the 2014 Health Center Patient Survey, a nationally representative cross-sectional survey of individuals who receive care at federally funded health centers within the US. The main exposures were having a current alcohol use disorder (AUD) or drug use disorder (DUD) based on responses to the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST). We first evaluated smoking characteristics (frequencies of being a current or former smoker) in those with and without AUD and DUD. We then performed multivariable logistic regression to assess the relationship between AUD/DUD and smoking-related quit behaviors (past-year desire to quit, past-year quit attempt, plans to quit in the next 6 months, and being a former smoker among ever smokers [i.e. quit ratio]), and to evaluate the association between past-year AUD/DUD treatment and receipt of advice to quit smoking.
+
+# RESULTS:
+
+Sixty-four percent of health center patients with AUD and 55% with DUD were current smokers compared to 25% and 27% without AUD and DUD, respectively. Among lifetime ever-smokers, those with AUD were significantly less likely to be former smokers than those without AUD (adjusted odds ratio [aOR]=0.30; 95% confidence interval [CI]=0.14, 0.65). Current smokers with AUD had higher odds of wanting to quit smoking in the past year (aOR=2.88; 95% CI=1.19, 7.05) but were not more likely to have made a past-year quit attempt (aOR=1.02; 95% CI=0.57, 1.84). Additionally, there was no association between AUD or DUD and plans to quit smoking in the next 6 months (aOR=1.09; 95% CI=0.49, 2.42; aOR=0.63; 95% CI=0.25, 1.58, respectively). Smokers with SUD who engaged in AUD treatment (aOR=0.31; 95% CI=0.05, 2.01) or DUD treatment (aOR=0.97; 95% CI=0.21, 4.44) in the past year were not more likely to have received advice to quit smoking.
+
+# CONCLUSIONS:
+
+Consistent with prior research, individuals with SUDs had high smoking rates, and smokers with AUD had a higher desire to quit smoking but a lower quit ratio than those without AUD. SUD treatment did not increase the likelihood of receiving advice to quit smoking. These findings suggest a missed opportunity to provide tobacco cessation counseling during SUD treatment as recommended by clinical practice guidelines.
+
+# 3. SOCIAL DETERMINANTS OF HEALTH AND MISSED CLINIC VISITS: FACTORS UNDERLYING WASTED RESOURCES IN VA AMBULATORY CARE?
+
+Charlie M. Wray 1, 2; Marzieh Vali 3; Amy L. Byers 1, 2; Salomeh Keyhani 4. 1 University of California, San Francisco, San Francisco, CA; 2 San Francisco VA Medical Center, San Francisco, CA;

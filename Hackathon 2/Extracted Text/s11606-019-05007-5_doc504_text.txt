@@ -1,0 +1,75 @@
+# ABSTRACTS
+
+# Postoperative Hypocalcemia
+
+The use of bisphosphonates in parathyroid crisis in the literature is limited to case studies and small case series, which do not suggest, however, an increased risk of postoperative hypocalcemia.
+
+# CONCLUSION:
+
+Parathyroidectomy is the definitive treatment for parathyroid crisis, with fluids and diuretics used as a stabilizing measure. Despite significantly elevated parathyroid hormone levels being associated with parathyroid carcinoma, parathyroid adenomas are more common.
+
+# Paroxysmal Nocturnal Hemoglobinuria Masquerading as an Ulcerative Colitis Flare
+
+Jared D. Romeo; Joseph M. Rocco. University of Pittsburgh, Pittsburgh, PA. (Control ID #3185548)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the limits of ulcerative colitis (UC) assessment
+
+# LEARNING OBJECTIVE #2:
+
+Highlight an illness script for paroxysmal nocturnal hemoglobinuria (PNH)
+
+# CASE:
+
+A 29-year-old woman with UC on infliximab presented with 1 week of hematochezia and abdominal pain. One month prior, she had right upper quadrant pain with transaminase elevations. CT scan of the abdomen was notable for a heterogenous liver, but she improved with supportive care. Two weeks later, diplopia prompted MRI of the brain which revealed right sigmoid and transverse sinus thrombosis. Warfarin was started but a hypercoagulable workup was negative. One week later, abdominal pain and hematochezia started. The pain was similar but more diffuse than in prior flares. Labs showed Hgb 10.9 g/dL, platelet 163,000, and bilirubin 1.7 mg/dL. Stool culture, clostridium difficile, and parasite assays were negative. Parenteral steroids for presumed UC flare were initiated. The next day the patient's Hgb and platelets continued to decrease. Bilirubin was now 2.7 mg/dL, haptoglobin <30 mg/dL, and LDH 940 suggested hemolysis. A colonoscopy revealed new thrombi within the colonic lamina suggestive of ischemic colitis. Her prior abdominal CT was re-evaluated, and hepatic vein thrombosis was evident. Flow cytometry was performed and revealed decreased expression of CD59 consistent with PNH. The patient was started on eculizumab and at the time of discharge had resolved abdominal pain and stable hemoglobin.
+
+# IMPACT/DISCUSSION:
+
+Diagnosis of UC is challenging as no set diagnostic criteria exist. Endoscopically, UC presents as continuous erythema, edema, ulceration, and/or bleeding, but up to 15% of UC cases are indistinguishable from other causes of colitis. Histopathology showing crypt distortion and hypercellularity are consistent with but not specific for UC. Diagnosis is further complicated by lack of correlation between endoscopic and pathologic findings. Thus, clinical correlation is paramount to diagnosing UC and flares. In our patient, slight differences in her symptomatology and unexplained hemolysis suggested an alternative diagnosis for her pain. PNH is characterized by non-immune hemolysis, pancytopenia, and venous thrombosis. The pathophysiology of PNH is an acquired deficiency of glycolipid GPI which anchors CD59 to the surface of RBCs. CD59 typically prevents complement mediated destruction of RBCs. The presentation of Budd-Chiari with dural sinus thrombosis is often seen in PNH, as in our patient, which prompted flow cytometric analysis. Currently, there is no clear mechanism to explain thrombosis in PNH. First line treatment is with eculizumab, but bone marrow transplant is curative. This case highlights the pitfalls of diagnosing abdominal pain in the setting of UC. Physicians should keep in mind that neither endoscopy nor pathology are specific for UC, and alternative diagnoses must always be considered.
+
+# CONCLUSION:
+
+There is no gold standard for diagnosing UC. PNH should be considered in patients that have atypical venous thrombosis.
+
+# Patient-Directed Cryotherapy as a Cause of Peripheral Neuropathy
+
+Victoria G. Gillet1; David Feldstein; Linda Baier Manwell3; Brian Lew-2 is4; Katie Miller1. 1University of Wisconsin, Madison, WI; 2University of Wisconsin School of Medicine and Public Health, Madison, WI; 3University of Wisconsin-Madison, Madison, WI; 4University of Wisconsin, Middleton, WI. (Control ID #3185702)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize patient-directed cryotherapy as a cause of peripheral nerve damage
+
+# LEARNING OBJECTIVE #2:
+
+Explain the importance of giving clear instructions for non-pharmaceutical interventions
+
+# CASE:
+
+A 53-year-old female consulted urgent care for progressive lower extremity pain of 7 weeks duration. The pain localized to her right medial ankle with associated numbness in her medial arch. She ran 15 miles weekly and did daily bicycling and aerobics. She had tenderness to palpation over the medial talus, no ligamentous laxity, an intact Achilles tendon, intact plantarflexion, and no redness, erythema, or warmth. She was diagnosed with overuse injury and told to decrease her high-impact exercises and "ice as she sees fit". Her pain persisted. She consulted a primary care provider who diagnosed her with tarsal tunnel syndrome and recommended further activity reduction. She then self-referred to podiatry where she received custom orthotics. Her pain continued to progress. Over the next 4 months, she was seen by orthopedic surgery, sports medicine, and primary care without a clear diagnosis or pain alleviation. An MRI of her ankles and feet found no acute nerve or soft tissue injury and her labs were normal including ANA, RF, SPEP, fasting glucose, TSH, CK, B12, BMP, and CBC. Due to worsening pain, an EMG was performed. It revealed multiple absent sensory evoked potentials and motor unit loss in intrinsic foot muscles innervated by the tibial and peroneal nerves. At her next visit, 6 months after initial presentation, she reported icing her lower extremities continuously for two or more hours daily since symptoms began. She was told to stop cryotherapy and monitor symptoms. With the cessation of icing, her pain resolved over 12 months and she returned to her normal activities.
+
+# IMPACT/DISCUSSION:
+
+Cryotherapy after an acute sports injury is standard practice. It is recommended by professional organizations including the National Athletic Trainer's Association and the American Academy of Orthopedic Surgeons, but there is no high-quality evidence for duration or frequency of cryotherapy. The risk of neuropathy from cryotherapy is rare and experimental studies report that risk increases with treatments longer than 20 minutes. Injuries classically affect single nerves. The most commonly affected nerve is the peroneal, resulting in activity-limiting foot drop. Cryotherapy causing a chronic neuropathy or a peripheral polyneuropathy is less frequently documented. Based on this case, it is now my standard practice to provide written, detailed instructions for safe home cryotherapy to any patient with soft tissue injury.
+
+# CONCLUSION:
+
+1. Include patient-directed cryotherapy in your differential diagnosis of peripheral neuropathy especially for physically active patients with normal labs and imaging.
+2. Make it standard practice to query ways in which patients manage symptoms at home.
+3. Instruct patients how to safely use all prescribed therapies including nonpharmacologic techniques.
+
+# Pectoral Pain, a Palpable Mass, and a Poor Prognosis: Chondrosarcoma as an Atypical Cause of Chest Pain
+
+Lydia A. Flier; Sydni M. Cole. Beth Israel Deaconess Medical Center, Brookline, MA. (Control ID #3185781)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize features of high-risk chest wall masses in the primary care setting.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose chest wall tumors with the appropriate imaging modality.
+
+# CASE:
+
+A 72 year old male Jehovah's witness with anxiety, an unspecified learning disability, and remote prostate cancer, presents to his PCP with four weeks of sharp mid-chest pain, increasing in intensity and "incapacitating." Initial evaluation, including ECG, is reassuring, and there was no...

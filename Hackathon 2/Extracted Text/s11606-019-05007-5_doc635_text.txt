@@ -1,0 +1,67 @@
+# ABSTRACTS JGIM
+
+# Colorectal Cancer Screening in Federally Qualified Health Centers
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Colorectal cancer (CRC) screening rates are sub-optimal among patients of Federally Qualified Health Centers (FQHCs), many of whom have low-income and inadequate health insurance. Mailed fecal immunochemical testing (FIT) is an evidence-based method of increasing screening, but has not been widely disseminated.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To implement a mailed FIT screening program for average-risk adults ages 50-75 who were patients in a network of FQHCs.
+2. To measure uptake of mailed screening and positivity rates.
+3. To ensure, through patient navigation, a high rate of completion of follow-up colonoscopy after positive FIT.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Age-eligible, average risk patients with no evidence of recent screening who were being seen in a network of FQHCs in Texas were eligible for the program. Eligible patients received a mailing with an introductory letter, return postcard to update screening status, and a single-sample FIT that could be completed and returned by mail. We used reminder text messages and letters to help ensure test completion. Patients with positive tests received support from a bilingual patient navigator to help ensure colonoscopy completion.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Numbers of patients reached
+2. Uptake of mailed FIT among eligible patients
+3. FIT Positivity rate
+4. Proportion of positive FIT with colonoscopy completed within 90 days per medical record review
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+We identified 28,306 age-eligible patients and 6,991 (24.7%) were already up to date based on medical record review. Of the 21,315 not up to date, mean age was 58 and 49.5% were female; 15.1% were African-American and 41.0% Latino. Overall, 68.7% spoke English preferentially, and 25.8% Spanish. Less than half (47.7%) had commercial or Federal insurance. In Year 1 of the program, we mailed FIT packets to 14,276 patients (67.0% of those not up to date). Of those, 18.4% (n=2,633) completed FIT and 428 (3.0%) were already up to date with outside screening based on patient report. Of those completing FIT, 142 (5.4%) were positive and 78 have completed a colonoscopy to date (54.9% completion rate) with another 22.5% scheduled to be complete within 90 days. Important findings at colonoscopy (n=78) include 34 (43.6%) with adenomas, 1 carcinoma in situ, and 2 cancers.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. Mailed FIT is an effective, scalable means of increasing CRC screening in otherwise hard to reach, vulnerable patients in a safety net FQHC system, and should supplement in-office efforts to increase screening.
+2. Achieving high rates of follow-up colonoscopy is challenging, even with high-quality patient navigation.
+
+# IMPLEMENTING A STUDENT-LED FOOT CARE CLINIC IN AN OVERNIGHT HOMELESS SHELTER
+
+Aileen L. Doble1; Henry C. Ashworth2; Kevin G. Sullivan3; Marya J. Cohen4; Gina R. Kruse5. 1MGH Institute of Health Professions, Boston, MA; 2Harvard Medical School, Boston, MA; 3Boston Healthcare for the Homeless, Boston, MA; 4MGH, Boston, MA; 5Massachusetts General Hospital, Boston, MA. (Control ID #3177744)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Foot care issues can be severe and debilitating amongst those who experience homelessness; however, more could be known on the distribution of foot disease and prevalence of proper foot care in this vulnerable population.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To deliver basic foot care to guests at the Boston Night Center (BNC).
+2. To connect BNC guests with foot conditions to primary care services.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This foot care clinic is an extension of the Crimson Care Collaborative (CCC) at Boston Health Care for the Homeless Program (CCC-BHCHP) clinic site; an interprofessional student-faculty medical clinic that serves homeless guests staying at the BNC, a drop-in overnight shelter, on Monday nights. In order to expand the impact of the clinic and better serve guests at the BNC, a needs assessment was conducted; results clearly pointed to the need for a foot care clinic. CCC volunteers partnered with faculty and leadership at the well-established St. Francis House foot clinic to develop a clinical model that involves 1) a comprehensive foot assessment 2) washing of feet in warm soapy water 3) application of preventative medications 4) referral to BHCHP for primary care services if needed.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The foot care clinic is evaluated in terms of clinical volume and patients served. The target for clinical volume is to provide foot care to a minimum of four guests each Monday evening. To understand patients served in the foot care clinic, a survey gathering basic demographic data, connection to primary care, and prevalence of foot symptoms and diagnoses is utilized. As this foot care clinic continues, other areas to explore will be guests' perceived importance of foot health and guests' health habits regarding foot hygiene.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Unofficially, the foot care clinic has received positive feedback from those receiving care and from BNC staff. So far, four CCC volunteers have cared for 21 guests at the foot clinic. The median age of the guests served is 43 years of age. The most prevalent conditions are tinea pedis (86%, n=21), and immersion foot (29%, n=20). Overall, 78% (n=18) of the guests served were already connected to primary care services, and 22% (n=18) received referral to primary care services at BHCHP.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. There is value in holding a foot care clinic at a time when other clinics are not open and when homeless persons are not seeking to secure shelter for the evening. This foot care clinic provides a space and time in which guests are able to prioritize their health, which can be difficult during the day when basic needs such as shelter and food often take precedence.
+2. Additionally, holding the foot care clinic at the BNC allows us to reach those who may not feel comfortable seeking care in a traditional health-care setting. This foot care clinic also provides a benefit to the CCC volunteers, many of whom have described the experience as transformative, demonstrating how enriching compassionate, hands-on care can be to the student learning experience.
+
+# IMPLEMENTING AMBULATORY BLOOD PRESSURE MONITORING INTO AMBULATORY ACADEMIC PRIMARY CARE: A MULTIDISCIPLINARY APPROACH
+
+Jennifer Beach1; Stephen P. Juraschek2; Anthony Ishak2; Kenneth J. Mukamal3. 1Beth Israel Deaconess Medical Center, Boston, MA; 2BETH

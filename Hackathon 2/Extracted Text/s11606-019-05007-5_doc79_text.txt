@@ -1,0 +1,37 @@
+# ABSTRACTS JGIM
+
+# Cost-Effectiveness of an Electronic Health Record-Based Intervention to Prevent Weight Regain
+
+Cindy L. Bryce2; Heather Tomko2; Kathleen Mary Mctigue2; Jonathan Arnold4; Gary Fischer2; Bethany Barone Gibbs2; Rachel Hess3; Kimberly Huber2; Laurey Simkin-Silverman2; Dana Tudorascu2; Molly Conroy1. 1 University of Utah, Salt Lake, UT; 2 University of Pittsburgh, Pittsburgh, PA; 3 University of Utah, Salt Lake City, UT; 4 University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3183039)
+
+# BACKGROUND:
+
+Maintaining intentional, healthy weight loss poses a major behavioral health challenge, yet it is key to preventing and managing weight-related diseases such as diabetes and heart disease. Few studies have compared alternative approaches for avoiding weight regain after intentional loss and evaluated their cost effectiveness.
+
+# METHODS:
+
+Maintaining Activity and Nutrition through Technology-Assisted Innovation in Primary Care (MAINTAIN-pc) was a randomized controlled trial of primary care patients (n=196) who had intentionally lost at least 5% of their body weight. It compared the impact of an EHR-based self-monitoring system, either alone (tracking-only) or with personalized coaching, on weight regain. Participants recorded weight, plus diet/exercise information (calories, fat grams, steps, other physical activity) over time. Using 24-month data for costs (coaching time, participant monitoring frequency) and outcomes (weight change, quality of life using SF-36 data), we developed a Markov model to assess the cost-effectiveness of coaching relative to tracking-only for avoiding weight regain. Other parameters (hourly wages) relied on publicly available data.
+
+# RESULTS:
+
+Frequent self-monitoring was associated with better weight outcomes, and the coached participants monitored more consistently than tracking-only participants. Both groups reported good quality of life regardless of weight, resulting in only small gains in quality-adjusted life-years (QALYs) with coaching. When used in the analyses, we initially defined the effectiveness measure as percent weight regain and calculated a base case incremental cost-effectiveness ratio (ICER) for coaching relative to tracking-only that was less than $500 per percent weight regain avoided (societal perspective). For the reference case using QALYs, the ICERs were $23,740 and $4,940 per QALY gained from societal and health care system perspectives, respectively. Results were robust in sensitivity analyses—the main driver of costs is not personnel time, but rather participant time devoted to consistent monitoring. This was varied widely in probabilistic sensitivity analyses, and coaching was found to be cost-effective in 58% of model iterations (societal perspective) and 64% of model iterations (health care system perspective), based on an acceptability threshold of $100,000 per QALY gained.
+
+# CONCLUSIONS:
+
+Maintenance of intentional, healthy weight loss is essential for realizing long-term health benefits. Although only minimal differences in quality of life between the two groups were reported, more weight regain was seen in the tracking-only group. Modeling the projected outcomes for longer time horizons would help inform overall health benefits and economic costs resulting from maintenance of intentional weight loss. Deployment of technologies that reduce the time needed to monitor health behaviors could also be useful for improving the cost-effectiveness of the coaching intervention.
+
+# Cost-Effectiveness of Using Financial Incentives to Improve Glycemic Control: Results of a Pilot RCT
+
+Leonard E. Egede1; Rebekah J. Walker1; Clara E. Dismuke-Greer; Heather Prigmore1; Joni S. Williams1; Aprill Z. Dawson2; Jennifer A. Campbell1. 1 Medical College of Wisconsin, Milwaukee, WI; 2 Medical University of South Carolina, Charleston, SC. (Control ID #3185393)
+
+# BACKGROUND:
+
+Behavioral economics research theorizes the utility of providing financial incentives to overcome a natural tendency to discount the consequences of poor health behaviors. Given the daily self-management required for good glycemic control, individuals with diabetes may benefit from use of financial incentives in an effort to promote regular activities that improve glycemic control. However, the cost of using financial incentives for the benefit of improved glycemic control has not been tested. The aim of this project was to determine the cost-effectiveness of three financial incentive structures in obtaining a 1% drop in HbA1c.
+
+# METHODS:
+
+60 African Americans with type 2 diabetes were randomized to one of three financial incentive structures and followed for 3 months. Group 1 received a single incentive at 3 months for A1c reduction, group 2 received a two-part incentive for home testing of glucose and A1c reduction at 3 months and group 3 received a multiple component incentive for home testing, attendance of weekly telephone education classes and A1c reduction at 3 months. The primary clinical outcome was A1c reduction within each arm at 3 months, and cost for each arm was calculated based on the cost of the intervention, cost of primary care, ER, and other health care visits during the 3-month time frame, and cost of work days missed from illness. Incremental cost effectiveness ratios (ICER) were calculated based on the intervention cost for each arm to achieve a 1% drop in HbA1c and were bootstrapped with 1,000 replications.
+
+# RESULTS:
+
+Incentive structures led to significant reductions in A1c at 3 months with a mean reduction for group 1 = 1.25%, mean reduction for group 2 = 1.73%, and mean reduction for group 3 = 1.74. Mean per person costs for each group were calculated at $3,765 for group 1, $4,649 for group 2, and $3,315 for group 3. The incremental cost effectiveness ratio to decrease A1c by 1% was $1,100 for all three arms, however, bootstrapped standard errors differed with group 1 having twice the variation around the ICER coefficient as groups 2 and 3. ICERs were statistically significant for groups 2 and 3 (p<0.001) indicating they are cost effective interventions for achieving a 1% drop in HbA1c.

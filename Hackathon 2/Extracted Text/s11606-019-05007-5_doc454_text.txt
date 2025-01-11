@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# HYPERCALCEMIA FROM PNEUMOCYSTIS JIROVECII PNEUMONIA IN A RENAL TRANSPLANT RECIPIENT
+
+Alisha Hossain1; Vincent Lipari2; Snigdha Reddy2. 1Michigan State University College of Osteopathic Medicine, Exton, PA; 2Henry Ford Hospital, Detroit, MI. (Control ID #3173935)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical and laboratory features of Pneumocystis jirovecii pneumonia (PJP) in immunocompromised patients
+
+# LEARNING OBJECTIVE #2:
+
+Treat hypercalcemia in the setting of acute kidney injury
+
+# CASE:
+
+A 63-year-old male with a past medical history of a living unrelated donor renal transplant secondary to autosomal dominant polycystic kidney disease presented with 3 weeks of fatigue, persistent non-productive cough, subjective chills, and worsening exertional dyspnea. Chest computed tomography showed ground-glass opacities and increased interstitial markings involving the left lung and right perihilar region without pleural effusion, pneumothorax, or cardiomegaly. He was empirically started on daily intravenous (IV) azithromycin and ceftriaxone due to suspected multifocal pneumonia. Acute kidney injury (AKI) with a creatinine of 3.4 mg/dL and BUN of 67 mg/dL was noted. He was admitted to the intensive care unit with hypoxic respiratory failure and escalation to broader spectrum antibiotics: vancomycin and piperacillin/tazobactam. He was noted to have coarse breath sounds with wheezing on lung exam. Initial labs revealed a serum calcium (Ca2+) of 12.0 mg/dL. Vancomycin was subsequently changed to IV Linezolid. IV Clindamycin and Primaquine daily were added due to suspected PJP. Bronchoscopy with bronchoalveolar lavage revealed a white blood cell count of 103/μL with no organisms. PJP on polymerase chain reaction and elevated -D-glucan were noted. Antibiotics were then tailored to 3 weeks of Clindamycin and Primaquine to treat PJP. His Ca2+ increased to 13.5 mg/dL likely due to PJP and AKI. Additional laboratory data revealed suppressed parathyroid hormone (PTH) levels at 15 pg/mL and elevated 1,25-dihydroxy-vitamin D (1,25-(OH)2 D3) at 156 pg/mL. His hypercalcemia proved resistant to IV fluids followed by IV diuresis, ketoconazole, and calcitonin. However, his Ca2+ corrected to 10.0 mg/dL after administration of a denosumab injection.
+
+# IMPACT/DISCUSSION:
+
+This case demonstrates the intricate care and teamwork needed to care for a patient with a complicated clinical course. Approaching the treatment of hypercalcemia in a stepwise manner with attention to AKI resulted in improvement. Previously, hypercalcemia has been reported with PJP in many case reports. Ling et al. presented cases of PJP-induced hypercalcemia. It has been suggested that in PJP, interferon-induced alveolar macrophage activation of 1-hydroxylase converts 25-(OH) vitamin D to active 1,25-(OH)2 D3. In turn, activated vitamin D3 increases Ca2+ absorption from the intestine and bone. PTH is suppressed as the normal inhibitory feedback mechanism is not affected.
+
+# CONCLUSION:
+
+We present a particularly resistant case of PJP-induced hypercalcemia, which resolved with a single denosumab injection. Reference: Ling, Jonathan, et al. "Hypercalcaemia preceding diagnosis of Pneumocystis jirovecii pneumonia in renal transplant recipients." Clinical kidney journal 10.6 (2017): 845-851.
+
+# HYPERCALCEMIA IN SETTING OF MILK ALKALI SYNDROME
+
+Nihar Shah1; Khary Edwards1; Toishi Sharma1; Jennifer Baldwin2. 1University of Connecticut, Hartford, CT; 2University of Connecticut, Farmington, CT. (Control ID #3186273)
+
+# LEARNING OBJECTIVE #1:
+
+Milk-alkali syndrome refers to a triad of hypercalcemia, metabolic alkalosis and acute kidney injury caused by the excessive ingestion of calcium and base - typically in the form of milk and calcium-containing antacids. It was common prior to the introduction of histamine-2 antagonists and proton pump inhibitors for the treatment of peptic ulcer disease. A resurgence has been seen now with the widespread availability of calcium supplements.
+
+# CASE:
+
+We present a case of a 49-year-old female who was sent by her primary care physician (PCP) after she was found to have a calcium level of 15.7 mg/dL. She endorsed a one-week history of decreased appetite, generalized weakness and increased lethargy. Past medical history was significant for GERD for which she took 2 g of over-the-counter Calcium Carbonate daily over the past 30 years. She had also been started on a thiazide diuretic one month prior to her presentation. She denied any history of renal disease or malignancy. Physical exam was only significant for a psoriatic rash on her bilateral lower extremities. On admission, her laboratory results were significant for an elevated creatinine of 1.6 mg/dL (her baseline was 0.9 mg/dL), Calcium of 14.8 mg/dL, bicarbonate of 33 meq/L. EKG showed a normal sinus rhythm with a QTc of 414 ms. She was admitted for management with aggressive IV fluid hydration and she was also given one-time doses of calcitonin and zoledronic acid. Her hospital course was complicated by fever to 102.6 and diarrhea thought to be secondary to zoledronic acid. These symptoms resolved and at discharge, her serum calcium was 8.3 mg/dL. She was started on a proton pump inhibitor and counseled to stop taking calcium carbonate tablets. Three days following discharge, she was sent by her PCP once more for assessment of a calcium level of 7.6 mg/dL and phosphate of 1.5 mg/dL. She was treated with 1 g IV calcium gluconate and discharged. Laboratory results two days later showed a calcium of 8.1 mg/dL.
+
+# IMPACT/DISCUSSION:
+
+Milk-alkali syndrome represents the third most common cause of hypercalcemia. Excessive intake of calcium leads to vasoconstriction of the afferent renal arterioles, decreased GFR and decreased ability to filter calcium. This is only exacerbated by introduction of a thiazide diuretic, further reducing calcium excretion. Zoledronic acid can cause delayed hypocalcemia as in this case, making close monitoring important. This case highlights the importance of a thorough medication history and the need for patient education on over the counter medication use.
+
+# CONCLUSION:
+
+This case highlights how fluid resuscitation forms the cornerstone of initial management of hypercalcemia and highlights that use of bisphosphonates in the acute setting should only be initiated in refractory or severely symptomatic cases. It also re-emphasizes how dangerous over-the-counter medicines can be as well as the importance of thorough medication history and medication reconciliation to avoid potential dangerous drug-drug interactions.
+
+# HYPERCALCEMIA OF MALIGNAN-D: A CASE OF VITAMIN-D MEDIATED HYPERCALCEMIA IN LYMPHOMA
+
+Maham Awan1; Shannon Devlin1; Simerjot K. Jassal1, 2. 1University of California San Diego, San Diego, CA; 2VASD, San Diego, CA. (Control ID #3186430)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize mechanisms of hypercalcemia in lymphoma
+
+# LEARNING OBJECTIVE #2:
+
+Review treatments of hypercalcemia in malignancies
+
+# CASE:
+
+An 86-year-old man with splenic marginal zone lymphoma was admitted with hypercalcemia and acute kidney injury. Presenting symptoms

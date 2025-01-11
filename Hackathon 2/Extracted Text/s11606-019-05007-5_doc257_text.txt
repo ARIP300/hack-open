@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Human insulin (Regular, Neutral Protamine Hagedorn (NPH), 70/30 Regular/NPH mix), is available over-the-counter at a relatively low cost. Recent reports in the news media have indicated that some patients with limited to no insurance coverage rely on human insulins for treatment. Such patients are also at risk for poor diabetes outcomes. Using a nationally representative, publicly available data set, we sought to examine whether there were sociodemographic differences in patients who use human insulin versus insulin analogues and whether the type of insulin used was associated with differences in glycemic control or hospitalization.
+
+# METHODS:
+
+This study was a cross-sectional analysis of the National Health and Nutrition Examination Survey (NHANES), a publicly available data set compiled and maintained by the Center Disease Control and Prevention's (CDC) National Center for Health Statistics (NCHS). Data was selected from four survey cycles (2007-2014) for participants who had interview and examination data, were 21 years and older, and reported current use of insulin. Participants were divided into three groups based on insulin formulation (human only, analogue only, and combination human/analogue insulins). Outcomes of interest were HbA1C and self-reported hospital utilization in the past 12 months. With insulin type as a predictor of interest, we controlled for potential confounders that were associated with our outcomes of interest.
+
+# RESULTS:
+
+Out of 802 respondents who report current insulin use, 698 reported the type of insulin used (human only n=162; analogue only n=500; and human/analogue combination n=36). In our bivariate analysis we found that respondents who used human insulin were more likely to identify as non-Hispanic African American than non-Hispanic White (38.9% vs 28.8%, p=0.002) and were less likely to be college graduates (9.9% vs 14.6% p=0.024). Although not statistically significant, respondents who reported an insurance lapse in the past year and those with marginal food security were more likely to report use of human insulin compared to analogue insulin (8.5% vs 3.8% p=0.087; 14.9% vs 11.8% p=0.236). There was no significant association between insulin type and glycemic control as measured by HbA1c. After multivariate adjustment, use of human insulin was not associated with differences in HbA1c or rate of hospitalization.
+
+# CONCLUSIONS:
+
+In a nationally representative sample of patients with diabetes who use insulin, we found that use of human insulin was more common among patients who had characteristics associated with low socioeconomic status, such as minority race, lower education, unstable insurance and food insecurity. However, we did not observe differences in outcomes. Our findings suggest that human insulins may offer similar glycemic control, potentially at lower cost. However, further research should be conducted to understand outcomes for specific populations of patients of low socioeconomic status who appear to use human insulins at higher rates.
+
+# SOLO SE VIVE UNA VEZ (YOU ONLY LIVE ONCE): A CAMPAIGN TO IMPROVE HIV TESTING AMONG LATINX IN BALTIMORE
+
+Harita Shah; Suzanne M. Grieb; Alejandra Flores-Miller; Kathleen Page. Johns Hopkins University, Baltimore, MD. (Control ID #3162751)
+
+# BACKGROUND:
+
+Of the 263,000 Latinx with HIV in the US, one fifth are unaware of their infection. Consistent with national trends, Baltimore City Health Department (BCHD) data show that HIV-infected Latinx in Baltimore are more likely to be diagnosed late than any other racial/ethnic groups. In prior studies, we demonstrated prominent barriers to HIV screening among Latinx in Baltimore include HIV stigma, cultural/linguistic discordance, lack of insurance, and fear of deportation. Interventions that include complementary individual and community components have been shown to improve HIV testing rates; thus, we partnered with BCHD to create the Solo Se Vive Una Vez campaign to increase HIV screening rates among Latinx in Baltimore. The present study assessed reach of the campaign and its impact on people's decision to get tested.
+
+# METHODS:
+
+From July to December 2018, we implemented the Solo Se Vive Una Vez campaign across Baltimore. On an individual level, the campaign centers on a website (solovive.org) addressing barriers to testing and offering rapid HIV testing with bilingual outreach workers. On a community level, the campaign was advertised through social media, dating apps, community events, buses, billboards, and radio. We conducted cross-sectional surveys of Latinx adults obtaining HIV testing at the BCHD clinic and outreach before (n=78) and after (n=315) the campaign launch. Surveys assessed demographics, HIV testing history, exposure to the campaign, and influence of the campaign on the decision to get tested. Sexual risk behaviors and PrEP information were obtained from BCHD medical records by trained research assistants. Characteristics of the population exposed to the campaign versus not exposed were compared using t-test and chi squared analyses.
+
+# RESULTS:
+
+34% (106) of respondents surveyed after the campaign launch reported exposure to the Solo Se Vive Una Vez campaign, compared to 0% in the baseline surveys. Of those exposed to the campaign, 86% reported that it positively influenced their decision to get tested. Respondents who had campaign exposure had significantly higher numbers of sexual partners and rates of paying drugs/money for sex (p<0.05). The most common channels for exposure included Facebook, the website, and community events. 9,790 unique users have visited the website to date, and 127 unique users requested HIV testing through the website. 89% of Latinx surveyed had never heard of PrEP and were provided PrEP information.
+
+# CONCLUSIONS:
+
+Solo Se Vive Una Vez is Baltimore's first Spanish-language public health campaign promoting HIV screening among Latinx. It achieved comparable rates of exposure to other campaigns addressing HIV testing in Latinx. The campaign positively influenced the majority of testers exposed to it to get tested, including Latinx with high risk sexual behaviors. Based on the survey cohort, an estimated 29% got tested due to the campaign; BCHD surveillance data is currently being tabulated to measure effect on testing rates for Latinx in Baltimore.
+
+# SOURCE OF DIABETES KNOWLEDGE INFORMATION AND ITS IMPACT ON SELF-MANAGEMENT BEHAVIOR AMONG OLDER US ADULTS.
+
+Jennifer A. Campbell1; Emma Garacci2; Leonard E. Egede1. 1Medical College of Wisconsin, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3177601)
+
+# BACKGROUND:
+
+Diabetes Self-Management (DSM) is a key part of diabetes care and critical to maintaining optimal outcomes. Effective DSM requires knowledge, skills, and understanding of lifestyle changes to address modifiable risk factors that lead to diabetes complications. Diabetes knowledge information can be accessed from a number of sources outside of the diabetes care team including internet, magazines, television, and friends. Understanding how these sources of knowledge for diabetes may impact DSM behaviors has important implications for diabetes care and DSM Education practice.
+
+# METHODS:
+
+Data from 1,901 adults from the Health and Retirement Survey (HRS) 2003 diabetes cohort was used. The outcome, DSM behaviors included medication adherence, diet, and blood sugar testing. The primary independent variable was source of diabetes information. This included patients reporting how often they received diabetes information from the following: television, internet, newspaper or magazines, books, and friends. Survey logistic regression models tested the likelihood of performing recommended DSM behaviors, and whether source of information was associated with DSM behaviors. The model controlled for age, gender, race, education, and marital status.
+
+# RESULTS:
+
+The mean age of the population was 70 years. The majority of the population were non-Hispanic White (76%), and 44% of participants had at least a high school diploma. Patients reporting the internet as a source of diabetes information was significantly related to lower odds of medication adherence for taking recommended medication (OR 0.37; CI 0.21-0.65), as well as taking recommended dose (OR 0.43; CI 0.24-0.76). Patients reporting television (OR .68; CI 0.51-0.91), newspapers/magazines (OR

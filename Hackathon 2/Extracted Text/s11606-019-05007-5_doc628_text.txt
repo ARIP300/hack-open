@@ -1,0 +1,55 @@
+# FOOD FOR THOUGHT: CREATING ACCESSIBLE FOOD PHARMACIES FOR AT-RISK POPULATIONS
+
+Divya Venkat1; Veli Bakalov1; Herman Singh3; Courtney Watson2; Colleen Ereditario2; Bruce Ling2; Elizabeth Cuevas2, 1. 1Allegheny General Hospital, Pittsburgh, PA; 2Center for Inclusion Health, Pittsburgh, PA; 3Allegheny Health Network, Pittsburgh, PA. (Control ID #3183890)
+
+# GETTING PATIENTS IN THE DOOR: USING MACHINE LEARNING TO INCREASE PATIENT ENGAGEMENT IN RESIDENT CONTINUITY CLINIC
+
+Roma Bhatia; Zachary Lenhart; Patrick Lynch; Dang Tran; Janice A. Cunningham; Gary Fischer; Jaishree Hariharan. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3180738)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Approximately 47% of the population in Pittsburgh experiences difficulty accessing food and has the fourth highest rate of obesity in America.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To improve access to healthy foods in low income populations.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Healthy Food Center was implemented due to a need for food banks for an obese and medically complex population. Through this program, patients receive a referral from a provider and can visit the healthy food center. On-site, a registered dietician tailors each patient's nutrition plan to their comorbid conditions. The food bank provides fresh vegetables, fruits and low sodium goods. Patients are then given 2-3 days worth of food based on family size. From here, patients are given resources to food pantries and boxed food programs. Additionally, patients are given directions on how to shop on a budget and tips on healthy cooking. Patients are also provided with help on completing forms for food assistance programs as needed.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Success of this intervention is based on the determination of whether visiting patients had weight loss, change in BMI or HbA1c level.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A total of 137 were referred over the period of May 2018 to November 2018. This study included 55 patients with three-month follow up appointment. A majority of patients were females (98(71.5%)) and 90 (65.7%) patients had households less than 2 people. Our patients were referred from diabetic center (37.2%), in network PCP (21.9%) and bariatric center (10.2%). 66.7% had diabetes, 49.6% had hyperlipidemia, 50.3% hypertension, 8.8% kidney disease, 8.8% with heart disease. 22.6% of the patients followed low sodium diet, 30.7% met with dietitian and 33.6% were involved in weight management. Mean BMI at baseline was 36.5 and 35.9 at three month follow up. The majority of patients (40(72.7%)) had a BMI above 30. Among our patients, 33 (60.0%) patients had a 1.7 decrease in BMI and 22 (40.0%) patients had 0.7 increase in BMI. Mean weight at baseline was 232.1 pounds and at three months follow up mean weight was 234.6 pounds. Average weight loss was 7.7 pounds and was seen in 30 (54.5%) patients, while 25 (45.4%) patients gained mean 3.8 pounds. Hb A1c was checked at the first appointment and repeated in 3 months in a total of 27 patients. In 3 months follow up there was no significant HbA1c change and it was not significantly different with change in weight.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Our study demonstrates that 60% of the patients visiting food bank had 1.7 decrease in BMI, and 54.5% of the patients lost 7.7 pounds. Using a food pharmacy that incorporates a dietician at the recommendation of physicians allows patients to engage in healthy eating while obtaining affordable foods. To further determine our results, follow up would need to be performed at 6 months and one year to evaluate hemoglobin A1C.
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite having an established automated phone reminder system in place for patients, in one large academic primary care clinic, the annual no show rate (NSR) averages 27% for residents' panel patients (RP) versus 12% for faculty panel patients (FP) in the same clinic.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Continuity clinic is a crucial yet fragmented component of internal medicine training. One major contributing factor is the disproportionate number of missed appointments by RP versus FP. This not only results in poor continuity of care for patients but also decreased learning opportunities for residents. The primary objective of this study is to determine if implementation of a targeted nurse led phone based appointment reminder intervention for patients can reduce the number of missed appointments by RP.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This urban primary care clinic involves 60 residents who see 3100 patients annually. Residents have one full clinic day weekly for 4 week periods, and see 10-12 patients per full clinic day. Compared to FP who are 71% White and 23% Black/Asian, RP are racially heterogenous: 44% are White and 52% of are Black/Asian. In addition, RP are more likely to not have insurance at all or have medical assistance compared to FP (44% vs. 17%). Usual care for both RP and FP involves an automated phone call appointment reminder that is sent 72 hours prior to their scheduled visit. For the intervention, a machine learning algorithm was utilized to identify RP who were most likely to miss their appointments. This was developed by the health system using 1.7 million office visits with the target of predicting which patient appointments will be missed. RP with at least 20% chance of missing their appointment were contacted by the nurse 48 hours prior to their scheduled appointment in addition to usual care. Voicemails were left if patients were not reached.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The number of patients called, and the outcome of these calls were recorded. The average no show rate, and percent of completed visits was calculated pre and post intervention based on the total number of appointments made and the total number of appointments attended by RP.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+During the 10 weeks of intervention, a total of 346 RP were called and 64% were reached (n= 222/346). 86% confirmed their appointments (n= 192/222) while 14% either rescheduled or canceled (n= 30/226) therefore opening slots for other patients. 54% of patients who confirmed attended their appointment (n= 104/192). Compared to pre-intervention, the NSR for RP was 22% (vs 27%) and the completed patient visits averaged 78% (vs. 74%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+This intervention decreased the RP NSR by 5%, increased the overall completed visits, and correspondingly increased the number of patients seen in clinic by residents. Compared to FP who may be

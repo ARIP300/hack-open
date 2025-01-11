@@ -1,0 +1,52 @@
+# ABSTRACTS
+
+# USE OF STANDARDS FOR ADULT IMMUNIZATION PRACTICE AMONG PRIMARY CARE PHYSICIANS
+
+Laura P. Hurley1,2; Sean T. O'Leary2,5; David K. Kim3; Lori A. Crane4,2; Michaela Brtnikova2,5; Brenda Beaty2; Amy Parker Fiebelkorn3; Megan C. Lindley3; Allison Kempe2,5.
+1Denver Health, Denver, CO; 2Adult and Child Consortium for Health Outcomes Research and Delivery Science (ACCORDS), Aurora, CO; 3Centers for Disease Control and Prevention, Atlanta, GA; 4University of Colorado Anschutz Medical Campus, Aurora, CO; 5Children's Hospital Colorado, Aurora, CO. (Control ID #3165051)
+
+# BACKGROUND:
+
+In 2014 the National Vaccine Advisory Committee (NVAC) updated Standards for Adult Immunization Practice ("Standards") which consists of (1) assessing immunization needs at every visit, (2) strongly recommending needed vaccines, (3) administering vaccines or referring patients for vaccination, and (4) documenting receipt of vaccinations in an immunization information system (IIS). Our objectives were to 1) assess the extent of implementation of the Standards by primary care physicians and 2) describe the characteristics of primary care physicians who reported implementing the Standards.
+
+# METHODS:
+
+In December 2015-January 2016, we administered an Internet and mail survey to national networks of 480 general internist (GIM) and 455 family physician (FP) members of the American College of Physicians and American Academy of Family Physicians, respectively. Stocking was considered a proxy for administering. We performed multivariable logistic regression to examine associations between adhering to the Standards and demographic and practice characteristics.
+
+# RESULTS:
+
+Response rate was 68% for GIM (324/480) and 64% for FP (293/455). 32% of GIM and 25% of FP had read the NVAC Standards. The majority of GIM (57%) and FP (54%) reported assessing immunization needs at every visit. Table 1 shows physician recommendations for, stocking of, and stocking or referring for several recommended adult vaccines. 27% of GIM and 46% of FP reported documenting vaccinations in an IIS. 6% of GIM and 11% of FP reported adhering to all components of the Standards. Characteristics associated with adhering to all four Standards included FP specialty (OR 2.04, 95% CI 1.09-3.84) and having an electronic clinical decision support system to determine if a patient needs a seasonal influenza vaccine (OR 2.70, 95% CI 1.27-5.74).
+
+# CONCLUSIONS:
+
+While the majority reported stocking almost all recommended adult vaccines and several had read the Standards shortly after publication, very few primary care physicians are implementing all components of the Standards for routinely recommended adult vaccines. FP might be more likely to adhere to the Standards because they are more familiar with IIS as a result of using them for childhood vaccines. Development of electronic systems to support full implementation of the Standards may help improve adult immunization rates.
+
+# NOVEL RISK FACTORS FOR FALLS IN OLDER ADULTS EXPERIENCING HOMELESSNESS: RESULTS FROM THE HOPE HOME COHORT STUDY
+
+Elizabeth Abbs1; Rebecca Brown2; David Guzman1; Claudia Ponath1; Lauren M. Kaplan1; Margot Kushel1.
+1University of California, San Francisco, San Francisco, CA; 2University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA. (Control ID #3180782)
+
+# BACKGROUND:
+
+The median age of homeless adults is increasing, with half 50 years. Homeless older adults are at high risk for developing geriatric conditions, including falls, prematurely. Despite high morbidity and mortality, little is known about risk factors for falls in this population. Among older adults, risk factors include individual factors (e.g. cognitive and functional impairment, sensory disabilities, alcohol use, and social isolation) and environmental factors (e.g. uneven surfaces, lack of lighting). People experiencing homelessness have a high prevalence of established fall risk factors and face complex environmental conditions. In addition, they have a high prevalence of potential novel risk factors, including living unsheltered, drug use, and physical assault. In a longitudinal cohort of homeless older adults, we examined the prevalence of and risk factors for falling.
+
+# METHODS:
+
+We recruited 350 homeless adults aged 50 in Oakland, California. We interviewed participants every 6 months for 3 years about falls, housing and shelter status, health status, health-related behaviors and social support. We assessed prevalence, frequency, and severity of falls. Using generalized estimating equations (GEE), we assessed risk factors for falling one or more times in the prior 6 months over the course of 3 years. In addition to established risk factors (race/ethnicity, sex, age, chronic diseases, functional status, urinary incontinence, use of assistive devices), we assessed potential novel risk factors (spending any nights unsheltered, illicit substance use, and experiencing physical assault).
+
+# RESULTS:
+
+Of the 350 participants, the majority were men (77.1%) and black (79.7%). The median age was 58 (IQR 54.0, 61). At the baseline interview, one-third (33.7%, 118) reported having fallen in the prior 6 months. Of those who fell, over one-quarter (28.0%, 33/118) experienced 4 or more falls and one-third (33.1%, 39/118) required medical evaluation. At study follow-up visits, between 23.1 to 31.2% of participants reported a fall. In GEE models, established risk factors (non-black race, women, older age, prior stroke, functional impairment, urinary incontinence, use of assistive devices) were associated with having fallen. In addition, novel risk factors, including spending any nights unsheltered, (AOR = 1.42, 1.10-1.83), cannabis use (AOR = 1.93, 1.47-2.55), opioid use (AOR = 1.64, 1.02-2.65), and experiencing physical assault (AOR = 1.67, 1.18-2.37) were associated.
+
+# CONCLUSIONS:
+
+Older homeless adults experience a high prevalence of falls. While established risk factors increase the odds of falls, environmental stressors and novel risk factors also contribute risk. Fall prevention efforts in older homeless adults should target those at highest risk. Interventions focused on modifiable risk factors, such as housing, exposure to violence, and substance use could reduce morbidity and mortality due to falls.
+
+# OBESITY, ANGIOTENSIN AXIS BLOCKADE AND ACUTE KIDNEY INJURY IN ORTHOPEDIC SURGERY
+
+Matthew Hennrikus3; William Hennrikus4; Erik B. Lehman2; Katelyn McCann; Eileen Hennrikus1.
+1Penn State College of Medicine, Hershey, PA; 2Pennsylvania State University, Hershey, PA; 3Tulane University Medical School, New Orleans, LA; 4Walter Reed National Military Medical Center, Bethesda, MD; 5University of Massachusetts Medical School, Worcester, MA. (Control ID #3163103)
+
+# BACKGROUND:
+
+Acute kidney injury (AKI) occurs with a 7-11% incidence following adult orthopedic surgery. It remains controversial whether perioperative angiotensin axis blockade (AAB) with angiotensin converting enzyme inhibitor (ACEI) or angiotensin receptor blocker (ARB) drugs contributes to AKI. We examined the relationships amongst AKI, AAB, and obesity in orthopedic surgery.

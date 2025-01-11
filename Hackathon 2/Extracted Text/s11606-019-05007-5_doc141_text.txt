@@ -1,0 +1,43 @@
+# HOME MODIFICATIONS AND AGING IN PLACE: RESULTS FROM THE NATIONAL HEALTH AND AGING TRENDS STUDY
+
+Cynthia Schoettler1, 2; Edward R. Marcantonio4; David M. Levine3.
+
+1BIDMC, Boston, MA; 2Veteran's Health Administration - Boston, Boston, MA; 3Brigham and Women's Hospital, Boston, MA; 4Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3183132)
+
+# BACKGROUND
+
+Most older adults wish to remain in their own homes, termed aging in place. Numerous barriers to this exist, including functional limitations and housing not designed to meet the needs of persons with limited physical abilities. Addressing functional limitations with home modifications (HMs) may be a way for older adults to delay transition out of their home to a more institutionalized setting (e.g., nursing home or assisted living facility).
+
+# METHODS
+
+The National Health and Aging Trends Study (NHATS) is a nationally-representative longitudinal prospective cohort of community dwelling Medicare beneficiaries aged 65 years and older. Data from 2011-2017 were analyzed. Cox proportional hazards survival analysis was used to compare time living in the community of those with HMs to those without HMs. HMs were defined as the presence of at least one of: bath grab bar, toilet grab bar, shower seat, raised toilet seat, stair lift, or entrance ramp. Models were: unadjusted, minimally adjusted (age, gender, race/ethnicity, income, and education), heavily adjusted (minimally adjusted variables plus partner status, census division, living alone, number in social network, Medicaid, Tricare, self-rated health, number of comorbidities, recent hospitalization, recent fall, worry about falls, short physical performance battery (SPPB) score, and number of activities of daily living (ADLs) requiring help), and function only (falls, worry about falls, SPPB score and ADL help).
+
+# RESULTS
+
+Data from 10,949 participants were analyzed. 65% of the participants had at least one HM in place at time of study entry, this increased to 81% by the time of participant exit from the community. At study entry those with HMs were more likely to be older (42% 80 yrs Vs 22% in the population without HMs; p < 0.01), female (59% Vs 54%; p< 0.01), Caucasian (69% Vs 62%; p< 0.01), widowed (34% Vs 25%; p< 0.01), have more comorbidities (mean sum comorbidities 3.74; 95% CI 3.67 - 3.80 Vs 3.07; 95% CI 2.99-3.14), lower mean SPPB score (6.57; 95% CI 6.47-6.68 Vs 7.94; 95% CI 7.80-8.08), and require help with ADLs (mean sum ADLs requiring help 1.36; 95% CI 1.33-1.39 Vs 1.12; 95% CI 1.10-1.14). Having a HM was associated with shorter time to institutionalization in unadjusted (HR 1.35; 95% CI 1.21-1.51) and minimally adjusted (HR 1.88; 95% CI 1.44-2.46) models. The function only model showed longer time to institutionalization (HR 0.74; 95% CI 0.65-0.84), but not in the heavily adjustment model (HR 1.30; 95% CI 0.92-1.84).
+
+# CONCLUSIONS
+
+Multivariate survival analysis suggests that home modifications may delay transition to an institutionalized setting for those with reduced physical function. However, the effect of HMs may further be complicated by additional confounding by indication not adequately controlled for. More detailed study of the effect of home modifications on aging in place is needed.
+
+# HOMELESS VETERANS RATE PRIMARY CARE MORE FAVORABLY IN HOMELESS-TAILORED COMPARED TO MAINSTREAM PRIMARY CARE CLINICS: A NATIONAL SURVEY
+
+Stefan Kertesz1, 3; Audrey Jones5, 6; Aerin DeRussy; Lillian Gelberg; Ann1 E. Montgomery1, 3; April E. Hoge1; Allyson Varley1, 3; Sally Holmes1; Sonya Gabrielian2; Kevin R. Riggs1, 3; Erika Austin1, 3; John R. Blosnich4; Adiseshu Gundlapalli5, 6; Adam Gordon5, 6; Young-il Kim1, 3.
+
+1Birmingham VA Medical Center, Birmingham, AL; 2VA Greater Los Angeles Health Care System, Los Angeles, CA; 3University of Alabama at Birmingham, Birmingham, AL; 4Pittsburgh VA Medical Center, Pittsburgh, PA; 5VA Salt Lake City Health Care System, Salt Lake City, UT; 6University of Utah, Salt Lake City, UT. (Control ID #3179350)
+
+# BACKGROUND
+
+People experiencing homelessness face challenges in accessing primary care and difficulties related to care coordination and stigma.
+
+# HOSPITAL BASED ENGAGEMENT OF PATIENTS WITH OPIOID USE DISORDER
+
+Susan L. Calcaterra. University of Colorado, DENVER, CO. (Control ID #3186908)
+
+# BACKGROUND
+
+Individuals with opioid use disorder (OUD) have high hospitalization rates which presents an opportunity to initiate OUD treatment in the hospital. Hospitalists care for most hospitalized patients in the United States, yet little is known about their practices and beliefs regarding OUD treatment. We hypothesized that OUD treatment varies widely among hospitalists, however, with sufficient support and training, hospitalists would routinely initiate medications for OUD and link patients to addiction treatment.
+
+# METHODS
+
+From October through November 2018, we conducted an anonymous online survey of academic hospitalists across the US. We identified a convenience sample of Hospital Medicine Division Chiefs and requested they email the survey to their hospitalist peer networks using a snowball.

@@ -1,0 +1,77 @@
+# DISABILITY AND ABLEISM IN MEDICINE: A CURRICULUM FOR FIRST-YEAR MEDICAL STUDENTS
+
+Hannah M. Borowsky 1; Leora Morinis 1; Megha Garg 2, 1. 1 University of California San Francisco, San Francisco, CA; 2 San Francisco VA Medical Center, University of California San Francisco, San Francisco, CA. (Control ID #3186092)
+
+# NEEDS AND OBJECTIVES:
+
+By the end of this session, students will:
+
+1. Explain possible influences of disability on patient health and clinical encounters
+2. Compare and contrast the medical and social models of disability
+3. Discuss the meaning and manifestations of ableism
+4. Recognize the ways in which ableism contributes to health and health care disparities
+5. Brainstorm solutions through which medical communities can address ableist norms and practices
+6. Reflect on their relationship to disability and how it could impact their future clinical practice
+
+# SETTING AND PARTICIPANTS:
+
+We designed and implemented a 2-hour course for all UCSF first-year medical students, divided into groups of 12, with one faculty-facilitator. The session is now a permanent part of the UCSF Bridges Health and the Individual block, a three week course dedicated to social and behavioral foundational sciences.
+
+# DESCRIPTION:
+
+Founded on the belief that medical education can provoke personal, professional, and systemic change, we developed a "Disability and Ableism in Medicine" curriculum to offer medical students a new lens through which to understand themselves and their future patients. Our small group session was designed to equip students with tools to care for patients with disabilities and to identify ableism—a worldview that values autonomy, and perceives disabilities as deficits to be ideally overcome. We included four key activities:
+
+- norm-setting;
+- student-led group presentations on: health and healthcare disparities, disability history and policy, disability and intersectionality, and disabilities amongst medical professionals;
+- brainstorm of interventions for overcoming healthcare barriers and biases;
+- privilege awareness exercise.
+
+The course materials acknowledged that members of the UCSF community have disabilities and that medical school has historically been a difficult environment in which to be open about them.
+
+# EVALUATION:
+
+The session's mean value was 4.58 on a 5-point scale (n=45 students). A pre- and post-session paired-sample t-test (n=17) indicated significant increases in students' self-reported understanding of ableism (p=0.002) and confidence in assessing barriers to care for patients with disabilities (p<0.001). Faculty facilitators reported that the session provoked powerful student-centered learning, leadership, and widespread participation.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our curriculum on disability and ableism introduces a crucial topic often absent from medical training. By drawing on input from disability scholars, community members, and advocates in the design of this curriculum, students encountered perspectives not always included in medical education. These perspectives prompted students to connect individual experience to structural determinants, spurring new thinking about medicine and advocacy. Being second-year medical students at the time we developed the curriculum also greatly influenced the way we structured our course, illustrating the ways in which near-peer curriculum development can uniquely address certain educational needs.
+
+# DOCUMENTATION OF LEARNING OUTCOMES TO GRANT MAINTENANCE OF CERTIFICATION CREDIT FOR PARTICIPATION IN MORBIDITY AND MORTALITY CONFERENCE
+
+Kelly A. Kieffer1, 2; Harley Friedman1, 2. 1Dartmouth-Hitchcock Medical Center, Lebanon, NH; 2Geisel School of Medicine at Dartmouth, Lebanon, NH. (Control ID #3180179)
+
+# NEEDS AND OBJECTIVES:
+
+Morbidity and Mortality Conference (M&M) can provide a positive environment for discussion of unexpected negative outcomes and medical error, and can incorporate learning related to the clinical content of a case, the diagnostic reasoning process, and strategies to promote patient safety. Continuing Medical Education (CME) providers offering credit for M&M can also offer Maintenance of Certification (MOC) credit through a 2015 collaboration of the American Board of Internal Medicine (ABIM) and the Accreditation Council of Continuing Medical Education (ACCME). Granting MOC requires a formative assessment process including feedback, which can be challenging in the context of a large group interactive format.
+
+# SETTING AND PARTICIPANTS:
+
+Internists enrolled in ABIM MOC who participate in the Department of Medicine Morbidity, Mortality and Improvement conference at Dartmouth-Hitchcock Medical Center in Lebanon, New Hampshire.
+
+# DESCRIPTION:
+
+We developed MOCME, an assessment process incorporating a web-based tool that uses only open source resources. The tool enables physicians to document learning outcomes, receive feedback, and earn MOC credit. Users log in after each M&M conference, complete an evaluation, and reflect on what they learned and how it will change their practice. The conference facilitator reviews all entries, assesses MOC eligibility, and enters a summary of key learning points that is emailed to participants. A report of MOC eligible physicians is routed to the institutional CME office for submission to the ACCME.
+
+# EVALUATION:
+
+In 15 months, 518 of 525 MOC requests by 53 physicians were approved; 7 were declined due to insufficient quality of reflective statements regarding participants' learning. A median of 3 points were approved per physician. 84% of respondents to an anonymous survey felt that the system is easy to use and 86% reported being satisfied with it. 65% agreed that the engaging with MOCME reinforced their learning from M&M. Most respondents take an average of 5 minutes or fewer to complete the process. MOCME added minimal administrative burden for the facilitator.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+MOCME is a user-friendly system that meets ABIM's guidelines for granting MOC for CME. The system could be adapted for other institutions and other types of Regularly Scheduled Series. Further study is needed to identify factors that influence participants to utilize the system and to measure long term learning outcomes and impact on practice. The content of MOCME participants' self-identified learning outcomes provides valuable insight to the facilitator that will inform improvements in the structure and content of the conference to better meet participants' needs.
+
+# DOES A PERSONAL EXPERIENCE INFLUENCE RECOMMENDATIONS BY PRECLINICAL MEDICAL STUDENTS? EFFECTS OF A VIRTUAL DEMENTIA SIMULATION
+
+Arati Kelekar1; Nelia Afonso2. 1Oakland University William Beaumont School of Medicine, Huntington Woods, MI; 2Oakland University William Beaumont School of Medicine, Rochester, MI. (Control ID #3164035)
+
+# NEEDS AND OBJECTIVES:
+
+When faced with clinical decisions, learners with limited experience tend to be linear thinkers and focus mainly on single problems. The objective of this project was to evaluate the influence of a personal experience by preclinical students in a simulated setting on:
+
+- the recognition of the multidimensional nature of clinical problems
+- identification of potential solutions
+- provision of patient centered care.
+
+# SETTING AND PARTICIPANTS:
+
+The Virtual Dementia Tour (VDT)® is a simulation-based sensitivity training program for health care providers to the plight of patients with dementia. This project received IRB approval.

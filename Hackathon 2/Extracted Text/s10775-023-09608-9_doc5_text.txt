@@ -1,0 +1,13 @@
+# International Journal for Educational and Vocational Guidance
+
+health and is positively related to positive personal, psychological, behavioral, social, and interpersonal outcomes (Diener et al., 1985). As life satisfaction is a distal outcome of employability behavior, we expect it to predict all MME dimensions, though with a low magnitude.
+
+The associations between variables were assessed in two steps. First, Pearson correlations were computed to test the bivariate relationships between the MME scores and additional measures. All hypothesized correlations were expected to be moderate, except for the associations with satisfaction with life, which were expected to be weak. Next, multivariate linear regressions were implemented to identify the associations between MME scores with each motivational and emotional feature controlling for the effects of the others. This is a relevant procedure considering that motivational and emotional features are often correlated one to the other (Coscioni et al., 2023). Based on this approach, we were able to identify the best predictors of employability resources among the selected independent variables.
+
+# Methods
+
+# Participants and procedure
+
+Data collection occurred within the framework of the Careers Project (ALG-06-4234-FSE-000047), a partnership for social impact that aims to support employability in Algarve. Participants were unemployed persons invited by a governmental institution responsible for employment policies in Algarve to participate in a career psychological intervention. Those interested in the intervention filled in a survey online, on the Qualtrics platform, from April to May 2022. Participants provided their consent form before answering the survey and the research procedures were approved by an ethical commission from Portugal (CEICSH 002/2022).
+
+Altogether, 226 people responded to the survey. After data management, ten participants were removed, of which seven filled in the same response category in several scales, and three had unusual patterns of responses (i.e., Mahalanobis distance per degree of freedom above 3.0) in three or more scales out of five. Therefore, the answers of 216 participants aged from 18 to 67 years old (M = 42.8, SD = 10.57) were analyzed. Participants were predominantly female (n = 151, 69.9%) and nearly one-fifth (n = 39, 18.1%) were not from Portugal. All participants were fluent in Portuguese, since this was an inclusion criterion for participation in the study. Regarding their qualification degree, 42 (19.4%) had not finished high school, 82 (37.8%) had completed high school, and 91 (42.1%) had a college degree.

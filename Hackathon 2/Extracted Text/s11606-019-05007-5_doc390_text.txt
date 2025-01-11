@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# CASE:
+
+46 year-old woman with hypertension and hypothyroidism came with shortness of breath (SOB) for 1 week. She reported being non-adherent to all medications. On presentation blood pressure (BP) was 202/112 mmHg, heart rate (HR) 62 bpm and Oxygen saturation was 98%. Physical examination was significant for bibasilar crackles. No pedal edema or JVD was found. Initial labs revealed normal troponin but elevated Pro Brain - Natriuretic Peptide. Thyroid function tests (TFT) showed TSH > 100uU/ml and Free T4 0.5 ng/dl. Electrocardiogram (EKG) revealed sinus rhythm and nonspecific ST- T wave changes. Chest X-ray was consistent with pulmonary vascular congestion. She was initially treated for hypertensive emergency with nitroglycerin drip and furosemide. Blood pressure improved but she continued to complain of SOB. Transthoracic Echocardiography (TTE) was done that showed left ventricular hypertrophy (LVH) and large pericardial effusion with evidence of early diastolic right heart collapse. Echo guided pericardiocentesis was done. Her symptoms improved drastically. She was restarted on levothyroxine and her antihypertensives.
+
+# IMPACT/DISCUSSION:
+
+Commonly reported cardiac manifestations of hypothyroidism include decrease in cardiac output, systolic and diastolic cardiac dysfunction, bradycardia and hypertension. Mild pericardial effusion is common, especially in cases of moderate to severe hypothyroidism. However, presentation of severe hypothyroidism as cardiac tamponade is rare. Our case reports an atypical presentation of hypothyroidism as cardiac tamponade and hypertensive emergency. Cardiac tamponade classically presents as Becks' triad of low blood pressure, distended neck veins and distant muffled heart sounds. Interestingly all these signs can be absent in patient with hypothyroidism which makes the diagnosis on clinical presentation even more challenging. Moreover, the classic EKG findings of cardiac tamponade: tachycardia, electrical alternans and low voltage EKG may be absent. Long-standing untreated hypothyroidism can result in increased arterial stiffness leading to hypertrophy giving LVH in EKG. Potential combination of LVH and large pericardial effusion can lead to a normal voltage EKG. Management of early tamponade is currently unclear and can involve medical management with close observation versus pericardiocentesis. Our case required pericardiocentesis for symptom control.
+
+# CONCLUSION:
+
+Severe Hypothyroidism if left untreated can present rarely with cardiac tamponade. Diagnosing cardiac tamponade in a hypothyroid person can be tricky and can delay diagnosis and treatment of this life-threatening presentation. Physicians should keep this rare presentation in mind while managing hypothyroid patients.
+
+# ATYPICAL PRESENTATION OF SQUAMOUS CELL CARCINOMA OF THE LUNG IN A NON-SMOKER
+
+Manasa Kalluri. Kern Medical Center, Bakersfield, CA. (Control ID #3186030)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize risk factors for squamous cell carcinoma of the lung in a never smoker in order to decrease exposure.
+
+# CASE:
+
+A 63-year-old Caucasian male with hypertension was admitted for worsening dyspnea and productive cough. The patient was a never smoker. He had a 40-year occupational history in mechanical special effects for the movie industry, which involved handling chemicals that included propane, asbestos, silica, and diesel fumes. His occupation also involved extensive foreign travel to Hong Kong, Mexico, Brazil, Philippines, Spain, and Africa. The patient had a 6-year history of chronic cough productive that was diagnosed as "post nasal drip". However, over time, sputum became a dry, thick, coarse dark brown material. In the past year his cough became associated with progressively worsening dyspnea. One month prior to admission, he experienced chills, night sweats, and worsening cough for which he was given a course of levofloxacin with minimal relief. At time of admission, the patient's peripheral oxygen saturation level was 92% on 3 L/min of supplemental oxygen. Physical examination revealed positive retractions and diffuse inspiratory and expiratory wheezes. Complete blood count and comprehensive metabolic panel were unremarkable. Chest X-ray showed innumerable small nodular opacities in the lungs bilaterally and patchy confluent alveolar densities in the right lower lobe. Chest CT angiography demonstrated mediastinal and confluent bilateral hilar adenopathy, with calcifications of the tracheal and bronchial cartilage rings. Bronchoscopy was performed and pathology results from biopsy of bronchotracheal tissue and bronchioalveolar lavage washings were significant for squamous cell carcinoma.
+
+# IMPACT/DISCUSSION:
+
+While smoking is the most important risk factor in lung cancers, approximately 10-15% of cases occur in never smokers. An even smaller percentage contribute to prevalence of squamous cell carcinoma of the lung. Lung cancers in never smokers differ from those in smokers in molecular profile and response to targeted therapy. Thus, the identification of environmental risk factors is important in diagnosing lung cancers. Environmental toxins including asbestos, radon, heavy metals and especially diesel fuel are all considerable risk factors for squamous cell carcinoma of the lung. This particular patient had a 40 year exposure to multiple environmental toxins which placed him at increased risk. Low suspicion of lung cancer, because of he is a nonsmoker with an atypical presentation, may have delayed diagnosis and initiation of treatment.
+
+# CONCLUSION:
+
+Importance of understanding occupational hazards patient may be exposed to and providing adequate counseling. Awareness of atypical presentation of squamous cell carcinoma of the lung in non smoker.
+
+# B MINDFUL OF PERSISTENT HYPOGAMMAGLOBULINEMIA AFTER RITUXIMAB TREATMENT
+
+Laurie Edelman; Rachel Solomon. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3184444)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that hypogammaglobulinemia from rituximab can persist long after therapy.
+
+# LEARNING OBJECTIVE #2:
+
+Identify patients at high risk for recurrent infections who may benefit from ongoing immunoglobulin level monitoring.
+
+# CASE:
+
+A 59-year-old woman with history of stage 4 follicular lymphoma, treated with 6 cycles of rituximab-bendamustine followed by rituximab maintenance was observed by her PCP to have recurrent and refractory bacterial infections (including sinusitis, conjunctivitis, and a pneumonia) starting more than a year after completing treatment for her cancer. In between infections, the patient felt well. She denied weight loss, night sweats, fevers, and chills. There was no lymphadenopathy on exam. Objective weight remained stable. Labs including HIV, CBC, CMP and hemoglobin A1C were unremarkable; CT / PET was reassuring against recurrence of disease. However at 18 months post-treatment with rituximab, an immunofixation panel revealed undetectable IgA and IgM and IgG 356 (700-1600). She was referred to an immunologist. Assessment for immunoglobulin functionality revealed low IgG subclass 1 levels. Her titers for MMR, Diphtheria, and pneumococcal IgG were undetectable despite prior vaccinations. A single dose of intravenous immunoglobulin (IVIG) quieted her infections for six months. She then developed severe, recurrent sinus infections. Administration of another dose of IVIG again showed benefit. She continues with active monitoring to determine appropriate treatment intervals.
+
+# IMPACT/DISCUSSION:
+
+Rituximab is a B-cell depleting monoclonal anti-CD20 antibody used to treat Non-Hodgkin Lymphoma, Rheumatoid Arthritis and other autoimmune diseases. While nearly half of the patients who receive rituximab have a decrease in their immunoglobulin levels, very few manifest clinically with severe infections from hypogammaglobulinemia. A small subset will have persistent hypogammaglobulinemia beyond a year. Risk factors include older age, pre-treatment low IgG levels, concomitant chemotherapy, and multiple courses of rituximab. There is currently no guideline for monitoring immunoglobulin levels in patients treated with rituximab nor is there a defined treatment course.

@@ -1,0 +1,31 @@
+# JGIM
+
+# ABSTRACTS
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Increase CRC screening rate from 65.93% to the HEDIS top decile target of 72% by December 31, 2018, at which time financial incentives for the health system will be determined per payer contracts.
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Evidence of goals of care (GOC) conversations between patients and providers are scattered throughout the EHR as free text in clinical notes, making it difficult and time-intensive for providers to find.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In addition to evidence-based interventions for improving CRC screening rates (clinical detailing, offering stool-based testing, patient reminder letters and electronic messages, PCP audit-and-feedback, and patient navigation), we offered medical assistants (MAs) in 9 of 13 primary care clinics a financial incentive of $400 if their respective clinic achieved a CRC screening rate of 72%. MAs in all 13 clinics were trained to utilize an electronic health record report to call overdue patients to 1) document outside results, 2) transfer patients with existing orders to colonoscopy schedulers, or 3) schedule a visit with the PCP to discuss CRC screening. Setting: 13 urban primary care clinics with 69 PCPs totaling approximately 90,000 patient visits per year and 6,904 patients overdue for CRC screening as of October 28th, 2018.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We compared CRC screening rates at the provider-, clinic-, and medical-group level on October 28th, 2018 (prior to announcing MA financial incentives), and December 31st, 2018. To determine the relative impact of MA financial incentives, we compared the percentage of overdue patients screened and the change in screening rates in the clinics in which MAs were incentivized compared to clinics in which MAs were not incentivized.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+As of December 31st, 2018, these 13 primary care clinics screened an additional 1,532 patients totaling 14,895 of 21,317 eligible patients (69.87%), an improvement of 3.94% in this time period. Sixty of 69 physicians (86.96%) improved (range -1.34% to +13.53%). Twelve of the 13 clinics (92.31%) improved (mean 3.12%, range -0.17% to 5.21%). A total of 22 MAs received the financial incentive in 5 of 13 clinics. Clinics that incentivized MAs screened a larger percentage of overdue patients (mean 14.18%, range 7.06% to 20.60%) compared to those that did not (mean 5.13%, range 2.38% to 8.33%). Clinics that incentivized MAs also generally achieved greater improvement in CRC screening rates (mean 3.63%, range 1.59% to 5.21%) compared to those that did not (mean 1.93%, range -0.17% to 4.17%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+As reimbursement models evolve to promote value-based care, health systems will need to utilize healthcare team members to improve quality and avoid PCP burnout. We demonstrated that a large medical group can leverage primary care MAs as panel managers to address care gaps and perform outreach, and the use of modest financial incentives can confer additional improvement in CRC screening rates.
+
+# FINDING NEEDLES IN THE EHR HAYSTACK: DESIGN AND EARLY RESULTS FOR A NATURAL LANGUAGE PROCESSING MODEL TO IDENTIFY CLINICAL NOTES RELEVANT TO A PATIENT'S GOALS OF CARE
+
+Azalea Kim1; Allison Dunning2; Shelley Rusincovitch2; Andrew Olson2; Julie Childers1; Erich Huang2; Ursula A. Rogers2; Brian Griffith1; Lawrence A. Mumm; Qi Liu; Matias Benitez; Jared Lowe1; Ricardo Henao; David1 2 2 2 Casarett1. 1Duke University Health System, Durham, NC; 2Duke University, Durham, NC. (Control ID #3184334)

@@ -1,0 +1,37 @@
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+We identified core elements of C2C program structure and processes, as well as strengths, challenges, and limitations that modulate its effectiveness. Our findings suggest core program elements are likely replicable but depend on both intrinsic qualities and motivations among program staff, as well as structural and interpersonal supports from the healthcare and social system broadly.
+
+# A PILOT STUDY OF A LOW-CARBOHYDRATE DIABETES PREVENTION PROGRAM AMONG ADULTS WITH PRE-DIABETES
+
+Dina H. Griauzde 1, 2; Kaitlyn J. Patterson 3; Tahoora Ansari 1; Patti Bihn 3; Samuel Shopinski 3; Caroline Richardson 1; Laura Saslow 1.
+
+1 University of Michigan, Ann Arbor, MI; 2 VA, Ann Arbor, MI; 3 National Kidney Foundation of Michigan, Ann Arbor, MI. (Control ID #3183918)
+
+# A PEER OBSERVATION OF TEACHING PROGRAM TO OPTIMIZE FEEDBACK ACCEPTANCE BY FACULTY
+
+Alice Tang 1; Sydney Katz 2; Stephanie J. Tang 3; Kendrick Tang 5; David Stern 4.
+
+1 Weill Cornell Medical College, New York, NY; 2 Weill Cornell, Brooklyn, NY; 3 Weill Cornell Medicine | NewYork-Presbyterian Hospital, Long Island City, NY; 4 New York University, New York, NY; 5 Memorial Sloane Kettering, New York, NY. (Control ID #3184735)
+
+# BACKGROUND:
+
+Individuals with prediabetes can prevent or delay progression to type 2 diabetes by losing 5% of their body weight. The Center for Disease Control and Prevention's National Diabetes Prevention Program (NDPP) is a lifestyle change program proven to help individuals lose weight through adherence to a low-fat, calorie-restricted diet. Yet, low-carbohydrate diets may be more effective for weight loss and glycemic control among individuals with prediabetes. This pilot study examined the feasibility, acceptability, and preliminary weight loss efficacy of a Low-Carbohydrate Diabetes Prevention Program (LC-DPP) among individuals with prediabetes.
+
+# METHODS:
+
+This single-arm mixed methods pilot study was conducted at a large, academic primary care clinic. Inclusion criteria were: BMI 25 kg/m2 and prediabetes (defined as HbA1c 5.7-6.4% and absence of diabetes). Eligible participants were identified by chart review and invited to participate by postal letter. We adapted the dietary information in the NDPP's curriculum (16 weekly core sessions, 8 bimonthly/monthly post-core sessions) and trained a lifestyle coach to teach participants to follow a very low carbohydrate diet (< 35 non-fiber grams of carbohydrates per day). Primary outcomes were feasibility (rate of recruitment) and acceptability (session attendance, qualitative interviews). Secondary outcomes were change in weight and hemoglobin A1c at 6- and 12-months.
+
+# RESULTS:
+
+Twelve percent of individuals (21/187) who were invited to participate enrolled in the study and had a mean age of 59 years, BMI of 34.2 kg/m2, HbA1c of 5.9%. Over half (n=12, 57%) of participants were men. All individuals attended 3 or more core sessions and 67% (14/21) attended at least 9 core sessions. At 6 months, mean percent (SD) body weight loss was 4.5(5.0); 46% (10/21) of participants achieved 5% body weight loss and 27% (6/21) achieved 7% body weight loss. At 12 months, mean percent (SD) body weight loss was 5.9 (7.1); 43% of participants (9/21) achieved 5% body weight loss and 36% (8/21) achieved 7% body weight loss. HbA1c decreased by an average of 0.1% at 6 months (n=18) and by an average of 0.3% at 12-months (n=19) compared to baseline. Qualitative interviews (n=13) revealed themes of subjective health benefits (e.g. improved sleep) beyond weight loss and relative ease of learning a low-carbohydrate lifestyle. Barriers included social pressures and concerns about high dietary fat intake. There were no significant changes in physical symptoms (e.g. thirst, constipation). One participant suffered an ischemic stroke.
+
+# CONCLUSIONS:
+
+A LC-DPP is feasible and acceptable among individuals with prediabetes. At 12-months, mean weight loss among our pilot program participants was greater than mean weight loss among participants in traditional NDPPs, as reported in meta-analyses (5.9% vs. 4.0%). A large-scale comparative effectiveness trial is needed.
+
+# A PILOT STUDY OF A PHOTO-BASED INTERVENTION TO PROMOTE DIETARY DISCUSSIONS AMONG OLDER ADULTS WITH MULTIPLE CHRONIC CONDITIONS IN PRIMARY CARE
+
+Jane Jih; Ying Wang; Liliana Chacon; Jasmin Woo; Antony H. Nguyen; Tung T. Nguyen; Christine Ritchie. UCSF, San Francisco, CA. (Control ID #3182021)

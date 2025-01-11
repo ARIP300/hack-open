@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# THE HEART OF THE MATTER: A CASE OF CARDIAC AMYLOIDOSIS PRESENTING AS SYNCOPE
+
+Curtis Kovaleski1; Ami DeWaters2. 1Hershey Medical Center, Hummelstown, PA; 2Penn State Hershey Medical Center, Hershey, PA. (Control ID #3186420)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the clinical presentation of syncope due to cardiac structural disease.
+
+# CASE:
+
+A 73-year old woman presented for syncope without palpitations, prodrome or chest pain. On presentation, pulse was 48, blood pressure 108/66, and oxygen saturation 94%. On exam, she was fatigued with no distress, bradycardic with no murmurs, and had one-plus pitting edema. She had an elevated creatinine of three and a brain naturetic peptide of 257. An electrocardiogram showed a junctional rhythm, low voltage, and bradycardia. A transthoracic echocardiogram was obtained and showed an ejection fraction of 50-55% and a speckled appearance in the hypertrophied left ventricular wall. With suspicion for infiltrative cardiomyopathy, serum protein electrophoresis was sent and returned positive for monoclonal immunoglobulin. Too unstable for cardiac MRI, she underwent a bone marrow biopsy which showed plasma cell myeloma along with a positive congo red stain and she was diagnosed with cardiac amyloidosis associated with plasma cell myeloma. Chemotherapy was started, however after her first dose; she proceeded into anuric renal failure. After discussion with the patient and family, dialysis was discontinued and she proceeded with hospice care.
+
+# IMPACT/DISCUSSION:
+
+Syncope has multiple different etiologies, including cardiac arrhythmias, cardiac structural disease, reflex syncope, and neurologic causes. One way to distinguish cardiac etiologies from other etiologies of syncope is the lack of prodrome. In this case, the patient had no warning signs prior to syncope, which was indicative of a cardiac etiology and initiated a cardiac evaluation that revealed cardiac amyloidosis. In cardiac amyloidosis, extracellular abnormal protein deposits in cardiac tissue leading to diastolic and systolic dysfunction and congestive heart failure. Recognizing the symptoms of diastolic heart failure like syncope is key in early diagnosis which is instrumental in a patient's course. Prognosis is dependent on the number and severity of organs involved, with cardiac involvement carrying the worst prognosis. There is a median survival of six months in untreated patients from onset of congestive heart failure. Therefore, prompt evaluation for amyloidosis is necessary. Initial cardiac work up often includes electrocardiogram and echocardiogram. Cardiac MRI can be very helpful to see diffuse sub-endocardial myocardial enhancement, but definitive diagnosis is best done by cardiac biopsy showing amyloid. However as in the case above, a less invasive bone biopsy with amyloid staining can be done to identify cardiac AL amyloidosis. From staining, accurate typing of amyloid is possible, allowing tailored treatments necessary for targeting the underlying plasma cell disorder.
+
+# CONCLUSION:
+
+Syncope without a prodrome is indicative of a cardiac etiology. Cardiac amyloidosis can present with syncope, and prompt evaluation for cardiac amyloidosis is necessary to avoid poor outcomes.
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features of Hantavirus pulmonary syndrome (HPS)
+
+# LEARNING OBJECTIVE #2:
+
+Manage HPS
+
+# CASE:
+
+64 yr old male with no significant PMH was admitted with C/C of high grade fever, myalgias, vomiting and diarrhea. Patient reported a recent history of travel to Cambodia where he worked in areas of rodent exposure and experienced mosquito bites. On presentation he was hemodynamically stable and had a benign physical exam. Pertinent lab findings included a plt count of 48k, Cr 1.3 and PBS showed 1% parasitemia due to P. vivax. He was started on antimalarials and was admitted for further management. Extensive work up was done to exclude infectious and arthropod borne illnesses. Respiratory biofire, HIV, hepatitis panel and pan cultures were negative. Serology for chikungunya, dengue fever, leptospirosis, RMSF, West Nile and Zika virus was negative. Fungal etiologies were excluded. Patient during hospital course developed respiratory distress with tachypnea, hypoxia and became hypotensive. X-ray chest showed dense bilateral infiltrates. Patient was upgraded to ICU for management of pulmonary edema and was intubated for ventilator support. Echo showed normal left ventricular function. Despite adequate supportive measures patient continued to deteriorate and developed AKI requiring hemodialysis. Repeat PBS showed no organisms. Detection of Hantavirus specific IgM lead to the final diagnosis of HPS. Patient eventually had a tracheostomy and PEG done due to difficulty in weaning off the ventilator and was discharged to an LTAC.
+
+# IMPACT/DISCUSSION:
+
+The diagnosis of HPS was pursued as patient continued to deteriorate despite getting adequate antimalarial treatment concluding that the malaria was probably a red herring in a traveler returning from an endemic area. HPS is a life threatening rodent borne RNA viral infection. Hantaviruses are divided into New and Old World viruses. New World viruses cause HPS mostly in America. Old World viruses cause hemorrhagic fever with renal syndrome (HFRS) localized to Asia and Europe. Our patient met the clinical picture of HPS although being from Asia where HFRS is more common. Presenting features include fever, myalgias, vomiting, diarrhea and abdominal pain with rapid transition to non-cardiogenic pulmonary edema and shock followed by resolution of respiratory and hemodynamic abnormalities in the next few days. Recovery is associated with prolonged weakness. Lab findings include thrombocytopenia, leukocytosis and an atypical lymphocytosis. Diagnosis is dependent upon detection of Hantavirus IgM and IgGs and PCR on blood or detection of Hantavirus Ag on tissue. No specific treatment is available. Supportive care including mechanical ventilation, vasopressors, inotropes and cautious IV fluids are needed in ICU setting.
+
+# CONCLUSION:
+
+Renal involvement in HPS is usually mild, but cases have been reported showing severe disease. This case proves that HPS with severe renal failure may not be as uncommon as once thought.
+
+# THE IDENTITY OF THE MYSTERY ANASARCA: THE DECREASE OF PLATELET COUNTS MAY TELL YOU THE CLUE FOR DIFFERENTIAL DIAGNOSIS.
+
+Ryutaro Nagaya1; Mutsumi Murayama2; Takehiko Takeda1; Hidekazu Takahashi2; Tomokatsu Kato1; Takamasa Tanaka1; Mitsunori Iwase1. 1Toyota memorial hospital, Toyota-city, Japan; 2Toyota memorial hospital, Toyita-city, Japan. (Control ID #3183744)
+
+# THE HUNT THAT TAKES YOUR BREATH AWAY
+
+Syed Mohsin Saghir1; Syed R. Shah2; Arhama A. Malik4; Sobia Syed3. 1UNLV School of Medicine, Las Vegas, NV; 2University of Nevada Las Vegas, Las Vegas, NV; 3Ayub Medical College, Las Vegas, NV; 4UNLV, Las Vegas, NV. (Control ID #3186141)
+
+# LEARNING OBJECTIVE #1:
+
+Identify thrombocytopenia, anasarca, and fever as the triad symptoms in TAFRO syndrome.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the importance of prompt diagnosis and early interventions of TAFRO syndrome.
+
+# CASE:
+
+The patient was a 58-year-old Japanese female without a past medical history. She presented to our emergency department with a chief complaint of

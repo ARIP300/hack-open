@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Perceived Workload of General Practitioners
+
+Questions that measure perceived workload of 11 sociodemographic patient characteristics using a 0-9 Likert scale. Eight of the sociodemographic characteristics were adapted from the Care Need Index (CNI). Three new patient characteristics were added that are relevant to workload in the context of Danish General Practice: early pension, public transfer payment; outside the labor force in job center courses. Exploratory Factor Analysis (EFA) was conducted using principal-component factors method. Additionally, we created an overall perceived workload indicator, weighted by individual patient types.
+
+# RESULTS:
+
+GPs perceived foreign-born patients to contribute the most (6.82 out of 9) and children under 5 to contribute the least (3.59 out of 9) to their perceived workload. Male GPs perceived a higher workload than female GPs. Factor analysis revealed two stable underlying factors, entitled "Economically Disadvantaged" and "Difficult Communication". Weighted overall perceived workload was 5.49 (out of 9).
+
+# CONCLUSIONS:
+
+There is considerable variation in how different sociodemographic patient characteristics contribute to perceived GP workload. The suggested measures of overall perceived workload and underlying constructs of perceived workload may simplify how perceived workload is measured and be used to inform the organization of primary care delivery.
+
+# GEOGRAPHIC PREVALENCE OF ALCOHOL AND BENZODIAZEPINE CO-INVOLVEMENT IN OPIOID OVERDOSE DEATHS, 2015-2017
+
+Marco Tori 1; Timothy S. Naimi 1; Marc Larochelle 2. 1 Boston Medical Center, Boston, MA; 2 Boston University School of Medicine and Boston Medical Center, Boston, MA. (Control ID #3181622)
+
+# BACKGROUND:
+
+1. Compare rates of alcohol and benzodiazepine co-involvement in opioid overdose deaths (OOD) among US states and regions. 2. Describe differences in alcohol or benzodiazepine involvement in prescribed and illicit opioid overdose deaths. From 2015-2017 illicit opioids, mainly heroin and illicitly manufactured fentanyl, were responsible for a majority of OOD in the United States, while prescribed opioids were responsible for a minority. Sedating substances like alcohol and benzodiazepines can compound the respiratory depressant effect of all opioids. Polysubstance use is common among OOD and possibly contributes to excess mortality. The prevalence of alcohol and benzodiazepine co-involvement in OOD is not well described at the national or state level.
+
+# METHODS:
+
+Data from CDC WONDER Multiple-Cause-of-Death files for poisonings involving opioids as an underlying cause of death from 2015-2017 were used to calculate the prevalence of co-intoxication with benzodiazepines and alcohol, among opioid subtypes with respective ICD-10 codes.
+
+# RESULTS:
+
+For all OOD, state ranges of alcohol and benzodiazepine co-involvement were 7.1%-28.6% and 5.2%-44.6%, respectively. Ranges for alcohol co-involvement in illicit OOD were 8.3%-31.0% and 6.8%-27.2% in prescribed opioids. Ranges for benzodiazepine co-involvement in illicit OOD were 3.8%-38.4% and 10.2%-54.7% in prescribed opioids. There is no correlation (Pearson co-efficient r=0.075) between benzodiazepine and alcohol co-involvement in all OOD by state. In 45 states with sufficient data, 35 had higher alcohol co-involvement in illicit OOD, and all states had higher rates of benzodiazepine co-involvement in prescribed OOD.
+
+# CONCLUSIONS:
+
+Involvement of alcohol and benzodiazepines in OOD varies widely among states and opioid type but affects a large percentage of deaths. Alcohol co-involvement is more common in illicit OOD; benzodiazepines are more common in prescribed OOD. There is no relationship between state benzodiazepine and alcohol co-involvement in OOD.
+
+# GET S-M-A-R-T! TEACHING STUDENTS GERIATRIC HEALTH-RELATED GOAL SETTING
+
+Vivianne Oyefusi1; Paula Leslie2; Rachel Jantea3; Pamela E. Toto4; Rollin M. Wright1. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA; 3University of Pittsburgh Medical Center, Pittsburgh, PA; 4University of Pittsburgh School of Health and Rehabilitation Sciences, Pittsburgh, PA. (Control ID #3185838)
+
+# BACKGROUND:
+
+Goal-setting, particularly in geriatrics and primary care, is essential to person-centered care. It is linked to improved outcomes, quality of life and health behavior change. While integral to training in some health professions, we suspected third year medical students (MS3) had not yet learned how to develop health-related goals. There is little published data on how skilled clinicians are at eliciting goals from patients despite the acknowledged importance. We piloted a tool to teach medical and other health sciences students how to develop health-related Specific-Measurable-Assignable-Realistic-Time-based (SMART) goals with community-dwelling older adults.
+
+# METHODS:
+
+Clinical students (including all MS3s) enrolled in an interprofessional geriatrics course sponsored by the University of Pittsburgh School of Medicine participated in a geriatric assessment skills fair. Each student attended 12 out of 18 possible skills stations, spending 12 minutes at each station and collecting skills cards to prepare them to do geriatric assessments at 9 community-based health fairs in western Pennsylvania in October 2018. All students were required 1) to attend the SMART goals station where they practiced developing health-related SMART goals, and 2) to apply this new skill and elicit at least 1 SMART goal from each senior health fair participant, writing them on health assessment forms. We graded the goals according to the number of S-M-A-R-T elements represented. Without clinical information available, goals were presumed to be Realistic for all the senior participants. Goal statements were independently graded as meeting 0 to 4 elements by the skills station instructor (PL) and the course director (RW) for comparison.
+
+# RESULTS:
+
+200 students from 9 health professions schools worked in teams of 2-3 to complete health assessments on 209 geriatric health fair participants, eliciting a total of 112 SMART goals. 49% of elicited goals had 3+ SMART elements. 83 goals were assignable, 71 were measurable, 55 were specific, and 22 were time-based. "Memory problems, blood sugar control, and fall risk" and "call ear doctor to make hearing aid appointment in the next week" were examples of poorly-written (0 elements) and well-written (all 4 elements) goals, respectively.
+
+# CONCLUSIONS:
+
+We designed a tool that successfully taught health sciences students to engage older people in person-centered, health-related goal-setting, a necessary skill for future careers in an environment that emphasizes high-value health care delivery. "Specific" and "time-based" appeared to be the most challenging of the SMART elements. We will use these findings to refine this education tool further.

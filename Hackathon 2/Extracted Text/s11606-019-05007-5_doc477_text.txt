@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# LOOKING BEYOND THE VIRUS: SOCIAL DETERMINANTS OF HEALTH AND HEPATITIS B
+
+Ilana Prior. Weill Cornell Medical College/New York Presbyterian, New York, NY. (Control ID #3185377)
+
+# LEARNING OBJECTIVE #1:
+
+Using one patient's story, identify social factors that contribute to poor outcomes in HBV
+
+# CASE:
+
+54M with chronic hepatitis B (HBV) infection (HBeAg neg) presented with abdominal distension. He was found to have AST/ALT 1000s, INR 3.9, and hep B viral load >170,000,000 IU/mL. PMH: He was diagnosed with HBV in 2009 and started on entecavir. He subsequently lost his Medicaid, including prescription coverage, due to his income exceeding the state maximum. He had stopped his antivirals 2 years prior due to cost. Social history: Born in Taiwan, he immigrated to the US in 1995. He was a naturalized citizen. He spoke no English; his wife was conversational. He was paid under the table for his 60+ hours/week working at a restaurant. He did not have insurance. Hospital course: Despite treatment with NAC and tenofovir, he developed progressive liver failure with altered mental status and renal failure requiring the ICU, intubation, and CVVH. He underwent orthotopic liver transplant on hospital day 8. His family applied for emergency Medicaid; he received post-transplant immunosuppressives via pharmaceutical assistance programs. He was eventually discharged to rehab. His Medicaid application was approved post-discharge.
+
+# IMPACT/DISCUSSION:
+
+As outcomes in patients with liver disease improve, focus has shifted towards identifying the social determinants that contribute to their health. Our patient had three notable factors which played a role in his need for transplant. First, his ethnicity: HBV disproportionately affects minorities, specifically Asians, in the US. Despite efforts to target Asians for HBV screening and treatment, mortality from HBV remains 8 times higher in Asians than whites in America. Second, language barriers: although his wife could not understand complex medical discussions in English, she often found herself acting as his interpreter for these conversations. Patients with limited English proficiency are more likely than English speaking patients to experience adverse events that are the result of communication errors. Many of these patients feel that their doctors do not explain things clearly. Finally, losing prescription benefits and access to his antivirals resulted in viral reactivation and acute liver failure. Public insurance coverage (vs private) has been associated with increased mortality post-liver transplant. This patient required a transplant organ for a disease that is both preventable and manageable once contracted, and is at higher risk for post-transplant mortality given his current insurance status. His highly morbid outcome was largely the result of his ethnicity, language, and insurance status. These are all areas that should both be acknowledged when caring for patients with similar socioeconomic factors, and targeted for improvement as we attempt to achieve universal health equity.
+
+# CONCLUSION:
+
+Ethnicity, language barriers, and insurance status can be significant contributors to morbidity in hepatitis B patients.
+
+# LOST AT C: THE MYSTERIOUS CASE OF RECURRENT BLEEDING
+
+Laya Reddy. Scripps Clinic, San Diego, CA. (Control ID #3185145)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize signs and symptoms of vitamin C deficiency
+
+# LEARNING OBJECTIVE #2:
+
+Identify those at risk of vitamin C deficiency
+
+# CASE:
+
+This is a 25-year-old man with autism spectrum disorder who presented with 1-day of generalized weakness and left knee swelling. This patient had two recent hospitalizations in the month prior to presentation. Initial hospitalization was due to traumatic left knee hemarthrosis. The second admission was due to recurrent hemarthosis with a hemoglobin drop from 8.1 to 6.8. Orthopedic surgery did not feel the patient's anemia could be attributed solely to blood loss in left knee joint. Further workup was consistent with mixed picture of iron deficiency and anemia of chronic disease. He presented for a third admission with similar presentation. Past medical history was significant for autism. He also had protein-calorie malnutrition with a body mass index of 13 and had been eating 21 eggs per day for the past four months with no additional form of nutrition. He had no significant family history of bleeding disorders. Physical exam was significant for an ill-appearing cachectic male with a sallow appearance. Patient's left knee was with mild swelling and ecchymosis to lateral thigh as well as decreased range of motion due to pain. The anterior aspects of his bilateral upper and lower extremities with scattered perifollicular papules. Initial labs significant for anemia with hemoglobin of 6.7. Given that bleeding diathesis workup was unrevealing, further investigation was done in conjunction with patient's skin findings and diet devoid of vitamin C, which is non-existent in eggs. This patient's vitamin C level was found to be undetectable and patient was diagnosed with scurvy. He was initiated on vitamin C supplementation with 500 milligrams daily for 3 months. With supplementation, patient's symptoms and anemia improved to baseline within 2 months.
+
+# IMPACT/DISCUSSION:
+
+Scurvy can mimic an acquired coagulopathy. Though scurvy is more common in underdeveloped countries, prevalence in the United States has been as high as 7.1% in the past few years. At risk populations include children with autism spectrum disorder who habitually eat a highly selective diet devoid of fruits and vegetables along with drug abusers, impoverished, and the elderly. Symptoms of scurvy generally occur within months of a vitamin C deficient diet. The disease is characterized by pronounced cutaneous signs such as petechiae, perifollicular hemorrhage, and bruising. Hemarthrosis and anemia can occur as seen in this patient. The mechanism of anemia is thought to be due to inappropriate folate and iron absorption and utilization and in some cases hemolysis and gastrointestinal bleeding.
+
+# CONCLUSION:
+
+In the high-risk populations of some developed nations, an estimated 25% of men and 16% of women are deficient in vitamin C. It is vital to keep scurvy on the differential in high-risk, nutritionally deficient patients presenting with hemarthrosis. Distinct cutaneous findings can give clues to diagnosis.
+
+# LUSH LASHES AND LYMPHEDEMA: A RARE HERITABLE DISORDER UNDERLYING A COMMON COMPLAINT
+
+Matthew T. Brown; Laura Ragmanauskaite; Chengcheng Ye; Robin Klein. Emory University School of Medicine, Atlanta, GA. (Control ID #3186110)
+
+# LEARNING OBJECTIVE #1:
+
+Emphasize lymphedema distichiasis as a rare cause of bilateral lower extremity edema
+
+# LEARNING OBJECTIVE #2:
+
+Recognize hereditary syndromes as etiologies for presenting illnesses if the classic work-up is unrevealing
+
+# CASE:
+
+A 59 year old female presents with four months of progressive swelling associated with dyspnea and generalized weakness. She first noticed bilateral leg swelling following a pedicure and was treated for a lower extremity cellulitis. However, her symptoms did not resolve, and her edema progressed proximally to involve her thighs and lower abdomen. Past medical history was notable for obesity and gastric sleeve surgery in 2014. Exam revealed smooth, pitting edema in her bilateral lower extremities extending to her lower abdominal wall. In addition to a circular left ankle plaque, a dimpling pattern similar to peau d'orange induration was noted at both thighs with brawny discoloration. There was no JVD, S3, or displaced PMI. Her lungs were clear to auscultation. No organomegaly or fluid wave on abdominal exam. Laboratory revealed normal creatinine and albumin. Urine protein was negative at 15 mg/dL. Echo revealed an EF of 65%, normal cardiac anatomy and no diastolic dysfunction. Ultrasound was negative for lower extremity thrombosis. CT abdomen showed only reactive inguinal lymphadenopathy without.

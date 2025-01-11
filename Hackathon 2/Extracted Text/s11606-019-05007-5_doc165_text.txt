@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# INTER-HOSPITAL RETURN TRANSFERS: AN UNTAPPED OPPORTUNITY TO IMPROVE ACCESS TO TERTIARY CARE.
+
+Maleka Khambaty1; Stacia Birkland2; Keri Rateliff2; Michael Rhodes3; Karyn Baum3; Michael Usher1.
+
+1University of Minnesota Medical School, Minneapolis, MN; 2Fairview - MHealth, Minneapolis, MN; 3University of Minnesota, Minneapolis, MN. (Control ID #3185865)
+
+# BACKGROUND:
+
+More than a million people are transferred between hospitals on a yearly basis in the US. Patients are transferred to tertiary and quaternary care centers for specialty expertise, critical and surgical care, and multidisciplinary resources. Due to the increasing age, complexity, and need for subspecialty services, the demand for inter-hospital transfers is likely to rise, and efforts to efficiently manage this population is necessary. Internationally, regional hospital networks have arisen to streamline flow of patients across hospitals. Several studies have demonstrated safe return of adult patients with acute coronary syndrome, trauma, and cerebrovascular accidents to referring medical centers. In this study, we describe the current state of US inter-hospital return transfers in a large, multistate cohort of patients.
+
+# METHODS:
+
+We utilized the Healthcare Cost and Utilization Project's State Inpatient and Emergency Department Dataset, (FL, IA, VT, UT, and NY from 2011-2013), identifying transfers by matching patient ID (visitlinkID), age, gender, and transfer date. Our primary exposure variable was whether a patient was returned to the originating hospital following an inter-hospital transfer. Patient level factors such as age, gender, race, payer, and Charleston comorbidity index, and admitting diagnosis were compared. Additionally, encounter and hospital differences were compared including length of stay, cost, inpatient mortality, hospital ownership and rural/urban location. Between group comparisons were made by chi-square and t-test where appropriate.
+
+# RESULTS:
+
+Of 358,354 patient transfers only 1.6% were returned to their originating hospital. These patients were older on average (57.5y vs 61.9y p<0.001), more likely to be non-white, with payment by Medicare, and a higher Charleston comorbidity index (p<0.001). Return transfers involved a markedly longer length of stay: total of 5 vs 23 days, higher total charges, ($48K vs $274K p<0.001) and nearly twice the inpatient mortality (6.7% vs 11.2%, p<0.001). Hospitals involved in the coordination of return transfers, meaning they were responsible for accepting then referring, were more likely to be urban and for-profit (19.7% vs 37.7% p<0.001). These differences remained consistent across several admitting diagnoses including acute myocardial infarction, cerebrovascular disease, and traumas.
+
+# CONCLUSIONS:
+
+Inter-hospital transfers are an understudied public health challenge. The unidirectional nature of transfers has the potential to over-burden tertiary care facilities as need increases. These data highlight the untapped potential to improve efficiency by which hospital-based subspecialty care is administered: return transfers: While other countries including Canada have shown return transfers after low risk procedures to be safe, this was not observed to occur in the US, where return transfers appeared to be a last resort for length of stay outliers.
+
+# INTERHOSPITAL TRANSFER IS ASSOCIATED WITH INCREASED IN-HOSPITAL MORTALITY ON INTERNAL MEDICINE SERVICES
+
+Marc Heincelman1; Andrew Schreiner1; Elizabeth B. Kirkland2; Samuel O. Schumann1; Jingwen Zhang2; Patrick D. Mauldin1; Mulugeta Gebregziabher2; William P. Moran1.
+
+1Medical University of South Carolina, Charleston, SC; 2MUSC, Charleston, SC. (Control ID #3171238)
+
+# BACKGROUND:
+
+National administrative datasets have demonstrated worse outcomes among patients undergoing interhospital transfer (IHT); specifically increased risk-adjusted mortality, adverse events, cost, and length of stay, compared to patients admitted through the emergency department (ED). Although national administrative datasets are excellent for preliminary studies, limitations include the inability to adjust for disease-specific conditions and other patient level clinical characteristics. In this single center study, we investigate the independent association between IHT status and in-hospital mortality, after adjusting for disease-specific conditions and other clinical variables not available in larger administrative datasets.
+
+# METHODS:
+
+We performed a retrospective cohort study of all adult patients admitted to Internal Medicine services from July 1, 2013 to June 30, 2014. The primary outcome was in-hospital mortality. Four Cox regression analyses were performed to examine the independent association between IHT status and in-hospital mortality, controlling for covariates that were potential confounders to the relationship between transfer and death. Model 1: IHT status, admit service. Model 2: IHT status, admit service, patient demographics. Model 3: IHT status, admit service, patient demographics, disease-specific conditions. Model 4: IHT status, admit service, patient demographics, disease-specific conditions, clinical variables.
+
+# RESULTS:
+
+Of the 7571 patients included in the cohort, 6% (438) experienced in-hospital mortality. IHT patients accounted for 38% (165) of all in-hospital deaths, despite accounting for only 18% (1393) of total admissions. In an attempt to determine whether IHT status was associated with in-hospital mortality, we performed several Cox proportional hazard regression analyses. Model 1 demonstrated a hazard ratio (OR) of 1.876 for IHT status, after adjusting for admitting service. Model 2 demonstrated a hazard ratio of 1.842 for IHT status, after adjusting for admitting service and patient demographics. Model 3 demonstrated a hazard ratio of 1.810 for IHT status, after adjusting for admitting service, patient demographics, and disease-specific conditions. Model 4 demonstrated a hazard ratio of 1.564 for IHT status, after adjusting for admitting service, patient demographics, disease-specific conditions, and patient laboratory data and vital signs. The integrated time-dependent AUC for model 1 was 0.74, AUC for model 2 was 0.79, AUC for model 3 was 0.82, and AUC for model 4 was 0.89, consistent with a good prediction model.
+
+# CONCLUSIONS:
+
+After adjusting for patient-level clinical characteristics including vital signs, laboratory data, and individual comorbidities, IHT status remains independently associated with in-hospital mortality.
+
+# INTERNAL MEDICINE RESIDENT MATRICULATION INTO CARDIOLOGY FELLOWSHIPS: ASSOCIATIONS WITH CAREER INTENT, MEDICAL KNOWLEDGE, AND PUBLICATIONS
+
+Michael W. Cullen; Kyle W. Klarich; Andrew J. Halvorsen; Amy Oxentenko; Thomas J. Beckman. Mayo Clinic, Rochester, MN. (Control ID #3182576)
+
+# BACKGROUND:
+
+Unique traits of internal medicine (IM) residents who matriculate into subspecialty fellowships, particularly cardiovascular (CV) diseases, are poorly understood. We sought to identify characteristics of IM residents who successfully match into CV fellowships.
+
+# METHODS:
+
+We conducted a retrospective cohort study of 8 classes of IM residents who matriculated into residency from 2007-2014 (graduating classes of 2010-2017). Residents not completing 3 years of residency were excluded. The primary outcome was a successful match to a CV fellowship within 1 year of completing IM residency. Independent variables included residents' licensing exam scores, research publications, medical school reputation, Alpha Omega Alpha (AOA) membership, declaration of intent to pursue CV in the residency application personal statement, performance during residency based on clinical evaluation, mini-clinical evaluation exercise (mini-CEX), and in-training exam (ITE) scores, and exposure to CV during residency based on time of first rotation and choice of a CV elective rotation. Data were analyzed by logistic regression.
+
+# RESULTS:
+
+Of the 339 included residents (59% male; mean age 27) from 120 medical schools, 73 (22%) matched to CV fellowship. At the time of residency application, 104 (31%) had 1 publication, 38 (11%) declared intention to pursue CV in their residency application personal statement.

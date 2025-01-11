@@ -1,0 +1,59 @@
+# A RARE CASE OF SYSTEMIC AMYLOIDOSIS: AN UNDERDIAGNOSED DISEASE
+
+Syeda A. Raza1; Somtochi I. Okafor2. 1Methodist Health Systems Dallas, Dallas, TX; 2UT Southwestern Medical School, Dallas, TX. (Control ID #3185729)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize primary systemic amyloidosis in elderly patients with no evidence of preceding or coexisting disease in elderly patients.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose primary systemic amyloidosis based on clinical features and laboratory studies.
+
+# CASE:
+
+An 81-year old man with no known past medical history presented to the hospital via emergency medical services for altered mental status. On physical exam, patient was awake but only oriented to person. He had multiple purpuric lesions around the eyelids and upper chest wall. He also had a distended abdomen with bilateral lower extremity pitting edema. Initial labs were notable for sodium of 117 mmol/L and a creatinine of 1.91 mg/dL. He was admitted to the ICU for treatment of his hyponatremia that was corrected with 3% hypertonic saline. However, patient remained volume overloaded despite aggressive diuresis. A transthoracic echo showed normal systolic function but impaired diastolic relaxation. As the patient remained volume overloaded in setting of renal dysfunction, decision was made to initiate patient on hemodialysis. A renal biopsy was obtained showing Congo red positive amyloid deposition. During the hospitalization, the patient continued to deteriorate and developed an ileus that did not improve with supportive care. A subsequent endoscopy and colonoscopy were performed to help with decompression. Gastric, colonic, and rectal biopsies that were taken showed Congo red positive amyloid deposition consistent systemic amyloidosis. At this point the patient's clinical status had not improved. Multiple family meetings were held to discuss treatment and prognosis. However, the family revealed that the patient had advanced directives in place and would not want aggressive treatment. He was transitioned to palliative care and ultimately passed away.
+
+# IMPACT/DISCUSSION:
+
+Amyloidosis constitutes a plasma cell dyscrasia and consists of a subset of various diseases to which primary systemic amyloidosis belongs. Primary systemic amyloidosis involves deposition of monoclonal immunoglobin light chain proteins throughout the body tissues and typically occurs without existence of prior amyloid disease or concurrent chronic inflammatory conditions. Clinical manifestations often include macroglossia, mucocutaneous lesions, restrictive cardiomyopathy, kidney failure, and edema. Laboratory workup involves CBC, SPEP/UPEP, and biopsy of the affected organ to identify amyloid deposition. Treatment involves targeted therapy of affected organs as well as systemic chemotherapy. In rapidly progressive cases, in depth conversation with family regarding treatment, prognosis, and patient's wishes remain imperative to ensure effective communication and compassionate care.
+
+# CONCLUSION:
+
+Primary systemic amyloidosis may manifest as rapidly progressive systemic organ failure prompting immediate treatment. Treatment and management of primary systemic amyloidosis include a combination of targeted organ therapy and chemotherapy or palliative care depending on patient's wishes.
+
+# A RARE CASE OF THROMBOTIC MICROANGIOPATHY IN THE SETTING OF SEVERE HIV/AIDS PRESENTING AS ATYPICAL HEMOLYTIC UREMIC SYNDROME
+
+Garima Gupta. Jewish Hospital of Cincinnati, Blue ash, OH. (Control ID #3186367)
+
+# LEARNING OBJECTIVE #1:
+
+Thrombotic microangiopathy (TMA) is a clinical syndrome that can present as thrombotic thrombocytopenic purpura (TTP) or hemolytic uremic syndrome (HUS). Among these conditions, atypical HUS is now recognized to be a disease of alternative complement pathway dysregulation. TMA occurs when insults to the vascular wall of small vessels trigger formation of microvascular thrombosis. Clinically, patients with HUS present with thrombocytopenia, microangiopathic hemolytic anemia and fever. TMA is a known but rare complication of human immunodeficiency virus (HIV) and is suspected to play a role in the pathogenesis of HIV by direct endothelial cell damage. TMA is a medical emergency and can cause significant morbidity and mortality if not promptly diagnosed.
+
+# CASE:
+
+A 65-year-old male presented with a two-week history of generalized weakness and 20-pound weight loss. He was found to have acute kidney injury as well as pancytopenia. Few schistocytes were noted on the peripheral blood smear with elevated lactate dehydrogenase and low haptoglobin. The patient underwent plasmapheresis due to concerns of atypical HUS while his ADAMTS13 level was pending, which was later noted to be within normal limits. A renal biopsy was performed which showed thrombotic microangiopathy. The patient was immunized appropriately in anticipation to start eculizumab outpatient. The patient was brought to the hospital five days later with altered mental status. He was febrile and his laboratory studies demonstrated worsening pancytopenia and acute kidney injury. He was started on eculizumab inpatient. He required urgent hemodialysis due to worsening renal function. His HIV screen was positive with a CD4 count of less than 1 and viral load elevated at 1,400,000 copy/ml. Urine histoplasma antigen and serum antibodies were noted to be positive and yeast was seen on the peripheral blood smear. Patient was treated with amphotericin B for disseminated histoplasmosis. He was started on HAART after 21 days of therapy for histoplasmosis and discharged to a long term care facility.
+
+# IMPACT/DISCUSSION:
+
+In the setting of HIV associated TMA, AIDS defining illnesses can play a significant role in accelerating the terminal outcome of this disease. Our patient initially presented with non-specific symptoms and was diagnosed with atypical HUS which was confirmed with renal biopsy. It was not known until his readmission that he was discovered to be infected with HIV complicated by disseminated histoplasmosis. He was treated promptly and aggressively once his diagnosis was confirmed, which yielded positive outcomes.
+
+# CONCLUSION:
+
+Early treatment of HIV with HAART has led to a decrease in the development of TMA. However, it remains a life threatening condition that can present as a rare complication of HIV. Eculizumab is now considered an important treatment of complement-mediated TMA, and patients with prompt diagnosis and treatment now have improved morbidity and mortality outcomes.
+
+# A RARE CAUSE OF HEADACHE
+
+Chandralekha Ashangari1; Waqas Hafeez1; Anuja Kamat1; Praveen Tumula2. 1TTUHSC, Amarillo, TX; 2Texas Oncology, Amarillo, TX. (Control ID #3181526)
+
+# LEARNING OBJECTIVE #1:
+
+Leukemia, and leukostasis, in particular, is a very uncommon etiology of headaches in the emergency department. This case highlights the importance of keeping the differential diagnosis broad, taking an adequate and detailed history, and pursuing a more thorough workup when no etiology for subacute or chronic headaches is identified.
+
+# LEARNING OBJECTIVE #2:
+
+This case also identifies hematologic malignancy as a potential cause of subacute headaches, one that may require emergent intervention.
+
+# CASE:
+
+A 56-year-old Caucasian female with a past medical history of chronic headaches presented to the emergency department with a thunderclap headache for 2 days, sudden in onset and continuous. The pain was aggravated with cough and bright light, briefly relieved with tylenol and was associated with vision disturbances. Vital signs and the physical examination were unremarkable at the time of presentation; a fundoscopic exam was normal. Laboratory studies showed a WBC count of 87100 with a neutrophilic predominance (82.7%) with significant metamyelocytes. Serum LDH was 797. Lumbar puncture was done which ruled out meningitis with an opening pressure of 30 cm H2O. Concern shifted to leukemia as the likely etiology of headache, with potentially a blast crisis causing leukostasis. Hematology/oncology were consulted. On repeat

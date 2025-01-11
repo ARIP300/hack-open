@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE 1: LAMBD
+
+Individuals per year. A classic pattern of presentation includes an acute eruption of an erythematous rash with tense bullae and mucosal involvement but negative Nikolsky sign. In the case of drug-induced LABD, onset usually begins within one month of drug initiation, and vancomycin has been identified as the offending agent in 46% of cases. Other drugs associated with LABD include lithium, captopril, and diclofenac. LABD is difficult to distinguish on exam due to its similar appearance to other blistering rashes that can present with bullae or vesicles, such as bullous pemphigoid or dermatitis herpetiformis. Therefore, skin biopsy is the gold standard. This includes both a biopsy of an entire vesicle or edge of a bullae for histology, as well as an unaffected, peri-lesional skin sample for immunofluorescence staining. Evidence of continuous linear IgA deposits along the basement membrane confirms the diagnosis. For idiopathic LABD, dapsone with high potency topical corticosteroids is first-line treatment. For drug-induced LABD, withdrawal of the offending agent leads to spontaneous resolution of the rash over several weeks, however new bullae may continue to form for a few days before improvement occurs.
+
+# CONCLUSION
+
+Biopsy with immunofluorescence staining is necessary to diagnose and differentiate LABD from other blistering rashes. Vancomycin is the most common cause of drug-induced LABD.
+
+A RETURN TO THE FOLD
+
+Max Harris; Jacob Schulman; Susan B. Glick; Daniel Pohlman. Rush Medical College, Chicago, IL. (Control ID #3186157)
+
+# LEARNING OBJECTIVES
+
+- Recognize the importance of timely diagnosis of amyloidosis
+- Diagnose light chain (AL) amyloidosis based on its clinical presentation and laboratory features
+
+# CASE 2: AMYLOIDOSIS
+
+A 60 yo man with AS presented with edema of the legs, hands and face x 6 wk. The edema improved with elevation. There was no shortness of breath, PND or chest pain. He consulted his cardiologist. ECHO revealed moderate AS and EF 60%. Furosemide was prescribed without improvement. PMH: Hypercholesterolemia. Medications: Metoprolol, atorvastatin, and aspirin. He worked in the entertainment industry and smoked tobacco. He appeared well. BP 99/69, HR 76, T 98.6. + Systolic ejection murmur without radiation to the carotids. No JVD. 1-2+ pitting edema 1/3 up the bilateral lower extremities. Exam was otherwise normal. Creatinine 0.92, albumin 1.5, cholesterol 465. CBC normal. UA: protein > 300 mg/dL, otherwise normal. Serum immunofix: monoclonal IgG lambda. Urine immunofix: monoclonal free lambda light chains. 24-hour urine protein 18 g. BNP 18. Troponin 0.01. Renal ultrasound, skeletal survey: normal. Bone marrow biopsy: 5% plasma cells, AL amyloid. Renal biopsy: amyloid nephropathy, AL, involving glomeruli and vessels.
+
+# IMPACT/DISCUSSION
+
+Amyloidosis is caused by clonal plasma cells that produce amyloid, a misfolded protein that deposits in and damages tissue. Deposition may be systemic or localized; > 75% is due to AL amyloid. To prevent irreversible organ damage, prompt diagnosis and treatment are needed. The combination of macroglossia and periorbital purpura is pathognomonic for AL amyloidosis, though uncommonly seen. Cardiac deposition causes restrictive cardiomyopathy with JVD and edema. Renal involvement most often presents with heavy proteinuria due to glomerular deposition, though may present as worsening renal function without proteinuria due to vascular deposits or as tubular dysfunction due to tubular deposits. Neurologic involvement causes both peripheral and autonomic neuropathy. Soft tissue infiltration causes salivary gland enlargement and muscular pseudohypertrophy. Diagnosis requires confirmation of a monoclonal plasma cell disorder via serum and urine immunofix electrophoresis and measurement of serum free light chains. Congo red staining establishes the presence of amyloid. Demonstration of organ involvement and fibril type are also required. Treatment focuses on eradication of the plasma cell clone. Newer therapies under study target the amyloid deposits.
+
+# CONCLUSION
+
+Prompt diagnosis and treatment of amyloidosis can prevent irreversible organ damage. Light chain amyloidosis causes restrictive cardiomyopathy (JVD, edema), nephropathy (edema, proteinuria, renal insufficiency, RTA), neuropathy (peripheral/autonomic) and soft tissue infiltration (macroglossia, muscular pseudohypertrophy). Diagnosis requires serum and urine immunofix electrophoresis and measurement of serum free light chains to confirm a monoclonal plasma cell disorder; Congo red staining to confirm amyloid; evidence of organ involvement; and fibril type.
+
+# CASE 3: HUS
+
+A ROTTEN CASE OF HUS: THE EMERGING PATHOGENESIS OF SALMONELLA
+
+Sarah Kurz; Kristin Christensen; Selen Uman. University of Pennsylvania, Philadelphia, PA. (Control ID #3185773)
+
+# LEARNING OBJECTIVES
+
+- Recognize the value and importance of a complete clinical history
+- Distinguish between forms of MAHA based on clinical and laboratory data
+
+# CASE
+
+A previously healthy 27-year-old male presented with 1 week of nausea, vomiting, and abdominal pain, and was found to have a white blood cell count of 22 THO/uL, hemoglobin of 18.8 g/dL, a platelet count of 214 THO/uL, and a creatinine of 1.31 mg/dL. He underwent CT imaging which was notable for severe colitis from the cecum to the distal descending colon. He was started on broad-spectrum antibiotics for presumed colitis. The patient's history was remarkable for his girlfriend having similar symptoms following the consumption of eggs the couple had purchased and both eaten but her symptoms had resolved without intervention. Over the course of the next 4 days, patient developed rapidly progressive symptoms in addition to notable changes in his laboratory data, in particular thrombocytopenia with platelets of 34 THO/uL, renal failure with creatinine of 4.01 mg/dL, anemia with hemoglobin of 10.8 g/dL, and a persistent leukocytosis with white blood cell count of 19 THO/uL. Based on his clinical decline, the syndrome of microangiopathic hemolytic anemia (MAHA) was entertained. The three most common forms of MAHA are Thrombotic thrombocytopenic purpura (TTP), Hemolytic uremic syndrome (HUS), and Disseminated Intravascular Coagulation (DIC). While all have different causes, each is life threatening and characterized by the triad of small-vessel hemolytic anemia, thrombocytopenia, and renal impairment. Our patient's evaluation for the etiology of MAHA included evaluation for TTP with ADAMTS13 (activity of 55%, negative), DIC with slightly elevated fibrinogen of 463 mg/dL (low fibrinogen levels are seen in DIC), and a stool culture that was negative for EHEC O157:H7 via enzyme immune assay (EIA), but positive for salmonella via PCR testing. The patient remained in the ICU for 48 hours where he received 2 days of steroids. He received a total of 5 days of broad-spectrum antibiotics including Vancomycin, Zosyn, and Flagyl. Within the next few days, with continued fluids, his renal function improved, his WBC count downtrended and his platelets normalized. He was discharged home in good condition on Day 8.
+
+# IMPACT/DISCUSSION
+
+This case illustrates the expanding body of clinical evidence that non-shiga toxin producing pathogens are capable of causing HUS. This growing link between non shiga-toxin producing pathogens and HUS opens opportunities for exploration of the underlying mechanisms and the potential role for novel therapies.
+
+# CONCLUSION
+
+A good clinical history is of high value especially when there is concern for an underlying infectious cause. Case reports indicate a sporadic association between salmonella gastroenteritis and HUS without clear etiology of pathophysiologic basis given lack of shiga-toxin production in salmonella infections.

@@ -1,0 +1,65 @@
+# JGIM
+
+# ABSTRACTS
+
+# Francisco, San Francisco, CA; 2San Francisco Veterans Affairs Medical Center, San Francisco, CA; 3School of Medicine, University of California San Francisco, San Francisco, CA. (Control ID #3178080)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize malignancy as a rare cause for chronic diarrhea
+
+# LEARNING OBJECTIVE #2:
+
+Appreciate the challenges in diagnosing intestinal T-cell lymphoma.
+
+# CASE:
+
+A 76 year-old gentleman with schizophrenia and a 60-pack year tobacco history presented with 10 weeks of profuse diarrhea. Stools were rarely formed, but not oily, greasy, malodorous and without melena or hematochezia. There was associated unintentional weight loss, tenesmus, and nocturnal awakening. Review of systems was otherwise negative. Physical exam was notable for 13-pound weight loss over 3 months and hyperactive bowel sounds. Basic labs were normal as was a CT abdomen/pelvis with contrast. Stool osmolar gap was 130 and stool PCR was positive for Giardia. The patient was treated with a course of metronidazole. Despite antibiotic therapy, the patient had persistent diarrhea and an additional 20-pound weight loss over 2 months. EGD/Colonoscopy showed a diffuse patchy colitis and biopsies were interpreted as diagnostic of lymphocytic colitis. The patient's profound weight loss prompted a reexamination of the colonic biopsies, which revealed a more exuberant lymphocyte response than expected for classic lymphocytic colitis and atypical-appearing intraepithelial lymphocytes (IEL). Further immunohistochemical and genetic studies demonstrated a natural killer (NK) and T-cell mononuclear cell infiltrate in the colonic mucosa with positive T-cell receptor clonality. The patient was diagnosed with monomorphic epitheliotropic intestinal T-cell lymphoma (MEITL).
+
+# IMPACT/DISCUSSION:
+
+MEITL is an aggressive tumor accounting for less than 5% of peripheral T-cell lymphomas. Unlike Type I enteropathy-associated T-cell lymphomas (EATL), MEITL (previously known as Type II EATL) is not associated with celiac disease. MEITL is a challenging diagnosis given its rarity, non-specific symptoms, heterogeneous endoscopic appearance, and mixed histopathology. Patients present with non-specific symptoms, including chronic diarrhea, abdominal pain, and weight loss. 50% of patients are diagnosed after acute abdominal complications (e.g. bowel perforation or obstruction). These tumors are heterogeneous in appearance and can present as normal appearing mucosa, ulcerations, masses, and/or strictures. Histologically, there is an overabundance of mucosal IELs occasionally associated with crypt hyperplasia and villous atrophy. As illustrated in this case, the increased IELs can be mistaken for lymphocytic colitis. Biopsy reanalysis is warranted if the clinical syndrome is inconsistent with microscopic colitis. Median survival for MEITL is <1 year and standard of care remains undetermined.
+
+# CONCLUSION:
+
+MEITL is a rare peripheral T-cell lymphoma that is challenging to diagnose due to non-specific presenting symptoms, heterogeneous macroscopic appearance, and complex histopathology. In patients with chronic diarrhea with associated alarm symptoms (fevers, bleeding, significant weight loss) and lymphocytic colitis, intestinal lymphomas should be considered in the differential diagnosis.
+
+# RHABDOMYOLYSIS FOLLOWING SYNTHETIC CANNABINOID USE: "MOJO"
+
+Hanyuan Shi; Elle Wade; Sarah Cossich. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184297)
+
+# LEARNING OBJECTIVE #1:
+
+Demonstrate the detrimental effects of synthetic cannabinoids.
+
+# LEARNING OBJECTIVE #2:
+
+Understand rhabdomyolysis as a life-threatening side effect of synthetic cannabinoids.
+
+# CASE:
+
+A 22-year old man with a history of depression, schizoaffective disorder, lead exposure, and seizures initially presented to the hospital with altered mental status. Collateral information reported concern for seizure activity with bilateral lower extremity muscle jerking. In the emergency room, the patient was agitated and aggressive. Labs were significant for WBC 14.3, lactate of 2.6, BUN 30, Cr 1.21. Ammonia 89. Liver function tests were elevated with AST 592, ALT 135, normal alkaline phosphatase 87, with normal bilirubin 1. Urine drug screen returned positive for cannabinoid. The patient's initial creatinine kinase (CK) was 49,360. Urinalysis showed >10.0 mg/dl of blood but <5 RBCs. He was started on 250 ml / hr of lactated ringers for treatment of rhabdomyolysis. Spot EEG showed no ongoing seizures or status epilepticus. Over the next six days, fluids were continued and his CK trended down to <5000. He later reported a use of "K2".
+
+# IMPACT/DISCUSSION:
+
+Synthetic cannabinoids have been used more frequently as recreational drugs. Common street names include "Spice", "K2", "Yucatan Fire", "Skunk", or "Mojo". Often, users of synthetic marijuana report a more intense high than the natural formulation. Alarmingly, there is an increasing population of teenagers and young adults using these compounds, along with increasing reports of complications including acute kidney injury and nephrotoxicity. The pathogenesis of AKI is unknown but hypothesized that synthetic marijuana often contains non-cannabinoid contaminants that are nephrotoxic. Only a few reports note rhabdomyolysis following synthetic cannabinoid use, including one which details renal failure requiring dialysis. "K2" is a deadly synthetic stimulant that as demonstrated here, can lead to seizures, severe agitation, and acute rhabdomyolysis. This case demonstrates the neurogenic and nephrogenic sequelae of ingestion. Early studies have been released demonstrating significant impairment of behavior and judgment by users; however there has not been much published literature on the consequences of overdose. Liberal regulations of synthetic cannabinoids have allowed for increased availability of these substances. Companies that manufacture "K2" operate in clandestine fashion to avoid detection by the FDA.
+
+# CONCLUSION:
+
+Internists may encounter an increasing number of cases of substance abuse. This case demonstrates the availability and detrimental effects of synthetic cannabinoids.
+
+# R H A B D O M Y O LY S I S : A R A R E H E R A L D S I G N O F HYPERALDOSTERONISM
+
+Chester J. Kao1; Jenny Van Kirk2. 1Duke University, Durham, NC; 2Duke University Hospital, Durham, NC. (Control ID #3175921)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hyperaldosteronism as a cause of rhabdomyolysis
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose primary hyperaldosteronism
+
+# CASE:
+
+A 47 year old male with a history of hypertension, chronic hypokalemia, and chronic kidney disease stage III presented with a one week history of non-exertional, atypical chest pain without radiation. His last cardiac catherization was five years prior and was normal. Exam was unremarkable except for hypertension to 160/90. Labs were notable for potassium (K) to 2.9, creatine 2.4, bicarbonate 27, and CK 2100. Acute coronary syndrome (ACS) workup was negative, and EKG demonstrated Q waves in V1 and V3 without ST changes. Medications included carvedilol, amlodipine, losartan, and prior K supplements. Family history was notable for hypertension and hypokalemia. Despite aggressive repletion with over 200 mEq of K chloride in 48 hours, the patient's potassium remained low at 2.5 to 2.7. He denied any muscle cramps or hematuria, and his chest pain resolved with normalizing CK. Primary hyperaldosteronism was suspected due to the refractory hypokalemia and hypertension. Thus, losartan was switched to spironolactone 25 mg daily. Aldosterone and renin levels were sent but did not result prior to discharge.

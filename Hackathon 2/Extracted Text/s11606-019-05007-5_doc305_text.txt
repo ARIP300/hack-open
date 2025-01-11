@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Homelessness and the Veterans Health Administration
+
+McInnes4; Christopher T. Rentsch5; Amy C. Justice6. 1VA Pittsburgh Healthcare System, West Haven, CT; 2Yale School of Medicine, New Haven, CT; 3Yale University, VACT West Haven, New Haven, CT; 4Dept Veterans Affairs, Bedford, MA; 5London School of Hygiene & Tropical Medicine, London, United Kingdom; 6Yale University, West Haven, CT; 7Emory University, Atlanta, GA; 8The University of Utah, Salt Lake City, UT. (Control ID #3184134)
+
+# BACKGROUND
+
+Homelessness is especially prevalent among veterans and the Veterans Health Administration (VA) electronic health records (EHR) can be used as a research tool for understanding modifiable mediators of homelessness. We sought to validate homeless data in the VA EHR by comparing it with self-reported data from the Veterans Aging Cohort Study (VACS) survey, a confidential, self-administered survey of HIV+ and uninfected veterans.
+
+# METHODS
+
+Using VACS survey items, we created two homeless variables - ever (prior to survey) and recent (w/in 4 weeks prior to survey) based on self-report of having "been without a permanent address that you call home" or "stayed one or more nights in a shelter, on the street, in the park, or in an abandoned building". We also created two EHR homeless variables using the ICD-9 code v60.0 for "lack of housing": 1) homelessness any time prior to the survey, and 2) recent homelessness - within 30 days prior to or up to one week after the survey date. Agreement between survey and EHR variables were assessed using sensitivity and specificity, assuming the survey as the reference standard, and Cohen's kappa statistics. Positive predictive value (PPV) and negative predictive value (NPV) were also calculated.
+
+# RESULTS
+
+There were 3734 HIV+ and 3791 uninfected VACS participants enrolled in VACS from 2000 to 2012, mean age was 50 years (sd=9.4), 95% were male, and 65% were African-American. Ever and recent homelessness were reported by 47% and 17% on the survey, respectively. In the EHR, we identified 30% as ever homeless and 6% as recently homeless. Compared with self-report, using ICD-9 codes, sensitivity is low (53%) but specificity is good (92%) for EHR ever homeless (PPV=85%, NPV=69%, kappa = 0.46); similarly, sensitivity is low (26%) and specificity is good (97%) for EHR recent homelessness (PPV=68%, NPV=87%, kappa = 0.31).
+
+# CONCLUSIONS
+
+Agreement between EHR and survey homelessness is fair to moderate with good specificity. Although we can be confident that those identified as homeless are correctly identified, a large proportion of those who have experienced homelessness are not identified in the EHR. This work will be extended to incorporate evaluating other VA EHR sources of homeless information such as ICD-10 codes, clinic stop codes, and data collected using clinical reminders at clinic visits in order to develop and validate a robust measure for homelessness nationally across the VA. Identification of homelessness within the VA can be used in future studies to identify those at risk and to adjust for homelessness in research.
+
+# VALIDATION OF OUR UNIQUELY DEVELOPED PREDICTION FORMULA OF FALL USING DIFFERENT POPULATION FROM ORIGINAL ONE USED IN ITS DEVELOPMENT: A SECOND REPORT
+
+Masaki Tago; Naoko E. Katsuki; Yoshimasa Oda; Hidetoshi Aihara; Shu-ichi Yamashita. Saga University Hospital, Saga, Japan. (Control ID #3138735)
+
+# BACKGROUND
+
+Previous studies have identified many risk factors for falls and several predictive formulae for falls have been developed. Hendrich II Fall Risk Model has been reported to be the most appropriate predictive formula with sensitivity of 70% and specificity of 61%. They require examinations and techniques seldom used in routine clinical settings, as well as time-consuming assessment items, which poses a serious impediment to its use. Therefore, we have developed a simpler predictive formula using a regression coefficient acquired from the results of the multivariate analysis. We used two scales, the Japan Ministry of Health, Labour and Welfare (MHLW) bedriddenness rank and cognitive function score, which are both commonly used evaluation tools in Japan. The formula was as follows: y = (75 years or older)×6 + (male)×4 + (emergency admission)×5 + (hypnotic)×4 + (history of falls)×3 + (bedriddenness rank of J)×12 + (bedriddenness rank of A)×18 + (bedriddenness rank of B)×20 + (bedriddenness rank of C)×17 + (cognitive function score of 2)×4. We validated the accuracy of our unique formula which we presented at the SGIM17, using other group setting than the one we originally used in its development.
+
+# METHODS
+
+We retrospectively analyzed inpatients over 20 years old who were admitted to an acute care hospital in Japan, between April 2015 and March 2018. The data (including age, sex, the department to which the patient was admitted, emergency admission or not, whether the patient was transferred by ambulance, admission with a referral letter or not, taking hypnotics or not, bedriddenness rank and cognitive function score on admission, visual impairment and history of falls and strokes) were derived from the charts. We performed Receiver Operating Characteristic (ROC) analysis and the calculation of the likelihood ratio using our predictive formula and the data acquired in our study of falls of inpatients.
+
+# RESULTS
+
+During the study period, 9344 patients were admitted, of whom 8967 were over 20 years old without unavailable data. The median age of 8967 inpatients was 77 years, 49.3% were men, and the median length of hospital stay was 9 days. The median calculated predictive score was 17. A total of 274 suffered falls, whose median age was 84 and median length of hospital stay was 25 days. The test of goodness of fit of the predictive formula using ROC curve analysis showed Area Under the Curve (AUC) of 0.766 (95%CI: 0.744-0.789, P < 0.001), and sensitivity of 83.2% and specificity of 60.9% with the setting of cut-off point of 24. The negative likelihood ratios with the cut-off points of 6 (the first quartile) and 10 were 0.04 and 0.10, respectively.
+
+# CONCLUSIONS
+
+We herein validated the accuracy of our previously reported predictive formula of falls of adult inpatients using bedriddenness rank and cognitive function scores, with different group setting from the one we originally used in its development showing higher accuracy of our formula than previously reported ones.
+
+# VARIATION IN PRIMARY CARE SPENDING FOR MEDICARE PATIENTS IN AND OUT OF HEALTH SYSTEMS
+
+Rachel O. Reid1, 2; Cheryl Damberg3; Mark W. Friedberg1, 2. 1RAND Corporation, Boston, MA; 2Brigham and Women's Hospital, Boston, MA; 3RAND Corporation, Santa Monica, CA. (Control ID #3185427)
+
+# BACKGROUND
+
+Greater orientation toward primary care has been associated with better quality and lower costs of care. Health systems are growing in the United States and increasingly shape care delivery. In this study, we explore variation in primary care spending as a proportion of total spending among Medicare fee-for-service beneficiaries who seek care from health system-affiliated provider organizations (POs) versus unaffiliated POs, as well as across health systems.
+
+# METHODS
+
+Using 100% 2015 Medicare claims, enrollment, and provider data, we attributed 6,602,562 beneficiaries to 10,863 health system POs and 9,902,449 beneficiaries to non-health system 88,600 POs, attributing beneficiaries to POs (identified by TIN) responsible for at least 30% of their evaluation and management service and identifying system-affiliated POs using the SK&A provider database. We then assessed the percentage of their total medical and prescription drug spending on primary care. We defined primary care spending according to narrow and broad definitions of primary care providers (PCPs) and services. The narrow PCP definition included Family Practice, Internal Medicine, Pediatrics, and General Practice. The broad definition also included Nurse Practitioners, Physician Assistants, Geriatric Medicine, and Gynecology. Both excluded hospitalists. The narrow services definition included evaluation and management visits, preventive visits, care transition or coordination services, and in-office preventive services, screening, and counseling. The broad definition included all professional services billed by PCPs.

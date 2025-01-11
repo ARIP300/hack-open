@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# RESULTS
+
+Among primary care visits between 2006 and 2015, the prevalence of hypertension was 25-35%, gradually increasing over time (p for trend <0.001). The highest rate of uncontrolled HTN (SBP 140 mm Hg) was 25% in 2006. Subsequently, the rate of uncontrolled hypertension declined to 16-19% of visits for the remainder of the study period. In most years, nearly half of primary care patients diagnosed with hypertension were not receiving anti-hypertensive medications. About a third were treated with monotherapy, 20% with two medications and 5-10% with three or more medications. Among patients on anti-hypertensive medications, the class of medication prescribed was consistent over the decade. Angtiotensin converting enzyme (ACE) inhibitors were used in 40-50% of patients, calcium channel blockers, beta blockers and angiotensin receptor blockers (ARBs) were used in 25-35% of patients, and thiazide diuretics were only used in 14-17% of patients. Patients with uncontrolled HTN received a new medication only 14-24% of the time. Overall, the rates of dietary and exercise counseling were low (7-15% of visits), but slightly increased if patients had a diagnosis of hypertension, had SBP 140 mm Hg, or if hypertension was the primary reason for the visit.
+
+# CONCLUSIONS
+
+Although we found that almost a fifth of patients had uncontrolled hypertension, our results are promising and show that blood pressure control is improving in the United States. We did identify areas that need continued attention, such as guideline-based prescribing, medication intensification and the use of counseling as treatment for hypertension.
+
+# TRENDS OF HYPOGLYCEMIA-RELATED HOSPITALIZATIONS IN VETERANS WITH DIABETES FROM 2005 TO 2016
+
+Molly Zhao1, 2; Paul Conlin1; David Mohr3; Julia Prentice2. 1Boston VA Healthcare System, Boston, MA; 2Boston University, Boston, MA; 3VA Boston Healthcare System, Boston, MA. (Control ID #3186347)
+
+# BACKGROUND
+
+One quarter of U.S. older adults with diabetes are potentially over-treated with glucose lowering medications that have a high risk of hypoglycemia. Individualizing hemoglobin A1c (A1c) target values has been recommended for managing diabetes (DM). This study examined trends of hypoglycemia-related hospitalizations across risk factors for hypoglycemia over time among veterans, a population with a T2D prevalence that is twice higher than the general population.
+
+# METHODS
+
+This retrospective observational study used administrative data from the Veterans Health Administration to identify patients (N = 484,285) diagnosed with DM, aged 64 or older with 4 or more A1c tests during a three-year baseline period from 2005 to 2016 and at least one-year of post-baseline data. Hypoglycemia-related hospitalizations were identified by any discharge diagnosis with ICD-9 codes from an algorithm validated by Ginde et al., 2009 and the corresponding ICD-10 codes. The frequency of such events was calculated across gender, race, age groups (64 - 74; 75+), insulin and sulfonylurea use during the baseline period, baseline A1c levels (< 7; 7-7.9; 8-8.9; >= 9). X 2 tests were conducted for significance. The rate of hypoglycemia-related hospitalizations was calculated by dividing the number of hospitalizations for hypoglycemia by the number of overall hospitalizations in the same year among the sample.
+
+# RESULTS
+
+A total of 9,020 unique patients had 10,639 hypoglycemia-related hospitalizations from the start date of their baseline period to their date of death or the end of 2016. The rate of hypoglycemia-related hospitalizations declined from 2.3% to 1.8%, the decline being most prominent from 2007 to 2015. The downward trend was similar across most of the sociodemographic and clinical parameters. Among the 9,020 patients, the frequency of patients hospitalized for hypoglycemia increased from 1.2% to 4.7% (P< 0.0001) from the lowest to highest baseline A1c range. Among the users of insulin and sulfonylureas, 3.8% and 2.2% were hospitalized for hypoglycemia compared to non-users at 1.3% and 1.6% (P<0.0001), respectively. African American and Hispanic patients were hospitalized for hypoglycemia at a rate of 4.1%, compared to 1.6% of the remaining sample (P<0.0001). The frequency of patients 75 years or older was 2.0% compared to the 1.8% of younger patients (P< 0.0001).
+
+# CONCLUSIONS
+
+The rate of hypoglycemia-related hospitalizations in veterans has declined since 2005, although African Americans, older individuals, insulin and sulfonylurea users and those with higher A1c levels remain at greater risk. These findings may inform efforts to individualize A1c target values to prevent potential overtreatment and complications of hypoglycemia.
+
+# TRIAL DESIGN FOR INEFFECTIVENESS RESEARCH: A MIXED-METHODS SURVEY
+
+Kevin R. Riggs1, 2; Joshua Richman1, 2; Stefan Kertesz3; Sara J. Knight4, 5. 1University of Alabama at Birmingham, Birmingham, AL; 2Birmingham VA Medical Center, Birmingham, AL; 3Birmingham VA Medical Center & U. Alabama Birmingham, Homewood, AL; 4University of Utah, Salt Lake City, UT; 5VA Salt Lake City Health System, Salt Lake City, UT. (Control ID #3184284)
+
+# BACKGROUND
+
+Many widely used health services may be ineffective. Clarifying the effectiveness of these services could help reduce overuse, but the optimal trial design for evaluating ineffectiveness is uncertain. Some have advocated using equivalence trials (or closely related non-inferiority trials), as demonstrating that placebo or an inactive control is equivalent to an intervention could support the claim that it is ineffective. The objective of this study was to determine whether experienced investigators favor superiority trials or equivalence trials for ineffectiveness research and their reasons for favoring that design.
+
+# METHODS
+
+We conducted an online, mixed-methods survey. We crafted a vignette describing researchers planning to conduct a trial of a common intervention they hypothesized was ineffective. We identified experienced investigators by searching clinicaltrials.gov for trials registered March-September 2017 funded by federal sources that included an email address for the principal investigator. We emailed a link to the survey and two reminders to non-responders. Participants answered one multiple-choice question about which study design they favored, and one free-response question describing their reasoning. Participants were randomized to vignettes that varied in two domains: intervention (medication vs. placebo, or surgical procedure vs. sham procedure) and outcome (pain, or morbidity and mortality). We used content analysis to identify related reasons from free-response answers.
+
+# RESULTS
+
+139 participants completed the survey (completion rate 37.5%). Overall, 56.8% favored superiority trials, 27.3% favored equivalence trials, and 15.8% were unsure. Responses did not differ by intervention (p=0.56) or outcome (p=0.74). 95 participants included a free text response to explain the reason for their selection. Themes identified for favoring superiority trials were: 1) evidence of superiority should be required to justify active treatment, 2) superiority trials are more familiar, 3) placebo should not be the comparator in equivalence trials, and 4) superiority trials require smaller sample sizes. Themes identified for favoring equivalence trials were: 1) negative superiority trials represent a lack of evidence of effectiveness rather than evidence of ineffectiveness, and 2) the research hypothesis should not be the same as the null hypothesis. Many responses were nonspecific or did not address differences between the trial designs, so did not contribute to themes.
+
+# CONCLUSIONS
+
+Equivalence trials may have the potential to generate evidence supporting the ineffectiveness of some interventions, but do not appear to be favored by experienced investigators for this purpose at this time. General lack of familiarity with equivalence trials is a contributing factor. Other factors—such as uncertainty about the appropriateness of using placebo as a comparator—may represent misconceptions about equivalence trials. More debate is needed about the optimal design of ineffectiveness research.

@@ -1,0 +1,43 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS
+
+This study provides early evidence that the CM model is improving outcomes and reducing costs for Medicaid patients in Shelby Co. Despite serving sicker patients, CM generally achieved better results for TANF and ABD ND patients: less ED visits, hospitalizations, hospital days, and specialist visits, resulting in lower health care use. Other providers performed better for members ages 14-20 and for LTSS members. Staff feel they are building relationships, yielding improved outcomes and cost savings. This study suggests that the model has potential to reduce costs and improve care for Medicaid patients. Future work is needed to further assess key components of the model and its added impact on clinical outcomes.
+
+Payers might incentivize beneficiaries to see clinicians with lower rates of low-value ordering while health systems might use clinical decision support or specialist e-consultations. This claims-based study is limited by clinical details that would confirm intentions behind billed services, so we used conservative estimates of cascade events relative to a comparison group. We did not capture other cascade elements such as complications from cascade procedures or psychological or financial harm to patients. Further work might explore these aspects of cascades and examine cascades following other low value events.
+
+# CASCADES FOLLOWING LOW-VALUE CARE: PRE-OPERATIVE ELECTROCARDIOGRAM FOR CATARACT SURGERY
+
+Ishani Ganguli 1; Claire Lupo 1; Alexander J. Mainor 2; Stephanie Raymond 2; Qianfei Wang 2; E. John Orav 1; Chiang-hua Chang 2; Nancy E. Morden 3; Meredith Rosenthal 4; Carrie H. Colla 2; Thomas D. Sequist 1. 1 Brigham and Women's Hospital, Chestnut Hill, MA; 2 The Dartmouth Institute for Health Policy and Clinical Practice, Lebanon, NH; 3 The Dartmouth Institute of Health Policy and Clinical Practice, Lebanon, NH; 4 TH Chan Harvard School of Public Health, Boston, MA. (Control ID #3183156)
+
+# BACKGROUND
+
+Little is known about downstream health care use triggered by low-value services. Measurement of such "cascades" is essential to understanding the full impact of low-value care. We described cascades (tests, treatments, visits, hospitalizations, and new diagnoses) following a common low-value service: pre-operative electrocardiogram (EKG) for patients undergoing cataract surgery.
+
+# METHODS
+
+We used a random 20% sample of Fee-for-Service Medicare beneficiaries age 66 years or older without known heart disease who underwent cataract surgery 2014-2015. We compared beneficiaries who received a pre-operative EKG to those who did not. Our primary outcome was cascade event rates and associated charges in the 90 days following pre-operative EKG (or in a matched timeframe for the comparison group). Among those who received a pre-operative EKG, we determined patient, physician, and area-level characteristics associated with experiencing a potential cascade.
+
+# RESULTS
+
+Among 110,183 cataract surgery recipients, 11.3% (n=12,408) received a pre-operative EKG; of those, 14.4% (n=1,789) had at least one potential cascade event. Those who received a pre-operative EKG experienced 5.11 [95%CI, 3.96-6.25] additional events per 100 beneficiaries relative to the comparison group. This included 2.18 [95%CI, 1.34-3.02] tests, 0.33 [95%CI, 0.19-0.46] treatments, 1.40 [95%CI, 1.18-1.62] new patient cardiology visits, and 1.21 [95%CI, 0.62-1.79] new cardiac diagnoses. Payment for the additional services was $559 per Medicare beneficiary [95%CI, $342-$775], or $35 million annually, in addition to the $3.3 million paid for the pre-operative EKGs across all Medicare beneficiaries. Among pre-operative EKG recipients, those who were older (Adjusted Odds Ratio (AOR) 1.43 for 75-84 years old vs. 66-74 years old [95%CI, 1.29-1.59]), had more chronic conditions (AOR 1.19 for each additional Elixhauser condition [95%CI, 1.15-1.23]), lived in more cardiologist-dense areas (AOR 1.06 [95%CI, 1.03-1.10]), or had their pre-operative EKG performed by a cardiac specialist (AOR 1.29 [95%CI, 1.13-1.48]) were more likely to experience a potential cascade.
+
+# CONCLUSIONS
+
+Care cascades following pre-operative EKG for cataract surgery are infrequent but costly. We may see substantial savings from policy and practice interventions to reduce both low-
+
+# CASE MANAGEMENT AS A SOLUTION TO ADDRESSING HEALTH RELATED SOCIAL NEEDS: COMPETING RATIONALES AND UNINTENDED CONSEQUENCES
+
+Elena Byhoff 1; Lauren A. Taylor 2. 1 Tufts Medical Center, Boston, MA; 2 Harvard Business School, Boston, MA. (Control ID #3182959)
+
+# BACKGROUND
+
+Health care systems are building capacity to address health related social needs. Community based organizations (CBOs) are strategically investing in Case Management (CM) activities to better position themselves as partners with health care systems to address health related social needs. Little is known, however, about how CBOs define CM and what consequences might be of significant investment in CM by the social service sector.
+
+# METHODS
+
+We used mixed methods to understand how Massachusetts CBO leaders envision partnership with health care systems to address unmet social needs. We recruited executives and senior staff working in social service sectors identified as priorities by policy-makers and health care administrators. Participants completed a 15-item survey on organizational structure and scope of services, including a variety of CM services. Participants also took part in semi-structured interviews lasting 1 hour. We used a snowball sampling strategy to recruit additional participants until achieving thematic saturation. Interviews were recorded, transcribed and inductively coded to identify themes highlighting CM strategies.
+
+# RESULTS
+
+Leadership and executive staff (n=46) from CBOs across Massachusetts represented 9 social services sectors: food, housing, community centers, legal services, transportation, workforce development, domestic violence, and early childhood education. Survey responses (response rate 87%) indicated that CM services were described as core organizational functions across nearly all participating CBOs. CM services included screening for social needs and referring to appropriate organizations, assessing eligibility for services and application assistance for services or entitlements. Qualitative data analysis suggested that CBO leadership noted several ways in which CM was seen as a high-value strategy, explaining the popularity of CM services statewide. The perceived mechanisms through which CM produced value were: (1) CM improves patient care by delivering high touch interventions for complex patients; (2) CM allows CBOs to grow their organizational footprint by increasing billable services and referral capacity; and (3) CM facilitates inter-organizational partnership to reduce overall system complexity and navigate patients more effectively to needed resources. Nevertheless, interviewees expressed explicit concern that over-investment in CM services may medicalize social service delivery and increase demand and wait-times for already limited social services. Investment in CM services by both health care and many CBOs may also create CM redundancy, thereby unintentionally overburdening patients most in need of simplified care and assistance with multiple competing CMs.

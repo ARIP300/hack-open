@@ -1,0 +1,75 @@
+# ABSTRACTS JGIM
+
+to teach the foundations of clinical reasoning to both educators and students. For selected cases, the ECR team has produced case presentations and instructor guides. These novel and freely downloadable materials are available on the JGIM website. However, site analytics reveal that: although these materials are frequently accessed (~8100 users in 2017), users do not remain engaged with the material (~90% of visitors visit only one page in the website, i.e. the bounce rate = ~90%). The ECR editorial team has hypothesized that the lack of engagement is due to poor website design.
+
+# 1.
+
+The goal of this project is to create a new, streamlined, and easy-to-use ECR website to promote free access to case-based clinical reasoning materials.
+
+# 2.
+
+The improved design will be evaluated for the hypothesized increased user engagement. The specific target is to reduce the bounce rate from ~90% to 70%, measured over the course of 6 months (September 2018 to March 2019).
+
+# 3.
+
+The design will also be evaluated with the validated LIDA assessment tool from Minervation, a tool which provides a granular quantitative scoring of a website's usability, accessibility, and reliability.
+
+# SETTING AND PARTICIPANTS:
+
+ClinicalReasoning.org is accessible to educators and students worldwide.
+
+# DESCRIPTION:
+
+An updated ECR website was designed using the foundational principles of visual design — proximity, alignment, repetition, and contrast. In summary, these principles respectively state that: (1) logically related elements should be placed close together, (2) elements should be purposefully positioned, (3) style conventions and patterns should be consistent throughout, and (4) use large (rather than small) visual differences in color, typography, and size. In addition to visual improvements, the redesign also included simplification of website navigation. ClinicalReasoning.org went live on September 2018, and provides free access to the ECR teaching materials.
+
+# EVALUATION:
+
+Design evaluation utilized the LIDA tool, which revealed an improvement in usability from 29 to 48 on a 54 point scale. Data from Sept. to Dec. 2018, when compared to data from Jan. to Dec. of 2017, reveals a large and statistically significant improvement in bounce rate from 87.70% (n = 8100 views) to 47.49% (n = 1625 views), p < 0.0001 using N-1 chi-squared.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The freedom of web resources has increased accessibility of education materials. Anyone in the world with any level of training can access ECR resources to learn, practice, and teach clinical reasoning. However, the freedom of web resources also creates an unstructured environment, where user interaction can suffer because of poor or inconsistent design. Incorporation of visual design principles and a user-centric approach to education material greatly increases immediate visual appeal and long-term user engagement.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+ClinicalReasoning.org
+
+# CREATING A LEADERSHIP CURRICULUM FOR WOMEN IN MEDICINE: WOMEN IN LEADERSHIP DEVELOPMENT (WILD)
+
+Bridget Keenan; Anne G. Montgomery; Anjali Thakkar; Catherine Burke; Haley Crossman; Shirin Hemmat; Arielle Klepper; Lekshmi Santhosh. UCSF, San Francisco, CA. (Control ID #3180516)
+
+# NEEDS AND OBJECTIVES:
+
+Though women account for nearly half of US medical students and residents, they are underrepresented at higher levels in academic medicine. A lack of structured leadership skills curricula targeting women trainees contributes to this gap. The Women in Leadership Development (WILD) curriculum was therefore developed within the Department of Medicine at the University of California, San Francisco (UCSF) with the goal of building community and providing leadership training for women trainees hoping to launch their careers in academic medicine.
+
+# SETTING AND PARTICIPANTS:
+
+WILD serves women residents and fellows at UCSF. During the first two years of programming (2017 and 2018), a total of 77 trainees within the Department of Medicine attended a daylong WILD symposium. Based on the Symposium's success, a yearly longitudinal curriculum was implemented at the GME level for the 2018-2019 academic year, serving women trainees across all specialties.
+
+# DESCRIPTION:
+
+The WILD Symposium is a daylong course with the objectives of skill-building, mentorship, and networking. Skill sessions focus on public speaking, conflict resolution, microaggressions, and advocacy, with presenters from both inside and outside of academic medicine. This year, we have expanded WILD to include monthly skill-building sessions for women trainees across specialties ("WILD: Series") as well as quarterly events for trainees within the Department of Medicine focused on networking and community building ("WILD: IM").
+
+# EVALUATION:
+
+Prior to implementation of the WILD Symposium, we conducted a needs assessment to survey women residents about their interest in a leadership course. 93% had some level of interest. Topic areas of interest included negotiation, CV development, self-promotion, communication, networking, work-life balance, and the art of "saying no." Of 77 participants surveyed after the event, over 90% agreed that participation in the symposium was a useful experience and would strongly recommend the session to other trainees. The public speaking session received the highest reviews.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+While challenges remain for women trainees in academic medicine, leadership training represents one possible solution to address gender disparities. The strong positive response to the WILD Symposium reinforced the need for improved leadership training among women residents and fellows at UCSF.
+
+# CREATING CLINICIAN EDUCATORS: ASSESSMENT OF A RESIDENT-AS-TEACHER ELECTIVE IN GRADUATE MEDICAL EDUCATION.
+
+Geoffrey V. Stetson1; Jessica Beaman1; Adeena Khan2; Bradley A. Sharpe2. 1University of California, San Francisco, San Francisco, CA; 2UCSF, San Francisco, CA. (Control ID #3183696)
+
+# NEEDS AND OBJECTIVES:
+
+Residents are expected to assume many roles: clinician, team leader, and teacher. At UCSF, there are brief formal didactics focused on teaching but no longitudinal experience for internal medicine residents to gain the skills necessary to be a successful teacher. In Spring of 2015, a needs assessment using focus groups revealed uniform desire for a primer in foundational clinical teaching skills. Key experts and stakeholders gathered to determine objectives for a month-long elective: understand best practices and demonstrate improvement in the areas of outpatient precepting, delivering feedback, whiteboard presentations, public speaking, entrusting learners, and teaching at the bedside.
+
+# SETTING AND PARTICIPANTS:
+
+Participants were third-year internal medicine residents at UCSF. The elective accommodates one learner per month. The course is spread across the three principal learning sites of our university. In our first two years we worked with learners during 22 of the available 24 month-long sessions.
+
+# DESCRIPTION:
+
+The elective consists of 11 unique and tailored half-day activities which build foundational concepts that support the learning objectives. Opportunities for implementation of skills are provided, followed by targeted feedback, and an opportunity to demonstrate improvement. Each activity or exercise has an accompanying faculty mentor, pre-reading, and reflection activity. Assessment of the elective was done using a Likert-style retrospective pre/post self-assessment method (Skeff 1992) to analyze changes in confidence level related to each of the teaching skills addressed in the curriculum and satisfaction with the elective experience (Kirkpatrick Levels 1&2). 20/22 learners completed the end-of-rotation evaluation.

@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Metabolic Acidosis and Euglycemic DKA
+
+Metabolic acidosis, elevated anion gap and ketosis. Most often, DKA occurs in the setting of hyperglycemia, however some patients have normal blood glucose, a condition termed euglycemic DKA. SGLT-2 inhibitors are associated with an increased incidence of DKA. These medications inhibit glucose uptake in the proximal tubules of the kidney. The resultant glycosuria and reduced blood glucose concentrations contribute to increased glucagon secretion and ketone production as well as decreased insulin production. Furthermore, ketone elimination by the kidney is reduced further promoting ketonemia. In this ketogenic setting, surgical stress, infection and extended fasting can precipitate ketoacidosis. SGLT-2 inhibitor associated euglycemic DKA has been associated with poor B cell functional reserve, longer duration of DM, poor control of DM, lower BMI, and Type 1 DM.
+
+# CONCLUSION
+
+DKA is a life threatening complication of DM. SGLT-2 inhibitors have been associated with euglycemic DKA and require treatment with insulin infusion and discontinuation of the medication.
+
+# Neuropsychiatric Manifestations of Ectopic ACTH Syndrome
+
+Our case demonstrates that neuropsychiatric manifestations significantly contribute to morbidity and can disrupt the patient's ability to receive appropriate treatment. The preferred treatment of ectopic ACTH syndrome is surgical resection of the ACTH-secreting tumor. However, up to 20% of tumors are never identified despite thorough evaluation thus necessitating management with bilateral adrenalectomy or adrenal enzyme inhibitors.
+
+# CONCLUSION
+
+Early diagnosis of ECS is challenging but critical for timely management and potential cure. Neuropsychiatric symptoms of ECS can disrupt care and make follow up challenging. In these circumstances, bilateral adrenalectomy or adrenal enzyme inhibitor therapy may have to be considered earlier.
+
+# SHIFTY MIND AND SHAKEN VOICE
+
+Bishir Clayton1; Ann Goh2; Michelle Sweet2. 1Rush University, Chicago, IL; 2Rush University Medical Center, Chicago, IL. (Control ID #3186033)
+
+# SHE'S GONE BANANAS! A CASE OF ECTOPIC CUSHING'S SYNDROME PRESENTING AS HYPOKALEMIA AND PARANOID DELUSIONS
+
+Christopher C. Marino; Michelle-Linh Nguyen. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3184590)
+
+# LEARNING OBJECTIVE #1
+
+Recognize the neuropsychiatric manifestations of ectopic Cushing's syndrome (ECS) and their implications on management.
+
+# LEARNING OBJECTIVE #2
+
+Distinguish the clinical features and management of ECS from Cushing's disease.
+
+# CASE
+
+A 67-year-old woman with previously controlled hypertension and recent admission for hypokalemia presented with the urging of her daughter for evaluation of paranoid behavioral changes and hypokalemia refractory to lisinopril and spironolactone. Among several unusual behaviors, she became increasingly reclusive, suspicious of family members, and began donating large sums of money to organizations. On admission, she was found to be hypertensive with plethora, proximal muscle weakness, and peripheral edema. Preceding evaluation for hyperaldosteronism was unremarkable. Plasma cortisol and ACTH levels were markedly elevated. Low-dose and high-dose dexamethasone suppression tests failed to suppress her cortisol. Pituitary MRI and inferior petrosal sinus sampling did not localize a pathologic pituitary ACTH source supporting a diagnosis of ECS. Investigation for the ACTH source with FDG-PET and octreotide scintigraphy failed to identify the ectopic lesion. She ultimately underwent laparoscopic bilateral adrenalectomy and her hypokalemia and neuropsychiatric symptoms resolved.
+
+# IMPACT/DISCUSSION
+
+ECS is a rare condition with high morbidity and mortality prompting the need for early recognition and management. Localizing the ectopic source of ACTH is critical as surgical resection is frequently curative and ACTH-secreting tumors are often malignant. Cortisol excess results in a multitude of common disease findings including cardiovascular disease, hypertension, diabetes, myopathy, and osteoporosis, therefore making the diagnosis challenging on initial evaluation. Resistant hypokalemia has been found to be a more prevalent feature of ECS than of Cushing's disease and is associated with a higher severity of hypercortisolism and worse prognosis. Depression, anxiety, and cognitive impairment are the most common neuropsychiatric symptoms, though psychosis and mania can also occur. Neuropsychiatric symptoms generally improve with resolution of hypercortisolism though approximately one-third of patients have been found to have residual symptoms one year in.
+
+# LEARNING OBJECTIVE #1
+
+West Nile Virus (WNV) can lead to a variety of neurologic symptoms such as dysphasia, parkinsonism, and bulbar symptoms.
+
+# LEARNING OBJECTIVE #2
+
+West Nile Virus Encephalitis can have an oscillating presentation which can delay diagnosis.
+
+# CASE
+
+A 70 year old female with past medical history of diabetes mellitus presented to the emergency department with a 3 day history fever, confusion, and generalized weakness. She had simultaneously developed nausea and anorexia for 2 days that was followed by diarrhea. She was admitted with a diagnosis of viral gastroenteritis, improved with supportive care, and was discharged. Two days after discharge, she began to stare blankly and did not respond to any questions. The fluctuating cognition was accompanied by malaise and persistent fevers. She returned to the hospital and was noted to have oral and abdominal tremulousness. Her labs were significant for leukocytosis with predominant neutrophilia in both serum and CSF, normal CSF glucose, elevated CSF protein, and negative HSV PCR. A CT scan of her brain showed no acute abnormalities. On day 2 of hospitalization, she appeared to be responsive early in the day, but later would not respond to questions or commands. This wavering course continued through hospital day 4 despite labs indicating a down-trending WBC and negative blood cultures. On day 4 of hospitalization her serum and CSF West Nile Virus IgM returned elevated. She continued to improve with supportive care and on day 8 was transferred for acute rehabilitation.
+
+# IMPACT/DISCUSSION
+
+WNV can cause a variety of neurologic symptoms in affected individuals that can include combination of parkinsonism, tremors, myoclonus, and encephalitis. Bulbar weakness with symptoms of dysphagia and respiratory failure has been experienced by more than half of individuals. The time it takes from onset of symptoms to development of neurologic disease typically ranges from one day to one week. This patient presents with two notable findings in WNV encephalitis. She experienced bulbar symptoms including dysphasia. While the patient had facial tremors during the course of her illness, the difficulties she displayed appeared to be a challenge of speech production rather than articulation. The fluctuant features of the disease course are also of interest. The initial prodrome that she displayed stereotyped a viral illness with associated confusion and somnolence. The onset of overt encephalitis was unexpected.
+
+# CONCLUSION
+
+Awareness of the variable presentations of West Nile Encephalitis may allow clinicians to consider West Nile as a possible etiology of illness in the face of a variety of neurological and/or infectious symptoms that can oscillate in severity.

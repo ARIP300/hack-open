@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# THE EFFECT OF STARTING THE PROTEIN SPARING MODIFIED FAST ON WEIGHT CHANGE OVER 5 YEARS: A COHORT ANALYSIS
+
+Elizabeth Pfoh1; Gilbert Lowenthal1; Laura Jeffers1; Bartolome Burguera1; Derrick Cetin1; Bo Hu1; Niyati M. Gupta2; Michael B. Rothberg1. 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3185236)
+
+# BACKGROUND:
+
+Ketogenic diets have been highlighted as a way to lose weight while experiencing reduced hunger. The protein-sparing modified fast (PSMF) diet induces ketosis and rapid weight loss but is difficult to maintain. Our objective was to track weight change for individuals initiating a PSMF or contrasting diet for up to five years.
+
+# METHODS:
+
+This was a retrospective cohort study of patients in a large integrated health system between 2007 and 2014. We included patients who discussed starting the PSMF diet or had a serum uric acid and a registered dietician visit within 30 days. The main predictor was starting the PSMF diet vs another diet. The main outcome was percent weight change from baseline, calculated quarterly. Patients were censored at their final weight or if they underwent bariatric surgery. After fitting a regression model adjusted for demographic, medication use and specialist visits, we compared the effect of diet on weight change at each time point.
+
+# RESULTS:
+
+Of 1,419 eligible patients, 879 (62%) started the PSMF. The PSMF group was slightly younger (52 vs. 54, p<0.01), with a higher BMI (41.9 vs. 40.4, p<0.001). In the adjusted analysis, patients in the PSMF diet group averaged 2.7% more weight loss than patients in the other diet group (95%CI: -3.5, -2.0, p<0.001). PSMF patients lost more weight initially, but by year 4, there was no difference between the diets. Compared to the control diet, patients starting the PSMF were more likely to experience 5% weight loss at 1 year (55% vs 20%, p<0.001) and 3 years (33% vs. 23% p<0.05), but not 5 years (34% vs 30%, p=0.16).
+
+# CONCLUSIONS:
+
+In clinical practice, the PSMF reliably achieves rapid weight loss in the first six months, but only a small percentage of patients are able to maintain significant weight loss long-term.
+
+# THE FINANCIAL COST OF INTERPROFESSIONAL AMBULATORY TRAINING: WHAT'S THE BOTTOM LINE?
+
+Lauren Block1; Adam Block2; Joseph Conigliaro3; Nancy A. LaVine3. 1Northwell Health, Lake Success, NY; 2New York Medical College, Valhalla, NY; 3Northwell Health, New Hyde Park, NY. (Control ID #3181791)
+
+# BACKGROUND:
+
+The goal of interprofessional training programs is to improve clinical care and trainee interest in primary care careers by cultivating a cooperative, patient-centered team culture. Initiation and sustainability of interprofessional training programs is predicated upon familiarity with the benefits and costs associated with program operation. We sought to quantify the additional costs associated with running an interprofessional training program by comparing faculty and staff costs to a traditional residency training program at the same training site.
+
+# METHODS:
+
+The IMPACcT (Improving Patient Access, Care, and cost through Training) program at Northwell Health provides team-based clinical practice, interprofessional (IP) education, and career mentoring to internal medicine residents, medical students, and physician assistant, pharmacy and health psychology trainees. Trainees are supervised by physician, pharmacy, PA, and psychology faculty, with support from a dedicated medical assistant and a patient coordinator. A total of 10 residents are trained annually alongside 60 other IP trainees. Focusing on the additional staffing needs and faculty ratios, we compared annual costs associated with the IP clinic to those of an adjacent traditional clinic which trains 60 residents per year. Both programs meet ACGME staffing requirement for resident supervision, operate on a 4+1 schedule, have equivalent numbers of patient care sessions and have otherwise equivalent overhead costs. As an equal number of patients were seen per resident per week in the IP and traditional models, productivity was considered equivalent. Calculations were made using U.S. Department of Labor median salaries by profession for the state of New York.
+
+# RESULTS:
+
+Faculty and staff to resident ratios were higher in the IP model than the traditional residency training model. The interprofessional model cost $11,390 more per resident per year than the traditional model, a total of $113,897 annually for the ten residents in the program. Main costs were reflective of the higher faculty/staff to resident ratios, including additional salary of $60,292 for pharmacy, $15,272 in psychology, $22,172 in physician (faculty:resident 1:2 IP vs 1:2.5), $8485 in coordinator (1:2 IP vs 1:3), and $7676 in medical assistant salaries (1:2 IP vs 1:3). Benefits of improved quality, training and patient experience were not studied in this analysis.
+
+# CONCLUSIONS:
+
+Operating an interprofessional training program costs an additional $11,390 per resident per year, largely in higher faculty and staff to resident ratios and the services of psychology and pharmacy faculty in the IP training clinic. Given this was an interprofessional training program, these costs also funded the training of additional pharmacy, PA, and psychology students. In an academic setting, some of these costs may be funded by grants and other agreements.
+
+# THE FIRST 2 YEARS OF THE ACA: QUALITY, COST, UTILIZATION, AND PATIENT EXPERIENCE
+
+David M. Levine1; Jeffrey A. Linder2; Bruce E. Landon3. 1Brigham and Women's Hospital, Boston, MA; 2Northwestern University Feinberg School of Medicine, Chicago, IL; 3Harvard Medical School, Boston, MA. (Control ID #3185562)
+
+# BACKGROUND:
+
+The Affordable Care Act (ACA) expanded insurance coverage to Americans earning less than 400% of the federal poverty level (FPL) via subsidies for private insurance and, in states that elected it, Medicaid expansion. Prior work has shown resulting improvements in insurance rates and experience with care and decreased high-burden spending among the poor. No nationally-representative analysis has examined the association of the ACA with quality, cost, utilization, and patient experience.
+
+# METHODS:
+
+We analyzed data from the 2011 to 2015 Medical Expenditure Panel Survey (annual response rate: 48%-55%), a nationally representative annual survey of non-institutionalized Americans and their respective clinicians, hospitals, pharmacies, and employers. We compared Americans, 18 to 65 years old, earning greater than (n=29248) or less than (n=71405) 400% of the FPL before (2011 to 2013) and after (2014 and 2015) the ACA using a difference-in-differences (DiD) approach with adjustment for 20 sociodemographic covariates. For quality and experience outcomes, we examined previously published composites based on 43 individual measures: 5 "high-value" care composites (e.g. cancer screening); 3 "low-value" care composites (e.g. inappropriate imaging); an overall patient experience rating; a physician communication composite; and an access-to-care composite. For cost outcomes, we examined total cost of care and out-of-pocket expenditures. For utilization, we examined outpatient, emergency, and inpatient encounters and prescribed medicines.

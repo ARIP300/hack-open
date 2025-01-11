@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# Associations Between NEJM Knowledge+ Usage and ABIM IM-MOC Examination Performance
+
+Case-controls who did not use the NEJM Knowledge+ product. One limitation of our analysis is that physicians may have not used NEJM Knowledge+ exclusively (e.g., they could have also taken an exam review course). Physicians were eligible for the study if they were non-grandfather general internists. Case-control matched characteristic included sex, birth country (U.S. vs. international), medical school country (U.S. vs. international), year of MOC examination, MOC cycle number (1st vs. 2nd), examination attempt number within the MOC cycle (1 vs. 2) and decile ranked score on the first attempt at the initial IM certification examination. Performance on the ABIM IM-MOC examination, which was the primary outcome of interest, was operationalized as indicators for 1) passing the ABIM IM-MOC examination, 2) having an examination score in the top quartile of the ABIM IM-MOC examination and 3) being in the bottom quartile on the ABIM IM-MOC examination, focusing on top and bottom quartile ranks. Quartile cut-offs were calculated across all physicians attempting the examination within a year.
+
+# RESULTS:
+
+When comparing NEJM Knowledge+ users to non-users on passing the MOC examination, the difference was 9.6% (p=<0.001) with a regression adjusted difference of 10.6% (p=<0.001). When comparing NEJM Knowledge+ users to non-users on having an examination score in the top quartile on the MOC examination, the difference was 9.6% (p=0.016) with a regression adjusted difference of 10.7% (p=0.009). Further, when comparing NEJM Knowledge+ users to non-users on being in the bottom quartile on the MOC examination, the difference was -9.6% (p=0.003) with a regression adjusted difference of -10.8% (p=<0.001).
+
+# CONCLUSIONS:
+
+Physicians who were users of NEJM Knowledge+ had better performance on ABIM's IM-MOC examinations than similar physicians who were not users.
+
+# Associations Between Age Disparities in Type 2 Diabetes and Rates of Diabetes-Related Hospital Use and Diabetic Complications
+
+David C. Lee1, 1; Ta'Loria Young2; Christian A. Koziatek1; Christopher J. Shim3; Marcela Osorio1; Andrew J. Vinson1; Joseph Ravenell1; Stephen P. Wall1. 1New York University School of Medicine, New York, NY; 2Touro College of Osteopathic Medicine, New York, NY; 3California Northstate University College of Medicine, Elk Grove, CA. (Control ID #3138339)
+
+# BACKGROUND:
+
+Current guidelines for diabetes screening start at age 45, but disparities in certain subgroups exist and poor diabetic outcomes are known to cluster in specific neighborhoods. The objective of this study was to quantify disparities in the age distribution of patients with type 2 diabetes by sex, race/ethnicity, and geographic location. We also studied how patient age relates to diabetes-related hospital use and development of diabetic complications.
+
+# METHODS:
+
+Using all-payer hospital claims data, we performed a cross-sectional analysis of patients with type 2 diabetes. Our study included patients in New York City as identified by geocoded home address. Patients aged 10 to 100 years old were identified as having type 2 diabetes based on diagnosis codes from emergency claims data from 2011-2015. Our main measures included the estimated prevalence of type 2 diabetes at each year of life, the age distribution of patients as stratified by decade, and the comparison of patient age in geographic hotspots of frequent diabetes-related hospital use and diabetic complications.
+
+# RESULTS:
+
+We identified 576,306 unique patients diagnosed with type 2 diabetes, which represented over half of all cases in New York City. Minority subgroups were on average 5.5 to 8.4 years younger than non-Hispanic White patients. Males with type 2 diabetes were 2.6 years younger than females. At 45 years of age, the estimated prevalence of type 2 diabetes was 10.9% among Black patients compared to 5.2% among White patients. In our geospatial analyses, patients with type 2 diabetes were on average 5.9 years younger in hotspots of diabetes-related emergency department use and inpatient hospitalizations. The average age of patients with type 2 diabetes was 1.5 to 2.2 years younger in hotspots of microvascular diabetic complications.
+
+# CONCLUSIONS:
+
+We identified profound disparities in the age of patients with type 2 diabetes among minorities and in neighborhoods with poor health outcomes. The younger age of these patients may be due to earlier onset of diabetes and/or earlier death from diabetes-related complications. Our findings demonstrate the need for geographically targeted interventions that promote earlier diagnosis and better glycemic control to reduce disparities in diabetes burden.
+
+# Age Distribution of Patients with Type 2 Diabetes by Race and Ethnicity
+
+|Age by Decade|White|Black|Hispanic|Asian|
+|---|---|---|---|---|
+|10s|0%|0%|0%|0%|
+|20s|5%|5%|5%|0%|
+|30s|10%|10%|10%|0%|
+|40s|15%|15%|15%|0%|
+|50s|20%|20%|20%|0%|
+|60s|25%|25%|25%|0%|
+|70s|30%|30%|30%|0%|
+|80s|0%|0%|0%|0%|
+|90s|0%|0%|0%|0%|
+
+# Associations Between Neighborhood and Police Violence, Hypervigilance, and Hypertension Among Racial/Ethnic Minorities in Chicago
+
+Nichole Smith 1; Dexter Voisin 1; Joyce P. Yang 2; Elizabeth L. Tung 1. 1 University of Chicago, Chicago, IL; 2 Stanford University School of Medicine, Palo Alto, CA. (Control ID #3183498)
+
+# BACKGROUND:
+
+Hypervigilance, a state of heightened awareness and watchfulness, is a consequence of violence that has been linked to negative psychosocial outcomes. While hypervigilance has been well-documented in Veteran populations, it has been poorly quantified in community populations that may experience chronic exposure to violence. Moreover, the long-term health effects of hypervigilance are not well understood. The objective of this study was to examine community and police violence, their association with hypervigilance, and the health consequences of hypervigilance in a sample of predominantly racial/ethnic minority adults.
+
+# METHODS:
+
+Primary care patients (N=506) were recruited from clinics in 2 epicenters of violent crime and surveyed using computer-assisted personal interviewing software. Lifetime violence exposure was measured using the Brief Trauma Questionnaire (BTQ), which included items for being a direct victim of community violence, or a witness, friend or relative of someone who died violently. BTQ items were also adapted to query participants about exposure to police violence. Hypervigilance was measured using the Brief Hypervigilance Scale. Linear regression models were used to assess.

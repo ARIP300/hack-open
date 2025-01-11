@@ -1,0 +1,75 @@
+# JGIM
+
+# ABSTRACTS
+
+# ISRAEL DEACONESS MEDICAL CENTER, BOSTON, MA; 3BIDMC
+
+Trumble1. 1Cambridge Health Alliance, Cambridge, MA; 2Project Bread, Brookline, MA. (Control ID #3177574)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite expanding recommendations to use 24hr ambulatory blood pressure monitoring (ABPM) in the diagnosis and management of hypertension (HTN), access to it is limited for many academic practices.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- Create a multidisciplinary outpatient HTN program within a large, urban academic primary care practice to improve HTN management.
+- Develop a sustainable model of ABPM embedded in primary care for the diagnosis and management of HTN.
+- Execute an educational curriculum to teach primary care residents to interpret results of ABPM and integrate them into a comprehensive HTN program.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Healthcare Associates is a large, academic, urban practice in Boston, Massachusetts serving nearly 43,000 patients. We have over 60 faculty physicians, 7 nurse practitioners, 125 residents and 200 other support staff including clinical social workers, medical assistants, LPNs, RNs and phone staff. Embedded within this larger practice, we developed a collaborative multidisciplinary hypertension clinic with a focus on offering 24hr ambulatory blood pressure monitoring and providing office visits for rapid medication titration and patient education. Our clinic occurs weekly and is staffed with an attending preceptor, a doctorally-trained pharmacist, 1-2 medical residents, and LPN/RN staff. Each clinic session begins with a 30-minute teaching session led by residents, staff, or faculty followed by resident- and pharmacist-staffed office visits.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+- Number of patients and visits for HTN evaluation/treatment and ABPM
+- Proportion of patients with medication change
+- Hypertension-specific teaching modules
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+- In 2018, we saw 367 patients overall, 148 for ABPM, and 219 for medication adjustment or follow-up.
+- In patients seen for ABPM, there is an estimated medication change rate of 54%. In those referred to confirm a new diagnosis of HTN, 30% were found to have white coat hypertension.
+- We have developed 12 new teaching modules on a variety of HTN topics that were selected based on resident needs.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+- Challenges that we faced in developing this clinic were myriad and included material costs for monitors and software, personnel time for fitting patients with monitors and uploading the results and educational gaps for providers to learn to interpret results of ABPM testing.
+- Creating a multidisciplinary team allowed for each provider to work at the top of their licensure.
+- ABPM is a powerful diagnostic and educational tool for managing hypertension, our most common reasons for referral include ruling out white coat hypertension and evaluating resistant/difficult to control hypertension.
+- Training residents to interpret and explain ABPM to patients is a valuable and rewarding addition to their internal medicine training.
+
+# IMPLEMENTING AN ELECTRONIC SYSTEM TO SCREEN AND ACTIVELY REFER TO COMMUNITY BASED AGENCIES FOR FOOD INSECURITY IN PRIMARY CARE
+
+Amy Smith1; Leah Zallman1; Kathleen Betts1; Lisa Brukilacchio1; Fiona McCaughan; Erin McAleer2; Noreen Kelly2; David Elvin1; Lisa M.1
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Health related social needs such as food insecurity are prevalent in safety net healthcare settings yet these settings lack feasible systematic ways to actively refer patients to community based agencies (e.g. refer to agencies that will reach out to patients).
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- Implement a systematic screening program for food insecurity in a safety net healthcare setting and integrate into the electronic health record.
+- Actively and electronically refer patients who screen positive to a community based agency.
+- Examine feasibility of the program.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We implemented a systematic screening program for food insecurity, integrated into the electronic health record, that enables electronic active referral to a community based agency. Patients complete paper forms which are entered into the electronic record by clinic staff. If patients agree that we can share their contact information with a community based agency, our system automatically faxes a referral to a community based agency that addresses food insecurity. We initially piloted this program on paper, then integrated into the electronic medical record and rolled it out to 16 primary care clinics of an integrated safety net health care system. We are currently piloting systems to allow patients to enter their own data via electronic tablets.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Ultimately, we aim to reduce the number of health related social needs and improve health outcomes (e.g., quality and costs). In the short term, we use the following measures:
+
+- Number of individuals screened for food insecurity and referred to a community based agency.
+- Proportion of patients reached by community based agency.
+- Number supplemental nutrition assistance program screenings and community resource referrals (e.g., information provided on resource) by community based agency.
+- Provider and staff feedback on burden and feasibility.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+To date, we have screened over 8,000 patients for food insecurity, of whom 25% screened positive for food insecurity. Our program has resulted in 1,561 referrals to a community based agency. Of these patients, 973 (62%) were successfully reached by the community based agency and offered SNAP screening. Of these, 428 (44%) accepted screening for SNAP and 56% declined because they were already enrolled or were not sure if they were enrolled. The community based agency provided information to patients on 2,001 resources for health related social needs such as food pantries, meal programs and appropriate state agencies. Feedback from providers and staff indicate the program is well received and feasible in a busy primary care setting.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+A program integrated into the electronic medical record that systematically screens for food insecurity and actively refers patients to a community based agency program is feasible in a safety net setting. Such programs can actively connect patients with community based agencies that address health related social needs.

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #2:
+
+Recognize importance of investigation of zoonotic staphylococcal infections to ensure correct species identification
+
+# CASE:
+
+A 57-year-old man with past medical history of hypertension and left partial nephrectomy for renal cell carcinoma presented to the emergency department with several days of fevers, diarrhea, and fatigue. On examination, the patient was lethargic and febrile to 103 degrees Fahrenheit with a blood pressure of 80/50 mmHg. His labs were notable for an elevated serum lactic acid of 2.06 with the remainder of labs otherwise unremarkable. Given complaints of diarrhea, a CT of his abdomen was performed showing enterocolitis. The patient was admitted for concern of sepsis and a set of blood cultures were collected on admission that ultimately grew Staphylococcus hyicus. He was started on fluids and IV Vancomycin resulting in improvement in his clinical condition. A subsequent trans-thoracic echocardiogram (TTE) and trans-esophageal echocardiogram (TEE) were negative for endocarditis. After the cultures grew this unusual organism, the patient was questioned more pointedly. He admitted recently visiting a farm where sausage had just been made from feral hogs. He had eaten the sausage just days prior to onset of illness and he further reported that he had undergone extensive dental work just prior to that meal. This additional history helped explain how our patient may have been infected from bacterial translocation/seeding to the blood.
+
+# IMPACT/DISCUSSION:
+
+Staphylococcus hyicus is a part of the natural flora of several animals. It is mainly involved in exudative epidermitis in pigs but has also been isolated from skin infections in horses, mastitis in cows, and even from a human wound infection from a donkey bite. On our review of literature, there was only one other case of S. hyicus bacteremia in a patient who came in close contact with his piglets. In our case, the patient's presumed source of infection came from consumption of wild hog meat after recent dental work.
+
+# CONCLUSION:
+
+This case highlights several important points for clinical practice when making the diagnosis. First, it is important to note that S. hyicus can present as sepsis in humans, especially those that are immunocompromised. Second, a thorough history is imperative to help with the clinical diagnosis. Third, S. hyicus is often misidentified as S. aureus. Therefore, further investigation is indicated in zoonotic staphylococcal infections to ensure correct species identification.
+
+# HOLD YOUR HORSES: THIS AIN'T NO ORDINARY STREP
+
+Rui Jiang2, 1; Michael Herscher3; Harish Jasti2. 1The Mount Sinai Hospital, New York, NY; 2Icahn School of Medicine at Mount Sinai, New York, NY; 3The Mount Sinai Hospital, New York, NY. (Control ID #3185046)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the clinical features of Streptococcus equi infections.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the similarities to common features of other Streptococcus infections.
+
+# CASE:
+
+A 63yo woman presented with purulent drainage from a right breast mass. She first noticed the breast mass 8 years prior, but had declined work up at the time. A month prior to presentation, she had noted red discoloration overlying the mass and subsequently developed a draining wound. She also reported right upper extremity swelling, chills, shortness of breath, and dry cough. She owns and operates a horse-rescue farm, but denied any contact with sick horses over the past 1-2 months. On exam, she was afebrile with a HR of 116. She had a 10x20cm irregularly-shaped wound with eschar and purulent drainage extending from the right breast into the axilla. Underlying muscles were visible. She had 3+ pitting edema extending from the right shoulder to hand. Labs were significant for WBC of 31.7 with 96.9% PMNs, and creatinine of 3.82, with unknown baseline. Blood cultures grew Strep. Equi in 4 out of 4 bottles. A CT chest showed a left pleural effusion, and possible osteomyelitis in the anterior ribs below the right breast mass. Thoracentesis revealed empyema with no malignant cells, and TTE did not show any valvular vegetation. Breast biopsy revealed poorly-differentiated duct carcinoma, ER/PR+, HER2-. She subsequently underwent chest tube placement for empyema and completed a 6-week course of antibiotics. She eventually accepted only hormone-modulating treatment for breast cancer with goals to be DNR/DNI.
+
+# IMPACT/DISCUSSION:
+
+Streptococcus equi (SE) infection is a zoonotic disease with a variety of clinical presentations. The subspecies zooepidemicus is a part of the normal flora of horse respiratory tract, and is the most commonly reported to cause human infections. Transmissions have mainly been reported by direct contact with horses, dogs, cats, cattle, sheep and goats. Epidemics have been reported through ingestion of unpasteurized milk and cheese from cows with mastitis. SE is a Lancefield C, beta-hemolytic Streptococcus that shares > 80% DNA sequence as well as virulence factors with Strep. pyogenes (SP). It can cause rheumatic fever, glomerulonephritis, purulent arthritis, and skin infections similar to SP. In addition, pneumonia, bacteremia of unknown focus, meningitis, and more complex sequelae such as aortitis and endocarditis have been reported. Though all strains are penicillin sensitive, case-fatality rate can be as high as 63% in small outbreaks. Hand washing after handling animals has been proposed as the key intervention to prevent this infection.
+
+# CONCLUSION:
+
+Given that 30.5% of US households have a horse enthusiast and many more come in contact with barn animals, Strep. equi has the potential to become an emerging zoonosis with threat to human life. Prompt recognition of this infection with its similarities to that of Strep. pyogenes is important because appropriate management can lead to mitigation of its high mortality rates.
+
+# HORSES DRESSED AS ZEBRAS - THE DIAGNOSTIC CHALLENGES OF AN OUTPATIENT WORKUP
+
+Joshua W. Harbaugh1; Claudia L. Campos2. 1Wake Forest University School of Medicine, Winston Salem, NC; 2Wake Forest University, Winston-Salem, NC. (Control ID #3186423)
+
+# LEARNING OBJECTIVE #1:
+
+Appropriate utilization of outpatient diagnostic workups in clinically complex patients
+
+# CASE:
+
+A 61-year-old Caucasian male presented to clinic for his first adult medical evaluation with complaints of progressive weakness. Along with this symptom, he experienced daily dry cough, dyspnea on exertion, fatigue and unintentional weight loss of thirty pounds over six months. He denied fever, chills, night sweats, chest pain, orthopnea, PND or edema. No changes in bowel or bladder function. He denied past medical history and took no medications or supplements. He is an 80 pack-year smoker with remote history of alcoholism and poly-substance abuse. He recounts severe life stress from losing his electricians job due to inability to climb ladders. Family history was unclear, but knew parents lived into their late 70's. On physical examination, BP 143/90, pulse 68, RR 16, height 5' 8", 158lbs, Sp02 95% on RA and 85% with ambulation. Frail appearance with thinning hair. Lung examination revealed a barrel chest and diffuse expiratory wheezing. Cardiac examination: normal S1, S2, no murmurs and no JVD. Extremities: no edema, normal pulses, hands with digital clubbing. Neurological Examination: Hip flexion strength: 3 of 5 bilaterally, 4+ elsewhere. Reflexes: 2+ symmetric.
+
+# IMPACT/DISCUSSION:
+
+The patient was diagnosed clinically with a chronic proximal myopathy, COPD with hypoxemia and unexplained weight loss concerning for underlying malignancy with possible paraneoplastic syndrome (presumed lung cancer). Supplemental oxygen and inhalers were prescribed for severe COPD. Results of his work-up spanned over four weeks and were unconventionally obtained by the patient. First, his CT Chest showed severe destructive centrilobular emphysema, no nodules or masses, severe coronary calcification and a small pericardial effusion. Then, he underwent EMG/NCS, his results pending at the time of his two-week follow-up when his complaints were unchanged. Laboratory analyses were notable for Hb 11.5, Na 134, Cr 1.79, BUN 25, AST 41, Total Cholesterol 392, LDL 314, TG 291, HDL 30.

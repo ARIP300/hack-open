@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+Evidence show low rates of line tampering and high antibiotic completion rates when patients with IVDU history are treated with IV antibiotics at home or at an infusion center. One study found that discharge to home for infusion therapy did not lead to higher rates of line infections, IV drug use recurrence, loss to follow-up, readmission or death when compared to discharge to a skilled nursing facility. However, there are certain patient risk factors associated with a higher failure rate, including active IVDU, unstable housing status, patient unwillingness to comply with therapy, and lack of support systems. Given the absence of conclusive evidence to support our current practice, it is important to consider the patient's risk factors and needs when planning for discharge. This patient was at low-risk for failing home antibiotic therapy; her remote drug use, supportive family, and stable housing are all protective factors. In the future, patients with IVDU history should receive an individualized treatment course that involves a multi-disciplinary team which includes behavioral health, infectious disease, nursing care, and social work.
+
+# CONCLUSION:
+
+Not all patients with IVDU history necessitate hospital or SNF administration of IV antibiotics. In low risk patients, discharge to home may not lead to higher rates of complications than discharge to SNF. Certain patient risk factors are associated with a higher antibiotic failure rate, including active IVDU, unstable housing, unwillingness to comply with therapy, and lack of support systems.
+
+# TRANSIENT ANTI-NMDA RECEPTOR ENCEPHALITIS
+
+Neil Evans; Amitabh Singh; Cory Cheatham. Saint Louis University, Saint Louis, MO. (Control ID #3185911)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Anti-NMDA-receptor encephalitis as a frequent cause of encephalitis in young women.
+
+# LEARNING OBJECTIVE #2:
+
+Associate ovarian teratomas with Anti-NMDA-receptor encephalitis.
+
+# CASE:
+
+A 23 year old female with an unremarkable past medical history presents with psychosis. She was recently discharged from a local psychiatric facility for unresolved "Flakka" intoxication. On presentation she was encephalopathic, aggressive, and inappropriate to staff. Initial workup including EEG was unrevealing. MRI of the brain was negative for malignancies and other abnormalities. LP was performed but was negative for common bacterial and viral infectious causes. CT of the abdomen and pelvis was performed demonstrating a right sided ovarian cyst. Pelvic MRI was performed to better characterize the cyst and it had characteristics consistent with a teratoma. A repeat LP demonstrated an elevated oligoclonal bands and 1:20 Anti-NMDA-antibody titre. A presumptive diagnosis of NMDA-R encephalitis was made. She was treated with plasmapheresis, IV immunoglobulin and IV solumedrol. She underwent oophorectomy; four days afterwards, she began showing signs of improvement in her cognition and by two weeks afterwards, the patient had returned to her baseline mental status and was discharged home.
+
+# IMPACT/DISCUSSION:
+
+Anti-NMDA-receptor encephalitis is the leading reversible cause of encephalitis in females under the age of 30. MRI is not sensitive for this condition with 50% appearing normal. Diagnosis is made by lumbar puncture looking for the antibody. The majority of cases of Anti-NMDA-receptor encephalitis have an identifiable ovarian teratoma, which are thought to contribute to the immune-mediated pathogenesis. Treatment protocols emphasize supportive care and teratoma removal. The treatment regimen for anti-NMDA-receptor encephalitis includes high dose IV glucocorticoids, intravenous immune globulin and plasma exchange. In our case the patient received appropriate therapy and had an identifiable teratoma which was excised; leading to her positive outcome.
+
+# CONCLUSION:
+
+Autoimmune phenomena in the brain are rare and often a diagnostic challenge. It is important to consider anti-NMDA-receptor encephalitis in the evaluation of young females with unknown encephalitis. Exploration of teratomas with ultrasound, CT, or MRI is essential to the treatment as removal improves prognosis.
+
+# TRANSIENT TRANSAMINITIS AND HEPATIC GLYCOGENOSIS: A RARE COMPLICATION IN TYPE 2 DIABETES
+
+Daniel Yee1; Jack P. Fatica1; Bradley Collins2. 1Brown University, Providence, RI; 2Miriam Hospital, Providence, RI. (Control ID #3186263)
+
+# LEARNING OBJECTIVE #1:
+
+To alert clinicians to a potential cause of transaminitis in poorly controlled diabetics who are given high doses of insulin.
+
+# CASE:
+
+A 33 year-old woman with poorly-controlled type 2 diabetes mellitus (T2DM), left foot osteomyelitis on broad-spectrum antibiotics, hepatic steatosis, and opiate use disorder on methadone was admitted following elopement from a nearby hospital. On admission she was afebrile and hemodynamically stable with labs notable for AST of 67, ALT of 96, glucose of 308, and no leukocytosis. MRI demonstrated osteomyelitis of the 1st metatarsal head of the left foot, and she was treated with antibiotics and underwent amputation without perioperative complications. Postoperatively, her home insulin regimen was resumed, and she developed fever, abdominal pain, nausea/vomiting, and headache. Labs on post-op day 2 showed AST of 1020, ALT of 299, ALP of 344, GGT of 1097, and LDH >3600. Differential diagnoses included viral or autoimmune hepatitis, hemochromatosis, immune-mediated cholestatic disease, and drug-induced liver injury. RUQ ultrasound was suggestive of hepatic steatosis. A viral hepatitis panel was negative while EBV and CMV IgG studies were both positive, with positive EBV PCR studies. Ferritin was significantly elevated to >16500, but transferrin saturation was 13%, and ceruloplasmin and hereditary hemochromatosis DNA PCR were negative. Antimitochondrial, anti-smooth muscle, and microsomal antibodies were negative. A toxicology screen was appropriately positive for methadone. There was concern for hemophagocytic lymphocytosis with elevated ferritin and IL-2 elevated to 2838, although the patient declined bone marrow biopsy. Over the following days, she had spontaneous resolution of fevers and abdominal pain with return of transaminases to baseline. Liver biopsy showed glycogenosis of the liver parenchyma and mixed inflammatory infiltrates. In-situ hybridization for EBV RNA was negative.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates a rare complication of diabetes resulting in transaminitis: hepatic glycogenosis, or hepatic glycogenopathy (HG). HG is more commonly associated with type 1 diabetes, and almost never observed in T2DM (a literature search yielded 3 total case reports). The pathology is thought to be due to fluctuating glucose and insulin levels in poorly controlled diabetics, promoting liver glycogen deposition and inflammation. Clinically, patients present with transaminitis that resolves with improved glycemic control. Definitive diagnosis is via biopsy, as imaging of HG is indistinguishable from non-alcoholic fatty liver disease. In our case, transaminitis was worsened with initial insulin management and likely super-imposed drug injury. This is consistent with Tsujimoto et al., who suggest that large insulin boluses may initially worsen transaminitis in those who do not regularly take insulin.
+
+# CONCLUSION:
+
+In patients with T2DM and fluctuating transaminases, HG should be considered as a potential etiology, with liver biopsy for definitive diagnosis.
+
+# TRAUMATIC INJURY IN AN ELDERLY WOMAN: BIASES AND MISSED OPPORTUNITIES
+
+Khameer Kidia1, 2; Amy Ship2. 1Brigham & Women's Hospital, Boston, MA; 2Atrius Health, Boston, MA. (Control ID #3185140)

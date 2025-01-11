@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# RESULTS:
+
+The analytic set consisted of 932 new cases of HIV (31.9%), syphilis (64.8%), and HIV-syphilis coinfection (3.3%). The median age at diagnosis was 27 years, 72.7% were Black, 72.5% were classified as MSM, 12.0% as CSW, and 4.5% as IDU. From a total of 1511 nominations, we identified 425 unique venues, including bars/clubs (13.2%), internet/apps (12.7%), and street addresses (53.6%). The simplified network consisted of 259 venues and 356 links, with a single large interconnected group of 143 venues at its core. Unexpectedly, Facebook received the greatest number of nominations (17.6% of all nominations) but was completely disconnected from this core group. Similarly, other large internet venues were highly nominated but were absent from central positions that would make them important mediators of transmission across the network. As expected, highly nominated venues were associated with greater mixing of priority populations, but exceptions to this pattern highlight unique qualities of certain venues, e.g., Craigslist was associated with a small, unconnected cluster of venues with multiple priority populations.
+
+# CONCLUSIONS:
+
+This study provides preliminary evidence that certain venues are important spaces for mixing between priority populations. We demonstrate a method for capturing difficult to measure local sex networks and reducing their complexity to identify discrete spaces where interventions may have the greatest impact on interrupting STI transmission.
+
+# WHO, WHAT, AND WHERE? MULTIPLE CHRONIC CONDITIONS IN A LOW-INCOME, VALUE-BASED URBAN COHORT: CLUSTERING FOR INTERVENTION
+
+Usnish Majumdar1; Christophe Hunt2; Patrick Doupe1; Aaron Baum1; David J. Heller; Rashi Kumar3; Robert Futterman3; Cother Hajat4; Erica1 Levine1; Sandeep Kishore1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2 Mount Sinai Health Partners, New York, NY; 3Healthfirst, New York, NY; 4United Arab Emirates University, Al Ain, United Arab Emirates. (Control ID #3185543)
+
+# WHO HAS PRIMARY CARE IN THE UNITED STATES, 2002 TO 2015
+
+David M. Levine1; Jeffrey A. Linder2; Bruce E. Landon3. 1Brigham and Women's Hospital, Boston, MA; 2Northwestern University Feinberg School of Medicine, Chicago, IL; 3Harvard Medical School, Boston, MA. (Control ID #3185704)
+
+# BACKGROUND:
+
+Primary care - first contact, comprehensive care that is coordinated and continuous - is considered an essential component of well-functioning health care systems. The clinical and demographic characteristics of Americans with primary care, and changes over time, are unknown.
+
+# METHODS:
+
+We analyzed 2002-2015 data from the Medical Expenditure Panel Survey, a nationally-representative annual survey of the non-institutionalized US civilian population. We used a patient-centered definition of primary care to replicate the 4 "C's" of primary care, requiring that an individual had an identified physician for "new health problems" (first contact); "preventive health care, such as general checkups, examinations, and immunizations" (comprehensive); "ongoing health problems" (continuous); and "referrals to other health professionals when needed" (coordinated). To identify how the odds of having primary care changed between 2002 and 2015, we performed multivariable logistic regression controlling for over 20 sociodemographic characteristics, including clinical and health status. We also examined beliefs about health insurance over time.
+
+# RESULTS:
+
+In 2002, 77% (95% CI, 76 to 78) of Americans had primary care vs 75% (95% CI, 74 to 76) in 2015 (p=0.01), representing 4.2 million fewer Americans without primary care in 2015. Receipt of primary care increased with age, but younger Americans were less likely to have primary care in 2015 than 2002. For example, in 2015, 64% of 30-year-olds had primary care compared to 71% in 2002 (p<0.01). Americans less likely to have primary care included those who were male (aOR vs females, 0.61 [95% CI, 0.57 to 0.65]), Latino (aOR vs Whites, 0.72 [0.64-0.8]), resided in the South (aOR vs the West, 0.83 [0.74-0.94]), and poor (aOR vs high income, 0.60 [0.51-0.70]). Americans more likely to have primary care included those who resided in the Northeast (aOR vs the West, 1.49 [1.26-1.76]), were married (aOR vs not married, 1.23 [1.11-1.37]), privately insured (aOR vs uninsured, 3.08 [2.75-3.44]), and unemployed (aOR vs employed, 1.15 [1.05-1.26]). After adjustment, Americans overall were significantly less likely to have primary care in 2015 than in 2002 (aOR, 0.77 [0.69-0.84]). Other predictors of having primary care were generally stable over time, except for race/ethnicity and census region. Between 2002 and 2015, Latinos increased their receipt of primary care by 15% (p=0.04) and northeasterners decreased by 12% (p=0.03). In 2015, 46% (44-47) of those with primary care vs 27% (26-29) of those without primary care believed health insurance was worth the cost, and 68% (67-69) vs 40% (38-42), respectively, believed they needed health insurance.
+
+# CONCLUSIONS:
+
+Significantly fewer Americans had primary care in 2015 than in 2002, particularly among younger Americans. To our knowledge, this is the first nationally-representative description of receipt of primary care and demonstrates an alarming trend toward a reduction in primary care health care relationships.
+
+# BACKGROUND:
+
+In the US, patients with multiple chronic conditions (≥2, MCC) account for more than 70% of all healthcare spending. Health systems have responded to this challenge with both clinical and financial innovations. Importantly, efforts to select sub-populations for intervention have been limited methodologically, and it remains difficult to compare and contrast the clinical and financial reforms enacted in different patient populations. Furthermore, literature on MCC patterns and trends among lower socioeconomic status and vulnerable populations is scarce, despite their carrying a disproportionately large share of chronic disease burden. In this study, we aim to (1) examine the burden of MCC in the low-income population served by an urban health system, and (2) propose a methodology to identify sub-populations of interest for both clinical and financial interventions.
+
+# METHODS:
+
+We used retrospective data from capitated Medicaid contracts in an urban health system. Combined data from 2012-2014 from 192,085 plan members were analyzed. Adults were categorized as having any number of chronic diseases from a list of 69 chronic conditions provided by the Agency for Healthcare Research & Quality (AHRQ). After summarizing the demographics, geography, and prevalence of MCC within this population, we then explored groups of patients (clusters) using a novel methodology: We iteratively defined all (26,495) potential clusters of patients as defined by a pair of chronic conditions, a sex, and an age group, and then ranked them by frequency, cost and ratios of observed to expected frequencies of co-occurring chronic conditions. We further explored the presence of certain clusters within bounded geographic "hot-spots" to suggest opportunities for co-localized specialty clinics.
+
+# RESULTS:
+
+52.7% of the study population suffers from MCC, as compared to 42% nationally. The most frequent pair was hypertension and hyperlipidemia (18% age-adjusted) and the most frequent trio was diabetes, hypertension and hyperlipidemia (9% age-adjusted). Women aged 50-65 with hypertension and hyperlipidemia were the leading cost segment in the study population. Medicaid patients are concentrated geographically and MCC burden differs by locale. Of note, we find that anemia, pulmonary heart disease, congestive heart failure, and conduction disorders occur together more frequently than expected in geographically distinct locales.

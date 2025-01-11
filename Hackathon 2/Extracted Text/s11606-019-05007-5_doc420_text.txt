@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Cryptococcus neoformans Infection in Immunocompromised Patients
+
+After recent biopsy of necrotic skin lesion revealed Cryptococcus neoformans. Notably, he also presented with fatigue and new productive cough and dyspnea in addition to the skin lesion. Serum Cryptococcal antigen titer was 1:10. Subsequent lumbar puncture was negative for cryptococcal antigen and CT head was also negative. Due to persistent dyspnea and cough, a CT chest was obtained. CT revealed a new 2 x 2 cm nodule. Concerned for disseminated Cryptococcal infection in the setting of chronic immunosuppression, he was treated with flucytosine and amphotericin B for 3 weeks. After treatment, the skin lesion resolved and repeat CT chest showed decreased size of the pulmonary lesion to 1.2 x 1.5 cm. He was transitioned to oral fluconazole 400 mg for 8 weeks followed by fluconazole 200 mg for at least a year.
+
+# IMPACT/DISCUSSION
+
+Cryptococcus neoformans has worldwide distribution. Cryptococcus neoformans is an invasive fungal infection that is prevalent in immunocompromised patients and represents an important cause of morbidity and mortality in this population. Its most common presentation is cryptococcal meningitis (15% of all AIDS-related deaths globally). It can also present as pulmonary disease, skin, lymph node, and bone disease. Patients at risk include: AIDS with CD4 counts < 200 cells/μL, patients on 20 milligrams of prednisone for at least 2 weeks, history of organ transplantation, malignancy, and liver disease. Screening for cryptococcal antigen should be driven by symptoms in the context of chronic immunosuppression. For patients with respiratory symptoms, cryptococcal antigen is a good first test. Symptoms concerning for meningitis like neurological deficits, severe headaches, or neck stiffness should also prompt a lumbar puncture. Also, if a high serum cryptococcal antigen titer (>1:512) is found, the high infection burden increases the risk for extrapulmonary spread and seeding of the central nervous system and also requires a lumbar puncture. Look for high opening pressure, positive culture, or elevated cryptococcal antigen titer.
+
+# CONCLUSION
+
+Cryptococcus neoformans infection can present in several different ways, and is an important pathogen to consider in at risk populations (chronic immunosuppressed state). Notably, patients can present with more than one manifestation of cryptococcal disease. Cryptococcal disease, if progresses to meningitis, is uniformly fatal, but shows good response to treatment with the appropriate induction regimen of amphotericin and flucytosine, and maintenance therapy with fluconazole.
+
+# DISSEMINATED HISTOPLASMOSIS AS AN IMPORTANT DIFFERENTIAL TO CONSIDER IN PATIENTS PRESENTING WITH HYPERCALCEMIA
+
+Jacob Burch; Lawrenshey Charles; Emir Kurtovic; Jason Liu; Sonya Gupta. Sparrow Hospital, Lansing, MI. (Control ID #3185825)
+
+# LEARNING OBJECTIVE #1
+
+Recognize uncommon presentations of disseminated histoplasmosis
+
+# LEARNING OBJECTIVE #2
+
+Distinguish various etiologies of hypercalcemia
+
+# CASE
+
+JM is a 62-year-old female with history of rheumatoid arthritis, on etanercept and methotrexate, who presented to the hospital for persistent RLL pneumonia, confusion, weight loss, and weakness. Examination showed jaundice, dry mucosal membranes, and generalized abdominal pain. She was found to have hypercalcemia with corrected value of 17.8, vitamin D 1,25 elevated at 157, PTH 13.4, PTHrp 0.5, pancytopenia, elevated transaminases, and AKI with Cr of 2.58. CT revealed mild mediastinal lymphadenopathy and persistent infiltrates in RLL. Patient was admitted and worked up for possible infectious versus malignant etiology. She was started on broad-spectrum antibiotics, later discontinued with negative cultures. ACE level elevated at 170. SPEP, direct coombs, IFE and bence jones protein were negative. Hypercalcemia improved following IV fluids, furosemide, calcitonin, and pamidronate. Bone marrow biopsy was performed due to concern for possible lymphoma and demonstrated disseminated histoplasmosis. Fungal studies resulted with fungal Ab negative, urine histoplasma Ag positive, and fungal precipitins positive for histoplasma. Patient was started on oral itraconazole. Following improvement in clinical status, she was discharged to a long-term acute care facility with plans for close follow-up.
+
+# IMPACT/DISCUSSION
+
+Histoplasmosis is the most common endemic mycosis to cause hospitalization in the US. It is prevalent along the Ohio and Mississippi River Valleys. It can have dramatic clinical manifestations, including flu-like illness to severe and progressive disseminated infections. Individuals at high risk of infection include the immunocompromised, those at extremes of age, or patients with unusually heavy exposure. Infections can involve multiple organ systems resulting in adrenal insufficiency, hepatosplenomegaly, pancytopenia, GI tract ulcers, skin and CNS lesions, and lung pathology. Radiographic studies typically show patchy or nodular focal infiltrates and mediastinal or hilar lymphadenopathy. Disseminated histoplasmosis presenting with hypercalcemia has been described in the literature, but is considered a rare manifestation. If left untreated mortality is as high as 80%, reduced to 25% with treatment. As evident in our case, Histoplasmosis is often initially mistaken as other infection, inflammatory disease, or malignancy. Atypical presentations can delay diagnosis and lead to poor outcome. Our case demonstrates the importance of keeping a broad differential in patients presenting with hypercalcemia.
+
+# CONCLUSION
+
+Disseminated histoplasmosis can present with many features similar to malignancy. Physicians should have a high index of suspicion for granulomatous disease, such as histoplasmosis, when encountering patients with hypercalcemia. Unusual pathogens should be suspected in immunocompromised patients.
+
+# DISSEMINATED INTRAVASCULAR COAGULATION AS INITIAL PRESENTATION OF METASTATIC PROSTATE CANCER
+
+Kavita Agrawal; Nirav Agrawal. Overlook Medical Center, Summit, NJ. (Control ID #3162850)
+
+# LEARNING OBJECTIVE #1
+
+Diagnose disseminated intravascular coagulation (DIC) based on laboratory findings.
+
+# LEARNING OBJECTIVE #2
+
+Understand pathophysiology of DIC in prostate cancer. Treatment of prostate cancer induced DIC.
+
+# CASE
+
+A 70-year-old male presented with hematuria and bruising of arms and legs for 3 days. He complained of 40 pounds weight loss over the last 4 months. Initial blood tests showed prothrombin time of 25.1 seconds, INR 2.5, partial thromboplastin time 43.9 seconds, fibrinogen 60 mg/dL, fibrin degradation products >20 ug/ml and platelets 88000/nL. The results were consistent with DIC. Patient was seen on the outpatient basis for complaints of urinary frequency and hesitancy 6 months prior to this admission. During this time, prostate specific antigen (PSA) was found to be elevated at 241 ug/dL. However, patient was lost to follow up. On this admission, he had worsening PSA of 942 ug/L. Computed tomography of abdomen pelvis showed enlarged prostate with mass effect on the bladder base, left side hydronephrosis and numerous enlarged pelvic lymph nodes. Bone scan of the whole body showed increased sclerosis of L3 vertebral body suggestive of osseous lesions. There was a concern for metastatic prostate cancer inducing DIC. He received fresh frozen plasma and cryoglobulin. He was started on Bicalutamide and leuprolide as inpatient pending pathologic diagnosis. Patient responded well to the therapy and labs were improving. The patient refused prostate biopsy. So, bone marrow biopsy was performed which revealed metastatic prostate adenocarcinoma. Our case highlights DIC as an initial manifestation of prostate cancer which is unusual.
+
+# IMPACT/DISCUSSION
+
+DIC is a pathological systemic condition which occurs due to widespread activation of clotting factors causing bleeding and thrombosis. DIC does not occur in isolation. It is crucial to search for underlying secondary causes propagating DIC. This includes sepsis, trauma, pre-eclampsia, malignancies, acute hemolytic transfusion reaction and others. It is important to search for malignancies when there is no apparent underlying cause. Among malignancies, DIC is more commonly associated with acute promyelocytic leukemia, brain tumor.

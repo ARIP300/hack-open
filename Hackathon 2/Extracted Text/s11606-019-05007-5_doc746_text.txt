@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# SETTING AND PARTICIPANTS:
+
+The setting of this study involved surveying 96 second year medical students new to the study of observing the eye during clinical skill training.
+
+# DESCRIPTION:
+
+The students were asked to compare the proficiency and ease of use of a traditional direct ophthalmoscope versus a new smartphone enabled imaging device. Each student was given pre-recorded instructional videos and directions prior to the use of both devices in order to ensure proper understanding of observing methods. The students were given pre-training surveys prior to the instructions on how to use the Ophthalmoscope and the imaging device, as well as a similar post training survey. The survey measured confidence on a 5 point scale. 88 responses were included in the study analysis.
+
+# EVALUATION:
+
+There was a low pre-survey confidence in imaging the retina, including obtaining the red reflex. "Not all confident" was ranked 42% for using a direct ophthalmoscope, 56.8% for identifying the red reflex, 58% for focusing on the optic nerve head, 63.6% for focusing on the fovea, 48.9% for focusing on an artery or vein, 63.6% for apertures and filters, and 35.2% for differentiating healthy vs. pathologic retina. Post training surveys showed a significant improvement in confidence. "Not at all confident" was ranked 0% for using the direct ophthalmoscope, 2.3% for identifying the red reflex, 0% for focusing on the optic nerve head, 4% for focusing on the fovea, 1.1% for focusing on an artery or vein, 57% for apertures and filters, and 2.3% for differentiating healthy vs. Pathologic retina.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Ophthalmoscopy allows for the non-invasive evaluation of patients eyes microvasculature, permitting direct detection of end organ pathology. Given its importance, it is a difficult skill for medical students to learn. Medical students often have a few contact hours of training on the direct ophthalmoscope throughout the undergraduate medical education. In addition, our questionnaire showed that 82 students (92.3%) did not own a direct ophthalmoscope, which limits the opportunity of further independent skill development. This study shows that simulation training in ophthalmology appears to be an effective method in increasing learners confidence in skill technique and identifying retinal structures. Additionally, 47% of students preferred the smartphone imaging device to the direct ophthalmoscope. The imaging device is 3-D printed, inexpensive, and allows for direct retinal photography that could be used to educate the patient. This indicates that this method could be used in undergraduate medical education in conjunction with the traditional ophthalmoscope.
+
+# SOCIAL DETERMINANTS AND HOME VISITS
+
+Achilia Morrow1; Amy Baldwin2; Laurel B. Murrow3; Suzanne H. Lester1.
+
+1AU/UGA Medical Partnership, Athens, GA; 2AU / UGA Medical Partnership, Athens, GA; 3Mercy Health Center, Athens, GA. (Control ID #3163251)
+
+# NEEDS AND OBJECTIVES:
+
+Social determinants play a major role in health and many medical schools have introduced curricula to teach these principles. However, early on, students may not connect the material to actual patient care. This year patient care was introduced into the award-winning community health course at the AU/UGA Medical Partnership to facilitate student understanding of the role of social determinants in patient management.
+
+# SETTING AND PARTICIPANTS:
+
+The community health course is a service-learning course that occurs during the first year of medical school. Students are placed in groups of 8-9, assigned 2 faculty preceptors (one clinical, one non-clinical), and then paired with a community organization. Our community partner, Mercy Health Center, is a free clinic serving uninsured patients in Athens-Clarke and surrounding counties.
+
+# DESCRIPTION:
+
+Students conduct home visits for selected patients. Visits include taking a history inclusive of the social determinants of health, developing a plan with guidance from their preceptors, and adding a note about the encounter to the patient's chart. Templates and prompts were provided to help students gather this information. Students completed reflective writing and presented "exemplar" patients to the entire class.
+
+# EVALUATION:
+
+Workshops and reflections have revealed that students have identified factors beyond patient control, have broadened their view of "who uninsured patients are," recognized the role of family/social support, and appreciated patient difficulties navigating the health care system. Surveys conducted at the beginning and end of the course will be used to formally gauge changes in student perspectives.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+In addition to allowing students to identify social determinants that affect their patients' health, these visits have also provided early learning opportunities for the management of chronic diseases, including depression, role of specialty referrals, and how fragmentation of care can affect health. Additionally, promotion of a team approach has led to the investigation of legal assistance, transportation solutions, and assistance from community agencies. These early experiences will allow students to continue to recognize and incorporate these factors into patient care as they progress through their careers.
+
+# SPANISH FOR MEDICAL PROFESSIONALS (INTERMEDIATE LEVEL)
+
+Josune N. Iglesias. Rush University, Chicago, IL. (Control ID #3185744)
+
+# NEEDS AND OBJECTIVES:
+
+Objectives: 1-Communicate in Spanish with Spanish speaking patients at an intermediate level. 2- Students will be able to communicate in simple Spanish using mainly the present tense with the 3rd person "usted" and different expressions to indicate past and future actions. They should be able to utilize specific medical terms learned in class. 3- Students should be able to communicate with Spanish speaking patients and take a chief complain, history of present illness, past medical history, medication list and allergies.
+
+# SETTING AND PARTICIPANTS:
+
+The elective course runs throughout the M1 year (first year) in small groups (10-16 students) with an intermediate level of knowledge of Spanish. Two hour per small group session and one hour online work per week of classes. Taught with lectures and in small group activity by a native Spanish speaker faculty. The course is organized with emphasis to integration of topics covered in the new organ based curriculum.
+
+# DESCRIPTION:
+
+This course addresses the needs of medical students with intermediate experience in Spanish. Students participate in language tasks through listening, reading, writing, and conversation. Classes will be taught in Spanish in order to immerse students in the target language. This medical Spanish Course consists of: a. Formal instruction: There are in-class activities, such as role-playing and history taking. Students also expand their Spanish vocabulary with an emphasis on medical terminology. I- Introduction to the patient. II- Chief complaints III- History of Present Illness IV- Chest pain V- Shortness of breath and Past medical history VI- End Stage Renal Disease and Past medical history VII- amenorrhea and Urinary Tract Infection VIII- Mid term exam IX- Rash and Itching/ Medication list X- Angioedema and medication list XI- New patient and allergies XII- Upper respiratory tract infection XIII- Ear pain XIV- Headache XV- Abdominal pain XVI- Final Exam/ Oral test b. Extracurricular activities and independent study via internet resources. This course also includes a series of cultural extracurricular activities and Spanish language websites for students to practice Spanish independently outside of the classroom.

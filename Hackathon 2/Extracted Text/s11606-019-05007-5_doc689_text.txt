@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# Curriculum for Physician Advocacy
+
+should be incorporated into graduate medical education. There are few published models of how to teach public advocacy skills to physicians-in-training. We developed a curriculum that exposes residents to a conceptual framework for physician advocacy and builds skills through workshops that are anchored in a topic selected by each resident to enhance engagement.
+
+# SETTING AND PARTICIPANTS:
+
+Participants are senior residents in a university-based internal medicine program located in an urban medium-sized city. The curriculum is compulsory, contains 12 hours of content, and is delivered in five sessions over a 4-week ambulatory rotation to groups of 4-6 residents. Two faculty members and one chief resident teach the course.
+
+# DESCRIPTION:
+
+Session 1. Core Concepts: Trainees discuss the ethics of advocacy and how advocacy may fit into their own careers. A framework for developing an advocacy campaign is reviewed and used to evaluate a local advocacy project. Trainees then identify an advocacy topic which they will use as a vehicle to learn skills during future sessions.
+
+Session 2. Persuasive Communication: Residents learn techniques for creating public narratives, review examples of persuasive communication, and the elevator pitch. The residents then have a conversation with a local community organizer on local advocacy and coalition building.
+
+Session 3. The Power of Narrative: Residents learn the skills of op-ed writing to develop their topics into written calls to action.
+
+Session 4. Legislative Advocacy: State and federal legislative processes are reviewed and a primer on techniques for communicating with legislators and their aides is presented.
+
+Session 5. Advocacy in Action: Residents research state bills to learn how other advocacy topics have fared in the legislature. Then, residents are joined by a local policymaker for a conversation about health advocacy and the residents' topics of interest. It concludes with the residents delivering their elevator pitches and receiving feedback.
+
+# EVALUATION:
+
+To date, 48 residents have completed the curriculum. In course evaluations residents most appreciated the skill-building components and the inclusion of non-physician experts. Most residents stated that they would be more likely to engage in advocacy following exposure to the curriculum. Long-term impact of the curriculum will be evaluated through survey of graduates that are five years' post-residency to assess involvement in advocacy and lasting impact of the curriculum on knowledge, skills, and attitudes regarding physician advocacy.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our curriculum on physician advocacy has been well-received. Key success factors include: using a topic of personal interest to each resident as the vehicle for learning advocacy skills, inclusion of non-physician advocates and policymakers, and emphasizing practical skills.
+
+# AMBULATORY HANDOFFS: A PRIMARY CARE INTERVENTION TO IMPROVE THE END-OF-YEAR TRANSITION TO NEW RESIDENTS FOR HIGH RISK PATIENTS
+
+Lesley E. King1; Maryann K. Overland2; Christopher Wong; Ginger A. Evans3. 1VA Puget Sound/University of Washington, Seattle, WA; 2University of Washington, Seattle, WA; 3VA Puget Sounds HCS Seattle, Seattle, WA. (Control ID #3183982)
+
+# NEEDS AND OBJECTIVES:
+
+Best practices have been established for safe patient handoffs in the inpatient setting. The outpatient setting is inherently different, with a single transition often serving as the only means of transmitting multiple years of relevant health information. This is particularly pronounced in resident continuity clinics when departing senior residents handoff to incoming interns. While some seminal work has been accomplished in different systems (Pincavage et al, 2012, 2013), in most residency programs there is little to no signout between residents, and few innovations have focused on transitions to incoming interns. Our objective was to improve the end-of-year ambulatory care transition process by improving communication between departing and incoming residents.
+
+# SETTING AND PARTICIPANTS:
+
+Internal medicine continuity clinic residents affiliated with an academic internal medicine residency program. We surveyed 164 residents at 8 unique continuity clinic sites. 2 clinical sites participated in a structured signout process with 44 out of 63 potential pairs of departing-incoming residents performing an in-person signout.
+
+# DESCRIPTION:
+
+We developed an intervention that was implemented at 2 of the 8 continuity clinic sites within our academic system. Our intervention was multi-pronged: a system for departing senior residents to identify patients most at risk of adverse events during their transition in residents, chart documentation of relevant and outstanding issues, and the opportunity to give an in-person signout (during a structured event) to the incoming intern.
+
+# EVALUATION:
+
+Residents across all 8 clinic sites (intervention and non-intervention) were surveyed on a 5-point scale about the handoff process and asked open-ended questions on their experiences. Residents who participated in the signout event had increased satisfaction of how their high-risk patients were handed off (3.5 for residents who received signout, compared with 2.9 for residents who had not received signout). Interns received an additional survey and uniformly reported the event as "very helpful" and reported increased confidence in their ability to care for their patients (4.9 out of 5, n = 10). Aggregate results for all surveyed in 2018 showed that those who had received signout had higher transition satisfaction scores compared with those who did not (3.8 compared with 3.1). Those who received in-person signout were much more likely to prefer that method (81% compared with 56% among those who did not receive signout).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+While the best practices for ambulatory transitions during the handoff between residents remains to be defined, our intervention shows that an in-person "warm handoff" between departing and incoming residents is feasible, desired, and may increase resident satisfaction. We are continuing to work on improvements to the process including identifying ways to incorporate the multidisciplinary team. Our initial work focused on analysis of the resident experience—next steps should include patient satisfaction and outcomes.
+
+# AN ‘EPIC' IMPROVEMENT IN CARE COORDINATION: IMPLEMENTING A SKILLS LOG TO INCREASE RESIDENT PROFICIENCY IN NEWLY ADOPTED EMR
+
+Rebecca A. Griffith; Anushka Chadha; Afrasiab Khan; David Kuo. Atlantic Health/ Morristown Medical Center, Morristown, NJ. (Control ID #3185849)
+
+# NEEDS AND OBJECTIVES:
+
+Recent data from the SGIM Medical Residency Clinic Directors Interest Group survey found that 97% of Internal Medicine residency programs use an electronic medical record (EMR) system, 66% of which have a shared single EMR with the hospital, such as EPIC, the current industry leader. EPIC is a powerful platform that holds promise in streamlining workflow but falls short when physicians do not utilize all the functions. This often stems from suboptimal training and can preclude the delivery of comprehensive patient care. Our objective is to investigate a new teaching strategy to increase resident competency in using essential EPIC skills, termed the "3D" approach: demonstration, direct observation, and documentation.

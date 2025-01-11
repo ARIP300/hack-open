@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# TO BELL OR NOT TO BELL: A CASE OF ATYPICAL FACIAL NERVE PALSY
+
+Niharika Mallepally; Jules Ryan Tabilona; Lee Lu. Baylor College of Medicine, Houston, TX. (Control ID #3186090)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the gradual onset of symptoms in malignant facial nerve schwannoma (FNS).
+
+# LEARNING OBJECTIVE #2:
+
+Review the treatment of malignant FNS.
+
+# CASE:
+
+A 54-year-old female with a history of Bell's palsy presented for an annual well exam. Eighteen months ago, she developed left jaw and facial pain followed by a slow onset of left facial weakness, numbness and inability to close her left eye. These symptoms progressively worsened over 6 months. She was diagnosed with Bell's palsy. Her left facial weakness continued to worsen. She denied hearing loss, tinnitus, vertigo, or other neurological symptoms. Physical exam noted left sided facial paralysis, decreased sensation, and inability to close the left eyelid. Due to the unusual gradual progression of her facial symptoms, an MRI of the orbit was performed and showed diffuse enhancement of the middle ear and mastoid cavities extending through the mastoid foramen. A follow up CT scan of the temporal bone noted a soft tissue mass with aggressive features in the left mastoid cavity with osseous erosion and local extension to the left external auditory canal and middle ear cavity and involvement of the left facial nerve. A biopsy of the mass revealed a malignant tumor with schwannian features. She was diagnosed with malignant FNS and is awaiting surgical excision.
+
+# IMPACT/DISCUSSION:
+
+Facial nerve schwannoma is a rare tumor arising from schwann cells surrounding the facial nerve. Though comprising less than 1% of temporal bone tumors, FNS is the most common type of facial nerve tumor. FNS presents with facial nerve paralysis, decreased sensation, tinnitus, hearing loss, pain, and dizziness. Symptom onset usually is slowly progressive over months. On initial presentation, FNS is often misdiagnosed as either vestibular schwannoma or Bell's palsy. Diagnosis is made by MRI imaging showing auditory canal mass with extension to the facial nerve and histopathology. Management can be conservative with serial imaging, and the reported tumor growth is 1.4mm annually. Alternatively, stereotactic radio-surgery is a treatment option. Preservation of the facial nerve is a surgical priority, and post-operative improvement in paralysis and paresis is variable. Treatment decisions are based on symptom severity and baseline nerve and hearing function. Though the majority of FNS is benign, <10% of all FNS can be malignant, as was the case in our patient. Malignant tumors have aggressive growth and are almost always managed surgically.
+
+# CONCLUSION:
+
+Unlike the common Bell's palsy's acute presentation, the onset of malignant FNS is gradual; it should be recognized and diagnosed promptly. In a high technological medicine era with less time spent with patients, this case reminds physicians of Sir William Olser's teaching- "Just listen to your patient."
+
+# TO CLOT OR TO BLEED: THROMBOSIS AS A FIRST SIGN OF MICROSCOPIC POLYANGIITIS
+
+Kajali Mishra; Sandra Naffouj; Sarah Gorgis. Henry Ford Hospital, Detroit, MI. (Control ID #3185940)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize ANCA-associated vasculitis in a patient with thrombosis.
+
+# LEARNING OBJECTIVE #2:
+
+Management of diffuse alveolar hemorrhage in the setting of acute thrombosis.
+
+# CASE:
+
+A 59-year-old female with a history of stroke with residual right-sided weakness presented with dyspnea and lower extremity swelling. She was febrile, tachycardic, and required supplemental oxygen (O2). Laboratory studies showed an acute kidney injury (AKI). Lower extremity dopplers revealed bilateral deep vein thrombosis (DVT), and she was started on heparin for DVT and presumed pulmonary embolism (PE). Computed tomography (CT) PE was not performed due to AKI. Chest x-ray showed bilateral airspace opacities, so antibiotics were started. The patient clinically worsened and developed hemoptysis with increasing O2 requirements. CT chest showed concern for alveolar hemorrhage. Anticoagulation was stopped and the patient was intubated. Bronchoscopy confirmed diffuse alveolar hemorrhage. Rheumatologic workup showed ESR 111, ANA 1:320 (speckled), and positive MPO (p-ANCA) of 115. Left kidney biopsy revealed focal segmental necrotizing and crescentic glomerulonephritis consistent with ANCA-associated pauci-immune glomerulonephritis, microscopic polyangiitis (MPA). Plasmapheresis and hemodialysis was started due to worsening kidney function. She clinically improved, was extubated, and eventually weaned off oxygen. Induction with Cyclophosphamide and high-dose steroids was begun. Her AKI resolved, no longer requiring dialysis. After a risk-benefit discussion, warfarin was started, and the patient returned home. She was transitioned to maintenance therapy on Azathioprine and remained clinically stable at her three year follow up.
+
+# IMPACT/DISCUSSION:
+
+We present a case of thrombosis as a first sign of severe microscopic polyangiitis. The most common clinical symptoms of MPA include fatigue, cough, dyspnea, and arthralgias. Although it is a pulmonary-renal syndrome, renal insufficiency is only present in 18% of patients on presentation. In our patient, a DVT (originally thought to be due to immobilization from stroke) was the first sign of extensive MPA. The accompanying respiratory symptoms were presumed to be due to PE, and therefore a CT scan was not initially performed. The etiology of the hyper-coagulable state in such patients is unclear, but circulating antiplasminogen antibodies have been demonstrated in those who develop clots. This case was further complicated by diffuse alveolar hemorrhage, a rare but life-threatening complication of MPA. Immunosuppressive therapy is required in almost all patients with active disease.
+
+# CONCLUSION:
+
+Patients with ANCA-associated vasculitis have a high risk of thrombosis, but it is rarely the presenting sign. Suspicion in patients with concomitant renal insufficiency and pulmonary symptoms can lead to early diagnosis. Despite being hypercoagulable, anticoagulation may not be the appropriate initial treatment as pulmonary hemorrhage can worsen outcomes.
+
+# TO CUT OR NOT TO CUT? A CASE OF ISOLATED PULMONIC VALVE ENDOCARDITIS
+
+Aravind Seetharaman1; Katie Cohen1; Sarah Nickoloff1, 2. 1Medical College of Wisconsin, Milwaukee, WI; 2Zablocki VA Medical Center, Milwaukee, WI. (Control ID #3167561)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical manifestations of pulmonary valve endocarditis.
+
+# LEARNING OBJECTIVE #2:
+
+Identify high-risk patients who would benefit from cardiovascular surgery evaluation.
+
+# CASE:
+
+A 70-year-old male with history of hypertension, obstructive sleep apnea, and alcohol abuse was admitted for severe dyspnea, a 30-pound weight loss, and fever. Blood cultures grew Enterococcus faecalis. A new

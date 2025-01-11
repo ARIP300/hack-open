@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Worsening Anemia and Zieve's Syndrome
+
+to have worsening anemia with no evidence of acute bleed (Hgb 6.0g/dL, Hematocrit 18.3%, MCV 110fL), thrombocytopenia (platelet 45K/uL), worsening liver disease (Total bilirubin 15.2mg/dL, Direct 5.8mg/dL), transaminitis (AST 127IU/L, ALT 48IU/L, alkaline phosphatase 87IU/L, albumin 2.8g/dL). She received 3 units of packed RBCs without expected incrementation. CT abdomen showed splenomegaly with significant perisplenic and splenorenal varices. Complete blood count showed elevated reticulocytes, elevated LDH, and low haptoglobin; coagulation panel showed prolonged PT 19.2 seconds, INR 1.68, and prolonged PTT 37 seconds. A peripheral blood smear showed schistocytes, Burr cells, and no toxic granulations. She was diagnosed with hemolytic anemia consistent with Zieve's syndrome.
+
+# IMPACT/DISCUSSION:
+
+This case illustrates the unique presentation of Zieve's syndrome which is a triad of hemolytic anemia, hyperlipidemia, and jaundice. The initial concern with this hospitalization was disseminated intravascular coagulation (DIC), given the presentation of schistocytes and recurrent, persistent anemia. The pathophysiology for DIC is based on the presence of increased thrombin formation in patients suffering from severe liver cirrhosis resulting in decreased clotting factors, hypofibrinogenemia and thrombocytopenia. The key finding was the presence of splenomegaly on CT abdomen. Zieve's syndrome is a special type of alcoholic hepatitis in which alcohol consumption causes hemolytic anemia and schistocytes from splenomegaly. Dr. Leslie Zieve originally proposed elevated circulating lipid levels resulted in alterations in erythrocyte membrane composition, leading to increased susceptibility to hemolysis. Patient treatment is focused on cessation of alcohol. Most patients recover within 4 to 6 weeks after alcohol withdrawal. For patients who continue to drink alcohol, it may aggravate the illness and potentially be fatal as this patient was readmitted again with worsening anemia unresponsive to transfusion and transferred to hospice care.
+
+# CONCLUSION:
+
+Establish unbiased differential diagnosis of alcoholic, liver, and blood related pathologies that may include Zieve's syndrome based on presentation.
+
+# CLINICAL DILEMMA: MANAGING COMORBID CHRONIC PAIN, SUBSTANCE USE DISORDER, AND MENTAL ILLNESS
+
+Joel Sawady1, 2; Gina Stenhouse1. 1Cambridge Health Alliance, Cambridge, MA; Harvard Medical School, Boston, MA. (Control ID #3184727)
+
+# LEARNING OBJECTIVE #1:
+
+Formulate a long-term, patient-centered chronic pain management plan (including opioid tapering) for very high risk patients.
+
+# LEARNING OBJECTIVE #2:
+
+Manage the clinical and professional dilemma of inheriting patients on high-risk opioid regimens.
+
+# CASE:
+
+52 yo male with history of OUD, MDD, and PTSD with recent suicide attempt, who transitioned to a new PCP. His chronic pain originated after an episode of vertebral osteomyelitis resulting in extensive surgery. At the time of meeting his new PCP, the patient was managed on 260 MME/day along with psychotropic medications including a benzodiazepine. The new primary care team, in collaboration with the patient and his mental health team, decided to pursue a gradual opioid taper. During the taper, the patient developed worsening anxiety and had difficulty managing psychosocial stressors. However, tapering also provided him GI relief and allowed him to become activated, goal-directed, and engaged in adaptive behaviors. The patient pursued neurosurgery reevaluation which led to revision of his spinal surgery. Unfortunately, despite pre-surgery coordination, the patient was discharged on an inappropriate opioid regimen. This was addressed and taper was resumed. Again, the patient experienced worsening psychological symptoms including poor sleep. Despite this, the patient continued to display improved affect compared to initial presentation and exercised more self-efficacy. At this point, two years into the taper, the patient does not have increased thoughts of illicit opioid use, but this is a continuing concern. We are discussing with the patient transitioning to buprenorphine for OUD and chronic pain.
+
+# IMPACT/DISCUSSION:
+
+Current guidelines recommend against starting high-dose opioids, particularly in high-risk patients. However, they offer little guidance on how to care for patients already on these regimens. Tapering may result in destabilization and poor outcomes. This case will complement the guidelines and provide clinicians with tools to manage these complex patients. Discussion points include: 1. The literature on concurrent OUD and chronic pain, including the role of buprenorphine 2. The evidence base for tapering opioids 3. Psychiatric symptoms that may emerge during opioid tapering, particularly in the presence of mental illness 4. Practices used to build a collaborative, patient-centered care plan 5. Ethical dilemmas in a situation in which all options (continue prescribing, fast taper, and slow taper) present risks.
+
+# CONCLUSION:
+
+Prior to tapering opioids in any patient, including those with history of OUD, the risks of an expedited taper should be reviewed and consideration should be given to a gradual, patient-centered tapering plan. Empathy and relationship-building are important at every step. A multidisciplinary approach is critical for patients with concurrent mental illness, substance use disorder, and chronic pain. This is particularly important when tapering opioids, as psychiatric symptoms may be unmasked.
+
+# CLOSTRIDIUM DIFFICILE LIVER ABSCESS: AN UNUSUAL PRESENTATION
+
+Pramod Acharya 1; Pinky Jha 3; Aravind Seetharaman 2; Mirza Baig 1; Sanjay Bhandari2. 1Medical College of Wisconsin, Pewaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI; 3medical college of wisconsin, Milwaukee, WI. (Control ID #3178480)
+
+# LEARNING OBJECTIVE #1:
+
+To report/recognize a case of Clostridium liver abscess in a patient without history of C. difficile colitis.
+
+# LEARNING OBJECTIVE #2:
+
+To review the diagnosis and management of C. difficile liver abscess.
+
+# CASE:
+
+An 83-year-old woman with history of appendicitis, renal stones, and cholecystitis (with previous cholecystectomy) presented to an outside hospital for right upper quadrant pain 4 months ago and was found to have a 6.7 cm liver abscess on imaging. Biopsy and culture confirmed liver abscess with only C. difficile grown on the anaerobic culture. She denied previous history of C. difficile colitis. She was treated with 7 weeks of oral metronidazole, with much difficulty taking the medication. She reported 17 pounds weight loss. About 2-3 months ago she began to develop pleuritic chest pain and cough. Imaging showed pleural effusion and possible empyema. Pleural biopsy showed organizing pneumonia with negative special stains. She was admitted to our hospital with 3 weeks of right chest pain and cough with yellow sputum. Upon presentation vitals were stable. Physical Exam showed decreased breath sounds at posterior right base. Admission lab results were unremarkable except for Right lower lobe consolidation and possible empyema. ID was consulted, and patient was treated with IV vancomycin. Cardiothoracic surgery was consulted for empyema. Pleuropulmonary complication was secondary to needle manipulation during transpleural approach of liver biopsy.
+
+# IMPACT/DISCUSSION:
+
+In contrast to typical C. difficile infection (CDI), extra-intestinal manifestation of CDI has been rarely reported. The frequency of extra-intestinal CDI comprises approximately 0.17% to 0.6% of all CDI. Long-term metronidazole therapy (6-8 weeks) is considered to be effective because of excellent penetration to the liver and susceptibility of isolated C difficile strains. CDIs are becoming more frequent worldwide, however, the precise trend of extra-intestinal CDI is unclear. Our case is unique as the patient does not report history of C. difficile infection. This case further warns the treating physician of the possible risk of seeding of infection elsewhere on needle aspiration.
+
+# CONCLUSION:
+
+A greater accumulation of extra-intestinal CDI cases is necessary to determine its epidemiology for the proper treatment of extra-intestinal CDI, including recurrent C. difficile bacteremia and liver abscess. Needle track seeding may complicate liver abscess especially when the location of the abscess requires transpleural route of aspiration and increase morbidity.

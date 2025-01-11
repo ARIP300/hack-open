@@ -1,0 +1,33 @@
+# ABSTRACTS
+
+# Cost Savings from 12-Month OCP Dispensing
+
+Base case analyses assumed that 50% opt to receive 12 months. Probabilities of OCP continuation, coverage gaps, pregnancy and pregnancy outcomes were drawn from published data. Costs of OCP provision and pregnancy-related care, and the number of women using OCPs were drawn from VA administrative data. One-way and probabilistic sensitivity analyses were performed to assess model robustness.
+
+# RESULTS:
+
+The 12-month dispensing option resulted in VA cost savings of $96.49 per woman per year compared to 3-month dispensing, or $2,345,575 total saved annually. Cost savings resulted from an absolute reduction of 34 unintended pregnancies per 1,000 women per year with 12-month dispensing, or 827 unintended pregnancies averted annually. Expected cost savings with 12-month dispensing were sensitive to changes in the probability of an OCP coverage gap given 3-month dispensing, probability of pregnancy during coverage gaps, and the proportion of pregnancies paid for by VA. In probabilistic sensitivity analysis simultaneously varying all parameters over plausible ranges, the 12-month strategy was cost saving in 97% of model iterations.
+
+# CONCLUSIONS:
+
+Adoption of a 12-month OCP dispensing option is expected to produce substantial cost savings for VA while reducing unintended pregnancies experienced by women Veterans served by VA. The proposed policy change would better support women Veterans in meeting their reproductive goals, and is economically feasible for VA.
+
+# Food Insecurity and Hepatic Fibrosis Measured by Transient Elastography Among Women with and at Risk for HIV
+
+Ilya Golovaty1; Yifei Ma1; Sheri D. Weiser1; Jennifer C. C. Price1; Mark H. Kuniholm2; Howard Minkoff9; Audrey L. French3; Adaora Adimora4; Igho Ofotokun 5; Margaret Fischl 6; Deborah Konkle-Parker 7; Eric Seaberg8; Phyllis C. Tien1. 1University of California San Francisco, San Francisco, CA; 2University at Albany, State University of New York, Rensselaer, NY; 3CORE Center/Stroger Hospital of Cook County, Chicago, IL; 4University of North Carolina at Chapel Hill, Chapel Hill, NC; 5Emory School of Medicine, Atlanta, GA; 6Miami Center for AIDS Research, University of Miami Miller School of Medicine, Miami, FL; 7University of Mississippi Medical Center, Jackson, MS; 8Johns Hopkins Bloomberg School of Public Health, Baltimore, MD; 9Maimonides Medical Center, Brooklyn, NY. (Control ID #3183408)
+
+# BACKGROUND:
+
+Non-alcoholic Fatty Liver Disease (NAFLD) will soon be the leading cause of chronic liver disease in people living with HIV. Household food insecurity (FI) may be an upstream determinant of metabolic risk. In a U.S. general population survey, very low food security was associated with increased NAFLD risk. Among women with HIV, FI is highly prevalent (>30%) and has been linked to key risk factors for NAFLD, including obesity and poor diabetes control.
+
+# Fostering Physician Presence in Primary Care: Findings from a Human-Centered Design Project and Delphi Panel
+
+Donna M. Zulman1, 2; Marie Haverfield1, 2; Rachel Schwartz1, 2; Jonathan G. Shaw1, 2; Cati Brown-Johnson1, 2; Dani L. Zionts1; Nadia Safaeinili1; Aaron A. Tierney1, 2; Meredith Fischer1; Sonoo Thadaney1; Steven Asch1, 2; Abraham Verghese1. 1Stanford University, Stanford, CA; 2VA Palo Alto Health Care System, Menlo Park, CA. (Control ID #3180119)
+
+# BACKGROUND:
+
+Modern medicine has produced record levels of physician distress, as clinicians attempt to reconcile time constraints and administrative demands with empathy and caring. While structural changes are undeniably needed, there is evidence that certain physician actions and communication practices can lead to more meaningful and effective patient encounters. We sought to identify evidence-based practices through which physicians can adopt a state of presence—a purposeful practice of awareness, focus, and attention with the intent to understand and connect with patients.
+
+# METHODS:
+
+We derived potential presence practices through a systematic literature review of effective interpersonal interventions (n=77 articles), followed by a human-centered design process that included clinical observations of 29 primary care encounters (at an academic medical center, a VA general medicine clinic, and a Federally Qualified Health Center), qualitative interviews with primary care physicians (n=10) and patients (n=29).

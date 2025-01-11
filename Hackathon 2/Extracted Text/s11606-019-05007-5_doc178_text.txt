@@ -1,0 +1,65 @@
+# JGIM
+
+# ABSTRACTS
+
+# METHODS:
+
+We created a cohort of patients aged 65 years receiving primary care at a large academic health system. Using electronic health record data, we identified patients prescribed any PPI. A multidisciplinary team (geriatrician, gastroenterologist, QI expert, two general internists) created evidenced-based criteria for appropriate vs low-value PPI prescriptions based on clinical guidelines and effectiveness literature. Supervised by a gastroenterologist and internist, an internal medicine resident conducted a manual chart review in a random sample of 100 patients prescribed a PPI to obtain demographic and clinical data. Specifically, we determined the reason for starting a PPI, duration of PPI use, whether the patient was taking the PPI, and the indication for long-term use (>8 weeks) to assess whether the prescription was appropriate. Prescriptions were considered appropriate if we could identify any guideline-based indication for long-term use, and low-value otherwise. For example, if a patient had a diagnosis of Barrett's esophagus then a long-term PPI prescription would be considered appropriate; in contrast, if a patient continued a long-term PPI without a guideline-based indication and had no documented attempt to wean or discontinue, the prescription would be considered potentially low-value.
+
+# RESULTS:
+
+Among the 69,352 older adults in our cohort, 12.6% were prescribed a PPI. Of the sample of 100 patients prescribed a PPI, 59% were female, 67% were White, and median age was 76. The 3 most common reasons for starting a PPI were uncomplicated GERD (63%), atypical GERD (7%), and peptic ulcer disease (7%). Four patients were not taking the PPI and were excluded from appropriateness assessment, and the rest (n=96) were documented to be taking a long-term PPI. Of these, 30 (31%) did not have a documented indication for long-term use, suggesting a low-value prescription. Most often (n=19), a physician would initially prescribe a PPI for uncomplicated GERD (without a long-term indication) but would not attempt to wean or discontinue the PPI over time. The remaining 69% (66/96) of patients prescribed a long-term PPI had a guideline-based indication: peptic ulcer disease prophylaxis (56), erosive esophagitis (3), Barrett's esophagus (5), and esophageal stricture (2).
+
+# CONCLUSIONS:
+
+Physicians prescribed PPIs in one in eight older adults, and nearly one third of these prescriptions were potentially low-value. These findings represent an important opportunity for targeted interventions to improve quality, lower spending, and reduce patient harm.
+
+# LUNG CANCER SCREENING: THE VIEWS OF PHYSICIANS
+
+Celia P. Kaplan1, 1; Margaret Lowenstein2, 3; Maya Vijayaraghavan1, 1; Judith M. Walsh1, 1; Leah S. Karliner1, 1. 1University of California, San Francisco, San Francisco, CA; 2Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA; 3Corporal Michael J. Crescenz VA Medical Center, Philadelphia, PA. (Control ID #3185122)
+
+# BACKGROUND:
+
+Lung cancer is the leading cause of cancer death in the U.S. Screening high risk individuals with low dose CT (LDCT) reduces mortality and is recommended by the United States Preventive Services Task Force (USPSTF). The USPSTF and the Centers for Medicare and Medicaid Services recommend that eligible patients, together with their physicians, weigh benefits with limitations and risks to make an informed decision about whether or not to be screened. Little is known about the uptake of LDCT and shared decision-making with primary care physicians (PCPs). The goals of our study were to assess the practices, barriers, and facilitators of lung cancer screening among PCPs.
+
+# METHODS:
+
+California internal and family medicine PCPs were randomly selected though the American Medical Association Physician Masterfile. We conducted a self-administered (online or paper) survey between September 2017 and May 2018 and collected additional physician demographic information through the California State Licensing Board. The survey covered the following domains: physician's lung cancer screening practices, barriers and facilitators, perceived patients' barriers to lung cancer screening, and potentially useful tools to promote lung cancer screening.
+
+# RESULTS:
+
+Of the 886 selected participants, 368 (42%) completed the survey. Over half of the respondents were female (54.4%) and 42% were general internists. 11.8% of the physicians were Latino, 2% African American, and 37.7% Asian. Three-quarters of physicians reported offering patients lung cancer screening in the prior year (76.3%). Only 35% correctly reported the recommended ages for initiation of lung cancer screening, and 56.6% reported the correct age for discontinuation of screening. The two considerations most frequently cited when offering lung cancer screening were the potential mortality benefit and patient screening preference (75.4% and 71.8%, respectively). Most PCPs reported always discussing smoking cessation (94.6%) and lung cancer risk factors (89.8%) in relation to screening. With respect to lung cancer screening discussion barriers for physicians, the most frequently cited factor was the complexity of the visit (42.1%). Concern about cost was the most frequently reported physician-perceived barrier to screening for patients (34.9%). PCPs identified online shared decision-making tools integrated into the electronic health record as the most potentially useful counseling aid (66.7%).
+
+# CONCLUSIONS:
+
+Our results reveal that while many PCPs offer lung cancer screening and discuss lung cancer risk and smoking cessation, there are significant knowledge gaps about screening recommendations. The most significant barriers to discussing lung cancer screening largely related to visit complexity and patient counseling, suggesting the need for EHR-based tools with easy integration into workflow in the primary care setting.
+
+# MAJOR CARDIOVASCULAR OUTCOMES AMONG AT-RISK HIGH-DEDUCTIBLE HEALTH PLAN MEMBERS
+
+James F. Wharam2; Fang Zhang2; Adrian F. Hernandez1; Christine Lu2; Xin Xu2; Jamie Wallace; Dennis Ross-Degnan; Joseph P. Newhouse3.2 1Duke University, Durham, NC; 2Harvard Medical School and Harvard Pilgrim Health Care Institute, Boston, MA; 3Harvard Medical School, Boston, MA. (Control ID #3184469)
+
+# BACKGROUND:
+
+The effect of high-deductible health insurance on major cardiovascular outcomes is unknown.
+
+# METHODS:
+
+We studied a 2004-2014 national sample of 63,363 high-deductible health plan members aged 40-64 years with diabetes, cardiovascular disease, hypertension, or hyperlipidemia, who were continuously enrolled for 1 year in a low-deductible ( $500) plan followed by 3 years in a high-deductible health plan ( $1000) after an employer-mandated switch. We matched high-deductible health plan members to 539,445 contemporaneous controls who had the same cardiovascular risk factors and whose employers offered only low-deductible plans. Using a controlled interrupted-time-series design, we analyzed cumulative rates of myocardial infarction, stroke, and amputation. We modelled weighted cumulative event rates using aggregate-level segmented regression.
+
+# RESULTS:
+
+High-deductible health plan members experienced no detectable absolute change in myocardial infarction (-0.9 events per 10,000 members, 95% confidence interval: -2.7, 0.8) after 3 years of follow-up relative to the end of the baseline year compared to controls. Stroke and amputation declined by 3.4 (-4.0, -2.9) and 6.7 (-9.0, -4.4) events per 10,000 members, respectively, among high-deductible health plan members versus controls over the same period.
+
+# CONCLUSIONS:
+
+At-risk patients who were switched to high-deductible health plans did not experience increases in major cardiovascular outcomes over 3 follow-up years relative to similar members in low-deductible plans.
+
+# Figure:
+
+|Cumulative rates of myocardial infarction|Stroke|Amputation|
+|---|---|---|
+|1 100|1 100|1 100|
+|2 Switch to HDHP|2|2|
+|1 Control HDHP|1 Control HDHP|1 Control HDHP|
+|89 4|3o|99 4|
+|Month Relative to Index Date|Month Relative to Index Date|Month Relative to Index Date|

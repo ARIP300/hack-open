@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# Rosai-Dorfman Disease
+
+Fatty replacement and fibrosis with sinus histiocytosis without significant cortical hyperplasia. There was no evidence of lymphoma or metastatic malignancy.
+
+# IMPACT/DISCUSSION:
+
+Besides his acute issue for respiratory failure which was multifactorial, our patient had incidental diffuse soft nontender lymphadenopathy with sinus histiocytosis. Sinus histiocytosis itself is a common benign problem often seen as a reaction to infectious or inflammatory process. When accompanied by diffuse bulky lymphadenopathy, which is rare, it's called sinus histiocytosis with massive lymphadenopathy (SHML) or Rosai-Dorfman syndrome. It's often associated with chronic infections or autoimmune disease which our patient had no evidence. Around 40% of these patient has extranodal manifestation with involvement of the skin, eyes, respiratory tract and CNS. Twenty percent of patients do experience spontaneous resolution hence observation is recommended in most. Alternatively, chemotherapy, radiotherapy or surgery can be considered depending on the extent of the disease.
+
+# CONCLUSION:
+
+Rosai-Dorfman disease, or SHML, is a disease of benign histiocytic proliferation of unknown etiology. Patients are often asymptomatic, some present with palpable lymphadenopathy, fever or complications from bulky lymph nodes compression.
+
+# SACRAL SARCOIDOSIS
+
+Kenneth M. Fifer. Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3185026)
+
+# LEARNING OBJECTIVE #1:
+
+Assess an atypical presentation of low back pain
+
+# LEARNING OBJECTIVE #2:
+
+Recognize extrapulmonary manifestations of sarcoidosis
+
+# CASE:
+
+A 49 year old man with no significant past medical history presented with several months of progressive bilateral low back pain. The pain was exacerbated by standing for long periods of time at his job. The pain did not radiate to the abdomen or into either lower extremity. He had no fever, cough, shortness of breath, weight loss, or urinary/bowel incontinence. Review of systems was otherwise negative. Physical exam was significant for moderate point tenderness to palpation over the L3-L4 spine. Laboratory studies were significant for a mild anemia (Hgb 12.6) and leukopenia (WBC 4.0), ESR 24, Vitamin D 17. Serum protein electrophoresis was unremarkable. Plain films of the lumbosacral spine demonstrated lytic-like lesions. CT chest/abdomen/pelvis and MR imaging demonstrated multiple lytic-appearing lesions throughout the lumbar and sacral spine with the appearance of possible metastatic disease or bone marrow replacement process. An enlarged right hilar lymph node was noted. The patient subsequently underwent a CT-guided biopsy which revealed non-necrotizing granulomas. A chest x-ray was unremarkable. Given the back pain, cytopenia and lack of respiratory symptoms, a diagnosis of sarcoidosis of the lumbosacral spine was made.
+
+# IMPACT/DISCUSSION:
+
+This case demonstrates a valuable lesson in avoiding anchoring bias and evaluating each new piece of clinical data as it is obtained. Each step in the clinical decision making process in this case (physical exam, laboratory testing, imaging, and tissue pathology) had a significant impact on the evolving differential diagnosis. This case adds an unusual presentation of sarcoidosis of the lumbosacral spine to the existing literature. Discussion There are various important extrapulmonary manifestations of sarcoidosis. The musculoskeletal system can be affected in approximately 10% of patients. The most typical musculoskeletal manifestations include acute and chronic polyarthralgias, periarticular soft tissue swelling, and bone resorption. Less commonly, patients can be afflicted with a progressive diffuse, granulomatous myositis. Bone marrow involvement, however, is relatively uncommon. Case studies as early as 1978 have described sarcoidosis of bone marrow established by histology in the abstract of chest x-ray findings. In one study of 50 patients with sarcoidosis who consented to bone marrow biopsy, 11 were found to have anemia while only 3 of those 11 were found to have bone marrow involvement on biopsy.
+
+# CONCLUSION:
+
+While extrapulmonary manifestations of sarcoidosis such as musculoskeletal involvement and anemia are relatively common, histological bone marrow involvement is a relatively rare, but important manifestation of systemic sarcoidosis. Providers should consider extrapulmonary involvement in patients with sarcoidosis who present with new, non-pulmonary symptoms.
+
+# SAVED BY THE SNELL - RECOGNIZING BASILAR SCRAP SYNDROME AS CAUSE OF VERTIGO IN OCCIPITAL CVA
+
+Timothy M. Bober1, 2; Furkan Ertem1, 2; Kristen M. Livesey2. 1UPMC Presbyterian-Shadyside, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3163373)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize "basilar scrape" syndrome as a cause of vertigo
+
+# LEARNING OBJECTIVE #2:
+
+Identify importance of visual acuity and visual field and acuity testing in vertigo evaluation
+
+# CASE:
+
+This was a 72 year-old female with type II diabetes with right eye blindness secondary to proliferative retinopathy, macular degeneration, rheumatoid arthritis, and migraine presenting with a day of frontotemporal headache, dizziness with vertigo, and worsened left-sided vision. She denied diplopia, slurred speech, eye pain, temporal tenderness, jaw claudication, weakness, numbness, chest pain, or palpitations. Admission vitals were notable for hypertension to 168/90 and heart rate of 68 with regular rhythm. Neurology evaluated the patient and, with a normal Dix-Hallpike and neurological exam, recommended head imaging. Admission exam performed by the medical team showed visual acuity of 20/200 (baseline 20/40) in her left eye and 20/800 (baseline 20/100) in her right eye. Tilting her head to the left to see the Snellen chart, the patient was found to have left homonymous hemianopsia with neglect. Differential included occipital stroke, posterior reversible encephalopathy syndrome, cerebral venous thrombosis, central retinal vein occlusion, and giant cell arteritis. A non-contrasted CT Head was negative. A contrasted MRI showed acute right occipital lobe infarct. Transthoracic echo showed mild atrial enlargement. When stable, patient was discharged and with maintained left sided visual deficit. Holter monitoring revealed normal sinus rhythm with rare ectopy.
+
+# IMPACT/DISCUSSION:
+
+This case shows the value of comprehensive visual testing in evaluating a patient with vertigo, which can reflect changes in vision, vestibular input, or proprioception. Visual testing localizes lesions and informs further imaging, which is not recommended with dizziness without focal signs.
+
+# CONCLUSION:
+
+The evaluation of vertigo includes focused history and neurological examination to differentiate peripheral and central causes. Physicians report "CN II-XII intact" in documentation, but visual testing is often omitted. This exam helped the medical team to provide a more timely diagnosis. This patient's vertigo was attributed to "basilar scrape syndrome" due to transient vertebrobasilar ischemia from an embolus. Diagnosis warrants evaluation for arrhythmia or cardiomyopathy.
+
+# References:
+
+1. Muncie, H. L., Sirmans, S. M., & James, E. (2017). Dizziness: Approach to Evaluation and Management. American family physician, 95(3), 154-162.
+
+2. Koroshetz, W. J., & González, R. G. (2006). Causes of ischemic stroke. In Acute Ischemic Stroke (pp. 27-40). Springer, Berlin, Heidelberg.
+
+3. Kamel, H., & Healey, J. S. (2017). Cardioembolic stroke. Circulation research, 120(3), 514-526.

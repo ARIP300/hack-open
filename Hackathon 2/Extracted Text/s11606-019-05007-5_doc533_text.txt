@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# SEVERE NEUROLOGICAL SIDE EFFECTS OF NOVEL IMMUNE CHECKPOINT INHIBITORS USED IN ONCOLOGY
+
+Joshua M. Lennon1, 2; Benjamin P. Liu3. 1Northwestern Memorial Hospital, Evanston, IL; 2Ann and Robert H. Lurie Children's Hospital of Chicago, Chicago, IL; 3Northwestern Memorial Hospital, Chicago, IL. (Control ID #3184900)
+
+# LEARNING OBJECTIVE #1:
+
+Review the scope of use, and mechanism of action of immune checkpoint inhibitors
+
+# LEARNING OBJECTIVE #2:
+
+Recognize severe neurological complications associated with immune checkpoint inhibitors
+
+# CASE:
+
+A 62 year old male presented to orthopedic surgery on 6/2016 for L elbow pain. During 9/2016 he was found to have a left axillary mass. Biopsy revealed malignant melanoma. In 11/2016 he had L axillary dissection, which was staged at IIIc disease. He completed 4 cycles of ipilumimab from 1/2017-3/2017. During 5/2017, he noted bilateral arm pain, stiffness, and thigh pain for 3 weeks. He was diagnosed with polymyalgia rheumatica, and started on low dose steroids with some improvement. He then complained of R sided headache and jaw pain, hyponatremia, and word finding difficulties. Differential diagnosis included temporal arteritis, but also side effects from the ipilumimab. Lumbar puncture was performed, noting CSF with 97 WBCs, 90% lymphocytes, and elevated protein and glucose. Infectious workup was negative. He was started on methylprednisolone 1g for 5 days with improvement of symptoms. He was discharged on 60mg prednisone. He returned to ED 2 days after discharge with sleepiness, confusion, and hyponatremia to 126. Infectious workup remained negative. He was treated for SIADH, and restarted on methylprednisolone 1g x 5 days and IVIG. He was discharged on 80mg prednisone, and weekly 1g IV methylprednisolone. During 7/2017, he was found by police after a motor vehicle accident confused, with delirium. An MRI brain showed multiple tiny infarctions, Lumbar puncture showed persistent lymphocytic CSF. He was restarted on high dose steroids and IVIG, and discharged on weekly tapering IVIG.
+
+# IMPACT/DISCUSSION:
+
+Immune checkpoint inhibitors are approved for multiple cancers, and will continue to be more common in oncology therapies. Their method of action involves boosting the immune response to cancer cells, by stopping the inhibitory signals produced by cancer cells to T-cells. Side effects most commonly involve the gastrointestinal system and the skin, but can affect any organ system. The most severe side effects can affect the lungs, and any part of the neurological system. This case is one of three patients that I have cared for and will present regarding severe neurological side effects from immune checkpoint inhibitors. Effects can occur days, or weeks after treatment begins, and the effects can last for long periods of time. Because of the wide variety of possible adverse effects, primary care and hospital medicine physicians need to be educated about the method of action of these medications, the possible side effects of these therapies, and the need to be vigilant to look for possible signs and symptoms in their patients.
+
+# CONCLUSION:
+
+- Immune checkpoint inhibitors have been approved for and are used to treat many cancers - Severe side effects can be seen in any organ system, including the neurological system - These symptoms can be recurrent and persistent, and start from days to weeks after therapy is started
+
+# SGLT-2 INHIBITOR ASSOCIATED EUGLYCEMIC DIABETIC KETOACIDOSIS (DKA)
+
+Hajira Amir; Sarah Fishman. Lenox Hill Hospital, New York, NY. (Control ID #3186058)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose euglycemic DKA
+
+# LEARNING OBJECTIVE #2:
+
+Recognize euglycemic DKA as a complication of SGLT-2 inhibitors
+
+# CASE:
+
+A 36 year old male with type 1 diabetes mellitus (DM) presented with complaints of chest pain, dyspnea and vomiting. His home medications included glargine 40 units daily, aspart 15 units with meals and ertugliflozin 15 mg daily. On arrival, he was afebrile, normotensive, and tachycardic at 104 bpm. He was not in respiratory distress and physical exam was unremarkable. Initial blood work was significant for blood glucose 183 mg/dl (70-99), lipase 666 U/L (7-60), trop T 0.15 ng/ml (0.00-0.01), anion gap 17 mmol/L (5-17), HCO3 18 mmol/L (22-31), HbA1c 6.8% and urine positive for ketones. He was admitted for suspected atypical acute coronary syndrome. Coronary catheterization, echocardiogram, and CT of the chest, abdomen, and pelvis did not reveal any abnormalities to account for the patient's symptoms and blood test results. He was kept NPO and treated with insulin sliding scale with blood glucose values ranging between 160-260 mg/dl. His chest pain and dyspnea worsened over his first two days of admission. Subsequent blood tests revealed worsening acidosis and increasing anion gap. A diagnosis of euglycemia DKA was considered and beta hydroxy butyrate was measured at 11.5 mmol/L (<0.4) with pH of 7.1 on venous blood gas. A continuous insulin infusion was initiated and symptoms of dyspnea, nausea, and vomiting slowly improved. The patient was transitioned to subcutaneous insulin with glargine and lispro once ketoacidosis resolved. He was discharged on his pre-admission insulin regimen and advised to discontinue ertugliflozin.
+
+# IMPACT/DISCUSSION:
+
+DKA is a life-threatening complication of DM that occurs as a result of insulin deficiency, often in association with a precipitating trigger such as infection. It is defined by the presence of

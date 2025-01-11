@@ -1,0 +1,30 @@
+# Special Issue
+
+ing on BTK inhibitor therapy and can al-
+
+ready be present at baseline, but it only appears to set the stage for increased risk of the eventual acquisition of resistance mutations [5, 6]. The same applies to the immunologic marker CD49d, which is a prognostic factor for the time from diagnosis to treatment and a predictor for the efficacy of BTK inhibition [7, 8].
+
+# Non-covalent inhibition:
+
+# pirtobrutinib
+
+Data on the genomic evolution and resistance to the non-covalent BTK inhibitor pirtobrutinib were presented by Jennifer R. Brown, MD, PhD, Dana-Farber Cancer Institute and Harvard Medical School, Boston, USA. The BRUIN trial evaluated single-agent pirtobrutinib in 311 CLL patients; among these, 279 had previously received covalent BTK inhibitor treatment, and 111 showed progression on pirtobrutinib at data cutoff. For 49 of these, paired pre- and post-progression samples were available for targeted next generation sequencing (NGS).
+
+At baseline, 51 % of patients had BTK mutations the vast majority of which were C481S mutations. At progression, 71 % had ≥ 1 acquired mutation. Acquired resistance to pirtobrutinib mainly converged around non-C481 BTK mutations, with the gatekeeper T474 mutation being most frequent. This was followed by the L528 mutation and other kinase mutations. Approximately half of patients did not acquire BTK mutations, and 29 % did not acquire any mutations, which suggests other mechanisms of resistance.
+
+Decrease or clearance of C481 clones at the time of progression on pirtobrutinib were observed in 92 %, while BTK T474, L528, C481R/S/Y and other kinase mutations arose at or near progression. Importantly, baseline and acquired BTK mutations did not preclude pirtobrutinib efficacy. Overall response rates (ORRs) were high regardless of the type of acquired BTK mutation, ranging from 83 % to 92 %. Twenty-four percent of acquired non-C481 BTK mutations pre-existed already at baseline at low variant allele frequencies (VAFs) of 1–3 %. Patients with these pre-existing mutations had similar responses to pirtobrutinib, with an ORR of 75 %.
+
+# Optimizing outcomes on pirtobrutinib
+
+Moreover, post-progression therapeutic intensification options were investigated based on pharmacological and genetic or genomic profiling. Characterization of cells showed that the chemokines CCL3 and CCL4 were increased at the time of progression, which indicated activation of the B-cell receptor pathway. At the MD Anderson Cancer Center, 14 of 23 evaluable patients with relapsed/refractory CLL who received pirtobrutinib in the BRUIN study developed progression. In this group, different types of second-site mutations prevailed. Only two individuals had BTK wildtype, and the C481 clone was eradicated in almost all cases. The researchers sought to identify genomic features at baseline that were associated with maintenance of the response to pirtobrutinib. According to this, risk factors for progression on pirtobrutinib included relapsed/refractory status after previous covalent BTK inhibition (rather than intolerance to these agents) and the presence of BTK mutations at baseline, complex karyotype and bulky lymph nodes. As Dr. Gandhi pointed out, this observation needs to be validated in the larger BRUIN cohort. Nevertheless, it implies that pirtobrutinib should preferably be used in previously untreated CLL patients.
+
+# Heterogeneity of BCL-2 resistance
+
+Insights into mechanisms of resistance to BCL-2–targeted treatment were reported by Rachel Thijssen, PhD, The Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia and Amsterdam UMC, the Netherlands. CLL cells from relapsed patients have shown to be intrinsically less sensitive to venetoclax [9]. Among intrinsic mechanisms, the BCL-2 Gly101Val mutation that reduces binding affinity of venetoclax to BCL-2 in the CLL cell was identified [10]. However, this is subclonal and is found only in a subset of patients progressing on venetoclax.
+
+|4,000|3,000|count|2,000|1,000|0|
+|---|---|---|---|---|---|
+|-0.2|0.0|0.2|Pearson‘s r|NFKB2|REL|
+| | | |RELB| | |
+
+© Springer-Verlag GmbH Austria, part of Springer Nature Vol. 16 ∙ Suppl 10/2023 S171

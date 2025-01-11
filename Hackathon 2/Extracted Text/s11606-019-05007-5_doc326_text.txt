@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# CONCLUSION
+
+The massive differential associated with EN can tempt providers into the over-ordering of tests. However, to ensure high value care, a thorough history and physical exam combined with diagnostic discipline is critical as these nodules are idiopathic in ~55% of cases. We recommend obtaining a CBC with differential, ESR, CRP, ASO antibodies, throat culture, and chest x-ray in patients with idiopathic EN, and further tests should be obtained only if the patient's history and physical exam significantly increase suspicion for an underlying condition.
+
+# A CASE OF HEPATITIS LEADING TO INITIAL DIAGNOSIS OF SYSTEMIC LUPUS ERYTHEMATOSUS
+
+Ryan Burkholder 1; Patrick B. Harriss 3; Daniella Lopes 4; Hrishikesh Samant 2. 1 LSU Health Sciences Center, Shreveport, LA; 2 Louisiana State University, Shreveport, LA; 3 LSU Health Sciences Center - Shreveport, LA, Shreveport, LA; 4 Willis-Knighton Hospital, Shreveport, LA. (Control ID #3184816)
+
+# LEARNING OBJECTIVE #1
+
+Distinguish features of lupus hepatitis after appropriate workup has excluded other common causes of transaminitis.
+
+# CASE
+
+We present a 56 yr old female with past medical history of Raynauds, MVP, and GERD who presents with a two week history of fatigue, malaise, anorexia, fever and jaundice. Physical exam was unremarkable except for generalized jaundice. Laboratory analysis revealed AST 1286, ALT 1191, total bilirubin 12.7, INR 1.2, albumin 3.7 and WBC 5.8k. Platelets decreased to 125k and WBC decreased to 3.6k during hospital course. Further ultrasound and CT of the abdomen showed no obstructive process. Due to suspicious for a mononucleosis type picture, CMV serologies and an EBV viral panel were obtained which showed CMV both positive IgM and IgG, however CMV DNA PCR was negative. EBV serologies were positive for IgG and negative for IgM. Acute hepatitis panel, HIV, and anti liver-kidney microsomal screen, and anti Smith/RNP, anti-smooth muscle antibody were negative; However both ANA and dsDNA were positive with positive cytoplasmic reticular pattern observed which may be associated with antimitochondrial antibodies. Complements were mildly decreased. Since both AST and ALT remained elevated with no clear etiology, a liver biopsy was performed which showed predominantly lymphocytic inflammatory infiltrate with parenchymal areas demonstrating confluent hepatocellular necrosis consistent with lupus hepatitis. An immunohistochemical stain for cytomegalovirus was negative. Patient was treated as lupus and subsequently discharged home on an oral steroid regiment with rheumatology follow-up. Liver enzymes several weeks later were as follows: AST 26, ALT 16 and total bilirubin 0.8.
+
+# IMPACT/DISCUSSION
+
+Systemic lupus erythematosus (SLE) is an autoimmune disorder infecting multiple organs. Severe hepatic involvement is rare in patients with SLE, although 25-50% of patients will experience some form of transaminitis. In many cases, elevated transaminases are due to inciting factors such as hepatotoxic drugs, viral hepatitis or fatty liver disease. Viral infections can be triggering events in autoimmune disorders and CMV may have been an inciting factor that prompted acute liver injury in our patient.
+
+# CONCLUSION
+
+Due to frequent multifaceted manifestations of liver diseases in SLE, an assessment of immunological, serological and virological markers should be performed. Autoimmune hepatitis (AIH) should always be considered in a patient with multiple positive autoantibody markers since it has a much more severe disease progression. Testing for AMA, ASMA, anti-liver kidney antibodies, and soluble liver antigen may be helpful in differentiating AIH. Finally, histopathology is the key method of diagnosis, and histopathological findings led to diagnosis of SLE in our patient.
+
+# A CASE OF HPV RELATED OROPHARYNGEAL SCC IN THE ABSENCE OF TRADITIONAL RISK FACTORS: A RISING CLINICAL ENTITY
+
+Ahmed S. Ahmed; Sami G. Tahhan. EVMS, Norfolk, VA. (Control ID #3185178)
+
+# LEARNING OBJECTIVE #1
+
+HPV-related oropharyngeal squamous cell carcinoma (OPSCC) represents a growing etiologically distinct subset of head and neck cancers with unique epidemiological, clinical, and prognostic characteristics. We report an interesting case of HPV related OPSCC in the absence of other identifiable risk factors.
+
+# CASE
+
+A 49-year-old Caucasian male with no prior history of smoking or alcohol abuse presented in 2011 with complaints of asymptomatic left-sided neck swelling. Neck CT revealed a malignant appearing complex mass in the left neck, posterior to the submandibular gland. FNA biopsies revealed proteinaceous debris and were negative for malignancy. The patient was scheduled for surgical excision but was lost to follow up. In 2017, the patient presented again, now with complaints of a persistent left-sided neck mass. Examination revealed a firm lesion measuring approximately 3 x 4 cm at the anterior border of his left SCM. Reimaging demonstrated a left palatine tonsillar mass with multiple multifocal ipsilateral cervical malignant appearing adenopathy concerning for metastatic malignancy from a palatine tonsil mucosal primary tumor. FNA biopsy was positive on immunohistochemistry for p16 HPV mediated OPSCC. The patient was treated with chemoradiation with a good clinical response.
+
+# IMPACT/DISCUSSION
+
+Despite the decrease in tobacco use, the incidence of oropharyngeal cancer initially remained constant and then began to rise. Public health sources describe it as an upcoming epidemic. HPV related OPSCC seems to account for this incidence trend with one study suggesting that the annual number of HPV-associated oropharyngeal cancers in the United States will overtake the incidence of invasive cervical cancer cases by 2020. As in cervical cancer, oral HPV infection appears to be a sexually-acquired disease likely through oral sex thus reflecting societal changes in sexual behavior that have occurred over time in the developed world.
+
+# CONCLUSION
+
+HPV infection, and in particular type 16 (HPV-16), is now recognized as a significant player in the onset of OPSCC. Diagnosis is made through Immunohistochemistry for p16 which is overexpressed and highly sensitive for HPV associated OPSCC. The p16 protein functions as a tumor suppressor preventing phosphorylation of the Retinoblastoma protein (Rb) and affecting cell growth. Compared to non-HPV OPSCC, HPV associated tumors predominantly arise in the tonsillar region or the base of the tongue, it's more likely to present with an early-stage and usually have a better prognosis. The age of presentation tends to be younger peaking around 30 and 55 years with less exposure to the traditional risk factors of tobacco and alcohol. HPV positivity is less frequent in African Americans than in Caucasians with a threefold higher incidence in males than females. Treatment of HPV OPSCC includes a multimodality approach with chemotherapy, radiation therapy, and/or surgery with significantly better prognosis and five-year overall survival compared to HPV free OPSCC.
+
+# A CASE OF KRATOM INDUCED CHOLESTASIS
+
+Randeep Kaur; Charles Siedlecki; Syed-Mohammed Jafri. Henry Ford Hospital, Detroit, MI. (Control ID #3185390)
+
+# LEARNING OBJECTIVE #1
+
+Recognize that there are many uncommon and likely unrecognized drugs including prescription, over the counter and herbal remedies that can cause cholestasis.
+
+# CASE
+
+The patient is a 42 year old female with a history of polio, with no residual deficits, who presented with generalized symptoms of subjective fever, fatigue, nausea and poor appetite. She was being worked up in an outpatient setting however when her urine turned dark orange, she decided to present to the hospital. When she initially presented, she had elevated.

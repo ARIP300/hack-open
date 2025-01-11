@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# HOME HOSPITAL CARE: A QUALITATIVE EVALUATION
+
+With adverse events. Substitutive hospital-level care in a patient's home has been shown to lower cost, utilization, and readmission. However, evidence to explain how and why home hospital accomplishes many of these results is lacking. To best elucidate the inner workings of the intervention, we report an in-depth qualitative evaluation.
+
+# METHODS
+
+We performed a randomized controlled trial comparing usual hospital care versus acute care at home for patients admitted via the emergency department with any infection, exacerbation of heart failure, chronic obstructive pulmonary disease, asthma, or several other specified internal medicine diagnoses. Patients randomized home had nurse and physician home visits, IV medications, remote monitoring, video communication, and point of care diagnostic testing. Between 1 and 30 days after discharge from either arm, we administered semi-structured interviews to elicit detailed patient experience, using a convenience sample of patients until we reached thematic saturation. We analyzed responses using NVivo via the constant comparative method with 2 coders, with discrepancies resolved by a third.
+
+# RESULTS
+
+Of the 60 eligible patients, we interviewed 15 home patients and 13 control patients (47% of all eligible patients); no sociodemographic differences existed between those who were and were not interviewed, although control patients were slightly younger (median age 72 vs 77 years). Patients' experience clustered around 3 main themes: clinician factors, factors promoting healing, and systems factors. Both groups noted positive experiences with their clinicians, although the home group had fewer negative comments regarding interactions with physicians, nurses, and aides. Compared to control patients, home patients described more thematic factors promoting healing: improved sleep, increased physical activity, improved social support from family, and better environmental comfort. Regarding systems factors, control patients described more difficulties during their admission from the emergency department to the hospital floor (compared to home patients' experience of hospital to home), more negative experiences with technology (e.g., alarms from monitors), and more logistical difficulties in receiving care during their admission (e.g., roommates). Both groups noted difficulties with the discharge process, citing difficulty carrying out the proposed plan after discharge.
+
+# CONCLUSIONS
+
+Patients who received hospital-level care at home experienced fewer negative experiences with the clinical team, more factors promoting healing, and fewer systemic logistical hurdles. Both noted difficulty with discharge after hospitalization. To our knowledge, this is first qualitative analysis of home hospital care and will serve to provide insights and improvements for future home hospital efforts.
+
+# HOSPITALIZATION, RE-HOSPITALIZATION, MORTALITY, AND UTILIZATION PATTERNS PREDICTED BY NOVEL HIGH-RISK PATIENT LATENT SUBGROUPS AND COMPLEXITY SCORES
+
+Xinhua Zhao1, 4; Sandeep Vijan2, 5; Matthew Maciejewski3, 6; Donna M. Zulman7, 8; Hongwei Zhang1; Joshua M. Thorpe1, 9; Ann-Marie Rosland1, 4. 1VA Pittsburgh Center for Health Equity and Promotion, Pittsburgh, PA; 2VA Center for Clinical Management Research, Ann Arbor, MI; 3Durham VA Medical Center, Durham, NC; 4University of Pittsburgh, Pittsburgh, PA; 5University of Michigan, Ann Arbor, MI; 6Duke University, Durham, NC; 7VA Palo Alto Health Care System, Menlo Park, CA; 8Stanford University, Stanford, CA; 9UNC, Chapel Hill, NC. (Control ID #3165380)
+
+# BACKGROUND
+
+Latent groups have been described among high-risk complex patients. Before such groupings are used to inform clinical care, the ability of such groups to predict distinct health outcomes and utilization patterns over time should be established.
+
+# METHODS
+
+We previously used Mixture Item Response Theory (MixIRT), a hybrid classification-dimensional modeling approach, to define 6 clusters of chronic comorbidities and group-specific patient theta (‘complexity') scores among 934,787 VA primary care patients whose predicted probability of hospitalization over 12 months using standard VA prediction algorithms was ≧25% during any week in 2014. Here we assess the associations of group membership and patient theta scores with rates of all-cause mortality, all-cause acute hospitalizations, and 30-day re-hospitalization in the year following.
+
+# RESULTS
+
+81% of patients were matched with a group at a probability ≧80%. High-risk patient groups were characterized by high levels of Substance Use Disorder (SUD, 11% of patients assigned), Cardiometabolic Conditions (CM, 21%), Mental Health Conditions (MH, 14%), Pain & Arthritis (PA, 16%), Cancer (13%), and Chronic Liver Disease (12%). The overall rate of one-year mortality was 8% and VA hospitalization was 25%. 17% of hospitalizations led to a readmission within 30 days. Mortality varied significantly by group (SUD=reference; AOR (95%CI): Liver 3.2 (3.0, 3.3), Cancer 2.3 (2.2, 2.4), CM 1.6 (1.5, 1.7), PA 1.06 (1.02, 1.11), and MH 0.7 (0.66, 0.73)). One-year hospitalization rates ranged from 61 per 100 patients (Liver) to 31 per 100 patients (MH) (adjusted incidence risk ratio (AIRR), SUD=reference: Liver 1.27, Cancer 0.95, CM 0.88, PA 0.75, MH 0.6, all p<0.001). Among all hospitalizations (n=253,933), 30-day re-admission rate ranged from Liver 24% to MH 15%; (AIRR Liver 1.1, SUD reference, Cancer 0.99, CM 0.92, PA 0.82, MH 0.73, all p<0.001 except Cancer p=0.69). MixIRT derived patient theta scores independently predicted mortality (AOR 1.16, CI 1.15, 1.17), any hospitalization (AOR 1.17, CI 1.16, 1.17), and at least one 30-day re-hospitalization (AOR 1.29, CI 1.28, 1.30). Notable group utilization patterns included large variation in primary care use (range 5.4 PCP visits/year for MH to 4.2 for SUD, specialty care use (range 13 visits/year for Cancer to 4.8 for SA), and ED visit rate (range 2.7 visits/year for SA to 1.9 for Cancer).
+
+# CONCLUSIONS
+
+MixIRT models were able to assign high-risk patients, previously in a single group defined by a homogenously high risk score, to subgroups with distinct hospitalization, re-hospitalization, and utilization profiles. Intervention content and intensity could be tailored to group utilization profiles and patient theta scores. High rates of re-hospitalization were seen among groups not typically targeted in re-admission prevention programs (Liver, Substance Use).
+
+# HOW DO ONLINE SITES OF ACADEMIC MEDICAL CENTERS PORTRAY THE HARMS AND BENEFITS OF LUNG CANCER SCREENING AND WHAT STEPS DO THEY RECOMMEND FOR PATIENTS
+
+Stephen Clark; Daniel S. Reuland; Daniel Jonas. University of North Carolina-Chapel Hill, Chapel Hill, NC. (Control ID #3175218)
+
+# BACKGROUND
+
+The USPSTF recommends lung cancer screening to adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within 15 years, but not before a shared decision-making discussion of benefits and harms. Many medical centers publish online information on screening, making the public aware of their ability to perform it. However, because websites could influence patient perceptions of screening, some experts have cautioned about overly optimistic portrayal of screening in patient-facing materials. We evaluated the online information for the reporting of harms and benefits as well as recommended next steps for patients.
+
+# METHODS
+
+We performed a standardized web search for publicly available information on lung cancer screening at academic medical centers affiliated with any of the 152 US allopathic medical schools. A single author reviewed webpages for the reporting of benefits, harms, and recommended next steps. We used descriptive statistics to summarize the findings.
+
+# RESULTS
+
+Eighty-one institutions (53.3%) had publicly available information on lung cancer screening. Centers were more likely to report benefits than harms (98.8% vs. 56.8%, Table 1). Only 19 (23.5%) webpages specifically recommended patients weigh the benefits and harms of screening. Only 11 (13.6%) mentioned overdiagnosis. Seventy-six (93.8%) institutions listed follow up steps with only 16 (19.8%) specifically indicating patients should discuss benefits and harms with a PCP. Three (3.7%) stated harms and benefits would be discussed at a lung cancer screening specific appointment scheduled by the medical center.

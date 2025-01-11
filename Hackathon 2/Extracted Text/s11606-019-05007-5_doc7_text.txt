@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# CONCLUSIONS:
+
+Our survey reveals a mixed picture. Although the vast majority of Swiss GIM residents are satisfied with many aspects of their job, approximately 20% appear to have a reduced well-being or career choice regret and around 60% feel burned out or report emotional problems. Having few rewarding work hours and a low satisfaction with training quality and job autonomy are the most significant predictors of reduced well-being. Given the human costs of physician distress to both patients and physicians, health care organizations have the shared ethical and professional responsibility to improve physician well-being, for instance by providing adequate support structures and staffing levels.
+
+# 1-ITEM BURNOUT MEASURE CORRELATES WELL WITH EMOTIONAL EXHAUSTION DOMAIN OF BURNOUT BUT NOT DEPERSONALIZATION
+
+Tabor E. Flickinger; Rachel H. Kon; Rebecca Jacobsen; Justine E. Owens; John Schorling; Margaret L. Plews-Ogan. University of Virginia, Charlottesville, VA. (Control ID #3171873)
+
+# BACKGROUND:
+
+Burnout is a serious concern in medical education and practice with negative impact on trainees' professionalism and patient care. Accurate measurement of burnout is necessary for medical education scholarship and intervention evaluation. The Maslach Burnout Inventory (MBI) is a validated 22-item tool with three domains of emotional exhaustion (EE), depersonalization (DP), and personal accomplishment (PA). A 1-item burnout measure is faster and easier to administer than the full MBI and is available at no cost. However the correlation between a 1-item measure and the full MBI has not been established for physicians-in-training. We aimed to compare measurement of burnout by these two tools among medical students.
+
+# METHODS:
+
+All medical students at our academic medical center receive an online survey annually. Since 2014, this survey has included the full MBI to measure burnout. In the 2017-2018 academic year, we added the 1-item burnout measure, previously used in the Physician Work Life Study (PWLS). This item asks respondents to rate their level of burnout with responses from 1 (no burnout) to 5 (severe burnout). Previously established cut-offs for high scores were used for both measures. Scores on the 1-item PLWS burnout measure and the full MBI domains of EE and DP were compared using Pearson correlation and Chi square tests.
+
+# RESULTS:
+
+Of the 631 surveys sent, 287 students completed the 1-item PWLS burnout question and the full MBI (46% response rate). Mean scores on EE were 21.6 (SD 10.8) and on DP 6.4 (SD 5.4). Mean score on the 1-item PLWS measure was 2.17 (SD 0.726). Scores on EE and DP domains were moderately correlated with each other (r=0.472, p<0.001). Scores on the 1-item PWLS measure showed strong correlation with EE scores (r=0.665, p<0.001) but weak correlation with DP scores (r=0.160, p=0.007). High burnout was reported by 34% of students for EE (scores above 27) and 25% for DP (above 10). On the 1-item PWLS measure, 21.3% of students reported high burnout (3 and above). Students with high scores on the 1-item PLWS measure were more likely to have high EE than low/medium EE (86% vs 19%, p<0.001) but no significant difference on high vs low/medium DP (31% vs 24%, p=0.248).
+
+# CONCLUSIONS:
+
+The 1-item PWLS measure correlated better with EE than with DP domains of burnout. When asked by the 1-item measure to rate their own level of burnout, respondents may primarily express how drained or fatigued they feel, which corresponds well to EE. However, DP appears to measure a different concept which captures the ability to treat patients with empathy. DP is a particularly worrisome aspect of burnout because it may undermine the formation of therapeutic relationships with patients and how well future physicians deliver patient-centered care. DP may not be well evaluated by the 1-item PWLS burnout measure, as compared to the full MBI, and should be used and interpreted with caution by medical educators and researchers.
+
+# 12MONTH OUTCOMES: UTILIZING REMOTE GLUCOSE MONITORING TO DELIVER CONTINUOUS, PATIENT-CENTERED CARE AND IMPROVED OUTCOMES
+
+Elizabeth B. Kirkland1; Jingwen Zhang1; Justin Marsden2; William P. Moran2. 1MUSC, Charleston, SC; 2Medical University of South Carolina, Charleston, SC. (Control ID #3186342)
+
+# BACKGROUND:
+
+Remote patient monitoring (RPM) is an accessible tool for chronic disease management. This technology improves access to care and provides up-to-date data for provider action. While there is a growing body of evidence to suggest that diabetic and hypertension control improves at 6 months with home monitoring, there is less evidence for effectiveness or sustained improvement at 12 months follow up time. Meta-analyses of remote interventions for other chronic diseases, such as obesity, reveal promising improvement up to 6 months, but insignificant change at 12 months. We seek to determine whether remote patient monitoring of glucose over 12 months, with provider engagement to allow for medication changes in the inter-visit period, will produce sustained improvements in hemoglobin A1c (hbA1c) at 12 months or longer.
+
+# METHODS:
+
+Over 600 patients across the state of South Carolina enrolled in a remote monitoring program utilizing an easy-to-use, 2-in-1 automated device with blood pressure and glucose monitoring capability. The device transmits data directly to a secure database through SIM technology for healthcare provider review, obviating the need for Bluetooth, cords, or other ancillary devices. Patients were eligible for participation if they had an hbA1c of 8 or higher within 21 days of enrollment. Providers were encouraged to view these incoming data and to make adjustments to diabetes and/or hypertension treatment plans at their discretion. HbA1c measurements were obtained at baseline, 6-, and 12-months after enrollment and compared via paired t-tests (baseline to 6mo, 6mo to 12mo, and baseline to 12mo).
+
+# RESULTS:
+
+We report on the changes in hbA1c as a marker of diabetes control over time. Blood pressure outcomes are not reported here as there was no blood pressure entry criteria. RPM was associated with significant reduction in hbA1c at 12 months, compared to baseline (8.8 vs 9.7, respectively; n=24; p=0.05). There was also a significant reduction in hbA1c at 6 months compared to baseline (8.8 vs 10.4, respectively; n=106; p=<0.0001), but not at 12 months compared to 6 months (8.8 vs 8.9, respectively; n=23; p=0.78).
+
+# CONCLUSIONS:
+
+Based on these initial data, RPM leads to improved diabetes control which is sustained at 12 months. Data collection is ongoing and we expect to report 12 month findings for a sample size of approximately 100 patients by the time of presentation in May 2019. RPM is an effective tool for improving diabetes management and delivering inter-visit care to patients of diverse geographic and socioeconomic backgrounds, affording improved chronic disease control in a patient-centered fashion. The user-friendly design and the healthcare providers' ability to provide inter-visit care with this technology, coupled with the sustained benefit on chronic disease control as measured by hbA1c, suggests that this form of care can reduce barriers to care and improve outcomes for otherwise vulnerable and underserved populations.
+
+# A BARBER-PHARMACIST INTERVENTION COULD REDUCE CVD EVENTS AT 10 YEARS IN HYPERTENSIVE NON-HISPANIC BLACK MEN: THE LOS ANGELES BARBERSHOP (LA BARBER) TRIAL
+
+Kelsey B. Bryant1; Brandon K. Bellows1; Dhruv S. Kazi4; Valy Fontil2; Joanne Penko3; Ciantel A. Blyler5; Kathleen Lynch5; Norma B. Moy5; Joseph Ebinger5; Florian Rader5; Kirsten Bibbins-Domingo3; Andrew E. Moran1. 1Columbia University Medical Center, New York, NY; 2University of California San Francisco, San Francisco, CA; 3University of California, San Francisco, San Francisco, CA; 4Beth Israel Deaconess, Boston, MA; 5Cedars Sinai, Los Angeles, CA. (Control ID #3183887)

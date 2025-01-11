@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# 11.5(0.21), 10.3(0.18), p<0.001
+
+However there was no significant difference between mean perceived neighborhood social cohesion in US-born vs foreign-born participants (15.8 vs 15.8), nor by study site (Bronx 15.6, Chicago 15.8, Miami 15.9, San Diego 15.9). Health protective behaviors were consistently less prevalent among foreign-born vs US-born participants, particularly colon cancer screening (50.5% vs 71.5%), mammogram (74.4% vs 84.4%) and prostate cancer screening (51.9% vs 63.3%). Health risk behaviors were also consistently less prevalent among foreign-born vs US-born participants, especially smoking (15.8% vs 31.4%), obesity (36.5% vs 49.9%), and poor diet (16.8% vs 36.6%). Foreign-born participants with higher perceived neighborhood problems were less likely to meet physical activity recommendations [OR (95% CI)=0.74 (0.58, 0.95) p<0.05). Foreign-born participants with less perceived neighborhood social cohesion were less likely to be adherent to pap smear guidelines (OR (95% CI)=0.48 (0.23, 0.98) p<0.05).
+
+# CONCLUSIONS:
+
+Overall, neighborhood factors may significantly influence health behaviors of US Hispanics/Latinos, especially Hispanic/Latino immigrants. Neighborhood environment is important for health systems and providers to consider in prevention and treatment strategies that influence Hispanic/Latino health.
+
+# INFLUENCE OF MIDLIFE COGNITIVE ACTIVITY ON LATE-LIFE COGNITIVE ACTIVITY, COGNITIVE FUNCTION AND FUNCTIONAL STATUS IN WI VETERANS
+
+Allison E. Cotter1; Jessica Kim; Kia Semons-Booker1; Kate Sherman2;1 Rodney Sparapani3; Jeff Whittle4. 1Medical College of Wisconsin, Wauwatosa, WI; 2Milwaukee VA Medical Center, Milwaukee, WI; 3Medical College of Wisconsin, Milwaukee, WI; 4Zablocki VA Medical Center, Milwaukee, WI. (Control ID #3185753)
+
+# BACKGROUND:
+
+Increased cognitive activity is associated with increased cognitive function in older populations. To test whether midlife cognitive activity might increase late life cognitive function, we studied older (age 68+) male Veterans participating in a longitudinal study of exercise and cognition.
+
+# METHODS:
+
+We measured current (late-life) cognitive activity using a validated survey (Wilson et. al) which includes such activities as reading books, newspapers or magazines and writing letters; we used a modified version of this survey to ask respondents to recall participation in similar activities at age 50 (midlife). We used standard tests (e.g., Brief Visuospatial Memory Test-Revised (BVMT-R), Wide Range Achievement Test (WRAT-4)) to measure cognitive function. We measured functional status with the physical and mental component scores (PCS12, MCS12) from the Veterans Rand 12 item survey and PROMIS measures of physical and social function. We also asked, "What things influence how much time you spend on mental activity?". We first examined the association of midlife cognitive activity with current cognitive activity and functional status using simple correlations, then used linear regression to examine these same associations, controlling for demographics and other potential confounders.
+
+# RESULTS:
+
+The 78 participants were largely white (87%), older average (mean age 74.8 years) and well educated (65% had more than 12 years of education; 28% had a college degree). Most (67%) were retired but only 24% had annual household income < $30k. More education, higher income and white race were associated with increased current cognitive activity. The most common cognitive activity was reading; 76% read "regularly" (more than 1 hour daily) at follow up and 68% reported doing so in midlife. While midlife cognitive activity was positively correlated with current cognitive activity (p<0.0001, r2=0.3123), there was no consistent relationship between mid-life cognitive activity and current cognitive function or functional status. Adjustment for potential confounders using multivariable analysis produced similar results. In our qualitative analysis, many respondents reported that much of their cognitive activities are embedded in everyday life (finances, healthcare). These activities are not captured in the cognitive activity measure that we used.
+
+# CONCLUSIONS:
+
+Higher levels of midlife cognitive activity were associated with more late-life cognitive activity but not improved function. The surprising lack of association between cognitive activity and cognitive function may reflect a healthy volunteer effect. Moreover, our qualitative work identified important cognitive activities that were not captured in our measure of cognitive activity. Our results do suggest that efforts to increase late-life cognitive activity may need to start earlier, when patterns of behavior are established.
+
+# INFLUENCES OF PROVIDER GENDER ON UNDERLYING COMMUNICATION SKILLS AND PATIENT CENTEREDNESS IN PAIN MANAGEMENT CLINICAL SCENARIOS
+
+Jeffrey Wilhite; Harriet Fisher; Khemraj Hardowar; Lisa Altshuler; Sarah Chaudhary; Sondra Zabar; Adina Kalet; Kathleen Hanley; Colleen C. Gillespie. NYU School of Medicine, New York, NY. (Control ID #3185434)
+
+# BACKGROUND:
+
+For quality care, physicians must be skilled in diagnosing and treating chronic pain. Some studies have shown gender differences in how providers manage pain. And more broadly, female providers provide more patient-centered communication which in turn has been linked to patient activation and satisfaction with care. We explore, using Unannounced Standardized Patients (USPs), whether resident physician gender is associated with the core underlying skills needed to effectively diagnose and management chronic pain: communication, patient centeredness, and patient activation.
+
+# METHODS:
+
+We designed two USP cases and sent these undercover patients into primary care clinics at two urban, safety-net clinics. The USP cases were similar: a 30-35 y.o. male, presented as a new patient to the clinic with either shoulder pain induced by heavy lifting or knee pain due to a recreational sports injury. USPs completed a post-visit checklist that assessed patient satisfaction (4 items), patient activation (3 items), and communication skills (13 items) using a behaviorally-anchored scale (not done or partly done vs. well done). Summary scores were calculated for each of the three domains. Residents provided consent for their educational data to be used for research as part of an IRB-approved medical education registry.
+
+# RESULTS:
+
+A total of 135 USP visits (80 female providers, 55 male) occurred between 2012 and 2018. Female providers saw 41 shoulder pain and 39 knee pain cases while male providers saw 21 shoulder and 34 knee cases. ANOVA was used to assess differences in summary scores by provider gender (male vs female) and by case portrayed (knee vs shoulder). Skills did not differ significantly by whether knee or shoulder pain case. Gender effects were not seen for patient centeredness or for patient activation; however female providers performed significantly better at relationship development (83% vs males 72% shoulder pain; 70% vs 66% knee pain case; p<.001) and information gathering (86% vs. males 72% shoulder pain; 79% vs 66% in knee case; p<.016). Male providers, however, performed slightly better in patient education and counseling (65% vs 63% for shoulder and 38% vs 33% for knee cases; p<.001).
+
+# CONCLUSIONS:
+
+Developing a relationship and gathering information are critical to pain management and female residents performed better than male residents in these areas. Male providers performed slightly better than women in patient education and provider gender was not associated with any differences in patient centeredness or activation. In the future, we plan to link these underlying skills to pain management decisions, documentation and ultimately to patient outcomes. We suspect that patient activation may best be measured at follow-up, something not possible with our current USP methodology. Gender differences could be viewed as striking in the context of our relatively homogeneous sample (medicine residency program) and shared clinical environment/healthcare system.
+
+# INFLUENZA MANAGEMENT VIA DIRECT TO CONSUMER TELEMEDICINE
+
+Kathryn A. Martinez1; Mark N. Rood; Michael B. Rothberg1. 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic Foundation, Chagrin Falls, OH. (Control ID #3180272)

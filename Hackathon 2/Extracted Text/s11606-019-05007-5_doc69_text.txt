@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# EDUCATION AND TRAINING
+
+Education, and 87% percent had participated in some faculty development in education, with the majority reporting local training opportunities. Women were more likely than men to have completed a fellowship and/or Master's degree in medical education (p=0.029). Advanced training was associated with more publications (p=0.002), lectures or workshops at the regional, national or international level (p=0.001), and regional or national committee memberships (p=0.04). Having an education leadership role was not associated with additional training, with the exception of a Dean's office role (p=0.029). Over 70% of respondents indicated a positive impact of additional training on career achievement and job satisfaction, with greater positive perception in those with higher levels of additional training (p<0.001). Qualitative data exploring factors viewed as influencing clinician-educators' career advancement were grouped under the major thematic categories of: (1) passion for teaching, (2) institutional culture and (3) advanced training and its impact. Themes within these categories suggest variation in institutional and generational expectations regarding carving out time for education, promotion, and obtaining leadership roles. Detailed description of themes will be provided in the full abstract.
+
+# CONCLUSIONS
+
+Clinician-educators participate in a wide array of additional training opportunities. Advanced training is associated with scholarly productivity and perceived job satisfaction, but not acquisition of most leadership roles. Variations in institutional culture may explain this discrepancy.
+
+# CLINICIAN-LEVEL VARIATION IN THREE MEASURES REPRESENTING OVERUSE BASED ON THE AMERICAN GERIATRICS SOCIETY CHOOSING WISELY STATEMENT
+
+Theresa A. Rowe1; Ji Young Lee1; Tiffany Brown2; Stephen Persell3. 1Northwestern University, Chicago, IL; 2Northwestern University Feinberg School of Medicine, Chicago, IL; 3Northwestern University, Evanston, IL. (Control ID #3173753)
+
+# BACKGROUND
+
+The extent of clinician-level variation in the overuse of testing or treatment in older adults is not well understood. The objective is to examine the clinician-level variation on three measures of overuse in older adults.
+
+# METHODS
+
+The study was a retrospective analysis of two process and one outcome measures in adults aged 65 years and older evaluated in outpatient primary or immediate care within a health system affiliated with an academic medical center between July 1, 2016 and June 30, 2017. Subjects: Clinicians: Primary or immediate care clinicians caring for adults aged 65 years and older. Patients: Women and men aged 65 years and older being seen in a primary or immediate care clinic. Measures: The primary outcomes of interest were three electronic clinical quality measures taken from electronic health record data representing potentially inappropriate use of medical services in older adults: prostate specific antigen screening in men age 76 and older (PSA), urine culture or urinalysis for non-specific reasons in women age 65 and older (UC/UA), and hemoglobin A1c less than 7.0 in adults age 75 and older with diabetes treated with insulin or oral hypoglycemic medication (DM). Physicians, advanced practice nurses and physician assistants with at least 10 eligible cases were included in the analysis.
+
+# RESULTS
+
+There were 42 to 144 clinicians (mostly physicians) and 665 to 5933 patients included in the analysis per measure. Variation at the physician level was highest for PSA (intraclass correlation coefficient [ICC] = 0.27), followed by UC/UA (ICC = 0.18), and lowest for DM (ICC = 0.024). The percentage of patients with overuse attributed to the lowest and highest overusing quartile of clinicians were: 8% and 54% for PSA, 3% and 35% for UC/UA and 13% and 49% for DM, and the odds ratio of overuse in highest quartile compared to the lowest were 99.3 (95% CI 43 to 228), 15.7 (10 to 24), and 6.0 (3.3 to 11), respectively.
+
+# CONCLUSIONS
+
+Within the same health system, overuse of testing and treatment in older adults varied greatly across clinicians, particularly for the process measures examined.
+
+# COLLECTIVE VULNERABILITY IS ASSOCIATED WITH HIGHER PERCEIVED DISCRIMINATION, PAIN, AND DEPRESSION IN VETERANS WITH OSTEOARTHRITIS
+
+Utibe R. Essien 1, 2; Ada O. Youk 3, 2; Said Ibrahim 4; Leslie R. Hausmann 2. 1 University of Pittsburgh School of Medicine, Pittsburgh, PA; 2 VA Pittsburgh Healthcare System, Pittsburgh, PA; 3 University of Pittsburgh, Graduate School of Public Health, Pittsburgh, PA; 4 Weill Cornell Medicine, New York, NY. (Control ID #3177582)
+
+# BACKGROUND
+
+Perceived discrimination is associated with physical and mental health outcomes, including chronic pain and depression, and plays a role in racial health disparities. However, little is known about how the intersection of race and other factors for which one might experience discrimination (collective vulnerability), such as gender, education, income, weight, or disability, impact health. Our aim was to examine the additive effects of six vulnerable group memberships on perceived discrimination, pain, and depression and to test whether perceived discrimination mediates the impact of collective vulnerability on pain and depression.
+
+# METHODS
+
+Our sample included patients at two large VA medical centers who enrolled in a randomized controlled trial testing a positive psychological intervention for chronic pain. Participants were white and African American Veterans aged 50 years reporting symptomatic knee osteoarthritis (OA). At baseline, we measured perceived discrimination using the Everyday Discrimination Scale; severity of pain using the pain subscale of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC); depression severity using the Personal Health Questionnaire Depression Scale (PHQ-8); and demographic variables (self-reported gender, age, race, income, education, and employment). We abstracted body mass index (BMI) from medical records. We assigned binary indicators of vulnerability to participants with each of the following characteristics: African American race, female gender, high school education or less, <$20,000 income, disabled employment status, and morbid obesity (BMI>40). We then summed individual indicators to capture each participant's number of vulnerabilities. We conducted separate linear regression models to assess the relationship between the number of vulnerabilities and measures of perceived discrimination, pain, and depression. Lastly, we used Sobel's test of mediation to examine perceived discrimination as a mediator of the relationships between collective vulnerability and pain and depression.
+
+# RESULTS
+
+Among the 517 participants (47.8% white, 52.2% African American), the average number of vulnerabilities was 1.66 (SD=1.17). Number of vulnerabilities was significantly associated with perceived discrimination (Coef = 0.41, 95% CI 0.18, 0.65), pain (Coef = 4.14, 95% CI 2.92, 5.37) and depression severity (Coef = 1.13, 95% CI 0.74, 1.51). Although perceived discrimination significantly explained 16.9% of the association between vulnerabilities and depression (p-value <0.01), it did not mediate the association with pain (p-value =0.10).
+
+# CONCLUSIONS
+
+Among Veterans with chronic pain from OA, collective vulnerability is associated with higher levels of perceived discrimination, pain, and depression. Perceived discrimination also partially mediates the relationship between vulnerabilities and depression. Further understanding of how vulnerabilities combine to worsen physical and mental health outcomes is warranted.
+
+# COLORECTAL CANCER SCREENING: IMPACT OF PROVIDER FACTORS AND STATE-LEVEL COLORECTAL CANCER SCREENING RATES ON MULTI-TARGET STOOL DNA TESTING COMPLIANCE AMONG MEDICARE BENEFICIARIES
+
+Rebecca Swartz1; Emily Weiser; Philip Parks1; Jack Van Thomme;1 Paul Limburg1, 2; Barry M. Berger1. 1Exact Sciences, Madison, WI; 2Mayo Clinic, Rochester, MN. (Control ID #3180325)

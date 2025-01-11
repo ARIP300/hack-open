@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# Mesoamerican Nephropathy: An Important Diagnosis Among Agricultural Workers
+
+Progresses to end stage disease within a few years, causing death in regions without dialysis. To provide culturally competent care, the internist must recognize MeN as an important diagnosis among agricultural workers from afflicted areas. The World Bank has asserted the importance of improving working conditions in these regions. There are no official guidelines, but it may be reasonable to screen for kidney disease and aggressively treat risk factors in high risk patients.
+
+# CONCLUSION:
+
+Mesoamerican nephropathy causes renal failure in young farm workers from Mexico and Central America. Repetitive bouts of dehydration and nephrotoxic exposures are the proposed causes.
+
+# THE CREUTZ OF THE PROBLEM: RAPID CJD DEMENTIA MASKED BY ANXIETY AND INSOMNIA
+
+Audrey Ready; Ali Shami; Maryam Hasan. Baystate Medical Center, Chicopee, MA. (Control ID #3186274)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize early manifestations of Creutzfeldt-Jakob Disease (CJD) including anxiety and insomnia as presenting symptoms.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss diagnostic tools for CJD, including real-time quaking-induced conversion testing (RT-QuIC).
+
+# CASE:
+
+A 67-year-old female with a history of anxiety and depression came to the clinic with a three-week history of insomnia and increased anxiety. She had returned recently from vacationing in Italy, and the symptoms were ascribed to jet lag. Over the next several weeks she exhibited erratic behavior and confusion and was eventually brought to the emergency department by concerned family. Initial evaluation revealed a middle-aged woman who was alert but very confused, exhibiting echolalia and hyperreflexia in all extremities. Evaluation including blood tests and infectious workup were negative. Magnetic resonance imaging of the brain revealed extensive diffusion abnormalities throughout the cortex of both cerebral hemispheres with the involvement of the caudate head. Video electroencephalogram (EEG) showed periodic lateralized epileptiform discharges in the left temporal region. Her cerebral spinal fluid was negative for viral or bacterial infections. In the context of her rapidly progressive dementia, CSF was also sent to check for the presence of protein 14-3-3 and RT-QuIC. She continued to decline in the hospital, eventually developing mutism; she was ultimately made comfort measures after a multidisciplinary family meeting. She passed away eleven weeks after the presentation of symptoms. Results of her testing returned with greater than 4000 pg/mL T-tau protein, positive 14-3-3 protein and positive (RT-QuIC) testing.
+
+# IMPACT/DISCUSSION:
+
+CJD is a fatal, rapidly progressive form of dementia caused by prions. However, the clinical diagnosis is challenging. Psychological disturbances such as anxiety and agitation are noted in 90% of cases and are often accompanied by hyperreflexia, myoclonus or cerebellar dysfunction. Insomnia itself has only rarely been reported as a presenting symptom in individuals with CJD. Definitive diagnosis requires brain biopsy; therefore other workup is pursued for probable diagnosis. Center for Disease Control (CDC) guidelines dictate that probable diagnosis requires one of the following: EEG with periodic sharp waves; 14-3-3 protein in CSF; or MRI with typical caudate and/or putamen abnormalities. In addition, it requires presence of two out of the following four exam findings: akinetic mutism, myoclonus, pyramidal/extrapyramidal signs, or cerebellar signs. RT-QuIC is a novel test that detects abnormally folded isoforms of prion protein in the CSF and has been shown to exhibit high sensitivity of 92% and specificity of 100% for prion disease.
+
+# CONCLUSION:
+
+This case highlights the difficult diagnosis of CJD which may be masked by other diagnoses such as mood disorders. CJD should be strongly considered in patients with rapid and sudden cognitive decline and novel tests such as RT-QuIC can assist with the diagnosis.
+
+# THE DIFFICULT DIFFERENTIATION BETWEEN CAUSES OF INFLUENZA RELATED CARDIOMYOPATHY
+
+Rohan B. Parikh; Krupa K. Solanki; Muhammad U. Khalid; Ritha Kartan. Western Reserve Health Education, Youngstown, OH. (Control ID #3146297)
+
+# LEARNING OBJECTIVE #1:
+
+The 2017-18 influenza season was a high severity season with an estimated 80,000 flu related deaths. Although mortality in these patients is usually due to respiratory failure, recent studies have implicated influenza in a wide spectrum of cardiovascular diseases. Acute myocardial infarction is a well known complication but myocarditis has been infrequently associated with it. We aim to heighten the awareness of acute viral myocarditis for early recognition and prompt management during seasonal episodes of influenza infection.
+
+# CASE:
+
+Patient A is an 88-year-old male with known coronary artery disease who presented with dyspnea and productive cough. Lab studies were positive for influenza A, mild kidney injury, and troponin I that trended up to 12.2 ng/mL. ECG showed normal sinus rhythm with few premature ventricular contractions. Echocardiogram showed preserved ejection fraction, grade I diastolic dysfunction, and no wall motion abnormalities. Patient B is an 88-year-old male with no significant past medical history who presented with dyspnea. Physical examination was significant for hypoxia and irregular rhythm. ECG showed atrial fibrillation. Lab studies were positive for influenza A, mild kidney injury, and troponin I that trended up to 36.6 ng/mL. Echocardiogram showed ejection fraction of 18%, grade I diastolic dysfunction, and apical akinesis. Coronary catheterization showed severe disease in LMCA, LAD, and RCA.
+
+# IMPACT/DISCUSSION:
+
+Influenza related myocarditis is due to diffuse inflammation of the myocardium leading to focal myocyte necrosis. Additionally, influenza can trigger myocardial infarction by inducing a hypercoagulable and inflammatory state. Both of these states lead to significant myocardial damage and high troponins leading to cardiomyopathy. While a high degree of suspicion for myocarditis needs to be kept in mind, differentiating between the two is difficult and often requires cardiac catheterization. Recent post-mortem studies have shown that myocarditis is common in fatal cases of influenza and often goes undiagnosed. Patient A was diagnosed with influenza associated myocarditis and was treated conservatively with full recovery. Patient B opted for PCI as opposed to CABG due to his age. He had a complicated hospital course but made a full recovery. This decision making was primarily guided by echocardiographic assessment for wall motion abnormalities in both patients.
+
+# CONCLUSION:
+
+The pulmonary manifestations in influenza are prominent and may mask cardiac involvement. These cases also highlight the need for guidelines to differentiate ischemic versus non-ischemic cardiomyopathy in the setting of influenza to guide appropriate management.
+
+# THE DISEASE YOU KEEP MEANING TO LOOK UP
+
+Hannah Bernstein; Corey Costantino; Tameka Smith; Celeste Newby. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184055)
+
+# LEARNING OBJECTIVE #1:
+
+Apply the H-score to estimate the probability of HLH
+
+# LEARNING OBJECTIVE #2:
+
+Review the current recommended treatment of EBV-associated HLH

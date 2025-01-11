@@ -1,0 +1,36 @@
+# Cumulative confirmed COVID-19 deaths vs
+
+The number of confirmed cases is lower than the number of total cases. The main reason for this is limited testing: cases, Apr 30, 2021 Our World in Data
+
+The grey lines show the corresponding case fatality rates, CFR (the ratio between confirmed deaths and confirmed cases):
+
+| |Africa|Asia|Europe|North America|Oceania|South America|
+|---|---|---|---|---|---|---|
+|100,000| | | | | | |
+|10,000| | | | | | |
+|1,000| | | | | | |
+|100| | | | | | |
+|10| | | | | | |
+|4| | | | | | |
+|10| | | | | | |
+|100| | | | | | |
+|1,000| | | | | | |
+|10,000| | | | | | |
+|100,000| | | | | | |
+|1 million| | | | | | |
+|10 million| | | | | | |
+
+Source: Johns Hopkins University CSSE COVID-19 Data Last updated 17 June, 06.02 (London time; OurWorldInData org/coronavirus CC BY
+
+# Fig. 1
+
+Cumulative COVID-19 deaths and cases for Malaysia, Singapore and Taiwan as at 30 April 2021. Source: Our World In Data (2021)
+
+# New cases
+
+60005500500045004000350030002500200015001000500
+Source: Health Ministry. Active cases means total confirmed cases minus deaths and recoveries;
+
+# Fig. 2
+
+Daily confirmed cases of COVID-19 in Malaysia from 25 February 2020 to 30 January 2021. Source: Profdten and Ahmad (2021)

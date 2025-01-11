@@ -1,0 +1,41 @@
+# ABSTRACTS JGIM
+
+# A RARE CASE OF C. DIFFICILE ENTERITIS; A COMMON BUG IN AN UNCOMMON PLACE
+
+Amreet K. Aujla1; Shivaraj Patil; Nha Duong1; Alexander Potashinsky2.1 UConn Health, Hartford, CT; 2UConn Health, Farmington, CT. (Control ID #3180776)
+
+# LEARNING OBJECTIVE #1:
+
+To recognize signs and symptoms of atypical Clostridium Difficile infection (CDI) in order to improve disease related mortality and morbidity
+
+# CASE:
+
+Patient is a 55-year-old male with history of Crohn's disease status post total colectomy with end ileostomy on mesalamine therapy, chronic osteomyelitis on suppressive therapy with doxycycline, ESRD on hemodialysis who presented to the emergency department with symptoms of increased ostomy output and abdominal pain for two days. Physical exam was significant for tachycardia, hypotension, and a diffusely tender abdomen. The ileostomy was viable and a small amount of fluid noted in the ostomy bag. Laboratory examination revealed a white blood cell count of 10,900 cells/mm3 and a serum lactate of 2.2 mg/dL, with negative blood cultures. Stool studies from his stoma grew C. Dificile and he was treated with oral metronidazole with improvement in ostomy output. He was discharged with metronidazole to complete a 10-day course. Three months later, the patient presented with a four-day history of increasing ostomy output with watery stools and epigastric abdominal pain. Vitally, patient was hemodynamically stable and on physical examination, patient had epigastric abdominal tenderness. Laboratory examination were significant for a white blood cell count of 14,200 cells/mm3. CT abdomen and pelvis with oral contrast showed bowel thickening with minimal stranding suggestive of enteritis along with enlarged peritoneal lymph nodes. Stool studies were positive for C. Difficile and lactoferrin. Patient was started on oral vancomycin and improved. He was discharged to complete a 12-week course.
+
+# IMPACT/DISCUSSION:
+
+Isolated small-bowel involvement is exceedingly rare but is more commonly seen in patients with colectomy. The diagnosis of C. difficile enteritis requires a high index of suspicion. As many patients may not initially raise suspicion of C. difficile infection, CT scan may provide supportive evidence. Ascites and fluid-filled small bowel in the presence of mild mesenteric stranding is often consistent with C. difficile enteritis. Analogous to colonic infection, antibiotics such as metronidazole and vancomycin are the corner stone of treatment, along with supportive therapy.
+
+# CONCLUSION:
+
+CDI is the major identifiable cause of antibiotic-associated diarrhea and is responsible for 15-25% of all cases. CDI has increased in incidence, particularly among patients with inflammatory bowel disease. Normally manifesting as infectious colitis, small bowel involvement known as CDI enteritis is a very rare condition and is associated with a mortality rate of approximately 30%. In addition, it is also coupled with increased morbidity, length of stay, health care cost and poor quality of life. CDI involvement of the small bowel is rare, however, it appears that the incidence is increasing. High index of suspicion and early identification of C. difficile in the small bowel is imperative for early intervention in order to improve outcomes.
+
+# A RARE CASE OF GI BLEED ASSOCIATED WITH NEUROFIBROMATOSIS TYPE 1
+
+Ricci Kalayanamitra1; Jose Chu Luo1; Zainab Shahid2; Neal Shah; Ravi3 Patel3; Rohit Jain3. 1Penn State College of Medicine, Hershey, PA; 2Lake Erie College of Osteopathic Medicine, Erie, PA; 3Penn State Milton S. Hershey Medical Center, Hershey, PA. (Control ID #3165746)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the association between neurofibromatosis type 1 and gastrointestinal stromal tumor.
+
+# CASE:
+
+A 21-year-old male with PMHx of NF1 presented with SOB, lethargy, and 1 episode of melena. He was admitted to an OSH 2 weeks prior with similar symptoms and found to be anemic due to a GI bleed. Colonoscopy and EGD were negative. He was then scheduled for an outpatient capsule endoscopy but this was not done due to his abrupt rehospitalization at said OSH, where he was found to be tachycardic and anemic with Hgb of 6g/dl. He underwent an abdominal CT, was transfused with 3 units of pRBCs, and was transferred to our institution. Patient reported continued lethargy and denied abnormal bowel movements between his 2 hospitalizations. His abdominal and rectal exams were unremarkable and skin exam revealed cafe-au-lait spots on the right arm. Hbg and t-bili were 8.5mg/dl and 2.3mg/dl, respectively. Vital signs were stable. The CT-scan from the OSH was initially reaffirmed as normal, but it was later re-examined with the patient's history of NF1 in mind. This revealed a 2.1 x 2.1 x 3.2cm well-circumscribed ovoid mass adjacent to a loop of small bowel in the left upper quadrant, which was subsequently resected, biopsied, and confirmed as a low-grade GIST.
+
+# IMPACT/DISCUSSION:
+
+The differential diagnoses of patients who present with anemia are broad. In the setting of anemia and melena, CT-scans, EGDs, and colonoscopies are often ordered. If these exams are non-revealing, patients may be subjected to repeat studies or more specialized studies, such as capsule endoscopies and push or double balloon enteroscopies. This adds a physical and financial burden to the patient and may still fail to identify the underlying etiology of their symptoms. After admitting this patient to our institution, our plan was to repeat testing with a push enteroscopy and a capsule study. We were able to avoid this course by taking a thorough history of his NF1, researching its link to GIST, and correlating this with our suspicious findings on imaging. According to the American Society of Clinical Oncology, the annual incidence of GIST is 6.8 cases per million people in the US. Of these, 5 percent of patients have a familial AD syndrome, such as NF1, familial GIST syndrome and Carney-Stratakis. In fact, patients with NF1 are 34 times more likely to develop GIST than unaffected individuals. Imatinib is an effective treatment for GIST; it has shown improvement in 54% of GIST patients within 6 months and an increase in survival of GIST patients from 18 to 57 months in a phase 2 clinical trial. Despite its rarity, providers should consider GIST in patients with a history of NF1 who present with GI symptoms, especially because there is an effective treatment for it.
+
+# CONCLUSION:
+
+-Have clinical suspicion for GIST in patients with NF1 presenting with GI symptoms. -The primary team should conduct thorough history taking and provide adequate contexts when ordering imaging. -GIST is treatable and therefore a prompt diagnosis is essential.

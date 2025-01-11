@@ -1,0 +1,60 @@
+# ABSTRACTS
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?)
+
+We attribute the success of THRIVE to building upon an evidence-based model, aligning efforts with hospital strategic priorities, involving key stakeholders in developing a streamlined standard workflow, leveraging EHR automation, piloting the initial program design before scaling, and incorporating staff feedback at every phase.
+
+# IMPLEMENTING TRANSITIONAL CARE MANAGEMENT SERVICE: GETTING PAID FOR COORDINATING SUCCESSFUL TRANSITIONS
+
+Gary Fischer1; Janice Cunningham2; Zachary Lenhart2; Cynthia Arnold3; Jaishree Hariharan3. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Physicians, Pittsburgh, PA; 3University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3181550)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Can the Transitional Care Management (TCM) service, with its operational and documentation requirements, be successfully implemented in a primary care practice?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To implement TCM in a large academic general internal medicine (GIM) practice.
+2. To perform TCM in > 50% of targeted patients (pts).
+3. To reduce readmissions in the practice population.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In 2013, Medicare began paying for TCM to improve the care of pts transitioning from a stay in a hospital, rehab, or skilled nursing facility to home and reduce readmissions. TCM covers coordination services over 30 days, but to bill for it, a care team member must contact the pt or caregiver within 2 business days of discharge and the provider must see the pt within 7 or 14 days (depending on the level billed). By 2015 only 7% of eligible Medicare pts had TCM, even though costs and mortality were lower among TCM pts (JAMA Intern Med. 2018;178(9):1165-71). In 2018 a group involving MDs, operations, clinical IT, revenue cycle IT and compliance developed the infrastructure to provide TCM. We implemented this in an academic GIM practice in Oct 2018. An RN, working from a list of pts discharged the previous day calls targeted pts, ensures that pts' immediate needs are met, and schedules a TCM visit. An APP has dedicated slots to see pts who cannot be seen by their PCP in time. Alerts, templates, and order sets help providers recognize that a visit qualifies for TCM, meet documentation requirements, and bill appropriately.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Percent of discharges targeted for TCM.
+2. Percent of targeted pts receiving TCM phone call and TCM office visit (by level of service - 99495 (moderate) or 99496 (high)).
+3. Marginal increase in revenue generated from TCM.
+4. 30 day readmission rate and mortality before and after TCM implementation.
+5. Qualitative report by TCM RN on interventions taken during calls.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From Oct 15 to Dec 31, 373 of 737 (51%) discharged pts met our outreach criteria. Of these, 264 (71%) had an appt made, 111 (42%) within 7 days and 112 (42%) between 8-14 days. 172 (64%) of appts were completed. Some missed appts were due to readmissions. From Oct 15 to Jan 13 (2 wks after Dec 31), 154 TCM services were billed (118 for service 99495 (ave payment/paid claim $111) and 36 for 99496 (ave payment/paid claim $146)). If all the TCM pts had had regular E&M visits during the time, the marginal increase in revenue is $9,500 over the time period, likely an underestimate. After sufficient time, changes in readmission and mortality rates will be determined. TCM RN reported cases where post-discharge call resulted in interventions that likely prevented serious harm.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. Coordination between MDs, IT, operations, and compliance facilitate the success of TCM.
+2. Implementing TCM can result in timely visits after discharge and increased revenue.
+3. Identifying high risk changes (e.g. diuretic doses) during TCM call may prevent readmissions.
+4. Increasing pts seen within 7 days will increase revenue and will likely decrease readmissions.
+
+# IMPROVING ACCESS TO CARE FOR UNDERINSURED DIABETIC PATIENTS: LESSONS IN COLLABORATION
+
+Stacie Schmidt1; Mark Nissley2; Yousuf Khalifa1. 1Emory University, Atlanta, GA; 2Intelligent Retinal Imaging Systems (IRIS), Pensacola, FL. (Control ID #3140871)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Ensuring equitable preventive care is delivered to patients with diabetes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Deliver screening exams with minimal impedance on physician time.
+2. Close the gap toward ending preventable blindness among diabetic populations.
+3. Provide best practices for engaging health systems, external organizations, and team members in providing health services.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Diabetes is the leading cause of preventable blindness in the US. Yet, national diabetic retinal screening rates are less than 40%. This is partly related to the fact that annual diabetic eye exams are ordered by the primary care physician, yet patients must schedule eye appointments at times separate from their primary care visits. Our Primary Care Center (PCC) is an academic, safety net, hospital-based clinic that provides visits mostly to uninsured low-literacy patients. Patients in the PCC often attend different appointments between various healthcare specialties. Multiple visits require patients to manipulate their schedules, and secure transportation. We suspect such inefficiencies lead to more scheduling of appointments, increased no-shows, diminished patient satisfaction, and reduced health outcomes. We established diabetic retinal photo services within our PCC that (1) identify patients eligible for annual diabetic retinal screening exams, (2) provide diabetic retinal screening exams with minimal impact to physician workload, and (3) allow images to be reviewed in a timely manner by a trained retinal specialist, with next steps for diagnosis and management clearly delineated. We collaborated with Intelligent Retinal Imaging Systems (IRIS), a company that provides critical access to ophthalmology services for patients. The exam is a critical measure of success in caring for a population; by performing this service, we increased compliance to this metric for our health system. As healthcare shifts from pay for service to pay for performance and quality, we have proven that a simple, collaborative model is capable of closing the gap toward ending preventable blindness.

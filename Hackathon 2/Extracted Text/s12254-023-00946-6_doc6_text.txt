@@ -1,0 +1,33 @@
+# Special Issue
+
+# iwCLL 2023
+
+(86.2 % vs. 75.7 %; p = 0.0007) [10]. Health-related quality of life (HRQoL) was defined as a secondary endpoint of the ALPINE study and was reported at iwCLL 2023 [11]. According to this analysis, both agents gave rise to sustained improvements in global health scores and functioning scales from baseline to both cycle 7 and cycle 13. All improvements were clinically meaningful for the zanubrutinib arm. Given the generally good HRQoL at baseline in both arms, these differences were not significant. Decreases in fatigue and pain were observed for both zanubrutinib- and ibrutinib-treated patients, with the zanubrutinib arm experiencing clinically meaningful improvements in both symptoms at both cycles. More pronounced improvement was obtained for diarrhea with zanubrutinib, although this did not reach the predefined clinically meaningful threshold. The mean change from baseline in the EQ-VAS scores demonstrated a similar pattern of improvement with both therapies up to cycle 13. Long-term follow-up and additional analyses linking patient-reported outcome endpoints to clinical outcomes will further determine the effect of zanubrutinib on HRQoL.
+
+# Pooled Safety Data on Zanubrutinib vs. Ibrutinib
+
+As is known, the use of the first-generation BTK inhibitor ibrutinib can be limited by AEs including cardiovascular and gastrointestinal toxicities that are attributed to off-target kinase inhibition [12-15]. The next-generation BTK inhibitor zanubrutinib has been designed to improve tolerability by maximizing BTK occupancy and minimizing off-target effects [16]. A previous pooled analysis of 779 patients from six clinical trials has demonstrated a consistent and generally well-tolerated safety profile of zanubrutinib [17]. Brown et al. presented an updated pooled analysis comprising 1,550 patients with CLL/SLL and other B-cell malignancies from ten clinical studies at iwCLL 2023 [18]. These included the ASPEN and ALPINE trials that compared zanubrutinib head-to-head with ibrutinib. Median exposure was 34.4 months among all patients who received zanubrutinib, with 45.0 % being on treatment for ≥ 36 months. For atrial fibrillation, the rates were persistently lower than with ibrutinib (Figure 3). Exposure-adjusted incidence rates (EAIRs) of AESIs, including infections, were numerically lower with zanubrutinib than with ibrutinib in the ASPEN/ALPINE study populations, with the exception of neutropenia. Regarding hypertension, EAIRs were low and consistent for zanubrutinib across the studies except for ALPINE that was an outlier from the rates observed in other studies of zanubrutinib [10, 19]. Despite the higher hypertension rate in ALPINE, the EAIR for atrial fibrillation was significantly lower with zanubrutinib than with ibrutinib (p < 0.0001).
+
+# Figure 3: Prevalence of Atrial Fibrillation/Flutter
+
+|Time (months)|Prevalence (%)|
+|---|---|
+|≤ 12|5|
+|> 12 to 24|0|
+|> 24 to 36| |
+|> 36| |
+
+# References
+
+1. Seymour JF et al., Enduring undetectable MRD and updated outcomes in relapsed/refractory CLL after fixed-duration venetoclax-rituximab. Blood 2022; 140(8): 839-850
+2. Kater AP et al., Final 7-year follow-up and re-treatment substudy analysis of MURANO: venetoclax-rituximab-treated patients with relapsed/refractory chronic lymphocytic leukemia. iwCLL 2023, poster 2002
+3. Cramer P et al., Obinutuzumab, acalabrutinib, and venetoclax, after an optional debulking with bendamustine in relapsed or refractory chronic lymphocytic leukemia (CLL2-BAAG): a multicentre, open-label, phase 2 trial. Lancet Haematol 2022; 9(10): e745-e755
+4. Cramer P et al., Bendamustine, followed by obinutuzumab, acalabrutinib and venetoclax in patients with relapsed/refractory chronic lymphocytic leukemia: updated results of the CLL2-BAAG trial of the German CLL Study Group. iwCLL 2023, session “Future directions for the treatment of relapsed/refractory CLL”, 8th October 2023, Boston, USA
+5. Soumerai JD et al., Zanubrutinib, obinutuzumab, and venetoclax with minimal residual disease-driven discontinuation in previously untreated patients with chronic lymphocytic leukaemia or small lymphocytic lymphoma: a multicentre, single-arm, phase 2 trial. Lancet Haematol 2021; 8(12): E879-E890
+6. Soumerai J et al., Long-term follow-up of multicenter phase II trial of zanubrutinib, obinutuzumab, and venetoclax (BOVen) in previously untreated patients with chronic lymphocytic leukemia: impact of early MRD kinetics on post-treatment outcomes. iwCLL 2023, poster 2016
+7. Allan JN et al., Zanubrutinib and venetoclax as initial therapy for CLL with obinutuzumab triplet consolidation in patients with detectable minimal residual disease (BruVenG): trial in progress. iwCLL 2023, poster 3002
+8. Tam CS et al., Zanubrutinib versus bendamustine and rituximab in untreated chronic lymphocytic leukaemia and small lymphocytic lymphoma (SEQUOIA): a randomised, controlled, phase 3 trial. Lancet Oncol 2022; 23(8): 1031-1043
+9. Brown JR et al., Zanubrutinib vs bendamustine + rituximab in patients with treatment-naïve chronic lymphocytic leukemia/small lymphocytic lymphoma: extended follow-up of the SEQUOIA study. iwCLL 2023, poster 2010
+10. Guo Y et al., Discovery of zanubrutinib (BGB-3111), a novel, potent, and selective covalent inhibitor of Bruton's tyrosine kinase. J Med Chem 2019; 62(17): 7923-7940
+11. Brown JR et al., Zanubrutinib or ibrutinib in relapsed or refractory chronic lymphocytic leukemia. N Engl J Med 2023; 388(4): 319-332
+12. Brown JR et al., Zanubrutinib vs ibrutinib in relapsed/refractory chronic lymphocytic leukemia. iwCLL 2023, poster 2010

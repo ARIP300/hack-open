@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# RMSF IN A PATIENT WITH CHRONIC KIDNEY DISEASE
+
+developed. The patient's fatigue persisted over the next two weeks. Upon follow up with his PCP, he reported no fevers, and his physical exam was unchanged. Repeat testing returned an RMSF IgG titer of 1:256. He was treated successfully for RMSF with seven days of doxycycline.
+
+# IMPACT/DISCUSSION:
+
+RMSF is a potentially fatal tick-borne illness. It is classically endemic to the southeastern and southcentral United States, where it is transmitted by the American dog tick. Up to 60% of cases are from five states (NC, OK, AR, TN, and MO), but cases have been reported in all of the lower 48 states except NM. In the northwestern United States, RMSF is spread by the Rocky Mountain wood tick. Although cases have been reported in all months of the year, most occur between May and August. Ticks are both vectors and reservoirs for the disease; thus disease can be transmitted by feeding ticks in all stages of the life cycle. Ticks only need to be attached for 6-10 hours to transmit disease. Most cases become symptomatic 5-7 days after tick exposure, and early symptoms are generally non-specific. They can include fever, headaches, myalgias, and arthralgias. A disseminated rash appears in up to 90% of patients between the third and fifth days of illness. IgG antibody testing, the gold standard of serological diagnosis, turns positive 7-10 days after the onset of symptoms or 12-17 days after the initial tick bite. The above patient presentation demonstrates the importance of understanding the ecology, signs, and symptoms of RMSF in order to make a timely diagnosis. The case has heightened my clinical suspicion for this deadly disease, even though I don't practice in an endemic area.
+
+# CONCLUSION:
+
+RMSF is characteristically transmitted by the American dog tick in the Southeastern United States in a matter of hours, but geographical distribution and even tick species are variable. Recognizing a concerning symptomatology in the right ecological context is key to making a timely diagnosis.
+
+# PERSISTENT HYPERKALEMIA IN CHRONIC KIDNEY DISEASE DUE TO TYPE IV RENAL TUBULAR ACIDOSIS
+
+Brian Chernak1; Ryan Bober1; Alice Tang2. 1NewYork-Presbyterian Weill Cornell Medical Center, New York City, NY; 2Weill Cornell Medical College, New York City, NY. (Control ID #3185758)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to diagnosis and management of refractory hyperkalemia
+
+# LEARNING OBJECTIVE #2:
+
+Recognize Type IV Renal Tubular Acidosis as a cause for refractory hyperkalemia in chronic kidney disease
+
+# CASE:
+
+A 71 year old male with diabetes and chronic kidney disease presented with acute on chronic kidney disease following a mechanical fall. His labs were significant for potassium 6.5 and creatinine 2.94; his baseline creatinine was 1.8. He had a mild metabolic acidosis with a pH 7.32, bicarbonate of 23, and was hyperchloremic to 110. His Hemoglobin A1c was 8.2. The patient received intravenous furosemide, insulin, and sodium polystyrene, with mild improvement of his potassium. Due to persistent hyperkalemia, he received additional furosemide, insulin, and sodium polystyrene, but his potassium continued to increase. Morning cortisol and aldosterone levels were normal, but plasma free renin was low-normal. Urinary potassium excretion was 43.9mmol/L. Due to the high suspicion for Type IV Renal Tubular Acidosis (RTA), fludrocortisone 0.1mg was started with immediate improvement in his potassium from 5.9 to 5.4; it remained within normal levels throughout the remainder of his admission despite minimal change in his creatinine, consistent with a Type IV RTA. He was discharged on fludrocortisone with normal potassium levels.
+
+# IMPACT/DISCUSSION:
+
+Persistent hyperkalemia is commonly encountered on the general medicine service, especially in patients with chronic kidney disease. Initial evaluation should include assessing for increased potassium intake, pseudohyperkalemia, and medication-related effects. Subsequently, urinary pH, sodium, and potassium can suggest processes which limit potassium excretion, such as type IV RTA, which is characterized by persistent hyperkalemia in the setting of no other identifiable cause. The cause is typically due to hypoaldosteronism, leading to impaired sodium-potassium exchange in the distal tubule, thereby limiting potassium and proton excretion, causing hyperkalemia and hyperchloremic metabolic acidosis. A recent study has found up to 42% of admitted hyperkalemic patients without ESRD were found to have a Type IV RTA, especially those with underlying renal disease and diabetes. Type IV RTA should be considered in patients with persistent hyperkalemia that is refractory to standard therapies. Low to low-normal plasma renin activity, hyperchloremia, and metabolic acidosis may be suggestive, although lab abnormalities may be minimal. Low urinary potassium excretion can be limited in utility due to a lack of a definitive cutoff value. A mineralocorticoid challenge, which acts in place of aldosterone at receptors in the distal tubule, can facilitate potassium and proton excretion, and identify patients with RTAs.
+
+# CONCLUSION:
+
+Type IV Renal Tubular Acidosis presents with refractory hyperkalemia but can be difficult to identify in patients with CKD. Diagnosis involves exclusion of other causes of hyperkalemia, lab analysis, and a mineralocorticoid challenge to ensure appropriate diagnosis.
+
+# PERSISTENT HYPOGLYCEMIA IN A PATIENT WITH POLYSUBSTANCE USE DISORDER ON HIGH-DOSE METHADONE
+
+Lurit Bepo. University of California, San Francisco, San Francisco, CA. (Control ID #3186265)
+
+# LEARNING OBJECTIVE #1:
+
+Identify and diagnose etiologies of persistent hypoglycemia
+
+# LEARNING OBJECTIVE #2:
+
+Manage hypoglycemia due to suspected sulfonylurea overdose
+
+# CASE:
+
+A 53 year-old male with methamphetamine, benzodiazepine, and opiate use disorders on methadone, ESRD on hemodialysis, and untreated hepatitis C was brought in by ambulance for altered mental status and hypoglycemia to 37 after ingesting an unmarked tablet. Oral glucose, intramuscular glucagon, intravenous dextrose, octreotide, and naloxone were administered with mild improvement in his mental status and persistent hypoglycemia to the 40s. Head imaging, lab work, and infectious studies were unrevealing, and the patient was started on a dextrose infusion and admitted to the inpatient medicine service. Due to ongoing low blood glucoses, the dextrose infusion rate was increased, and he was started on octreotide for empiric treatment of a sulfonylurea overdose. Sulfonylurea panel was negative as was work up of insulinoma with normal insulin, proinsulin, and c-peptide levels. High-resolution mass spectrometry revealed metabolites of methadone, antidepressants, and cigarettes. The patient was dialyzed while inpatient, and his methadone dose was decreased from 100mg to 60mg daily due to concern for methadone-induced hypoglycemia. He continued to have episodes of hypoglycemia after dextrose was discontinued, but the exact etiology was never identified.
+
+# IMPACT/DISCUSSION:
+
+The sulfonylurea, glipizide, is similar in appearance to diazepam and is often substituted for the benzodiazepine in illicit drug sales. It is hepatically cleared and ingestion of multiple tablets of extended release glipizide would cause approximately 48-60 hours of hypoglycemia; this is irrespective of impaired renal function as was the case with this patient. Mainstays of management of sulfonylurea overdose are dextrose infusion and IV or IM octreotide administration, the latter which blocks pancreatic insulin release. Though the patient was initially suspected to have an accidental sulfonylurea overdose, his persistent hypoglycemia >100 hours after his ingestion raised concerns for alternative etiologies. These included an insulinoma, in which insulin, pro-insulin, and c-peptide levels are notably elevated during episodes of low blood glucose, and methadone-induced hypoglycemia. Previous case reports and observational studies have described glycemic dysregulation with hypoglycemia in the setting of rapid escalation or high.

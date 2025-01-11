@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# HAART-BROKEN: A CASE OF TENOFOVIR INDUCED FANCONI SYNDROME AND ASSOCIATED OSTEOMALACIA
+
+Kristin Berger; Carla L. Spagnoletti. University of Pittsburgh Medical Center, Lewisburg, PA. (Control ID #3185752)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and diagnose Fanconi syndrome in patients treated with tenofovir.
+
+# CASE:
+
+The patient is a 54-year-old male with HIV infection and chronic kidney disease who presented to the hospital due to 3 days of nausea and vomiting. He also reported months of diffuse bone pain and lower extremity myalgias. He reported adherence to his antiretroviral medication regimen including emtricitabine-tenofovir and lopinavir-ritonavir, which was unchanged for many years. His HIV viral load was undetectable and CD4+ count was 890 two weeks prior to presentation. Examination revealed an afebrile, normotensive male with diffuse 4/5 strength in his extremities. Labs were remarkable for serum sodium 139, potassium 2.1, chloride 111, bicarbonate 16, creatinine 4.1, glucose 92, and phosphorus 2.1. Urinalysis was positive for 2+ glucose and 1+ protein. The patient's CT abdomen and pelvis demonstrated subacute bilateral rib and inferior pubic rami fractures. Fanconi syndrome was suspected given the presence of nonanion gap metabolic acidosis with associated hypokalemia, hypophosphatemia, glucosuria, and proteinuria. Given the suspected diagnosis, the patient's tenofovir was discontinued and he was rehydrated with intravenous fluids. His creatinine returned to his prior baseline of 2.1 by hospital discharge. He was seen in renal clinic at outpatient follow up for ongoing repletion of electrolytes and bicarbonate. Months following hospital discharge, his muscle and bone pains had resolved and his urinalysis had normalized.
+
+# IMPACT/DISCUSSION:
+
+Fanconi syndrome is characterized by a defect in the renal proximal tubules resulting in phosphaturia, glucosuria, tubular proteinuria, hypokalemia, and proximal renal tubular acidosis due to impaired bicarbonate reabsorption. Acquired Fanconi syndrome is most commonly due to adverse drug reactions, multiple myeloma, and heavy metal toxicity. Prolonged hypophosphatemia in patients with Fanconi syndrome may result in osteomalacia causing bone pain and myalgias as well as increased risk of fracture. Prognosis of tenofovir-associated Fanconi syndrome is generally good, with reversible renal toxicity following drug discontinuation. It is more likely to occur in patients who have underlying kidney disease. Patients benefit from electrolyte and bicarbonate repletion until the proximal tubule defect improves.
+
+# CONCLUSION:
+
+Tenofovir has a known association with proximal tubule dysfunction, including in HIV-uninfected patients taking the medication as HIV pre-exposure prophylaxis (PrEP). Increasing recognition of this potential adverse drug effect is critical for early discovery and drug discontinuation, particularly as increasing numbers of primary care doctors are prescribing tenofovir for PrEP. Delay in diagnosis may result in prolonged hypophosphatemia and subsequent osteomalacia in some cases. Regular renal function panel and urinalysis is recommended for patients treated with tenofovir for early detection of tubulopathy.
+
+# HASHIMOTO ENCEPHALOPATHY: REVERSING ALTERED MENTAL STATUS WITH STEROIDS
+
+Jiyeon Son1; Ayako W. Fujita1; Joseph M. Rocco2. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA. (Control ID #3177048)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the diagnostic criteria and clinical features of Hashimoto encephalopathy.
+
+# LEARNING OBJECTIVE #2:
+
+Identify differential diagnoses of rapidly progressive altered mental status without evidence of stroke or seizure.
+
+# CASE:
+
+A 75-year old man with history of heart failure, COPD, and prior stroke presented with two months of progressive confusion, aphasia and hypersomnolence. Patient was previously independent and could manage his finances without assistance. Symptoms were initially attributed to infection, and he received multiple courses of antibiotics without improvement. On exam, vital signs were normal, but he was minimally responsive. He was not oriented and not following commands. No rigidity or hyperreflexia were noted. Mild myoclonus was present. CT was unchanged from prior, and EEG was negative for seizure. MRI was not obtained due to his pacemaker. Symptoms continued to progress, and he developed new onset of seizures. Extensive workup was negative including B12, RPR, HIV, ANA and TSH. CSF showed elevated protein at 71mg/dL but no cells. CSF viral PCRs and cytology were negative. However, his serum anti-thyroglobulin (TG) and anti-thyroid peroxidase (TPO) antibodies were elevated at 23 IU/mL and 484 IU/mL, respectively. Given his clinical symptoms and elevated anti-thyroid antibodies, he was diagnosed with Hashimoto encephalopathy. Patient was treated with pulse steroids and IVIG with improvement in his mental status. However, steroids were discontinued due to complications including ischemic colitis and bacteremia. Family decided to focus on comfort care and he passed away peacefully shortly thereafter.
+
+# IMPACT/DISCUSSION:
+
+With rapidly progressive cognitive decline it is important to evaluate for reversible processes including occult metabolic, infectious, and autoimmune/paraneoplastic etiologies. Hashimoto encephalopathy is often responsive to steroids and can be reversible.
+
+# CONCLUSION:
+
+Hashimoto encephalopathy (HE), also known as steroid responsive encephalopathy, is believed to be immune mediated, rather than a direct effect of altered thyroid state on the CNS. Clinical manifestations include acute to subacute onset of confusion with alteration of consciousness. Other presentations include seizures, hallucinations, somnolence, myoclonus, and diffuse hyperreflexia with other pyramidal tract signs. HE can be diagnosed with elevated serum level of anti-TPO or anti-TG autoantibodies in the appropriate clinical setting. CSF typically has elevated protein concentration, EEG shows nonspecific slowing of background activity, and MRI is usually normal. It is imperative that other causes of rapidly progressive dementia are ruled out, including Creutzfeldt-Jakob disease, metabolic diseases, infectious meningoencephalitis, psychiatric disease, and autoimmune encephalitis. HE is treated with corticosteroids, and symptoms can be reversible over months. Other immunosuppressive treatments such as IVIG or plasmapheresis can be pursued but have not been well-studied.
+
+# HASHING OUT THE UNKNOWNS OF THE CBD CRAZE
+
+Jessica Bass. Naples Community Hospital, Naples, FL. (Control ID #3184977)
+
+# LEARNING OBJECTIVE #1:
+
+Consider CBD toxicity in the differential when urine toxicology is negative.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the potential for harm in CBD products sold OTC.
+
+# CASE:
+
+A 57 year old male with no history of substance abuse presented by ambulance to the hospital after being found by his coworkers acting strange, vomiting, and slurring his speech. He had legally purchased CBD gummies marketed for pain and anxiety relief at a gas station several hours prior. Vitals upon arrival were: T 36.8, HR 79, RR 12, BP 113/60 and O2 sat of 84% on RA that improved with arousal. Physical exam showed a morbidly obese man in no acute distress with a depressed level of consciousness but whom awoke to stimuli. Neuro exam was significant for dysarthric, hypophonic speech. ABG at that time showed pH 7.3, pCO2 50.4 pO2 83.3 Lac 2.4. Labs were notable for WBC 17.8, Na 140, K 5.8, Cl 109, CO2 25, BUN 21, Cr 1.2, CK 341, CKMB 4.4 and a comprehensive tox screen including cannabis was negative. Vitals 3 hours after presentation deteriorated, showing: HR 47, RR 8-12, BP 88/52, O2 78%. EKG revealed sinus bradycardia. The patient progressively became

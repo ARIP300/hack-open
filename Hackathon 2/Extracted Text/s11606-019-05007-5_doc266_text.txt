@@ -1,0 +1,57 @@
+# JGIM ABSTRACTS
+
+# ASSESSING DIGITAL HEALTH TOOLS FOR CIRRHOTIC PATIENTS
+
+assess cirrhotic patients' access to, utilization of, and comfort with technology, as well as the preferred features of a digital health tool.
+
+# METHODS:
+
+We performed a mixed-methods study of cirrhotic patients with high healthcare utilization, those readmitted within 90 days for a cirrhosis-related complication. Patients were identified from the inpatient hepatology consult census. We obtained disease data from chart review and performed an in-depth semi-structured interview. Two investigators iteratively read and coded interview transcripts for themes using NVivo 11.0.
+
+# RESULTS:
+
+Of 134 cirrhotic inpatients identified from June to November 2018, 40 patients met inclusion criteria and agreed to participate. Of the 40 participants, 26 (65%) were male, mean (SD) age was 58.4 years (11.7), with a mean (range) MELD of 22 (10-46). Thirty-one (78%) patients own a Smartphone and 25 (63%) patients have regular access to a computer. Smartphone apps are preferred by 23 (58%) patients, while computers are preferred by 3 (7.5%) patients. When asked if they would use a Smartphone app daily to manage their cirrhosis, 24 (60%) reported yes, 10 (25%) no, and 6 (15%) maybe. Patients are interested in a Smartphone app that could: communicate with their physician (32, 80.0%), send medication notifications (25, 63%), transmit diagnostic results and appointment reminders (30, 75%), educate about cirrhosis (31, 78%), and offer low salt diet recipes (25, 63%). Of 25 patients with prior hepatic encephalopathy, 21 (72%) would play a Smartphone game if it detected cognitive decline. Of 22 patients with volume overload, 19 (86%) would use a Smartphone app to transmit weight data to their doctor. Common themes from qualitative data include a willingness to learn more about digital tools, a desire to learn about liver disease and communicate with providers via digital tools, and an eagerness to utilize digital tools if it could improve health (see Table).
+
+# CONCLUSIONS:
+
+Among cirrhotic patients with an early readmission at our center, most have Smartphones and would be willing to use one to manage their disease. Future technology interventions should be tailored to the specific use patterns and preferences of this population.
+
+# TEMPORAL TRENDS IN DISCHARGE OPIOID PRESCRIBING FROM AN INPATIENT MEDICAL SERVICE
+
+Nicholas Iverson; Nader Najafi; Yumiko Abe-Jones; Priya A. Prasad; Margaret Fang; Kirsten Kangelaris; Catherine Lau. UCSF, San Francisco, CA. (Control ID #3184800)
+
+# BACKGROUND:
+
+In March of 2016, the CDC released guidelines recommending shorter duration of opioid prescriptions. While these guidelines have the potential to influence hospitalist practice, it is not clear whether discharge prescribing patterns have changed. We examine changes in discharge opioid prescribing over time from an inpatient medical service at a single academic center.
+
+# METHODS:
+
+We used the electronic health record to identify all patients hospitalized on the acute care medical service at a 600-bed tertiary care hospital from 2012-2017, and stratified by whether they were on opioids at the time of admission according to provider medication reconciliation records. Patients were excluded if they had an ICD9 or 10 code for cancer-related pain or sickle cell disease, or who were on hospice or followed by the palliative care service. We calculated the number of opioid days supplied to the patient at discharge based on the discharge prescription signature and number of pills. All opioid prescriptions were standardized to morphine milligram equivalents (MMEs). We then calculated the median opioid days supplied at discharge by month, from 2012 to 2017. Multivariable Poisson regression analysis was used to assess temporal trends in likelihood of opiate prescription and median days supplied, with an interrupted time series approach to test for a significant change at the intervention point of March 2016.
+
+# RESULTS:
+
+We identified 19,759 medical inpatients who received opiates during their hospitalization, 23% of whom were not on opioids prior to admission. A total of 10,653 patients were discharged on opiates. The proportion of patients who were discharged with an opiate prescription declined over time (32.2% in 2012 to 25.6% in 2017, p<0.001; Figure 1). The median number of opiate days prescribed also declined over time (8.3 in 2012 to 7.5 in 2017, p=0.02). The decline in median opioid days from 2016 to 2017 was statistically significant in patients taking opioids prior to admission (10 to 9.3 days, p=0.04). Though the median days prescribed on discharge in patients without baseline opiate use remained at 5 days from 2012 to 2017, there was a slight statistically significant decline in overall trend (p=0.02). After adjusting for patient level factors—age, sex, race, ethnicity, language, interpreter requirement, length of stay, ICU stay during admission, and van Walraven Comorbidity Index—we continued to find a significant decrease in opioid days supplied at discharge in all patients, with a significant decline post-March 2016 (rate ratio=0.93, p <0.001).
+
+# CONCLUSIONS:
+
+The percent of patients discharged on opioids from a hospital medicine service has declined over time, including a substantial drop after the release of the 2016 CDC guidelines. The median number of days among patients discharged on opioids has also declined over time. Patients on opioids at the time of admission are discharged with higher median days of opioids than those not previously on opioids - a trend that is ongoing.
+
+# TERMINAL DIGIT BIAS AND BLOOD PRESSURE CONTROL IN AN ACCOUNTABLE CARE ORGANIZATION
+
+Kelsey B. Bryant1; Siling Li1; Yiyi Zhang1; Siqin Ye1; Brandon K. Bellows1; Teryl K. Nuckols2; Marie Krousel-Wood3; Jonas Green2; Andrew E. Moran1. 1Columbia University Medical Center, New York, NY; 2Cedars-Sinai Medical Center, Los Angeles, CA; 3Tulane University, New Orleans, LA. (Control ID #3178947)
+
+# BACKGROUND:
+
+Accountable Care Organizations (ACOs) reimburse health systems based on performance, including blood pressure (BP) control (proportion controlled BP among hypertensive patients using last measurement of year). We hypothesized that terminal digit bias—intentional or unintentional rounding preference when measuring BP—misclassifies BP control.
+
+# METHODS:
+
+ACO patients were from 2 Columbia University outpatient Medicine practices in 2013-2016. BP is manually measured and recorded by providers using anaeroid sphygmomanometers in one practice. In the other, BP is automatically measured and manually recorded by medical assistants using oscillometric devices. Using last BP measurement/year in electronic health records, we compared systolic BP distributions and proportion controlled (<140/90 mmHg) in hypertensives and normotensives combined. We identified terminal digit preference by examining BP distributions. We corrected for it by creating smoothed distributions reflecting the expected frequency of terminal digits (10% in the absence of bias), and reassessed mean BP and proportion controlled BP.
+
+# RESULTS:
+
+337,408 BP observations (65.01% manual group) represented 24,643 unique Medicare Shared Savings Plan ACO patients (90.37% manual group). The manual BP practice had mean patient age 72 years old and 54% female; the automated BP practice had mean age 68 and 64% female. BPs in the manual BP practice exhibited terminal digit preference bias, which was eliminated by correction (Figure). Digit preference was less apparent in the automated measurement practice (data not shown). Percent ACO patients with controlled BP changed little in both populations after correction for terminal digit preference bias [all changes to % controlled <2%; chi squared p < 0.001 manual BP practice, p = 0.64 automated BP practice].
+
+# CONCLUSIONS:
+
+Terminal digit preference bias occurred in a practice where BP is measured manually, but not where it is measured automatically. Terminal digit preference bias had minimal effect on proportion with controlled systolic BP and likely did not impact the ACO performance benchmark. Nonetheless, biased BP measurement may lead to incorrect diagnoses and treatment decisions. Automated

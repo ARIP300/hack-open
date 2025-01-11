@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# DIFFICULTY IN DISTINGUISHING RELAPSING HAV FROM AIH
+
+The diagnostic dilemma is further magnified by the differences in managing the two diagnoses.
+
+# CONCLUSION:
+
+Up to 10% of patients may have clinical or biochemical relapsing course of HAV infection, and fulminant hepatitis occurs in just 1% of cases. Interestingly, HAV infection has been shown to provoke AIH in a minority of patients. Our patient had a recent HAV infection with a concurrently elevated IgG and positive ASMA, raising concern for AIH. Data concordant with relapsing HAV infection include tissue specimen with a subacute pathological process and a lack of response to steroids or plasmapheresis; however, this lack of response may have been an indicator that her liver failure was irreversible. Internists need to consider relapsing HAV and AIH in patients with recent HAV infection who present with recurrent symptoms.
+
+# REVENGE OF A FISH: AN UNUSUAL CAUSE OF PERSISTENT ABDOMINAL PAIN IN A 64 YEAR-OLD FEMALE
+
+Ryan Burkholder1; Hrishikesh Samant2. 1Louisiana State University Health Sciences Center, Shreveport, LA; 2Louisiana State University, Shreveport, LA. (Control ID #3184820)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose and treat hepatic abscess due to foreign body implantation
+
+# CASE:
+
+64 y.o. female with PMH of hypertension, obesity and GERD presents with 8 days of abdominal pain in right upper quadrant and epigastric region accompanied by nausea, vomiting, fevers and yellow diarrhea. On admission, vital signs were notable for BP 216/90, P 133, RR 18, Temp 102.7. Physical exam showed jaundice but did not appreciate abdominal tenderness or guarding. WBC was 20.2k, total bilirubin 2.4, alkaline phosphatase 114, AST 62, ALT 59 and albumin 2.6. CT of the abdomen was performed showing a 6.9 cm lobulated heterogeneously enhancing fluid lesion within the junction of the right and left hepatic lobes, also noting signs of colitis. Interventional radiology performed percutaneous drainage on day of admission. Abscess cultures returned with alpha hemolytic streptococcus. Due to persistent leukocytosis and repeat abdominal CT which showed persistent fluid collection, a drain revision was performed 5 days later, and noticed a 2.1 cm radiopaque foreign body resembling a fish bone noted at the level of the falciform fissure/gastro hepatic ligament. Gastroenterology was consulted EGD was done at this time in attempts of retrieval yet there was no visualization of the fishbone from the antrum of the stomach. Surgical team was consulted yet decided against performing retrieval via laparotomy due to clinical improvement in patient. Repeat CT prior to discharge showed subcapsular hepatic collection (2x6.5 cm) involving segments 2/3, distal gastric mural thickening and perigastric inflammatory changes. Patient improved clinically, leukocytosis decreased to 8.9K, and blood cultures remained negative. Patient was discharged on extended course of ceftriaxone and intravenous metronidazole.
+
+# IMPACT/DISCUSSION:
+
+Gastrointestinal perforations have been reported in less than 1% of patients with foreign body ingestions with most common sites of perforation of the gut being the stomach and duodenum. Patients have non-specific complaints including abdominal pain, fever vomiting, weight loss and/or anorexia as response to infection and abscess formation. History may be unhelpful and patients rarely recall episode of ingestion, and it may be weeks to months prior to presenting complaints. While plain x-rays are only 32% sensitive in detecting foreign bodies in upper GI tract, CT imaging is preferred technique for diagnosis.
+
+# CONCLUSION:
+
+Careful correlation of imaging findings and clinical course should be performed in patients with unexplained hepatic abscess formation. As demonstrated in our patient, endoscopy is only helpful when performed early, before migration and mucosal healing of the GI tract. We treated this patient with routine drainage and antibiotics. Our clinical report is similar to previous episodes reported in previous literature, although in our case the decision was made to leave foreign body intact due to clinical improvement.
+
+# REVERSAL OF RIGHT VENTRICULAR FAILURE WITH PACEMAKER LEAD EXTRACTION
+
+LU CHEN1; Uta Guo3; PARAG MEHTA2. 1NEW YORK PRESBYTERIAN - BROOKLYN METHODIST HOSPITAL, Brooklyn, NY; 2NewYork-Presbyterian BMH Hospital, Brooklyn, NY; 3SUNRISE GME CONSORTIUM, LAS VEGAS, NV. (Control ID #3186224)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and treat tricuspid regurgitation (TR) induced right ventricular (RV) failure.
+
+# CASE:
+
+A 73-year-old female with a medical history of atrial fibrillation (AF), and hypertension presented to the emergency department with gradually worsening dyspnea on exertion, abdominal distension, and lower extremity swelling. For the past year, the patient had decreased exercise tolerance, limited by chest pressure and dyspnea. The chest pressure starts after ambulating one block and is relieved by rest. She was started on furosemide and reported moderate alleviation of her symptoms. In 2008, the patient underwent two unsuccessful ablations for long-standing AF and ultimately received atrioventricular nodal ablation with dual chamber permanent pacemaker (PPM) implantation. On admission, vital signs were stable except for tachypnea at 22 breaths per minute. She had significant jugular venous distension, lower extremity edema up to her thighs, but no crackles on pulmonary exam. Laboratory studies showed elevated brain natriuretic peptide (BNP) at 2980 pg/mL, hyperbilirubinemia at 1.3mg/dL, and thrombocytopenia of 55,000/uL. Chest radiography showed cardiomegaly, an implanted PPM, and no pulmonary congestion. Patient was started on high doses of intravenous furosemide. Following successful diuresis, an echocardiogram (TTE) showed left ventricular ejection fraction (LVEF) of 50%, a severely dilated RV with severe systolic dysfunction, and wide open TR with malcoaptation of the valve leaflets. Right heart catheterization demonstrated elevated right-sided filling pressures without elevation in pulmonary arterial pressure or left-sided filling pressures. Liver biopsy confirmed liver cirrhosis due to congestive hepatopathy. PPM lead-induced severe TR leading to congestive hepatopathy with liver cirrhosis was suspected. Patient underwent laser lead extraction and subsequent implantation of a leadless PPM. Within six months, she reported significant improvement in the quality of life with increased exercise tolerance with no chest pain, shortness of breath or lower extremity edema. Repeat TTE showed moderate RV dilatation with mild dysfunction, and improved tricuspid leaflets coaptation.
+
+# IMPACT/DISCUSSION:
+
+TR is a recognized complication of transvenous PPM or defibrillator placement as RV lead can impinge the tricuspid leaflet. This case illustrates the importance of a thorough workup for a patient presenting with predominantly right heart failure. Previous experiences with RV lead extraction have shown mixed results on the improvement of RV dysfunction and TR. This can likely be attributed to patient selection. Leadless PPM is a viable option for patients with TR secondary to lead impingement of the tricuspid valve.
+
+# CONCLUSION:
+
+We present a case of severe TR, and RV failure successfully managed with RV lead extraction. The root of our success likely lies within careful patient selection for lead removal through thorough work-up and excluding alternative causes of TR and RV dysfunction.
+
+# REVISITING AN ATYPICAL LYMPHOCYTIC COLITIS: LESSONS FROM A PATIENT WITH CHRONIC DIARRHEA
+
+Harry J. Han1; Adam Tapley1, 3; Rabih Geha1, 2. 1University of California San

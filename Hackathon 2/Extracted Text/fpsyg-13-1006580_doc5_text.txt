@@ -1,0 +1,54 @@
+# Chen et al.
+
+# 10.3389/fpsyg.2022.1006580
+
+# TABLE 3 Descriptive statistics and correlation analysis.
+
+|Variable|1|2|3|4|5|6|7|
+|---|---|---|---|---|---|---|---|
+|1.Firm size|1| | | | | | |
+|2.Industry|−0.105|1| | | | | |
+|3.Work age|0.102|−0.073|1| | | | |
+|4.WS|0.189**|0.045|−0.074|1| | | |
+|5.MH|−0.110|−0.024|0.053|−0.494**|1| | |
+|6.SL|−0.123|−0.018|0.061|−0.273**|0.449**|1| |
+|7.EP|−0.016|0.033|0.083|−0.228**|0.440**|0.556**|1|
+|Mean|2.52|0.64|5.11|3.98|4.72|5.22|5.15|
+|S. D.|0.813|0.482|2.461|1.197|1.266|1.125|1.005|
+
+*p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001.
+
+# TABLE 4 Results of linear regression analysis (models 1–6).
+
+|Variable|EP|EP|EP|EP|MH|MH| |
+|---|---|---|---|---|---|---|---|
+|Model 1|Firm size|−0.027|0.032|0.039|0.043|−0.187|−0.032|
+|Model 2|Industry|0.077|0.106|0.107|0.109|−0.085|−0.008|
+|Model 3|Work age|0.036|0.028|0.025|0.024|0.032|0.010|
+|Model 4|WS| |−0.193**| |−0.016| | |
+|Model 5|MH| |0.350***|0.343***| | | |
+|F-value|0.575|3.013*|11.950***|9.526***|1.131|15.459***| |
+|R2|0.009|0.059|0.200|0.200|0.017|0.245| |
+|Adj-R2|−0.007|0.040|0.183|0.179|0.002|0.229| |
+
+*p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001.
+
+# TABLE 5 Results of linear regression analysis (models 7–9).
+
+|Variable|MH|MH| |
+|---|---|---|---|
+|Model 7|Firm size|−0.187|0.012|
+|Model 8|Industry|−0.085|0.002|
+|Work age|0.032|0.001| |
+|WS| |−0.426***| |
+|SL| |0.383***| |
+|WS×SL| | | |
+|F value|1.131|20.548***| |
+|R2|0.017|0.351| |
+|Adj-R2|0.002|0.334| |
+
+*p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001.
+
+Table 4 shows that model 1 is the basic model assessing the effects of control variables on employee performance. In model 2, we added an independent variable (work stress) to examine its effect on employee performance. The results revealed that work stress negatively affects employee performance (β = −0.193, p &lt; 0.01). Therefore, hypothesis 1 is supported. Model 5 is the basic model that examines the effects of control variables on mental health. In model 6, we added an independent variable (work stress) to assess its effect on mental health. We found that work stress negatively affects mental health (β = −0.517, p &lt; 0.001). Therefore, hypothesis 2 is supported.
+
+To verify the mediating effect of mental health on the relationship between work stress and employee performance, we used the method introduced by Kenny et al. (1998), which is described as follows: (1) The independent variable is significantly related to the dependent variable. (2) The independent variable is significantly related to the mediating variable. (3) The mediating variable is significantly related to the dependent variable after controlling for the independent variable. (4) If the effect of the independent variable on the dependent variable becomes smaller, it indicates a partial mediating effect. (5) If the effect of the independent variable on the dependent variable is no longer significant, it indicates a full mediating effect. Based on this method, in model 4, mental health is significantly positively related to employee performance (β = 0.343, p &lt; 0.001), and no significant correlation exists between work stress and employee performance (β = −0.016, p &gt; 0.05). Hence, mental health fully.

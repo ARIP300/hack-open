@@ -1,0 +1,82 @@
+# ABSTRACTS JGIM
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+A barrier exists to patient access to diabetic retinopathy screenings, stemming from ophthalmology clinic volume, patient access barriers, and resources in the primary care clinic.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Provide primary care clinics with the resources to complete diabetic retinopathy screenings (e.g. equipment, software, staff training, and potential reimbursements)
+2. Improve the percentage of eligible diabetic patients being screened for diabetic retinopathy
+3. Improve interprofessional communication and care coordination between primary care and specialty care
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Diabetic retinopathy is the most common cause of blindness in the United States for patients ages 20-74. All patients with diabetes should have a yearly eye exam, but many patients find it difficult to see an ophthalmologist regularly. This is particularly true at our pilot site, University Medical Associates (UMA), which has a high proportion of uninsured, unscreened patients with diabetes. In response to these challenges, the Center for Telehealth and Department of Ophthalmology implemented the Diabetic Retinopathy Screening (DRS) Program. By utilizing the eConsults service, we are implementing the second iteration of this program with new technology and workflow to build a more efficient, sustainable, and scalable screening program. In the U.S, there is a general consensus that the most cost-effective setting for performing retinopathy screenings is at the initial point of care in the PCP clinic. The DRS Program has placed a Remidio camera at UMA, which is the world's first and only smartphone-based, non-mydriatic fundus camera with infrared imaging capabilities. This device comes with an application to facilitate capture, report generation, and storage of the images and is an ideal platform for comprehensive telemedicine enabled eye screening, as it enables images to be synced and archived securely in the cloud for remote review and clinical management.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+- Percentage of eligible diabetics who receive annual diabetic retinopathy screening
+- Turnaround time of image review and interpretation
+- Percentage of abnormal findings
+- Increasing the acuity within referral patterns
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+|Year|# of diabetic retinopathy screens|% of diabetic patients screened|
+|---|---|---|
+|2011|236|6.1%|
+|2012|552|14.2%|
+|2013|603|15.5%|
+|2014|472|12.1%|
+|2015|219|5.6%|
+|2016|255|6.5%|
+|2017|320|8.2%|
+
+~40% of screens had abnormal findings and required a follow-up visit to the ophthalmology clinic.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+- Consider staffing realities of the primary care clinic
+- When choosing a device, consider facility limitations
+- Implement automated scheduling workflow for positive screenings
+- Ensure that image quality meets the parameters for national standards of diabetic retinopathy screening
+- An early primary care champion is critical
+- Pay careful consideration to outside grant and funding opportunities
+- Consider emerging capability of artificial intelligence to make diagnoses
+
+# A NEW WAY TO USE YOUR ABCS: IMPROVING OUTPATIENT FOLLOW-UP AFTER HOSPITAL DISCHARGE.
+
+Evan Siau; Alejandro Arbelaez; Raghav Aggarwal; Paula Dibo; Rezaul Hoque; Monica Mauri; Shorabh Sharma; Rajan Gurunathan. SBH Health System, Norwood, NJ. (Control ID #3162490)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Developing tools to facilitate post-acute care follow-up is a key element in enhancing linkage with primary care services and improving ambulatory outcomes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To improve effective follow-up after hospital discharge and positively affect linkage with primary care, we set forth to design and implement a scripted educational tool, to standardize the physician approach to scheduling post-hospital discharge care in a user-friendly way.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A literature review was conducted to identify best practices and focus groups were engaged. Key elements of care were identified, including identifying where patients have established care, where they would like to follow, the timeframe they needed to be seen, and whether access with the type of doctor or service needed was established as priority. Based on literature review, best practice analysis, and focus group inputs, a scripted educational tool was developed. The "ABC"s of Scheduling Post-Discharge Care. A-ASK: Where is your usual source of care? Where do you want to be seen? Resident Clinic / FQHC / Community Provider / Faculty Practice B-BY WHEN: When does the patient first need to be seen by post-discharge? < 1 wk / < 2 wks / < 4 wks C-COORDINATE: Are the scheduled appointments relevant and coordinated? Is first appointment appropriate (time / place)? Baseline information was reviewed for quality improvement purposes on 88 discharges across 3 selected medical units. 3 PDSA cycles were then conducted over 12 weeks, during which physician champions were engaged, staff were trained using the tool when planning hospital discharge, and selected quality improvement metrics were followed in real-time on the same sample size in order to assess the potential impact of the tool.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+- The % of patients accurately assigned to their preferred source of care post-hospital discharge.
+- The % of ‘first post-discharge visits' specifically relevant to the patient's hospitalized condition.
+- The % of no shows for post-hospital discharge visits in our primary resident clinic.
+- The median number of days to first scheduled appointment post-hospital discharge.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+When compared with discharges from the selected units pre-intervention, discharges from the selected units post-intervention showed:
+
+- The % of patients accurately assigned to their preferred source of care increased from 85% to 92%.
+- The % of ‘first post-discharge visits' specifically relevant to the patient's hospitalized condition increased from 68% to 83%.
+- The post-hospital discharge no show-rate in our primary resident clinic decreased from 81% to 64%.
+- The median number of days to first scheduled appointment decreased from 15 days to 10.5 days.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Based on our experience, implementation of a scripted educational checklist or tool has significant opportunity to help minimize variability in scheduling of post-hospital discharge visits, enhance access to post-acute care services, and improve patient outcomes within the ambulatory setting.

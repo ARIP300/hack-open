@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# LYMPHEDEMA DISTICHIASIS: A RARE GENETIC DISORDER
+
+Masses, liver abnormalities, or ascites. Trial of diuresis did not change her edema. Given her lower extremity plaque and skin changes, dermatology was consulted. Detailed exam revealed a double row of eyelashes or distichiasis. With further inquiry, she endorsed frequent conjunctivitis. She was presumptively diagnosed with Lymphedema distichiasis and referred for further testing.
+
+# IMPACT/DISCUSSION:
+
+Lymphedema distichiasis is a rare autosomal dominant genetic disorder due to a mutation in the FOXC2 gene. It is characterized by early-onset lymphedema and distichiasis or aberrant eyelashes, present in 94% of patients. Distichiasis ranges from a single aberrant eyelash to a full row of extra lashes along the inner lining of the lid causing corneal irritation or recurrent conjunctivitis in up to 75% of patients. Other associations include ptosis, varicose veins, and even cardiac abnormalities like tetralogy of fallot. Our case illustrates a classic presentation of a rare genetic disease presenting in adulthood. Lower extremity swelling is a relatively common symptom with a broad differential. However, while our initial systems-based evaluation was thorough, it failed to provide a clear clue to a diagnosis. This case illustrates the need to be mindful that hereditary diseases may present in previously well adult patients.
+
+# CONCLUSION:
+
+Lymphedema distichiasis is a rare genetic disorder for bilateral lower extremity lymphedema. Importantly, as internists, we often do not think of undiagnosed hereditary diseases in evaluating adult patients. Therefore, if the classic work-up is unrevealing, this genetic disease needs to be considered in the differential.
+
+# LYMPHOEPITHELIAL CYST: A RARE CASE OF RAPIDLY PROGRESSIVE ABDOMINAL PAIN ASSOCIATED WITH LARGE MULTILOCULATED INTRA-ABDOMINAL CYST
+
+Faith Villanueva; Joydeep Chakraborty; Maryam Sattari. University of Florida, Gainesville, FL. (Control ID #3163324)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate and manage large, symptomatic abdominal cysts with uncommon radiographic/pathologic features.
+
+# CASE:
+
+A 24-year-old man with no significant past medical history presented with left upper quadrant abdominal pain for 3 days. The pain was severe, progressive, non-radiating, increased with movement and eating, associated with subjective fever, and without antecedent abdominal trauma. He denied personal or family history of pancreatitis, pancreatic disease, or neoplasm. His social history was notable for heavy alcohol use and binge drinking. Physical exam was remarkable for severe left lower quadrant abdominal tenderness with palpable mass without peritoneal signs. Serum studies, including lipase and carbohydrate antigen 19-9 (CA 19-9), were unremarkable. Imaging (CT and MRI) revealed normal pancreas and pancreatic duct but showed a 6x12x18 cm multiloculated cystic lesion in the left upper quadrant adjacent to the pancreatic tail. Cytology and histopathology obtained from endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) showed nonspecific fragments of fibrous tissue without evidence of malignancy. Fluid analysis for amylase and CEA was inconsistent with pseudocyst or mucinous neoplasm. He underwent surgical fenestration of the cyst without complication, and final pathology was consistent with lymphoepithelial cyst. His symptoms significantly improved post-operatively with marked radiographic decrease in mass size.
+
+# IMPACT/DISCUSSION:
+
+With the recent advent of improved diagnostic and interventional modalities, consensus on evaluation and management of symptomatic abdominal cystic lesions is a continuously evolving field that remains challenging for internists. Lymphoepithelial cysts are benign, rare lesions often found incidentally, and usually require no intervention. However, this patient's cyst was causing severe symptoms and his history of alcohol use as well as size of the mass were concerning for malignancy. Ultimately, complete diagnostic workup including serum tumor markers, cross-sectional imaging, EUS-FNA with fluid analysis, cytology, and pathology was necessary as therapeutic intervention was etiology-dependent. Timely diagnosis and therapeutic intervention required a multidisciplinary approach and coordination with interventional gastroenterology, pancreatobiliary surgery, radiology, and pathology.
+
+# CONCLUSION:
+
+Lymphoepithelial cysts are benign lesions that can be managed conservatively if asymptomatic. However, due to their rarity and often incidental identification, these lesions can pose a unique diagnostic and therapeutic challenge for internists and be misdiagnosed as neoplasms. Thorough multi-disciplinary evaluation with imaging as well as histologic analysis and correlation are essential to rule out other pathologic etiologies such as malignancy and avoid unnecessary extensive surgical intervention.
+
+# MALABSORPTIVE CIRRHOSIS: A RARE COMPLICATION OF DUODENAL SWITCH
+
+Raphael Rabinowitz1; Tracey Martin2; David M. Feldman1; Benjamin Verplanke1. 1New York University Langone Health, New York, NY; 2Weill Cornell Medical Center, New York, NY. (Control ID #3161245)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize protein malnutrition and cirrhosis as potential complications of biliopancreatic diversion with duodenal switch (BPD-DS).
+
+# CASE:
+
+A 37-year-old man with a history of severe obesity status post laparoscopic BPD-DS presented with diffuse swelling. The patient was admitted six months previously for severe protein-calorie malnutrition requiring initiation of total parental nutrition (TPN). During that admission, he was found to have elevated liver enzymes and ascites. Workup for autoimmune, infectious, and hereditary etiologies of cirrhosis was unremarkable; a liver biopsy showed steatosis without evidence of alcoholic hepatitis or cirrhosis. He now complained of abdominal distension and lower extremity edema that had progressed over several weeks, requiring multiple large-volume paracenteses. He endorsed past heavy alcohol use, but denied recent exposure. On physical examination, he was grossly anasarcic with a distended abdomen and appreciable fluid wave, 3+ pitting edema to the hips, and scrotal edema. His admission Model for End-Stage Liver Disease (MELD) score was 14. Repeat biopsy demonstrated prominent portal fibrosis and focal nodularity indicative of advanced-stage cirrhosis, with an interval decrease in steatosis from his previous biopsy. The rapidity of fibrosis and reversal of fatty change suggested the etiology was his bariatric surgery. He was treated with intravenous diuretics with improvement in his anasarca. At one-month follow-up, he had a stable MELD and diuretic-responsive ascites. He has been approved for liver transplant evaluation, with plans to reverse his bypass prior to transplant.
+
+# IMPACT/DISCUSSION:
+
+BPD-DS is classically associated with improvement in hepatic function due to reversal of nonalcoholic steatohepatitis (NASH). However, case reports of hepatic failure following BPD-DS do exist. Clinicians should be alert to this complication and monitor post-surgical patients closely for signs of hepatic decompensation.
+
+# CONCLUSION:
+
+BPD-DS is the most effective bariatric surgery technique for sustained weight loss in the super-obese (BMI > 50 kg/m). Nevertheless, its widespread adoption has been limited by technical complexity and concerns over vitamin deficiencies and malnutrition. Loss of hepatotrophic factors due to protein malnutrition has been advanced as a mechanism to explain its contribution to the development of cirrhosis. With the increasing prevalence of obesity and the documented effectiveness of BPD-DS for sustained weight loss, this surgery will likely become more commonplace. Awareness of this potential complication and vigilance to ensure adequate protein intake, with aggressive intervention—including the initiation of TPN—to preserve nutritional status is paramount to effective management of BPD-DS patients post-operatively.
+
+# MANAGEMENT OF GAMMA-HYDROXYBUTYRATE (GHB) WITHDRAWAL IN A HOSPITALIZED ORTHOPEDIC PATIENT
+
+Hannan Braun; Miriam Harris; Zoe M. Weinstein. Boston Medical Center, Boston, MA. (Control ID #3181804)

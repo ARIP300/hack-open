@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# CASE 1
+
+which consists of dexamethasone, methotrexate, ifosfamide, L-asparaginase, and etoposide, while aggressive, has shown favorable outcomes. Mr. T is from Vietnam and presented with night sweats, sinusitis, and weight loss. When he was first admitted, there was appropriately high concern for mycobacterium tuberculosis. He then failed to improve on broad spectrum antibiotics, despite a sensitive isolate, and the team had to revisit the initial framing of the case by obtaining a tissue sample. This case highlights the importance of avoiding diagnostic anchoring by reassessing the differential diagnosis when a patient no longer fits the illness script for a disease.
+
+# CONCLUSION:
+
+In patients from Asia with persistent sinusitis and polyposis, extranodal NK/T-cell lymphoma should be on the differential. NK/T-cell lymphoma is associated with EBV, and it is treated with the SMILE regimen. When patients are not improving as expected, revisit the initial diagnosis.
+
+# A CASE OF SIMULTANEOUS OCCURRENCE OF GRAVES' DISEASE(GD) AND SEROSITIS CAUSED BY SYSTEMIC LUPUS ERYTHEMATOSUS (SLE) WITH ANTI-DSDNA ANTIBODY NEGATIVE
+
+KENJI TSUKAMOTO. Okazaki city hospital, Okazaki, Japan. (Control ID #3183771)
+
+# LEARNING OBJECTIVE #1:
+
+It needs to pay attention to clinical condition of SLE when examining a patient with GD.
+
+# CASE:
+
+The case was for female at the age of 48 with no past medical history and no family medical history for thyroid disease and collagenosis. She visited a clinic in May 2018 due to edema and weight gain. She was given furosemide and levocetirizine. However, the symptom tended to be worsened with respiratory discomfort and she was hospitalized in October 2018. She had blood pressure 108/60 mmHg, pulse 86 beats/minute, respiration rate 15 times/minute, and body temperature 36.9 degrees Celsius. We recognized systemic pitting edema and lower bilateral respiratory sound without any other specific abnormal findings. There was no particular examination findings for SLE, but the patient had loose stool. The laboratory tests indicated C3 69 mg/dL/C4 9 mg/dL for hypocomplementemia, 80x for antinuclear antibody, 1.60 for Lupus Anticoagulant (diluted Russell's viper venom time), less than 0.01μIU/mL for thyroid-stimulating hormone(TSH), free T3 5.70 pg/mL, free T4 2.52 ng/dL, 2.1 IU/L for TSH receptor antibody, and negative for anti-dsDNA antibody/anti-histone antibody, but no finding for other collagen diseases and infective diseases. There was no particular finding in the urinary test and also no test result to cause pleural effusion. Bilateral pleural effusion and a small amount of pericardial fluid were found in chest X-ray and echocardiogram respectively, but other sites indicated normal. Because we diagnosed simultaneous occurrence of GD and serositis caused by SLE, celecoxib and azosemide were initiated. For GD, potassium iodide 50 mg/day was used in consideration of SLE-like symptom caused by antithyroid drugs. Although we could manage hyperthyroidism after 2 months, anti-dsDNA antibody turned out positive and serositis control was worsened. When prednisolone 30 mg/day was initiated, serositis was improved after 1 month with weight loss.
+
+# IMPACT/DISCUSSION:
+
+In this case, serositis could simultaneously develop for a patient with SLE's anti-dsDNA antibody Negative and GD. It is reported that there can be a relation between SLE disease activity and dsDNA for a SLE patient, and serositis is also often found as a clinical finding in SLE's dsDNA antibody Negative. In the recent report, SLE could have development of complication with autoimmune thyroid disease(AITD) including GD and serositis might become a risk in case of SLE associated with AITD. On the basis of the findings in the present case, serositis could be considered as a clinical feature in the development of complication with SLE and GD. However, it still remains unknown regarding the clinical feature of AITD and SLE's dsDNA antibody Negative.
+
+# CONCLUSION:
+
+We experienced a case of simultaneous occurrence of GD and serositis caused by SLE with anti-dsDNA antibody Negative. Clinicians need to conduct medical examination with the consideration of possible SLE complication when examining a patient with GD.
+
+# A CASE OF SKIN RASH AND SEPTIC ARTHRITIS
+
+Hasan Ahmad Hasan Albitar. Mayo Clinic, Rochester, MN, Rochester, MN. (Control ID #3184470)
+
+# LEARNING OBJECTIVE #1:
+
+Identify the clinical features of rat bite fever syndrome
+
+# LEARNING OBJECTIVE #2:
+
+Recognize septic arthritis as a rare complication of rat bite fever
+
+# CASE:
+
+A 27-year-old lady presented to the emergency department with fever, chills and fatigue of 3 days duration. Physical examination revealed temperature of 39.6. Workup revealed neutrophil-predominant leukocytosis with a white blood cell count of 14 x10(9)/L (3.4 - 9.6 x10(9)/L) in addition to elevated CRP of 277.8 mg/L (<8 mg/L). On hospital day 3, the patient developed asymmetric polyarthritis involving the left 3rd MCP, left wrist, right shoulder and right ankle joints. In addition to this, the patient was noted to have a pustular skin rash involving the palms and soles. Screening tests for Neisseria gonorrhoeae, Chlamydia trachomatis, and HIV were negative. In addition to this, syphilis IgG antibody and Parvovirus B19 serology testing were negative. On further questioning, the patient reported that she has 3 pet rats and that she had a rat bite 2 days prior to onset of symptoms. Rat bite fever was suspected and the patient was started empirically on 2 g of IV ceftriaxone daily. Arthrocentesis of the left 3rd MCP joint yielded purulent synovial fluid. Synovial fluid culture was not performed because of the small volume of synovial fluid obtained following during the procedure. Synovial fluid gram stain was negative but numerous white blood cells were noted. Blood cultures were obtained and they showed growth of Streptobacillus moniliformis in 4/6 bottles confirming our initial suspicion of rat bite fever. Repeat blood cultures were negative. The patient had near complete resolution of her symptoms and was discharged on 2 g of IV ceftriaxone for a total of 2 weeks.
+
+# IMPACT/DISCUSSION:
+
+Rat bite fever (RBF) is a rare disorder most commonly caused by Streptobacillus moniliformis in the USA. The syndrome typically presents with fever and fatigue followed by migratory polyarthralgias and skin rash that involves the palms and soles. Septic arthritis is a rare complication of RBF with only 14 cases in adults reported in the literature. The reported mortality rate approaches 10%. Penicillin is the drug of choice for treatment of RBF and ceftriaxone is a reasonable alternative. For patients with penicillin allergy, tetracyclines can be used.
+
+# CONCLUSION:
+
+RBF is a disease caused by Streptobacillus moniliformis. Septic arthritis is a rare complication of RBF. Given the potential for severe and fatal disease in patients with RBF, a therapeutic trial is indicated once the disease is suspected.
+
+# A CASE OF STAPHYLOCOCCAL BACTEREMIA WITH IGA DOMINANT CUTANEOUS LEUKOCYTOCLASTIC VASCULITIS AND GLOMERULONEPHRITIS
+
+Joshua Allgaier1, 2; Osama Kandalaft1, 2; Sehar Zulfiqar1, 2. 1Baystate Medical Center, Springfield, MA; 2University of Massachusetts, Worcester, MA. (Control ID #3184018)
+
+# LEARNING OBJECTIVE #1:
+
+To raise awareness of the rare presentation and clinical course of IgA mediated cutaneous vasculitis and acute glomerulonephritis associated with staphylococcal bacteremia
+
+# CASE:
+
+A 59 year old female with peripheral vascular disease and chronic right heel eschar was admitted for right ankle cellulitis. Blood cultures grew methicillin sensitive staphylococcus aureus (MSSA) and MRI identified extensive right ankle osteomyelitis. Cefazolin was started in place of ampicillin-sulbactam and vancomycin. On day 8 of her hospitalization,

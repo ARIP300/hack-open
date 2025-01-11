@@ -1,0 +1,39 @@
+# Declarations
+
+Duodecim. 2020. EBMeDS White Paper. https://www.ebmeds.org/en/materials/whitepaper_en/. Accessed 20 November 2020.
+
+Conflict of interest: The author(s) declared no potential conflicts of interests with respect to the authorship and/or publication of this article.
+
+Erickson, P., J.L. Klein, L. Daston, R. Lemov, T. Sturm, and M.D. Gordin. 2013. How reason almost lost its mind. The strange career of cold war rationality. Chicago: The University of Chicago Press.
+
+European Commission. 2018. Article 29 Data protection working party. https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Accessed 15 January 2021.
+
+Open Access: This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+# References
+
+Abd-Alrazaq, A., Z. Safi, M. Alajlani, J. Warren, M. Househ, and K. Denecke. 2020. Technical metrics used to evaluate health care chatbots: scoping review. Journal of Medical Internet Research 22 (6): 1–15.
+
+Accenture Consulting. 2018. Artificial intelligence, genuine impact public services in the era of artificial intelligence. https://www.accenture.com/_acnmedia/pdf-75/accenture-ai-genuine-impact-pov-final-us.pdf. Accessed 15 January 2021.
+
+AlgorithmWatch. 2020. Automated Decision-Making Systems in the COVID-19 Pandemic: A European perspective. Automating society report 2020. https://automatingsociety.algorithmwatch.org/. Accessed 15 January 2021.
+
+Aristotle. 1926. Nicomachean Ethics. Trans. H. Rackham. Loeb Classical Library 73. Cambridge: Harvard University Press. https://www.loebclassics.com/view/LCL073/1926/volume.xml. Accessed 15 January 2021.
+
+Atique, S., J.R. Bautista, L.J. Block, J.J. Lee, E. Lozada-Perezmitre, R. Nibber, S. O’Connor, L.-M. Peltonen, C. Ronquillo, J. Tayaben, F.J.S. Thilo, and M. Topaz. 2020. A Nursing informatics response to COVID-19: Perspectives from five regions of the world. Journal of Advanced Nursing 76 (10): 2462–2468.
+
+Banerjee, A., S.L. Jadhav, and J.S. Bhawalkar. 2009. Probability, clinical decision making and hypothesis testing. Industrial Psychiatry Journal 18 (1): 64–69.
+
+Beil, M., I. Proft, D. van Heerden, S. Sviri, and P.V. van Heerden. 2019. Ethical considerations about artificial intelligence for prognostication in intensive care. Intensive Care Medicine Experimental 7 (1): 70.
+
+Bontemps-Hommen, C.M.M.L., A. Baart, and F.T.H. Vosman. 2019. Practical wisdom in complex medical practices: A critical proposal. Medicine, Health Care, and Philosophy 22 (1): 95–105. https://doi.org/10.1007/s11019-018-9846-x.
+
+Collins, H., and R. Evans. 2007. Rethinking expertise. Chicago: The University of Chicago Press.
+
+Conroy, M., A.Y. Malik, C. Hale, et al. 2021. Using practical wisdom to facilitate ethical decision-making: a major empirical study of phronesis in the decision narratives of doctors. BMC Medical Ethics. https://doi.org/10.1186/s12910-021-00581-y.
+
+Dennis, A.R., A. Kim, M. Rahimi, and S. Ayabakan. 2020. User reactions to COVID-19 screening chatbots from reputable providers. Journal of the American Medical Informatics Association 27 (11): 1727–1731.
+
+Erickson, P., J.L. Klein, L. Daston, R. Lemov, T. Sturm, and M.D. Gordin. 2013. How reason almost lost its mind. The strange career of cold war rationality. Chicago: The University of Chicago Press.
+
+European Commission. 2018. Article 29 Data protection working party. https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=622227. Accessed 15 January 2021.

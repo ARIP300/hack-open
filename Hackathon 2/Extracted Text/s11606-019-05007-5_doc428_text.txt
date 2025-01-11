@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# S527
+
+# CONCLUSION:
+
+CEP often presents with nonspecific respiratory symptoms which leads to delays in diagnosis. Early clinical suspicion upon recognition of marked peripheral eosinophilia can lead to timely imaging and procedures (BAL) that are required to make the diagnosis.
+
+# EPIPERICARDIAL FAT NECROSIS- AN UNCOMMON CAUSE OF PLEURITIC CHEST PAIN
+
+Dimple Shah; Bijan Zisman. Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Manhasset, NY. (Control ID #3184492)
+
+# LEARNING OBJECTIVE #1:
+
+1. Recognize epipericardial fat necrosis as a cause of acute onset chest pain.
+
+# CASE:
+
+A 59-year-old male with a medical history of Type 1 muscular dystrophy presented to the emergency room with acute onset of chest which began in the morning. He reports 10/10 left sided chest pain, sharp and pleuritic in nature. On admission, the patient's vital signs were within normal limits. His physical exam was significant for rhonchi in the left lower lobe, and upper and lower extremity weakness, with distal weakness greater than proximal. His EKG showed sinus rhythm with an incomplete right bundle branch block, unchanged from an EKG eight years prior. Cardiac enzymes, troponin T, CK and CKMB, were <.01, 30 and 1.0 respectively. His chest x-ray revealed a left lower lobe opacity. Given an unrevealing EKG and negative cardiac enzymes, acute coronary syndrome was lower on the differential diagnosis, and patient underwent a CT angiogram of the chest. The CT showed fat stranding in the pericardial space concerning for epipericardial fat necrosis, and a small left sided pleural effusion; no pulmonary emboli were identified. The cardiothoracic surgery team was consulted for further evaluation of the fat necrosis, who advised to treat conservatively with NSAIDs. The patient's pain markedly improved on hospital day two and resolved by day three. His hospital course was complicated by aspiration pneumonia with development of a loculated pleural effusion requiring a video assisted thoracoscopy. A repeat CT scan of the chest four weeks later showed resolution of the epipericardial fat necrosis.
+
+# IMPACT/DISCUSSION:
+
+Epipericardial fat necrosis (EPFN) is a rare inflammatory disorder that causes acute onset pleuritic chest pain, lasting from hours to days. It can often be mistaken as a life-threatening disorder such as pulmonary embolism, pericarditis or myocardial infarction. Chest x-rays can be clear or may demonstrate an opacity at the cardio-phrenic angle. A chest CT is the imaging modality of choice, which usually reveals a mass with fat attenuation, often encapsulated, adjacent to the pericardium with surrounding inflammatory changes. The pathophysiology is poorly understood, although it has been hypothesized it may be secondary to vascular pedicle torsion or pre-existing structural abnormalities. In the past, the diagnosis of EPFN required tissue diagnosis, but recent literature suggests a CT is enough to make the diagnosis. Although EPFN is an uncommon disease, it is especially relevant in the hospital setting where patients often present with acute chest pain. The treatment of EPFN is conservative and targeted towards pain control with NSAIDs. Resolution can be determined with a follow up CT scan.
+
+# CONCLUSION:
+
+EPFN in an uncommon cause of chest pain. It often presents as acute onset pleuritic chest pain, and should be included on the differential diagnosis of acute chest pain in patients who have been ruled out for life-threatening etiologies such as myocardial infarction or pulmonary embolism.
+
+# ESOPHAGEAL NECROSIS: A RARE COMPLICATION OF DIABETIC KETOACIDOSIS
+
+Ricky A. Buckshaw 1; Ethan Stern 1; Robert Andrews 1; Frederic A. Stelzer1, 2. 1Lehigh Valley Health Network, Allentown, PA; 2Eastern Penn Gastroenterology, Allentown, PA. (Control ID #3155128)
+
+# LEARNING OBJECTIVE #1:
+
+To be able to identify a high mortality complication of a fairly common medical problem.
+
+# CASE:
+
+A 50 year old male with past medical history of DM type I, gastroparesis, chronic pancreatitis, and Barrett's esophagus presented with non-radiating epigastric abdominal pain, coffee ground emesis, and nausea. He was vomiting frequently with severe pain for approximately two days. He denied any new medications, sick contacts, alcohol intake or intentional ingestions at the time. Arriving vitals were systolic BP 60's - 70's, HR 98, GCS 12. Dried blood was present around the patient's mouth and tenderness in the epigastric area was present. He was given IV normal saline for volume resuscitation as well as emergent blood transfusions. He was started on empiric treatment for a GI bleed along with Zofran for persistent nausea. Initial lab work revealed hemoglobin 9.9, blood pH 7.34, lactate 3.7, glucose >1000, positive serum ketones, bicarbonate 14, and anion gap 39. CT scan of his abdomen and pelvis revealed esophageal wall thickening, gastric distention with dilated fluid-filled esophagus, fatty liver, and chronic pancreatitis. He was later admitted to the MICU due to his critical clinical status. A diagnosis of diabetic ketoacidosis was made and DKA treatment protocol with insulin infusion, electrolyte replacement and frequent labs was started. Gastroenterology consult with EGD revealed the distal 2/3 of the esophagus having black, necrotic appearing mucosa with abrupt transition at the GE junction. No biopsies were taken due to the nature of the patient's presentation and risk of perforation. The patient was subsequently started on IV PPI and Carafate with gradual improvement of his symptoms.
+
+# IMPACT/DISCUSSION:
+
+Diabetic ketoacidosis (DKA) is a common complication of uncontrolled diabetes mellitus. Rarely, DKA can be complicated by acute esophageal necrosis (AEN) with the hallmark finding of circumferential black distal esophageal mucosa seen with endoscopy. Common presentation of AEN includes upper GI bleeding, nausea, vomiting, dysphagia, and syncope. Most commonly AEN is associated with hemodynamic compromise and low flow states, like what is encountered with the profound dehydration in patients with DKA. Those considered at greatest risk for developing AEN are men over age 50 with comorbid conditions such as DM, malignancy, hypertension, alcohol abuse, and CAD.
+
+# CONCLUSION:
+
+AEN is a rare complication of DKA and was discovered in this patient. Typical management involves fluid resuscitation, treatment of the underlying DKA, PPI, Carafate, and keeping the patient NPO. Although uncommon, AEN is an important condition to recognize as it is associated with mortality rates ranging from 15% - 36%. Also, 15% of survivors develop long term complications such as esophageal strictures or stenosis. Many of the symptoms of AEN are common presenting symptoms of DKA so clinical suspicion and evaluation in the correct context could prevent morbidity and mortality.
+
+# EVEN THE ELDERLY CAN CONTRACT MENINGOCOCCAL MENINGITIS - A CASE REPORT.
+
+Yuriko Terada1; Takafumi Kubota3; Suguru Matsuzaka4; Ivor Cammack2. 1Teine Keijinkai Hospital, Sapporo-shi, Japan; 2Keijinkai, Yoichi, Japan; 3Teine Keijinkai Hospital, Sapporo, Japan; 4Teine Keijinkai Hospital, Sapporo, Japan. (Control ID #3184849)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that social activity in elderly individuals can put them at risk for contracting meningococcal meningitis.
+
+# CASE:
+
+A 72-year-old female presented with a 2-day history of fever and sore throat. The fever got steadily worse, and she developed rigors. In the morning, she vomited so attended a nearby clinic, where her mental status deteriorated over 2 hours. She was transferred immediately to our hospital. Her past medical history was significant for hypertension, ischemic heart disease and osteoporosis. She was socially very active, participating in various activities. On examination, her temperature was 37.5 degrees Celsius, blood pressure 139/81, heart rate 96/min, respiratory rate 14-20/min and oxygen saturations 96% on room air. Her Glasgow Coma Scale was E4V2M3. She had nuchal rigidity and a positive Kernig's sign. There was no rash. Blood tests showed white blood count 9860/μL, LDH.

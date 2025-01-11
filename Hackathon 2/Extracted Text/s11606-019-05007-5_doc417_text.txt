@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Jones criteria with 1 major feature (Polyarthritis) and 2 minor features
+
+(documented fever and an elevated ESR & CRP). He was started on a 10-day course of oral penicillin V. Transthoracic echocardiography was performed showing no abnormalities nor any signs of carditis.
+
+# IMPACT/DISCUSSION:
+
+The diagnosis of acute rheumatic fever is guided by the modified Jones criteria. The criteria require the presence of a preceding GAS infection, in addition to the presence of two major criteria or one major with two minor criteria. Further, supported by evidence of a GAS infection by throat culture, rapid streptococcal antigen test, or elevated or rising streptococcal antibody titers. Throat culture & rapid antigen testing tend to be inconclusive as they do not differentiate between chronic pharyngeal colonization and ARF, thus serologic evidence of elevated or rising anti-streptolysin O (ASO) and anti-DNase B titers is needed. ASO has been the most widely used antibody test for GAS, detected in more than 80% of patients with GAS pharyngitis, having a sensitivity of 72.7% & specificity of 93.2% in post-streptococcal disease phase. Comparatively, anti-DNase B titer measurements had a lower sensitivity of 70.5% & a similar specificity to ASO of 93.2%. Yet, the greatest advantage of antibody testing has been the combined measurement of ASO and anti-DNase B titers which exhibits a higher sensitivity of 95.5% in identifying post-streptococcal disease; at the cost of a lower specificity 88.6%. Once the diagnosis has been confirmed, further diagnostic testing is required to rule out carditis. This is promptly performed by clinical examination, auscultating for new murmurs, and echocardiography, assessing for mitral or aortic regurgitation.
+
+# CONCLUSION:
+
+ARF may have varying presentation and needs to be considered when assessing polyarthritis. The combined measurement of ASO & anti-DNase B titers demonstrates the highest sensitivity in the diagnosis of GAS. Cardiac examination followed by echocardiography is highly recommended in ARF.
+
+# DIAGNOSTIC BIAS IN ACUTE KIDNEY INJURY: A CASE OF MPO-ANCA VASCULITIS ASSOCIATED WITH MULTIPLE MYELOMA
+
+Jammie Law; Eugeniya Golub; Bibi Ayesha. Montefiore Medical Center, Bronx, NY. (Control ID #3185768)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize diagnostic bias when working up worsening kidney injury in patients with multiple myeloma.
+
+# LEARNING OBJECTIVE #2:
+
+Illustrate an uncommon renal manifestation of multiple myeloma associated with MPO-ANCA vasculitis.
+
+# CASE:
+
+A 70 year old female presented with acute kidney injury (AKI). She had a past medical history significant for hypertension and multiple myeloma. Two months prior, urine protein/creatinine was significant for 1.2 grams of protein with a serum creatinine of 1.3 mg/dL. Labs showed a normocytic anemia, thrombocytosis, and elevated ESR. SPEP notable for monoclonal protein detected in gamma region-IgM Kappa M. Urine microscopy was notable for 2 RBC casts. On follow-up, patient had a serum creatinine of 2.1 mg/dL. Further laboratory workup was significant for a MPO-ANCA (>8 AI) and low C4. Given unclear diagnosis of AKI secondary to multiple myeloma versus MPO-ANCA vasculitis, renal biopsy was obtained. Renal biopsy showed pauci-immune focal segmental glomerulosclerosis consistent with ANCA-associated glomerulonephritis without evidence of plasma cell disease or granulomas. HIV, hepatitis, cryoglobulin, and abdominal fat pad biopsy for amyloid workup was negative. Given underlying hematologic malignancy, patient was determined to have an ANCA-vasculitis associated with multiple myeloma.
+
+# IMPACT/DISCUSSION:
+
+It is important for general internists to recognize diagnostic bias when working up worsening AKI in patients with multiple myeloma.
+
+# CONCLUSION:
+
+Multiple myeloma is a malignant clonal plasma cell proliferation commonly diagnosed in elderly adults. It classically presents with bone pain and lytic lesions, hypercalcemia, anemia, elevated serum protein usually IgG or IgA, and renal involvement due to free light chain excretion (Bence Jones Protein). While renal complications of multiple myeloma are well known, the significance of red blood cell casts in this patient's earlier presentation should have prompted a full workup for suspected glomerulonephritis. An accurate diagnosis with renal biopsy and serologic testing is especially important to prevent worsening kidney injury, which can progress to ESRD within months. Serologic workup includes complement levels, ANCA, anti-GBM, ANA, anti-dsDNA, hepatitis, and SPEP. Interestingly, our patient had a positive MPO-ANCA and subsequent renal biopsy was consistent with a MPO-ANCA vasculitis. There is a possible immunogenic relationship that has been observed in serum between monoclonal gammopathies and ANCA. The presence of monoclonal immunoglobulins, through possible neutrophil activity, may be causal in the pathogenesis of vasculitis. However, there are few reports of ANCA-vasculitis coexisting with multiple myeloma and is unlikely to be encountered by the general internist. Thus, we present a case that demonstrates the importance of recognizing diagnostic bias and looking for disconfirmatory evidence in patients with multiple myeloma and worsening kidney injury.
+
+# DIAGNOSTIC MIS-CU(E): A MISSED DIAGNOSIS OF COPPER DEFICIENCY
+
+Kayla Correia-Staudt1; Deepa R. Nandiwada2. 1Hospital of the University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania, Ardmore, PA. (Control ID #3185681)
+
+# LEARNING OBJECTIVE #1:
+
+Identify clinical manifestations of copper deficiency and highlight its place in a differential for neurologic and hematologic abnormalities.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of a thorough review of non-prescribed supplements and hygiene products a patient is using.
+
+# CASE:
+
+A 55 year-old woman with recently diagnosed myelodysplastic syndrome (MDS) on azacitidine presented to our hospital with pancytopenia, paresthesias, and gait dysfunction. Prior to this presentation, she was admitted to another hospital for similar symptoms where MRI revealed a thoracic dorsal cord lesion, felt to be congenital. She was given intravenous immunoglobulin (IVIG) and discharged. Following, her gait dysfunction progressed, prompting presentation to our hospital. Her exam was notable for impaired proprioception and sensation of the lower extremities, which was felt to represent a posterior cord syndrome. Laboratory studies revealed stable pancytopenia; normal vitamin B12, folate, and vitamin E levels; negative HIV testing and undetectable rapid plasma reagin titers. Further testing revealed serum copper <10 ug/dL and elevated zinc levels (181 ug/dL, normal 60-120). On further history, the patient endorsed years use of a high-zinc "immune-boosting" supplement and several months use of a zinc-containing dental paste for a loose crown. She was diagnosed with copper deficiency due to excessive zinc intake. Zinc products were stopped and she was started on copper supplementation with improvement in pancytopenia and neurologic symptoms.
+
+# IMPACT/DISCUSSION:
+
+Clinical manifestations of copper deficiency are somewhat similar to those of B12 deficiency. It most commonly presents as anemia and leukopenia with neurologic manifestations, including dorsal column myelopathy (sensory ataxia) and sensory peripheral neuropathy (with associated paresthesia). However, as in this patient, copper deficiency can mimic MDS, with pancytopenia, clonal abnormalities, and ringed sideroblasts on bone marrow biopsy. It is caused by malabsorption (most commonly post-gastric bypass) or excessive zinc intake (which inhibits intestinal absorption), and though rare, it is increasingly recognized following gastric bypass in those without adequate supplementation. In this case, the diagnosis was initially missed likely in part due to clinician unfamiliarity with this rare syndrome and potentially due to unidentified use of zinc-containing products which were only discovered with direct questioning. This case highlights the importance of a thorough supplement and dental product review, and also illustrates the need to question whether new diagnoses have alternative explanations.

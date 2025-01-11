@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSION:
+
+Patients with polysubstance abuse and poor nutrition are at risk of unrecognized vitamin B12 deficiency. Unilateral presentation of neuropathy and a normal vitamin B12 and MCV level make the diagnosis challenging.
+
+# A CASE OF UNEXPLAINED COAGULOPATHY
+
+Amitabh Singh; Neil Evans; Jennifer Schmidt. Saint Louis University, Saint Louis, MO. (Control ID #3185755)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the public health emergency of Brodifacoum laced marijuana
+
+# LEARNING OBJECTIVE #2:
+
+Understand the mechanism of toxicity of brodifacoum and be able to manage toxicity
+
+# CASE:
+
+A 25-year-old male presented with bilateral lower quadrant abdominal pain radiating to his back starting one day prior to presentation. He also reported hematuria, decreased appetite. He denied new foods, medications, supplements or illicit substances and travel. On presentation, vital signs were normal. Abdomen was distended and tender. Computer tomography showed bilateral acute perinephric hemorrhage extending into the retroperitoneum and pelvis. Lab work showed Hgb:10.1, platelets 178, PTT >212, PT >106, INR >10. Urine drug screen was negative. The patient was admitted to the ICU and given fresh frozen plasma (FFP) and IV vitamin K. Workup showed factors II, IX, and X below 3 (normal range 65-175) and normal levels of factors V and VIII. Warfarin toxicity panel was positive for brodifacoum. PTT and INR trended down and normalized. Patient was discharged with oral vitamin K. On further discussion, the patient admitted to smoking synthetic marijuana.
+
+# IMPACT/DISCUSSION:
+
+As synthetic marijuana is not detected on standard urine drug screens, its use is increasing. Often, substances are added to increase or prolong its euphoric state. One such additive is brodifacoum, a coumadin-derived rodenticide. It inhibits the enzyme vitamin-K-epoxide reductase (VKOR), as mediator in the production of factor II, VII, IX, and X, resulting in low factor levels. Toxicity typically occurs by ingestion of laced-marijuana and symptoms directly correlate with amount ingested. Treatment is focused on repletion of Vitamin K with the addition of FFP for severe toxicity. During 2018, there have been publicized outbreaks of laced marijuana resulting in multiple deaths.
+
+# CONCLUSION:
+
+It is critical that internists are able to identify when patients present after ingestion of laced-illicit drugs—not only does this allow for appropriate workup and treatment, it is also essential in identifying public health emergencies.
+
+# A CASE OF VITAMIN D MEDIATED HYPERCALCEMIA IN LYMPHOMA: CALCITONIN RESISTANCE?
+
+Priyanka Majety; Seda Babroudi; Feyza Erenler; Richard Siegel. Tufts Medical Center, Boston, MA. (Control ID #3184551)
+
+# LEARNING OBJECTIVE #1:
+
+There are multiple mechanisms of hypercalcemia in malignancies and treatment should be tailored accordingly to be effective
+
+# CASE:
+
+An 82-year-old male with history of hypertension presented with one month of generalized malaise, two weeks of shortness of breath and constipation. Physical exam and labs on admission were notable for moderate ascites, Cr 2.29mg/dL, LDH 253IU/L, Calcium (Ca) 12.8mg/dL, Hemoglobin 12.8g/dL. Calcium level 6 months prior to admission was normal. Parathyroid hormone (PTH) was 7pg/mL (low), Vitamin D 25OH D3 was 29ng/mL (normal). Workup was not suggestive of Multiple Myeloma. In the light of worsening renal function, he was started on Calcitonin that only decreased the Ca from 12.8mg/dL to 12.6mg/dL. PTHrP was 14pg/mL (normal) & 1,25 OH Vitamin D was 58pg/mL which was inappropriately normal in the setting of suppressed PTH. There was no evidence of hyperthyroidism or Vitamin A toxicity. Paracentesis showed cloudy fluid and triglyceride level of 237mg/dL, consistent with chylous ascites raising the possibility of malignancy. CT abdomen revealed lymphadenopathy and inguinal lymph node biopsy confirmed angioimmunoblastic T-cell lymphoma. He received steroids as a part of the treatment, that decreased the Ca level. He was started on appropriate chemotherapy.
+
+# IMPACT/DISCUSSION:
+
+We discuss the management of hypercalcemia in a patient with new diagnosis of T-Cell lymphoma. Hypercalcemia occurs in about 20-30% of patients with cancer. It occurs with both solid tumors and hematologic malignancies. The most common cancers associated with hypercalcemia in the US are breast, renal, lung cancer & multiple myeloma. The main mechanisms involved are parathyroid hormone related protein (PTHrP) secretion, osteolytic metastases with cytokine release, vitamin D-mediated and ectopic PTH (very rare). Our patient had non-PTH related hypercalcemia and a trial of calcitonin (which decreases serum Calcium level by inhibiting osteoclasts & promoting bone resorption) failed, prompting that the mechanism here was not osteoclast mediated. His PTHrP level was normal ruling out humoral hypercalcemia. Although his 1,25 OH Vitamin D level was normal, it was inappropriately high normal given the low PTH (responsible for 1-hydroxylase enzyme upregulation) suggesting it is Vitamin D mediated. The hypercalcemia in lymphoma is due to PTH-independent extrarenal production of 1,25-dihydroxyvitamin D in malignant lymphocytes that causes increased intestinal absorption of Calcium. Steroids decrease the intestinal absorption of Calcium & decrease calcitriol production in mononuclear cells. His Calcium level decreased to 10.1 after a course of steroids establishing the Vitamin D mediated mechanism. Anti-resorptive treatments are probably limited in treating hypercalcemia in lymphomas due to the underlying mechanism.
+
+# CONCLUSION:
+
+Understanding the pathophysiology and mechanisms of hypercalcemia in malignancy is important. This helps us choose the most effective treatment.
+
+# A CASE REPORT DEMONSTRATING THE DIFFICULTIES IN DIAGNOSING ADULT TUBERCULOUS MENINGITIS
+
+Yi-Chia Wu1; Laila Dadvand2. 1Mount Sinai Beth Israel, New York, NY; Icahn School of Medicine at Mount Sinai, Hoboken, NY. (Control ID #3185333)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the difficulties in diagnosing tuberculous meningitis
+
+# CASE:
+
+A 72 year-old female with history of hypertension and coronary artery disease presented with one month of worsening headache, described as a generalized sharp pain associated with nausea and vomiting. She had no neurological deficits, fevers, neck stiffness, confusion, nor recent travel. Vital signs were stable. Physical exam and labs were unremarkable; ESR and CRP were normal. Brain magnetic resonance imaging (MRI) with angiogram and venogram were also unremarkable. There was a concern for intractable migraine, so the patient was given several treatments, including benadryl, reglan, and toradol, without relief. Initial cerebral spinal fluid (CSF) showed lymphocytic pleocytosis, elevated protein, and normal glucose. CSF smear and culture were negative. A repeat CSF was performed a week later and revealed similar results except with elevated opening pressure and low glucose. The results were concerning for tuberculous meningitis (TBM). CSF adenosine deaminase (ADA) was obtained and was 2.1 U/L. On further questioning, the patient revealed her son had tuberculosis many years prior although she self-reported having had negative PPD testing. Given her history of tuberculosis exposure, non-resolving headache, and the CSF results, the patient was treated empirically for TBM with rifaximin, isoniazid, pyrazinamide, and ethambutol (RIPE) prescribed for six months. After a few doses of RIPE, the patient felt better and was discharged with follow-up at the tuberculosis clinic.
+
+# IMPACT/DISCUSSION:
+
+Diagnosing TBM is difficult given its nonspecific presentation in addition to slow and low sensitivity laboratory.

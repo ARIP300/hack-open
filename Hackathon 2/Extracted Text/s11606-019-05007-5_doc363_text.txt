@@ -1,0 +1,63 @@
+# ABSTRACTS JGIM
+
+commonly seen. Diagnosis is often difficult as it involves differentiating Nocardia and nontuberculous mycobacteria. However, a specific diagnosis is needed as rapidly growing mycobacterium are usually notoriously difficult to treat. Treatment of M. chelonae is based on susceptibility patterns and involves use of antibacterial drugs including amikacin, tobramycin, clarithromycin, or moxifloxacin. In the setting of soft tissue infections, oral antibiotic therapy with two agents is recommended for at least 4 months. Treatment for severe cutaneous infections includes parental therapy with two different antibiotics until there is evidence of clinical improvement (usually 2-6 weeks) followed by 2 oral agents for at least 6-12 months. In this case of M. chelonae infection, it took time to isolate the correct bacteria, which delayed treatment. Also, prior medication exposures encouraged resistance, limiting treatment options. Ultimately, her gardening hobby mandated an expansion of the differential diagnosis to include Nocardia and nontuberculous mycobacteria.
+
+# A WALK TO NOT REMEMBER
+
+Marcelle Tuttle1; Laura K. Snydman2. 1Tufts University School of Medicine, Somerville, MA; 2Tufts Medical Center, Boston, MA. (Control ID #3184167)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the presentation of Henoch-Schonlein Purpura and the heterogeneity of its presentation/severity.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the pitfalls of anchoring bias.
+
+# CASE:
+
+A 61-year-old man with PMH significant for pre-diabetes presented to the emergency department with one week of arthralgias, night sweats, abdominal pain and constipation. He stated that these symptoms started several days after he went for a walk in the woods of New England and he noticed "tick bites" on his ankles bilaterally. Doxycycline was initiated for presumed tick-borne infection and he was discharged home. One day later, he represented to the ED as the rash had spread up to his thighs. A biopsy was taken at that time and he was again sent home. One week later, he returned to the ED with chest pressure and continued abdominal pain/constipation. CT demonstrated marked mural thickening of the duodenum and proximal jejunum consistent with enteritis and he was transferred to a tertiary care hospital. Labs on transfer were notable for CRP 104 and a serum IgA of 381. He was started on solumedrol and Toradol for pain. Subsequently, immunofluorescence was performed on the biopsy sample and demonstrated Henoch Schonlein Purpura (HSP). He remained in the hospital for 12 days as his enteritis continued to cause him extreme pain requiring patient-controlled anesthesia. During this time he developed significant proteinuria with a protein to creatinine ratio of 8134 mg/g at its peak. At follow-up 4 months later he still had significant proteinuria which was treated with prednisone.
+
+# IMPACT/DISCUSSION:
+
+This case demonstrates the danger of anchoring bias. This cognitive error occurs when a clinician mistakenly latches onto a piece of information not relevant to a diagnosis. In this case, the walk in the woods and the patient's misinterpretation of his purpura as tick bites caused the clinician to assume that this was a tick-borne infection. However, his clinical picture did not fit with this diagnosis. Lyme can cause rash and arthralgias but does not usually cause abdominal pain or constipation. Rocky Mountain Spotted Fever could also be a consideration but is not generally found in New England. HSP typically presents in children less than 10 years old with palpable purpura, abdominal pain and arthritis. Renal involvement, including hematuria and proteinuria can also occur and is more commonly found in older children and adults. While most cases are self-limited, our patient required significant pain control as well as a course of steroids. The rate of recurrence of HSP is high, up to 40% in one year.
+
+# CONCLUSION:
+
+HSP is an uncommon disease in adults that presents with palpable purpura, abdominal pain and arthritis. Anchoring bias can occur when a clinician mistakenly believes a piece of information is of great importance.
+
+# A YOUNG WOMAN PRESENTING WITH PANCYTOPENIA AND ISCHEMIC STROKE
+
+Michelle Lam. University of Washington, Seattle, WA. (Control ID #3147866)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose acute leukemia in a patient presenting with pancytopenia.
+
+# LEARNING OBJECTIVE #2:
+
+Manage acute promyelocytic leukemia in setting of coagulopathy.
+
+# CASE:
+
+A 33 year old woman with history of hypertension initially presented with 5 days of nausea and abdominal pain and 1 day of new-onset confusion. She takes no medications, lives with her parents, and has no history of any tobacco, alcohol or drug use. Brain MRI showed multiple right-sided cerebellar infarcts. She was found to be hypertensive to 200s/100s, lethargic and afebrile, with pancytopenia with WBC of 1.9, hemoglobin of 10.5, platelets of 44 and elevated LDH at 437. She had normal creatinine and LFTs. ESR, complement, and ANCA testing were negative. Plasma exchange was initiated due to concern for atypical HUS/TTP, however this was discontinued after no improvement in her symptoms. Initial transthoracic echocardiogram (TTE) imaging was negative for any vegetations and blood cultures were negative. She had hypofibrinogenemia (<60) despite receiving multiple units of cryoprecipitate. She was transferred to a tertiary medical center and peripheral blood smear and bone marrow biopsy showed hypercellularity consistent with acute promyelocytic leukemia (APL). She was initiated on all-trans retinoic acid (ATRA) and arsenic treatment and was given repeated cryoprecipitate and platelet transfusions. Although initially alert with word-finding difficulties, she became more somnolent with withdrawal to pain only in her right upper extremity and later became obtunded, requiring intubation for airway protection. Repeat MRI imaging showed ongoing ischemic infarcts, including basilar artery occlusion. A repeat TTE showed a large aortic valve vegetation, with negative blood cultures. Despite concern for disseminated intravascular coagulation (DIC) and bleeding, given her ongoing cerebral infarcts, a heparin drip was initiated. Nevertheless, her infarcts progressed and due to poor long-term prognosis including blindness, inability to speak and hemiplegia, she was transitioned to comfort care after discussion with her parents and later died from complications related to APL.
+
+# IMPACT/DISCUSSION:
+
+Acute promyelocytic leukemia frequently presents with pancytopenia and coagulopathy including DIC. While bleeding from a coagulopathy is the most common presentation of APL, prothrombotic states are also seen in APL, with case reports showing acute myocardial infarction and ischemic stroke. ATRA is the main treatment for APL and can be curative, though it has been implicated in potentially worsening the prothrombotic state. In this case, the risks and benefits of treating DIC and avoiding bleeding complications had to be weighed with treating her ongoing thrombotic strokes.
+
+# CONCLUSION:
+
+A peripheral blood smear should always be reviewed in patients presenting with pancytopenia. Bleeding coagulopathies and thrombotic events are common presentations of APL. ATRA is the main treatment of acute promyelocytic leukemia and can be curative, though can contribute to prothrombotic states.
+
+# A ZEBRA OF ADRENAL INSUFFICIENCY, WHAT WAS ONCE COMMON-NOW RARE
+
+Sean J. Godfrey 1; Victoria Hudspeth2; Kelli Dunn2. 1Atrium Health, Morganton, NC; 2Atrium Health, Charlotte, NC. (Control ID #3186373)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize atypical causes of persistent hypotension.
+
+# CASE:
+
+A 62 year old woman with a history of CKD, hyperlipidemia, and possible heart failure presented to the hospital with a 3 week history of worsening right knee pain. She was initially hypotensive at 68/48. Her

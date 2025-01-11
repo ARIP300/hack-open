@@ -1,0 +1,31 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND:
+
+Pharmacist-driven blood pressure (BP) management in barber shops showed >20mmHg reductions in systolic BP over one year in Non-Hispanic black men with uncontrolled hypertension compared to the hypertension education-only control arm in the LA BARBER trial. However, the long-term potential to prevent cardiovascular disease (CVD) events using pharmacist-barber collaborations in this high-risk, vulnerable population is unknown.
+
+# METHODS:
+
+We used the microsimulation version of the CVD Policy Model to project the expected 10-year reduction in CVD events (stroke, myocardial infarction, or angina) if the LA BARBER intervention BP reduction persisted past the 12-month trial observation period. We simulated a hypothetical LA BARBER-eligible cohort of 10,000 Non-Hispanic black men sampled from the U.S. National Health and Nutrition Examination Surveys. Based on published literature, we assumed 43% of patients discontinued treatment after the first year in the base-case analysis. In an alternate scenario, all patients were fully adherent to medications for the entire 10 years. We assumed age-related changes in BP occurred regardless of treatment and that no other BP management occurred outside of the interventions during the time horizon.
+
+# RESULTS:
+
+The baseline characteristics of the simulation cohort were similar to the LA BARBER trial; mean baseline age was 54.1 years (LA BARBER 54.5 years) and mean baseline BP was 155/91 mm Hg (systolic/diastolic) (LA BARBER 154/91mm Hg). At one year, the model simulated mean BP reductions of -31.6/-16.7 mm Hg in the barber-pharmacist intervention (LA BARBER -28.6/-17.8 mm Hg) compared with control of -7.4/-4.0 (LA BARBER -7.2/-3.3) [resulting control rates 68% intervention (equal to LA BARBER), 7% control (LA BARBER 11%)]. At 10 years, the base-case analysis showed 29% hypertension control in the barber-pharmacist intervention arm compared to 0% in the control arm. In the full adherence scenario, control was 49% in the barber-pharmacist intervention arm and 2% in the control arm. Compared with the control arm, we projected about 300 CVD events averted over ten years in the barber-pharmacist intervention in the base-case scenario and 500 events averted in the full adherence scenario.
+
+# CONCLUSIONS:
+
+Our model predicted a reduction of about 300-500 CVD events in 10,000 LA BARBER-eligible Non-Hispanic black men over 10 years with the pharmacist intervention compared with an education-only control. A barber-pharmacist collaborative intervention delivered to Non-Hispanic black men with hypertension could potentially reduce CVD outcome disparities between Non-Hispanic black men and other U.S. ethnic groups. Further analyses will assess the cost-effectiveness and scalability of the labor-intensive BARBER hypertension treatment intervention.
+
+# A COMMUNITY SUPPORTED AGRICULTURE INTERVENTION FOR HEALTH CENTER PATIENTS: A RANDOMIZED CLINICAL TRIAL
+
+Seth A. Berkowitz 1 ; Jessica O'Neill 2 ; Edward Sayer 3 ; Naysha N. Shahid 4 ; Maegan Petrie 3 ; sophie schouboe 2 ; Megan Saraceno 2 ; Rochelle Bellin 2 . 1 UNC School of Medicine, Chapel Hill, NC; 2 Just Roots, Greenfield, MA; 3 Community Health Center of Franklin County, Greenfield, MA; 4 Massachusetts General Hospital, Boston, MA. (Control ID #3182962)
+
+# BACKGROUND:
+
+Socioeconomically vulnerable individuals often face poor access to nutritious food and bear a disproportionate burden of diet-related chronic illness. We sought to determine whether participation in a community supported agriculture intervention that subsidized healthy food could improve diet quality.
+
+# METHODS:
+
+We conducted a randomized clinical trial (NCT03231592) from May 2017 to December 2018. Adults at a community health center in central Massachusetts were eligible if they had a BMI > 25 kg/m2 in the past year. Individuals were randomized to receive either subsidized participation in a community supported agriculture intervention (which provided a weekly box of farm produce from June to November) for 2 years, or usual care plus healthy eating information (control group). The primary outcome was the Healthy Eating Index 2010 (HEI) total score, and secondary outcomes were the HEI sub-scores. Assessment of HEI was made using three 24-hour recalls per participant per season. Higher total HEI score (range: 0-100) and sub-scores represent ‘better' dietary quality. A 3 point difference in HEI total score is clinically significant. Intention-to-treat analyses compared HEI scores between the intervention and control group, accounting for repeated measures with generalized estimating equations.

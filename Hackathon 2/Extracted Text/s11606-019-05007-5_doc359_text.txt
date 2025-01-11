@@ -1,0 +1,67 @@
+# ABSTRACTS JGIM
+
+Premature closure and/or framing bias as likely occurred when this patient was repeatedly treated for COPD despite minimal smoking and a history of occupational hazards. ABPA is a form of hypersensitivity with airway damage triggered by A.fumigatus exposure. It is characterized by recurrent bouts of dyspnea, cough, and thick sputum. Wheeze, fever, and hemoptysis may occur. The diagnostic process of modern medicine still hinges on the practitioner's data gathering, hypothesis testing, and clinical reasoning. Yet, cognitive biases and flawed logic by physicians contribute to nearly one in five adverse events in healthcare. A thorough differential diagnosis is a key strategy to prevent errors, without which vital history and exam components will be overlooked and the provider will fail to consider alternative illnesses. Studies have shown that a broad differential diagnosis helps clinicians make timely, accurate diagnoses despite our limitations. As a course of habit, we find this a cost-effective method to avoid readmissions and enhance patients' quality of life.
+
+# CONCLUSION:
+
+Premature closure increases the risk of delayed or incorrect diagnoses. Establishing forced consideration of a variety of etiologies is an efficient strategy that can reduce diagnostic errors.
+
+# A SOUR CASE OF SWEET SYNDROME
+
+Hao Chi; Lindsay Hammons. Mount Sinai Beth Israel, New York, NY. (Control ID #3182560)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features that is required to establish the diagnosis of Sweet syndrome.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the three subtypes of Sweet Syndrome.
+
+# CASE:
+
+A 30 year-old Japanese male with no significant past medical history presented with two days of diffuse painful erythematous papules/plaques. The patient stated that the painful and pruritic papules appeared four days ago on his right knee and then spread to his upper and lower extremities, sparing his trunk, face, palms and soles. Last week, the patient recovered from a flu-like illness where he experienced achy joints, two episodes of watery, non-bloody diarrhea and a subjective fever. Twelve years ago, the patient had a similar episode of acute onset rash for which he was admitted to an outside hospital and treated for one day with an unknown medication. On exam, he was afebrile and his vital signs were stable. Physical exam was significant for diffuse, tender, raised erythematous papules/plaques 1-2 inches in diameter on the extensor surfaces of the lower extremity and extensor/flexor surfaces on bilateral upper extremities. Initial labs showed the following: ESR 84, CRP 432 and WBC 37.8k/μL with 83% neutrophils. A skin biopsy was completed; histology showed atypical subcutaneous neutrophilic dermatosis. These findings, in addition to an elevated CRP/ESR, WBC count >8k/μL and neutrophil percentage >70%, met the diagnostic criteria for Sweet syndrome. The patient was started on IV steroids with rapid improvement of his rash.
+
+# IMPACT/DISCUSSION:
+
+Sweet syndrome (SS), also known as acute febrile neutrophilic dermatosis, is a rare inflammatory disorder characterized by fever, neutrophilia and painful, edematous, and erythematous papules, plaques, or nodules on the skin. Often seen in 30 to 60 year-olds, Sweet syndrome is most commonly associated with the following three etiologies: (1) infection, especially upper respiratory and gastrointestinal illnesses, (2) malignancies, acute myelogenous leukemia being the most prevalent, and (3) drugs, most notably after treatment with granulocyte-colony stimulating factor. About 80% of infection-associated SS cases are in women, whereas other types have no clinical gender bias. Speculated to be inflammatory in etiology, the exact pathogenesis of SS is still largely unknown. Factors theorized to contribute to the development of this disorder include hypersensitivity reactions, cytokine dysregulation, and genetic susceptibility. Genetically, it has been found that abnormalities in chromosome 3q, seen in people of Japanese descent, is linked to an increased predisposition for SS, as suggested by this clinical case.
+
+# CONCLUSION:
+
+This case highlights the importance of considering Japanese descent as a genetic risk factor for Sweet syndrome. It is also vital for the treating physician to determine the underlying cause of the disease, as early detection of malignancy is paramount.
+
+# A SPICE-Y CASE OF ANTIBIOTICS RESISTANCE
+
+Chelsea F. Dahl; Joseph M. Rocco. University of Pittsburgh, Pittsburgh, PA. (Control ID #3185599)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the clinical significance of the AmpC plasmid and know the most common bacteria that carry this gene for inducible -lactamase resistance.
+
+# LEARNING OBJECTIVE #2:
+
+Know the appropriate empiric antibiotic regimen to select when treating these organisms.
+
+# CASE:
+
+A 49-year-old man with history of alcoholic cirrhosis and chronic pancreatitis presented with obstructive pancreatitis requiring common bile duct stent placement. He was found to have a small hepatic liver abscess which was drained, and cultures grew pan-sensitive Citrobacter freundii complex and Streptococcus anginosus. His course was complicated by S. anginosus bacteremia, and therefore he received 2-week course of ceftriaxone. Three weeks later, he returned with fevers, night sweats, and worsening lower back pain. Blood cultures grew Citrobacter freundii and sensitivities now demonstrated resistance to ceftriaxone as well as ampicillin-sulbactam, cefazolin, ceftazidime, and cefuroxime. CT imaging revealed a new lumbar discitis and epidural abscess. CRP was 5.3. He was initially started on cefepime, but after Infectious disease was consulted, he was broadened to ertapenem due to concern for inducible ampC resistance. Blood cultures cleared after two days and he received a 6-week course of ertapenem. Upon completion, his CRP downtrended to 1.2 and interval MRI imaging revealed no epidural abscess.
+
+# IMPACT/DISCUSSION:
+
+A common mnemonic for bacteria known to carry the AmpC plasmid is the "SPICE" organisms which include Serratia, Pseudomonas, indole-positive Proteus, Citrobacter, and Enterobacter. However, this list is not complete and others including Acinetobacter, Providencia, and Morganella can carry AmpC as well. AmpC -lactamases encode a cephalosporinase commonly found on the bacterial chromosome of Enterobacteriaceae. Production of this enzyme can be inducible only after exposure to penicillin-based antibiotics, and routine microbiologic testing is not sensitive enough to detect them. The initial drug sensitivities may report that the organism is susceptible to penicillins and cephalosporins. Additionally, AmpC -lactamases are not inhibited by -lactamase inhibitors such as clavulanic acid. However, after starting these antibiotics, repeat sensitivities will demonstrate resistance as seen in our case. Therefore, initial antibiotic selection is essential and often requires a carbapenem, especially in severe infections. Third generation cephalosporins must be avoided. Cefepime and piperacillin-tazobactam have a lower chance of inducing resistance but should be avoided when source control is lacking as demonstrated in our case.
+
+# CONCLUSION:
+
+The "SPICE" bacteria are known to carry AmpC inducible -lactamase resistance which can lead to treatment failure despite the organisms initially appearing susceptible to cephalosporins. Broad empiric therapy is required which should include a carbapenem in severe infections.
+
+# A SPONTANEOUS CASE OF ISOLATED CELIAC ARTERY DISSECTION
+
+SAMEER PATEL; Amr Salama; Michael R. DiSalle. Unity Hospital, Rochester, NY. (Control ID #3184231)
+
+# LEARNING OBJECTIVE #1:
+
+Manage the acute and follow-up care for a patient with spontaneous isolated celiac artery dissection (SICAD).
+
+# CASE:
+
+A 59 year old non-smoking gentleman presented with a 3 day history of evolving chest pain, dysphagia and upper abdominal pain. The left lateral posterior chest pain was first described as pleuritic, non-

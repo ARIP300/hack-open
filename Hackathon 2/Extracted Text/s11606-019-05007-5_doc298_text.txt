@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# RESULTS:
+
+Overall, 4,306 discharge summaries were collected over the 2-year period. The performance of the readmission calculator was similar to previous validation with a c-statistic of 0.62. A vocabulary of all words occurring more than once across all summaries was used for NLP, for a total of 31,283 words. Subsequently, 2000 summaries were used to train the neural network iteratively, while 871 were used for validation. An additional 1435 summaries served as the test set. The accuracy of the NLP model for readmission was 82.3%, which, given an overall readmission rate of 17.5%, corresponded to a c-statistic of 0.56. When combined with the calculated risk in a logistic regression model, the NLP algorithm did not add discriminatory power, with combined AUC of 0.62.
+
+# CONCLUSIONS:
+
+Natural language processing using text from medicine discharge summaries did not provide additional discriminatory power when compared to a previously validated discharge risk prediction tool. The NLP algorithm offered little discriminatory power when used alone, with a AUC of 0.56. As many hyperparameters can be configured for NLP, we cannot rule out that a different combination would have created a model with higher predictive power.
+
+# USE OF DIRECT-TO-CONSUMER TELEMEDICINE TO ACCESS MENTAL HEALTH SERVICES
+
+Jessica Hohman1; Kathryn A. Martinez1; Mark N. Rood2; Susannah L. Rose1; Michael B. Rothberg1. 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic Foundation, Chagrin Falls, OH. (Control ID #3184265)
+
+# BACKGROUND:
+
+Significant barriers to accessing mental health services exist, including limited insurance coverage, high costs, provider shortages, and long wait times. Direct-to-consumer (DTC) telemedicine connects patients and providers via mobile/web applications 24 hours a day, and insurance is accepted but not required. As such, DTC telemedicine has been proposed as a way to increase access to care for many common conditions, but little is known about its use for mental health care. The objective of this study was to characterize use of a large nationwide DTC telemedicine platform for mental health services.
+
+# METHODS:
+
+This is a retrospective cross-sectional study of encounters for mental health diagnoses conducted on the AmericanWell DTC telemedicine platform between July 2016 and July 2018. Mental health diagnoses were identified via ICD10-CM codes associated with encounters, and prescriptions were identified via National Drug Codes. Encounter measures included time of day, wait time, visit length, prescription outcome, and referral receipt. Patient measures included age, gender, whether they used a coupon for free or reduced-cost care, and whether they provided insurance information. Patient satisfaction was ascertained at the conclusion of the encounter on scales of 0 to 5 stars. Provider characteristics included type (physician versus not) and specialty.
+
+# RESULTS:
+
+We examined 19,283 mental health encounters between 6,710 patients and 1,067 providers. Fifty-nine percent of patients were female, mean age was 35 years, 28.4% did not provide insurance information, and 11.8% used a coupon for free or reduced-cost care. Mean wait time was 5.6 minutes. Over 70% of encounters were for anxiety or depression, followed by bipolar disorder (6%), ADHD (4%), nicotine use disorders (2%), alcohol use disorders (2%), and sleep disorders (2%). Schizophrenia and schizoaffective disorders accounted for <1% of visits. Over half of encounters were with a therapist, psychologist, or licensed social worker; 20% were with primary care providers (PCPs) and 20% with psychiatrists. Two percent resulted in referrals. Visit duration varied by provider type; median visit length with PCPs was 6 minutes vs. 16 minutes with psychiatrists and 47 minutes with therapists. Psychiatrists prescribed medication at a higher rate than PCPs (75% vs. 70% of encounters). Patients reported high satisfaction (4.9/5) across all conditions.
+
+# CONCLUSIONS:
+
+DTC telemedicine provides access to counseling and pharmacotherapy for a diverse range of common mental health conditions, particularly for younger users with mood disorders or ADHD, but the number of visits for other conditions was small. Most patients received prescriptions, and overall satisfaction was high. With growth, DTC telemedicine might facilitate care for patients in underserved areas.
+
+# USE OF INTERPRETERS FOR LIMITED ENGLISH PROFICIENCY PATIENTS WITH HIP FRACTURE
+
+Jon Mong1; Shail Rawal1; Peter Cram2; Khalid Syed1. 1University of Toronto, Toronto, ON, Canada; 2University of Iowa, Toronto, ON, Canada. (Control ID #3179311)
+
+# BACKGROUND:
+
+Informed consent (IC) is central to patient autonomy. Obtaining IC is difficult in the best of cases, and even more complex in patients with limited English proficiency (LEP). Professional interpreter use is standard of care when communicating with patients with LEP in Canada. Hip fractures are common and require urgent surgical repair for optimal outcomes, but also require that physicians obtain IC before surgery. Thus, obtaining IC in LEP patients with hip fracture could be challenging. We examined interpreter use in obtaining IC for LEP patients with hip fracture in an urban Canadian teaching hospital in a city where 48% of patients have a non-English mother tongue.
+
+# METHODS:
+
+We identified all patients admitted with hip fracture between January 1 2015-January 1 2018 to Toronto Western Hospital. We reviewed the electronic health record and selected all patients for whom English was not their preferred language. We excluded: 1) patients who had non-operative management of their hip fractures with no consent form; 2) patients for whom chart documentation was incomplete, precluding us from evaluating the measures described below. Using a standardized data abstraction tool we collected information on: whether our hospital consent form was signed; if the consent form was signed by the patient or a substitute decision maker (SDM); if there was documentation of interpreter use on the consent form, and if so, whether the interpreter was a professional employed by the hospital or ad-hoc (e.g., family member or hospital staff); and if an SDM signed the consent document, whether there was documentation that the patient was not capable (defined as documentation of: dementia; cognitive impairment; or delirium as measured by nurse administered Confusion Assessment Method). 10% of charts were independently reviewed in duplicate.
+
+# RESULTS:
+
+Among 553 patients with hip fracture, we identified 134 (24%) as LEP. 127 patients were included in the final analysis. Among those with LEP, 88 (69%) were female (mean age 84 years). The most common languages were Portuguese (37 patients), Italian (33 patients), and Cantonese (9 patients). Among those who were LEP, 57 (45%) signed their own consent forms, while 70 (55%) had an SDM sign on their behalf. Of the 57 LEP patients who signed their own consent, 33 (58%) lacked evidence of interpreter use, while 24 (42%) had documented interpreter use. Of the 24 patients who had documented interpreter use, 4 (17%) utilized a professional interpreter, while 20 (83%) used ad-hoc interpreters. Of the 70 patients who had an SDM sign on their behalf, 11 (16%) did not have documentation of lack of capacity.
+
+# CONCLUSIONS:
+
+In a Canadian teaching hospital serving a multicultural urban population we found significant gaps in utilization of interpreters for obtaining IC for patients with hip fracture.
+
+# USE OF SOCIAL MEDIA TO IMPROVE CARDIOVASCULAR RISK FACTOR MODIFICATION IN THE CARDIOLOGY OUTPATIENT SETTING
+
+Nina Liu; Zubiya Syed; Allan Chen. University of South Florida, Tampa, FL. (Control ID #3138724)
+
+# BACKGROUND:
+
+Social media has become omnipresent and is a rapidly growing information source with widespread potential for patient education. There are no studies that examine the use of social media to improve cardiovascular risk factor modification. To address this gap, we studied the use of a social media educational program in an outpatient cardiology setting to improve patient knowledge and behavior related to cardiovascular health.
+
+# METHODS:
+
+Patients were prospectively enrolled at a single tertiary care center as part of routine outpatient visits. A baseline survey was given that

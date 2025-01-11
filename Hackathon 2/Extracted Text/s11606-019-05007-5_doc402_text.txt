@@ -1,0 +1,62 @@
+# ABSTRACTS
+
+# CAPNOCYTOPHAGA CANIMORSUS: A NOT-SO-RARE CAUSE OF ZOONOTIC BACTERIAL MENINGITIS
+
+Patrick M. Azcarate1; Julie Caplow2. 1UCSF, San Francisco, CA; 2Northern Navajo Medical Center, Shiprock, NM. (Control ID #3184599)
+
+# LEARNING OBJECTIVE #1:
+
+Appreciate the challenge in diagnosing early meningitis
+
+# LEARNING OBJECTIVE #2:
+
+Learn about an emerging cause of meningitis from dog bite exposure
+
+# CASE:
+
+A 58 year-old previously healthy woman presented to the emergency room with 1 day of fever, headache, and neck stiffness, and two weeks of a non-productive cough. She had no history of alcohol use, intravenous drug use, recent travel or sick contacts, but reported a dog bite to the left hand one week prior. Review of systems was otherwise negative. Exam was notable for a fever of 102.2 F and a healing puncture wound on her left 4th finger. The WBC was 10,200/mm3 (84% neutrophils), and lumbar puncture (LP) was normal. After IV fluids her symptoms improved and she was discharged home with a diagnosis of an upper respiratory infection. She returned the following day with worsening symptoms and new bilateral hearing loss. She was febrile with a blood pressure of 86/70 mmHg and a pulse of 102. She appeared ill and lethargic with nuchal rigidity but an otherwise normal neurologic exam. WBC had increased to 14,500/mm3. Blood cultures were sent. She was admitted to the ICU and given acyclovir, vancomycin, ceftriaxone, and ampicillin. Repeat LP 48 hours after the first revealed WBC 158/mm3 (73% PMNs), RBC 530/mm3, glucose 46mg/dL, protein 112mg/dL and negative gram stain consistent with meningitis. Three days later blood cultures grew gram negative rods, and antibiotics were changed to ceftriaxone and ampicillin. Negative workup included repeat blood cultures, HIV, CSF bacterial culture, and CSF testing for S. pneumoniae, H. influenzae, and Listeria. She completed ten days of antibiotics and the fever, headache and neck stiffness resolved. After thirty-five days, an outside lab identified the bacterium as Capnocytophaga canimorsus.
+
+# IMPACT/DISCUSSION:
+
+Once considered rare, Capnocytophaga canimorsus is now recognized as the second-most common infection transmitted by dog bites. Risk factors include asplenia, heavy alcohol use, and immunodeficiency. In half of cases there is a history of bite or saliva exposure from a dog and occasionally a cat. Both species have high prevalence of the bacteria in the oral cavity (20%). Patients typically present with sepsis or meningitis, which may be complicated by hearing loss. The average incubation period is 6 days, but may take up to 30, and requires enriched agar making laboratory isolation difficult. Bacterium are most commonly isolated in blood cultures and rarely in CSF cultures. Patients with severe infections may be treated for 21 days with a third-generation cephalosporin and narrowed to clindamycin or amoxicillin-clavulanate. Immunocompromised patients who experience a dog bite should be prescribed amoxicillin-clavulanate for five days for prophylaxis.
+
+# CONCLUSION:
+
+- Initial LP may be normal in early bacterial meningitis. Consider repeat LP if no improvement after 48 hours.
+- In patients with a recent dog or cat bite and sepsis, Capnocytophaga canimorsus should be considered and blood cultures incubated for at least 2 weeks.
+
+# CAPS: A CATASTROPHIC EVENT
+
+Sneha Patel. Montefiore Medical Center, Bronx, NY. (Control ID #3185866)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Catastrophic Antiphospholipid Syndrome (CAPS) as a rare cause of multiorgan failure
+
+# LEARNING OBJECTIVE #2:
+
+Review the diagnostic criteria and management of CAPS
+
+# CASE:
+
+A 41 year-old male was admitted after he was found unresponsive at home. On admission, the patient was found to have encephalopathy, acute liver failure, acute renal failure, and severe abdominal pain. Urine toxicology, ethanol levels and acetaminophen levels were negative. Infectious workup was unremarkable. Abdominal CT scan revealed renal and splenic infarcts, bowel ischemia and pneumoperitoneum. The patient underwent exploratory laparotomy, right hemicolectomy, and splenectomy. Liver biopsy showed large areas of thrombi formation. Workup for hypercoagulable state showed positive antinuclear antibody and lupus anticoagulant. ADAMSTS13, fibrinogen, PTT, and JAK2 levels were normal. Direct antiglobulin testing was negative. The patient was diagnosed with CAPS. He was immediately started on a course of intravenous immunoglobulin (IVIG), plasma exchange, methylprednisolone, and heparin. Rituximab was started soon after. The patient made a drastic recovery with improvement in liver and kidney function, and was discharged after 45 days of hospitalization.
+
+# IMPACT/DISCUSSION:
+
+Antiphospholipid syndrome (APS) is an autoimmune condition that is encountered by internists, often in the setting of recurrent thrombosis and/or pregnancy loss. An estimated 0.8% of patients with APS develop CAPS, a rare condition characterized by rapid development of multiorgan arterial and venous thromboses. With mortality close to 50%, early diagnosis and aggressive therapy is crucial for management. CAPS may be diagnosed in individuals with a prior history of APS or can be the first manifestation of APS. Although rare, preliminary criteria for "definite diagnosis" of CAPS have been developed. The criteria require 1) involvement of three or more organ systems; 2) development of symptoms in less than one week; 3) confirmation of small vessel thrombosis by histopathology in at least one organ; and 4) presence of antiphospholipid antibodies. The diagnosis is further supported by ruling out other causes of multiorgan thrombosis, such as disseminated intravascular coagulation, heparin-induced thrombocytopenia, thrombotic microangiopathy, and myeloproliferative neoplasms. Management of this life-threatening syndrome requires urgent initiation of anticoagulation, high dose systemic glucocorticoids and use of plasma exchange, with or without IVIG. If resistant to standard therapy, rituximab or eculizumab can be added. Mortality rate is reduced to 30% with early and aggressive treatment. A retrospective study of 600 patients with CAPS showed that 66% do not have recurrent clotting or emboli.
+
+# CONCLUSION:
+
+CAPS is a rapid-onset rheumatologic emergency that causes multiorgan failure due to arterial and venous thromboses. Prognosis is extremely poor without treatment, but being aware of this syndrome may allow for prompt recognition and aggressive therapy.
+
+# CARDIAC AMYLOIDOSIS AN OVERLOOKED CAUSE OF NEW ONSET HEART FAILURE IN THE ELDERLY
+
+Seda Babroudi1; James Udelson2. 1Tufts Medical Center, Lincoln, MA; 2Tufts Medical Center, Boston, MA. (Control ID #3185923)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize key clinical features of that distinguish cardiac amyloidosis from other causes of heart failure
+
+# CASE:
+
+A 74 year-old Caucasian woman with a past medical history of MGUS, mitral valve regurgitation (MVR), and prior negative cardiac stress test with normal ejection fraction, presented with progressive fatigue and exercise intolerance. Blood pressure was 90/57, but other vitals were within normal limits. Exam was notable for jugular venous distension, symmetric crackles, and bilateral lower extremity pitting edema. Labs were notable for troponin 0.5 and pro-BNP 27,000, but TSH and CK were within normal limits. ECG showed normal voltage with no ischemic changes. Echocardiogram revealed an ejection fraction of 20-25%, severe global hypokinesis of the left ventricle, and moderate to severe MVR. The patient was empirically treated with diuresis and ACE-inhibition, and subsequently became profoundly hypotensive. Endometrial biopsy obtained was positive for Congo red staining, consistent with cardiac amyloidosis. Later subtyping revealed AL amyloid, and the patient was noted to have nephrotic-range proteinuria. The patient passed away before chemotherapy could be initiated.

@@ -1,0 +1,46 @@
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the increased risk of lymphoma in patients with Crohn's disease and the potential risk with use of TNF-inhibitors.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize primary renal lymphoma as a differential for a renal mass.
+
+# CASE:
+
+A 75-year-old male with history of Crohn's disease (CD) on treatment with infliximab for the past 4 years was incidentally found to have an acute kidney injury with creatinine of 2.15 mg/dL. Patient had no complaints. He denied dysuria and hematuria. Vitals and exam were unremarkable. Labs including electrolytes, blood cell counts and urinalysis were unremarkable. A renal ultrasound showed moderate hydronephrosis of the left kidney. CT kidneys then demonstrated a large left retroperitoneal mass measuring 4cm x 2.5cm that was inseparable from the left renal pelvis and enlarged retroperitoneal lymph nodes. Infliximab was stopped due to concern for malignancy. A ureteral stent was placed with improvement in symptoms. Ultrasound of the scrotum was normal. Urine cytology from a diagnostic ureteroscopy was negative for malignancy. Core needle biopsy of the mass then revealed diffuse large B-cell lymphoma. PET scan showed lymphadenopathy above and below the diaphragm. Bone marrow biopsy showed no lymphoma. He established care with hematology/oncology and was started on R-CHOP chemotherapy. He switched treatment to vedolizumab for his CD.
+
+# IMPACT/DISCUSSION:
+
+Lymphomas are a rare complication of longstanding CD. Most reported cases have occurred in the gastrointestinal tract. Risk factors include advanced age, male gender, use of immunosuppressive therapy, EBV infection and hepatitis C infection. TNF- inhibitors, such as infliximab, are commonly used to treat CD. Recent studies have also reported an increased risk of lymphomas with TNF- inhibitors. The proposed mechanism is by decreasing apoptosis and allowing proliferation of neoplastic cells. Primary renal lymphoma (PRL) is characterized by lymphoma involving the kidney in the absence of primarily extrarenal lymphatic disease. PRL is very rare as the kidney is an extranodal organ and does not have lymphatic tissue. It has a reported incidence of 0.7% of all extranodal lymphomas and is diagnosed in <1% of all kidney lesions. Diagnosis is frequently delayed as it can be difficult to differentiate renal lymphoma from other renal masses. Patients can be asymptomatic, but commonly complain of abdominal or flank pain, weight loss or gross hematuria. The main treatment is chemotherapy using a CHOP regimen, which differs from other renal tumors that may require nephrectomy. It is important for physicians to be aware of PRL and maintain a broad differential in evaluating renal masses as management can change.
+
+# CONCLUSION:
+
+- Lymphomas are a rare complication of CD. Use of TNF- inhibitors may increase the risk of developing lymphoma.
+- PRL should be considered when evaluating any renal mass. It can be treated with systemic chemotherapy unlike other renal masses that may require nephrectomy.
+
+# PROGRESSIVE RENAL OSTEODYSTROPHY WITH DYSMORPHIC FEATURES (SAGLIKER SYNDROME) ASSOCIATED WITH SUBOPTIMALLY TREATED SECONDARY HYPERPARATHYROIDISM
+
+Naiha Nadeem; Colette Knight. Montefiore Medical Center, Yonkers, NY. (Control ID #3184955)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the pathophysiology and treatment of renal osteodystrophy.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of early intervention in the treatment of secondary hyperparathyroidism (SHPT) to prevent the progression of bone disease.
+
+# CASE:
+
+40-year-old woman with history of chronic renal disease (unknown etiology) progressing to end-stage renal disease on hemodialysis for seven years and SHPT s/p parathyroidectomy who presented with shortness of breath. She had short stature measuring 150 cm (4' 9") with large head circumference, facial disfigurement with changes in shape of mandible, teeth and palate. Labs revealed parathyroid hormone (PTH) level 1300 pg/mL, serum calcium 8 mg/dL, serum phosphate 4 mg/dL and alkaline phosphatase (ALP) 1200 U/L. Radiographic imaging showed diffuse osseous expansion and sclerosis with focal intraosseous lesions consistent with a combination of severe renal osteodystrophy with superimposed brown tumors. The patient also had severe cervical spinal stenosis and extensive thickening of skull. She was treated with calcitriol, phosphorus binders, and calcimimetics. Her clinical presentation was consistent with Sagliker Syndrome.
+
+# IMPACT/DISCUSSION:
+
+Sagliker syndrome is a rare form of renal osteodystrophy with disfiguring facial changes, associated with overgrowth of facial bone resulting from untreated SHPT associated with renal failure. The syndrome was first described in 2004 and so far 70 cases have been reported in the literature. Inadequate treatment of SHPT causes phosphorus retention, vitamin D deficiency, alteration in the metabolism of calcium and, increase in PTH and ALP level causing skeletal changes, renal rickets, damage to the points of bone growth in children, and subperiosteal changes. Facial disfigurement is caused by alterations of facial bones and tumor-like soft tissue collections. Patients can also develop psychological problems and depression. Renal transplantation prevents progression of the musculoskeletal changes, but established deformities are not reversible. The exact cause is still unknown but genetic mutations were detected in 40% of patients. Treatment with calcitriol, vitamin D analogues or calcimimetics is recommended in the early stages of SHPT due to CKD to decrease levels of PTH. In refractory cases, complete parathyroidectomy is suggested.
+
+# CONCLUSION:
+
+Early monitoring and appropriate treatment of patients with renal insufficiency and secondary hyperparathyroidism can prevent irreversible complications including bone and soft tissue abnormalities.

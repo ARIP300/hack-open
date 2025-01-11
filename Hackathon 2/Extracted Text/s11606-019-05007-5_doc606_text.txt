@@ -1,0 +1,39 @@
+# ABSTRACTS
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Unstably housed people with complex chronic disease often receive fragmented care from various emergency departments and inpatient settings, accruing high rates of acute care utilization without improvements in health. Recently, intensive outpatient models have emerged to better manage high need patients. Here we describe our efforts to create a complex care clinic for medically, socially, and behaviorally complex patients with unstable housing at the largest safety-net health system in the United States. Launched in August 2018, the clinic aims to engage patients in a trusting healthcare environment and break the cycle of disease, addiction, and housing instability. Our team includes four buprenorphine-waivered internal medicine physicians, a social worker, care coordinator, and home care nurse provided by our system's Medicaid Health Home. Patients are referred from the ED, inpatient service, other clinics, street outreach organizations, shelters, and jails. They receive extensive care coordination; on-site addiction, medical, and social services; home nursing visits; and collaboration with shelters and community-based organizations.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+A quantitative analysis will be used to determine program impact on clinical outcomes and utilization, patient experience, and provider satisfaction. Both quantitative and qualitative measures will be used to evaluate clinic capacity, services provided, patient engagement, and progress towards patient-oriented care goals.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+From August through December 2018, 156 referrals were given appointments and 83 patients completed at least one appointment. Of those, at least 44 patients (53%) returned for a second visit. On average patients completed 2.1 visits. We had a 16% cancellation rate and 38% no show rate. Patients are mostly male, middle-aged and street or shelter dwelling with common diagnosis of substance use disorder, lower extremity wounds, and hypertension. Our most engaged patients (>3 visits, n=15) have seen an average reduction in ED visits by 68% and inpatient admissions by 58% within our system compared to pre-clinic intervention.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Relationships have been a core element of patient care, building an interdisciplinary team, and developing referral and collaborative resources internally and in the community. Our focus on a patient-directed care plan, warm hand-offs, continuity of care, and community outreach has also allowed this model to succeed.
+
+# BEDSIDE ROUNDS IMPROVE PATIENT SATISFACTION AND CARE TRANSITIONS
+
+Marwa Moussa; Jennifer Renaud1; Charles Okamura1; Yvonne Brown;1 Frank Volpicelli2. 1NYU Langone, Staten Island, NY; 2New York University, New York, NY. (Control ID #3184390)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+As the lack of a ‘face-to-face' interaction between the full team and the patient led to a downtrend in patient experience scores, we were inspired to design a patient centered communication tool that standardizes the multidisciplinary bedside rounds.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To improve our patients' hospital experience in regards to care transitions and discharge planning by implementing standard bedside rounds that center around the patient's health care needs.
+
+2. To create a daily scheduled opportunity for the patient to be involved in medical decisions and discharge planning which enhances patients' understanding of their own care plan.
+
+# BEYOND THE WALLS OF THE CLINIC: A TELEMEDICINE PILOT TO ENHANCE CARE DELIVERY IN A RESIDENCY PRACTICE
+
+Zehra Hussain2; Gretchen Rickards2; Jenna Laughlin2; John Donnelly1; Sarah Schenck2. 1Christiana Care Health System, Newark, DE; 2Christiana Care Health System, Wilmington, DE. (Control ID #3185413)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Scheduled telephone visits are an effective, convenient alternative to the traditional face-to-face visit in primary care, but there are not yet established models for incorporating these types of visits into residency clinics.

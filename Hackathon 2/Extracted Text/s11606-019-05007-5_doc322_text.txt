@@ -1,0 +1,62 @@
+# JGIM
+
+# ABSTRACTS
+
+also increase this risk. This patient's gender, concurrent cyclophosphamide and radiation therapy, and multiple doxorubicin doses put her at greater risk for cardiotoxicity, resulting in CHF without traditional CHF risk factors. In patients treated with anthracycline, delayed-onset cardiotoxicity must be considered when the etiology of their CHF is not apparent. Patients with the previously mentioned risk factors for cardiotoxicity should therefore undergo routine echocardiographic assessment. There is controversy regarding testing frequency but since cardiotoxicity incidence is typically within 5 years post-treatment, it is reasonable to follow up yearly for 5 years and then every 2 years for the next 10 years. This way, cardiotoxicity can be identified early for these patients, reducing their risk of developing CHF.
+
+# CONCLUSION:
+
+- Anthracycline-mediated cardiotoxicity can have a delayed presentation.
+- Long-term follow up for high-risk patients can prevent CHF.
+
+# A 65-YEAR-OLD WOMAN WITH NEW PANCYTOPENIA
+
+Tara M. Skorupa; Molly Brett. Beth Israel Deaconess Medical Center, Boston, MA. (Control ID #3183154)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish severe B12 deficiency from potential mimickers causing similar hematologic abnormalities, including acute leukemia and hemolytic anemia.
+
+# CASE:
+
+A 65-year-old otherwise healthy woman presented to her primary care physician with three months of worsening dyspnea on exertion, fatigue, and gait instability, with 1 week of tingling in her fingertips. She endorsed 20-lb weight loss which she attributed to fatigue and anorexia. She denied recent travel or dietary changes and was not vegetarian. She denied smoking or illicit drug use and drank wine rarely. She was not taking any medications or supplements. Exam was unremarkable. Labs showed new pancytopenia with WBC 3.0 (ANC 1700), hemoglobin 7.2 with MCV 118, and platelets 134. All were normal when last checked 5 years ago. She was referred to the emergency room and admitted to the medicine service. Further workup revealed B12 <150 and elevated ferritin. Reticulocyte count showed hypoproliferation. Haptoglobin <10 and elevated LDH and indirect bilirubin suggested hemolytic anemia. Fibrinogen and INR were normal, and Coomb's test was negative. CT abdomen showed mild splenomegaly. Anti-intrinsic factor antibody was positive, consistent with pernicious anemia. She was started on cyanocobalamin injections, and her CBC normalized within one month. Her initial presenting symptoms of dyspnea, fatigue, and gait instability resolved as well.
+
+# IMPACT/DISCUSSION:
+
+This vignette describes a patient with exertional dyspnea, fatigue, and gait instability who was found to have new pancytopenia. The differential for acquired pancytopenia is broad and can be divided into disorders of production (related to marrow infiltration or failure), consumption, and sequestration. Given the life-threatening nature of several items on this differential, a finding of pancytopenia can lead to an invasive workup. In pancytopenic patients found to be B12 deficient, unnecessary diagnostic testing can often be avoided by treating the B12 deficiency. In our patient, macrocytosis with MCV 118 provided a major clue to her diagnosis. Vitamin B12 is a key cofactor in DNA synthesis, so B12 deficiency can lead to ineffective erythropoiesis and large, immature red blood cells, typically >115fL. In severe cases of B12 deficiency, all blood counts in the periphery can be low; paradoxically, the bone marrow is hypercellular. Ineffective erythropoiesis can result in intramedullary hemolysis and early destruction of immature red cells and leads to a low reticulocyte count. After initiation of treatment, patients with hematologic abnormalities typically show improvement in blood counts within 1-2 weeks, and complete resolution within 8 weeks.
+
+# CONCLUSION:
+
+Severe B12 deficiency can cause pancytopenia and hemolytic anemia and can mimic acute leukemia and microangiopathic hemolytic anemia. For patients with clear B12 deficiency, macrocytic anemia, and mild leukopenia and thrombocytopenia, a trial of B12 supplementation is warranted before pursuing more invasive diagnostic testing.
+
+# A CASE OF A PATIENT WITH EXTREMELY ELEVATED FERRITIN AND SEPTIC SHOCK
+
+Brianna Knoll1; Pamela Boodram1; Taiye Odedosu2. 1New York University School of Medicine, New York, NY; 2NYU Medical Center, New York, NY. (Control ID #3179286)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing hemophagocytic lymphohistiocytosis (HLH) in septic patients with ferritin levels greater than 20,000.
+
+# CASE:
+
+A 35-year-old woman with a history of recurrent urinary tract infections (UTIs) complicated by nephrolithiasis presented with four days of fever and a sore throat. She was febrile to 103.1, blood pressure 99/62, and heart rate 100. WBC was 12, Hgb 8.6, creatinine 1.8, AST 304, ALT 92, and HIV, streptococcus, mononucleosis and EBV IgM testing were all negative. Urinalysis was consistent with a UTI, she was admitted, and started on antibiotics. A CT scan of the abdomen revealed a right, staghorn calculi with surrounding, ill-defined lesions in the parenchyma. Urology placed a right nephrostomy tube which drained frank pus. Other work-up revealed an LDH of 2,502, triglycerides of 474, ferritin of 31,000. An Interleukin 2 Receptor (CD25) soluble test was sent but bone marrow biopsy was deferred given improvement in clinical symptoms and laboratory data. Twelve days into her admission, the patient clinically deteriorated. Lactate was elevated to 5.7, LFTs and LDH began to rise, and ferritin was 24,000 from a nadir of 8,000. Repeat triglycerides were 1,210. She was transferred to the intensive care unit for septic shock, placed on vasopressors and was subsequently intubated. A bone marrow biopsy revealed histiocytosis in a scattered and cluster pattern and hemophagocytosis and hemophagocytic lymphohistiocytosis (HLH) was diagnosed. Treatment with dexamethasone and etoposide was initiated on day fourteen based on the modified HLH 94 protocol. Her CD25 soluble test later came back elevated. She was weaned of vasopressors, extubated and completed chemotherapy inpatient. She was discharged three months after presentation.
+
+# IMPACT/DISCUSSION:
+
+HLH is a rare, life-threatening condition characterized by excessive immune activation that is most common in the pediatric population but can occur at any age. There are pre-disposing genetic defects and/or an immunological trigger such as infection, malignancy or rheumatologic disorder that have been linked to the development of HLH. Most commonly infectious HLH is reported in viral infections - commonly EBV - but it is possible the diagnosis is being overlooked in bacterial infections that lead to sepsis. It is easy in sepsis to attribute cytopenia and rising LFTs to end organ damage from the sepsis itself, making it difficult to distinguish from HLH. Infection itself is also commonly associated with high ferritin levels making it even more difficult to distinguish from HLH. Without treatment, patients often only survive a few months and overall mortality is as high as 75%. Appropriate, early treatment have shown remission rates up to 71%.
+
+# CONCLUSION:
+
+Thus, this case report exemplifies the importance of investigating HLH as a possible contributor to end-organ damage in septic shock when extremely high ferritins are noted. Mortality is high in patients with HLH which makes timely diagnosis of the utmost importance.
+
+# A CASE OF A RARE INFECTION WHICH MIMICS MALIGNANCY
+
+Belaal Sheikh. Chicago Medical School, McHenry, IL. (Control ID #3185859)
+
+# LEARNING OBJECTIVE #1:
+
+How to recognize clues which distinguish malignancy from a rare infection prior to lobectomy.
+
+# CASE:
+
+A 69 year old female with known emphysema and COPD on home oxygen presented with a 2 week complaint of progressive dyspnea, dry cough, and fever. She was an active smoker with a history of pulmonary nodules which presented intermittently on imaging. The patient also had a right middle and partial right lower lobe lobectomy 5 years ago.

@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #2: Utilize CT enterography to evaluate small bowel diseases
+
+CASE: 63 year old male with past medical history of hypertension, tobacco use, and chronic back pain on naproxen presenting with painless hematochezia. Physical exam notable for a benign abdomen and rectum without hemorrhoids. Initial vital signs showed systolic pressure in the 90s and tachycardia to the 100s that rapidly responded to fluid resuscitation. Pertinent labs include hemoglobin of 11.5 (baseline 14). Initial CT A/P showed diverticulosis and a transient distal ileal intussusception felt at the time to be clinically insignificant. He underwent enteroscopy which revealed an unremarkable EGD, but a colonoscopy notable for terminal ileal ulceration with erythematous mucosa. In light of this, a repeat CT with dedicated enterography protocol revealed ileocolic intussusception with nodular enhancement suspicious of a mass. Biopsy of the ulceration revealed a poorly differentiated neuroendocrine tumor. Ultimately, it was felt that the neuroendocrine tumor acted as a pathological leadpoint causing recurrent intussusception that manifested clinically as hematochezia. The patient underwent laparoscopic ileocecectomy with resolution of his symptoms.
+
+# IMPACT/DISCUSSION:
+
+This case highlights several clinical reasoning biases that can easily occur when presented with common internal medicine chief complaints and serves as a reminder to evaluate data judiciously. This case also introduces CT enterography as a tool to evaluate and diagnose small bowel diseases.
+
+# CONCLUSION:
+
+Hematochezia is a common general medicine admission. Etiology in adults is often due to diverticulosis, hemorrhoids, vascular malformations, and colonic malignancies. In this particular case, we committed ascertainment and availability bias by considering only a list of differentials frequently seen on the wards. By anchoring on the diverticular findings of the initial CT and ignoring the intussusception, we committed confirmation bias, which risks premature closure. This case highlights the ease at which one can fall into several clinical reasoning biases in rapid succession. Fortunately, we were able to reevaluate after colonoscopy with CT enterography to identify the pathological lesion, a rare case of intussusception in adults. This serves as a reminder to be judicious when interpreting data. CT enterography is an imaging protocol that can bridge the gap between upper endoscopy and colonoscopy when evaluating gastrointestinal pathologies. Compared to push and capsule endoscopy, enterography is neither limited by reach nor strictures, and allows visualization of extra-luminal areas. It can easily and non-invasively evaluate inflammatory diseases, neoplasms, ischemia, and bleeding in the small bowel. This invaluable diagnostic tool should be in a generalist's repertoire.
+
+# WHY AM I STILL SO TIRED?: A CASE OF UNCONTROLLED HYPOTHYROIDISM FROM LACTOSE INTOLERANCE
+
+Katelin Snow; Robin Klein. Emory University School of Medicine, Atlanta, GA. (Control ID #3176203)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize how malabsorptive syndromes such as lactose intolerance complicate treatment of hypothyroidism.
+
+# LEARNING OBJECTIVE #2:
+
+Appreciate lactose intolerance as a potential cause of resistance to levothyroxine treatment in hypothyroidism.
+
+# CASE:
+
+A 38 year old female with a past medical history of hypothyroidism from Hashimoto's thyroiditis presented to the ER with weakness and lethargy for several months. She also reported constipation, generalized weakness, and dry flaking skin. She was diagnosed with hypothyroidism 10 years prior and takes levothyroxine 100 mcg daily. She takes no other medications and eats a plant based diet as she recently noticed abnormal reactions to certain foods. On exam, she was afebrile with normal vital signs. Her skin was dry and cool, speech was sluggish, and reflexes were decreased. Laboratory workup was remarkable for a TSH of 214. Endocrinology was consulted. Further history revealed she was having bloating and diarrhea with milk products. It was determined that she likely has lactose intolerance. She was discharged on an increased dose of levothyroxine and advised to take her medication with a Lactaid pill. At outpatient follow up 3 months later, her symptoms had resolved and TSH had normalized.
+
+# IMPACT/DISCUSSION:
+
+Many factors influence the absorption and metabolism of levothyroxine (LT4) including certain foods and many medications. Malabsorptive gastrointestinal disorders, including lactose intolerance, can also inhibit LT4 absorption and complicate treatment in patients with hypothyroidism. Lactose intolerance is a common condition which usually develops in adulthood, causing symptoms such as bloating, flatu-lence, and diarrhea when lactose is ingested. Most LT4 formulations contain small amounts of lactose. For patients with lactose intolerance, this can inhibit the absorption and metabolism of LT4 into thyroid hormone. In cases of severe lactose intolerance, exposure to the lactose in LT4 can even cause symptoms. In patients not responding appropriately to LT4 therapy, physicians should perform a thorough review of medications, ask how the patient takes the medication, and look for history of or symptoms of malabsorptive disorders. When lactose intolerance is suspected, treatment options include co-administration of LT4 with lactase supplement (such as Lactaid) or switching to a lactose-free LT4 formulation. This should be done along with the removal of lactose containing products from the diet. Typically this allows patients to achieve euthyroidism at normal doses of LT4.
+
+# CONCLUSION:
+
+Our case illustrates how a malabsorption syndrome may prompt recurrence of symptoms of hypothyroidism. As both lactose intolerance and hypothyroidism are common diseases, physicians need to be cognizant of how the two conditions interact. Lactose intolerance should be considered in patients who appear resistant to LT4 treatment, require increasing LT4 doses or even develop malabsorptive symptoms with LT4 therapy.
+
+# WHY CAN'T I BREATHE? A CASE OF PD-L1 INHIBITOR-INDUCED PNEUMONITIS
+
+Jeffrey Fujimoto; Jennifer Jones. UCLA, Los Angeles, CA. (Control ID #3179560)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and treat pneumonitis as an adverse side effect of PD-L1 inhibitors.
+
+# CASE:
+
+A 68-year-old man with history of severe COPD and stage IIIB non-small cell-lung cancer (NSCLC) developed acute hypoxemic and hypercapnic respiratory failure while receiving his eighth infusion of durvalumab. Forty minutes into infusion, the patient became short of breath and hypoxic to 80%. He required emergent intubation due to respiratory distress. The etiology of his respiratory symptoms was initially unclear. He lacked infectious signs to suggest pneumonia. His clinical presentation was not consistent with anaphylaxis given absence of other characteristic symptoms such as an edematous oropharynx. He reported compliance with all COPD medications and was without significant wheezing on initial exam though general air movement was poor. The patient was started on empiric antibiotics and pulse dose methylprednisolone. He recovered within 24 hours and was extubated. Antibiotics were de-escalated to azithromycin to complete a 5-day course. CT chest showed bilateral centrilobular ground-glass opacities and bronchial wall thickening, consistent with pneumonitis.

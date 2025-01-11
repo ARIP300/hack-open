@@ -1,0 +1,54 @@
+# ABSTRACTS JGIM
+
+were discharged from the hospital medicine service. 649 patients were discharged home and 171 of these patients had a UCSF PCP, representing the patient population eligible for the Program. 125 patients were approached by the TDC, and of those 56 patients (45% of those screened), expressed interest in a post discharge VV with their PCP. Of these 56 patients, 14 had VVs scheduled, with 11 VVs completed (or 6% of the eligible patient population). 69 screened patients declined VVs due to a preference for an in-person visit (n=36 patients), lack of access to VV technology (n=14 patients), lack of comfort in conducting a VV (n=9 patients), or for other reasons (n=10 patients). 36 PCPs were approached to conduct a VV for their patient; 20 PCPs were amenable, and 10 PCPs participated in the program. 16 PCPs declined to participate due to lack of availability (n= 5 PCPs), a preference for an in-person visit (n=7 PCPs), or a lack of comfort in conducting VVs (n=4 PCPs).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Patients do have an interest in engaging in care using Telehealth. However, the post-discharge period may not be the ideal setting to encourage telehealth adoption based on our program's low adoption rate. In a specific patient population, post discharge VVs may be a way to increase access to PCPs following hospital discharge.
+
+# UTILIZATION OF PATIENT NAVIGATORS: AN INNOVATIVE METHOD FOR CONNECTING PATIENTS WITH COMMUNITY RESOURCES WITHIN THE SOCIAL HEALTH ALLIANCE TO PROMOTE HEALTH EQUITY (S.H.A.P.E) PROGRAM.
+
+Rachael Odusanya2; Jane Lindahl2; Johanna Martinez3; Omolara T. Uwemedimo1; Shari Jardine1; Eun Ji Kim4. 1Northwell Health, New Hyde Park, NY; 2Zucker School of Medicine at Hofstra/Northwell, Lake Success, NY; 3Northwell Health, Lake Success, NY; 4Northwell Hofstra School of Medicine, Lake Success, NY. (Control ID #3183353)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Many programs have adopted social determinants of health (SDH) screening and referral processes, however, there is a need to provide support and ensure that patients are utilizing referrals.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To recruit student interns as Patient Navigators (PNs) to act as social support staff in order to address SDH and follow-up with patients continuously for 12 weeks.
+2. To equip PNs with motivational interviewing, cultural competency, and resource navigation skills that allow for patient centered follow-up.
+3. To examine PNs impact on patient satisfaction and resource utilization.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our health system's Social Needs Screening Program was established as a way to identify and address adverse SDH in Internal Medicine and Pediatric patient populations. The program includes undergraduate students interested in healthcare, health policy, and social work as PNs. They screen patients for unmet social needs and help them navigate community resources. PNs completed a week-long training on SDH content, the screening process, motivational interviewing, cultural competency, community health organizations, and a medical legal partnership. They also precept case managers and physicians to get clinical experiences. The training prepares PNs for in-depth patient interaction during the screening and 12 week follow-up process, where patients are followed bi-weekly via telephone, e-mail or in-person.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We evaluate the effectiveness of PN social support in the clinical setting by examining; questions centered around patient experience with program as well as evaluation surveys on training and overall PN experience, percent of patients with unmet needs who are connected to resources, and percent of patients who successfully utilize resources within 12 weeks.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In 2018, of the 326 patients who screened positive for social needs, 152 (47%) accepted PN assistance. Of those, 81 (53%) were connected to resources. To date, 11/16 (69%) who have completed the navigation process have successfully utilized the resources provided. When asked "How helpful did you find this experience," 73% (n=8/11) of patients found the process helpful or very helpful. A survey of current PNs demonstrated that 88% (n=14/16) have a better understanding of SDHs than before participating in program, and 69% (n=11/16) believed that the week of training prepared them for their role.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+The use of PNs to provide dedicated screening and referrals to address resource needs in a primary care setting allows for a patient-centered approach to addressing SDH through "warm hand-offs" to community health resources, personalized follow-up and navigation services. Integration of the PN's into clinical sites has alleviated the burden on other clinical staff and providers, who often may not have time to address SDH with their patients. Additionally, having bilingual Navigators, who have been trained in cultural competency and motivational interviewing allows for an added level of comfort and trust to promote patient engagement in the program.
+
+# VA VIRTUAL PRIMARY CARE PROVIDERS REDUCE OPIOID USE AND INCREASE OPIOID SAFETY IN RURAL VA CLINICS.
+
+Anna Abramson1; Henry Crevensten. 1UCSF/Veterans Affairs, Mill Valley, CA; 2University of California, San Francisco, San Francisco, CA. (Control ID #3186111)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Rural communities have the highest rates of opioid prescriptions and opioid-related deaths, yet lack consistent access to primary care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Assess the opioid prescription metrics in rural community clinics affiliated with the San Francisco Veterans Affairs Health Care System before and after initiation of a virtual primary care program.
+2. Improve opioid prescription safety through continuous patient panel management.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Rural clinics in socioeconomically disadvantaged populations are experiencing staff shortages and rely on locums and gap provider coverage. Patients with chronic pain require continuity of care for successful pain and opioid management. In 2017, San Francisco Veteran's Affairs Medical Center implemented a virtual primary care team known as "Teleprimary Care" to increase continuous primary care access by leveraging video teleconferencing modalities. Teleprimary Care providers (TelePCPs) were integrated into existing multidisciplinary teams to cover one or more panels among three chronically understaffed rural clinics. This review focuses on

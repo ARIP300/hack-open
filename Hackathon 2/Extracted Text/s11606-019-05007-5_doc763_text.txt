@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+knowledge in IHCA responses. In this study, it was noted that residents do not feel comfortable assuming the role as team leader. This poses a significant implication in an inpatient setting where residents are in fact expected to be able to lead code blue scenarios. This lack of comfort in assuming the role of a leader can ultimately affect performance during real-time scenarios.
+
+# USING A GROUP OBSERVED STANDARDIZED CLINICAL EXPERIENCE (GOSCE) TO TEACH MOTIVATIONAL INTERVIEWING
+
+Barbara Porter1; Kelly J. Crotty; Sarah J. Moore3; Joanna Dognin4; Margaret Horlick4. 1NYU SOM, New York, NY; 2New York University, NY, NY; 3 NYU School of Medicine, New York, NY; 4 NY Harbor VA Healthcare Center, Brooklyn, NY. (Control ID #3185304)
+
+# NEEDS AND OBJECTIVES:
+
+Didactic training in motivation interviewing (MI) lacks efficacy, because opportunities to practice skills while being directly observed are rare. The goal of our educational innovation was to train interns in the advanced communication skills of motivation interviewing through a group observed standardized clinical experience (GOSCE). Our learning objectives were as follows: After an experiential learning session on MI, interns will be able to: 1. Identify opportunities to use MI with patients 2. Recognize "change talk" from a patient as an opportunity to use MI techniques 3. Use MI techniques when discussing behavior change with a patient.
+
+# SETTING AND PARTICIPANTS:
+
+46 internal medicine interns in an academic internal medicine residency program.
+
+# DESCRIPTION:
+
+Each session began with a 20 minute review of MI for behavior change given by a psychologist trained in Motivational Interviewing. Then, interns participated in a 3 station, one-hour long Group Observed Standardized Clinical Exercise (GOSCE). Interns worked in teams of 3, and for each station, one of the 3 interns was the active physician, while the other 2 observed the encounter. Each intern had an opportunity to be the active physician for a case. Each case was observed by one or two faculty members, one of whom was a psychologist trained in MI. After a 10 minute interaction with the standardized patient, the active physician received feedback on their MI skills and debriefed the encounter with the faculty and their peers. After the 3 cases, the session concluded with a group debrief and summary of the experience. Interns completed a retrospective pre/post survey to assess the impact of the session.
+
+# EVALUATION:
+
+Residents reported statistically significant improvement in all domains, including confidence with identifying opportunities to use MI, comfort using reflective and summary statements during MI, and likelihood of using motivational interviewing in future patient encounters. Qualitative comments after the session reflect that residents developed an appreciation for silence as a tool during MI, felt comfortable with tools such as decisional balance, and recognized the value of patient centeredness during MI.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our inter-professional educational team (psychologists and internists) provided different perspective for both learners and our internal medicine faculty. Our residents appreciated practicing skills and receiving feedback in real time. This academic year (one year after the intern GOSCE), these same learners will participate in an OSCE that includes a case requiring motivational interviewing skills, and we will evaluate the durability of motivation interviewing skills taught during this session. We are interested in expanding opportunities to use GOSCE as a low stakes skills practice and development tool.
+
+# USING OBJECTIVE STRUCTURED TEACHING ENCOUNTERS (OSTES) TO PREPARE RESIDENTS FOR CLINICAL TEACHING ON THE WARDS
+
+Jacob H. Johnson1; Madeleine Matthiesen2; Zoë Gottlieb2; Caitlin N. Li2; Arielle Medford2; Nilay Patel2; Anna K. Rubin2; Ariel Frey-Vogel2; Kerri Palamara2. 1Brigham and Women's Hospital, Boston, MA; 2Massachusetts General Hospital, Boston, MA. (Control ID #3183724)
+
+# NEEDS AND OBJECTIVES:
+
+Education of peers, students, and health professionals is an important role for residents during their graduate medical training. However, formal methods to improve trainees' clinical teaching are lacking. An Objective Structured Teaching Encounter (OSTE) is a simulated scenario in which participants teach scripted standardized trainees (actors). We previously developed a realistic and accurate 4-case OSTE for summative assessment of resident clinical teaching. This project's objective is to adapt the OSTEs for formative assessment by adding in structured debriefs after each case with the goal of improving clinical teaching.
+
+# SETTING AND PARTICIPANTS:
+
+Medicine and pediatric residents who lead clinical teams were invited to participate. Multiple sessions were offered in 2017-2018.
+
+# DESCRIPTION:
+
+The OSTE curriculum contains four cases: Teaching on Rounds, Teaching at the Bedside, Giving a Chalk Talk, and Giving Feedback on an HPI. Cases have up to 3 actors to simulate clinical teaching. The clinical content was adapted based on specialty. A 1-page debrief guide was developed for each case based on a literature review and iteratively updated based on expert opinion. Faculty and actors received 15 minutes of training. For each case, the resident read the prompt and then taught for 8 minutes followed by a 10 minute debrief with the faculty observer and actor(s). The 4-case session lasted 80 minutes.
+
+# EVALUATION:
+
+Forty-four residents participated, 21 in medicine and 23 in pediatrics; 22 as resident teachers and 32 as actors (10 as both). 12 faculty participated as debriefers. Teachers, faculty, and actors completed surveys with a 97% response rate. All residents who participated as a teacher would recommend the session. On a 5-point Likert scale, with higher score indicating more agreement, all residents agreed or strongly agreed they felt more prepared to teach on the wards (mean 4.48), and all felt the debrief was helpful (mean 4.61). Teaching take-aways included, "Asking more probing questions to fully assess knowledge" and "Pause longer for answers." Residents cited "Hearing immediate feedback with people we know well" and "Great feedback from actors" as the most effective portion of the OSTE. 97% of actors agreed or strongly agreed that they learned new teaching skills (mean 4.64) and remarked, "liked participating in the debrief—great way to learn from juniors/attendings/fellow actors" and "Helpful to see the different learners' approaches." All actors felt prepared to portray their part. All faculty, teachers, and actors agreed or strongly agreed that the cases were reflective of actual teaching scenarios. One faculty member noted, "[this case] is realistic and can be taken in so many directions that it captures many of the elements which cause learners and teachers angst."
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our 80-minute 4-station OSTE with faculty and actor-led debrief was well-received, feasible and an efficient way to train clinical teachers. Nearly all residents who participated, regardless of role, reported improving their teaching.
+
+# USING THE MEDIAN NERVE AS A MODEL FOR INTRODUCING BASIC PRINCIPLES OF POINT OF CARE ULTRASOUND IN INTERNAL MEDICINE RESIDENT EDUCATION
+
+Rita Poon1; Christopher T. Kelly1; Claudia L. Campos. 1Wake Forest University School of Medicine, Winston Salem, NC; 2Wake Forest University, Winston-Salem, NC. (Control ID #3167769)

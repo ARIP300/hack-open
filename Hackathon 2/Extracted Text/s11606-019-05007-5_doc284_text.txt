@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# RESULTS:
+
+During the study period, 715 endoscopies were requested and 680 (95.1%) were performed; 35 (4.9%) were cancelled. Most (303, 44.6%) endoscopies were esophagogastroduodenoscopies (EGDs), followed by combined EGD-colonoscopies (173, 25.4%), flexible sigmoidoscopies (107, 15.7%), and colonoscopies (79, 11.6%). Of completed endoscopies, 88 (12.9%) were delayed. The most common causes of delay are shown in Table 1. The majority of delays were avoidable (66, 75.0%), due to scheduling delays (44, 50.0%) and issues with bowel preparation (18, 20.5%). The most common unavoidable delays were due to clinical instability (11, 12.5%). Endoscopies were delayed for an average of 1.4 days (1-8 days, median 1) representing 120 days of delay.
+
+# CONCLUSIONS:
+
+Delays in endoscopy at a single academic medical center were common, and most delays were due to avoidable causes. Interventions to reduce delay should target scheduling delays and issues with bowel preparation.
+
+# Table 1: Causes of Endoscopy Delay
+
+|Reason for Endoscopy Delay|n (%)|
+|---|---|
+|Avoidable Delays|66 (75.0%)|
+|Schedule delay|44 (50.0%)|
+|Anesthesia schedule delay|11 (12.5%)|
+|Endoscopy schedule delay|1 (1.1%)|
+|Unspecified schedule delay|32 (36.4%)|
+|Issues with bowel preparation|18 (20.5%)|
+|Patient unable to tolerate preparation|10 (11.4%)|
+|Poor bowel preparation|8 (9.1%)|
+|Other competing procedures|5 (5.7%)|
+|Unavoidable delays|15 (17.0%)|
+|Clinical instability|11 (12.5%)|
+|Violated ni per OS requirement|2 (2.3%)|
+|Refused procedure|1 (1.1%)|
+|Other clinical reason|8 (9.1%)|
+|Unknown|7 (8.0%)|
+
+# THE PREVALENCE OF DIAGNOSTIC ERROR IN SEVEN-DAY READMISSIONS OF GENERAL MEDICAL PATIENTS
+
+Molly A. Kantor1, 2; Katie Raffel1, 2; Peter Barish1, 2; Armond Esmaili1, 3; Hana Lim1, 4; Feifei Xue1, 2; Sumant Ranji1, 4. 1University of California, San Francisco, San Francisco, CA; 2 University of California, San Francisco, San Francisco, CA; 3San Francisco VA Medical Center, San Francisco, CA; 4 Zuckerberg San Francisco General Hospital, San Francisco, CA. (Control ID #3180388)
+
+# BACKGROUND:
+
+Diagnostic errors have been cited as a potential contributor to hospital readmissions, particularly early readmissions (e.g. within 7 days), but little is known about their frequency and characteristics. We performed structured chart review of all medical patients readmitted within 7 days of discharge from a single academic medical center to describe the prevalence of diagnostic error and characterize contributing factors.
+
+# METHODS:
+
+Our study included all patients discharged from the inpatient medical service and re-admitted to our 600-bed urban academic medical center within 7 days to any service from 1/1/18-9/30/18. Each case underwent independent structured review by two trained board-certified internists, followed by adjudication to achieve consensus. Cases of discrepancy were reviewed by the larger diagnostic review team. Diagnostic errors were identified using the modified "Safer Dx Instrument," a validated tool to identify diagnostic error in primary care visits. When identified, errors within the diagnostic process were then characterized using the Diagnostic Error Evaluation and Research (DEER) taxonomy tool, an error classification system. Multiple contributing factors could be identified in the same admission. For all cases identified to contain diagnostic error, the discharging physician(s) from the index admission was contacted to provide further details of the clinical decision-making and circumstances that may have contributed to the error, which was then used to refine diagnostic error characterization.
+
+# RESULTS:
+
+During the study period, we identified 261 cases of 7-day readmission (4.6% of 5663 admissions), of which 258 (98.9%) were reviewed. A total of 18 (7.0%) admissions contained diagnostic error. In 17 of the 18 cases (94.4%), the error was judged as having "moderate" impact (such as short-term morbidity, increased length of stay, or invasive procedure), and 1 had no impact. In the DEER taxonomy, the most common culprit areas within the diagnostic process contributing to error were in Laboratory/Radiology Tests (25) and Assessment (17). The most common subcategories contributing to error were failure/delay in ordering needed test(s) [10, 56%], erroneous clinician interpretation of test(s) [6, 33%], and suboptimal weighing/prioritizing of finding or diagnosis [6, 33%]. Diagnostic errors represented a breadth of diagnoses; no single diagnosis was repeated among the 18 identified errors.
+
+# CONCLUSIONS:
+
+The prevalence of diagnostic error among 7-day medical readmissions was 7%, similar to prior estimates. Nearly all diagnostic errors had moderate clinical impact. Identified diagnostic errors represented a breadth of diagnoses; thus, disease-specific diagnostic improvement efforts may be of limited utility. The most common underlying drivers of diagnostic error were related to clinician diagnostic reasoning, highlighting the importance of efforts to augment diagnostic reasoning.
+
+# THE RELATIONSHIP BETWEEN SEXUAL ASSAULT HISTORY AND GYNECOLOGIC EXAM DISTRESS AND DELAY AMONG WOMEN VETERANS IN THE VA
+
+Elisheva Danan1, 2; Michele Spoont 1; Julian Brunner3; Elizabeth M. Yano3. 1Minneapolis VA Health Care System, Minneapolis, MN; 2University of Minnesota Medical School, Minneapolis, MN; 3VA Greater Los Angeles Healthcare System, Sepulveda, CA. (Control ID #3185977)
+
+# BACKGROUND:
+
+Sexual assault affects 1 in 3 U.S. women and has lifelong consequences for women's health that can include sexually transmitted infections, pregnancy, posttraumatic stress disorder (PTSD), and a more than two-fold higher cervical cancer risk (OR 2.6). Routine cervical cytology (pap) testing has reduced the U.S. incidence of cervical cancer by over 50% in the past thirty years. However, women who have experienced sexual assault face barriers to completing cervical cancer screening related to anxiety, fear, exam discomfort, and access to care. Invasive medical exams can also trigger an exacerbation of PTSD symptoms. Risk of sexual assault and barriers to pap testing may be intensified for women Veterans, as compared to non-Veterans. During military service, 25% of women experience military sexual trauma (MST), which is associated with multiple poor health outcomes and health risk behaviors. MST can also affect women Veterans' relationship with the VA healthcare system. We hypothesize that, compared to women Veterans with no sexual assault history, women Veterans with a history of lifetime sexual assault are more likely to experience high levels of distress related to pelvic exams, and are more likely to report ever delaying a pap test or gynecologic exam.
+
+# METHODS:
+
+We analyzed data from a 2015 survey of women Veterans who use primary care and/or women's health services at 12 VAs in 9 states. We compared characteristics of women Veterans with and without

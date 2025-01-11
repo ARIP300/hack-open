@@ -1,0 +1,43 @@
+# ABSTRACTS
+
+# SPENDING AND COST-SHARING ON OUT-OF-NETWORK CARE IN THE UNITED STATES, 2008-2016
+
+Zirui Song1, 2; Jacob Wallace3. 1 Harvard Medical School, Boston, MA; 2 Massachusetts General Hospital, Boston, MA; 3 Yale School of Public Health, New Haven, CT. (Control ID #3186093)
+
+# BACKGROUND:
+
+Out-of-network medical care has garnered increasing attention. While patients are becoming more aware of the costs associated with out-of-network care, little is known about how spending on out-of-network care has evolved over time in the United States. This study analyzes trends in in-network and out-of-network spending and cost-sharing in the largest segment of the United States—people with employer-sponsored health insurance.
+
+# METHODS:
+
+We analyzed in-network and out-of-network spending and cost-sharing for a large nationwide cohort of employers that continuously contributed data to the Truven database from 2008-2016. All individuals were enrolled for at least 1 year. Main outcomes were in-network and out-of-network medical spending and cost-sharing, as well as the percent of spending and cost-sharing out-of-network. We estimated changes in the share of spending that was out-of-network using an ordinary least squares model adjusted for age, sex, risk, insurance plan, and region. We conducted subgroup analyses by provider specialty and category of service.
+
+# RESULTS:
+
+Our population comprised 27,833,040 individuals nationwide, averaging 33.8 years of age, 52% female, and a DxCG risk score of 0.9. The unadjusted share of medical spending that was out-of-network was 7.0% in 2008-2010 and 6.1% in 2014-2016, a decline of 0.10 percentage-points per year over the study period (p=0.02). Among outpatient services, the share of spending out-of-network was stable or declined for all categories except laboratory services, where it increased from 5.2% in 2008-2010 to 11.5% in 2014-2016 (0.80 percentage-point increase per year, p<0.001). Among professional services, the share of spending out-of-network was stable or declined among all specialties except hospitalists and pathologists, in which it rose by 0.54 (p=0.01) and 0.31 percentage-points per year (p<0.001), respectively. Both prices and cost sharing were substantially higher when a service was provided out-of-network than in-network.
+
+# CONCLUSIONS:
+
+Contrary to some of the public discourse, the share of spending out-of-network has been relatively stable for the past decade in the employer-sponsored population (half of the United States population). However, some areas of medical care, particularly laboratory services, have seen a sharp rise in out-of-network spending and cost-sharing. These results are consistent with qualitative evidence that laboratory services may be increasingly contracted to large regional or national suppliers which are out-of-network for many insurers. To our knowledge, this is the first national evidence of these troubling upward trends in the share of laboratory spending out-of-network. Extending consumer protections to these settings is one policy solution. Alternative proposals such as capping out-of-network prices at a percentage of in-network prices, reference pricing, or protecting patients from balance-billing also warrant consideration as patients and employers struggle with out-of-network bills.
+
+# SPENDING AND QUALITY AFTER 3 YEARS OF MEDICARE'S VOLUNTARY BUNDLED PAYMENTS FOR JOINT REPLACEMENT SURGERY
+
+Amol S. Navathe1, 2; Ezekiel J. Emanuel1, 1; Atheendar Venkataramani1, 1; Qian Huang1; Atul Gupta3, 1; Claire T. Dinh1; Eric Z. Shan; Dylan Small1, 1; Norma B. Coe1, 1; Erkuan Wang1; Xinshuo1 Ma1; Jingsan Zhu1; Deborah Cousins1; Joshua M. Liao4, 1. 1 University of Pennsylvania, Philadelphia, PA; 2 CMC VA Medical Center, Philadelphia, PA; 3 The Wharton School, University of Pennsylvania, Philadelphia, PA; 4 University of Washington, Seattle, WA. (Control ID #3179521)
+
+# BACKGROUND:
+
+Based on early savings from the Bundled Payments for Care Improvement (BPCI) program, Medicare has continued to scale bundled payments for lower extremity joint replacement (LEJR) episodes nationwide through new voluntary programs such as BPCI-Advanced. However, despite growing participation in voluntary LEJR bundles, there is a paucity of evidence about their long-term impact on spending and quality.
+
+# METHODS:
+
+We used 2011-2016 Medicare claims to identify a sample of 205,655 Medicare beneficiaries undergoing LEJR at 244 BPCI hospitals operating in 123 markets and 53,711 fee-for-service Medicare beneficiaries undergoing LEJR at 244 propensity-matched Non-BPCI hospitals operating in 98 markets. We used a difference-in-differences method with propensity matching of hospitals not participating to those participating in BPCI, and hierarchical multivariable generalized linear models with quarter and hospital fixed-effects, to evaluate the association between hospital participation in LEJR bundles under BPCI and changes in spending and quality over a three-year period. This approach also used an instrumental variable (IV) that used historical hospital referral patterns to instrument for observed hospitalization at a hospital participating versus not participating in BPCI. This IV mitigated confounding from changes in unobservable patient characteristics after hospitals started in BPCI. We also evaluated associations by program period and participant wave. Parallel trends were confirmed. Analyses were performed using SAS, version 9.4. Statistical tests were 2-tailed and significant at =0.05.
+
+# RESULTS:
+
+Over 3 years, BPCI participation was associated with a 1.5% decrease in average episode spending (95% CI -2.1% to -0.9%, p<0.001), with reductions occurring in the early (1.8% decrease in average episode spending, 95% CI -2.5% to -1.1%, p<0.001) but not late program period (1.0% decrease, 95% CI -2.6% to 0.5%, p=0.19). Savings were driven by performance of first wave (differential change of -2.0%, 95% CI -2.6% to -1.3%, p<0.001) but not second wave participants (differential change of -0.02%, 95% CI -1.7% to 1.7%, p=0.98). Savings were 30% lower than naïve regressions without the IV. BPCI participation was not associated with changes in 4 quality measures.
+
+# CONCLUSIONS:
+
+Participation in LEJR Bundles under BPCI was associated with sustained episode savings accounted for by early participants but not associated with changes in quality. These findings support Medicare's decision to continue scaling up bundled payments via voluntary participation through BPCI-Advanced, while also suggesting tempered expectations for participants in its second wave. Our findings also quantify the effect of unobserved patient selection in voluntary LEJR bundles - a major policy concern - but corroborate true associated savings in spite of such selection.
+
+# SPILLOVER EFFECTS OF PROGRAM IMPLEMENTATION TRAINING ON HEALTH CENTER STAFF KNOWLEDGE

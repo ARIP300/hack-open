@@ -1,0 +1,31 @@
+# iwCLL 2023
+
+# Issues in the management of CLL patients from an international point of view
+
+# Insights into patient needs
+
+The CLL Advocates Network (CLLAN) is a global network of patient advocacy organizations dedicated to improving the outcomes of patients with CLL through collaboration with national organizations. Principles guiding the work of CLLAN include the support of local communities, sharing of best practices and advocacy for better care and access. Implementation of CLL-specific support in all countries is an important goal. At the same time, no direct support of patients and their families is provided; this remains in the scope of the national or regional advocacy associations and advocates.
+
+Global multiple stakeholder surveys have been conducted and co-conducted by CLLAN to understand real-life experience and needs of patients and carers. Also, current gaps and opportunities are mapped to address equity, service and unmet need. At iwCLL 2023, Brian Koffman, MDCM, CLL Society, presented results from the CLL Patient Advocacy and Support Survey, the Global Leukemia Patient Experience Survey, and the Global Leukemia Carer Experience Survey. These online surveys were conducted between 2021 and 2022 with CLL patients, their carers, and support organizations from across the globe. Areas of interest included the provision of support services for CLL by patient advocacy organizations, access to CLL healthcare prior to the COVID-19 pandemic, and the impact of COVID-19 on the delivery of CLL care.
+
+The investigators received responses from 1,202 patients, 137 carers and 57 support organizations across 40 countries. To understand and identify geographical impacts, the countries were segmented into low-and-middle-income countries (LMIC) and high-income countries (HIC).
+
+# Numerous gaps between LMIC and HIC
+
+As the analysis showed, educational services were provided markedly more often in HIC, although awareness campaigns were conducted more frequently in LMIC. Regarding services that patient support organizations did not offer at the time of the survey but would like to offer, 42 % of responders from both HIC and LMIC mentioned clinical trials directories. Dr. Koffman noted that the need for news and conference coverage was much higher in LMIC (53 % vs. 8 % in HIC). However, lack of human resources/staff/volunteers was found to be a universal phenomenon (74 % for both LMIC and HIC).
+
+Being able to afford care was definitely an issue for 32 % and 18 % of responders in LMIC and HIC, respectively. The question of whether enough approved therapies are available was answered with “no” in 58 % vs. 37 %. A huge difference emerged in terms of delayed diagnosis. Likewise, the results with respect to access to CLL specialist care centers and mental health resources after the CLL diagnosis favored HIC over LMIC, although the 18 % proportion of responders in HIC indicating definite availability of mental health care must be considered inappropriately low, as Dr. Koffman pointed out.
+
+| |HIC| |LMIC|
+|---|---|---|---|
+|Is delayed diagnosis an issue?|55 % (21)|29 % (11)|47 % (9)|
+| |8 % (3)|8 % (3)|53 % (10)|
+|Access to CLL specialist care centers?|5 % (2)|37 % (14)|11 % (2)|
+| |58 % (22)|16 % (3)| |
+|Access to mental health resources after CLL diagnosis?|3 % (1)|18 % (7)|58 % (11)|
+| |61 % (23)|18 % (7)|37 % (7)|
+| |5 % (1)| | |
+
+Dr. Koffman concluded that while support services are strong among patient organizations in HIC, there is a need to build greater patient and professional educational services, grow involvement in policy decisions, and improve access to earlier diagnostics and care.
+
+S176 Vol. 16 ∙ Suppl 10/2023 © Springer-Verlag GmbH Austria, part of Springer Nature

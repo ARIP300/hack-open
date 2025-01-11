@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# DESCRIPTION:
+
+We have created two 1-hour educational sessions for healthcare professionals on the effects of incarceration. One session targets clinicians and the other staff. Topics include history of U.S. incarceration rates, recommended language use, opportunities to screen for incarceration, an overview of the health risks of incarceration and how to best practice trauma-informed care for this population.
+
+# EVALUATION:
+
+Surveys evaluating each session were distributed to providers following each of the first two sessions. Twenty-two responses were recorded. On a 5-point Likert scale, the mean session rating was 4.8/5 and the mean rating for the session's content was 4.8/5.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We received positive feedback from participants. Many respondents commented that this topic was new and necessary. One person noted, "I've never heard this information presented in the health center before." Respondents also mentioned that more time devoted to trauma-informed care would be helpful. Our team noted the conversations with physicians and staff differed. Some clinicians had theoretical knowledge of the topic, but staff had more lived experience. Staff members were able to relate multiple anecdotes of family members who had experienced health risks related to incarceration. Despite personal experience, staff described lack of professional empowerment to speak with patients on this matter. As we continue to develop teaching sessions, we will increase the length of sessions to allow more time to focus on trauma-informed care.
+
+# EFFECT OF GENDER ON ATTENDING PHYSICIAN'S FEEDBACK TO INTERNAL MEDICINE RESIDENTS: A QUANTITATIVE AND QUALITATIVE STUDY
+
+Ana Sofia Warner; Nneka Ufere; Kerri Palamara. Massachusetts General Hospital, Boston, MA. (Control ID #3185760)
+
+# NEEDS AND OBJECTIVES:
+
+Residency is an important period of professional learning and growth for physicians-in-training. The Accreditation Council for Graduate Medical Education (ACGME) adopted the Milestones-based Next Accreditation System in 2013, which relies heavily on faculty evaluations of residents. While evaluations are an important aspect of resident professional development, the inherently subjective nature of these evaluations leaves room for implicit bias. To our knowledge, no contemporary data exists assessing for gender differences in faculty evaluations of internal medicine trainees using the ACGME milestones-based evaluations. We aim to use qualitative and quantitative methods to evaluate the impact of gender on internal medicine trainees' performance evaluations.
+
+# SETTING AND PARTICIPANTS:
+
+Data for this longitudinal, retrospective project will be collected from Massachusetts General Hospital internal medicine resident evaluations from the 2016-2017 academic year. This study is part of a larger multi-site study involving six internal medicine residency programs across the U.S.
+
+# DESCRIPTION:
+
+We will be collecting data from attending evaluation forms of internal medicine residents using the ACGME milestones-based evaluations. Each evaluation consists of written comments and quantitative scoring of residents across six clinical competency domains: patient care, medical knowledge, system-based practice, practice-based learning and improvement professionalism and interpersonal and communication skills.
+
+# EVALUATION:
+
+Our investigation involves analysis of both the quantitative and qualitative evaluation data. For the quantitative data, we will convert the rankings into numerical scores. For the qualitative analysis, we will examine the written comments by attendings of trainees.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+At the MGH site, we have 1070 resident (68 female, 82 male) evaluations that were completed by faculty (62 female, 99 male) during the 2016-2017 academic year. For our quantitative analysis, we will convert scores on the ACGME milestone-based performance scales to numerical scores for each trainee. We aim to compare the mean scores for each milestone domain between male and female trainees using t-tests and estimate associations of mean scores for each milestone domain with attending-trainee gender pairings using linear mixed effect models. For our qualitative analysis, we will use a multistage, multianalysis procedure for coding and analyzing the written feedback in the evaluations of trainees to categorize the content of these evaluations into groups according to broader issues or themes.
+
+# EMPOWERING RESIDENTS TO EXPLORE BARRIERS TO WELL-BEING: CREATION OF A WELL-BEING ELECTIVE
+
+Chloe Ciccariello1; Larissa Thomas2. 1University of California San Francisco, San Francisco, CA; 2University of California, San Francisco at Zuckerberg San Francisco General, San Francisco, CA. (Control ID #3179519)
+
+# NEEDS AND OBJECTIVES:
+
+The drivers of physician well-being are complex and involve cultural, organizational, and individual components. To address this, we created a Well-being Elective, the objective of which is to allow residents to explore cultural and structural drivers of physician well-being, as well as possible interventions.
+
+# SETTING AND PARTICIPANTS:
+
+At the UCSF Internal Medicine Residency, we have had a Well-being Committee comprised of resident physicians who meet monthly to design interventions to improve the resident experience, but resident ability to work on these projects has been limited by the lack of protected time. Through advocacy within the Internal Medicine Residency, we were able to create a Well-being elective that is available to third year internal medicine residents on their ambulatory rotations.
+
+# DESCRIPTION:
+
+The residents spend 2-3 half days per week on the elective over one month; time is split three ways. The main focus of the elective is completion of a deep-dive project that is focused on a cultural or systems aspect of physician well-being, aligned with the commitments of the Charter on Physician Well-being. They also prepare a well-being case conference, focused on an emotionally challenging patient care experience and its impact on the care team. Finally, the residents participate in mentorship and skill-building activities happening at the medical center.
+
+# EVALUATION:
+
+There was widespread interest in the elective; 9 residents will complete the elective in 2018-19. To date, residents have completed projects across a breadth of organizational well-being priorities. Residents prepare reports summarizing their findings, which are presented at program leadership meetings, and two-thirds of residents have successfully submitted their projects as innovation abstracts to scholarly meetings. Long-term follow-up is planned to assess programmatic changes implemented as a result of these projects.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Residents are interested in well-being as a field of study, and providing protected time for residents to study this places it as equally important to other academic endeavors. Residents have much to offer programs, if given the time and resources to study drivers of well-being.
+
+# ENHANCING CLINICAL SKILLS DEVELOPMENT THROUGH A LONGITUDINAL CROSS-CLERKSHIP CLINICAL SKILLS EXAM
+
+Kristy Y. Kosub1; Kevin Schindler; Diane Ferguson2. 1UT Health San Antonio, San Antonio, TX; 2UTHSCSA, San Antonio, TX. (Control ID #3185531)

@@ -1,0 +1,79 @@
+# ABSTRACTS JGIM
+
+# FREQUENCY OF ETHICAL ISSUES ON A GENERAL INTERNAL MEDICINE TEACHING SERVICE AT AN URBAN, TERTIARY CARE CENTER
+
+Matthew W. McCarthy. Weill Cornell Medicine, Irvington, NY. (Control ID #3182900)
+
+# NEEDS AND OBJECTIVES:
+
+Little is known about the daily ethical conflicts encountered by hospitalists on the General Internal Medicine (GIM) service that do not prompt a formal clinical ethics consultation. These issues may cause significant moral distress and are an under-recognized educational opportunity. We sought to characterize the epidemiology of ethical issues arising on a GIM teaching service during an academic year and compare them to those seen by the ethics consultation service.
+
+# SETTING AND PARTICIPANTS:
+
+We describe the frequencies of ethical issues identified during daily rounds on GIM teaching services at a metropolitan, tertiary-care, teaching hospital. Data was collected from September 2017 through May 2018 by two attending hospitalists from the ethics committee who were embedded on GIM rounds and was compared to all ethics consults at the institution during 2017.
+
+# DESCRIPTION:
+
+270 patients were evaluated and 113 ethical issues were identified in 77 of those patients (28.5%) on the GIM service. These issues most frequently involved discussions about goals of care, treatment refusals, decision-making capacity, discharge planning, cardiopulmonary resuscitation status, and pain management. Only 5 formal consults were brought to the Hospital Ethics Committee for these 270 patients (p<0.001). When compared to the cases seen by the ethics service, hospitalists and trainees on the GIM service dealt significantly more frequently with problems around clarifying goals of care (p<0.01), whereas clinical ethicists dealt more frequently with problems involving surrogate decision-making (p<0.05).
+
+# EVALUATION:
+
+The results of this study have been used to create an undergraduate seminar in medical ethics at the Macaualay Honors College at the City University of New York (CUNY). The course is now in its second year and has expanded to cover ethical issues encountered in GIM, psychiatry, social work, nursing, and other subspecialties.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our data is the first prospective description of ethical issues arising on academic GIM teaching services. These scenarios present an unrealized opportunity and is an important step in the development of a targeted ethics curriculum for hospitalists. This has already begun with the creation of an undergraduate curriculum and will soon expand to graduate medical education.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+https://macaulay.cuny.edu/academics/upper-level-courses/spring-2019-courses/issues-in-medical-ethics/
+
+# GAMING FOR THE WIN IN RESIDENT EDUCATION: GAMING TO ENHANCE RESIDENT LEARNING
+
+Allie Dakroub1, 2; Diane L. Levine3. 1University of Pittsburgh Medical Center, Pittsburgh, PA; 2Wayne State University/Detroit Medical Center, Detroit, MI; 3Wayne State University, Detroit, MI. (Control ID #3186285)
+
+# NEEDS AND OBJECTIVES:
+
+In response to declining attendance and engagement, we sought to revitalize our resident board review. We designed more active educational sessions through the implementation of gaming. We hypothesized that a game-based board-review curriculum would improve attendance and enhance residents' learning experience.
+
+# SETTING AND PARTICIPANTS:
+
+Our residency program is at an academic, urban health care system with approximately 105 IM residents. Board review is held weekly and learning games were implemented for 1 hour, weekly.
+
+# DESCRIPTION:
+
+We developed several learning games that provided a team-based competitive experience for resident board review. These games were implemented during weekly board review sessions for 20 weeks throughout the 2017-2018 academic year. The residency is divided into 5 cohorts, each comprising about 21 residents distributed evenly by PGY level. Each cohort competed in these learning games, and the competition concluded with a 4-hour "Cohort Cup Olympics" grand finale. The cohort with the highest overall score was treated to dinner and their team name was engraved on a trophy, the "Cohort Cup". Pre- and post-curriculum electronic surveys comprising 5-point Likert-type items were used to assess resident perceptions of the academic half-day experience and satisfaction with the "Cohort Cup". Attendance was also tracked.
+
+# EVALUATION:
+
+A pre- and post-intervention survey comprising 5-point Likert-type items was used to gauge resident perceptions and satisfaction of the novel game-based board review. 84 residents completed the pre-survey, and 74 completed the post-survey. Additionally, resident attendance was tracked and improved from an average of 12 residents per session for the didactic board-review to 25 residents per session for the game-based board review.
+
+|Survey Item|Pre-Intervention Average|Post-Intervention Average|
+|---|---|---|
+|I am engaged in the academic half-day as they are currently designed|2.74|3.8|
+|The current structure of the academic half-day contributes to my education|2.68|3.95|
+|I prefer games and active learning as opposed to standard lecture based didactics for my learning|3.77|4.32|
+|I prefer the "Cohort Cup" activity as opposed to standard lecture based didactics for my learning|n/a|4.24|
+|I feel that I learn more from the "Cohort Cup" activity than I do from standard lecture based didactics|n/a|4.03|
+|I prefer to have the "Cohort Cup" remain a part of my didactics|n/a|4.42|
+|I feel that the "Cohort Cup" activity has helped me bond with others in my residency|n/a|4.36|
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Implementation of an educational strategy that incorporates the fun of games and the motivation of competition resulted in increased resident attendance and engagement in our residency program's board review. The "Cohort Cup" model could be adapted for other curricular content or for board review curricula in other programs looking for innovative ways to incorporate active learning.
+
+# GRIT AMONG FIRST-YEAR INTERNAL MEDICINE RESIDENTS
+
+Andrew J. Klein1; Scott D. Rothenberger2; Kathryn Berlacher3; Thomas Grau1. 1University of Pittsburgh School of Medicine, Pittsburgh, PA; 2University of Pittsburgh, Pittsburgh, PA; 3University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3186326)
+
+# NEEDS AND OBJECTIVES:
+
+Grit is a characteristic, defined as passion and perseverance for long-term goals, that is associated with success and avoidance of burnout in a number of fields, but whether this is a relevant construct among physicians has not been well established. We aimed to evaluate Grit among our first-year internal medicine residents in relation to burnout. Our hypothesis is that July Grit level may help predict those who may be at highest risk of developing burnout.
+
+# SETTING AND PARTICIPANTS:
+
+We recruited 75 postgraduate year 1 (PGY1) residents in Internal Medicine at a major academic hospital program.
+
+# DESCRIPTION:
+
+We administered the well-validated short Grit survey and Maslach Burnout Inventory in July and December of 2018 to all PGY1 residents.

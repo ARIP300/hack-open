@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Methemoglobinemia and G6PD Deficiency
+
+Hospital, the prophylactic administration of agents such as rasburicase and allopurinol is often done without consideration for potential side effects from these medications. Methemoglobinemia occurs in less than one percent of patients who take rasburicase, and the incidence is the same in patients with G6PD deficiency. The treatment for methemoglobinemia is methylene blue and patients with G6PD deficiency are highly susceptible to acute hemolytic anemia in the setting of methylene blue administration. Exchange transfusion is the only alternative when a patient requires methylene blue for methemoglobinemia but is succumbing to hemolytic anemia secondary to G6PD deficiency.
+
+# CONCLUSION:
+
+There is an FDA warning to screen populations with high incidences of G6PD deficiencies, prior to treatment with methylene blue. The practical reality, however, is that when methemoglobinemia presents, prompt initiation of therapy is required which precludes time for screening. The only way to prevent this scenario is to be aware of the patient's G6PD status prior to beginning methylene blue therapy.
+
+# WIDE PULSE PRESSURE IN A TRAUMA PATIENT: HEMORRHAGIC VERSUS SEPTIC SHOCK
+
+Kenya Iwase1; Jintetsu Minami2; Munehisa Atsumi2; Mitsunori Iwase2; Hiroki Kato2. 1TOYOTA Memorial Hospital, Toyota City, Japan; 2Toyota Memorial Hospital, Toyota City, Aichi Pref, Japan. (Control ID #3183827)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the diagnostic value of pulse pressure to differentiate etiologies of shock.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize various causes of wide pulse pressure.
+
+# CASE:
+
+A 63-year-old man was brought in by ambulance after a single-car rollover traffic accident. His medical history included Crohn's disease for 32 years, long-standing diabetes mellitus and end-stage renal disease on dialysis for 4 years. His blood pressure was 97/34 mmHg and heart rate was 121/min. His respiratory rate was 32/min with normal SpO2 on room air, and his temperature was 39.9°C. Physical examination revealed abdominal tenderness and warm extremities. A whole-body CT scan was performed for suspected hemorrhagic shock, which showed neither fracture nor traumatic organ damage. However, there was a "dirty fat" sign around the mesentery, consistent with bowel inflammation. Importantly, history taking revealed persistent fever with shivering and watery stool lasting for 2 weeks prior to the presentation. His immunosuppressant therapy was recently discontinued due to nontuberculous mycobacterial infection. He was admitted for suspected intra-abdominal infection as well as flare-up of Crohn's disease. The patient was treated with meropenem. The initial sets of blood culture were negative. We started administration of 5-ASA for assumed flare-up of Crohn's disease. On the third day, we performed exploratory laparotomy for suspected bowel perforation and abscess formation noted on follow-up CT scan. Although laparotomy showed adhesions of intestine, neither abscess nor perforation was noted. On the fourth day, the second blood cultures grew Candida glabrata. We added Micafungin. However, abdominal pain and bloody stool persisted, which were thought to be due to intestinal ischemia or necrosis secondary to extensive inflammation. Unfortunately, his condition further deteriorated and he passed on the 26th day. By autopsy, dirty ascites retention because of the intestinal inflammation, bleeding and perforation on mucous membranes were detected.
+
+# IMPACT/DISCUSSION:
+
+The most common etiology of shock in trauma patients is hemorrhagic shock. Most patients with hemorrhagic shock usually have narrow pulse pressure due to peripheral vasoconstriction from intravascular volume depletion and intrinsic catecholamine surge. In contrast, septic shock leads to wide pulse pressure due to profound vasodilation from cytokine surge. In the present case, the observed wide pulse pressure was an important clue indicating distributive shock. Intestinal flora is disturbed in patients with inflammatory bowel disease. Recently, fungal flora dysbiosis are also reported. Importantly, we should keep in mind that the various causes of wide pulse pressure exist. The representative causes include aortic valve insufficiency, severe anemia, hyperthyroidism, and beriberi heart, so on.
+
+# CONCLUSION:
+
+In trauma patients with wide pulse pressure, we should consider that the cases may have something to do with septic shock.
+
+# WITHOUT NAME DAH
+
+Ian Cormier; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186078)
+
+# LEARNING OBJECTIVE #1:
+
+Develop an approach to diffuse alveolar hemorrhage (DAH)
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the presentation of and risk factors for hantavirus
+
+# CASE:
+
+A 39 year-old woman from Mexico presented with fever and cough for an unspecified duration. Her past medical history was significant for hereditary amyloidosis with cardiac and gastrointestinal involvement. She was febrile and hypotensive. Thrombocytopenia, elevated lactate dehydrogenase, elevated transaminases and a left shift of granulocytes were present. The patient developed acute hypoxic respiratory failure with diffuse pulmonary infiltrates suggestive of adult respiratory distress syndrome (ARDS) and bilateral pleural effusions. CT of the chest revealed severe bilateral pulmonary consolidation and pulmonary edema. She was started on empiric vancomycin, piperacillin-tazobactam, doxycycline and micafungin for atypical pneumonia. Thoracentesis revealed a transudative effusion. The patient's respiratory status worsened despite therapy and a bronchoalveolar lavage (BAL) revealed diffuse alveolar hemorrhage. All cultures and serology were negative. The patient was started on therapy with steroids for suspected pulmonary amyloidosis. The patient's respiratory status gradually improved. Infectious workup all came back negative except for Hantavirus IgM, which was significantly elevated.
+
+# IMPACT/DISCUSSION:
+
+Hantaviruses are a genus of enveloped viruses within the Bunyaviridae family. The genus is divided into the New World and Old World viruses, with Hantavirus Cardiopulmonary Syndrome caused by the former and Hemorrhagic Fever with Renal Syndrome caused by the latter. In the United States, HCPS is most commonly caused by the Sin Nombre virus (SNV). The majority of reported cases occur in the Southwest, specifically New Mexico, Arizona, and Colorado. All clinically important Hantaviruses are transmitted by aerosolized droplets from urine, feces or saliva of rodents. One of the earliest and most specific laboratory findings in patients with HCPS is thrombocytopenia with a rapid decrease in platelets. A small number of SNV IgM positive / IgG negative samples represent false positive reactivity associated with acute cytomegalovirus or Epstein Barr virus infection. Diffuse alveolar hemorrhage can be divided into infectious and non-infectious causes. Non-infectious causes are the majority of the causes of DAH, however infectious causes must be considered in the appropriate patients due to treatment implications of corticosteroids. DAH secondary to an infectious cause can occur in both immunocompetent and immunocompromised. The most common causes in immunocompetent patients are influenza H1N1, dengue, leptospirosis, malaria, Staphylococcus aureus, and HCPS. The differential for diffuse alveolar hemorrhage must remain broad and should include infectious causes in both immunocompromised and immunocompetent patients.

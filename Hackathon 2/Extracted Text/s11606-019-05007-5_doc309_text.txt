@@ -1,0 +1,47 @@
+# ABSTRACTS JGIM
+
+Severely elevated BP 180/110 mmHg, history of stroke, coronary artery disease, peripheral artery disease, heart failure, left ventricular hypertrophy by echo, atrial fibrillation, and chronic kidney disease. Data pertaining to the patient demographics, and clinician BP management were extracted by medically-trained coders. Descriptive statistics were used to characterize the rate of out-of-office BP testing in 2014 versus 2016.
+
+# RESULTS:
+
+In 2014, of 150 visits with USPSTF HTN guideline-eligible patients (mean age 63 years, 51% female, 83% with SBP 140 mmHg and 33% with DBP 90 mmHg), 1 patient was prescribed HBPM, none were referred for ABPM, and 1 patient was diagnosed with HTN and started on BP medication. BP was not mentioned in 73% of visit notes, BP was to be rechecked next time in 24% of visit notes, and BP was to be measured through other methods (i.e. pharmacy) in 3% of visit notes. In 2016, of 80 guideline-eligible patients (mean age 62 years, 58% female, 82% with SBP 140 mmHg and 36% with DBP 90 mmHg), 1 patient was prescribed HBPM, none were referred for ABPM, and none were diagnosed with HTN. BP was not mentioned in 85% of visit notes, and BP was to be rechecked in 14% of visit notes.
+
+# CONCLUSIONS:
+
+The rates of ordering ABPM or HBPM for guideline-eligible patients remained low pre and post USPSTF guideline updates. This calls for the development of implementation strategies to increase the uptake of this important guideline. Additional interventions may be needed to reduce the predominant wait-and-see approach to elevated office BP.
+
+# WHAT ASPECTS OF DIABETIC SELF-CARE ACTIVITIES IS MOST IMPACTED BY PATIENT ACTIVATION AND MHEALTH INTERVENTIONS? THE OFFICE-GUIDELINES APPLIED TO PRACTICE (OFFICE-GAP) PROGRAM.
+
+Sherif Elkinany; Zane Alroshood; Ngoc Nguyen; Karen Kelly-Blake; William Hart-Davidson; Ling Wang; Maya Al-Saghir; Khader Herzallah; Brandon Batarse; Ade B. Olomu. Michigan State University, East Lansing, MI. (Control ID #3183056)
+
+# BACKGROUND:
+
+Office-Guidelines Applied to Practice (Office-GAP) is a patient activation intervention providing patient and physician training in shared decision-making (SDM) to improve communication and patient-physician relationships. Our objective was to determine aspects of diabetic self-care significantly impacted by the Office-GAP + mHealth intervention compared to mHealth alone.
+
+# METHODS:
+
+Office-GAP intervention included: 1) group visit 2) SDM physician training and 3) decision support checklist used in real time in the office. Mhealth intervention includes teaching patients to send and receive text messages; patients received daily messages appropriate to their diagnosis and medications for 14 weeks, along with appointment reminders and patients could respond to prompts and contact their providers via text. Seventy-four patients who completed the Summary of Diabetes Self Care Activities (SDSCA) at baseline were assigned to either Office-GAP + mHealth (39 patients) or mHealth only (35 patients). The SDSCA assesses six aspects of diabetic self-care: general diet, specific diet, exercise, blood-glucose testing, foot care, and smoking. Patients in both groups completed SDSCA at baseline, first (2 months), and second (4 months) follow-up visits. Generalized Estimating Equation for Poisson distribution is employed for statistical analysis.
+
+# RESULTS:
+
+There were significant improvements in general diet and foot care. For Office-GAP + mHealth, the average number of days/week following general diet was 2.69 at baseline, 3.77 at first follow-up and 3.77 at second follow-up. For mHealth only, the average was 3.23, 2.96 and 3.89 at baseline, first and second follow-ups respectively. Regression analysis showed that after controlling for age, gender, race, health insurance and BMI, from baseline to second follow-up, the incident rate ratios (IRR) for general diet in Office-GAP + mHealth group was 1.19 (P =0.005) while in mHealth only, from baseline to second follow-up, IRR for general diet was 1.10 (P=0.22). Compared with mHealth only group, IRR for general diet in Office-GAP + mHealth group was 1.08 (P=0.43). For Office-GAP + mHealth, the average number of days/week following foot care was 3.05, 4.80 and 4.95 at baseline, first and second follow-ups respectively. For mHealth only, the average following foot care was 3.23, 3.71 and 5.21 at baseline, first and second follow-up respectively. Controlling for age, gender, race, health insurance and BMI, the number of days/week following foot care in both groups increased significantly, with IRR of 1.30 in Office-GAP + mHealth (P <0.01) and 1.19 in mHealth only (P<0.01). Compared with mHealth only, IRR for foot care in Office-GAP + mHealth was 1.09 (P=0.32).
+
+# CONCLUSIONS:
+
+Combined Office-GAP + mHealth showed significant improvement in patient general diet compared to mHealth alone. Both interventions showed significant improvement in number of days patients engaged in foot care with no significant differences between groups.
+
+# WHAT DO PATIENT-CENTERED MEDICAL HOME (PCMH) TEAMS NEED TO BETTER MANAGE CARE FOR THEIR PATIENTS AT HIGH-RISK FOR HOSPITALIZATION OR MORTALITY?
+
+Susan E. Stockdale1, 2; Marian L. Katz1; Alicia Bergman1; Donna M. Zulman3; Angela Denietolis4; Evelyn T. Chang5. 1VA HSR&D, Los Angeles, CA; 2University of California, Los Angeles, CA; 3Stanford University and VA Palo Alto, Stanford, CA; 4Veterans Health Administration, Washington, DC; 5VA- Greater Los Angeles, Los Angeles, CA. (Control ID #3179213)
+
+# BACKGROUND:
+
+Some research shows that intensive primary care (IPC) programs for high-risk patients may not generate cost savings. A recent 5-site IPC demonstration within the Veterans Health Administration (VHA) found that IPC programs resulted in greater use of outpatient services, but costs of the program and increased outpatient services were offset by decreased inpatient and emergency department utilization. Using existing PCMH teams to better manage the most complex patients in primary care through enhanced resources and training may be a less costly alternative to IPC programs. Our objective was to identify which IPC components could be incorporated into PCMH teams' workflow, and what additional resources, trainings, and staff PCMH teams would need to better manage their complex patients.
+
+# METHODS:
+
+As part of a qualitative evaluation of VHA's 5-site IPC demonstration, we conducted semi-structured interviews with PCMH teams (primary care providers, nurses, social workers; n=24), primary care (n=14) and IPC program leaders (n=6). We asked interviewees which components of IPC the PCMH teams could feasibly perform and what resources, trainings, or staffing PCMH teams would need. We conducted analysis of a priori themes using a rapid qualitative analysis approach.
+
+# RESULTS:
+
+Perspectives on which IPC components would be feasible for PCMH teams to perform varied by interviewee role. Most thought that PCMH teams could do clinic-based aspects of IPC, including more frequent calls/visits with patients, patient/caregiver education and psychosocial support, referrals to community services, and managing care transitions. Home visits and co-attending appointments requiring PCMH team members' physical absence from clinic were perceived as key IPC components but less feasible for PCMH teams. Use of existing home visit services buttressed with better collaboration between PCMH teams and these services may be more feasible than PCMH teams conducting home visits. Interviewees said that PCMH teams would need full staffing (including behavioral health, pharmacy, and other ancillary services) and more dedicated time for chart reviews and assessments, interdisciplinary team meetings, and patient follow-up. Some thought that additional staffing, especially RN care managers and social workers, or smaller panels would be needed. Most thought PCMH teams could use existing care management tools and resources, but would need more training in identifying and using them, and more training in social determinants of health and patient engagement/goal setting.

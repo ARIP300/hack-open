@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# BE MINDFUL OF DISCREPANCIES BETWEEN GLUCOSE AND HEMOGLOBIN A1C MEASUREMENTS
+
+Jeffrey R. Borgeson1; Alice Cusick2. 1Michigan Medicine, Fenton, MI; 2Michigan Medicine, Ann Arbor, MI. (Control ID #3160743)
+
+# LEARNING OBJECTIVE #1:
+
+Identify discrepancies between glucose measurements and hemoglobin a1c measurements
+
+# LEARNING OBJECTIVE #2:
+
+Understand the possible causes for discrepant glucose and hemoglobin a1c measurements
+
+# CASE:
+
+The patient is a 73-year-old woman with a history of asthma who presented for a routine health maintenance examination. At the time of the office visit she had no specific concerns. Specifically, she had no fatigue, jaundice, dyspnea, polyuria, polydipsia, or unexplained weight loss. Physical examination was normal. Screening laboratories revealed a fasted glucose of 140 mg/dl, a hemoglobin a1c level of 4.5%, and a hemoglobin of 11.9 g/dl. Otherwise, the complete blood count, comprehensive metabolic panel, and lipid panel were normal. A repeat fasted glucose level was ordered and found to be 129 mg/dl, confirming the diagnosis of diabetes. A repeat hemoglobin a1c was 4.4%. Fructosamine level was 265 micromol/L (high end of normal). Due to what appeared to be an inappropriately low hemoglobin a1c level, a lab investigation was initiated to explore causes of accelerated red blood destruction. This workup produced the following results: reticulocyte count 8.55% (high), LDH 266 IU/L (high), haptoglobin &lt;10 mg/dl, total bilirubin 1.9 mg/dl (high), and a negative direct antiglobulin test (DAT). The peripheral smear showed polychromasia and numerous spherocytes. A CT scan of the chest, abdomen, and pelvis showed mild splenomegaly but was otherwise unremarkable. An osmotic fragility test showed increased erythrocyte osmotic fragility. The evidence of hemolytic anemia, presence of spherocytes on the manual differential, and positive osmotic fragility test confirmed the diagnosis of hereditary spherocytosis.
+
+# IMPACT/DISCUSSION:
+
+This case shows how the identification of a discrepancy between glucose and hemoglobin a1c measurements may lead to the discovery of a significant hematological condition. A fasted glucose level measurement of 140 mg/dl correlates to a hba1c of approximately 7%. The measured hba1c of 4.5% in this case was therefore much lower than expected. This observation in turn led to the diagnosis of hereditary spherocytosis. Conditions that cause increased red cell turnover lead to a shorter lifespan for hemoglobin and subsequently less time for hemoglobin glycosylation, which in turn leads to misleadingly low hemoglobin a1c levels. Correspondingly, conditions associated with decreased red cell destruction may cause misleadingly high hemoglobin a1c levels. In situations with such a discrepancy, a reasonable workup may include a fructosamine level to confirm the discrepancy, lab testing directed at hemolysis and other disorders of red blood cell metabolism such as iron and B12 deficiency, and imaging to look for splenomegaly.
+
+# CONCLUSION:
+
+When the hemoglobin a1c is much lower than what would be expected based on an individual's glucose measurements, disorders associated with increased red cell turnover should be investigated.
+
+# BECOMING ADEPT IN AGEP: RECOGNIZING ACUTE GENERALIZED EXANTHEMATOUS PUSTULOSIS (AGEP) AS A DISTINCT SEVERE CUTANEOUS ADVERSE REACTION
+
+Alaina C. Chodoff; Kristen M. Livesey; Margaret Shang. University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3167664)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish the features of a severe cutaneous adverse drug reaction
+
+# LEARNING OBJECTIVE #2:
+
+Demonstrate the importance of a thorough physical examination for prompt diagnosis of acute generalized exanthematous pustulosis
+
+# CASE:
+
+A 84-year-old gentleman with a history of dermatomyositis, treated with prednisone and methotrexate, was admitted with a rapidly progressive pruritic skin eruption that began abruptly after taking clindamycin for a dental extraction. He was afebrile, normotensive and tachycardic. Skin exam revealed widespread erythematous papules coalescing into plaques across his neck, chest, back, abdomen and extremities. Discrete, non-follicular, pin-head sized pustules were scattered across his neck and upper chest. There was no mucosal membrane involvement or lymphadenopathy. Laboratory testing revealed a white cell count of 20,000 cells per microliter of blood of which 80% were neutrophils and 15% eosinophils. He had an acute kidney injury and liver function tests were normal. Cultures of the blood and urine were negative. Histology from a punch biopsy revealed focal parakeratosis and spongiosis with lymphocyte and neutrophil exocytosis, consistent with a pustular drug eruption. A diagnosis of AGEP was confirmed. The rash underwent desquamation and the patient gradually improved with supportive care.
+
+# IMPACT/DISCUSSION:
+
+AGEP, Stevens Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) and drug rash with eosinophilia and systemic symptoms (DRESS) are categorized as severe cutaneous drug adverse reactions. A thorough physical examination enables detection of the early signs and symptoms of severe cutaneous adverse drug reactions including mucosal membrane involvement, lymphadenopathy, facial edema, blisters and high-grade fevers. Identification of the classic pinpoint, nonfollicular, pustules of AGEP is essential to distinguish this rash from other self-limited exanthematous eruptions. Skin biopsy is confirmatory for diagnosis. As pustular desquamation occurs, classically after 10 days, topical corticosteroids can be applied for symptomatic relief.
+
+# CONCLUSION:
+
+AGEP is a rare, idiosyncratic, T-cell-mediated, hypersensitivity drug reaction. It is distinguished by its rapid onset after administration of the offending agent, generally within 1-2 days. Over 90% of cases are drug-related, most commonly attributed to antibiotics, antiepileptic agents and antihypertensive agents. Although considered less severe than SJS-TEN and DRESS, there can be overlapping features including mucosal involvement, extensive skin blistering and severe systemic symptoms with end organ damage due to profound neutrophilia and subsequent tissue damage. Up to one-third of patients can also present with eosinophilia, further complicating the differentiation of AGEP. Treatment remains supportive with removal of the offending agent. Once AGEP is suspected, there is no evidence supporting the use of systemic corticosteroids.
+
+# BEER-DRINKERS' CARDIOMYOPATHY REVISITED: COBALT TOXICITY AFTER A NON-METAL-ON-METAL HIP ARTHROPLASTY
+
+Daniel Davies; Panithaya Chareonthaitawee. Mayo Clinic, Rochester, MN. (Control ID #3174131)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose the cobalt toxidrome.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize risk factors for cobalt toxicity.
+
+# CASE:
+
+A 59-year-old woman with new-onset ankle edema and fatigue presented for pre-operative evaluation prior to revision left hip arthroplasty. A cobalt prosthesis was placed 18 months ago after catastrophic failure of a ceramic-on-ceramic left hip arthroplasty, but subsequently developed "run-away wear". She denied other cardiovascular symptoms, but did note severe progressive hearing loss over the last eight months. A month later, she was diagnosed with hypothyroidism and was started on replacement. Her vision also markedly worsened despite normal ophthalmologic evaluations. She described minimal alcohol use and had no significant cardiovascular or neurologic family history. Physical examination was significant for regular tachycardia of 110 bpm, normal S1 and S2 without murmur, bilateral ankle edema, severe hearing and vision loss, no thyromegaly or nodules, and an

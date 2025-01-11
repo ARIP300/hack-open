@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# DOES A HIGHER LEVEL OF EDUCATION TRANSLATE INTO A LOWER PREVALENCE OF CARDIOVASCULAR DISEASE
+
+Taher M. Tayeb1; Talal Alzahrani2; Marco Mercader2. 1The George Washington University, Arlington, VA; 2The George Washington University hospital, Washington, DC. (Control ID #3141282)
+
+# BACKGROUND:
+
+Education is one of the determinants of health as described by the WHO, and it is one of the primary determinants of Socio-Economic Class (SEC), a higher level of education is associated with a higher level of SEC. Few researchers have addressed the link between the level of education and cardiovascular disease. However, there remains a need for a national study to determine the relationship between the level of education and cardiovascular disease. In this study, we investigated the effect of the level of education on the rate of myocardial infarction (MI) and cardiovascular risk factors including diabetes mellitus, hypertension, hypercholesterolemia, and smoking status.
+
+# METHODS:
+
+The National Health Interview Surveys of 2016 (n=73,353) were utilized to measure the effect of level of education on MI and other risk factors. Subjects were assigned into four groups based on the level of education. The first group labeled as no education till the 12th grade, the second group identified as General Education Diploma (GED) or a high school diploma, the third group included subjects with some college, associate degree or bachelor, and the fourth group designated for subjects with master's degrees, professional degrees, or doctorates. Logistic regression models were used to examine the association between level of education and cardiovascular risk factors. The final model examined the association between level of education and MI after adjusting for demographics and cardiovascular risk factors.
+
+# RESULTS:
+
+A higher level of education was associated with lower odds of having cardiovascular risk factors. The final logistic regression model revealed that subjects with GED and high school education (OR 0.80, 95% CI 0.65-0.97; p 0.027), subjects with some college degree/ bachelor degree (OR 0.74, 95% CI 0.61-0.90; p <0.003), and subjects with master degrees or professional degrees (OR 0.58, 95% CI 0.43-0.78; p <0.001) have lower odds of having MI compared to the first group after adjusting for other risk factors including age, gender, diabetes mellitus, hypertension, hypercholesterolemia, and tobacco use.
+
+# CONCLUSIONS:
+
+This study unveiled that a higher level of education is associated with a lower rate of myocardial infarction and cardiovascular risk factors.
+
+# DOES AN INDEX COMPOSED OF ROUTINE LABS DISCRIMINATE RISK OF MORTALITY BETTER THAN THE CHARLSON INDEX
+
+Christopher T. Rentsch1, 2; Janet P. Tate2; Laura Tarko4; Jacqueline Honerlaw; Kelly Cho4, 5; Yuk-Lam Ho4; Amy C. Justice2, 3. 1London School of Hygiene & Tropical Medicine, London, United Kingdom; 2Yale School of Medicine/VA Connecticut Healthcare System, New Haven, CT; 3Yale School of Public Health, New Haven, CT; 4VA Boston Healthcare System, Boston, MA; 5Brigham and Women's Hospital/Harvard Medical School, Boston, MA. (Control ID #3175306)
+
+# BACKGROUND:
+
+The diagnostic code adaptation of the Charlson Comorbidity Index has been used as a mainstay adjustment for overall disease burden by thousands of investigators for decades. Now that electronic health records (EHR) make large scale access to laboratory data possible, we ask whether the Veterans Aging Cohort Study (VACS) Index, based on routinely available clinical laboratory data, provides superior discrimination of mortality to that of the Charlson Index.
+
+# METHODS:
+
+We conducted an analysis using data from the Department of Veterans Affairs Million Veteran Program, a volunteer cohort of >500,000 patients providing full access to their EHR data. Baseline was set at enrollment. Patients were followed up to five years. The VACS Index was calculated from hemoglobin, ALT, AST, platelets, creatinine, hepatitis C status, albumin, white blood count, body mass index, and age. The Charlson Index was calculated from age and ICD-9/10 diagnostic codes for acute myocardial infarction, congestive heart failure, peripheral vascular disease, cerebral vascular accident, dementia, pulmonary disease, connective tissue disorder, peptic ulcer, mild and severe liver disease, diabetes and diabetic complications, paraplegia, renal disease, cancer and metastatic cancer, and HIV/AIDS. Values for VACS Index and codes for Charlson Index were assessed in the year prior to baseline. We compared discrimination (C-statistics) and model fit (AIC) between Cox models assessing 30-day, 6-month, 1-year, and 5-year mortality using VACS Index and Charlson Index scores as the sole predictor. We then compared C-statistics of models assessing 1-year mortality stratified by sex, age, and race/ethnicity.
+
+# RESULTS:
+
+Among 313,691 participants with laboratory data, median age was 64 years (IQR 55-70), 91% were male, 67% were European-American, and 21% were African-American. At 30 days, 6 months, 1 year, and 5 years, there were 370 (1.4 per 100 person-years [PY]), 1,383 (2.4/100 PY), 8,106 (2.7/100 PY), and 28,889 deaths (3.1/100 PY), respectively. C-statistics were significantly higher for VACS Index than Charlson Index at every time interval (C, 0.812 [95% CI, 0.789-0.836] vs. C, 0.759 [95% CI, 0.733-0.786] at 30 days; C, 0.765 [95% CI, 0.762-0.768] vs. C, 0.752 [95% CI, 0.749-0.755] at 5 years) and among men, participants aged 45 years, and European-Americans. Model fit was better for VACS Index than Charlson Index at every time interval. Of note, a benefit for Charlson is that there are no missing data since conditions are assumed absent if not coded; C-statistics for Charlson among those without laboratory data were consistent with those having laboratory data (data not otherwise shown).
+
+# CONCLUSIONS:
+
+The VACS Index, based on routinely available laboratory data, provides superior discrimination of mortality compared to that of the Charlson Index based on ICD codes. Now that EHRs can provide laboratory data on a large scale, the Charlson Index should no longer be the preferred method of risk adjustment.
+
+# DOES DIABETES EDUCATION INFLUENCE GLYCOSYLATED HEMOGLOBIN?
+
+Pooja Bhargava1; Linda Keller-Doyle1; Eric Green2. 1Mercy Catholic Medical Center, Philadelphia, PA; 2Mercy Catholic Medical Center, Darby, PA. (Control ID #3180218)
+
+# BACKGROUND:
+
+Even though patient education is considered an essential component of diabetes management, little is known about the effectiveness of formal diabetes management classes.
+
+# METHODS:
+
+Mercy Catholic Medical Center (MCMC) offers a four-week class in self-management of diabetes. The classes are free, taught by certified diabetes educators, and are offered at times believed to be convenient for members of our community. The curriculum addresses diabetes pathophysiology, self-management of glucose, healthy eating, medications, healthy coping, and the benefits of exercise. We evaluated the impact of diabetes education on a cohort of patients who attended diabetes classes between 2015 and 2018. Patients had glycosylated hemoglobin (Hgba1c) measured before and after classes as part of routine care. We limited our analysis to

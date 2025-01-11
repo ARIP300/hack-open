@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# EVALUATION
+
+Surveys included 6 structured-response items rated on a Likert scale (1=never, 5=always) and one open-ended item. Forty-five of 48 students (93%) responded; we evaluated the 35 students placed at the primary teaching hospital. Group 2 sub-interns (n=18) reported that their notes more often served as the team note for their patient (mean 3.9 vs 1.9, p<.001), were valuable to the work of the team (mean 3.9 vs 2.7, p=.01), and were read by attendings (mean 4.0 vs. 3.2, p=.02) when compared with group 1 sub-interns (n=17). Group 2 sub-interns also reported more frequent resident note review and more feedback from residents and attendings; these changes were not statistically significant. Group 2 sub-interns whose notes usually/always served as the team note (n=11) reported significant increases in all outcomes except attending feedback compared with group 1 sub-interns (n=12) whose notes were rarely/never used as the team note.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+After implementation of the CMS documentation rule change in the sub-internship, students reported significantly higher perceived value of their notes. We demonstrated trends toward improved feedback, though they did not reach significance in the primary analysis of this small cohort. Our findings suggest that permitting students to take on this clinical role may enhance learning of documentation, a critical entrustable professional activity.
+
+# WELLNESS WEDNESDAYS AND MORE: BUILDING A WELLNESS CURRICULUM THAT FOSTERS WELL-BEING AND COMBATS BURNOUT
+
+Megan A. McGervey1; Susan Vehar1; Cory Chevalier1; Jennifer Ramsey1; Abby Spencer2. 1Cleveland Clinic Foundation, Lakewood, OH; 2Cleveland Clinic, Chagrin Falls, OH. (Control ID #3181399)
+
+# NEEDS AND OBJECTIVES
+
+In an era where physicians experience high rates of depression, burnout, and suicide, it is imperative that training programs support residents using an interdisciplinary approach to foster connection, build coping strategies, and enhance resilience as we work towards systemic change that supports resident well-being. Our objectives were to create change that fosters well-being through leadership roles and scheduling changes, creating learning objectives to educate residents on components of well-being and recognizing burnout, and providing resources to promote a culture of wellness.
+
+# SETTING AND PARTICIPANTS
+
+This innovation takes place at a large tertiary care academic medical center that hosts 181 internal medicine residents. All residents receive protected learning time for the wellness curriculum during the longitudinal clinic week using the 4+1 block scheduling model and during the lecture series delivered at noon conference.
+
+# DESCRIPTION
+
+The infrastructure for our wellness curriculum was built with the appointment of a Director of Wellness and Well-being and schedule restructure using the 4+1 model in order to promote work-life balance that includes protected time for sessions that focus on caring for the caregiver. During this Y week model, residents receive protected learning time with a focus on forming relationships, recognizing burnout, and addressing issues specific to physicians in today's age. The curriculum uses a multi-faceted approach targeting the different domains of physical, emotional, social, and professional well-being. This has included access to free gym memberships, resident PCP appointments, development of community building activities, weekly "Wellness Wednesday" walk round activities, sessions on nutrition, social media support, resident-led wellness interest groups, and increased awareness and normalization of free caregiver therapy and hospital resources utilizing holistic medicine. It includes resident-led "Wellness Groups" featuring opportunities for food-based gatherings, joint runs, cooking classes, movie nights, camping trips, and plans for a talent show this upcoming spring.
+
+# EVALUATION
+
+Surveys were sent to 181 residents indicating that Wellness Walk Rounds and Wellness Wednesday emails have been overwhelmingly popular and are extremely effective means for distribution of upcoming events and resources that promote well-being. Prior to the intervention, few residents were aware of the "Caring for Caregivers" free therapy sessions or free gym memberships. Wellness groups have been created and have grown in size and expanded to 10 different domains. Thus far, metrics for recognition or prevention of burnout have been less effective.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Our current initiatives have opened the door to conversation and the potential for collaboration with other residency programs who are interested in this directorship. We are currently creating a tool to assess for burnout during advisor meetings that can be used to focus on residents particularly at risk.
+
+# WHAT CAN I DO ABOUT IT?: A PRACTICE-ORIENTED ADVOCACY CURRICULUM FOR INTERNAL MEDICINE RESIDENTS
+
+Priscilla Wang; Ayrenne Adams; Zoe Tseng. Brigham and Women's Hospital, Brookline, MA. (Control ID #3186381)
+
+# NEEDS AND OBJECTIVES
+
+The critical role of social determinants in affecting health has been well-documented. However, the majority of internal medicine residency training focuses on teaching biologic disease interventions, as opposed to addressing social determinants of health. Brigham and Women's internal medicine residents reported via survey interest in advocating for patients, but hesitancy to do so due to limited experience and lack of awareness of how clinicians can create systems-level change. The primary objective of our curriculum is to enable internal medicine trainees to graduate residency equipped with foundational knowledge and skills necessary to advocate for patients in all settings, whether in the clinic or a legislator's office. Secondary objectives include teaching self-advocacy as a means of advancing health equity, and increasing resident interest in participating in advocacy during residency and after training.
+
+# SETTING AND PARTICIPANTS
+
+Primary care PGY-1 and PGY-2 cohorts at Brigham and Women's Hospital (15 individuals)
+
+# DESCRIPTION
+
+We designed a peer-led advocacy curriculum grounded in adult learning theory with active participation. Scheduled during ambulatory blocks, each session features (1) a brief didactic component, (2) interactive breakouts and (3) a group activity to build an advocacy toolkit session-by-session (e.g. targeted electronic medical record "SmartPhrases"). Sessions include: (1) Structural competency as framework to address health inequity (2) Legislative advocacy (3) Self- and patient-advocacy in clinical settings (4) "Hill Day": residents interface with state legislators.
+
+# EVALUATION
+
+The PGY-2 cohort completed a pre-survey prior to the curriculum, followed by post-session feedback forms. Pre and post-responses were matched and compared using anonymous personal identifiers. The pre-survey revealed that 85% of participants did not feel that they possessed concrete skills to use for advocacy and 85% were not comfortable in engaging in legislative advocacy. Themes in post-survey written and verbal feedback included appreciation of interactive sessions and the focus on practical applications, and clear recognition of skill-building during sessions. Post-curriculum survey data and PGY-1 data will similarly be analyzed following completion of scheduled sessions.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Our curriculum has preliminarily demonstrated that a small number of concise, practice-based sessions can increase resident comfort with engaging in advocacy and likelihood of participating in advocacy in the future.

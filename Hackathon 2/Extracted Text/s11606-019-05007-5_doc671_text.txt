@@ -1,0 +1,60 @@
+# ABSTRACTS JGIM
+
+# THE EFFECTS OF TELEHEALTH ON THE FREQUENCY OF PRIMARY CARE CLINIC VISITS
+
+Morgan H. Randall1; Jingwen Zhang2; Elizabeth B. Kirkland2.
+
+1Medical University of South Carolina, Charleston, SC; 2MUSC, Charleston, SC.
+
+(Control ID #3185783)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Does patient participation in remote patient monitoring affect the frequency of primary care clinic visits?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Compare the frequency of primary care visits before and after enrollment in a remote patient monitoring program.
+2. Compare the frequency of primary care visits between patients participating in remote patient monitoring to those not participating.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Telehealth has the potential to mitigate barriers to care and affect social determinants of health by providing access to medical professionals without requiring a patient's physical presence in a medical office. Our institution implemented a remote monitoring program targeting patients with uncontrolled diabetes and hypertension. Specifically, patients with a hemoglobin A1c greater than eight and with diabetes and hypertension managed exclusively by our primary care clinic are eligible to participate in a program utilizing a 2-in-1 automated device with glucose and blood pressure monitoring capability. Recorded values are transmitted directly via cell tower to a secure web server for review by healthcare providers. Based on this data, adjustments in medication regimens were made by physicians within the primary care clinic on a regular basis. This study compared visit frequency among patients who participated in the telehealth program and patients who were eligible but did not participate. While outcomes data are being assessed and will be reported elsewhere, we also aimed to discern whether enrollment in this program has altered the average number of clinic appointments for these patients before and after enrollment. The first available enrollment class offered after identification was used as the intervention date for the unenrolled cohort.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Success in this study was defined as a decrease in the average number of clinic visits for participating patients compared to the same period of time prior to enrollment or compared to eligible but non-participating patients.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+A total of 55 telehealth participants and 80 eligible but not enrolled patients have completed 9 months follow up. Participation in telehealth did not decrease the average number of primary care clinic visits when comparing visit frequency pre- and post-enrollment for the participant group (3.9 vs 3.6, p=0.51). Furthermore, there was no difference in visit frequency between patients participating in telehealth compared to those who were not participating (3.6 vs 3.9, p 0.54).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Telehealth is a tool that has the potential to help overcome barriers to care. Regardless of the effect of telehealth on the clinical outcomes for diabetes and hypertension, this study revealed no significant decrease in primary care clinic visits for patients participating in a telehealth program. This suggests that telehealth acts as a supplement rather than a replacement for primary care. As additional clinical data emerges and the follow up period is extended, the relationship between healthcare utilization and telehealth should be re-examined.
+
+# THE PRIMARY CARE PANEL RETENTION TOOL: A QUALITY IMPROVEMENT PROJECT TO REDUCE LOSS TO FOLLOW-UP IN A VA PRIMARY CARE CLINIC
+
+Andrew T. Harris; Catherine Hoover; Mariel Zaun; Brendan L. Cmolik; Corinna D. Falck-Ytter. Louis Stokes Cleveland VA Medical Center, University Heights, OH. (Control ID #3186691)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Can primary care panel retention be improved by a tool that identifies patients who are lost to follow-up?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Retain paneled patients by ensuring they have an encounter within the past 12 months and a future appointment or recall reminder.
+2. Promote a team-based approach to panel management across a large integrated healthcare system.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Primary Care Panel Retention Tool was implemented at the VA Northeast Ohio Healthcare System, the nation's 3rd largest high-complexity facility with 14 primary care locations and 143 Patient Aligned Care Teams (PACTs) serving over 90,000 veterans. The Primary Care Panel Retention Tool is a web based application that: 1. Sorts patients by facility, Patient Aligned Care Team (PACT) and primary care provider (PCP) 2. Filters by last encounter with PACT team (< 10 mo, 10-12 mo, 12-24 mo, no encounter) 3. Identifies patients lost to follow-up (ie, no future appointment, return to clinic order or recall) 4. Triages patients based on likelihood of adverse outcomes using the Care Assessment Needs (CAN). We pilot tested the tool in one primary care PACT and modified the tool based on feedback. Following pilot testing, we decided to address the following key contributing factors as part of our intervention: 1. Develop a tool to identify lost to follow-up patients - the Primary Care Panel Retention Tool 2. Standardize the outreach process for veterans that are lost to follow up 3. Identify best practices for difficult to reach veterans 4. Standardize policy on how often veterans should be seen - ideally once per year 5. Develop a toolkit for handling common scenarios such as death, incarceration, moved, etc. 6. Standardize processes for depaneling inactive patients. Following multiple PDSA cycles, the Primary Care Panel Retention Tool was implemented across all primary care PACTs by September 2018. Each PACT was coached on use of the tool in their weekly team huddles. Outreach was targeted to patients not seen in the past 10-24 months.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Percentage of primary care patients not seen in the past year.
+2. Percentage of primary care patients with no scheduled follow-up (appointment, recall reminder or return to clinic order).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Since starting data collection in December 2017, the number of primary care patients not seen within the past year has reduced from 10,039 (10.5%) to 6,127 (6.5%). The number of primary care patients...

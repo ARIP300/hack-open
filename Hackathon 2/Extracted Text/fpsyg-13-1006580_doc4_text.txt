@@ -1,0 +1,61 @@
+# Chen et al.
+
+# 10.3389/fpsyg.2022.1006580
+
+questionnaire by combining the research needs and results of the pilot test. We used seven items to measure mental health, such as “I feel that I am unable (or completely unable) to overcome difficulties in my work or life.” In the final calculation, the scoring questions for mental health were converted; higher scores indicated higher levels of mental health.
+
+# Servant leadership (SL)
+
+Following the studies by Ehrhart (2004) and Sendjaya et al. (2019), we used nine items to measure servant leadership, including “My leader makes time to build good relationships with employees” and “My leader is willing to listen to subordinates during decision-making.”
+
+# Employee performance (EP)
+
+We draw on the measurement method provided by Chen et al. (2002) and Khorakian and Sharifrad (2019); we used four items to represent employee performance. An example item is as follows: “I can make a contribution to the overall performance of our enterprise.”
+
+# Control variables
+
+We controlled several variables that may influence employee performance, including firm size, industry, and work age. Firm size was measured by the number of employees. For industry, we coded them into two dummy variables (high-technology industry = 1, non-high-technology industry = 0). We calculated work experience by the number of years the employee has worked for the enterprise.
+
+# Common method bias
+
+Common method bias may exist because each questionnaire was completed independently by each respondent (Cai et al., 2017). We conducted a Harman one-factor test to examine whether common method bias significantly affected our data (Podsakoff and Organ, 1986); the results revealed that the largest factor in our data accounted for only 36.219% of the entire variance. Hence, common method bias did not significantly affect our study findings.
+
+# Results
+
+# Reliability and validity
+
+We analyzed the reliability and validity of our data for further data processing, the results of which are presented in Table 2. Based on these results, we found that Cronbach’s alpha coefficient of each variable was >0.8, thus meeting the requirements for reliability of the variables. To assess the validity of each construct, we conducted four separate confirmatory factor analyses. All the factor loadings exceeded 0.5. Overall, the reliability and validity results met the requirements for further data processing.
+
+# Table 2
+
+|Variables|Items|Factor loading|Cronbach’ α|
+|---|---|---|---|
+|WS|WS1|0.655|0.910|
+| |WS2|0.695| |
+| |WS3|0.794| |
+| |WS4|0.765| |
+| |WS5|0.834| |
+| |WS6|0.770| |
+| |WS7|0.691| |
+|MH|MH1|0.714|0.914|
+| |MH2|0.849| |
+| |MH3|0.762| |
+| |MH4|0.856| |
+| |MH5|0.822| |
+| |MH6|0.872| |
+| |MH7|0.806| |
+|EP|EP1|0.738|0.832|
+| |EP2|0.777| |
+| |EP3|0.865| |
+| |EP4|0.887| |
+|SL|SL1|0.882|0.961|
+| |SL2|0.877| |
+| |SL3|0.879| |
+| |SL4|0.868| |
+| |SL5|0.898| |
+| |SL6|0.832| |
+| |SL7|0.875| |
+| |SL8|0.856| |
+| |SL9|0.906| |
+
+To verify our hypotheses, we used a hierarchical linear regression method. Before conducting the regression analysis, we performed a Pearson correlation analysis, the results of which are presented in Table 3. In the regression analysis, we calculated the variance inflation factor (VIF) of each variable and found that the VIF value of each variable was <3. Hence, the effect of multiple collinearity is not significant. The results of regression analysis are presented in Tables 4, 5.

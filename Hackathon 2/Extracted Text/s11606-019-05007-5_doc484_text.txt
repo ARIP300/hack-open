@@ -1,0 +1,67 @@
+# JGIM
+
+# ABSTRACTS
+
+# MILIARY TB AND A PARADOXICAL REACTION TO TB TREATMENT IN AN IMMUNOCOMPETENT ADULT
+
+Vikas Gampa; Linda Shipton; Eirini Iliaki. Cambridge Health Alliance, Somerville, MA. (Control ID #3176542)
+
+# LEARNING OBJECTIVE #1:
+
+TB treatment can cause paradoxical reactions in immunocompetent patients
+
+# LEARNING OBJECTIVE #2:
+
+Miliary TB can occur in immunocompetent patients
+
+# CASE:
+
+Mr. D is a 24 y/o M with no PMH, who presented with fevers, weight loss, cough, and headache. He was born in Somalia, and had recently traveled to Africa. Physical exam was unremarkable. Initial work-up showed CXR normal, and labs showed mild transaminitis. He was without signs of immunosuppression (HIV negative, CBC unremarkable). Ultrasound of the abdomen showed hypoechoic lesions in the liver; MRI showed innumerable lesions in the liver and spleen. CT chest notable for prominent right hilar lymph nodes. Head CT and LP were unremarkable. Pathology of liver biopsy was unremarkable. A mediastinal lymph node biopsy showed necrotic lymph node and acid-fast bacilli. He was diagnosed with miliary tuberculosis, with concern for resistant TB. He was started on TB treatment, including moxifloxacin given risk for resistant TB; cultures showed a pansensitive organism. One month later, he had new cough and dyspnea; CT scan of the chest showed new cervical and mediastinal lymphadenopathy, and endobronchial lesions. Pathology revealed bronchial mucosa with chronic inflammation, without mycobacterium. The presentation was consistent with a paradoxical reaction to TB treatment. He was treated with prednisone with successful resolution of his symptoms; however, after the completion of 3 month course of steroids, he developed recurrent cough and dyspnea and was diagnosed with recurrent paradoxical reaction with increase in size of lymph nodes and endobronchial lesions, which caused right middle lobe collapse. Steroids were restarted; he also underwent bronchoscopy with lesion debridement with cryoextraction, and recannulization of RML bronchus. Tissue culture was negative for growth of AFB, fungi or other organisms. Pathology showed rare AFB and necrotizing granulomatous inflammation. He was started on an extended course of prednisone and an extended course of TB therapy.
+
+# IMPACT/DISCUSSION:
+
+Miliary tuberculosis is a rare presentation and occurs most often in immunosuppressed patients. Paradoxical reactions are defined by the radiographic or clinical development of new lesions or pre-existing tuberculous lesions when treated with TB treatment. Paradoxical reactions are rare and some case series have identified immunosuppression as a potential risk factor for its development. This case represents an unusual occurrence in which underlying immunosuppression did not play a significant role in the development of disease.
+
+# CONCLUSION:
+
+Miliary TB and paradoxical reactions to TB treatment can rarely occur in HIV-negative patients. Paradoxical reactions can result in significant morbidity or mortality. The pathophysiology is unknown; however, patients who have paradoxical TB reactions may have some underlying immunosuppression. Our patient may yet have an underlying immunosuppressive disorder, given the miliary TB and paradoxical reactions.
+
+# MIND ALTERING SUBSTANCE: AN ELECTROLYTE STORY
+
+Jonathan Chang. Tulane University School of Medicine, New Orleans, LA. (Control ID #3185245)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize electrolyte abnormalities as a cause of altered mental status
+
+# LEARNING OBJECTIVE #2:
+
+Differentiating the causes of hypercalcemia in malignancy
+
+# CASE:
+
+A 79-year-old woman with history of metastatic lung adenocarcinoma presented with one day of altered mental status. Vital signs were normal. The patient was somnolent with speech limited to incomprehensible mumbling but aroused to loud voice and followed commands intermittently. At baseline, the patient was fully oriented and functionally independent. Laboratory studies showed serum calcium of 13.3mg/dL, phosphorus of 6.3mg/dL, acute kidney injury with creatinine of 2.4mg/dL, and lactic acid of 4.2mmol/L. Parathyroid hormone (PTH) was undetectable, 1,25-dihydroxyvitamin D was low, and parathyroid hormone-related peptide (PTHrP) was negative. CT head without contrast was negative for hemorrhage or mass but revealed multiple new osteolytic skull lesions. EEG demonstrated diffuse slowing without epileptiform activity, compatible with toxic-metabolic encephalopathy. Lumbar puncture was unsuccessful, but the patient became fully oriented by the next day and refused a repeat attempt. The hypercalcemia and other abnormalities resolved with aggressive hydration, calcitonin, and pamidronate. Empiric antibiotics for meningitis were discontinued after 24 hours as she exhibited no signs of acute infection and had returned to baseline mental function. She was discharged several days later.
+
+# IMPACT/DISCUSSION:
+
+Hypercalcemia of malignancy is an important consideration for the general internist as it is by far the leading cause of symptomatic hypercalcemia. This process affects 20-30% of all cancer patients and portends a worsening prognosis. It is predominately caused by tumor secretion of PTHrP (80%) or direct bone release from osteolytic metastasis (20%). In Hodgkin lymphoma, hypercalcemia almost exclusively results from excess 1,25-dihydroxyvitamin D. Paraneoplastic PTHrP production, known as humoral hypercalcemia of malignancy, is mostly associated with squamous cell carcinomas and carcinomas of the breast, kidney, bladder, and ovary. PTHrP has significant homology with PTH and drives calcium resorption from the bone and renal tubules as well as urinary phosphorus excretion. Osteolytic metastasis is particularly common in breast carcinomas and multiple myeloma. Bone breakdown is mediated by cytokines that stimulate osteoclast activity, causing concurrent phosphorus elevation. With low PTH, negative PTHrP, and low-to-normal vitamin D levels, clinicians should consider imaging studies and serum/urine protein electrophoresis to evaluate for bony metastases and monoclonal gammopathies.
+
+# CONCLUSION:
+
+Hypercalcemia of malignancy is the most common cause of symptomatic hypercalcemia. Imaging studies to assess for bony metastasis should be considered with low PTH, negative PTHrP, and low-to-normal vitamin D levels.
+
+# MIND THE GAP: AN UNUSUAL CASE OF DYSPNEA IN A RENAL TRANSPLANT PATIENT
+
+Ann Wang; Samuel Rednor; Sumit Kapoor. Montefiore Medical Center, Bronx, NY. (Control ID #3186228)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize a potentially fatal but intervenable cause of hypoxia in patients taking dapsone.
+
+# LEARNING OBJECTIVE #2:
+
+Treat symptomatic methemoglobinemia.
+
+# CASE:
+
+A 51-year-old woman presented with shortness of breath and fatigue. She had a history of lupus nephritis, and two weeks prior to presentation had received a renal transplant and was started on immunosuppressive and prophylactic medications. Physical exam revealed a fatigued and cyanotic-appearing woman with clear breath sounds. Her oxygen saturation on room air was 87%. Labwork was significant for creatinine of 4.8 mg/dl. Non-contrast computed tomography of the chest was negative for infiltrate or edema. A ventilation-perfusion scan was negative for pulmonary embolism. She was placed on high-flow nasal cannula and then BiPAP. However, pulse oximeter continued to read 87-89%. An arterial blood gas (ABG) was then drawn, revealing pH 7.49, pCO2 31mmHg, pO2 184 mmHg, and methemoglobin of 17%. The patient received methylene blue intravenously, with rapid improvement in dyspnea. Of note, she had previously tested normal for G6PD. Within 24 hours, repeat ABG showed methemoglobin of 9.2% and pulse oximeter read 97% on 2L/min nasal cannula. Dapsone was discontinued and atovaquone started for PJP prophylaxis.

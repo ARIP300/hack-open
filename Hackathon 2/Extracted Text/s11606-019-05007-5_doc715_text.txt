@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# IMAGING WISELY: AN INTRODUCTION TO THE ACR APPROPRIATENESS CRITERIA AND ANALYSIS OF ITS IMPACT ON INTERNAL MEDICINE RESIDENTS
+
+Mike K. Cheng1; Andrea L. Magee2; Carina W. Yang1; Joyce W. Tang1.
+
+1University of Chicago, Chicago, IL; 2The University of Chicago, Chicago, IL. (Control ID #3178183)
+
+# NEEDS AND OBJECTIVES:
+
+Inappropriate radiological exam ordering contributes significantly to healthcare waste. The American College of Radiology's (ACR) Appropriateness Criteria (AC) were designed to inform radiological exam ordering practices, but many internists are unfamiliar with them. To promote high-value ordering practices and use of this evidence-based resource, our team of internists and radiologists developed a curriculum introducing medicine residents to the ACR AC.
+
+# SETTING AND PARTICIPANTS:
+
+We offered our Imaging Wisely curriculum to University of Chicago internal medicine interns from 2017-2018. To date, 23 completed the curriculum.
+
+# DESCRIPTION:
+
+Our curriculum included: (1) discussion of medical risks of radiological exam overuse and sample exam charges; (2) introduction to the ACR AC website and app; (3) application of the AC to case vignettes through Radiology-TEACHES™ software; (4) group discussions about the vignettes; and (5) a radiologist-led session about principles of high-value exam ordering.
+
+# EVALUATION:
+
+We used pre- and post-intervention surveys to assess for change in knowledge (through open-book testing with Radiology-TEACHES™ vignettes) and attitudes related to high-value exam ordering. Follow-up surveys 3-11 months post-intervention assessed for durability of change. We used McNemar's tests and paired t-tests for analysis.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+N=23 completed the initial surveys; n=18 completed the follow-up survey. Pre-intervention, 35% of residents were unaware of the ACR AC; only 25% reported it among their top 3 resources guiding ordering decisions. Post-intervention, knowledge scores for appropriate exam ordering increased from 59% correct answers (SD 0.16) to 89% (SD 0.14); p=0.0001. The ACR AC were more often referenced post-intervention (17% of residents pre vs. 74% post; p=0.0003). Post-intervention, more residents felt comfortable with their knowledge of exam costs (4% pre vs. 74% post) and discussing costs with patients (9% pre vs. 61% post), and more residents valued the ACR AC (65% pre vs. 96% post); p-values all <0.05. All residents found the curriculum helpful and 91% planned to change their ordering practices. At 3-11 months post-intervention, 78% referenced the AC at least monthly; 67% reported changing ordering practices due to the curriculum. Knowledge scores remained significantly improved. This curriculum was well-received and produced durable change in knowledge and attitudes towards high-value radiological exam ordering and use of the ACR AC. We believe a factor of its success was the engagement of residents with the utilization of different learning styles and reinforcement of concepts through various formats (didactic sessions, group discussion, problem-based learning). Also, it promoted ongoing, self-driven learning as it equipped learners with a resource that they can continually reference. Given residents' reported sustained change in ordering practices, the curriculum shows strong potential to influence downstream ordering practices. It is currently being piloted with faculty hospitalists.
+
+# IMPLEMENTATION OF A SOCIAL DETERMINANTS OF HEALTH CURRICULUM FOR INTERNAL MEDICINE RESIDENTS AT THE UNIVERSITY OF ROCHESTER MEDICAL CENTER
+
+Mahala Schlagman; Clare Park; Carlos Irwin Oronce. University of Rochester Medical Center, Rochester, NY. (Control ID #3170695)
+
+# NEEDS AND OBJECTIVES:
+
+The ACGME requires residency programs to provide training that includes "an understanding of health care disparities." Despite this mandate, few formal curricula exist to teach residents about health disparities. Our goal was to develop a social determinants of health (SDH) curriculum to teach internal medicine (IM) residents at the University of Rochester Medical Center (URMC) about the patient population they serve and provide an introduction to the social services that are available to help facilitate health. Once established, we plan to make our curriculum available to other residency programs locally and nationwide.
+
+# SETTING AND PARTICIPANTS:
+
+Rochester, NY has the most individuals living below half the federal poverty level of any mid-sized city in America. The URMC is home to the largest IM resident practice in the city, which serves 73% Medicaid or dual-eligible individuals.
+
+# DESCRIPTION:
+
+We developed a curriculum to educate residents about SDH. Modules include: introduction to SDH and impact on health in the city of Rochester, poverty, introduction to health policy, transportation, structural racism, SDH screening, and medical legal partnerships. The program was implemented within the existing ambulatory education sessions as part of the residency program requirements.
+
+# EVALUATION:
+
+81% (56 of 69) of residents completed a survey following the first three sessions. Responses were tallied using average Likert scales and word-association pattern development. Of residents surveyed, 96.4% reported an increase in their comfort with an underserved patient population. In free-response answers, 24.6% reported an increase in understanding or empathy for their patients, 33.3% indicated they would be more likely to consider patients' out-of-pocket costs, and 21.7% reported an increased awareness of available resources. Residents also felt increased awareness of how costs affect patient decision-making and the social factors that affect access to care. An additional survey will be administered after curriculum completion.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+The SDH curriculum increased resident empathy for our underserved patients, helping many of them commit to patient care that considers individuals within their social context. Development of the program required identification of a faculty champion and buy in from program leadership to prioritize these topics within the already robust IM curriculum. Our results provide important preliminary data to guide curriculum advancement.
+
+# IMPLEMENTATION OF A TRAUMA INFORMED CARE PRE CLINIC CONFERENCE CURRICULUM FOR RESIDENTS IN A COUNTY HOSPITAL
+
+Giulia Leggett; Alejandro Díaz; Katherine Dang. Highland Hospital, Oakland, CA. (Control ID #3154900)

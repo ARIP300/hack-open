@@ -1,0 +1,47 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND:
+
+The multi-target stool DNA (mt-sDNA) test is a noninvasive colorectal cancer (CRC) screening test included in United States Preventive Services Task Force, American Cancer Society, and Multi-Society Task Force guidelines for average-risk adults ages 50 years and older. Mt-sDNA testing is performed by a single national reference laboratory (Exact Sciences Laboratories LLC [ESL], Madison, WI) and has an embedded patient navigation system (compliance program) supporting test completion through patient education, reminders, outreach, and multilingual support. Provider specialty and state-level CRC screening rate associations with mt-sDNA test compliance in the Medicare population is reported here. Medicare covers mt-sDNA screening with no out-of-pocket expenses, mitigating the potential impact of financial barriers on compliance.
+
+# METHODS:
+
+Medicare beneficiaries ages 65-85 years with a valid mt-sDNA order from September 1, 2016-August 31, 2017 were identified from the ESL database. Compliance was defined as completion of mt-sDNA testing (positive or negative result) within 365 days of order date. Time to compliance (TTC) was days from order date to completion of mt-sDNA testing. Associations between compliance and provider specialty were evaluated using descriptive statistics. Mt-sDNA compliance was compared for providers in states having the highest (ME [75.9%], CT [75.8%], and MA [75.3%]) and lowest (MS [59.9%], OK [58.8%], and NM [58.5%]) overall CRC screening rates.
+
+# RESULTS:
+
+The mt-sDNA test compliance rate was 71.1% for the study population (N=368,494). Internal medicine (IM) and family medicine (FM) practitioners ordered 74.6% of mt-sDNA tests, with a TTC of 27 days for both specialties. IM practitioners had a 70.7% compliance rate, and FM practitioners had a 71.4% compliance rate. Compliance was highest (78.4%) and median TTC was lowest (25 days) for mt-sDNA tests ordered by gastroenterologists. Compliance in states with high (>75%) and low (<60%) CRC screening rates were similar. Mt-sDNA test compliance rates for ME, CT, and MA, respectively, were 73.7%, 68.2%, and 68.3% (median TTC of 28, 28, and 29 days). The mt-sDNA test compliance rates for MS, OK, and NM, respectively, were 70.1%, 72.3%, and 72.6% (median TTC of 25, 26, and 28 days).
+
+# CONCLUSIONS:
+
+These data suggest that provider specialty is associated with mt-sDNA test compliance. Gastroenterologists had higher compliance rates than IM and FM practitioners, possibly due to differences in patient factors (eg, patients completing gastroenterology referrals may have more motivation to complete CRC screening or a greater sense of urgency) and/or provider factors (eg, patient appreciation of specialty knowledge). Mt-sDNA test compliance was similar in states with both high and low overall CRC screening rates. Broader adoption of mt-sDNA testing may help improve participation among Medicare beneficiaries, especially in states with lower than average screening rates.
+
+# COMBINED PATIENT - PROVIDER ENGAGEMENT SYSTEM AND MHEALTH INTERVENTIONS IMPROVED MEDICATION ADHERENCE FOR MINORITY AND LOW-INCOME PATIENTS WITH DIABETES COMPARED TO MHEALTH ONLY: THE OFFICE-GUIDELINES APPLIED TO PRACTICE PROGRAM
+
+Khader Herzallah; Amari Ellsworth; Zane Alroshood; Ngoc Nguyen; Karen Kelly-Blake; William Hart-Davidson; Ling Wang; Sherif Elkinany; Ade B. Olomu. Michigan State University, East Lansing, MI. (Control ID #3183109)
+
+# BACKGROUND:
+
+Approximately 21-42% of patients with diabetes (DM) do not take their medications as prescribed. Current implementation studies suggest that mHealth interventions alone may not be enough to improve patient health outcomes. Our objective was to determine the impact of a combined patient activation program (Office-Guidelines Applied to Practice {Office-GAP}) + mHealth in improving medication adherence compared to mHealth alone for minority and low-income populations.
+
+# METHODS:
+
+Office-GAP intervention included: 1) Patient activation group visit 2) Physician training for patient activation, and 3) Decision support checklist used in real time in the office. mHealth intervention was teaching patients to send and receive text messages; patients received daily messages appropriate to their diagnosis and medications for 14 weeks along with appointment reminders. Diabetic patients with A1c >8 or with uncontrolled hypertension (BP > 130/80) attending Internal Medicine Residency Clinics were recruited into the study. Patients were consecutively assigned to combined Office-GAP + mHealth group (Green) or mHealth only group (White) based on the resident clinic designation. After a group visit, patients followed up with two physician visits over a 4-month period. Medication adherence was compared at baseline and follow-up by two validated adherence scales: 1) Adherence to Refills and Medications Scale (ARMS), a 14-item scale with two subscales for taking medications as prescribed and refilling medications on schedule, and 2) Morisky Medication Adherence Scale (MMAS), a 4-item self-report measure of adherence to all prescribed medications.
+
+# RESULTS:
+
+Seventy-one patients enrolled in the pilot study; 37 were Office-GAP + mHealth (Green) arm and 34 mHealth alone (White) arm at baseline. At 4 months follow-up, 20 patients from Green and 18 patients from White completed ARMS. Nineteen from Green and 19 from White completed MMAS. Regression analysis for ARMS show that after adjusting for relevant clinical variables, from baseline to 4 months follow-up, ARMS in Green group decreased significantly with 1.74 points on average (P-value=0.008) signifying better adherence to refills and medications. In White group, ARMS increased by 0.256 points (P-value=0.80). Compared with White group, ARMS in Green group are 2.0 points lower from baseline to follow-up (P-value=0.09). Poisson regression results for MMAS show that from baseline to follow-up, the Incident Rate Ratio (IRR) of MMAS in Green group is 0.762 (P=0.05), while IRR in White group is 1.09 (P=0.44). Compared with White group, IRR of MMAS in Green group from baseline to follow-up is 0.72 (P=0.045) indicating improved medication adherence.
+
+# CONCLUSIONS:
+
+Combined Office-GAP + mhealth significantly improved adherence to refills and to all prescribed medications compared to mhealth alone. Our study suggests that the combined intervention shows promise to improve health outcomes for patients with diabetes.
+
+# COMMUNICATING CARDIOVASCULAR RISK TO HIGH RISK CANCER SURVIVORS: A MIXED METHODS PILOT STUDY OF A STATIN RISK COMMUNICATION TOOL
+
+Nirupa J. Raghunathan; Emily Zabor; Kevin Oeffinger; Emily S. Tonorezos; Deborah R. Korenstein. 1Duke University, Durham, NC; 2Memorial Sloan-Kettering Cancer Center, New York City, NY; 3Memorial Sloan Kettering Cancer Center, New York, NY. (Control ID #3182633)
+
+# BACKGROUND:
+
+Over a million survivors of childhood, adolescent, and young adult cancer live in the US; many were treated with radiation therapy (RT). RT with fields including the coronary arteries is a risk factor for cardiovascular disease (CVD). Survivors may be unaware of their high CVD risk or how to mitigate it; tools are needed to improve understanding. The Institute of Medicine recommends decision aids to optimize patient discussions of therapies. We developed and pilot tested a risk communication tool to improve shared decision making in high-risk survivors regarding CVD risk reduction with statin therapy. We included quantitative and qualitative arms to inform development and testing of the tool.

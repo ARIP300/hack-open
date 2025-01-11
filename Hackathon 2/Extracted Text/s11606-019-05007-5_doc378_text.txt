@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# AN UNEXPECTED PREGNANCY RESULT THAT LED TO THE DIAGNOSIS OF GASTRIC CANCER
+
+Jordonna Brown1; Odeth Barrett-Campbell1; Carol A. Luhrs2. 1SUNY Downstate Medical Center, Brooklyn, NY; 2Downstate Medical Center, Brooklyn, NY. (Control ID #3185892)
+
+# LEARNING OBJECTIVE #1:
+
+To diagnose gastric cancer in a non-pregnant woman with elevated hCG
+
+# LEARNING OBJECTIVE #2:
+
+To recognize elevated hCG as an important prognostic factor in gastric cancer
+
+# CASE:
+
+A 47-year-old woman with a history of uterine fibroids presented with 2 weeks of vague intermittent abdominal pain, nausea and vomiting. She denied weight loss, early satiety or alteration in bowel habits and her last menstrual period was one week prior to presentation. Her physical examination revealed normal vital signs and generalized abdominal tenderness without rebound or guarding. Labs were significant for hemoglobin 7.7 (12-15g/dL), MCV 80.4 (80-96 fL/red cell), Iron 14 (40-155ug/dl), TIBC 265 (240- 450 ug/dl), ferritin 9.9 (12-150ng/dl), alkaline phosphatase 476 (40-100 U/L), positive urine hCG with serum hCG of 75.0 (0-5mIU/ml). Transabdominal ultrasound showed an intramural uterine density and no evidence of an intrauterine pregnancy. CT abdomen-pelvis revealed ascites, multiple retroperitoneal, intraabdominal and pelvic lymphadenopathy, suspicious for metastatic disease or lymphoma and an ill-defined heterogenous density along the uterine fundus. A left para-aortic lymph node biopsy showed poorly differentiated metastatic adenocarcinoma with signet cell features suggestive of a gastric primary. Subsequent esophagogastroduodenoscopy and biopsy confirmed poorly differentiated gastric adenocarcinoma. She received Cisplatin and 5-Fluorouracil with transient improvement in her HCG but unfortunately, she developed pleural effusions, profound thrombocytopenia, and pulmonary hemorrhage then succumbed to her illness within 3 months of diagnosis.
+
+# IMPACT/DISCUSSION:
+
+Gastric cancer is one of the leading causes of cancer mortality in the world and most patients present with advanced or widely metastatic disease. There are currently no specific tumor markers that have adequate sensitivity or specificity for diagnosis or follow-up of gastric cancer. However, serum levels of CEA, CA 125, CA 19-9, CA 72-4 and even less commonly hCG may be elevated in patients with gastric cancer and are associated with a poorer prognosis, though the use of these markers has not been standardized for clinical practice. The hormone hCG is used to monitor pregnancy and is a sensitive and specific marker for trophoblastic tumors of placental and germ cell origin. Outside of these contexts elevated levels of hCG are usually associated with malignancies such as breast cancer, leiomyosarcoma, pancreatic cancer, lymphoma, leukemia and gastric cancer. The role of hCG in the progression of gastric cancer remains unclear but its presence is usually consistent with a more poorly differentiated tumor and associated worse prognosis.
+
+# CONCLUSION:
+
+In the absence of pregnancy, elevated hCG is an ominous sign for malignancies that are not limited to trophoblastic tumors and include gastric cancer. The presence of hCG in gastric cancer signifies aggressive malignancy with significant prognostic implications.
+
+# AN UNEXPLAINED CASE OF BILATERAL OPTIC NEURITIS
+
+Katie O'Brien1; Joshua Price1; Deirdre Lewis2. 1UMMS Baystate, Springfield, MA; 2Baystate Medical Center, Northampton, MA. (Control ID #3184943)
+
+# LEARNING OBJECTIVE #1:
+
+Generate a differential diagnosis for bilateral optic neuritis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize clinical features that suggest a diagnosis of CRION
+
+# CASE:
+
+A 19 year old previously healthy female presented to her optometrist's office with 2 weeks of progressive blurry vision. Her exam revealed elevated intraocular pressure and she was treated for glaucoma. Follow up 4 days later revealed improved pressures but deteriorating vision with complete loss of light perception and vision in her right eye. She was referred to the ED where CT and CTA of her brain were normal and she was admitted for further workup. The night of admission her left eye vision deteriorated resulting in complete bilateral vision loss with afferent pupillary defect on exam. Emergent LP revealed no evidence of multiple sclerosis (MS) or acute infection. MRI of her brain and spinal cord were significant only for asymmetric thickening and enhancement of the right optic nerve consistent with optic neuritis. There was no evidence of demyelinating disease. An autoimmune panel for neuromyelitis optica (NMO) antibodies was unrevealing. She had an otherwise normal neuro exam and was diagnosed with bilateral optic neuritis of unclear etiology. She improved slowly with 5 days of IV solumedrol. Two weeks after discharge she was seen by ophthalmology for recurrent left eye vision loss, diagnosed with left-sided optic neuritis, and treated with a second course of IV solumedrol. Six months later her vision had improved and her MRI was normal. Given her recurrent course and bilateral disease a diagnosis of Chronic Relapsing Inflammatory Optic Neuropathy (CRION) has been tentatively made.
+
+# IMPACT/DISCUSSION:
+
+The differential for bilateral optic neuritis is broad and includes inflammatory diseases such as MS and NMO. Less frequently it is seen in granulomatous diseases like sarcoidosis, infectious or post-infectious diseases, vasculitis, or can be idiopathic. In the setting of bilateral, recurrent optic neuritis without evidence of MS, NMO, or other autoimmune disease, a diagnosis of CRION should be considered. First described in 2003, CRION shares similar findings with NMO and MS. The current diagnostic criteria include objective evidence of loss of visual function, absence of autoantibodies associated with NMO, contrast enhancement of the optic nerve on MRI, and a disease course typically characterized as responsive to steroid treatment but with tendency for steroid-dependent relapse with at least one relapse required for diagnosis. Compared to cases linked to MS, optic neuritis in CRION patients has a worse prognosis and can lead to permanent changes in retinal nerve layers that cause blindness. These long-term sequelae typically require treatment with long term immunosuppression different from those with MS which is why the diagnosis is so important.
+
+# CONCLUSION:
+
+CRION is a rare cause of bilateral optic neuritis that is distinct from MS and NMO and is associated with a poor prognosis without treatment.
+
+# AN UNFORTUNATE CASE OF NONUREMIC CALCIPHYLAXIS
+
+Rawan Hammoudeh; Aeman Hana; Sarah A. Gorgis; Joshua D. Collins. Henry Ford Hospital, Detroit, MI. (Control ID #3185741)

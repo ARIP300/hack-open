@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# SPINAL EPIDURAL ABSCESS
+
+with risk factors such as diabetes mellitus and kidney disease on hemo- dialysis. S. aureus infection is the most common cause of spinal epidural abscesses through hematogenous spread; however, it is still rare and easily missed with an incidence of only 0.2—2.8 per 10,000 hospital admissions. An MRI with gadolinium contrast is the most sensitive modality for epidural abscess diagnosis but unfortunately, many other clinical and laboratory findings are nonspecific if MRI is not possible. The typical symptoms of fever, back pain, and focal neurologic deficit are not always observed at presentation and are uncommonly found together. An altered mental status makes the diagnosis challenging when sensorimotor function or a review of systems cannot be reliably assessed. If the patient cannot follow commands, observation of bladder and bowel dysfunction or depressed reflexes can support a diagnosis of spinal cord injury, although non-specific for an epidural abscess. For these reasons, around half of patients with an admission for epidural abscess are initially misdiagnosed, and 4—22% of patients will suffer irreversible paralysis in part due to delays in appropriate treatment.
+
+# CONCLUSION:
+
+Patients with S. aureus bacteremia are at particularly high risk for morbid or fatal complications and require vigilant monitoring, even when blood cultures have sterilized. The potential for epidural abscess should not be forgotten, although diagnosis can prove elusive. In this setting, continued surveillance is imperative to assess for clinical developments, especially those undetected prior to recovery from altered mental status.
+
+# A NEW ERA OF OPIOIDS - THE RISE OF FENTANYL IN US DRUG MARKETS
+
+Ashley Engel1; Amy H. Farkas1, 2. 1Medical College of Wisconsin, Milwaukee, WI; 2Milwaukee VA Medical Center, Milwaukee, WI. (Control ID #3182666)
+
+# LEARNING OBJECTIVE #1:
+
+Understand the initial approach to altered mental status
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the rise of fentanyl use in the United States
+
+# CASE:
+
+A 57-year-old male with a past medical history of substance abuse presented with altered mentation following a motor vehicle accident. Family reported that he had been admitted to an outside hospital one month prior for unknown reasons. On exam the patient was oriented to person only with a blunted affect and minimal engagement. No focal neurologic deficits were noted. Initial work up including infectious, toxic, and metabolic causes of his altered mentation were unremarkable. MRI demonstrated extensive, confluent, symmetric, bilateral hyperintense T2 signal abnormalities. EEG showed a mild degree of slowing and encephalopathic changes. One week into his admission, records from the previous admission were obtained. Per those records, patient was admitted to the ICU after being found nonresponsive secondary to a fentanyl overdose with a resultant anoxic brain injury. Patient records did not reveal any fentanyl prescriptions in the past 7 years. Given his prior admission and anoxic brain injury it was felt that his mental status represented a new baseline as a consequence of his fentanyl overdose. Patient was ultimately transferred to a long-term care facility.
+
+# IMPACT/DISCUSSION:
+
+Altered mental status is a common presenting complaint in internal medicine. A thorough review of the patient's medical record can help direct work-up. Best practices suggest that all patients with altered mental status should begin with an assessment of hemodynamic stability, history of trauma, past medical and substance abuse history, and history of present illness. Work-up should progress in a stepwise fashion to include basic infectious testing, toxicology screening, head imaging, EEG, LP, and evaluation of psychiatric disorders. It is important for clinicians to recognize the clinical impact of the opiate epidemic. With nearly 70,000 overdose deaths in 2016 and 2.5 million Americans battling addiction, the rise of illicit manufactured fentanyl is an increasing public health concern. Fentanyl is the leading cause of opioid overdose related deaths in the United States. Heroin contaminated with fentanyl is 20-40x more potent and this increased potency increases the risk of overdose. Patients who survive overdose can be left with devastating lifelong health consequences.
+
+# CONCLUSION:
+
+1. All patients with altered mentation should be assessed for metabolic, infectious, toxic, malignant, and neurologic causes
+2. Fentanyl is the leading cause of opiate overdose
+3. Survivors of opiate overdose can be left with significant health consequences
+
+References: Hedegaard H, Bastian B. Drugs Most Frequently Involved in Drug Overdose Deaths: United States, 2011 - 2016. National Vital Statistics Reports. 2018; 67(9): 1-13. Xiao H, Wang Y, Xu T, Zhu H, Guo S, Wang Z, Yu X. Evaluation and Treatment of Altered Mental Status in Patients in the Emergency Department: Life in the Fast Lane. WJEM. 2012; 3(4): 270-277.
+
+# A NON-CLASSICAL PRESENTATION OF CELIAC DISEASE
+
+Ammu T. Susheela1; Clyde L. Smith1, 2. 1Beth Israel Deaconess Medical Center, Boston, MA; 2Brigham and Women's hospital, Boston, MA. (Control ID #3186421)
+
+# LEARNING OBJECTIVE #1:
+
+Weight loss can be an initial only symptom of celiac disease. Celiac disease can be challenging to diagnose in an atypical presentation of non-European descent patients.
+
+# CASE:
+
+A 35-year-old Ethiopian female is presented with 50 lb weight loss over 7 months after her second pregnancy. Her appetite is decreased and significantly limited by bloating. She has history abdominal pain and black stools. Past history is significant for gastroesophageal reflux disease (GERD), thyroiditis, anemia, migraine headache, vitamin D deficiency, malaria, and human papillomavirus infection. Her family history is significant for mother diagnosed with diabetes mellitus and asthma. Physical examination was normal with the soft, non-tender and non-distended abdomen. Her free T4 was 0.9, but her TSH was normal at 1.3. Liver enzymes were slightly elevated with ALT at 63, the rest of her liver function tests were normal. Peripheral smear showed anemia. Her hepatitis core antibody was positive and surface antibody was also positive indicating a previously cleared hepatitis B infection. Her ultrasound showed a hepatic cyst. She was however also tested for celiac disease and her Tissue Transglutaminase Ab, IgA was greater than 100. Her esophagogastroduodenoscopy showed chronic focally active gastritis with marked architectural abnormalities-villous shortening/crypt elongation consistent with celiac disease. Surprisingly H-pylori was negative. A diagnosis of celiac disease was made. Patient education about celiac disease was done extensively. She was given counseling about food intake and was put on a gluten-free diet with a nutrition consultation. She was advised mind-body stress reduction. She has also advised a lactose-free diet. Her condition remarkably improved on putting on following a strict gluten-free- lactose-free diet. She started gaining weight and has no gastrointestinal distress. Her GERD symptoms completely subsided and she feels she is doing very well.
+
+# IMPACT/DISCUSSION:
+
+Celiac disease may present with a wide range of clinical symptoms and signs. Non-gastrointestinal symptoms have also been reported in patients. A new term called the silent celiac disease has been used to refer for patients who do not present with diarrhea and it has been reported that the silent variant of celiac disease is more common than the patients who present with diarrhea. Patients with one autoimmune disease is more susceptible to other autoimmune diseases such as celiac disease. Currently, the only treatment for celiac disease is the gluten-free diet. In this case, it took several months to diagnose this patient with celiac disease due to the non-classical silent presentation.
+
+# CONCLUSION:
+
+The presentation of celiac disease varies within a spectrum of classical symptoms to atypical and silent variety. This makes it a challenge to diagnose the disease in atypical presentations which can significantly delay the treatment and lead to benign and malignant complications.

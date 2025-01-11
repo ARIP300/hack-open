@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# CASE:
+
+A 57 year old woman with history of hypothyroidism, depression and smoking presented with one month of left lower extremity swelling, ecchymosis, purpura and worsening joint pain. Physical exam revealed no teeth and diffuse perifollicular purpura. Her left leg was edematous and tender. She first presented to another hospital and got antibiotics for concern of cellulitis but they were quickly stopped. Abnormal admission labs were hemoglobin 9.4g/dL (MCV 91) that dropped to 7.2g/dL after fluids given for orthostasis, sodium 132mmoL/L and potassium 3.0mmoL/L. Rheumatology was consulted for concern of vasculitis. She was empirically started on steroids but showed no improvement so they were stopped. Rheumatology lab panel was unremarkable except Anti-Nuclear Antibody (1:160), CRP (58mg/L) and ESR (36mm/hr). Lower extremity doppler ultrasound showed no deep vein thrombosis. Left lower extremity MRI revealed diffuse edema consistent with nonspecific myositis. Skin biopsy showed subcutaneous lipophages and hemorrhage but no vasculitis. Other work up included Ferritin 160ng/mL, Iron 26ug/dL, TIBC 142ug/dL, B12 182pg/mL, folate 1.3ng/dL, negative fecal occult blood test. Bone marrow biopsy showed reactive marrow but no malignancy. CT chest/abdomen/pelvis showed no bleeding. She was transferred to our hospital for second opinion of the purpura. Upon further questioning, she endorsed two years of chronic diarrhea that limited her diet to meat and cheese sandwiches and coffee. We reviewed her Vitamin C level after this clinical history was obtained; it was undetectable. Given her dietary history, physical exam and nutrition labs, we diagnosed scurvy. She was discharged home with oral vitamin C.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the value of a thorough initial history and showcases an often forgotten cause of purpura. The diagnosis was delayed for a month after an extensive workup was done due to an anchoring bias and misconception about the epidemiology of scurvy.
+
+# CONCLUSION:
+
+Scurvy is a disease of Vitamin C deficiency. It is often thought of as a historic disease or one localized to developing countries. However, age adjusted prevalence is 7.1% in USA. Risk factors are smoking, restrictive diets, older age, mental illness, alcoholism, low socioeconomic status and malabsorption. Humans must obtain Vitamin C from the diet. Stores are quickly exhausted after months if not replenished. Vitamin C is essential for collagen synthesis. Common clinical manifestations are therefore secondary to inadequate collagen leading to impaired blood vessel integrity such as perifollicular hemorrhage, gingivitis, ecchymosis and poor wound healing. Late manifestations are edema, bone pain and even death. Treatment is replenishment of Vitamin C. There is no standardized protocol; one can use 100mg to 1g/daily until stores are repleted. Symptoms improve within a few weeks with complete resolution by about 3 months.
+
+# WHEN IT'S NOT BIRDS, THINK HOT TUBS!
+
+Adam Dossaji1; Asad H. Khan2. 1Baystate Medical Center, Springfield, MA; 2Baystate Medical Centre, Broad Brook, CT. (Control ID #3186382)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hot tubs as a cause of hypersensitivity pneumonitis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the importance of history in eliciting the cause of hypersensitivity pneumonitis
+
+# CASE:
+
+A 57 year old female with a past medical history of breast cancer presented with shortness of breath to the emergency department. Two weeks prior, she had a history of dry cough, rhinorrhea, sore throat and malaise which was treated with azithromycin and inhaled steroids followed by Amoxicillin-Clavulanic Acid as an outpatient. CXR showed bilateral infiltrates suggestive of multifocal pneumonia and patient was started on Vancomycin and Zosyn. On hospital day 2, she developed hypoxia and hypotension requiring high flow nasal cannula and intravenous fluids. Due to concern for lack of clinical improvement, CT Chest was ordered and revealed bilateral ground glass opacities in the setting of positive rhinovirus. A bronchoscopy was performed with bronchalveolar lavage (BAL) and transbronchial biopsy showing interstitial inflammation and Type 2 pneumocyte hyperplasia. Preliminary cultures were negative. Further discussion with patient revealed history of exposure to birdcages at home prompting evaluation for hypersensitivity pneumonitis including hypersensitivity panel which was negative. Patient was started on prednisone with dramatic improvement and she was discharged home. After discharge final BAL cultures grew Mycobacterium Avium and at follow up patient was improved but still endorsing symptoms of coughing and shortness of breath. Continued discussion revealed that patient had a home hot tub which she was repeatedly exposed to in the months prior to presentation. She was advised to strictly avoid this in order to prevent relapse of her pneumonitis. At next follow up patient had complete recovery with repeat CT chest showing complete resolution of bilateral opacities.
+
+# IMPACT/DISCUSSION:
+
+Hypersensitivity pneumonitis (HP) describes a complex condition in which pulmonary parenchyma has an immune reaction to an inhaled substance, often organic in nature. The most common forms are farmer's lung and bird fanciers lung, but the list of causes is vast. It is often characterized by an initial history of cough, weight loss, crackles and wheezing. Worsening of symptoms after exposure to a specific trigger is a hallmark of this disease. The mainstay of treatment is antigen avoidance, often with complete resolution of symptoms with avoidance of antigen, this makes identifying the cause vital. This case highlights the importance of eliciting a detailed holistic history covering all aspects of the patient's life, in conjunction with the clinician having a low index of suspicion and wide net for causes in mind.
+
+# CONCLUSION:
+
+Thorough exposure history taking is vital to eliciting cause of HP. Complete avoidance of causative exposure is required for total recovery.
+
+# WHEN PERMETHRIN ISN'T A PERMANENT FIX: CONSIDERING IVERMECTIN FOR TREATMENT OF SCABIES IN THE HOMELESS POPULATION
+
+Alyse Wheelock; Samantha Rawlins-Pilgrim1; Jessica Taylor2. 1Boston University Medical Center, Boston, MA; 2Boston University/Boston Medical Center, Boston, MA. (Control ID #3183543)
+
+# LEARNING OBJECTIVE #1:
+
+Evaluate treatment options for scabies and their relative effectiveness
+
+# LEARNING OBJECTIVE #2:
+
+Apply psychosocial considerations to scabies treatment selection
+
+# CASE:
+
+A 35-year-old woman with a history of AIDS, homelessness, bipolar disorder, and alcohol and cocaine use disorders presented with an intensely pruritic, papular rash. The patient had a recent CD4 count of 173 cells/μL and an undetectable viral load, with intermittent periods of non-adherence to her antiretroviral regimen. She had faced housing insecurity for many years and was presently living on the streets with her partner. She was seen initially in the Emergency Department for a pruritic rash on the lower extremities and abdomen. She was diagnosed with scabies and prescribed 5% permethrin cream and oral medications to reduce pruritis. She did not apply permethrin according to recommendations. Persistent symptoms prompted another ED visit and a visit to HIV clinic within the next two weeks. In clinic, the rash was thought to be nodular scabies based on appearance and distribution. She was prescribed weight-based ivermectin (200μg/kg orally as a single dose and repeated in 2 weeks) given failure of permethrin. She was seen three weeks after her initial ivermectin dose with improvement of the pruritic rash, although the papules were still present. She reported that she did not take her second dose, so a second dose of ivermectin was re-prescribed.

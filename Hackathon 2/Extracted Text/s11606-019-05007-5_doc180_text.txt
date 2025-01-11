@@ -1,0 +1,51 @@
+# JGIM
+
+# ABSTRACTS
+
+# BACKGROUND:
+
+Health care delivery and health service research focuses on disease-related issues. However, increasing evidence suggests the social determinants of health (SDH) are directly associated with patient outcomes, but these factors are typically "hidden," and infrequently identified. This qualitative analysis explored the prevalence of a predetermined set of SDH experienced by a population of patients identified as "high risk" within one health system.
+
+# METHODS:
+
+All 1st-year medical students at Penn State College of Medicine serve as student patient navigators, working in interprofessional care teams and linked with patients who are identified as high risk. Following encounters, students complete detailed logs, addressing questions related to patient barriers and activities performed. A qualitative analysis of log data was performed using deductive and inductive techniques; a set of 22 SDH-related diagnostic codes was used (deductive) to investigate prevalence of each across all patients with reflexivity to identify potential codes (inductive) not within this pre-determined set. Two investigators performed the analysis (using NVIVO12 for data management), which involved independent coding and regular adjudication sessions.
+
+# RESULTS:
+
+A preliminary analysis of 300 logs related to 176 unique patients was performed, with the identification of 40 unique SDH codes. The five most-commonly identified SDH codes were: behavioral and mental health (7.2%), health system coordination (7.2%), transportation issues (6.7%), elderly or disability (6.3%), and lifestyle quality (6.0%). The three least-commonly identified SDH codes were: poverty (0%), poor neighborhood composition (0.1%), and cultural barriers (0.1%).
+
+# CONCLUSIONS:
+
+These preliminary data help facilitate transparency regarding the often unforeseen SDH factors that may be placing patients at risk for poor health outcomes. Factors such care coordination, transportation, and lifestyle are less easily obtained through available methods, such as electronic health records or provider-based intake assessments. These results merit a re-evaluation in population health initiatives aimed at uncovering these barriers to improve care. Further screening by nurses and physicians for SDH needs to occur to allow for better points of care for patients. These codes can be utilized to help further achieve the goals of the Triple Aim in optimizing healthcare.
+
+# we used random-effects models to calculate summary risk ratios with 95% CIs.
+
+Narrative synthesis was performed when meta-analysis was not possible.
+
+# RESULTS:
+
+We included 24 studies (18 case-control, 5 observational and 1 cross-sectional). Among case-control studies (n=2), ever use of marijuana was not associated with head and neck squamous cell carcinoma (HNSCC) (RR= 1.15, 95% CI 0.92 - 1.45, p=0.23, I2=56%) or oral cancer (RR= 1.14, 95% CI 0.93 - 1.40, p=0.20, I2=58%). However, > 8 joint-years of use was associated with an increased risk of HNSCC (RR= 2.20, 95% CI 1.07 - 4.50, p=0.03, I2= 81%). Pooled analysis of moderate ROB case-control studies (n=3) demonstrated that ever use of marijuana was not associated with developing testicular germ cell tumor (TGCT) (RR= 1.07, 95% CI 0.87 - 1.30, p=0.52, I2=60%) compared to never-use, but > 10 joint-years use was associated with TGCT (RR= 1.18, 95% CI 1.00 - 1.40, p=0.05, I2=0%), and non-seminoma TGCT (RR= 1.51, 95% CI 1.17 - 1.96, p<0.01, I2=0%). One prospective study found increased risk for lung cancer in marijuana smokers over a long follow-up period. Findings from 5 case-control studies of lung cancer were mixed; interpretation was limited by poorly described marijuana exposure, limited results on marijuana-only users, and low levels of exposure.
+
+# CONCLUSIONS:
+
+Low-strength evidence suggests smoking marijuana is associated with development of HNSCC and TGCT. Evidence on the association between marijuana use and other cancer types is insufficient. Long term studies in marijuana-only smokers are needed to better understand the effect of marijuana use on the development of lung, oral, and other cancers.
+
+# MARKOV DECISION ANALYSIS OF THE COST-UTILITY FOR ANTICOAGULANT THERAPY IN PATIENTS WITH ATRIAL FIBRILLATION AT RISK FOR FALLS
+
+Eric K. Wong1, 2; Christina Kosar3, 1; Harindra Wijeysundera1, 4. 1University of Toronto, Toronto, ON, Canada; 2Li Ka Shing Knowledge Institute, St. Michael's Hospital, Toronto, ON, Canada; 3The Hospital for Sick Children, Toronto, ON, Canada; 4Sunnybrook Health Sciences Centre, Toronto, ON, Canada. (Control ID #3185508)
+
+# BACKGROUND:
+
+Atrial fibrillation (AF) is a common cardiac condition in older adults that results in an increased risk of stroke. Anticoagulants decrease stroke risk associated with AF but increase bleeding risk. Older patients are often at high risk of falls, which further compounds bleeding risk. The purpose of this study was to determine the most cost-effective anticoagulant for older adults with AF at high risk of falling.
+
+# METHODS:
+
+A Markov cohort model was used to evaluate pharmaceutical options including aspirin, warfarin, and direct oral anticoagulants (DOACs; apixaban, edoxaban, dabigatran, rivaroxaban). The base case was a 70-year-old man with recently diagnosed AF and a fall in the last 12 months. The model used the Ontario (Canada) public payer perspective and a lifetime horizon. Outcomes included life years (LY), quality-adjusted life years (QALY), costs and incremental cost-effectiveness ratios (ICERs). One- and two-way sensitivity analyses were also conducted to evaluate model robustness.
+
+# RESULTS:
+
+The use of DOACs (11.81-12.01 LY) led to longer life expectancy than ASA (10.07 LY) and warfarin (10.94 LY). When utilities were included, DOACs (10.49-10.88 QALYs) remained superior to ASA and warfarin (8.61 and 9.72 QALYs respectively). The lowest lifetime cost was for apixaban at C$207,249.42, which was lower than both ASA and warfarin (C$217,071.45 and C$209,031.26, respectively). Apixaban and dabigatran were the dominant strategies after evaluation of ICERs. Apixaban was the most cost-effective strategy as dabigatran had an ICER of C$98,725.00/QALY, which was above the cost-effectiveness threshold (C$50,000/QALY).
+
+# CONCLUSIONS:
+
+Apixaban is the most cost-effective anticoagulant in older individuals at high risk of falls from a public payer perspective. Apixaban had the lowest total lifetime cost compared to other anticoagulants.

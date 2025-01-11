@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+95%CI=1.01-1.12), but not long-term (p>0.2). Average pain severity was associated with receiving any opioid prescription (OR per point=1.20, 95%CI=1.18-1.22) and a long-term prescription (OR per point=1.23, 95%CI=1.22-1.25).
+
+# CONCLUSIONS:
+
+At one integrated health system, many patients with chronic pain received opioids, but few received continuous or high dose opioids, which may limit the impact of policies affecting prescribing in primary care. Patients receiving opioids also tried more non-opioid pain medications and reported higher pain severity, suggesting that opioids are reserved for difficult cases.
+
+# OPTIMAL TRIGGERS FOR PULMONARY EMBOLISM CLINICAL DECISION SUPPORT
+
+Sundas Khan2; D'Arcy King2; Karina Calise1; Vishwanath Anantraman;2 Jeffrey Solomon2; Thomas McGinn2. 1Hofstra University, Manhasset, NY; 2Zucker School of Medicine at Hofstra/Northwell, Hempstead, NY. (Control ID #3185959)
+
+# BACKGROUND:
+
+Pulmonary embolism (PE) is a high-risk disease and providers often overestimate a patient's risk and order unnecessary diagnostic tests. Clinical decision support (CDS) can help identify specific variables associated with a patient's risk. As part of a larger ongoing trial, our research team identified order entry as a trigger point for CDS to evaluate PE in the Emergency Department (ED) setting. An optimal trigger is defined as the ideal time in a physician's workflow where the tool will alert them to a patient's risk. Based on experience in usability testing that led to high provider adoption rates of CDS (60%), we hypothesized that ideal CDS would be flexible and trigger at multiple points. The aim of the study was to conduct usability testing on two different prototypes of a CDS tool based on the Wells' criteria which would present earlier in the clinical decision-making process.
+
+# METHODS:
+
+Two prototypes included a triage note and a pop-up agent; both consisted of a calculator, order set, and recommendations. Usability testing was conducted with a total of 7 participants, 3 ED physicians and 4 triage nurses, at a tertiary care center within a large health system to evaluate the optimal design. The nurses and physicians were each asked to complete both versions of the tool. Following the completion of the tool, the study team conducted a debriefing session which included: the need for conversation between physician and nurse after using the tool, the amount of information provided by the tool, and if there were any interruptions in the clinical workflow. Following the session, the validated system usability scale (SUS) was administered for each version of the prototype to provide a basis for objective comparison.
+
+# RESULTS:
+
+Based on the SUS, providers and nurses cumulatively preferred the pop-up agent more (76.7%) than the triage note (69.4%). The positive comments for the pop-up agent prototype were that it helped providers get a quick recap on the patients' histories, it was easier to read, and centralized placement helped with easier navigation. The main negative comments for the triage note prototype was that it was not useful in a fast-paced environment such as the ED, content of the triage note was not unique, and to change the location of the note. Overall, providers stated that the tool would give them confidence in making decisions regarding the patient's treatment.
+
+# CONCLUSIONS:
+
+Usability testing was conducted on two CDS prototypes that triggered earlier in the clinical workflow than previous CDS. The pop-up agent was ranked higher and more effective as it had a different interface than the regular electronic health record, and it was a more user-friendly tool ultimately leading to increased utilization of the tool by providers. It is important for triggers to alert physicians at an optimal time with a user-friendly design. Our second phase of testing will be to compare the pop-up agent trigger to the order entry trigger.
+
+# OPTIMIZING CANCER SCREENING IN WOMEN WHO WANT SOME, BUT NOT ALL, GUIDELINE-RECOMMENDED SCREENINGS
+
+Glen B. Taksler1, 1; Elisabeth F. Peterse2; Isarah T. Willems2; Kevin ten Haaf2; Erik Jansen2; Inge de Kok2; Nicolien T. van Ravesteyn2; Harry J. de Koning2; Iris Lansdorp-Vogelaar2. 1Cleveland Clinic, Cleveland, OH; 2Erasmus Medical Center, Rotterdam, Netherlands. (Control ID #3180304)
+
+# BACKGROUND:
+
+Middle-aged women often want breast and cervical cancer screenings but are hesitant to obtain colorectal and lung cancer screenings. We sought to evaluate how providers might best advise women on strategies to prevent overall cancer-specific mortality while still limiting screenings to 1-2 per year.
+
+# METHODS:
+
+We modeled a cohort of females aged 50 y with characteristics representative of the US population, utilizing 4 validated microsimulation models developed as part of the National Cancer Institute's Cancer Intervention and Surveillance Network (CISNET). We examined 45 strategies combining breast, cervical (PAP and HPV co-testing), colorectal (fecal immunochemical testing [FIT]) and/or lung cancer screenings where women obtained some, but not all, screenings recommended by the US Preventive Services Task Force (USPSTF) over their lifetimes. The primary outcome was life-years gained from all cancer screenings relative to full compliance with USPSTF recommendations ("optimal benefits"). Results were stratified by eligibility for lung cancer screening ("eligible/ineligible") and, proxying for overall interest in cancer screening, a woman's preference for cancer screening intensity (number and frequency of screenings).
+
+# RESULTS:
+
+Among women ineligible for lung cancer screening, the USPSTF recommended 3 cancer screenings: annual FIT, biennial mammography and cervical cancer screening every 5 years. Breast and cervical cancer screenings conferred only 48% of optimal benefits. However, women who were willing to introduce FIT could obtain just 1 screening/year and keep up to 88% of optimal benefits. The top-ranked strategy was alternating FIT and mammography, and omitting cervical cancer screening for ages 50 y. Among eligible women, lung cancer screening was essential; strategies omitting it provided 25% of optimal benefits. For these women, the USPSTF recommended annual lung and FIT, biennial mammogram and cervical cancer screening every 5 years until age 65 y. Breast and cervical cancer screenings provided only 12% of optimal benefits. Yet, just 2 screenings/year could provide up to 98% of optimal benefits. The top-ranked strategy was annual lung, alternate FIT and mammography, but skip every 3rd mammogram (i.e., every 6th year) for cervical cancer screening until age 65 y. For eligible women who only wanted 1 cancer screening/year, the top-ranked strategy was annual lung (omitting all other screenings), affording 73% of optimal benefits. Sensitivity analyses were robust to receipt of colonoscopy instead of FIT, smoking history, cervical cancer screening history and background colorectal cancer risk.
+
+# CONCLUSIONS:
+
+Women who do not want all guideline-recommended cancer screenings may be able to reduce screening intensity with minimal impact on overall benefits. However, colorectal cancer screening and (if eligible) lung cancer screening were essential. Providers might consider these results as part of a holistic cancer screening discussion.
+
+# OPTIMIZING DISCHARGE SUMMARIES: A MULTI-SPECIALTY, MULTI-CENTER SURVEY OF OUTPATIENT PROVIDERS
+
+Jason Higdon 1 ; Aaron M. Silver 2 ; Leigh Anne Goodman 2 ; Romil Chadha 3 ; Michael Burton 4 ; Venkataraman Palabindala 5 ; Nageshwar Jonnalagadda 6 ; Abey Thomas 4 ; Christopher M. O'Donnell 7. 1 Emory, Atlanta, GA; 2 Banner University Medical Phoenix, Phoenix, AZ; 3 University of Kentucky, Lexington, KY; 4 UT Southwestern, Dallas, TX; 5 University of Mississippi Medical Center, Jackson, MS; 6 Baystate Health, Longmeadow, MA; 7 Emory University, Atlanta, GA. (Control ID #3182996)

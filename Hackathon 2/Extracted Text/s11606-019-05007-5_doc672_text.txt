@@ -1,0 +1,67 @@
+# ABSTRACTS
+
+patients without scheduled follow-up has decreased from 21,704 (22.6%) to 16,061 (17.1%).
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+1. Primary Care teams can be empowered to control their own access
+2. Repeated small tests/pilots allowed us to identify problems early and customize
+3. Regular feedback from end users and customizability of the tool enhanced spread
+4. Innovation and QI can work together. We developed an innovative solution, but it was addressing a recognized gap in care. The innovation was designed to address root causes.
+5. Site visits and attending team huddle helped increased visibility and buy-in among team members.
+
+# THE SCOPE OF THE PROBLEM: A NOVEL MULTIDISCIPLINARY APPROACH TO REDUCE INPATIENT ENDOSCOPY DELAYS
+
+Cameron Locke1; Molly A. Kantor1; Najwa El-Nachef1; Kendall Beck1; Sajan Patel1; Helge Eilers1; Ryan David2; Scott Pasternak1; Bertina Herman2; Daniel Roseland1; Sara Lewin1. 1UCSF, San Francisco, CA; 2UCSF Health, San Francisco, CA. (Control ID #3184690)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Endoscopies are commonly performed in the inpatient setting, and due to organizational complexity are prone to delays, which can lead to frustration amongst care providers and patients, patient discomfort from prolonged nil per os time, and excess costs from lengthened hospitalizations.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Identify and characterize etiologies of delay to inpatient endoscopy
+2. Reduce avoidable inpatient endoscopy delays to &lt;5% by optimizing workflow, scheduling, and staffing.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+A survey of hospitalists at our large, urban university medical center identified endoscopy as a common contributor to delays in patient care. Representatives from gastroenterology, anesthesiology, hospital medicine, inpatient nursing, and endoscopy nursing were engaged to create a multidisciplinary team to evaluate and intervene upon these delays. Root-cause analysis demonstrated multifactorial causes of endoscopy delays, and baseline data showed that 16.4% of inpatient endoscopies were delayed due to reasons characterized as avoidable, with an average length of delay of 1.22 days. The identified highest impact contributors to avoidable reasons for delay were endoscopy nursing availability, anesthesia provider availability, and volume of competing scheduled outpatient procedures. Three interventions to address these common causes of delay were implemented. First, dedicated anesthesiologist availability for inpatient endoscopy cases was provided on prespecified weekdays. Second, the endoscopy nursing staff instituted later and extended shifts to accommodate more procedures. Third, the on-call gastroenterologist reduced the number of daily scheduled outpatient endoscopic procedures, allowing for increased endoscopy suite allocation to inpatient procedures. The proposed interventions underwent several plan-do-study-act cycles to identify optimal implementation, with a target goal of 5% delay rate.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Following intervention implementation, number of total endoscopies and number of delayed endoscopies, with subgroup analysis of cause of delay, were tracked for a 10 month period.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Scheduling conflicts, provider availability, and failure of adequate bowel preparation were found to be the most common causes of delay. Following implementation of the above interventions, the average rate of avoidable endoscopy delays fell to from 16.4% to 3.5% while average endoscopies per month remained constant.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Successful completion of inpatient endoscopies frequently requires close coordination among nurses, hospitalists, gastroenterologists, and anesthesiologists. Given the complexity of this multidisciplinary involvement, as well as variability in patient factors like clinical stability and presentation, endoscopies are prone to delays. However, multidisciplinary examination and optimization of nursing and anesthesiology availability coupled with optimal endoscopy suite utilization can significantly reduce inpatient endoscopy delays, independent of patient factors.
+
+# TOBACCO CESSATION: BEYOND THE AFTER-VISIT SUMMARY
+
+Richard Altman2; Hillary Chrastil2; Lauren Drake2; Carmen L. Lewis1. 1University of Colorado, Denver, CO; 2University of Colorado, Aurora, CO. (Control ID #3178346)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Tobacco cessation is one of the most high value interventions available with brief intervention by clinicians increasing cessation by 1-3%; however, tobacco interventions are underutilized in ambulatory settings with national data showing only 20% of current tobacco users had tobacco cessation documented during visits with clinicians.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Implement clinical architecture to maximize the opportunity for tobacco cessation interventions in the clinic setting.
+2. Evaluate the implementation strategy.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The intervention was first implemented at an academic General Internal Medicine practice in Denver (Practice A). The intervention was then implemented at additional academic practices, one Family Medicine practice and one of combined Family Medicine and General Internal Medicine practice (Practices B and C). Each practice received a Tobacco Implementation Package (TIP) that included baseline data, electronic medical record (EMR) tools, training tools, and report access. EMR tools included MA and clinician workflows in which the MA collects current tobacco use information and the clinician receives a prompt with support for documenting brief tobacco counseling, an assessment, and plan. Training tools included a presentation and EMR tip sheets. Report access included audit and feedback and care management tools.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+1. Proportion of visits where 1) tobacco status was reviewed by the MA and 2) MA asked if the patient was ready to quit (RTQ).
+2. Proportion of visits among tobacco users with clinician documentation about tobacco in the assessment and plan.
+3. Practice use of new reports.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+At Practice A, baseline data show that tobacco status was reviewed at 91% of visits and RTQ was asked 46% of the time.

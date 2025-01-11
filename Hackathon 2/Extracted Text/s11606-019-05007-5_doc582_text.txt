@@ -1,0 +1,61 @@
+# JGIM
+
+# ABSTRACTS
+
+# Maarten (Dutch part); 2Jackson Memorial Hospital, Miami Beach, FL. (Control ID #3138395)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of having Visceral Leishmaniasis on the differential in HIV-positive patients with pancytopenia.
+
+# CASE:
+
+A 29 year-old Hispanic male with past medical history of AIDS and multiple-associated co-infections including CNS toxoplasmosis, CMV retinitis, genital HSV, PCP, noncompliance and multiple substance abuse, presented to the ED with 10 days of watery non-bloody diarrhea, abdominal pain, fever, chills, anorexia and dry cough. Patient was admitted for similar symptoms nine months prior. Home medications included Atripla, Azithromycin, Bactrim and Leucovorin. On physical exam, he was awake and alert. Cardio-pulmonary examination was normal. The abdomen was tender with hepatosplenomegaly, but non-distended. Cervical lymphadenopathy was palpable. Labs revealed pancytopenia: WBC: 2.3x103/uL; Hgb: 7.8 g/dL; Hct: 22.8%; Platelets: 124; LDH: 719. HIV viral load was 12,000 and CD4 count was 1 cell/uL. Chest radiography showed bibasilar patchy opacities suggesting PCP pneumonia and Bactrim was started. Persistent pancytopenia prompted a bone marrow biopsy which demonstrated Donovan bodies consistent with Leishmaniasis. Esophagogastroduodenoscopy and colonoscopy were performed due to persistent diarrhea and biopsy was also consistent with Leishmaniasis. The patient was started on Amphotericin B (21mg/kg inpatient for 2 weeks and infusions 1q/week for a total of 6 weeks outpatient) with resolution of the digestive symptoms. Patient followed up in the clinic with improvement of the pancytopenia.
+
+# IMPACT/DISCUSSION:
+
+Visceral Leishmaniasis (VL) is caused by a parasitic infection characterized by fever, pancytopenia and hepatosplenomegaly with progressive host deterioration. To date, there have been less than six reported cases of HIV with Leishmaniasis co-infection in the United States, thus far all imported. Incidence of VL is increasing in the developed world secondary to climate change, which has extended the natural habitat of the Leishmania vector into the southern United States. This case demonstrates the importance of having VL on the differential in HIV-positive patients with pancytopenia. There is debate regarding adding VL to the list of AIDS-defining opportunistic infections; therefore, a diagnosis of VL should prompt HIV screening. This is especially relevant as the mortality rate in patients with AIDS/Leishmaniasis co-infection is 53.7% as opposed to 7.5% in HIV-negative patients.
+
+# CONCLUSION:
+
+AIDS patients often present with significant hematologic abnormalities such as anemia, lymphocytopenia, thrombocytopenia and various coagulopathies. These irregularities stem from a variety of HIV-associated sources including opportunistic infections, malignancies or as consequences of treatment therapies such as antiretroviral therapy. Physicians should be aware of VL when evaluating an HIV-positive patient with pancytopenia and should consider performing bone marrow biopsy.
+
+# VITAMIN B12 DEFICIENCY: AN UNDERAPPRECIATED CAUSE OF HEMOLYTIC ANEMIA
+
+Hannah Levavi; Rose Yu; Athanasia Vasiliadis. Mount Sinai Hospital, New York, NY. (Control ID #3186151)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize vitamin B12 deficiency as a cause of hemolytic anemia
+
+# LEARNING OBJECTIVE #2:
+
+Identify factors that can mask the diagnosis of vitamin B12 deficiency
+
+# CASE:
+
+A 69 year old woman with beta thalassemia trait presented to her primary care physician with two months of progressive dyspnea. Laboratory evaluation revealed hemoglobin 5.2 g/dL, mean corpuscular volume (MCV) 94.0 FL and red cell distribution width (RDW) 41%. Other cell lines were within normal range. The patient was hospitalized for symptomatic anemia. Further evaluation revealed a mild, unconjugated hyperbilirubinemia, with total bilirubin 1.7 mg/dL and direct bilirubin 0.9 mg/dL, low haptoglobin <8 mg/dL, elevated lactate dehydrogenase 7436 U/L, reticulocytes 2.5%, normal folate level, normal direct coombs, and vitamin B12 <150 ph/mL. Eventually, intrinsic factor antibodies were identified at 61.0 AU/mL. Two units of packed red blood cells were transfused and vitamin B12 was repleted with serial injections of cyanocobalamin 1000 mcg. Oral iron and folate supplementation were also provided in anticipation of accelerated hematopoiesis. In the follow-up period, the patient had dramatic improvement in anemia.
+
+# IMPACT/DISCUSSION:
+
+Vitamin B12 is a key cofactor in DNA synthesis. When it is depleted, anemia manifests due to the rapidly dividing nature of hematopoietic precursors. Dissociation between cytoplasmic and nuclear maturation leads to production of large, immature megaloblasts with impaired functionality, which then undergo premature intramedullary cell death. Although the pathogenesis of the hematologic changes from B12 deficiency is well described, the clinically apparent effects of B12 deficiency are not always straightforward. Before clinically evident anemia develops, B12 deficiency causes early red cell morphologic changes. However, despite this, MCV does not correlate with the degree of B12 deficiency, and some studies find that the majority of patients with B12 deficiency have a normal MCV. The degree of B12 deficiency required before markers of intramedullary hemolysis appear is not known, and vitamin B12 deficiency present with serum bilirubin levels high enough to cause jaundice only rarely. In the current case, our patient had profound intramedullary hemolytic anemia due to B12 deficiency from pernicious anemia, yet her MCV was within the reference range. Confounding her presentation was the fact that pre-existing beta thalassemia trait resulted in two populations of RBCs: one megaloblastic and one microcytic. This fact serves as a reminder to pay close attention to additional red cell indices, such as RDW, which can suggest two simultaneous pathologic mechanisms.
+
+# CONCLUSION:
+
+The spectrum of manifestations of vitamin B12 deficiency can range from isolated morphologic changes in erythroid cells to overt hemolytic anemia. Despite the classic teaching that megaloblastic anemia results in an elevated MCV, the MCV is not alone a reliable marker of B12 deficiency, especially in patients with co-occurring microcytosis.
+
+# WARBURG AND THE RUNAWAY LACTATE
+
+Nadine Pardee; John Penner; Brad Sharpe. University of California San Francisco, San Francisco, CA. (Control ID #3184776)
+
+# LEARNING OBJECTIVE #1:
+
+Construct a differential diagnosis for lactic acidosis in the absence of systemic hypoperfusion.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the clinical features of the Warburg effect in the setting of active malignancy.
+
+# CASE:
+
+A 36 year-old man with HIV and a history of diffuse large B-cell lymphoma (DLBCL) was admitted with three days of severe left wrist pain. He was on emtricitabine, tenofovir, and dolutegravir for his HIV. His DLBCL had been treated with chemotherapy and was in remission based on recent imaging. He was afebrile, tachycardic, and normotensive. He was thin and ill-appearing, with severe pain in his left wrist without effusion or erythema. He had a white blood cell count of 3.3 cells/mm3 and a mild anemia. His lactate was 4.6 mg/dL with a normal anion gap and creatinine. A computed tomography of the left upper extremity showed focal areas of demineralization of unclear etiology. His blood pressure and heart rate remained unchanged. His lactate rose despite fluid boluses. He was changed to an NRTI-sparing ARV regimen and given empiric high-dose thiamine. He denied metformin.

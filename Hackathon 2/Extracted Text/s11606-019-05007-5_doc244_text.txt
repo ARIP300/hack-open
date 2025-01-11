@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# REDEFINING THE ROLE OF PRIMARY CARE PROVIDERS IN CARE OF LIVER TRANSPLANT RECIPIENTS: A CASE STUDY OF THE PRIMARY-SUBSPECIALTY CARE INTERFACE
+
+Amy D. Lu1, 2; Scott D. Rothenberger3; Gary Fischer3; Michael Dunn3; Peggy B. Hasley3. 1San Francisco VA Medical Center, San Francisco, CA; 2University of California San Francisco, San Francisco, CA; 3University of Pittsburgh, Pittsburgh, PA. (Control ID #3185093)
+
+# BACKGROUND:
+
+A major challenge within the primary-subspecialty care interface is defining clear roles and expectations for the relationship between primary care provider (PCP) and subspecialist. As liver transplant recipients (LTRs) are surviving longer, transplant-related metabolic conditions such as hypertension (HTN), diabetes (DM), dyslipidemia and chronic kidney disease (CKD) have become a major source of non-graft morbidity and mortality. For LTRs, the optimal involvement of PCPs in managing these conditions is unclear. We sought to characterize perceived responsibilities of PCPs and transplant hepatology providers (THP) in the co-management of post-transplant metabolic conditions and determine the effect of PCP perception of responsibility on clinical quality of care in a shared cohort of LTRs.
+
+# METHODS:
+
+We surveyed PCPs and THPs (surgeons, hepatologists, and physician extenders) regarding the care of post-transplant metabolic conditions in their shared cohort of 56 LTRs >1 year post-transplant (mean 11 years ± 8). PCPs and THPs rated their agreement using a 5-point Likert scale (2=strongly agree to -2=strongly disagree) on statements describing ideal PCP involvement in managing the 4 metabolic conditions, analyzed using two-sample t-tests. PCPs also ranked their level of involvement for each LTR under their care, which was analyzed in relation to clinical outcomes abstracted from chart review including BMI, blood pressure, hemoglobin A1C, screening for retinopathy and CKD, and appropriate statin use via generalized estimating equations for binary data.
+
+# RESULTS:
+
+A total of 23 THPs (76%) and 32 PCPs (94%) completed the surveys. THPs felt PCPs should have primary responsibility for the management of HTN (1.55±0.80), DM (1.45±0.86), and dyslipidemia (1.27±0.98, p<0.001) in liver transplant recipients. Similarly, PCPs felt that subspecialists should not be primarily responsible for managing HTN (-1.34±0.83), DM (-1.31±0.9), dyslipidemia (-1.47±0.88). Both groups held mixed opinions regarding the management of CKD (PCP 0.59±1.01 vs THP -0.27±1.16). A majority of THPs (57%) reported frequent concern about missed care while 26% PCPs shared the same sentiment. In terms of gaps in quality of care, 51% (20/39) of hypertensive patients in our cohort had uncontrolled HTN, 34% (19/56) did not have regular screening for CKD, and 56% (22/39) were not prescribed statins despite being in a statin benefit group. There were no significant differences in quality of care between PCPs who endorsed 50% responsibility for care compared to those who endorsed <50%.
+
+# CONCLUSIONS:
+
+Both PCPs and THPs agree that PCPs should assume primary responsibility in the management of HTN, DM, and dyslipidemia in LTRs. Gaps remain in quality for these conditions but were not associated with PCP perception of responsibility. Future research should address barriers to achieving high-quality chronic disease management for transplant recipients and methods to improve communication between PCPs and subspecialists.
+
+# REDUCING RESIDENT ADMINISTRATIVE BURDEN USING A REMOTE SCRIBE FOR DISCHARGE SUMMARIES
+
+Shilpa Sharma; Arielle Medford; Daniel Restrepo; Nilay Patel; Aksharananda Rambachan; Kathleen M. Finn. Massachusetts General Hospital, Cambridge, MA. (Control ID #3141270)
+
+# BACKGROUND:
+
+Administrative burden is widely recognized as detrimental in medical education. The iCOMPARE study found residents spent 67% of their time on indirect patient care including interacting with the electronic chart. In order to reduce administrative burden, we implemented and evaluated the use of a remote scribe to write initial hospital courses in the Epic discharge module on the general medical service in a large internal medicine residency program.
+
+# METHODS:
+
+A time motion study was initially performed to assess the amount of time residents spent writing hospital courses. Next, we partnered with IKS Health, a scribe company based in India, whose physicians overnight reviewed resident progress notes and drafted a hospital course, which resident physicians subsequently edited and signed the next morning. To standardize the hospital course, IKS Health was provided with templates along with key findings to include for the 20 most common medical problems. A second time motion study was performed to assess the amount of time residents spent editing the IKS Health hospital courses. Once the program was established, in order to assess quality, we randomized for comparison 200 IKS-written/resident-edited hospital courses and 200 resident only-written hospital courses. Ten resident reviewers were hired, blinded to the writers, and asked to rate the hospital courses on five quality metrics: conciseness, clarity, detail, follow-up, and overall quality. Scores for each metric were averaged for comparison. Each resident evaluator served as their own control by assessing an equal number of intervention and control group hospital courses.
+
+# RESULTS:
+
+Editing the IKS hospital courses saved an average of 20 minutes per summary when compared to residents writing them in their entirety. The average time for a resident to write a hospital course was 30 min and editing took 10 min. The IKS summaries scored higher on 4 out of 5 quality indicators: clarity, detail, follow-up, and overall. Average scores for IKS written/resident edited vs resident written hospital course were: conciseness 3.06 vs 3.36 (p<0.01), clarity 3.32 vs 3.29 (p=0.88), detail 3.47 vs 3.24 (p=0.02), follow-up 3.37 vs 3.14 (p=0.01), and overall quality 3.34 vs 3.24 (p=0.30).
+
+# CONCLUSIONS:
+
+These results suggest implementation of a remote scribe for resident hospital courses is feasible and does not affect note quality. Blinded residents rated the IKS hospital courses higher than resident summaries in overall quality and in the subcategories of clarity, detail, and follow-up. With 20 minutes saved per summary this can reduce the administrative burden on residents especially with multiple discharges per day. The ultimate aim of this project was to reduce administrative burden on residents to create more time for residents to spend teaching, learning, and caring for patients. Investigating how residents use the time saved on discharge paperwork will be a compelling next step of the study.
+
+# RELATIONSHIP BETWEEN BURNOUT, SPIRITUALITY, AND EMPATHY AMONG PHYSICIANS
+
+Anna-Carson Rimer Uhelski3; Mukta Panda1; Rehan Qayyum2. 1University of Tennessee, Chattanooga, TN; 2Virginia Commonwealth University, Richmond, Virginia; 3University of TN Health Science Center College of Medicine, Memphis, TN. (Control ID #3167101)
+
+# BACKGROUND:
+
+Physician burnout has been suggested to be positively associated with degree of spirituality and negatively associated with empathy. Sparse data with mixed results are available. Our objective was to determine if physician burnout is related to spirituality and with empathy.
+
+# METHODS:
+
+Email survey of faculty physicians, residents, and medical students using a questionnaire about demographic data and three validated tools; burnout tool (Oldenburg Burnout Inventory [OLBI]), spirituality tool (Daily Spiritual Experience Scale [DSES]), empathy tool (Interpersonal Reactivity Index [IRI]). Each item of the survey tools was scored and mean scores were calculated as recommended by survey authors. Linear regression was used to examine the relationship between the two burnout domains of OLBI (exhaustion and disengagement), spirituality, four domains of IRI (perspective taking, fantasy scale, empathetic concern, and personal distress), and total IRI without and with adjustment for age, gender, race, and faculty status.
+
+# RESULTS:
+
+Of the 101 participants, 47% were females. Mean(SD) exhaustion score was 3.2 (0.7), disengagement 3.0 (0.6), spirituality 2.8 (1.3), and total...

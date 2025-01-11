@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# METHODS:
+
+With national stakeholders in diabetes prevention, our group developed a prediabetes decision aid and evaluated its impact on patient-centered outcomes. Inclusion criteria were age 18 years, prediabetes according to standard glycemic definitions, and BMI 25kg/m2. Exclusion criteria were diabetes, dementia, and previous use of ILI or metformin. This pretest-posttest trial of 40 primary care patients tested whether exposure to the decision aid impacted the following 3 outcomes: 1) knowledge about diabetes prevention, 2) decisional conflict; and 3) intention to adopt ILI and/or metformin. Each of the outcomes was assessed with widely used, validated questionnaires. We used paired t-tests and McNemar's tests to examine pretest-posttest differences in the continuous and dichotomous study outcomes, respectively.
+
+# RESULTS:
+
+The study participants were 95% female and 68% Hispanic/Latino, with a mean age of 46.5 years. Exposure to the decision aid increased knowledge about diabetes risk, but the pre-post change was not significant. Mean decisional conflict scores were significantly decreased from pretest (31.0 ± 15.7) to posttest (20.9 ± 17.1), p&lt;0.001. There were also significant reductions in all of the subscale scores for decisional conflict. The proportion of participants who intended to adopt ILI increased from 70% at baseline to 88% after exposure to the decision aid (p=0.02). There was no significant change in the proportion of participants who expressed intention to initiate metformin. The performance of the decision aid did not differ in subgroups defined by sex, language of administration (English vs. Spanish), or educational attainment (high school completion vs. lower).
+
+# CONCLUSIONS:
+
+This study demonstrates the feasibility and preliminary effectiveness of using a decision aid for diabetes prevention in primary care. Brief exposure to the decision aid resulted in modest improvements in knowledge about diabetes risk, significant reductions in decisional conflict, and significant increases in participants' intention to adopt ILI. Collectively, these findings suggest that our prediabetes decision aid is promising and may improve treatment decisions among patients with prediabetes in primary care.
+
+# DEVELOPMENT OF A NOVEL MEASURE OF TIMELY ACCESS TO PRIMARY CARE SERVICES
+
+Matthew R. Augustine2, 1; Adam J. Batten3; Karin M. Nelson3, 4; Peter J. Kaboli6, 5. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Department of Veterans Affairs, New York City, NY; 3Department of Veterans Affairs, Seattle, WA; 4University of Washington, Seattle, WA; 5Carver College, Iowa City, IA; 6Department of Veterans Affairs, Iowa City, IA. (Control ID #3169176)
+
+# BACKGROUND:
+
+Timeliness is a critical component of access and optimizing patient-centered care. Current objective measures of timely access to primary care (PC) may not account for patient-specific urgency or reflect modern scheduling practices. Our objective was to develop a novel measure for identifying clinic performance in fulfilling next-day and walk-in requests.
+
+# METHODS:
+
+We performed a retrospective, longitudinal analysis identifying clinic level success rates in fulfilling timely care requests within 48 hours from June 2014 to June 2017. We analyzed VA administrative data from 174 PC clinics located in 8 regional Veteran Integrated Service Networks. We defined a timely care request as any appointment type designated as walk-in or first next available. Successful fulfillment of timely care included a completed encounter within 48 hours and could occur in the same clinic with any PC provider, a different clinic within the same facility or regional network, a non-VA visit paid by VA, hospital admission, or via secure message or telehealth visit. Failure to provide timely care was determined if the patient was not seen within 48 hours, the appointment was cancelled by the clinic, or the appointment was fulfilled in the emergency department for conditions considered PC treatable as designated by a validated algorithm. We used Bayesian hierarchical regression to model the annual timely care success rate within each clinic, while controlling for age, sex, race, rurality, and patient risk. For risk, we used Nosos, a co-morbidity score that predicts costs. In addition, we also tested two- and three-way interactions between rurality, patient risk, and time.
+
+# RESULTS:
+
+From 2014 to 2017, the number of timely care requests increased 17% from 240,191 to 280,874 with 32-40% of all patients requesting timely care. Of all timely care requests, 85-90% were successfully fulfilled: 98% by VA with 61-64% in PC, 31-33% in other VA clinics, and 3-4% in VA mental health clinics. Non-VA care and secure messaging fulfilled 2% and 1%, respectively. Of the 174 clinics, we identified a mean overall success rate of 87-88% with an upper bound of 95-97%. The distribution of success widened overtime with lower bound of the Bayesian credible interval decreasing from 72% to 64%. Fourteen clinics (11%) exhibited significant variability in their baseline timely care success rate and another 6 clinics had significantly decreasing success rates over time. All two and three-way interactions were not significant.
+
+# CONCLUSIONS:
+
+We developed a novel metric of timely care, which included patient perceived urgency, modern scheduling practices, and multiple care delivery modalities. Robust models identified a high level of timely care success across VA clinics and identified clinics struggling to deliver timely care. While further validation is needed, this measure offers a novel procedure to assess access while providing real-time, actionable information to clinical leadership.
+
+# DEVELOPMENT OF COMMUNICATION SKILLS ACROSS THE UME - GME CONTINUUM
+
+Amanda Mari; Ruth Crowe; Kathleen Hanley; Deirdre Apicello; Norkila Sherpa; Lisa Altshuler; Sondra Zabar; Adina Kalet; Colleen C. Gillespie. NYU School of Medicine, New York, NY. (Control ID #3185402)
+
+# BACKGROUND:
+
+The core Entrustable Professional Activities medical school graduates should be able to perform on day 1 of residency provides a framework for readiness for residency. Communication skills are an essential foundation for these core EPAs and yet there have been few studies that describe communication competence across the UME-GME continuum. We report on our OSCE-based assessment of communication skills from the first few weeks of medical school to the first year of medicine residency.
+
+# METHODS:
+
+Assessment of communication is consistent in our OSCE program across UME and GME. Domains include Information Gathering (5 items), Relationship Development (6 items), and Patient Education (3 items) and these are assessed via a behaviorally anchored checklist (scores=% well done) that has strong reliability and validity evidence. In this study, we report on 3 multi-station OSCEs: the Introductory Clinical Experience (ICE) OSCE that occurs within the first weeks of medical school; the high-stakes, pass/fail Comprehensive Clinical Skills Examination (CCSE) OSCE that is fielded after clerkship year; and the Medicine Residency Program's PGY 1 OSCE. Across 3 classes of medical school (2014-2016) we have complete data for the 24 students who continued on in our Medicine Residency (and who provided consent to include their educational data in an IRB-approved registry). Analyses focus on differences in communication skills over time and between cohorts and the relationship between communication skills measured in medical school and those assessed in residency.
+
+# RESULTS:
+
+Communication scores show significant improvement through medical school (but not into residency) in Information gathering (ICE mean=56%; CCSE mean=76%; PGY1 mean=77%) (F=11.54, p&lt;.001, ICE&lt;CCSE) and in relationship development (ICE=59%; CCSE=78%; PGY1= 74% (F=10.68, p&lt;.001, ICE &lt;CCSE). Mean patient education skills, however, increase significantly across all 3 time points (32% to 50% to 65%; F=31.00, p&lt;.001). Patterns are similar across cohorts except that the Class of 2016 means increase from CCSE to PGY1. Regression analyses show that CCSE information gathering scores are more strongly associated with PGY performance than ICE scores (Std Beta=.32 vs .06), while for relationship development, it is the

@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# Granulomatous Nephritis and Cryoglobulinemia
+
+Granulomatous nephritis (IGN). Cryoglobulinemia has not been previously reported with sarcoidosis. However, with the exclusion of other common causes of cryoglobulinemia and GN, the pathophysiology of sarcoidosis, which leads to a broad-based hypergammaglobulinemia, and the MPGN which can be caused by mixed cryoglobulinemia raise the likelihood that these conditions are linked. The immunoglobulins that may be produced include RF (an IgM directed against IgG) and this and others may act as cryoglobulins and may be the cause of this patient's GN. In a 2013 review of glomerular diseases associated with sarcoidosis, the GN often occurred years after the diagnosis of sarcoidosis; it could, however, precede the diagnosis, and it could occur in conjunction with IGN. Establishing a unifying diagnosis may be of benefit in terms of consolidating treatment and subsequent follow up. This may be the first case of documented mixed cryoglobulinemia, glomerulonephritis, and sarcoidosis.
+
+# CONCLUSION:
+
+Sarcoidosis is an uncommon disease and Idiopathic Membranoproliferative Glomerulonephritis with Cryoglobulinemia is even more rare; the probability that they would occur in the same patient is remote if they are independent variables. If they are dependent variables, the probability would be greater and such a conjoint occurrence could be consistent in our patient given the pathophysiology of these conditions. The difference may have relevance in terms of steroid treatment which may be indicated for extrapulmonary manifestations of sarcoidosis, whereas not all patients with idiopathic cryoglobulinemic MPGN require intervention with steroids.
+
+# A Pernicious Mimicker: B12 Deficiency Presenting as Splenomegaly, Pancytopenia and Hemolytic Anemia
+
+Megan K. Cochran2; Angela Thinda1; Elieth Martinez1. 1UCSF Fresno, Fresno, CA; 2UCSD, La Jolla, CA. (Control ID #3184924)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the common and rare clinical manifestations of B12 deficiency
+
+# LEARNING OBJECTIVE #2:
+
+Recognize clinical features of pseudo-thrombotic angiopathy secondary to B12 deficiency
+
+# CASE:
+
+A 76 year-old man with a mechanical mitral valve replacement and atrial fibrillation (on coumadin) presented with 1 month of dyspnea on exertion and 20 pound weight loss. Exam revealed irregular rhythm, scleral icterus, and a painless 23cm spleen. Labs were notable for WBC 1.9, Hgb 4.5 (MCV 108), and PLT 62. INR was 5.9. Blood smear showed macrocytosis, schistocytes, tear drops, and hypersegmented neutrophils. The patient was transfused pRBCs/FFP and was given oral vitamin K. INR decreased to 1.5. Hemolysis labs were positive (LDH 4500, haptoglobin <30, indirect bilirubin 5.2) and Coomb's test was negative. TTE showed a normal ejection fraction with normal mitral valve function. Bone marrow biopsy demonstrated a hypercellular marrow. Serum folate was normal while vitamin B12 was low at 62. Methylmalonic acid was elevated and intrinsic factor antibody was positive. After active bleeding was ruled out, the patient was started on coumadin with heparin bridge as he was also thrombogenic due to the mechanical valve and atrial fibrillation. He was started on B12 injections (1000 mcg daily) and was discharged in stable condition. The remainder of the workup was as follows: negative MDS FISH analysis, negative ADAMSTS13/PNH assays, and no clonal abnormality on cytogenetic analysis.
+
+# IMPACT/DISCUSSION:
+
+This case highlights several important diagnostic and management challenges. First, B12 deficiency manifests as a variable spectrum of disease. Although the classic features include megaloblastic anemia and neuropsychiatric symptoms, our patient presented with rare manifestations of splenomegaly, pancytopenia, and hemolysis. Second, the patient's elevated INR, hemolysis, and schistocytes seen on presentation prompted us to consider microangiopathic hemolytic anemia that led to an extensive workup such as obtaining ADAMSTS13 assay. This phenomenon is known as pseudo-thrombotic microangiopathy, and often leads to delay in diagnosis and delivery of blood products such as FFP as seen in our patient. Our patient's subtherapeutic INR offered the secondary challenge of balancing the risk of anticoagulating a prothrombotic patient while ruling out a bleeding diathesis. Furthermore, while a hematological process was suspected such as myelodysplastic syndrome or myelofibrosis given his age, pancytopenia, and enlarged spleen, reversible and easily treatable etiologies should not be overlooked. Our patient's low serum B12 and elevated MMA levels ultimately lead to a diagnosis of pernicious anemia that was managed with B12 injections.
+
+# CONCLUSION:
+
+B12 deficiency due to pernicious anemia can rarely present with pancytopenia, hemolysis, and splenomegaly. Diagnostic evaluation of pancytopenia should emphasize testing for reversible and easily treatable conditions including B12 deficiency.
+
+# A Preemptive Strike at Suspected Primary Aldosteronism in a Medically Underserved Patient
+
+Zachary S. Pinchover; Sam Bedri; Steven Taylor. Dell Medical School at the University of Texas Austin, Austin, TX. (Control ID #3155089)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation of primary aldosteronism (PA) in an acute care setting.
+
+# LEARNING OBJECTIVE #2:
+
+Detail the evaluation and management of suspected PA in a medically-underserved patient.
+
+# CASE:
+
+A 29-year-old uninsured male with untreated hypertension, inadequate access to outpatient care, and frequent emergency department (ED) visits presented to the ED with a two-day history of headaches, blurry vision, chest pain, and shortness of breath. He denied muscle cramps, prescription medication use, illicit drug use, or family history of hypertension. His physical exam showed a blood pressure (BP) of 280/140 mmHg, otherwise normal vital signs, and normal cardiopulmonary and neurologic exams. Initial lab studies revealed a low serum potassium (2.2 mEq/L) and elevated serum creatinine (1.4 mg/dL). ECG and serial troponin measurements ruled out acute MI. He was diagnosed with hypertensive emergency with acute kidney injury (AKI) and treated in an ICU setting with potassium repletion and continuous esmolol and nicardipine infusions. With suspicion for PA, morning serum samples for aldosterone and plasma renin activity measurement were collected. The patient was transitioned onto maximum doses of three antihypertensive agents and required continued potassium repletion. Though his AKI resolved his BP remained elevated and, on hospital day #4, he voiced a desire to be discharged at a time his lab evaluation for PA was still pending. With high concern for PA, he was prescribed spironolactone with subsequent improvement in BP and serum potassium. He was discharged with follow up in a local clinic for the uninsured, and his lab evaluation later returned confirming high suspicion for PA. Confirmatory biochemical testing for PA was deferred, CT imaging showed a 2.3 cm right adrenal adenoma, and arrangements were made for right adrenalectomy.
+
+# IMPACT/DISCUSSION:
+
+PA is an often underrecognized cause of secondary hypertension that carries significant morbidity. Treatment-resistant hypertension and spontaneous hypokalemia are cardinal features in PA that should prompt a diagnostic evaluation for it. This can be costly, time-consuming, and challenging, however. Medications, hypokalemia, and AKI can result in falsely elevated or suppressed results of biochemical tests used for PA case detection. Further, consensus guidelines indicate confirmatory testing—often to include adrenal venous sampling—should be pursued for many patients for whom PA is suspected based on biochemical case detection results. A patient-centered approach to the evaluation and treatment of PA is essential for medically-underserved patients for whom high clinical suspicion for this diagnosis exists.
+
+# CONCLUSION:
+
+Empiric treatment for PA may be considered in a medically-underserved patient with high clinical suspicion for PA while awaiting the results of biochemical tests for case detection. Confirmatory biochemical tests may be deferred in the setting of high clinical suspicion for PA.

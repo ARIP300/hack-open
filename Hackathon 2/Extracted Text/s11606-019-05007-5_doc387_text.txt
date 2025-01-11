@@ -1,0 +1,77 @@
+# ABSTRACTS JGIM
+
+# ANTI-MDA5-ASSOCIATED DERMATOMYOSITIS
+
+Vasculopathy with fibrin thrombi. Further myositis-specific serologic testing revealed elevated anti-melanoma differentiation-associated gene 5 (MDA5) antibody titers. The patient was thus diagnosed with anti-MDA5-associated DM.
+
+# IMPACT/DISCUSSION:
+
+Anti-MDA5-associated DM is a unique entity characterized by absent or mild proximal myopathy and rapidly progressive interstitial lung disease (ILD). Though pathogenesis is unknown, MDA5 serves immune functions as a RIG I-like receptor in sensing viral antigens, suggesting a possible viral mediator. Anti-MDA5-associated DM was first noted in Japan and accounts for approximately 22% of DM cases in East Asian populations, versus 7-13% of those in the US and Europe. Anti-MDA5-associated DM presents with tender palmar papules and digital ulcerations, with histologic features of vasculopathy. The condition is classically "amyopathic" or "hypomyopathic", given prominent skin findings in the presence of normal or only mildly reduced strength and normal CK. Significant weight loss may reflect esophageal dysfunction. Ferritin levels may be markedly elevated and correlate with disease activity. MDA5-associated ILD tends to progress rapidly and confers poor prognosis. Our patient presented with several hallmark features of anti-MDA5-associated DM. She is currently undergoing evaluation for immunosuppressive therapy. While optimal treatment remains unknown, case series note favorable responses to steroids, calcineurin inhibitors, cyclophosphamide, rituximab, and in refractory cases, IVIG or plasma exchange.
+
+# CONCLUSION:
+
+Anti-MDA5-associated DM is a unique entity to be considered in suspected DM cases with prominent cutaneous and pulmonary features with or without muscle involvement.
+
+# ANTIBIOTIC-INDUCED RADIATION RECALL DERMATITIS
+
+Ian Garrahy1; Daniel Forman2; Kyle Macaulay1.  1Tower Health System, Wyomissing, PA; 2Tower Health, Reading, PA. (Control ID #3186296)
+
+# LEARNING OBJECTIVE #1:
+
+Radiation recall dermatitis is a rare inflammatory skin condition that occurs over a previously irradiated field most commonly triggered by chemotherapy.
+
+# LEARNING OBJECTIVE #2:
+
+There are rare instances of antibiotic-induced RRD.
+
+# CASE:
+
+Radiation recall dermatitis (RRD) is an inflammatory skin reaction that develops in a previously quiescent radiation field triggered most commonly by chemotherapy, particularly anthracyclines and taxanes. Radiation-recall dermatitis secondary to antibiotic therapy is quite rare. The patient is a 61 year old female with a past history of squamous cell carcinoma of the left breast treated with neoadjuvant carboplatin, paclitaxel, and anthracycline chemotherapy followed surgery, then subsequent whole breast radiation to 6040cGy. Eight years after completion of her radiation she developed diffuse redness of the left breast after two doses of nitrofurantoin taken for a urinary tract infection. On examination, vital signs were stable and she had an erythematous and excoriated rash on her left breast that clinically appeared to be cellulitis. Given her clinical history, coupled with the temporal relationship of starting an antibiotic, strong consideration was given for antibiotic-induced RRD. Nitrofurantoin was discontinued and the rash progressively resolved within several days. This case demonstrates an example of RRD which is the development of an acute inflammatory skin reaction of a previously irradiated area most commonly triggered by chemotherapeutic agents. This case highlights antimicrobial therapy as a rare cause of RRD and underscores the importance of considering RRD in a patient presenting with an acute rash over a previously irradiated area while on antimicrobial therapy.
+
+# IMPACT/DISCUSSION:
+
+RRD is an inflammatory skin condition that occurs over a previously quiescent irradiated field. It is most commonly caused by chemotherapeutic agents particularly the taxanes. However, this case highlights one of the rare instances in which antibiotics can cause RRD.
+
+# CONCLUSION:
+
+RRD should be considered in all patients taking antibiotics who present with a rash over a previously quiescent irradiated field.
+
+# APPLICATION OF A NEW NONINVASIVE DIAGNOSTIC APPROACH TO TRANSTHYRETIN CARDIAC AMYLOIDOSIS
+
+Katryna Lim. Emory University, Atlanta, GA. (Control ID #3185844)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the unique clinical features of transthyretin amyloidosis.
+
+# LEARNING OBJECTIVE #2:
+
+Consider a new noninvasive diagnostic approach to cardiac amyloidosis.
+
+# CASE:
+
+A 75 year-old African American male presented with two months of progressive dyspnea on exertion, orthopnea, and bilateral leg swelling. He had a history of carpal tunnel syndrome, hypertension, atrial fibrillation, chronic kidney disease, chronic heart failure with an ejection fraction of 25%, and had an implantable cardiac defibrillator placed two years prior to this admission. Past workup included a left heart catheterization without coronary artery disease. He had been taking bumetanide, carvedilol, losartan, hydralazine HCL/isosorbide dinitrate, and apixaban. His blood pressure was 119/85, heart rate 101, respiratory rate 18 and oxygen saturation 98% on 2L nasal cannula. He appeared comfortable sitting upright with jugular venous distention to the level of his mid-neck at 90 degrees. He had an irregularly irregular rhythm, an S3 gallop and a grade 3/6 systolic murmur at the left lower sternal border. Lung exam revealed bibasilar crackles. There was pitting edema to the knees bilaterally and his extremities were cool. Initial laboratory evaluation revealed sodium 138, potassium 3.7, BUN 48 and creatinine 2.29. BNP was 2,403 and troponin 0.13. EKG revealed atrial fibrillation with low voltage. Chest x-ray revealed bilateral pleural effusions. Echocardiogram revealed left ventricular ejection fraction of 10%, grade 2 diastolic dysfunction, severely reduced right ventricular systolic function and a bright, thick myocardium. Further workup included a normal serum and urine immunofixation and serum free light chain assay. Nuclear bone scintigraphy findings were positive for transthyretin cardiac amyloid. Clinically, he worsened despite aggressive diuresis and inotropic support. He was discharged to home hospice.
+
+# IMPACT/DISCUSSION:
+
+Hospitalists commonly care for patients with chronic diastolic heart failure and evidence of hypertrophy; however, the etiology is not always clear. The prevalence of cardiac amyloidosis is surprisingly high and should be considered. Unique clinical features of transthyretin amyloidosis (the most common subtype) include bilateral carpal tunnel syndrome, spinal stenosis, peripheral neuropathy, and spontaneous biceps tendon rupture. Once cardiac amyloidosis is suspected and AL amyloidosis is ruled out, recent data support the use of nuclear bone scintigraphy to detect and confirm transthyretin cardiac amyloid. This is a noninvasive alternative to biopsy in making this diagnosis. We successfully confirmed that our patient had transthyretin cardiac amyloidosis using this approach.
+
+# CONCLUSION:
+
+Cardiac amyloidosis, specifically transthyretin subtype, is common and often underdiagnosed. Thus, it is important for clinicians to recognize its unique clinical features, including carpal tunnel syndrome, spinal stenosis and biceps tendon rupture, and to consider using nuclear bone scintigraphy when making this diagnosis.
+
+# APPRECIATING AMBIGUITY: ATYPICAL TYPHOID FEVER COUPLED WITH UNCERTAINTY IN SUSCEPTIBILITY TESTING
+
+Sarah W. Takimoto; Therese Chan Tack. University of California, San Francisco, San Francisco, CA. (Control ID #3162818)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose typhoid fever in a returning traveler.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize treatment failure due to antibiotic resistance despite reassuring susceptibility testing.
+
+# CASE:
+
+A 32-year-old man presented to the emergency room with one week of intermittent fevers that began after returning from Pakistan. He reported a previous sore throat, but had no localizing symptoms and was...

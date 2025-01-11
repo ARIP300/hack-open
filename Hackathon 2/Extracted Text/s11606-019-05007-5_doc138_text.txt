@@ -1,0 +1,53 @@
+# HEALTH LITERACY AND SOCIODEMOGRAPHICS ARE MORE IMPORTANT THAN PRIOR EXPERIENCE FOR ADVANCE CARE PLANNING KNOWLEDGE AMONG OLDER ADULTS
+
+Sarah Nouri1; Deborah E. Barnes2; Aiesha Volow3; Ryan D. McMahan3; Margot Kushel1; Chengshi Jin4; W. John Boscardin3; Rebecca L. Sudore3.
+
+1University of California, San Francisco, San Francisco, CA; 2University of California, San Francisco, San Francisco, CA; 3University of California, San Francisco; San Francisco Veterans Affairs Medical Center, San Francisco, CA; 4University of California San Francisco, San Francisco, CA. (Control ID #3184653)
+
+# BACKGROUND:
+
+Engagement in advance care planning (ACP) is low among vulnerable populations, and limited knowledge about ACP has been suggested as a possible modifiable barrier. We aimed to determine the factors associated with ACP knowledge, including prior ACP engagement, health literacy, and sociodemographic factors. We hypothesized that prior ACP engagement would be associated with higher ACP knowledge, and limited health literacy would be associated with lower ACP knowledge.
+
+# METHODS:
+
+We used cross-sectional baseline data from two randomized controlled trials that enrolled 1400 English- and Spanish-speaking primary care patients aged 55 years with 2 chronic medical conditions from a Veterans Affairs and public hospital system in San Francisco. We assessed ACP knowledge, the outcome variable, with validated multiple-choice questions on a 0-7-point scale. We defined prior ACP engagement as documented legal forms and/or goals of care discussions in the medical record. Sociodemographic measures included age, gender, health literacy (validated s-TOFHLA scores dichotomized into limited vs adequate literacy), preferred language (English vs Spanish), education (vs > high school), race/ethnicity, health status (5-pt Likert scale), finances (limited vs adequate), and social support (11-item validated survey, scores 11 to 55). We used Kruskall-Wallis tests and linear regression analysis to examine associations of prior engagement in ACP and sociodemographic factors with ACP knowledge.
+
+# RESULTS:
+
+Participants were 65 (±10) years old; 48% were women, 34% had limited health literacy, 32% were Spanish-speaking, 47% had high school education, 70% were non-white, 45% had fair-to-poor health, and 21% had limited finances. In unadjusted analyses, ACP knowledge scores were higher for those with vs without prior ACP engagement (5.1 (SD 1.8) vs 4.8 (SD 2.0), p=0.02). In multivariate analyses adjusted for sociodemographic variables associated with ACP knowledge (gender, health literacy, preferred language, education, race, health status, finances, and social support), prior ACP engagement was no longer associated with knowledge (p=0.8). Instead, limited health literacy was associated with 1.0-point lower knowledge scores (4.7 vs 5.7, p<0.001), Spanish language and education high school were associated with 0.6-point lower scores (5.1 vs 5.7, p<0.001 for each), and non-white race was associated with 0.4-point lower scores (5.3 vs 5.7, p<0.001). Higher social support was also independently associated with higher ACP knowledge scores (0.12 knowledge points per 1 social support point, p=0.004).
+
+# CONCLUSIONS:
+
+Health literacy and sociodemographics are more important predictors of ACP knowledge than prior engagement in ACP. This study suggests that providing easy-to-understand, culturally appropriate ACP materials is paramount for vulnerable populations and should be re-offered even if patients have previously engaged in ACP.
+
+# HEALTH LITERACY PHENOTYPES: COGNITIVE VS. NON-COGNITIVE LOW HEALTH LITERACY AND IMPACTS ON HEALTH STATUS
+
+Laura M. Curtis1; Stacy Bailey1; Mary J. Kwasny1; Rachel O'Conor1; Julia Yoshino Benavente1; Michael Paasche-Orlow3; Alex Federman2; Michael S. Wolf1.
+
+1Northwestern University, Chicago, IL; 2Icahn School of Medicine at Mount Sinai, New York, NY; 3Boston Medical Center, Boston, MA. (Control ID #3185415)
+
+# BACKGROUND:
+
+The influence of health literacy (HL) on personal health is well-established, and there have been consistent calls to action for health care systems to respond. The underlying HL construct reflects a variety of cognitive and psychosocial factors, but existing HL measures merely identify those with higher vs. lower skills. Understanding the underlying nature of the barrier(s) causing lower HL (e.g. cognitive impairment, limited healthcare knowledge/experience) could better inform healthcare system responses. We sought to investigate the prevalence of two such ‘phenotypes' of low HL, cognitive vs. non-cognitive, and evaluate their associations with physical health.
+
+# METHODS:
+
+900 adults between the ages of 55 and 74 receiving care at either an academic general internal medicine clinic or 1 of 5 federally qualified health centers in Chicago, IL were recruited for an ongoing study. Structured interviews were conducted that included three HL measures (REALM, TOFHLA, NVS) as well as a detailed psychosocial and neuropsychological battery that allowed for the determination of a cognitive impairment. In addition, participants completed the PROMIS Physical Functioning Short Form. The prevalence of low HL was calculated per test among all subjects, then stratified by those with and without a cognitive impairment to define the ‘cognitive' and ‘non-cognitive' phenotypes, respectively. Physical functioning t-scores corrected for the general population were then compared across HL levels, overall and stratified by these two health literacy phenotypes.
+
+# RESULTS:
+
+Among 877 participants with cognitive data, 201(23%) were cognitively impaired and rates of low HL by REALM, TOFHLA, and NVS were 10%, 14%, and 32% respectively. The prevalence of low HL varied by cognitive impairment status (cognitive phenotype: 66% vs. non-cognitive phenotype: 22%; p<0.001 (by NVS)). Similar trends were noted by REALM and TOFHLA measures. Differences in mean (SD) physical function scores were noted across HL levels among all participants (NVS: low 44.1(9.1), marginal 47.1(8.8), adequate 50.1(8.1), p<0.001; TOFHLA: low 42.4(8.4), marginal 45.4(9.1), adequate 49.2(8.5), p<0.001; REALM: low 42.6(9.1), marginal 45.5(9.2), adequate 48.7 (8.6), p<0.001). Significant, gradient trends with better physical health increasing with greater HL skills persisted in both phenotypes (NVS: (cognitive): low 42.4(9.3), marginal 46.8(10.0), and adequate 46.8(8.2), p=0.01; (non-cognitive): low 45.6(8.7), marginal 47.1(8.5), and adequate 50.3(8.1), p<0.001).
+
+# CONCLUSIONS:
+
+This initial investigation into the possibility of multiple HL phenotypes suggests that even among cognitively ‘normal' participants, limited HL can negatively impact physical health, albeit scores were still significantly higher than those with a cognitive impairment. This may directly inform the design of HL interventions, recognizing that different approaches will be needed to remediate different phenotypes of HL.
+
+# HEALTH SYSTEM PARTICIPATION IN ALTERNATIVE PAYMENT MODELS AND INSURANCE PRODUCTS
+
+Laura Kimmey1; Rachel Machta1; David J. Jones1; Michael Furukawa2; Eugene C. Rich3.
+
+1Mathematica Policy Research, Durham, NC; 2Agency for Healthcare Research and Quality, Rockville, MD; 3Mathematica Policy Research, Silver Spring, MD. (Control ID #3186475)
+
+# BACKGROUND:
+
+In the past decade, consolidation of hospitals and physicians into local or regional health systems has increased in the U.S. Researchers, policymakers, health system leaders and others may be interested in studying health system characteristics and their relationship with performance. As part of AHRQ's Comparative Health System Performance (CHSP) Initiative, we developed new variables to describe whether health systems: (1) participated in alternative payment models (indirectly through participation by the systems' hospitals), including an Accountable Care

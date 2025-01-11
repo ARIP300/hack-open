@@ -1,0 +1,57 @@
+# Αdekola and Chia. Stakeholder Theory, Public Engagement, and Epistemic Injustice
+
+Cultural competence training, actively engage with community leaders, and ensure diverse representation in healthcare settings. Community groups are encouraged to advocate for representation, empower members with health information, and collaborate with healthcare providers for community-specific solutions. Health researchers should embrace community-based participatory research, ensure diversity in study representation, and adhere to ethical research practices. Science and policy officials are urged to ensure inclusive decision making and transparent communication, and provide information in multiple languages to address the concerns and needs of marginalized communities. These recommendations collectively aim to promote an epistemic just society and a more equitable and culturally sensitive healthcare system.
+
+# 7 Conclusion
+
+The research explored the vaccine hesitancy case and illustrated how the failure to grasp power dynamics undermines the stakeholder approach. The analysis underscored the underrepresentation of diverse perspectives in decision making, hindering inclusive policies. A more comprehensive understanding and effective implementation of the stakeholder approach to public sector policy making must consider the unequal distribution of power and the possibility of epistemic injustice arising from such power dynamics. Epistemic justice demands transparency in decision-making processes. Communities should be able to hold policymakers and institutions accountable for their actions and the impact of their decisions. Lack of transparency can exacerbate epistemic injustices. Recognizing and valuing community knowledge is crucial for equitable pandemic responses.
+
+# Αcknowledgments
+
+This research has been made possible thanks to the funding received from the Impact Acceleration Account at the University of Glasgow. We extend our heartfelt gratitude to all the participants and community partners who have played a vital role in this project. Your contributions, especially in gathering people and facilitating community discussions, have been invaluable. Special thanks to Fountain of Living Water, RCCG, Ayr; pRESPECT Hub Edinburgh; Sharpen Her: The African Women’s Network, Glasgow; and Black and Scot Aberdeen and Jezreel Consultancy.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+# References
+
+Abuelgasim, E., L.J. Saw, M. Shirke, M. Zeinah, and A. Harky. 2020. COVID-19: Unique public health issues facing Black, Asian and minority ethnic communities. Current Problems in Cardiology 45: Article 100621.
+
+Adekola, J., D. Fischbacher-Smith, T. Okey-Adibe, and J. Audu. 2022. Strategies to build trust and COVID-19 vaccine confidence and engagement among minority groups in Scotland. International Journal of Disaster Risk Science 13(6): 890–902.
+
+Aguilar-Gaxiola, S., S.M. Ahmed, A. Anise, A. Azzahir, K.E. Baker, A. Cupito, M. Eder, and T.D. Everette et al. 2022. Assessing meaningful community engagement: A conceptual model to advance health equity through transformed systems for health: Organizing committee for assessing meaningful community engagement in health & health care programs & policies. National Academy of Medicine Perspectives. https://doi.org/10.31478/202202c.
+
+Bachrach, P., and M. Baratz. 1962. Two faces of power. American Political Science Review 56(4): 947–952.
+
+Becares, L., R.J. Shaw, S.V. Katikireddi, P. Irizar, S. Amele, D. Kapadia, J. Nazroo, and H. Taylor. 2022. Racism as the fundamental cause of ethnic inequities in COVID-19 vaccine hesitancy: A theoretical framework and empirical exploration using the UK Household Longitudinal Study. SSM-Population Health 19: Article 101150.
+
+Belk, R.W., and R.V. Kozinets. 2005. Videography in marketing and consumer research. Qualitative Market Research: An International Journal 8(2): 128–141.
+
+Besley, J.C. 2012. Imagining public engagement. Public Understanding of Science 21(5): 590–605.
+
+Boserup, B., M. McKenney, and A. Elkbuli. 2020. Disproportionate impact of COVID-19 pandemic on racial and ethnic minorities. The American Surgeon 86: 1615–1622.
+
+Brandt, A.M. 1978. Racism and research: The case of the Tuskegee Syphilis study. Hastings Center Report, 21–29.
+
+Brandt, F., J. Josefsson, and M. Spierenburg. 2018. Power and politics in stakeholder engagement. Ecology and Society 23(3): Article 32.
+
+Braun, V., and V. Clarke. 2012. Thematic analysis. Washington, DC: American Psychological Association.
+
+Brugha, R., and A. Zwi. 1998. Improving the quality of private sector delivery of public health services: Challenges and strategies. Health Policy and Planning 13: 107–120.
+
+Burgess, R.A., N. Kanu, T. Matthews, O. Mukotekwa, A. Smith-Gul, I. Yusuf, I. Lamptey, N. McCauley, et al. 2022. Exploring experiences and impact of the COVID-19 pandemic on young racially minoritised people in the United Kingdom: A qualitative study. PloS One 17: Article e0266504.
+
+Byskov, M.F. 2021. What makes epistemic injustice an “injustice”? Journal of Social Philosophy 52: 114–131.
+
+Byskov, M.F., and K. Hyams. 2022. Epistemic injustice in climate adaptation. Ethical Theory and Moral Practice 25: 613–634.
+
+Cass, N. 2006. Participatory-deliberative engagement: A literature review. Department of Geography: Lancaster University, Lancaster, UK.
+
+Cheshmehzangi, A. 2022. Vulnerability of the UK’s BAME communities during COVID-19: The review of public health and socio-economic inequalities. Journal of Human Behavior in the Social Environment 32: 172–188.
+
+Chilvers, J. 2010. Sustainable participation? Mapping out and reflecting on the field of public dialogue on science and technology. University of East Anglia, Norwich, UK.
+
+Collingridge, D., and C. Reeve. 1986. Science speaks to power: The role of experts in policy making. New York: St. Martin’s Press.
+
+Cummings, S., C. Dhewa, G. Kemboi, and S. Young. 2023. Doing epistemic justice in sustainable development: Applying the

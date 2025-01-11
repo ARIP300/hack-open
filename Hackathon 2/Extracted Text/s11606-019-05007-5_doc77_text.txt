@@ -1,0 +1,51 @@
+# ABSTRACTS JGIM
+
+Understanding how patients cope with community violence may inform healthcare strategies and intervention targets in high-risk populations.
+
+# CORRELATION BETWEEN BILIRUBINEMIA AND ACUTE KIDNEY INJURY IN PATIENTS WITH CIRRHOSIS
+
+Adrienne Lenhart2; Patrick Brown1; omar khan1; Maryam Alimirah1; Hafsa Abdulla1; Reena Salgia1; Junior Uduman1. 1Henry Ford Health System, Detroit, MI; 2Henry Ford Hospital, Detroit, MI. (Control ID #3182074)
+
+# BACKGROUND:
+
+Acute kidney injury (AKI) in the setting of cirrhosis is associated with significant morbidity. However, data is limited regarding the role that hyperbilirubinemia plays in renal injury. One proposed mechanism is direct renal tubular injury from bilirubin and bile salts, but this is not well elucidated. Using a tertiary care population, we aimed to evaluate whether serum bilirubin levels predict the likelihood of AKI in patients with cirrhosis, as well as predict the probability of renal recovery in this population.
+
+# METHODS:
+
+Hospitalized patients with cirrhosis, with and without AKI, were retrospectively identified from January 2012 - December 2015. AKI was defined per KDIGO criteria and classified into HRS type 1, HRS type 2, and/or acute tubular necrosis (ATN). Other etiologies of AKI were excluded. Data concerning patient demographics, MELD-Na score, peak total serum bilirubin during hospitalization, change in total serum bilirubin from baseline, peak serum creatinine (SCr) during hospitalization, change in SCr from baseline, and nadir estimated glomerular filtration rate (eGFR) were analyzed. In patients with AKI, renal recovery was evaluated after 6 months of follow up and was defined as a return of SCr towards baseline or a lack of dialysis dependence.
+
+# RESULTS:
+
+A total of 200 cirrhotic patients were included. The majority were Caucasian (70%), male (62%), and had alcoholic cirrhosis (61%) as the etiology of their liver disease. Of these, 57% had AKI, while 43% did not. The average peak total bilirubin was significantly higher in patients with AKI compared to patients without AKI (13.6 mg/dL vs. 5.0 mg/dL respectively; p&lt;0.001). The change in bilirubin from baseline was significantly higher in patients with AKI compared to patients without AKI (8.7 mg/dL vs. 2.5 mg/dL respectively; p&lt;0.001). Patients' peak bilirubin level also correlated with their peak SCr (p&lt;0.001), change in SCr (p=0.004), and nadir eGFR (p=0.004) during hospitalization. There was no significant difference in peak bilirubin levels between HRS type 1, HRS type 2, and ATN. While peak bilirubin level was unable to predict the likelihood of renal recovery among patients with AKI, a lower MELD-Na score was predictive of renal recovery (p=0.015).
+
+# CONCLUSIONS:
+
+Higher bilirubin levels predicted both an increased likelihood of and severity of AKI, manifested as both higher SCr and lower nadir eGFR. Elevated bilirubin also correlated with the development of both HRS and ATN, suggesting that hyperbilirubinemia may play a role in the pathogenesis of AKI, irrespective of etiology. Measured bilirubin did not predict renal recovery in cirrhotic patients with AKI. Further data on the association between hyperbilirubinemia and AKI can guide clinicians to risk stratify and plan initiation of dialysis. Identification of the pathogenic mechanisms may also lead to directed therapy.
+
+# CORRELATION BETWEEN SELF-ESTEEM AND INTERNAL MEDICINE CLERKSHIP GRADES
+
+Rebecca B. Forman1; Monica Malviya1; Masrur A. Khan1; Keara English1; William Southern2; Amanda Raff2; Tulay Aksoy3. 1 Albert Einstein College of Medicine, Bronx, NY; 2 Montefiore, Bronx, NY; 3 Montefiore Medical Center, Bronx, NY. (Control ID #3184122)
+
+# BACKGROUND:
+
+Medical student performance in clinical clerkships is assessed in a variety of ways using both clinical evaluations and standardized exams. Studies have shown that the clinical score can be influenced by factors including gender, age, and personality characteristics such as agreeableness, neuroticism, and extraversion. There have been very few studies, however, investigating the effect of self-esteem on clerkship grades. Our study assessed the relationship between medical students' self-esteem and internal medicine clerkship grades.
+
+# METHODS:
+
+Over the course of two academic years, an optional survey including the Rosenberg Self-Esteem Scale (RSES) was sent to all medical students in the internal medicine clerkship at our institution. Their responses were recorded and associated with their internal medicine clerkship grades. The de-identified data was provided to the research team. This study was deemed exempt by the Einstein Institutional Review Board. RSES is composed of ten statements answered on a 4-point agree/disagree scale. Responses are graded out of 40, with scores below 15 indicating low self-esteem. The scale has been shown to have both internal validity and test-retest reliability, both in general and in the field of higher education specifically. Chi-squared analysis was performed to assess for correlation between self-esteem scores and clerkship grades. Regression analysis was also performed to investigate correlation between individual survey answers and clerkship grades.
+
+# RESULTS:
+
+356 students were eligible to participate. 97 responded (27% response rate), and 94 provided information to allow linking to clerkship grades; the remaining 3 were assumed to have received a non-honors grade for the purpose of analysis. 51 (53%) of the respondents were female, 45 (46%) were male, and 1 (1%) identified as non-binary. The average age was 26.4 ± 2.6. 56 (60%) received either a High Pass or a Pass, and 38 (40%) received Honors in the clerkship. 11 (11%) had a low self-esteem score, and 86 (89%) had a self-esteem score within the normal range. Of the people with low self-esteem, 8 (73%) received a non-honors grade, and 3 (27%) received honors. Of people with normal self-esteem, 51 (59%) received a non-honors grade, and 35 (41%) received honors. The Pearson chi-squared score was 0.74, with a p-value of 0.39. Further analysis was conducted on individual questions, with no p-values reaching significance.
+
+# CONCLUSIONS:
+
+No significant correlation was found between self-esteem and an honors grade in the internal medicine clerkship. While this may indicate that grades are not affected by self-esteem, the results are hampered by a low response rate and a relatively small number of students with low self-esteem. A study with a larger population is necessary to further investigate this question.
+
+# CORTICOSTEROID USE FOR ACUTE RESPIRATORY TRACT INFECTIONS IN DIRECT TO CONSUMER TELEMEDICINE
+
+Evan L. Dvorin3; Michael B. Rothberg1; Mark N. Rood2; Kathryn A. Martinez1. 1 Cleveland Clinic, Cleveland, OH; 2 Cleveland Clinic Foundation, Chagrin Falls, OH; 3 Ochsner Medical Center, Jefferson, LA. (Control ID #3182928)
+
+# BACKGROUND:
+
+Systemic corticosteroids are not indicated for acute respiratory tract infections (ARTIs), but may provide some symptom improvement for sinusitis and pharyngitis. Research in the outpatient setting shows substantial variation in corticosteroid use for ARTIs by physician and region, with the highest use in the South. ARTIs are the most common diagnosis in direct to consumer (DTC) telemedicine, yet use of corticosteroids in this setting is unknown. The objective of this study was to characterize corticosteroid prescriptions for ARTIs in a large nationwide DTC telemedicine platform.

@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Evaluation of a Student-Run Asylum Clinic
+
+Conduction of an evaluation for physical and psychological symptoms of torture in order to correlate consistency between symptoms and abuse allegations, as well as drafting of an affidavit based on the Istanbul protocol. Student follow cases through to their adjudication, attending case hearings. Student leadership roles in the clinic include executive director, director of education, director of outreach, director of asylum services and board of advisors. Student meetings review pending and upcoming cases, plan community events and provide educational updates in a mini journal club format.
+
+# EVALUATION
+
+Asylum affidavit drafts are submitted to PHR for review and then revised with the attorney. Ultimately the success of this clinic will be determined by case records. To date our 2nd case is awaiting hearing. Our first case resulted in asylum being granted.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+UConn is one of a small number of medical schools in the country with a student run asylum clinic. What is particularly unique is the integration of this clinic with the education and clinical care components of UConn Immigrant health. Through this integration students learn first hand the power of advocacy and contextualize learning to care for a particularly vulnerable population.
+
+# Untangling Inpatient Care from Policing: Training to Address Caring for Hospitalized Patients in Custody
+
+Jo Henderson-Frost; John Weems; Rachel Simon. Massachusetts General Hospital, Newton, MA. (Control ID #3186318)
+
+# NEEDS AND OBJECTIVES
+
+Patients who are unable to fully communicate his or her clinical or social history due to fear of legal repercussions, stigmatization or threats may receive inferior medical care, despite best intentions of providers. Typical medical education includes discussion of HIPAA and patient privacy, but not necessarily clinical examination of patients in custody and maintenance of patient confidentiality in the presence of correctional officers. We have observed challenges providing confidential medical care in the presence of the correctional officers. We aim to develop and disseminate a training module to educate staff on clinical care and the rights of detained patients.
+
+# SETTING AND PARTICIPANTS
+
+To best formulate the training, we are evaluating baseline knowledge, attitudes and practices of resident physicians in internal medicine and emergency medicine at Massachusetts General Hospital. We chose this population because physicians in the emergency room and the internal medicine wards are the most likely to care for hospitalized patients in custody.
+
+# DESCRIPTION
+
+In an online survey, participants will be asked about their knowledge on the privacy rights of hospitalized patients in custody by the Department of Corrections; their attitudes toward caring for patients in custody; and their observations of comparative clinical practice in the care of patients in and not in custody. The survey results will be used to develop a training to be offered to all internal medicine and emergency medicine residents physicians.
+
+# EVALUATION
+
+In the preliminary phase to design the survey, we asked a smaller group of residents to describe their interactions with correctional officers. In these anecdotes, officers were sometimes asked to step outside of the patient's room and on other occasions remain present during the clinical encounter. With this survey, we will evaluate the knowledge of providers, e.g. does HIPAA apply equally to all patients, to design the content of the training module. We will also evaluate attitudes to address fears and concerns, and experience to design a training that addresses current practices in our hospital. An evaluation of the training module will be subsequently designed with a comparison of pre- and post- knowledge, attitudes and practices.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+To our knowledge, there are no published studies that evaluate providers' knowledge, attitudes towards and preparation to care for hospitalized patients in custody. This survey evaluates if and how care of patients in custody differs from those not in custody from the perspective of the provider. The survey results will directly inform design of our training module. Participation in this study may also provide space for residents to reflect on their care for patients in custody, particularly if and how the presence of law enforcement personnel in the patient room affects the care they provide.
+
+# Use of Simulation to Improve Resident Confidence During Response to In-Hospital Cardiac Arrest
+
+Razia Jayman-Aristide1; Sadia Arshad1; Craig Hertz2; Erica Beauplan1. 1Southside Hospital, Bay Shore, NY; 2Northwell Health, Lake Success, NY. (Control ID #3184913)
+
+# NEEDS AND OBJECTIVES
+
+In-hospital cardiac arrests (IHCA) occur about 200,000 times per year in the United States with an 18-20% survival rate. While resident physicians are expected to competently lead an IHCA code team, restrictions on residency duty hours decreases exposure to IHCAs. Research suggests that simulation improves resident confidence, communication and quality of care during IHCAs through deliberate practice in a supportive learning environment. The objective of this study is to evaluate the effect of IHCA simulations on residents' perceived confidence in assuming critical code team roles as well as their perception of the effectiveness of the multidisciplinary code team.
+
+# SETTING AND PARTICIPANTS
+
+Six IHCA simulations were conducted over a four-month period on medical floors from January to April 2018. Family medicine residents responded as they would during actual codes as a part of their inpatient service curriculum. Faculty physicians observed the event, giving immediate feedback via a debriefing. Anonymous confidence surveys were sent to residents prior to and after the intervention. Respondents to Simulations included: On Call Residents, Nurses, & Respiratory Therapists.
+
+# DESCRIPTION
+
+Simulations were developed in one of two ways - from ACLS (Advanced Cardiac Life Support) protocol scenarios or from true occurrences within the hospital. ACLS protocols such as identifying ventricular tachycardia vs. ventricular fibrillation, identifying PEA (pulseless electrical activity), and various other arrhythmias were the focus of a portion of the simulations. 'True occurrences' within the hospital were used as reflective teaching during simulations.
+
+# EVALUATION
+
+Surveys were created using Qualtrics software. A link to surveys was sent to the residents to complete over two weeks. Pre- and post-intervention data were calculated by Qualtrics. PGY-1s felt most comfortable in their "assumed" role as a compressor. Only 25% of PGY-3 respondents felt comfortable as a team leader. The remaining 75% felt somewhat comfortable. Approximately 56% of the PGY-2 respondents felt uncomfortable in the role of a team leader, whereas 33% felt somewhat comfortable. Post-intervention, across all years of training, overall comfort in every role increased. PGY-1 and PGY-3 residents felt more comfort as team leader, ventilator and medication administrator. PGY-1 residents felt no difference as a defibrillator. PGY-2's noted less overall comfort as the team leader, medication administrator or defibrillator with an unchanged comfort level as the ventilator.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED
+
+Simulation can help address residents' perceived lack of confidence, comfort and...

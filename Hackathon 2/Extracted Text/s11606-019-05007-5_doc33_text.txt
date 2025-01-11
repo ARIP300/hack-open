@@ -1,0 +1,49 @@
+# ABSTRACTS JGIM
+
+# RESULTS:
+
+On average, residents ordered 15% of indicated tests (SD 9%, 0-38%) across the 3 visits and a mean of 1.3 unnecessary tests (SD 1.7, 0-6). In the regression model, the 3 skills explained 16% of variation in unnecessary tests (p=.047). Information gathering explained the greatest share (8%, p=.041). With all 3 variables in the model, patient-centeredness was positively associated with unnecessary tests (Std Beta=.42, p=.016) and information gathering was negatively associated with unnecessary tests (Std Beta=-.34, p=.041). Mirroring these results, superutilizers (10 residents ordering >=3 excessive tests) had lower information gathering and relationship development scores than other residents (66% vs 75% and 72% vs 76%) but higher patient centeredness scores (80% vs 74%)-although differences were not significant.
+
+# CONCLUSIONS:
+
+Our findings suggest that information gathering skills may have a small influence on residents' ordering of excessive tests. Further research with larger samples (adequate power) will help clarify the effect sizes. If our results stand, interventions for high-value care should include information gathering skills and residency programs should continue to reinforce core communication skills training. In addition, our finding that patient centeredness was associated with ordering unnecessary tests suggests that residency programs could caution residents about conflating ordering of tests with patient-centeredness.
+
+# ARE SAFETY NET AND SMALLER HOSPITALS BEING LEFT BEHIND UNDER NEW PAYMENT MODELS? IMPACT OF MEDICARE'S MANDATORY BUNDLED PAYMENT PROGRAM ACROSS DIFFERENT HOSPITAL GROUPS
+
+Michael L. Barnett; Andrew Wilcock; J. Michael McWilliams; Arnold M. Epstein; Ateev Mehrotra. 1Harvard T.H. Chan School of Public Health, Boston, MA; 2Harvard Medical School, Boston, MA. (Control ID #3184192)
+
+# BACKGROUND:
+
+In 2016, Medicare implemented the Comprehensive Care for Joint Replacement model (CJR), a national mandatory bundled payment model for lower extremity joint replacement (LEJR) in randomly selected metropolitan statistical areas (MSAs). Overall, intervention hospitals reduced spending by 3% vs. control hospitals with no impact on quality. However, there are concerns that hospitals with fewer resources, such as smaller hospitals and safety net hospitals serving a high proportion of vulnerable patients, cannot implement systematic changes needed to respond effectively to this new payment system.
+
+# METHODS:
+
+We conducted difference-in-differences analyses using Medicare claims from 2013-2017, comparing LEJR episodes in 75 MSAs randomized to mandatory participation in CJR (treatment MSAs) with episodes in 121 control MSAs, before vs. after CJR implementation. Our primary outcomes were institutional spending per LEJR episode (i.e. Medicare Part A), complication rates, the proportion of patients in the highest quartile of predicted spending (a measure of patient selection) and 90-day readmission rates. We categorized hospitals by what fraction of patients were on Medicaid or uninsured patients, as defined through Medicare's disproportionate share hospital (DSH) adjustment, number of beds and for-profit status. Within each subgroup of hospitals, we used linear regression models adjusted for beneficiary and procedure characteristics, and hospital fixed effects.
+
+# RESULTS:
+
+In 2013-2017 there were 280,161 LEJR procedures in treatment and 377,278 procedures in control MSAs. Hospitals with <100 beds had a smaller decline in institutional spending than those with >250 beds (-$650 or 2.7% vs. -$856 or 3.1% relative decrease, p<0.001). Hospitals in the highest tertile of DSH percentage had a larger relative decline in institutional spending compared to hospitals in the lowest tertile (-$1,250 or 4.1% vs. -$666 or 2.8% relative decrease, p<0.001). For-profit hospitals had declines in savings twice as large as savings in non-profit hospitals (-$1,310 or 5.2% vs. -$634 or 2.4% relative decrease, p<0.001). There was no change or slight decreases in complications or 90-day readmissions across hospital subgroups. In addition, there was no statistically significant change in the proportion of patients with LEJR procedures in the highest quartile of predicted spending in any subgroup.
+
+# CONCLUSIONS:
+
+We found little evidence that smaller or safety net hospitals were unable to respond to the bundled payment programs. The difference between the performance of smaller vs. larger hospitals was modest while safety net hospitals had larger spending reductions vs. other hospitals with no apparent negative impact on quality. Despite concerns that Medicare's payment reforms could negatively impact smaller or safety-net hospitals, we found little evidence that this occurred within the CJR program. These results may not generalize beyond LEJR procedures and should be replicated with other payment reforms.
+
+# ASSESSING DOCUMENTATION OF CLINICAL REASONING IN ADMISSION NOTES OF PHYSICIANS WORKING IN HOSPITAL MEDICINE
+
+Susrutha Kotwal; David Klimpl; Sean Tackett; Regina Landis; Scott Wright. 1Johns Hopkins University School of Medicine, Baltimore, MD; 2Johns Hopkins Bayview Medical Center, Baltimore, MD; 3Johns Hopkins, Baltimore, MD. (Control ID #3140154)
+
+# BACKGROUND:
+
+High quality clinical documentation is essential for patient safety. Thoughtful clinical documentation transmits one's clinical reasoning and is considered to be a professional responsibility. There are no accepted standards for assessing documentation with respect to clinical reasoning. We therefore undertook this study to establish a metric to evaluate hospitalists' documentation of clinical reasoning in the assessment and plan (A&Ps) section of admission notes.
+
+# METHODS:
+
+This was a retrospective study reviewing admission notes of hospitalists at 3 hospitals between January 2014 and October 2017. Admission notes were included for patients hospitalized with a diagnosis of either fever, syncope/dizziness, or abdominal pain. A total of 1130 admission notes were identified randomly; notes were excluded if they were not on the hospitalists' service, or if the diagnosis had been confirmed in the emergency department. So as to sample the notes of many providers, no more than 3 notes written by any single provider was analyzed. We developed the ‘Clinical Reasoning in Admission Notes Assessment & Plan' (CRANAPL) tool to assess the comprehensiveness of clinical reasoning documented in the A&Ps of admission notes. The tool was iteratively revised during pilot testing; ultimately two authors scored all A&Ps using the finalized version of the CRANAPL tool. These authors also assessed each A&P using single item broad ratings: a ‘global clinical reasoning' and a ‘global readability/clarity' measure. All data were deidentified prior to scoring. Content, internal structure, and relation to other variables validity evidence were established.
+
+# RESULTS:
+
+The total number of hospitalists whose admission notes were evaluated was 120. 285 admission notes were reviewed across one community and two academic hospitals. The nine-item CRANAPL rubric includes elements for problem representation, uncertainty, differential diagnosis and plan, as well as items related to length of stay and disposition plans. The mean score for both raters for the total CRANAPL score was 6.4 (SD 2.2), and it varied significantly between hospital sites (p<0.001). The ICC measuring inter-rater reliability for both raters for the total CRANAPL score was 0.83 (95% CI 0.76-0.87). Associations between CRANAPL total scores, global clinical reasoning, and global score for note readability/clarity were statistically significant (p<0.001). In multivariate regressions after adjusting for covariates, higher scores on the CRANAPL tool were seen among American Medical Graduates as compared to International Medical Graduates (p<0.05).
+
+# CONCLUSIONS:
+
+This study represents a first step to characterize clinical reasoning documentation in Hospital Medicine with real patient notes. With validity evidence established for the CRANAPL rubric, it can be used to assess the documentation of clinical reasoning skills of hospitalists and for providing feedback. This is an essential step to improve the diagnostic process and reduce medical errors.

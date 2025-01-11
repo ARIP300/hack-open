@@ -1,0 +1,27 @@
+# USING COMMUNITY ENGAGEMENT TO ADAPT AND IMPLEMENT AN EVIDENCE-BASED CVD INTERVENTION IN RURAL AFRICAN AMERICAN COMMUNITIES
+
+Gaurav Dave1, 1; Stephanie Hoover1; Leah Frerichs2, 1; Madeline Hamilton1; Kiana Bess1, 3; Hilary R. Jessup1; Brenda Boone4; Mysha Wynn5; Shirley McFarlin4; Project GRACE Steering Committee6; Giselle M. Corbie-Smith1, 1. 1University of North Carolina School of Medicine, Chapel Hill, NC; 2Gillings School of Global Public Health, Chapel Hill, NC; 3University of Michigan, Ann Arbor, MI; 4James McFarlin Community Development, Rocky Mount, NC; 5Project Momentum Inc., Rocky Mount, NC; 6Project GRACE, Rocky Mount, NC. (Control ID #3184892)
+
+# BACKGROUND:
+
+Pipeline programs that promote equity by engaging minority youth to consider scientific careers are increasing, but novel evidence-based approaches for program evaluation are lacking. Experience Sampling Method (ESM) is a valid method to measure real-time engagement of teens in science classrooms that has not been applied to pipeline programs. We used ESM to compare engagement of minority youth participating in a hospital-based clinical research experience versus a traditional science program, and examine whether an ESM measure of engagement is associated with perceiving one's activities as related to future goals.
+
+# METHODS:
+
+Talented Chicago high school juniors were blocked randomized by sex and race to either the 6-week hospital-based program or a traditional science program. The hospital program included realistic research activities (patient interviews, chart reviews, team meetings). The traditional program offered lectures, labs, and field trips to science museums. Students were given watches that alerted them to complete a 40-item ESM survey from the Sloan Study of Youth and Social Development. Students were alerted 5 times per day, Monday through Friday, during weeks 1 and 3. The survey asked what students were doing and thinking (open-ended) and 3 Likert items that constitute an "optimal learning moment" (OLM), a valid ESM measure of engagement. We used a hierarchical linear model to test associations between program group and OLMs, controlling for year, week, gender, and race. We also examined the association between OLMs and perceiving one's activity as important to future goals.
+
+# RESULTS:
+
+From 2005-2015, we randomized 195 students to either the hospital (108) or traditional program (87) who completed 66.7% of alerts (7820/11680). Two-thirds were URM in medicine; over half (62%) were female. Race, ethnicity, and gender did not differ significantly between groups. OLMs comprised 27.2% of alerts. In 54% of alerts, students reported being engaged in activities related to future goals. Assignment to the hospital-based program was associated with lower odds of OLMs during week 1 (OR=0.50, 95% CI=0.31-0.76, p<0.001), but with greater odds in week 3 (OR=1.29, 95% CI=1.01-1.63, p=0.036). Males had greater odds of OLMs (OR=1.52, 95% Cl=0.74-1.46, p=0.015) and Hispanics had lower odds of OLMs (OR=0.52, 95% CI=0.68-1.98, p=0.014). Regardless, OLMs were strongly associated with perceiving activity as important to future goals (OR=4.86, 95% CI=4.17- 5.66, p<0.001).
+
+# CONCLUSIONS:
+
+Although engagement was initially lower, students in the hospital-based research program were more engaged by week 3, highlighting the need for minority youth to acclimate to research environments. Efforts to improve engagement for females and Hispanics are warranted. Given that an ESM measure of engagement is associated with perceiving activities as important to future goals, ESM can be a relevant short-term outcome for evaluating pipeline programs.
+
+# USING HUMAN-CENTERED DESIGN TO DEVELOP PRACTICAL, EVIDENCE-BASED INTERVENTIONS IN PRIMARY CARE
+
+Dani L. Zionts1; Cati Brown-Johnson1; Nadia Safaeinili1; Jonathan G. Shaw1; Lucie Richter2; Svava M. Atladóttir2; Donna M. Zulman1, 3. 1Stanford University, Stanford, CA; 2Future Medical Systems, Sunnyvale, CA; 3VA Palo Alto Health Care System, Menlo Park, CA. (Control ID #3185534)
+
+# BACKGROUND:
+
+Though many are working to address the wellness crisis resulting in record levels of physician burnout and patient dissatisfaction, it still takes >15 years for evidence-based innovations to integrate into practice. We sought to determine whether an evidence-based Human-Centered Design (HCD) methodology could be used to rapidly design a scalable solution to enhance provider presence and improve connection with patients.

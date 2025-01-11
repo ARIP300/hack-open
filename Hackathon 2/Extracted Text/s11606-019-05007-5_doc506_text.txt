@@ -1,0 +1,73 @@
+# ABSTRACTS
+
+# Myxedema Coma
+
+Consciousness, and was successfully extubated on day 10 of hospitalization. She was then switched to oral thyroxine, and discharged to acute rehabilitation a few days later with a plan to follow up shortly with endocrinology.
+
+# IMPACT/DISCUSSION:
+
+Myxedema coma is an extreme form of hypothyroidism and presents as a life threatening decompensated state presenting most commonly with hypothermia and altered mental status. This case illustrates the importance of early recognition and treatment of myxedema coma, as presentation can sometimes be atypical and clinical manifestations are not restricted to one organ system.
+
+# CONCLUSION:
+
+Pericardial effusion is relatively rare in the early mild state of hypothyroidism and as prevalent as 80% when myxedema coma is present. Delay in treatment can be life threatening and it has a high mortality rate of 30-50%.
+
+# PERICARDITIS AS A MANIFESTATION OF GRANULOMATOSIS WITH POLYANGIITIS
+
+Neeharika R. Ralh; Sourabh Sourabh; Tanaz Salimnia; Daymon Peterson; Shubhkarman Dhillon. Wayne State University, Rochester Hills, MI. (Control ID #3185241)
+
+# LEARNING OBJECTIVE #1:
+
+Granulomatosis with polyangiitis (GPA), formerly known as Wegner's granulomatosis, is an uncommon ANCA-associated vasculitis which is typically known for its sinus, lung and renal involvement. Previously believed to be rare, cardiac manifestations may not be so uncommon. Pericarditis, arteritis, myocarditis, valvulitis and arrhythmias have all been previously recognized in this subset of patients.
+
+# CASE:
+
+A 48-year-old male with a PMH of GPA with renal involvement presents with acute onset sharp, mid-chest pain associated with positional changes. Workup was significant for diffusely low voltage EKG, elevated troponins in the setting of ESRD with otherwise unremarkable chemistry profile. Echocardiogram and computed tomography of the chest were significant for a moderate to large sized pericardial effusion, 3cm in thickness. Hemodynamic instability concerning for cardiac tamponade prompted emergent pericardial window. Pericardial fluid analysis was unremarkable, no exudates, abnormal histology or malignancy noted. Pericardial tissue revealed fibrinous inflammatory changes. Serum ANCA titers were 1:1280. Treatment with high-dose methylprednisolone and mycophenolate were initiated with immediate relief of symptoms. Patient was diagnosed with pericardial effusion and pericarditis secondary to Wegner's granulomatosis.
+
+# IMPACT/DISCUSSION:
+
+Cardiac involvement of GPA may occur in up to 6-25% of patients and up to 44% in those with known renal involvement. Pericarditis and coronary vasculitis are the most frequent manifestations in up to 50% of cases.
+
+# CONCLUSION:
+
+GPA should be considered high on the differential for those with positive history of GPA who present with nonspecific cardiac findings. Complications such as constrictive pericarditis are not uncommon, thus prompt diagnosis and treatment are necessary.
+
+# PERIPHERAL NEUROPATHY: DON'T ANCA ON THE DIAGNOSIS
+
+Staci Saunders; Rahul Gore; Terrance Rodrigues; Elizabeth Targan. Beth Israel Deaconess Medical Center, Jamaica Plain, MA. (Control ID #3178458)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize systemic vasculitis as a cause of peripheral neuropathy
+
+# LEARNING OBJECTIVE #2:
+
+Recognize treatment options for severe GPA
+
+# CASE:
+
+A 66 year-old woman presents with three weeks of acute onset bilateral lower extremity pain and foot weakness; two weeks of dyspnea, non-productive cough, epistaxis; and one week of oliguria and lower extremity edema. Past medical history includes COPD, prior heavy tobacco use, and pre-diabetes. Medications and allergies are noncontributory. Her father is deceased from "kidney failure." Physical exam notable for diffuse rhonchi and crackles, 1+ bilateral lower extremity edema, 3/5 left dorsiflexion, 4/5 right dorsiflexion, and decreased sensation of bilateral feet. Labs notable for Hgb 7.0 (11.2-15.7), K 5.9 (3.5-5.4), HCO3 13 (22-32), BUN 89 (6-20), and Cr 8.2 (0.4-1.1). Hepatitis C, HIV, ANA, dsDNA, and anti-GBM are negative. Urinalysis shows proteinuria, hematuria, and granular casts. CT chest reveals multifocal pneumonia. The patient is urgently intubated and initiated on dialysis. Bronchoscopy reveals diffuse alveolar hemorrhage ("DAH"). ANCA antibody returns positive with high titers of PR3 antibody, concerning for granulomatosis with polyangiitis. The patient is initiated on methylprednisolone, cyclophosphamide, and plasmapheresis.
+
+# IMPACT/DISCUSSION:
+
+Granulomatosis with polyangiitis ("GPA") is an autoimmune disease with granulomatous inflammation of the respiratory tract as well as ANCA-associated necrotizing vasculitis of small-medium sized blood vessels of the lungs and kidneys. This is a case of GPA first presenting with peripheral neuropathy and later evolving to glomerulonephritis and DAH. Peripheral nervous system involvement, such as mononeuritis multiplex, occurs in 15-25% of GPA patients due to arteritis of the vasa nervorum leading to ischemic neuropathy. As such, patients develop asymmetric and abrupt onset peripheral neuropathy, most commonly of the fibular or tibial nerves. Polyneuropathy is more likely to develop in men, the elderly, or those with renal involvement, large disease burden, or high ANCA titers. Initial treatment of GPA consists of glucocorticoids and either cyclophosphamide or rituximab, as two-year mortality of untreated GPA is ~90%. Both cyclophosphamide and rituximab are highly efficacious in treating GPA. Plasmapheresis is controversial but often favored in those with glomerulonephritis, DAH, or those with concurrent anti-GBM. Given our patient's fulminant clinical course, she received high dose corticosteroids, cyclophosphamide, and five sessions of plasmapheresis.
+
+# CONCLUSION:
+
+This case demonstrates the importance of recognizing GPA as a systemic disease that can present as peripheral neuropathy, a chief concern often encountered in the primary care setting. Given the potentially devastating consequences of untreated GPA, this should be on the differential for acute onset neuropathy. Initial treatment consists of glucocorticoids and either cyclophosphamide or rituximab; with consideration of plasmapheresis in patients with severe features.
+
+# PERSISTENT FATIGUE AS THE SOLE SYMPTOM OF A POTENTIALLY FATAL DISEASE
+
+Nicholas David1; Brian Lewis2; David Feldstein3; Linda Baier4; Thomas D. Shiffler3. 1University of Wisconsin Hospitals and Clinics, Madison, WI; 2University of Wisconsin, Middleton, WI; 3University of Wisconsin School of Medicine and Public Health, Madison, WI; 4f Medicine and Public Health, Madison, WI. (Control ID #3184550)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the ecology of Rocky Mountain Spotted Fever (RMSF).
+
+# LEARNING OBJECTIVE #2:
+
+Identify early signs and symptoms of RMSF.
+
+# CASE:
+
+A 55-year-old man presented to his primary care physician's office in Wisconsin at the end of May with fatigue. He first noticed fatigue a few days ago while driving home to Wisconsin after a recent visit to Maryland, and he needed more coffee than usual to get through the drive. He reported being bitten by two ticks two weeks ago while working outside in Maryland. The ticks were attached for less than 12 hours. He denied fevers, headaches, myalgias, arthralgias, or rashes. There were four small dots of erythema on his left hip where he was bitten, but the physical exam was otherwise unremarkable. CBC, CMP, and serologies for tick-borne illnesses, including Lyme and RMSF, were all normal. He was counseled about preventing tick exposures and instructed to return if more symptoms.

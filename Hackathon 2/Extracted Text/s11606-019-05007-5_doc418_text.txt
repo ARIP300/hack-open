@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# DIALYSIS DEPENDENT RENAL FAILURE AFTER HEALTH MOTIVATED DIETARY CHANGE IN A PATIENT WITH REMOTE BARIATRIC SURGERY
+
+Karl Gubler; Michael Odom; Elena Lebduska; Sandipani M. Sandilya. United States Air Force, North Las Vegas, NV; United States Air Force, Nellis AFB, NV; University of Pittsburgh Medical Center, Denver, CO. (Control ID #3181385)
+
+# LEARNING OBJECTIVE #1:
+
+Assess the bariatric patient for nutritional needs and facilitate adherence to postoperative recommendations.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize potential complications of dietary nonadherence following bariatric surgery.
+
+# CASE:
+
+An 81 year old female with hypertensive chronic kidney disease stage 3b (baseline creatinine 1.4 mg/dL) developed acute kidney injury (AKI) with creatinine 3.2 one week after starting losartan. She had undergone uncomplicated Roux en Y gastric bypass (RYGB) sixteen years prior. She reported several days of darker urine and loose green stool. Examination was unremarkable. Her BMI was 23. She had moderate proteinuria and a bland urinary sediment. Laboratory studies were otherwise unremarkable. Renal ultrasound showed structurally normal kidneys. Renal function declined despite hydration and she required three sessions of dialysis. Biopsy showed acute tubular necrosis secondary to oxalate nephropathy. Further history revealed recently increased consumption of oxalate rich vegetables like spinach and okra in an attempt to improve her diet. The patient was started on oral calcium carbonate and potassium citrate to promote dissolution of oxalate crystals. She also received dietary education on avoidance of oxalate rich foods. Her renal function recovered to baseline within three months.
+
+# IMPACT/DISCUSSION:
+
+Consumption of oxalate rich foods, high doses of vitamin C, and RYGB increase the risk of oxalate nephropathy. RYGB causes enteric hyperoxaluria via increased absorption, increased endogenous oxalate synthesis, concentrated urine, and altered gut flora. Treatment includes dietary modification to decrease exogenous oxalate, oral calcium to reduce enteric absorption, hydration to dilute and citrate supplements to alkalinize the urine. RYGB reversal has been reported to reverse hyperoxaluria and kidney failure refractory to medical management. There has been research on oxalate degrading bacteria in rat models as a potential future treatment. Our case demonstrates that significant complications can arise even years after bariatric surgery, ironically from changes most patients would expect to promote health. It also shows that complete recovery may occur with diet and medication.
+
+# CONCLUSION:
+
+The primary care provider (PCP) should be aware of the risks of both deficiencies and toxicities after bariatric surgery, as these can occur many years later when patients are no longer seen in bariatric clinics. The PCP should reinforce the need for dietary adherence, and follow guidelines on monitoring vitamin and mineral levels to provide thorough care for this ever growing population.
+
+# DIFFUSE CORONARY ARTERY ECTASIA: AN UNUSUAL CAUSE OF ST-ELEVATION MYOCARDIAL INFARCTION
+
+Ann Wang; Vikram Brahmanandam. Montefiore Medical Center, Bronx, NY. (Control ID #3186244)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize a relatively uncommon cardiac anatomy which increases the risk of myocardial infarction.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the challenges in management of coronary artery ectasia.
+
+# CASE:
+
+A 58 year old male with no significant medical history presented to the emergency department (ED) with acute onset substernal chest pain. An electrocardiogram (ECG) showed inferior ST-segment depressions, and cardiac troponins peaked at 1.05 ng/mL (normal 0.00-0.10 ng/mL). Cardiac catheterization revealed diffuse coronary artery ectasia (CAE), with marked dilation of the right coronary artery (RCA), left anterior descending (LAD), and left circumflex arteries. The ectatic vessels, especially the distal RCA, demonstrated slow flow. He otherwise had mild coronary artery disease. A transthoracic echocardiogram (TTE) showed normal function without wall motion abnormalities. The patient was started on warfarin and aspirin, as well as a beta blocker and high dose statin. Three months after discharge, he again felt severe substernal chest pain while walking and presented to the ED. ECG showed an inferior ST-segment myocardial infarction. Of note, his international normalized ratio (INR) was subtherapeutic. Cardiac catheterization again showed slow flow in the ectatic RCA without an intervenable lesion. He was then placed on triple therapy with clopidogrel, aspirin, and warfarin. He has remained on triple therapy and without further cardiac symptoms, now ten months after his initial presentation.
+
+# IMPACT/DISCUSSION:
+
+CAE is characterized by dilation of diffuse segment(s) of the coronary arteries to at least 1.5 times the normal diameter. CAE is typically asymptomatic and incidentally discovered during cardiac catheterization or other imaging, and the incidence has been reported to be between 0.3%-5%. The RCA is most commonly affected, followed by the LAD. The etiology is likely multifactorial. CAE is strongly associated with atherosclerotic disease, hypertension, and dyslipidemia. Connective tissue diseases, vasculitis, and iatrogenic vessel injury have also been implicated. Patients with CAE have a higher incidence of major adverse cardiac events (MACE), likely due to increased turbulent flow, stasis, and endothelial dysfunction in the ectatic vessels. In one study, patients who presented with myocardial infarction and were found to have CAE had a 3.25 fold greater risk of recurrent MACE after 49 months, compared to similar patients without CAE. Evidence to guide management of CAE is still scarce. One retrospective study has found that warfarin monotherapy significantly decreased adverse cardiac events in CAE patients compared to no anticoagulation. Another study showed that dual antiplatelet therapy halved the incidence of cardiac events in patients with CAE, compared to no anticoagulation.
+
+# CONCLUSION:
+
+Coronary artery ectasia is relatively uncommon. Patients with CAE are at greater risk for MACE and will likely benefit from anti-coagulation; however, further studies are needed to determine the optimal anticoagulation strategy.
+
+# DISSECTING A CASE OF CHEST PAIN
+
+Deep Sangani; Aaron W. Sweeney. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184095)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation of spontaneous coronary artery dissection.
+
+# LEARNING OBJECTIVE #2:
+
+Review management of spontaneous coronary artery dissection.
+
+# CASE:
+
+A 57-year-old woman presented with sudden onset, sharp chest pain across her entire chest with radiated down both arms. There was associated nausea, vomiting, and palpitations. She did not have any prior cardiac history. Her 36-year-old son had a myocardial infarction the previous year. Two-millimeter ST elevations were identified in multiple leads on the EKG and the patient was taken for cardiac catheterization. Coronary angiography did not reveal any evidence of obstructive coronary disease, though a dissection of the middle left anterior descending coronary artery was noted. Echocardiogram returned with an ejection fraction of 30-35% along with moderate septal hypokinesis. Approximately four hours into her hospital course, chest pain recurred with dynamic EKG changes and she underwent coronary artery bypass grafting.

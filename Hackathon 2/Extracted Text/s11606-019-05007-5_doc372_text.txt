@@ -1,0 +1,45 @@
+# ABSTRACTS
+
+# AN ATYPICAL PRESENTATION OF ATYPICAL PNEUMONIA: LEGIONELLA CAUSING GUILLAIN-BARRE SYNDROME
+
+Abigail Entz; Sarah Gorgis; Junior Uduman. Henry Ford Hospital, Detroit, MI. (Control ID #3186239)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize an atypical presentation of Legionella pneumonia
+
+# LEARNING OBJECTIVE #2:
+
+Identify the association between Guillain-Barre variants and infectious syndromes
+
+# CASE:
+
+A 29 year-old-female with history of Systemic Lupus Erythematosus on plaquenil presented with two weeks of nausea, emesis, and cough. During that time she developed progressive numbness in bilateral lower extremities and began to experience falls at home. On presentation she was afebrile but hypoxic requiring intubation. She had no leukocytosis but did present with a moderate hyponatremia to 127. Chest x-ray showed patchy infiltrates and urine legionella antigen was positive. She was started on treatment with moxifloxacin. Her weakness progressed to involve all extremities and respiratory muscles with decreased reflexes. A lumbar puncture was unremarkable with WBC 0, RBC 3 and protein 45 mg/dL. Electromyography (EMG) on day nine of hospitalization showed severe sensorimotor axonal polyneuropathy. She was treated with five days of intravenous immunoglobulin (IVIg) and seven sessions of plasmapheresis with limited improvement in weakness. The patient eventually required tracheostomy due to persistent weakness. We present an atypical case of legionella pneumonia causing Guillain-Barre Syndrome.
+
+# IMPACT/DISCUSSION:
+
+Legionella is an important cause of community acquired pneumonia, often with severe symptoms and a mortality rate up to 10%. Patients with legionella pneumonia can present with extrapulmonary manifestations including emesis, diarrhea, chest pain, scant hemoptysis, and high fever. Mild neurologic symptoms including headache and encephalopathy are sometimes seen. There are few case reports of Guillain Barre variants associated with legionella pneumonia, though over two-thirds of patients with GBS have a proceeding respiratory or gastrointestinal illness. The weakness associated with GBS is typically progressive, symmetrical, and ascending- with maximal weakness occurring within two-four weeks from symptom onset. Though up to one-third of patients may require mechanical ventilation, nearly 80 percent make a near-complete recovery. Both IVIg and plasmapheresis have demonstrated in randomized controlled trials to shorten time to neurologic recovery in GBS, though the recovery phase can take several months and can require intensive rehabilitation.
+
+# CONCLUSION:
+
+Though weakness in critically ill patients is often attributed to critical illness myopathy, careful attention should be paid to timing, intensity, and progression of neurologic symptoms. Guillain-Barre syndrome has a known association with infections therefore clinical suspicion should remain high in patients with the combination of infection and rapidly progressive weakness.
+
+# AN ATYPICAL PRESENTATION OF METASTATIC TESTICULAR CHORIOCARCINOMA
+
+Mrigank S. Gupta; Marium Khan. Medical College of Wisconsin, Wauwatosa, WI. (Control ID #3186015)
+
+# LEARNING OBJECTIVE #1:
+
+Recognizing a unique presentation of choriocarcinoma in young males.
+
+# CASE:
+
+A 29 year-old male with a past history of gastroesophageal reflux and epididymitis presented to the emergency department with a two day history of a band like abdominal pain. Pain was associated with retching emesis that was yellow gastric mucous in nature progressing to blood tinged. The patient denied any hematochezia, melena, or any recent weight loss but endorsed constipation. Home medications included ibuprofen and pantoprazole. Vital signs included temperature 98.5F, heart rate 105 beats per minute, blood pressure 131/72 mm Hg, respiratory rate 20 breaths per minute and oxygen saturation 95% on room air. Physical examination was significant for a healthy appearing young male with café au lait lesions on his back. Abdomen was tender to palpation in lower quadrants, firm, normal bowel sounds with no rebound tenderness. The remaining exam was non-focal. Labs included white blood cell count 14.8e103 uL, Hgb 13.0 g/dL, platelet 273e103uL, lipase 20 units/L, INR of 1.1 and basic chemistry within normal limits. Computed tomography chest and abdomen revealed a large central abdominal mass surrounding the inferior mesenteric artery with unclear origin, multiple lesions consistent with metastatic disease. The mass compressed the distal inferior vena cava, abdominal aorta, common iliac artery, and the right ureter causing right hydronephrosis. Recommendation from radiation oncology included obtaining a testicular ultrasound which revealed a punctate echogenic foci of the right testicle. Interestingly, the patient had a testicular ultrasound six months prior which showed a similar echogenic region on his right testicle which was lost to follow up. Tumor markers significant for Beta-hCG (human chorionic gonadotropin) 364,215 mIU/L and AFP (alpha fetoprotein) 15 ng/ml. Liver biopsy illustrated syncytiotrophoblast and cytotrophoblasts, confirming stage 3 nonseminomatous germ cell tumor. A right ureteral stent was placed to relieve the obstruction and the patient was emergently started on VIP chemotherapy (etoposide, ifosfamide, and cisplatin).
+
+# IMPACT/DISCUSSION:
+
+Choriocarcinoma is a nonseminomatous germ cell tumor (NSGCT). It is seen in caucasian males in a bimodal distribution, ages 15 to 25 and greater than 60 years of age. Choriocarcinoma produces large amounts of hCG and greater than 50,000 mIU/L is associated with a poor diagnosis. In adults, choriocarcinoma most frequently spread hematogenously to the lung and lymph nodes. In advanced cases, it can spread to liver, brain, and skin. Choriocarcinoma responds well to chemotherapy and should be started as soon as the diagnosis is made.
+
+# CONCLUSION:
+
+Early identification of testicular choriocarcinoma and initiation of chemotherapy is important in survival. Imaging modalities should be utilized if suspicion for malignancy is high or the patient's presentation is atypical.

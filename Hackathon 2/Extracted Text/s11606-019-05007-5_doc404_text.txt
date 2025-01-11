@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# CARPAL TUNNEL, A PRECURSOR TO CARDIOMYOPATHY
+
+Amanda Satterthwaite. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184032)
+
+# LEARNING OBJECTIVE #1:
+
+1. Recognize the clinical presentation of TTR cardiac amyloidosis
+
+# LEARNING OBJECTIVE #2:
+
+2. Differentiate light chain amyloidosis from TTR amyloidosis
+
+# CASE:
+
+A 73-year-old man with a 5-year history of non-ischemic cardiomyopathy presented with worsening lower extremity edema and arthralgias that resulted in immobilization. He has a previous history of bilateral carpal tunnel syndrome, atrial fibrillation, and chronic kidney disease. Exam revealed abdominal distention with ascites and bilateral pitting edema of the lower extremities extending to the knee. Laboratory studies are significant for BNP of 4000 pg/mL, BUN and creatinine of 76 mg/dL and 2 mg/dL, and troponin of 0.240 ng/dL. Chest radiograph revealed an enlarged, boot-shaped cardiac silhouette. Echocardiogram revealed an ejection fraction of 25%, severe concentric hypertrophy of the left ventricle, right ventricular dilation, severe bi-atrial dilation, and severe mitral regurgitation. Findings were concerning for infiltrative cardiomyopathy. A technetium pyrophosphate scan revealed diffuse uptake of radiotracer consistent with a diagnosis of TTR cardiac amyloidosis.
+
+# IMPACT/DISCUSSION:
+
+Transthyretin (TTR) is a tetrameric protein rich in beta strands that is present in human serum. It is synthesized primarily in the liver, as well as the choroid plexus, and retinal pigment epithelium. It is involved in the transportation of thyroxine and retinol-binding protein. Systemic deposition of TTR can lead to amyloidosis, particularly either wild type TTR amyloidosis, or mutant TTR amyloidosis. Mutant TTR is characterized by single point mutations that increase the likelihood of misfolding of TTR. Wild type TTR amyloidosis is sporadic, not associated with any specific biomarkers or mutations, and occurs almost exclusively in men over the age of 60. This patient exhibits many clinical features that are key in recognizing TTR amyloidosis including the presence of atrial arrhythmia, ventricular septal and free wall thickening on echocardiogram without history of uncontrolled hypertension, right-sided heart failure, and presence of peripheral neuropathy (carpal tunnel). Nearly one half of patients with wild type TTR have associated carpal tunnel, that typically precedes cardiac sequelae by up to 8-10 years. Spontaneous symmetric peripheral neuropathy or carpal tunnel in an elderly man should raise suspicion for an amyloid process. Relative reported frequencies of light chain and TTR amyloid are 8 per million/year and 0.4 per million/year for mutant TTR. The prevalence of wild type TTR is largely unknown. The Tc-pyrophosphate scan is simple and effective imaging modality to differentiate the two types of amyloid, with a sensitivity and specificity of 97% and 100% for TTR amyloid.
+
+# CONCLUSION:
+
+It is important to distinguish light chain amyloidosis from TTR amyloidosis. Compared to light chain cardiac amyloidosis, TTR amyloid has a prolonged survival rate, decreased severity of illness, and different management.
+
+# CASE REPORT: DISSEMINATED TOXOPLASMOSIS WITH NONSPECIFIC GASTROINTESTINAL SYMPTOMS
+
+Michael G. Gindi1, 2; Angela Montoya1, 2; Robert Mas1, 2; Lyndsey Turbow1; Evan Sternberg1; Parisa Geraminegad1. 1Mount Sinai Hospital, Chicago, IL; 2Ross University School of Medicine, Miramar, FL. (Control ID #3184897)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical features of gastrointestinal and disseminated toxoplasmosis
+
+# CASE:
+
+A 36-year-old male with a PMH of HIV (on HAART) presented with one month of diarrhea, melena, anorexia, weight loss, fatigue and a week of non-bloody non-bilious emesis. On admission his vital signs, physical exam, CBC and CMP were unremarkable. His CD4 count was 206 cells/μl and HIV viral load was 826 copies/mL. In the ED, the patient had an episode of emesis, urinary incontinence, left foot myoclonus and became unresponsive at which point he was intubated and transferred to the ICU. CT and MRI of the brain showed two ring-enhancing lesions (RELs) with surrounding edema and a 5.2 mm midline shift. CT abdomen and pelvis showed mild wall thickening of the proximal colon and a fluid filled distal colon. Cultures, hepatitis panel and serology for Cryptosporidium, Blastomyces, and Histoplasma were negative. IgG titers for Toxoplasma were positive, treatment was initiated and repeat MRI showed reduction in the size of the RELs and midline shift as well as full resolution of his gastrointestinal (GI) symptoms.
+
+# IMPACT/DISCUSSION:
+
+T. gondii is a protozoan parasite acquired via ingestion of oocysts in contaminated food or water. Most infections are asymptomatic as the immunocompetent can overcome the parasite burden. Latent infection exists in 15% of both HIV positive and negative populations and reactivation occurs in up to 30% of patients with a CD4 count <100 cells/μL. While 89% of patients with active toxoplasmosis have intracerebral manifestations, extra-cerebral toxoplasmosis (ECT) only has a prevalence of 1.5-2%. The most significant risk factor for ECT is a CD4 count <100 cells/μL and 41% of cases have concurrent CNS infection. While brain biopsy is the only way to definitively diagnose toxoplasmic encephalitis (TE), patients with positive T. gondii serology, brain imaging with multiple RELs, neurological symptoms and immunosuppression have a 90% probability of TE and treatment is usually initiated without further work up. Due to vague symptomology, ECT is difficult to diagnose and often leads to a delay in treatment. Symptoms of GIT include anorexia, nausea, vomiting and diarrhea and, while definitive diagnosis is by endoscopic biopsy, this test is invasive and time consuming. The prevalence of ECT is thought to be underestimated as post-mortem analysis of seropositive patients reveals higher rates of dissemination and extra-cranial manifestations.
+
+# CONCLUSION:
+
+Though the greatest risk of reactivation of T. gondii is a CD4 counts <100 cells/μL, this case demonstrates that toxoplasmosis must be considered in any immunocompromised patient with or without neurological symptoms. Due to the difficulty in diagnosis and the rapidly progressive, often fatal course of toxoplasmosis we suggest a presumptive diagnosis in immunocompromised hosts with positive T. gondii titers, GI symptoms, negative stool cultures and alternative serology. Early diagnosis is crucial for successful treatment and prevention of mortality.
+
+# CENTRAL FEVER: THE PARKINSONISM-HYPERPYREXIA SYNDROME
+
+Sarabjeet S. Suri1; Dharmarajan S. Thiruvinvamalai2. 1Montefiore Medical center, Bronx, NY; 2Montefiore Medical Center (Wakefield Campus), Bronx, NY. (Control ID #3183034)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that fever can result from causes other than infection, such as central fever.
+
+# LEARNING OBJECTIVE #2:
+
+Understand the importance of home medication reconciliation, and fever resulting from not taking medications.
+
+# CASE:
+
+74 year old woman sent from nursing home with hypotension and lethargy. She could not provide a significant history due to lethargy. Initial vitals: temperature of 99.3F, BP-67/31 mm Hg. She received intravenous fluid resuscitation without appropriate response and now required pressor support. The patient had a large decubitus ulcer with necrosis and was placed on broad spectrum antibiotics. Initial labs: WBC 25,000, creatinine of 1.9 mg/dl (baseline 0.6), lactate 5.5. X-Ray chest normal. The patient had a history of Parkinson's disease, atrial fibrillation and hypertension. She was on aspirin 81 mg, apixaban, selegiline, carbidopa-levodopa, amiodarone.

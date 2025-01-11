@@ -1,0 +1,45 @@
+# ABSTRACTS JGIM
+
+# A CASE OF ACUTE INTERSTITIAL NEPHRITIS RELATED TO SPIRONOLACTONE AND MENTAL HEALTH SUPPORTS IN A TRANSGENDER WOMAN
+
+Andrew Silapaswan 1, 2; Joseph J. Baker 1, 2. 1Beth Israel Deaconess Medical Center, Boston, MA; 2Fenway Health, Boston, MA. (Control ID #3180797)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize acute interstitial nephritis (AIN) related to spironolactone
+
+# LEARNING OBJECTIVE #2:
+
+Assess the impact of cross-sex hormone therapy (CSHT) interruptions on mental health in transgender patients
+
+# CASE:
+
+A 21-year-old transgender woman with history of depression presented with several weeks of nausea, vomiting, and poor oral intake. History was notable for CSHT maintained on estradiol and spironolactone since 2016. Review of systems was otherwise negative and physical exam was unremarkable. Initial labs showed acute kidney injury (AKI) with creatinine of 2.66 from baseline of 0.8-1.0, and peaked at 4.6 mg/dL 10 days later. She was admitted and received several liters of IV fluids, however did not have improvement in renal function. Urine sediment showed significant white cells, mild proteinuria, and white cell casts, although urine culture returned negative. Renal ultrasound was normal. Given the concern for AIN, spironolactone and estradiol were held. She ultimately underwent renal biopsy showing severe AIN, likely related to spironolactone. She completed a 2-month steroid taper with recovery in renal function to baseline. She was then re-started on estradiol and her renal function remained stable. While off spironolactone and estradiol, she experienced worsening gender dysphoria requiring increased mental health supports.
+
+# IMPACT/DISCUSSION:
+
+AKI is a common inpatient presentation and the differential diagnosis in a patient with nausea and vomiting should include pre-renal AKI. However, intrarenal etiologies should be considered when patients do not respond to IV fluids. Diagnostic tools include urinalysis with microscopy, urine albumin to creatinine ratio, renal ultrasound to rule out obstruction, and renal biopsy if indicated. Multi-system adverse effects can occur with spironolactone including gynecomastia, nausea, and vomiting. Spironolactone can also cause dehydration leading to renal insufficiency and AIN. Treatment of AIN includes discontinuing the offending medication and in this case, the risks of resuming spironolactone were thought to outweigh the benefits. Comprehensive care of transgender patients should also focus on mental health and the provision of adequate behavioral health supports. Our patient had worsening gender dysphoria and suicidal ideation during the interruption in CSHT. She was ultimately re-started on estradiol, however providers must be equipped to provide additional mental health supports and appropriate pharmacotherapy if indicated. Our patient benefited from weekly behavioral health visits and ultimately referral for surgical therapy with orchiectomy as part of her gender affirmation.
+
+# CONCLUSION:
+
+This case illustrates potential adverse effects of spironolactone including renal insufficiency and AIN. Providers should be aware that interruptions in CSHT place transgender patients at higher risk for worsening mental health and should anticipate the need for increased mental health supports.
+
+# A CASE OF ACUTE PANCREATITIS SECONDARY TO MILK-ALKALI SYNDROME IN A PATIENT WITH DIGEORGE SYNDROME
+
+Fareeha A. Khan1; Hunter Mwansa1; Basel Altaqi2. 1St. Vincent Charity Medical Center, Lakewood, OH; 2St. Vincent Charity Medical Center, Cleveland, OH. (Control ID #3167255)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hypercalcemia as a rare, but possible cause of acute pancreatitis.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize milk alkali syndrome causing hypercalcemia in patients with DiGeorge Syndrome, supplemented with extrinsic calcium.
+
+# CASE:
+
+A 48-year-old female, with a past medical history of DiGeorge Syndrome and mental retardation was admitted to the Intensive Care Unit with a 2 days history of altered mental status. She had non-bloody, non-bilious vomiting, and non-bloody watery diarrhea in addition to poor appetite and anorexia. She had a remote cholecystectomy and no history of alcohol abuse. Home medications included hydrochlorothiazide, losartan, metformin, and supplementation with calcium acetate daily, calcitriol daily, calcium carbonate/vitamin D3 daily, and cholecalciferol daily. Physical exam was significant for Glasgow Coma Scale of 11, tachycardia, tachypnea and hypotension. Abdomen was distended and tender over the right upper quadrant and epigastric areas. Lab work revealed elevated white blood cell count and acute renal failure. Amylase and lipase were found to be elevated, as was serum calcium to 12.1mg/dL. Serum IgG4 antibodies were found to be within normal limits. Abdominal CT scan revealed an enlarged pancreas at the level of the head and body with ill-defined fluid and fatty stranding surrounding the pancreas. The patient was initially managed as a case of sepsis, however, later the diagnosis was confirmed and revised to acute severe pancreatitis. The etiology was established to be hypercalcemia due to Milk-Alkali Syndrome and HCTZ. The patient subsequently received hemodialysis due to ischemic acute tubular necrosis.
+
+# IMPACT/DISCUSSION:
+
+MAS has become the third leading cause of hypercalcemia in hospitalized patients, behind hyperparathyroidism and malignancy. Our patient fulfilled four of the five major criteria for diagnosis of MAS except, metabolic alkalosis. Pathophysiology of MAS includes a cyclic pathway where hypercalcemia is the main driving.

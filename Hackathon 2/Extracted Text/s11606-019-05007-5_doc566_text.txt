@@ -1,0 +1,37 @@
+# THYROTOXIC PERIODIC PARALYSIS: A RARE MANIFESTATION OF HYPERTHYROIDISM
+
+Alen Sajan1; Maushmi Savjani2; Rebecca Mazurkiewicz1; Samy McFarlane3.
+
+1Lenox Hill Hospital, New York, NY; 2Penn State, Hershey, PA; 3SUNY Downstate, Brooklyn, NY. (Control ID #3186339)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize an unusual presentation of a rare complication of thyrotoxicosis associated with IV contrast.
+
+# CASE:
+
+A 73 year-old Black woman with history of Grave's disease (not adherent to methimazole), atrial fibrillation, hypertension, and diabetes mellitus presented to the Emergency Department with palpitations and dyspnea at rest for a few hours. She had increased frequency of bowel movements for several days, but no fever, chest or abdominal pain, nausea, vomiting, restlessness, diaphoresis, or insomnia. Vital signs were significant for tachycardia at 113 bpm, respiratory rate of 26 and oxygen saturation of 98% on 2 L/min nasal cannula. Exam findings included exophthalmos, diffuse thyromegaly with bruit and 2+ pedal edema. Her potassium level was 3.8 mEq/L. Thyroid function tests (TFTs) were thyroid stimulating hormone (TSH) <0.008 U/mL, serum total thyroxine (TT4) >30 ng/dL, and triiodothyronine (T3) uptake 49.82%. She was admitted for thyrotoxicosis with a Burch-Wartofsky Point Scale score of 30, and treatment with methimazole, propranolol and hydrocortisone was initiated. Her course was complicated by acute onset flaccid paralysis after receiving a CT scan with IV radiocontrast to evaluate for possible tracheal obstruction by the goiter. At this time, her neurological exam was remarkable for 0/5 motor strength with hyporeflexia and intact sensation in all extremities and mute plantar reflexes. MRI of the brain and cervical spine showed no acute stroke or transverse myelitis. A diagnosis of Thyrotoxic Periodic Paralysis (TPP) was made, which is known to be associated with hypokalemia.
+
+# IMPACT/DISCUSSION:
+
+TPP is a well characterized acute onset flaccid paralysis known to occur in the setting of hyperthyroidism and hypokalemia. TTP has been linked to a variety of precipitants from states of physiologic stress to strenuous activity. Thyroid hormone is presumed to play a key role in upregulation of sodium-potassium ATPase activity that drives potassium into the cell, causing hypokalemia and subsequent hyperpolarization of muscle cell membranes leading to inexcitability of skeletal muscles [1]. This case was induced by iodine contrast while the potassium level was within normal limits. There is a similar case reported in 2006, where a patient with hyperthyroidism developed TPP after receiving contrast during cardiac catheterization with potassium level of 3.0 mEq/L [2]. Our patient was on treatment for thyrotoxicosis for a full week with 50% decrease in her serum total T4 level (13.3 μg/dL) at the onset of paralysis. Yet she developed TPP within hours of receiving the contrast. The patient regained the majority of her muscle strength without any respiratory complications within 72 hours after continued treatment with methimazole, steroids and propranolol. Restoring euthyroidism generally reverses the paralysis, as in this case [1].
+
+# CONCLUSION:
+
+Contrast should be avoided or cautiously used in patients with thyrotoxicosis to prevent possible precipitation of TPP.
+
+# THYROTOXIC PERIODIC PARALYSIS: A REFLEXIVE DIAGNOSIS
+
+Samantha J. Allen1; Juan N. Lessing1; Mel Anderson1, 2. 1University of Colorado, Denver, CO; 2Department of Veterans Affairs, Aurora, CO. (Control ID #3185107)
+
+# LEARNING OBJECTIVE #1:
+
+Perform a pertinent exam and obtain appropriate studies on a patient complaining of weakness.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize thyrotoxic periodic paralysis as a distinct etiology for weakness in a hyperthyroid patient.
+
+# CASE:
+
+A 43-year-old woman presented with one week of weakness, seven kilograms unintentional weight loss, palpitations, and heat intolerance. She had a history of panhypopituitarism following Rathke's cleft cyst resection. Medications included levothyroxine, prednisone, transdermal estrogen, and medroxyprogesterone injections. Her vital signs were notable for tachycardia (HR 105) and weight 80 kg (87 kg 3 weeks prior). HEENT, chest, lung, and abdominal exams were normal. Bilateral thighs and calves were tender to palpation. Strength was intact in the upper extremities and symmetrically diminished in the lower extremities. She could not rise out of a chair or walk without support. Deep tendon reflexes were diminished in the upper.

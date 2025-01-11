@@ -1,0 +1,74 @@
+# ABSTRACTS JGIM
+
+highest medical need. Rising cost-sharing may discourage poorer women from seeking care, while diverging fees (i.e. prices) may discourage providers from serving them, to the detriment of population health.
+
+# Health spending across the income distribution, reproductive age women
+
+| |6000| |3|
+|---|---|---|---|
+| |5000| |3|
+| |4000| |L|
+| |3000| |1|
+| |2000| |1|
+| |1000| |1|
+| |1960| | |
+| |1970| | |
+| |1980| | |
+| |1990| | |
+| |2000| | |
+| |2010| | |
+|Poorest 20%|Middle 60%|Richest 20%| |
+
+# GUIDELINE-CONCORDANT CHRONIC OPIOID PRESCRIBING: DISCREPANCIES BETWEEN KNOWLEDGE, ATTITUDES AND CURRENT PRACTICE IN AN ACADEMIC PHYSICIAN PRACTICE
+
+Mim Ari; Rebecca Chohlas-Wood; Neda Laiteerapong; Lisa M. Vinci; George Weyer. University of Chicago, Chicago, IL. (Control ID #3186298)
+
+# BACKGROUND:
+
+Many Americans with chronic pain are prescribed chronic opioid therapy, which may improve patient quality of life and pain, but is associated with significant risk, namely opioid misuse, overdose and opioid-related death. In 2016, the CDC published its Guideline for Prescribing Opioids for Chronic Pain to help PCPs prescribe chronic opioids in a safe and effective way. In order to ensure that guidelines are distilled into clinical practice, it is essential to understand the current state of practice. The purpose of this study was to evaluate knowledge, attitudes and beliefs, and practice patterns of physicians in an academic primary care practice with regards to chronic opioid prescribing, in order to assess the need for quality improvement.
+
+# METHODS:
+
+Thirty-seven general IM physicians at a single academic medical center anonymously completed a survey in 2017 (95% response rate). Physicians were surveyed about knowledge, attitudes and beliefs, and current practice patterns of key aspects of the CDC Guideline. A general sense of "regard" (biases, emotions, and expectations) for patients with chronic pain on long-term opioid therapy was also assessed using the Medical Condition Regard Scale. Data and descriptive analyses was compiled using REDCap software.
+
+# RESULTS:
+
+While 51% of physicians were aware of the key elements of the patient-provider agreement, and 75% believe them to be very useful, 70% never or rarely used them. Seventy percent of physicians knew how to access the PMP and 76% found the information helpful, however, only 8% checked PMP prior to initiating opioids. Sixty-five percent never performed urine drug screening; knowledge of how to interpret urine drug screening and beliefs of its usefulness were more varied. While most physicians (57%) thought prescribing naloxone was very important, 73% of physicians had never prescribed it. Only 38% of physicians felt that working with patients with chronic pain on long-term opioid therapy was satisfying and 57% found these patients particularly difficult.
+
+# CONCLUSIONS:
+
+Our data indicate fairly high levels of knowledge and perceived usefulness of key CDC guideline recommendations. However, application of these guidelines was inconsistent. While the opioid epidemic has received significant publicity, formal education on chronic opioid therapy and support to implement the new guidelines has lagged behind. To tackle this complex issue and increase guideline adherence, a combination of policy changes, health system changes, and physician-level interventions is likely needed. In response to our findings, we have created a clinical practice guideline, a standardized patient-provider agreement, standardized documentation tools for the EHR, and didactic education. Future directions include resurveying physicians and assessing changes in practice using EHR data.
+
+# HEALTH IT FOR HEALTH EQUITY: DEVELOPING A CHECKLIST TO IMPROVE THE QUALITY OF EMR DATA COLLECTED TO INFORM HEALTH DISPARITIES INTERVENTIONS
+
+S. M. Ogunwole. Johns Hopkins University School of Medicine, San Antonio, TX; UT health San Antonio, San Antonio, TX. (Control ID #3176435)
+
+# BACKGROUND:
+
+The electronic medical record (EMR) is a powerful patient data collection tool that can help organizations identify and monitor disparities in healthcare and health outcomes. This collection of data is often the first and most critical step needed to address health equity within clinical environments. Despite this, many organizations do not leverage their EMR to collect data that can inform and help prioritize interventions that reduce health disparities and improve health equity. We set out to develop a checklist that could identify items needed to ensure quality data capture from the EMR—a critical step for health disparities data collection.
+
+# METHODS:
+
+Following the World Health Organization (WHO) approach to developing surgical checklists; we assembled evidence on possible areas of improvement, drafted checklist items, solicited an expert review of the draft checklist, validated the checklist using patient and stakeholder feedback, and piloted the checklist at a clinical site. We found traditional quality improvement tools such as creation of a process map detailing the patient intake process, observation of the patient and intake staff interactions and creation of an Ishikawa diagram to identify implementation barriers to be most useful in assessing fulfillment of the checklist items and generating ideas for change based on identified deficits.
+
+# RESULTS:
+
+We established three domains of requirements for adequate EMR data capture. 1) standardization 2) inclusion of relevant ‘metrics that matter' (i.e., social determinants of health) and 3) requirement to report and act on health disparities data. In addition, there were several tasks identified within each domain, leading to a final comprehensive "EMR equity checklist" composed of 21 items (see figure 1). On evaluation, we found that only 10/21 checklist items were met. The information from our quality improvement assessment in combination with clearly defined deficits from our checklist allowed generation of specific interventions (ex: intake staff education, EMR changes, and the creation of a Health Equity Taskforce) to address the identified checklist items that were not fulfilled.
+
+# CONCLUSIONS:
+
+An EMR equity checklist in conjunction with quality improvement tools, created a systematic framework to evaluate and improve the collection of data relevant to health disparities.
+
+# In order for Health Information Technology to function at a level that can inform our leadership about health disparities, the following elements have to be met:
+
+- Standardization of Data collection
+- Inclusion of 'metrics that matter'
+- Data must be reported by patient
+- Collected in a culturally sensitive manner
+- Complete
+- Accurate
+- Requirement to report and act on health disparities data
+- Stratification of data to evaluate the presence of health disparities
+- Mechanism to report findings to leadership and create action plans that address the identified disparities
+
+# EMR Equity CHECKLIST

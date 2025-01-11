@@ -1,0 +1,57 @@
+# ABSTRACTS
+
+# Weight Management Curriculum for PGY3 Residents
+
+Management visits during a half-day session during the PGY3 ambulatory rotation. Residents were asked to review material on evaluating obesity and to take an Implicit Association Test (Project Implicit) to increase awareness of subconscious bias prior to the session. Patients were evaluated, counseled and managed by a team consisting of the resident and a trained (American Board of Obesity Medicine certified) faculty member. Counseling skills, motivational interviewing and patient centered decision making was modeled by the faculty. At the end of the patient care session, small group discussions reinforced lessons learnt. Weight management specific didactic sessions included a 30-minute Pre-Clinic conference during the Ambulatory Rotation for all residents and the addition of 2 noon conferences to the annual schedule. Residents were encouraged to schedule weight management visits for patients on their continuity panel throughout the year.
+
+# EVALUATION:
+
+Participating PGY3 residents rated their comfort level with managing obesity before and after the half-day session and evaluated other aspects on a 5-point scale. The mean score for the overall experience was 4.7. The mean self-reported comfort with weight management was 2.4 before the session, improving to 4 post-session (p value of < 0.0001, Wilcoxon signed rank test).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+This successfully implemented curriculum demonstrated how dedicated weight management visits along with a few didactic sessions can substantially improve resident confidence. Similar interventions can be implemented at other programs interested in addressing this knowledge and training deficit in trainees without committing too much valuable residency time. There is a need to train more faculty members in weight management. Residents should be encouraged to treat patients with obesity in an evidence based proactive manner throughout their training to solidify weight management skills. We need to assess whether residents will continue to apply lessons learned after completing this curriculum.
+
+# INCREASING CONNECTION AND ENGAGEMENT: A STUDY OF PEER-LED REFLECTION GROUPS FOR FELLOWS
+
+Arabella L. Simpkin1, 2; Susan Hata1, 2; Merranda Logan1, 2; Katrina Armstrong1, 2. 1Massachusetts General Hospital, Boston, MA; 2Harvard Medical School, Boston, MA. (Control ID #3185763)
+
+# NEEDS AND OBJECTIVES:
+
+Burnout appears to be an accelerating phenomenon, with implications for physician wellbeing, patient safety, and the quality of healthcare delivery. While many studies and interventions been directed at medical students, residents, and faculty to better understand what impacts burnout, subspecialty fellows have been largely untargeted, despite being a vulnerable population, critical to the future of patient care. Fellowship training presents unique challenges, often coinciding with geographic uprooting, increased responsibility, pressure to enter the job market, and loss of the team structure that can define residency. To tackle the goals of reducing burnout, increasing engagement, inclusion and belonging, we have created a program that creates small communities of fellows, who will gather to reflect on meaningful and challenging aspects of their work, and support one another.
+
+# SETTING AND PARTICIPANTS:
+
+Sub-specialty fellows at Massachusetts General Hospital from the Department of Medicine. Peer support groups will convene for one hour, every 2 weeks, in a centrally located room on the main campus.
+
+# DESCRIPTION:
+
+Innovative program with 8-10 interdisciplinary fellows gathering on a two-weekly basis for a self-facilitated peer-support group with a provided discussion guide.
+
+# EVALUATION:
+
+All participants complete surveys at the beginning and end of the study to measure: work engagement; empowerment at work; resilience; reaction to uncertainty; and burnout. Baseline surveys show 32% of fellows meet criteria for burnout.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We have experienced challenges in fellows being able to attend the lunchtime sessions, despite positive feedback about the endeavor. Fellows have a set of unique demands that ironically puts them at huge risk of burnout whilst impeding their ability to attend structured wellness sessions: unpredictable and changing patient volumes make regular sessions on a standardized day an impossibility; consults are increasingly complex; voicing concerns about overwhelming workloads can feel unwise given fellows are often looking for faculty jobs in the institution. Recommendations to overcome these challenges include: connecting fellows to mentors and coaches outside their divisions; flexibility in timing and composition of peer-support groups; connecting fellows from different sub-specialties and years to nurture vertical associations.
+
+# INCREASING HEALTH PROFESSION STUDENTS' INTERPROFESSIONAL COMPETENCIES: THE INTERPROFESSIONAL DEDICATED EDUCATION UNIT (IPDEU)
+
+Rachel Jantea1; Victoria Hornyak1; Cassandra Leighton1; Teresa Pacella1; Rosemary Hoffmann1; Sandra Engberg1; Subashan Perera1; Susan Meyer1; Benjamin Reynolds1; Debra K. Weiner1; David M. Elnicki2; Alton E. James1; Rollin M. Wright1. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh, Wexford, PA. (Control ID #3177640)
+
+# NEEDS AND OBJECTIVES:
+
+Many health professionals work in interprofessional (IP) teams to care for older adults with complex needs. Interprofessional education (IPE) is now required for health profession students, but the best educational model is unknown. Further, clinical preceptors are often untrained in IPE themselves, creating heterogeneity in students' IPE experiences. To address these needs, we designed and evaluated an Interprofessional Dedicated Education Unit (IPDEU) acute care IPE experience for health profession students.
+
+# SETTING AND PARTICIPANTS:
+
+We designated a neurotrauma hospital unit (older population with complex needs) the IPDEU at our large academic medical center. Unit nurse, occupational therapy (OT), physical therapy (PT), and speech therapy (ST) providers were trained as IPE instructors in July-August 2018. Learners were University of Pittsburgh students from different health professions (3 audiology, 13 nursing, 8 OT, 9 PT, 9 ST, 8 physician assistant) who rotated on the IPDEU in fall 2018.
+
+# DESCRIPTION:
+
+We trained IPE instructors in both IP practice skills and IPE-specific instructor skills. Instructors completed 2 hours of web-based skill modules and 4 hours of skill practice with simulation-trained actors. Students from different health professions were paired. Each pair spent 2 half-day sessions on the IPDEU within a one-week period (1 with a nurse IPE instructor & 1 with a therapy IPE instructor). During IPDEU sessions, students actively observed their IPE instructors during usual patient care activities. Active observation explicitly focused on IP aspects of care (not clinical skills) and was facilitated through instructor techniques such as IPE-directed questions and thinking-out-loud. A 30-minute group debrief concluded each session.
+
+# EVALUATION:
+
+Students self-rated their IP competencies using the Interprofessional Collaborative Competency Attainment Scale (ICCAS) before/after the IPDEU experience. Pre/Post composite ICCAS scores were analyzed by independent t-tests. Pre/Post individual item Likert responses were dichotomized and analyzed by X2. Fifty students completed the experience. Twenty-seven (54%) reported prior formal IPE. Composite ICCAS scores improved post-IPDEU (65.3 vs 81.5, p<0.0001). Pre-IPDEU, few students rated individual competencies highly (<70% rated themselves Very Good or Excellent on any item). Post-IPDEU, all item competency ratings improved significantly.

@@ -1,0 +1,65 @@
+# ABSTRACTS JGIM
+
+# CASE 1
+
+# South Florida, Tampa, FL; 2Manatee Memorial Hospital, Bradenton, FL. (Control ID #3185692)
+
+# LEARNING OBJECTIVE #1:
+
+Assess severely septic patients by performing a complete, sometimes invasive physical examination for the investigation to find a source of infection.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize that group A streptococcal bacteremia and subsequent toxic shock syndrome can arise from tubo-ovarian abscesses.
+
+# CASE:
+
+A 47-year-old female with a past medical history significant for uterine fibroids presented to the ED with a five-day history of nausea, vomiting, diarrhea, lower abdominal pain, low grade fever, fatigue, and chills. The abdominal pain was non-radiating and described as a sharp pain that was difficult to localize. On physical exam, she was tachycardic with a heart rate of 120 bpm, tachypneic at 30/min and afebrile. Abdominal exam was significant for diffuse tenderness with voluntary guarding in the lower quadrants, no rebound. Pelvic examination was within normal limits, as was the rest of the examination. Labs revealed a WBC at 9x103/uL with bandemia, anemia with hemoglobin of 10.5, BUN 75 mg/dL, creatinine 6.7 mg/dL, and a lactic acidosis. A CT abdomen and pelvis with contrast revealed trace free fluid in the abdomen with peritoneal enhancement suspicious for peritonitis. A pelvic and transvaginal ultrasound was performed revealing a fibroid uterus without adnexal masses. Blood cultures were positive for group A beta hemolytic streptococcus sp. She was started on broad spectrum antibiotics but subsequently progressed to septic shock, requiring vasopressors, mechanical ventilatory support, as well as continuous renal replacement therapy. On hospital day 3, a repeat pelvic exam was performed which revealed severe adnexal and cervical motion tenderness with cervical friability. An exploratory laparotomy was performed which showed a ruptured tubo-ovarian abscess. A total abdominal hysterectomy with bilateral salpingo-oophorectomy was performed. Pathology showed necrotizing bilateral fallopian tubes and uterus. Following the surgery, she was maintained on IV antibiotics and was successfully weaned from mechanical ventilation and vasopressor support, ultimately making a full recovery.
+
+# IMPACT/DISCUSSION:
+
+Tubo-ovarian abscesses (TOA) can result from pelvic inflammatory disease in a pre-menopausal woman. Organisms that are typically implicated are E. coli, Bacteroides sp, and Klebsiella sp. Cases of group A streptococcal (GAS) peritonitis from ruptured TOA have been reported, albeit rare in literature. Toxic shock syndrome is a well described complication of staphylococcal and GAS infections that are often fulminant if not recognized and treated eminently. Presenting symptoms for TOA can be broad, and when caring for a female patient with vague abdominal symptoms, a thorough physical exam can be lifesaving.
+
+# CONCLUSION:
+
+This case signifies the importance of searching for a cause of septic shock, including repeating invasive portions of a physical examination. It highlights the importance of maintaining vital physical examination skills as an internist to aide in diagnosis when caring for critically ill patients.
+
+# CASE 2
+
+# STROKE FOLLOWING CARDIOVERSION FOR ATRIAL FIBRILLATION DESPITE PATIENT ON ELIQUIS FOR 2 YEARS
+
+# Manishkumar Patel1; Mulham Shikh Hamdon2; Anubhav Jain1; Zain Kulairi1.
+
+# 1Wayne State University, Clarkston, MI; 2Wayne State University, Shelby TWP, MI. (Control ID #3185254)
+
+# LEARNING OBJECTIVE #1:
+
+Apixaban was approved for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation. This was based on the Apixaban for Reduction in Stroke and Other Thromboembolic Events in Atrial Fibrillation (ARISTOTLE) trial. Despite the use of Apixaban for 2 years of anticoagulation, we describe a patient who suffered an ischemic stroke 24 hours following cardioversion.
+
+# CASE:
+
+70-year-old male with history of nonvalvular atrial fibrillation with CHADS-VASc of 2 on apixaban for 2 years, and essential hypertension. Due to symptomatic atrial fibrillation, electrical cardioversion was recommended. The patient was compliant with Eliquis which was confirmed with his wife. A TEE study was not performed prior to the cardioversion as the patient had been anticoagulated for the prior 2 years. The cardioversion attempt was successful and the patient was discharged home on Eliquis in normal sinus rhythm. Approximately 24 hours following the cardioversion, the patient was admitted to our hospital with altered mental status, expressive aphasia and dysarthria, with the remainder of the examination unremarkable. Computed tomography scan showed distal right middle cerebral artery infarct. Computed tomography angiography showed occlusion of the posterior branch of the right middle cerebral artery. Magnetic resonance imaging demonstrated large acute right middle cerebral artery infarct with no shift of the midline structures. Clinically it was determined that he had suffered from a cardioembolic event. Carotid duplex ultrasound showed normal bilateral carotid arteries. Echocardiogram showed ejection fraction 55-60% with no evidence of left atrial dilation or left atrial appendage.
+
+# IMPACT/DISCUSSION:
+
+In patients with atrial fibrillation, electrical cardioversion can be used to restore normal sinus rhythm. The risk of cardioversion, however, is that it is associated with an increased occurrence of dislodged thrombi originating from the left atrial appendage resulting in a thromboembolic event. The American Heart Association recommends for patients with atrial fibrillation of unknown length of time or for >48 hours therapeutic anticoagulation for at least 3 weeks should be given prior to and 4 weeks after cardioversion. TEE can also be used to rule out thrombi within the heart chambers before cardioversion. Cardioversion data for 577 patients from a phase III trial comparing apixaban with warfarin demonstrated no ischemic strokes or systemic emboli over a 90-day follow up period. Our patient had no evidence of thrombi or echo contrast on TEE prior to apixaban being started, had been compliant with more than 3 weeks of apixaban therapy confirmed with outpatient pharmacy records, and had a low annual risk of stroke. Although no intervention can bring an event rate to zero, an event such as this is concerning.
+
+# CONCLUSION:
+
+We are reporting a case of failed apixaban therapy to prevent stroke after cardioversion despite this patient being on this medication for 2 years.
+
+# CASE 3
+
+# STROKE VIS-à-VIS VZV: A CASE OF VZV VASCULOPATHY
+
+# Xi Chu1; Leonidas Palaiodimos1; Charles Esenwa2.
+
+# 1Montefiore Medical Center, New York, NY; 2Montefiore Medical Center, Bronx, NY. (Control ID #3182572)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize VZV vasculopathy as an etiology of stroke.
+
+# CASE:
+
+A 70-year-old man with diabetes, hypertension, and hyperlipidemia presented with incoherent speech. On exam, he was found to have fluent aphasia with comprehension difficulty, phonemic paraphasias and right homonymous hemianopia. Labs showed HbA1c 7.9%, LDL 145 mg/dL, ESR/CRP normal, HIV negative, syphilis TP-PA positive. MRI brain showed acute infarction in the left parietal and occipital lobes, as well as splenium of the corpus callosum and hippocampus, and a chronic left frontal infarct. CTA head/neck showed multifocal areas of moderate to severe intracranial arterial stenoses involving the anterior and posterior circulation, including occlusion in the posterior cerebral artery. Presence of multifocal stroke along with the extensive intracranial stenoses prompted a vasculitis workup. CSF analysis

@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# INTERVENTIONS THAT WILL IMPROVE AMBULATORY ANTIBIOTIC PRESCRIBING
+
+This study aims to assess the antibiotic prescribing patterns for acute bacterial rhinosinusitis (ABRS) in an Internal Medicine resident clinic.
+
+# METHODS:
+
+Three investigators reviewed 102 charts for all encounters between October 1, 2015 and December 31, 2018 in which an ICD-10 code for ABRS was used and an antibiotic was prescribed. Utilizing the Infectious Disease Society of America (IDSA) guidelines, we developed a chart review tool to (1) determine appropriateness of antibiotic prescribing by confirming the diagnosis of ABRS, and (2) assess the appropriateness of the selected antibiotic, dose, and duration.
+
+# RESULTS:
+
+96% (n=98) met the IDSA criteria for diagnosis of ABRS, reflecting that an antibiotic was appropriately prescribed. Of those cases, only 41% followed IDSA recommendations regarding correct antibiotic selection, dose, and duration (n=42). Of the patients with documented beta-lactam antibiotic allergy who were appropriately prescribed an antibiotic (n=31), only 55% received a recommended second-line agent (n=17). Amongst the cases in which the choice to prescribe an antibiotic was appropriate, azithromycin was the most frequently inappropriately selected antibiotic (26%; n=25). In cases in which antibiotic selection was appropriate, incorrect dosage accounted for 12% (n=7) of inappropriate prescriptions, and excessive treatment duration accounted for 32% (n=19).
+
+# CONCLUSIONS:
+
+Our study revealed that the decision to prescribe an antibiotic for ABRS was appropriate 96% of the time, demonstrating that residents are often effectively able to identify the signs and symptoms of ABRS. However, residents made errors in selection, dose and/or duration of the antibiotic in 58% of the cases (n=59). This suggests that inappropriate antibiotic prescription lies not in the choice to prescribe, but in the details of the prescription. Moreover, only 57% of patients who received a second-line antibiotic had a documented allergy. Together, this data sheds light on the highest yield areas for improvement. Next steps for intervention include development of educational materials and electronic health record-based clinical decision support tools aimed at improving appropriate antibiotic selection.
+
+# RISK FACTORS FOR 30-DAY READMISSION AFTER INFECTIVE ENDOCARDITIS USING NATIONWIDE READMISSIONS DATABASE
+
+Anthony T. Kunnumpurath 1; Neal Mehta 2; Ron T. Varghese 3.
+
+1 White River Health Systems, Batesville, AR; 2 White River Health System, Kingsport, TN; 3 White River Medical Center, Batesville, AR. (Control ID #3181997)
+
+# BACKGROUND:
+
+The annual incidence of infective endocarditis, infection of the native/prosthetic cardiac heart valve, endocardial surface and/or implanted cardiac device, has increased from a yearly incidence of 11 to 15 per 100,000 from 2000 to 2011 [1,2]. Infective Endocarditis is associated with considerable in-hospital mortality (20%) and post-initial hospitalization mortality (30%) [1]. Better understanding of the risk factors for readmissions of Infective Endocarditis may help to decrease morbidity and mortality. We sought out to determine the 30-day all-cause readmission rate for adults (age >= 18) admitted with Infective Endocarditis and the associated predictors of readmissions.
+
+# METHODS:
+
+We utilized Agency of Healthcare Research and Quality's (AHRQ) Health Care Utilization Project's (HCUP) 2014 Nationwide Readmission Database which includes 14.9 Million discharges across 22 states accounting for 51.2% of the total U.S. population and 49.3% of all U.S. hospitalizations to identify admissions with a Infective Endocarditis related ICD-9 diagnosis (421.0, 421.1, and 421.9). Applicable admissions were all adults (age >= 18) with an index hospitalization discharge between January 1 to November 30, 2014. Patients who died during index admission and those with missing covariates were excluded. All-cause including Infective Endocarditis readmissions within 30-days of a infective endocarditis associated index admission were analyzed. Statistical analysis was completed with Stata 15 (StataCorp, College Station, TX) with p-values < 0.05 considered statistically significant. A univariate and multivariate analysis of data collected was completed using both odds ratio and chi square test for significance. Predictors for readmission were determined using a multivariate logistic regression model following sequential step-wise elimination of covariates including demographics, comorbidities, hospital characteristics, length of stay (LOS) for index admission, and the modified Elixhauser Comorbidity Index.
+
+# RESULTS:
+
+A total of 14,705 patients met criteria for inclusion. Of which, there was 3,842 (26.13%) readmissions within 30-days of the index admission. Multivariate analysis showed that the predictors of 30-day readmission were younger age, female, disposition at discharge (other facility or against medical advice), Medicare as payer, length of stay, admission to a medical compared to surgery team, and presence of three comorbidities (complicated diabetes, perivascular disease, and renal failure).
+
+# CONCLUSIONS:
+
+Greater than 1 in 4 patients discharged after an infective endocarditis admission were readmitted within 30 days. Physician awareness and development of targeted interventions for individuals with risk factors and high-risk for readmissions may help decrease future morbidity and mortality.
+
+# ROOM FOR IMPROVEMENT: PRIMARY CARE PHYSICIANS' USE OF EVIDENCE-BASED STRATEGIES TO IMPROVE ADULT IMMUNIZATION
+
+Laura P. Hurley 1, 4; Sean T. O'Leary 2, 4; Megan C. Lindley 5; Lori A. Crane 2, 4; Jessica R. Cataldi 2, 4; Michaela Brtnikova 2, 4; Brenda Beaty 4; Allison Kempe 3, 4. 1 Denver Health, Denver, CO; 2 University of Colorado Anschutz Medical Campus, Aurora, CO; 3 University of Colorado and Children's Hospital Colorado, Aurora, CO; 4 ACCORDS University of Colorado Anschutz Medical campus and Children's Hospital Colorado, Denver, CO; 5 Centers for Disease Control and Prevention, Atlanta, GA. (Control ID #3178595)
+
+# BACKGROUND:
+
+Adult immunization rates are low nationally and little is known regarding the use of evidence-based strategies to increase rates by physicians serving adults. Our objectives were to assess among general internists (GIM) and family physicians (FP): 1) strategies used to improve adult immunization rates, and 2) reported use of strategies in 2013 vs. 2015/16.
+
+# METHODS:
+
+We administered Internet and mail surveys to two distinct nationally representative cross-sectional samples of GIM and FP derived from American College of Physicians and American Academy of Family Physicians memberships in June-October 2013 and December 2015-January 2016. Surveys were sent to 839 and 935 physicians in 2013 and 2015/16, respectively. Chi-square analyses were used to compare responses between the two surveys.
+
+# RESULTS:
+
+The response rate was 66% in both surveys (553/839 in 2013 and 617/935 in 2015/16); 19 physicians were removed in 2013 and 15 in 2015/16 because they did not administer vaccines. Table 1 shows reported use of strategies to improve vaccination for the two time periods for seasonal influenza and the other recommended adult vaccines. Several strategies, at least for seasonal influenza vaccine, were more commonly reported in the later survey except for written clinical decision support systems (written surveys to determine a patient's vaccine needs).
+
+# CONCLUSIONS:
+
+With the exception of standing orders for seasonal influenza specifically and electronic CDSS for all adult vaccines, the minority of physicians is using evidence-based strategies to improve adult vaccinations, but use of many strategies has improved over time. Bidirectional interfaces with IIS may facilitate assessing all adult vaccines in an IIS, and that, along with the expanded use of standing orders for all adult.

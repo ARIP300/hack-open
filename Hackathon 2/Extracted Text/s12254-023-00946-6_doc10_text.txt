@@ -1,0 +1,38 @@
+# Special Issue
+
+With relapsed/refractory CLL and B-cell malignancies have been presented at ASH 2022 [17]. All of the 23 CLL patients were heavily pretreated and were refractory to prior BTK inhibitor therapy, with most being double-refractory to both BTK and BCL-2 inhibitors. The adverse event (AE) profile was generally consistent with previous reports for BTK-targeted therapies. NX-2127 showed clinically meaningful efficacy, with an ORR of 33% and durable responses in some patients. Importantly, responses were noted in patients double-refractory to BTK/BCL-2 inhibitors as well as in those who had progressed on a non-covalent BTK inhibitor. In vivo BTK degradation was significant and was essentially independent of the dose level.
+
+# Zanubrutinib in Patients Intolerant of Other BTKi
+
+The ongoing, single-arm, phase II BGB-3111-215 study has demonstrated efficacy and tolerability of zanubrutinib in patients with B-cell malignancies who are intolerant of ibrutinib and/or acalabrutinib [18]. Preliminary longer-term findings for patients with CLL or small lymphocytic lymphoma were presented at iwCLL 2023 by Shadman et al. [19]. Overall, 61 individuals received zanubrutinib; 44 and 17 of these were ibrutinib-intolerant and acalabrutinib-intolerant, respectively. In the latter group, eight patients were intolerant of both agents. At the time of the analysis, approximately 70% in each cohort were still on treatment.
+
+The data showed that AEs that had caused the patients to discontinue their previous BTK inhibitor therapy were unlikely to recur on zanubrutinib treatment. Indeed, 68.4% of ibrutinib-intolerance AEs and 71.4% of acalabrutinib-intolerance AEs did not recur. No intolerance AEs recurred at a higher severity. Sixty-two percent of patients with ibrutinib intolerance and 70.6% of those with acalabrutinib intolerance did not experience recurrence of any of their intolerance events. Grade ≥ 3 AEs emerging on zanubrutinib treatment were reported in 50.8% of patients, with neutropenia (11.5%), COVID-19 (6.6%), and pneumonia (6.6%) representing the most common events.
+
+# Figure 4: Recurrence of Ibrutinib-Intolerance Events
+
+| |Did not recur|Recurred at lower grade|Recurred at same grade|
+|---|---|---|---|
+|Ibrutinib Intolerance|68.4%| | |
+|Acalabrutinib Intolerance|71.4%| | |
+
+BTK Cys481 and Leu528 mutations were identified as the two main BTK resistance mutations. ddPCR was performed in the samples of four patients who showed progressive lymphadenopathy. In terms of efficacy of zanubrutinib, the analysis showed an ORR of 71.9% with a disease control rate of 94.7%. At 12 months, 88.3% of patients were progression-free. As the authors noted, the high disease control rate suggests that patients who were intolerant of ibrutinib or acalabrutinib are likely to benefit from switching to zanubrutinib. Overall, zanubrutinib appears to be a viable option for patients who are intolerant of ibrutinib or acalabrutinib.
+
+# Assessment of Evolutionary Characteristics
+
+Zhu et al. used multi-omics to assess clonal evolutionary characteristics in ten retrospectively identified CLL patients who had developed zanubrutinib resistance [20]. This included two patients with Richter’s transformation. Deep targeted-gene NGS covering BTK (exons 1–19) and PLCG2 (exons 1–33), as well as high sensitivity droplet digital PCR (ddPCR) were used to assess serial samples. Furthermore, upregulation of MCL-1 in this group indicated an underlying mechanism leading to insensitivity to venetoclax treatment following zanubrutinib resistance.
+
+# Source
+
+Sessions “Mechanisms of resistance” and “Future directions for the treatment of relapsed/refractory CLL”, iwCLL 2023, 8th October 2023, Boston, USA
+
+# References
+
+1. Johnson AR et al., Battling Btk mutants with noncovalent inhibitors that overcome Cys481 and Thr474 mutations. ACS Chem Biol 2016; 11(10): 2897-2907
+2. Lin DY, Andreotti AH, Structure of BTK kinase domain with the second-generation inhibitors acalabrutinib and tirabrutinib. PLoS One 2023; 18(8): e0290872
+3. Ahn IE et al., Clonal evolution leading to ibrutinib resistance in chronic lymphocytic leukemia. Blood 2017; 129(11): 1469-1479
+4. Ahn IE et al., Ibrutinib for chronic lymphocytic leukemia with TP53 alterations. N Engl J Med 2020; 383(5): 498-500
+5. Burger JA et al., Clonal evolution in patients with chronic lymphocytic leukaemia developing resistance to BTK inhibition. Nat Comm 2016; 7: 11589
+6. Kadri S et al., Clonal evolution underlying leukemia progression and Richter transformation in patients with ibrutinib-relapsed CLL. Blood Adv 2017; 1(12): 715-727
+7. Bulian P et al., CD49d is the strongest flow cytometry-based predictor of overall survival in chronic lymphocytic leukemia. J Clin Oncol 2014; 32(9): 897-904
+8. Alsadhan A et al., CD49d expression identifies a biologically distinct subtype of chronic lymphocytic leukemia with inferior progression-free survival on BTK inhibitor therapy. Clin Cancer Res 2023; 29(18): 3612-3621
+9. Thijssen R et al., Single-cell multiomics reveal the scale of multilayered adaptations enabling resistance to BTK inhibition.

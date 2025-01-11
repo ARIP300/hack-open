@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Efforts are being made across teaching hospitals to improve trainee involvement with incident reporting systems. Studies suggest that understanding barriers to incident reporting is essential in developing successful educational interventions. We previously reported on barriers to incident reporting within our institution which were lack of knowledge of how to report, concern about negative repercussions after reporting, lack of time to report and the belief that reporting is futile. This study was designed to address these specific barriers with a patient safety video distributed via email. Barriers were assessed using baseline and post-video surveys.
+
+# METHODS:
+
+The study was conducted after IRB approval. A 5-minute video was produced aiming to address the barriers noted above. Baseline and post-video surveys were developed after a literature review of similar surveys, review with a panel of patient safety experts, and pre-testing with a group of trainees. The surveys and video were distributed via email to 1144 trainees. Participation was anonymous and voluntary. T-tests assuming unequal variances were used to determine significance. A p-value of &lt; 0.05 was interpreted as significant.
+
+# RESULTS:
+
+The response rate to the baseline survey and video was 6.1%. 41.4% of trainees who viewed the video responded to the follow up survey. Baseline and post-video survey results are shown in Table 1. Trainees indicating having knowledge to create an incident report increased from a baseline of 48.6% to 72.4% which was significant (p-value of 0.013). Otherwise, there was no significant change in attitudes about incident reporting.
+
+# CONCLUSIONS:
+
+Using email to distribute a patient safety video targeting specific barriers to incident reporting with anonymous and voluntary participation yielded a low response rate. Although there was improvement in perceived knowledge among participants, there was no measured improvement in other attitudes measured about incident reporting. The same video delivered during an in-person, required, educational conference was previously studied where knowledge and attitudes about incident reporting significantly improved (manuscript in progress). Our data suggests that although email distribution is a practical way to deliver patient safety education, the impact is low if participation is voluntary and anonymous.
+
+# VITAL-AF: A PRAGMATIC TRIAL INTEGRATING ROUTINE SCREENING FOR ATRIAL FIBRILLATION DURING PRIMARY CARE VISITS
+
+Steven J. Atlas1; Jeffrey M. Ashburner1; David D. McManus2; Yuchiao Chang1; Ana T. Trisini Lipsanopoulos1; Leila H. Borowsky1; Wyliena Guan1; Wei He1; Patrick T. Ellinor1; Steven A. Lubitz1; Daniel E. Singer1. 1Massachusetts General Hospital, Boston, MA; 2University of Massachusetts Medical School, Worcester, MA. (Control ID #3185071)
+
+# BACKGROUND:
+
+Atrial fibrillation (AF) is a common age-related arrhythmia associated with increased risk of ischemic stroke. Novel technology may permit efficient and effective AF screening among undiagnosed, at-risk individuals to reduce ischemic stroke through use of guideline-indicated oral anticoagulants (OAC). We designed VITAL-AF (ClinicalTrials.gov NCT03515057) as a pragmatic cluster-randomized trial in a large primary care network in the United States, with the primary objective of assessing the benefit of population-based screening for AF in older patients using a single-lead ECG as part of routine care.
+
+# METHODS:
+
+VITAL-AF was designed to be generalizable, implementable, and pragmatic. VITAL-AF includes all patients 65 years of age attending an outpatient visit in a participating site (including hospital-, community- and health center-based practices) with a physician or nurse practitioner, embeds screening as part of routine assessment of vital signs at each encounter, utilizes clinic medical assistants rather than research personnel to conduct screening, and assesses outcomes using electronic health record data. Practices were randomized to the screening intervention or control arm. Control practices continue with true usual care that may include pulse palpation and rhythm assessment based upon physician standard practice. Here we present historical data from the network about the size, visit patterns, and characteristics of the eligible population prior to trial enrollment starting July 31, 2018.
+
+# RESULTS:
+
+Overall, 142,291 patients were seen in network practices in the prior 3 years. There were 35,856 (25%) eligible patients 65 years of age seen in 16 participating study sites (hospital, community and health center clinics) including 4,704 (13%) patients with known AF. In 2017, 93% of eligible patients 65 years completed at least one primary care outpatient visit, with 67% completing multiple visits. This population has many risk factors for AF including: 41% 75 years of age, 43% male, 70% with hypertension, 19% with coronary artery disease, 18% with diabetes, and 8% with heart failure. Among those without prevalent AF on OAC, 93% had a CHA2DS2-VASc score 2 with 40% having a score 4. The trial is in progress and subject accrual is expected to be complete as of late fall 2019.
+
+# CONCLUSIONS:
+
+VITAL-AF is a pragmatic, population-based trial of a screening program for undiagnosed AF in older at-risk patients within a primary care network. To emphasize generalizability, ease of implementation, and to facilitate screening uptake across a range of primary care clinics, VITAL-AF uses a single, age-based eligibility criterion. A small percentage of patients with low CHA2DS2-VASc score or with prevalent AF will be screened. Outcome assessment will evaluate rates of new AF detection and appropriate use of OACs among all patients 65 years of age seen in a participating clinic.
+
+# VOLUNTARY BUNDLED PAYMENT FOR CORONARY ARTERY BYPASS SURGERY: DO EFFECTS FOR JOINT REPLACEMENT EXTEND TO OTHER SURGICAL CONDITIONS?
+
+Joshua Rolnick2; Joshua M. Liao1, 2; Xinshuo Ma2; Ezekiel J. Emanuel2; Eric Z. Shan2; Jingsan Zhu2; Erkuan Wang2; Qian Huang2; Amol S. Navathe2, 3. 1University of Washington, Seattle, WA; 2University of Pennsylvania, Philadelphia, PA; 3CMC VA Medical Center, Philadelphia, PA. (Control ID #3182898)
+
+# BACKGROUND:
+
+Episode-based payment is an increasingly common strategy to reduce spending. Medicare's voluntary Bundled Payments for Care Improvement (BPCI) program tested the impact for several surgical conditions. However, while evidence shows savings with BPCI for knee and hip replacement surgery, less is known about CABG, despite CMS's recent decision to reconsider a mandatory bundles program for CABG.
+
+# METHODS:
+
+We performed a difference-in-differences comparison using 2011-2016 Medicare claims. Episodes attributed to BPCI physician groups were excluded. CABG participants were propensity-matched with up to 15 non-participants. The primary outcome was standardized total episode spending. Secondary outcomes were changes in utilization and spending by category. Models were adjusted for patient characteristics, time-varying market characteristics, and hospital and quarter fixed effects. Ordinary least squares models were used for utilization and spending by category. A generalized linear model with a log-link function and gamma distribution was used for total spending.
+
+# RESULTS:
+
+From October 2013-October 2015, 49 hospitals enrolled in CABG. 43 participants (10,125 episodes baseline period, 4,688 treatment) were matched with 548 non-BPCI hospitals (30,133 episodes baseline, 29,273 treatment). Mean BPCI follow up was 24 months. There were no baseline differences in age or Elixhauser index. Baseline episode spending was $48,258 BPCI group vs. $47,417 controls (p&lt;0.001) and spending for post-acute institutional care was $5,366 BPCI vs. $4,435 controls (p&lt;0.001). The parallel trends assumption was met for all outcomes. Difference-in-differences analysis showed BPCI participation was associated with a non-significant 1.9% increase (95% CI -4.7%-8.9%, p-value=0.588) in risk-adjusted total spending. Proportion of spending on physician fees decreased 5.1% (95% CI 6.3%-3.9%, p-value&lt;0.001) and SNF spending showed a non-significant 1.3% decrease (95% CI -1.2%-3.7%, p-value=0.31).

@@ -1,0 +1,63 @@
+# ABSTRACTS
+
+# Lean QI to practice leadership, increasing same day access, and implementing daily team huddles and standardized workflows around care transitions.
+
+# FINDINGS TO DATE
+
+Results varied across each category. For example, 4 practices showed weakness in population health metrics as measured by their lack of proactive patient empanelment, resulting in episodic care. Within staffing metrics, 3 practices had limited ancillary staff, meaning resources like behavioral health and pharmacy were either unavailable or only remotely available. Certain challenges were experienced by all 8 practices, including after hours care alternatives, limited workflow standardization, staffing vacancies, inadequate EHR training, minimal usage of population health tools, and inconsistencies in QI engagement. Based on these findings, practices were assigned a facilitator. 1 practice which was struggling with population health and leadership received a combination of facilitation and intensive regional leadership oversight. 5 practices with moderate rating received embedded facilitation. 2 practices demonstrated strength across all categories and thus did not receive continuous facilitation.
+
+# KEY LESSONS FOR DISSEMINATION
+
+This case represents an important effort by an integrated urban health system to become a population health manager. Our experience at MSHS suggests that redesign can be rolled out at scale if a health system is willing to invest in certain resources; in our case, we designed an easy-to-administer assessment tool which then allowed us to allocate practice support (in the form of facilitators) to the appropriate practices.
+
+# USING ACGME MILESTONES TO IMPROVE DIABETES MANAGEMENT
+
+Emily D. Fondahn; Melvin Blanchard. Washington University, St Louis, MO. (Control ID #3164099)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Does linking practice-based milestones to completion of diabetes foot exam improve performance?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+Improve percent of diabetic patients with up-to-date foot exam Implement standard method to assess residents on PBL1 and PBL2 milestones.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+Residents received an email twice per year with their individualized diabetes quality metrics, along with overall clinic performance on the quality metrics for the preceding 6 months. The residents completed a chart audit to determine the number of diabetic patients having an up-to-date foot exam performed and documented. Patients were excluded from the chart audit if the primary care physician was incorrect, had only been seen once in the clinic or followed for less than a year, did not have diabetes, or had a lower extremity amputation. The residents emailed their results to the Associate Program Director (EF). The results from the diabetes foot exam chart audit were linked to assessment on the following subcompetencies: Monitor practice with a goal for improvement (PBLI 1) and Learns and improves via performance audit (PBLI 2).
+
+# MEASURES OF SUCCESS
+
+The goals were to achieve at least 80% of diabetic patients with an up-to-date foot exam and have 100% of residents complete the chart audit.
+
+# FINDINGS TO DATE
+
+The percent of residents who submitted their diabetes data each year was very high (96-100%). The overall foot exam rate for the clinic increased from 56% to 72%. The percent of patients with diabetic foot exams improved each year of residency, with the largest improvement between first and second year (PGY1- 56%; PGY2-70%; PGY3-72%). There were no meaningful, sustained changes in other diabetes metrics, including HbA1c control, blood pressure control and screening for nephropathy.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Developing a standard method to assess PBLI milestones across a large residency program can be challenging. Having clear expectations and a unified goal for the clinic were critical for implementation of this project and buy-in from the residents and attendings.
+
+# USING TELEHEALTH TO IMPROVE PATIENTS' POST-DISCHARGE ACCESS TO PCPS, FOLLOWING DISCHARGE FROM THE HOSPITAL.
+
+Priyanka Agarwal1; Tannaz Safari-Vejin3; Nathaniel Gleason2; Yumiko Abe-Jones; Michelle Mourad1. 1University of California, San Francisco, San Francisco, CA; 2UC San Francisco, Nathaniel Gleason, CA; 3Lincoln Memorial University, Harrogate, TN. (Control ID #3185300)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+The transition home from the hospital is a high-risk time for patients, and prompt follow up with a patient's PCP is important. Due to primary care and patient access constraints, only 38% of patients with a PCP discharged home from hospital medicine see their PCP within 2 weeks of discharge, at our institution.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+The goal of the Post-Discharge Video Visit Program was to increase patient access to PCPs in the post discharge period, and to have 100% of patients discharged home from the hospital medicine service seen by their PCP within 2 weeks of discharge. To do so, we piloted a program in which patients discharged home from hospital medicine were offered a Video Visit (VV) with their PCP.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+The program was implemented as follows: The telehealth discharge coordinator (TDC) ran a custom Epic Workbench report to identify eligible patients on the hospital medicine service (patients being discharged home, with a UCSF PCP). The TDC approached eligible patients to offer a VV with their PCP; in-person visits were preferentially booked as possible. PCPs of interested patients were emailed asking if they were amenable to conducting a VV. VVs were then conducted using the Zoom platform.
+
+# MEASURES OF SUCCESS
+
+The following metrics were collected: a) Volumes of patients discharged home from the hospital medicine service, b) Volumes of patients offered and/or scheduled for a VV with their PCP, c) Volumes of patients discharged home who were able to see their PCP in person or via telehealth, and d) Volumes of PCPs who participated. Qualitative reasons for declining VVs were also collected.
+
+# FINDINGS TO DATE
+
+The program was conducted from July-December 2017, over a period of 64 days. During this period 1236 patients...

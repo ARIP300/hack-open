@@ -1,0 +1,57 @@
+# JGIM
+
+# ABSTRACTS
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To increase guideline-directed medical care of diabetic patients by providing a financial incentive to PCPs.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Duke Primary Care (DPC) is an entity within the Duke University Health System in North Carolina that consists of over 30 clinics in 8 counties, with over 240 PCPs and 730,000 annual patient encounters. DPC has utilized a bundled Diabetes Care metric as a quality incentive for several years. PCPs received a $2,500 bonus if at least 25% of their diabetic patients met all 5 quality metrics: 1) statin prescription in patients ages 40-75 without statin allergies, 2) HgbA1c < 8%, 3) BP < 140/90 (age 18-59) or <150/90 (age 60-75), 4) non-smoker, and 5) aspirin prescription for patients with 10 year ASCVD risk >10%. The analysis included only PCPs and patients who were present throughout the incentive period of July 2016 - July 2017, PCPs with at least 20 diabetic patients and patients aged 40-75.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+A 10% absolute increase in statin prescriptions without an increase in statin allergies recorded in the medical record.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+There were 134 PCPs and 15,652 patients in the analysis. PCPs varied substantially in prescribing statins and recording statin allergies. Statins were prescribed at baseline by PCPs at a median of 69% (range: 41 - 91%, IQR: 62-75%). Statin allergies at baseline by PCP were median of 6.3% (range: 0-19%, IQR 3.4-8.9%). After the incentive period, there was a 7% relative increase in prescribed statins (550 patients) and a 40% relative increase in statin allergies recorded (455 patients). The median change in statin prescriptions by PCPs was 4% (IQR 0.9 - 7.7%). The median change in statin allergies was 2.2% (IQR 0.78%-3.4%); however, there were four positive outliers (range: 8.8 - 17%). A total of 107 (80%) PCPs had an increase in statin prescription or statin allergies, and 91 (68%) had an increase in both statin prescriptions and statin allergies.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Pay for performance financial incentives impact provider behavior, but it can be challenging to design incentives that improve patient health, fairly compensate providers, and avoid adverse behaviors. In this analysis, there was variation in response to the financial incentive. By allowing PCPs to exclude patients with allergies from their statin prescription metric, providers had two ways to meet the metric - either prescribe a statin or mark a patient as having a statin allergy in the medical record. Providers responded to this incentive by prescribing more statins as well as documenting more statin allergies. While the former was the expected response, the latter may be an undesired outcome with potential negative consequences for patients.
+
+# INNOVATION IN MEDICAL EDUCATION (IME)
+
+# "ARE YOUR LEARNERS READY TO HOLD THE ADMISSION PAGER?": BUILDING A RESIDENT CURRICULUM FOR TRIAGE AND DISPOSITION DECISION-MAKING - PART 2 AN ASYNCHRONOUS ONLINE COURSE ON HOSPITAL TRIAGE AND SYSTEMS-BASED PRACTICE
+
+David Schmit1, 2; Emily S. Wang1, 2; Sadie Trammell Velasquez1, 2; Sherwin Hsu3; Christopher J. Smith4; Tabatha Matthias4; Raj Sehgal1, 2. 1University of Texas Health at San Antonio, San Antonio, TX; 2South Texas Veterans Health Care System, San Antonio, TX; 3Olive View - UCLA Medical Center, Sylmar, CA; 4University of Nebraska Medical Center, Omaha, NE. (Control ID #3184562)
+
+# NEEDS AND OBJECTIVES:
+
+In the context of Internal Medicine (IM), triage refers to activities related to determining the most appropriate disposition and management plans for patients. When triaging, residents must use effective inter-professional communication, coordinate care in complex healthcare systems, and make appropriate evidence-based decisions. Because of duty hour restrictions, many triaging duties have transitioned from resident learners to faculty thus creating a gap in triage skills and knowledge. In the first part of this project, we developed an e-module on inter-professional communication, which is currently available on the Society of Hospital Medicine's (SHM) online learning portal. The focus of the second part in this series, through a 2017 UT Kenneth Shine Academy Health Science Education small grant, is an asynchronous online course/e-module on systems-based practice (SBP)/healthcare systems. 1. Define triage and the role of an internist as a triagist 2. Demonstrate understanding of how each of the following competencies apply to the triagist role: Inter-professional communication, SBP/healthcare systems, and evidence-based clinical decision making 3. Development of an asynchronous online course for IM resident learners focusing on SBP/healthcare systems.
+
+# SETTING AND PARTICIPANTS:
+
+Through collaboration between 3 academic medical centers, the curriculum on SBP/healthcare systems includes a narrated e-module with closed captioned videos, faculty teaching guide, and pre-/post-knowledge assessments, all of which are freely available through SHM's online learning portal. This curriculum is intended to be utilized by IM residents and facilitated by faculty.
+
+# DESCRIPTION:
+
+With the lack of a formal curriculum on triaging, our group sought to create an innovative curriculum that IM faculty can easily implement in their home institutions. We identified 3 core competencies of triaging: inter-professional communication, SBP, and evidence-based decision making. This e-module focuses on understanding SBP/healthcare systems with the corresponding teaching guide providing guidance on incorporating the e-module into local curriculums.
+
+# EVALUATION:
+
+1. Utilization of the e-module (geographical distribution and number of times accessed) 2. Assess improvement in residents' SBP knowledge through quizzes embedded in the e-module 3. Pre-/post-surveys from resident learners and faculty.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+With the increasing need to deliver healthcare to the right patients at the right time with the right resources, our IM residents need further education and training on triaging to achieve this goal. We hope our e-module will meet the needs of IM residents and faculty. As the project nears completion, our group appreciates the time commitment and dedication required to develop a formal online curriculum and would like to pass our insights to future educators.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+Part 1 on Inter-professional communication: https://www.shmlearningportal.org/content/teaching-guide-building-resident-curriculum Part 2 on SBP: Will be available for the 2019 SGIM Annual Meeting.
+
+# "CHOOSE AND TEACH YOUR OWN ADVENTURE": A RESIDENT-CREATED CASE-BASED APPROACH TO PRIMARY CARE CLERKSHIP DIDACTICS
+
+Josephine Cool 1; Brian Eiss 2. 1 New York Presbyterian-Weill Cornell, New York, NY; 2 Weill Cornell Medicine, New York, NY. (Control ID #3183060)

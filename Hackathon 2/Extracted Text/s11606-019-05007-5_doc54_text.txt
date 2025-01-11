@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# METHODS:
+
+For both intervention studies women aged 50-75 years who were hospitalized to a general medicine service and were non-adherent to breast cancer screening were approached for enrollment. Socio-demographic, reproductive history, family history for breast cancer, and medical comorbidities data was collected for all patients. Chi square and unpaired t-tests were utilized to compare characteristics among women who did and did not get screening.
+
+# RESULTS:
+
+First intervention was conducted among 30 hospitalized women who were non-adherent to breast cancer screening at Johns Hopkins Bayview Medical Center, the mean age for study population was 57.8 years, mean 5-year Gail risk score was 1.68, and 57% of women were African American. Only one third of the enrolled women (n=10) went to their pre-arranged appointments for screening mammography. Not feeling well enough after the hospitalization and not having insurance were reported as main reasons for missing the appointments. Second intervention was conducted among 101 hospitalized women non-adherent to breast cancer screening at Howard County General Hospital, the mean age for this study population was 59.2 years, mean 5-year Gail risk score was 1.63, and 29% of women were African American. More than two-third of the enrolled women (n=79) underwent in-patient screening mammography. All women who underwent screening mammography during inpatient stay were extremely satisfied. Neither the ordering hospitalists nor the nurses taking care of these women reported any concerns or misgiving. Convenience of having a screening mammography while in-patient stay was reported to be a facilitator of completing the screening test.
+
+# CONCLUSIONS:
+
+Although both interventions were successful in improving awareness and adherence to breast cancer screening, inpatient mammography intervention had much higher impact on breast cancer screening adherence. Because hospitalization creates the scenario wherein patients are in close proximity to healthcare resources, at the same time that they are reflecting upon their health status, strategies could be employed to counsel, educate, and motivate these patients towards health maintenance. Future studies need to evaluate the inpatient feasibility of other common cancer-screening tests to overcome the significant barriers to compliance with screening for hospitalized population.
+
+# CARDIOVASCULAR HEALTH OF FOREIGN-BORN VETERANS IN THE VETERANS HEALTH ADMINISTRATION
+
+Karen Wang 1; Christine Ramsey 3; Carol Oladele 1; Sally G. Haskell 2; Cynthia Brandt 1. 1 Yale University School of Medicine, New Haven, CT; 2 Yale University, VA CT, and VA Central Office, Madison, CT; 3 Corporal Michael J. Crescenz Veterans Affairs Medical Center, Philadelphia, PA. (Control ID #3180109)
+
+# BACKGROUND:
+
+Foreign-born individuals have served in all major military conflicts, including recent conflicts in Iraq and Afghanistan. There are a half-million veterans who are foreign-born, yet we have limited knowledge about their health. Our objective is to describe the socio-demographic and cardiovascular-health risk factors and outcomes among the foreign-born veterans of the recent conflicts.
+
+# METHODS:
+
+We analyzed data from the Women Veterans Cohort Study, a study of current-era veterans who used Veterans Health Administration (VHA) services between September 11, 2001 and November 19, 2014. Our sample included veterans whose place of birth was identified as outside of the United States and its territories. We examined prevalence of socio-demographic and cardiovascular-health risk factors and outcomes by United Nations (UN) geographic regions using chi-squared tests. Risk factors included age, sex, race/ethnicity, marital status, education, obesity, smoking history, and diagnoses of diabetes, hypertension, major depressive disorder (MDD), and post-traumatic stress disorder (PTSD). Outcomes were diagnosis of coronary artery disease (CAD), congestive heart failure (CHF), cardiovascular disease (CVD), and stroke.
+
+# RESULTS:
+
+Our sample included 66,940 veterans who are foreign-born (14% women; 55.7% aged 21-29; 28% white, 17.1% black, and 27.4% Hispanic). Over half were married and 98.6% had at least a high-school education. Thirty percent (N=20,440) had data on country of birth. Among these, 8.2% were born in North America, 33.2% in Central America, 38.6% in Asia, 18.1% in Europe, and 1.3% in Melanesia, Micronesia, and Polynesia. Almost 28% percent of all foreign-born veterans were obese, and 30% were current smokers. Four percent were diagnosed with diabetes; 9.6% with MDD; 13.1% with hypertension; and 26.5% with PTSD. Age, race/ethnic, and gender of Veterans differed significantly by region, as did the prevalence of obesity, smoking history, diabetes, hypertension, and PTSD (p<0.001 for all). Veterans from Melanesia, Micronesia, and Polynesia had the highest prevalence of obesity (54.9%) and current smoking along with Europe (43.3% for both). Prevalence of hypertension (24.4%) and diabetes (9.4%) were highest in veterans born in Asia; and prevalence of PTSD was highest in veterans from Central America (31.8%). Overall prevalence of cardiovascular outcomes among foreign born veterans were: CAD 0.77%, CHF 0.11%, CVD 0.24%, and stroke 0.4%. Prevalence of CAD differed significantly by region (p<0.001).
+
+# CONCLUSIONS:
+
+Foreign-born veterans originate from different regions of the world and are at risk for preventable cardiovascular outcomes. One tenth to one-third of individuals in specific regions had modifiable risk factors, such as obesity, current smoking, and hypertension. This VHA data presents a unique opportunity to further examine health differences between foreign-born and US-born individuals.
+
+# CARE FOR AMERICA'S ELDERLY AND DISABLED RELIES ON IMMIGRANT LABOR
+
+Leah Zallman 1, 2; Karen Finnegan 1; David Himmelstein 3, 2; Stephanie Woolhandler 3, 2. 1 Institute for Community Health, Malden, MA; 2 Cambridge Health Alliance/Harvard Medical School, Cambridge, MA; 3 City University of New York at Hunter College, New York, NY. (Control ID #3184574)
+
+# BACKGROUND:
+
+As our nation wrestles with immigration policy and how to care for an aging population, data on immigrants' role in the provision of long term care can inform both debates. Previous studies have examined immigrants' role as direct care workers, but have not examined those hired by private households (or by non-medical facilities such as senior housing) to assist elderly and disabled persons, or undocumented immigrants' role in the provision of these services.
+
+# METHODS:
+
+We use detailed occupation and industry data from the Current Population Survey (CPS) 2018, which provides nationally representative data reflecting 2017 events. We estimate the number of immigrant health care workers, long-term care workers and non-formal caregivers, and direct care workers. We use a previously developed methodology to impute immigration status.
+
+# RESULTS:
+
+We find that immigrants accounted for 18.2% of all health care workers in 2017, and 23.5% of workers in long-term care and the non-formal caregiving sector. More than one quarter (27.5%) of direct care workers were immigrants and 30.3% of nursing home housekeeping and maintenance workers were immigrants, over one third of whom were undocumented. Although legal noncitizen immigrants accounted for 5.2% of the U.S. population, they comprised 9.0% of direct care workers, including 16.0% of non-formal sector workers.

@@ -1,0 +1,78 @@
+# Open Access
+
+# Table 1
+
+Characteristics of the sample (N=834)
+
+|Demographic characteristics| |
+|---|---|
+|Age (mean, SD)|42.7 (11.9)|
+|Female gender (%)|66.9|
+|Education (%)| |
+|None, primary (age ≤12), secondary (≤15–16 years) or vocational qualification|43.8|
+|Diploma, degree or postgraduate qualification|56.2|
+|Marital status (%)| |
+|Married or cohabiting|52.2|
+|Single or non-cohabiting partner|25.9|
+|Widowed, separated, divorced|21.7|
+|Belongs to ethnic minority (%)|8.2|
+|Human Development Index score*| |
+|Very high HDI countries|47.0|
+|High HDI countries|28.2|
+|Medium HDI countries|14.0|
+|Low HDI countries|10.8|
+|Mental health characteristics| |
+|Ever admitted for psychiatric care (%)|36|
+|Age of first contact with mental health services (mean, SD)|33.6 (11.8)|
+|Internalised stigma total score† (mean, SD)|2.4 (0.55)|
+|Work-related characteristics| |
+|Employment| |
+|Full-time or part-time|51.2|
+|Volunteer, or working in a sheltered accommodation or at home|13.1|
+|Looking for a job|14.4|
+|Unemployed, not looking for a job‡|21.3|
+
+# Table 2
+
+Responses to the DISC-12* questions related to employment (N=834)
+
+| |N (%)|
+|---|---|
+|Anticipated discrimination| |
+|…have you stopped yourself from applying for work?| |
+|not at all|338 (40.5)|
+|a little|63 (7.6)|
+|moderately|65 (7.8)|
+|a lot|109 (13.1)|
+|not applicable|239 (28.7)|
+|…have you stopped yourself from applying for education or training courses?| |
+|not at all|373 (44.7)|
+|a little|72 (8.6)|
+|moderately|39 (4.7)|
+|a lot|67 (8.0)|
+|not applicable|262 (31.4)|
+|Experienced discrimination| |
+|…have you been treated unfairly in finding a job?| |
+|not at all|402 (48.2)|
+|a little|41 (4.9)|
+|moderately|35 (4.2)|
+|a lot|45 (5.4)|
+|not applicable|307 (36.8)|
+|…have you been treated unfairly in keeping a job?| |
+|not at all|423 (50.7)|
+|a little|61 (7.3)|
+|moderately|57 (6.8)|
+|a lot|77 (9.2)|
+|not applicable|213 (25.5)|
+
+*Discrimination and Stigma Scale.
+
+*HDI, United Nations Development Programme.
+
+†Total score on the Internalised Stigma of Mental Illness scale. Scale ranges from 1 to 4, with higher scores indicating higher internalised stigma.
+
+# DISCUSSION
+
+The results of this study show that as many as 62.5% of participants reported having anticipated and/or experienced discrimination in the work setting. Anticipated workplace discrimination was reported more often than experienced workplace discrimination. Participants from countries with a very high HDI reported significantly more often anticipated and experienced workplace discrimination, although even in the medium/low HDI group about one-third of participants reported discrimination in the work setting. Regarding the third research question, it was found that experienced workplace discrimination was indeed independently related to unemployment.
+
+These findings show that discrimination in the workplace is a common problem in many countries worldwide. Considering that inpatients were excluded from the study, for the total group of people with MDD these percentages may even be much higher. These findings are consistent with those of a recent review.

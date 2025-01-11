@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Prior to implementation of the diversity curriculum, the average physician self-assessment scores for "knowledge about cultural issues" and "comfort level in taking care of patients from diverse background" were 1.5 and 2 respectively on a 0-5 rating scale with 5 being the highest score. Over the course of nine months, 190 survey responses were received. Within six months of curriculum implementation, the average scores had increased to 4.5 out of 5 for both "knowledge" and "comfort". The subsequent three months demonstrated sustained high scoring. Based on the results, the diversity curriculum was felt to be highly impactful and successful in improving staff confidence in caring for a diverse patient population. As the curriculum progresses and evolves, we will be measuring if improved provider comfort and knowledge levels will have a downstream impact on care quality and health disparities.
+
+# A FOCUS ON INTERPROFESSIONAL TEAMS: HIGHLIGHTING THE NURSING ROLE IN RESIDENT EDUCATION
+
+Jennifer Ohtola1; Dianna Copley1; Kimberly Kalo1; Jessica Donato2. 1Cleveland Clinic, Cleveland, OH; 2Cleveland Clinic, Beachwood, OH. (Control ID #3185818)
+
+# NEEDS AND OBJECTIVES:
+
+Success in systems based practice includes knowledge of the interprofessional team, the roles of each member and qualities of effective teams. Internal medicine trainees frequently work within interprofessional teams in multiple clinical environments but rarely receive formal education on the scope of practice and tasks of their nursing colleagues. We sought to develop a didactic session focused on knowledge delivery related to nursing scope of practice and attitudinal change related to communication and mutual respect between residents and nursing.
+
+# SETTING AND PARTICIPANTS:
+
+A one-hour didactic session was implemented at our large internal medicine training program with 43 residents in attendance (12 PGY3, 15 PGY2, 16 PGY1). The session was led by a PGY2 medicine resident and a group of five med-surg nursing staff.
+
+# DESCRIPTION:
+
+The session started with a resident-led discussion of interprofessional team structure and features of effective teams, followed by a nursing-led review of nursing education and orientation, workflow and tasks, and effective communication strategies. This included discussion of patient assignments, medication passes, nursing management of physician orders, and paging standards. A nursing assistant (NA) reviewed the scope of practice, tasks and training for NAs. The session concluded with a review of "what we wish residents knew" for both nurses and NAs. This was followed by time allotted for audience questions to the panel of 4 nurses and a NA. Residents were provided with a handout highlighting electronic medical record (EMR) communication pitfalls and orders to optimize effective communication with nurses regarding medications, lines, and drains.
+
+# EVALUATION:
+
+Residents completed pre- and post-session surveys assessing knowledge of nursing and NA scope of practice and attitude related to communication with nursing with a 1-4 point Likert scale (1 = strongly disagree, 4 = strongly agree). Thirty pre-session and 27 post-session surveys were completed. The average level of trainee-reported knowledge of scope of practice for nurses and NAs improved from 2.6 to 3.3 and 2.4 to 3.3, respectively. Knowledge of EMR orders for communication improved from 2.7 to 3.4, and knowledge of differences between EMR layouts of physicians and nurses improved from 2 to 3.1. Self-reported comfort with communication style with nursing improved from 3 to 3.3. The mean rating of the session was 3.6, with 1 being poor and 4 being excellent.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+We describe a novel interprofessional educational session focused on enhancing trainee knowledge of nursing scope of practice and improving trainee-nursing relationships and communication. We showed an improvement in trainee-reported knowledge of nursing practice and attitude regarding communication with nursing. We also showed an increase in trainee knowledge of EMR orders available for communication and differences in EMR functionality between physicians and nurses. The session was well-received and well-rated.
+
+# A HEALTH EQUITY AND DISPARITIES CURRICULUM WHICH DOES NOT REDACT HISTORICAL AND POLITICAL ROOTS
+
+Yalda Shahram. UCSF, San Francisco, CA. (Control ID #3176650)
+
+# NEEDS AND OBJECTIVES:
+
+Treating all patients equally does not eliminate health disparities; providers ignoring their own cultural background and biases when delivering health care to patients does not eliminate health disparities; equal access to health care does not eliminate health disparities; these and other misconceptions exist among health care providers. We present an innovative curriculum to address the key gap in current health equity and disparities curricula: the avoidance of historical and political roots of inequity. Our objectives are to break misconceptions about health disparities and to provide tools for practicing equitable care.
+
+# SETTING AND PARTICIPANTS:
+
+24 participants ranging in specialty from anesthesia to radiology, from 2 years of practice to over 20. Attending physicians have a choice when selecting half-day workshops for faculty development and all participants had selected this seminar.
+
+# DESCRIPTION:
+
+It is inadequate to discuss poverty without oppression, race without racism, income inequality without capitalism, gender inequality without sexism… Avoidance of the roots contributing to inequity in health care presents to the learner a redacted curriculum that will always lead to a perpetuation of inequity, only with the new guise of awareness. This curriculum about health equity and disparities is presented in an interactive style including polling, small group discussions, case reviews and presentations, and debriefing activities. The curriculum content is presented in Table 1.
+
+# EVALUATION:
+
+Post-intervention survey showed participants ranking their understanding of health disparities from average/good to good/great. True/False statements in the survey were used to demonstrate misconceptions, for example, "the Tuskegee experiments were conducted to treat adult African Americans suffering from syphilis" showed 66.7% correct pre-seminar compared to 100% post-seminar. Confidence was also measured after each statement in the survey and for the example given, confidence increased from 4.2 to 4.9 on a 5-point scale.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Addressing health care disparities begins with awareness. In this curriculum, interactive learning by small group discussions is the primary mode of distributing the knowledge about the historical and political roots of inequities. The topics covered can elicit an emotional response from participants and it is imperative that a safe space is established prior to opening discussions of sensitive topics, such as privilege or bias. Limiting the number of participants to 24 and having small group activities helped to establish a safe space. After an awareness is reached, action is practiced by the method of unlearning. Participants are introduced to the method of unlearning and encouraged to continue practicing using this tool.
+
+# ONLINE RESOURCE URL (OPTIONAL):
+
+Table 1: https://docs.google.com/document/d/1HHnIusk2CuRpY5jBO6C2F9zYUizBnGSjyADOVPqENZM/edit?usp=sharing
+
+# A HOTSPOTTING CURRICULUM TO ENHANCE EDUCATION ON COMPLEX AMBULATORY PATIENT CARE
+
+Zehra Hussain; Michaela Seigo; Tabassum Salam; Gretchen Rickards. Christiana Care Health System, Wilmington, DE. (Control ID #3181816)

@@ -1,0 +1,68 @@
+# ABSTRACTS
+
+# Improving Integrated, Comprehensive Addictions Treatment
+
+Denver, CO; 4University of Colorado School of Medicine, Denver, CO; 5Veteran Affairs Salt Lake City Health Care System, Salt Lake City, UT; 6University of Utah, Salt Lake City, UT. (Control ID #3177813)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How do we improve integrated, comprehensive addictions treatment and continuation of care for opioid users inducted on MAT in hospital settings?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Improve integrated, comprehensive treatment of addiction in a hospital setting;
+2. Increase immediate and long-term outpatient MAT follow-up rates;
+3. Improve continuity of care between inpatient and outpatient settings.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Inpatient medical patients inducted on medication-assisted treatment (MAT) by an addictions consult team at an urban hospital in the Mountain West are invited to participate in a substance use group during their IV antibiotics hospitalization. In addition to their MAT maintenance, patients participate in the weekly, 1-hour group covering topics of psychoeducation, mindfulness, and motivational enhancement to provide more comprehensive treatment during their hospitalization.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+At both baseline and before discharge, patients are administered a questionnaire assessing knowledge about dual diagnosis conditions (DD) and MAT, outpatient follow-up plans, and intentions to follow-up with MAT after discharge. Immediate (i.e., day after discharge) and long-term (i.e., 6 months after immediate follow-up) outpatient MAT follow-up rates are obtained from chart review and contacting patients/outpatient providers.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Thus far, N = 11 patients have participated in the group and discharged from the hospital after completing their IV antibiotics treatment. Discharge questionnaires were not obtained from 2 of these patients. While sample size remains low for reliable data analyses, the remaining 9 patients have demonstrated preliminary significant gains in knowledge about addiction/substance use (t = 2.63, p = .030), mental health (t = 5.12, p = .001), co-occurring disorders (t = 2.53, p = .035), and mindfulness (t = 4.0, p = .004). In addition, all 11 patients were able to identify a follow-up plan at discharge and immediate outpatient MAT follow-up has been confirmed for 9 of these patients (81.8%). With ongoing data collection and historical data review, we hypothesize additional significant differences in immediate and long-term (i.e., 6 month) outpatient follow-up rates in comparison to historical patients who did not receive the group intervention.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Long-term hospitalizations for opioid users completing IV antibiotics are often costly and rarely address the underlying etiology of the admission. In addition, many hospitals struggle with keeping these patients in the hospital, as few initiate MAT, let alone provide addiction treatment during hospitalizations. However, integrated healthcare systems are well positioned to provide brief psychosocial treatments for these patients. Provision of a group intervention may be an effective strategy in increasing relevant knowledge and immediate follow-up to outpatient rates among this population, ultimately improving the continuity of care for patients and saving in healthcare costs.
+
+# BRINGING HOME PRIMARY CARE TO EVERYONE: A NURSE PRACTITIONER CONSULT MODEL
+
+Anita B. Leon-Jhong 1; Susan R. Saxon 1; Cynthia L. Wilson 2. 1 UPMC, Pittsburgh, PA; 2 UPMC Community Provider Services, Pittsburgh, PA. (Control ID #3184540)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Many PCPs do not have the time, training or inclination to provide home visits, even as their patients may have difficulty travelling to the office.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Provide high-quality medical assessments to frail and homebound patients in collaboration with their PCPs.
+2. Increase the program's impact by identifying what types of visits are most effective.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The UPMC Home Primary Care program is a consult-style service which is staffed by the UPMC Advanced Practice Provider group. This group includes six nurse practitioners (NP) who cover distinct geographic regions of Pittsburgh. When a UPMC PCP identifies a patient who could benefit from a home visit, a referral order is placed and the patient is scheduled with a nurse practitioner within 1-4 weeks. Common referrals include need for face-to-face (F2F) visit to obtain durable medical equipment (DME) or home health services, management of chronic medical conditions, and evaluation of home safety and support systems. The nurse practitioners have expertise in home-based care, palliative care and community services. The nurse practitioner documents all findings, including physical exam, medication reconciliation and any recommendations, in the electronic medical record. The PCP then decides how to implement changes based on the NP recommendations. Visits are billed through the patient's insurance and patients pay the same co-pay as for a primary care office visit.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The following information is collected via chart review for all visits. Data will be used to better understand the type of patient we are serving in order to target referrals. We also hope to capture the impact of each visit by recording how often measurable tasks are performed.
+
+1. Patient age, sex
+2. Date of last PCP visit
+3. Hospitalization in last 6 months
+4. F2F documented for DME/home health
+5. Medication issue identified (patient not taking medication properly, adverse effect)
+6. Goals of care discussed, hospice referral
+
+Future measures which are not currently being tracked include:
+
+1. Referral to community service
+2. Recommendation of new medication
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In 2018, 237 home visits were conducted on 157 unique patients. The patients were predominantly female (61%) with median age of 79 years. 41% of patients had been hospitalized in the 6 months prior to the visit. 13 patients were deceased within 1 year of the visit. The median time since last PCP encounter was 140 days, with 17% of visits occurring on patients who had not seen their PCP in > 1 year. 29% of visits included F2F documentation for DME/home health. In 24% of visits a significant medication issue was identified. Advanced care planning was documented in 8% of visits and 8 patients were referred to hospice.

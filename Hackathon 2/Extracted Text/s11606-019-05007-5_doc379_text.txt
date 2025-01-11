@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LEARNING OBJECTIVE #1:
+
+Recognize and distinguish calciphylaxis from other forms of ulcerating vasculitides in nonuremic patients.
+
+# CASE:
+
+A 74-year-old female smoker with a history of diabetes and peripheral artery disease (PAD) presents with painful persistent ulcers on her left arm and bilateral legs. She had a similar presentation one year ago and was diagnosed with thromboangiitis obliterans (Buerger's disease) after a biopsy of the leg ulcer showed inflammatory intraluminal thrombus. At that time, the patient was treated with antibiotics and counseled on smoking cessation. She successfully quit smoking, however skin ulcers continued to progress, which is unusual in Buerger's disease. She returned one year later with painful necrotic skin lesions involving the proximal legs, feet, and arms. Extensive rheumatological, hematological, endocrinological, vascular and genetic testing were all negative. A repeat punch biopsy was performed and revealed calcification and thrombosis of arterioles in the dermis and subcutaneous adipose tissue. Given extensive necrosis, she required bilateral transmetacarpal amputations.
+
+# IMPACT/DISCUSSION:
+
+We present a rare case of extensive non-uremic calciphylaxis in a patient with normal renal function. Calciphylaxis is an ischemic skin disorder recognized in patients with end-stage renal disease (ESRD). Our patient's history of heavy smoking, diabetes, and PAD gave suspicion to Buerger's disease, diabetic foot ulcerations, or ischemic ulcerations. It is essential to make the proper diagnosis, as treatment varies. The ulcers in Buerger's disease normally involve the distal legs and feet, whereas those in calciphylaxis involve the proximal extremities. Histologically, Buerger's disease has an intraluminal thrombus with relative sparing of the vessel wall and internal elastic lamina. This contrasts with calciphylaxis, which has thrombotic occlusion with dermal arteriolar calcification and subintimal fibrosis. Although rare, a systematic review revealed 36 reported cases of nonuremic calciphylaxis. The exact incidence of the disease is unknown. The only available treatment for calciphylaxis is sodium thiosulfate, but this is ineffective in patients with normal kidney function because it gets cleared by the kidneys too quickly to have any effect.
+
+# CONCLUSION:
+
+Calciphylaxis is a potentially lethal disorder that carries high morbidity and mortality if not recognized early. Although it is most commonly seen in patients with ESRD, clinical suspicion in non-uremic patients with the appropriate lesion distribution and histological findings is essential to early treatment. Further clinical research is needed to better understand non-renal etiologies and treatment.
+
+# AN UNLIKELY CULPRIT: RENAL CELL CARCINOMA MASKED AS ACUTE ABDOMINAL PAIN
+
+Ara Vartanyan; Rachna Rawal. Saint Louis University, St. Louis, MO. (Control ID #3185730)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of considering renal cell carcinoma (RCC) as a differential diagnosis in younger patients presenting with acute abdominal pain.
+
+# LEARNING OBJECTIVE #2:
+
+Identify risk factors associated with RCC.
+
+# CASE:
+
+A 37-year old male with a history of hypertension presented for acute left sided flank pain while watching television. Additional symptoms included nausea, vomiting, and diaphoresis. He noticed dark-colored urine about 3 weeks ago followed by passing of blood clots in the urine for 2 weeks. He had no dysuria. He reported an intentional 40 lbs weight loss over 5 months through lifestyle changes. On exam, the patient was hypertensive at 201/121, tachycardic at 103 BPM, obese (BMI 33.23), uncomfortable appearing, and exhibited moderate left lower quadrant and left flank tenderness. Labs were notable for an anemia of 9.8 from a baseline of 12.2 two months prior, with MCV 69.5, albumin 2.9, Hemoglobin A1c 11.2%. There was no leukocytosis or increase in creatinine/BUN. Urinalysis was significant for trace blood, 1+ protein, and 3+ glucose. Due to worsening abdominal discomfort, a CT abdomen & pelvis with contrast was performed, which revealed a 3.7 cm mass-like lesion in the upper pole of the left kidney. MRI abdomen revealed a 9 cm, non-homogenously enhancing mass of the left kidney with direct extension into the left renal vein and inferior vena cava, left perinephric hemorrhage, and enlarged left para-aortic lymph nodes. These findings were concerning for RCC. A left open radical nephrectomy with IVC thrombectomy was performed. Pathology of the tissue revealed clear cell RCC, grade 3, without lymph node involvement. Surveillance imaging showed recurrent vena cava tumor thrombus and the patient was started on nivolumab/ipilimumab immunotherapy, which has resulted in decrease of thrombus size.
+
+# IMPACT/DISCUSSION:
+
+This case demonstrates the importance of considering RCC in younger patients and serves as a reminder to be cognizant of premature closure as physicians. This patient presented with acute flank pain, which is usually associated with acute processes rather than an insidious one such as RCC. His weight loss was a strong indicator of malignancy, but was confounded by his poorly controlled diabetes and reported history of intentional weight loss. Other risk factors for RCC included obesity and hypertension. Additionally, his work in a body shop may have exposed him to trichloroethylene, a chemical in grease removers that has been associated with RCC. Approximately 5% of patients with asymptomatic microscopic hematuria are found to have a urinary tract malignancy. By investigating further we treated this patient's cancer that could have ultimately caused more harm.
+
+# CONCLUSION:
+
+There are approximately 65,000 new cases of and 15,000 deaths from RCC, the most common form of kidney cancer, in the United States each year. Though RCC occurs predominantly in the sixth to eighth decades of life, signs such as weight loss, flank pain, and hematuria should raise red flags concerning for RCC.
+
+# AN UNSUAL CASE OF SYNCOPE: INEXPLICABLE COR PULMONALE IN A 30-YEAR-OLD-MALE
+
+Ira Khanna1; Eric Bondarsky2; Sharmila Ghosh1; Christopher Taurani1; Daniel Steinberg1. 1Mount Sinai Beth Israel, New York, NY; 2NYU, New York, NY. (Control ID #3176468)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize clinical and diagnostic features of Pulmonary Tumor Thrombotic Microangiopathy.
+
+# CASE:
+
+A 30-year-old male presented with 3 weeks of cough with hemoptysis, recent episode of syncope and decreased exercise tolerance for 6 months. Vitals in the ED: BP 134/84, HR 108, RR 18, Temp 98.1, SpO2 95%. Physical exam was normal. EKG showed TWI in v1-v4, bedside echo showed a dilated RV, labs showed troponin 0.704, BNP 363.7, D-dimer >20, LDH 328, ESR 108, CRP 83.9. CXR was unremarkable and pulmonary CTA-Dopplers were negative for PE/DVT but showed alveolitis and centrilobular nodules. Infectious and autoimmune workup was negative. TTE showed PASP 83 and RV dilation; V/Q scan showed low probability for PE. He had 3 more episodes of syncope with worsening dyspnea and a rising troponin. He was then transferred to the ICU, started on heparin drip for possible PE versus an NSTEMI and started on HFNC for hypoxic respiratory failure. RHC was suggestive of isolated RV failure. He was subsequently started on Dobutamine, Epoprostenol and inhaled NO. However, he went into PEA arrest and passed away despite resuscitative efforts. His autopsy found acute circulatory and respiratory failure secondary to Pulmonary tumor thrombotic microangiopathy (PTTM), RV hypertrophy and failure, and poorly differentiated gastric adenocarcinoma with metastases to mediastinal, perigastric and para-aortic lymph nodes.
+
+# IMPACT/DISCUSSION:
+
+Pulmonary tumor thrombotic microangiopathy is a rare but devastating complication in advanced metastatic cancers wherein tumor cells embolize into pulmonary arteries and induce activation of the coagulation cascade with intimal proliferation within small pulmonary arteries. Herbay et al first described a 3.3% prevalence of PTTM in 630 cancer autopsies with gastric adenocarcinoma being most commonly associated. It usually presents as acute or subacute dyspnea with hypoxia.

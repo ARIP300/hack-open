@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# CASE 1: PANCREATIC ASCITES
+
+Distension. She was seen in the emergency room a week ago for similar complaints, was diagnosed with cirrhosis and ascites, underwent paracentesis which was notable for a serum-ascites albumin gradient (SAAG) of 1.6 consistent with portal hypertension. During this presentation, physical exam was remarkable for ascites and diffuse tenderness to palpation. Laboratory studies were normal except for a low serum albumin of 2.1 g/dL, CT abdomen showed hepatic steatosis and cysts in the tail of the pancreas. Ascitic fluid analysis revealed total nucleated count of 414/ microliter, total protein of 3.1 g/dL and a SAAG of 0.8 after which fluid amylase levels were checked and found to be elevated at 3671 U/L. Endoscopic ultrasound was done for further evaluation of pancreatic cysts and the aspirate was noted to be benign. The patient was diagnosed with pancreatic ascites, underwent an endoscopic retrograde cholangiopancreatography (ERCP) with biliary sphincterotomy for choledocholithiasis. She came back 2 days later with worsening ascites. Fluid analysis again showed elevated amylase of 2475 U/L. Repeat ERCP revealed pancreatic duct leakage and a transpapillary stent was placed. The patient improved clinically and symptomatically over the next few days. At a follow up visit 2 weeks later, there was no recurrence of ascites.
+
+# IMPACT/DISCUSSION
+
+Most common causes of ascites are cirrhosis, malignancy and heart failure. Pancreatic ascites is rare and is usually from leakage of the pancreatic duct or pseudocysts. It is characterized by SAAG <1.1, ascitic amylase level >1000 U/L and total protein >3 g/dl. Gold-standard for diagnosis is ERCP showing pancreatic duct disruption. The most common cause of pancreatic ascites is chronic pancreatitis, other causes include acute pancreatitis and trauma. Estimated prevalence is 4% in patients with chronic pancreatitis and 6 to 14% in patients with pseudocysts. There are only a few case reports and case series available to guide the management of pancreatic ascites. Conservative therapy includes serial paracentesis, parenteral nutrition and octreotide which decrease pancreatic secretions facilitating fistula closure. Interventions include either endoscopic therapy or surgery as the last resort. ERCP with transpapillary stent placement is a viable option in most cases. Surgical procedures include partial pancreatectomy and pancreaticojejunostomy.
+
+# CONCLUSION
+
+Pancreatic ascites should be considered in the differential diagnosis of recurrent ascites in a patient with history of alcoholism and pancreatitis. Growing evidence supports interventional therapy as an initial treatment strategy especially endoscopic transpapillary stenting of the pancreatic duct.
+
+# AN UNUSUAL ETIOLOGY OF PNEUMOPERITONEUM
+
+Shayan Siddiqui; Assad Mohammedzein; Nooraldin Merza; Ahmed Taha; Juan Garrido. Texas Tech University Health Science Center, Amarillo, TX. (Control ID #3147530)
+
+# LEARNING OBJECTIVE #1
+
+Recognize emphysematous pyelonephritis as a rare cause of pneumoperitoneum.
+
+# CASE
+
+A 63 years old male presented with one week history of diffuse abdominal pain. He denied fever or dysuria. His medical history is significant for diabetes mellitus, Hypertension, coronary artery disease, congestive heart failure, chronic hepatitis B and C with liver cirrhosis. He injects heroin and snorts cocaine. He was alert, had a temperature of 34.7 C, heart rate of 66 bpm, and blood pressure of 147/69 mmhg. Abdomen was soft, diffusely tender, maximum at the right costovertebral angle, no rebound tenderness or rigidity, and bowel sounds were normal. No urethral discharge or penile ulcers. Laboratory tests showed WBC 3.0x103/cumm, Hb 8.1 g/dl, platelet 32x103 /cumm, pyuria, and bacteriuria. Lactic acid was 3.9 mmol/l. Toxicology screen positive for cocaine and opiate. Computed tomography (CT) abdomen showed free intraperitoneal air, foci of gas within the right renal parenchyma adjacent to the proximal right ureter and within the posterior portion of the bladder. The diagnosis of Emphysematous pyelonephritis (EP) was made. Blood cultures grew Extended Spectrum Beta Lactamase Escherichia Coli. He was treated with meropenem. Shortly after, he developed septic shock requiring intravenous fluids and vasopressor support. In view of his critical condition and comorbidities, he was not operated on, instead percutaneous right nephrostomy tube was placed. However, his condition continued to deteriorate and his family opted for hospice care.
+
+# IMPACT/DISCUSSION
+
+EP is a severe necrotizing infection characterized by gas formation within or outside the renal parenchyma. Based on the pattern of gas extension on imaging, four types have been described in the literature. As the gas extended to para-renal space, our patient's type was III B, which has poor prognosis without surgical intervention. It is extremely rare that EP presents with pneumoperitoneum; only 3 cases have been described in the literature. All 3 patients required exploratory laparotomy, 2 required radical nephrectomy, the third underwent surgical drainage with nephron-conservative therapy. Other etiologies of pneumoperitoneum must be excluded, especially bowel perforation which often prompts exploratory laparotomy. Our patient was a high risk surgical candidate and he opted for percutaneous nephrostomy.
+
+# CONCLUSION
+
+Emphysematous pyelonephritis is a life-threatening condition and it could very rarely present with pneumoperitoneum, to our knowledge this is the 4th reported case in the literature. Such a finding should prompt an emergent exploratory laparotomy should the patient's condition permits.
+
+# AN UNUSUAL PRESENTATION OF CEREBRAL MASS IN A PATIENT WITH HIV INFECTION
+
+Shadab Saboori; Leigh A. Medaris; Michael Leonard. Carolinas Medical Center, Charlotte, NC. (Control ID #3185467)
+
+# LEARNING OBJECTIVE #1
+
+1) Recognize unusual features of neurosyphilis in HIV infection
+
+# LEARNING OBJECTIVE #2
+
+2) Diagnose intracranial mass lesions in HIV infection
+
+# CASE
+
+A 23-year-old-male with a past medical history significant for untreated HIV infection presented to an outside hospital with a chief complaint of left-sided headache, left-sided hearing loss and bilateral blurred vision of two weeks duration. CT head without contrast showed a less than two centimeter left temporal parietal mass with mild mass-effect, and patient was transferred to our facility for neurosurgical and infectious diseases evaluation. He denied night sweats, chills, fever or weight loss, and he had no recent head trauma. Past medical history was significant for being diagnosed with HIV while seeking treatment for gonorrhea four years earlier. He never followed up and was naïve to antiretrovirals. He has a history of smoking but denies any drug use. His housing was unstable and he identified himself as bisexual. Neurological examination was significant for decreased left sided facial sensation, impaired left sided hearing, 4 out of 5 motor strength in left upper and lower extremity, and diminished light and pinprick sensation of left upper and lower extremity. The remainder of his exam was unremarkable. The RPR was reactive at 1:64 dilutions and treponema pallidum particle antigen was positive. Toxoplasma antibodies were negative. CD4 count was 121, and HIV 1 RNA viral load of 1,356. MRI brain revealed a solid nodular enhancing lesion in the left temporal lobe. Decision made to proceed with biopsy for further assessment and pathology revealed a fibrotic, lymphoplasmacytic infiltrate with a positive stain for spirochetes. Treatment was initiated with 14 days of IV penicillin G followed by two doses intramuscular benzathine penicillin one week apart. He was started on anti-retroviral therapy consisting of Descovy and Tivicay. At his one month follow-up visit, his symptoms were all improved. A repeat head CT 4 months after presentation showed complete resolution of the lesion.
+
+# IMPACT/DISCUSSION
+
+Intracerebral gummas are a rare presentation of neurosyphilis that are seen mainly in HIV infection. HIV co-infection has been shown to alter the clinical course of syphilis, but despite an increased.

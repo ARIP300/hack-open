@@ -1,0 +1,41 @@
+# ABSTRACTS JGIM
+
+# ASSOCIATION BETWEEN MORTALITY AND FREQUENCY AND LIFETIME SPENT INCARCERATED AMONG US VETERANS WITH HIV
+
+Laura Hawks2, 1; Kathleen A. McGinnis3; Benjamin A. Howell4; Maria R. Khan5; E. Jennifer Edelman4; Amy C. Justice6; Emily A. Wang4. 1Harvard Medical School, Boston, MA; 2Cambridge Health Alliance, Cambridge, MA; 3VA Pittsburgh Healthcare System, West Haven, CT; 4Yale School of Medicine, New Haven, CT; 5New York University School of Medicine, New York, NY; 6Yale University, New Haven, CT. (Control ID #3180733)
+
+# ASSOCIATION BETWEEN HIGH DEDUCTIBLE HEALTH PLANS AND COST-RELATED NON-ADHERENCE TO MEDICATIONS AMONG PEOPLE WITH DIABETES: A NATIONAL STUDY
+
+John Gaudet2; Charlotte Rastas1; Ariel Majidi1; Drew Bunker2; Jaeyoung Yang1; Shirin Karimi1; Vikas Gampa2; Laura Trueman1; Adam Gaffney1; Gaurab Basu1; Danny McCormick1. 1Cambridge Health Alliance, Harvard Medical School, Boston, MA; 2Cambridge Health Alliance, Cambridge, MA. (Control ID #3185828)
+
+# BACKGROUND:
+
+Prices of diabetes medications, particularly insulin, have risen substantially in recent years. High-deductible health plans (HDHP), which require high out of pocket payments before coverage begins, have recently become the predominant type of commercial insurance. However, the impact of HDHPs on cost-related medication non-adherence (CRNA) among adults with diabetes nationally is not known.
+
+# METHODS:
+
+We analyzed data from the 2011 to 2017 National Health Interview Survey, a nationally representative survey of non-institutionalized adults in the United States. The study sample included privately insured adults age 18-64 with diabetes who were enrolled in either a HDHP or a traditional commercial health plan (THP). CRNA was assessed with 4 questions that asked if an individual 1) could not afford medication, or 2) skipped doses 3) took less medicine or 4) delayed filling a prescription, in order to save money. We assessed the association between enrollment in an HDHP (vs. a THP) and each individual measure of CRNA as well as a composite measure (any individual measure) using multivariable linear probability models that controlled for age, sex, family size, race/ethnicity, marital and health status, functional limitation, education, income and employment status. We also assessed whether any CRNA was associated with 1 or more emergency room visits or hospitalization in the past year. Analyses were stratified by whether the individual reported insulin use.
+
+# RESULTS:
+
+Baseline demographic and health status indicators were similar between the 4,325 THP and 2,270 HDHP enrollees. Among those not taking insulin, HDHP enrollees were more likely than THP enrollees to: not fill a prescription (13.0% vs 9.1%, respectively; adjusted percentage point difference (AD), 3.6 [95% CI, 1.0- 6.1]); skip medication doses (10.6% vs 8.1%; AD, 2.5 [95% CI, 0.1 - 4.9]; and to have any type (combined measure) of CRNA (19.2% vs 15.0%; AD, 3.5 [95% CI, 0.5 - 6.6]. Higher percentages of enrollees in HDHPs also took less medication or delayed filling a prescription but these differences did not reach statistical significance. Among those taking insulin, 18% of THP and 25.3% of HDHP enrollees had any type of CRNA (AD, 6.1 [95% CI, 1.0 -11.2]). Higher percentages of enrollees in HDHPs (vs THP) also reported CRNA for each individual measure but these did not reach statistical significance. Among those taking insulin, those reporting any CRNA were more likely to have at least 1 emergency department visit (44.1% vs 24.2%, respectively; AD, 13.8 [95% CI, 6.6 -21.0]) or hospitalization in the last year (28.1% vs 16.3%, AD, 7.1 [95% CI, 0.9 - 13.4]).
+
+# CONCLUSIONS:
+
+Nationally, HDHPs are associated with greater CRNA among people with diabetes, particularly those taking insulin. Lowering or eliminating deductibles, and lowering the price of insulin, could reduce CRNA among people with diabetes, and potentially reduce adverse outcomes of CRNA.
+
+# BACKGROUND:
+
+Exposure to incarceration is associated with greater risk of mortality, especially following release from correctional facilities. Few studies have examined whether frequency of incarceration or amount of time spent incarcerated over one's lifetime is associated with increasing mortality. We used data from the Veterans Aging Cohort Study (VACS) to compare mortality by intensity of incarceration exposure among individuals with HIV.
+
+# METHODS:
+
+HIV+ participants who provided a response to incarceration questions in the VACS survey from January 2011 to August 2017 were included (N=2,718), and mortality data were available through August 2018. We calculated and compared mortality rates per 100 person years (pys) by three incarceration measures: 1) ever/never; 2) number of times over lifetime; and 3) length of time over lifetime. We then used Cox Proportional Hazard models to determine whether the three incarceration measures are associated with increased mortality adjusting for demographics (race, sex, age), and then also adjusting for social and health-related factors (education, smoking, HCV, social support, hazardous drinking, and homelessness, past year drug use, and mental health disorders).
+
+# RESULTS:
+
+Participants' mean age was 56, ranging from 22 to 84; 66% were African-American, 19% white, and 9% Hispanic or other; 97% were male, 38% reported current cigarette smoking, 36% were HCV+, 55% reported exposure to incarceration. There were 465 mortality events over a mean follow-up time of 5.8 years. Unadjusted mortality rates increased with incarceration exposure for all three incarceration measures and were 2.7 per 100 person years (pys) for those never incarcerated vs 3.6 for those ever incarcerated. In models adjusted for demographics, ever incarceration was associated with an AHR of 1.36 [1.13-1.66]. Number of times incarcerated was associated with mortality in models adjusted for demographics with AHRs of: 1.1 [0.9-1.5], 1.45 [1.2-1.8], and 1.64 [1.2-2.2] for 1, 2-5; 6+ times, respectively. Length of time incarcerated was also associated with mortality in models adjusted for demographics with AHRs of: 1.1 [0.9-1.5], 1.4 [1.1-1.9]. 1.6 [1.2-2.2], and 1.6 [1.1-2.2] for <1 month, 1 to 11 months, 1-5 years, and >5 years, respectively. After further adjustment for social and health-related factors, the associations were no longer statistically significant.
+
+# CONCLUSIONS:
+
+Among individuals living with HIV, increasing exposure to incarceration (both frequency and total length of time spent incarcerated) was associated with increased mortality in unadjusted analyses and models adjusting for demographics. However, this association was not seen after additional adjustment for social and health-related factors, suggesting some covariates may be mediators or confounders.

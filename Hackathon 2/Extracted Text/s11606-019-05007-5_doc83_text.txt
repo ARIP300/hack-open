@@ -1,0 +1,47 @@
+# ABSTRACTS JGIM
+
+28% were psychiatrists; 16% reported a subspecialty in sexual medicine. Most primarily practiced in an office-based setting (92%) and spent most of their time engaged in patient care. Physicians reported a high level of comfort diagnosing and treating HSDD and initiated conversations about overall sexual health approximately half of the time. Medical charts for premenopausal (57%) and postmenopausal patients (43%) were analyzed; their mean age was 45 years. The time to diagnosis from the first physician visit for HSDD symptoms was approximately 4 months. The Decreased Sexual Desire Screener (DSDS) was used in only 14% of the medical charts to diagnose HSDD, and the Female Sexual Function Index and Female Sexual Distress Scale-Revised were used in only 2-4% of the medical charts to assess sexual function. While 72% of physicians agreed that HSDD is a medical condition, 30-40% did not associate hallmark symptoms of HSDD with the condition. Additionally, challenges exist in their ability to distinguish the symptoms of HSDD from other comorbid conditions, including other sexual problems such as decreased libido (83%), anorgasmia (56%), and sexual aversion disorder (50%), which are frequently associated with HSDD. Physicians reported a high level of unmet need regarding efficacious treatments for HSDD and reported only moderate levels of satisfaction with currently utilized treatments for HSDD.
+
+# CONCLUSIONS:
+
+While physicians agree that HSDD is a medical condition, a gap remains in the timely and appropriate diagnosis of HSDD using validated tools such as the DSDS and in differentiating HSDD from other FSDs. Additionally, there are a lack of efficacious treatment options for the treatment of HSDD. More education is needed to help physicians better identify HSDD symptoms and appropriately diagnose the condition.
+
+# DESIGN OF A MULTIFACETED STRATEGY TO INCREASE UPTAKE OF THE USPSTF HYPERTENSION SCREENING RECOMMENDATIONS IN A PRIMARY CARE NETWORK: USING THE BEHAVIORAL CHANGE WHEEL FRAMEWORK TO MAP BARRIERS TO THEORY-INFORM INTERVENTION COMPONENTS.
+
+Nathalie Moise1; Erica Phillips2; Jacob Julian1; Anusorn Thanataveerat1; Carmela Alcantara3; Eileen Carter3; Joseph Schwartz1; Siqin Ye1; Andrea T. Duran1; Daichi Shimbo1; Ian M. Kronish1. 1Columbia University Medical Center, New York, NY; 2Weill Cornell Medical College, New York, NY; 3Columbia University, New York, NY. (Control ID #3185313)
+
+# BACKGROUND:
+
+The U.S. Preventive Services Task Force (USPSTF) now recommends out-of-office blood pressure (BP) testing to exclude white-coat hypertension prior to hypertension diagnosis. Despite improved availability and coverage of home and 24-hour ambulatory BP monitoring (HBPM, ABPM), both are infrequently used to confirm diagnoses. Few if any studies of interventions to increase the use of out-of-office BP testing exist. We describe a theory-informed process for developing an implementation strategy to improve the uptake of out-of-office testing for hypertension diagnosis.
+
+# METHODS:
+
+We used the Behavior Change Wheel framework, a multi-step process for mapping barriers to theory-informed behavior change techniques. First, a multi-disciplinary team (medicine, psychology, nursing) conducted geographically diverse provider focus groups (n=63) to explore barriers to provider referral for out-of-office testing. Second, the team used content analysis to categorize barriers according to capability, opportunity, and/or motivation constructs (COM-B model). Third, the team independently mapped COM-B barriers to corresponding intervention functions (i.e., a list of 9 broad categories of ways an intervention can change behavior, e.g., education), and behavioral change techniques (i.e., a standardized language for describing the active ingredients in behavior change interventions). Lastly, the team conducted key informant interviews (n=12) with practice administrators, medical directors, providers, medical assistants, financial advisors, and nursing staff to refine and finalize intervention components.
+
+# RESULTS:
+
+Top ranked provider barriers to completing out-of-office BP testing included: lack of knowledge about the guideline (capability); limited time to instruct patients about HBPM, costs of HBP devices, and challenges with accessing ABPM testing (opportunity); and concerns about ability to get patients to successfully and accurately complete tests and whether benefits of testing outweigh costs (motivation). We determined that the most feasible, effective behavioral change techniques would include delivering information about the consequences of out-of-office testing, demonstration/instruction on how to perform out-of-office HBPM and ABPM testing, feedback on completion rates of out-of-office testing, and adding objects to the environments/prompts and cues via a computerized clinical decision support (CDS) tool along with a culturally-tailored, locally accessible ABPM testing service.
+
+# CONCLUSIONS:
+
+In theory, a multicomponent implementation strategy of provider education, reminders, and decision support coupled with an ABPM testing service would be needed to implement out-of-office BP testing for the diagnosis of hypertension. We are currently testing the effect of our locally-adapted intervention on the change in the proportion of eligible patients who complete out-of-office BP testing in a 1:1 cluster randomized trial across 8 socioeconomically diverse clinics.
+
+# DESIGN THINKING TO IMPROVE PATIENT EXPERIENCE
+
+Erin M. Rainosek1; Erika Bowen1; Thomas Pederson1; Musarrat Nahid1; Temple Ratcliffe3; Luci Leykum2. 1UT Health San Antonio, San Antonio, TX; 2STVHCS / UTHSCSA, San Antonio, TX; 3UTHSCSA, San Antonio, TX. (Control ID #3173061)
+
+# BACKGROUND:
+
+Hospitalization can be overwhelming for patients. Diagnostic uncertainty is common, and patients interact with many professionals who present information that may seem confusing. We bring a design thinking perspective to creating more patient-responsive hospital care, allowing their stories to drive the creation of a human-centered experience. Design thinking is about understanding needs and generating multiple ideas to create innovative, far reaching solutions. It focuses on how the system is experienced by the user. By using a rapid-cycle approach of obtaining input followed by ideation, prototyping, and testing, we offer a unique approach to improving experience and outcomes.
+
+# METHODS:
+
+We sought to explore patients' experiences of hospitalization from a design thinking perspective. As part of an ongoing collaborative care implementation, we interviewed patients, asking about their needs, communication, family involvement, and understanding of care plan. Patients were identified by a case manager based on cognitive function, acuity of illness, and English fluency. Interviews were recorded and transcribed. We adopted the design thinking method from IDEO, an international design firm, and coded interviews for unmet expectations, workarounds, tensions, problems, and needs. We aggregated responses with similar content into themes that allow us to identify opportunities for innovation.
+
+# RESULTS:
+
+We utilized interviews of 45 patients conducted over 3 months. Transcripts were coded by two members of the research teams, who had 74% agreement. Disagreements were resolved by consensus. Unmet expectations included patients' perception that information was not explained, or their expectation that physicians have answers to all of their questions, not recognizing that there might be diagnostic or treatment uncertainty. A key problem related to understanding important information versus day to day "noise." Patients used workarounds to better understand the care plan. An example includes self-checking consistency across the team to ensure accuracy in their care. Specific areas identified for improvement included understanding the care plan during admission, medicine reconciliation, involving family and caregivers, health literacy, coordination of services across specialties, and continuity of care transitions.
+
+# CONCLUSIONS:
+
+Design thinking offers a novel approach that focuses on understanding patients' experience as the basis for improving care delivery. Using patients' perspectives enables us to identify opportunities for innovation and ways to approach those opportunities that we would not otherwise discover by learning not just what patients say and do, but how they think and feel. In turn, we can understand their motivation for health in.

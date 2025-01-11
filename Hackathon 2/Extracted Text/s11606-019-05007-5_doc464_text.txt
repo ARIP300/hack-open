@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# Mycobacterium Intracellulare Infection in a Sickle Cell Patient
+
+Intermittent fevers and productive cough. On examination she appeared ill and had tender, massive hepatomegaly. She had normal heart sounds, decreased breath sounds, and bilateral inspiratory crackles. White blood cell count was 15K/uL, hemoglobin was 7.2g/dL, liver function tests were elevated in a cholestatic pattern with alkaline phosphatase 721IU/L and ferritin level was greater than 15,000ng/mL. She received a short course of broad-spectrum antibiotics without abatement of fever. Infectious workup for atypical and typical bacteria, fungi, Mycobacterium tuberculosis (MTB) and viral pathogens was negative. Computed-tomography (CT) displayed bilateral ground-glass opacities. The patient declined bronchoscopy. Hemophagocytic lymphohistiocytosis was entertained but she did not meet criteria. By hospital day 14, she remained febrile but had improvement of her respiratory status so she was discharged with plans for outpatient liver biopsy. The working diagnosis was adult onset Still's disease. Two weeks later she returned with shortness of breath and persistent fevers with exam unchanged apart from pitting edema to her knees. Evaluations for venous thrombus and embolism were negative and echocardiogram was non-diagnostic. Chest CT showed new pleural nodules with cavitation. Bone marrow, liver, and lung biopsies revealed non-caseating granulomas. Rare organisms were seen on acid-fast stain of the lung tissue. Standard testing for MTB plus PCR was again negative. Fever persisted despite antibacterial therapy so she was transitioned to azithromycin, ethambutol, and rifabutin. Blood transfusion was minimized and she received deferasirox for iron chelation. Lung biopsy cultures grew Mycobacterium intracellulare confirming disseminated infection and mandating one year of treatment.
+
+# IMPACT/DISCUSSION
+
+Mycobacterium intracellulare is one species within the M. avium complex (MAC). MAC infections are a known complication of sickle cell disease in African populations with iron excess yet on review of the literature we found only four similar cases in North America.
+
+# CONCLUSION
+
+This case highlights MAC as an important cause of FUO in a North American sickle cell patient with iron overload. The prevalence of nontuberculous mycobacterial infections is increasing in North America and all five cases of MAC infection in patients with sickle cell disease and iron overload have been reported since 2010. Thus MAC infection may be a growing risk for transfusion-dependent sickle cell patients on this continent. Recognizing the possibility of MAC infection in sickle cell patients with iron excess, despite locale, may lead to earlier diagnosis and treatment.
+
+# IRON REPLACEMENT: A CAUTIONARY TALE
+
+Joy Tang; Gareth Hattersley. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185220)
+
+# LEARNING OBJECTIVE #1
+
+Learn the symptoms, diagnosis and treatment for polycythemia vera.
+
+# CASE
+
+A 68-year-old healthy male was found to have progressively decreasing mean corpuscular volume (MCV) on routine labs. Patient was asymptomatic. Vitals were unremarkable. Labs revealed a low MCV of 68.9 fL (from 90.6 fL three years ago), hemoglobin (hgb) of 15.8 g/dL, platelets (plt) of 445 K/μL, white blood cell (WBC) count of 12.8 k/μL. Electrolytes and creatinine were unremarkable. Iron studies were consistent with pure iron deficiency. He was referred to gastroenterology given his progressive microcytosis and iron deficiency, concerning for occult bleed. EGD and colonoscopy were unremarkable, but did reveal a Billroth II anatomy, which was initially thought to be the etiology of his low iron. He was transfused with twelve doses of IV ferric gluconate 125mg. Post-transfusions, he was noted to have elevated hgb of 18.8 g/dL. WBC and plts remained unchanged. Repeat iron level decreased to 37 μg/dL. Patient was then referred to hematology. Serum erythropoietin was low at 1.0 mU/mL. Ultrasound revealed splenomegaly and he was found to be positive for the JAK2 mutation. He was diagnosed with polycythemia vera (PV) and started on aspirin for prevention. Treatment was initiated with phlebotomies and hydrea.
+
+# IMPACT/DISCUSSION
+
+PV is a rare, chronic myeloproliferative disease characterized by clonal proliferation of myeloid cells causing increased red cell mass. Symptoms include pruritus, headache, paresthesia, dizziness, visual disturbance and bleeding. Serum erythropoietin (epo) can be obtained to differentiate between primary and secondary polycythemia, with low epo pointing towards PV. Diagnosis can be made by fulfilling all major criteria or two major and the minor criteria. Major criteria include hemoglobin >16.5 g/dL in men and 16.0 g/dL in women, bone marrow biopsy demonstrating hypercellularity with trilineage growth and presence of JAK2 V617F mutation or other functionally similar mutations. The minor criteria is subnormal serum erythropoietin. Currently there is no cure for PV. Management is based on risk stratification and can include starting aspirin for primary prevention, phlebotomy to maintain hematocrit <45% and use of cytoreductive agents. PV can be difficult to diagnose due to confounding factors. Our patient had a classic presentation of PV that was initially mistreated due to concern for occult bleed based on his age, microcytosis and iron deficiency. Platelets are also frequently elevated in iron deficiency, making his diagnosis less apparent. Physicians should consider PV as a differential for patients who present with iron deficiency and inappropriately normal or elevated hemoglobin. Patients with PV should be carefully monitored as life-threatening complications can develop from vaso-occlusive causes or progression to myelofibrosis or leukemia.
+
+# CONCLUSION
+
+Consider PV as a differential for patients who present with iron deficiency and inappropriately normal or elevated hemoglobin.
+
+# IS IGNORANCE BLISS? THE BIOPSY DILEMMA IN CIRRHOTIC PATIENTS WITH GLOMERULONEPHRITIS
+
+Max Ruge; Jeffrey Bulger; Michelle Sweet. Rush University Medical Center, Chicago, IL. (Control ID #3184888)
+
+# LEARNING OBJECTIVE #1
+
+Discuss the most common glomerular disorders seen in cirrhosis with a particular focus on IgA nephropathy.
+
+# LEARNING OBJECTIVE #2
+
+Describe two common methods of renal biopsy and the preferred method in a patient with decompensated cirrhosis.
+
+# CASE
+
+A 54-year-old male with history of alcoholic cirrhosis (MELD 18 on admission) presented from an outside hospital with decompensated cirrhosis and worsening acute kidney injury (AKI) likely from either hepatorenal syndrome or overdiuresis (FeUrea = 27.2%). His diuretics were initially held at our hospital, and he received a 5% albumin infusion, which lowered his creatinine from 1.6 to his baseline of 0.85. During his AKI workup, he was incidentally found to have nephrotic-range proteinuria with an estimated 24-hour protein excretion of 4.2 g/day and >200 RBCs on urinalysis. Some degree of proteinuria and hematuria had also been noted on all urine studies from prior admits dating back 2 months. Transjugular kidney biopsy was performed due to concern for underlying glomerular disease, and additional liver samples were obtained to reevaluate the stage of cirrhosis. The renal biopsy revealed findings consistent with IgA nephropathy, and he was started on losartan. Shortly after the procedure, he was found to have the complications of a ruptured gallbladder and a slow bleed from the cystic artery that required Gelfoam embolization. He spent about 1 week in the MICU for treatment of his decompensated cirrhosis and complications of the biopsy and was ultimately discharged 20 days later.
+
+# IMPACT/DISCUSSION
+
+Only a very small percentage of renal pathology in cirrhosis patients is the result of glomerular disease such as nephritic (3.4%) or nephrotic syndrome (2.2%), which most frequently includes IgA nephropathy, type I membranoproliferative glomerulonephritis, and mesangial proliferative glomerulonephritis. There is a well-documented association between IgA nephropathy and liver cirrhosis likely because the damaged liver is not able to clear IgA complexes in circulation resulting in deposition in the kidneys. Furthermore, portal hypertension also appears to play a critical role in the development of IgA nephropathy in patients with cirrhosis.

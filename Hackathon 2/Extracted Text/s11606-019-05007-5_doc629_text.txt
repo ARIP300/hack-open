@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# HOW PRIMARY CARE RESIDENTS WORKING WITH PHARMACY TEAMS CAN HELP ADDRESS HEDIS MEASURES WHILE EDUCATING RESIDENT PROVIDERS ON THE IMPORTANCE OF MEDICATION ADHERENCE IN THE AMBULATORY SETTING
+
+Marilyn Chacko; Yi Shan Lee; Morris Jrada; Teresa Attina; Oscar ValderramaTorres; Lisa Anzisi; Mariel Shull; Jennifer Oh; Isaac Dapkins; Neil A. Pasco. NYU Langone Health, New York, NY. (Control ID #3185116)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+As healthcare delivery shifts to the value based paradigm how do you educate primary care providers on medication adherence metrics while performing a meaningful educational experience?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Educate Internal Medicine residents in a Primary Care residency program on NCQA HEDIS measures regarding medication adherence metrics
+2. Work with a clinically integrated network (CIN) pharmacy team on identifying patients who have not refilled their medications, and how to engage patient medication adherence
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Family Health Centers (FHC) at NYU Langone is a network of 8 Federally Qualified Health Centers in Brooklyn New York. Primary care residents, working with the NYU CIN pharmacy team, collaborated on telephonic outreach to engage patients identified by payor contracts as nonadherent on medication refills. After initial training, which included education on how the Proportion of Days Covered (PDC) rate is a quantitative metric used to measure quality of care and scripted exercise on telephonic patient engagement, residents were tasked with identifying challenges on medication refill as well as intervening when appropriate. At the end of the intervention period a resident focus group was conducted to determine the educational value in this quality initiative.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Primary endpoint was increased PDC rates based on payor data for patients who are diagnosed with either having diabetes (non gestational), hypertension or dyslipidemia. A post intervention focus group and semantical content analysis was performed regarding educational value from this exercise.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+In a 6-month period 523 unique patients were engaged with 899 outreaches completed. 1061 barriers were identified. The top 3 patient identified barriers were: patients unaware they had not filled the prescription (31.05%), lack of clearly identified reason for non adherence (20.23%), and patients did not feel committed to taking the prescribed medication (14.97%). When comparing PDC rates from the previous year, this intervention saw a 7% increase in aggregate PDC rates for those who were prescribed medications and having diabetes. Regarding post intervention focus groups with residents, semantic content analysis revealed the highest affinity for positive descriptors in the domains of educational value, need to expand education to resident providers, and continued interest in future quality projects with the pharmacy team.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Key take home lessons in this intervention is that telephonic pharmacy adherence outreach has a positive impact on maintaining PDC rate compliance, particularly in patients with managed Medicare plans. On educational value, further development is needed in resident curriculum regarding medication adherence and reconciliation in the ambulatory setting. Lastly residents working with pharmacy teams find value in addressing medication adherence barriers and may impact best practices in provider prescribing habits when engaging patients.
+
+# HOW TO IMPROVE FOLLOW THROUGH OF CERVICAL CANCER SCREENING RESULTS IN AN INTERNAL MEDICINE RESIDENCY CLINIC
+
+Aparna Sarin. Mount Sinai Hospital, New York, NY. (Control ID #3186289)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite the barriers that remain in residency clinics of rotating residents, and the lag between performing and receiving the report of cervical cancer screening tests, how can we improve the rates of follow up on test results, and referrals to gynecology for follow up testing for abnormal results.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Ensuring that every pap smear done in our women's clinic is tracked manually
+2. Having residents review every abnormal per the American Society for Colposcopy and Cervical Pathology's (ASCCP) guidelines, and to report every result to the patient via EMR, telephone, or letter
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our internal medicine residency program is in an urban, academic center, and has a robust outpatient women's clinic - a weekly clinic that offers a longitudinal, year long curriculum in women's health to all interns. Our program created a detailed log binder, which is the responsibility of the interns, in which every PAP smear done is logged, and then tracked 1-2 weeks later by the interns on rotation. They check off on the log sheet as well as on EMR what the results were, the plan and how they reached the patient, and refer patients to gynecology is needed, including emailing the appropriate clinic for expedited appointments. This has been in effect for 2 years.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We calculated: number of PAP smears performed per calendar year, percentage of normal versus abnormal (abnormal cytology, HPV or insufficient cells requiring repeat PAP smear). We measured how we were able to reach the patient: via letter or EMR messaging (for normal results or those requiring PAP sooner than routine screening but no referral to gyn), telephone call, or certified letter if unable to reach the patient. By manual chart checking, we also will calculate the kind of abnormality, and compare that to standards in literature: percentage of normal vs ASCUS/LGSIL vs HPV non 16/18 vs HPV 16/18 vs >LGSIL.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+206 PAP smears performed in 2018. Out of these, 153 were logged as normal (74%) and 39 as abnormal (19%). Approximately 10% PAPs are reported as abnormal and although our number may be elevated falsely due to including those that needed repeat PAP smears due to insufficient cells, it may also be a factor of a more at-risk population. We reached 77 patients (37%) by letter or electronic message, 107 were called telephonically (52%), 3 were called but didn't answer (1.4%), and 16 were sent.

@@ -1,0 +1,42 @@
+# ABSTRACTS JGIM
+
+# HEPATITIS C SCREENING MAY BE INADEQUATELY PERFORMED IN ADULTS SEEKING PREVENTIVE HEALTH CARE: NON-AFRICAN AMERICANS ARE LESS FREQUENTLY TESTED THAN AFRICAN AMERICANS
+
+Ali Khan; Anna Stachura; Jenny Dave; Bedoor Alabbas; Praphopphat Adhatamsoontra; Abdullah Al-Asaad; Arun Muthiah; Daniel Szvarca; Karan Chawla; Nadeem Tabbara; Tina Boortalary; Andres Garza; Marie Borum. George Washington University, Washington, DC. (Control ID #3162861)
+
+# BACKGROUND:
+
+Despite US Preventive Services Task Force recommendations to perform Hepatitis C Virus (HCV) screening in adults born between 1945-1965, testing is inconsistent. All health care encounters provide an opportunity for HCV testing. Notably, adults pursuing colon cancer screening are interested in preventive care. Physicians who refer for or perform colon cancer screening have an opportunity to test for HCV. This study evaluated the rate at which adults undergoing screening colonoscopy had HCV testing and the physicians who ordered the HCV test.
+
+# METHODS:
+
+A retrospective chart review of all individuals born between 1945-1965 referred for colonoscopies during a one-year period at an academic medical center was performed. Patient age, gender, HCV screening status, and ordering physician were obtained. Individuals were excluded if they were not in the appropriate birth cohort. A confidential database was created using Microsoft Excel with statistical analysis set at <0.05. The IRB approved the study.
+
+# RESULTS:
+
+In 2205 patients, 920 (42%) were male and 1285 (58%) were female (mean age 61.7 years) with 1181 (54%) African Americans and 930 (42%) non-African Americans. 964 (43.7%) had HCV screening. There was no significant difference in HCV screening based upon gender (402 (43.7%) males, 562 (43.7%) females; p=1.000). Non-African Americans were screened significantly less than African Americans (385 (41.4%) and 555 (47.0%) respectively; p=0.0111). Primary care physicians (51.1%) performed significantly more HCV screening than hospitalists (15.7%; p=0.0001), gastroenterologists (10.0%; p=0.0001) and other specialty physicians (18.7%; p=0.0001).
+
+# CONCLUSIONS:
+
+In this study, HCV screening in individuals born between 1945-1965 was inadequately performed, with less than half seeking preventive health care being tested. There was also a disparity in HCV screening between non-African Americans and African Americans. While this study is limited based upon single institution design, it provides a basis for the development of interventions to improve HCV testing. It is important that all individuals at risk for HCV be tested with elimination of any potential bias in screening. Primary care physicians and gastroenterologists have the potential to improve HCV testing when referring for or conducting colon cancer screening. Innovative approaches are needed to optimize preventive care delivery.
+
+|Surgery|Heme/Onc|Other| | | |
+|---|---|---|---|---|---|
+| |Nephrology|2%|1%|3%| |
+|OB/GYN| |4%| | | |
+|Rheumatology| |6%| | | |
+|Urgent Care| |1%| | | |
+| | |PCP|51%| | |
+|Hospitalist| |16%| | | |
+
+# HIGH VALUE CARE AND QUALITY IMPROVEMENT: A DEPRESCRIBING INITIATIVE IN RESIDENT PRIMARY CARE CLINICS
+
+Joel C. Boggan; Suchita S. Sata; Alicia Clark. Duke University Health System, Durham, NC; Durham VA Medical Center, Durham, NC; Duke University Hospital, Raleigh, NC; Beth Israel Deaconess Medical Center, Wellesley, MA. (Control ID #3185986)
+
+# BACKGROUND:
+
+Patients taking multiple medications are often at risk of complications related to medication interactions. In addition, patients frequently desire to reduce the burdens of medication administration and costs related to complicated pharmaceutical regimens. In this quality improvement (QI) study, we sought to identify patients at high risk for polypharmacy in resident clinics and determine if education with audit-and-feedback initiatives could increase rates of conversations about medication discontinuation and actual cessation.
+
+# METHODS:
+
+The three resident clinics at a large internal medicine program were included in this study. An online interactive experience to guide the project was developed utilizing Microsoft Sharepoint™. Junior and senior residents participated in this mandatory residency-wide project as part of regularly scheduled ambulatory blocks during each half of the academic year 2017-18. After Phase 1, residents reviewed up to 20 of their primary care encounters for rates of conversations related to medication.

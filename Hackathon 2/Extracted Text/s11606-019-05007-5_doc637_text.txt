@@ -1,0 +1,56 @@
+# ABSTRACTS JGIM
+
+# IMPLEMENTING HUNGER VITAL SIGNS: FOOD INSECURITY SCREENING IN AN URBAN UNDERSERVED RESIDENCY CLINIC
+
+Rene McLeod2, 1; Lauren V. Wood2, 1; Iris S. Cheng1, 2. 1University of North Carolina School of Medicine Charlotte Campus/Atrium Health, Charlotte, NC; 2Carolinas Medical Center, Charlotte, NC. (Control ID #3163071)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Food insecurity (FI) is associated with a higher incidence of chronic disease including poorly-controlled diabetes and mental health conditions in adults yet it is often overlooked during the office visit; screening for FI in our neediest patients may help us understand root causes of poor health outcomes.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. To educate residents about the relationship between food insecurity and chronic disease
+2. To screen at least 10% of our clinic patients for FI using three methods
+3. To refer willing patients who screen positive to a social worker and community food resource
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+We initiated screening for FI as a QI project in our underserved urban resident clinic. We utilized two validated USDA questions, the "Hunger Vital Signs" (HVS) to screen patients through 3 PDSA cycles. We first sent an email to our residents to educate them about FI, the screening tools, and screening protocol. Our second PDSA cycle included a medical student who screened patients during an interview. Finally, the patients answered the HVS on a paper screener prior to a medical visit. For all PDSA cycles, residents were alerted when a patient screened positive and addressed FI during the clinic visit and added the ICD-10 code for FI to the chart. Patients who screened positive were offered referral to local food resources and a social worker.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Only 6% of resident clinic patients were screened when we informed the residents of our screening directions through e-mail. Our verbal screening effort yielded an 88% screening rate. Screening by self-report on paper yielded a screening rate of 61%. Overall, 61% of all screened patients over the 3 PDSA cycles screened positive for FI yet only 54% of these patients were interested in social work assistance, help with SNAP applications or referral to a food pantry.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+We found that food insecurity is a common social factor affecting health in our clinic and many patients were interested in addressing this need but not all. We found that e-mails encouraging providers to screen were not effective and having dedicated staff for in-person screening yielded the highest screening rate but may be hard to sustain. A paper screening tool may be more efficient but literacy and language barriers may pose challenges. We also noted that patients may be more forthcoming with a verbal screening tool compared to a formal paper questionnaire. Expanded efforts to screen all of our clinic patients in this underserved resident clinic are planned through validated screening tools embedded in our EHR. We will continue evaluation of this process and its effects on clinic flow, community referral and short and long term health outcomes.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Verbally screening for FI is an effective way to detect FI. However, not all FI individuals are receptive to help. Clinical flow is minimally impacted and FI can be listed in the problem list as a reminder to readdress this need at future visits. Addressing FI may help improve the management of chronic diseases such as poorly controlled diabetes.
+
+# IMPLEMENTING THRIVE, AN EHR-BASED SCREENING AND REFERRAL SYSTEM TO ADDRESS SOCIAL DETERMINANTS OF HEALTH (SDOH) IN AN URBAN SAFETY NET HOSPITAL.
+
+Pablo Buitron de la Vega1; Stephanie Losi2; Linda Sprague Martinez3; Allison Bovell-Ammon2; Arvin Garg2; Thea James4; Alana Ewen2; Marna Stack5; Heloisa DeCarvalho6; Megan Sandel2; Rebecca G. Mishuris5; Stella Deych2; Patrick Pelletier2; Nancy R. Kressin7. 1Boston Medical Center / Boston University, Dorchester, MA; 2Boston Medical Center, Boston, MA; 3Boston University School of Social Work, Boston, AL; 4Boston Medical Center, Cambridge, MA; 5Boston University School of Medicine, Boston, MA; 6Boston University School of Medicine, Chelsea, MA; 7Dept of Veterans Affairs and Boston University, West Roxbury, MA. (Control ID #3184950)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Despite the documented impact of social factors on health, few systematic clinical strategies in primary care for addressing SDOH have been employed.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. We set out to develop and evaluate a systematic clinical strategy for understanding the burden of SDOH by screening patients during primary care visits.
+2. As part of this work, we leveraged the EHR by automating patient need related to SDOH using ICD-10 codes which were matched to referral resources and provided to patients in their primary language.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Boston Medical Center (BMC) is an urban, Safety Net academic center. In transition to an accountable care model for all Medicaid patients, BMC developed THRIVE, a population-based program, adapted from the WECARE model, which aims to improve patient care by identifying and addressing social needs. We secured leadership and IT support to develop a hospital wide EHR process to: (1) screen for SDOH (housing, food, employment, utilities, affording medications, transportation, education and childcare/older adult care support), (2) capture responses in the form of ICD-10 codes and (3) automate referral guide print outs with information to help address social needs. Following a pilot conducted among new patients in general internal medicine (GIM) clinics, we scaled up our intervention to include all patients presenting to 13 ambulatory clinics in GIM, Family Medicine, OBGYN, Infectious Disease and Pediatrics. Moreover, THRIVE is available as part of Oregon Community Health Information Network's (OCHIN) available tools to address SDOH.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+We measured proportion of patients screened, proportion of signed ICD-10 code orders and proportion of signed orders for SDOH resource guides. Additionally, proportion of correct entries for a subset of paper screening results transcribed into the EHR and time expended by Medical Assistants (MA) to upload the screener in the EHR.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+We found that a hospital wide program to address SDOH was both feasible and acceptable among patients and providers. Between 10/2017 and 12/2018, clinics screened 50,532 unique patients, and 20% reported at least one SDOH need. Meanwhile, 12% of patients requested support with at least one resource. Homelessness/housing insecurity (10%) and food insecurity (14%) were the most prevalent SDOH. We achieved 82% screening compliance rate across all clinics. 91% of patients with positive SDOH screenings had ICD-10 code added to visit diagnosis. Of patients requesting resources, 90% received a resource guide. Among 85 paper screening responses, 75% were reliably transcribed by MAs into the EHR.

@@ -1,0 +1,61 @@
+# ABSTRACTS JGIM
+
+# DRY GANGRENE AND ULCERS IN MULTIPLE DIGITS IN A PATIENT WITH TOBACCO USE
+
+Anu Kurl1; Robin Klein2. 1Emory University School of Medicine, Hampton, GA; 2Emory, Atlanta, GA. (Control ID #3185362)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the clinical presentation of thromboangiitis obliterans.
+
+# LEARNING OBJECTIVE #2:
+
+Discuss diagnosis of thromboangiitis obliterans and how to differentiate from other causes of digital ulcers.
+
+# CASE:
+
+A 61 year-old female presents with three months of pain and discoloration of her left thumb. Three months ago, she injured the tip of her thumb after which it became progressively swollen, painful, discolored and ulcerated. She also noted ulceration of multiple other digits, which she attributed to prior injuries. Past medical history was notable for arthritis, tobacco use and cocaine use. Exam revealed dry gangrene of the left thumb, and digital ulcers on the left index finger, right fourth digit and fifth digit. Laboratory studies revealed a positive ANA and P-ANCA. Drug screen was positive for cocaine. MRI of her hand showed acroosteolysis with soft tissue swelling, necrosis, and diffuse swelling of the first digit with flexion contracture. LUE arteriogram was performed which showed digital corkscrewing consistent with thromboangiitis obliterans. She underwent amputation of her left first digit, was started on amlodipine, and underwent counseling to avoid cocaine and nicotine containing products. At one month follow up she described no new symptoms.
+
+# IMPACT/DISCUSSION:
+
+We present a case which illustrates the classic presentation of thromboangiitis obliterans including digit ulceration, smoking history and characteristic imaging findings. It is important to consider this complication of smoking in patients presenting with such findings. While initial presentation for distal necrosis can be broad and can include different types of vasculitis or infection, using different modes of diagnosis can be helpful. Our patient had a positive ANA which can be present in multiple rheumatologic conditions, but given her smoking history and other diagnostic modalities such as the arteriogram the diagnosis of thromboangiitis obliterans was more likely. Thromboangiitis obliterans (also known as Buerger's disease) is a segmental inflammatory disease that is usually seen in small to medium sized arteries and veins. In this condition there is inflammatory intraluminal thrombus formation with sparing of the vessel wall. It is classically seen in patients who use tobacco products. Patients may present with dry gangrene and digit ulceration as seen in our case. Other presentations may include claudication or Raynaud's phenomena. Diagnosis is difficult and often requires evaluation for and exclusion of other etiologies such as connective tissue disease or embolus. Certain angiogram patterns are diagnostic of thromboangiitis obliterans including a ‘corkscrew' appearance of arteries and ‘tree root' appearance from collateral vessels.
+
+# CONCLUSION:
+
+Thromboangiitis obliterans is an inflammatory vessel disease that affects patients with a history of tobacco abuse. In this case, the tobacco history combined with digit ulceration and classic imaging findings aided the diagnosis of thromboangiitis obliterans.
+
+# DYSKERATOSIS CONGENITA MANIFESTING AS PULMONARY FIBROSIS: AN UNUSUAL PRESENTATION
+
+Sehar Zulfiqar; Joshua Allgaier; Osama Kandalaft. Baystate Medical Center, Springfield, MA. (Control ID #3184535)
+
+# LEARNING OBJECTIVE #1:
+
+Describe the presentation and clinical course of isolated pulmonary fibrosis as a manifestation of Dyskeratosis Congenita.
+
+# CASE:
+
+We present a case of a 45-year-old female from Puerto Rico who presented to the pulmonology clinic for a 3-year history of chronic cough. She had a prior diagnosis of Dyskeratosis Congenita (DC) and her sister had recently passed away from pulmonary complications related to DC. A CT scan revealed subpleural septal thickening and honeycombing with mild traction bronchiectasis. A Video-assisted thoracoscopic surgery (VATS) biopsy revealed patchy interstitial fibrosis with mild to moderate chronic inflammation suggestive of usual interstitial pneumonia. Over the next few months, she had an extensive workup, yielding a positive ANA with speckled pattern, anti-Ro antibodies, and MI-2 on a myositis panel. Her pulmonary disorder was attributed to antisynthetase-related interstitial lung disease and she was started on daily prednisone. While her symptoms improved, her PFTs showed a rapid decline with FVC decreasing from 2.30L (64% predicted) to 1.85L (47% predicted) over seven months. Further workup was conducted with a bone marrow biopsy negative for major abnormalities and telomere length testing significant for short telomere length in lymphocytes and granulocytes indicating a primary telomere disorder. The conclusion was made that she had progressive pulmonary fibrosis due to DC, though without bone marrow involvement. She was evaluated for lung transplant, but unfortunately passed away prior to this occurring.
+
+# IMPACT/DISCUSSION:
+
+DC is a genetic multisystem disorder characterized by short telomeres for age with a highly variable phenotype defined by a triad of nail dysplasia, mucosal leukoplakia and patchy skin hyperpigmentation. A recent review of data from the DC registry demonstrated that idiopathic pulmonary fibrosis develops in about 20% of the patients with DC and is characterized by cough, dyspnea, impaired gas exchange, and reduced lung volume as demonstrated by a reduced DLCO and/or restrictive pattern. The onset and progression of the manifestations of DC vary, with bone marrow failure thought to precede the development of pulmonary fibrosis. Pulmonary complications are the second most common cause of mortality in patients with DC after aplastic anemia but idiopathic pulmonary fibrosis in the absence of bone marrow failure is rare which makes this a unique but lethal presentation.
+
+# CONCLUSION:
+
+It is important to recognize the protean manifestations of Dyskeratosis Congenita and that Pulmonary fibrosis although an uncommon entity, can still occur and is life threatening. Early recognition is important as these individuals will require a comprehensive healthcare program including smoking abstinence/cessation, monitoring of disease progression with regular PFTs and early evaluation for lung transplantation as no other therapy has shown to be of benefit.
+
+# DYSPEPSIA ON DOAC? THINK DILI!
+
+Rachel Solomon; Laurie Edelman; Aparna Sarin. Mount Sinai Medical Center, New York, NY. (Control ID #3184611)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize that direct oral anticoagulants (DOAC) confer risk of liver injury.
+
+# LEARNING OBJECTIVE #2:
+
+Identify patients who may benefit from hepatic monitoring on DOAC therapy.
+
+# CASE:
+
+A 68 year-old female with hyperlipidemia on statin was hospitalized and started on rivaroxaban for bilateral, submassive pulmonary emboli. Two weeks post-discharge she e-mailed her PCP complaining of two days of intermittent abdominal pain, nausea, and vomiting after eating chicken salad. Symptoms were improving and were attributed to gastroenteritis. Several days later, she reported resolution of nausea and vomiting, but persistent burning pain, waxing and waning, with occasional radiation to back. The symptoms felt similar to her prior dyspepsia; seltzer helped. An H2 blocker was started. A week later, she called with recurrent vomiting for one day, abdominal discomfort unchanged on ranitidine, and nausea worsened after taking rivaroxaban each day. In clinic, exam was notable for epigastric tenderness. Labs revealed significant transaminitis: ALT 609, AST 332, Alkaline Phosphatase 575. Liver sonogram and hepatitis serologies were unremarkable. Rivaroxaban was...

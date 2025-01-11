@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# ENGAGING USERS IN THE DESIGN OF AN MHEALTH, TEXT MESSAGE-BASED INTERVENTION TO INCREASE PHYSICAL ACTIVITY AT A SAFETY-NET HEALTHCARE SYSTEM
+
+Patricia Avila-Garcia4; Sarah Nouri2; Anupama Cemballi1, 3; Urmimala Sarkar1, 3; Courtney Lyles1, 3; Adrian Aguilera4. 1UCSF, San Francisco, CA; 2 University of California, San Francisco, San Francisco, CA; 3Zuckerberg San Francisco General Hospital, San Francisco, CA; 4UC Berkeley, Berkeley, CA. (Control ID #3183046)
+
+# BACKGROUND:
+
+Mobile health (mHealth) interventions using text-messages are a promising approach to increasing physical activity in vulnerable populations. This participatory design study outlines the structure to address both content adaptation as well as implementation processes of a physical activity intervention delivered via text-messaging among low-income English and Spanish speakers.
+
+# METHODS:
+
+Qualitative data was collected in three stages, including one focus group and two rounds of 10 in-depth, semi-structured interviews with primary care patients at a safety-net healthcare system. Discussions focused on participant's overall experience with using text messages as part of depression treatment, influences and perceptions of physical activity, and mobile phone use. We open coded for themes within the transcripts and documented each associated change in the intervention protocol.
+
+# RESULTS:
+
+The sample was 69% female, mean age 56.2 years (range 36-72); 62% interviewed in Spanish, 65 % identified as Hispanic/Latino(a), and 46.2% reported less than a high school education. All had depression and 62% had diabetes. Specific barriers that emerged in our intervention design included low literacy and only basic use of mobile phones in everyday life, in combination with a high prevalence of co-morbid health conditions and limited mobility. These were each addressed with a specific content or implementation change in the overall intervention design (Table).
+
+# CONCLUSIONS:
+
+Conducting participatory research with end users of an mHealth intervention to increase physical activity allowed us to tailor and modify components of the text message content and format and ensure that the final intervention will engage participants most effectively.
+
+# ESTIMATING RISK OF RECURRENT GASTROINTESTINAL BLEEDS OVER PATIENTS AND TIME
+
+Matthew A. Pappas. Cleveland Clinic Foundation, Cleveland, OH. (Control ID #3179153)
+
+# BACKGROUND:
+
+Following an anticoagulation-associated gastrointestinal hemorrhage (GIB), whether and when to resume anticoagulation is controversial. Patient-level recurrence risk is difficult to predict with accuracy, but time-based recurrence risk may be more predictable. To better inform clinical impressions and future decision-analytic models, we set out to estimate the decrease in GIB recurrence risk over time among patients with atrial fibrillation.
+
+# METHODS:
+
+Using the Nationwide Readmissions Database (NRD), a large administrative dataset of hospital readmissions, we created a two-stage prediction model, with the first stage predicting patient-level risk of recurrence and the second stage predicting timing, conditional on recurrence. In the first stage, we used standard logistic regression and tested patient characteristics that have been previously associated with recurrent hemorrhage and that are captured in administrative datasets (e.g., cirrhosis, end-stage renal disease, number of chronic conditions). In the second stage, we compared standard survival functions (exponential, Weibull, Gompertz, lognormal, and loglogistic), selecting the survival function that best represented risk of recurrent GIB over time according to Akaike and Bayesian information criteria (AIC and BIC).
+
+# RESULTS:
+
+Our first-stage model demonstrated reasonable calibration across a 3.5-fold gradient of risk but discriminated poorly (c-statistic: 0.55). A Weibull survival function accurately explained the declining risk of recurrent GIB over time. A survival curve and Weibull model are shown in the Figure. Of patients who sustain recurrent GIB, around 50% will have done so by day 55, 80% will have done so by day 129, and 95% will have done so by day 235.
+
+# CONCLUSIONS:
+
+Using a large, nationally-representative administrative sample of patient readmission, we have estimated the risk of GIB recurrence, across patients and over time. Our patient-level discrimination was poor; datasets with physiologic parameters may be better able to predict patient-level risk. But regardless of patient characteristics, risk over time is highly predictable. Decisions to resume anticoagulation after GIB may be better tailored according to time than according to patient-level risk.
+
+# ESTIMATING THE IMPACT OF A MEDICALLY-TAILORED MEAL INTERVENTION FOR FOOD INSECURITY ON HEALTHCARE UTILIZATION: A NEAR/FAR MATCHING ANALYSIS
+
+Seth A. Berkowitz1; Jean Terranova2; Liisa Randall3; Kevin C. Cranston3; David B. Waters2; John Hsu4. 1 UNC School of Medicine, Chapel Hill, NC; 2 Community Servings, Boston, MA; 3 Massachusetts Department of Public Health, Boston, MA; 4 Massachusetts General Hospital, Boston, MA. (Control ID #3152343)
+
+# BACKGROUND:
+
+Poor access to nutritious food is associated with increased healthcare use and costs, but whether interventions to improve food access can reduce this is unknown. We sought to determine whether participation in a medically-tailored meal intervention is associated with fewer subsequent hospitalizations.
+
+# METHODS:
+
+We conducted a retrospective cohort study using near/far matching instrumental variable analysis. This analytic approach combines matching on measured characteristics with instrumental variable analysis to account for unmeasured characteristics. We used linked data from the 2011-2015 Massachusetts All-Payer Claims Database (APCD), and Community Servings, a not-for-profit organization delivering medically-tailored meals (MTM). Individuals were eligible for MTM on the basis of being.

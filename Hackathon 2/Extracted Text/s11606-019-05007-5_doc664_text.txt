@@ -1,0 +1,44 @@
+# ABSTRACTS
+
+# RESOURCE INTENSIVE CARE TRANSITIONS PROGRAM IMPACT ON 90-DAY HOSPITAL READMISSIONS
+
+Shreya P. Trivedi; Emma Trawick; Jillian Diuguid-Gerber; Ian Fagan; Mack Lipkin; Mark D. Schwartz. NYU School of Medicine, New York, NY; New York University, New York, NY; New York University School of Medicine, New York, NY. (Control ID #3179204)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Is enrollment in a Care Transitions Program (CTP) associated with decrease in 90-day hospital admissions compared to standard discharge care for high utilizers in a large safety-net city hospital?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Implement a team to follow high-utilizers for 30 days post-discharge;
+2. Assess patient needs with a home visit or other face-to-face visit and coordinate care based on needs, and
+3. Decrease hospital admissions of high utilizers.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+In a large safety-net hospital, high utilizers were Medicaid-insured or uninsured patients who had four or more admissions in the prior year. Inpatient medical teams made referrals to CTP. In CTP, a multidisciplinary team of a social worker, nurse, community liaison and, at times, a medicine resident followed the patient for 30 days post-discharge. Interventions included medication reconciliation, weekly phone calls, and either a home visit or face-to-face visit at a preferred location for the patient. Eligible high utilizers not referred to CTP received standard discharge follow-up and served as controls in this quasi-experimental study.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Measures of success included the number of patients screened and user acceptability to workflow.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Baseline data was obtained through chart review. ~10% of each resident's patients were manually reviewed for documented SDoH. Out of ~100 charts reviewed, 33 included at least one documented SDoH and none had any systematic screening performed. In the first PDSA cycle, 86 patients were screened using the quicktext. Of those screened, 25 (29%) screened positive for at least 1 SDoH. This led to 13 new referrals to social work. 1 month after initiation, residents were surveyed and revealed that none continued to use the quicktext after implementation. We next worked with clinic staff to have the front desk screen patients, however 2 weeks into this cycle, only 1 patient had been screened with the major barrier being "time constraints." For our next cycle, we attempted to have medical assistants (MA's) screen patients during the rooming process. After 2 weeks, 33 patients were screened. MA's also cited "lack of time" and "disruption of workflow" as the primary barriers to screening all patients.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Among several barriers faced while working on this initiative, the most significant was our office changing EMRs part way through our initiative, and we were unable to track our data in the EMR, instead having to track the number of patients screened manually. Despite this, we gathered useful information to help inform next steps, including factors that influence whether residents and office staff are able to integrate screening into their workflows. We learned that fine-tuning the workflow in our office on a small scale was extremely valuable prior to broader implementation. Next, we will work on integrating the screening questionnaire directly into our new EMR to address barriers. Lastly, despite these barriers, we still screened 120 patients and identified significant unmet needs in our patient population. We learned that this screening strategy is not only valuable for patients, but also creates valuable data on the needs of the population to be used to allocate resources.
+
+# REVISITING PRIMARY CARE: A QUALITY IMPROVEMENT STUDY
+
+Ben Long; Samuel O. Schumann; Jingwen Zhang. Medical University of South Carolina, Charleston, SC. (Control ID #3184910)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Why do established patients of a practice choose to utilize emergency department (ED) services over ambulatory services?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Assess patient reasoning for utilizing emergency services rather than ambulatory services.
+2. Identify future targets for interventions to reduce non-emergent utilization of (ED) services.

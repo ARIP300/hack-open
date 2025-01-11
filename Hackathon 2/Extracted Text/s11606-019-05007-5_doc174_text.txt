@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# RESULTS:
+
+In this cohort of 1586 patients, 62% were 65 years or older, 56% were female, and 77% self-identified as white. The average overall hospital satisfaction score was 8.9 out of 10 and average length of stay was 4.6 days. Patients treated in non-medicine units had higher overall satisfaction than those in medicine units (p=0.02) and higher scores on the question about how often doctors listened to the patient carefully (p=0.002). Additional differences that showed a trend towards significance included how often doctors explained things in a way that was understood (p=0.06), and how often doctors treated the patient with courtesy and respect (p=0.06). In all cases patients treated by GIM providers on non-medicine units responded more favorably than patients treated by GIM providers on medicine units.
+
+# CONCLUSIONS:
+
+This study demonstrates that the type of inpatient unit can influence both overall satisfaction and satisfaction with physician communication. Differences in the room environment, amenities, and nursing staffing and experience may explain why medicine patients were overall more satisfied when cared for on non-medicine units. These results can inform quality improvement work aimed at improving the patient experience.
+
+# LONG-TERM TIME TRENDS OF OPIOID-RELATED HOSPITALIZATIONS AMONG VHA PRIMARY CARE ENROLLEES
+
+Eric Gunnink1; Karin M. Nelson1, 2; Erin L. Jaske1; Paul Hebert1, 3; Chuan-Fen Liu1, 3. 1Department of Veterans Affairs, Seattle, WA; 2University of Washington, Seattle, WA; 3University of Washington School of Public Health, Seattle, WA. (Control ID #3183347)
+
+# BACKGROUND:
+
+Drug overdose and opioid-related deaths continue to rise in the United States. While the volume of opioid-related hospitalizations was stable from pre-2000 to 2014, the primary diagnosis has shifted from opioid dependence or abuse to opioid or heroin poisoning. The Veterans Health Administration (VHA) cares for vulnerable veterans with high rates of substance use disorder. This study examined the long-term time trends in opioid-related hospitalizations among VHA primary care patients and by payer of the hospitalization, VHA vs Medicare.
+
+# METHODS:
+
+We conducted a repeated cross-sectional observational study between 2003-2015 using VHA administrative data and Medicare claims. Opioid-related hospitalizations were defined as hospitalizations with an opioid-related diagnosis as the primary diagnosis and were classified into three subgroups: opioid dependence or abuse, opioid poisoning, and heroin poisoning. The study sample included opioid-related hospitalizations in VHA and Medicare settings among VHA primary care patients from 2003 (3,980,807 patients with 3,736 hospitalizations) to 2015 (5,889,338 patients with 6,251 hospitalizations). Among 65+, there were 2,207,625 patients in 2003 with 134 opioid-related hospitalizations in VHA and 92 in Medicare and 3,013,686 patients in 2015 with 407 hospitalizations in VHA and 406 in Medicare. We examined long-term time trends in overall opioid-related hospitalizations, by subgroup of opioid-related hospitalization, and by race/ethnicity. We assessed the time trends by payer among 65 years or older.
+
+# RESULTS:
+
+The rate of opioid-related hospitalizations rose from 2003 (0.85/1,000 patients) to 2015 (1.06/1,000 patients). We observed increased time trends for opioid poisoning (0.08 to 0.17/1,000 patients) and opioid dependence or abuse (0.76 to 0.87/1,000 patients), but a stable time trend for heroin poisoning (0.01 to 0.02/1,000 patients). Whites contributed the most to the increase in opioid and heroin poisonings with the number of hospitalizations rising from 509 in 2003 to 1,726 in 2015. Among 65+, we observed similar increasing time trends in both VHA and Medicare hospitalizations. The rate of opioid-related hospitalizations rose from 0.06/1,000 patients in 2003 to 0.14/1,000 patients in 2015 in VHA and from 0.04/1,000 patients in 2003 to 0.13/1,000 patients in 2015 in Medicare.
+
+# CONCLUSIONS:
+
+Like the general population, the opioid-related hospitalization rate increased over time among VHA patients, which was also observed in both VA and Medicare among 65+. However, opioid dependence or abuse and opioid poisoning accounted for most of the increase in VHA, rather than opioid and heroin poisoning observed in the general population. The integrated mental health care for substance use disorder is a key element of the VHA healthcare system. Future research should examine the impact of integrated mental health care on the long-term time trends of opioid-related hospitalizations.
+
+# LONGITUDINAL CHANGES IN ENROLLEES' EMPLOYMENT AND STUDENT STATUS AFTER MICHIGAN'S MEDICAID EXPANSION
+
+Renuka Tipirneni; John Z. Ayanian; Minal Patel; Edith C. Kieffer; Matthias Kirch; Corey Bryant; Jeffrey T. Kullgren; Sarah J. Clark; Sunghee Lee; Erica Solway; Tammy Chang; Adrianne N. Haggins; Jamie Luster; Erin Beathard; Susan D. Goold. University of Michigan, Ann Arbor, MI. (Control ID #3179014)
+
+# BACKGROUND:
+
+Medicaid "community engagement" requirements (requiring work, school, job searching or community service) are being implemented by states for the first time, but the impact of coverage itself on enrollees' employment and school attendance is unclear. Michigan's Medicaid expansion, or Healthy Michigan Plan (HMP), expanded coverage to ~680,000 low-income individuals beginning in April 2014. Our objective was to assess longitudinal changes in enrollees' employment and student status after HMP enrollment.
+
+# METHODS:
+
+We conducted a telephone survey of 4,090 HMP enrollees in January-October 2016 (RR=53.7%) and a follow-up survey of respondents in March 2017-January 2018 (N=3,104; RR=83.4%). Sampling was stratified by income and geographic region. Survey items measured employment and student status; demographic characteristics were from Medicaid program files. Eligibility criteria for the 2016 survey were age 19-64, 12 months of HMP coverage and 10 months in a Medicaid health plan; those who agreed to be contacted for follow-up comprised the 2017 population. We used mixed models with time indicators to assess longitudinal changes in the proportion of enrollees who were employed or students, incorporating weights to adjust for sample design and nonresponse. Multivariable logistic regression models were used to identify predictors of being employed or a student.
+
+# RESULTS:
+
+Among all respondents, 54.3% were employed and/or students in 2016, increasing to 60.0% in 2017 (+5.7 percentage points, OR 1.83, p<0.001). In 2017, 76.8% were still enrolled in HMP and 23.2% no longer enrolled. Among those still enrolled in 2017, the proportion of employed/students increased from 53.1% to 58.7% (+5.6 percentage points, OR 1.78, p<0.001); among those not enrolled in 2017, the proportion of employed/students increased from 58.2% to 64.1% (+5.9 percentage points, OR 2.03, p=0.002). In multivariable analysis assessing predictors of employment/student status, respondents were more likely to be employed if non-Hispanic Black (aOR 1.74, p= 0.009) or Hispanic (aOR 2.86, p= 0.012) compared to non-Hispanic Whites, or if they had more education compared to high school (aOR 3.17 for some college, p<0.001; aOR 4.82 for Bachelor's degree or higher, p<0.001). They were less likely to be employed if age 51-64 compared to age 19-34 (aOR 0.08, p<0.001). Improved health status (defined as fair/poor health in 2016 and good/very good/excellent health in 2017) was not associated with employment/student status in 2017 (aOR 0.93, p=0.826).
+
+# CONCLUSIONS:
+
+Employment and school attendance among enrollees in HMP increased from 2016 to 2017. Black, Hispanic and younger adults were more likely to be employed or students in 2017. To our knowledge, this is the first study to assess longitudinal changes in employment and school attendance in Medicaid expansion enrollees. These findings suggest that, irrespective of requirements, Medicaid coverage itself may be associated with the desired outcomes of employment and school attendance.
+
+# LONGITUDINAL INVESTIGATION OF OLDER ADULTS' ABILITY TO SELF-MANAGE COMPLEX MEDICATION REGIMENS
+
+Stacy Bailey1; Lauren Opsasnick1; Laura M. Curtis1; Alex Federman2; Julia Yoshino Benavente1; Rachel O'Conor1; Michael S. Wolf. 1Northwestern University, Chicago, IL; 2Icahn School of Medicine at Mount Sinai, New York, NY. (Control ID #3185667)

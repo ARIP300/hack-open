@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Emphasizing and analyzing the factors that affect patient compliance with follow-up visits is critical in order to provide the best possible care. Once identified, changes can be implemented to increase patient compliance and maximize the impact the healthcare system has on patient care.
+
+# E-COMMUNICATION IMPROVES PRIMARY CARE PATIENT ACCESS TO RHEUMATOLOGY
+
+Zachary Brandon1; John P. Shoup1; Robert Keenan1; Alex H. Cho1; Teresa K. Tarrant1; Donna Phinney; John Anderson2; Elizabeth Malcolm; Kevin1 Shah1. 1Duke University, Durham, NC; 2Duke University Health System, Durham, NC. (Control ID #3186361)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Long wait times, poor referral completion rates, and lack of primary care provider (PCP) and specialist communication combine to prevent appropriate rheumatologic care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To increase rheumatology referral completion rates and decrease wait times through implementation of E-Communication (or E-Consult). PCP and specialist satisfaction of E-Communication implementation and use were also tracked.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Three Duke Primary Care (DPC) practices initially participated in the E-Communication program, with expansion to 2 additional practices after 6 and 8 months respectively. In lieu of traditional referrals, primary care providers place an E-Communication request. Each E-Communication is reviewed within 72hrs by a rheumatologist who provides recommendations for additional workup or treatment. The rheumatologist recommends either continued management by the primary care provider or triaged in-person rheumatologic evaluation.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+E-Communication completion rates and turnaround time were monitored. Conversion rates of E-Communication requests to in-person appointments and wait times for these appointments were tracked. E-Communications were compared with traditional referrals from all DPC clinics during the intervention period. Surveys of both primary care and rheumatology participants following the pilot program assessed participant satisfaction.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over 12 months, 49 primary care providers submitted 230 E-Communications for 212 individual patients. 58.4% (n=124) of patients were recommended for in-person evaluation. Of these, 6% (n=8) were recommended for evaluation within 7 days, 26% (n=32) within 30 days, and 68.5% (n = 85) within 90 days or no priority. 86.5% (n=199) of E-Communications were completed within the target 72hrs (median response 15.5hrs, IQR 4.1hrs-33.5hrs). Compared to DPC patients referred to rheumatology during the same time period, E-Communication patients had shorter wait times (median 31.2d vs. 77d). E-Communication patients were significantly more likely to be scheduled (89.5% vs. 59.3%, X2 = 45.1, p < 0.001) and complete their in person specialty evaluation (78.2% vs. 40.2%, X2 = 68.2, p<0.001). We found high levels of PCP satisfaction with E-Communication. When compared to standard referrals, all PCP respondents rated E-Communications as "5- much better" (79%, n=11) or "4- somewhat better" (21%, n=3) and would recommend E-Communication to a colleague ("strongly agree" 79% n=11; "somewhat agree" 21% n=3). PCP perception of overall care coordination improved significantly post-implementation (Likert scale 1-2 negative, 3-5 neutral/positive, X2 = 19.7, p<0.001). Rheumatologists had positive experiences as well, with an overall satisfaction mean of 4.2 out of 5 on a Likert scale (IQR 4-5). Clinic level data are pending.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Through implementation of E-Communication, we improved access and increased visit completion with a high demand specialty. E-Communications were positively received by both PCPs and specialists and perceived care coordination improved.
+
+# ECONSULT UTILIZATION AND APPOINTMENT OUTCOMES DIFFER AMONG INTERNAL MEDICINE SPECIALTIES
+
+Sharon Rikin; Eric Epstein; Matthew Berger; Anna Broder; Joann Kwah; Raphael Hulkower; Joseph Deluca; Julia H. Arnsten; Yaron Tomer. Montefiore - Albert Einstein College of Medicine, Bronx, NY. (Control ID #3174895)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Primary care patients frequently experience barriers to timely, patient-centered, and collaborative specialty care.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+Improve primary care patient access to specialty expertise by providing a standard tool for primary care physicians (PCPs) and specialists to discuss patient care a) without the need for appointment, b) with triaging of expedited appointment, or c) in preparation for non-expedited appointment. Ensure PCP satisfaction with the intervention.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+An interdisciplinary team based in an urban, academic health system developed the eConsult workflow using the Epic electronic health record. After review of existing eConsult programs, the program was customized: eConsult was an order which PCPs could use as an alternative to routine referrals; one or two eConsultants were designated per specialty and received compensation for each eConsult; questions and responses had a free text format; responses were expected within three days. The program was piloted in three primary care sites and three specialties: endocrinology, gastroenterology, rheumatology. PCPs received on-site training about the program.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+eConsult program utilization was assessed by the weekly proportion of all specialty referrals (routine referrals + eConsult) initiated through eConsult using the statistical process control p chart. To evaluate the impact of the program on triaging care, appointment outcomes were assessed using descriptive statistics. These analyses were performed for all specialties combined and stratified by specialty in order to understand demand in anticipation for scaling and sustainability; chi square was used to evaluate associations between specialty and outcomes. PCP satisfaction survey was distributed after three months and evaluated using descriptive statistics.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over seven months, a weekly average of 10% (n=160) of all specialty referral requests were initiated through eConsults with utilization differing by specialty (21% in endocrinology, 3% in ...

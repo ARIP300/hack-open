@@ -1,0 +1,37 @@
+# International Journal for Educational and Vocational Guidance
+
+|Item 1|49|
+|---|---|
+|Item 2|607|
+|Item 3|2292|
+|Item 4|34|
+|Item 5|336|
+|Item 6|385|
+|Item 7|366|
+|Item 8|559|
+|Item 9|304|
+|Item 10|573|
+|Item 11|587|
+|Item 12|820|
+|Item 13|382|
+|Item 14| |
+|Item 15|252659|
+|Item 16|459|
+|Item 17|327|
+|Item 18|037|
+|Item 19|126|
+|Item 20|227|
+|Item 21|432|
+|Item 22|517|
+|Item 23|543|
+|Item 24|489|
+|Item 25|405|
+|Item 26|435|
+|Item 27|41|
+|Item 28|538|
+
+# Figure 1
+
+Confirmatory factor analysis. N = 216; all factor loadings, latent variables, and correlations significant at α = 0.001
+
+second-order factor (M2), and a unidimensional solution with all items loading onto the same factor (M3). M1 met excellent fit indices, chi-squared = 702.6, df = 344, p < 0.001, RMSEA (90% CI) = 0.070 (0.062, 0.077), CFI = 0.960, TLI = 0.956, SRMR = 0.075. M2 had slightly better indices compared with M1, chi-squared = 693.6, df = 346, p < .001, RMSEA (90% CI) = 0.068 (0.061, 0.076).

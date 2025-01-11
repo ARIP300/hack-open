@@ -1,0 +1,58 @@
+# ABSTRACTS JGIM
+
+# INPATIENT ADDICTION MEDICINE CONSULTATIONS AT THE URBAN/RURAL FRONTIER: IMPROVING QUALITY OF CARE AND LINKAGE TO OUTPATIENT SERVICES FOR PATIENTS WITH SUBSTANCE USE DISORDER IN CENTRAL KENTUCKY
+
+Devin Oller1; Laura Fanucchi2. 1University of Kentucky, Lexington, KY; 2University of Kentucky College of Medicine, Lexington, KY. (Control ID #3181470)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Does an addiction medicine consult service facilitate opioid use disorder (OUD) medication initiation and linkage to outpatient services in an academic medical center serving both urban and rural areas?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+- Provide timely consultations for individuals with substance use disorders (SUD) admitted to hospital medicine teams
+- Secure linkage to outpatient treatment for consult patients
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The Addiction Consultation and Education Service (ACES) began 10/4/18 at the University of Kentucky Hospital, a 945-bed tertiary referral academic medical center with more than 3000 opioid-comorbid encounters in 2018. ACES was available on weekdays to 16 inpatient hospital medicine teams. The team was comprised of several physicians and an APRN. A patient navigator assisted with prior authorizations and outpatient linkage. ACES referred to UK First Bridge Clinic for office-based opioid treatment as well as community programs when possible.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Patient demographics, SUD diagnoses, insurance, and comorbidities will be collected, as well as key process metrics including: time-to-consultation and medication initiation, length of stay (LOS), discharge against medical advice (AMA), and details of linkage to outpatient services (type, travel distance, and time-to-follow-up).
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+ACES was staffed by a single physician seeing an average 1.7 new consults/day. Of the 91 patients seen by ACES over the first 3 months of the service, 73 of consults met DSM-5 criteria for OUD or OUD plus an additional SUD, 10 for stimulant use disorder, and 8 for alcohol use disorder. 58% of patients lived in rural counties (Rural-Urban Continuum Codes 4-9). Average LOS was 19.5 days; consult orders were entered an average of 5.8 days after admission. Medication treatment for SUD was initiated in the majority of ACES patients, with medications started an average of 0.9 days after consultation. Among OUD patients, 71% underwent buprenorphine/naloxone (BUP/NX) induction, 9% were started on methadone, and 20% did not receive medication. Of patients started on BUP/NX, 58% were linked to the UK First Bridge Clinic.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Establishing a bridge clinic prior to the implementation of an inpatient consult service is critical. ACES relied heavily on the UK First Bridge clinic for patients started on BUP/NX—waiting lists and costs made linkage to closer clinics difficult. Compared to other addiction medicine consult services, a greater percentage of patients seen by ACES resided in rural counties.1,2 To address transportation barriers, we are evaluating options for initiating depot buprenorphine for ACES patients. While ACES plans to increase staffing, our pilot demonstrates that services with minimal staff can increase the number of inpatients receiving medications for OUD. 1.Priest et al. Role of the Hospital in the 21st Century opioid overdose epidemic: the addiction medicine consult service JAM Dec 2018 2.Trowbridge et al. Addiction consultation services: Linking hospitalized patients to outpatient addiction treatment J Subst Abuse Treat. 2017;79:1-5
+
+# INTEGRATING BEHAVIORAL HEALTH INTO PRIMARY CARE: MAKING A PATIENT WHOLE
+
+Divya Venkat1; Herman Singh2; Bruce Ling2; Courtney Watson2; Maggie Feinstein2; Elizabeth Cuevas2. 1Allegheny General Hospital, Pittsburgh, PA; 2Allegheny Health Network, Pittsburgh, PA. (Control ID #3183916)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+Patients with significant mental health diagnoses have a shorter life span, often in the setting of poorly managed and underrecognized co-existing medical illnesses.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+To evaluate the utility of the integration of behavioral health into the primary care setting.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+The setting of this study occurs at two clinics affiliated with a residency program. One clinic meets the needs of a low-income neighborhood with a variety of age ranges while the other serves an upper middle class neighborhood with a predominantly middle-aged population. Behavioral health specialists were integrated into these clinics in July 2015 and January 2017 respectively. Medical assistants first speak with the patients and obtain a PHQ-2. Based on this value, residents will perform a PHQ-9 and address the initial issues of behavioral health. Based on this, the behavioral health specialist will speak with the patient and recommend treatment strategies or further assessment by a psychiatrist. Residents will then begin medications in the clinic or speak directly with the psychiatry outpatient clinic.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+In this quality improvement project, behavioral health specialists were integrated into the above mentioned residency clinics. Data was collected on the following: (1) number of visits made to the behavioral health specialist, (2) the frequency of clinic visits in which depression screening with the Patient Health Questionnaire (PHQ) occurred, and (3) the number of referrals made to outpatient psychiatry.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+The primary analysis is the assessment of the number of referrals to outpatient psychiatry prior to the integration of the behavioral health specialist compared to the post-integration period as evaluated in monthly time periods. At the residency clinic located in the low income neighborhood, there was a decrease in the number of referrals in the post-integration period (a low of n=6 in the assessed month) when compared to the pre-integration period (n=32). In the upper middle class neighborhood clinic, there were 33 referrals to psychiatry during the month in which the behavioral health specialist was integrated. At this clinic, there has been a gradual decline in the number of referrals to a low of 13. After institution of BHI, a target of 80% of all patients were screened for PHQ-9. Furthermore, there have been over 140 visits per month consistently to each behavioral health specialist.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Integrating behavioral health specialists within primary clinic gives patients a well-rounded care approach. Patients who cannot obtain adequate mental health care are able to reach out to a behavioral health.

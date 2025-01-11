@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# BACKGROUND:
+
+Influenza is easy to clinically diagnose during an epidemic, and immediate treatment can shorten symptom duration. Direct to consumer (DTC) telemedicine connects patients with physicians 24 hours a day through mobile applications. Telemedicine may be an ideal setting in which to treat influenza, offering access to immediate care without exposing others to infection. Diagnosis outside of influenza epidemics requires rapid testing, which cannot be performed virtually, exposing patients to overtreatment. Patterns of care for influenza in DTC telemedicine are unknown. The objective of this study was to characterize care seeking, diagnosis and treatment for influenza in a large DTC telemedicine platform.
+
+# METHODS:
+
+This study uses data from the AmericanWell DTC telemedicine platform. Encounters were conducted with physicians between July 2016 and August 2018. Upon connecting with the telemedicine system, patients were asked to describe their call reason using a free text field. Whether they stated their call reason was influenza was assessed. Patients also provided age and insurance information, if applicable (visits cost $59 out of pocket). Influenza epidemics over the two-year study period were identified based on the Center for Disease Control's Weekly U.S. Influenza Map (December 24, 2016 to April 15, 2017 and December 2, 2017 to April 14, 2018) and encounters were categorized as taking place during an epidemic or not. Tamiflu prescriptions were identified via National Drug Codes associated with each encounter. We described patterns of care for influenza during epidemics versus not.
+
+# RESULTS:
+
+During the two year study period, 8,055 patients were diagnosed with influenza, of whom 16% were 18 years or younger, and 45% were between 19 and 39 years. Eighty eight percent of influenza diagnoses occurred during epidemics. Among those diagnosed with influenza, 80% received Tamiflu. The proportion of influenza patients receiving Tamiflu did not vary by epidemic status (80% during epidemics vs. 78% at other times). The majority of patients who were not diagnosed with influenza but nonetheless prescribed Tamiflu were diagnosed with viral illness, unspecified. Of the 8,112 patients who stated their call reason was influenza, 66% called during an epidemic. The proportion of these patients subsequently diagnosed with influenza varied by season: 52% were diagnosed with influenza during epidemics, versus 11% at other times.
+
+# CONCLUSIONS:
+
+Physicians treating patients with influenza symptoms were more likely to diagnose and treat patients during an epidemic. Prescription of Tamiflu at other times without rapid testing probably represents inappropriate care. DTC telemedicine represents a promising venue for treating influenza with antiviral medication, but provider education may be required.
+
+# INITIATIVE TO IMPROVE COLORECTAL CANCER SCREENING RATES AT A FEDERALLY QUALIFIED HEALTH CENTER
+
+Kyle T. Kunz; Swaroop Vitta; Kathryn Parker. Washington University in Saint Louis, Saint Louis, MO. (Control ID #3185473)
+
+# BACKGROUND:
+
+Colorectal cancer (CRC) is the third-leading type of cancer and cause of cancer-related death for both men and women in the United States. Improved awareness and screening has led to earlier discovery and CRC-related deaths have been declining in recent decades. Based on guidelines, screening rates are still reported at only 63% nationally. Lower screening rates (40%) and more frequent late stage discoveries occur in disadvantaged patient populations that are more apt to use federally qualified healthcare centers (FQHC). As a quality improvement initiative, we sought to increase CRC screening rates at a single FQHC.
+
+# METHODS:
+
+This study was performed at a single multilocation FQHC. After gathering baseline data from July 2017 through October 2017, 4 PDSA cycles were conducted from October 2017 through June 2018 including (1) Provider education, Gemba walks, EHR (electronic health record) order set changes (2) Patient education with postcards and in-person nursing education (3) EHR reconfiguration and back-charting uncaptured results (4) Pre-shift huddle with medical assistants to identify patients with inadequate screening. All prior interventions were continued in addition to the subsequent interventions for each cycle. Data for screening results was gathered from Azara Healthcare, a community health center data reporting agency which draws from our EHR.
+
+# RESULTS:
+
+The baseline screening rate was 7% which ranked as the lowest for FQHCs in the state. Cycle 1 had the least impact with increased screening rates to 10% from October 2017-January 2018. Cycle 2 from January 2018 through March 2018 increased screening rates from 10% to 15%. Cycle 3 had the most significant impact increasing screening rates from 15% to 26% from March 2018 through June 2018. Rates continued to increase from 26% to 33% during cycle 4 from June 2018 through December of 2018.
+
+# CONCLUSIONS:
+
+In a vulnerable patient population at single FQHC, CRC screening rates were improved and showed sustained rates with the above interventions. Consistent with prior quality improvement studies, EHR interventions provided the most significant increase likely due to noncaptured results while early education provided least improvement. Incorporation of the healthcare team with huddles also had improvement in screening results consistent with prior studies.
+
+# % CRC Screening Completion
+
+MedJi: HacJjub
+
+# INTEGRATING AN ONLINE WEIGHT MANAGEMENT PROGRAM WITH POPULATION HEALTH MANAGEMENT SUPPORT IN PRIMARY CARE: PRELIMINARY RESULTS FROM THE PROPS STUDY (PARTNERSHIPS FOR REDUCING OVERWEIGHT AND OBESITY WITH PATIENT-CENTERED STRATEGIES)
+
+Heather J. Baer1; Barbara A. De La Cruz1; Nyryan V. Nolido1; E. John Orav1; Kristina Secinaro3; Ronen Rozenblum1; Jason P. Block2; Katherine D. McManus3; Florencia Halperin3; David W. Bates1. 1Brigham and Women, Boston, MA; 2Harvard Pilgrim Health Care Institute/Harvard Medical School, Boston, MA; 3Brigham and Women's Hospital, Boston, MA. (Control ID #3185584)
+
+# BACKGROUND:
+
+Primary care providers often do not have sufficient time or training to counsel patients about weight. There is an urgent need for scalable, low-cost weight management strategies that can be easily implemented in primary care.
+
+# METHODS:
+
+We adapted an evidence-based online weight management program and integrated it with population health management support at primary care practices affiliated with Brigham and Women's Hospital (BWH), an academic medical center in Boston, Massachusetts. The online program consisted of educational sessions, structured meal plans, self-monitoring tools, and automated feedback and reminders. The population health management strategy involved monitoring and support from non-clinical primary care staff. We conducted a pragmatic, cluster-randomized trial in 15 primary care practices (24 clinics) to compare the effectiveness of three strategies: 1) usual care, 2) online program alone, and 3) online program plus population health management support (combined intervention). Participants were ages 20 to 70, had body mass index (BMI) 27 and < 40 kg/m2, and had hypertension or type 2 diabetes. They attended regular visits at their primary care practices over 18 months and completed surveys at enrollment and 6, 12, and 18 months after enrollment. The primary outcome is weight change at 12 months after enrollment, calculated from weights measured at primary care visits. Secondary outcomes include changes in cardiovascular risk factors, weight-related quality of life, health status, physical activity, and diet.

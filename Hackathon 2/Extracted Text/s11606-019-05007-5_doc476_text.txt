@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# Nephrology
+
+Nephrology recommended aggressive intravenous hydration. Lithium levels trended down, 2.8→1.8→1.3→0.8mmol/lit, with subsequent improvement of renal function and mental status to baseline. Lithium was taken off from his psychiatry medication list and was discharged home.
+
+# IMPACT/DISCUSSION:
+
+Lithium has many medical and psychiatric uses. Common uses include but are not limited to migraine headaches, alcoholism and bipolar disorder. Toxicity from lithium can occur by overdose especially from alteration in its clearance by the kidney. Known presentation with lithium overdose include ataxia, lethargy and tremors. Risk factors associated with toxicity include age > 60 years, derranged kidney function and drug-drug interaction. Our patient was otherwise healthy elderly male with new onset derranged kidney functions that led him to have encephlopathy. Lithium prescriptions usually comes from psychiatrist, and once started lithium levels should be monitored monthly along with creatinine levels. Unfortunately, our patient had a controlled substance prescribed by a PCP and was not monitored. We as physicians should be cautious in prescribing such medications, and once prescribed regular neurological exams, drug levels and creatinine should be monitored.
+
+# CONCLUSION:
+
+Lithium is associated with serious but reversible side effects. As a physician extra care should be implemented after prescribing it. Patient physical examination and blood tests should be monitored strictly.
+
+# LOOKING BACKWARDS: A 1940S HERBAL REMEDY FOR OPIOID WITHDRAWAL IN 2018
+
+Maximillian Bourdillon 1; Nathan Pham1; Andrea Alonso 2; Nicolette Oleng 1. 1 Boston Medical Center, Boston, MA; 2 Boston University School of Medicine, Boston, MA. (Control ID #3183661)
+
+# LEARNING OBJECTIVE #1:
+
+Highlight the abuse potential of unregulated homeopathic substances
+
+# LEARNING OBJECTIVE #2:
+
+Educate providers on the identification and management of kratom withdrawal
+
+# CASE:
+
+A 37-year-old woman with a history of polysubstance use disorder (alcohol, opiates without intravenous drug use in the last year) presented to the emergency department for right hand cellulitis and alcohol withdrawal. She reported drinking 5-10 beers daily; last drink on the morning of admission. She reported tremors, diaphoresis, and nausea. She received multiple doses of benzodiazepines using the CIWA (Clinical Institute Withdrawal Assessment) tool for alcohol withdrawal with initial improvement of her symptoms. However on the floor, symptoms of diaphoresis and tremulousness persisted while her exam was notable for dilated pupils and frequent yawning. Given this presentation and prior history of opiate dependence and treatment with suboxone, the patient was placed on COWS (Clinical Opiate Withdrawal Scale) for which she scored for moderate withdrawal. A urine drug screen showed trace amounts of buprenorphine. On admission, patient denied opiate use in the six months prior to admission. However, she disclosed a 6-month daily use of an herbal tea with kratom as a home remedy for depression and anxiety. Kratom has pharmacological interaction with the opioid system and opioid withdrawal was precipitated with abrupt cessation during this admission. With the help of addiction medicine consult team, she was treated for opioid withdrawal with suboxone, with symptomatic improvement.
+
+# IMPACT/DISCUSSION:
+
+Kratom (Mitragyna speciosa) is an herb indigenous to Southeast Asia with dose-dependent stimulant and opiate-like properties. It has been used as an over the counter treatment of opioid withdrawal dating to the 1940s. It is traditionally chewed but can be powdered and mixed in liquid. There is scant literature demonstrating its efficacy in treating opiate dependence. While there are increasing reports of lethal overdose and other adverse effects, our understanding of kratom is limited to a few case reports or series. The DEA has even considered scheduling kratom. While kratom's popularity has been rising via internet vendors and smoke shops in the US, it has remained relatively unknown in healthcare thus rendering providers ill equipped to screen and manage the overdose or withdrawal from this substance. The active ingredient in kratom is mitragynine. At low doses of 1-5 grams of raw leaves, mitragynine has stimulant effects and can cause increased alertness, physical energy, and euphoria. At high doses of 5-15 grams it is an agonist on the Mu and Kappa receptors resulting in analgesia and relief from opioid withdrawal, which explains how cessation can precipitate opioid withdrawal, as described in this case.
+
+# CONCLUSION:
+
+-Kratom has abuse potential as an anxiolytic and analgesic agent -The potential of kratom in the treatment of opioid withdrawal or as maintenance therapy requires further inquiry, particularly in the current opiate use crisis
+
+# LOOKING BENEATH THE SURFACE - DIFFERENTIAL DIAGNOSES FOR SKIN FINDINGS IN A PATIENT WITH HIV
+
+Angela O. Suen; Eliana Bonifacino. UPMC, Pittsburgh, PA. (Control ID #3163108)
+
+# LEARNING OBJECTIVE #1:
+
+Understand how framing bias can limit the differential for patients with HIV.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize a common noninfectious dermatologic complication of HIV.
+
+# CASE:
+
+A 55-year-old man with substance use disorder and untreated HIV presents with a chronic diffuse hyperkeratotic crusting rash. Patient reports a recent history of not taking his antiretrovirals due to increased cocaine use and instability of his living situation. His rash started several months ago on his bilateral lower extremities and spread to his hands, feet, trunk, extremities, and face. It is a highly pruritic and painful rash. On examination, there were diffuse hyperkeratotic plaques distributed on the palms, soles, and extremities with areas of hyperpigmented nodules. His CD4 count was measured at 4. Given a clinical picture concerning for Norwegian scabies, patient was started on ivermectin. The patient underwent skin scraping which was negative for scabies mites. He subsequently underwent biopsy which showed psoriasiform dermatitis. HHV-8 was negative. Patient was treated with daily moisturization and wrapping, and experienced improvement in symptoms. Patient was eventually started on darunavir/cobicistat and tenofovir alafenamide/emtricitabine prior to discharge.
+
+# IMPACT/DISCUSSION:
+
+The skin is tightly connected to the immune system and a compromised immune system (especially in T-cell function) leads to clinically apparent skin disease. This patient has psoriasis in the setting of untreated HIV, which is an extreme presentation of a relatively common illness. His CD4 count, and homelessness, may have caused framing bias and limited the differential to infectious etiologies commonly seen in HIV: viral pathogens such as HSV, molluscum contagiosum, HPV, VZV; bacterial pathogens such as bacillary angiomatosis, syphilis; fungal pathogens such as Cryptococcus, mycobacterial infection of the skin, or infection by microorganism (such as bedbugs, parasites, scabies, lice). Psoriasis is a common complication of HIV which is not frequently discussed. One proposed mechanism is that the relative decrease in CD4 T-cells causes a relative increase in CD8 memory T-cells which are associated with onset and exacerbation of psoriasis. Patients with HIV tend to have severe psoriasis seen with low CD4 counts. There are no curative therapies for psoriasis and treatment is largely supportive. It is thought that optimizing HIV/AIDS with anti-retroviral therapy can lead to a significant reduction in symptoms.
+
+# CONCLUSION:
+
+Many illnesses commonly treated by internists have dermatologic manifestations. In the setting of HIV/AIDS, though appropriately, infectious etiologies of rashes should be considered, it is important for generalists to know that non-infectious rashes like psoriasis are also common. This case also highlights how framing bias can influence the approach to patients with HIV/AIDS by limiting the diagnosis to infectious etiologies.

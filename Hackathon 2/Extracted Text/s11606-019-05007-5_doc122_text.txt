@@ -1,0 +1,53 @@
+# ABSTRACTS
+
+# METHODS:
+
+Using a qualitative descriptive design, we conducted 42 key informant interviews with hypertensive patients probing beliefs about the causes of medication nonadherence, and identifying viable adherence support tools to mitigate them. We explored the acceptability of support strategies validated in similar contexts, such as: daily text reminders, educational materials on hypertension, monthly group meetings (i.e. "adherence clubs") led by patients or providers, one-on-one appointments with providers, and modified drug dispensing at the hospital pharmacy. An open coding approach using NVIVO software structured the analysis. Themes and categories emerged iteratively and were solidified through consensus building processes.
+
+# RESULTS:
+
+Two themes emerged regarding causes of and solutions to adherence barriers: medication access and care engagement. Engagement barriers included lack of HTN symptoms, lack of peer or family support, interest in alternative or traditional medicine, forgetfulness, and disease denial; access barriers included distance to clinics and medication cost and availability. Patients were most supportive of interventions designed to further engage them in care, such as educational materials and adherence clubs. Patients praised their convenience (i.e. educational materials are portable and customizable) and peer support (i.e. learning from successfully adherent peers). Text message reminders and one-on-one counselling also received support because of convenience and high levels of provider trust respectively.
+
+# CONCLUSIONS:
+
+Patients are motivated to control their blood pressure and are supportive of interventions designed to actively engage them in their care, suggesting that adherence clubs and educational materials may be successful tools for improving adherence in this population. Pilot testing of adherence clubs is underway; further work will directly evaluate its impact on blood pressure control. If effective, these interventions have the potential to improve medication adherence in similar contexts globally.
+
+# EXPLORING PHYSICIAN EXPERIENCES ENGAGING CAREGIVERS IN THE SAFETY-NET
+
+Wagahta Semere 1; Anupama Cemballi 1; Alejandra Casillas 2; Neda Ratanawongsa 1; Shobha Sadasivaiah 1; Courtney Lyles 1. 1 University of California San Francisco at Zuckerberg San Francisco General Hospital, San Francisco, CA; 2 University of California Los Angeles, Los Angeles, CA. (Control ID #3185330)
+
+# BACKGROUND:
+
+Physicians experience communication gaps with caregivers, which create care coordination challenges that may be compounded when caring for patients in the safety-net who have limited resources and language barriers. However, knowledge of physician interactions with caregivers in this setting is limited. The objective of this study is to explore physician experiences with caregivers in the safety-net.
+
+# METHODS:
+
+We conducted 40-60 minute semi-structured interviews with 16 primary care providers from three California safety-net hospital systems (San Francisco Health Network, Los Angeles Department of Health Services, and Alameda Health System). Interviews explored provider engagement with caregivers in the safety-net setting. We analyzed interview transcripts using both deductive (i.e., guided by the interview guide) and inductive approaches (i.e., open coding) then established consensus regarding major themes and exemplary quotes.
+
+# RESULTS:
+
+Of 16 primary care providers interviewed, 4 were geriatricians. We identified four themes describing provider experiences with caregivers: (1) the diversity of caregivers, (2) visit and inter-visit communication strategies, (3) engaging caregivers in patient care, and (4) language and literacy barriers. Providers noted a distinction between formal, paid caregivers and informal (often family) caregivers that coordinate patient care. Most interactions with caregivers were described in the context of clinic visits, where providers frequently encountered language and literacy barriers. Providers expressed that caregivers in the safety-net displayed limited confidence engaging in care management.
+
+# CONCLUSIONS:
+
+Providers in the safety-net understood caregivers to be a diverse group, including both formal and informal caregivers, providing multiple supportive roles on behalf of patients. In order to better leverage caregivers in patient care, providers in the safety-net may benefit from targeted resources to overcome language and literacy barriers and to specifically empower caregivers.
+
+# EXPLORING PROVIDER PERSPECTIVES ON THE FEASIBILITY AND ACCEPTABILITY OF MEDICATION ADHERENCE SUPPORT SERVICES FOR HYPERTENSION AT A PRIVATE HOSPITAL IN KAMPALA, UGANDA
+
+Evan Garden 1; Rachel Wilkinson 1; Rose C. Nanyonga 2; Allison Squires 3; Jeremy I. Schwartz 4; David J. Heller 1. 1 Icahn School of Medicine at Mount Sinai, New York, NY; 2 Clarke International University, Kampala, Uganda; 3 New York University, New York, NY; 4 Yale School of Medicine, New Haven, CT. (Control ID #3185640)
+
+# BACKGROUND:
+
+Hypertension (HTN) is the most common contributor to mortality in Uganda, and cardiovascular disease (CVD) is the leading cause of death. Although access to HTN screening and treatment is a major contributor to this burden, medication adherence is also a barrier to disease control. Previous work demonstrates that primary care providers in Uganda struggle to aid patients with HTN medication adherence, as patients lack symptoms and disease information, and face financial obstacles. Several interventions to improve HTN medication adherence in sub-Saharan Africa (SSA) exist in similar settings, but the feasibility and acceptability of these options for care providers, especially within the private sector, is unclear.
+
+# METHODS:
+
+Using a qualitative descriptive approach, we explored provider perspectives on challenges to HTN medication adherence, as well as the feasibility and acceptability of various forms of medication adherence support. Data collection occurred through key informant interviews with 15 providers (8 medical officers, 7 nurses) at International Hospital Kampala (IHK), a private hospital in Uganda. We specifically asked about potential interventions, including daily SMS (text) reminders; educational materials; monthly group meetings ("adherence clubs") led by patients or providers; one-on-one appointments with providers; and modifying drug dispensing at the hospital pharmacy. Two coders analyzed the interviews using a general content analysis approach, where themes and categories emerged iteratively.
+
+# RESULTS:
+
+Providers' beliefs on adherence determinants centered on two themes: patient access (i.e. cost, distance from care centers) and patient engagement (i.e. lack of knowledge of HTN causes and treatment, lack of support systems), aligning with patients' views in related interviews. Providers especially supported adherence clubs, citing improved patient engagement through peer support and increased provider-patient interactions. They also endorsed patient educational materials due, but cited limited patient literacy as a barrier. Daily SMS reminders were deemed convenient, particularly for patients who lived far from IHK. Providers considered staffing concerns as the major barrier to implementing these interventions, but also cited program finances, patient participation, and scheduling concerns.
+
+# CONCLUSIONS:
+
+Providers viewed adherence support interventions as feasible and acceptable additions to HTN care at IHK, but cited financial cost and human resources as barriers. Providers' views regarding HTN.

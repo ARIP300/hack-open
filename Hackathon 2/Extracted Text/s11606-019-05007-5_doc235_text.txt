@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# PROVISION OF PREVENTIVE HEALTH SERVICES TO US WOMEN
+
+Shelby McLaughlin-Patel1; E. Bimla Schwarz2. 1University of California Davis, Sacramento, CA; 2University of California, Davis, Sacramento, CA. (Control ID #3185980)
+
+# BACKGROUND:
+
+The US Preventive Services Task Force (USPSTF) provides age-specific recommendations regarding a wide range of screening and counseling services. In 2014, the American College of Obstetricians and Gynecologists' Well-Woman Task Force developed age-specific recommendations to guide the care of women during well-woman visits. We assessed alignment between US provision of preventive health services to women and these recommendations.
+
+# METHODS:
+
+The National Ambulatory Medical Care Survey (NAMCS) collects data from non-federally employed office-based physicians in the United States. In 2015 (the most recently available data), NAMCS assessed provision of 23 preventive health services. We examined provision of these 23 preventive health services to women by age group (18-25, 26-39, 40-50, 51-65, 66-80, 81+ years), whether the provider identified as the patient's primary care provider (PCP), visit type, and clinician training (internal medicine, family medicine, gynecology).
+
+# RESULTS:
+
+In 2015, NAMCS collected data on 28,322 US ambulatory visits, of which 13,887 were made by women. Of these, 17% were with clinicians who identified as the patient's PCP; 19% were "preventive health" visits. Visits to a clinician who identified as the woman's PCP were not more likely to include preventive health services than visits to other clinicians; visits identified as "preventive health visits" were not more likely to include any preventive services than other visit types. Preventive counseling of any kind (i.e, on diet & nutrition, exercise, weight reduction, tobacco use, prevention, alcohol abuse, substance abuse, prevention of sexually transmitted infections) was documented for less than 10% of visits made by women of any age group. The preventive service most commonly performed was a pelvic exam. Of the 803 visits to Internists, 1303 to family physicians, and 2246 to gynecologists, pelvic exam was documented for 6.5%, 2.8% and 45%, respectively. In contrast, counseling about diet and nutrition was documented for 24% of visits to Internists, 17% of family physicians and 12% of gynecologists. For women aged 18-50, there were 5,598 visits. Of these, 1,247 (78%) were to an ObGyn.
+
+# CONCLUSIONS:
+
+US women of all ages appear to be receiving preventive health services relatively rarely. Although it is possible that women received preventive services at other visits not documented in the NAMCS survey, few US women make more than 4 visits to their PCP each year. Given the time limitations inherent in current models of primary care, there is a need to prioritize preventive services. More attention should be given to preventive health counseling, with less time spent on pelvic exams for asymptomatic women, as the USPSTF has determined there to be insufficient evidence to support screening pelvic exams of asymptomatic women. Although this is a snapshot of ambulatory visits, the findings from this descriptive study support prior studies and calls for a stronger coordination of care between a woman's PCP and ObGyn.
+
+# PROVISION OF UTILITY SHUTOFF-PROTECTION ILLNESS CERTIFICATE LETTERS AT AN URBAN SAFETY-NET HOSPITAL, 2009-2018
+
+Karen E. Lasser 1, 3; Heather E. Hsu 1, 3; Erin M. Ashe 1; Pablo Buitron de la Vega 1; Ziming Xuan 2; Michael Silverstein 1, 3. 1 Boston Medical Center, Boston, MA; 2 Boston University School of Public Health, Boston, MA; 3 Boston University School of Medicine, Boston, MA. (Control ID #3165439)
+
+# BACKGROUND:
+
+In Massachusetts, utility companies are prohibited from terminating service to low-income households where occupants present a "Utility Shutoff-Protection Illness Certificate" letter confirming that a household member is seriously ill. It is unclear, however, how many patients receive these letters from their medical providers and whether current efforts to screen for health-related social needs are identifying these patients. Our objective was to characterize the provision of such letters at Boston Medical Center, the largest safety-net hospital in New England.
+
+# METHODS:
+
+Using data extracted from the electronic health record (Logician and Epic), we performed descriptive analyses examining patient demographics and medical comorbidities among all unique adult patients (age >18 years) at Boston Medical Center with a "Utility Shutoff-Protection Illness Certificate" letter signed by a medical provider from 2009-2018. Among patients who received letters within the past year (when screening for health-related social needs was implemented among adults seen in general internal medicine, family medicine, obstetrics-gynecology, the breast center, and the HIV clinic), we examined the proportion who were screened for having difficulty paying utility bills.
+
+# RESULTS:
+
+2981 adult patients received a letter over the study period. The mean age of patients was 52 (sd 15.5); 66% were non-Hispanic black, 15% non-Hispanic white, and 5% Hispanic of any race. An additional 12% had missing race data. Over two-thirds of patients were women. Patients most frequently resided in three high-risk Boston neighborhoods: Dorchester (31%), Roxbury (11%), and Mattapan (7%). Most patients spoke English (86%), while 6% spoke Spanish and an additional 5% spoke Haitian Creole. Most patients had government insurance (42% Medicaid, 37% Medicare), while 18% were commercially insured. Patients frequently had significant comorbid medical illness, including congestive heart failure (19%), COPD (48%), and diabetes (41%). Among the 754 patients who received a letter in the past year, only 25% (185) were screened for having difficulty paying utility bills. Among these 185 patients, only 47% (87) screened positive.
+
+# CONCLUSIONS:
+
+Many patients who receive care at an urban safety-net hospital are at risk for having their utilities shut off, yet current efforts to screen for health-related social needs detect only a fraction of these patients. When a patient presents with a request for a "Utility Shutoff-Protection Illness Certificate" letter, this should be considered a sentinel event. Such an event should trigger referral of a patient to clinic staff who can connect the patient to fuel assistance and other resources.
+
+# PSYCHOMETRIC PROPERTIES OF THE ALTARUM CONSUMER ENGAGEMENT (ACE) MEASURE IN PATIENTS WITH PREDIABETES
+
+Yelba Castellon-Lopez1; Kia Skrine Jeffers1; O. Kenrik Duru2; Tannaz Moin3; Carol Mangione 4; Keith Norris 2; Gerardo Moreno 2; Ron D. Hays 2. 1 University of California, Los Angeles, Los Angeles, CA; 2 UCLA, Los Angeles, CA; 3 UCLA/VA Greater Los Angeles, Los Angeles, CA; 4 David Geffen School of Medicine at UCLA, Los Angeles, CA. (Control ID #3184777)
+
+# BACKGROUND:
+
+The Prediabetes Informed Decision and Education (PRIDE) study utilized pharmacist-delivered shared decision making to help patients with prediabetes choose lifestyle change, metformin, or both as a diabetes prevention strategy. All PRIDE participants self-administered 12 items from the Altarum Consumer Engagement (ACE-12) measure to assess activation at baseline, 4 months, and 12 months. The aims of this project were to evaluate the psychometric properties of the open-source ACE-12.
+
+# METHODS:
+
+We used electronic medical record data to identify overweight/obese patients with prediabetes between 18 and 74 years of age. We conducted exploratory factor analysis using polychoric.

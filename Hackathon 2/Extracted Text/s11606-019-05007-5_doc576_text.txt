@@ -1,0 +1,67 @@
+# UNCONTROLLED CELL GROWTH: A CASE REPORT OF ACUTE MYELOID LEUKEMIA IN A PATIENT WITH NEUROFIBROMATOSIS TYPE-1
+
+Saboor E. Randhawa1; Nagendra Natarajan2; Jonathan Gootee1; Mohsin Mirza1. 1Creighton University, Omaha, NE; 2Nebraska Cancer Specialists, Omaha, NE. (Control ID #3186272)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the association of Neurofibromatosis type-1 with Acute Myeloid Leukemia.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the association of Neurofibromatosis type-1 with benign and malignant tumors based on cytogenetics.
+
+# CASE:
+
+A 67-year-old male presented with severe worsening dyspnea, weakness and unexplained weight loss. His past history was significant for Neurofibromatosis type-1 (NF-1), diabetes mellitus, Barrett's esophagus, and multiple benign lung nodules. He denied fever, chills, night sweats, chest pain or easy bruising. Physical exam was remarkable for numerous raised nodules on his back, arms and face characteristic of NF-1. An extensive diagnostic workup was undertaken. Complete blood count analysis showed hemoglobin of 6.0 g/dL, platelet count of 29,000/microL, white blood cell count of 42,400/microL with frequent blasts in the peripheral blood. Bone marrow biopsy and aspiration diagnosed acute monoblastic leukemia (a type of Acute Myeloid Leukemia or AML) based on morphology and immunophenotyping. Myeloid mutation panel testing showed alteration in NPM1, TET2, DNMT3A, U2AF1, and cytogenetics/Fluorescent-In-Situ-Hybridization confirmed trisomy 8. This profile is associated with poor prognosis. He was initiated on intensive remission induction therapy with standard dose cytarabine and idarubicin (7+3 chemotherapy) along with aggressive supportive measures. Remission was achieved, and bone marrow biopsy and aspiration completed on day 14 of treatment revealed hypocellular marrow without evidence of residual AML. His blood counts recovered, with improvement in symptoms.
+
+# IMPACT/DISCUSSION:
+
+Neurofibromatosis type-1 (NF-1), or Von Recklinghausen disease, is an autosomal dominant genetic disorder with an incidence of approximately 1 in 3000 individuals. NF-1 is due to mutations in the NF1 gene, located at chromosome 17q11.2. These mutations can lead to a number of benign and malignant tumors. The association between hematologic malignancies and germ-line mutations of NF1 has been established in the pediatric setting. In adult population, though not as strong, the association between both leukemia and lymphoma has been described. Germline heterozygous alterations of NF1 gene lead to a higher risk to develop juvenile myelomonocytic leukemia and/or AML. More recently, somatic 17q11 deletions encompassing NF1 have been described in many adult myeloid malignancies. In our case, the presence of a malignancy of myeloid lineage supported the association of AML with NF-1, however further studies are needed to establish a direct connection.
+
+# CONCLUSION:
+
+- Neurofibromatosis type-1 is associated with hematological malignancies like Acute Myeloid Leukemia.
+- Uncontrolled cell growth due to mutations in NF-1 gene results in both benign and malignant tumors.
+
+# LEARNING OBJECTIVE #2:
+
+Better understand the more common risk factors for stress cardiomyopathy.
+
+# CASE:
+
+A 65 year old African-American male presented to a tertiary care emergency department with dyspnea and serially positive troponins (0.21, 0.24). His past medical history was significant for COPD, hypertension, and tobacco dependence. He had no prior history of acute coronary syndrome (ACS) or relevant family history. Physical examination was essentially unremarkable, however the patient was hypoxic saturating 98% on 2L of oxygen on nasal cannula. Laboratory studies were unrevealing with the exception of the aforementioned elevation in troponin levels. EKG demonstrated normal sinus rhythm without injury pattern. Echocardiography revealed regional hypokinesis of the left ventricular anterior/anterolateral wall with sparing of the apex, along with hypokinesis of the mid/apical right ventricular wall - suspicious for bi-ventricular stress cardiomyopathy. A left heart catheterization was performed to evaluate for obstructive plaques and possible stress cardiomyopathy. Non-obstructive CAD was discovered with <50% stenosis in the left coronary, right coronary, and left circumflex arteries. Ventriculography confirmed a midventricular stress cardiomyopathy. The patient was initiated on a b-blocker and encouraged to refrain from using his albuterol inhaler and to avoid physical or emotional exertion. Interestingly, further discussion with the patient revealed that his wife experienced stress cardiomyopathy 2 months prior to his presentation. The patient also revealed that due to his dyspnea, he began using his rescue inhaler more frequently (up to 15 times per day) prior to his hospitalization.
+
+# IMPACT/DISCUSSION:
+
+We believe our case highlights the importance of forming a broad differential in the setting of positive troponins and an anginal equivalent in a patient with risk factors for ACS. It also draws our readers' attention to the complexity of stress cardiomyopathy, and explains that not all stress cardiomyopathy is Takotsubo cardiomyopathy. The current preclinical theory based on animal studies presupposes that the apex contains a higher proportion of adrenergic receptors explaining its ability to be preferentially affected in a severely stressful situation. And of course, we want to emphasize that COPD is a common but underreported etiology for stress cardiomyopathy that impacts males. Prospective registries identify 90% of stress cardiomyopathy among women, and the biventricular variant is extremely rare which adds an additional layer of nuance to our case.
+
+# CONCLUSION:
+
+- Men can develop stress cardiomyopathy despite the overwhelming female predilection.
+- There are multiple variants of stress cardiomyopathy.
+- COPD is a known risk factor for the development of stress cardiomyopathy.
+- Biventricular cardiomyopathy can occur in the absence of cardiogenic shock.
+
+# UNEXPECTED ASCITES: AN UNCOMMON PRESENTATION FROM COEXISTING COMMON CONDITIONS.
+
+Shirin Karimi; Ariel Majidi1; Priyank Jain. 1Cambridge Health Alliance, Harvard Medical School, Boston, MA; 2Cambridge Health Alliance, Cambridge, MA. (Control ID #3186312)
+
+# UNDER PRESSURE - COMMUNICABLE OR IATROGENIC CARDIOMYOPATHY?
+
+Max Zlatopolsky1, 2; Vadim Gladwill1; Mathar Aldaoud2, 1; Mahmoud Assaad2. 1Ascension-Providence, St. Clair Shores, MI; 2Ascension-Providence Heart Institute, Southfield, MI. (Control ID #3180731)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the complexity of stress cardiomyopathy and its major subtypes beyond that of the typical apical (Takotsubo) variant.
+
+# LEARNING OBJECTIVE #2:
+
+Recognize an uncommon cause of inflammatory ascites.
+
+# LEARNING OBJECTIVE #3:
+
+Recognize that coexisting common conditions can produce unusual presentations.
+
+# CASE:
+
+A 58 year old man with alcohol use disorder was admitted after being found intoxicated with Listerine. He reported acute onset epigastric pain radiating to the back with progressive difficulty initiating urination and incomplete voiding. His physical exam revealed a markedly distended abdomen with diffuse abdominal tenderness. Basic chemistry showed K 7.0, Anion Gap 29, Cr 7.3, NT-proBNP 789, Lactic Acid 9.5. Additional labs.

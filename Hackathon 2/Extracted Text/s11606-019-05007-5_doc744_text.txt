@@ -1,0 +1,55 @@
+# ABSTRACTS
+
+positive, including comments that they appreciate the synchrony of the inpatient and outpatient curriculum
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Resident satisfaction with the ambulatory curriculum has improved with the recent curriculum changes, leading to increased engagement in our educational sessions. Residents prefer broad discussions about clinic management rather than discussing clinical trials. By organizing these discussions to supplement the inpatient curriculum, residents felt they had a more structured educational experience. Board review questions help to reinforce the monthly topic while simultaneously preparing the residents for the ABIM. Choosing topics that are relevant and enjoyable to the targeted learners help enrich the ambulatory educational experience through increased participation and learning opportunities.
+
+# RETHINKING THE MEDICINE SUB-INTERNSHIP: TARGETING CRITICAL SKILLS THROUGH ACTIVE LEARNING AND MENTORSHIP
+
+Alice Tang1; Sydney Katz2; Stephanie J. Tang3. 1Weill Cornell Medical College, New York, NY; 2Weill Cornell, Brooklyn, NY; 3Weill Cornell Medicine | NewYork-Presbyterian Hospital, Long Island City, NY. (Control ID #3184749)
+
+# NEEDS AND OBJECTIVES:
+
+While sub-internship rotations are typically viewed as a capstone experience prior to internship, most lack a formal curriculum. Students are often expected to become competent in essential clinical skills by passively observing others; however, clinical teachers are varied in their skills and observation may not be the most effective means for learning these skills. Furthermore, students often do not receive sufficient observation-based formative feedback. To address these needs, we created a new sub-internship rotation with key objectives to: (1) Hone essential clinical skills and entrustable professional activities (EPAs) through interactive workshops, (2) Stimulate weekly self-reflection, feedback, and goal-setting, and (3) Provide frequent high quality feedback on core clinical skills.
+
+# SETTING AND PARTICIPANTS:
+
+Fifteen fourth year medical students completed a novel medicine sub-internship rotation at an affiliate hospital of a major urban academic medical center between July 2017 and September 2018.
+
+# DESCRIPTION:
+
+Our four-week sub-internship rotation was designed to foster students' mastery of the EPAs through integrating direct faculty observation, collaborative feedback, and a clinical skills-based "Foundations" curriculum. High quality real-time feedback was facilitated by the team structure of one attending, one PA, and one sub-intern. Self-reflection, feedback, and goal-setting were facilitated by weekly meetings with faculty reviewing a collaborative feedback form. Clinical skills were developed through interactive workshops that targeted essential skills necessary for residency.
+
+# EVALUATION:
+
+All students completed an anonymous course evaluation comprised of free response and Likert-type items. Mean confidence in starting internship improved significantly after completing the rotation (from 2.2 to 4.3 on a 5-point scale). Students rated autonomy, coaching and mentorship, observation and feedback, and culturally sensitive care highly (mean ratings ranging 4.9 to 5 on a 5-point scale).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Our innovative sub-internship rotation highlights the benefits of direct observation and mentorship, collaborative feedback, and a skills-based curriculum. Our rotation demonstrates the value of a 1:1 attending to learner ratio. Future directions include expanding the curriculum and the collaborative feedback form across all other medicine sub-internships sites. Our preliminary data is limited by the small sample size. We acknowledge the challenges in maintaining quality assurance as we expand this rotation to other sites. We recognize how crucial faculty development will be to ensure students receive the same high-quality coaching and mentorship across sites.
+
+# RISKY BUSINESS: ON THE ROAD TO ELIMINATION OF HCV THROUGH IMPROVED RISK ASSESSMENT
+
+Dawn Fishbein2; Shari Sawney2; Stephen Fernandez2; Emily Paku2; Sara Miller1. 1Med-IQ, Baltimore, MD; 2MedStar Health Research Institute, Washington, DC. (Control ID #3185129)
+
+# NEEDS AND OBJECTIVES:
+
+Hepatitis C virus infection (HCV) represents a major public health threat that continues to grow, largely due to the increased use of injection drugs. A focus on patients at high risk for HCV is a critical part of the public health effort to identify, cure, and eliminate this disease. The rise in HCV rates demonstrates a continued need for risk-based testing and requires a more informed and educated clinician compared to birth cohort testing. This educational initiative was employed to improve risk-based HCV testing and linkage to care.
+
+# SETTING AND PARTICIPANTS:
+
+We implemented an iterative and multifaceted HCV quality improvement initiative beginning in February 2018 that included multiple educational opportunities and continuous sharing of data regarding clinical practice patterns. This initiative included clinicians in 8 primary care and/or women's health clinics across the MedStar Health, a large regional healthcare system in Maryland and Washington, DC.
+
+# DESCRIPTION:
+
+Education was delivered live in-person, online, and through short evidence-based text publications distributed on a bi-monthly basis. Data evaluating baseline practice and changes included survey evaluation of perceptions, attitudes, and barriers and quantitative assessment of practice patterns from March 2018 through the intervention period as documented in the EHR. Changes in practice patterns before and after the intervention were compared with a chi-squared test; a Z test was used to calculate the odds ratio across groups.
+
+# EVALUATION:
+
+In the baseline provider survey, 64.2% of clinicians (n=53) ranked their ability to identify candidates for HCV testing based on risk as a 3 or 4 on a 4-point Likert scale (4 = highest); 58.5% ranked their ability to elicit an accurate social history to evaluate behavioral risks as a 3 or 4. Among clinicians who had been in the same location for 3 or more years (n=42), 28.6% reported increased use of injection drugs among their patients. EHR data demonstrate low levels of risk evaluations as well as HCV testing for those with documented high risk among both the intervention and non-intervention groups at baseline. Improvement in the proportion of evaluations were observed in the intervention group (18.6% to 20.5%) as compared to the non-intervention group (8.5% to 8.78%) (OR: 1.094 [CI 1.025-1.166]). When high-risk behaviors were documented, HCV testing improved in both groups (21.8% to 24.1% intervention and 22.01% to 24.6% non-intervention groups), the improvements were not statistically significantly better among the intervention group (OR .983; CL .715-1.351).
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Improving clinical practice within contemporary overtaxed healthcare settings requires well-designed, continuous, and iterative interventions which include both education and data sharing. Even in the context of such initiatives, improvements are frequently slow. If HCV elimination is to become a reality, particularly in a climate of increased risks associated with the ongoing opioid epidemic, initiatives such as this one are critical.

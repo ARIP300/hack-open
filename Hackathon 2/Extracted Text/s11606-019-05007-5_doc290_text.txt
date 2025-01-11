@@ -1,0 +1,63 @@
+# JGIM
+
+# ABSTRACTS
+
+# CONCLUSIONS:
+
+Internal Medicine residents in Baltimore had very limited knowledge about trauma prevalence and risks for comorbidities. Although most residents feel TIC is relevant to clinical practice, they feel unprepared to identify, respond to, manage, and refer patients with histories of trauma. Our results support the need for integration of trauma and Trauma Informed Care training into graduate medical education for Internal Medicine residents.
+
+# TRENDS IN DIVERSITY OF MEDICAL SCHOOL MATRICULANTS RELATIVE TO THE US POPULATION
+
+Lanair A. Lett2, 2; Whitney Orji1; Jaya Aysola3, 2; Ronnie Sebro2, 2.
+
+1Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA; 2University of Pennsylvania, Philadelphia, PA; 3Penn Medicine, Philadelphia, PA. (Control ID #3184958)
+
+# BACKGROUND:
+
+Over the past several decades, there has been increasing effort to improve physician workforce diversity, including the institution of formal accreditation guidelines by the Liaison Committee of Medical Education (LCME) in 2009. Recently, several studies examining trends in diversity at the undergraduate, graduate and faculty level, have reported modest improvements in the proportions of racial/ethnic and sex groups within medicine. However, these studies fail to account for the shifting demographics of the US population. With this analysis, we provide a method of assessing the racial/ethnic diversity of medical school matriculants relative to the increasing diversity of the US population.
+
+# METHODS:
+
+The S-score, a measure of representation given a population distribution, was used to analyze the Association of American Medical Colleges data on self-reported race/ethnicity and sex of allopathic medical school matriculants, compared to population distribution of the medical school-aged population (20-34-year-olds), from 2002 to 2017. Linear trends over time were estimated using Pearson correlation.
+
+# RESULTS:
+
+The number of medical school matriculants increased from 16,488 to 21,326 between 2002 and 2017. During that time, proportions of 20-34-year-old Black, Hispanic, and Asian males and females in the US grew, while proportions of White males and females decreased. From 2002 to 2012, Black males (r=0.83, 95% CI: 0.46,0.96) and Black females (r=0.9, 95% CI: 0.65,0.97) were increasingly underrepresented amongst medical school matriculants. From 2013 to 2017, neither Black males (r=0.45, 95% CI: -0.71,0.95) nor females (r=-0.85, 95% CI: -0.99,0.14) experienced significant trends in representation. From 2002 to 2012, representation of Hispanic males varied without a significant trend (r=0.45, 95% CI: -0.2,0.83), while Hispanic females were increasingly underrepresented (r=0.86, 95% CI: 0.53,0.96). Both groups were underrepresented from 2013 to 2017. White males were increasingly overrepresented from 2002 to 2012 (r=-0.62, 95% CI: -0.89, -0.03), while White females were increasingly underrepresented (r=0.75, 95% CI: 0.28,0.93). From 2013 to 2017, neither White males (r=0.84, 95% CI: -0.16,0.99) nor White females (r=-0.86, 95% CI: -0.99,0.08) experienced significant trends in representation. Asian males and females were overrepresented from 2002 to 2017.
+
+# CONCLUSIONS:
+
+Despite increasing in number and proportion, Black and Hispanic students remain underrepresented amongst medical school matriculants when compared to the US population. To facilitate national progress in enrollment of underrepresented minority students, future studies should use the S-score to evaluate the efficacy of diversity initiatives at the local level to identify successful interventions that can be scaled. The S-score can be adapted to the institutional, regional, or state levels and used to track progress with better resolution than previously reported in national studies.
+
+# TRENDS IN OBESITY AND MEDICAL EXPENDITURE AMONG WOMEN, 2008-2016: DIFFERENCES BY RACE/ETHNICITY
+
+Joni S. Williams; Sneha Nagavally; Leonard E. Egede. Medical College of Wisconsin, Milwaukee, WI. (Control ID #3186374)
+
+# BACKGROUND:
+
+Two out of every three women in the U.S. have overweight or obesity, where annual medical expenditures exceed $520 and $4870, respectively. Evidence suggests women belonging to racial/ethnic minority groups have a higher prevalence of obesity compared to Non-Hispanic White (NHW) women. Obesity results in significant morbidity, preventable mortality, and increased medical expenditures among women; however, evidence assessing trends in obesity and medical expenditure by race/ethnicity is limited. Therefore, the aim of this study was to examine racial/ethnic differences in obesity trends and medical expenditures among a nationally representative sample of women.
+
+# METHODS:
+
+Nine years of data (2008-2016) from the Medical Expenditure Panel Survey (MEPS) Full Year Consolidated File were used for the analyses. Cochran-Armitage tests were used to determine statistical significance of trends in obesity and mean expenditure for women. Two-part statistical modeling (Probit and Gamma General Linear Model (GLM)) with a combination of binomial and positive distributions was used to evaluate differences in medical expenditure. Covariates included age, education, marital status, insurance coverage, region, comorbidity count, and year. Data were clustered to 3 time points: 2008-2010, 2011-2013, 2014-2016. BMI levels were classified as underweight (<18.5), normal (>=18.5 - 24.9), overweight (>=25.0 - 29.9), and obese (>=30.0 - 134.7). Analyses were weighted for the U.S. population.
+
+# RESULTS:
+
+Cochran-Armitage tests showed trends in obesity from 2008 to 2016 differed significantly between Hispanic (p<0.001), Non-Hispanic Black (NHB) (p<0.001), and Other (p<0.001) women compared to NHW women. Similarly, among obese women, trends in mean medical expenditures differed significantly between Hispanic (p<0.001), NHB (p<0.001), and Other (p<0.001) women compared to NHW women. From the two-part model, the Probit model indicated obese Hispanic (-0.28 (-0.35, -0.20)), NHB (-0.23 (-0.31, -0.16)), and Other (-0.27 (-0.42, -0.11)) women were significantly less likely to spend on healthcare compared to NHW women, after adjusting for covariates. The Gamma GLM showed that among obese women with positive medical expenditure, Hispanic women spent 14% less ($1145.87; p<0.001), while NHB women spent 11% less ($940.03; p<0.001) compared to NHW women, adjusting for covariates. No significant differences in incurred medical expenditure were observed between obese Other and NHW women after adjusting for covariates.
+
+# CONCLUSIONS:
+
+These findings suggest the need for further understanding of the factors and underlying mechanisms associated with differences in trends for obesity among minority and NHW women and trends in medical expenditures between obese Hispanic, NHB, and NHW women to address these disparities and target the unique needs of women with overweight and obesity in the U.S.
+
+# TRENDS IN SYSTOLIC BLOOD PRESSURE CONTROL AND MANAGEMENT IN THE UNITED STATES, 2006 TO 2015
+
+Cecilia Scholcoff1, 2; Jeffrey L. Jackson1, 2; Cynthia Kay1, 2; Sarah Nickoloff1, 2.
+
+1Zablocki VAMC, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3179298)
+
+# BACKGROUND:
+
+Hypertension (HTN) is one of the most common conditions affecting the U.S. population and an important risk factor for cardiovascular disease, heart failure, stroke and kidney disease. In this study, we assess prescribing and counseling patterns as well as systolic blood pressure (SBP) control in United States primary care settings over the past 10 years.
+
+# METHODS:
+
+We analyzed data over one decade (2006-2015) from the National Ambulatory Medical Care Survey (NAMCS). We abstracted blood pressure readings among all visits and stratified SBP control as <120 mm Hg, 120-139 mm Hg and 140 mm Hg. In addition, we abstracted whether the patient had a diagnosis of hypertension, the class and number of anti-hypertensive medications, whether anti-hypertensive medication was newly prescribed, and frequency of dietary and exercise.

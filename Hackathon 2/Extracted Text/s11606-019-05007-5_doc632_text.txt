@@ -1,0 +1,59 @@
+# ABSTRACTS
+
+# FINDINGS TO DATE
+
+Implementation of our CC model was successful in that all patients received a MA phone call to trouble-shoot treatment initiation, and two-thirds of patients attended a visit with a nurse to assess side effects and titration needs. Patients saw an increase in access to mental health treatments: 93% were prescribed an antidepressant, compared to clinic-wide rates of 27%, and 36% of pilot patients attended at least one therapy session, compared to only 11% clinic-wide. This intervention led to improved patient outcomes during this 6-month pilot period. The average PHQ-9 score of patients was 14 upon enrollment, and 9 at the end of the pilot period. 36% of patients reached full depression remission, compared to clinic-wide remission rates of 3-5%.
+
+# KEY LESSONS FOR DISSEMINATION
+
+Team-based management of depression in primary care can be effective for medically underserved patient populations, even when resources do not exist to fund a full CC model.
+
+# IMPLEMENTATION OF AN ADAPTED VA MOVE! CURRICULUM COMBINED WITH A MOBILE TEXTING PLATFORM IN GROUP MEDICAL VISITS FOR WEIGHT LOSS AT AN URBAN FEDERALLY QUALIFIED HEALTH CENTER
+
+Elizabeth "Betty" Kolod; Viraj V. Patel; Sabrina Esbitt; Shyanne R. Washington; Shwetha Iyer. Montefiore Medical Center, Bronx, NY; Montefiore Medical Center/Albert Einstein College of Medicine, Bronx, NY; Lehman College, Bronx, NY. (Control ID #3186082)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+Group medical visits supplemented by a mobile text group may be a promising model for primary care-based weight loss intervention, however, feasibility and acceptability are unknown.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1. Determine the feasibility of an adapted VA MOVE! curriculum in an urban Federally Qualified Health Center (FQHC).
+2. Identify characteristics of individuals recruited for group medical visits for weight loss.
+3. Use a mobile texting platform to promote patient retention in group medical visits.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+From 9/2018-1/2019, we implemented group medical visits for weight loss at an urban FQHC, with an adapted Managing Obesity for Veterans Everywhere (MOVE!) curriculum. Each of 16 modified sessions incorporated 1-3 original sessions, and cooking and exercise demonstrations. Additionally, participants joined an encrypted mobile text group. Each session was facilitated by an attending and a resident physician, a psychologist, and a nutrition student. The attending physician met individually with participants during weekly weigh-in for documentation and to bill an individual visit.
+
+# MEASURES OF SUCCESS
+
+We assessed rate of recruitment, attendance pattern, and texting platform usage. Additionally, we calculated percent weight change. Finally, we assessed known behavioral mediators of weight loss, pre- and post-intervention.
+
+# FINDINGS TO DATE
+
+Over 1 month, patients self-referred (n=6) or were referred by their provider (n=42). On contact by study coordinator, 22 patients were interested, 6 were not interested or available, and 20 could not be reached. The first 12 interested patients were invited to the group. Ten of the 12 invited participants (83%) presented. The 10 initial participants had mean age 51.7 years (range 31-66), and mean BMI 45.1 (range 31-57). Seven identified as Black women and 3 as Latina, despite slight clinic predominance of patients identifying as Hispanic over those identifying at Black (40% versus 37%, respectively). Five participants completed >50% of the 16 visits. One person attended 31% of visits, 1 attended monthly for the first 3 months, and 2 participants attended only the first visit due to schedule conflicts. One person was not invited back due to inappropriateness for group visits. Of the five participants completing 50% of visits, 1 lost 5% of her total body weight (TBW), 1 lost 1.7% TBW, 1 halted a pattern of weight gain, 1 maintained her weight, and the final retained participant lost 1% TBW but then gained 3.7%. On the text group, the coordinator sent visit reminders and participants communicated attendance plans. Few recipes and exercise routines were shared; participants requested greater emphasis on this function. Participants with intermittent attendance remained active in the group.
+
+# KEY LESSONS FOR DISSEMINATION
+
+1. While implementation of group visits for weight loss is feasible, retention remains a challenge.
+2. Over-recruitment of participants in group medical visits for weight loss may counteract unforeseen schedule conflicts.
+3. The group texting feature was acceptable, though under-utilized in program design.
+
+# IMPLEMENTATION OF NALAXONE TRAINING AND DISTRIBUTION FOR HBPC VETERANS ON CHRONIC OPIOID THERAPY IN URBAN AND RURAL SETTINGS
+
+Naomi Karlen. Southeast Louisiana Veterans Health Care System, New Orleans, LA. (Control ID #3162865)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+There is a high need for increasing the safety of opioid prescribing in the vulnerable home based population of Veterans in both rural and urban areas.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1. Improve the safety of opioid prescribing to vulnerable urban and rural home based primary care Veteran patients by increasing the amount of completed naloxone training and prescriptions.
+2. Educate staff in home based primary care Veteran program on topics including opioid overdose, general naloxone information, and naloxone teaching to patients and their friends/family members.
+3. Create a sustainable training system for both future new home based primary care staff and patients in order to continue education on opioid overdose and naloxone.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+The Southeast Louisiana Veterans Health Care System home base primary care program (HBPC) serves approximately 300 home bound Veterans in a 65 mile radius from New Orleans, Slidell, Baton Rouge (rural), and Hammond (rural) clinics. Prior to this quality improvement project, there was no process for the education and prescription of naloxone for HBPC patients at our facility. The project occurred as thus: - Facility's Pain Evaluation Program (PEP) pharmacist gave a presentation to HBPC nurses, providers, and pharmacists regarding naloxone training. - A teaching script (along with use of VA created educational videos) and electronic medical record note template were developed for the nurses regarding patient/friend/

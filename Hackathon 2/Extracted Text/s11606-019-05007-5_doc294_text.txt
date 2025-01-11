@@ -1,0 +1,51 @@
+# ABSTRACTS
+
+primarily including review of various clinical data and communication with staff, patients, and other clinicians. When possible, physicians appeared to prefer accessing data within the inbox rather than enter the full record. To improve message processing efficiency for physicians, EHR vendors can ensure this relevant information is directly accessible from within the inbox and allow follow-up actions to be taken without entering the full record. Further research is needed to assess the impact of such changes on processing efficiency.
+
+# UNDERSTANDING RISK COMMUNICATION ABOUT FENTANYL USE IN HEALTH CARE SETTINGS: SUCCESSES AND OPPORTUNITIES FOR IMPROVEMENT
+
+Christine Gunn1, 2; Alexander Y. Walley; Samantha F. Schoenberger3; Ariel Maschke1; Sarah Bagley1. 1Boston University, Boston, MA; 2Boston University School of Public Health, Boston, MA; 3Boston Univ, Boston, MA. (Control ID #3173498)
+
+# BACKGROUND:
+
+Deaths due to fentanyl overdose continue to increase. Individuals who use opioids may not understand the risks associated with fentanyl use or know how to minimize their fentanyl overdose risk. Overdose risk communication, a process of information exchange to negotiate better risk-related behaviors and outcomes, has not been examined. This study explored overdose risk communication by assessing patient and care provider experiences in discussing fentanyl risks across 4 dimensions of risk communication.
+
+# METHODS:
+
+We purposively sampled equal numbers of men and women with past year fentanyl use in Boston for qualitative interviews. We also interviewed health care and community outreach practitioners ("providers"). We conducted a grounded content analysis of professionally transcribed interviews. Codes related to patient-provider risk communication about illicit fentanyl use assessed via 4 risk communication constructs: 1) providing information about the risk; 2) recommending the elimination of risky behavior (abstinence); 3) discussing safer use strategies (harm reduction); and 4) reassuring patients that care will continue regardless of adherence to recommendations. Codes were analyzed to build themes around these dimensions and compare strategies currently employed vs. those desired by each group.
+
+# RESULTS:
+
+Twenty people who use fentanyl (PWUF) and 7 providers were enrolled. Nineteen PWUF had experienced overdose; most attributed this to fentanyl. PWUF reported wanting information about fentanyl risks, but saw those with a history of addiction as the most credible source, not providers. Risk information was welcomed when it was delivered in a non-judgmental, "kind and courteous" manner, and the person did "not sugar coat it". When providers suggested abstinence, both groups stressed that "personal readiness" was essential for treatment. Yet, PWUF reported that referrals in post-overdose settings were uncommon: "They highly recommend to get into a detox, but they never try to make the effort to get me into a detox." All providers emphasized harm reduction as the main strategy to minimize overdose risk from fentanyl. Although providers expressed a willingness to continue care for patients with ongoing substance use, 14 PWUF had experienced stigma that undermined risk conversations, some being refused care: "One of my primary cares, he told me just to get out of his office. That was a family lifelong doctor. Now he will never see me again."
+
+# CONCLUSIONS:
+
+PWUF wanted to talk about overdose risks with those who had experienced addiction. While harm reduction messages were emphasized by providers, PWUF indicated that ongoing substance use in primary care is stigmatized. Building the capacity of medical practices to effectively counsel patients who use fentanyl in the midst of the opioid crisis is critical to engaging patients in health care. Partnering and employing peers with experience using illicit fentanyl is a promising strategy to improve fentanyl overdose risk communication.
+
+# UNDERSTANDING THE SOCIAL CONTEXT OF PUBLIC HOUSING: SOCIAL NETWORKS OFFER CHALLENGES AND ASSETS FOR CARDIOVASCULAR HEALTH
+
+Benjamin Meza1; Craig E. Pollack2; Kimberly Gudzune3. 1Johns Hopkins, Baltimore, MD; 2Johns Hopkins University School of Medicine, Baltimore, MD; 3Johns Hopkins University, Baltimore, MD. (Control ID #3185601)
+
+# BACKGROUND:
+
+The American Heart Association has identified the "mechanisms by which social networks affect health" as a significant knowledge gap and area for further inquiry because social networks have been shown to impact lifestyle factors such as diet and exercise. Yet little is published regarding the social networks of public housing residents and other low-income urban communities that suffer from a high prevalence of cardiovascular disease. The objective of this study was to describe the social network characteristics of a sample of public housing residents in Baltimore, MD.
+
+# METHODS:
+
+We used data from a cross-sectional survey of randomly selected households in two public housing complexes in Baltimore, MD from August 2014 to August 2015. Adult survey respondents answered an in-person survey of personal demographics, health, and health behaviors. After delineating up to 21 members of their social network, respondents answered detailed questions about 10 randomly selected members, including attributes of the respondent-member relationship and the frequency of interaction between members. We calculated network measures including network density (i.e., the extent to which all individuals in a respondent's social network are connected to each other) and the proportion of network members who are neighbors, live within Baltimore City, maintain daily contact, share a meal or snack, are family or friends, and provide material or emotional support.
+
+# RESULTS:
+
+The sample included 266 respondents (response rate 48%). Mean age was 44.5 years, 86.1% were women, 95.5% Black, 66.2% were high school graduates, and 33.5% were unemployed. Respondents nominated a median of 15 network members (range 6-21). Network density was high when considering all nominated relationships (0.57, Standard Deviation [SD] 0.29) and even when selecting only frequent contacts (0.25, SD 0.24). On average, the great majority of nominated members lived within Baltimore City (92%, SD 16%) yet only a small proportion lived within the same housing development (19%, SD 20%). Similarly, nearly all members were known to the respondent for greater than 12 months (96%, SD 12%) and most maintained daily contact (63%, SD 31%) but very few shared a meal or snack with the respondent on a daily basis (8%, SD 13%). The majority of members were family (57%, SD 28%) as compared to friends (33%, SD 26%).
+
+# CONCLUSIONS:
+
+Our findings provide a social context for developing interventions that are sensitive to the local community. High network density has been shown to potentiate some interventions while hampering others; strong social ties but weak dietary ties could offer a space for a network-based intervention; and the predisposition toward local but minimal neighborhood contacts is critical for understanding how information may not readily diffuse through public housing communities.
+
+# UNDERSTANDING VARIATION IN HOSPITALIZATION TRAJECTORY AMONG HIGH COST, HIGH NEED PATIENTS ENROLLED IN THE COMPREHENSIVE CARE PHYSICIAN (CCP) PROGRAM
+
+Veena Sriram1; Lauren O. Wiklund2; Abbie Klein1; David Meltzer1; Joyce W. Tang1. 1University of Chicago, Chicago, IL; 2Michigan State University, East Lansing, MI. (Control ID #3184971)
+
+# BACKGROUND:
+
+Decreasing hospitalization rates for high cost, high need patients is a major goal for practitioners and policymakers; however, existing interventions have had variable impact on utilization within their target groups, raising critical questions regarding what aspects of the intervention are working and for whom. The goal of this study is to explore patient and clinical staff perspectives on the factors underlying

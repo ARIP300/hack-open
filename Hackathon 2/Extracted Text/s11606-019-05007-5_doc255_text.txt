@@ -1,0 +1,59 @@
+# ABSTRACTS JGIM
+
+# Characteristics and Missed Clinic Visit Outcomes in Veterans 65 and older Hospitalized for Congestive Heart Failure
+
+# Descriptive Characteristics
+
+|Prevalence among cohort|&lt;1 MCV (N=1282)|2 MCV (N=218)|
+|---|---|---|
+|Age years (±SD)|78 (18.7)|75 (17.9)|
+|Lives Alone|225 (18%)|58 (26%)|
+|Marginal Housing|9 (&lt;1%)|14 (6%)|
+|Substance Abuse|179 (14%)|53 (24%)|
+|Lacks Social Support|7 (&lt;1%)|5 (2%)|
+|Psychiatric Disorders|323 (23%)|54 (25%)|
+
+# Multivariate Analysis
+
+|Odds of 2 Missed Clinic Visit|Unadjusted Analysis|Adjusted Analysis|
+|---|---|---|
+|Age|0.96 (0.94-0.97)|0.96 (0.94-0.98)|
+|Lives Alone|1.70 (1.21-2.36)|1.71 (1.21-2.41)|
+|Marginal Housing|9.68 (4.19-23.52)|6.93 (2.88-17.38)|
+|Substance Abuse|1.97 (1.39-2.78)|1.48 (1.01-2.12)|
+|Lacks Social Support|4.27 (1.25-13.49)|2.21 (0.54-8.04)|
+|Psychiatric Disorders|0.97 (0.69-1.37)|0.91 (0.64-1.27)|
+
+Notes: *indicates P&lt;0.05, multivariate analysis controlled for age, psychiatric disorders, and other SDOH covariates. Substance abuse includes: Alcohol or Drug Abuse.
+
+# SOCIAL ISOLATION, LONELINESS, AND VIOLENCE EXPOSURE IN OLDER ADULTS
+
+Elizabeth L. Tung; Kathleen A. Cagney; Louise C. Hawkley; Monica E. Peek. University of Chicago, Chicago, IL. (Control ID #3177732)
+
+# BACKGROUND
+
+Social isolation, a key predictor of mortality in the U.S., may be heightened in communities affected by violence. For instance, qualitative studies have documented that older adults who live in high-crime communities often report confinement to their homes due to safety concerns. However, few studies have quantified associations between social isolation and community violence exposure in at-risk populations.
+
+# METHODS
+
+Adult patients (N=506) were recruited from clinics in 2 epicenters of violent crime in Chicago, and surveyed using computer-assisted personal interviewing software. Social isolation was measured using validated items for social network characteristics, living arrangements, social participation, social support, and loneliness; all measures were normalized to 100-point scales. Lifetime violence exposure was measured using the Brief Trauma Questionnaire, which queried participants about being a direct victim of violence, a witness to violence, or a close friend/family member of someone who died violently. We used generalized linear models to assess social isolation measures as a function of violence exposure, controlling for age, gender, race/ethnicity, education, insurance, and employment. We also used identical model specifications to assess health behaviors as a function of above- or below-average loneliness scores.
+
+# RESULTS
+
+Mean age was 59.6 ± 13.0 years. Participants were predominantly female (71%) and non-Hispanic black (75%). Two-thirds reported a prior exposure to community violence (62%), either as a direct victim (41%) or as an indirect witness, friend, or family member (49%). Prior exposure to community violence was associated with a 7.8-point reduction (95% CI, -13.2 to -2.5) in perceived social support from friends; a reduction in perceived social support from family was not significant. Although mean social network size was similar between exposed (2.4 ± 1.7 persons) and unexposed groups (2.2 ± 1.7 persons), prior exposure to community violence was associated with a 8.0-point increase in perceived loneliness (95% CI, 3.5 to 12.4). Living arrangement and social participation did not differ between groups. An above-average loneliness score was associated with fewer days per week of fresh fruit and vegetable consumption (-0.5 days; 95% CI, -1.0 to -0.1) and medication adherence (-0.6 days; 95% CI, -1.0 to -0.2); and more days per week of binge alcohol consumption (0.4 days; 95% CI, 0.1 to 0.6) and using tobacco products (0.5 days; 95% CI, 0.1 to 0.9). Physical activity did not differ between groups.
+
+# CONCLUSIONS
+
+Exposure to community violence was associated with less social support and higher loneliness in this high-risk sample of urban-dwelling adults; loneliness was associated with adverse health behaviors. At a time when public health leaders are calling for solutions to the "epidemic of loneliness," identifying populations at highest risk for loneliness may help to target interventions and ensure equitable access to social and medical support.
+
+# SOCIAL NETWORK ANALYSIS OF FIREARM SHARING AMONG US STATES
+
+Sae Takada; Kristen Choi; Shaw Natsui; Altaf Saadi; Liza Buchbinder; Molly C. Easterlin; Frederick Zimmerman. 1UCLA National Clinician Scholars Program, Los Angeles, CA; 2U.S. Department of Veterans Affairs, Los Angeles, CA; 3Cedars Sinai Medical Center, Los Angeles, CA; 4UCLA Fielding School of Public Health, Los Angeles, CA. (Control ID #3185910)
+
+# BACKGROUND
+
+There is growing concern that the movement of firearms across state lines may decrease the effectiveness of state-level firearm-restricting policies. Yet how firearms cross state lines and how state-level firearm policies affect cross-state movement have not yet been widely explored. The purpose of this study was to characterize the flow of firearms between states in a social network analysis and examine how state-level firearm policies affect level of firearm movement.
+
+# METHODS
+
+We used the Bureau of Alcohol, Tobacco, Firearms, and Explosives firearm trace data from 2012 to 2016 to create a network of firearm flow between states, defined according to "origin states" (state where a given firearm is purchased) and "destination states" (state where a given firearm is recovered). We used social network analysis and considered these networks at three thresholds of firearm flow: at least 1, at least 50, and...

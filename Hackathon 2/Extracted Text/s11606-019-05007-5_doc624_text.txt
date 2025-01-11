@@ -1,0 +1,55 @@
+# JGIM ABSTRACTS
+
+# MEASURES OF SUCCESS
+
+Patients seen in the MGMC were matched to patient controls (seen in the prior 2 years before the MGMC was established) by pathologic diagnosis and stage. The primary endpoint was time between the initial oncologic consult and first definitive therapy. Secondary endpoints were time from biopsy to first definitive therapy and time from biopsy to completion of staging. The average times for each endpoint for these two groups were then evaluated statistically.
+
+# FINDINGS TO DATE
+
+40 patient cases (with 40 available matched controls) were seen in the MGMC from July 2016-June 2018. A statistically significant reduction in the average time between initial oncologic consult to the time of first definitive therapy was found in favor of patients seen in the MGMC (44.3±20.5 days vs 60.7±41.4 days). The average time from biopsy to first definitive therapy was not found to be significantly different between patient groups. The average time from biopsy to completion of staging was significantly reduced in the MGMC group (31.4±33.1 days vs 53.2±40.5 days).
+
+# KEY LESSONS FOR DISSEMINATION
+
+The establishment of a Multidisciplinary Gastrointestinal Malignancy Clinic allowed cancer patients to meet with various oncology specialists in a single setting and for oncology providers to decide upon an initial consensus treatment plan, resulting in a reduced time between initial consult and first definitive treatment. Staging was also completed more efficiently in patients seen in the multidisciplinary clinic. These results suggest that a multidisciplinary oncology clinic enhances delivery of care in newly diagnosed cancer patients.
+
+# EVALUATION OF AN INTERVENTION SUPPORTING GUIDELINE-CONCORDANT, PATIENT-CENTERED CARE FOR PATIENTS ON CHRONIC OPIOIDS
+
+Joel Sawady2, 6; Emily Hanson2; Esther Cazeau4; KATHERINE Y. COLON5; Michael Flores4, 3; Yanyi Jiang4, 3; Brian Mullin4, 3; Ana M. Progovac4, 3; Lynne A. Seeley1; Kathleen Thelen5; Benjamin Cook4, 3. 1Cambridge Health Alliance, Cambridge, MA; 2Cambridge Health Alliance, Brighton, MA; 3Harvard Medical School/Health Equity Research Lab, Cambridge, MA; 4Cambridge Health Alliance, Cambridge, MA; 5Cambridge Health Alliance, Medford, MA; 6Harvard Medical School, Cambridge, MA. (Control ID #3178624)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+New regulations and guidelines have increased the burden on clinicians caring for patients on long-term opioid therapy (LTOT), compounding the challenge of providing patient-centered care for this vulnerable population.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+1. Support clinicians in providing regulation- and guideline-concordant care for patients on LTOT through improved EHR tools and staff support.
+2. Educate clinicians on best practices for legacy patients already on LTOT.
+3. Support clinicians in a patient-centered approach to reducing high-risk prescribing.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION
+
+Cambridge Family Health (CFH) is a primary care practice within the Cambridge Health Alliance (CHA), a safety-net institution caring for a diverse patient population, with a high burden of psychiatric illness, substance use disorders, and chronic pain. LTOT for chronic pain has become more complex due to: 1. New regulations and evolving best practices, including mandated counseling, prescription monitoring program (PMP) use, controlled substance agreements (CSAs), and urine drug screens (UDSs); 2. Team-based care leading to a need for structured coverage arrangements. In response, our multidisciplinary team reviewed relevant regulations, created clinician guidance, and developed workflows to support that guidance. The intervention included: 1. Regulatory- and guideline-concordant EHR documentation; 2. Staff-supported workflows to check the PMP, ensure CSAs are in place, and obtain UDSs; 3. Clinician education. We hypothesized that educating clinicians and reducing administrative burden would remove barriers to individualized treatment and improve care.
+
+# MEASURES OF SUCCESS
+
+Patients on LTOT receiving care at CFH (N=257; intervention group) were compared with patients on LTOT receiving care at all other CHA clinics (N=1680; comparison group). We evaluated changes between 2015 and 2018 in: 1. Proportion of patients receiving UDSs; 2. Rate of co-prescription of benzodiazepine and opioids; 3. Rate of discontinuation of opioids; 4. Proportion of patients on high-dose opioids. We conducted a difference-in-differences analysis comparing changes in the intervention group to changes in the control group, adjusting for relevant covariates. Additional analyses were done on a subset of patients on high-dose LTOT (intervention=41, control=212).
+
+# FINDINGS TO DATE
+
+Compared to the comparison group, patients in the CFH intervention had a significantly greater increase in use of UDSs (D-D = +8.27%; p<.05); a significantly greater decrease in co-prescription of benzodiazepines (D-D = -15.9%; p<.05); but no statistically significant change in discontinuation of opioids. Results of D-D analysis were consistent for both unadjusted and adjusted analysis. Controlling for covariates, there was a statistically significant difference in the proportion of patients on high-dose opioids between treatment and comparison groups at the end of the intervention ( =-.20 p<.05).
+
+# KEY LESSONS FOR DISSEMINATION
+
+An intervention supporting guideline-concordant care for patients with LTOT shows promise in improving care, particularly for patients on high-dose opioids.
+
+# EXPANDING ACCESS TO INTRANASAL NALOXONE FOR HIGH RISK PATIENTS UPON HOSPITAL DISCHARGE
+
+Erica Tavares; Rutwij K. Joshi. Massachusetts General Hospital, Boston, MA. (Control ID #3186346)
+
+# STATEMENT OF PROBLEM OR QUESTION
+
+There is no clearly defined process for providing intranasal naloxone for eligible patients being discharged from their inpatient stay at Massachusetts General Hospital.
+
+# OBJECTIVES OF PROGRAM/INTERVENTION
+
+A pharmacist driven pilot program was performed on an internal medicine and oncology unit with the objectives of increasing

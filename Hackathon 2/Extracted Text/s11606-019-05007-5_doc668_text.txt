@@ -1,0 +1,54 @@
+# ABSTRACTS
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+1. Reduce primary care providers (PCPs) EHR burden by identifying opportunities to reduce the amount of low value added information to be reviewed and eliminate unnecessary keystrokes.
+2. Showcase success of two practical, high impact de-implementation initiatives that reduced EHR inbox message volume in PCPs inbox and eliminated most second password authentications.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+Our first initiative focused on ways to reduce the exploding volume of Epic EHR inbox messages among PCPs. Analysis of 3 years of inbox messages received by PCPs in GIM and Family Medicine (FM) found that "CC Chart" messages were the most common (332K) and more frequent than Results (256K), Patient Calls (234K), and any other type. PCPs were receiving 3 times as many "CC Chart" messages in their inbox compared to specialty physicians. PCPs validated that almost none of these CC Charts were helpful. The EHR was programmed to automatically send a copy of every specialty outpatient encounter to the PCP. This programming decision was made over 10 years ago and then propagated to over 50 clinic-specific settings over the years (including routine dental and ophthalmology visits). Consensus was reached among physician leadership and frontline PCPs to de-implement this automatic messaging and use only intentional CC Chart routing. Our second initiative sought to eliminate the need for 2nd password authentication for medication ordering. Our EHR build required providers to enter their password to approve nearly all types of orders (not just controlled substance orders) even though they were already logged in. After garnering operational and IT leadership support, the EHR team located and removed the automated programming point for automatic CC Charts and turned off the requirement for 2nd password entry for non-controlled medication ordering.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+Reduction in number of CC Chart messages and 2nd password entries.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Prior to the intervention, the number of CC Chart messages received by GIM PCPs was growing steadily, exceeding 9,500 per month. After "DCing the CC", the number of messages dropped nearly in half, to under 5,000 messages per month. Among FM PCPs, CC Chart messages dropped from 2,500 to 1,000 per month. Specialty departments served as controls and saw no decrease in their CC Chart messages. In our second initiative, eliminating the need for 2nd password entry for non-controlled medication orders saved 692,465 password entries among 1,917 clinicians over a 7.5 month period in our outpatient setting, 1,961,674 in our hospitals for a total of 2,654,139 entries saved.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Identifying common EHR tasks that are low value added or redundant and eliminating them can reduce EHR burden. While the natural history of EHR adoption is to add more and more features and requirements, more attention is needed to periodically review and de-implement unnecessary or dated ones.
+
+# SUSTAINABLE IMPROVEMENT OF COLORECTAL CANCER SCREENING RATES THROUGH A RESIDENT LED INITIATIVE
+
+Daniel Jonas; Matt Welzenbach1, 1; Patrick Ryan2. 1University of Colorado, Denver, CO; 2Denver Health and Hospital Authority, Denver, CO. (Control ID #3183608)
+
+# STATEMENT OF PROBLEM OR QUESTION (ONE SENTENCE):
+
+How can we increase our colorectal cancer screening rates in a sustainable, automated method at a Federally Qualified Community Health Center?
+
+# OBJECTIVES OF PROGRAM/INTERVENTION (NO MORE THAN THREE OBJECTIVES):
+
+At the Westside Adult Internal Medicine Clinic in Denver, Colorado our colorectal cancer screening rates were below a hospital wide goal. We aimed to increase our colorectal cancer screening rate from 54% to a hospital wide goal of 65% using a resident led quality improvement project by focusing on increasing screening through FIT card testing.
+
+# DESCRIPTION OF PROGRAM/INTERVENTION, INCLUDING ORGANIZATIONAL CONTEXT (E.G. INPATIENT VS. OUTPATIENT, PRACTICE OR COMMUNITY CHARACTERISTICS):
+
+This was a resident led quality improvement project at the Westside Adult Primary Care clinic, an outpatient clinic affiliated with Denver Health in Denver, Colorado. We first underwent a root cause analysis to identify reasons why our screening rates were low. We then underwent three plan-do-study-act cycles. First we had medical assistants pend FIT orders for provider on patients who were due for colorectal cancer screening. Our second cycle implemented a patient handout in exam rooms to cut back on time spent discussing screening options. And finally, we developed an automated system through our electronic medical record to identify patients prescribed FITs and who had not returned them. We then sent reminder letters to these patients to return their FIT kits.
+
+# MEASURES OF SUCCESS (DISCUSS QUALITATIVE AND/OR QUANTITATIVE METRICS WHICH WILL BE USED TO EVALUATE PROGRAM/INTERVENTION):
+
+The quantitative metric used to measure success were electronic medical record system reports that calculate the percent of eligible adults who have received colorectal cancer screening which we did before and after initiation of the new screening protocol. Additionally we broke this data down to individual physicians in the clinic and provided them with this data monthly. A qualitative metric used to measure success was ongoing adoption of the new screening protocol in the clinic after completion of the project and adoption by other clinics as well.
+
+# FINDINGS TO DATE (IT IS NOT SUFFICIENT TO STATE FINDINGS WILL BE DISCUSSED):
+
+Over an academic year from June 2017 to May 2018 we increased our clinic wide screening rate from 54% to 63%. The process developed empowered medical assistants to chart review and pend FIT orders as well as created an automated reminder letter to return kits. This has continued to be utilized in the clinic and has been adopted by other clinics in the Denver Health Hospital System with similar success.
+
+# KEY LESSONS FOR DISSEMINATION (WHAT CAN OTHERS TAKE AWAY FOR IMPLEMENTATION TO THEIR PRACTICE OR COMMUNITY?):
+
+Successful resident-led quality improvement projects are those that can be become automated with minimal time commitment and have buy-in from clinic leadership and hospital administration leadership. Annual FIT testing with medical assistant pended orders for providers and automated reminder letters to return FIT kits is a successful approach to increase colorectal cancer screening rates.
+
+# SUSTAINING MINDFUL LABORATORY ORDERING PRACTICES: A CULTURE CHANGE
+
+Rachna Rawal1; Ara Vartanyan2; Paul Kunnath3; Oluwasayo Adeyemo1; Hala Saad4; Alex Lane1; Jennifer Schmidt5. 1Saint Louis University, St. Louis, MO; 2Saint Louis University School of Medicine, St. Louis, MO; 3Saint Louis University School of Medicine, University City, MO; 4Saint Louis University Hospital, Saint Louis, MO; 5Saint Louis University, Saint Louis, MO. (Control ID #3183457)

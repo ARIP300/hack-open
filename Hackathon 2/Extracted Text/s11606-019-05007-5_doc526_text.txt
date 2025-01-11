@@ -1,0 +1,61 @@
+# ABSTRACTS
+
+# RISING PSA, FALLING FIBRINOGEN: A POTENTIAL PERIL OF METASTATIC PROSTATE CANCER
+
+Clare Cene-Kush; Sunmin Park; Alfred Shoukry. UPMC, Pittsburgh, PA. (Control ID #3181524)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize disseminated intravascular coagulation (DIC) with excessive fibrinolysis as a potential complication of metastatic prostate cancer
+
+# LEARNING OBJECTIVE #2:
+
+Describe the management of acute DIC in the setting of prostate cancer
+
+# CASE:
+
+A 58-year-old man presented with unintentional 25-lb weight loss and a prostate-specific antigen (PSA) elevation to 602.4 ng/mL. Imaging revealed an enlarged prostate and widespread metastatic osseous disease involving the pelvis, thoracolumbar spine and lower ribs with diagnosis of prostate carcinoma confirmed by iliac lymph node biopsy. He was admitted to our inpatient medicine service for worsening anemia, recurrent epistaxis, spontaneous ecchymosis, hematuria and hemoptysis. Physical exam revealed oozing from bilateral knee abrasions and a large ecchymosis over the right buttock. Laboratories were significant for hemoglobin 6.9 g/dL, platelets 108 x 109/L, fibrinogen 70 mg/dL, haptoglobin &lt; 30 mg/dL, lactate dehydrogenase 248 IU/L, D-dimer &gt; 20 ug/mL, positive fibrin degradation products, prothrombin time (PT) 20.2 seconds, partial thromboplastin time (PTT) 45.2 seconds and INR 1.8. His deranged coagulation profile persisted, with fibrinogen levels declining to a nadir of 56 mg/dL despite supportive transfusions with packed red blood cells and cryoprecipitate, but began to improve six days after initiation of hormonal treatment of his metastatic prostate cancer with bicalutamide and leuprolide.
+
+# IMPACT/DISCUSSION:
+
+This case highlights the need for internists to recognize DIC with excessive fibrinolysis as a potential complication or presenting symptom of prostate cancer. Treatment includes supportive transfusions and urgent initiation of complete androgen blockade or deprivation. In this case, correction of coagulopathy and reduction in spontaneous bleeding occurred within one week of initiation of treatment for his prostate cancer.
+
+# CONCLUSION:
+
+No single test is diagnostic of DIC; instead it requires recognition of a predisposing clinical scenario combined with characteristic laboratory derangements. Treatment is aimed at reversing the underlying cause. In patients with solid tumors, DIC is usually a chronic, compensated and asymptomatic laboratory phenomenon marked by thrombocytopenia with prolonged PT and PTT. A moderate degree of fibrinolysis is often indicated by an elevated D-dimer, but fibrinogen levels themselves are typically normal. However, a form of acute DIC with prominent fibrinolysis has been described in several case reports as occurring more frequently in prostate cancer, making it unique among the solid tumors associated with this consumptive coagulopathy. It has also been suggested that excessive fibrin degradation portends a poorer prognosis with greater risk for catastrophic bleeding. In this case, our patient's DIC and spontaneous bleeding symptoms began to resolve shortly after initiation of prostate cancer treatment despite a significant degree of fibrinolysis on presentation.
+
+# RITUXIMAB IN SYSTEMIC LUPUS ERYTHEMATOSUS FRIEND OR FOE
+
+Shane Murray; Gustavo Contreras Anez; Ana B Arevalo; Yousaf Ali. Mount Sinai St Luke's - West, New York, NY; Mount Sinai Hospital, New York, NY. (Control ID #3185917)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize rituximab as a cause of neutropenia in systemic lupus erythematosus
+
+# CASE:
+
+47-year-old Female with a past medical history of systemic lupus erythematosus (SLE) presented to the Emergency department with a three-day history chest pain. She described a sharp pain, exacerbated by lying flat associated with chills, muscle ache and sore throat. No rash, joint pain, headache or oral ulcers were noted. Medications included mycophenolate mofetil 2g daily, prednisone 1mg daily and rituximab (RTX) given as a weekly infusion for two weeks every two months. Physical Exam was remarkable for a cardiac friction rub. ECG demonstrated diffuse PR depressions. Initial Laboratory studies revealed troponinemia (peak 2.1ng/ml) and neutropenia with an absolute neutrophil count of zero. Chest radiograph was unremarkable. Treatment was begun with high dose oral corticosteroids and broad-spectrum antibiotics. Initial transthoracic echocardiogram was unrevealing but subsequent cardiac MRI confirmed myopericarditis. Examination of peripheral blood smear noted bands and occasional myelocytes. Laboratory testing for extractable nuclear antigens, including double stranded DNA was negative. Complement levels were normal. Bacterial, viral and fungal testing was unrevealing. Neutrophil counts improved and patient was discharged with a Prednisone taper. Outpatient testing off the drug resulted in normalization of neutrophil counts.
+
+# IMPACT/DISCUSSION:
+
+RTX has gained popularity in recent years as an off-label therapy for refractory SLE. Studies on the efficacy of the drug have yielded conflicting results and its role as a treatment in SLE remains controversial. Treatment duration is poorly defined and uncertainty exists over the safety and efficacy of redosing. Typically, SLE patients receive between two and four doses as therapy. Retreatment is only considered in those who responded and show signs of disease flare. Here we demonstrate a case of RTX infusions given under a modified protocol at an outside institution which may have contributed to a case of late onset neutropenia (LON). RTX is increasingly recognised as a cause of LON. Recent literature suggests a higher occurrence of LON in SLE patients compared to others treated with the drug. High cumulative doses, as in this case, have also been linked to increased rates of LON. While is difficult to exclude lupus or infection as contributing factors, we felt that RTX was the likely culprit due to the relatively high dose and improvement in neutropenia upon cessation of the drug. Providers should remain cautious when prescribing RTX in SLE patients, record cumulative doses and monitor patients frequently for neutrophil count and signs of infection.
+
+# CONCLUSION:
+
+Safety and efficacy of RTX in SLE is poorly defined and requires further research. RTX related LON may be more prevalent in SLE patients and high cumulative doses may increase risk. Patients should be monitored closely for neutrophil counts and signs of infection after treatment.
+
+# ROLE OF C-INHIBITOR TREATMENT IN GLIOBLASTOMA MULTIFORME WITH REFRACTORY EDEMA
+
+Gillian R. Naro; Nicholas Noverati; Timothy Craig. Penn State College of Medicine, Hershey, PA. (Control ID #3165785)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the role of bradykinin in clinical complications of Glioblastoma Multiforme (GBM).
+
+# LEARNING OBJECTIVE #2:
+
+Discuss the utility of immune-targeted therapy in glioblastoma associated edema through a clinical vignette.
+
+# CASE:
+
+A 49-year-old male whose medical history is significant only for GBM diagnosed on 9/26/2016, sought treatment for his cerebral edema and angioedema in 3/2018. His disease progressed significantly despite two craniotomy resections, adjuvant chemotherapy, and radiation. On 1/31/2018 he developed angioedema of the pharynx and intermittent swelling of various.

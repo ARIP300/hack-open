@@ -1,0 +1,57 @@
+# ABSTRACTS JGIM
+
+# LACTIC ACIDOSIS IN A PATIENT WITH DLBCL
+
+salicylate, or albuterol use. His lactate rose to 15.1 mg/dL and he developed new hypoglycemia that persisted despite D10% bicarbonate infusion at 500cc/hour. His lactate then rose to 22.3 mg/dL. Given the severe hyperlactatemia and hypoglycemia in the setting of prior DLCBL, there was a concern for a Warburg effect. A bone marrow biopsy demonstrated recurrent DLBCL. The wrist pain was felt to be secondary to bone marrow infiltration by his lymphoma. He was given palliative chemotherapy and his serum pH, lactate, and glucose levels improved. Unfortunately, on hospital day 25, he passed away.
+
+# IMPACT/DISCUSSION:
+
+Lactic acidosis is a common problem in the hospital setting. While type A lactic acidosis, a result of tissue hypoperfusion, is the most common, the differential for a type B lactic acidosis, an impairment of cellular metabolism, is less readily encountered. Type B lactic acidosis may be secondary to: 1) Increased metabolic demand (e.g. seizure) 2) Liver disease 3) Renal disease 4) Medications: metformin toxicity, alcohols, propofol, linezolid, NRTIs, or salicylate overdose 5) Thiamine deficiency 6) Increased glycolysis from cocaine ingestion, albuterol, pheochromocytoma or the Warburg effect. The Warburg effect results from an oncogenic switch to increased glycolysis, with avid glucose consumption and consequential lactate production. It is often seen in lymphoproliferative disorders and may or may not present with hypoglycemia. These metabolic derangements can be the initial presenting sign of malignancy and are a poor prognostic indicator. As in our case, the lactic acidosis can worsen with administration of dextrose, supporting the hypothesis that tumor cells aggressively consume glucose and rapidly convert it into lactate.
+
+# CONCLUSION:
+
+Providers should consider type B lactic acidosis in patients with hyperlactatemia and be aware of the Warburg effect in patients with lymphoproliferative disorders.
+
+# WARFARIN - IT'S NOT JUST BLEEDING RISK
+
+Alexandra Barger; Hannah Oakland. Tulane University School of Medicine, New Orleans, LA. (Control ID #3184462)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize warfarin as a cause of calciphylaxis
+
+# LEARNING OBJECTIVE #2:
+
+Identify calciphylaxis as a cause of painful ulcers in patients with no history of ESRD
+
+# CASE:
+
+A 50-year-old man presented bilateral lower extremity ulcers for 4 months. One week before presentation, ulcers were debrided and then became very painful. Purulent drainage and fever then developed prompting him to seek medical care. He has a history of atrial fibrillation on chronic anticoagulation with warfarin and type 2 diabetes mellitus. He was afebrile with a HR of 114bpm. A 6cm wound of the left medial shin with yellow purulent drainage and a 2cm RLE medial wound with small amount of purulence were present. WBC was elevated at 14 x 109/L. Renal function was normal. Arterial duplex ultrasound revealed only mild arterial disease. Pain was controlled and he was discharged on antibiotics. Several weeks later, he returned with uncontrolled pain. A biopsy of the ulcers was performed and returned with focal calcium deposits in subcutaneous fat, with vascular involvement and extensive fat necrosis consistent with calciphylaxis. He was diagnosed with warfarin-induced non-uremic calciphylaxis and was transitioned to apixaban for anticoagulation.
+
+# IMPACT/DISCUSSION:
+
+Calciphylaxis is a small-vessel disease involving calcification of subcutaneous arterioles and resultant cutaneous necrosis, classically seen in patients with end-stage renal disease (ESRD) but can develop in patients without renal disease. While calciphylaxis in ESRD is thought to be related to hypercalcemia, secondary hyperparathyroidism, or hyperphosphatemia, non-uremic calciphylaxis (NUC) occurs in patients with normal calcium and phosphate levels, and the pathogenesis is not completely understood. Increasingly, warfarin use is being identified as an independent cause of NUC. Calciphylaxis is characterized by medial calcification and intimal fibrosis of arterioles, followed by thrombotic occlusion and ischemia leading to tender, erythematous lesions which can develop into open ulcerations with possible progression to gangrene or sepsis. Calciphylaxis lesions are typically intensely painful, similar to ulcers caused by atherosclerotic peripheral artery disease. One-year mortality rate of those afflicted, regardless of etiology, is approximately fifty percent, with most deaths due to sepsis. The mechanism by which warfarin is thought to cause calciphylaxis is via inhibition of matrix Gla protein, which allows inappropriate calcification of blood vessels. Other risk factors for NUC are hyperparathyroidism, malignancy, alcoholic liver disease, connective tissue disease, female gender, white race, steroid use, diabetes, albumin or blood transfusions, and protein C or S deficiency.
+
+# CONCLUSION:
+
+With a high associated mortality, it is important for the internist to recognize calciphylaxis as a cause of painful ulcers in patients without advanced renal disease. Warfarin has been recognized as a cause of calciphylaxis.
+
+# WAS IT THE BEER OR THE BURGERS
+
+Ian Cormier; Michael P. Smith. University of Nebraska Medical Center, Omaha, NE. (Control ID #3186069)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize hypertriglyceridemia as a cause of pancreatitis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize the effects of hypertriglyceridemia on common laboratory evaluations
+
+# CASE:
+
+A 27-year-old man presented with six hours of severe abdominal pain. The pain was sharp, constant and located across the upper abdomen and radiated to his back. There was associated nausea and vomiting of non-bloody, non-bilious emesis. The patient had consumed a large quantity of alcohol prior to presentation. He had a history of alcohol dependence complicated by withdrawal seizures and frequent episodes of acute pancreatitis requiring hospitalization. Vitals were within normal limits. His BMI was 22. The patient was intoxicated and had marked tenderness to palpation over the left upper quadrant and epigastric area with rebound tenderness. Labs were significant for elevated blood alcohol level, elevated lipase, hyponatremia, hyperkalemia, hypocalcemia, hypermagnesemia and a normal serum osmolality. An ECG revealed no acute abnormalities. Staff from the chemistry lab described the patient's serum as lactescent. A lipid panel revealed triglycerides greater than 5000 mg/dL. Repeat point-of-care-testing of the patient's serum revealed normal electrolyte levels. CT of the abdomen revealed heterogeneous enhancement of the pancreas consistent with acute pancreatitis. The patient was started on intravenous fluids and pain management. He started on an insulin drip with 5% dextrose and fenofibrate for his hypertriglyceridemia. He was eventually discharged on gemfibrozil.
+
+# IMPACT/DISCUSSION:
+
+Acute pancreatitis is a commonly encountered diagnosis and is the most common gastrointestinal reason for hospitalization. Approximately 75% of cases of acute pancreatitis are caused by gallstones or alcohol consumption. In contrast, hypertriglyceridemia only accounts for 2-4% of acute pancreatitis cases. Though the etiology of acute pancreatitis is usually unambiguous, one must always keep a systematic approach. Pancreatitis in the setting of coexisting hypertriglyceridemia and excessive alcohol consumption is potentially confounding. This case also illustrates the interesting relationship between elevated serum lipids and measured serum electrolytes. The presence of elevated lipids increases the non-aqueous components of the serum with a concomitant decrease in the fraction of serum composed of.

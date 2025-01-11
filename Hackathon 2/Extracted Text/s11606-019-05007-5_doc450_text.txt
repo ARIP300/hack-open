@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# IMPACT/DISCUSSION:
+
+Though more common in children, EH can affect adults. Patients with bullous disorders are prone to superimposed HSV and VZV. Clinical and histological identification of these infections remains challenging in the context of the underlying skin disease. Failure to recognize EH delays the initiation of definitive antiviral therapy, increasing the risk of dissemination, multi-organ failure, and fatal outcomes. It remains controversial whether the use of topical and systemic steroids to treat bullous disorders, as in this case, potentiates extension of localized infection and increases the risk for systemic dissemination of HSV. Intriguingly, occult HSV, but not VZV, colonization has been reported in patients with bullous dermatitides. EH may be more common than previously appreciated in patients with bullous disorders.
+
+# CONCLUSION:
+
+- EH is a serious complication of benign familial pemphigus that can mimic the underlying disease.
+- For patients presenting with a presumed exacerbation of their bullous dermatitis, testing for HSV/VZV should be pursued.
+
+# HIDING IN PLAIN SIGHT: PRIMARY CENTRAL NERVOUS SYSTEM LYMPHOMA WITH NO CONTRAST ENHANCEMENT ON IMAGING
+
+Saboor E. Randhawa1; ahmed munir1; Daniel A. Ermann1; Ahmed Aly1; Carrie Valenta2. 1Creighton University, Omaha, NE; 2Creighton University School of Medicine, Papillion, NE. (Control ID #3186150)
+
+# LEARNING OBJECTIVE #1:
+
+Diagnose central nervous system lymphoma when there is no contrast enhancement on imaging studies.
+
+# LEARNING OBJECTIVE #2:
+
+Assess for central nervous system lymphoma clinically based on symptoms and signs.
+
+# CASE:
+
+A 37-year-old female with history of migraines had frequent visits to the Emergency Department (ED) with severe progressive headaches. These were different in character from her migraines and associated with nausea, vomiting, photophobia and syncope. She was HIV negative and had no history of seizures or substance abuse. On her first ED visit, she had a syncopal episode with unremarkable neurological exam and laboratory findings. CT without contrast showed non-specific hypodense areas with no evidence of acute abnormalities. MRI with contrast revealed extensive but non-specific changes suggestive of demyelination and inflammation. There were minimal patchy contrast enhancement areas that extended along the course of the perforator vessels in the basal ganglia on both sides, left greater than right. There was otherwise no contrast enhancement. She was readmitted within the same month for similar symptoms. Neurology was consulted. Cerebrospinal fluid (CSF) cell count, glucose and protein were within normal limits. Further investigations including CSF PCR for various pathogens for meningo-encephalitis were negative. The patient was started on a five-day course of steroids. A few immunoblasts were found on CSF fluid analysis. Peripheral blood smear did not reveal abnormal cells, and another LP was performed for CSF flow-cytometry to rule out malignancy. Due to the above inconclusive results, Neurosurgery suggested stereotactic brain biopsy which revealed Primary Diffuse Large B-Cell Lymphoma of the CNS. Repeat CT and MRI scans also did not reveal contrast enhancement. The patient was then started on appropriate chemotherapy with improvement in her symptoms.
+
+# IMPACT/DISCUSSION:
+
+Early diagnosis of PCNSL often requires a high degree of suspicion, as symptoms can evade diagnosis for many months. Presenting signs and symptoms vary, depending on the site of involvement. Evaluation of PCNSL should include imaging of the CNS, ideally with contrast-enhanced MRI. CT with contrast can be used if MRI is contraindicated. Tissue diagnosis should not be delayed and definitive diagnosis requires histopathological evaluation. In population-based studies, five-year survival for immunocompetent adults is approximately 30 percent. In another study, treatment delay (greater than 30 days after diagnosis) was the most important clinical variable associated with decreased survival, independent of baseline performance status. Non-enhancing lesions can delay the diagnosis, hence delaying the initiation of treatment.
+
+# CONCLUSION:
+
+- PCNSL can present without contrast enhancement, and delay in the treatment directly affects the survival of these patients.
+- PCNSL must be in the list of differential diagnoses even when non-enhancing, diffuse lesions are seen on CT/MRI.
+
+# HIT YOU WHILE YOU'RE DOWN: EARLY STENT THROMBOSIS DUE TO HEPARIN-INDUCED THROMBOCYTOPENIA
+
+Elizabeth Oczypok; Joshua M. Haswell; Amar Kohli. UPMC, Pittsburgh, PA. (Control ID #3186125)
+
+# LEARNING OBJECTIVE #1:
+
+List risk factors for and clinical signs of early stent thrombosis.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose HIT based on established clinical and laboratory data.
+
+# CASE:
+
+A 45-year-old man with hypertension and hyperlipidemia presented with chest pain. EKG revealed acute inferior wall ST-elevation myocardial infarction. Left heart catheterization showed a large occlusive thrombus in the right coronary artery, which was treated with three drug-eluting stents. The patient was started on a heparin drip, aspirin, and clopidogrel for high-risk STEMI with large thrombotic burden. On hospital day 7, the patient developed chest discomfort and diaphoresis with several self-terminating runs of polymorphic ventricular tachycardia. Repeat catheterization revealed a large occlusive thrombus in the RCA at the site of previous stent placement. No further stenting was done. The patient's platelets were observed to acutely drop from 216 on hospital day seven to a nadir of 30 on hospital day nine. 4T score was 6 and heparin platelet factor-4 antibody OD was 1.658 (high probability of HIT). Serotonin release assay was negative. Patient was transitioned from heparin to argatroban on hospital day 9, and his platelet counts recovered to baseline. He was discharged on hospital day 18 on aspirin, ticagrelor, and warfarin.
+
+# IMPACT/DISCUSSION:
+
+Heparin-induced thrombocytopenia is an uncommon, life-threatening, "can't miss" diagnosis. Cardiac patients are commonly exposed to heparin in the setting of acute myocardial infarction. Stent thrombosis can occur in up to 3.1% of STEMIs and can present with recurrent ischemic changes on EKG or arrhythmias such as polymorphic VT. Dual antiplatelet therapy and newer generation drug-eluting stents decrease rates of stent thrombosis, however, procedural characteristics such as emergent stent placement and residual thrombus near the stent, as well as patient factors such as low ejection fraction, underlying hypercoaguable state, and diabetes can increase stent thrombosis risk. If there is high clinical concern for HIT based on the 4T score, confirmatory testing should be sent, all heparin products should be stopped, and the patient should be anticoagulated with a non-heparin agent. In this case, the patient's 4T score was elevated on hospital day 8, but was not initially recognized, leading to a delay in treatment. Also, his serotonin release assay, considered the "gold standard" of HIT diagnosis, was negative, illustrating that false negatives are still possible in sensitive tests. Consideration of clinical context remains important.
+
+# CONCLUSION:
+
+- HIT should be considered as a possible cause of early stent thrombosis.
+- Stent thrombosis has a 30-day mortality rate of 10-25% and has a high recurrence rate, necessitating close monitoring and careful choice of antiplatelet therapy.
+- Test characteristics of the 4T score, confirmatory immunoassay, and functional assay should be carefully considered when making clinical decisions about suspected HIT cases.
+
+# HOG HUNTING GONE WILD: A RARE ZOONOSIS CAUGHT CLOSE TO HOME
+
+Syeda A. Raza. Methodist Health Systems Dallas, Dallas, TX. (Control ID #3185804)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize infection with zoonotic organisms as a cause of sepsis in humans.

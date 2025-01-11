@@ -1,0 +1,53 @@
+# ABSTRACTS JGIM
+
+# Hyponatremia from Tamponade
+
+1200mL bloody, exudative fluid likely due to recent anticoagulation for atrial fibrillation. Within 24 hours of pericardial drainage, her clinical picture improved with rapid resolution of hyponatremia and AKI.
+
+# IMPACT/DISCUSSION:
+
+Hyponatremia is a common electrolyte abnormality often caused by medications, hormonal imbalance, liver or cardiac failure. This case adds to the limited literature of acute hyponatremia from tamponade, often overlooked as another potential cause. It teaches the dangers of anchoring and premature closure as diagnostic heuristics in the work-up of hyponatremia. Diagnostic clues include abrupt clinical deterioration and rapid progression of hyponatremia refractory to standards of therapy. Literature suggests monitoring NT-pro BNP as a marker of disease severity in tamponade. Cases are mostly in malignancy and rarely hemorrhagic from anticoagulation or nonmalignant like our case. Pathophysiology is not well-understood but likely due to inappropriate release of ADH from the low-flow state of tamponade. Prompt pericardial drainage improves systolic blood pressure, decreasing ADH production, increasing ANP production and resulting in rapid recovery of hyponatremia, as cited in most cases.
+
+# CONCLUSION:
+
+Consider tamponade in cases of unexplained hyponatremia, particularly in the setting of malignancy, existing pericardial effusion and/or hyponatremia refractory to empiric treatment. Reversal of hyponatremia after pericardial drainage is rapid and spontaneous so prompt diagnosis of tamponade is imperative and life-saving.
+
+# A RARE CASE OF RECURRENT ENDOCARDITIS DUE TO CANDIDA PARAPSILOSIS
+
+Daniel Tsang; Misa Hyakutake; Kevin Andujar. Mount Sinai Beth Israel, Bronx, NY. (Control ID #3183552)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize the importance of long-term suppressive therapy in patients with a history of fungal endocarditis.
+
+# CASE:
+
+A 51 year old man with a history of active inhaled cocaine use and former intravenous heroin use presented with dyspnea and fevers for 2 weeks. Patient denied taking any medications other than methadone. He last used cocaine 3 days ago and quit intravenous heroin use 8 years ago. Physical exam was notable for mild jugular venous distention, a 3/6 systolic murmur, 1/6 diastolic murmur, and 1+ pitting edema in his lower extremities. No skin or nail abnormalities were observed. Laboratory test showed WBC 7.6 K/UL, B-Type Natriuretic 506.2 PG/ML. Urine toxicology was positive for cocaine and methadone. Chest X-ray showed pulmonary vascular congestion and interstitial edema. Transthoracic echocardiogram and subsequent transesophageal echocardiogram showed a mobile 1 x 0.5 cm echodensity on the aortic valve and severe aortic regurgitation. All 3 sets of blood cultures that were drawn grew Candida parapsilosis. He underwent successful aortic valve replacement and completed a 3 week course of intravenous caspofungin. He was discharged with a 90 day supply of oral fluconazole and planned outpatient follow up. Approximately 4 months later, he presented again to the ED complaining of left sided abdominal pain and left chest pain. CT of the abdomen showed large areas of splenic infarctions. Transesophageal echocardiogram revealed multiple new vegetations on the bioprosthetic aortic valve with the largest measuring 3.4 cm. He underwent successful redo aortic valve replacement. Blood cultures and cultures from the aortic root vegetations again grew Candida parapsilosis and he was continued with caspofungin. Upon further questioning, patient admitted that he had not been compliant with his suppressive fluconazole, only taking it for 2 weeks. He was eventually discharged with 6 weeks of IV caspofungin, followed by planned lifelong fluconazole therapy.
+
+# IMPACT/DISCUSSION:
+
+Recurrence rates of fungal endocarditis after surgical and antifungal treatment have been estimated to be around 30-40% and occur more frequently in those who stop suppressive therapy. There have been reported cases of recurrence several years after the initial valve replacement. Fungi have been shown to be present in replaced valves decades after placement. Given the rarity of fungal endocarditis (about 2% of all infectious endocarditis cases), there are no definitive guidelines on anti-fungal treatment duration after valve replacement. This report demonstrates a case of a rare infection and the possible effects of an abbreviated treatment course. Taking into account the high recurrence rates of fungal endocarditis, it is reasonable to consider lifelong suppressive therapy.
+
+# CONCLUSION:
+
+- There are no definitive guidelines as to treatment duration for fungal endocarditis because of its rarity. - Given the high mortality rate and high rate of recurrence, lifelong suppressive therapy should be considered for fungal endocarditis.
+
+# A RARE CASE OF RECURRENT PNEUMONIA
+
+Belaal Sheikh; Dipesh Ludhwani. Chicago Medical School, McHenry, IL. (Control ID #3185779)
+
+# LEARNING OBJECTIVE #1:
+
+Important considerations when assessing causes of recurrent pneumonia.
+
+# CASE:
+
+A 63 year old Caucasian female presented to our hospital with a complaint of dyspnea for a few days. Her past medical history was significant for multiple sclerosis, quadriplegia and recurrent pneumonia. A month prior to presentation, the patient was discharged from the hospital on antibiotics for her third episode of aspiration pneumonia in the last 8 months. Patient had a normal bronchoscopy 6 months ago. Physical exam on admission revealed a low grade temperature with hypoxia and coarse breath sounds. Initial lab work showed an elevated leukocyte count of 15.4 and normal serum chemistry. CT chest revealed progression of bilateral chronic lower lobe infiltrates with right upper lobe infiltrates now lower in density compared to previous imaging. Patient was started on broad spectrum antibiotics and underwent bronchoscopy with Broncho-alveolar lavage and Trans-bronchial biopsy. Cytopathology from right upper lobe revealed reactive bronchial cells and foamy macrophages consistent with a diagnosis of Lipoid pneumonia. Careful investigation of her medication list revealed mineral oil use for chronic constipation. Mineral oil was stopped and patient was continued on supportive antibiotic therapy. Her symptoms improved and patient was discharged to a skilled nursing facility. Follow up CT scan performed outpatient revealed a complete resolution of upper lobe infiltrates and improvement in lower lobe opacities.
+
+# IMPACT/DISCUSSION:
+
+Lipoid pneumonia should be considered in all cases of recurrent pneumonia especially in patients at high risk of aspiration. Detailed history and thorough medication review are imperative in making the diagnosis. CT scan in lipoid pneumonia characteristically shows fat attenuation as low as -30HU within consolidative opacities. Presence of superimposed inflammation can confound diagnosis by increasing attenuation and obscuring fat component. Imaging with histologic confirmation is gold standard in diagnosis of lipoid pneumonia. Distinction between endogenous and exogenous pneumonia plays a big role in management of such cases. Endogenous pneumonia is commonly associated with lung malignancy. Treatment for lipoid pneumonia is supportive. Historically corticosteroids, immunoglobulins and whole lung lavage have all shown successful results.
+
+# CONCLUSION:
+
+Pneumonia remains a leading cause of mortality and morbidity worldwide. Lipoid pneumonia is a rare presentation of pneumonia seen in 1-2.5% cases. Lipoid pneumonia results from accumulation of lipid in alveoli and can either be exogenous or endogenous in nature based on the source of lipid. Mineral oil with long chain saturated hydrocarbons can induce inflammatory reaction in alveoli. These oils are phagocytosed by macrophages and coalesce to form a mass also known as paraffinoma. Successful identification and treatment of lipoid pneumonia can decrease morbidity, mortality, and unnecessary interventions for patients.

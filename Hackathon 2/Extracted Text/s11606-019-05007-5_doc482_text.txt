@@ -1,0 +1,65 @@
+# ABSTRACTS
+
+# LEARNING OBJECTIVE #1:
+
+Expand the differential diagnosis for epigastric pain.
+
+# LEARNING OBJECTIVE #2:
+
+Diagnose mesenteric panniculitis.
+
+# CASE:
+
+A 52 year old woman with history notable for gastroesophageal reflux disease, hypertension and cholecystectomy was admitted for severe epigastric pain and bloating that had been worsening over one week. Patient was seen at the Gastroenterology clinic in the past for persistent epigastric pain since two years and patient was treated with proton pump inhibitors (PPI) and sucralfate. Patient had persistent epigastric pain which was refractory to PPI treatment. Patient had not taken NSAIDs in the past. Ultrasonography of the abdomen did not reveal any abnormality. EGD done one year ago revealed gastritis. Computed tomography (CT) of the abdomen and pelvis during this hospital visit revealed mesenteric panniculitis and patient was started on NSAIDs. After receiving treatment with NSAIDs for two weeks, patient improved symptomatically.
+
+# IMPACT/DISCUSSION:
+
+Mesenteric panniculitis is a rare inflammatory condition characterized by acute and chronic non-specific inflammation of the adipose tissue of the intestinal mesentery. The disease affects Caucasian men more commonly, with a male-to-female ratio of 3:1. Our patient is unique in that she is a woman and she is of Hispanic origin. As of 2016, less than 300 cases have been reported. It may be associated with a variety of conditions such as prior abdominal surgery, malignancy, autoimmune disease, infections and gall stones. Our patient was found to have a history of cholecystectomy for cholelithiasis. The pathogenic mechanism is unknown, however non-specific immune response to a variety of stimuli has been suggested. Clinical presentation is non-specific, but abdominal pain is reported to be the most common symptom. Symptom duration may be twenty-four hours to two years. It presents mainly in the sixth to seventh decade. Clinical examination and laboratory test are usually not helpful in the diagnosis but help to exclude more common conditions. CT scan is the investigation of choice. CT scan may reveal soft tissue masses, prominent lymph nodes, inflammation and/or fibrosis of the mesentery. Treatment options are based on case reports as the condition is rare. NSAIDs, steroids, azathioprine, cyclophosphamide, colchicine, tamoxifen and radiotherapy have been used for treatment of Mesentric Panniculitis. Spontaneous resolution of the illness has also been reported. Surgery is indicated in those patients with compressive or obstructive symptoms. The disease can resolve and recur spontaneously over the years. The best treatment option is unknown.
+
+# CONCLUSION:
+
+Most cases of epigastric pain are treated with PPI and patients are advised to avoid NSAIDs. Conversely, NSAIDs are used for treatment of mesenteric panniculitis which also presents as epigastric pain.
+
+# METASTATIC LUNG CARCINOMA OF UNKNOWN PRIMARY ORIGIN: IS IMMUNOHISTOCHEMISTRY ENOUGH?
+
+Mario A. Scarpinato1; Daniel Roadman2; Pakhadi Buddhadev1. 1Medical College of Wisconsin, Milwaukee, WI; 2Medical College of Wisconsin, Milwaukee, WI. (Control ID #3185196)
+
+# LEARNING OBJECTIVE #1:
+
+Unusual presentation of lung cancer
+
+# LEARNING OBJECTIVE #2:
+
+Use of immunohistochemistry and genetic testing for lung cancer diagnosis
+
+# CASE:
+
+A 55-year-old male was admitted for acute respiratory distress. Past medical history included hypertension, hyperlipidemia, schizophrenia, and anxiety. Social history was negative for tobacco or alcohol use. Family history was significant for paternal lung cancer at age 50. A chest radiograph showed a white out of the right hemithorax; a chest tube collected 3,700 mL of serosanguinous fluid throughout the admission. The pathology was positive for malignancy: immunohistochemistry (IHC) was MOC-31(+), C22(-), C40(-), calretinin(-) and TTF-1(-). Metastatic workup included a CT chest which identified an anterior mediastinal mass at the right cardiophrenic angle partly invading the suprahepatic inferior vena cava as well as a 3.1 cm spiculated right upper lobe mass. MRI of the brain identified two small brain lesions at the gray-white junction in each frontal lobe. A PET/CT showed a hypermetabolic anterior mediastinal mass, along with multiple hypermetabolic nodules in the lung and pleural surface. A CT-guided biopsy of the anterior mediastinal mass was positive for metastatic carcinoma, favoring urothelial carcinoma after an IHC staining for GATA-3(+), CK7(+), CK20(+), p40(+), and focal nuclear positivity for TTF-1. A urologic oncologist worked up the suspected urothelial carcinoma with a CT Urogram and cystoscopy without evidence of a primary uroepithelial neoplasm in the genitourinary tract. The patient also had no risk factors for primary urothelial cancer and no urinary symptoms suggesting a urologic primary. The medical oncology team started gemcitabine and cisplatin based on the initial IHC pathology consistent with urothelial carcinoma. However, after just one day of gemcitabine and cisplatin, the patient's genetic testing revealed an EGFR exon 19 deletion, heavily favoring metastatic lung adenocarcinoma. He was switched to osimertinib and has tolerated it well thus far.
+
+# IMPACT/DISCUSSION:
+
+In diagnosis of metastatic carcinomas of unknown primary origins, the role of IHC helps determine the origin. In this patient, IHC staining of CK7(+)/CK20(+), GATA-3(+), and p40(+) suggested a urinary bladder origin. In this case, IHC was not enough. Without genomic testing, this patient would still be receiving the treatment for metastatic urothelial carcinoma, which can be used for lung adenocarcinoma but is not the best choice in lung cancers with an EGFR mutation. The definitive diagnosis allowed treatment with osimertinib, targeted chemotherapy, which has shown an additional 6-month life expectancy benefit compared to platinum-based chemotherapy.
+
+# CONCLUSION:
+
+After initial workup, discussion of risk factors and clinical gestalt should not be ignored. This patient had a family history of lung cancer, a positive clinical picture, and no risk factors for urothelial carcinoma. It took the combination of IHC, consultant services, and genetic testing to make the correct diagnosis.
+
+# METFORMIN ASSOCIATED LACTIC ACIDOSIS IN A PATIENT WITH CKD
+
+Hayley Crossman; Sarah J. Flynn; Dorothy Rimmelin; Shirin Hemmat; Meghna Motiani. University of California, San Francisco, San Francisco, CA. (Control ID #3186038)
+
+# LEARNING OBJECTIVE #1:
+
+Distinguish Type A from Type B lactic acidosis
+
+# LEARNING OBJECTIVE #2:
+
+Recognize management of Type B lactic acidosis due to metformin
+
+# CASE:
+
+An 85-year-old female with a history of HTN, DM, CKD, and CHF presented with abdominal pain, nausea, and vomiting. Her home medications included glipizide, metoprolol, spironolactone, furosemide, aspirin, and atorvastatin. Vital signs were T 33.3 C, HR 93, R 18, BP 63/40, SpO2 100% on 6L. Physical exam revealed a well appearing elderly woman in no apparent distress. Rest of exam was unremarkable. Labs were notable for WBC 22.8, Potassium 5.8, Bicarbonate 5, Anion Gap 45, BUN 130 and Creatinine 5.66 (from baseline 1.97). VBG showed pH 6.9 and pCO2 24, with lactate of 24. The patient was started on broad spectrum antibiotics and was volume resuscitated. She remained hypotensive and norepinephrine, vasopressin, and epinephrine were required for presumed septic shock. Despite this, the patient's lactate uptrended to 26 and she remained profoundly acidotic. A bicarbonate drip was started with no improvement in pH. CVVH was then initiated. Fifteen hours following the initiation of CRRT, the lactate normalized. Vasopressor requirements resolved and CRRT was discontinued. The patient's renal function continued to improve over the ensuing days.
+
+# IMPACT/DISCUSSION:
+
+Lactate is generated from glucose metabolism via the glycolytic pathway, and lactic acidosis occurs when lactate production exceeds clearance. Most cases of lactic acidosis are due to marked tissue hypoperfusion and subsequent impaired tissue oxygenation (Type A). This can be seen in cases of hypovolemia, heart failure, and sepsis. By contrast, Type B lactic acidosis is characterized by toxin-induced.

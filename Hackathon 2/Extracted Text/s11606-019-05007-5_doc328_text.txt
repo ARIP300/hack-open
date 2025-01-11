@@ -1,0 +1,69 @@
+# ABSTRACTS
+
+# Drug Reaction Inducing DRESS Syndrome
+
+anaphylaxis, angioedema and to skin rashes. Yet, we identified no reports of losartan inducing overt DRESS. In our patient, once losartan was stopped and systemic corticosteroids were begun, clinical improvement ensued.
+
+# CONCLUSION:
+
+Drug reaction, including DRESS syndrome, may result in diffuse erythroderma, fever, eosinophilia and transaminitis. Cessation of the inciting medication and initiation of corticosteroids are the mainstays of therapy in DRESS.
+
+# A CASE OF MEDICATION-INDUCED HYPOGLYCEMIA IN AN ELDERLY PATIENT WITH POORLY CONTROLLED TYPE 2 DIABETES
+
+Katharine Lawrence; Saif Laljee; Diana Randlett. NYU School of Medicine, New York, NY. (Control ID #3184686)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize risks of hypoglycemia associated with sulfonylureas and thiazolidinediones
+
+# LEARNING OBJECTIVE #2:
+
+Apply evidence-based guidelines for appropriate management of diabetes in elderly patients
+
+# CASE:
+
+A 72 year-old Spanish-speaking man with poorly controlled type 2 diabetes, hypertension, and newly diagnosed prostate cancer was bought by ambulance with confusion and weakness. He was found to have a fingerstick glucose of 30 mg/dl. Additional workup was unremarkable and symptoms resolved with 50% dextrose. He was admitted for symptomatic hypoglycemia. The patient reported taking multiple oral hypoglycemic agents, including glipizide twice daily, pioglitazone, metformin, and sitagliptan. Four months prior, pioglitazone was tripled due to A1c 10.4%. He also revealed unintentional weight loss (possibly due to his cancer), and multiple home fingersticks in the 60s. Repeat A1c was 6.7%. The sulfonylurea and pioglitazone were discontinued. The patient was educated on his medications, glucose targets, and symptoms of hypoglycemia. He was discharged with advice to follow with his primary physician.
+
+# IMPACT/DISCUSSION:
+
+Nearly 25% of patients over age 65 have diabetes. Elderly diabetics are uniquely vulnerable, with higher risks of symptomatic hypoglycemia, increased hospitalizations, and higher overall associated morbidity and mortality. Polypharmacy, low health literacy, and language barriers contribute to their complex medical management. Recent studies have shown that tighter A1c control (<7.0%) is associated with additional harms in geriatric patients, including a higher mortality rate. As a result, medical organizations have revised their glycemic control guidelines towards more personalized, patient-centered management. These guidelines include differential A1c goals (from 7.0-9.0%) based on overall health, comorbidities, and life expectancy. Guidelines for geriatric diabetes care were updated in 2018 to include recommendations that overtreatment of diabetes should be avoided, medication classes at low risk of hypoglycemia are preferred, and complex medication regimens should be simplified to reduce hypoglycemia. Our patient illustrates the importance of each of these guidelines. With his age and comorbidities, including newly diagnosed cancer, he had indications for looser A1c goals. He was also at high-risk for medication-related adverse events, given his polypharmacy and limited health literacy. Metformin and sitagliptin would have been favored agents. Education on symptoms of hypoglycemia, as well as interpreting fingersticks, was crucial to prevent rehospitalization and improve health literacy.
+
+# CONCLUSION:
+
+Geriatric patients with diabetes represent a unique and vulnerable population. Guidelines for diabetes management in these patients are evolving, with increased emphasis on personalized, patient-centered management, including looser A1c goals for those with comorbidities or shorter life expectancy. Providers are encouraged to simplify medications and avoid polypharmacy to improve outcomes and save lives.
+
+# A CASE OF METASTATIC ACRAL LENTIGINOUS MELANOMA MASQUERADING AS HEMORRHAGIC CVA
+
+Farukh Ikram; Leslie Cler; Haseeb Ikram; Syeda A. Raza. Methodist Dallas Medical Center, Plano, TX. (Control ID #3185439)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize malignancy as a potential cause of intra-parenchymal hemorrhage
+
+# CASE:
+
+A 75 yo man with a history of hypertension presented with generalized weakness along with a severe, unremitting headache. The patient also reported a growth on his foot of unknown chronicity as well as back pain and urinary retention. The physical exam was significant for left-sided neglect and a large fungating mass on the plantar aspect of his left foot measuring approximately 5x5cm. The mass had patchy areas of necrosis and was visibly bleeding. A stat CT head demonstrated a 4.6cm x 4.4cm x 3cm frontoparietal hematoma. He was taken to the operating room by neurosurgery for evacuation of the hematoma and was found to have a mixed density intracerebral hemorrhage. Pathology of the solid component of the hemorrhage, along with biopsies of the foot mass, was sent for laboratory analysis. Histopathology was consistent with acral lentiginous melanoma. Tumor markers were positive for BRAF mutation. An intrathecal melanoma at T11-T12 of his spinal cord was identified via MRI for which he underwent laminectomy. Unfortunately, the patient's health continued to decline and he eventually elected for hospice.
+
+# IMPACT/DISCUSSION:
+
+This is a case of acral lentiginous melanoma (ALM) presenting as hemorrhagic CVA. ALM very rarely metastasizes to the brain making this a unique form of presentation for the disease. Furthermore, the sheer size of the mass - nearly golf-ball sized - is remarkable. Most lesions are much smaller, especially in respect to thickness. If the melanoma were not as prominent and the hematoma had been medically managed, the diagnosis could have been missed as there was no radiographic evidence for malignancy. This underscores the importance of including malignancy on the differential when a patient presents with intra-parenchymal hemorrhage. Patients should always be asked whether they have received age-appropriate cancer screening or have noticed any concerning skin growths or changes.
+
+# CONCLUSION:
+
+There are four subtypes of invasive cutaneous melanoma: 1) superficial spreading 2) lentigo maligna 3) nodular and 4) acral lentiginous. Superficial spreading melanoma accounts for approximately 70% of melanomas. Acral lentiginous melanoma (ALM) is the rarest subtype and accounts for 5% of melanomas. Although rare, it is the most common form of melanoma in darker skinned individuals and is typically found on the palm, soles, and feet. Definitive diagnosis is through histopathology. Testing should always be performed for V600 BRAF mutation. If results are positive, then the patient is eligible for immunotherapy and/or targeted therapy. Unfortunately, patients have an overall poor prognosis when presenting with advanced melanoma and CNS melanoma worsens prognosis even further. Stage IV melanoma has a median survival of 6 to 9 months and 5-year survival is estimated to be 10-20%.
+
+# A CASE OF MYCOSIS FUNGOIDES BULLOSA MIMICKING STEVENS-JOHNSON SYNDROME
+
+Sophia Zhang1; Hilary C. Strollo1; Sarah B. Merriam2. 1University of Pittsburgh, Pittsburgh, PA; 2University of Pittsburgh Medical Center, Pittsburgh, PA. (Control ID #3185699)
+
+# LEARNING OBJECTIVE #1:
+
+Recognize Symptoms of Mycosis Fungoides Bullosa
+
+# LEARNING OBJECTIVE #2:
+
+Differentiating MFB from other acute vesiculobullous eruptions
+
+# CASE:
+
+A 74-year old veteran with a past medical history of gout was admitted for culture-negative septic arthritis and treated with IV vancomycin. On hospital day 3, he developed acute, diffuse blistering and desquamation of the trunk in the setting of recent allopurinol use. Review of symptoms was significant for a one-month history of bilateral palmar desquamation with pruritis and fatigue. He denied other new medications (i.e. NSAIDs, anti-convulsants, antibiotics aside from vancomycin), drug allergies, and a history.

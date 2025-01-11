@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# METHODS:
+
+Multivariable logistic regressions of a cross-sectional survey of practicing U.S. physicians (n=176) including medical and surgical specialties identified from the American Medical Association (AMA) Physician Masterfile. Primary care physicians were oversampled, and anesthesiologists and radiologists with limited direct patient care were excluded. Surveys from physicians were collected February-July 2018. The main outcome measure was shared decision-making, as defined based on a response option in a clinical vignette. Independent variables included: a) physician personal/moral responsibility to address health disparities and b) the population health management (PHM) resources of the clinical practice (e.g. types of providers, information technology, and patient support tools). Regression analyses were adjusted for physician demographics (e.g. race/ethnicity, gender, age, political affiliation), physician specialty, and clinical practice characteristics which included practice size and practice type (e.g. group/staff model HMO or hospital-based practice). All analyses determined statistical significance based on two-tailed p-values of <0.05.
+
+# RESULTS:
+
+Physicians' reporting a sense of personal responsibility to address health disparities had a statistically significant association with expressing intentions to engage in SDM behaviors. Overall, physicians' reporting a sense of personal responsibility to address health disparities were more likely than physicians lacking that sense of responsibility to report SDM intentions (OR = 3.10, 95% CI: 1.40-6.84, p<0.01). PHM resources within a practice were not associated with SDM intentions.
+
+# CONCLUSIONS:
+
+A physician's individual sense of responsibility is a strong predictor of provider intent to engage patients in shared decision-making. Clinical environments with an infrastructure including PHM resources alone may not enhance physicians' equal use of SDM across all types of patients. Interventions focused on expanding PHM resources in clinical practice or implementing broader health system changes to address health disparities should identify clinicians with high ratings of internal motivation (i.e. moral compass) as champion physician leaders to help ensure equitable practices, such as SDM, across patient populations.
+
+# PROVIDER "HOTSPOTTERS:" INDIVIDUAL RESIDENTS DEMONSTRATE DIFFERENT PATTERNS OF TEST UTILIZATION ACROSS 3 STANDARDIZED CASES
+
+Eli Cahan; Kathleen Hanley2; Barbara Porter2; Andrew B. Wallach1; Lisa2 Altshuler2; Colleen C. Gillespie2; Sondra Zabar2. 1Bellevue Hospital, New York, NY; 2NYU School of Medicine, New York, NY. (Control ID #3185368)
+
+# BACKGROUND:
+
+Inter-provider variability is a major source of low-value care. The dissemination of clinical practice guidelines (CPGs) has targeted this variability, yet 44% of physicians are non-adherent to CPG. This may be due to factors including exceptionalism and incentive misalignment that present a conflict between comprehensiveness and prudence in work-up. A subset of super-utilizers are notable outliers: fewer than 0.5% of physicians account for 10% of healthcare costs. Super-utilizers order labs, request consults, order imaging, and prescribe medications at rates 30%, 140%, 14%, and 25% higher than the general population. We sought to quantify provider-specific low-value test ordering behaviors across three cases.
+
+# METHODS:
+
+Unannounced standardized patients (USPs) were trained for standardized simulation of three clinical scenarios: a "Well" visit, a chief complaint of "Fatigue," and a diagnosis of "Asthma." USPs were introduced into medicine residents' clinics in a large urban, safety-net hospital. Diagnostic orders were extracted via retrospective chart review. Scenario-specific appropriateness of diagnostic testing was determined by referencing United States Preventative Services Task Force (USPSTF) and specialty society CPGs. "Excessive" tests were those not explicitly indicated for a given scenario in either USPSTF or society CPGs (versus "indicated" tests). "Discretionary" tests were those conditionally indicated, pending patient-specific factors (such as hemoglobin A1C, pending BMI).
+
+# RESULTS:
+
+One or more excessive tests were ordered in 44%, 22%, and 17% of Well (n=124), Fatigue (n=148), and Asthma (n=148) encounters respectively. Percent of orders that were excessive were 18%, 8%, and 10%, respectively. On average, 1.3 (+/- 1.7) excessive orders were made. Within each case, rates of excessive ordering were positively correlated with rates of indicated and discretionary ordering, and negatively correlated with rates of omitting indicated tests. For example, in Fatigue, the correlation between excessive and indicated orders was 0.38, between excessive and discretionary orders rates was 0.59, and between excessive and omitted-indicated tests was -0.25 (all p<0.05). A similar, statistically-significant pattern was found for the other two cases. 10 (21%) and 4 (8%) of 48 residents completing all scenarios demonstrated excessive ordering at rates at least 1 and 2 standard deviations above the mean, respectively.
+
+# CONCLUSIONS:
+
+Introducing USPs representing clinical scenarios revealed marked inter-provider variability. Positive associations between rates of excessive, discretionary and indicated ordering suggest tendencies for comprehensiveness over prudence. Over one-fifth of residents completing all 3 cases were high-utilizers, and nearly one in ten were super-utilizers. Awareness of provider-level ordering tendencies can guide education and interventions supporting appropriate diagnostic use.
+
+# PROVIDER AND PATIENT EXPERIENCES DE-IMPLEMENTING INHALED CORTICOSTEROIDS
+
+Toral J. Parikh6, 1; Krysttel Stryczek2; Chris Gillespie3; George Sayre6, 1; Laura Feemster6, 1; Edmunds M. Udris6; Barbara Majerczyk6; Seppo Rinne4, 7; Renda S. Wiener5, 7; Christian D. Helfrich6, 1; David Au6, 1. 1University of Washington, Seattle, WA; 2VA Northeast Ohio Healthcare System, Cleveland, OH; 3Dept. of Veterans Affairs, Bedford, MA; 4Edith Nourse Rogers Memorial VA, Bedford, MA; 5ENRM VA Hospital, Bedford, MA; 6VA Puget Sound Healthcare System, Seattle, WA; 7Boston University, Boston, MA. (Control ID #3180241)
+
+# BACKGROUND:
+
+De-implementing medications may present challenges for providers and patients. Little research has assessed specific instances when a medication is discontinued. We sought to understand the experiences of primary care providers (PCP) and patients when de-implementing inhaled corticosteroids (ICS) in patients with mild-to-moderate COPD, in whom ICS are not recommended.
+
+# METHODS:
+
+We conducted a mixed-methods analysis for a multi-site, provider-randomized quality improvement project testing a proactive pre-visit e-consultation from a pulmonologist recommending stopping the ICS if appropriate. Control and intervention PCPs were interviewed pre-intervention, and intervention PCPs were interviewed post-intervention. Patient interviews were held within 3 months after the clinic visit. We conducted inductive and deductive thematic analysis of the qualitative data. All participating PCPs (n=137 at 13 VHA primary care clinics) received a post-intervention survey. Forty-eight PCPs returned surveys (24 intervention and 24 control, response rate: 35%). We completed 14 pre-intervention interviews; 6 post-intervention interviews; and 6 patient interviews. Post-intervention interviews are ongoing for PCPs and patients.
+
+# RESULTS:
+
+In pre-intervention interviews, PCPs were reluctant to discontinue an ICS if the patient perceived a benefit: "Some of my patients have wondered if they truly need to stop something that seems to be working for them." PCPs also had misgivings about making a change when the ICS wasn't causing an acute problem, "deep down there's a little hesitation that if someone is doing well, why rock the boat?" In post-intervention interviews, PCPs reported patients were receptive to the medication change, especially in the context of potential harm: "If they don't need the medication, there's not much point in prescribing something that's only going to do them harm…most of my patients were very receptive to that." One PCP reported patient reluctance: "they feel like something is working very well so they don't want to change it, even though they may not have the exact indication for it." Patients often reported deferring to their PCPs: "I just do what the doctor says so they don't yell at me" or "whatever the doctors think, because they have more schooling than I've got." However, one patient described ICS as "a security blanket . . . just to have it here in case." In post-intervention surveys, 54% of PCPs reported having proposed discontinuing or reducing an ICS prescription for a patient in the past 6 months.

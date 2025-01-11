@@ -1,0 +1,53 @@
+# JGIM
+
+# ABSTRACTS
+
+# S783
+
+# A NOVEL UNIVERSITY-WIDE PATIENT-CENTERED INTER-PROFESSIONAL 1ST YEAR CURRICULUM
+
+Christopher Bruti1; Jan Odiaga2; Joanne M. Miller2; Gabriella Cs-Szabo2; Mary Jo Guglielmo2; Steven Taylor2; Theresa Gierlowski2. 1Rush University Medical Center, Chicago, IL; 2Rush University, Chicago, IL. (Control ID #3181212)
+
+# NEEDS AND OBJECTIVES:
+
+Highly effective patient-centered interprofessional health care teams are one of the best ways to meet the IHI's proposed quadruple aim of healthcare (improved care, population health, cost effectiveness, and joy of work). Rush University created a novel 1st year University-wide Interprofessional Patient-Centered (IPPC) curriculum to give students the foundation needed to lead and succeed in this environment.
+
+# SETTING AND PARTICIPANTS:
+
+Rush inaugurated the IPPC curriculum in the 2016-17 academic year with 376 students from 11 degree programs. Based on feedback from students and faculty, the course was redesigned and expanded in 2017-18 to include 698 students from 18 different academic programs including another university. The course involves 6 live team-based experiential workshops with online pre-course work over an academic year. Students stay in the same interprofessional team with at least 4 different professionals. The course is pass/fail with the expectation of spending approximately 20 hours of work over the year.
+
+# DESCRIPTION:
+
+The course objectives are for students to acquire the 4 Interprofessional Education Collaborative (IPEC) competencies (roles/responsibilities, interprofessional-communication, teams/teamwork, values/ethics) utilizing a patient-centered approach. Highlights of the workshops include the Community Health Mentor (CHM) where teams work with a community member with a chronic disease. They learn from their CHM about living with a chronic disease, work with them to create a health care goal, and learn about their community. They are tasked with following the CHM longitudinally and creating a community advocacy proposal to improve the CHM's community's health outcomes. Team skills are evaluated at the end of the course through a Team Objective Structured Clinical Exam (TOSCE), where the student teams work with and counsel a standardized patient about a health problem.
+
+# EVALUATION:
+
+Quantitative and qualitative data were obtained following each workshop. Students developed competency in all four IPEC domains. They valued the interprofessional team approach to their health mentor, assessing health situations and providing whole-person care.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+Implementation of an IPE curriculum spanning 2 universities, 5 colleges, 18 programs, and 698 students was full of challenges and lessons learned. Most important to the success of the curriculum was building an interprofessional leadership team. This team continued to meet weekly for the past 4 years to build support, design and iterate the curriculum, and to resolve logistical issues. The first version of the curriculum could not maintain team consistency due to scheduling conflicts and thus relied on online team-based modules, which were poorly received and ineffective. This was overcome by implementation of a university common calendar with Wednesday afternoons reserved for IPE. Since IPE successfully aligned with the
+
+# A PILOT CLUSTER RANDOMIZED, CONTROLLED TRIAL OF A CLERKSHIP-BASED VISUAL ARTS CURRICULUM TO COMBAT BIAS AND PROMOTE WELL-BEING
+
+Stephanie J. Hoffman1; Garth W. Strohbehn2; Molly Tokaz1; Ruth Slavin3, 4; Suzanne Winter1; Martha Quinn1; David Ratz5; Sanjay Saint6, 2; Vineet Chopra1, 2; Nathan Houchens2, 1; Joel Howell7, 4. 1 University of Michigan, Ann Arbor, MI; 2 Veterans Affairs Medical Center, Ann Arbor, MI; 3 University of Michigan Museum of Art, Ann Arbor, MI; 4 Medical Arts Program, Ann Arbor, MI; 5 Veterans Affairs, Ann Arbor, MI; 6 University of Michigan Health System, Ann Arbor, MI; 7 U Michigan, Ann Arbor, MI. (Control ID #3138376)
+
+# NEEDS AND OBJECTIVES:
+
+Retrospective analyses have shown associations between arts exposure and protective personality traits (e.g., empathy, tolerance of ambiguity), suggesting that facilitating arts exposure may help learners gain these traits. Unfortunately, most visual arts-based curricular interventions lack rigorous assessment and are rarely performed in the clinical setting. We conducted a pilot randomized, controlled trial to assess impacts of incorporating a visual arts curriculum into a clinical clerkship.
+
+# SETTING AND PARTICIPANTS:
+
+Study participants were University of Michigan (UM) medical students on VA Ann Arbor Healthcare System (VA) inpatient internal medicine teams. Museum arts (MA) interventions occurred at the UM Museum of Art whereas hospital arts (HA) interventions and case-based conferences (CBC) were at the VA.
+
+# DESCRIPTION:
+
+After participants provided written informed consent and completed a baseline survey, we randomized teams to three weekly one-hour sessions: MA (n = 14), HA (n = 14), or CBC (n = 15). Developed by an expert arts educator, MA and HA used active, guided discussion of artwork to explore themes of compassion, suffering, and ambiguity. The HA curriculum was identical to MA except for the use of digital representations of artwork and facilitation by non-experts. CBC served as contact time and environmental control arm.
+
+# EVALUATION:
+
+Psychometric surveys were repeated after curriculum completion, using validated scales of empathy, mindfulness, tolerance of ambiguity, and grit. We also compared NBME shelf exam performance. No statistically significant results were identified within quantitative outcome measures, including shelf exam performance between the arms. Focus groups with formal qualitative analysis, however, suggested that the arts curriculum provided a fulfilling escape from clinical medicine, increased cognizance of implicit bias, and promoted differentiation between observation and interpretation.
+
+# DISCUSSION / REFLECTION / LESSONS LEARNED:
+
+In our pilot study, students were willing to participate in art-based interventions while on clinical duties. No statistically significant quantitative results emerged, but absence of difference in NBME shelf exam scores was reassuring. Focus group discussions identified benefits of the arts intervention not otherwise captured by quantitative measures. Despite being shelf exam neutral, students felt stress while away from clinical duties. Study strengths include randomization of an unbiased study sample and use of outcome.

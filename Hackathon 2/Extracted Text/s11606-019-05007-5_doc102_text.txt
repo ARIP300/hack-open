@@ -1,0 +1,49 @@
+# ABSTRACTS
+
+# 1
+
+Northwestern University Feinberg School of Medicine, Chicago, IL; Northwestern University, Chicago, IL; Purdue Healthcare Advisors, West Lafayette, IN; AllianceChicago, Chicago, IL; American Medical Association, Chicago, IL; Telligen, Oak Brook, IL; MetaStar, Madison, WI. (Control ID #3184154)
+
+# BACKGROUND:
+
+Healthy Hearts in the Heartland (H3) is a quality improvement (QI) program focused on preventive cardiology in primary care practices in the Midwest using practice facilitation. Clinical targets included the "ABCS" quality measures: (A) Aspirin/antiplatelet therapy for ischemic vascular disease, (B) Controlling High Blood Pressure, (C) Statin Therapy for the Prevention and Treatment of Cardiovascular Disease, and (S) Tobacco Use: Screening and Cessation Intervention.
+
+# METHODS:
+
+Practices from Illinois, Indiana, and Wisconsin were randomized to 12 months of facilitator support aimed at implementing either point-of-care (POC) QI strategies alone or POC plus population management (POC+PM) strategies. Randomization was done in four waves, with a modified constrained process used to ensure within-wave balance. Practices in the POC arm received coaching and encouragement to select improvement strategies to address care at office visits. Practices in the POC+PM arm received coaching to use POC approaches and population health management strategies. Practice surveys included items about EHR functionality, perceived ability to address barriers to QI, Change Process Capability Questionnaire (CPCQ) summary score for preventive cardiology improvement, and each practice's patient population. Quality measures were collected in three ways: directly from EHRs using Physician Quality Reporting System (PQRS) measures, using popHealth (an open-source quality measure database and reporting engine using data exported from the practices' EHRs), or manual chart review (when PQRS and popHealth not possible). Primary analyses compared the performance on each ABCS measure at baseline and 12 months among all practices using a paired t-test. We then compared the mean values of the ABCS measures at 12 months across study arms controlling for baseline values.
+
+# RESULTS:
+
+2281 practices were assessed; 583 were ineligible; 1472 declined, would not schedule a recruitment visit or were unreachable; 226 practices were enrolled and randomized. Study arms were balanced across measured baseline practice characteristic. 179 practices contributed follow-up 12-month data. Overall, performance on ABCS measures was greater at 12 months compared to baseline: (A) 4% (95% CI, 2 to 6), (B) 4% (2 to 6), (C) 5% (3 to 7), (S) 5% (2 to 7), P<0.001 for each. Over 12 months, the adjusted difference-in-differences for the POC+PM arm versus POC was: (A) 2% (-2 to 5), (B) -1% (-4 to 3), (C) 3% (0 to 7), and (S) 2% (-2 to 6); p >0.05 for all. CPCQ improved slightly overall, mean change 0.30 (0.09 to 0.51) but did not differ across study arms.
+
+# CONCLUSIONS:
+
+Among participating practices, practice facilitator-led QI was associated with modest improvements in preventive cardiology measures, but we did not find convincing evidence that adding the option to implement population management approaches was superior to point-of-care strategies alone.
+
+# 2
+
+R. R. Wu2, 1; Rachel A. Myers2; Adam Buchanan3; David Dimmock4; Kimberly G. Fulda5; Susanne Haga2; Irina V. Haller6; Melissa L. Harry6; Catherine McCarty7; Joan Neuner8; Tejinder K. Rakhra-Burris2; Nina Sperber9, 2; Corrine Voils10, 11; Geoffrey S. Ginsburg12; Lori A. Orlando13, 2. 1Veteran Health Affairs, Durham, NC; 2Duke University, Raleigh, NC; 3Geisinger Health, Danville, PA; 4Rady's Childrens Institute for Genomic Medicine, San Diego, CA; 5University of North Texas Health Science Center, Fort Worth, TX; 6Essentia Health, Duluth, MN; 7University of Minnesota Medical School, Duluth campus, Duluth, MN; 8Medical College of Wisconsin, Milwaukee, WI; 9Duke University, Durham, NC; 10University of Wisconsin School of Medicine and Public Health, Madison, WI; 11William S. Middleton Memorial Veterans Hospital, Madison, WI; 12Duke Center for Applied Genomics & Precision Medicine, Durham, NC; 13Duke, Durham, NC. (Control ID #3163018)
+
+# BACKGROUND:
+
+Patient-facing family health history (FHH) based risk assessment platforms have been shown to increase identification of at-risk individuals within the general population and alter practice patterns to address at-risk individuals' needs. We sought to ascertain differences in utilization of one such tool, MeTree, across a diverse patient population. Given patients' range of experiences and comfort with IT-based health applications, knowledge of and sharing of health information between family members, health information-seeking, cultural practices, and other patient demographics, we hypothesized that differences in uptake might exist. In this paper, we report our findings regarding 1) the degree to which uptake of the intervention varied by patient demographics and 2) the impact of socio-demographics on variations in utility of the platform as measured by the quality of the data collected.
+
+# METHODS:
+
+This was a type III hybrid implementation-effectiveness trial in four diverse healthcare systems across the United States. The trial was administered almost exclusively online, including consent, baseline survey, and risk assessment completion. Subjects were any adult (age 18) scheduled for a routine primary care appointment at a participating clinic. Measures included participant demographics, personal and family health history, health literacy and information seeking. We used multi-variate logistic regression to model the effect of sociodemographic and other factors on study progression. Quality of FHH data entered as defined as relatives: 1) with age of onset reported on relevant conditions; 2) if deceased, with cause of death and 3) age of death reported and 4) percentage of relatives with medical history marked as unknown was analyzed using grouped logistic fixed effect regression.
+
+# RESULTS:
+
+2,514 participants consented, mean age 57 and 10.4% minority. Multi-variate modeling showed progression through study stages was more likely for younger (p-value=0.005), more educated (p-value=0.004), non-Asian (p-value=0.009), and female (p-value=0.005) subjects. Those with lower health literacy or information-seeking confidence were less likely to complete the study (p-value< 0.001 and 0.03 respectively). Most significant drop-out occurred during the risk assessment completion phase. Overall, quality of FHH data entered was high: relatives' condition's age of onset reported 87.9%, relative's cause of death 85.6% and age of death 93.8%, and relative's medical history marked as unknown 19.8% of the time.
+
+# CONCLUSIONS:
+
+A demographically diverse population was able to complete an IT-based risk assessment but there were differences in attrition by sociodemographic factors particularly related to age and education level. More attention should be given to ensure end-user functionality of health IT and leverage electronic medical records to lessen patient burden.
+
+# 3
+
+Mirah J. Stuber1; Elisavet Moutzouri1, 2; Martin Feller1, 2; Cinzia Del Giovane1; Manuel R. Blum2, 3; Nancy W. Glynn4; Douglas Bauer; Jacobijn5 Gussekloo6, 6; Vera J. McCarthy7; Patricia M. Kearney7; Drahomir Aujesky2; Rudi G. Westendorp8; David J. Stott9; Nicolas Rodondi1, 2. 1University of Bern, Bern, Switzerland; 2Inselspital, Bern University Hospital, Bern, Switzerland; 3Stanford University School of Medicine, Stanford, CA; 4University of Pittsburgh, Pittsburgh, PA; 5University of California, San Francisco, CA; 6Leiden University Center, Leiden, Netherlands; 7University College Cork, Cork, Ireland; 8University of Copenhagen, Copenhagen, Denmark; 9University of Glasgow, Glasgow, United Kingdom. (Control ID #3185049)
+
+# BACKGROUND:
+
+Global fatigue is one of the most commonly reported symptoms in subclinical hypothyroidism (SHypo) and one of the main reasons for prescribing levothyroxine. The recent TRUST trial done by our group indicated no benefit on global fatigue from levothyroxine replacement in SHypo. Given that the treatment of SHypo remains controversial, we analyzed the effect of levothyroxine replacement in patients with SHypo.

@@ -1,0 +1,37 @@
+# ABSTRACTS JGIM
+
+# GENERALIZED LINEAR MODELS WITH A LOG-LINK FUNCTION AND GAMMA DISTRIBUTION FOR SPENDING
+
+RESULTS: From October 2013-January 2016, 185 hospitals joined the CHF bundle, 137 joined COPD, 145 joined pneumonia, and 97 joined AMI (238 total). 223 BPCI hospitals (293,899 baseline episodes, 92,801 treatment) were matched to 1,074 control hospitals (433,082 baseline episodes, 392,537 treatment). Mean follow-up per hospital-condition was 22 months. Baseline age and sex were similar across groups and the Elixhauser risk index was 20.3 BPCI vs. 19.3 controls (p<0.001). Total baseline spending was $20,667 BPCI vs. $19,799 controls (p<0.001). The parallel trends assumption was met. In adjusted analyses, BPCI participation was associated with a significant risk-adjusted total spending increase of 0.9% (95% CI 0.4%-1.4%, p-value<0.001) and an increase in physician fees of 1.2% (95% CI 0.6%-1.8%, p-value<0.001). There were non-significant increases of 1.6% (95% CI -0.6%-3.9%, p-value=0.16) for SNF and 1.5% (95% CI -0.6%-3.7%, p-value=0.17) for readmission spending. Participation was associated with significant increases of 0.3% (95% CI 0.01%-0.62%, p-value=0.04) in readmission rate and 0.4% (95% CI 0.08%-0.62%, p-value=0.01) in SNF discharges. Mortality was unchanged.
+
+CONCLUSIONS: Contrary to program expectations, BPCI participation was associated with an increase in total spending, likely due to increases in physician fees. Readmissions increased. Bundled payment programs for medical conditions may not achieve the intended effects and may even cause harm. While further work is needed, these findings may caution policymakers given the new BPCI-Advanced program.
+
+# ASSOCIATION BETWEEN THE USE OF CLINICAL DECISION SUPPORT AND PERFORMANCE ON QUALITY MEASURES BY PRIMARY CARE PROVIDERS: EVIDENCE FROM THE MEANINGFUL USE AND PHYSICIAN QUALITY REPORTING SYSTEM PROGRAMS
+
+Jorge A. Rodriguez1; Jonathan E. Fried2; Stuart R. Lipsitz3, 2; Adam B. Landman3; Lipika Samal3, 2. 1Lawrence General Hospital, Lawrence, MA; 2Harvard Medical School, Boston, MA; 3Brigham and Women's Hospital, Boston, MA. (Control ID #3185517)
+
+BACKGROUND: Federal quality reporting programs stopped measuring the use of clinical decision support (CDS) after 2016. We sought to determine whether successful implementation of at least five CDS interventions, as reported to the Meaningful Use (MU) program, was correlated with higher quality of care, as measured by the Physician Quality Reporting System (PQRS).
+
+METHODS: We obtained provider-level performance rates on eight process measures reported to PQRS in 2016 by 24,686 primary care providers (PCPs) from the Physician Compare Individual Eligible Professional (EP) Public Reporting data file. We used the MU Stage 2 EP Public Use File to assess their CDS use (defined as using 5 or more CDS; providers opted in). We then used logistic regression clustered by EP to assess the relationship between CDS use and performance on quality measures.
+
+RESULTS: Only 31.7% of PCPs reported using CDS to fulfill MU requirements and 0.85% explicitly reported not using it. 67.45% did not report on this measure and were excluded. There was a significant positive association between CDS use and influenza vaccination. There was no statistically significant association between CDS use and rates of advance care plan use, avoidance of high-risk medications in the elderly, pneumococcal vaccination, documentation of current medications, tobacco cessation counseling, osteoporosis screening, or colorectal cancer screening.
+
+CONCLUSIONS: Influenza vaccination rates were higher for providers that used CDS than for those who did not. We did not find associations for the other measures. However, EPs were not required to report on CDS and very few providers explicitly reported a lack of use, which limited our sample size. EPs were not asked to report which type of CDS they had implemented. Elimination of CDS measures from pay for performance (P4P) programs such as the Promoting Interoperability Program may reduce incentives to invest in CDS for quality and safety. Further, our ability to draw meaningful conclusions are limited by the Centers for Medicare & Medicaid Services' (CMS) incomplete reporting of PQRS data. CMS should make complete, de-identified PQRS data available to identify ways to improve P4P programs.
+
+# ASSOCIATION OF ADHERENCE WITH CHRONIC OBSTRUCTIVE PULMONARY DISEASE AND COMORBID HYPERTENSION AND DIABETES MEDICATIONS
+
+Grace McInerney1; Rachel O'Conor3; Michael S. Wolf3; Juan Wisnivesky2; Alex Federman1. 1Icahn School of Medicine at Mount Sinai, New York, NY; 2Mount Sinai School of Medicine, New York, NY; 3Northwestern University, Chicago, IL. (Control ID #3174967)
+
+BACKGROUND: Non-adherence with chronic obstructive pulmonary disease (COPD) medications is common among older adults, but it is unknown whether COPD self-management behaviors are associated with adherence patterns to medications for comorbid conditions like hypertension or diabetes.
+
+METHODS: To determine the association of COPD medication adherence with adherence to medications for comorbid illnesses, we performed a cross-sectional analysis of data collected from a cohort of COPD patients with comorbid hypertension or diabetes. A sample of 282 adults ages 40 years and older with COPD were recruited from primary care practices in New York, NY, and Chicago, IL. Medication adherence was measured using the Medication Adherence Rating Scale (MARS), a validated 10-item self-reported measure designed to minimize social desirability bias. Each item is rated on a 5-point Likert scale, with higher scores indicating greater adherence. Participants with a MARS score of 4.5 or greater were classified as having good adherence. We calculated the Pearson correlations for MARS scores for COPD and hypertension, COPD and diabetes, and hypertension and diabetes.
+
+RESULTS: The mean age was 68 (SD 9), 59% were female, 38% were black and 17% were Hispanic; 95% were English language proficient. Overall, 98% of participants had comorbid hypertension and 35% diabetes; 33% of participants had both comorbid diabetes and hypertension. Adequate COPD medication adherence was reported by 53% of patients, 70% for hypertension medications, and 61% for diabetes medications. Medication adherence for COPD and hypertension medications (r=0.43, P<0.0001) and hypertension and diabetes medications (r=0.43, P=0.0001) were strongly correlated. However, adherence to COPD and diabetes medications (r=0.12, P=0.29) were not correlated.
+
+CONCLUSIONS: Associations of medication adherence behaviors varied across different comorbidities. Understanding the underlying basis for different patterns of adherence to medications in different therapeutic classes may provide insight into new ways of facilitating self-management of medications among patients with multimorbidity.
+
+# ASSOCIATION OF CHRONIC PAIN AND MYOCARDIAL INFARCTION
+
+Jigar J. Patel1; Talal S. Alzahrani2; Shaneke Weerakoon2; William Borden2. 1 George Washington University, Washington, DC; 2 The George Washington University, Washington, DC. (Control ID #3142581)
+
+BACKGROUND: Chronic pain affects many patients and is the primary reason for visits to primary care clinics and emergency departments. In previous studies, chronic pain has been linked to mortality and cardiovascular disease. This study further explores this.

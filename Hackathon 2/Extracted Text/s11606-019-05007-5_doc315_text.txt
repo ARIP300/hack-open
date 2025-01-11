@@ -1,0 +1,55 @@
+# ABSTRACTS JGIM
+
+# WITHIN AFRICAN-AMERICAN HETEROSEXUAL HIV-SERODISCORDANT COUPLES, AWARENESS OF PRE-EXPOSURE PROPHYLAXIS (PREP) AMONG HIV-POSITIVE PARTNERS PREDICTS PREP AWARENESS AMONG HIV-NEGATIVE PARTNERS
+
+Alicia Morehead-Gee1; Tamra B. Loeb2; Muyu Zhang2; Gail Wyatt2.
+
+1 National Clinician Scholars Program at UCLA, Los Angeles, CA; 2UCLA, Los Angeles, CA. (Control ID #3185748)
+
+# BACKGROUND:
+
+Although approximately 500,000 African-Americans qualify for pre-exposure prophylaxis (PrEP, a daily pill to prevent HIV infection) in the US, only 1% of African-Americans eligible for PrEP have received a prescription (CDC 2018), raising the issue of a possible lack of PrEP awareness among this population. This study examines whether sociodemographic factors, HIV-transmission-related behaviors, health systems experiences, and/or partner factors were associated with PrEP awareness among HIV-negative African-Americans in heterosexual HIV sero-discordant couples in South Los Angeles (LA).
+
+# METHODS:
+
+Cross-sectional baseline survey data was collected from 2013 to 2016 through "Eban II: Intervention for HIV Sero-Discordant Couples," an implementation study of a risk-reduction intervention for African-American heterosexual HIV sero-discordant couples. The primary outcome measure was PrEP awareness. Predictor variables included sociodemographic factors, HIV-transmission-related factors (including direct [condom use, multiple sex partners] and indirect [mental health disorders, history of trauma] factors), health systems experiences (including satisfaction with doctor and experiences of discrimination), and HIV-positive partner's PrEP awareness. Multiple logistic regression was used to create adjusted odds ratios (aOR) of PrEP awareness according to predictor variables.
+
+# RESULTS:
+
+Ninety-one (91) participants were enrolled in the study, including 46 (50.5%) HIV-negative participants. Among HIV-negative participants, 32 (69.6%) were male, average age was 51.9 years, 6 (13.3%) were employed, and 43 (93.5%) had health insurance. Eleven (24.4%) HIV-negative participants were aware of PrEP. In examining sero-discordant couples as a unit, 6 (14.0%) of 43 couples had shared PrEP awareness. In bivariate analyses, HIV-negative participants were more likely to be aware of PrEP if they felt that their doctor "understood their background and values" (p = 0.02) or if their HIV-positive partner was aware of PrEP (p = 0.0008). Factors related to sociodemographics, HIV transmission risk, and other health systems experiences had no significant association with PrEP awareness. Controlling for age, gender and presence of a regular doctor, HIV-negative participants had higher odds of PrEP awareness if their HIV-positive partner was aware of PrEP (aOR 48.8, 95% confidence interval [CI] 4.2 to 562.9).
+
+# CONCLUSIONS:
+
+Few HIV-negative African-Americans were aware of PrEP despite meeting criteria (HIV-serodiscordant relationship) to take PrEP. We found that HIV-positive partners' PrEP awareness significantly predicted HIV-negative participants' PrEP awareness, demonstrating the importance of PrEP education for people living with HIV in sero-discordant relationships. There was no association between PrEP awareness and factors related to sociodemographics or HIV transmission risk, which implicates a need to increase efforts to screen African-American patients for HIV risk and provide PrEP information to those at risk.
+
+# WORK REQUIREMENTS IN MEDICAID: RESULTS FROM THE FIRST YEAR OF ARKANSAS'S PROGRAM
+
+Benjamin D. Sommers1, 2; Anna Goldman1, 4; Robert Blendon1; E. John Orav2, 1; Arnold M. Epstein3, 2.
+
+1 Harvard School of Public Health, Brookline, MA; 2 Brigham & Women's Hospital, Boston, MA; 3 Harvard School of Public Health, Boston, MA; 4 Cambridge Health Alliance, Cambridge, MA. (Control ID #3185359)
+
+# BACKGROUND:
+
+Six states have received approval to implement work requirements in Medicaid, and nine others have proposed similar requirements. Arkansas became the first state to implement this policy in June 2018, requiring beneficiaries ages 30-49 to report at least 80 hours a month of employment or other "community engagement" activities to maintain their coverage. The state began disenrolling people not meeting the reporting requirement in October 2018. We conducted a novel telephone survey in late 2018 to assess the policy's early effects.
+
+# METHODS:
+
+We conducted a random-digit dialing telephone survey of low-income adults in four states - Arkansas, Kentucky (which also plans to implement work requirements, but implementation has been blocked by a federal judge), Louisiana, and Texas - from November 8 to December 30, 2018. We assessed employment, other qualifying community engagement activities (e.g., job training, community service, and childcare), health insurance, and several measures of health care access in all four states. We also explored knowledge of and experiences with the work requirements among Arkansans; for this reason, we oversampled respondents in this state (n=1501), particularly 30-49 year-olds subject to the requirements. We compared their responses to those from the other three states (n=1504), as well as historical data from a similar survey conducted in 2016 in these states (n=2951), to estimate changes in outcomes before and after work requirements, using a difference-in-differences design.
+
+# RESULTS:
+
+59% of 30-49 year-olds in Arkansas were aware of the new policy, with awareness lowest among those without a high school degree. Among those who were told by the state that they needed to report their employment status to maintain Medicaid, only 49% were doing so regularly. Medicaid coverage in Arkansas for 30-49 year-olds decreased (-15.1%, p=0.004) and uninsured rates increased (+6.7%, p=0.04) since 2016, compared to those not subject to the new requirements. There were no significant changes in access to primary care or affordability of care associated with the policy thus far. Meanwhile, the policy to date has not led to any significant change in employment, hours worked, or other community engagement activities. Notably, more than 95% of respondents were already spending at least 80 hours a month on required activities or appear to qualify for an exemption such as a disability.
+
+# CONCLUSIONS:
+
+The first six months of Arkansas's Medicaid work requirements led to significant coverage losses for low-income adults, without any detectable impact on employment or other community engagement behavior. Many adults subject to the requirements were not aware of them, and less than half were regularly reporting their activities to the state (putting them at risk for disenrollment), even though most respondents already met the policy's requirements. Future studies will be needed to explore this policy's longer-term impact.
+
+# WORRY ABOUT MEDICAL EXPENSES AND ITS ASSOCIATIONS WITH PATIENTS' QUALITY OF LIFE IN END-OF-LIFE CANCER CARE
+
+Lauren Kelly1; Holly G. Prigerson2; Paul K. Maciejewski2.
+
+1 New York Presbyterian - Weill Cornell Medical Center, New York, NY; 2 Weill Cornell Medical College, New York City, NY. (Control ID #3185602)
+
+# BACKGROUND:
+
+Burdensome medical costs disproportionately affect cancer patients compared to patients with other chronic illnesses. Cancer patients who are uninsured, a high proportion of whom are Black and Latino, face an even greater degree of financial hardship related to their
